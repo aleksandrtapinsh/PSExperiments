@@ -1,0 +1,69 @@
+# ============================================================
+# Pokemon Showdown RL Agent Configuration
+# ============================================================
+
+# --- Server ---
+server:
+  # WebSocket endpoint for the private Showdown server
+  websocket_url: "ws://sasha-tapinsh.online:8000/showdown/websocket"
+  # Auth endpoint — points to local server (--no-security: no registration required)
+  auth_url: "http://sasha-tapinsh.online:8000/~~showdown/action.php?"
+  # Battle format (gen9 Random Battle)
+  battle_format: "gen9randombattle"
+  # Player usernames (no passwords needed with --no-security)
+  agent1_username: "RL_Agent_1"
+  agent2_username: "RL_Agent_2"
+  # Internal second-player slots for each selfplay env
+  internal_opp_a_username: "InternalOpp_A"
+  internal_opp_b_username: "InternalOpp_B"
+  # Evaluation env accounts
+  eval1_username: "RL_Eval_1"
+  eval2_username: "RL_Eval_2"
+
+# --- Model Persistence ---
+model:
+  # Path to save / load the model checkpoint
+  save_path: "models/poke_ppo"
+  # Neural network layer sizes (policy and value share feature extractor)
+  # Separate pi (policy) and vf (value) heads
+  net_arch_pi: [256, 256, 128]
+  net_arch_vf: [256, 256, 128]
+  # Activation function: "tanh" | "relu" | "elu"
+  activation_fn: "tanh"
+
+# --- PPO Hyperparameters ---
+training:
+  total_timesteps: 3000000        # Total environment steps across all envs. Set to a larger number for longer training
+  n_envs_selfplay: 2              # Parallel envs for self-play (both sides of the battle)
+  learning_rate: 0.0003           # Adam LR
+  n_steps: 512                    # Steps per env before PPO update (rollout buffer size)
+  batch_size: 64                  # Mini-batch size for gradient update
+  n_epochs: 10                    # Gradient update epochs per rollout
+  gamma: 0.99                     # Discount factor
+  gae_lambda: 0.95                # GAE lambda for advantage estimation
+  clip_range: 0.2                 # PPO clipping parameter
+  ent_coef: 0.005                 # Entropy coefficient (exploration bonus)
+  vf_coef: 0.5                    # Value function loss coefficient
+  max_grad_norm: 0.5              # Gradient clipping norm
+  # Self-play opponent update: freeze a copy and update it every N steps
+  selfplay_opponent_update_freq: 40000
+
+# --- Reward Shaping ---
+rewards:
+  # Terminal rewards
+  victory_value: 25.0             # Reward for winning the battle
+  # Per-pokemon rewards (incremental during battle)
+  fainted_value: 4.0              # Reward per enemy fainted (penalty per ally fainted)
+  hp_value: 1.0                   # Reward for HP advantage (per-team-slot scale)
+  # Status conditions
+  status_value: 0.3               # Reward for inflicting (penalty for receiving) status
+
+# --- Logging ---
+logging:
+  log_dir: "logs"                 # TensorBoard log directory
+  checkpoint_freq: 50000          # Save checkpoint every N timesteps
+  eval_freq: 25000                # Evaluate against random agent every N timesteps
+  n_eval_episodes: 30             # Number of evaluation episodes
+  verbose: 1                      # SB3 verbosity (0=silent, 1=info, 2=debug)
+  # Log detailed battle stats every N battles
+  battle_log_freq: 10
