@@ -1,0 +1,254 @@
+|j|☆Mksdiybt
+|j|☆Quinciih
+|t:|1772744224
+|gametype|singles
+|player|p1|Mksdiybt|102|
+|player|p2|Quinciih|shadowtriad|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772744224
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Manaphy|Manaphy, L78|284/284
+|switch|p2a: Golem|Golem-Alola, L93, M|300/300
+|turn|1
+|
+|t:|1772744237
+|move|p1a: Manaphy|Surf|p2a: Golem
+|-supereffective|p2a: Golem
+|-damage|p2a: Golem|106/300
+|move|p2a: Golem|Double-Edge|p1a: Manaphy
+|-supereffective|p1a: Manaphy
+|-damage|p1a: Manaphy|0 fnt
+|faint|p1a: Manaphy
+|-damage|p2a: Golem|12/300|[from] Recoil
+|
+|upkeep
+|
+|t:|1772744248
+|switch|p1a: Indeedee|Indeedee-F, L90, F|272/272
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Indeedee
+|turn|2
+|
+|t:|1772744258
+|move|p1a: Indeedee|Psyshock|p2a: Golem
+|-damage|p2a: Golem|0 fnt
+|faint|p2a: Golem
+|-damage|p1a: Indeedee|245/272|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772744273
+|switch|p2a: Zacian|Zacian, L69|241/241
+|-ability|p2a: Zacian|Intrepid Sword|boost
+|-boost|p2a: Zacian|atk|1
+|turn|3
+|
+|t:|1772744291
+|move|p2a: Zacian|Psychic Fangs|p1a: Indeedee
+|-resisted|p1a: Indeedee
+|-damage|p1a: Indeedee|162/272
+|move|p1a: Indeedee|Psyshock|p2a: Zacian
+|-damage|p2a: Zacian|85/241
+|-damage|p1a: Indeedee|135/272|[from] item: Life Orb
+|
+|upkeep
+|turn|4
+|
+|t:|1772744299
+|move|p2a: Zacian|Psychic Fangs|p1a: Indeedee
+|-resisted|p1a: Indeedee
+|-damage|p1a: Indeedee|50/272
+|move|p1a: Indeedee|Psyshock|p2a: Zacian
+|-damage|p2a: Zacian|0 fnt
+|faint|p2a: Zacian
+|-damage|p1a: Indeedee|23/272|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772744308
+|switch|p2a: Clawitzer|Clawitzer, L87, M|265/265
+|turn|5
+|
+|t:|1772744314
+|move|p1a: Indeedee|Psyshock|p2a: Clawitzer
+|-damage|p2a: Clawitzer|117/265
+|-damage|p1a: Indeedee|0 fnt|[from] item: Life Orb
+|faint|p1a: Indeedee
+|move|p2a: Clawitzer|Dragon Pulse|p1: Indeedee|[notarget]
+|-fail|p2a: Clawitzer
+|
+|upkeep
+|
+|t:|1772744324
+|switch|p1a: Lucario|Lucario, L84, F|255/255
+|turn|6
+|
+|t:|1772744341
+|-terastallize|p1a: Lucario|Normal
+|move|p1a: Lucario|Extreme Speed|p2a: Clawitzer
+|-activate|p2a: Clawitzer|move: Psychic Terrain
+|move|p2a: Clawitzer|Dragon Pulse|p1a: Lucario
+|-damage|p1a: Lucario|62/255
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|7
+|
+|t:|1772744354
+|move|p1a: Lucario|Meteor Mash|p2a: Clawitzer
+|-resisted|p2a: Clawitzer
+|-damage|p2a: Clawitzer|57/265
+|-damage|p1a: Lucario|37/255|[from] item: Life Orb
+|move|p2a: Clawitzer|Dragon Pulse|p1a: Lucario
+|-damage|p1a: Lucario|0 fnt
+|faint|p1a: Lucario
+|
+|upkeep
+|
+|t:|1772744364
+|switch|p1a: Shiftry|Shiftry, L89, M|305/305
+|turn|8
+|
+|t:|1772744376
+|switch|p2a: Lilligant|Lilligant-Hisui, L79, F|240/240
+|move|p1a: Shiftry|Leaf Blade|p2a: Lilligant
+|-resisted|p2a: Lilligant
+|-damage|p2a: Lilligant|159/240
+|-damage|p1a: Shiftry|275/305|[from] item: Life Orb
+|
+|upkeep
+|turn|9
+|
+|t:|1772744391
+|move|p2a: Lilligant|Close Combat|p1a: Shiftry
+|-supereffective|p1a: Shiftry
+|-damage|p1a: Shiftry|0 fnt
+|-unboost|p2a: Lilligant|def|1
+|-unboost|p2a: Lilligant|spd|1
+|faint|p1a: Shiftry
+|-damage|p2a: Lilligant|135/240|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772744399
+|switch|p1a: Latias|Latias, L79, F|256/256
+|turn|10
+|
+|t:|1772744411
+|move|p1a: Latias|Draco Meteor|p2a: Lilligant
+|-damage|p2a: Lilligant|0 fnt
+|-unboost|p1a: Latias|spa|2
+|faint|p2a: Lilligant
+|
+|upkeep
+|
+|t:|1772744420
+|switch|p2a: Cetitan|Cetitan, L82, M|412/412
+|turn|11
+|
+|t:|1772744434
+|switch|p1a: Magearna|Magearna, L77|250/250
+|move|p2a: Cetitan|Ice Shard|p1a: Magearna
+|-resisted|p1a: Magearna
+|-damage|p1a: Magearna|231/250
+|
+|-heal|p1a: Magearna|246/250|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1772744453
+|move|p2a: Cetitan|Ice Spinner|p1a: Magearna
+|-resisted|p1a: Magearna
+|-damage|p1a: Magearna|203/250
+|move|p1a: Magearna|Fleur Cannon|p2a: Cetitan
+|-damage|p2a: Cetitan|217/412
+|-unboost|p1a: Magearna|spa|2
+|
+|-heal|p1a: Magearna|218/250|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1772744470
+|move|p2a: Cetitan|Earthquake|p1a: Magearna
+|-supereffective|p1a: Magearna
+|-damage|p1a: Magearna|78/250
+|move|p1a: Magearna|Spikes|p2a: Cetitan
+|-sidestart|p2: Quinciih|Spikes
+|
+|-heal|p1a: Magearna|93/250|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1772744484
+|move|p2a: Cetitan|Earthquake|p1a: Magearna
+|-supereffective|p1a: Magearna
+|-damage|p1a: Magearna|0 fnt
+|faint|p1a: Magearna
+|
+|upkeep
+|
+|t:|1772744489
+|switch|p1a: Latias|Latias, L79, F|256/256
+|turn|15
+|
+|t:|1772744493
+|move|p1a: Latias|Draco Meteor|p2a: Cetitan
+|-damage|p2a: Cetitan|0 fnt
+|-unboost|p1a: Latias|spa|2
+|faint|p2a: Cetitan
+|
+|upkeep
+|
+|t:|1772744500
+|switch|p2a: Clawitzer|Clawitzer, L87, M|57/265
+|-damage|p2a: Clawitzer|24/265|[from] Spikes
+|turn|16
+|
+|t:|1772744512
+|move|p1a: Latias|Draco Meteor|p2a: Clawitzer
+|-damage|p2a: Clawitzer|0 fnt
+|-unboost|p1a: Latias|spa|2
+|faint|p2a: Clawitzer
+|
+|upkeep
+|
+|t:|1772744519
+|switch|p2a: Slaking|Slaking, L84, M|389/389
+|-damage|p2a: Slaking|341/389|[from] Spikes
+|turn|17
+|
+|t:|1772744529
+|move|p2a: Slaking|Giga Impact|p1a: Latias|[miss]
+|-miss|p2a: Slaking|p1a: Latias
+|move|p1a: Latias|Draco Meteor|p2a: Slaking|[miss]
+|-miss|p1a: Latias|p2a: Slaking
+|
+|upkeep
+|turn|18
+|
+|t:|1772744537
+|cant|p2a: Slaking|ability: Truant
+|move|p1a: Latias|Draco Meteor|p2a: Slaking
+|-damage|p2a: Slaking|274/389
+|-unboost|p1a: Latias|spa|2
+|
+|upkeep
+|turn|19
+|
+|t:|1772744550
+|-terastallize|p2a: Slaking|Normal
+|move|p2a: Slaking|Giga Impact|p1a: Latias
+|-damage|p1a: Latias|0 fnt
+|-mustrecharge|p2a: Slaking
+|faint|p1a: Latias
+|
+|win|Quinciih
+|l|☆Mksdiybt
+|player|p1|

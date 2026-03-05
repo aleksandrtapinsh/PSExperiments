@@ -1,0 +1,289 @@
+|j|☆alexthekid2008
+|j|☆huasometa
+|t:|1772752476
+|gametype|singles
+|player|p1|alexthekid2008|miku-ghost|1485
+|player|p2|huasometa|169|1440
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772752476
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Keldeo|Keldeo-Resolute, L79|273/273
+|switch|p2a: Magnezone|Magnezone, L85|258/258
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by alexthekid2008)
+|
+|t:|1772752492
+|switch|p1a: Golurk|Golurk, L87|297/297
+|move|p2a: Magnezone|Thunderbolt|p1a: Golurk
+|-immune|p1a: Golurk
+|
+|upkeep
+|turn|2
+|
+|t:|1772752508
+|switch|p2a: Ariados|Ariados, L95, M|287/287
+|move|p1a: Golurk|Dynamic Punch|p2a: Ariados
+|-resisted|p2a: Ariados
+|-damage|p2a: Ariados|252/287
+|-start|p2a: Ariados|confusion
+|
+|upkeep
+|turn|3
+|
+|t:|1772752528
+|switch|p1a: Vivillon|Vivillon-River, L83, F|268/268
+|-activate|p2a: Ariados|confusion
+|move|p2a: Ariados|Sticky Web|p1a: Vivillon
+|-sidestart|p1: alexthekid2008|move: Sticky Web
+|
+|upkeep
+|turn|4
+|
+|t:|1772752548
+|move|p1a: Vivillon|Quiver Dance|p1a: Vivillon
+|-boost|p1a: Vivillon|spa|1
+|-boost|p1a: Vivillon|spd|1
+|-boost|p1a: Vivillon|spe|1
+|-end|p2a: Ariados|confusion
+|move|p2a: Ariados|Knock Off|p1a: Vivillon
+|-damage|p1a: Vivillon|148/268
+|-enditem|p1a: Vivillon|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Ariados
+|
+|upkeep
+|turn|5
+|
+|t:|1772752557
+|move|p1a: Vivillon|Sleep Powder|p2a: Ariados
+|-status|p2a: Ariados|slp|[from] move: Sleep Powder
+|cant|p2a: Ariados|slp
+|
+|upkeep
+|turn|6
+|
+|t:|1772752562
+|move|p1a: Vivillon|Quiver Dance|p1a: Vivillon
+|-boost|p1a: Vivillon|spa|1
+|-boost|p1a: Vivillon|spd|1
+|-boost|p1a: Vivillon|spe|1
+|cant|p2a: Ariados|slp
+|
+|upkeep
+|turn|7
+|
+|t:|1772752569
+|move|p1a: Vivillon|Hurricane|p2a: Ariados
+|-supereffective|p2a: Ariados
+|-damage|p2a: Ariados|0 fnt
+|faint|p2a: Ariados
+|
+|upkeep
+|
+|t:|1772752582
+|switch|p2a: Ting-Lu|Ting-Lu, L78|370/370
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|turn|8
+|
+|t:|1772752588
+|move|p1a: Vivillon|Sleep Powder|p2a: Ting-Lu
+|-status|p2a: Ting-Lu|slp|[from] move: Sleep Powder
+|cant|p2a: Ting-Lu|slp
+|
+|upkeep
+|turn|9
+|
+|t:|1772752595
+|move|p1a: Vivillon|Hurricane|p2a: Ting-Lu|[miss]
+|-miss|p1a: Vivillon|p2a: Ting-Lu
+|cant|p2a: Ting-Lu|slp
+|
+|upkeep
+|turn|10
+|
+|t:|1772752603
+|move|p1a: Vivillon|Hurricane|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|187/370 slp
+|-curestatus|p2a: Ting-Lu|slp|[msg]
+|move|p2a: Ting-Lu|Whirlwind|p1a: Vivillon
+|drag|p1a: Golurk|Golurk, L87|297/297
+|-activate|p1a: Golurk|move: Sticky Web
+|-unboost|p1a: Golurk|spe|1
+|
+|-heal|p2a: Ting-Lu|210/370|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1772752617
+|move|p2a: Ting-Lu|Throat Chop|p1a: Golurk
+|-supereffective|p1a: Golurk
+|-damage|p1a: Golurk|139/297
+|-start|p1a: Golurk|Throat Chop|[silent]
+|move|p1a: Golurk|Dynamic Punch|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|6/370
+|-start|p2a: Ting-Lu|confusion
+|
+|-heal|p2a: Ting-Lu|29/370|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1772752630
+|-activate|p2a: Ting-Lu|confusion
+|move|p2a: Ting-Lu|Stealth Rock|p1a: Golurk
+|-sidestart|p1: alexthekid2008|move: Stealth Rock
+|move|p1a: Golurk|Dynamic Punch|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|0 fnt
+|faint|p2a: Ting-Lu
+|
+|-end|p1a: Golurk|Throat Chop|[silent]
+|upkeep
+|
+|t:|1772752640
+|switch|p2a: Barraskewda|Barraskewda, L81, F|231/231
+|turn|13
+|
+|t:|1772752652
+|move|p2a: Barraskewda|Flip Turn|p1a: Golurk
+|-supereffective|p1a: Golurk
+|-damage|p1a: Golurk|0 fnt
+|faint|p1a: Golurk
+|
+|t:|1772752656
+|switch|p2a: Magnezone|Magnezone, L85|258/258|[from] Flip Turn
+|
+|upkeep
+|
+|t:|1772752667
+|switch|p1a: Vivillon|Vivillon-River, L83, F|148/268
+|-damage|p1a: Vivillon|14/268|[from] Stealth Rock
+|turn|14
+|
+|t:|1772752678
+|switch|p2a: Rillaboom|Rillaboom, L79, F|288/288
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|-terastallize|p1a: Vivillon|Ground
+|move|p1a: Vivillon|Tera Blast|p2a: Rillaboom|[anim] Tera Blast Ground
+|-resisted|p2a: Rillaboom
+|-damage|p2a: Rillaboom|239/288
+|
+|-heal|p1a: Vivillon|30/268|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|257/288|[from] Grassy Terrain
+|upkeep
+|turn|15
+|
+|t:|1772752689
+|move|p2a: Rillaboom|Grassy Glide|p1a: Vivillon
+|-supereffective|p1a: Vivillon
+|-damage|p1a: Vivillon|0 fnt
+|faint|p1a: Vivillon
+|
+|-heal|p2a: Rillaboom|275/288|[from] Grassy Terrain
+|upkeep
+|
+|t:|1772752702
+|switch|p1a: Scream Tail|Scream Tail, L84|330/330
+|-activate|p1a: Scream Tail|move: Sticky Web
+|-unboost|p1a: Scream Tail|spe|1
+|-damage|p1a: Scream Tail|289/330|[from] Stealth Rock
+|turn|16
+|
+|t:|1772752710
+|switch|p2a: Magnezone|Magnezone, L85|258/258
+|move|p1a: Scream Tail|Thunder Wave|p2a: Magnezone
+|-immune|p2a: Magnezone
+|
+|-heal|p1a: Scream Tail|309/330|[from] Grassy Terrain
+|-heal|p1a: Scream Tail|329/330|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1772752716
+|move|p1a: Scream Tail|Protect|p1a: Scream Tail
+|-singleturn|p1a: Scream Tail|Protect
+|move|p2a: Magnezone|Iron Defense|p2a: Magnezone
+|-boost|p2a: Magnezone|def|2
+|
+|-heal|p1a: Scream Tail|330/330|[from] Grassy Terrain
+|upkeep
+|turn|18
+|
+|t:|1772752726
+|-end|p1a: Scream Tail|Protosynthesis|[silent]
+|switch|p1a: Magearna|Magearna-Original, L77|250/250
+|-activate|p1a: Magearna|move: Sticky Web
+|-unboost|p1a: Magearna|spe|1
+|-damage|p1a: Magearna|235/250|[from] Stealth Rock
+|move|p2a: Magnezone|Flash Cannon|p1a: Magearna
+|-damage|p1a: Magearna|115/250
+|
+|-heal|p1a: Magearna|130/250|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|19
+|
+|t:|1772752737
+|move|p2a: Magnezone|Body Press|p1a: Magearna
+|-damage|p1a: Magearna|18/250
+|move|p1a: Magearna|Aura Sphere|p2a: Magnezone
+|-supereffective|p2a: Magnezone
+|-damage|p2a: Magnezone|146/258
+|
+|-heal|p2a: Magnezone|162/258|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1772752746
+|move|p2a: Magnezone|Body Press|p1a: Magearna
+|-damage|p1a: Magearna|0 fnt
+|faint|p1a: Magearna
+|
+|-heal|p2a: Magnezone|178/258|[from] item: Leftovers
+|upkeep
+|inactive|alexthekid2008 has 120 seconds left.
+|
+|t:|1772752778
+|switch|p1a: Keldeo|Keldeo-Resolute, L79|273/273
+|-activate|p1a: Keldeo|move: Sticky Web
+|-unboost|p1a: Keldeo|spe|1
+|-damage|p1a: Keldeo|256/273|[from] Stealth Rock
+|turn|21
+|
+|t:|1772752793
+|-terastallize|p2a: Magnezone|Fighting
+|move|p2a: Magnezone|Body Press|p1a: Keldeo
+|-damage|p1a: Keldeo|58/273
+|move|p1a: Keldeo|Secret Sword|p2a: Magnezone
+|-damage|p2a: Magnezone|139/258
+|
+|-heal|p2a: Magnezone|155/258|[from] item: Leftovers
+|-heal|p1a: Keldeo|75/273|[from] item: Leftovers
+|upkeep
+|turn|22
+|inactive|alexthekid2008 has 120 seconds left.
+|
+|t:|1772752811
+|switch|p1a: Oricorio|Oricorio-Pa'u, L87, F|272/272
+|move|p2a: Magnezone|Thunderbolt|p1a: Oricorio
+|-supereffective|p1a: Oricorio
+|-damage|p1a: Oricorio|0 fnt
+|faint|p1a: Oricorio
+|
+|-heal|p2a: Magnezone|171/258|[from] item: Leftovers
+|upkeep
+|inactive|alexthekid2008 has 120 seconds left.
+|-message|alexthekid2008 forfeited.
+|
+|win|huasometa
+|raw|alexthekid2008's rating: 1485 &rarr; <strong>1462</strong><br />(-23 for losing)
+|raw|huasometa's rating: 1440 &rarr; <strong>1463</strong><br />(+23 for winning)
+|l|☆alexthekid2008
+|player|p1|

@@ -1,0 +1,121 @@
+|j|☆Poscidion
+|j|☆sabrosd2
+|t:|1772751231
+|gametype|singles
+|player|p1|Poscidion|169|1396
+|player|p2|sabrosd2|102|1411
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772751231
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Leafeon|Leafeon, L88, M|258/258
+|switch|p2a: Carbink|Carbink, L90|236/236
+|turn|1
+|
+|t:|1772751241
+|move|p1a: Leafeon|Swords Dance|p1a: Leafeon
+|-boost|p1a: Leafeon|atk|2
+|move|p2a: Carbink|Iron Defense|p2a: Carbink
+|-boost|p2a: Carbink|def|2
+|
+|upkeep
+|turn|2
+|
+|t:|1772751245
+|move|p1a: Leafeon|Leaf Blade|p2a: Carbink
+|-supereffective|p2a: Carbink
+|-damage|p2a: Carbink|64/236
+|-damage|p1a: Leafeon|233/258|[from] item: Life Orb
+|move|p2a: Carbink|Body Press|p1a: Leafeon
+|-damage|p1a: Leafeon|95/258
+|
+|upkeep
+|turn|3
+|
+|t:|1772751256
+|move|p1a: Leafeon|Leaf Blade|p2a: Carbink
+|-supereffective|p2a: Carbink
+|-damage|p2a: Carbink|0 fnt
+|faint|p2a: Carbink
+|-damage|p1a: Leafeon|70/258|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772751269
+|switch|p2a: Abomasnow|Abomasnow, L84, F|287/287
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Abomasnow
+|turn|4
+|
+|t:|1772751276
+|move|p1a: Leafeon|Double-Edge|p2a: Abomasnow
+|-damage|p2a: Abomasnow|74/287
+|-damage|p1a: Leafeon|0 fnt|[from] Recoil
+|faint|p1a: Leafeon
+|move|p2a: Abomasnow|Blizzard|p1: Leafeon|[notarget]
+|-fail|p2a: Abomasnow
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1772751293
+|switch|p1a: Dodrio|Dodrio, L85, M|241/241
+|turn|5
+|
+|t:|1772751299
+|move|p2a: Abomasnow|Ice Shard|p1a: Dodrio
+|-supereffective|p1a: Dodrio
+|-damage|p1a: Dodrio|145/241
+|move|p1a: Dodrio|Knock Off|p2a: Abomasnow
+|-damage|p2a: Abomasnow|0 fnt
+|-enditem|p2a: Abomasnow|Light Clay|[from] move: Knock Off|[of] p1a: Dodrio
+|faint|p2a: Abomasnow
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1772751310
+|switch|p2a: Palafin|Palafin, L77, M|281/281
+|turn|6
+|
+|t:|1772751313
+|move|p1a: Dodrio|Knock Off|p2a: Palafin
+|-damage|p2a: Palafin|122/281
+|-enditem|p2a: Palafin|Choice Band|[from] move: Knock Off|[of] p1a: Dodrio
+|move|p2a: Palafin|Flip Turn|p1a: Dodrio
+|-crit|p1a: Dodrio
+|-damage|p1a: Dodrio|66/241
+|
+|t:|1772751326
+|detailschange|p2a: Palafin|Palafin-Hero, L77, M
+|switch|p2a: Slowbro|Slowbro, L85, M|300/300|[from] Flip Turn
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1772751331
+|move|p1a: Dodrio|Knock Off|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|94/300
+|-enditem|p2a: Slowbro|Leftovers|[from] move: Knock Off|[of] p1a: Dodrio
+|move|p2a: Slowbro|Scald|p1a: Dodrio
+|-damage|p1a: Dodrio|0 fnt
+|faint|p1a: Dodrio
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|-message|sabrosd2 forfeited.
+|
+|win|Poscidion
+|raw|Poscidion's rating: 1396 &rarr; <strong>1417</strong><br />(+21 for winning)
+|raw|sabrosd2's rating: 1411 &rarr; <strong>1390</strong><br />(-21 for losing)
+|l|☆sabrosd2
+|player|p2|

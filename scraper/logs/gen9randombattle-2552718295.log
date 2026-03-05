@@ -1,0 +1,46 @@
+|j|☆Trixxielulammon
+|j|☆espnanhole
+|t:|1772746458
+|gametype|singles
+|player|p1|Trixxielulammon|ghetsis-gen5bw|1075
+|player|p2|espnanhole|265|1096
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772746458
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Toxtricity|Toxtricity, L82, F|257/257
+|switch|p2a: Maushold|Maushold, L76|238/238
+|turn|1
+|
+|t:|1772746482
+|move|p2a: Maushold|Population Bomb|p1a: Toxtricity
+|-crit|p1a: Toxtricity
+|-damage|p1a: Toxtricity|218/257
+|-damage|p1a: Toxtricity|191/257
+|-damage|p1a: Toxtricity|166/257
+|-damage|p1a: Toxtricity|139/257
+|-damage|p1a: Toxtricity|111/257
+|-damage|p1a: Toxtricity|83/257
+|-damage|p1a: Toxtricity|56/257
+|-damage|p1a: Toxtricity|28/257
+|-damage|p1a: Toxtricity|0 fnt
+|faint|p1a: Toxtricity
+|-hitcount|p1: Toxtricity|9
+|
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by espnanhole)
+|-message|Trixxielulammon forfeited.
+|
+|win|espnanhole
+|raw|Trixxielulammon's rating: 1075 &rarr; <strong>1055</strong><br />(-20 for losing)
+|raw|espnanhole's rating: 1096 &rarr; <strong>1120</strong><br />(+24 for winning)
+|l|☆Trixxielulammon
+|player|p1|

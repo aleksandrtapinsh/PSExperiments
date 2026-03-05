@@ -1,0 +1,194 @@
+|j|☆I am a copycat
+|j|☆pietr0_0
+|t:|1772752148
+|gametype|singles
+|player|p1|I am a copycat|101|1428
+|player|p2|pietr0_0|265|1381
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772752148
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Regieleki|Regieleki, L79|256/256
+|switch|p2a: Blaziken|Blaziken, L76, M|247/247
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by pietr0_0)
+|
+|t:|1772752167
+|move|p1a: Regieleki|Thunderbolt|p2a: Blaziken
+|-crit|p2a: Blaziken
+|-damage|p2a: Blaziken|0 fnt
+|faint|p2a: Blaziken
+|
+|upkeep
+|
+|t:|1772752183
+|switch|p2a: Mightyena|Mightyena, L96, M|290/290
+|-ability|p2a: Mightyena|Intimidate|boost
+|-unboost|p1a: Regieleki|atk|1
+|turn|2
+|
+|t:|1772752189
+|move|p1a: Regieleki|Volt Switch|p2a: Mightyena
+|-damage|p2a: Mightyena|167/290
+|
+|t:|1772752202
+|switch|p1a: Urshifu|Urshifu, L74, M|270/270|[from] Volt Switch
+|move|p2a: Mightyena|Throat Chop|p1a: Urshifu
+|-resisted|p1a: Urshifu
+|-damage|p1a: Urshifu|231/270
+|-start|p1a: Urshifu|Throat Chop|[silent]
+|
+|upkeep
+|turn|3
+|
+|t:|1772752217
+|switch|p2a: Hawlucha|Hawlucha, L80, M|256/256
+|move|p1a: Urshifu|U-turn|p2a: Hawlucha
+|-resisted|p2a: Hawlucha
+|-damage|p2a: Hawlucha|233/256
+|inactive|I am a copycat has 120 seconds left.
+|
+|t:|1772752259
+|switch|p1a: Regieleki|Regieleki, L79|256/256|[from] U-turn
+|
+|upkeep
+|turn|4
+|
+|t:|1772752274
+|switch|p2a: Corviknight|Corviknight, L80, M|288/288
+|move|p1a: Regieleki|Volt Switch|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|76/288
+|inactive|I am a copycat has 120 seconds left.
+|
+|t:|1772752281
+|switch|p1a: Urshifu|Urshifu, L74, M|231/270|[from] Volt Switch
+|
+|upkeep
+|turn|5
+|
+|t:|1772752285
+|move|p1a: Urshifu|Wicked Blow|p2a: Corviknight
+|-crit|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|-damage|p1a: Urshifu|186/270|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|faint|p2a: Corviknight
+|
+|upkeep
+|
+|t:|1772752288
+|switch|p2a: Hawlucha|Hawlucha, L80, M|233/256
+|turn|6
+|
+|t:|1772752296
+|switch|p1a: Forretress|Forretress, L84, M|263/263
+|move|p2a: Hawlucha|Brave Bird|p1a: Forretress
+|-damage|p1a: Forretress|190/263
+|-damage|p2a: Hawlucha|209/256|[from] Recoil
+|
+|-heal|p1a: Forretress|206/263|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1772752305
+|move|p2a: Hawlucha|Swords Dance|p2a: Hawlucha
+|-boost|p2a: Hawlucha|atk|2
+|move|p1a: Forretress|Volt Switch|p2a: Hawlucha
+|-supereffective|p2a: Hawlucha
+|-damage|p2a: Hawlucha|113/256
+|
+|t:|1772752310
+|switch|p1a: Regieleki|Regieleki, L79|256/256|[from] Volt Switch
+|
+|upkeep
+|turn|8
+|
+|t:|1772752320
+|switch|p2a: Mightyena|Mightyena, L96, M|167/290
+|-ability|p2a: Mightyena|Intimidate|boost
+|-unboost|p1a: Regieleki|atk|1
+|move|p1a: Regieleki|Thunderbolt|p2a: Mightyena
+|-damage|p2a: Mightyena|1/290
+|
+|upkeep
+|turn|9
+|
+|t:|1772752327
+|switch|p1a: Forretress|Forretress, L84, M|206/263
+|move|p2a: Mightyena|Poison Fang|p1a: Forretress
+|-immune|p1a: Forretress
+|
+|-heal|p1a: Forretress|222/263|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1772752332
+|move|p2a: Mightyena|Poison Fang|p1a: Forretress
+|-immune|p1a: Forretress
+|move|p1a: Forretress|Volt Switch|p2a: Mightyena
+|-damage|p2a: Mightyena|0 fnt
+|faint|p2a: Mightyena
+|
+|t:|1772752338
+|switch|p1a: Garganacl|Garganacl, L80, M|291/291|[from] Volt Switch
+|
+|upkeep
+|
+|t:|1772752343
+|switch|p2a: Hawlucha|Hawlucha, L80, M|113/256
+|turn|11
+|
+|t:|1772752348
+|switch|p1a: Forretress|Forretress, L84, M|222/263
+|move|p2a: Hawlucha|Close Combat|p1a: Forretress
+|-damage|p1a: Forretress|141/263
+|-unboost|p2a: Hawlucha|def|1
+|-unboost|p2a: Hawlucha|spd|1
+|-enditem|p2a: Hawlucha|White Herb
+|-clearnegativeboost|p2a: Hawlucha|[silent]
+|
+|-heal|p1a: Forretress|157/263|[from] item: Leftovers
+|upkeep
+|turn|12
+|inactive|pietr0_0 has 120 seconds left.
+|
+|t:|1772752380
+|move|p2a: Hawlucha|Swords Dance|p2a: Hawlucha
+|-boost|p2a: Hawlucha|atk|2
+|move|p1a: Forretress|Volt Switch|p2a: Hawlucha
+|-supereffective|p2a: Hawlucha
+|-damage|p2a: Hawlucha|15/256
+|
+|t:|1772752388
+|switch|p1a: Urshifu|Urshifu, L74, M|186/270|[from] Volt Switch
+|
+|upkeep
+|turn|13
+|
+|t:|1772752394
+|move|p1a: Urshifu|Sucker Punch|p2a: Hawlucha
+|-resisted|p2a: Hawlucha
+|-damage|p2a: Hawlucha|0 fnt
+|faint|p2a: Hawlucha
+|
+|upkeep
+|
+|t:|1772752408
+|switch|p2a: Chi-Yu|Chi-Yu, L77|211/211
+|-ability|p2a: Chi-Yu|Beads of Ruin
+|turn|14
+|-message|pietr0_0 forfeited.
+|
+|win|I am a copycat
+|raw|I am a copycat's rating: 1428 &rarr; <strong>1445</strong><br />(+17 for winning)
+|raw|pietr0_0's rating: 1381 &rarr; <strong>1364</strong><br />(-17 for losing)
+|l|☆pietr0_0
+|player|p2|

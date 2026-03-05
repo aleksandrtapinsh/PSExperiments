@@ -1,0 +1,336 @@
+|j|☆Intense Fucking
+|j|☆minimest
+|t:|1772751000
+|gametype|singles
+|player|p1|Intense Fucking|265|1370
+|player|p2|minimest|pokemaniac|1395
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772751000
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Komala|Komala, L89, M|260/260
+|switch|p2a: Iron Treads|Iron Treads, L77|265/265
+|-ability|p1a: Komala|Comatose
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Intense Fucking)
+|inactive|minimest has 120 seconds left.
+|
+|t:|1772751038
+|move|p2a: Iron Treads|Volt Switch|p1a: Komala
+|-damage|p1a: Komala|239/260
+|
+|t:|1772751048
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Dudunsparce|Dudunsparce-Three-Segment, L83, M|343/343|[from] Volt Switch
+|move|p1a: Komala|Knock Off|p2a: Dudunsparce
+|-damage|p2a: Dudunsparce|240/343
+|-ability|p2a: Dudunsparce|Rattled|boost
+|-boost|p2a: Dudunsparce|spe|1
+|-enditem|p2a: Dudunsparce|Leftovers|[from] move: Knock Off|[of] p1a: Komala
+|
+|upkeep
+|turn|2
+|
+|t:|1772751058
+|move|p2a: Dudunsparce|Calm Mind|p2a: Dudunsparce
+|-boost|p2a: Dudunsparce|spa|1
+|-boost|p2a: Dudunsparce|spd|1
+|move|p1a: Komala|Body Slam|p2a: Dudunsparce
+|-damage|p2a: Dudunsparce|123/343
+|
+|upkeep
+|turn|3
+|
+|t:|1772751061
+|-terastallize|p2a: Dudunsparce|Ghost
+|move|p2a: Dudunsparce|Roost|p2a: Dudunsparce
+|-heal|p2a: Dudunsparce|295/343
+|move|p1a: Komala|Body Slam|p2a: Dudunsparce
+|-immune|p2a: Dudunsparce
+|
+|upkeep
+|turn|4
+|
+|t:|1772751075
+|switch|p1a: Barraskewda|Barraskewda, L81, M|231/231
+|move|p2a: Dudunsparce|Calm Mind|p2a: Dudunsparce
+|-boost|p2a: Dudunsparce|spa|1
+|-boost|p2a: Dudunsparce|spd|1
+|
+|upkeep
+|turn|5
+|
+|t:|1772751089
+|move|p1a: Barraskewda|Throat Chop|p2a: Dudunsparce
+|-supereffective|p2a: Dudunsparce
+|-damage|p2a: Dudunsparce|91/343
+|-start|p2a: Dudunsparce|Throat Chop|[silent]
+|-ability|p2a: Dudunsparce|Rattled|boost
+|-boost|p2a: Dudunsparce|spe|1
+|cant|p2a: Dudunsparce|move: Throat Chop
+|
+|upkeep
+|turn|6
+|
+|t:|1772751092
+|move|p2a: Dudunsparce|Shadow Ball|p1a: Barraskewda
+|-damage|p1a: Barraskewda|12/231
+|move|p1a: Barraskewda|Throat Chop|p2a: Dudunsparce
+|-supereffective|p2a: Dudunsparce
+|-damage|p2a: Dudunsparce|0 fnt
+|faint|p2a: Dudunsparce
+|
+|upkeep
+|
+|t:|1772751107
+|switch|p2a: Chi-Yu|Chi-Yu, L77|211/211
+|-ability|p2a: Chi-Yu|Beads of Ruin
+|turn|7
+|
+|t:|1772751116
+|switch|p1a: Diancie|Diancie, L82|216/216
+|move|p2a: Chi-Yu|Flamethrower|p1a: Diancie
+|-resisted|p1a: Diancie
+|-damage|p1a: Diancie|174/216
+|
+|-heal|p1a: Diancie|187/216|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1772751123
+|switch|p2a: Iron Treads|Iron Treads, L77|265/265
+|move|p1a: Diancie|Diamond Storm|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|245/265
+|-boost|p1a: Diancie|def|2
+|
+|-heal|p1a: Diancie|200/216|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1772751129
+|-terastallize|p1a: Diancie|Fighting
+|move|p2a: Iron Treads|Iron Head|p1a: Diancie
+|-damage|p1a: Diancie|173/216
+|cant|p1a: Diancie|flinch
+|
+|-heal|p1a: Diancie|186/216|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1772751142
+|move|p2a: Iron Treads|Volt Switch|p1a: Diancie
+|-damage|p1a: Diancie|162/216
+|
+|t:|1772751144
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Arceus|Arceus-Psychic, L69|280/280|[from] Volt Switch
+|move|p1a: Diancie|Rock Polish|p1a: Diancie
+|-boost|p1a: Diancie|spe|2
+|
+|-heal|p1a: Diancie|175/216|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1772751157
+|switch|p1a: Darkrai|Darkrai, L77|234/234
+|move|p2a: Arceus|Cosmic Power|p2a: Arceus
+|-boost|p2a: Arceus|def|1
+|-boost|p2a: Arceus|spd|1
+|
+|upkeep
+|turn|12
+|
+|t:|1772751171
+|move|p1a: Darkrai|Dark Pulse|p2a: Arceus
+|-supereffective|p2a: Arceus
+|-damage|p2a: Arceus|137/280
+|-damage|p1a: Darkrai|211/234|[from] item: Life Orb
+|move|p2a: Arceus|Body Press|p1a: Darkrai
+|-supereffective|p1a: Darkrai
+|-damage|p1a: Darkrai|67/234
+|
+|upkeep
+|turn|13
+|
+|t:|1772751180
+|switch|p2a: Chi-Yu|Chi-Yu, L77|211/211
+|-ability|p2a: Chi-Yu|Beads of Ruin
+|move|p1a: Darkrai|Dark Pulse|p2a: Chi-Yu
+|-resisted|p2a: Chi-Yu
+|-damage|p2a: Chi-Yu|159/211
+|-damage|p1a: Darkrai|44/234|[from] item: Life Orb
+|
+|upkeep
+|turn|14
+|
+|t:|1772751183
+|move|p2a: Chi-Yu|Flamethrower|p1a: Darkrai
+|-damage|p1a: Darkrai|0 fnt
+|faint|p1a: Darkrai
+|
+|upkeep
+|
+|t:|1772751185
+|switch|p1a: Diancie|Diancie, L82, tera:Fighting|175/216
+|turn|15
+|
+|t:|1772751190
+|switch|p2a: Iron Treads|Iron Treads, L77|245/265
+|switch|p1a: Barraskewda|Barraskewda, L81, M|12/231
+|
+|upkeep
+|turn|16
+|
+|t:|1772751204
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Arceus|Arceus-Psychic, L69|137/280
+|move|p1a: Barraskewda|Waterfall|p2a: Arceus
+|-damage|p2a: Arceus|0 fnt
+|faint|p2a: Arceus
+|
+|upkeep
+|
+|t:|1772751207
+|switch|p2a: Chi-Yu|Chi-Yu, L77|159/211
+|-ability|p2a: Chi-Yu|Beads of Ruin
+|turn|17
+|
+|t:|1772751209
+|switch|p1a: Diancie|Diancie, L82, tera:Fighting|175/216
+|move|p2a: Chi-Yu|Flamethrower|p1a: Diancie
+|-damage|p1a: Diancie|82/216
+|
+|-heal|p1a: Diancie|95/216|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1772751216
+|move|p2a: Chi-Yu|Flamethrower|p1a: Diancie
+|-damage|p1a: Diancie|11/216
+|move|p1a: Diancie|Body Press|p2a: Chi-Yu
+|-supereffective|p2a: Chi-Yu
+|-damage|p2a: Chi-Yu|0 fnt
+|faint|p2a: Chi-Yu
+|
+|-heal|p1a: Diancie|24/216|[from] item: Leftovers
+|upkeep
+|
+|t:|1772751232
+|switch|p2a: Iron Treads|Iron Treads, L77|245/265
+|turn|19
+|
+|t:|1772751247
+|move|p2a: Iron Treads|Iron Head|p1a: Diancie
+|-damage|p1a: Diancie|0 fnt
+|faint|p1a: Diancie
+|
+|upkeep
+|
+|t:|1772751254
+|switch|p1a: Barraskewda|Barraskewda, L81, M|12/231
+|turn|20
+|
+|t:|1772751263
+|move|p1a: Barraskewda|Close Combat|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|-unboost|p1a: Barraskewda|def|1
+|-unboost|p1a: Barraskewda|spd|1
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1772751272
+|switch|p2a: Zekrom|Zekrom, L71|259/259
+|-ability|p2a: Zekrom|Teravolt
+|turn|21
+|
+|t:|1772751280
+|move|p1a: Barraskewda|Close Combat|p2a: Zekrom
+|-damage|p2a: Zekrom|126/259
+|-unboost|p1a: Barraskewda|def|1
+|-unboost|p1a: Barraskewda|spd|1
+|move|p2a: Zekrom|Dragon Dance|p2a: Zekrom
+|-boost|p2a: Zekrom|atk|1
+|-boost|p2a: Zekrom|spe|1
+|
+|-heal|p2a: Zekrom|142/259|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1772751287
+|move|p1a: Barraskewda|Close Combat|p2a: Zekrom
+|-damage|p2a: Zekrom|4/259
+|-unboost|p1a: Barraskewda|def|1
+|-unboost|p1a: Barraskewda|spd|1
+|move|p2a: Zekrom|Bolt Strike|p1a: Barraskewda
+|-supereffective|p1a: Barraskewda
+|-damage|p1a: Barraskewda|0 fnt
+|faint|p1a: Barraskewda
+|
+|-heal|p2a: Zekrom|20/259|[from] item: Leftovers
+|upkeep
+|
+|t:|1772751295
+|switch|p1a: Girafarig|Girafarig, L89, M|269/269
+|turn|23
+|
+|t:|1772751303
+|move|p2a: Zekrom|Bolt Strike|p1a: Girafarig
+|-damage|p1a: Girafarig|88/269
+|move|p1a: Girafarig|Hyper Voice|p2a: Zekrom
+|-damage|p2a: Zekrom|0 fnt
+|faint|p2a: Zekrom
+|
+|upkeep
+|
+|t:|1772751307
+|switch|p2a: Scovillain|Scovillain, L91, F|266/266
+|turn|24
+|
+|t:|1772751314
+|move|p1a: Girafarig|Hyper Voice|p2a: Scovillain
+|-damage|p2a: Scovillain|151/266
+|move|p2a: Scovillain|Flamethrower|p1a: Girafarig
+|-damage|p1a: Girafarig|0 fnt
+|faint|p1a: Girafarig
+|
+|upkeep
+|
+|t:|1772751317
+|switch|p1a: Komala|Komala, L89, M|239/260
+|-ability|p1a: Komala|Comatose
+|turn|25
+|
+|t:|1772751321
+|move|p2a: Scovillain|Flamethrower|p1a: Komala
+|-damage|p1a: Komala|134/260
+|move|p1a: Komala|Body Slam|p2a: Scovillain
+|-damage|p2a: Scovillain|18/266
+|
+|upkeep
+|turn|26
+|
+|t:|1772751328
+|move|p2a: Scovillain|Flamethrower|p1a: Komala
+|-damage|p1a: Komala|28/260
+|move|p1a: Komala|Rapid Spin|p2a: Scovillain
+|-damage|p2a: Scovillain|0 fnt
+|-boost|p1a: Komala|spe|1
+|faint|p2a: Scovillain
+|
+|win|Intense Fucking
+|raw|Intense Fucking's rating: 1370 &rarr; <strong>1391</strong><br />(+21 for winning)
+|raw|minimest's rating: 1395 &rarr; <strong>1374</strong><br />(-21 for losing)
+|l|☆minimest
+|player|p2|

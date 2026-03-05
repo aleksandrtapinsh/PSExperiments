@@ -1,0 +1,158 @@
+|j|☆Shmeateor Beam
+|j|☆O Man2020
+|t:|1772750468
+|gametype|singles
+|player|p1|Shmeateor Beam|wattson|1852
+|player|p2|O Man2020|169|1816
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772750468
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Drifblim|Drifblim, L86, M|396/396
+|switch|p2a: Luxray|Luxray, L88, F|284/284
+|-ability|p2a: Luxray|Intimidate|boost
+|-unboost|p1a: Drifblim|atk|1
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by O Man2020)
+|inactive|Shmeateor Beam also wants the timer to be on.
+|
+|t:|1772750490
+|switch|p1a: Tauros|Tauros-Paldea-Blaze, L81, M|254/254
+|-ability|p1a: Tauros|Intimidate|boost
+|-unboost|p2a: Luxray|atk|1
+|move|p2a: Luxray|Volt Switch|p1a: Tauros
+|-damage|p1a: Tauros|149/254
+|
+|t:|1772750503
+|switch|p2a: Flareon|Flareon, L90, F|263/263|[from] Volt Switch
+|
+|-status|p2a: Flareon|tox|[from] item: Toxic Orb
+|upkeep
+|turn|2
+|
+|t:|1772750514
+|move|p1a: Tauros|Close Combat|p2a: Flareon
+|-damage|p2a: Flareon|43/263 tox
+|-unboost|p1a: Tauros|def|1
+|-unboost|p1a: Tauros|spd|1
+|move|p2a: Flareon|Facade|p1a: Tauros
+|-damage|p1a: Tauros|0 fnt
+|faint|p1a: Tauros
+|
+|-damage|p2a: Flareon|27/263 tox|[from] psn
+|upkeep
+|
+|t:|1772750539
+|switch|p1a: Skuntank|Skuntank, L84, M|310/310
+|turn|3
+|
+|t:|1772750549
+|move|p1a: Skuntank|Knock Off|p2a: Flareon
+|-damage|p2a: Flareon|0 fnt
+|-enditem|p2a: Flareon|Toxic Orb|[from] move: Knock Off|[of] p1a: Skuntank
+|faint|p2a: Flareon
+|
+|upkeep
+|
+|t:|1772750562
+|switch|p2a: Overqwil|Overqwil, L82, M|274/274
+|-ability|p2a: Overqwil|Intimidate|boost
+|-unboost|p1a: Skuntank|atk|1
+|turn|4
+|
+|t:|1772750589
+|move|p1a: Skuntank|Fire Blast|p2a: Overqwil
+|-damage|p2a: Overqwil|202/274
+|move|p2a: Overqwil|Swords Dance|p2a: Overqwil
+|-boost|p2a: Overqwil|atk|2
+|
+|upkeep
+|turn|5
+|
+|t:|1772750596
+|switch|p1a: Sylveon|Sylveon, L85, F|300/300
+|move|p2a: Overqwil|Swords Dance|p2a: Overqwil
+|-boost|p2a: Overqwil|atk|2
+|
+|upkeep
+|turn|6
+|
+|t:|1772750616
+|-terastallize|p1a: Sylveon|Steel
+|move|p2a: Overqwil|Crunch|p1a: Sylveon
+|-damage|p1a: Sylveon|0 fnt
+|faint|p1a: Sylveon
+|
+|upkeep
+|
+|t:|1772750620
+|switch|p1a: Falinks|Falinks, L84|246/246
+|turn|7
+|
+|t:|1772750629
+|-terastallize|p2a: Overqwil|Dragon
+|move|p2a: Overqwil|Scale Shot|p1a: Falinks
+|-damage|p1a: Falinks|173/246
+|-damage|p1a: Falinks|97/246
+|-damage|p1a: Falinks|15/246
+|-crit|p1a: Falinks
+|-damage|p1a: Falinks|0 fnt
+|faint|p1a: Falinks
+|-hitcount|p1: Falinks|4
+|-unboost|p2a: Overqwil|def|1
+|-boost|p2a: Overqwil|spe|1
+|
+|upkeep
+|
+|t:|1772750633
+|switch|p1a: Brambleghast|Brambleghast, L88, F|240/240
+|turn|8
+|
+|t:|1772750638
+|move|p2a: Overqwil|Crunch|p1a: Brambleghast
+|-supereffective|p1a: Brambleghast
+|-damage|p1a: Brambleghast|0 fnt
+|faint|p1a: Brambleghast
+|
+|upkeep
+|
+|t:|1772750640
+|switch|p1a: Skuntank|Skuntank, L84, M|310/310
+|turn|9
+|
+|t:|1772750643
+|move|p2a: Overqwil|Scale Shot|p1a: Skuntank
+|-damage|p1a: Skuntank|199/310
+|-damage|p1a: Skuntank|102/310
+|-damage|p1a: Skuntank|2/310
+|-damage|p1a: Skuntank|0 fnt
+|faint|p1a: Skuntank
+|-hitcount|p1: Skuntank|4
+|-unboost|p2a: Overqwil|def|1
+|-boost|p2a: Overqwil|spe|1
+|
+|upkeep
+|
+|t:|1772750648
+|switch|p1a: Drifblim|Drifblim, L86, M|396/396
+|turn|10
+|
+|t:|1772750650
+|move|p2a: Overqwil|Crunch|p1a: Drifblim
+|-supereffective|p1a: Drifblim
+|-damage|p1a: Drifblim|0 fnt
+|faint|p1a: Drifblim
+|
+|win|O Man2020
+|raw|Shmeateor Beam's rating: 1852 &rarr; <strong>1830</strong><br />(-22 for losing)
+|raw|O Man2020's rating: 1816 &rarr; <strong>1838</strong><br />(+22 for winning)
+|l|☆Shmeateor Beam
+|player|p1|

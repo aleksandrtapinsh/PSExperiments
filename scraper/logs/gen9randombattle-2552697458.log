@@ -1,0 +1,146 @@
+|j|☆spideythegoat
+|j|☆Mrmunda
+|t:|1772744480
+|gametype|singles
+|player|p1|spideythegoat|chili|1035
+|player|p2|Mrmunda|mira|1000
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772744480
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Skarmory|Skarmory, L80, M|235/235
+|switch|p2a: Reuniclus|Reuniclus, L88, M|337/337
+|turn|1
+|
+|t:|1772744497
+|switch|p1a: Krookodile|Krookodile, L80, M|283/283
+|-ability|p1a: Krookodile|Intimidate|boost
+|-unboost|p2a: Reuniclus|atk|1
+|move|p2a: Reuniclus|Psychic|p1a: Krookodile
+|-immune|p1a: Krookodile
+|
+|upkeep
+|turn|2
+|
+|t:|1772744506
+|-terastallize|p1a: Krookodile|Poison
+|move|p1a: Krookodile|Knock Off|p2a: Reuniclus
+|-supereffective|p2a: Reuniclus
+|-damage|p2a: Reuniclus|17/337
+|-enditem|p2a: Reuniclus|Life Orb|[from] move: Knock Off|[of] p1a: Krookodile
+|-damage|p1a: Krookodile|255/283|[from] item: Life Orb
+|move|p2a: Reuniclus|Focus Blast|p1a: Krookodile
+|-resisted|p1a: Krookodile
+|-damage|p1a: Krookodile|190/283
+|
+|upkeep
+|turn|3
+|
+|t:|1772744518
+|move|p1a: Krookodile|Knock Off|p2a: Reuniclus
+|-supereffective|p2a: Reuniclus
+|-damage|p2a: Reuniclus|0 fnt
+|faint|p2a: Reuniclus
+|-damage|p1a: Krookodile|162/283|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772744530
+|switch|p2a: Dragonite|Dragonite, L74, F|257/257
+|turn|4
+|
+|t:|1772744551
+|move|p1a: Krookodile|Stealth Rock|p2a: Dragonite
+|-sidestart|p2: Mrmunda|move: Stealth Rock
+|move|p2a: Dragonite|Earthquake|p1a: Krookodile
+|-supereffective|p1a: Krookodile
+|-damage|p1a: Krookodile|0 fnt
+|faint|p1a: Krookodile
+|
+|upkeep
+|
+|t:|1772744561
+|switch|p1a: Azumarill|Azumarill, L82, F|298/298
+|turn|5
+|
+|t:|1772744569
+|switch|p2a: Empoleon|Empoleon, L84, M|278/278
+|-damage|p2a: Empoleon|261/278|[from] Stealth Rock
+|move|p1a: Azumarill|Superpower|p2a: Empoleon
+|-supereffective|p2a: Empoleon
+|-crit|p2a: Empoleon
+|-damage|p2a: Empoleon|0 fnt
+|-unboost|p1a: Azumarill|atk|1
+|-unboost|p1a: Azumarill|def|1
+|faint|p2a: Empoleon
+|
+|upkeep
+|
+|t:|1772744580
+|switch|p2a: Glastrier|Glastrier, L86|311/311
+|-damage|p2a: Glastrier|234/311|[from] Stealth Rock
+|turn|6
+|
+|t:|1772744592
+|move|p1a: Azumarill|Superpower|p2a: Glastrier
+|-supereffective|p2a: Glastrier
+|-damage|p2a: Glastrier|92/311
+|-unboost|p1a: Azumarill|atk|1
+|-unboost|p1a: Azumarill|def|1
+|move|p2a: Glastrier|Heavy Slam|p1a: Azumarill
+|-damage|p1a: Azumarill|0 fnt
+|faint|p1a: Azumarill
+|-ability|p2a: Glastrier|Chilling Neigh|boost
+|-boost|p2a: Glastrier|atk|1
+|
+|upkeep
+|
+|t:|1772744607
+|switch|p1a: Lycanroc|Lycanroc-Midnight, L89, F|296/296
+|turn|7
+|
+|t:|1772744618
+|switch|p2a: Dragonite|Dragonite, L74, F|257/257
+|move|p1a: Lycanroc|Stone Edge|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|35/257
+|
+|upkeep
+|turn|8
+|
+|t:|1772744629
+|move|p1a: Lycanroc|Stone Edge|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|faint|p2a: Dragonite
+|
+|upkeep
+|
+|t:|1772744635
+|switch|p2a: Glastrier|Glastrier, L86|92/311
+|-damage|p2a: Glastrier|15/311|[from] Stealth Rock
+|turn|9
+|
+|t:|1772744642
+|move|p1a: Lycanroc|Stone Edge|p2a: Glastrier
+|-supereffective|p2a: Glastrier
+|-crit|p2a: Glastrier
+|-damage|p2a: Glastrier|0 fnt
+|faint|p2a: Glastrier
+|
+|upkeep
+|-message|Mrmunda forfeited.
+|
+|win|spideythegoat
+|raw|spideythegoat's rating: 1035 &rarr; <strong>1066</strong><br />(+31 for winning)
+|raw|Mrmunda's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|l|☆Mrmunda
+|player|p2|

@@ -1,0 +1,410 @@
+|j|☆ayanayanami
+|j|☆SuperSayianFrog
+|t:|1772749987
+|gametype|singles
+|player|p1|ayanayanami|n-masters2|
+|player|p2|SuperSayianFrog|266|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772749987
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kleavor|Kleavor, L78, F|237/237
+|switch|p2a: Qwilfish|Qwilfish, L86, F|252/252
+|-ability|p2a: Qwilfish|Intimidate|boost
+|-unboost|p1a: Kleavor|atk|1
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ayanayanami)
+|inactive|SuperSayianFrog has 270 seconds left.
+|
+|t:|1772750034
+|switch|p1a: Mismagius|Mismagius, L86, M|243/243
+|move|p2a: Qwilfish|Spikes|p1a: Mismagius
+|-sidestart|p1: ayanayanami|Spikes
+|
+|upkeep
+|turn|2
+|
+|t:|1772750045
+|move|p1a: Mismagius|Nasty Plot|p1a: Mismagius
+|-boost|p1a: Mismagius|spa|2
+|move|p2a: Qwilfish|Spikes|p1a: Mismagius
+|-sidestart|p1: ayanayanami|Spikes
+|
+|upkeep
+|turn|3
+|c|☆ayanayanami|im actually so buns at randbats
+|
+|t:|1772750054
+|move|p1a: Mismagius|Shadow Ball|p2a: Qwilfish
+|-damage|p2a: Qwilfish|0 fnt
+|faint|p2a: Qwilfish
+|-damage|p1a: Mismagius|219/243|[from] item: Life Orb
+|
+|upkeep
+|c|☆SuperSayianFrog|so am I
+|c|☆ayanayanami|team when
+|c|☆SuperSayianFrog|I think
+|c|☆SuperSayianFrog|soon
+|c|☆ayanayanami|i think therefore i am
+|c|☆SuperSayianFrog|I love that book
+|
+|t:|1772750081
+|switch|p2a: Cyclizar|Cyclizar, L83, M|252/252
+|turn|4
+|c|☆SuperSayianFrog|such a tragic villan :(
+|c|☆ayanayanami|yo
+|c|☆SuperSayianFrog|yogurt?
+|inactive|SuperSayianFrog has 270 seconds left.
+|c|☆ayanayanami|gurt im crine
+|
+|t:|1772750104
+|move|p2a: Cyclizar|Knock Off|p1a: Mismagius
+|-supereffective|p1a: Mismagius
+|-damage|p1a: Mismagius|53/243
+|-enditem|p1a: Mismagius|Life Orb|[from] move: Knock Off|[of] p2a: Cyclizar
+|move|p1a: Mismagius|Dazzling Gleam|p2a: Cyclizar
+|-supereffective|p2a: Cyclizar
+|-damage|p2a: Cyclizar|0 fnt
+|faint|p2a: Cyclizar
+|
+|upkeep
+|
+|t:|1772750113
+|switch|p2a: Volbeat|Volbeat, L90, M|263/263
+|turn|5
+|inactive|SuperSayianFrog has 270 seconds left.
+|
+|t:|1772750121
+|move|p1a: Mismagius|Mystical Fire|p2a: Volbeat
+|-supereffective|p2a: Volbeat
+|-damage|p2a: Volbeat|43/263
+|-unboost|p2a: Volbeat|spa|1
+|move|p2a: Volbeat|Lunge|p1a: Mismagius
+|-resisted|p1a: Mismagius
+|-damage|p1a: Mismagius|0 fnt
+|faint|p1a: Mismagius
+|
+|upkeep
+|c|☆SuperSayianFrog|I'm just clicking buttons
+|
+|t:|1772750136
+|switch|p1a: Sandy Shocks|Sandy Shocks, L80|267/267
+|turn|6
+|
+|t:|1772750142
+|move|p2a: Volbeat|Roost|p2a: Volbeat
+|-heal|p2a: Volbeat|175/263
+|-singleturn|p2a: Volbeat|move: Roost
+|move|p1a: Sandy Shocks|Spikes|p2a: Volbeat
+|-sidestart|p2: SuperSayianFrog|Spikes
+|
+|upkeep
+|turn|7
+|
+|t:|1772750151
+|move|p2a: Volbeat|Encore|p1a: Sandy Shocks
+|-start|p1a: Sandy Shocks|Encore
+|move|p1a: Sandy Shocks|Spikes|p2a: Volbeat
+|-sidestart|p2: SuperSayianFrog|Spikes
+|
+|upkeep
+|turn|8
+|c|☆ayanayanami|67%
+|
+|t:|1772750163
+|switch|p2a: Coalossal|Coalossal, L89, M|341/341
+|move|p1a: Sandy Shocks|Spikes|p2a: Coalossal
+|-sidestart|p2: SuperSayianFrog|Spikes
+|
+|upkeep
+|turn|9
+|
+|t:|1772750170
+|move|p1a: Sandy Shocks|Spikes||[still]
+|-fail|p1a: Sandy Shocks
+|move|p2a: Coalossal|Rapid Spin|p1a: Sandy Shocks
+|-damage|p1a: Sandy Shocks|234/267
+|-boost|p2a: Coalossal|spe|1
+|-sideend|p2: SuperSayianFrog|Spikes|[from] move: Rapid Spin|[of] p2a: Coalossal
+|
+|-end|p1a: Sandy Shocks|Encore
+|upkeep
+|turn|10
+|c|☆ayanayanami|im in your home
+|
+|t:|1772750181
+|move|p1a: Sandy Shocks|Earth Power|p2a: Coalossal
+|-supereffective|p2a: Coalossal
+|-damage|p2a: Coalossal|0 fnt
+|faint|p2a: Coalossal
+|
+|upkeep
+|c|☆SuperSayianFrog|cool
+|
+|t:|1772750187
+|switch|p2a: Oinkologne|Oinkologne, L92, M|352/352
+|turn|11
+|
+|t:|1772750210
+|move|p1a: Sandy Shocks|Volt Switch|p2a: Oinkologne
+|-damage|p2a: Oinkologne|274/352
+|
+|t:|1772750213
+|-end|p1a: Sandy Shocks|Protosynthesis|[silent]
+|switch|p1a: Kleavor|Kleavor, L78, F|237/237|[from] Volt Switch
+|move|p2a: Oinkologne|Double-Edge|p1a: Kleavor
+|-resisted|p1a: Kleavor
+|-damage|p1a: Kleavor|161/237
+|-damage|p2a: Oinkologne|249/352|[from] Recoil
+|
+|-heal|p2a: Oinkologne|271/352|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1772750229
+|move|p1a: Kleavor|Stone Axe|p2a: Oinkologne
+|-damage|p2a: Oinkologne|159/352
+|-sidestart|p2: SuperSayianFrog|move: Stealth Rock
+|move|p2a: Oinkologne|Curse|p2a: Oinkologne
+|-unboost|p2a: Oinkologne|spe|1
+|-boost|p2a: Oinkologne|atk|1
+|-boost|p2a: Oinkologne|def|1
+|
+|-heal|p2a: Oinkologne|181/352|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1772750239
+|move|p1a: Kleavor|X-Scissor|p2a: Oinkologne
+|-damage|p2a: Oinkologne|81/352
+|move|p2a: Oinkologne|High Horsepower|p1a: Kleavor
+|-damage|p1a: Kleavor|44/237
+|
+|-heal|p2a: Oinkologne|103/352|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1772750254
+|-terastallize|p2a: Oinkologne|Ground
+|move|p1a: Kleavor|X-Scissor|p2a: Oinkologne
+|-damage|p2a: Oinkologne|9/352
+|move|p2a: Oinkologne|High Horsepower|p1a: Kleavor
+|-damage|p1a: Kleavor|0 fnt
+|faint|p1a: Kleavor
+|
+|-heal|p2a: Oinkologne|31/352|[from] item: Leftovers
+|upkeep
+|
+|t:|1772750262
+|switch|p1a: Sandy Shocks|Sandy Shocks, L80|234/267
+|turn|15
+|
+|t:|1772750271
+|move|p1a: Sandy Shocks|Earth Power|p2a: Oinkologne
+|-damage|p2a: Oinkologne|0 fnt
+|faint|p2a: Oinkologne
+|
+|upkeep
+|c|☆SuperSayianFrog|:(
+|c|☆SuperSayianFrog|agartha
+|c|☆ayanayanami|no agartha
+|
+|t:|1772750283
+|switch|p2a: Volbeat|Volbeat, L90, M|175/263
+|turn|16
+|c|☆ayanayanami|me gusta
+|
+|t:|1772750291
+|move|p2a: Volbeat|Roost|p2a: Volbeat
+|-heal|p2a: Volbeat|263/263
+|-singleturn|p2a: Volbeat|move: Roost
+|move|p1a: Sandy Shocks|Spikes|p2a: Volbeat
+|-sidestart|p2: SuperSayianFrog|Spikes
+|
+|upkeep
+|turn|17
+|
+|t:|1772750298
+|-end|p1a: Sandy Shocks|Protosynthesis|[silent]
+|switch|p1a: Quagsire|Quagsire, L84, F|297/297
+|-damage|p1a: Quagsire|248/297|[from] Spikes
+|move|p2a: Volbeat|Lunge|p1a: Quagsire
+|-damage|p1a: Quagsire|163/297
+|-unboost|p1a: Quagsire|atk|1
+|
+|-heal|p1a: Quagsire|181/297|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1772750308
+|move|p2a: Volbeat|Thunder Wave|p1a: Quagsire
+|-immune|p1a: Quagsire
+|move|p1a: Quagsire|Toxic|p2a: Volbeat
+|-status|p2a: Volbeat|tox
+|
+|-heal|p1a: Quagsire|199/297|[from] item: Leftovers
+|-damage|p2a: Volbeat|247/263 tox|[from] psn
+|upkeep
+|turn|19
+|c|☆ayanayanami|fried behaviour
+|c|☆SuperSayianFrog|oopsie doodle
+|
+|t:|1772750321
+|move|p2a: Volbeat|Encore|p1a: Quagsire
+|-start|p1a: Quagsire|Encore
+|move|p1a: Quagsire|Toxic|p2a: Volbeat
+|-fail|p2a: Volbeat|tox
+|
+|-heal|p1a: Quagsire|217/297|[from] item: Leftovers
+|-damage|p2a: Volbeat|215/263 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1772750339
+|switch|p1a: Slowbro|Slowbro-Galar, L87, M|307/307
+|-damage|p1a: Slowbro|256/307|[from] Spikes
+|move|p2a: Volbeat|Thunder Wave|p1a: Slowbro
+|-status|p1a: Slowbro|par
+|
+|-damage|p2a: Volbeat|167/263 tox|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1772750349
+|move|p2a: Volbeat|Roost|p2a: Volbeat
+|-heal|p2a: Volbeat|263/263 tox
+|-singleturn|p2a: Volbeat|move: Roost
+|cant|p1a: Slowbro|par
+|
+|-damage|p2a: Volbeat|199/263 tox|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1772750356
+|move|p2a: Volbeat|Lunge|p1a: Slowbro
+|-damage|p1a: Slowbro|181/307 par
+|-unboost|p1a: Slowbro|atk|1
+|cant|p1a: Slowbro|par
+|
+|-damage|p2a: Volbeat|119/263 tox|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1772750365
+|switch|p1a: Quagsire|Quagsire, L84, F|217/297
+|-damage|p1a: Quagsire|168/297|[from] Spikes
+|move|p2a: Volbeat|Roost|p2a: Volbeat
+|-heal|p2a: Volbeat|251/263 tox
+|-singleturn|p2a: Volbeat|move: Roost
+|
+|-heal|p1a: Quagsire|186/297|[from] item: Leftovers
+|-damage|p2a: Volbeat|155/263 tox|[from] psn
+|upkeep
+|turn|24
+|c|☆ayanayanami|any day now bro will move
+|
+|t:|1772750377
+|switch|p1a: Slowbro|Slowbro-Galar, L87, M|283/307 par
+|-damage|p1a: Slowbro|232/307 par|[from] Spikes
+|move|p2a: Volbeat|Lunge|p1a: Slowbro
+|-damage|p1a: Slowbro|157/307 par
+|-unboost|p1a: Slowbro|atk|1
+|
+|-damage|p2a: Volbeat|43/263 tox|[from] psn
+|upkeep
+|turn|25
+|c|☆SuperSayianFrog|why the switch then
+|c|☆ayanayanami|regenerator
+|
+|t:|1772750387
+|move|p2a: Volbeat|Roost|p2a: Volbeat
+|-heal|p2a: Volbeat|175/263 tox
+|-singleturn|p2a: Volbeat|move: Roost
+|cant|p1a: Slowbro|par
+|
+|-damage|p2a: Volbeat|47/263 tox|[from] psn
+|upkeep
+|turn|26
+|c|☆SuperSayianFrog|bro might be hector
+|
+|t:|1772750399
+|move|p2a: Volbeat|Roost|p2a: Volbeat
+|-heal|p2a: Volbeat|179/263 tox
+|-singleturn|p2a: Volbeat|move: Roost
+|move|p1a: Slowbro|Trick Room|p1a: Slowbro
+|-fieldstart|move: Trick Room|[of] p1a: Slowbro
+|
+|-damage|p2a: Volbeat|35/263 tox|[from] psn
+|upkeep
+|turn|27
+|c|☆ayanayanami|does he know?
+|c|☆SuperSayianFrog|aw
+|
+|t:|1772750410
+|move|p2a: Volbeat|Roost|p2a: Volbeat
+|-heal|p2a: Volbeat|167/263 tox
+|-singleturn|p2a: Volbeat|move: Roost
+|cant|p1a: Slowbro|par
+|
+|-damage|p2a: Volbeat|7/263 tox|[from] psn
+|upkeep
+|turn|28
+|
+|t:|1772750418
+|move|p2a: Volbeat|Encore|p1a: Slowbro
+|-start|p1a: Slowbro|Encore
+|cant|p1a: Slowbro|par
+|
+|-damage|p2a: Volbeat|0 fnt|[from] psn
+|faint|p2a: Volbeat
+|upkeep
+|c|☆ayanayanami|how many full paras r u gonna get
+|c|☆ayanayanami|omg
+|
+|t:|1772750425
+|switch|p2a: Magmortar|Magmortar, L88, M|275/275
+|-damage|p2a: Magmortar|207/275|[from] Stealth Rock
+|-damage|p2a: Magmortar|173/275|[from] Spikes
+|turn|29
+|
+|t:|1772750447
+|switch|p1a: Quagsire|Quagsire, L84, F|186/297
+|-damage|p1a: Quagsire|137/297|[from] Spikes
+|move|p2a: Magmortar|Scorching Sands|p1a: Quagsire
+|-damage|p1a: Quagsire|7/297
+|
+|-heal|p1a: Quagsire|25/297|[from] item: Leftovers
+|upkeep
+|turn|30
+|c|☆ayanayanami|trick room from agartha
+|
+|t:|1772750457
+|move|p1a: Quagsire|Earthquake|p2a: Magmortar
+|-supereffective|p2a: Magmortar
+|-damage|p2a: Magmortar|0 fnt
+|faint|p2a: Magmortar
+|
+|win|ayanayanami
+|c|☆SuperSayianFrog|yay I won
+|c|☆ayanayanami|gg
+|c|☆SuperSayianFrog|I think
+|c|☆ayanayanami|ig bro
+|c|☆ayanayanami|rematch?
+|c|☆SuperSayianFrog|Hector
+|c|☆SuperSayianFrog|ding
+|c|☆SuperSayianFrog|ding
+|c|☆ayanayanami|last chance to take a glance hector
+|c|☆SuperSayianFrog|yes this is agartha speaking
+|c|☆ayanayanami|ring ring
+|c|☆ayanayanami|hello? enfield collage?
+|c|☆SuperSayianFrog|play the phonk
+|c|☆ayanayanami|oh yeah supersayianfrog is here for you
+|c|☆ayanayanami|he can attend
+|c|☆SuperSayianFrog|yes captain israel

@@ -1,0 +1,243 @@
+|j|☆ElatedElectrode
+|j|☆H.shinon
+|t:|1772749687
+|gametype|singles
+|player|p1|ElatedElectrode|265|1627
+|player|p2|H.shinon|winona|1599
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772749687
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Hariyama|Hariyama, L87, M|392/392
+|switch|p2a: Emboar|Emboar, L84, F|322/322
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by H.shinon)
+|
+|t:|1772749697
+|move|p2a: Emboar|Flare Blitz|p1a: Hariyama
+|-damage|p1a: Hariyama|280/392
+|-damage|p2a: Emboar|285/322|[from] Recoil
+|move|p1a: Hariyama|Headlong Rush|p2a: Emboar
+|-supereffective|p2a: Emboar
+|-damage|p2a: Emboar|35/322
+|-unboost|p1a: Hariyama|def|1
+|-unboost|p1a: Hariyama|spd|1
+|
+|upkeep
+|turn|2
+|inactive|ElatedElectrode has 120 seconds left.
+|
+|t:|1772749740
+|switch|p1a: Basculin|Basculin, L86, F|261/261
+|move|p2a: Emboar|Flare Blitz|p1a: Basculin
+|-resisted|p1a: Basculin
+|-damage|p1a: Basculin|150/261
+|-damage|p2a: Emboar|0 fnt|[from] Recoil
+|faint|p2a: Emboar
+|
+|upkeep
+|
+|t:|1772749751
+|switch|p2a: Spiritomb|Spiritomb, L89, F|234/234
+|turn|3
+|inactive|ElatedElectrode has 120 seconds left.
+|
+|t:|1772749776
+|move|p1a: Basculin|Flip Turn|p2a: Spiritomb
+|-damage|p2a: Spiritomb|128/234
+|inactive|ElatedElectrode has 120 seconds left.
+|
+|t:|1772749787
+|switch|p1a: Pyroar|Pyroar, L88, M|295/295|[from] Flip Turn
+|-ability|p1a: Pyroar|Unnerve
+|move|p2a: Spiritomb|Foul Play|p1a: Pyroar
+|-damage|p1a: Pyroar|229/295
+|
+|-heal|p2a: Spiritomb|142/234|[from] item: Leftovers
+|upkeep
+|turn|4
+|inactive|ElatedElectrode has 120 seconds left.
+|inactive|H.shinon has 120 seconds left.
+|
+|t:|1772749820
+|move|p1a: Pyroar|Work Up|p1a: Pyroar
+|-boost|p1a: Pyroar|atk|1
+|-boost|p1a: Pyroar|spa|1
+|move|p2a: Spiritomb|Toxic|p1a: Pyroar
+|-status|p1a: Pyroar|tox
+|
+|-heal|p2a: Spiritomb|156/234|[from] item: Leftovers
+|-damage|p1a: Pyroar|211/295 tox|[from] psn
+|upkeep
+|turn|5
+|inactive|H.shinon has 120 seconds left.
+|
+|t:|1772749828
+|switch|p2a: Giratina|Giratina, L75|349/349
+|-ability|p2a: Giratina|Pressure
+|move|p1a: Pyroar|Fire Blast|p2a: Giratina
+|-resisted|p2a: Giratina
+|-damage|p2a: Giratina|258/349
+|
+|-heal|p2a: Giratina|279/349|[from] item: Leftovers
+|-damage|p1a: Pyroar|175/295 tox|[from] psn
+|upkeep
+|turn|6
+|inactive|H.shinon has 120 seconds left.
+|
+|t:|1772749844
+|move|p1a: Pyroar|Dark Pulse|p2a: Giratina
+|-supereffective|p2a: Giratina
+|-damage|p2a: Giratina|109/349
+|move|p2a: Giratina|Dragon Tail|p1a: Pyroar
+|-damage|p1a: Pyroar|120/295 tox
+|drag|p1a: Emboar|Emboar, L84, M|322/322
+|
+|-heal|p2a: Giratina|130/349|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1772749857
+|switch|p1a: Vaporeon|Vaporeon, L86, F|364/364
+|move|p2a: Giratina|Shadow Ball|p1a: Vaporeon
+|-damage|p1a: Vaporeon|301/364
+|
+|-heal|p2a: Giratina|151/349|[from] item: Leftovers
+|-heal|p1a: Vaporeon|323/364|[from] item: Leftovers
+|upkeep
+|turn|8
+|inactive|H.shinon has 120 seconds left.
+|
+|t:|1772749874
+|switch|p2a: Araquanid|Araquanid, L82, F|246/246
+|move|p1a: Vaporeon|Wish|p1a: Vaporeon
+|
+|-heal|p1a: Vaporeon|345/364|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1772749895
+|switch|p1a: Basculin|Basculin, L86, F|150/261
+|move|p2a: Araquanid|Sticky Web|p1a: Basculin
+|-sidestart|p1: ElatedElectrode|move: Sticky Web
+|
+|-heal|p1a: Basculin|261/261|[from] move: Wish|[wisher] Vaporeon
+|upkeep
+|turn|10
+|
+|t:|1772749905
+|move|p1a: Basculin|Flip Turn|p2a: Araquanid
+|-resisted|p2a: Araquanid
+|-damage|p2a: Araquanid|182/246
+|
+|t:|1772749908
+|switch|p1a: Vaporeon|Vaporeon, L86, F|345/364|[from] Flip Turn
+|-activate|p1a: Vaporeon|move: Sticky Web
+|-unboost|p1a: Vaporeon|spe|1
+|move|p2a: Araquanid|Leech Life|p1a: Vaporeon
+|-damage|p1a: Vaporeon|260/364
+|-heal|p2a: Araquanid|225/246|[from] drain|[of] p1a: Vaporeon
+|
+|-heal|p1a: Vaporeon|282/364|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1772749917
+|switch|p2a: Giratina|Giratina, L75|151/349
+|-ability|p2a: Giratina|Pressure
+|move|p1a: Vaporeon|Wish|p1a: Vaporeon
+|
+|-heal|p2a: Giratina|172/349|[from] item: Leftovers
+|-heal|p1a: Vaporeon|304/364|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1772749931
+|switch|p1a: Pyroar|Pyroar, L88, M|120/295 tox
+|-ability|p1a: Pyroar|Unnerve
+|move|p2a: Giratina|Shadow Ball|p1a: Pyroar
+|-immune|p1a: Pyroar
+|
+|-heal|p1a: Pyroar|295/295 tox|[from] move: Wish|[wisher] Vaporeon
+|-heal|p2a: Giratina|193/349|[from] item: Leftovers
+|-damage|p1a: Pyroar|277/295 tox|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1772749943
+|switch|p2a: Araquanid|Araquanid, L82, F|225/246
+|move|p1a: Pyroar|Dark Pulse|p2a: Araquanid
+|-damage|p2a: Araquanid|171/246
+|
+|-damage|p1a: Pyroar|241/295 tox|[from] psn
+|upkeep
+|turn|14
+|inactive|ElatedElectrode has 120 seconds left.
+|inactive|H.shinon has 120 seconds left.
+|
+|t:|1772749991
+|switch|p1a: Basculin|Basculin, L86, F|261/261
+|-activate|p1a: Basculin|move: Sticky Web
+|-unboost|p1a: Basculin|spe|1
+|move|p2a: Araquanid|Liquidation|p1a: Basculin
+|-resisted|p1a: Basculin
+|-damage|p1a: Basculin|184/261
+|
+|upkeep
+|turn|15
+|
+|t:|1772750000
+|move|p1a: Basculin|Flip Turn|p2a: Araquanid
+|-resisted|p2a: Araquanid
+|-damage|p2a: Araquanid|113/246
+|
+|t:|1772750003
+|switch|p1a: Vaporeon|Vaporeon, L86, F|304/364|[from] Flip Turn
+|-activate|p1a: Vaporeon|move: Sticky Web
+|-unboost|p1a: Vaporeon|spe|1
+|move|p2a: Araquanid|Leech Life|p1a: Vaporeon
+|-damage|p1a: Vaporeon|229/364
+|-heal|p2a: Araquanid|151/246|[from] drain|[of] p1a: Vaporeon
+|
+|-heal|p1a: Vaporeon|251/364|[from] item: Leftovers
+|upkeep
+|turn|16
+|inactive|H.shinon has 120 seconds left.
+|
+|t:|1772750020
+|move|p2a: Araquanid|Leech Life|p1a: Vaporeon
+|-crit|p1a: Vaporeon
+|-damage|p1a: Vaporeon|139/364
+|-heal|p2a: Araquanid|207/246|[from] drain|[of] p1a: Vaporeon
+|move|p1a: Vaporeon|Wish|p1a: Vaporeon
+|
+|-heal|p1a: Vaporeon|161/364|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1772750026
+|move|p1a: Vaporeon|Protect|p1a: Vaporeon
+|-singleturn|p1a: Vaporeon|Protect
+|move|p2a: Araquanid|Leech Life|p1a: Vaporeon
+|-activate|p1a: Vaporeon|move: Protect
+|
+|-heal|p1a: Vaporeon|343/364|[from] move: Wish|[wisher] Vaporeon
+|-heal|p1a: Vaporeon|364/364|[from] item: Leftovers
+|upkeep
+|turn|18
+|inactive|H.shinon has 120 seconds left.
+|-message|H.shinon forfeited.
+|
+|win|ElatedElectrode
+|raw|ElatedElectrode's rating: 1627 &rarr; <strong>1645</strong><br />(+18 for winning)
+|raw|H.shinon's rating: 1599 &rarr; <strong>1581</strong><br />(-18 for losing)
+|l|☆H.shinon
+|player|p2|

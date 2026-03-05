@@ -1,0 +1,185 @@
+|j|☆Diadark
+|j|☆Recxi06
+|t:|1772750709
+|gametype|singles
+|player|p1|Diadark|102|1773
+|player|p2|Recxi06|falkner|1801
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772750709
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Regidrago|Regidrago, L77|435/435
+|switch|p2a: Jolteon|Jolteon, L84, F|246/246
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Recxi06)
+|inactive|Diadark has 120 seconds left.
+|inactive|Diadark has 90 seconds left.
+|inactive|Diadark has 60 seconds left.
+|
+|t:|1772750806
+|switch|p1a: Chesnaught|Chesnaught, L84, M|285/285
+|move|p2a: Jolteon|Alluring Voice|p1a: Chesnaught
+|-supereffective|p1a: Chesnaught
+|-damage|p1a: Chesnaught|87/285
+|
+|-heal|p1a: Chesnaught|104/285|[from] item: Leftovers
+|upkeep
+|turn|2
+|inactive|Diadark has 120 seconds left.
+|
+|t:|1772750828
+|-terastallize|p1a: Chesnaught|Steel
+|move|p2a: Jolteon|Alluring Voice|p1a: Chesnaught
+|-resisted|p1a: Chesnaught
+|-damage|p1a: Chesnaught|56/285
+|move|p1a: Chesnaught|Synthesis|p1a: Chesnaught
+|-heal|p1a: Chesnaught|198/285
+|
+|-heal|p1a: Chesnaught|215/285|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1772750837
+|switch|p2a: Poliwrath|Poliwrath, L88, F|302/302
+|move|p1a: Chesnaught|Trailblaze|p2a: Poliwrath
+|-supereffective|p2a: Poliwrath
+|-damage|p2a: Poliwrath|204/302
+|-boost|p1a: Chesnaught|spe|1
+|
+|-heal|p1a: Chesnaught|232/285|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1772750848
+|move|p1a: Chesnaught|Iron Defense|p1a: Chesnaught
+|-boost|p1a: Chesnaught|def|2
+|move|p2a: Poliwrath|Rain Dance|p2a: Poliwrath
+|-weather|RainDance
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Chesnaught|249/285|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1772750855
+|move|p2a: Poliwrath|Close Combat|p1a: Chesnaught
+|-supereffective|p1a: Chesnaught
+|-damage|p1a: Chesnaught|116/285
+|-unboost|p2a: Poliwrath|def|1
+|-unboost|p2a: Poliwrath|spd|1
+|-damage|p2a: Poliwrath|174/302|[from] item: Life Orb
+|move|p1a: Chesnaught|Trailblaze|p2a: Poliwrath
+|-supereffective|p2a: Poliwrath
+|-damage|p2a: Poliwrath|24/302
+|-boost|p1a: Chesnaught|spe|1
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Chesnaught|133/285|[from] item: Leftovers
+|upkeep
+|turn|6
+|inactive|Diadark has 120 seconds left.
+|
+|t:|1772750868
+|move|p2a: Poliwrath|Close Combat|p1a: Chesnaught
+|-supereffective|p1a: Chesnaught
+|-damage|p1a: Chesnaught|0 fnt
+|-unboost|p2a: Poliwrath|def|1
+|-unboost|p2a: Poliwrath|spd|1
+|faint|p1a: Chesnaught
+|-damage|p2a: Poliwrath|0 fnt|[from] item: Life Orb
+|faint|p2a: Poliwrath
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1772750890
+|switch|p2a: Jolteon|Jolteon, L84, F|246/246
+|switch|p1a: Barraskewda|Barraskewda, L81, M|231/231
+|turn|7
+|
+|t:|1772750897
+|switch|p2a: Iron Bundle|Iron Bundle, L78|215/215
+|move|p1a: Barraskewda|Waterfall|p2a: Iron Bundle
+|-resisted|p2a: Iron Bundle
+|-damage|p2a: Iron Bundle|121/215
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1772750918
+|move|p1a: Barraskewda|Waterfall|p2a: Iron Bundle
+|-resisted|p2a: Iron Bundle
+|-damage|p2a: Iron Bundle|27/215
+|move|p2a: Iron Bundle|Freeze-Dry|p1a: Barraskewda
+|-supereffective|p1a: Barraskewda
+|-damage|p1a: Barraskewda|0 fnt
+|faint|p1a: Barraskewda
+|
+|-weather|none
+|upkeep
+|inactive|Diadark has 90 seconds left.
+|
+|t:|1772750933
+|switch|p1a: Espeon|Espeon, L84, M|246/246
+|turn|9
+|
+|t:|1772750941
+|move|p2a: Iron Bundle|Freeze-Dry|p1a: Espeon
+|-damage|p1a: Espeon|131/246
+|-status|p1a: Espeon|frz
+|cant|p1a: Espeon|frz
+|
+|upkeep
+|turn|10
+|c|☆Diadark|Vete a la mierda juego
+|inactive|Diadark has 90 seconds left.
+|inactive|Diadark has 60 seconds left.
+|
+|t:|1772750997
+|move|p2a: Iron Bundle|Freeze-Dry|p1a: Espeon
+|-damage|p1a: Espeon|10/246 frz
+|cant|p1a: Espeon|frz
+|
+|upkeep
+|turn|11
+|
+|t:|1772751002
+|move|p2a: Iron Bundle|Freeze-Dry|p1a: Espeon
+|-damage|p1a: Espeon|0 fnt
+|faint|p1a: Espeon
+|
+|upkeep
+|inactive|Diadark has 60 seconds left.
+|
+|t:|1772751012
+|switch|p1a: Calyrex|Calyrex-Shadow, L64|235/235
+|-ability|p1a: Calyrex|As One
+|-ability|p1a: Calyrex|Unnerve
+|turn|12
+|
+|t:|1772751020
+|move|p2a: Iron Bundle|Freeze-Dry|p1a: Calyrex
+|-damage|p1a: Calyrex|100/235
+|move|p1a: Calyrex|Trick|p2a: Iron Bundle
+|-activate|p1a: Calyrex|move: Trick|[of] p2a: Iron Bundle
+|-item|p2a: Iron Bundle|Choice Specs|[from] move: Trick
+|-item|p1a: Calyrex|Choice Specs|[from] move: Trick
+|
+|upkeep
+|turn|13
+|-message|Diadark forfeited.
+|
+|win|Recxi06
+|raw|Diadark's rating: 1773 &rarr; <strong>1755</strong><br />(-18 for losing)
+|raw|Recxi06's rating: 1801 &rarr; <strong>1819</strong><br />(+18 for winning)
+|l|☆Diadark
+|player|p1|

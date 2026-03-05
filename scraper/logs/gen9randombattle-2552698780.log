@@ -1,0 +1,163 @@
+|j|☆Tal1234b
+|j|☆Uncreative7452
+|t:|1772744600
+|gametype|singles
+|player|p1|Tal1234b|2|1408
+|player|p2|Uncreative7452|tuber|1377
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772744600
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Leafeon|Leafeon, L88, M|258/258
+|switch|p2a: Arceus|Arceus-Ground, L70|284/284
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Tal1234b)
+|
+|t:|1772744619
+|switch|p2a: Skarmory|Skarmory, L80, M|235/235
+|move|p1a: Leafeon|Swords Dance|p1a: Leafeon
+|-boost|p1a: Leafeon|atk|2
+|
+|upkeep
+|turn|2
+|
+|t:|1772744646
+|switch|p1a: Rhyperior|Rhyperior, L82, F|323/323
+|move|p2a: Skarmory|Iron Defense|p2a: Skarmory
+|-boost|p2a: Skarmory|def|2
+|
+|upkeep
+|turn|3
+|
+|t:|1772744656
+|switch|p1a: Iron Crown|Iron Crown, L78|268/268
+|move|p2a: Skarmory|Iron Defense|p2a: Skarmory
+|-boost|p2a: Skarmory|def|2
+|
+|upkeep
+|turn|4
+|
+|t:|1772744669
+|move|p1a: Iron Crown|Focus Blast|p2a: Skarmory
+|-damage|p2a: Skarmory|127/235
+|move|p2a: Skarmory|Body Press|p1a: Iron Crown
+|-damage|p1a: Iron Crown|63/268
+|
+|-heal|p1a: Iron Crown|79/268|[from] item: Leftovers
+|-heal|p2a: Skarmory|141/235|[from] item: Leftovers
+|upkeep
+|turn|5
+|l|☆Uncreative7452
+|inactive|Uncreative7452 disconnected and has a minute to reconnect!
+|player|p2|
+|j|☆Uncreative7452
+|inactive|Uncreative7452 reconnected and has 145 seconds left.
+|player|p2|Uncreative7452|tuber|
+|
+|t:|1772744680
+|move|p1a: Iron Crown|Focus Blast|p2a: Skarmory|[miss]
+|-miss|p1a: Iron Crown|p2a: Skarmory
+|move|p2a: Skarmory|Body Press|p1a: Iron Crown
+|-damage|p1a: Iron Crown|0 fnt
+|faint|p1a: Iron Crown
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|
+|-heal|p2a: Skarmory|155/235|[from] item: Leftovers
+|upkeep
+|
+|t:|1772744688
+|switch|p1a: Hatterene|Hatterene, L85, F|236/236
+|turn|6
+|
+|t:|1772744691
+|-terastallize|p1a: Hatterene|Steel
+|move|p2a: Skarmory|Roost|p2a: Skarmory
+|-heal|p2a: Skarmory|235/235
+|-singleturn|p2a: Skarmory|move: Roost
+|move|p1a: Hatterene|Mystical Fire|p2a: Skarmory
+|-supereffective|p2a: Skarmory
+|-damage|p2a: Skarmory|43/235
+|-unboost|p2a: Skarmory|spa|1
+|
+|-heal|p2a: Skarmory|57/235|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1772744708
+|switch|p1a: Leafeon|Leafeon, L88, M|258/258
+|move|p2a: Skarmory|Body Press|p1a: Leafeon
+|-damage|p1a: Leafeon|119/258
+|
+|-heal|p2a: Skarmory|71/235|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1772744722
+|move|p1a: Leafeon|Leaf Blade|p2a: Skarmory
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|62/235
+|-damage|p1a: Leafeon|94/258|[from] item: Life Orb
+|move|p2a: Skarmory|Roost|p2a: Skarmory
+|-heal|p2a: Skarmory|180/235
+|-singleturn|p2a: Skarmory|move: Roost
+|
+|-heal|p2a: Skarmory|194/235|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1772744728
+|move|p1a: Leafeon|Synthesis|p1a: Leafeon
+|-heal|p1a: Leafeon|223/258
+|move|p2a: Skarmory|Iron Defense|p2a: Skarmory
+|-boost|p2a: Skarmory|def|2
+|
+|-heal|p2a: Skarmory|208/235|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1772744733
+|move|p1a: Leafeon|Swords Dance|p1a: Leafeon
+|-boost|p1a: Leafeon|atk|2
+|move|p2a: Skarmory|Body Press|p1a: Leafeon
+|-damage|p1a: Leafeon|28/258
+|
+|-heal|p2a: Skarmory|222/235|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1772744736
+|move|p1a: Leafeon|Synthesis|p1a: Leafeon
+|-heal|p1a: Leafeon|157/258
+|move|p2a: Skarmory|Body Press|p1a: Leafeon
+|-damage|p1a: Leafeon|0 fnt
+|faint|p1a: Leafeon
+|
+|-heal|p2a: Skarmory|235/235|[from] item: Leftovers
+|upkeep
+|
+|t:|1772744740
+|switch|p1a: Hatterene|Hatterene, L85, F, tera:Steel|236/236
+|turn|12
+|
+|t:|1772744743
+|move|p2a: Skarmory|Body Press|p1a: Hatterene
+|-supereffective|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|upkeep
+|-message|Tal1234b forfeited.
+|
+|win|Uncreative7452
+|raw|Tal1234b's rating: 1408 &rarr; <strong>1386</strong><br />(-22 for losing)
+|raw|Uncreative7452's rating: 1377 &rarr; <strong>1399</strong><br />(+22 for winning)
+|l|☆Tal1234b
+|player|p1|

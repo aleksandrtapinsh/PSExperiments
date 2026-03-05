@@ -1,0 +1,225 @@
+|j|☆UziBoii
+|j|☆Xx(NiKax)X
+|t:|1772752217
+|gametype|singles
+|player|p1|UziBoii|steven|1412
+|player|p2|Xx(NiKax)X|lucas|1451
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772752218
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Hitmontop|Hitmontop, L88, M|231/231
+|switch|p2a: Galvantula|Galvantula, L82, F|249/249
+|-ability|p1a: Hitmontop|Intimidate|boost
+|-unboost|p2a: Galvantula|atk|1
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by UziBoii)
+|
+|t:|1772752225
+|move|p2a: Galvantula|Sticky Web|p1a: Hitmontop
+|-sidestart|p1: UziBoii|move: Sticky Web
+|move|p1a: Hitmontop|Rapid Spin|p2a: Galvantula
+|-damage|p2a: Galvantula|196/249
+|-boost|p1a: Hitmontop|spe|1
+|-sideend|p1: UziBoii|Sticky Web|[from] move: Rapid Spin|[of] p1a: Hitmontop
+|
+|upkeep
+|turn|2
+|
+|t:|1772752238
+|move|p1a: Hitmontop|Stone Edge|p2a: Galvantula
+|-supereffective|p2a: Galvantula
+|-damage|p2a: Galvantula|0 fnt
+|faint|p2a: Galvantula
+|
+|upkeep
+|c|☆UziBoii|No webs
+|
+|t:|1772752248
+|switch|p2a: Bronzong|Bronzong, L88|261/261
+|turn|3
+|
+|t:|1772752253
+|switch|p1a: Gothitelle|Gothitelle, L90, M|272/272
+|move|p2a: Bronzong|Iron Defense|p2a: Bronzong
+|-boost|p2a: Bronzong|def|2
+|
+|upkeep
+|turn|4
+|
+|t:|1772752262
+|move|p1a: Gothitelle|Trick|p2a: Bronzong
+|-activate|p1a: Gothitelle|move: Trick|[of] p2a: Bronzong
+|-item|p2a: Bronzong|Choice Scarf|[from] move: Trick
+|-item|p1a: Gothitelle|Chesto Berry|[from] move: Trick
+|move|p2a: Bronzong|Iron Head|p1a: Gothitelle
+|-damage|p1a: Gothitelle|194/272
+|
+|upkeep
+|turn|5
+|
+|t:|1772752269
+|move|p1a: Gothitelle|Dark Pulse|p2a: Bronzong
+|-supereffective|p2a: Bronzong
+|-damage|p2a: Bronzong|155/261
+|move|p2a: Bronzong|Iron Head|p1a: Gothitelle
+|-damage|p1a: Gothitelle|109/272
+|
+|upkeep
+|turn|6
+|
+|t:|1772752276
+|move|p1a: Gothitelle|Dark Pulse|p2a: Bronzong
+|-supereffective|p2a: Bronzong
+|-damage|p2a: Bronzong|57/261
+|move|p2a: Bronzong|Iron Head|p1a: Gothitelle
+|-damage|p1a: Gothitelle|34/272
+|
+|upkeep
+|turn|7
+|
+|t:|1772752283
+|move|p1a: Gothitelle|Dark Pulse|p2a: Bronzong
+|-supereffective|p2a: Bronzong
+|-damage|p2a: Bronzong|0 fnt
+|faint|p2a: Bronzong
+|
+|upkeep
+|
+|t:|1772752295
+|switch|p2a: Gouging Fire|Gouging Fire, L74|277/277
+|turn|8
+|
+|t:|1772752299
+|switch|p1a: Honchkrow|Honchkrow, L86, M|312/312
+|move|p2a: Gouging Fire|Dragon Dance|p2a: Gouging Fire
+|-boost|p2a: Gouging Fire|atk|1
+|-boost|p2a: Gouging Fire|spe|1
+|
+|upkeep
+|turn|9
+|
+|t:|1772752326
+|move|p2a: Gouging Fire|Heat Crash|p1a: Honchkrow
+|-damage|p1a: Honchkrow|86/312
+|move|p1a: Honchkrow|Brave Bird|p2a: Gouging Fire
+|-damage|p2a: Gouging Fire|129/277
+|-damage|p1a: Honchkrow|37/312|[from] Recoil
+|
+|upkeep
+|turn|10
+|
+|t:|1772752336
+|move|p1a: Honchkrow|Sucker Punch|p2a: Gouging Fire
+|-crit|p2a: Gouging Fire
+|-damage|p2a: Gouging Fire|8/277
+|move|p2a: Gouging Fire|Heat Crash|p1a: Honchkrow
+|-damage|p1a: Honchkrow|0 fnt
+|faint|p1a: Honchkrow
+|
+|upkeep
+|
+|t:|1772752344
+|switch|p1a: Hitmontop|Hitmontop, L88, M|231/231
+|-ability|p1a: Hitmontop|Intimidate|boost
+|-unboost|p2a: Gouging Fire|atk|1
+|turn|11
+|
+|t:|1772752357
+|move|p2a: Gouging Fire|Outrage|p1a: Hitmontop
+|-damage|p1a: Hitmontop|123/231
+|move|p1a: Hitmontop|Rapid Spin|p2a: Gouging Fire
+|-damage|p2a: Gouging Fire|0 fnt
+|-boost|p1a: Hitmontop|spe|1
+|faint|p2a: Gouging Fire
+|-end|p2a: Gouging Fire|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1772752366
+|switch|p2a: Wo-Chien|Wo-Chien, L83|277/277
+|-ability|p2a: Wo-Chien|Tablets of Ruin
+|turn|12
+|
+|t:|1772752372
+|-terastallize|p2a: Wo-Chien|Poison
+|move|p1a: Hitmontop|Close Combat|p2a: Wo-Chien
+|-resisted|p2a: Wo-Chien
+|-damage|p2a: Wo-Chien|228/277
+|-unboost|p1a: Hitmontop|def|1
+|-unboost|p1a: Hitmontop|spd|1
+|move|p2a: Wo-Chien|Stun Spore|p1a: Hitmontop|[miss]
+|-miss|p2a: Wo-Chien|p1a: Hitmontop
+|
+|-heal|p2a: Wo-Chien|245/277|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1772752385
+|move|p1a: Hitmontop|Earthquake|p2a: Wo-Chien
+|-supereffective|p2a: Wo-Chien
+|-damage|p2a: Wo-Chien|131/277
+|move|p2a: Wo-Chien|Knock Off|p1a: Hitmontop
+|-resisted|p1a: Hitmontop
+|-damage|p1a: Hitmontop|60/231
+|-enditem|p1a: Hitmontop|Assault Vest|[from] move: Knock Off|[of] p2a: Wo-Chien
+|
+|-heal|p2a: Wo-Chien|148/277|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1772752394
+|switch|p2a: Noivern|Noivern, L82, M|274/274
+|move|p1a: Hitmontop|Earthquake|p2a: Noivern
+|-immune|p2a: Noivern
+|
+|upkeep
+|turn|15
+|
+|t:|1772752401
+|switch|p1a: Gothitelle|Gothitelle, L90, M|34/272
+|move|p2a: Noivern|Flamethrower|p1a: Gothitelle
+|-damage|p1a: Gothitelle|0 fnt
+|faint|p1a: Gothitelle
+|
+|upkeep
+|
+|t:|1772752412
+|switch|p1a: Mismagius|Mismagius, L86, F|243/243
+|turn|16
+|
+|t:|1772752416
+|move|p2a: Noivern|Hurricane|p1a: Mismagius|[miss]
+|-miss|p2a: Noivern|p1a: Mismagius
+|move|p1a: Mismagius|Substitute|p1a: Mismagius
+|-start|p1a: Mismagius|Substitute
+|-damage|p1a: Mismagius|183/243
+|
+|-heal|p1a: Mismagius|198/243|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1772752424
+|move|p2a: Noivern|Hurricane|p1a: Mismagius|[miss]
+|-miss|p2a: Noivern|p1a: Mismagius
+|move|p1a: Mismagius|Shadow Ball|p2a: Noivern
+|-damage|p2a: Noivern|168/274
+|
+|-heal|p1a: Mismagius|213/243|[from] item: Leftovers
+|upkeep
+|turn|18
+|-message|Xx(NiKax)X forfeited.
+|
+|win|UziBoii
+|raw|UziBoii's rating: 1412 &rarr; <strong>1434</strong><br />(+22 for winning)
+|raw|Xx(NiKax)X's rating: 1451 &rarr; <strong>1429</strong><br />(-22 for losing)
+|l|☆Xx(NiKax)X
+|player|p2|

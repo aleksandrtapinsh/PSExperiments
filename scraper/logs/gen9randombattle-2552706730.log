@@ -1,0 +1,41 @@
+|j|☆Ampharos2011
+|j|☆Njbgvg
+|t:|1772745345
+|gametype|singles
+|player|p1|Ampharos2011|101|1009
+|player|p2|Njbgvg|1|1028
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772745345
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ribombee|Ribombee, L83, M|235/235
+|switch|p2a: Palossand|Palossand, L89, F|296/296
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Njbgvg)
+|
+|t:|1772745373
+|switch|p2a: Torkoal|Torkoal, L88, F|266/266
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|move|p1a: Ribombee|Moonblast|p2a: Torkoal
+|-resisted|p2a: Torkoal
+|-damage|p2a: Torkoal|214/266
+|-unboost|p2a: Torkoal|spa|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|-message|Njbgvg forfeited.
+|
+|win|Ampharos2011
+|raw|Ampharos2011's rating: 1009 &rarr; <strong>1050</strong><br />(+41 for winning)
+|raw|Njbgvg's rating: 1028 &rarr; <strong>1013</strong><br />(-15 for losing)
+|l|☆Njbgvg
+|player|p2|

@@ -1,0 +1,90 @@
+|j|☆ellande
+|j|☆hyunbelievable
+|t:|1772749531
+|gametype|singles
+|player|p1|ellande|170|1277
+|player|p2|hyunbelievable|266|1263
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772749531
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Latias|Latias, L79, F|256/256
+|switch|p2a: Persian|Persian-Alola, L86, M|252/252
+|turn|1
+|
+|t:|1772749544
+|switch|p1a: Rhyperior|Rhyperior, L82, F|323/323
+|move|p2a: Persian|Nasty Plot|p2a: Persian
+|-boost|p2a: Persian|spa|2
+|
+|upkeep
+|turn|2
+|
+|t:|1772749548
+|move|p2a: Persian|Dark Pulse|p1a: Rhyperior
+|-damage|p1a: Rhyperior|144/323
+|-damage|p2a: Persian|227/252|[from] item: Life Orb
+|move|p1a: Rhyperior|Megahorn|p2a: Persian
+|-supereffective|p2a: Persian
+|-damage|p2a: Persian|91/252
+|
+|upkeep
+|turn|3
+|
+|t:|1772749553
+|move|p2a: Persian|Dark Pulse|p1a: Rhyperior
+|-damage|p1a: Rhyperior|0 fnt
+|faint|p1a: Rhyperior
+|-damage|p2a: Persian|66/252|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772749558
+|switch|p1a: Iron Moth|Iron Moth, L78|253/253
+|turn|4
+|
+|t:|1772749562
+|move|p2a: Persian|Power Gem|p1a: Iron Moth
+|-supereffective|p1a: Iron Moth
+|-damage|p1a: Iron Moth|22/253
+|-damage|p2a: Persian|41/252|[from] item: Life Orb
+|move|p1a: Iron Moth|Sludge Wave|p2a: Persian
+|-crit|p2a: Persian
+|-damage|p2a: Persian|0 fnt
+|faint|p2a: Persian
+|
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ellande)
+|
+|t:|1772749576
+|switch|p2a: Cinccino|Cinccino, L83, F|260/260
+|turn|5
+|
+|t:|1772749585
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|switch|p1a: Electivire|Electivire, L84, F|263/263
+|move|p2a: Cinccino|Tail Slap|p1a: Electivire
+|-damage|p1a: Electivire|217/263
+|-damage|p1a: Electivire|172/263
+|-damage|p1a: Electivire|126/263
+|-damage|p1a: Electivire|83/263
+|-damage|p1a: Electivire|34/263
+|-hitcount|p1a: Electivire|5
+|
+|upkeep
+|turn|6
+|-message|ellande forfeited.
+|
+|win|hyunbelievable
+|raw|ellande's rating: 1277 &rarr; <strong>1251</strong><br />(-26 for losing)
+|raw|hyunbelievable's rating: 1263 &rarr; <strong>1289</strong><br />(+26 for winning)
+|l|☆ellande
+|player|p1|

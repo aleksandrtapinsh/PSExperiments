@@ -1,0 +1,415 @@
+|j|☆OnslaughtZero
+|j|☆Shmen8980
+|t:|1772746957
+|gametype|singles
+|player|p1|OnslaughtZero|miku-ghost|1488
+|player|p2|Shmen8980|102|1457
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772746957
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Vikavolt|Vikavolt, L83, M|263/263
+|switch|p2a: Garganacl|Garganacl, L80, M|291/291
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by OnslaughtZero)
+|
+|t:|1772746978
+|move|p1a: Vikavolt|Volt Switch|p2a: Garganacl
+|-damage|p2a: Garganacl|194/291
+|
+|t:|1772746991
+|switch|p1a: Annihilape|Annihilape, L76, F|292/292|[from] Volt Switch
+|move|p2a: Garganacl|Salt Cure|p1a: Annihilape
+|-resisted|p1a: Annihilape
+|-damage|p1a: Annihilape|268/292
+|-start|p1a: Annihilape|Salt Cure
+|
+|-heal|p1a: Annihilape|286/292|[from] item: Leftovers
+|-heal|p2a: Garganacl|212/291|[from] item: Leftovers
+|-damage|p1a: Annihilape|250/292|[from] Salt Cure
+|upkeep
+|turn|2
+|
+|t:|1772747001
+|switch|p2a: Wigglytuff|Wigglytuff, L96, M|424/424
+|move|p1a: Annihilape|Bulk Up|p1a: Annihilape
+|-boost|p1a: Annihilape|atk|1
+|-boost|p1a: Annihilape|def|1
+|
+|-heal|p1a: Annihilape|268/292|[from] item: Leftovers
+|-damage|p1a: Annihilape|232/292|[from] Salt Cure
+|upkeep
+|turn|3
+|
+|t:|1772747020
+|move|p2a: Wigglytuff|Protect|p2a: Wigglytuff
+|-singleturn|p2a: Wigglytuff|Protect
+|move|p1a: Annihilape|Drain Punch|p2a: Wigglytuff
+|-activate|p2a: Wigglytuff|move: Protect
+|
+|-heal|p1a: Annihilape|250/292|[from] item: Leftovers
+|-damage|p1a: Annihilape|214/292|[from] Salt Cure
+|upkeep
+|turn|4
+|
+|t:|1772747028
+|move|p1a: Annihilape|Drain Punch|p2a: Wigglytuff
+|-damage|p2a: Wigglytuff|258/424
+|-heal|p1a: Annihilape|292/292|[from] drain|[of] p2a: Wigglytuff
+|move|p2a: Wigglytuff|Alluring Voice|p1a: Annihilape
+|-supereffective|p1a: Annihilape
+|-damage|p1a: Annihilape|92/292
+|
+|-heal|p1a: Annihilape|110/292|[from] item: Leftovers
+|-heal|p2a: Wigglytuff|284/424|[from] item: Leftovers
+|-damage|p1a: Annihilape|74/292|[from] Salt Cure
+|upkeep
+|turn|5
+|
+|t:|1772747040
+|switch|p1a: Metagross|Metagross, L79|256/256
+|move|p2a: Wigglytuff|Protect||[still]
+|-fail|p2a: Wigglytuff
+|
+|-heal|p2a: Wigglytuff|310/424|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1772747049
+|switch|p2a: Quaquaval|Quaquaval, L79, M|264/264
+|move|p1a: Metagross|Heavy Slam|p2a: Quaquaval
+|-resisted|p2a: Quaquaval
+|-damage|p2a: Quaquaval|175/264
+|
+|-heal|p2a: Quaquaval|191/264|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1772747056
+|move|p2a: Quaquaval|Aqua Step|p1a: Metagross
+|-damage|p1a: Metagross|192/256
+|-boost|p2a: Quaquaval|spe|1
+|move|p1a: Metagross|Psychic Fangs|p2a: Quaquaval
+|-supereffective|p2a: Quaquaval
+|-damage|p2a: Quaquaval|0 fnt
+|faint|p2a: Quaquaval
+|
+|upkeep
+|
+|t:|1772747064
+|switch|p2a: Mandibuzz|Mandibuzz, L85, F|326/326
+|turn|8
+|
+|t:|1772747082
+|switch|p1a: Iron Bundle|Iron Bundle, L78|215/215
+|move|p2a: Mandibuzz|Foul Play|p1a: Iron Bundle
+|-damage|p1a: Iron Bundle|161/215
+|
+|upkeep
+|turn|9
+|
+|t:|1772747094
+|switch|p2a: Porygon2|Porygon2, L81|270/270
+|-ability|p2a: Porygon2|Download|boost
+|-boost|p2a: Porygon2|spa|1
+|move|p1a: Iron Bundle|Ice Beam|p2a: Porygon2
+|-damage|p2a: Porygon2|207/270
+|
+|upkeep
+|turn|10
+|
+|t:|1772747106
+|-end|p1a: Iron Bundle|Quark Drive|[silent]
+|switch|p1a: Annihilape|Annihilape, L76, F|74/292
+|move|p2a: Porygon2|Thunder Wave|p1a: Annihilape
+|-status|p1a: Annihilape|par
+|
+|-heal|p1a: Annihilape|92/292 par|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1772747120
+|move|p2a: Porygon2|Shadow Ball|p1a: Annihilape
+|-supereffective|p1a: Annihilape
+|-damage|p1a: Annihilape|0 fnt
+|faint|p1a: Annihilape
+|
+|upkeep
+|
+|t:|1772747136
+|switch|p1a: Persian|Persian, L92, F|269/269
+|turn|12
+|
+|t:|1772747142
+|switch|p2a: Bastiodon|Bastiodon, L89, F|252/252
+|move|p1a: Persian|Knock Off|p2a: Bastiodon
+|-damage|p2a: Bastiodon|202/252
+|-enditem|p2a: Bastiodon|Chesto Berry|[from] move: Knock Off|[of] p1a: Persian
+|
+|upkeep
+|turn|13
+|
+|t:|1772747152
+|switch|p1a: Vikavolt|Vikavolt, L83, M|263/263
+|move|p2a: Bastiodon|Iron Defense|p2a: Bastiodon
+|-boost|p2a: Bastiodon|def|2
+|
+|upkeep
+|turn|14
+|
+|t:|1772747174
+|move|p1a: Vikavolt|Thunderbolt|p2a: Bastiodon
+|-damage|p2a: Bastiodon|114/252
+|move|p2a: Bastiodon|Body Press|p1a: Vikavolt
+|-resisted|p1a: Vikavolt
+|-damage|p1a: Vikavolt|172/263
+|
+|upkeep
+|turn|15
+|
+|t:|1772747180
+|move|p1a: Vikavolt|Thunderbolt|p2a: Bastiodon
+|-damage|p2a: Bastiodon|30/252
+|move|p2a: Bastiodon|Rest|p2a: Bastiodon
+|-status|p2a: Bastiodon|slp|[from] move: Rest
+|-heal|p2a: Bastiodon|252/252 slp|[silent]
+|
+|upkeep
+|turn|16
+|
+|t:|1772747188
+|move|p1a: Vikavolt|Thunderbolt|p2a: Bastiodon
+|-damage|p2a: Bastiodon|170/252 slp
+|cant|p2a: Bastiodon|slp
+|
+|upkeep
+|turn|17
+|
+|t:|1772747193
+|move|p1a: Vikavolt|Thunderbolt|p2a: Bastiodon
+|-damage|p2a: Bastiodon|91/252 slp
+|cant|p2a: Bastiodon|slp
+|
+|upkeep
+|turn|18
+|
+|t:|1772747197
+|move|p1a: Vikavolt|Thunderbolt|p2a: Bastiodon
+|-crit|p2a: Bastiodon
+|-damage|p2a: Bastiodon|0 fnt
+|faint|p2a: Bastiodon
+|
+|upkeep
+|
+|t:|1772747201
+|switch|p2a: Wigglytuff|Wigglytuff, L96, M|310/424
+|turn|19
+|
+|t:|1772747208
+|move|p2a: Wigglytuff|Fire Blast|p1a: Vikavolt
+|-supereffective|p1a: Vikavolt
+|-damage|p1a: Vikavolt|0 fnt
+|faint|p1a: Vikavolt
+|
+|-heal|p2a: Wigglytuff|336/424|[from] item: Leftovers
+|upkeep
+|
+|t:|1772747214
+|switch|p1a: Metagross|Metagross, L79|192/256
+|turn|20
+|
+|t:|1772747217
+|-terastallize|p2a: Wigglytuff|Steel
+|move|p1a: Metagross|Heavy Slam|p2a: Wigglytuff
+|-resisted|p2a: Wigglytuff
+|-damage|p2a: Wigglytuff|241/424
+|move|p2a: Wigglytuff|Fire Blast|p1a: Metagross
+|-supereffective|p1a: Metagross
+|-crit|p1a: Metagross
+|-damage|p1a: Metagross|0 fnt
+|faint|p1a: Metagross
+|
+|-heal|p2a: Wigglytuff|267/424|[from] item: Leftovers
+|upkeep
+|
+|t:|1772747231
+|switch|p1a: Iron Bundle|Iron Bundle, L78|161/215
+|turn|21
+|
+|t:|1772747235
+|switch|p2a: Porygon2|Porygon2, L81|207/270
+|-ability|p2a: Porygon2|Download|boost
+|-boost|p2a: Porygon2|spa|1
+|-terastallize|p1a: Iron Bundle|Water
+|move|p1a: Iron Bundle|Hydro Pump|p2a: Porygon2
+|-damage|p2a: Porygon2|105/270
+|
+|upkeep
+|turn|22
+|
+|t:|1772747248
+|-end|p1a: Iron Bundle|Quark Drive|[silent]
+|switch|p1a: Persian|Persian, L92, F|269/269
+|move|p2a: Porygon2|Thunder Wave|p1a: Persian
+|-immune|p1a: Persian|[from] ability: Limber
+|
+|upkeep
+|turn|23
+|
+|t:|1772747257
+|switch|p2a: Garganacl|Garganacl, L80, M|212/291
+|move|p1a: Persian|Knock Off|p2a: Garganacl
+|-damage|p2a: Garganacl|136/291
+|-enditem|p2a: Garganacl|Leftovers|[from] move: Knock Off|[of] p1a: Persian
+|
+|upkeep
+|turn|24
+|
+|t:|1772747270
+|switch|p1a: Iron Bundle|Iron Bundle, L78, tera:Water|161/215
+|move|p2a: Garganacl|Salt Cure|p1a: Iron Bundle
+|-damage|p1a: Iron Bundle|122/215
+|-start|p1a: Iron Bundle|Salt Cure
+|
+|-damage|p1a: Iron Bundle|69/215|[from] Salt Cure
+|upkeep
+|turn|25
+|
+|t:|1772747282
+|move|p1a: Iron Bundle|Hydro Pump|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|0 fnt
+|faint|p2a: Garganacl
+|
+|-damage|p1a: Iron Bundle|16/215|[from] Salt Cure
+|upkeep
+|
+|t:|1772747287
+|switch|p2a: Porygon2|Porygon2, L81|105/270
+|-ability|p2a: Porygon2|Download|boost
+|-boost|p2a: Porygon2|spa|1
+|turn|26
+|
+|t:|1772747291
+|-end|p1a: Iron Bundle|Quark Drive|[silent]
+|switch|p1a: Persian|Persian, L92, F|269/269
+|move|p2a: Porygon2|Recover|p2a: Porygon2
+|-heal|p2a: Porygon2|240/270
+|
+|upkeep
+|turn|27
+|
+|t:|1772747299
+|switch|p2a: Wigglytuff|Wigglytuff, L96, M, tera:Steel|267/424
+|move|p1a: Persian|Knock Off|p2a: Wigglytuff
+|-damage|p2a: Wigglytuff|140/424
+|-enditem|p2a: Wigglytuff|Leftovers|[from] move: Knock Off|[of] p1a: Persian
+|
+|upkeep
+|turn|28
+|
+|t:|1772747309
+|move|p1a: Persian|Knock Off|p2a: Wigglytuff
+|-damage|p2a: Wigglytuff|45/424
+|move|p2a: Wigglytuff|Wish|p2a: Wigglytuff
+|
+|upkeep
+|turn|29
+|
+|t:|1772747333
+|switch|p1a: Iron Bundle|Iron Bundle, L78, tera:Water|16/215
+|move|p2a: Wigglytuff|Alluring Voice|p1a: Iron Bundle
+|-damage|p1a: Iron Bundle|0 fnt
+|faint|p1a: Iron Bundle
+|-end|p1a: Iron Bundle|Quark Drive|[silent]
+|
+|-heal|p2a: Wigglytuff|257/424|[from] move: Wish|[wisher] Wigglytuff
+|upkeep
+|inactive|OnslaughtZero has 120 seconds left.
+|
+|t:|1772747349
+|switch|p1a: Cinccino|Cinccino, L83, F|260/260
+|turn|30
+|inactive|OnslaughtZero has 120 seconds left.
+|
+|t:|1772747365
+|move|p1a: Cinccino|Tidy Up|p1a: Cinccino
+|-boost|p1a: Cinccino|atk|1
+|-boost|p1a: Cinccino|spe|1
+|move|p2a: Wigglytuff|Alluring Voice|p1a: Cinccino
+|-damage|p1a: Cinccino|122/260
+|-start|p1a: Cinccino|confusion
+|
+|upkeep
+|turn|31
+|
+|t:|1772747371
+|-activate|p1a: Cinccino|confusion
+|move|p1a: Cinccino|Tail Slap|p2a: Wigglytuff
+|-resisted|p2a: Wigglytuff
+|-damage|p2a: Wigglytuff|218/424
+|-resisted|p2a: Wigglytuff
+|-damage|p2a: Wigglytuff|178/424
+|-resisted|p2a: Wigglytuff
+|-damage|p2a: Wigglytuff|140/424
+|-resisted|p2a: Wigglytuff
+|-damage|p2a: Wigglytuff|104/424
+|-resisted|p2a: Wigglytuff
+|-damage|p2a: Wigglytuff|62/424
+|-hitcount|p2a: Wigglytuff|5
+|move|p2a: Wigglytuff|Alluring Voice|p1a: Cinccino
+|-damage|p1a: Cinccino|0 fnt
+|faint|p1a: Cinccino
+|
+|upkeep
+|inactive|OnslaughtZero has 120 seconds left.
+|
+|t:|1772747383
+|switch|p1a: Persian|Persian, L92, F|269/269
+|turn|32
+|c|☆OnslaughtZero|fu ck you loser
+|
+|t:|1772747393
+|move|p1a: Persian|Double-Edge|p2a: Wigglytuff
+|-resisted|p2a: Wigglytuff
+|-damage|p2a: Wigglytuff|0 fnt
+|faint|p2a: Wigglytuff
+|-damage|p1a: Persian|249/269|[from] Recoil
+|
+|upkeep
+|
+|t:|1772747396
+|switch|p2a: Porygon2|Porygon2, L81|240/270
+|-ability|p2a: Porygon2|Download|boost
+|-boost|p2a: Porygon2|atk|1
+|turn|33
+|
+|t:|1772747401
+|move|p1a: Persian|Double-Edge|p2a: Porygon2
+|-damage|p2a: Porygon2|126/270
+|-damage|p1a: Persian|211/269|[from] Recoil
+|move|p2a: Porygon2|Recover|p2a: Porygon2
+|-heal|p2a: Porygon2|261/270
+|
+|upkeep
+|turn|34
+|c|☆OnslaughtZero|kiss my ass fuking loser
+|l|☆OnslaughtZero
+|inactive|OnslaughtZero disconnected and has a minute to reconnect!
+|player|p1|
+|inactive|OnslaughtZero has 30 seconds to reconnect!
+|inactive|OnslaughtZero has 20 seconds to reconnect!
+|inactive|OnslaughtZero has 15 seconds to reconnect!
+|inactive|OnslaughtZero has 10 seconds to reconnect!
+|inactive|OnslaughtZero has 5 seconds to reconnect!
+|-message|OnslaughtZero lost due to inactivity.
+|
+|win|Shmen8980

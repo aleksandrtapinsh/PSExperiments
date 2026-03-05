@@ -1,0 +1,288 @@
+|badge|p2|silver|gen9randombattle|30-8
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/">thread on Smogon.</a></div>
+|j|☆los chipirones
+|j|☆SebasDB
+|t:|1772744890
+|gametype|singles
+|player|p1|los chipirones|unknown|2318
+|player|p2|SebasDB|dawn-gen4pt|2403
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772744890
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Drednaw|Drednaw, L81, F|278/278
+|switch|p2a: Empoleon|Empoleon, L84, M|278/278
+|turn|1
+|
+|t:|1772744903
+|switch|p1a: Toucannon|Toucannon, L88, F|284/284
+|move|p2a: Empoleon|Roar|p1a: Toucannon
+|drag|p1a: Umbreon|Umbreon, L84, M|297/297
+|
+|upkeep
+|turn|2
+|
+|t:|1772744914
+|move|p1a: Umbreon|Wish|p1a: Umbreon
+|move|p2a: Empoleon|Ice Beam|p1a: Umbreon
+|-damage|p1a: Umbreon|248/297
+|
+|-heal|p1a: Umbreon|266/297|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1772744918
+|move|p1a: Umbreon|Foul Play|p2a: Empoleon
+|-damage|p2a: Empoleon|208/278
+|move|p2a: Empoleon|Roar|p1a: Umbreon
+|drag|p1a: Zebstrika|Zebstrika, L87, M|272/272
+|
+|-heal|p2a: Empoleon|225/278|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1772744922
+|switch|p2a: Garchomp|Garchomp, L74, M|282/282
+|move|p1a: Zebstrika|Volt Switch|p2a: Garchomp
+|-immune|p2a: Garchomp
+|
+|upkeep
+|turn|5
+|
+|t:|1772744928
+|switch|p1a: Toucannon|Toucannon, L88, F|284/284
+|move|p2a: Garchomp|Spikes|p1a: Toucannon
+|-sidestart|p1: los chipirones|Spikes
+|
+|upkeep
+|turn|6
+|
+|t:|1772744936
+|move|p2a: Garchomp|Spikes|p1a: Toucannon
+|-sidestart|p1: los chipirones|Spikes
+|move|p1a: Toucannon|Bullet Seed|p2a: Garchomp
+|-damage|p2a: Garchomp|258/282
+|-damage|p2a: Garchomp|234/282
+|-crit|p2a: Garchomp
+|-damage|p2a: Garchomp|193/282
+|-damage|p2a: Garchomp|166/282
+|-damage|p2a: Garchomp|142/282
+|-hitcount|p2a: Garchomp|5
+|
+|upkeep
+|turn|7
+|
+|t:|1772744943
+|move|p2a: Garchomp|Spikes|p1a: Toucannon
+|-sidestart|p1: los chipirones|Spikes
+|move|p1a: Toucannon|Boomburst|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|faint|p2a: Garchomp
+|
+|upkeep
+|
+|t:|1772744951
+|switch|p2a: Empoleon|Empoleon, L84, M|225/278
+|turn|8
+|
+|t:|1772744959
+|move|p1a: Toucannon|Bullet Seed|p2a: Empoleon
+|-damage|p2a: Empoleon|200/278
+|-damage|p2a: Empoleon|174/278
+|-damage|p2a: Empoleon|149/278
+|-damage|p2a: Empoleon|126/278
+|-damage|p2a: Empoleon|101/278
+|-hitcount|p2a: Empoleon|5
+|move|p2a: Empoleon|Ice Beam|p1a: Toucannon
+|-supereffective|p1a: Toucannon
+|-damage|p1a: Toucannon|128/284
+|
+|-heal|p2a: Empoleon|118/278|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1772744968
+|switch|p2a: Breloom|Breloom, L83, F|235/235
+|move|p1a: Toucannon|Bullet Seed|p2a: Breloom
+|-resisted|p2a: Breloom
+|-damage|p2a: Breloom|223/235
+|-resisted|p2a: Breloom
+|-damage|p2a: Breloom|210/235
+|-resisted|p2a: Breloom
+|-damage|p2a: Breloom|198/235
+|-resisted|p2a: Breloom
+|-damage|p2a: Breloom|186/235
+|-resisted|p2a: Breloom
+|-damage|p2a: Breloom|173/235
+|-hitcount|p2a: Breloom|5
+|
+|upkeep
+|turn|10
+|
+|t:|1772744974
+|-singleturn|p1a: Toucannon|move: Beak Blast
+|move|p2a: Breloom|Rock Tomb|p1a: Toucannon
+|-supereffective|p1a: Toucannon
+|-damage|p1a: Toucannon|0 fnt
+|faint|p1a: Toucannon
+|-damage|p2a: Breloom|150/235|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772744981
+|switch|p1a: Armarouge|Armarouge, L80, M|267/267
+|-damage|p1a: Armarouge|201/267|[from] Spikes
+|turn|11
+|
+|t:|1772744999
+|switch|p2a: Empoleon|Empoleon, L84, M|118/278
+|move|p1a: Armarouge|Armor Cannon|p2a: Empoleon
+|-damage|p2a: Empoleon|0 fnt
+|-unboost|p1a: Armarouge|def|1
+|-unboost|p1a: Armarouge|spd|1
+|faint|p2a: Empoleon
+|
+|upkeep
+|
+|t:|1772745005
+|switch|p2a: Deoxys|Deoxys-Speed, L82|216/216
+|-ability|p2a: Deoxys|Pressure
+|turn|12
+|
+|t:|1772745014
+|move|p2a: Deoxys|Knock Off|p1a: Armarouge
+|-supereffective|p1a: Armarouge
+|-damage|p1a: Armarouge|0 fnt
+|-enditem|p1a: Armarouge|Choice Specs|[from] move: Knock Off|[of] p2a: Deoxys
+|faint|p1a: Armarouge
+|-damage|p2a: Deoxys|195/216|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772745021
+|switch|p1a: Umbreon|Umbreon, L84, M|266/297
+|-damage|p1a: Umbreon|192/297|[from] Spikes
+|turn|13
+|
+|t:|1772745027
+|move|p2a: Deoxys|Superpower|p1a: Umbreon
+|-supereffective|p1a: Umbreon
+|-damage|p1a: Umbreon|23/297
+|-unboost|p2a: Deoxys|atk|1
+|-unboost|p2a: Deoxys|def|1
+|-damage|p2a: Deoxys|174/216|[from] item: Life Orb
+|move|p1a: Umbreon|Foul Play|p2a: Deoxys
+|-supereffective|p2a: Deoxys
+|-damage|p2a: Deoxys|0 fnt
+|faint|p2a: Deoxys
+|
+|-heal|p1a: Umbreon|41/297|[from] item: Leftovers
+|upkeep
+|
+|t:|1772745040
+|switch|p2a: Breloom|Breloom, L83, F|150/235
+|turn|14
+|
+|t:|1772745044
+|move|p2a: Breloom|Bullet Seed|p1a: Umbreon
+|-damage|p1a: Umbreon|0 fnt
+|faint|p1a: Umbreon
+|-hitcount|p1: Umbreon|1
+|-damage|p2a: Breloom|127/235|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772745051
+|switch|p1a: Zebstrika|Zebstrika, L87, M|272/272
+|-damage|p1a: Zebstrika|204/272|[from] Spikes
+|turn|15
+|j| Shaky3
+|
+|t:|1772745082
+|switch|p2a: Reuniclus|Reuniclus, L88, F|337/337
+|move|p1a: Zebstrika|Overheat|p2a: Reuniclus
+|-damage|p2a: Reuniclus|237/337
+|-unboost|p1a: Zebstrika|spa|2
+|-damage|p1a: Zebstrika|177/272|[from] item: Life Orb
+|
+|upkeep
+|turn|16
+|j| Frgfhj
+|
+|t:|1772745091
+|move|p1a: Zebstrika|Supercell Slam|p2a: Reuniclus
+|-damage|p2a: Reuniclus|64/337
+|-damage|p1a: Zebstrika|150/272|[from] item: Life Orb
+|move|p2a: Reuniclus|Psychic|p1a: Zebstrika
+|-damage|p1a: Zebstrika|0 fnt
+|faint|p1a: Zebstrika
+|
+|upkeep
+|
+|t:|1772745099
+|switch|p1a: Drednaw|Drednaw, L81, F|278/278
+|-damage|p1a: Drednaw|209/278|[from] Spikes
+|turn|17
+|
+|t:|1772745101
+|move|p1a: Drednaw|Crunch|p2a: Reuniclus
+|-supereffective|p2a: Reuniclus
+|-damage|p2a: Reuniclus|0 fnt
+|faint|p2a: Reuniclus
+|
+|upkeep
+|
+|t:|1772745109
+|switch|p2a: Crabominable|Crabominable, L90, M|321/321
+|turn|18
+|c| Frgfhj|Hello. I have a question.
+|c|☆SebasDB|yes
+|c|☆SebasDB|go ahead
+|
+|t:|1772745128
+|move|p1a: Drednaw|Stone Edge|p2a: Crabominable
+|-damage|p2a: Crabominable|197/321
+|move|p2a: Crabominable|Drain Punch|p1a: Drednaw
+|-supereffective|p1a: Drednaw
+|-damage|p1a: Drednaw|0 fnt
+|-heal|p2a: Crabominable|302/321|[from] drain|[of] p1a: Drednaw
+|faint|p1a: Drednaw
+|
+|upkeep
+|
+|t:|1772745130
+|switch|p1a: Haxorus|Haxorus, L77, M|244/244
+|-damage|p1a: Haxorus|183/244|[from] Spikes
+|-ability|p1a: Haxorus|Mold Breaker
+|turn|19
+|
+|t:|1772745136
+|move|p1a: Haxorus|Iron Head|p2a: Crabominable
+|-supereffective|p2a: Crabominable
+|-damage|p2a: Crabominable|158/321
+|move|p2a: Crabominable|Ice Hammer|p1a: Haxorus
+|-supereffective|p1a: Haxorus
+|-damage|p1a: Haxorus|0 fnt
+|-unboost|p2a: Crabominable|spe|1
+|faint|p1a: Haxorus
+|
+|win|SebasDB
+|raw|los chipirones's rating: 2318 &rarr; <strong>2303</strong><br />(-15 for losing)
+|raw|SebasDB's rating: 2403 &rarr; <strong>2418</strong><br />(+15 for winning)
+|c| Frgfhj|Are you in high ladder random battle. Because of the RNG team or because of skills ?
+|l|☆los chipirones
+|player|p1|
+|l| Shaky3
+|c|☆SebasDB|Both
+|c| Frgfhj|Ok
+|c| Frgfhj|thx
+|l| Frgfhj
+|c|☆SebasDB|Sometimes you just win because of teams

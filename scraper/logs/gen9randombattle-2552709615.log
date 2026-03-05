@@ -1,0 +1,131 @@
+|j|☆manofcheese144
+|j|‽compound zhero
+|t:|1772745619
+|gametype|singles
+|player|p1|manofcheese144|gentleman-gen4dp|1574
+|player|p2|compound zhero|265|1583
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772745619
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Chimecho|Chimecho, L93, F|290/290
+|switch|p2a: Kilowattrel|Kilowattrel, L83, M|252/252
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by manofcheese144)
+|
+|t:|1772745653
+|move|p2a: Kilowattrel|U-turn|p1a: Chimecho
+|-supereffective|p1a: Chimecho
+|-damage|p1a: Chimecho|220/290
+|
+|t:|1772745657
+|switch|p2a: Hydreigon|Hydreigon, L79, M|275/275|[from] U-turn
+|move|p1a: Chimecho|Psychic Noise|p2a: Hydreigon
+|-immune|p2a: Hydreigon
+|
+|-heal|p1a: Chimecho|238/290|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1772745663
+|switch|p1a: Kricketune|Kricketune, L99, F|312/312
+|move|p2a: Hydreigon|Dark Pulse|p1a: Kricketune
+|-damage|p1a: Kricketune|160/312
+|-damage|p2a: Hydreigon|248/275|[from] item: Life Orb
+|
+|upkeep
+|turn|3
+|
+|t:|1772745668
+|move|p2a: Hydreigon|Draco Meteor|p1a: Kricketune
+|-damage|p1a: Kricketune|0 fnt
+|-unboost|p2a: Hydreigon|spa|2
+|faint|p1a: Kricketune
+|-damage|p2a: Hydreigon|221/275|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772745673
+|switch|p1a: Persian|Persian-Alola, L86, F|252/252
+|turn|4
+|
+|t:|1772745686
+|switch|p2a: Kilowattrel|Kilowattrel, L83, M|252/252
+|move|p1a: Persian|Nasty Plot|p1a: Persian
+|-boost|p1a: Persian|spa|2
+|
+|upkeep
+|turn|5
+|
+|t:|1772745693
+|move|p2a: Kilowattrel|U-turn|p1a: Persian
+|-supereffective|p1a: Persian
+|-damage|p1a: Persian|202/252
+|
+|t:|1772745695
+|switch|p2a: Munkidori|Munkidori, L79, M|269/269|[from] U-turn
+|move|p1a: Persian|Dark Pulse|p2a: Munkidori
+|-supereffective|p2a: Munkidori
+|-damage|p2a: Munkidori|0 fnt
+|faint|p2a: Munkidori
+|-damage|p1a: Persian|177/252|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772745703
+|switch|p2a: Breloom|Breloom, L83, F|235/235
+|turn|6
+|inactive|compound zhero has 120 seconds left.
+|
+|t:|1772745743
+|-terastallize|p1a: Persian|Fairy
+|move|p1a: Persian|Tera Blast|p2a: Breloom|[anim] Tera Blast Fairy
+|-supereffective|p2a: Breloom
+|-damage|p2a: Breloom|0 fnt
+|faint|p2a: Breloom
+|-damage|p1a: Persian|152/252|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772745750
+|switch|p2a: Volcarona|Volcarona, L77, M|257/257
+|turn|7
+|
+|t:|1772745755
+|move|p1a: Persian|Dark Pulse|p2a: Volcarona
+|-damage|p2a: Volcarona|72/257
+|-damage|p1a: Persian|127/252|[from] item: Life Orb
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|
+|upkeep
+|turn|8
+|
+|t:|1772745760
+|move|p2a: Volcarona|Bug Buzz|p1a: Persian
+|-resisted|p1a: Persian
+|-damage|p1a: Persian|35/252
+|move|p1a: Persian|Dark Pulse|p2a: Volcarona
+|-damage|p2a: Volcarona|0 fnt
+|faint|p2a: Volcarona
+|-damage|p1a: Persian|10/252|[from] item: Life Orb
+|
+|upkeep
+|-message|compound zhero forfeited.
+|
+|win|manofcheese144
+|raw|manofcheese144's rating: 1574 &rarr; <strong>1595</strong><br />(+21 for winning)
+|raw|compound zhero's rating: 1583 &rarr; <strong>1562</strong><br />(-21 for losing)
+|l|‽compound zhero
+|player|p2|
+|c|☆manofcheese144|gg

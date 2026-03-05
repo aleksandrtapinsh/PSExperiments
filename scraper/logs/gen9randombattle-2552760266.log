@@ -1,0 +1,53 @@
+|j|☆amigodemalamar
+|j|☆Toboosty
+|t:|1772750605
+|gametype|singles
+|player|p1|amigodemalamar|flannery|1231
+|player|p2|Toboosty|pokekid|1257
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772750605
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kyurem|Kyurem-Black, L71|295/295
+|switch|p2a: Jirachi|Jirachi, L80|291/291
+|-ability|p1a: Kyurem|Teravolt
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Toboosty)
+|
+|t:|1772750626
+|switch|p1a: Grumpig|Grumpig, L92, F|297/297
+|move|p2a: Jirachi|Iron Head|p1a: Grumpig
+|-crit|p1a: Grumpig
+|-damage|p1a: Grumpig|152/297
+|
+|upkeep
+|turn|2
+|
+|t:|1772750656
+|switch|p2a: Smeargle|Smeargle, L95, M|258/258
+|move|p1a: Grumpig|Shadow Ball|p2a: Smeargle
+|-immune|p2a: Smeargle
+|
+|upkeep
+|turn|3
+|l|☆amigodemalamar
+|inactive|amigodemalamar disconnected and has a minute to reconnect!
+|player|p1|
+|inactive|amigodemalamar has 30 seconds to reconnect!
+|inactive|amigodemalamar has 20 seconds to reconnect!
+|inactive|amigodemalamar has 15 seconds to reconnect!
+|inactive|amigodemalamar has 10 seconds to reconnect!
+|inactive|amigodemalamar has 5 seconds to reconnect!
+|-message|amigodemalamar lost due to inactivity.
+|
+|win|Toboosty
+|raw|amigodemalamar's rating: 1231 &rarr; <strong>1208</strong><br />(-23 for losing)
+|raw|Toboosty's rating: 1257 &rarr; <strong>1280</strong><br />(+23 for winning)

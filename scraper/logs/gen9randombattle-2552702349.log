@@ -1,0 +1,178 @@
+|j|☆onestopgaming
+|j|☆Typhlosionluck
+|t:|1772744933
+|gametype|singles
+|player|p1|onestopgaming|hoopster|
+|player|p2|Typhlosionluck|169|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772744933
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Gliscor|Gliscor, L76, M|239/239
+|switch|p2a: Ting-Lu|Ting-Lu, L78|370/370
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|turn|1
+|
+|t:|1772744967
+|move|p1a: Gliscor|Toxic|p2a: Ting-Lu
+|-status|p2a: Ting-Lu|tox
+|move|p2a: Ting-Lu|Spikes|p1a: Gliscor
+|-sidestart|p1: onestopgaming|Spikes
+|
+|-damage|p2a: Ting-Lu|347/370 tox|[from] psn
+|-status|p1a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|2
+|
+|t:|1772744989
+|move|p1a: Gliscor|Protect|p1a: Gliscor
+|-singleturn|p1a: Gliscor|Protect
+|move|p2a: Ting-Lu|Spikes|p1a: Gliscor
+|-sidestart|p1: onestopgaming|Spikes
+|
+|-heal|p2a: Ting-Lu|370/370 tox|[from] item: Leftovers
+|-damage|p2a: Ting-Lu|324/370 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1772744998
+|move|p1a: Gliscor|Substitute|p1a: Gliscor
+|-start|p1a: Gliscor|Substitute
+|-damage|p1a: Gliscor|180/239 tox
+|move|p2a: Ting-Lu|Whirlwind|p1a: Gliscor
+|drag|p1a: Sandaconda|Sandaconda, L84, F|258/258
+|-damage|p1a: Sandaconda|215/258|[from] Spikes
+|
+|-heal|p2a: Ting-Lu|347/370 tox|[from] item: Leftovers
+|-damage|p2a: Ting-Lu|278/370 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1772745022
+|switch|p2a: Frosmoth|Frosmoth, L82, F|249/249
+|move|p1a: Sandaconda|Coil|p1a: Sandaconda
+|-boost|p1a: Sandaconda|atk|1
+|-boost|p1a: Sandaconda|def|1
+|-boost|p1a: Sandaconda|accuracy|1
+|
+|upkeep
+|turn|5
+|
+|t:|1772745036
+|-terastallize|p2a: Frosmoth|Ground
+|move|p1a: Sandaconda|Rock Blast|p2a: Frosmoth
+|-resisted|p2a: Frosmoth
+|-damage|p2a: Frosmoth|231/249
+|-resisted|p2a: Frosmoth
+|-damage|p2a: Frosmoth|212/249
+|-resisted|p2a: Frosmoth
+|-damage|p2a: Frosmoth|193/249
+|-resisted|p2a: Frosmoth
+|-damage|p2a: Frosmoth|175/249
+|-resisted|p2a: Frosmoth
+|-damage|p2a: Frosmoth|155/249
+|-hitcount|p2a: Frosmoth|5
+|move|p2a: Frosmoth|Quiver Dance|p2a: Frosmoth
+|-boost|p2a: Frosmoth|spa|1
+|-boost|p2a: Frosmoth|spd|1
+|-boost|p2a: Frosmoth|spe|1
+|
+|upkeep
+|turn|6
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Typhlosionluck)
+|
+|t:|1772745087
+|switch|p1a: Chien-Pao|Chien-Pao, L72|234/234
+|-damage|p1a: Chien-Pao|195/234|[from] Spikes
+|-ability|p1a: Chien-Pao|Sword of Ruin
+|move|p2a: Frosmoth|Quiver Dance|p2a: Frosmoth
+|-boost|p2a: Frosmoth|spa|1
+|-boost|p2a: Frosmoth|spd|1
+|-boost|p2a: Frosmoth|spe|1
+|
+|upkeep
+|turn|7
+|
+|t:|1772745108
+|move|p2a: Frosmoth|Bug Buzz|p1a: Chien-Pao
+|-supereffective|p1a: Chien-Pao
+|-damage|p1a: Chien-Pao|0 fnt
+|faint|p1a: Chien-Pao
+|
+|upkeep
+|
+|t:|1772745122
+|switch|p1a: Volcanion|Volcanion, L79|255/255
+|-damage|p1a: Volcanion|213/255|[from] Spikes
+|turn|8
+|
+|t:|1772745128
+|move|p2a: Frosmoth|Tera Blast|p1a: Volcanion|[anim] Tera Blast Ground
+|-supereffective|p1a: Volcanion
+|-damage|p1a: Volcanion|0 fnt
+|faint|p1a: Volcanion
+|
+|upkeep
+|
+|t:|1772745137
+|switch|p1a: Zamazenta|Zamazenta-Crowned, L68|238/238
+|-damage|p1a: Zamazenta|199/238|[from] Spikes
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|turn|9
+|
+|t:|1772745148
+|move|p2a: Frosmoth|Tera Blast|p1a: Zamazenta|[anim] Tera Blast Ground
+|-supereffective|p1a: Zamazenta
+|-damage|p1a: Zamazenta|0 fnt
+|faint|p1a: Zamazenta
+|
+|upkeep
+|
+|t:|1772745156
+|switch|p1a: Gliscor|Gliscor, L76, M|180/239 tox
+|turn|10
+|
+|t:|1772745159
+|move|p2a: Frosmoth|Ice Beam|p1a: Gliscor
+|-supereffective|p1a: Gliscor
+|-damage|p1a: Gliscor|0 fnt
+|faint|p1a: Gliscor
+|
+|upkeep
+|
+|t:|1772745165
+|switch|p1a: Qwilfish|Qwilfish-Hisui, L83, F|244/244
+|-damage|p1a: Qwilfish|204/244|[from] Spikes
+|-ability|p1a: Qwilfish|Intimidate|boost
+|-unboost|p2a: Frosmoth|atk|1
+|turn|11
+|
+|t:|1772745178
+|move|p2a: Frosmoth|Tera Blast|p1a: Qwilfish|[anim] Tera Blast Ground
+|-supereffective|p1a: Qwilfish
+|-damage|p1a: Qwilfish|0 fnt
+|faint|p1a: Qwilfish
+|
+|upkeep
+|
+|t:|1772745184
+|switch|p1a: Sandaconda|Sandaconda, L84, F|215/258
+|-damage|p1a: Sandaconda|172/258|[from] Spikes
+|turn|12
+|
+|t:|1772745191
+|-terastallize|p1a: Sandaconda|Dragon
+|move|p2a: Frosmoth|Ice Beam|p1a: Sandaconda
+|-supereffective|p1a: Sandaconda
+|-damage|p1a: Sandaconda|0 fnt
+|faint|p1a: Sandaconda
+|
+|win|Typhlosionluck

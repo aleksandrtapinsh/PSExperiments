@@ -1,0 +1,374 @@
+|j|☆mouri88
+|j|☆vicomte harebourg
+|t:|1772745530
+|gametype|singles
+|player|p1|mouri88|102|1521
+|player|p2|vicomte harebourg|101|1564
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772745530
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Jirachi|Jirachi, L80|291/291
+|switch|p2a: Lokix|Lokix, L82, M|251/251
+|turn|1
+|
+|t:|1772745546
+|switch|p1a: Vespiquen|Vespiquen, L99, F|299/299
+|-ability|p1a: Vespiquen|Pressure
+|move|p2a: Lokix|Knock Off|p1a: Vespiquen
+|-damage|p1a: Vespiquen|205/299
+|-enditem|p1a: Vespiquen|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Lokix
+|-damage|p2a: Lokix|226/251|[from] item: Life Orb
+|
+|upkeep
+|turn|2
+|
+|t:|1772745559
+|switch|p2a: Salazzle|Salazzle, L83, F|249/249
+|move|p1a: Vespiquen|Toxic|p2a: Salazzle
+|-immune|p2a: Salazzle
+|
+|upkeep
+|turn|3
+|
+|t:|1772745588
+|switch|p1a: Indeedee|Indeedee-F, L90, F|272/272
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Indeedee
+|move|p2a: Salazzle|Sludge Wave|p1a: Indeedee
+|-crit|p1a: Indeedee
+|-damage|p1a: Indeedee|140/272
+|
+|upkeep
+|turn|4
+|
+|t:|1772745610
+|switch|p2a: Hydreigon|Hydreigon, L79, F|275/275
+|move|p1a: Indeedee|Calm Mind|p1a: Indeedee
+|-boost|p1a: Indeedee|spa|1
+|-boost|p1a: Indeedee|spd|1
+|
+|upkeep
+|turn|5
+|
+|t:|1772745619
+|-terastallize|p1a: Indeedee|Fairy
+|move|p1a: Indeedee|Dazzling Gleam|p2a: Hydreigon
+|-supereffective|p2a: Hydreigon
+|-damage|p2a: Hydreigon|0 fnt
+|faint|p2a: Hydreigon
+|-damage|p1a: Indeedee|113/272|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772745628
+|switch|p2a: Dialga|Dialga, L73|266/266
+|-ability|p2a: Dialga|Pressure
+|turn|6
+|
+|t:|1772745636
+|move|p1a: Indeedee|Dazzling Gleam|p2a: Dialga
+|-damage|p2a: Dialga|145/266
+|-damage|p1a: Indeedee|86/272|[from] item: Life Orb
+|move|p2a: Dialga|Heavy Slam|p1a: Indeedee
+|-supereffective|p1a: Indeedee
+|-damage|p1a: Indeedee|0 fnt
+|faint|p1a: Indeedee
+|
+|upkeep
+|
+|t:|1772745664
+|switch|p1a: Landorus|Landorus-Therian, L76, M|260/260
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Dialga|atk|1
+|turn|7
+|
+|t:|1772745675
+|move|p1a: Landorus|Stealth Rock|p2a: Dialga
+|-sidestart|p2: vicomte harebourg|move: Stealth Rock
+|move|p2a: Dialga|Dragon Tail|p1a: Landorus
+|-damage|p1a: Landorus|221/260
+|drag|p1a: Jirachi|Jirachi, L80|291/291
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|8
+|
+|t:|1772745692
+|move|p1a: Jirachi|Body Slam|p2a: Dialga
+|-resisted|p2a: Dialga
+|-damage|p2a: Dialga|121/266
+|-status|p2a: Dialga|par
+|cant|p2a: Dialga|par
+|
+|upkeep
+|turn|9
+|
+|t:|1772745703
+|move|p1a: Jirachi|Iron Head|p2a: Dialga
+|-resisted|p2a: Dialga
+|-damage|p2a: Dialga|87/266 par
+|move|p2a: Dialga|Fire Blast|p1a: Jirachi
+|-supereffective|p1a: Jirachi
+|-damage|p1a: Jirachi|139/291
+|
+|-heal|p1a: Jirachi|157/291|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1772745713
+|move|p1a: Jirachi|Protect|p1a: Jirachi
+|-singleturn|p1a: Jirachi|Protect
+|move|p2a: Dialga|Fire Blast|p1a: Jirachi
+|-activate|p1a: Jirachi|move: Protect
+|
+|-heal|p1a: Jirachi|175/291|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1772745723
+|move|p1a: Jirachi|Wish|p1a: Jirachi
+|move|p2a: Dialga|Fire Blast|p1a: Jirachi|[miss]
+|-miss|p2a: Dialga|p1a: Jirachi
+|
+|-heal|p1a: Jirachi|193/291|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1772745745
+|switch|p1a: Landorus|Landorus-Therian, L76, M|221/260
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Dialga|atk|1
+|switch|p2a: Lokix|Lokix, L82, M|226/251
+|-damage|p2a: Lokix|164/251|[from] Stealth Rock
+|
+|-heal|p1a: Landorus|260/260|[from] move: Wish|[wisher] Jirachi
+|upkeep
+|turn|13
+|
+|t:|1772745760
+|move|p2a: Lokix|Leech Life|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|138/260
+|-heal|p2a: Lokix|225/251|[from] drain|[of] p1a: Landorus
+|-damage|p2a: Lokix|200/251|[from] item: Life Orb
+|move|p1a: Landorus|Stone Edge|p2a: Lokix
+|-supereffective|p2a: Lokix
+|-damage|p2a: Lokix|10/251
+|
+|-heal|p1a: Landorus|154/260|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1772745791
+|switch|p1a: Ribombee|Ribombee, L83, M|235/235
+|move|p2a: Lokix|Knock Off|p1a: Ribombee
+|-resisted|p1a: Ribombee
+|-damage|p1a: Ribombee|48/235
+|-enditem|p1a: Ribombee|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Lokix
+|-damage|p2a: Lokix|0 fnt|[from] item: Life Orb
+|faint|p2a: Lokix
+|
+|upkeep
+|
+|t:|1772745798
+|switch|p2a: Talonflame|Talonflame, L83, F|265/265
+|turn|15
+|
+|t:|1772745850
+|move|p2a: Talonflame|Brave Bird|p1a: Ribombee
+|-supereffective|p1a: Ribombee
+|-damage|p1a: Ribombee|0 fnt
+|faint|p1a: Ribombee
+|-damage|p2a: Talonflame|249/265|[from] Recoil
+|
+|upkeep
+|
+|t:|1772745856
+|switch|p1a: Landorus|Landorus-Therian, L76, M|154/260
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Talonflame|atk|1
+|turn|16
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by mouri88)
+|
+|t:|1772745891
+|move|p2a: Talonflame|Will-O-Wisp|p1a: Landorus
+|-status|p1a: Landorus|brn
+|move|p1a: Landorus|Stone Edge|p2a: Talonflame
+|-supereffective|p2a: Talonflame
+|-damage|p2a: Talonflame|57/265
+|
+|-heal|p1a: Landorus|170/260 brn|[from] item: Leftovers
+|-damage|p1a: Landorus|154/260 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1772745907
+|-terastallize|p2a: Talonflame|Dragon
+|move|p2a: Talonflame|Roost|p2a: Talonflame
+|-heal|p2a: Talonflame|190/265
+|move|p1a: Landorus|Stone Edge|p2a: Talonflame
+|-damage|p2a: Talonflame|145/265
+|
+|-heal|p1a: Landorus|170/260 brn|[from] item: Leftovers
+|-damage|p1a: Landorus|154/260 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1772745920
+|move|p2a: Talonflame|Roost|p2a: Talonflame
+|-heal|p2a: Talonflame|265/265
+|move|p1a: Landorus|U-turn|p2a: Talonflame
+|-damage|p2a: Talonflame|233/265
+|
+|t:|1772745935
+|switch|p1a: Banette|Banette, L93, M|270/270|[from] U-turn
+|
+|upkeep
+|turn|19
+|inactive|vicomte harebourg has 120 seconds left.
+|
+|t:|1772745980
+|move|p2a: Talonflame|Will-O-Wisp|p1a: Banette
+|-status|p1a: Banette|brn
+|move|p1a: Banette|Thunder Wave|p2a: Talonflame
+|-status|p2a: Talonflame|par
+|
+|-damage|p1a: Banette|254/270 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1772746002
+|switch|p1a: Landorus|Landorus-Therian, L76, M|154/260 brn
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Talonflame|atk|1
+|move|p2a: Talonflame|Brave Bird|p1a: Landorus
+|-damage|p1a: Landorus|90/260 brn
+|-damage|p2a: Talonflame|212/265 par|[from] Recoil
+|
+|-heal|p1a: Landorus|106/260 brn|[from] item: Leftovers
+|-damage|p1a: Landorus|90/260 brn|[from] brn
+|upkeep
+|turn|21
+|inactive|vicomte harebourg has 120 seconds left.
+|inactive|mouri88 has 120 seconds left.
+|inactive|vicomte harebourg has 90 seconds left.
+|
+|t:|1772746057
+|switch|p2a: Alcremie|Alcremie-Ruby-Cream, L90, F|263/263
+|-damage|p2a: Alcremie|231/263|[from] Stealth Rock
+|move|p1a: Landorus|Stone Edge|p2a: Alcremie|[miss]
+|-miss|p1a: Landorus|p2a: Alcremie
+|
+|-heal|p1a: Landorus|106/260 brn|[from] item: Leftovers
+|-heal|p2a: Alcremie|247/263|[from] item: Leftovers
+|-damage|p1a: Landorus|90/260 brn|[from] brn
+|upkeep
+|turn|22
+|inactive|mouri88 has 120 seconds left.
+|
+|t:|1772746069
+|move|p1a: Landorus|U-turn|p2a: Alcremie
+|-resisted|p2a: Alcremie
+|-damage|p2a: Alcremie|232/263
+|
+|t:|1772746072
+|switch|p1a: Jirachi|Jirachi, L80|193/291|[from] U-turn
+|move|p2a: Alcremie|Alluring Voice|p1a: Jirachi
+|-resisted|p1a: Jirachi
+|-damage|p1a: Jirachi|144/291
+|
+|-heal|p1a: Jirachi|162/291|[from] item: Leftovers
+|-heal|p2a: Alcremie|248/263|[from] item: Leftovers
+|upkeep
+|turn|23
+|inactive|mouri88 has 120 seconds left.
+|
+|t:|1772746085
+|switch|p2a: Talonflame|Talonflame, L83, F, tera:Dragon|212/265 par
+|move|p1a: Jirachi|Wish|p1a: Jirachi
+|
+|-heal|p1a: Jirachi|180/291|[from] item: Leftovers
+|upkeep
+|turn|24
+|inactive|mouri88 has 120 seconds left.
+|
+|t:|1772746095
+|move|p1a: Jirachi|Protect|p1a: Jirachi
+|-singleturn|p1a: Jirachi|Protect
+|move|p2a: Talonflame|Overheat|p1a: Jirachi
+|-activate|p1a: Jirachi|move: Protect
+|
+|-heal|p1a: Jirachi|291/291|[from] move: Wish|[wisher] Jirachi
+|upkeep
+|turn|25
+|inactive|mouri88 has 120 seconds left.
+|
+|t:|1772746105
+|move|p1a: Jirachi|Iron Head|p2a: Talonflame
+|-damage|p2a: Talonflame|116/265 par
+|cant|p2a: Talonflame|flinch
+|
+|upkeep
+|turn|26
+|inactive|vicomte harebourg has 120 seconds left.
+|inactive|mouri88 has 120 seconds left.
+|
+|t:|1772746122
+|move|p1a: Jirachi|Iron Head|p2a: Talonflame
+|-damage|p2a: Talonflame|13/265 par
+|-status|p1a: Jirachi|brn|[from] ability: Flame Body|[of] p2a: Talonflame
+|cant|p2a: Talonflame|flinch
+|
+|-damage|p1a: Jirachi|273/291 brn|[from] brn
+|upkeep
+|turn|27
+|inactive|mouri88 has 120 seconds left.
+|c|☆vicomte harebourg|I mean
+|inactive|vicomte harebourg has 120 seconds left.
+|n|!vicomte harebourg|vicomteharebourg
+|
+|t:|1772746147
+|switch|p2a: Salazzle|Salazzle, L83, F|249/249
+|move|p1a: Jirachi|Body Slam|p2a: Salazzle
+|-crit|p2a: Salazzle
+|-damage|p2a: Salazzle|193/249
+|-status|p2a: Salazzle|par
+|
+|-heal|p1a: Jirachi|291/291 brn|[from] item: Leftovers
+|-damage|p1a: Jirachi|273/291 brn|[from] brn
+|upkeep
+|turn|28
+|inactive|mouri88 has 120 seconds left.
+|inactive|mouri88 has 90 seconds left.
+|l|!vicomte harebourg
+|inactive|vicomte harebourg disconnected and has a minute to reconnect!
+|player|p2|
+|
+|t:|1772746206
+|move|p1a: Jirachi|Body Slam|p2a: Salazzle
+|-damage|p2a: Salazzle|155/249 par
+|move|p2a: Salazzle|Fire Blast|p1a: Jirachi
+|-supereffective|p1a: Jirachi
+|-damage|p1a: Jirachi|33/291 brn
+|
+|-heal|p1a: Jirachi|51/291 brn|[from] item: Leftovers
+|-damage|p1a: Jirachi|33/291 brn|[from] brn
+|upkeep
+|turn|29
+|inactive|mouri88 has 60 seconds left.
+|inactive|vicomte harebourg has 30 seconds to reconnect!
+|inactive|vicomte harebourg has 20 seconds to reconnect!
+|inactive|vicomte harebourg has 15 seconds to reconnect!
+|inactive|vicomte harebourg has 10 seconds to reconnect!
+|inactive|vicomte harebourg has 5 seconds to reconnect!
+|-message|vicomte harebourg lost due to inactivity.
+|
+|win|mouri88

@@ -1,0 +1,259 @@
+|j|☆manofcheese144
+|j|☆check^5
+|t:|1772749472
+|gametype|singles
+|player|p1|manofcheese144|gentleman-gen4dp|1614
+|player|p2|check^5|266|1593
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772749472
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Virizion|Virizion, L82|283/283
+|switch|p2a: Pachirisu|Pachirisu, L96, F|271/271
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by manofcheese144)
+|
+|t:|1772749477
+|move|p2a: Pachirisu|Nuzzle|p1a: Virizion
+|-resisted|p1a: Virizion
+|-damage|p1a: Virizion|273/283
+|-status|p1a: Virizion|par
+|move|p1a: Virizion|Leaf Blade|p2a: Pachirisu
+|-damage|p2a: Pachirisu|154/271
+|-damage|p1a: Virizion|245/283 par|[from] item: Life Orb
+|
+|upkeep
+|turn|2
+|
+|t:|1772749480
+|move|p2a: Pachirisu|U-turn|p1a: Virizion
+|-damage|p1a: Virizion|199/283 par
+|
+|t:|1772749484
+|switch|p2a: Whimsicott|Whimsicott, L84, M|238/238|[from] U-turn
+|move|p1a: Virizion|Leaf Blade|p2a: Whimsicott
+|-resisted|p2a: Whimsicott
+|-damage|p2a: Whimsicott|185/238
+|-damage|p1a: Virizion|171/283 par|[from] item: Life Orb
+|
+|-heal|p2a: Whimsicott|199/238|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1772749489
+|switch|p1a: Vileplume|Vileplume, L85, M|266/266
+|move|p2a: Whimsicott|Moonblast|p1a: Vileplume
+|-resisted|p1a: Vileplume
+|-damage|p1a: Vileplume|227/266
+|-unboost|p1a: Vileplume|spa|1
+|
+|-heal|p2a: Whimsicott|213/238|[from] item: Leftovers
+|-heal|p1a: Vileplume|243/266|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1772749495
+|switch|p2a: Uxie|Uxie, L83|260/260
+|move|p1a: Vileplume|Sludge Bomb|p2a: Uxie
+|-damage|p2a: Uxie|206/260
+|
+|-heal|p2a: Uxie|222/260|[from] item: Leftovers
+|-heal|p1a: Vileplume|259/266|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1772749499
+|switch|p1a: Bisharp|Bisharp, L79, M|232/232
+|move|p2a: Uxie|Stealth Rock|p1a: Bisharp
+|-sidestart|p1: manofcheese144|move: Stealth Rock
+|
+|-heal|p2a: Uxie|238/260|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1772749502
+|move|p2a: Uxie|U-turn|p1a: Bisharp
+|-damage|p1a: Bisharp|208/232
+|
+|t:|1772749505
+|switch|p2a: Urshifu|Urshifu, L74, F|270/270|[from] U-turn
+|move|p1a: Bisharp|Stealth Rock|p2a: Urshifu
+|-sidestart|p2: check^5|move: Stealth Rock
+|
+|upkeep
+|turn|7
+|
+|t:|1772749509
+|switch|p1a: Misdreavus|Misdreavus, L90, F|254/254
+|-damage|p1a: Misdreavus|223/254|[from] Stealth Rock
+|move|p2a: Urshifu|Close Combat|p1a: Misdreavus
+|-immune|p1a: Misdreavus
+|
+|upkeep
+|turn|8
+|
+|t:|1772749514
+|switch|p2a: Pachirisu|Pachirisu, L96, F|154/271
+|-damage|p2a: Pachirisu|121/271|[from] Stealth Rock
+|move|p1a: Misdreavus|Draining Kiss|p2a: Pachirisu
+|-damage|p2a: Pachirisu|101/271
+|-heal|p1a: Misdreavus|238/254|[from] drain|[of] p2a: Pachirisu
+|
+|upkeep
+|turn|9
+|
+|t:|1772749518
+|move|p2a: Pachirisu|U-turn|p1a: Misdreavus
+|-resisted|p1a: Misdreavus
+|-damage|p1a: Misdreavus|221/254
+|
+|t:|1772749520
+|switch|p2a: Whimsicott|Whimsicott, L84, M|213/238|[from] U-turn
+|-damage|p2a: Whimsicott|184/238|[from] Stealth Rock
+|move|p1a: Misdreavus|Calm Mind|p1a: Misdreavus
+|-boost|p1a: Misdreavus|spa|1
+|-boost|p1a: Misdreavus|spd|1
+|
+|-heal|p2a: Whimsicott|198/238|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1772749525
+|move|p2a: Whimsicott|Encore|p1a: Misdreavus
+|-start|p1a: Misdreavus|Encore
+|move|p1a: Misdreavus|Calm Mind|p1a: Misdreavus
+|-boost|p1a: Misdreavus|spa|1
+|-boost|p1a: Misdreavus|spd|1
+|
+|-heal|p2a: Whimsicott|212/238|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1772749527
+|switch|p1a: Bisharp|Bisharp, L79, M|208/232
+|-damage|p1a: Bisharp|194/232|[from] Stealth Rock
+|move|p2a: Whimsicott|Moonblast|p1a: Bisharp
+|-damage|p1a: Bisharp|122/232
+|
+|-heal|p2a: Whimsicott|226/238|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1772749530
+|switch|p2a: Urshifu|Urshifu, L74, F|270/270
+|-damage|p2a: Urshifu|254/270|[from] Stealth Rock
+|move|p1a: Bisharp|Iron Head|p2a: Urshifu
+|-damage|p2a: Urshifu|154/270
+|
+|upkeep
+|turn|13
+|
+|t:|1772749543
+|move|p2a: Urshifu|Wicked Blow|p1a: Bisharp
+|-resisted|p1a: Bisharp
+|-crit|p1a: Bisharp
+|-damage|p1a: Bisharp|62/232
+|move|p1a: Bisharp|Iron Head|p2a: Urshifu
+|-damage|p2a: Urshifu|58/270
+|
+|upkeep
+|turn|14
+|
+|t:|1772749549
+|move|p2a: Urshifu|Wicked Blow|p1a: Bisharp
+|-resisted|p1a: Bisharp
+|-crit|p1a: Bisharp
+|-damage|p1a: Bisharp|5/232
+|move|p1a: Bisharp|Iron Head|p2a: Urshifu
+|-damage|p2a: Urshifu|0 fnt
+|faint|p2a: Urshifu
+|
+|upkeep
+|
+|t:|1772749553
+|switch|p2a: Uxie|Uxie, L83|238/260
+|-damage|p2a: Uxie|206/260|[from] Stealth Rock
+|turn|15
+|
+|t:|1772749556
+|move|p1a: Bisharp|Sucker Punch|p2a: Uxie
+|-supereffective|p2a: Uxie
+|-damage|p2a: Uxie|74/260
+|move|p2a: Uxie|U-turn|p1a: Bisharp
+|-damage|p1a: Bisharp|0 fnt
+|faint|p1a: Bisharp
+|
+|t:|1772749560
+|switch|p2a: Pachirisu|Pachirisu, L96, F|101/271|[from] U-turn
+|-damage|p2a: Pachirisu|68/271|[from] Stealth Rock
+|
+|upkeep
+|
+|t:|1772749564
+|switch|p1a: Vileplume|Vileplume, L85, M|259/266
+|-damage|p1a: Vileplume|226/266|[from] Stealth Rock
+|turn|16
+|
+|t:|1772749566
+|move|p2a: Pachirisu|U-turn|p1a: Vileplume
+|-damage|p1a: Vileplume|190/266
+|
+|t:|1772749567
+|switch|p2a: Uxie|Uxie, L83|74/260|[from] U-turn
+|-damage|p2a: Uxie|42/260|[from] Stealth Rock
+|move|p1a: Vileplume|Sludge Bomb|p2a: Uxie
+|-damage|p2a: Uxie|0 fnt
+|faint|p2a: Uxie
+|
+|-heal|p1a: Vileplume|206/266|[from] item: Leftovers
+|upkeep
+|
+|t:|1772749570
+|switch|p2a: Meganium|Meganium, L90, F|290/290
+|-damage|p2a: Meganium|254/290|[from] Stealth Rock
+|turn|17
+|
+|t:|1772749573
+|-terastallize|p2a: Meganium|Ground
+|move|p2a: Meganium|Swords Dance|p2a: Meganium
+|-boost|p2a: Meganium|atk|2
+|move|p1a: Vileplume|Sludge Bomb|p2a: Meganium
+|-resisted|p2a: Meganium
+|-damage|p2a: Meganium|205/290
+|-status|p2a: Meganium|psn
+|
+|-heal|p2a: Meganium|223/290 psn|[from] item: Leftovers
+|-heal|p1a: Vileplume|222/266|[from] item: Leftovers
+|-damage|p2a: Meganium|187/290 psn|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1772749576
+|move|p2a: Meganium|Knock Off|p1a: Vileplume
+|-damage|p1a: Vileplume|76/266
+|-enditem|p1a: Vileplume|Leftovers|[from] move: Knock Off|[of] p2a: Meganium
+|move|p1a: Vileplume|Giga Drain|p2a: Meganium
+|-supereffective|p2a: Meganium
+|-damage|p2a: Meganium|43/290 psn
+|-heal|p1a: Vileplume|148/266|[from] drain|[of] p2a: Meganium
+|
+|-heal|p2a: Meganium|61/290 psn|[from] item: Leftovers
+|-damage|p2a: Meganium|25/290 psn|[from] psn
+|upkeep
+|turn|19
+|-message|check^5 forfeited.
+|
+|win|manofcheese144
+|raw|manofcheese144's rating: 1614 &rarr; <strong>1633</strong><br />(+19 for winning)
+|raw|check^5's rating: 1593 &rarr; <strong>1574</strong><br />(-19 for losing)
+|l|☆check^5
+|player|p2|
+|c|☆manofcheese144|gg

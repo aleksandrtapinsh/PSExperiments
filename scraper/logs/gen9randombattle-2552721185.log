@@ -1,0 +1,341 @@
+|j|☆Shargy
+|j|☆lildudu23
+|t:|1772746731
+|gametype|singles
+|player|p1|Shargy|blue-gen3|1376
+|player|p2|lildudu23|blackbelt-gen4dp|1380
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772746731
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Luvdisc|Luvdisc, F|247/247
+|switch|p2a: Lycanroc|Lycanroc-Dusk, L81, M|254/254
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by lildudu23)
+|
+|t:|1772746745
+|switch|p2a: Chesnaught|Chesnaught, L84, F|285/285
+|move|p1a: Luvdisc|Substitute|p1a: Luvdisc
+|-start|p1a: Luvdisc|Substitute
+|-damage|p1a: Luvdisc|186/247
+|
+|upkeep
+|turn|2
+|
+|t:|1772746752
+|move|p1a: Luvdisc|Endeavor|p2a: Chesnaught
+|-damage|p2a: Chesnaught|186/285
+|-damage|p1a: Luvdisc|145/247|[from] item: Rocky Helmet|[of] p2a: Chesnaught
+|move|p2a: Chesnaught|Knock Off|p1a: Luvdisc
+|-end|p1a: Luvdisc|Substitute
+|
+|upkeep
+|turn|3
+|
+|t:|1772746765
+|move|p1a: Luvdisc|Substitute|p1a: Luvdisc
+|-start|p1a: Luvdisc|Substitute
+|-damage|p1a: Luvdisc|84/247
+|move|p2a: Chesnaught|Body Press|p1a: Luvdisc
+|-end|p1a: Luvdisc|Substitute
+|
+|upkeep
+|turn|4
+|
+|t:|1772746772
+|move|p1a: Luvdisc|Substitute|p1a: Luvdisc
+|-start|p1a: Luvdisc|Substitute
+|-damage|p1a: Luvdisc|23/247
+|move|p2a: Chesnaught|Synthesis|p2a: Chesnaught
+|-heal|p2a: Chesnaught|285/285
+|
+|upkeep
+|turn|5
+|
+|t:|1772746779
+|switch|p2a: Ceruledge|Ceruledge, L78, M|245/245
+|move|p1a: Luvdisc|Endeavor|p2a: Ceruledge
+|-immune|p2a: Ceruledge
+|
+|upkeep
+|turn|6
+|
+|t:|1772746800
+|switch|p2a: Chesnaught|Chesnaught, L84, F|285/285
+|move|p1a: Luvdisc|Surf|p2a: Chesnaught
+|-resisted|p2a: Chesnaught
+|-damage|p2a: Chesnaught|243/285
+|
+|upkeep
+|turn|7
+|
+|t:|1772746803
+|move|p1a: Luvdisc|Endeavor|p2a: Chesnaught
+|-damage|p2a: Chesnaught|23/285
+|-damage|p1a: Luvdisc|0 fnt|[from] item: Rocky Helmet|[of] p2a: Chesnaught
+|faint|p1a: Luvdisc
+|move|p2a: Chesnaught|Body Press|p1: Luvdisc|[notarget]
+|-fail|p2a: Chesnaught
+|
+|upkeep
+|
+|t:|1772746809
+|switch|p1a: Pyroar|Pyroar, L88, M|295/295
+|-ability|p1a: Pyroar|Unnerve
+|turn|8
+|
+|t:|1772746815
+|switch|p2a: Ceruledge|Ceruledge, L78, M|245/245
+|move|p1a: Pyroar|Dark Pulse|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-damage|p2a: Ceruledge|109/245
+|
+|upkeep
+|turn|9
+|
+|t:|1772746820
+|switch|p2a: Gliscor|Gliscor, L76, F|239/239
+|move|p1a: Pyroar|Dark Pulse|p2a: Gliscor
+|-damage|p2a: Gliscor|147/239
+|
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|10
+|
+|t:|1772746828
+|switch|p1a: Espeon|Espeon, L84, F|246/246
+|move|p2a: Gliscor|Protect||[still]
+|-fail|p2a: Gliscor
+|
+|-heal|p2a: Gliscor|176/239 tox|[from] ability: Poison Heal
+|upkeep
+|turn|11
+|inactive|Shargy has 120 seconds left.
+|inactive|lildudu23 has 120 seconds left.
+|
+|t:|1772746864
+|switch|p1a: Pyroar|Pyroar, L88, M|295/295
+|-ability|p1a: Pyroar|Unnerve
+|switch|p2a: Chesnaught|Chesnaught, L84, F|23/285
+|
+|upkeep
+|turn|12
+|inactive|Shargy has 120 seconds left.
+|
+|t:|1772746874
+|move|p1a: Pyroar|Fire Blast|p2a: Chesnaught
+|-supereffective|p2a: Chesnaught
+|-damage|p2a: Chesnaught|0 fnt
+|faint|p2a: Chesnaught
+|
+|upkeep
+|
+|t:|1772746880
+|switch|p2a: Swanna|Swanna, L89, F|278/278
+|turn|13
+|
+|t:|1772746886
+|move|p1a: Pyroar|Hyper Voice|p2a: Swanna
+|-damage|p2a: Swanna|130/278
+|move|p2a: Swanna|Hydro Pump|p1a: Pyroar
+|-supereffective|p1a: Pyroar
+|-damage|p1a: Pyroar|31/295
+|
+|upkeep
+|turn|14
+|
+|t:|1772746895
+|switch|p2a: Ceruledge|Ceruledge, L78, M|109/245
+|move|p1a: Pyroar|Dark Pulse|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-damage|p2a: Ceruledge|0 fnt
+|faint|p2a: Ceruledge
+|
+|upkeep
+|
+|t:|1772746901
+|switch|p2a: Lycanroc|Lycanroc-Dusk, L81, M|254/254
+|turn|15
+|
+|t:|1772746909
+|switch|p1a: Archaludon|Archaludon, L78, M|268/268
+|move|p2a: Lycanroc|Accelerock|p1a: Archaludon
+|-resisted|p1a: Archaludon
+|-damage|p1a: Archaludon|238/268
+|-ability|p1a: Archaludon|Stamina|boost
+|-boost|p1a: Archaludon|def|1
+|-damage|p2a: Lycanroc|229/254|[from] item: Life Orb
+|
+|-heal|p1a: Archaludon|254/268|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1772746933
+|-terastallize|p2a: Lycanroc|Fighting
+|move|p2a: Lycanroc|Swords Dance|p2a: Lycanroc
+|-boost|p2a: Lycanroc|atk|2
+|move|p1a: Archaludon|Draco Meteor|p2a: Lycanroc
+|-damage|p2a: Lycanroc|31/254
+|-unboost|p1a: Archaludon|spa|2
+|
+|-heal|p1a: Archaludon|268/268|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1772746946
+|move|p2a: Lycanroc|Close Combat|p1a: Archaludon
+|-supereffective|p1a: Archaludon
+|-damage|p1a: Archaludon|0 fnt
+|-unboost|p2a: Lycanroc|def|1
+|-unboost|p2a: Lycanroc|spd|1
+|faint|p1a: Archaludon
+|-damage|p2a: Lycanroc|6/254|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772746962
+|switch|p1a: Pyroar|Pyroar, L88, M|31/295
+|-ability|p1a: Pyroar|Unnerve
+|turn|18
+|
+|t:|1772746969
+|move|p2a: Lycanroc|Accelerock|p1a: Pyroar
+|-supereffective|p1a: Pyroar
+|-damage|p1a: Pyroar|0 fnt
+|faint|p1a: Pyroar
+|-damage|p2a: Lycanroc|0 fnt|[from] item: Life Orb
+|faint|p2a: Lycanroc
+|
+|upkeep
+|
+|t:|1772746980
+|switch|p1a: Chi-Yu|Chi-Yu, L77|211/211
+|switch|p2a: Polteageist|Polteageist, L78|222/222
+|-ability|p1a: Chi-Yu|Beads of Ruin
+|turn|19
+|
+|t:|1772746994
+|switch|p2a: Gliscor|Gliscor, L76, F|176/239 tox
+|move|p1a: Chi-Yu|Nasty Plot|p1a: Chi-Yu
+|-boost|p1a: Chi-Yu|spa|2
+|
+|-heal|p2a: Gliscor|205/239 tox|[from] ability: Poison Heal
+|upkeep
+|turn|20
+|
+|t:|1772747000
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Chi-Yu|Nasty Plot|p1a: Chi-Yu
+|-boost|p1a: Chi-Yu|spa|2
+|
+|-heal|p2a: Gliscor|234/239 tox|[from] ability: Poison Heal
+|upkeep
+|turn|21
+|
+|t:|1772747007
+|move|p1a: Chi-Yu|Dark Pulse|p2a: Gliscor
+|-damage|p2a: Gliscor|0 fnt
+|faint|p2a: Gliscor
+|
+|upkeep
+|
+|t:|1772747010
+|switch|p2a: Swanna|Swanna, L89, F|130/278
+|turn|22
+|
+|t:|1772747013
+|move|p2a: Swanna|Hydro Pump|p1a: Chi-Yu
+|-supereffective|p1a: Chi-Yu
+|-damage|p1a: Chi-Yu|0 fnt
+|faint|p1a: Chi-Yu
+|
+|upkeep
+|
+|t:|1772747021
+|switch|p1a: Malamar|Malamar, L82, M|275/275
+|turn|23
+|
+|t:|1772747041
+|move|p2a: Swanna|Hydro Pump|p1a: Malamar
+|-damage|p1a: Malamar|133/275
+|move|p1a: Malamar|Psycho Cut|p2a: Swanna
+|-damage|p2a: Swanna|42/278
+|
+|upkeep
+|turn|24
+|
+|t:|1772747054
+|move|p2a: Swanna|Hydro Pump|p1a: Malamar|[miss]
+|-miss|p2a: Swanna|p1a: Malamar
+|move|p1a: Malamar|Psycho Cut|p2a: Swanna
+|-damage|p2a: Swanna|0 fnt
+|faint|p2a: Swanna
+|
+|upkeep
+|
+|t:|1772747056
+|switch|p2a: Polteageist|Polteageist, L78|222/222
+|turn|25
+|
+|t:|1772747061
+|move|p1a: Malamar|Rest|p1a: Malamar
+|-status|p1a: Malamar|slp|[from] move: Rest
+|-heal|p1a: Malamar|275/275 slp|[silent]
+|-enditem|p1a: Malamar|Chesto Berry|[eat]
+|-curestatus|p1a: Malamar|slp|[msg]
+|move|p2a: Polteageist|Shell Smash|p2a: Polteageist
+|-unboost|p2a: Polteageist|def|1
+|-unboost|p2a: Polteageist|spd|1
+|-boost|p2a: Polteageist|atk|2
+|-boost|p2a: Polteageist|spa|2
+|-boost|p2a: Polteageist|spe|2
+|-enditem|p2a: Polteageist|White Herb
+|-clearnegativeboost|p2a: Polteageist|[silent]
+|
+|upkeep
+|turn|26
+|
+|t:|1772747069
+|move|p2a: Polteageist|Shadow Ball|p1a: Malamar
+|-damage|p1a: Malamar|43/275
+|move|p1a: Malamar|Knock Off|p2a: Polteageist
+|-supereffective|p2a: Polteageist
+|-damage|p2a: Polteageist|66/222
+|-start|p1a: Malamar|Disable|Knock Off|[from] ability: Cursed Body|[of] p2a: Polteageist
+|
+|upkeep
+|turn|27
+|
+|t:|1772747082
+|move|p2a: Polteageist|Giga Drain|p1a: Malamar
+|-damage|p1a: Malamar|0 fnt
+|-heal|p2a: Polteageist|88/222|[from] drain|[of] p1a: Malamar
+|faint|p1a: Malamar
+|
+|upkeep
+|
+|t:|1772747084
+|switch|p1a: Espeon|Espeon, L84, F|246/246
+|turn|28
+|
+|t:|1772747086
+|-terastallize|p1a: Espeon|Psychic
+|move|p2a: Polteageist|Shadow Ball|p1a: Espeon
+|-supereffective|p1a: Espeon
+|-damage|p1a: Espeon|0 fnt
+|faint|p1a: Espeon
+|
+|win|lildudu23
+|raw|Shargy's rating: 1376 &rarr; <strong>1356</strong><br />(-20 for losing)
+|raw|lildudu23's rating: 1380 &rarr; <strong>1400</strong><br />(+20 for winning)
+|l|☆lildudu23
+|player|p2|

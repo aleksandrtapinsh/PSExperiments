@@ -1,0 +1,440 @@
+|j|☆quinculinculin
+|j|☆vCarlos
+|t:|1772749986
+|gametype|singles
+|player|p1|quinculinculin|emmet|1231
+|player|p2|vCarlos|266|1210
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772749986
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Grafaiai|Grafaiai, L86, F|249/249
+|switch|p2a: Plusle|Plusle, L95, F|268/268
+|turn|1
+|
+|t:|1772750002
+|move|p1a: Grafaiai|Parting Shot|p2a: Plusle
+|-unboost|p2a: Plusle|atk|1
+|-unboost|p2a: Plusle|spa|1
+|
+|t:|1772750044
+|switch|p1a: Rotom|Rotom-Mow, L87|229/229|[from] Parting Shot
+|move|p2a: Plusle|Nasty Plot|p2a: Plusle
+|-boost|p2a: Plusle|spa|2
+|
+|upkeep
+|turn|2
+|
+|t:|1772750059
+|move|p1a: Rotom|Trick|p2a: Plusle
+|-activate|p1a: Rotom|move: Trick|[of] p2a: Plusle
+|-item|p2a: Plusle|Choice Scarf|[from] move: Trick
+|-item|p1a: Rotom|Life Orb|[from] move: Trick
+|move|p2a: Plusle|Alluring Voice|p1a: Rotom
+|-damage|p1a: Rotom|142/229
+|
+|upkeep
+|turn|3
+|
+|t:|1772750071
+|move|p2a: Plusle|Alluring Voice|p1a: Rotom
+|-damage|p1a: Rotom|59/229
+|move|p1a: Rotom|Leaf Storm|p2a: Plusle
+|-damage|p2a: Plusle|65/268
+|-unboost|p1a: Rotom|spa|2
+|-damage|p1a: Rotom|37/229|[from] item: Life Orb
+|
+|upkeep
+|turn|4
+|
+|t:|1772750079
+|move|p2a: Plusle|Alluring Voice|p1a: Rotom
+|-damage|p1a: Rotom|0 fnt
+|faint|p1a: Rotom
+|
+|upkeep
+|
+|t:|1772750095
+|switch|p1a: Snorlax|Snorlax, L82, F|397/397
+|turn|5
+|c|☆quinculinculin|!data alluring voice
+|c|☆quinculinculin|/raw <ul class="utilichart"><li class="result"><span class="col movenamecol"><a href="https://dex.pokemonshowdown.com/moves/alluringvoice">Alluring Voice</a></span> <span class="col typecol"><img src="//play.pokemonshowdown.com/sprites/types/Fairy.png" alt="Fairy" width="32" height="14"><img src="//play.pokemonshowdown.com/sprites/categories/Special.png" alt="Special" width="32" height="14"></span> <span class="col labelcol"><em>Power</em><br>80</span> <span class="col widelabelcol"><em>Accuracy</em><br>100%</span> <span class="col pplabelcol"><em>PP</em><br>16</span> <span class="col movedesccol">100% confuse target that had a stat rise this turn.</span> </li><li style="clear:both"></li></ul>
+
+|
+|t:|1772750110
+|move|p2a: Plusle|Alluring Voice|p1a: Snorlax
+|-damage|p1a: Snorlax|306/397
+|move|p1a: Snorlax|Earthquake|p2a: Plusle
+|-supereffective|p2a: Plusle
+|-damage|p2a: Plusle|0 fnt
+|faint|p2a: Plusle
+|
+|-heal|p1a: Snorlax|330/397|[from] item: Leftovers
+|upkeep
+|
+|t:|1772750123
+|switch|p2a: Bellossom|Bellossom, L84, F|263/263
+|turn|6
+|
+|t:|1772750132
+|switch|p1a: Grafaiai|Grafaiai, L86, F|249/249
+|move|p2a: Bellossom|Strength Sap|p1a: Grafaiai
+|-unboost|p1a: Grafaiai|atk|1
+|
+|upkeep
+|turn|7
+|
+|t:|1772750160
+|move|p1a: Grafaiai|Encore|p2a: Bellossom
+|-start|p2a: Bellossom|Encore
+|move|p2a: Bellossom|Strength Sap|p1a: Grafaiai
+|-unboost|p1a: Grafaiai|atk|1
+|
+|upkeep
+|turn|8
+|
+|t:|1772750174
+|move|p1a: Grafaiai|Parting Shot|p2a: Bellossom
+|-unboost|p2a: Bellossom|atk|1
+|-unboost|p2a: Bellossom|spa|1
+|
+|t:|1772750177
+|switch|p1a: Lumineon|Lumineon, L93, F|279/279|[from] Parting Shot
+|move|p2a: Bellossom|Strength Sap|p1a: Lumineon
+|-unboost|p1a: Lumineon|atk|1
+|
+|upkeep
+|turn|9
+|
+|t:|1772750182
+|move|p1a: Lumineon|Ice Beam|p2a: Bellossom
+|-supereffective|p2a: Bellossom
+|-damage|p2a: Bellossom|107/263
+|-damage|p1a: Lumineon|252/279|[from] item: Life Orb
+|move|p2a: Bellossom|Strength Sap|p1a: Lumineon
+|-unboost|p1a: Lumineon|atk|1
+|-heal|p2a: Bellossom|195/263
+|
+|-heal|p2a: Bellossom|211/263|[from] item: Leftovers
+|-end|p2a: Bellossom|Encore
+|upkeep
+|turn|10
+|
+|t:|1772750207
+|switch|p2a: Iron Bundle|Iron Bundle, L78|215/215
+|move|p1a: Lumineon|Encore||[still]
+|-fail|p1a: Lumineon
+|
+|upkeep
+|turn|11
+|
+|t:|1772750217
+|switch|p1a: Snorlax|Snorlax, L82, F|330/397
+|move|p2a: Iron Bundle|Freeze-Dry|p1a: Snorlax
+|-damage|p1a: Snorlax|273/397
+|
+|-heal|p1a: Snorlax|297/397|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1772750245
+|move|p2a: Iron Bundle|Freeze-Dry|p1a: Snorlax
+|-damage|p1a: Snorlax|246/397
+|move|p1a: Snorlax|Body Slam|p2a: Iron Bundle
+|-damage|p2a: Iron Bundle|133/215
+|
+|-heal|p1a: Snorlax|270/397|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1772750261
+|-end|p2a: Iron Bundle|Quark Drive|[silent]
+|switch|p2a: Rotom|Rotom, L88|231/231
+|move|p1a: Snorlax|Body Slam|p2a: Rotom
+|-immune|p2a: Rotom
+|
+|-heal|p1a: Snorlax|294/397|[from] item: Leftovers
+|upkeep
+|turn|14
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by quinculinculin)
+|
+|t:|1772750274
+|move|p2a: Rotom|Trick|p1a: Snorlax
+|-activate|p2a: Rotom|move: Trick|[of] p1a: Snorlax
+|-item|p1a: Snorlax|Choice Scarf|[from] move: Trick
+|-item|p2a: Rotom|Leftovers|[from] move: Trick
+|move|p1a: Snorlax|Crunch|p2a: Rotom
+|-supereffective|p2a: Rotom
+|-damage|p2a: Rotom|101/231
+|
+|-heal|p2a: Rotom|115/231|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1772750285
+|move|p2a: Rotom|Volt Switch|p1a: Snorlax
+|-damage|p1a: Snorlax|227/397
+|
+|t:|1772750294
+|switch|p2a: Bellossom|Bellossom, L84, F|211/263|[from] Volt Switch
+|move|p1a: Snorlax|Crunch|p2a: Bellossom
+|-damage|p2a: Bellossom|158/263
+|
+|-heal|p2a: Bellossom|174/263|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1772750311
+|switch|p1a: Stonjourner|Stonjourner, L91, M|330/330
+|move|p2a: Bellossom|Quiver Dance|p2a: Bellossom
+|-boost|p2a: Bellossom|spa|1
+|-boost|p2a: Bellossom|spd|1
+|-boost|p2a: Bellossom|spe|1
+|
+|-heal|p2a: Bellossom|190/263|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1772750326
+|-terastallize|p1a: Stonjourner|Fire
+|move|p2a: Bellossom|Quiver Dance|p2a: Bellossom
+|-boost|p2a: Bellossom|spa|1
+|-boost|p2a: Bellossom|spd|1
+|-boost|p2a: Bellossom|spe|1
+|move|p1a: Stonjourner|Rock Polish|p1a: Stonjourner
+|-boost|p1a: Stonjourner|spe|2
+|
+|-heal|p2a: Bellossom|206/263|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1772750337
+|move|p1a: Stonjourner|Heat Crash|p2a: Bellossom
+|-supereffective|p2a: Bellossom
+|-damage|p2a: Bellossom|0 fnt
+|faint|p2a: Bellossom
+|-damage|p1a: Stonjourner|297/330|[from] item: Life Orb
+|
+|upkeep
+|c|☆quinculinculin|"
+|c|☆quinculinculin|!data ç
+|c|☆quinculinculin|lç
+|
+|t:|1772750345
+|switch|p2a: Kyogre|Kyogre, L71|259/259
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Kyogre
+|turn|19
+|c|☆quinculinculin|!data power spot
+|c|☆quinculinculin|/raw <ul class="utilichart"><li class="result"><span class="col namecol"><a href="https://dex.pokemonshowdown.com/abilities/powerspot">Power Spot</a></span> <span class="col abilitydesccol">This Pokemon's allies have the power of their moves multiplied by 1.3.</span> </li><li style="clear:both"></li></ul>
+
+|
+|t:|1772750369
+|switch|p1a: Snorlax|Snorlax, L82, F|227/397
+|move|p2a: Kyogre|Calm Mind|p2a: Kyogre
+|-boost|p2a: Kyogre|spa|1
+|-boost|p2a: Kyogre|spd|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|20
+|
+|t:|1772750378
+|move|p2a: Kyogre|Origin Pulse|p1a: Snorlax|[miss]
+|-miss|p2a: Kyogre|p1a: Snorlax
+|move|p1a: Snorlax|Body Slam|p2a: Kyogre
+|-damage|p2a: Kyogre|141/259
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Kyogre|157/259|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1772750387
+|move|p2a: Kyogre|Origin Pulse|p1a: Snorlax
+|-damage|p1a: Snorlax|0 fnt
+|faint|p1a: Snorlax
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Kyogre|173/259|[from] item: Leftovers
+|upkeep
+|
+|t:|1772750392
+|switch|p1a: Grafaiai|Grafaiai, L86, F|249/249
+|turn|22
+|
+|t:|1772750401
+|move|p1a: Grafaiai|Parting Shot|p2a: Kyogre
+|-unboost|p2a: Kyogre|atk|1
+|-unboost|p2a: Kyogre|spa|1
+|
+|t:|1772750405
+|switch|p1a: Lumineon|Lumineon, L93, F|252/279|[from] Parting Shot
+|move|p2a: Kyogre|Origin Pulse|p1a: Lumineon
+|-ability|p1a: Lumineon|Storm Drain|boost
+|-boost|p1a: Lumineon|spa|1
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Kyogre|189/259|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1772750416
+|move|p1a: Lumineon|Encore|p2a: Kyogre
+|-start|p2a: Kyogre|Encore
+|move|p2a: Kyogre|Origin Pulse|p1a: Lumineon
+|-ability|p1a: Lumineon|Storm Drain|boost
+|-boost|p1a: Lumineon|spa|1
+|
+|-weather|none
+|-heal|p2a: Kyogre|205/259|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1772750428
+|switch|p2a: Iron Bundle|Iron Bundle, L78|133/215
+|move|p1a: Lumineon|Alluring Voice|p2a: Iron Bundle
+|-crit|p2a: Iron Bundle
+|-damage|p2a: Iron Bundle|0 fnt
+|faint|p2a: Iron Bundle
+|-end|p2a: Iron Bundle|Quark Drive|[silent]
+|-damage|p1a: Lumineon|225/279|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772750447
+|switch|p2a: Rotom|Rotom, L88|115/231
+|turn|25
+|
+|t:|1772750456
+|move|p1a: Lumineon|Alluring Voice|p2a: Rotom
+|-damage|p2a: Rotom|0 fnt
+|faint|p2a: Rotom
+|-damage|p1a: Lumineon|198/279|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772750468
+|switch|p2a: Kyogre|Kyogre, L71|205/259
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Kyogre
+|turn|26
+|
+|t:|1772750479
+|move|p1a: Lumineon|Alluring Voice|p2a: Kyogre
+|-damage|p2a: Kyogre|97/259
+|-damage|p1a: Lumineon|171/279|[from] item: Life Orb
+|move|p2a: Kyogre|Thunder|p1a: Lumineon
+|-supereffective|p1a: Lumineon
+|-damage|p1a: Lumineon|15/279
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Kyogre|113/259|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1772750493
+|move|p1a: Lumineon|Alluring Voice|p2a: Kyogre
+|-damage|p2a: Kyogre|5/259
+|-damage|p1a: Lumineon|0 fnt|[from] item: Life Orb
+|faint|p1a: Lumineon
+|move|p2a: Kyogre|Origin Pulse|p1: Lumineon|[notarget]
+|-fail|p2a: Kyogre
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Kyogre|21/259|[from] item: Leftovers
+|upkeep
+|
+|t:|1772750505
+|switch|p1a: Pawmot|Pawmot, L80, F|243/243
+|turn|28
+|
+|t:|1772750513
+|move|p1a: Pawmot|Double Shock|p2a: Kyogre
+|-supereffective|p2a: Kyogre
+|-damage|p2a: Kyogre|0 fnt
+|-start|p1a: Pawmot|typechange|???/Fighting|[from] move: Double Shock
+|faint|p2a: Kyogre
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1772750521
+|switch|p2a: Salamence|Salamence, L77, M|273/273
+|-ability|p2a: Salamence|Intimidate|boost
+|-unboost|p1a: Pawmot|atk|1
+|turn|29
+|
+|t:|1772750529
+|-terastallize|p2a: Salamence|Ground
+|move|p1a: Pawmot|Nuzzle|p2a: Salamence
+|-immune|p2a: Salamence
+|move|p2a: Salamence|Dragon Dance|p2a: Salamence
+|-boost|p2a: Salamence|atk|1
+|-boost|p2a: Salamence|spe|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|30
+|
+|t:|1772750544
+|move|p2a: Salamence|Earthquake|p1a: Pawmot
+|-damage|p1a: Pawmot|11/243
+|move|p1a: Pawmot|Revival Blessing|p1a: Pawmot
+|-enditem|p1a: Pawmot|Leppa Berry|[eat]
+|-activate|p1a: Pawmot|item: Leppa Berry|Revival Blessing|[consumed]
+|
+|t:|1772750553
+|-heal|p1: Rotom|114/229|[from] move: Revival Blessing
+|
+|-weather|none
+|upkeep
+|turn|31
+|
+|t:|1772750560
+|move|p2a: Salamence|Earthquake|p1a: Pawmot
+|-damage|p1a: Pawmot|0 fnt
+|faint|p1a: Pawmot
+|
+|upkeep
+|
+|t:|1772750564
+|switch|p1a: Grafaiai|Grafaiai, L86, F|249/249
+|turn|32
+|
+|t:|1772750570
+|move|p1a: Grafaiai|Parting Shot|p2a: Salamence
+|-unboost|p2a: Salamence|atk|1
+|-unboost|p2a: Salamence|spa|1
+|
+|t:|1772750573
+|switch|p1a: Rotom|Rotom-Mow, L87|114/229|[from] Parting Shot
+|move|p2a: Salamence|Earthquake|p1a: Rotom
+|-immune|p1a: Rotom|[from] ability: Levitate
+|
+|upkeep
+|turn|33
+|
+|t:|1772750582
+|move|p2a: Salamence|Dual Wingbeat|p1a: Rotom
+|-damage|p1a: Rotom|72/229
+|-damage|p1a: Rotom|32/229
+|-hitcount|p1a: Rotom|2
+|move|p1a: Rotom|Leaf Storm|p2a: Salamence
+|-supereffective|p2a: Salamence
+|-damage|p2a: Salamence|0 fnt
+|-unboost|p1a: Rotom|spa|2
+|faint|p2a: Salamence
+|-damage|p1a: Rotom|10/229|[from] item: Life Orb
+|
+|win|quinculinculin
+|raw|quinculinculin's rating: 1231 &rarr; <strong>1254</strong><br />(+23 for winning)
+|raw|vCarlos's rating: 1210 &rarr; <strong>1187</strong><br />(-23 for losing)
+|l|☆vCarlos
+|player|p2|

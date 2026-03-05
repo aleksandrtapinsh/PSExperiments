@@ -1,0 +1,100 @@
+|j|‽YourMumsFavPokemon
+|j|☆someperson23
+|t:|1772749820
+|gametype|singles
+|player|p1|YourMumsFavPokemon|101|1126
+|player|p2|someperson23|lucas|1102
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772749820
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Crabominable|Crabominable, L90, M|321/321
+|switch|p2a: Chandelure|Chandelure, L83, M|235/235
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by YourMumsFavPokemon)
+|
+|t:|1772749836
+|switch|p1a: Infernape|Infernape, L82, M|259/259
+|move|p2a: Chandelure|Fire Blast|p1a: Infernape
+|-resisted|p1a: Infernape
+|-damage|p1a: Infernape|162/259
+|
+|upkeep
+|turn|2
+|inactive|someperson23 has 120 seconds left.
+|
+|t:|1772749878
+|move|p1a: Infernape|Overheat|p2a: Chandelure
+|-start|p2a: Chandelure|ability: Flash Fire
+|move|p2a: Chandelure|Shadow Ball|p1a: Infernape
+|-damage|p1a: Infernape|23/259
+|-unboost|p1a: Infernape|spd|1
+|
+|upkeep
+|turn|3
+|
+|t:|1772749893
+|move|p1a: Infernape|Grass Knot|p2a: Chandelure
+|-resisted|p2a: Chandelure
+|-damage|p2a: Chandelure|209/235
+|-damage|p1a: Infernape|0 fnt|[from] item: Life Orb
+|faint|p1a: Infernape
+|move|p2a: Chandelure|Energy Ball|p1: Infernape|[notarget]
+|-fail|p2a: Chandelure
+|
+|upkeep
+|
+|t:|1772749904
+|switch|p1a: Wyrdeer|Wyrdeer, L87, F|321/321
+|-ability|p1a: Wyrdeer|Intimidate|boost
+|-unboost|p2a: Chandelure|atk|1
+|turn|4
+|inactive|someperson23 has 120 seconds left.
+|
+|t:|1772749922
+|move|p2a: Chandelure|Fire Blast|p1a: Wyrdeer
+|-damage|p1a: Wyrdeer|144/321
+|move|p1a: Wyrdeer|Psychic Noise|p2a: Chandelure
+|-damage|p2a: Chandelure|124/235
+|-start|p2a: Chandelure|move: Heal Block
+|
+|upkeep
+|turn|5
+|
+|t:|1772749935
+|move|p2a: Chandelure|Fire Blast|p1a: Wyrdeer
+|-damage|p1a: Wyrdeer|0 fnt
+|faint|p1a: Wyrdeer
+|
+|-end|p2a: Chandelure|move: Heal Block
+|upkeep
+|
+|t:|1772749953
+|switch|p1a: Groudon|Groudon, L72|263/263
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Groudon
+|turn|6
+|
+|t:|1772749961
+|move|p2a: Chandelure|Energy Ball|p1a: Groudon
+|-supereffective|p1a: Groudon
+|-damage|p1a: Groudon|77/263
+|move|p1a: Groudon|Precipice Blades|p2a: Chandelure|[miss]
+|-miss|p1a: Groudon|p2a: Chandelure
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Groudon|93/263|[from] item: Leftovers
+|upkeep
+|turn|7
+|-message|YourMumsFavPokemon forfeited.
+|
+|win|someperson23
+|raw|YourMumsFavPokemon's rating: 1126 &rarr; <strong>1099</strong><br />(-27 for losing)
+|raw|someperson23's rating: 1102 &rarr; <strong>1129</strong><br />(+27 for winning)

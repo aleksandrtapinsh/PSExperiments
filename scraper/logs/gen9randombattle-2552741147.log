@@ -1,0 +1,371 @@
+|j|☆junin77PT
+|j|☆Tecmovgc
+|t:|1772748706
+|gametype|singles
+|player|p1|junin77PT|hilda-wonderlauncher|1472
+|player|p2|Tecmovgc|linebacker|1515
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772748706
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Venomoth|Venomoth, L84, M|255/255
+|switch|p2a: Probopass|Probopass, L91, F|257/257
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Tecmovgc)
+|inactive|junin77PT also wants the timer to be on.
+|
+|t:|1772748729
+|switch|p1a: Hitmonchan|Hitmonchan, L87, M|229/229
+|move|p2a: Probopass|Thunder Wave|p1a: Hitmonchan
+|-status|p1a: Hitmonchan|par
+|
+|upkeep
+|turn|2
+|
+|t:|1772748741
+|switch|p2a: Klefki|Klefki, L84, M|233/233
+|cant|p1a: Hitmonchan|par
+|
+|upkeep
+|turn|3
+|
+|t:|1772748749
+|move|p2a: Klefki|Spikes|p1a: Hitmonchan
+|-sidestart|p1: junin77PT|Spikes
+|move|p1a: Hitmonchan|Drain Punch|p2a: Klefki
+|-damage|p2a: Klefki|89/233
+|-damage|p1a: Hitmonchan|207/229 par|[from] item: Life Orb
+|
+|-heal|p2a: Klefki|103/233|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1772748766
+|move|p2a: Klefki|Dazzling Gleam|p1a: Hitmonchan
+|-supereffective|p1a: Hitmonchan
+|-damage|p1a: Hitmonchan|79/229 par
+|cant|p1a: Hitmonchan|par
+|
+|-heal|p2a: Klefki|117/233|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1772748774
+|move|p2a: Klefki|Dazzling Gleam|p1a: Hitmonchan
+|-supereffective|p1a: Hitmonchan
+|-damage|p1a: Hitmonchan|0 fnt
+|faint|p1a: Hitmonchan
+|
+|-heal|p2a: Klefki|131/233|[from] item: Leftovers
+|upkeep
+|
+|t:|1772748783
+|switch|p1a: Ampharos|Ampharos, L88, M|302/302
+|-damage|p1a: Ampharos|265/302|[from] Spikes
+|turn|6
+|
+|t:|1772748790
+|move|p2a: Klefki|Spikes|p1a: Ampharos
+|-sidestart|p1: junin77PT|Spikes
+|move|p1a: Ampharos|Thunderbolt|p2a: Klefki
+|-damage|p2a: Klefki|0 fnt
+|faint|p2a: Klefki
+|
+|upkeep
+|
+|t:|1772748799
+|switch|p2a: Whiscash|Whiscash, L88, F|337/337
+|turn|7
+|
+|t:|1772748816
+|switch|p1a: Vigoroth|Vigoroth, L85, F|275/275
+|-damage|p1a: Vigoroth|230/275|[from] Spikes
+|move|p2a: Whiscash|Stealth Rock|p1a: Vigoroth
+|-sidestart|p1: junin77PT|move: Stealth Rock
+|
+|upkeep
+|turn|8
+|
+|t:|1772748828
+|move|p1a: Vigoroth|Bulk Up|p1a: Vigoroth
+|-boost|p1a: Vigoroth|atk|1
+|-boost|p1a: Vigoroth|def|1
+|move|p2a: Whiscash|Hydro Pump|p1a: Vigoroth
+|-damage|p1a: Vigoroth|128/275
+|
+|upkeep
+|turn|9
+|
+|t:|1772748837
+|move|p1a: Vigoroth|Slack Off|p1a: Vigoroth
+|-heal|p1a: Vigoroth|266/275
+|move|p2a: Whiscash|Hydro Pump|p1a: Vigoroth|[miss]
+|-miss|p2a: Whiscash|p1a: Vigoroth
+|
+|upkeep
+|turn|10
+|
+|t:|1772748845
+|move|p1a: Vigoroth|Bulk Up|p1a: Vigoroth
+|-boost|p1a: Vigoroth|atk|1
+|-boost|p1a: Vigoroth|def|1
+|move|p2a: Whiscash|Hydro Pump|p1a: Vigoroth
+|-damage|p1a: Vigoroth|173/275
+|
+|upkeep
+|turn|11
+|
+|t:|1772748854
+|-terastallize|p2a: Whiscash|Ghost
+|move|p1a: Vigoroth|Body Slam|p2a: Whiscash
+|-immune|p2a: Whiscash
+|move|p2a: Whiscash|Hydro Pump|p1a: Vigoroth
+|-damage|p1a: Vigoroth|82/275
+|
+|upkeep
+|turn|12
+|
+|t:|1772748869
+|switch|p2a: Miraidon|Miraidon, L65|238/238
+|-fieldstart|move: Electric Terrain|[from] ability: Hadron Engine|[of] p2a: Miraidon
+|move|p1a: Vigoroth|Slack Off|p1a: Vigoroth
+|-heal|p1a: Vigoroth|220/275
+|
+|upkeep
+|turn|13
+|
+|t:|1772748889
+|move|p2a: Miraidon|Electro Drift|p1a: Vigoroth
+|-damage|p1a: Vigoroth|35/275
+|-damage|p2a: Miraidon|215/238|[from] item: Life Orb
+|move|p1a: Vigoroth|Earthquake|p2a: Miraidon
+|-supereffective|p2a: Miraidon
+|-damage|p2a: Miraidon|0 fnt
+|faint|p2a: Miraidon
+|
+|upkeep
+|
+|t:|1772748903
+|switch|p2a: Cinccino|Cinccino, L83, F|260/260
+|turn|14
+|
+|t:|1772748908
+|move|p2a: Cinccino|Tail Slap|p1a: Vigoroth
+|-damage|p1a: Vigoroth|20/275
+|-damage|p1a: Vigoroth|5/275
+|-damage|p1a: Vigoroth|0 fnt
+|faint|p1a: Vigoroth
+|-hitcount|p1: Vigoroth|3
+|
+|upkeep
+|
+|t:|1772748924
+|switch|p1a: Ampharos|Ampharos, L88, M|265/302
+|-damage|p1a: Ampharos|215/302|[from] Spikes
+|-damage|p1a: Ampharos|178/302|[from] Stealth Rock
+|turn|15
+|
+|t:|1772748934
+|move|p2a: Cinccino|U-turn|p1a: Ampharos
+|-damage|p1a: Ampharos|133/302
+|
+|t:|1772748937
+|switch|p2a: Whiscash|Whiscash, L88, F, tera:Ghost|337/337|[from] U-turn
+|move|p1a: Ampharos|Volt Switch|p2a: Whiscash
+|-damage|p2a: Whiscash|117/337
+|
+|t:|1772748958
+|switch|p1a: Venomoth|Venomoth, L84, M|255/255|[from] Volt Switch
+|
+|-heal|p2a: Whiscash|138/337|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1772748965
+|move|p1a: Venomoth|Quiver Dance|p1a: Venomoth
+|-boost|p1a: Venomoth|spa|1
+|-boost|p1a: Venomoth|spd|1
+|-boost|p1a: Venomoth|spe|1
+|move|p2a: Whiscash|Earthquake|p1a: Venomoth
+|-damage|p1a: Venomoth|116/255
+|
+|-heal|p2a: Whiscash|159/337|[from] item: Leftovers
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|17
+|
+|t:|1772748977
+|move|p1a: Venomoth|Sludge Wave|p2a: Whiscash
+|-resisted|p2a: Whiscash
+|-damage|p2a: Whiscash|0 fnt
+|faint|p2a: Whiscash
+|
+|upkeep
+|
+|t:|1772748989
+|switch|p2a: Probopass|Probopass, L91, F|257/257
+|turn|18
+|
+|t:|1772748993
+|move|p1a: Venomoth|Sleep Powder|p2a: Probopass|[miss]
+|-miss|p1a: Venomoth|p2a: Probopass
+|move|p2a: Probopass|Thunder Wave|p1a: Venomoth
+|-status|p1a: Venomoth|par
+|
+|upkeep
+|turn|19
+|
+|t:|1772749001
+|move|p1a: Venomoth|Sleep Powder|p2a: Probopass
+|-status|p2a: Probopass|slp|[from] move: Sleep Powder
+|cant|p2a: Probopass|slp
+|
+|upkeep
+|turn|20
+|
+|t:|1772749008
+|switch|p1a: Golem|Golem, L87, M|281/281
+|-damage|p1a: Golem|235/281|[from] Spikes
+|-damage|p1a: Golem|218/281|[from] Stealth Rock
+|switch|p2a: Cinccino|Cinccino, L83, F|260/260
+|
+|upkeep
+|turn|21
+|
+|t:|1772749026
+|-terastallize|p1a: Golem|Grass
+|move|p2a: Cinccino|Bullet Seed|p1a: Golem
+|-resisted|p1a: Golem
+|-damage|p1a: Golem|209/281
+|-resisted|p1a: Golem
+|-damage|p1a: Golem|200/281
+|-resisted|p1a: Golem
+|-damage|p1a: Golem|191/281
+|-resisted|p1a: Golem
+|-damage|p1a: Golem|182/281
+|-resisted|p1a: Golem
+|-damage|p1a: Golem|173/281
+|-hitcount|p1a: Golem|5
+|move|p1a: Golem|Explosion|p2a: Cinccino
+|-damage|p2a: Cinccino|0 fnt
+|faint|p1a: Golem
+|faint|p2a: Cinccino
+|
+|upkeep
+|
+|t:|1772749045
+|switch|p2a: Arboliva|Arboliva, L91, F|290/290
+|switch|p1a: Ampharos|Ampharos, L88, M|133/302
+|-damage|p1a: Ampharos|83/302|[from] Spikes
+|-damage|p1a: Ampharos|46/302|[from] Stealth Rock
+|turn|22
+|
+|t:|1772749054
+|move|p1a: Ampharos|Focus Blast|p2a: Arboliva
+|-supereffective|p2a: Arboliva
+|-damage|p2a: Arboliva|18/290
+|-fieldstart|move: Grassy Terrain|[from] ability: Seed Sower|[of] p2a: Arboliva
+|move|p2a: Arboliva|Earth Power|p1a: Ampharos
+|-supereffective|p1a: Ampharos
+|-damage|p1a: Ampharos|0 fnt
+|faint|p1a: Ampharos
+|
+|-heal|p2a: Arboliva|36/290|[from] Grassy Terrain
+|-heal|p2a: Arboliva|54/290|[from] item: Leftovers
+|upkeep
+|
+|t:|1772749067
+|switch|p1a: Venomoth|Venomoth, L84, M|116/255 par
+|turn|23
+|
+|t:|1772749078
+|move|p2a: Arboliva|Strength Sap|p1a: Venomoth
+|-unboost|p1a: Venomoth|atk|1
+|-heal|p2a: Arboliva|168/290
+|move|p1a: Venomoth|Bug Buzz|p2a: Arboliva
+|-supereffective|p2a: Arboliva
+|-damage|p2a: Arboliva|24/290
+|-unboost|p2a: Arboliva|spd|1
+|
+|-heal|p2a: Arboliva|42/290|[from] Grassy Terrain
+|-heal|p2a: Arboliva|60/290|[from] item: Leftovers
+|-heal|p1a: Venomoth|131/255 par|[from] Grassy Terrain
+|upkeep
+|turn|24
+|
+|t:|1772749091
+|move|p2a: Arboliva|Earth Power|p1a: Venomoth
+|-damage|p1a: Venomoth|32/255 par
+|move|p1a: Venomoth|Bug Buzz|p2a: Arboliva
+|-supereffective|p2a: Arboliva
+|-crit|p2a: Arboliva
+|-damage|p2a: Arboliva|0 fnt
+|faint|p2a: Arboliva
+|
+|-heal|p1a: Venomoth|47/255 par|[from] Grassy Terrain
+|upkeep
+|
+|t:|1772749102
+|switch|p2a: Probopass|Probopass, L91, F|257/257 slp
+|turn|25
+|
+|t:|1772749106
+|-curestatus|p2a: Probopass|slp|[msg]
+|move|p2a: Probopass|Iron Defense|p2a: Probopass
+|-boost|p2a: Probopass|def|2
+|move|p1a: Venomoth|Bug Buzz|p2a: Probopass
+|-resisted|p2a: Probopass
+|-damage|p2a: Probopass|203/257
+|
+|-heal|p2a: Probopass|219/257|[from] Grassy Terrain
+|-heal|p2a: Probopass|235/257|[from] item: Leftovers
+|-heal|p1a: Venomoth|62/255 par|[from] Grassy Terrain
+|upkeep
+|turn|26
+|
+|t:|1772749119
+|move|p2a: Probopass|Body Press|p1a: Venomoth
+|-resisted|p1a: Venomoth
+|-damage|p1a: Venomoth|3/255 par
+|cant|p1a: Venomoth|par
+|
+|-heal|p2a: Probopass|251/257|[from] Grassy Terrain
+|-heal|p2a: Probopass|257/257|[from] item: Leftovers
+|-heal|p1a: Venomoth|18/255 par|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|27
+|
+|t:|1772749130
+|move|p2a: Probopass|Body Press|p1a: Venomoth
+|-resisted|p1a: Venomoth
+|-damage|p1a: Venomoth|0 fnt
+|faint|p1a: Venomoth
+|
+|upkeep
+|
+|t:|1772749135
+|switch|p1a: Pikachu|Pikachu-Original, L93, F|216/216
+|-damage|p1a: Pikachu|180/216|[from] Spikes
+|-damage|p1a: Pikachu|153/216|[from] Stealth Rock
+|turn|28
+|
+|t:|1772749141
+|move|p1a: Pikachu|Surf|p2a: Probopass
+|-supereffective|p2a: Probopass
+|-damage|p2a: Probopass|133/257
+|move|p2a: Probopass|Body Press|p1a: Pikachu
+|-damage|p1a: Pikachu|0 fnt
+|faint|p1a: Pikachu
+|
+|win|Tecmovgc
+|raw|junin77PT's rating: 1472 &rarr; <strong>1454</strong><br />(-18 for losing)
+|raw|Tecmovgc's rating: 1515 &rarr; <strong>1533</strong><br />(+18 for winning)

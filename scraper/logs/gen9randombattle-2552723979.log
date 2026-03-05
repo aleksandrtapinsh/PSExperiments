@@ -1,0 +1,342 @@
+|j|☆dchung815
+|j|☆fulwadi
+|t:|1772747004
+|gametype|singles
+|player|p1|dchung815|infielder|1400
+|player|p2|fulwadi|swimmerf-gen4|1389
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772747004
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Noivern|Noivern, L82, F|274/274
+|switch|p2a: Dachsbun|Dachsbun, L92, F|254/254
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by dchung815)
+|
+|t:|1772747017
+|move|p1a: Noivern|Boomburst|p2a: Dachsbun
+|-damage|p2a: Dachsbun|110/254
+|move|p2a: Dachsbun|Body Press|p1a: Noivern
+|-resisted|p1a: Noivern
+|-damage|p1a: Noivern|235/274
+|
+|-heal|p2a: Dachsbun|125/254|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1772747028
+|move|p1a: Noivern|Boomburst|p2a: Dachsbun
+|-damage|p2a: Dachsbun|0 fnt
+|faint|p2a: Dachsbun
+|
+|upkeep
+|c|☆fulwadi|u see a fairy type and think oh ima stay in with my dragon type
+|inactive|fulwadi has 120 seconds left.
+|c|☆fulwadi|are u fucking stupid
+|
+|t:|1772747061
+|switch|p2a: Ninetales|Ninetales-Alola, L78, M|242/242
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Ninetales
+|turn|3
+|inactive|fulwadi has 120 seconds left.
+|inactive|dchung815 has 120 seconds left.
+|
+|t:|1772747113
+|move|p1a: Noivern|Boomburst|p2a: Ninetales
+|-damage|p2a: Ninetales|102/242
+|move|p2a: Ninetales|Aurora Veil|p2a: Ninetales
+|-sidestart|p2: fulwadi|move: Aurora Veil
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1772747128
+|switch|p1a: Mightyena|Mightyena, L96, F|290/290
+|-ability|p1a: Mightyena|Intimidate|boost
+|-unboost|p2a: Ninetales|atk|1
+|move|p2a: Ninetales|Moonblast|p1a: Mightyena
+|-supereffective|p1a: Mightyena
+|-damage|p1a: Mightyena|180/290
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1772747142
+|move|p1a: Mightyena|Sucker Punch|p2a: Ninetales
+|-resisted|p2a: Ninetales
+|-damage|p2a: Ninetales|83/242
+|move|p2a: Ninetales|Moonblast|p1a: Mightyena
+|-supereffective|p1a: Mightyena
+|-damage|p1a: Mightyena|52/290
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1772747152
+|move|p1a: Mightyena|Sucker Punch||[still]
+|-fail|p1a: Mightyena
+|move|p2a: Ninetales|Nasty Plot|p2a: Ninetales
+|-boost|p2a: Ninetales|spa|2
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1772747158
+|move|p1a: Mightyena|Sucker Punch|p2a: Ninetales
+|-resisted|p2a: Ninetales
+|-damage|p2a: Ninetales|64/242
+|move|p2a: Ninetales|Moonblast|p1a: Mightyena
+|-supereffective|p1a: Mightyena
+|-damage|p1a: Mightyena|0 fnt
+|faint|p1a: Mightyena
+|
+|-weather|none
+|upkeep
+|
+|t:|1772747171
+|switch|p1a: Noivern|Noivern, L82, F|235/274
+|turn|8
+|
+|t:|1772747174
+|move|p1a: Noivern|Flamethrower|p2a: Ninetales
+|-supereffective|p2a: Ninetales
+|-damage|p2a: Ninetales|0 fnt
+|faint|p2a: Ninetales
+|
+|upkeep
+|
+|t:|1772747191
+|switch|p2a: Floatzel|Floatzel, L86, F|286/286
+|turn|9
+|
+|t:|1772747200
+|switch|p1a: Golduck|Golduck, L90, F|290/290
+|-ability|p1a: Golduck|Cloud Nine
+|move|p2a: Floatzel|Bulk Up|p2a: Floatzel
+|-boost|p2a: Floatzel|atk|1
+|-boost|p2a: Floatzel|def|1
+|
+|upkeep
+|turn|10
+|
+|t:|1772747212
+|move|p2a: Floatzel|Wave Crash|p1a: Golduck
+|-resisted|p1a: Golduck
+|-damage|p1a: Golduck|191/290
+|-damage|p2a: Floatzel|253/286|[from] Recoil
+|move|p1a: Golduck|Grass Knot|p2a: Floatzel
+|-supereffective|p2a: Floatzel
+|-damage|p2a: Floatzel|151/286
+|
+|-heal|p2a: Floatzel|168/286|[from] item: Leftovers
+|-sideend|p2: fulwadi|move: Aurora Veil
+|upkeep
+|turn|11
+|
+|t:|1772747228
+|switch|p2a: Tatsugiri|Tatsugiri, L87, F|260/260
+|move|p1a: Golduck|Grass Knot|p2a: Tatsugiri
+|-damage|p2a: Tatsugiri|239/260
+|
+|upkeep
+|turn|12
+|
+|t:|1772747236
+|switch|p1a: Noivern|Noivern, L82, F|235/274
+|move|p2a: Tatsugiri|Rapid Spin|p1a: Noivern
+|-damage|p1a: Noivern|208/274
+|-boost|p2a: Tatsugiri|spe|1
+|
+|upkeep
+|turn|13
+|
+|t:|1772747243
+|move|p2a: Tatsugiri|Draco Meteor|p1a: Noivern|[miss]
+|-miss|p2a: Tatsugiri|p1a: Noivern
+|move|p1a: Noivern|Draco Meteor|p2a: Tatsugiri|[miss]
+|-miss|p1a: Noivern|p2a: Tatsugiri
+|
+|upkeep
+|turn|14
+|j|@a fairy
+|n|‽fulwadi|fulwadi
+|c|@a fairy|/log fulwadi was locked from talking by a fairy. (dont be rude in battles)
+|l|@a fairy
+|c|☆dchung815|wow
+|c|☆dchung815|LMAO
+|inactive|dchung815 has 120 seconds left.
+|inactive|dchung815 has 90 seconds left.
+|
+|t:|1772747307
+|switch|p1a: Golduck|Golduck, L90, F|191/290
+|-ability|p1a: Golduck|Cloud Nine
+|move|p2a: Tatsugiri|Draco Meteor|p1a: Golduck
+|-damage|p1a: Golduck|31/290
+|-unboost|p2a: Tatsugiri|spa|2
+|
+|upkeep
+|turn|15
+|inactive|dchung815 has 90 seconds left.
+|inactive|fulwadi has 120 seconds left.
+|
+|t:|1772747336
+|move|p2a: Tatsugiri|Rapid Spin|p1a: Golduck
+|-damage|p1a: Golduck|7/290
+|-boost|p2a: Tatsugiri|spe|1
+|move|p1a: Golduck|Ice Beam|p2a: Tatsugiri
+|-damage|p2a: Tatsugiri|141/260
+|
+|upkeep
+|turn|16
+|
+|t:|1772747346
+|move|p2a: Tatsugiri|Rapid Spin|p1a: Golduck
+|-damage|p1a: Golduck|0 fnt
+|-boost|p2a: Tatsugiri|spe|1
+|faint|p1a: Golduck
+|
+|upkeep
+|
+|t:|1772747369
+|switch|p1a: Noivern|Noivern, L82, F|208/274
+|turn|17
+|
+|t:|1772747385
+|switch|p2a: Mismagius|Mismagius, L86, M|243/243
+|move|p1a: Noivern|Draco Meteor|p2a: Mismagius|[miss]
+|-miss|p1a: Noivern|p2a: Mismagius
+|
+|upkeep
+|turn|18
+|
+|t:|1772747395
+|switch|p1a: Ursaring|Ursaring, L84, M|288/288
+|move|p2a: Mismagius|Shadow Ball|p1a: Ursaring
+|-immune|p1a: Ursaring
+|
+|-status|p1a: Ursaring|tox|[from] item: Toxic Orb
+|upkeep
+|turn|19
+|
+|t:|1772747416
+|switch|p2a: Mewtwo|Mewtwo, L72|272/272
+|-ability|p2a: Mewtwo|Pressure
+|move|p1a: Ursaring|Throat Chop|p2a: Mewtwo
+|-supereffective|p2a: Mewtwo
+|-damage|p2a: Mewtwo|102/272
+|-start|p2a: Mewtwo|Throat Chop|[silent]
+|
+|-damage|p1a: Ursaring|270/288 tox|[from] psn
+|upkeep
+|turn|20
+|c|☆dchung815|?
+|
+|t:|1772747428
+|move|p2a: Mewtwo|Aura Sphere|p1a: Ursaring
+|-supereffective|p1a: Ursaring
+|-damage|p1a: Ursaring|98/288 tox
+|-damage|p2a: Mewtwo|75/272|[from] item: Life Orb
+|move|p1a: Ursaring|Throat Chop|p2a: Mewtwo
+|-supereffective|p2a: Mewtwo
+|-damage|p2a: Mewtwo|0 fnt
+|faint|p2a: Mewtwo
+|
+|-damage|p1a: Ursaring|62/288 tox|[from] psn
+|upkeep
+|inactive|fulwadi has 120 seconds left.
+|
+|t:|1772747450
+|switch|p2a: Mismagius|Mismagius, L86, M|243/243
+|turn|21
+|
+|t:|1772747460
+|move|p2a: Mismagius|Mystical Fire|p1a: Ursaring
+|-damage|p1a: Ursaring|0 fnt
+|faint|p1a: Ursaring
+|
+|upkeep
+|
+|t:|1772747480
+|switch|p1a: Zekrom|Zekrom, L71|259/259
+|-ability|p1a: Zekrom|Teravolt
+|turn|22
+|
+|t:|1772747493
+|move|p2a: Mismagius|Mystical Fire|p1a: Zekrom
+|-resisted|p1a: Zekrom
+|-damage|p1a: Zekrom|216/259
+|-unboost|p1a: Zekrom|spa|1
+|move|p1a: Zekrom|Dragon Dance|p1a: Zekrom
+|-boost|p1a: Zekrom|atk|1
+|-boost|p1a: Zekrom|spe|1
+|
+|-heal|p1a: Zekrom|232/259|[from] item: Leftovers
+|upkeep
+|turn|23
+|c|☆dchung815|?
+|
+|t:|1772747505
+|switch|p2a: Floatzel|Floatzel, L86, F|168/286
+|move|p1a: Zekrom|Bolt Strike|p2a: Floatzel
+|-supereffective|p2a: Floatzel
+|-damage|p2a: Floatzel|0 fnt
+|faint|p2a: Floatzel
+|
+|-heal|p1a: Zekrom|248/259|[from] item: Leftovers
+|upkeep
+|c|☆dchung815|?
+|
+|t:|1772747514
+|switch|p2a: Tatsugiri|Tatsugiri, L87, F|141/260
+|turn|24
+|inactive|dchung815 has 90 seconds left.
+|
+|t:|1772747521
+|-terastallize|p2a: Tatsugiri|Water
+|move|p1a: Zekrom|Bolt Strike|p2a: Tatsugiri
+|-supereffective|p2a: Tatsugiri
+|-damage|p2a: Tatsugiri|0 fnt
+|faint|p2a: Tatsugiri
+|
+|-heal|p1a: Zekrom|259/259|[from] item: Leftovers
+|upkeep
+|c|☆dchung815|?
+|
+|t:|1772747529
+|switch|p2a: Mismagius|Mismagius, L86, M|243/243
+|turn|25
+|
+|t:|1772747536
+|move|p1a: Zekrom|Bolt Strike|p2a: Mismagius|[miss]
+|-miss|p1a: Zekrom|p2a: Mismagius
+|move|p2a: Mismagius|Shadow Ball|p1a: Zekrom
+|-damage|p1a: Zekrom|103/259
+|
+|-heal|p1a: Zekrom|119/259|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1772747549
+|move|p1a: Zekrom|Outrage|p2a: Mismagius
+|-crit|p2a: Mismagius
+|-damage|p2a: Mismagius|0 fnt
+|faint|p2a: Mismagius
+|
+|win|dchung815
+|raw|dchung815's rating: 1400 &rarr; <strong>1419</strong><br />(+19 for winning)
+|raw|fulwadi's rating: 1389 &rarr; <strong>1370</strong><br />(-19 for losing)
+|c|☆dchung815|?
+|l|‽fulwadi
+|player|p2|

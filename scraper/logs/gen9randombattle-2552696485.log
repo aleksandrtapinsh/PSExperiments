@@ -1,0 +1,285 @@
+|j|☆Nick33444
+|j|☆wearytunic19279
+|t:|1772744390
+|gametype|singles
+|player|p1|Nick33444|cynthia|1040
+|player|p2|wearytunic19279|170|1000
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772744390
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Valiant|Iron Valiant, L78|244/244
+|switch|p2a: Gastrodon|Gastrodon, L86, F|331/331
+|turn|1
+|
+|t:|1772744403
+|move|p1a: Iron Valiant|Close Combat|p2a: Gastrodon
+|-damage|p2a: Gastrodon|105/331
+|-unboost|p1a: Iron Valiant|def|1
+|-unboost|p1a: Iron Valiant|spd|1
+|-damage|p1a: Iron Valiant|220/244|[from] item: Life Orb
+|move|p2a: Gastrodon|Sludge Bomb|p1a: Iron Valiant
+|-supereffective|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|-heal|p2a: Gastrodon|125/331|[from] item: Leftovers
+|upkeep
+|
+|t:|1772744416
+|switch|p1a: Tropius|Tropius, L91, M|328/328
+|turn|2
+|
+|t:|1772744424
+|switch|p2a: Cryogonal|Cryogonal, L89|287/287
+|move|p1a: Tropius|Synthesis|p1a: Tropius
+|-fail|p1a: Tropius|heal
+|
+|upkeep
+|turn|3
+|
+|t:|1772744443
+|switch|p1a: Raichu|Raichu-Alola, L87, M|246/246
+|move|p2a: Cryogonal|Freeze-Dry|p1a: Raichu
+|-damage|p1a: Raichu|162/246
+|-status|p1a: Raichu|frz
+|
+|upkeep
+|turn|4
+|
+|t:|1772744453
+|cant|p1a: Raichu|frz
+|move|p2a: Cryogonal|Freeze-Dry|p1a: Raichu
+|-damage|p1a: Raichu|87/246 frz
+|
+|upkeep
+|turn|5
+|
+|t:|1772744459
+|cant|p1a: Raichu|frz
+|move|p2a: Cryogonal|Freeze-Dry|p1a: Raichu
+|-crit|p1a: Raichu
+|-damage|p1a: Raichu|0 fnt
+|faint|p1a: Raichu
+|
+|upkeep
+|
+|t:|1772744467
+|switch|p1a: Crabominable|Crabominable, L90, F|321/321
+|turn|6
+|
+|t:|1772744479
+|move|p2a: Cryogonal|Rapid Spin|p1a: Crabominable
+|-damage|p1a: Crabominable|296/321
+|-boost|p2a: Cryogonal|spe|1
+|move|p1a: Crabominable|Earthquake|p2a: Cryogonal
+|-immune|p2a: Cryogonal|[from] ability: Levitate
+|
+|upkeep
+|turn|7
+|
+|t:|1772744491
+|switch|p2a: Mewtwo|Mewtwo, L72|272/272
+|-ability|p2a: Mewtwo|Pressure
+|switch|p1a: Golduck|Golduck, L90, F|290/290
+|-ability|p1a: Golduck|Cloud Nine
+|
+|upkeep
+|turn|8
+|
+|t:|1772744509
+|move|p2a: Mewtwo|Dark Pulse|p1a: Golduck
+|-damage|p1a: Golduck|199/290
+|move|p1a: Golduck|Ice Beam|p2a: Mewtwo
+|-damage|p2a: Mewtwo|158/272
+|-status|p2a: Mewtwo|frz
+|-damage|p1a: Golduck|170/290|[from] item: Life Orb
+|
+|upkeep
+|turn|9
+|
+|t:|1772744520
+|cant|p2a: Mewtwo|frz
+|move|p1a: Golduck|Ice Beam|p2a: Mewtwo
+|-damage|p2a: Mewtwo|53/272 frz
+|-damage|p1a: Golduck|141/290|[from] item: Life Orb
+|
+|upkeep
+|turn|10
+|
+|t:|1772744531
+|cant|p2a: Mewtwo|frz
+|move|p1a: Golduck|Ice Beam|p2a: Mewtwo
+|-damage|p2a: Mewtwo|0 fnt
+|faint|p2a: Mewtwo
+|-damage|p1a: Golduck|112/290|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772744542
+|switch|p2a: Golem|Golem-Alola, L93, F|300/300
+|turn|11
+|
+|t:|1772744554
+|move|p1a: Golduck|Ice Beam|p2a: Golem
+|-damage|p2a: Golem|184/300
+|-damage|p1a: Golduck|83/290|[from] item: Life Orb
+|move|p2a: Golem|Double-Edge|p1a: Golduck
+|-supereffective|p1a: Golduck
+|-damage|p1a: Golduck|0 fnt
+|faint|p1a: Golduck
+|-damage|p2a: Golem|157/300|[from] Recoil
+|-damage|p2a: Golem|127/300|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772744567
+|switch|p1a: Tropius|Tropius, L91, M|328/328
+|turn|12
+|
+|t:|1772744574
+|move|p1a: Tropius|Dual Wingbeat|p2a: Golem
+|-resisted|p2a: Golem
+|-crit|p2a: Golem
+|-damage|p2a: Golem|116/300
+|-resisted|p2a: Golem
+|-damage|p2a: Golem|109/300
+|-hitcount|p2a: Golem|2
+|move|p2a: Golem|Double-Edge|p1a: Tropius
+|-damage|p1a: Tropius|43/328
+|-enditem|p1a: Tropius|Sitrus Berry|[eat]
+|-heal|p1a: Tropius|125/328|[from] item: Sitrus Berry
+|-damage|p2a: Golem|15/300|[from] Recoil
+|-damage|p2a: Golem|0 fnt|[from] item: Life Orb
+|faint|p2a: Golem
+|
+|-item|p1a: Tropius|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|-enditem|p1a: Tropius|Sitrus Berry|[eat]
+|-heal|p1a: Tropius|207/328|[from] item: Sitrus Berry
+|
+|t:|1772744593
+|switch|p2a: Cryogonal|Cryogonal, L89|287/287
+|turn|13
+|
+|t:|1772744602
+|move|p2a: Cryogonal|Freeze-Dry|p1a: Tropius
+|-supereffective|p1a: Tropius
+|-damage|p1a: Tropius|0 fnt
+|faint|p1a: Tropius
+|
+|upkeep
+|
+|t:|1772744607
+|switch|p1a: Vigoroth|Vigoroth, L85, M|275/275
+|turn|14
+|
+|t:|1772744611
+|move|p2a: Cryogonal|Freeze-Dry|p1a: Vigoroth
+|-damage|p1a: Vigoroth|203/275
+|move|p1a: Vigoroth|Bulk Up|p1a: Vigoroth
+|-boost|p1a: Vigoroth|atk|1
+|-boost|p1a: Vigoroth|def|1
+|
+|upkeep
+|turn|15
+|
+|t:|1772744618
+|move|p2a: Cryogonal|Freeze-Dry|p1a: Vigoroth
+|-damage|p1a: Vigoroth|128/275
+|move|p1a: Vigoroth|Bulk Up|p1a: Vigoroth
+|-boost|p1a: Vigoroth|atk|1
+|-boost|p1a: Vigoroth|def|1
+|
+|upkeep
+|turn|16
+|
+|t:|1772744626
+|move|p2a: Cryogonal|Freeze-Dry|p1a: Vigoroth
+|-damage|p1a: Vigoroth|46/275
+|move|p1a: Vigoroth|Bulk Up|p1a: Vigoroth
+|-boost|p1a: Vigoroth|atk|1
+|-boost|p1a: Vigoroth|def|1
+|
+|upkeep
+|turn|17
+|
+|t:|1772744637
+|move|p2a: Cryogonal|Freeze-Dry|p1a: Vigoroth
+|-damage|p1a: Vigoroth|0 fnt
+|faint|p1a: Vigoroth
+|
+|upkeep
+|
+|t:|1772744650
+|switch|p1a: Crabominable|Crabominable, L90, F|296/321
+|turn|18
+|
+|t:|1772744656
+|move|p2a: Cryogonal|Freeze-Dry|p1a: Crabominable
+|-resisted|p1a: Crabominable
+|-damage|p1a: Crabominable|245/321
+|move|p1a: Crabominable|Close Combat|p2a: Cryogonal
+|-supereffective|p2a: Cryogonal
+|-damage|p2a: Cryogonal|0 fnt
+|-unboost|p1a: Crabominable|def|1
+|-unboost|p1a: Crabominable|spd|1
+|faint|p2a: Cryogonal
+|
+|upkeep
+|
+|t:|1772744668
+|switch|p2a: Gastrodon|Gastrodon, L86, F|125/331
+|turn|19
+|
+|t:|1772744675
+|-terastallize|p1a: Crabominable|Fighting
+|move|p1a: Crabominable|Close Combat|p2a: Gastrodon
+|-damage|p2a: Gastrodon|0 fnt
+|-unboost|p1a: Crabominable|def|1
+|-unboost|p1a: Crabominable|spd|1
+|faint|p2a: Gastrodon
+|
+|upkeep
+|
+|t:|1772744683
+|switch|p2a: Bronzong|Bronzong, L88|261/261
+|turn|20
+|
+|t:|1772744688
+|move|p1a: Crabominable|Close Combat|p2a: Bronzong
+|-damage|p2a: Bronzong|0 fnt
+|-unboost|p1a: Crabominable|def|1
+|-unboost|p1a: Crabominable|spd|1
+|faint|p2a: Bronzong
+|
+|upkeep
+|
+|t:|1772744695
+|switch|p2a: Chansey|Chansey, L85, F|564/564
+|turn|21
+|
+|t:|1772744701
+|move|p2a: Chansey|Seismic Toss|p1a: Crabominable
+|-damage|p1a: Crabominable|160/321
+|move|p1a: Crabominable|Close Combat|p2a: Chansey
+|-supereffective|p2a: Chansey
+|-damage|p2a: Chansey|0 fnt
+|-unboost|p1a: Crabominable|def|1
+|-unboost|p1a: Crabominable|spd|1
+|faint|p2a: Chansey
+|
+|win|Nick33444
+|raw|Nick33444's rating: 1040 &rarr; <strong>1070</strong><br />(+30 for winning)
+|raw|wearytunic19279's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|l|☆wearytunic19279
+|player|p2|

@@ -1,0 +1,115 @@
+|j|☆jjjnkn
+|j|☆alector22
+|t:|1772746210
+|gametype|singles
+|player|p1|jjjnkn|marnie-masters3|1556
+|player|p2|alector22|102|1523
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772746210
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Salazzle|Salazzle, L83, F|249/249
+|switch|p2a: Darkrai|Darkrai, L77|234/234
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by jjjnkn)
+|
+|t:|1772746223
+|-terastallize|p2a: Darkrai|Poison
+|move|p1a: Salazzle|Nasty Plot|p1a: Salazzle
+|-boost|p1a: Salazzle|spa|2
+|move|p2a: Darkrai|Substitute|p2a: Darkrai
+|-start|p2a: Darkrai|Substitute
+|-damage|p2a: Darkrai|176/234
+|
+|-heal|p2a: Darkrai|190/234|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1772746235
+|move|p1a: Salazzle|Tera Blast|p2a: Darkrai
+|-end|p2a: Darkrai|Substitute
+|move|p2a: Darkrai|Dark Pulse|p1a: Salazzle
+|-damage|p1a: Salazzle|135/249
+|
+|-heal|p2a: Darkrai|204/234|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1772746241
+|move|p1a: Salazzle|Fire Blast|p2a: Darkrai
+|-damage|p2a: Darkrai|0 fnt
+|faint|p2a: Darkrai
+|
+|upkeep
+|
+|t:|1772746257
+|switch|p2a: Lanturn|Lanturn, L89, M|367/367
+|turn|4
+|
+|t:|1772746260
+|-terastallize|p1a: Salazzle|Grass
+|move|p1a: Salazzle|Tera Blast|p2a: Lanturn|[anim] Tera Blast Grass
+|-supereffective|p2a: Lanturn
+|-damage|p2a: Lanturn|0 fnt
+|faint|p2a: Lanturn
+|
+|upkeep
+|
+|t:|1772746265
+|switch|p2a: Squawkabilly|Squawkabilly-Yellow, L89, M|291/291
+|turn|5
+|
+|t:|1772746270
+|move|p2a: Squawkabilly|Quick Attack|p1a: Salazzle
+|-damage|p1a: Salazzle|45/249
+|move|p1a: Salazzle|Sludge Wave|p2a: Squawkabilly
+|-damage|p2a: Squawkabilly|0 fnt
+|faint|p2a: Squawkabilly
+|
+|upkeep
+|
+|t:|1772746278
+|switch|p2a: Revavroom|Revavroom, L79, M|256/256
+|turn|6
+|
+|t:|1772746282
+|move|p1a: Salazzle|Fire Blast|p2a: Revavroom
+|-supereffective|p2a: Revavroom
+|-damage|p2a: Revavroom|0 fnt
+|faint|p2a: Revavroom
+|
+|upkeep
+|
+|t:|1772746283
+|switch|p2a: Miraidon|Miraidon, L65|238/238
+|-fieldstart|move: Electric Terrain|[from] ability: Hadron Engine|[of] p2a: Miraidon
+|turn|7
+|
+|t:|1772746286
+|move|p1a: Salazzle|Sludge Wave|p2a: Miraidon
+|-damage|p2a: Miraidon|0 fnt
+|faint|p2a: Miraidon
+|
+|upkeep
+|
+|t:|1772746287
+|switch|p2a: Sylveon|Sylveon, L85, M|300/300
+|turn|8
+|
+|t:|1772746289
+|move|p1a: Salazzle|Sludge Wave|p2a: Sylveon
+|-supereffective|p2a: Sylveon
+|-damage|p2a: Sylveon|0 fnt
+|faint|p2a: Sylveon
+|
+|win|jjjnkn
+|raw|jjjnkn's rating: 1556 &rarr; <strong>1574</strong><br />(+18 for winning)
+|raw|alector22's rating: 1523 &rarr; <strong>1505</strong><br />(-18 for losing)

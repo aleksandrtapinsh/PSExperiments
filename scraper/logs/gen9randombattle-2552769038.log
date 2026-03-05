@@ -1,0 +1,346 @@
+|j|☆RandBattleMaster
+|j|☆papajawn
+|t:|1772751532
+|gametype|singles
+|player|p1|RandBattleMaster|cynthia|2022
+|player|p2|papajawn|101|1964
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772751532
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Raikou|Raikou, L81|278/278
+|switch|p2a: Veluza|Veluza, L85, M|292/292
+|-ability|p1a: Raikou|Pressure
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by RandBattleMaster)
+|
+|t:|1772751568
+|switch|p2a: Gardevoir|Gardevoir, L83, F|249/249
+|-ability|p2a: Gardevoir|Pressure|Trace|[from] ability: Trace|[of] p1a: Raikou
+|-ability|p2a: Gardevoir|Pressure
+|move|p1a: Raikou|Substitute|p1a: Raikou
+|-start|p1a: Raikou|Substitute
+|-damage|p1a: Raikou|209/278
+|
+|-heal|p1a: Raikou|226/278|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1772751590
+|move|p2a: Gardevoir|Psyshock|p1a: Raikou
+|-end|p1a: Raikou|Substitute
+|move|p1a: Raikou|Calm Mind|p1a: Raikou
+|-boost|p1a: Raikou|spa|1
+|-boost|p1a: Raikou|spd|1
+|
+|-heal|p1a: Raikou|243/278|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1772751602
+|move|p2a: Gardevoir|Psyshock|p1a: Raikou
+|-damage|p1a: Raikou|129/278
+|move|p1a: Raikou|Thunderbolt|p2a: Gardevoir
+|-damage|p2a: Gardevoir|116/249
+|
+|-heal|p1a: Raikou|146/278|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1772751610
+|move|p2a: Gardevoir|Psyshock|p1a: Raikou
+|-damage|p1a: Raikou|20/278
+|move|p1a: Raikou|Thunderbolt|p2a: Gardevoir
+|-damage|p2a: Gardevoir|0 fnt
+|faint|p2a: Gardevoir
+|
+|-heal|p1a: Raikou|37/278|[from] item: Leftovers
+|upkeep
+|
+|t:|1772751629
+|switch|p2a: Weavile|Weavile, L79, F|240/240
+|turn|5
+|
+|t:|1772751637
+|switch|p1a: Magearna|Magearna, L77|250/250
+|move|p2a: Weavile|Knock Off|p1a: Magearna
+|-resisted|p1a: Magearna
+|-damage|p1a: Magearna|200/250
+|-enditem|p1a: Magearna|Leftovers|[from] move: Knock Off|[of] p2a: Weavile
+|
+|upkeep
+|turn|6
+|inactive|papajawn has 120 seconds left.
+|inactive|papajawn has 90 seconds left.
+|
+|t:|1772751700
+|switch|p2a: Veluza|Veluza, L85, M|292/292
+|move|p1a: Magearna|Shift Gear|p1a: Magearna
+|-boost|p1a: Magearna|spe|2
+|-boost|p1a: Magearna|atk|1
+|
+|upkeep
+|turn|7
+|inactive|papajawn has 90 seconds left.
+|
+|t:|1772751718
+|move|p1a: Magearna|Calm Mind|p1a: Magearna
+|-boost|p1a: Magearna|spa|1
+|-boost|p1a: Magearna|spd|1
+|move|p2a: Veluza|Aqua Cutter|p1a: Magearna
+|-damage|p1a: Magearna|44/250
+|
+|upkeep
+|turn|8
+|inactive|papajawn has 90 seconds left.
+|inactive|papajawn has 60 seconds left.
+|
+|t:|1772751759
+|switch|p2a: Toxicroak|Toxicroak, L84, F|277/277
+|-terastallize|p1a: Magearna|Fairy
+|move|p1a: Magearna|Fleur Cannon|p2a: Toxicroak
+|-damage|p2a: Toxicroak|0 fnt
+|-unboost|p1a: Magearna|spa|2
+|faint|p2a: Toxicroak
+|-ability|p1a: Magearna|Soul-Heart|boost
+|-boost|p1a: Magearna|spa|1
+|
+|upkeep
+|
+|t:|1772751763
+|switch|p2a: Veluza|Veluza, L85, M|292/292
+|turn|9
+|
+|t:|1772751772
+|move|p2a: Veluza|Aqua Jet|p1a: Magearna
+|-damage|p1a: Magearna|0 fnt
+|faint|p1a: Magearna
+|
+|upkeep
+|
+|t:|1772751789
+|switch|p1a: Bellossom|Bellossom, L84, F|263/263
+|turn|10
+|inactive|papajawn has 60 seconds left.
+|
+|t:|1772751821
+|switch|p2a: Weavile|Weavile, L79, F|240/240
+|switch|p1a: Oinkologne|Oinkologne, L92, M|352/352
+|
+|upkeep
+|turn|11
+|inactive|papajawn has 60 seconds left.
+|
+|t:|1772751834
+|move|p2a: Weavile|Knock Off|p1a: Oinkologne
+|-damage|p1a: Oinkologne|235/352
+|-enditem|p1a: Oinkologne|Leftovers|[from] move: Knock Off|[of] p2a: Weavile
+|move|p1a: Oinkologne|Body Slam|p2a: Weavile
+|-damage|p2a: Weavile|90/240
+|-status|p2a: Weavile|par
+|
+|upkeep
+|turn|12
+|inactive|papajawn has 60 seconds left.
+|
+|t:|1772751851
+|switch|p2a: Araquanid|Araquanid, L82, F|246/246
+|move|p1a: Oinkologne|Body Slam|p2a: Araquanid
+|-damage|p2a: Araquanid|140/246
+|
+|upkeep
+|turn|13
+|
+|t:|1772751873
+|move|p1a: Oinkologne|Body Slam|p2a: Araquanid
+|-crit|p2a: Araquanid
+|-damage|p2a: Araquanid|0 fnt
+|faint|p2a: Araquanid
+|
+|upkeep
+|inactive|papajawn has 30 seconds left.
+|c|☆papajawn|i've never in my entire life seen a stronger base oinkologne in my life
+|c|☆papajawn|what the fuck r we doing
+|inactive|papajawn has 20 seconds left.
+|inactive|papajawn has 15 seconds left.
+|
+|t:|1772751906
+|switch|p2a: Zamazenta|Zamazenta, L71|248/248
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|14
+|inactive|papajawn has 25 seconds left this turn.
+|inactive|papajawn has 20 seconds left.
+|inactive|RandBattleMaster has 120 seconds left.
+|
+|t:|1772751959
+|switch|p1a: Raikou|Raikou, L81|37/278
+|-ability|p1a: Raikou|Pressure
+|move|p2a: Zamazenta|Close Combat|p1a: Raikou
+|-damage|p1a: Raikou|0 fnt
+|-unboost|p2a: Zamazenta|def|1
+|-unboost|p2a: Zamazenta|spd|1
+|faint|p1a: Raikou
+|
+|upkeep
+|inactive|RandBattleMaster has 90 seconds left.
+|c|☆RandBattleMaster|but it can't take that on tho
+|c|☆papajawn|63 and a para... ok fine u got lucky and it's a weavile who's weak defensively i guess... and only takes 33 damage to the knock off, ok i guess he's bulky and base oinkologne isn't terrible defensively...
+|inactive|RandBattleMaster has 60 seconds left.
+|
+|t:|1772752008
+|switch|p1a: Flygon|Flygon, L82, F|265/265
+|turn|15
+|inactive|RandBattleMaster has 60 seconds left.
+|inactive|papajawn has 30 seconds left.
+|c|☆papajawn|but he does 43 against a slow ass araquanid?!? and then does a crit to finish ?
+|inactive|papajawn has 20 seconds left.
+|c|☆papajawn|he wasn't even boosted wtf r we doing?
+|inactive|papajawn has 15 seconds left.
+|
+|t:|1772752030
+|switch|p2a: Weavile|Weavile, L79, F|90/240 par
+|move|p1a: Flygon|Earthquake|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|faint|p2a: Weavile
+|
+|upkeep
+|inactive|papajawn has 20 seconds left this turn.
+|
+|t:|1772752034
+|switch|p2a: Veluza|Veluza, L85, M|292/292
+|turn|16
+|inactive|papajawn has 30 seconds left this turn.
+|c|☆RandBattleMaster|he went all in for my badly playing ass
+|c|☆RandBattleMaster|a real one
+|inactive|RandBattleMaster has 60 seconds left.
+|
+|t:|1772752055
+|move|p1a: Flygon|Earthquake|p2a: Veluza
+|-damage|p2a: Veluza|106/292
+|move|p2a: Veluza|Psycho Cut|p1a: Flygon
+|-damage|p1a: Flygon|63/265
+|
+|upkeep
+|turn|17
+|inactive|papajawn has 30 seconds left.
+|
+|t:|1772752068
+|move|p1a: Flygon|Earthquake|p2a: Veluza
+|-damage|p2a: Veluza|0 fnt
+|faint|p2a: Veluza
+|
+|upkeep
+|inactive|papajawn has 30 seconds left this turn.
+|
+|t:|1772752069
+|switch|p2a: Zamazenta|Zamazenta, L71|248/248
+|turn|18
+|inactive|papajawn has 30 seconds left.
+|inactive|papajawn has 20 seconds left.
+|
+|t:|1772752092
+|move|p2a: Zamazenta|Close Combat|p1a: Flygon
+|-damage|p1a: Flygon|0 fnt
+|-unboost|p2a: Zamazenta|def|1
+|-unboost|p2a: Zamazenta|spd|1
+|faint|p1a: Flygon
+|
+|upkeep
+|c|☆RandBattleMaster|gg
+|
+|t:|1772752113
+|switch|p1a: Bellossom|Bellossom, L84, F|263/263
+|turn|19
+|inactive|papajawn has 30 seconds left.
+|
+|t:|1772752121
+|-terastallize|p2a: Zamazenta|Steel
+|move|p2a: Zamazenta|Close Combat|p1a: Bellossom
+|-damage|p1a: Bellossom|100/263
+|-unboost|p2a: Zamazenta|def|1
+|-unboost|p2a: Zamazenta|spd|1
+|move|p1a: Bellossom|Strength Sap|p2a: Zamazenta
+|-unboost|p2a: Zamazenta|atk|1
+|-heal|p1a: Bellossom|263/263
+|
+|upkeep
+|turn|20
+|
+|t:|1772752130
+|move|p2a: Zamazenta|Close Combat|p1a: Bellossom
+|-damage|p1a: Bellossom|158/263
+|-unboost|p2a: Zamazenta|def|1
+|-unboost|p2a: Zamazenta|spd|1
+|move|p1a: Bellossom|Strength Sap|p2a: Zamazenta
+|-unboost|p2a: Zamazenta|atk|1
+|-heal|p1a: Bellossom|263/263
+|
+|upkeep
+|turn|21
+|inactive|RandBattleMaster has 90 seconds left.
+|c|☆papajawn|where's my fricken crit
+|
+|t:|1772752140
+|move|p2a: Zamazenta|Close Combat|p1a: Bellossom
+|-damage|p1a: Bellossom|182/263
+|-unboost|p2a: Zamazenta|def|1
+|-unboost|p2a: Zamazenta|spd|1
+|move|p1a: Bellossom|Strength Sap|p2a: Zamazenta
+|-unboost|p2a: Zamazenta|atk|1
+|-heal|p1a: Bellossom|263/263
+|
+|upkeep
+|turn|22
+|inactive|RandBattleMaster has 90 seconds left.
+|c|☆papajawn|bro just fucking kill me and don't be a cocksucker
+|n|‽papajawn|papajawn
+|c|~|/log papajawn was locked from talking by Artemis. (☆papajawn: bro just fucking   me and don't be a cocksucker)
+|c|~|/raw <small>This action was done automatically. Want to learn more about the AI? <a href="https://www.smogon.com/forums/threads/3570628/#post-9056769">Visit the information thread</a>.</small>
+|
+|t:|1772752170
+|move|p2a: Zamazenta|Close Combat|p1a: Bellossom
+|-damage|p1a: Bellossom|200/263
+|-unboost|p2a: Zamazenta|def|1
+|-unboost|p2a: Zamazenta|spd|1
+|move|p1a: Bellossom|Strength Sap|p2a: Zamazenta
+|-unboost|p2a: Zamazenta|atk|1
+|-heal|p1a: Bellossom|263/263
+|
+|upkeep
+|turn|23
+|
+|t:|1772752177
+|move|p2a: Zamazenta|Close Combat|p1a: Bellossom
+|-damage|p1a: Bellossom|208/263
+|-unboost|p2a: Zamazenta|def|1
+|-unboost|p2a: Zamazenta|spd|1
+|move|p1a: Bellossom|Giga Drain|p2a: Zamazenta
+|-resisted|p2a: Zamazenta
+|-damage|p2a: Zamazenta|114/248
+|-heal|p1a: Bellossom|263/263|[from] drain|[of] p2a: Zamazenta
+|
+|upkeep
+|turn|24
+|
+|t:|1772752181
+|-activate|p2a: Zamazenta|move: Struggle
+|move|p2a: Zamazenta|Struggle|p1a: Bellossom
+|-damage|p1a: Bellossom|248/263
+|-damage|p2a: Zamazenta|52/248|[from] recoil
+|move|p1a: Bellossom|Giga Drain|p2a: Zamazenta
+|-resisted|p2a: Zamazenta
+|-crit|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|-heal|p1a: Bellossom|263/263|[from] drain|[of] p2a: Zamazenta
+|faint|p2a: Zamazenta
+|
+|win|RandBattleMaster

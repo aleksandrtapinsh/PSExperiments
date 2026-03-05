@@ -1,0 +1,181 @@
+|j|☆aguiaheugueg
+|j|☆TumNght
+|t:|1772751934
+|gametype|singles
+|player|p1|aguiaheugueg|skier|1000
+|player|p2|TumNght|hilbert-wonderlauncher|1042
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772751934
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Corviknight|Corviknight, L80, M|288/288
+|switch|p2a: Iron Boulder|Iron Boulder, L77|265/265
+|-ability|p1a: Corviknight|Pressure
+|turn|1
+|
+|t:|1772751956
+|-terastallize|p2a: Iron Boulder|Fighting
+|-terastallize|p1a: Corviknight|Dragon
+|move|p2a: Iron Boulder|Swords Dance|p2a: Iron Boulder
+|-boost|p2a: Iron Boulder|atk|2
+|move|p1a: Corviknight|Defog|p2a: Iron Boulder
+|-unboost|p2a: Iron Boulder|evasion|1
+|
+|upkeep
+|turn|2
+|
+|t:|1772751971
+|move|p2a: Iron Boulder|Close Combat|p1a: Corviknight
+|-damage|p1a: Corviknight|7/288
+|-unboost|p2a: Iron Boulder|def|1
+|-unboost|p2a: Iron Boulder|spd|1
+|-damage|p2a: Iron Boulder|239/265|[from] item: Life Orb
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|151/288
+|
+|-heal|p1a: Corviknight|169/288|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1772751985
+|move|p2a: Iron Boulder|Close Combat|p1a: Corviknight
+|-damage|p1a: Corviknight|0 fnt
+|-unboost|p2a: Iron Boulder|def|1
+|-unboost|p2a: Iron Boulder|spd|1
+|faint|p1a: Corviknight
+|-damage|p2a: Iron Boulder|213/265|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772751995
+|switch|p1a: Yanmega|Yanmega, L82, M|275/275
+|turn|4
+|
+|t:|1772752002
+|move|p2a: Iron Boulder|Mighty Cleave|p1a: Yanmega
+|-supereffective|p1a: Yanmega
+|-damage|p1a: Yanmega|0 fnt
+|faint|p1a: Yanmega
+|-damage|p2a: Iron Boulder|187/265|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772752010
+|switch|p1a: Bruxish|Bruxish, L85, F|254/254
+|turn|5
+|
+|t:|1772752029
+|move|p2a: Iron Boulder|Mighty Cleave|p1a: Bruxish
+|-damage|p1a: Bruxish|0 fnt
+|faint|p1a: Bruxish
+|-damage|p2a: Iron Boulder|161/265|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772752036
+|switch|p1a: Gogoat|Gogoat, L88, M|360/360
+|turn|6
+|
+|t:|1772752064
+|move|p2a: Iron Boulder|Mighty Cleave|p1a: Gogoat
+|-damage|p1a: Gogoat|27/360
+|-damage|p2a: Iron Boulder|135/265|[from] item: Life Orb
+|move|p1a: Gogoat|Bulk Up|p1a: Gogoat
+|-boost|p1a: Gogoat|atk|1
+|-boost|p1a: Gogoat|def|1
+|
+|-heal|p1a: Gogoat|49/360|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1772752078
+|move|p2a: Iron Boulder|Zen Headbutt|p1a: Gogoat
+|-damage|p1a: Gogoat|0 fnt
+|faint|p1a: Gogoat
+|-damage|p2a: Iron Boulder|109/265|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772752084
+|switch|p1a: Flygon|Flygon, L82, M|265/265
+|turn|8
+|
+|t:|1772752097
+|move|p2a: Iron Boulder|Close Combat|p1a: Flygon
+|-damage|p1a: Flygon|0 fnt
+|-unboost|p2a: Iron Boulder|def|1
+|-unboost|p2a: Iron Boulder|spd|1
+|faint|p1a: Flygon
+|-damage|p2a: Iron Boulder|83/265|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772752105
+|switch|p1a: Deoxys|Deoxys, L74|196/196
+|-ability|p1a: Deoxys|Pressure
+|turn|9
+|
+|t:|1772752114
+|move|p1a: Deoxys|Superpower|p2a: Iron Boulder
+|-damage|p2a: Iron Boulder|0 fnt
+|-unboost|p1a: Deoxys|atk|1
+|-unboost|p1a: Deoxys|def|1
+|faint|p2a: Iron Boulder
+|-end|p2a: Iron Boulder|Quark Drive|[silent]
+|-damage|p1a: Deoxys|177/196|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772752129
+|switch|p2a: Kricketune|Kricketune, L99, F|312/312
+|turn|10
+|
+|t:|1772752134
+|move|p1a: Deoxys|Superpower|p2a: Kricketune
+|-resisted|p2a: Kricketune
+|-damage|p2a: Kricketune|261/312
+|-unboost|p1a: Deoxys|atk|1
+|-unboost|p1a: Deoxys|def|1
+|-damage|p1a: Deoxys|158/196|[from] item: Life Orb
+|move|p2a: Kricketune|Sticky Web|p1a: Deoxys
+|-sidestart|p1: aguiaheugueg|move: Sticky Web
+|
+|upkeep
+|turn|11
+|
+|t:|1772752146
+|move|p1a: Deoxys|Psycho Boost|p2a: Kricketune
+|-damage|p2a: Kricketune|0 fnt
+|-unboost|p1a: Deoxys|spa|2
+|faint|p2a: Kricketune
+|-damage|p1a: Deoxys|139/196|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772752153
+|switch|p2a: Dedenne|Dedenne, L88, F|261/261
+|turn|12
+|
+|t:|1772752159
+|move|p1a: Deoxys|Psycho Boost|p2a: Dedenne
+|-damage|p2a: Dedenne|143/261
+|-unboost|p1a: Deoxys|spa|2
+|-damage|p1a: Deoxys|120/196|[from] item: Life Orb
+|move|p2a: Dedenne|U-turn|p1a: Deoxys
+|-supereffective|p1a: Deoxys
+|-damage|p1a: Deoxys|0 fnt
+|faint|p1a: Deoxys
+|
+|win|TumNght
+|raw|aguiaheugueg's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|raw|TumNght's rating: 1042 &rarr; <strong>1072</strong><br />(+30 for winning)
+|l|☆aguiaheugueg
+|player|p1|

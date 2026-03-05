@@ -1,0 +1,171 @@
+|j|☆wverbe
+|j|☆SUMI7
+|t:|1772747582
+|gametype|singles
+|player|p1|wverbe|101|1196
+|player|p2|SUMI7|ghetsis|1236
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772747582
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Revavroom|Revavroom, L79, M|256/256
+|switch|p2a: Mabosstiff|Mabosstiff, L86, F|278/278
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by wverbe)
+|
+|t:|1772747613
+|switch|p1a: Polteageist|Polteageist-Antique, L78|222/222
+|move|p2a: Mabosstiff|Psychic Fangs|p1a: Polteageist
+|-damage|p1a: Polteageist|30/222
+|
+|upkeep
+|turn|2
+|
+|t:|1772747623
+|move|p2a: Mabosstiff|Psychic Fangs|p1a: Polteageist
+|-damage|p1a: Polteageist|0 fnt
+|faint|p1a: Polteageist
+|
+|upkeep
+|
+|t:|1772747634
+|switch|p1a: Wugtrio|Wugtrio, L91, F|212/212
+|turn|3
+|
+|t:|1772747647
+|move|p2a: Mabosstiff|Psychic Fangs|p1a: Wugtrio
+|-damage|p1a: Wugtrio|114/212
+|-ability|p1a: Wugtrio|Gooey
+|-unboost|p2a: Mabosstiff|spe|1
+|move|p1a: Wugtrio|Liquidation|p2a: Mabosstiff
+|-damage|p2a: Mabosstiff|124/278
+|
+|upkeep
+|turn|4
+|
+|t:|1772747666
+|switch|p2a: Arboliva|Arboliva, L91, F|290/290
+|move|p1a: Wugtrio|Liquidation|p2a: Arboliva
+|-resisted|p2a: Arboliva
+|-damage|p2a: Arboliva|222/290
+|-unboost|p2a: Arboliva|def|1
+|-fieldstart|move: Grassy Terrain|[from] ability: Seed Sower|[of] p2a: Arboliva
+|
+|-heal|p1a: Wugtrio|127/212|[from] Grassy Terrain
+|-heal|p2a: Arboliva|240/290|[from] Grassy Terrain
+|-heal|p2a: Arboliva|258/290|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1772747678
+|switch|p1a: Ariados|Ariados, L95, F|287/287
+|move|p2a: Arboliva|Energy Ball|p1a: Ariados
+|-resisted|p1a: Ariados
+|-damage|p1a: Ariados|241/287
+|
+|-heal|p1a: Ariados|258/287|[from] Grassy Terrain
+|-heal|p2a: Arboliva|276/290|[from] Grassy Terrain
+|-heal|p2a: Arboliva|290/290|[from] item: Leftovers
+|upkeep
+|turn|6
+|inactive|SUMI7 has 120 seconds left.
+|
+|t:|1772747704
+|switch|p2a: Ceruledge|Ceruledge, L78, M|245/245
+|move|p1a: Ariados|Toxic Spikes|p2a: Ceruledge
+|-sidestart|p2: SUMI7|move: Toxic Spikes
+|
+|-heal|p1a: Ariados|275/287|[from] Grassy Terrain
+|upkeep
+|turn|7
+|inactive|SUMI7 has 120 seconds left.
+|
+|t:|1772747720
+|switch|p1a: Infernape|Infernape, L82, M|259/259
+|move|p2a: Ceruledge|Swords Dance|p2a: Ceruledge
+|-boost|p2a: Ceruledge|atk|2
+|
+|upkeep
+|turn|8
+|inactive|SUMI7 has 120 seconds left.
+|
+|t:|1772747738
+|-terastallize|p2a: Ceruledge|Fighting
+|move|p1a: Infernape|Knock Off|p2a: Ceruledge
+|-resisted|p2a: Ceruledge
+|-damage|p2a: Ceruledge|194/245
+|-ability|p2a: Ceruledge|Weak Armor|boost
+|-unboost|p2a: Ceruledge|def|1
+|-boost|p2a: Ceruledge|spe|2
+|-enditem|p2a: Ceruledge|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Infernape
+|-damage|p1a: Infernape|234/259|[from] item: Life Orb
+|move|p2a: Ceruledge|Close Combat|p1a: Infernape
+|-damage|p1a: Infernape|0 fnt
+|-unboost|p2a: Ceruledge|def|1
+|-unboost|p2a: Ceruledge|spd|1
+|faint|p1a: Infernape
+|
+|-heal|p2a: Ceruledge|209/245|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|inactive|wverbe has 120 seconds left.
+|
+|t:|1772747771
+|switch|p1a: Dudunsparce|Dudunsparce, L83, M|343/343
+|turn|9
+|c|☆SUMI7|wasn't that a good play hehe
+|inactive|wverbe has 120 seconds left.
+|inactive|SUMI7 has 120 seconds left.
+|
+|t:|1772747783
+|-terastallize|p1a: Dudunsparce|Ghost
+|move|p2a: Ceruledge|Close Combat|p1a: Dudunsparce
+|-immune|p1a: Dudunsparce
+|move|p1a: Dudunsparce|Headbutt|p2a: Ceruledge
+|-damage|p2a: Ceruledge|40/245
+|-ability|p2a: Ceruledge|Weak Armor|boost
+|-unboost|p2a: Ceruledge|def|1
+|-boost|p2a: Ceruledge|spe|2
+|
+|upkeep
+|turn|10
+|inactive|wverbe has 120 seconds left.
+|inactive|SUMI7 has 120 seconds left.
+|
+|t:|1772747796
+|switch|p1a: Wugtrio|Wugtrio, L91, F|127/212
+|move|p2a: Ceruledge|Poltergeist|p1a: Wugtrio
+|-activate|p1a: Wugtrio|move: Poltergeist|Choice Band
+|-damage|p1a: Wugtrio|0 fnt
+|faint|p1a: Wugtrio
+|
+|upkeep
+|inactive|wverbe has 120 seconds left.
+|
+|t:|1772747820
+|switch|p1a: Revavroom|Revavroom, L79, M|256/256
+|turn|11
+|
+|t:|1772747828
+|move|p2a: Ceruledge|Bitter Blade|p1a: Revavroom
+|-supereffective|p1a: Revavroom
+|-damage|p1a: Revavroom|0 fnt
+|-heal|p2a: Ceruledge|168/245|[from] drain|[of] p1a: Revavroom
+|faint|p1a: Revavroom
+|
+|upkeep
+|-message|wverbe forfeited.
+|
+|win|SUMI7
+|raw|wverbe's rating: 1220 &rarr; <strong>1196</strong><br />(-24 for losing)
+|raw|SUMI7's rating: 1236 &rarr; <strong>1260</strong><br />(+24 for winning)
+|l|☆wverbe
+|player|p1|

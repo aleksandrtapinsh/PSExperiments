@@ -1,0 +1,403 @@
+|j|☆filipinosenoferta
+|j|☆jod2655
+|t:|1772750151
+|gametype|singles
+|player|p1|filipinosenoferta|2|1108
+|player|p2|jod2655|169|1131
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772750151
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Rillaboom|Rillaboom, L79, F|288/288
+|switch|p2a: Weezing|Weezing, L88, F|258/258
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|1
+|
+|t:|1772750175
+|move|p1a: Rillaboom|Grassy Glide|p2a: Weezing
+|-resisted|p2a: Weezing
+|-damage|p2a: Weezing|213/258
+|move|p2a: Weezing|Gunk Shot|p1a: Rillaboom
+|-supereffective|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p1a: Rillaboom
+|
+|-heal|p2a: Weezing|229/258|[from] item: Leftovers
+|upkeep
+|
+|t:|1772750191
+|switch|p1a: Lugia|Lugia, L73|275/275
+|turn|2
+|
+|t:|1772750198
+|move|p1a: Lugia|Aeroblast|p2a: Weezing
+|-damage|p2a: Weezing|145/258
+|move|p2a: Weezing|Will-O-Wisp|p1a: Lugia
+|-status|p1a: Lugia|brn
+|
+|-heal|p2a: Weezing|161/258|[from] item: Leftovers
+|-damage|p1a: Lugia|258/275 brn|[from] brn
+|upkeep
+|turn|3
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by filipinosenoferta)
+|
+|t:|1772750235
+|switch|p2a: Bellibolt|Bellibolt, L84, F|320/320
+|move|p1a: Lugia|Aeroblast|p2a: Bellibolt
+|-resisted|p2a: Bellibolt
+|-damage|p2a: Bellibolt|281/320
+|-start|p2a: Bellibolt|Charge|Aeroblast|[from] ability: Electromorphosis
+|
+|-heal|p2a: Bellibolt|301/320|[from] Grassy Terrain
+|-heal|p2a: Bellibolt|320/320|[from] item: Leftovers
+|-damage|p1a: Lugia|241/275 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1772750253
+|switch|p1a: Smeargle|Smeargle, L95, F|258/258
+|move|p2a: Bellibolt|Thunderbolt|p1a: Smeargle
+|-damage|p1a: Smeargle|0 fnt
+|faint|p1a: Smeargle
+|-end|p2a: Bellibolt|Charge|[silent]
+|
+|upkeep
+|
+|t:|1772750260
+|switch|p1a: Toxtricity|Toxtricity, L82, M|257/257
+|turn|5
+|
+|t:|1772750284
+|switch|p2a: Weezing|Weezing, L88, F|161/258
+|move|p1a: Toxtricity|Boomburst|p2a: Weezing
+|-damage|p2a: Weezing|4/258
+|-enditem|p1a: Toxtricity|Throat Spray
+|-boost|p1a: Toxtricity|spa|1|[from] item: Throat Spray
+|
+|-heal|p2a: Weezing|20/258|[from] item: Leftovers
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1772750301
+|move|p1a: Toxtricity|Overdrive|p2a: Weezing
+|-damage|p2a: Weezing|0 fnt
+|faint|p2a: Weezing
+|
+|upkeep
+|inactive|jod2655 has 120 seconds left.
+|
+|t:|1772750318
+|switch|p2a: Dragapult|Dragapult, L77, M|262/262
+|turn|7
+|inactive|jod2655 has 120 seconds left.
+|
+|t:|1772750336
+|move|p2a: Dragapult|Fire Blast|p1a: Toxtricity
+|-damage|p1a: Toxtricity|152/257
+|-damage|p2a: Dragapult|236/262|[from] item: Life Orb
+|move|p1a: Toxtricity|Shift Gear|p1a: Toxtricity
+|-boost|p1a: Toxtricity|spe|2
+|-boost|p1a: Toxtricity|atk|1
+|
+|upkeep
+|turn|8
+|inactive|jod2655 has 120 seconds left.
+|
+|t:|1772750349
+|move|p1a: Toxtricity|Boomburst|p2a: Dragapult
+|-immune|p2a: Dragapult
+|move|p2a: Dragapult|Tera Blast|p1a: Toxtricity
+|-damage|p1a: Toxtricity|77/257
+|-damage|p2a: Dragapult|210/262|[from] item: Life Orb
+|
+|upkeep
+|turn|9
+|inactive|jod2655 has 120 seconds left.
+|
+|t:|1772750366
+|move|p1a: Toxtricity|Gunk Shot|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|101/262
+|move|p2a: Dragapult|Tera Blast|p1a: Toxtricity
+|-damage|p1a: Toxtricity|0 fnt
+|faint|p1a: Toxtricity
+|-damage|p2a: Dragapult|75/262|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772750376
+|switch|p1a: Primarina|Primarina, L83, F|268/268
+|turn|10
+|inactive|jod2655 has 120 seconds left.
+|
+|t:|1772750398
+|move|p2a: Dragapult|Tera Blast|p1a: Primarina
+|-damage|p1a: Primarina|215/268
+|-damage|p2a: Dragapult|49/262|[from] item: Life Orb
+|move|p1a: Primarina|Moonblast|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|-heal|p1a: Primarina|231/268|[from] item: Leftovers
+|upkeep
+|
+|t:|1772750414
+|switch|p2a: Bellibolt|Bellibolt, L84, F|320/320
+|turn|11
+|
+|t:|1772750420
+|switch|p1a: Weezing|Weezing-Galar, L86, F|252/252
+|move|p2a: Bellibolt|Thunderbolt|p1a: Weezing
+|-damage|p1a: Weezing|134/252
+|
+|-heal|p1a: Weezing|149/252|[from] item: Leftovers
+|upkeep
+|turn|12
+|inactive|jod2655 has 120 seconds left.
+|inactive|jod2655 has 90 seconds left.
+|
+|t:|1772750458
+|switch|p2a: Thundurus|Thundurus, L80, M|258/258
+|move|p1a: Weezing|Gunk Shot|p2a: Thundurus
+|-damage|p2a: Thundurus|105/258
+|
+|-heal|p1a: Weezing|164/252|[from] item: Leftovers
+|upkeep
+|turn|13
+|inactive|jod2655 has 90 seconds left.
+|
+|t:|1772750477
+|move|p2a: Thundurus|Taunt|p1a: Weezing
+|-start|p1a: Weezing|move: Taunt
+|move|p1a: Weezing|Gunk Shot|p2a: Thundurus
+|-damage|p2a: Thundurus|0 fnt
+|faint|p2a: Thundurus
+|
+|-heal|p1a: Weezing|179/252|[from] item: Leftovers
+|upkeep
+|inactive|jod2655 has 90 seconds left.
+|
+|t:|1772750497
+|switch|p2a: Kleavor|Kleavor, L78, F|237/237
+|turn|14
+|
+|t:|1772750510
+|move|p2a: Kleavor|Stone Axe|p1a: Weezing
+|-damage|p1a: Weezing|86/252
+|-sidestart|p1: filipinosenoferta|move: Stealth Rock
+|move|p1a: Weezing|Strange Steam|p2a: Kleavor
+|-damage|p2a: Kleavor|122/237
+|-start|p2a: Kleavor|confusion
+|
+|-heal|p1a: Weezing|101/252|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1772750523
+|switch|p1a: Primarina|Primarina, L83, F|231/268
+|-damage|p1a: Primarina|198/268|[from] Stealth Rock
+|-activate|p2a: Kleavor|confusion
+|move|p2a: Kleavor|Close Combat|p1a: Primarina
+|-resisted|p1a: Primarina
+|-damage|p1a: Primarina|139/268
+|-unboost|p2a: Kleavor|def|1
+|-unboost|p2a: Kleavor|spd|1
+|
+|-heal|p1a: Primarina|155/268|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1772750538
+|switch|p2a: Clawitzer|Clawitzer, L87, M|265/265
+|move|p1a: Primarina|Draining Kiss|p2a: Clawitzer
+|-damage|p2a: Clawitzer|220/265
+|-heal|p1a: Primarina|189/268|[from] drain|[of] p2a: Clawitzer
+|
+|-heal|p1a: Primarina|205/268|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1772750562
+|switch|p2a: Bellibolt|Bellibolt, L84, F|320/320
+|move|p1a: Primarina|Moonblast|p2a: Bellibolt
+|-damage|p2a: Bellibolt|202/320
+|-unboost|p2a: Bellibolt|spa|1
+|-start|p2a: Bellibolt|Charge|Moonblast|[from] ability: Electromorphosis
+|
+|-heal|p1a: Primarina|221/268|[from] item: Leftovers
+|-heal|p2a: Bellibolt|222/320|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1772750580
+|-terastallize|p1a: Primarina|Fairy
+|move|p1a: Primarina|Draining Kiss|p2a: Bellibolt
+|-damage|p2a: Bellibolt|116/320
+|-heal|p1a: Primarina|268/268|[from] drain|[of] p2a: Bellibolt
+|-start|p2a: Bellibolt|Charge|Draining Kiss|[from] ability: Electromorphosis
+|move|p2a: Bellibolt|Thunderbolt|p1a: Primarina
+|-damage|p1a: Primarina|162/268
+|-status|p1a: Primarina|par
+|-end|p2a: Bellibolt|Charge|[silent]
+|
+|-heal|p2a: Bellibolt|136/320|[from] item: Leftovers
+|-heal|p1a: Primarina|178/268 par|[from] item: Leftovers
+|upkeep
+|turn|19
+|inactive|jod2655 has 60 seconds left.
+|
+|t:|1772750601
+|move|p2a: Bellibolt|Slack Off|p2a: Bellibolt
+|-heal|p2a: Bellibolt|296/320
+|move|p1a: Primarina|Draining Kiss|p2a: Bellibolt
+|-damage|p2a: Bellibolt|188/320
+|-heal|p1a: Primarina|259/268 par|[from] drain|[of] p2a: Bellibolt
+|-start|p2a: Bellibolt|Charge|Draining Kiss|[from] ability: Electromorphosis
+|
+|-heal|p2a: Bellibolt|208/320|[from] item: Leftovers
+|-heal|p1a: Primarina|268/268 par|[from] item: Leftovers
+|upkeep
+|turn|20
+|inactive|jod2655 has 60 seconds left.
+|
+|t:|1772750613
+|move|p2a: Bellibolt|Volt Switch|p1a: Primarina
+|-crit|p1a: Primarina
+|-damage|p1a: Primarina|70/268 par
+|-end|p2a: Bellibolt|Charge|[silent]
+|
+|t:|1772750618
+|switch|p2a: Kleavor|Kleavor, L78, F|122/237|[from] Volt Switch
+|move|p1a: Primarina|Psychic Noise|p2a: Kleavor
+|-supereffective|p2a: Kleavor
+|-damage|p2a: Kleavor|0 fnt
+|faint|p2a: Kleavor
+|
+|-heal|p1a: Primarina|86/268 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1772750629
+|switch|p2a: Clawitzer|Clawitzer, L87, M|220/265
+|turn|21
+|
+|t:|1772750636
+|move|p2a: Clawitzer|Dragon Pulse|p1a: Primarina
+|-immune|p1a: Primarina
+|move|p1a: Primarina|Draining Kiss|p2a: Clawitzer
+|-damage|p2a: Clawitzer|154/265
+|-heal|p1a: Primarina|136/268 par|[from] drain|[of] p2a: Clawitzer
+|
+|-heal|p1a: Primarina|152/268 par|[from] item: Leftovers
+|upkeep
+|turn|22
+|inactive|jod2655 has 60 seconds left.
+|
+|t:|1772750646
+|move|p2a: Clawitzer|Dark Pulse|p1a: Primarina
+|-resisted|p1a: Primarina
+|-crit|p1a: Primarina
+|-damage|p1a: Primarina|92/268 par
+|move|p1a: Primarina|Draining Kiss|p2a: Clawitzer
+|-damage|p2a: Clawitzer|80/265
+|-heal|p1a: Primarina|148/268 par|[from] drain|[of] p2a: Clawitzer
+|
+|-heal|p1a: Primarina|164/268 par|[from] item: Leftovers
+|upkeep
+|turn|23
+|inactive|jod2655 has 60 seconds left.
+|
+|t:|1772750657
+|move|p2a: Clawitzer|Water Pulse|p1a: Primarina
+|-damage|p1a: Primarina|65/268 par
+|move|p1a: Primarina|Draining Kiss|p2a: Clawitzer
+|-damage|p2a: Clawitzer|18/265
+|-heal|p1a: Primarina|112/268 par|[from] drain|[of] p2a: Clawitzer
+|
+|-heal|p1a: Primarina|128/268 par|[from] item: Leftovers
+|upkeep
+|turn|24
+|inactive|jod2655 has 60 seconds left.
+|
+|t:|1772750669
+|move|p2a: Clawitzer|Water Pulse|p1a: Primarina
+|-damage|p1a: Primarina|38/268 par
+|move|p1a: Primarina|Draining Kiss|p2a: Clawitzer
+|-damage|p2a: Clawitzer|0 fnt
+|-heal|p1a: Primarina|52/268 par|[from] drain|[of] p2a: Clawitzer
+|faint|p2a: Clawitzer
+|
+|-heal|p1a: Primarina|68/268 par|[from] item: Leftovers
+|upkeep
+|inactive|jod2655 has 60 seconds left.
+|
+|t:|1772750679
+|switch|p2a: Bellibolt|Bellibolt, L84, F|208/320
+|turn|25
+|inactive|jod2655 has 60 seconds left.
+|
+|t:|1772750693
+|move|p2a: Bellibolt|Thunderbolt|p1a: Primarina
+|-damage|p1a: Primarina|0 fnt
+|faint|p1a: Primarina
+|
+|-heal|p2a: Bellibolt|228/320|[from] item: Leftovers
+|upkeep
+|
+|t:|1772750699
+|switch|p1a: Weezing|Weezing-Galar, L86, F|101/252
+|-damage|p1a: Weezing|70/252|[from] Stealth Rock
+|turn|26
+|
+|t:|1772750712
+|move|p1a: Weezing|Strange Steam|p2a: Bellibolt
+|-damage|p2a: Bellibolt|132/320
+|-start|p2a: Bellibolt|Charge|Strange Steam|[from] ability: Electromorphosis
+|move|p2a: Bellibolt|Thunderbolt|p1a: Weezing
+|-damage|p1a: Weezing|0 fnt
+|faint|p1a: Weezing
+|-end|p2a: Bellibolt|Charge|[silent]
+|
+|-heal|p2a: Bellibolt|152/320|[from] item: Leftovers
+|upkeep
+|
+|t:|1772750721
+|switch|p1a: Lugia|Lugia, L73|241/275 brn
+|turn|27
+|
+|t:|1772750734
+|move|p1a: Lugia|Psychic Noise|p2a: Bellibolt
+|-damage|p2a: Bellibolt|94/320
+|-start|p2a: Bellibolt|move: Heal Block
+|-start|p2a: Bellibolt|Charge|Psychic Noise|[from] ability: Electromorphosis
+|cant|p2a: Bellibolt|move: Heal Block|Slack Off
+|
+|-damage|p1a: Lugia|224/275 brn|[from] brn
+|upkeep
+|turn|28
+|
+|t:|1772750746
+|move|p1a: Lugia|Aeroblast|p2a: Bellibolt
+|-resisted|p2a: Bellibolt
+|-damage|p2a: Bellibolt|51/320
+|-start|p2a: Bellibolt|Charge|Aeroblast|[from] ability: Electromorphosis
+|move|p2a: Bellibolt|Thunderbolt|p1a: Lugia
+|-supereffective|p1a: Lugia
+|-damage|p1a: Lugia|0 fnt
+|faint|p1a: Lugia
+|-end|p2a: Bellibolt|Charge|[silent]
+|
+|win|jod2655
+|raw|filipinosenoferta's rating: 1108 &rarr; <strong>1085</strong><br />(-23 for losing)
+|raw|jod2655's rating: 1131 &rarr; <strong>1154</strong><br />(+23 for winning)
+|l|☆filipinosenoferta
+|player|p1|

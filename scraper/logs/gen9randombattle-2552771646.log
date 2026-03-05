@@ -1,0 +1,53 @@
+|j|‽WeMeW
+|j|☆Amphi99
+|t:|1772751804
+|gametype|singles
+|player|p1|WeMeW|265|1195
+|player|p2|Amphi99|169|1177
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772751804
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Phione|Phione, L91|293/293
+|switch|p2a: Shaymin|Shaymin, L82|298/298
+|turn|1
+|c|☆Amphi99|Have fun bro
+|
+|t:|1772751841
+|switch|p1a: Volbeat|Volbeat, L90, M|263/263
+|move|p2a: Shaymin|Air Slash|p1a: Volbeat
+|-supereffective|p1a: Volbeat
+|-crit|p1a: Volbeat
+|-damage|p1a: Volbeat|111/263
+|
+|upkeep
+|turn|2
+|
+|t:|1772751858
+|switch|p1a: Hawlucha|Hawlucha, L80, F|256/256
+|-terastallize|p2a: Shaymin|Steel
+|move|p2a: Shaymin|Air Slash|p1a: Hawlucha
+|-supereffective|p1a: Hawlucha
+|-damage|p1a: Hawlucha|112/256
+|
+|upkeep
+|turn|3
+|-message|WeMeW forfeited.
+|
+|win|Amphi99
+|raw|WeMeW's rating: 1195 &rarr; <strong>1169</strong><br />(-26 for losing)
+|raw|Amphi99's rating: 1177 &rarr; <strong>1203</strong><br />(+26 for winning)
+|l|‽WeMeW
+|player|p1|
+|l|☆Amphi99
+|player|p2|
+|j|☆Amphi99
+|player|p2|Amphi99|169|

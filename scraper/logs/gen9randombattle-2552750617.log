@@ -1,0 +1,541 @@
+|j|☆Teakthunder
+|j|☆Lzs3422
+|t:|1772749630
+|gametype|singles
+|player|p1|Teakthunder|beauty-gen5bw2|1307
+|player|p2|Lzs3422|li|1319
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772749630
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Mabosstiff|Mabosstiff, L86, M|278/278
+|switch|p2a: Indeedee|Indeedee, L84, M|238/238
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Indeedee
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Teakthunder)
+|
+|t:|1772749651
+|switch|p2a: Sandaconda|Sandaconda, L84, F|258/258
+|move|p1a: Mabosstiff|Crunch|p2a: Sandaconda
+|-damage|p2a: Sandaconda|95/258
+|
+|-heal|p2a: Sandaconda|111/258|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1772749670
+|move|p1a: Mabosstiff|Crunch|p2a: Sandaconda
+|-damage|p2a: Sandaconda|27/258
+|move|p2a: Sandaconda|Glare|p1a: Mabosstiff
+|-status|p1a: Mabosstiff|par
+|
+|-heal|p2a: Sandaconda|43/258|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1772749679
+|move|p2a: Sandaconda|Rest|p2a: Sandaconda
+|-status|p2a: Sandaconda|slp|[from] move: Rest
+|-heal|p2a: Sandaconda|258/258 slp|[silent]
+|cant|p1a: Mabosstiff|par
+|
+|-activate|p2a: Sandaconda|ability: Shed Skin
+|-curestatus|p2a: Sandaconda|slp|[msg]
+|upkeep
+|turn|4
+|
+|t:|1772749694
+|switch|p1a: Articuno|Articuno, L86|295/295
+|-ability|p1a: Articuno|Pressure
+|move|p2a: Sandaconda|Stone Edge|p1a: Articuno
+|-supereffective|p1a: Articuno
+|-damage|p1a: Articuno|23/295
+|
+|upkeep
+|turn|5
+|
+|t:|1772749704
+|move|p1a: Articuno|Freeze-Dry|p2a: Sandaconda
+|-supereffective|p2a: Sandaconda
+|-crit|p2a: Sandaconda
+|-damage|p2a: Sandaconda|0 fnt
+|faint|p2a: Sandaconda
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1772749713
+|switch|p2a: Indeedee|Indeedee, L84, M|238/238
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Indeedee
+|turn|6
+|
+|t:|1772749730
+|move|p2a: Indeedee|Hyper Voice|p1a: Articuno
+|-damage|p1a: Articuno|0 fnt
+|faint|p1a: Articuno
+|-damage|p2a: Indeedee|215/238|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772749737
+|switch|p1a: Mabosstiff|Mabosstiff, L86, M|278/278 par
+|turn|7
+|
+|t:|1772749756
+|move|p2a: Indeedee|Dazzling Gleam|p1a: Mabosstiff
+|-supereffective|p1a: Mabosstiff
+|-damage|p1a: Mabosstiff|104/278 par
+|-damage|p2a: Indeedee|192/238|[from] item: Life Orb
+|move|p1a: Mabosstiff|Crunch|p2a: Indeedee
+|-supereffective|p2a: Indeedee
+|-damage|p2a: Indeedee|0 fnt
+|faint|p2a: Indeedee
+|
+|upkeep
+|
+|t:|1772749773
+|switch|p2a: Brute Bonnet|Brute Bonnet, L81|312/312
+|turn|8
+|
+|t:|1772749792
+|switch|p1a: Forretress|Forretress, L84, F|263/263
+|move|p2a: Brute Bonnet|Seed Bomb|p1a: Forretress
+|-resisted|p1a: Forretress
+|-damage|p1a: Forretress|248/263
+|
+|-heal|p1a: Forretress|263/263|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1772749811
+|move|p2a: Brute Bonnet|Spore|p1a: Forretress
+|-status|p1a: Forretress|slp|[from] move: Spore
+|cant|p1a: Forretress|slp
+|
+|upkeep
+|turn|10
+|
+|t:|1772749818
+|move|p2a: Brute Bonnet|Crunch|p1a: Forretress
+|-damage|p1a: Forretress|190/263 slp
+|cant|p1a: Forretress|slp
+|
+|-heal|p1a: Forretress|206/263 slp|[from] item: Leftovers
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|11
+|
+|t:|1772749826
+|move|p2a: Brute Bonnet|Crunch|p1a: Forretress
+|-damage|p1a: Forretress|137/263 slp
+|cant|p1a: Forretress|slp
+|
+|-heal|p1a: Forretress|153/263 slp|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1772749853
+|move|p2a: Brute Bonnet|Crunch|p1a: Forretress
+|-damage|p1a: Forretress|78/263 slp
+|-unboost|p1a: Forretress|def|1
+|-curestatus|p1a: Forretress|slp|[msg]
+|move|p1a: Forretress|Toxic Spikes|p2a: Brute Bonnet
+|-sidestart|p2: Lzs3422|move: Toxic Spikes
+|
+|-heal|p1a: Forretress|94/263|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1772749868
+|switch|p1a: Scrafty|Scrafty, L84, F|246/246
+|move|p2a: Brute Bonnet|Crunch|p1a: Scrafty
+|-resisted|p1a: Scrafty
+|-damage|p1a: Scrafty|227/246
+|
+|-heal|p1a: Scrafty|242/246|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1772749881
+|move|p1a: Scrafty|Knock Off|p2a: Brute Bonnet
+|-resisted|p2a: Brute Bonnet
+|-damage|p2a: Brute Bonnet|263/312
+|-enditem|p2a: Brute Bonnet|Leftovers|[from] move: Knock Off|[of] p1a: Scrafty
+|move|p2a: Brute Bonnet|Spore|p1a: Scrafty
+|-status|p1a: Scrafty|slp|[from] move: Spore
+|
+|-activate|p1a: Scrafty|ability: Shed Skin
+|-curestatus|p1a: Scrafty|slp|[msg]
+|-heal|p1a: Scrafty|246/246|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1772749901
+|move|p1a: Scrafty|Drain Punch|p2a: Brute Bonnet
+|-supereffective|p2a: Brute Bonnet
+|-damage|p2a: Brute Bonnet|131/312
+|move|p2a: Brute Bonnet|Seed Bomb|p1a: Scrafty
+|-crit|p1a: Scrafty
+|-damage|p1a: Scrafty|135/246
+|
+|-heal|p1a: Scrafty|150/246|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1772749911
+|-end|p2a: Brute Bonnet|Protosynthesis|[silent]
+|switch|p2a: Hypno|Hypno, L95, M|315/315
+|-status|p2a: Hypno|psn
+|move|p1a: Scrafty|Drain Punch|p2a: Hypno
+|-resisted|p2a: Hypno
+|-damage|p2a: Hypno|278/315 psn
+|-heal|p1a: Scrafty|169/246|[from] drain|[of] p2a: Hypno
+|
+|-heal|p2a: Hypno|297/315 psn|[from] item: Leftovers
+|-heal|p1a: Scrafty|184/246|[from] item: Leftovers
+|-damage|p2a: Hypno|258/315 psn|[from] psn
+|upkeep
+|turn|17
+|inactive|Lzs3422 has 120 seconds left.
+|
+|t:|1772749930
+|move|p2a: Hypno|Encore|p1a: Scrafty
+|-start|p1a: Scrafty|Encore
+|move|p1a: Scrafty|Drain Punch|p2a: Hypno
+|-resisted|p2a: Hypno
+|-damage|p2a: Hypno|219/315 psn
+|-heal|p1a: Scrafty|204/246|[from] drain|[of] p2a: Hypno
+|
+|-heal|p2a: Hypno|238/315 psn|[from] item: Leftovers
+|-heal|p1a: Scrafty|219/246|[from] item: Leftovers
+|-damage|p2a: Hypno|199/315 psn|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1772749942
+|move|p2a: Hypno|Toxic|p1a: Scrafty
+|-status|p1a: Scrafty|tox
+|move|p1a: Scrafty|Drain Punch|p2a: Hypno
+|-resisted|p2a: Hypno
+|-damage|p2a: Hypno|159/315 psn
+|-heal|p1a: Scrafty|239/246 tox|[from] drain|[of] p2a: Hypno
+|
+|-heal|p2a: Hypno|178/315 psn|[from] item: Leftovers
+|-heal|p1a: Scrafty|246/246 tox|[from] item: Leftovers
+|-damage|p2a: Hypno|139/315 psn|[from] psn
+|-damage|p1a: Scrafty|231/246 tox|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1772749954
+|move|p2a: Hypno|Knock Off|p1a: Scrafty
+|-resisted|p1a: Scrafty
+|-damage|p1a: Scrafty|216/246 tox
+|-enditem|p1a: Scrafty|Leftovers|[from] move: Knock Off|[of] p2a: Hypno
+|move|p1a: Scrafty|Drain Punch|p2a: Hypno
+|-resisted|p2a: Hypno
+|-damage|p2a: Hypno|100/315 psn
+|-heal|p1a: Scrafty|236/246 tox|[from] drain|[of] p2a: Hypno
+|
+|-heal|p2a: Hypno|119/315 psn|[from] item: Leftovers
+|-damage|p2a: Hypno|80/315 psn|[from] psn
+|-damage|p1a: Scrafty|206/246 tox|[from] psn
+|-end|p1a: Scrafty|Encore
+|upkeep
+|turn|20
+|
+|t:|1772749970
+|move|p2a: Hypno|Encore|p1a: Scrafty
+|-start|p1a: Scrafty|Encore
+|move|p1a: Scrafty|Drain Punch|p2a: Hypno
+|-resisted|p2a: Hypno
+|-damage|p2a: Hypno|42/315 psn
+|-heal|p1a: Scrafty|225/246 tox|[from] drain|[of] p2a: Hypno
+|
+|-heal|p2a: Hypno|61/315 psn|[from] item: Leftovers
+|-damage|p2a: Hypno|22/315 psn|[from] psn
+|-damage|p1a: Scrafty|180/246 tox|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1772749981
+|move|p2a: Hypno|Knock Off|p1a: Scrafty
+|-resisted|p1a: Scrafty
+|-damage|p1a: Scrafty|170/246 tox
+|move|p1a: Scrafty|Drain Punch|p2a: Hypno
+|-resisted|p2a: Hypno
+|-damage|p2a: Hypno|0 fnt
+|-heal|p1a: Scrafty|181/246 tox|[from] drain|[of] p2a: Hypno
+|faint|p2a: Hypno
+|
+|-damage|p1a: Scrafty|121/246 tox|[from] psn
+|upkeep
+|inactive|Lzs3422 has 120 seconds left.
+|
+|t:|1772749997
+|switch|p2a: Charizard|Charizard, L85, F|271/271
+|turn|22
+|inactive|Lzs3422 has 120 seconds left.
+|
+|t:|1772750012
+|switch|p1a: Chansey|Chansey, L85, F|564/564
+|move|p2a: Charizard|Dragon Dance|p2a: Charizard
+|-boost|p2a: Charizard|atk|1
+|-boost|p2a: Charizard|spe|1
+|
+|upkeep
+|turn|23
+|inactive|Lzs3422 has 120 seconds left.
+|
+|t:|1772750024
+|move|p2a: Charizard|Flare Blitz|p1a: Chansey
+|-damage|p1a: Chansey|141/564
+|-damage|p2a: Charizard|131/271|[from] Recoil
+|move|p1a: Chansey|Thunder Wave|p2a: Charizard
+|-status|p2a: Charizard|par
+|
+|upkeep
+|turn|24
+|inactive|Lzs3422 has 120 seconds left.
+|
+|t:|1772750033
+|move|p2a: Charizard|Earthquake|p1a: Chansey
+|-damage|p1a: Chansey|0 fnt
+|faint|p1a: Chansey
+|
+|upkeep
+|
+|t:|1772750050
+|switch|p1a: Fezandipiti|Fezandipiti, L82, M|278/278
+|turn|25
+|inactive|Lzs3422 has 120 seconds left.
+|
+|t:|1772750068
+|-terastallize|p2a: Charizard|Ground
+|move|p1a: Fezandipiti|Swords Dance|p1a: Fezandipiti
+|-boost|p1a: Fezandipiti|atk|2
+|move|p2a: Charizard|Earthquake|p1a: Fezandipiti
+|-supereffective|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|0 fnt
+|faint|p1a: Fezandipiti
+|
+|upkeep
+|inactive|Teakthunder has 120 seconds left.
+|
+|t:|1772750089
+|switch|p1a: Scrafty|Scrafty, L84, F|121/246 tox
+|turn|26
+|inactive|Teakthunder has 120 seconds left.
+|inactive|Lzs3422 has 120 seconds left.
+|
+|t:|1772750130
+|move|p2a: Charizard|Earthquake|p1a: Scrafty
+|-damage|p1a: Scrafty|3/246 tox
+|move|p1a: Scrafty|Drain Punch|p2a: Charizard
+|-damage|p2a: Charizard|43/271 par
+|-heal|p1a: Scrafty|47/246 tox|[from] drain|[of] p2a: Charizard
+|
+|-activate|p1a: Scrafty|ability: Shed Skin
+|-curestatus|p1a: Scrafty|tox|[msg]
+|upkeep
+|turn|27
+|inactive|Teakthunder has 120 seconds left.
+|
+|t:|1772750163
+|switch|p1a: Forretress|Forretress, L84, F|94/263
+|move|p2a: Charizard|Earthquake|p1a: Forretress
+|-damage|p1a: Forretress|0 fnt
+|faint|p1a: Forretress
+|
+|upkeep
+|
+|t:|1772750171
+|switch|p1a: Mabosstiff|Mabosstiff, L86, M|104/278 par
+|turn|28
+|
+|t:|1772750181
+|cant|p2a: Charizard|par
+|move|p1a: Mabosstiff|Crunch|p2a: Charizard
+|-damage|p2a: Charizard|0 fnt
+|faint|p2a: Charizard
+|
+|upkeep
+|
+|t:|1772750190
+|switch|p2a: Brute Bonnet|Brute Bonnet, L81|131/312
+|-status|p2a: Brute Bonnet|psn
+|turn|29
+|
+|t:|1772750197
+|move|p1a: Mabosstiff|Crunch|p2a: Brute Bonnet
+|-resisted|p2a: Brute Bonnet
+|-damage|p2a: Brute Bonnet|85/312 psn
+|-unboost|p2a: Brute Bonnet|def|1
+|move|p2a: Brute Bonnet|Seed Bomb|p1a: Mabosstiff
+|-damage|p1a: Mabosstiff|16/278 par
+|
+|-damage|p2a: Brute Bonnet|46/312 psn|[from] psn
+|upkeep
+|turn|30
+|
+|t:|1772750207
+|move|p2a: Brute Bonnet|Sucker Punch|p1a: Mabosstiff
+|-resisted|p1a: Mabosstiff
+|-damage|p1a: Mabosstiff|0 fnt
+|faint|p1a: Mabosstiff
+|
+|-damage|p2a: Brute Bonnet|7/312 psn|[from] psn
+|upkeep
+|
+|t:|1772750215
+|switch|p1a: Scrafty|Scrafty, L84, F|47/246
+|turn|31
+|
+|t:|1772750220
+|move|p2a: Brute Bonnet|Sucker Punch||[still]
+|-fail|p2a: Brute Bonnet
+|move|p1a: Scrafty|Bulk Up|p1a: Scrafty
+|-boost|p1a: Scrafty|atk|1
+|-boost|p1a: Scrafty|def|1
+|
+|-damage|p2a: Brute Bonnet|0 fnt|[from] psn
+|faint|p2a: Brute Bonnet
+|-end|p2a: Brute Bonnet|Protosynthesis|[silent]
+|upkeep
+|
+|t:|1772750228
+|switch|p2a: Enamorus|Enamorus, L79, F|247/247
+|turn|32
+|
+|t:|1772750236
+|-terastallize|p1a: Scrafty|Poison
+|move|p2a: Enamorus|Play Rough|p1a: Scrafty
+|-resisted|p1a: Scrafty
+|-damage|p1a: Scrafty|21/246
+|move|p1a: Scrafty|Rest|p1a: Scrafty
+|-status|p1a: Scrafty|slp|[from] move: Rest
+|-heal|p1a: Scrafty|246/246 slp|[silent]
+|
+|upkeep
+|turn|33
+|
+|t:|1772750251
+|move|p2a: Enamorus|Substitute|p2a: Enamorus
+|-start|p2a: Enamorus|Substitute
+|-damage|p2a: Enamorus|186/247
+|cant|p1a: Scrafty|slp
+|
+|-heal|p2a: Enamorus|201/247|[from] item: Leftovers
+|-activate|p1a: Scrafty|ability: Shed Skin
+|-curestatus|p1a: Scrafty|slp|[msg]
+|upkeep
+|turn|34
+|
+|t:|1772750265
+|move|p2a: Enamorus|Zen Headbutt|p1a: Scrafty
+|-supereffective|p1a: Scrafty
+|-damage|p1a: Scrafty|180/246
+|move|p1a: Scrafty|Knock Off|p2a: Enamorus
+|-resisted|p2a: Enamorus
+|-end|p2a: Enamorus|Substitute
+|
+|-heal|p2a: Enamorus|216/247|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1772750275
+|move|p2a: Enamorus|Zen Headbutt|p1a: Scrafty
+|-supereffective|p1a: Scrafty
+|-damage|p1a: Scrafty|118/246
+|move|p1a: Scrafty|Drain Punch|p2a: Enamorus
+|-resisted|p2a: Enamorus
+|-damage|p2a: Enamorus|182/247
+|-heal|p1a: Scrafty|135/246|[from] drain|[of] p2a: Enamorus
+|
+|-heal|p2a: Enamorus|197/247|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1772750286
+|move|p2a: Enamorus|Zen Headbutt|p1a: Scrafty
+|-supereffective|p1a: Scrafty
+|-damage|p1a: Scrafty|75/246
+|move|p1a: Scrafty|Knock Off|p2a: Enamorus
+|-resisted|p2a: Enamorus
+|-damage|p2a: Enamorus|108/247
+|-enditem|p2a: Enamorus|Leftovers|[from] move: Knock Off|[of] p1a: Scrafty
+|
+|upkeep
+|turn|37
+|
+|t:|1772750297
+|move|p2a: Enamorus|Zen Headbutt|p1a: Scrafty
+|-supereffective|p1a: Scrafty
+|-damage|p1a: Scrafty|17/246
+|move|p1a: Scrafty|Rest|p1a: Scrafty
+|-status|p1a: Scrafty|slp|[from] move: Rest
+|-heal|p1a: Scrafty|246/246 slp|[silent]
+|
+|upkeep
+|turn|38
+|inactive|Teakthunder has 120 seconds left.
+|
+|t:|1772750323
+|move|p2a: Enamorus|Zen Headbutt|p1a: Scrafty
+|-supereffective|p1a: Scrafty
+|-damage|p1a: Scrafty|186/246 slp
+|cant|p1a: Scrafty|slp
+|
+|-activate|p1a: Scrafty|ability: Shed Skin
+|-curestatus|p1a: Scrafty|slp|[msg]
+|upkeep
+|turn|39
+|
+|t:|1772750338
+|move|p2a: Enamorus|Zen Headbutt|p1a: Scrafty
+|-supereffective|p1a: Scrafty
+|-damage|p1a: Scrafty|116/246
+|move|p1a: Scrafty|Bulk Up|p1a: Scrafty
+|-boost|p1a: Scrafty|atk|1
+|-boost|p1a: Scrafty|def|1
+|
+|upkeep
+|turn|40
+|
+|t:|1772750345
+|move|p2a: Enamorus|Zen Headbutt|p1a: Scrafty
+|-supereffective|p1a: Scrafty
+|-damage|p1a: Scrafty|70/246
+|move|p1a: Scrafty|Rest|p1a: Scrafty
+|-status|p1a: Scrafty|slp|[from] move: Rest
+|-heal|p1a: Scrafty|246/246 slp|[silent]
+|
+|-activate|p1a: Scrafty|ability: Shed Skin
+|-curestatus|p1a: Scrafty|slp|[msg]
+|upkeep
+|turn|41
+|
+|t:|1772750365
+|move|p2a: Enamorus|Play Rough|p1a: Scrafty|[miss]
+|-miss|p2a: Enamorus|p1a: Scrafty
+|move|p1a: Scrafty|Bulk Up|p1a: Scrafty
+|-boost|p1a: Scrafty|atk|1
+|-boost|p1a: Scrafty|def|1
+|
+|upkeep
+|turn|42
+|-message|Lzs3422 forfeited.
+|
+|win|Teakthunder
+|raw|Teakthunder's rating: 1307 &rarr; <strong>1328</strong><br />(+21 for winning)
+|raw|Lzs3422's rating: 1319 &rarr; <strong>1298</strong><br />(-21 for losing)
+|l|☆Lzs3422
+|player|p2|

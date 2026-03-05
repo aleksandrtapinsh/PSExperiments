@@ -1,0 +1,229 @@
+|j|☆Real Lil Baby
+|j|☆Jashan890
+|t:|1772749995
+|gametype|singles
+|player|p1|Real Lil Baby|169|1428
+|player|p2|Jashan890|blue|1433
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772749995
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Spiritomb|Spiritomb, L89, M|234/234
+|switch|p2a: Volcanion|Volcanion, L79|255/255
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Jashan890)
+|inactive|Real Lil Baby also wants the timer to be on.
+|inactive|Real Lil Baby has 120 seconds left.
+|
+|t:|1772750044
+|switch|p2a: Minun|Minun, L95, M|268/268
+|switch|p1a: Plusle|Plusle, L95, F|268/268
+|
+|upkeep
+|turn|2
+|c|☆Real Lil Baby|ayyy twin
+|c|☆Jashan890|lmao
+|c|☆Jashan890|what are the odds
+|inactive|Real Lil Baby has 120 seconds left.
+|
+|t:|1772750103
+|move|p2a: Minun|Nasty Plot|p2a: Minun
+|-boost|p2a: Minun|spa|2
+|move|p1a: Plusle|Alluring Voice|p2a: Minun
+|-damage|p2a: Minun|190/268
+|-start|p2a: Minun|confusion
+|-damage|p1a: Plusle|242/268|[from] item: Life Orb
+|
+|upkeep
+|turn|3
+|
+|t:|1772750111
+|-activate|p2a: Minun|confusion
+|-damage|p2a: Minun|172/268|[from] confusion
+|move|p1a: Plusle|Encore|p2a: Minun
+|-start|p2a: Minun|Encore
+|
+|upkeep
+|turn|4
+|
+|t:|1772750119
+|switch|p2a: Morpeko|Morpeko, L88, F|245/245
+|move|p1a: Plusle|Alluring Voice|p2a: Morpeko
+|-supereffective|p2a: Morpeko
+|-damage|p2a: Morpeko|37/245
+|-damage|p1a: Plusle|216/268|[from] item: Life Orb
+|
+|-heal|p2a: Morpeko|52/245|[from] item: Leftovers
+|-formechange|p2a: Morpeko|Morpeko-Hangry||[from] ability: Hunger Switch
+|upkeep
+|turn|5
+|
+|t:|1772750130
+|switch|p2a: Lurantis|Lurantis, L87, M|264/264
+|move|p1a: Plusle|Alluring Voice|p2a: Lurantis
+|-damage|p2a: Lurantis|187/264
+|-damage|p1a: Plusle|190/268|[from] item: Life Orb
+|
+|-heal|p2a: Lurantis|203/264|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1772750155
+|switch|p1a: Spiritomb|Spiritomb, L89, M|234/234
+|move|p2a: Lurantis|Leaf Storm|p1a: Spiritomb
+|-damage|p1a: Spiritomb|132/234
+|-boost|p2a: Lurantis|spa|2
+|
+|-heal|p2a: Lurantis|219/264|[from] item: Leftovers
+|-heal|p1a: Spiritomb|146/234|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1772750160
+|move|p2a: Lurantis|Leaf Storm|p1a: Spiritomb
+|-damage|p1a: Spiritomb|0 fnt
+|-boost|p2a: Lurantis|spa|2
+|faint|p1a: Spiritomb
+|
+|-heal|p2a: Lurantis|235/264|[from] item: Leftovers
+|upkeep
+|
+|t:|1772750173
+|switch|p1a: Iron Leaves|Iron Leaves, L80|275/275
+|turn|8
+|
+|t:|1772750192
+|move|p1a: Iron Leaves|Megahorn|p2a: Lurantis|[miss]
+|-miss|p1a: Iron Leaves|p2a: Lurantis
+|move|p2a: Lurantis|Knock Off|p1a: Iron Leaves
+|-supereffective|p1a: Iron Leaves
+|-damage|p1a: Iron Leaves|127/275
+|-enditem|p1a: Iron Leaves|Choice Band|[from] move: Knock Off|[of] p2a: Lurantis
+|
+|-heal|p2a: Lurantis|251/264|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1772750197
+|move|p1a: Iron Leaves|Megahorn|p2a: Lurantis
+|-supereffective|p2a: Lurantis
+|-damage|p2a: Lurantis|73/264
+|move|p2a: Lurantis|Knock Off|p1a: Iron Leaves
+|-supereffective|p1a: Iron Leaves
+|-damage|p1a: Iron Leaves|23/275
+|
+|-heal|p2a: Lurantis|89/264|[from] item: Leftovers
+|upkeep
+|turn|10
+|c|☆Real Lil Baby|come on iron fuck
+|c|☆Real Lil Baby|stab that fuckin plant
+|inactive|Jashan890 has 120 seconds left.
+|
+|t:|1772750234
+|move|p1a: Iron Leaves|Megahorn|p2a: Lurantis
+|-supereffective|p2a: Lurantis
+|-damage|p2a: Lurantis|0 fnt
+|faint|p2a: Lurantis
+|
+|upkeep
+|
+|t:|1772750241
+|switch|p2a: Morpeko|Morpeko, L88, F|52/245
+|turn|11
+|inactive|Real Lil Baby has 120 seconds left.
+|
+|t:|1772750256
+|-end|p1a: Iron Leaves|Quark Drive|[silent]
+|switch|p1a: Plusle|Plusle, L95, F|190/268
+|move|p2a: Morpeko|Rapid Spin|p1a: Plusle
+|-damage|p1a: Plusle|137/268
+|-boost|p2a: Morpeko|spe|1
+|
+|-heal|p2a: Morpeko|67/245|[from] item: Leftovers
+|-formechange|p2a: Morpeko|Morpeko-Hangry||[from] ability: Hunger Switch
+|upkeep
+|turn|12
+|
+|t:|1772750261
+|move|p2a: Morpeko|Aura Wheel|p1a: Plusle
+|-damage|p1a: Plusle|0 fnt
+|-boost|p2a: Morpeko|spe|1
+|faint|p1a: Plusle
+|
+|-heal|p2a: Morpeko|82/245|[from] item: Leftovers
+|-formechange|p2a: Morpeko|Morpeko||[from] ability: Hunger Switch
+|upkeep
+|
+|t:|1772750281
+|switch|p1a: Zekrom|Zekrom, L71|259/259
+|-ability|p1a: Zekrom|Teravolt
+|turn|13
+|
+|t:|1772750303
+|move|p2a: Morpeko|Knock Off|p1a: Zekrom
+|-damage|p1a: Zekrom|148/259
+|-enditem|p1a: Zekrom|Leftovers|[from] move: Knock Off|[of] p2a: Morpeko
+|move|p1a: Zekrom|Substitute|p1a: Zekrom
+|-start|p1a: Zekrom|Substitute
+|-damage|p1a: Zekrom|84/259
+|
+|-heal|p2a: Morpeko|97/245|[from] item: Leftovers
+|-formechange|p2a: Morpeko|Morpeko-Hangry||[from] ability: Hunger Switch
+|upkeep
+|turn|14
+|
+|t:|1772750313
+|move|p2a: Morpeko|Knock Off|p1a: Zekrom
+|-end|p1a: Zekrom|Substitute
+|move|p1a: Zekrom|Dragon Dance|p1a: Zekrom
+|-boost|p1a: Zekrom|atk|1
+|-boost|p1a: Zekrom|spe|1
+|
+|-heal|p2a: Morpeko|112/245|[from] item: Leftovers
+|-formechange|p2a: Morpeko|Morpeko||[from] ability: Hunger Switch
+|upkeep
+|turn|15
+|inactive|Jashan890 has 120 seconds left.
+|
+|t:|1772750347
+|move|p2a: Morpeko|Protect|p2a: Morpeko
+|-singleturn|p2a: Morpeko|Protect
+|move|p1a: Zekrom|Outrage|p2a: Morpeko
+|-activate|p2a: Morpeko|move: Protect
+|
+|-heal|p2a: Morpeko|127/245|[from] item: Leftovers
+|-formechange|p2a: Morpeko|Morpeko-Hangry||[from] ability: Hunger Switch
+|upkeep
+|turn|16
+|inactive|Real Lil Baby has 120 seconds left.
+|
+|t:|1772750354
+|move|p2a: Morpeko|Aura Wheel|p1a: Zekrom
+|-damage|p1a: Zekrom|0 fnt
+|-boost|p2a: Morpeko|spe|1
+|faint|p1a: Zekrom
+|
+|-heal|p2a: Morpeko|142/245|[from] item: Leftovers
+|-formechange|p2a: Morpeko|Morpeko||[from] ability: Hunger Switch
+|upkeep
+|inactive|Real Lil Baby has 120 seconds left.
+|c|☆Real Lil Baby|gg
+|l|☆Real Lil Baby
+|inactive|Real Lil Baby disconnected and has a minute to reconnect!
+|player|p1|
+|inactive|Real Lil Baby has 30 seconds to reconnect!
+|inactive|Real Lil Baby has 20 seconds to reconnect!
+|inactive|Real Lil Baby has 15 seconds to reconnect!
+|inactive|Real Lil Baby has 10 seconds to reconnect!
+|inactive|Real Lil Baby has 5 seconds to reconnect!
+|-message|Real Lil Baby lost due to inactivity.
+|
+|win|Jashan890

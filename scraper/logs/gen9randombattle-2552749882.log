@@ -1,0 +1,342 @@
+|j|☆dudiwd
+|j|☆Jordy71
+|t:|1772749558
+|gametype|singles
+|player|p1|dudiwd|dragontamer|1465
+|player|p2|Jordy71|marshal|1486
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772749558
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Gouging Fire|Gouging Fire, L74|277/277
+|switch|p2a: Groudon|Groudon, L72|263/263
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Groudon
+|-activate|p1a: Gouging Fire|ability: Protosynthesis
+|-start|p1a: Gouging Fire|protosynthesisdef
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Jordy71)
+|inactive|dudiwd also wants the timer to be on.
+|inactive|dudiwd has 120 seconds left.
+|
+|t:|1772749591
+|-end|p1a: Gouging Fire|Protosynthesis|[silent]
+|switch|p1a: Dewgong|Dewgong, L94, F|322/322
+|move|p2a: Groudon|Precipice Blades|p1a: Dewgong
+|-damage|p1a: Dewgong|198/322
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1772749601
+|move|p1a: Dewgong|Triple Axel|p2a: Groudon
+|-supereffective|p2a: Groudon
+|-damage|p2a: Groudon|231/263
+|-supereffective|p2a: Groudon
+|-damage|p2a: Groudon|163/263
+|-supereffective|p2a: Groudon
+|-damage|p2a: Groudon|67/263
+|-hitcount|p2a: Groudon|3
+|move|p2a: Groudon|Spikes|p1a: Dewgong
+|-sidestart|p1: dudiwd|Spikes
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Groudon|83/263|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1772749621
+|switch|p2a: Gurdurr|Gurdurr, L85, F|283/283
+|move|p1a: Dewgong|Flip Turn|p2a: Gurdurr
+|-damage|p2a: Gurdurr|264/283
+|
+|t:|1772749643
+|switch|p1a: Slowbro|Slowbro-Galar, L87, F|307/307|[from] Flip Turn
+|-damage|p1a: Slowbro|269/307|[from] Spikes
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|inactive|dudiwd has 120 seconds left.
+|
+|t:|1772749663
+|move|p2a: Gurdurr|Knock Off|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|125/307
+|-enditem|p1a: Slowbro|Life Orb|[from] move: Knock Off|[of] p2a: Gurdurr
+|move|p1a: Slowbro|Trick Room|p1a: Slowbro
+|-fieldstart|move: Trick Room|[of] p1a: Slowbro
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|inactive|dudiwd has 120 seconds left.
+|
+|t:|1772749683
+|move|p1a: Slowbro|Psychic|p2a: Gurdurr
+|-supereffective|p2a: Gurdurr
+|-damage|p2a: Gurdurr|76/283
+|move|p2a: Gurdurr|Knock Off|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|37/307
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1772749689
+|-terastallize|p2a: Gurdurr|Steel
+|move|p1a: Slowbro|Psychic|p2a: Gurdurr
+|-resisted|p2a: Gurdurr
+|-damage|p2a: Gurdurr|25/283
+|move|p2a: Gurdurr|Knock Off|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|0 fnt
+|faint|p1a: Slowbro
+|
+|upkeep
+|inactive|dudiwd has 120 seconds left.
+|
+|t:|1772749714
+|switch|p1a: Hitmontop|Hitmontop, L88, M|231/231
+|-damage|p1a: Hitmontop|203/231|[from] Spikes
+|-ability|p1a: Hitmontop|Intimidate|boost
+|-unboost|p2a: Gurdurr|atk|1
+|turn|7
+|
+|t:|1772749736
+|move|p2a: Gurdurr|Drain Punch|p1a: Hitmontop
+|-damage|p1a: Hitmontop|149/231
+|-heal|p2a: Gurdurr|52/283|[from] drain|[of] p1a: Hitmontop
+|move|p1a: Hitmontop|Close Combat|p2a: Gurdurr
+|-supereffective|p2a: Gurdurr
+|-damage|p2a: Gurdurr|0 fnt
+|-unboost|p1a: Hitmontop|def|1
+|-unboost|p1a: Hitmontop|spd|1
+|faint|p2a: Gurdurr
+|
+|upkeep
+|
+|t:|1772749744
+|switch|p2a: Hydrapple|Hydrapple, L83, M|312/312
+|turn|8
+|
+|t:|1772749759
+|switch|p1a: Abomasnow|Abomasnow, L84, F|287/287
+|-damage|p1a: Abomasnow|252/287|[from] Spikes
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p1a: Abomasnow
+|move|p2a: Hydrapple|Fickle Beam|p1a: Abomasnow
+|-damage|p1a: Abomasnow|110/287
+|
+|-weather|Snowscape|[upkeep]
+|-fieldend|move: Trick Room
+|upkeep
+|turn|9
+|
+|t:|1772749770
+|move|p1a: Abomasnow|Aurora Veil|p1a: Abomasnow
+|-sidestart|p1: dudiwd|move: Aurora Veil
+|move|p2a: Hydrapple|Fickle Beam|p1a: Abomasnow
+|-damage|p1a: Abomasnow|31/287
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1772749781
+|switch|p2a: Groudon|Groudon, L72|83/263
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Groudon
+|move|p1a: Abomasnow|Blizzard|p2a: Groudon
+|-supereffective|p2a: Groudon
+|-damage|p2a: Groudon|0 fnt
+|faint|p2a: Groudon
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1772749787
+|switch|p2a: Mismagius|Mismagius, L86, M|243/243
+|turn|11
+|
+|t:|1772749795
+|switch|p1a: Hitmontop|Hitmontop, L88, M|149/231
+|-damage|p1a: Hitmontop|121/231|[from] Spikes
+|-ability|p1a: Hitmontop|Intimidate|boost
+|-unboost|p2a: Mismagius|atk|1
+|move|p2a: Mismagius|Substitute|p2a: Mismagius
+|-start|p2a: Mismagius|Substitute
+|-damage|p2a: Mismagius|183/243
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Mismagius|198/243|[from] item: Leftovers
+|upkeep
+|turn|12
+|inactive|dudiwd has 120 seconds left.
+|
+|t:|1772749812
+|move|p2a: Mismagius|Nasty Plot|p2a: Mismagius
+|-boost|p2a: Mismagius|spa|2
+|move|p1a: Hitmontop|Stone Edge|p2a: Mismagius
+|-end|p2a: Mismagius|Substitute
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Mismagius|213/243|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1772749819
+|move|p1a: Hitmontop|Sucker Punch|p2a: Mismagius
+|-supereffective|p2a: Mismagius
+|-damage|p2a: Mismagius|83/243
+|move|p2a: Mismagius|Dazzling Gleam|p1a: Hitmontop
+|-supereffective|p1a: Hitmontop
+|-damage|p1a: Hitmontop|58/231
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Mismagius|98/243|[from] item: Leftovers
+|upkeep
+|turn|14
+|inactive|dudiwd has 120 seconds left.
+|
+|t:|1772749830
+|move|p2a: Mismagius|Substitute|p2a: Mismagius
+|-start|p2a: Mismagius|Substitute
+|-damage|p2a: Mismagius|38/243
+|move|p1a: Hitmontop|Stone Edge|p2a: Mismagius|[miss]
+|-miss|p1a: Hitmontop|p2a: Mismagius
+|
+|-weather|none
+|-heal|p2a: Mismagius|53/243|[from] item: Leftovers
+|upkeep
+|turn|15
+|inactive|dudiwd has 120 seconds left.
+|
+|t:|1772749839
+|move|p1a: Hitmontop|Sucker Punch|p2a: Mismagius
+|-supereffective|p2a: Mismagius
+|-end|p2a: Mismagius|Substitute
+|move|p2a: Mismagius|Dazzling Gleam|p1a: Hitmontop
+|-supereffective|p1a: Hitmontop
+|-damage|p1a: Hitmontop|0 fnt
+|faint|p1a: Hitmontop
+|
+|-heal|p2a: Mismagius|68/243|[from] item: Leftovers
+|upkeep
+|inactive|dudiwd has 120 seconds left.
+|
+|t:|1772749854
+|switch|p1a: Dewgong|Dewgong, L94, F|198/322
+|turn|16
+|inactive|dudiwd has 120 seconds left.
+|
+|t:|1772749868
+|move|p2a: Mismagius|Shadow Ball|p1a: Dewgong
+|-damage|p1a: Dewgong|114/322
+|move|p1a: Dewgong|Triple Axel|p2a: Mismagius
+|-damage|p2a: Mismagius|43/243
+|-damage|p2a: Mismagius|0 fnt
+|faint|p2a: Mismagius
+|-hitcount|p2: Mismagius|2
+|
+|-sideend|p1: dudiwd|move: Aurora Veil
+|upkeep
+|
+|t:|1772749875
+|switch|p2a: Skarmory|Skarmory, L80, M|235/235
+|turn|17
+|inactive|dudiwd has 120 seconds left.
+|
+|t:|1772749896
+|move|p1a: Dewgong|Surf|p2a: Skarmory
+|-damage|p2a: Skarmory|120/235
+|move|p2a: Skarmory|Iron Defense|p2a: Skarmory
+|-boost|p2a: Skarmory|def|2
+|
+|-heal|p2a: Skarmory|134/235|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1772749903
+|move|p1a: Dewgong|Encore|p2a: Skarmory
+|-start|p2a: Skarmory|Encore
+|move|p2a: Skarmory|Iron Defense|p2a: Skarmory
+|-boost|p2a: Skarmory|def|2
+|
+|-heal|p2a: Skarmory|148/235|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1772749906
+|switch|p2a: Flareon|Flareon, L90, M|263/263
+|move|p1a: Dewgong|Surf|p2a: Flareon
+|-supereffective|p2a: Flareon
+|-damage|p2a: Flareon|111/263
+|
+|-status|p2a: Flareon|tox|[from] item: Toxic Orb
+|upkeep
+|turn|20
+|inactive|dudiwd has 120 seconds left.
+|
+|t:|1772749944
+|switch|p1a: Abomasnow|Abomasnow, L84, F|31/287
+|-damage|p1a: Abomasnow|0 fnt|[from] Spikes
+|faint|p1a: Abomasnow
+|move|p2a: Flareon|Trailblaze|p1: Abomasnow|[notarget]
+|-fail|p2a: Flareon
+|
+|-damage|p2a: Flareon|95/263 tox|[from] psn
+|upkeep
+|
+|t:|1772749956
+|switch|p1a: Gouging Fire|Gouging Fire, L74|277/277
+|turn|21
+|
+|t:|1772749960
+|move|p1a: Gouging Fire|Dragon Dance|p1a: Gouging Fire
+|-boost|p1a: Gouging Fire|atk|1
+|-boost|p1a: Gouging Fire|spe|1
+|move|p2a: Flareon|Facade|p1a: Gouging Fire
+|-damage|p1a: Gouging Fire|76/277
+|
+|-damage|p2a: Flareon|63/263 tox|[from] psn
+|upkeep
+|turn|22
+|inactive|dudiwd has 90 seconds left.
+|
+|t:|1772749986
+|move|p1a: Gouging Fire|Heat Crash|p2a: Flareon
+|-resisted|p2a: Flareon
+|-damage|p2a: Flareon|0 fnt
+|faint|p2a: Flareon
+|
+|upkeep
+|
+|t:|1772749999
+|switch|p2a: Hydrapple|Hydrapple, L83, M|312/312
+|turn|23
+|inactive|dudiwd has 90 seconds left.
+|
+|t:|1772750024
+|-terastallize|p1a: Gouging Fire|Fairy
+|move|p1a: Gouging Fire|Morning Sun|p1a: Gouging Fire
+|-heal|p1a: Gouging Fire|214/277
+|move|p2a: Hydrapple|Fickle Beam|p1a: Gouging Fire
+|-immune|p1a: Gouging Fire
+|
+|upkeep
+|turn|24
+|-message|Jordy71 forfeited.
+|
+|win|dudiwd
+|raw|dudiwd's rating: 1465 &rarr; <strong>1486</strong><br />(+21 for winning)
+|raw|Jordy71's rating: 1486 &rarr; <strong>1465</strong><br />(-21 for losing)
+|l|☆Jordy71
+|player|p2|

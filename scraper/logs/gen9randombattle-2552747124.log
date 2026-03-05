@@ -1,0 +1,800 @@
+|j|☆Ostemor
+|j|☆dhsisne
+|t:|1772749292
+|gametype|singles
+|player|p1|Ostemor|ghetsis-gen5bw|1567
+|player|p2|dhsisne|1|1544
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772749292
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Hands|Iron Hands, L79|373/373
+|switch|p2a: Scovillain|Scovillain, L91, M|266/266
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Ostemor)
+|l|☆dhsisne
+|inactive|dhsisne disconnected and has a minute to reconnect!
+|player|p2|
+|inactive|Ostemor has 120 seconds left.
+|j|☆dhsisne
+|inactive|dhsisne reconnected.
+|player|p2|dhsisne|1|
+|inactive|Ostemor has 90 seconds left.
+|
+|t:|1772749369
+|move|p2a: Scovillain|Substitute|p2a: Scovillain
+|-start|p2a: Scovillain|Substitute
+|-damage|p2a: Scovillain|200/266
+|move|p1a: Iron Hands|Swords Dance|p1a: Iron Hands
+|-boost|p1a: Iron Hands|atk|2
+|
+|-heal|p2a: Scovillain|216/266|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1772749382
+|move|p2a: Scovillain|Leech Seed|p1a: Iron Hands
+|-start|p1a: Iron Hands|move: Leech Seed
+|move|p1a: Iron Hands|Drain Punch|p2a: Scovillain
+|-end|p2a: Scovillain|Substitute
+|
+|-heal|p2a: Scovillain|232/266|[from] item: Leftovers
+|-damage|p1a: Iron Hands|327/373|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|266/266|[silent]
+|upkeep
+|turn|3
+|
+|t:|1772749396
+|-end|p1a: Iron Hands|Quark Drive|[silent]
+|switch|p1a: Morpeko|Morpeko, L88, F|245/245
+|move|p2a: Scovillain|Protect||[still]
+|-fail|p2a: Scovillain
+|
+|-formechange|p1a: Morpeko|Morpeko-Hangry||[from] ability: Hunger Switch
+|upkeep
+|turn|4
+|
+|t:|1772749402
+|switch|p2a: Alcremie|Alcremie-Rainbow-Swirl, L90, F|263/263
+|move|p1a: Morpeko|Aura Wheel|p2a: Alcremie
+|-resisted|p2a: Alcremie
+|-damage|p2a: Alcremie|198/263
+|-boost|p1a: Morpeko|spe|1
+|
+|-heal|p2a: Alcremie|214/263|[from] item: Leftovers
+|-formechange|p1a: Morpeko|Morpeko||[from] ability: Hunger Switch
+|upkeep
+|turn|5
+|
+|t:|1772749412
+|switch|p1a: Probopass|Probopass, L91, F|257/257
+|move|p2a: Alcremie|Calm Mind|p2a: Alcremie
+|-boost|p2a: Alcremie|spa|1
+|-boost|p2a: Alcremie|spd|1
+|
+|-heal|p2a: Alcremie|230/263|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1772749418
+|switch|p2a: Vaporeon|Vaporeon, L86, F|364/364
+|move|p1a: Probopass|Flash Cannon|p2a: Vaporeon
+|-resisted|p2a: Vaporeon
+|-crit|p2a: Vaporeon
+|-damage|p2a: Vaporeon|307/364
+|
+|-heal|p2a: Vaporeon|329/364|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1772749428
+|switch|p1a: Gardevoir|Gardevoir, L83, F|249/249
+|-ability|p1a: Gardevoir|Water Absorb|Trace|[from] ability: Trace|[of] p2a: Vaporeon
+|move|p2a: Vaporeon|Scald|p1a: Gardevoir
+|-immune|p1a: Gardevoir|[from] ability: Water Absorb
+|
+|-heal|p2a: Vaporeon|351/364|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1772749438
+|move|p2a: Vaporeon|Protect|p2a: Vaporeon
+|-singleturn|p2a: Vaporeon|Protect
+|move|p1a: Gardevoir|Psychic|p2a: Vaporeon
+|-activate|p2a: Vaporeon|move: Protect
+|
+|-heal|p2a: Vaporeon|364/364|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1772749444
+|switch|p2a: Alcremie|Alcremie-Rainbow-Swirl, L90, F|230/263
+|move|p1a: Gardevoir|Psychic|p2a: Alcremie
+|-damage|p2a: Alcremie|154/263
+|-unboost|p2a: Alcremie|spd|1
+|
+|-heal|p2a: Alcremie|170/263|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1772749465
+|switch|p1a: Probopass|Probopass, L91, F|257/257
+|move|p2a: Alcremie|Recover|p2a: Alcremie
+|-heal|p2a: Alcremie|263/263
+|
+|upkeep
+|turn|11
+|
+|t:|1772749470
+|switch|p2a: Vaporeon|Vaporeon, L86, F|364/364
+|move|p1a: Probopass|Body Press|p2a: Vaporeon
+|-crit|p2a: Vaporeon
+|-damage|p2a: Vaporeon|188/364
+|
+|-heal|p2a: Vaporeon|210/364|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1772749476
+|switch|p1a: Gardevoir|Gardevoir, L83, F|249/249
+|-ability|p1a: Gardevoir|Water Absorb|Trace|[from] ability: Trace|[of] p2a: Vaporeon
+|move|p2a: Vaporeon|Wish|p2a: Vaporeon
+|
+|-heal|p2a: Vaporeon|232/364|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1772749483
+|move|p1a: Gardevoir|Psychic|p2a: Vaporeon
+|-damage|p2a: Vaporeon|123/364
+|move|p2a: Vaporeon|Ice Beam|p1a: Gardevoir
+|-damage|p1a: Gardevoir|193/249
+|
+|-heal|p2a: Vaporeon|305/364|[from] move: Wish|[wisher] Vaporeon
+|-heal|p2a: Vaporeon|327/364|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1772749502
+|switch|p1a: Morpeko|Morpeko, L88, F|245/245
+|move|p2a: Vaporeon|Protect||[still]
+|-fail|p2a: Vaporeon
+|
+|-heal|p2a: Vaporeon|349/364|[from] item: Leftovers
+|-formechange|p1a: Morpeko|Morpeko-Hangry||[from] ability: Hunger Switch
+|upkeep
+|turn|15
+|
+|t:|1772749525
+|switch|p2a: Alcremie|Alcremie-Rainbow-Swirl, L90, F|263/263
+|move|p1a: Morpeko|Knock Off|p2a: Alcremie
+|-resisted|p2a: Alcremie
+|-damage|p2a: Alcremie|204/263
+|-enditem|p2a: Alcremie|Leftovers|[from] move: Knock Off|[of] p1a: Morpeko
+|
+|-formechange|p1a: Morpeko|Morpeko||[from] ability: Hunger Switch
+|upkeep
+|turn|16
+|
+|t:|1772749540
+|switch|p1a: Probopass|Probopass, L91, F|257/257
+|move|p2a: Alcremie|Alluring Voice|p1a: Probopass
+|-resisted|p1a: Probopass
+|-damage|p1a: Probopass|227/257
+|
+|upkeep
+|turn|17
+|
+|t:|1772749558
+|switch|p2a: Tsareena|Tsareena, L87, F|267/267
+|move|p1a: Probopass|Flash Cannon|p2a: Tsareena
+|-damage|p2a: Tsareena|192/267
+|
+|upkeep
+|turn|18
+|
+|t:|1772749579
+|switch|p1a: Iron Hands|Iron Hands, L79|327/373
+|move|p2a: Tsareena|Knock Off|p1a: Iron Hands
+|-resisted|p1a: Iron Hands
+|-damage|p1a: Iron Hands|276/373
+|-enditem|p1a: Iron Hands|Leftovers|[from] move: Knock Off|[of] p2a: Tsareena
+|-damage|p2a: Tsareena|166/267|[from] item: Life Orb
+|
+|upkeep
+|turn|19
+|
+|t:|1772749586
+|move|p2a: Tsareena|Power Whip|p1a: Iron Hands
+|-damage|p1a: Iron Hands|103/373
+|-damage|p2a: Tsareena|140/267|[from] item: Life Orb
+|move|p1a: Iron Hands|Ice Punch|p2a: Tsareena
+|-supereffective|p2a: Tsareena
+|-damage|p2a: Tsareena|30/267
+|
+|upkeep
+|turn|20
+|
+|t:|1772749596
+|move|p2a: Tsareena|Power Whip|p1a: Iron Hands
+|-crit|p1a: Iron Hands
+|-damage|p1a: Iron Hands|0 fnt
+|faint|p1a: Iron Hands
+|-end|p1a: Iron Hands|Quark Drive|[silent]
+|-damage|p2a: Tsareena|4/267|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772749601
+|switch|p1a: Morpeko|Morpeko, L88, F|245/245
+|turn|21
+|
+|t:|1772749608
+|switch|p2a: Alcremie|Alcremie-Rainbow-Swirl, L90, F|204/263
+|move|p1a: Morpeko|Aura Wheel|p2a: Alcremie
+|-damage|p2a: Alcremie|60/263
+|-boost|p1a: Morpeko|spe|1
+|
+|-formechange|p1a: Morpeko|Morpeko-Hangry||[from] ability: Hunger Switch
+|upkeep
+|turn|22
+|
+|t:|1772749619
+|move|p1a: Morpeko|Protect|p1a: Morpeko
+|-singleturn|p1a: Morpeko|Protect
+|move|p2a: Alcremie|Recover|p2a: Alcremie
+|-heal|p2a: Alcremie|192/263
+|
+|-formechange|p1a: Morpeko|Morpeko||[from] ability: Hunger Switch
+|upkeep
+|turn|23
+|
+|t:|1772749629
+|-terastallize|p1a: Morpeko|Electric
+|move|p1a: Morpeko|Aura Wheel|p2a: Alcremie
+|-damage|p2a: Alcremie|0 fnt
+|-boost|p1a: Morpeko|spe|1
+|faint|p2a: Alcremie
+|
+|upkeep
+|
+|t:|1772749636
+|switch|p2a: Spidops|Spidops, L96, M|271/271
+|turn|24
+|
+|t:|1772749643
+|move|p1a: Morpeko|Aura Wheel|p2a: Spidops
+|-damage|p2a: Spidops|125/271
+|-boost|p1a: Morpeko|spe|1
+|move|p2a: Spidops|Sticky Web|p1a: Morpeko
+|-sidestart|p1: Ostemor|move: Sticky Web
+|
+|upkeep
+|turn|25
+|
+|t:|1772749649
+|move|p1a: Morpeko|Rapid Spin|p2a: Spidops
+|-damage|p2a: Spidops|91/271
+|-boost|p1a: Morpeko|spe|1
+|-sideend|p1: Ostemor|Sticky Web|[from] move: Rapid Spin|[of] p1a: Morpeko
+|move|p2a: Spidops|Circle Throw|p1a: Morpeko
+|-damage|p1a: Morpeko|178/245
+|drag|p1a: Gardevoir|Gardevoir, L83, F|193/249
+|-ability|p1a: Gardevoir|Stakeout|Trace|[from] ability: Trace|[of] p2a: Spidops
+|
+|upkeep
+|turn|26
+|
+|t:|1772749656
+|move|p1a: Gardevoir|Psychic|p2a: Spidops
+|-damage|p2a: Spidops|0 fnt
+|faint|p2a: Spidops
+|
+|upkeep
+|
+|t:|1772749664
+|switch|p2a: Squawkabilly|Squawkabilly-Blue, L85, F|278/278
+|turn|27
+|
+|t:|1772749670
+|switch|p1a: Probopass|Probopass, L91, F|227/257
+|move|p2a: Squawkabilly|Protect||[still]
+|-fail|p2a: Squawkabilly
+|
+|-status|p2a: Squawkabilly|brn|[from] item: Flame Orb
+|upkeep
+|turn|28
+|
+|t:|1772749677
+|switch|p2a: Vaporeon|Vaporeon, L86, F|349/364
+|move|p1a: Probopass|Iron Defense|p1a: Probopass
+|-boost|p1a: Probopass|def|2
+|
+|-heal|p2a: Vaporeon|364/364|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1772749685
+|switch|p1a: Gardevoir|Gardevoir, L83, F|193/249
+|-ability|p1a: Gardevoir|Water Absorb|Trace|[from] ability: Trace|[of] p2a: Vaporeon
+|move|p2a: Vaporeon|Wish|p2a: Vaporeon
+|
+|upkeep
+|turn|30
+|
+|t:|1772749706
+|switch|p1a: Probopass|Probopass, L91, F|227/257
+|switch|p2a: Scovillain|Scovillain, L91, M|266/266
+|
+|upkeep
+|turn|31
+|
+|t:|1772749709
+|move|p2a: Scovillain|Protect|p2a: Scovillain
+|-singleturn|p2a: Scovillain|Protect
+|move|p1a: Probopass|Body Press|p2a: Scovillain
+|-activate|p2a: Scovillain|move: Protect
+|
+|upkeep
+|turn|32
+|
+|t:|1772749713
+|move|p2a: Scovillain|Leech Seed|p1a: Probopass
+|-start|p1a: Probopass|move: Leech Seed
+|move|p1a: Probopass|Body Press|p2a: Scovillain
+|-crit|p2a: Scovillain
+|-damage|p2a: Scovillain|105/266
+|
+|-heal|p2a: Scovillain|121/266|[from] item: Leftovers
+|-damage|p1a: Probopass|195/257|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|153/266|[silent]
+|upkeep
+|turn|33
+|
+|t:|1772749720
+|move|p2a: Scovillain|Substitute|p2a: Scovillain
+|-start|p2a: Scovillain|Substitute
+|-damage|p2a: Scovillain|87/266
+|move|p1a: Probopass|Body Press|p2a: Scovillain
+|-end|p2a: Scovillain|Substitute
+|
+|-heal|p2a: Scovillain|103/266|[from] item: Leftovers
+|-damage|p1a: Probopass|163/257|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|135/266|[silent]
+|upkeep
+|turn|34
+|
+|t:|1772749728
+|move|p2a: Scovillain|Protect|p2a: Scovillain
+|-singleturn|p2a: Scovillain|Protect
+|move|p1a: Probopass|Body Press|p2a: Scovillain
+|-activate|p2a: Scovillain|move: Protect
+|
+|-heal|p2a: Scovillain|151/266|[from] item: Leftovers
+|-damage|p1a: Probopass|131/257|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|183/266|[silent]
+|upkeep
+|turn|35
+|
+|t:|1772749736
+|move|p2a: Scovillain|Substitute|p2a: Scovillain
+|-start|p2a: Scovillain|Substitute
+|-damage|p2a: Scovillain|117/266
+|move|p1a: Probopass|Body Press|p2a: Scovillain
+|-end|p2a: Scovillain|Substitute
+|
+|-heal|p2a: Scovillain|133/266|[from] item: Leftovers
+|-damage|p1a: Probopass|99/257|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|165/266|[silent]
+|upkeep
+|turn|36
+|
+|t:|1772749741
+|switch|p1a: Gardevoir|Gardevoir, L83, F|193/249
+|-ability|p1a: Gardevoir|Chlorophyll|Trace|[from] ability: Trace|[of] p2a: Scovillain
+|move|p2a: Scovillain|Protect||[still]
+|-fail|p2a: Scovillain
+|
+|-heal|p2a: Scovillain|181/266|[from] item: Leftovers
+|upkeep
+|turn|37
+|
+|t:|1772749749
+|move|p2a: Scovillain|Protect|p2a: Scovillain
+|-singleturn|p2a: Scovillain|Protect
+|move|p1a: Gardevoir|Psychic|p2a: Scovillain
+|-activate|p2a: Scovillain|move: Protect
+|
+|-heal|p2a: Scovillain|197/266|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|t:|1772749754
+|switch|p2a: Vaporeon|Vaporeon, L86, F|364/364
+|move|p1a: Gardevoir|Psychic|p2a: Vaporeon
+|-damage|p2a: Vaporeon|259/364
+|
+|-heal|p2a: Vaporeon|281/364|[from] item: Leftovers
+|upkeep
+|turn|39
+|
+|t:|1772749770
+|switch|p1a: Probopass|Probopass, L91, F|99/257
+|move|p2a: Vaporeon|Wish|p2a: Vaporeon
+|
+|-heal|p2a: Vaporeon|303/364|[from] item: Leftovers
+|upkeep
+|turn|40
+|
+|t:|1772749776
+|switch|p2a: Scovillain|Scovillain, L91, M|197/266
+|move|p1a: Probopass|Body Press|p2a: Scovillain
+|-damage|p2a: Scovillain|82/266
+|
+|-heal|p2a: Scovillain|264/266|[from] move: Wish|[wisher] Vaporeon
+|-heal|p2a: Scovillain|266/266|[from] item: Leftovers
+|upkeep
+|turn|41
+|
+|t:|1772749805
+|move|p2a: Scovillain|Leech Seed|p1a: Probopass
+|-start|p1a: Probopass|move: Leech Seed
+|move|p1a: Probopass|Body Press|p2a: Scovillain
+|-damage|p2a: Scovillain|155/266
+|
+|-heal|p2a: Scovillain|171/266|[from] item: Leftovers
+|-damage|p1a: Probopass|67/257|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|203/266|[silent]
+|upkeep
+|turn|42
+|
+|t:|1772749813
+|switch|p1a: Gardevoir|Gardevoir, L83, F|193/249
+|-ability|p1a: Gardevoir|Chlorophyll|Trace|[from] ability: Trace|[of] p2a: Scovillain
+|move|p2a: Scovillain|Substitute|p2a: Scovillain
+|-start|p2a: Scovillain|Substitute
+|-damage|p2a: Scovillain|137/266
+|
+|-heal|p2a: Scovillain|153/266|[from] item: Leftovers
+|upkeep
+|turn|43
+|
+|t:|1772749816
+|move|p1a: Gardevoir|Psychic|p2a: Scovillain
+|-end|p2a: Scovillain|Substitute
+|move|p2a: Scovillain|Leech Seed|p1a: Gardevoir
+|-start|p1a: Gardevoir|move: Leech Seed
+|
+|-heal|p2a: Scovillain|169/266|[from] item: Leftovers
+|-damage|p1a: Gardevoir|162/249|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|200/266|[silent]
+|upkeep
+|turn|44
+|
+|t:|1772749823
+|move|p2a: Scovillain|Protect|p2a: Scovillain
+|-singleturn|p2a: Scovillain|Protect
+|move|p1a: Gardevoir|Psychic|p2a: Scovillain
+|-activate|p2a: Scovillain|move: Protect
+|
+|-heal|p2a: Scovillain|216/266|[from] item: Leftovers
+|-damage|p1a: Gardevoir|131/249|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|247/266|[silent]
+|upkeep
+|turn|45
+|
+|t:|1772749831
+|switch|p2a: Vaporeon|Vaporeon, L86, F|303/364
+|move|p1a: Gardevoir|Psychic|p2a: Vaporeon
+|-damage|p2a: Vaporeon|198/364
+|
+|-heal|p2a: Vaporeon|220/364|[from] item: Leftovers
+|-damage|p1a: Gardevoir|100/249|[from] Leech Seed|[of] p2a: Vaporeon
+|-heal|p2a: Vaporeon|251/364|[silent]
+|upkeep
+|turn|46
+|
+|t:|1772749836
+|switch|p1a: Probopass|Probopass, L91, F|67/257
+|move|p2a: Vaporeon|Scald|p1a: Probopass
+|-supereffective|p1a: Probopass
+|-damage|p1a: Probopass|0 fnt
+|faint|p1a: Probopass
+|
+|-heal|p2a: Vaporeon|273/364|[from] item: Leftovers
+|upkeep
+|
+|t:|1772749838
+|switch|p1a: Morpeko|Morpeko, L88, F, tera:Electric|178/245
+|turn|47
+|
+|t:|1772749841
+|move|p2a: Vaporeon|Protect|p2a: Vaporeon
+|-singleturn|p2a: Vaporeon|Protect
+|move|p1a: Morpeko|Aura Wheel|p2a: Vaporeon
+|-activate|p2a: Vaporeon|move: Protect
+|
+|-heal|p1a: Morpeko|193/245|[from] item: Leftovers
+|-heal|p2a: Vaporeon|295/364|[from] item: Leftovers
+|upkeep
+|turn|48
+|
+|t:|1772749847
+|switch|p2a: Tsareena|Tsareena, L87, F|4/267
+|move|p1a: Morpeko|Aura Wheel|p2a: Tsareena
+|-resisted|p2a: Tsareena
+|-damage|p2a: Tsareena|0 fnt
+|-boost|p1a: Morpeko|spe|1
+|faint|p2a: Tsareena
+|
+|-heal|p1a: Morpeko|208/245|[from] item: Leftovers
+|upkeep
+|
+|t:|1772749856
+|switch|p2a: Scovillain|Scovillain, L91, M|247/266
+|turn|49
+|
+|t:|1772749862
+|move|p1a: Morpeko|Knock Off|p2a: Scovillain
+|-damage|p2a: Scovillain|129/266
+|-enditem|p2a: Scovillain|Leftovers|[from] move: Knock Off|[of] p1a: Morpeko
+|move|p2a: Scovillain|Leech Seed|p1a: Morpeko
+|-start|p1a: Morpeko|move: Leech Seed
+|
+|-heal|p1a: Morpeko|223/245|[from] item: Leftovers
+|-damage|p1a: Morpeko|193/245|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|159/266|[silent]
+|upkeep
+|turn|50
+|
+|t:|1772749870
+|move|p2a: Scovillain|Protect|p2a: Scovillain
+|-singleturn|p2a: Scovillain|Protect
+|move|p1a: Morpeko|Aura Wheel|p2a: Scovillain
+|-activate|p2a: Scovillain|move: Protect
+|
+|-heal|p1a: Morpeko|208/245|[from] item: Leftovers
+|-damage|p1a: Morpeko|178/245|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|189/266|[silent]
+|upkeep
+|turn|51
+|
+|t:|1772749879
+|move|p1a: Morpeko|Aura Wheel|p2a: Scovillain
+|-resisted|p2a: Scovillain
+|-damage|p2a: Scovillain|89/266
+|-boost|p1a: Morpeko|spe|1
+|move|p2a: Scovillain|Flamethrower|p1a: Morpeko
+|-damage|p1a: Morpeko|24/245
+|
+|-heal|p1a: Morpeko|39/245|[from] item: Leftovers
+|-damage|p1a: Morpeko|9/245|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|119/266|[silent]
+|upkeep
+|turn|52
+|
+|t:|1772749885
+|switch|p1a: Gardevoir|Gardevoir, L83, F|100/249
+|-ability|p1a: Gardevoir|Chlorophyll|Trace|[from] ability: Trace|[of] p2a: Scovillain
+|move|p2a: Scovillain|Protect||[still]
+|-fail|p2a: Scovillain
+|
+|upkeep
+|turn|53
+|
+|t:|1772749893
+|switch|p2a: Vaporeon|Vaporeon, L86, F|295/364
+|move|p1a: Gardevoir|Psychic|p2a: Vaporeon
+|-damage|p2a: Vaporeon|193/364
+|
+|-heal|p2a: Vaporeon|215/364|[from] item: Leftovers
+|upkeep
+|turn|54
+|
+|t:|1772749901
+|switch|p1a: Heracross|Heracross, L80, F|259/259
+|move|p2a: Vaporeon|Scald|p1a: Heracross
+|-damage|p1a: Heracross|153/259
+|
+|-heal|p2a: Vaporeon|237/364|[from] item: Leftovers
+|upkeep
+|turn|55
+|
+|t:|1772749921
+|move|p1a: Heracross|Knock Off|p2a: Vaporeon
+|-damage|p2a: Vaporeon|82/364
+|-enditem|p2a: Vaporeon|Leftovers|[from] move: Knock Off|[of] p1a: Heracross
+|move|p2a: Vaporeon|Wish|p2a: Vaporeon
+|
+|upkeep
+|turn|56
+|
+|t:|1772749928
+|move|p2a: Vaporeon|Protect|p2a: Vaporeon
+|-singleturn|p2a: Vaporeon|Protect
+|move|p1a: Heracross|Knock Off|p2a: Vaporeon
+|-activate|p2a: Vaporeon|move: Protect
+|
+|-heal|p2a: Vaporeon|264/364|[from] move: Wish|[wisher] Vaporeon
+|upkeep
+|turn|57
+|
+|t:|1772749932
+|move|p1a: Heracross|Knock Off|p2a: Vaporeon
+|-damage|p2a: Vaporeon|166/364
+|move|p2a: Vaporeon|Scald|p1a: Heracross
+|-damage|p1a: Heracross|51/259
+|
+|upkeep
+|turn|58
+|
+|t:|1772749939
+|switch|p1a: Gardevoir|Gardevoir, L83, F|100/249
+|-ability|p1a: Gardevoir|Water Absorb|Trace|[from] ability: Trace|[of] p2a: Vaporeon
+|move|p2a: Vaporeon|Wish|p2a: Vaporeon
+|
+|upkeep
+|turn|59
+|
+|t:|1772749947
+|move|p2a: Vaporeon|Protect|p2a: Vaporeon
+|-singleturn|p2a: Vaporeon|Protect
+|move|p1a: Gardevoir|Moonblast|p2a: Vaporeon
+|-activate|p2a: Vaporeon|move: Protect
+|
+|-heal|p2a: Vaporeon|348/364|[from] move: Wish|[wisher] Vaporeon
+|upkeep
+|turn|60
+|
+|t:|1772749951
+|move|p1a: Gardevoir|Moonblast|p2a: Vaporeon
+|-damage|p2a: Vaporeon|237/364
+|move|p2a: Vaporeon|Ice Beam|p1a: Gardevoir
+|-damage|p1a: Gardevoir|43/249
+|
+|upkeep
+|turn|61
+|
+|t:|1772749955
+|move|p1a: Gardevoir|Moonblast|p2a: Vaporeon
+|-damage|p2a: Vaporeon|116/364
+|-unboost|p2a: Vaporeon|spa|1
+|move|p2a: Vaporeon|Ice Beam|p1a: Gardevoir
+|-damage|p1a: Gardevoir|6/249
+|
+|upkeep
+|turn|62
+|
+|t:|1772749958
+|move|p1a: Gardevoir|Moonblast|p2a: Vaporeon
+|-damage|p2a: Vaporeon|7/364
+|-unboost|p2a: Vaporeon|spa|1
+|move|p2a: Vaporeon|Wish|p2a: Vaporeon
+|
+|upkeep
+|turn|63
+|
+|t:|1772749961
+|move|p2a: Vaporeon|Protect|p2a: Vaporeon
+|-singleturn|p2a: Vaporeon|Protect
+|move|p1a: Gardevoir|Moonblast|p2a: Vaporeon
+|-activate|p2a: Vaporeon|move: Protect
+|
+|-heal|p2a: Vaporeon|189/364|[from] move: Wish|[wisher] Vaporeon
+|upkeep
+|turn|64
+|
+|t:|1772749964
+|move|p2a: Vaporeon|Protect||[still]
+|-fail|p2a: Vaporeon
+|move|p1a: Gardevoir|Moonblast|p2a: Vaporeon
+|-damage|p2a: Vaporeon|78/364
+|-unboost|p2a: Vaporeon|spa|1
+|
+|upkeep
+|turn|65
+|
+|t:|1772749966
+|move|p1a: Gardevoir|Moonblast|p2a: Vaporeon
+|-damage|p2a: Vaporeon|0 fnt
+|faint|p2a: Vaporeon
+|
+|upkeep
+|
+|t:|1772749968
+|switch|p2a: Squawkabilly|Squawkabilly-Blue, L85, F|278/278 brn
+|turn|66
+|
+|t:|1772749970
+|move|p2a: Squawkabilly|Quick Attack|p1a: Gardevoir
+|-damage|p1a: Gardevoir|0 fnt
+|faint|p1a: Gardevoir
+|
+|-damage|p2a: Squawkabilly|261/278 brn|[from] brn
+|upkeep
+|
+|t:|1772749989
+|switch|p1a: Deoxys|Deoxys-Attack, L72|191/191
+|-ability|p1a: Deoxys|Pressure
+|turn|67
+|
+|t:|1772749994
+|move|p2a: Squawkabilly|Protect|p2a: Squawkabilly
+|-singleturn|p2a: Squawkabilly|Protect
+|move|p1a: Deoxys|Psycho Boost|p2a: Squawkabilly
+|-activate|p2a: Squawkabilly|move: Protect
+|
+|-damage|p2a: Squawkabilly|244/278 brn|[from] brn
+|upkeep
+|turn|68
+|
+|t:|1772750000
+|switch|p2a: Scovillain|Scovillain, L91, M|119/266
+|move|p1a: Deoxys|Psycho Boost|p2a: Scovillain
+|-damage|p2a: Scovillain|0 fnt
+|-unboost|p1a: Deoxys|spa|2
+|faint|p2a: Scovillain
+|-damage|p1a: Deoxys|172/191|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772750001
+|switch|p2a: Squawkabilly|Squawkabilly-Blue, L85, F|244/278 brn
+|turn|69
+|
+|t:|1772750005
+|switch|p1a: Heracross|Heracross, L80, F|51/259
+|-terastallize|p2a: Squawkabilly|Normal
+|move|p2a: Squawkabilly|Quick Attack|p1a: Heracross
+|-damage|p1a: Heracross|0 fnt
+|faint|p1a: Heracross
+|
+|-damage|p2a: Squawkabilly|227/278 brn|[from] brn
+|upkeep
+|
+|t:|1772750015
+|switch|p1a: Morpeko|Morpeko, L88, F, tera:Electric|9/245
+|turn|70
+|
+|t:|1772750017
+|move|p1a: Morpeko|Protect|p1a: Morpeko
+|-singleturn|p1a: Morpeko|Protect
+|move|p2a: Squawkabilly|Quick Attack|p1a: Morpeko
+|-activate|p1a: Morpeko|move: Protect
+|
+|-heal|p1a: Morpeko|24/245|[from] item: Leftovers
+|-damage|p2a: Squawkabilly|210/278 brn|[from] brn
+|upkeep
+|turn|71
+|
+|t:|1772750025
+|move|p2a: Squawkabilly|Quick Attack|p1a: Morpeko
+|-damage|p1a: Morpeko|0 fnt
+|faint|p1a: Morpeko
+|
+|-damage|p2a: Squawkabilly|193/278 brn|[from] brn
+|upkeep
+|
+|t:|1772750028
+|switch|p1a: Deoxys|Deoxys-Attack, L72|172/191
+|-ability|p1a: Deoxys|Pressure
+|turn|72
+|
+|t:|1772750031
+|move|p2a: Squawkabilly|Quick Attack|p1a: Deoxys
+|-damage|p1a: Deoxys|0 fnt
+|faint|p1a: Deoxys
+|
+|win|dhsisne
+|raw|Ostemor's rating: 1567 &rarr; <strong>1546</strong><br />(-21 for losing)
+|raw|dhsisne's rating: 1544 &rarr; <strong>1565</strong><br />(+21 for winning)
+|l|☆Ostemor
+|player|p1|

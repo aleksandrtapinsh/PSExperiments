@@ -1,0 +1,374 @@
+|j|☆easennesae
+|j|☆Rikachu623
+|t:|1772751138
+|gametype|singles
+|player|p1|easennesae|101|
+|player|p2|Rikachu623|265|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772751138
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Mandibuzz|Mandibuzz, L85, F|326/326
+|switch|p2a: Palafin|Palafin, L77, F|281/281
+|turn|1
+|c|☆easennesae|遅いよう
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Rikachu623)
+|
+|t:|1772751166
+|detailschange|p2a: Palafin|Palafin-Hero, L77, F
+|switch|p2a: Tinkaton|Tinkaton, L82, F|274/274
+|-ability|p2a: Tinkaton|Mold Breaker
+|move|p1a: Mandibuzz|Toxic|p2a: Tinkaton|[miss]
+|-miss|p1a: Mandibuzz|p2a: Tinkaton
+|
+|upkeep
+|turn|2
+|c|☆Rikachu623|遅い？
+|
+|t:|1772751183
+|switch|p1a: Chimecho|Chimecho, L93, M|290/290
+|move|p2a: Tinkaton|Knock Off|p1a: Chimecho
+|-supereffective|p1a: Chimecho
+|-damage|p1a: Chimecho|186/290
+|-enditem|p1a: Chimecho|Leftovers|[from] move: Knock Off|[of] p2a: Tinkaton
+|
+|upkeep
+|turn|3
+|c|☆easennesae|my thing is broken
+|c|☆easennesae|i cant see
+|
+|t:|1772751206
+|move|p2a: Tinkaton|Swords Dance|p2a: Tinkaton
+|-boost|p2a: Tinkaton|atk|2
+|move|p1a: Chimecho|Recover|p1a: Chimecho
+|-heal|p1a: Chimecho|290/290
+|
+|upkeep
+|turn|4
+|inactive|easennesae has 270 seconds left.
+|
+|t:|1772751222
+|switch|p1a: Tornadus|Tornadus, L82, M|263/263
+|move|p2a: Tinkaton|Swords Dance|p2a: Tinkaton
+|-boost|p2a: Tinkaton|atk|2
+|
+|upkeep
+|turn|5
+|c|☆Rikachu623|ｗｄｙｍ
+|
+|t:|1772751233
+|-terastallize|p1a: Tornadus|Fire
+|move|p1a: Tornadus|Heat Wave|p2a: Tinkaton
+|-supereffective|p2a: Tinkaton
+|-damage|p2a: Tinkaton|0 fnt
+|faint|p2a: Tinkaton
+|
+|upkeep
+|c|☆easennesae|HAHAHAHAHAHA
+|c|☆easennesae|AHAHAHAHHAHAH
+|c|☆easennesae|AHAHAHAHAHAHHAHAHA
+|c|☆easennesae|AHAHAHAHAHAHAHHA
+|c|☆Rikachu623|that thing gets heatwave?
+|c|☆easennesae|AHAHAHAHAHAHAHAHAHAHAHAHA
+|c|☆easennesae|AHAHAHAHAHAHHAHA
+|c|☆easennesae|AHAHAHHAAHAHHAHAHAH
+|c|☆easennesae|AHAHAHAHAHHAHAHAHAHAHAHAHA
+|
+|t:|1772751252
+|switch|p2a: Palafin|Palafin-Hero, L77, F|281/281
+|-activate|p2a: Palafin|ability: Zero to Hero
+|turn|6
+|c|☆easennesae|笑える
+|inactive|easennesae has 270 seconds left.
+|
+|t:|1772751272
+|switch|p1a: Iron Leaves|Iron Leaves, L80|275/275
+|move|p2a: Palafin|Bulk Up|p2a: Palafin
+|-boost|p2a: Palafin|atk|1
+|-boost|p2a: Palafin|def|1
+|
+|upkeep
+|turn|7
+|inactive|easennesae has 270 seconds left.
+|
+|t:|1772751284
+|-terastallize|p2a: Palafin|Dragon
+|move|p1a: Iron Leaves|Leaf Blade|p2a: Palafin
+|-resisted|p2a: Palafin
+|-damage|p2a: Palafin|220/281
+|move|p2a: Palafin|Ice Punch|p1a: Iron Leaves
+|-supereffective|p1a: Iron Leaves
+|-damage|p1a: Iron Leaves|75/275
+|
+|-heal|p2a: Palafin|237/281|[from] item: Leftovers
+|upkeep
+|turn|8
+|inactive|easennesae has 270 seconds left.
+|
+|t:|1772751296
+|-end|p1a: Iron Leaves|Quark Drive|[silent]
+|switch|p1a: Inteleon|Inteleon, L81, F|246/246
+|move|p2a: Palafin|Ice Punch|p1a: Inteleon
+|-resisted|p1a: Inteleon
+|-crit|p1a: Inteleon
+|-damage|p1a: Inteleon|145/246
+|-status|p1a: Inteleon|frz
+|
+|-heal|p2a: Palafin|254/281|[from] item: Leftovers
+|upkeep
+|turn|9
+|c|☆Rikachu623|L
+|inactive|easennesae has 270 seconds left.
+|c|☆easennesae|how could this be
+|
+|t:|1772751313
+|cant|p1a: Inteleon|frz
+|move|p2a: Palafin|Bulk Up|p2a: Palafin
+|-boost|p2a: Palafin|atk|1
+|-boost|p2a: Palafin|def|1
+|
+|-heal|p2a: Palafin|271/281|[from] item: Leftovers
+|upkeep
+|turn|10
+|inactive|easennesae has 270 seconds left.
+|
+|t:|1772751320
+|cant|p1a: Inteleon|frz
+|move|p2a: Palafin|Bulk Up|p2a: Palafin
+|-boost|p2a: Palafin|atk|1
+|-boost|p2a: Palafin|def|1
+|
+|-heal|p2a: Palafin|281/281|[from] item: Leftovers
+|upkeep
+|turn|11
+|c|☆Rikachu623|im gambling
+|
+|t:|1772751326
+|cant|p1a: Inteleon|frz
+|move|p2a: Palafin|Drain Punch|p1a: Inteleon
+|-damage|p1a: Inteleon|0 fnt
+|faint|p1a: Inteleon
+|
+|upkeep
+|c|☆easennesae|HOW COULD THIS BE
+|
+|t:|1772751335
+|switch|p1a: Chimecho|Chimecho, L93, M|290/290
+|turn|12
+|
+|t:|1772751341
+|move|p2a: Palafin|Ice Punch|p1a: Chimecho
+|-damage|p1a: Chimecho|141/290
+|move|p1a: Chimecho|Dazzling Gleam|p2a: Palafin
+|-supereffective|p2a: Palafin
+|-damage|p2a: Palafin|137/281
+|
+|-heal|p2a: Palafin|154/281|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1772751350
+|move|p2a: Palafin|Ice Punch|p1a: Chimecho
+|-damage|p1a: Chimecho|0 fnt
+|faint|p1a: Chimecho
+|
+|-heal|p2a: Palafin|171/281|[from] item: Leftovers
+|upkeep
+|c|☆Rikachu623|dazzling nothing
+|
+|t:|1772751366
+|switch|p1a: Incineroar|Incineroar, L82, M|290/290
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Palafin|atk|1
+|turn|14
+|
+|t:|1772751374
+|move|p2a: Palafin|Drain Punch|p1a: Incineroar
+|-supereffective|p1a: Incineroar
+|-damage|p1a: Incineroar|30/290
+|-heal|p2a: Palafin|281/281|[from] drain|[of] p1a: Incineroar
+|move|p1a: Incineroar|Will-O-Wisp|p2a: Palafin
+|-status|p2a: Palafin|brn
+|
+|-damage|p2a: Palafin|264/281 brn|[from] brn
+|upkeep
+|turn|15
+|n|‽Rikachu623|rikachu623
+|
+|t:|1772751389
+|switch|p1a: Mandibuzz|Mandibuzz, L85, F|326/326
+|move|p2a: Palafin|Jet Punch|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|257/326
+|
+|-heal|p2a: Palafin|281/281 brn|[from] item: Leftovers
+|-damage|p2a: Palafin|264/281 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1772751399
+|move|p2a: Palafin|Bulk Up|p2a: Palafin
+|-boost|p2a: Palafin|atk|1
+|-boost|p2a: Palafin|def|1
+|move|p1a: Mandibuzz|Foul Play|p2a: Palafin
+|-damage|p2a: Palafin|152/281 brn
+|
+|-heal|p2a: Palafin|169/281 brn|[from] item: Leftovers
+|-damage|p2a: Palafin|152/281 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1772751412
+|move|p2a: Palafin|Ice Punch|p1a: Mandibuzz
+|-supereffective|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|107/326
+|move|p1a: Mandibuzz|Foul Play|p2a: Palafin
+|-crit|p2a: Palafin
+|-damage|p2a: Palafin|0 fnt
+|faint|p2a: Palafin
+|
+|upkeep
+|c|☆easennesae|so ez
+|c|☆easennesae|so ez
+|c|☆easennesae|so ez
+|c|☆easennesae|TALK BACK
+|c|☆easennesae|oh wait you cant
+|c|☆easennesae|gg my whole team is one hp
+|inactive|Rikachu623 has 270 seconds left.
+|c|☆easennesae|chop it up buddy
+|
+|t:|1772751444
+|switch|p2a: Crawdaunt|Crawdaunt, L84, M|243/243
+|turn|18
+|
+|t:|1772751456
+|move|p1a: Mandibuzz|Toxic|p2a: Crawdaunt
+|-status|p2a: Crawdaunt|tox
+|move|p2a: Crawdaunt|Dragon Dance|p2a: Crawdaunt
+|-boost|p2a: Crawdaunt|atk|1
+|-boost|p2a: Crawdaunt|spe|1
+|
+|-damage|p2a: Crawdaunt|228/243 tox|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1772751467
+|move|p2a: Crawdaunt|Crabhammer|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|0 fnt
+|faint|p1a: Mandibuzz
+|-damage|p2a: Crawdaunt|204/243 tox|[from] item: Life Orb
+|
+|-damage|p2a: Crawdaunt|174/243 tox|[from] psn
+|upkeep
+|
+|t:|1772751472
+|switch|p1a: Iron Leaves|Iron Leaves, L80|75/275
+|turn|20
+|
+|t:|1772751502
+|move|p1a: Iron Leaves|Leaf Blade|p2a: Crawdaunt
+|-supereffective|p2a: Crawdaunt
+|-crit|p2a: Crawdaunt
+|-damage|p2a: Crawdaunt|0 fnt
+|faint|p2a: Crawdaunt
+|
+|upkeep
+|
+|t:|1772751515
+|switch|p2a: Registeel|Registeel, L81|262/262
+|turn|21
+|
+|t:|1772751520
+|-end|p1a: Iron Leaves|Quark Drive|[silent]
+|switch|p1a: Incineroar|Incineroar, L82, M|30/290
+|-ability|p1a: Incineroar|Intimidate|boost
+|-fail|p2a: Registeel|unboost|[from] ability: Clear Body|[of] p2a: Registeel
+|move|p2a: Registeel|Iron Defense|p2a: Registeel
+|-boost|p2a: Registeel|def|2
+|
+|upkeep
+|turn|22
+|
+|t:|1772751530
+|move|p1a: Incineroar|Knock Off|p2a: Registeel
+|-damage|p2a: Registeel|226/262
+|-enditem|p2a: Registeel|Chesto Berry|[from] move: Knock Off|[of] p1a: Incineroar
+|move|p2a: Registeel|Body Press|p1a: Incineroar
+|-supereffective|p1a: Incineroar
+|-damage|p1a: Incineroar|0 fnt
+|faint|p1a: Incineroar
+|
+|upkeep
+|
+|t:|1772751536
+|switch|p1a: Iron Leaves|Iron Leaves, L80|75/275
+|turn|23
+|
+|t:|1772751539
+|move|p1a: Iron Leaves|Close Combat|p2a: Registeel
+|-supereffective|p2a: Registeel
+|-crit|p2a: Registeel
+|-damage|p2a: Registeel|0 fnt
+|-unboost|p1a: Iron Leaves|def|1
+|-unboost|p1a: Iron Leaves|spd|1
+|faint|p2a: Registeel
+|
+|upkeep
+|
+|t:|1772751547
+|switch|p2a: Arcanine|Arcanine, L84, M|288/288
+|-ability|p2a: Arcanine|Intimidate|boost
+|-unboost|p1a: Iron Leaves|atk|1
+|turn|24
+|
+|t:|1772751553
+|move|p1a: Iron Leaves|Close Combat|p2a: Arcanine
+|-damage|p2a: Arcanine|184/288
+|-unboost|p1a: Iron Leaves|def|1
+|-unboost|p1a: Iron Leaves|spd|1
+|move|p2a: Arcanine|Flare Blitz|p1a: Iron Leaves
+|-supereffective|p1a: Iron Leaves
+|-damage|p1a: Iron Leaves|0 fnt
+|faint|p1a: Iron Leaves
+|-end|p1a: Iron Leaves|Quark Drive|[silent]
+|-damage|p2a: Arcanine|159/288|[from] Recoil
+|
+|upkeep
+|
+|t:|1772751557
+|switch|p1a: Tornadus|Tornadus, L82, M, tera:Fire|263/263
+|turn|25
+|
+|t:|1772751565
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Arcanine
+|-damage|p2a: Arcanine|0 fnt
+|faint|p2a: Arcanine
+|
+|upkeep
+|
+|t:|1772751567
+|switch|p2a: Zangoose|Zangoose, L85, F|263/263
+|turn|26
+|
+|t:|1772751574
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Zangoose
+|-damage|p2a: Zangoose|26/263
+|move|p2a: Zangoose|Facade|p1a: Tornadus
+|-damage|p1a: Tornadus|158/263
+|
+|-status|p2a: Zangoose|tox|[from] item: Toxic Orb
+|upkeep
+|turn|27
+|
+|t:|1772751579
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Zangoose
+|-damage|p2a: Zangoose|0 fnt
+|faint|p2a: Zangoose
+|
+|win|easennesae

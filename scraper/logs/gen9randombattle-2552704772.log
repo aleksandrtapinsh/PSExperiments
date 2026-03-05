@@ -1,0 +1,215 @@
+|j|‽duck.phycho99
+|j|☆monkeylord698
+|t:|1772745161
+|gametype|singles
+|player|p1|duck.phycho99|101|1534
+|player|p2|monkeylord698|harlequin|1569
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772745161
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Lunala|Lunala, L70|219/219
+|switch|p2a: Ting-Lu|Ting-Lu, L78|370/370
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by monkeylord698)
+|
+|t:|1772745165
+|move|p1a: Lunala|U-turn|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|288/370
+|
+|t:|1772745172
+|switch|p1a: Serperior|Serperior, L79, M|248/248|[from] U-turn
+|move|p2a: Ting-Lu|Throat Chop|p1a: Serperior
+|-damage|p1a: Serperior|161/248
+|-start|p1a: Serperior|Throat Chop|[silent]
+|
+|-heal|p2a: Ting-Lu|311/370|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1772745191
+|-terastallize|p2a: Ting-Lu|Ghost
+|move|p1a: Serperior|Glare|p2a: Ting-Lu
+|-status|p2a: Ting-Lu|par
+|move|p2a: Ting-Lu|Throat Chop|p1a: Serperior
+|-damage|p1a: Serperior|71/248
+|
+|-heal|p2a: Ting-Lu|334/370 par|[from] item: Leftovers
+|-end|p1a: Serperior|Throat Chop|[silent]
+|upkeep
+|turn|3
+|
+|t:|1772745198
+|move|p1a: Serperior|Synthesis|p1a: Serperior
+|-heal|p1a: Serperior|195/248
+|cant|p2a: Ting-Lu|par
+|
+|-heal|p2a: Ting-Lu|357/370 par|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1772745203
+|move|p1a: Serperior|Leaf Storm|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|232/370 par
+|-boost|p1a: Serperior|spa|2
+|-damage|p1a: Serperior|171/248|[from] item: Life Orb
+|move|p2a: Ting-Lu|Throat Chop|p1a: Serperior
+|-damage|p1a: Serperior|90/248
+|-start|p1a: Serperior|Throat Chop|[silent]
+|
+|-heal|p2a: Ting-Lu|255/370 par|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1772745214
+|switch|p2a: Minun|Minun, L95, F|268/268
+|move|p1a: Serperior|Synthesis|p1a: Serperior
+|-heal|p1a: Serperior|214/248
+|
+|-end|p1a: Serperior|Throat Chop|[silent]
+|upkeep
+|turn|6
+|
+|t:|1772745220
+|move|p2a: Minun|Encore|p1a: Serperior
+|-start|p1a: Serperior|Encore
+|move|p1a: Serperior|Synthesis|p1a: Serperior
+|-heal|p1a: Serperior|248/248
+|
+|upkeep
+|turn|7
+|
+|t:|1772745223
+|switch|p1a: Hitmonchan|Hitmonchan, L87, M|229/229
+|move|p2a: Minun|Nasty Plot|p2a: Minun
+|-boost|p2a: Minun|spa|2
+|
+|upkeep
+|turn|8
+|
+|t:|1772745227
+|move|p2a: Minun|Alluring Voice|p1a: Hitmonchan
+|-supereffective|p1a: Hitmonchan
+|-damage|p1a: Hitmonchan|0 fnt
+|faint|p1a: Hitmonchan
+|-damage|p2a: Minun|242/268|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772745232
+|switch|p1a: Haxorus|Haxorus, L77, M|244/244
+|-ability|p1a: Haxorus|Mold Breaker
+|turn|9
+|
+|t:|1772745237
+|-terastallize|p1a: Haxorus|Steel
+|move|p2a: Minun|Thunderbolt|p1a: Haxorus
+|-damage|p1a: Haxorus|0 fnt
+|faint|p1a: Haxorus
+|-damage|p2a: Minun|216/268|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772745243
+|switch|p1a: Serperior|Serperior, L79, M|248/248
+|turn|10
+|
+|t:|1772745246
+|move|p2a: Minun|Alluring Voice|p1a: Serperior
+|-crit|p1a: Serperior
+|-damage|p1a: Serperior|8/248
+|-damage|p2a: Minun|190/268|[from] item: Life Orb
+|move|p1a: Serperior|Leaf Storm|p2a: Minun
+|-damage|p2a: Minun|81/268
+|-boost|p1a: Serperior|spa|2
+|-damage|p1a: Serperior|0 fnt|[from] item: Life Orb
+|faint|p1a: Serperior
+|
+|upkeep
+|
+|t:|1772745251
+|switch|p1a: Seviper|Seviper, L93, M|287/287
+|turn|11
+|
+|t:|1772745253
+|move|p2a: Minun|Thunderbolt|p1a: Seviper
+|-damage|p1a: Seviper|0 fnt
+|faint|p1a: Seviper
+|-damage|p2a: Minun|55/268|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772745256
+|switch|p1a: Lunala|Lunala, L70|308/308
+|turn|12
+|
+|t:|1772745260
+|move|p2a: Minun|Alluring Voice|p1a: Lunala
+|-damage|p1a: Lunala|224/308
+|-damage|p2a: Minun|29/268|[from] item: Life Orb
+|move|p1a: Lunala|Psyshock|p2a: Minun
+|-damage|p2a: Minun|0 fnt
+|faint|p2a: Minun
+|
+|-heal|p1a: Lunala|243/308|[from] item: Leftovers
+|upkeep
+|
+|t:|1772745271
+|switch|p2a: Serperior|Serperior, L79, F|248/248
+|turn|13
+|
+|t:|1772745275
+|move|p2a: Serperior|Leaf Storm|p1a: Lunala
+|-damage|p1a: Lunala|134/308
+|-boost|p2a: Serperior|spa|2
+|move|p1a: Lunala|Calm Mind|p1a: Lunala
+|-boost|p1a: Lunala|spa|1
+|-boost|p1a: Lunala|spd|1
+|
+|-heal|p1a: Lunala|153/308|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1772745280
+|move|p2a: Serperior|Leaf Storm|p1a: Lunala
+|-damage|p1a: Lunala|20/308
+|-boost|p2a: Serperior|spa|2
+|move|p1a: Lunala|Moongeist Beam|p2a: Serperior
+|-damage|p2a: Serperior|101/248
+|
+|-heal|p2a: Serperior|116/248|[from] item: Leftovers
+|-heal|p1a: Lunala|39/308|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1772745288
+|move|p2a: Serperior|Leaf Storm|p1a: Lunala
+|-damage|p1a: Lunala|0 fnt
+|-boost|p2a: Serperior|spa|2
+|faint|p1a: Lunala
+|
+|-heal|p2a: Serperior|131/248|[from] item: Leftovers
+|upkeep
+|l|‽duck.phycho99
+|inactive|duck.phycho99 disconnected and has a minute to reconnect!
+|player|p1|
+|inactive|duck.phycho99 has 30 seconds to reconnect!
+|inactive|duck.phycho99 has 20 seconds to reconnect!
+|inactive|duck.phycho99 has 15 seconds to reconnect!
+|inactive|duck.phycho99 has 10 seconds to reconnect!
+|inactive|duck.phycho99 has 5 seconds to reconnect!
+|-message|duck.phycho99 lost due to inactivity.
+|
+|win|monkeylord698
+|raw|duck.phycho99's rating: 1534 &rarr; <strong>1516</strong><br />(-18 for losing)
+|raw|monkeylord698's rating: 1569 &rarr; <strong>1587</strong><br />(+18 for winning)

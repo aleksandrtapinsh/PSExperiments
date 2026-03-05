@@ -1,0 +1,549 @@
+|j|☆MasterJinouga
+|j|☆Shargy
+|t:|1772747369
+|gametype|singles
+|player|p1|MasterJinouga|169|1381
+|player|p2|Shargy|blue-gen3|1334
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772747369
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Hawlucha|Hawlucha, L80, M|256/256
+|switch|p2a: Furret|Furret, L94, M|312/312
+|-item|p1a: Hawlucha|White Herb|[from] ability: Frisk|[of] p2a: Furret
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by MasterJinouga)
+|
+|t:|1772747404
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|move|p2a: Furret|Double-Edge|p1a: Hawlucha
+|-damage|p1a: Hawlucha|12/256
+|-damage|p2a: Furret|231/312|[from] Recoil
+|
+|upkeep
+|turn|2
+|inactive|Shargy has 120 seconds left.
+|
+|t:|1772747438
+|-terastallize|p2a: Furret|Ghost
+|move|p1a: Hawlucha|Close Combat|p2a: Furret
+|-immune|p2a: Furret
+|move|p2a: Furret|Double-Edge|p1a: Hawlucha
+|-damage|p1a: Hawlucha|0 fnt
+|faint|p1a: Hawlucha
+|-damage|p2a: Furret|227/312|[from] Recoil
+|
+|upkeep
+|inactive|MasterJinouga has 120 seconds left.
+|
+|t:|1772747466
+|switch|p1a: Meloetta|Meloetta, L82|298/298
+|turn|3
+|inactive|MasterJinouga has 120 seconds left.
+|
+|t:|1772747484
+|switch|p2a: Uxie|Uxie, L83|260/260
+|move|p1a: Meloetta|Knock Off|p2a: Uxie
+|-supereffective|p2a: Uxie
+|-damage|p2a: Uxie|156/260
+|-enditem|p2a: Uxie|Leftovers|[from] move: Knock Off|[of] p1a: Meloetta
+|-damage|p1a: Meloetta|269/298|[from] item: Life Orb
+|
+|upkeep
+|turn|4
+|
+|t:|1772747502
+|switch|p1a: Metagross|Metagross, L79|256/256
+|move|p2a: Uxie|Yawn|p1a: Metagross
+|-start|p1a: Metagross|move: Yawn|[of] p2a: Uxie
+|
+|upkeep
+|turn|5
+|inactive|MasterJinouga has 90 seconds left.
+|
+|t:|1772747530
+|switch|p1a: Meloetta|Meloetta, L82|269/298
+|move|p2a: Uxie|Stealth Rock|p1a: Meloetta
+|-sidestart|p1: MasterJinouga|move: Stealth Rock
+|
+|upkeep
+|turn|6
+|
+|t:|1772747538
+|move|p2a: Uxie|Yawn|p1a: Meloetta
+|-start|p1a: Meloetta|move: Yawn|[of] p2a: Uxie
+|move|p1a: Meloetta|Relic Song|p2a: Uxie
+|-damage|p2a: Uxie|62/260
+|-formechange|p1a: Meloetta|Meloetta-Pirouette|[msg]
+|-damage|p1a: Meloetta|240/298|[from] item: Life Orb
+|
+|upkeep
+|turn|7
+|inactive|MasterJinouga has 90 seconds left.
+|
+|t:|1772747553
+|switch|p1a: Iron Valiant|Iron Valiant, L78|244/244
+|-damage|p1a: Iron Valiant|229/244|[from] Stealth Rock
+|move|p2a: Uxie|U-turn|p1a: Iron Valiant
+|-resisted|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|219/244
+|
+|t:|1772747572
+|switch|p2a: Leavanny|Leavanny, L86, F|269/269|[from] U-turn
+|
+|upkeep
+|turn|8
+|inactive|MasterJinouga has 90 seconds left.
+|
+|t:|1772747600
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Metagross|Metagross, L79|256/256
+|-damage|p1a: Metagross|240/256|[from] Stealth Rock
+|move|p2a: Leavanny|Sticky Web|p1a: Metagross
+|-sidestart|p1: MasterJinouga|move: Sticky Web
+|
+|-heal|p1a: Metagross|256/256|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1772747608
+|move|p2a: Leavanny|Knock Off|p1a: Metagross
+|-supereffective|p1a: Metagross
+|-damage|p1a: Metagross|142/256
+|-enditem|p1a: Metagross|Leftovers|[from] move: Knock Off|[of] p2a: Leavanny
+|move|p1a: Metagross|Stealth Rock|p2a: Leavanny
+|-sidestart|p2: Shargy|move: Stealth Rock
+|
+|upkeep
+|turn|10
+|inactive|MasterJinouga has 90 seconds left.
+|
+|t:|1772747622
+|move|p2a: Leavanny|Lunge|p1a: Metagross
+|-damage|p1a: Metagross|73/256
+|move|p1a: Metagross|Heavy Slam|p2a: Leavanny
+|-damage|p2a: Leavanny|121/269
+|
+|upkeep
+|turn|11
+|
+|t:|1772747627
+|move|p2a: Leavanny|Lunge|p1a: Metagross
+|-damage|p1a: Metagross|6/256
+|move|p1a: Metagross|Heavy Slam|p2a: Leavanny
+|-damage|p2a: Leavanny|0 fnt
+|faint|p2a: Leavanny
+|
+|upkeep
+|
+|t:|1772747632
+|switch|p2a: Furret|Furret, L94, M, tera:Ghost|227/312
+|-damage|p2a: Furret|188/312|[from] Stealth Rock
+|turn|12
+|
+|t:|1772747639
+|move|p1a: Metagross|Bullet Punch|p2a: Furret
+|-damage|p2a: Furret|131/312
+|move|p2a: Furret|U-turn|p1a: Metagross
+|-damage|p1a: Metagross|0 fnt
+|faint|p1a: Metagross
+|
+|t:|1772747641
+|switch|p2a: Uxie|Uxie, L83|62/260|[from] U-turn
+|-damage|p2a: Uxie|30/260|[from] Stealth Rock
+|
+|upkeep
+|
+|t:|1772747656
+|switch|p1a: Iron Valiant|Iron Valiant, L78|219/244
+|-damage|p1a: Iron Valiant|204/244|[from] Stealth Rock
+|-activate|p1a: Iron Valiant|move: Sticky Web
+|-unboost|p1a: Iron Valiant|spe|1
+|turn|13
+|
+|t:|1772747659
+|move|p2a: Uxie|Psychic Noise|p1a: Iron Valiant
+|-supereffective|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|34/244
+|-start|p1a: Iron Valiant|move: Heal Block
+|move|p1a: Iron Valiant|Calm Mind|p1a: Iron Valiant
+|-boost|p1a: Iron Valiant|spa|1
+|-boost|p1a: Iron Valiant|spd|1
+|
+|upkeep
+|turn|14
+|inactive|MasterJinouga has 120 seconds left.
+|
+|t:|1772747682
+|move|p2a: Uxie|Psychic Noise|p1a: Iron Valiant
+|-supereffective|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1772747685
+|switch|p1a: Shaymin|Shaymin-Sky, L73|266/266
+|-damage|p1a: Shaymin|200/266|[from] Stealth Rock
+|turn|15
+|inactive|MasterJinouga has 120 seconds left.
+|
+|t:|1772747693
+|move|p1a: Shaymin|Air Slash|p2a: Uxie
+|-damage|p2a: Uxie|0 fnt
+|faint|p2a: Uxie
+|
+|upkeep
+|
+|t:|1772747699
+|switch|p2a: Talonflame|Talonflame, L83, F|265/265
+|turn|16
+|
+|t:|1772747704
+|switch|p1a: Quagsire|Quagsire, L84, M|297/297
+|-damage|p1a: Quagsire|279/297|[from] Stealth Rock
+|-activate|p1a: Quagsire|move: Sticky Web
+|-unboost|p1a: Quagsire|spe|1
+|move|p2a: Talonflame|Overheat|p1a: Quagsire
+|-resisted|p1a: Quagsire
+|-damage|p1a: Quagsire|207/297
+|-unboost|p2a: Talonflame|spa|2
+|
+|-heal|p1a: Quagsire|225/297|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1772747720
+|switch|p2a: Arboliva|Arboliva, L91, F|288/288
+|-damage|p2a: Arboliva|252/288|[from] Stealth Rock
+|move|p1a: Quagsire|Toxic|p2a: Arboliva
+|-status|p2a: Arboliva|tox
+|
+|-heal|p1a: Quagsire|243/297|[from] item: Leftovers
+|-damage|p2a: Arboliva|234/288 tox|[from] psn
+|upkeep
+|turn|18
+|inactive|MasterJinouga has 120 seconds left.
+|
+|t:|1772747744
+|switch|p2a: Furret|Furret, L94, M, tera:Ghost|131/312
+|-damage|p2a: Furret|92/312|[from] Stealth Rock
+|-item|p1a: Quagsire|Leftovers|[from] ability: Frisk|[of] p2a: Furret
+|switch|p1a: Shaymin|Shaymin-Sky, L73|200/266
+|-damage|p1a: Shaymin|134/266|[from] Stealth Rock
+|
+|upkeep
+|turn|19
+|inactive|MasterJinouga has 120 seconds left.
+|
+|t:|1772747774
+|move|p1a: Shaymin|Air Slash|p2a: Furret
+|-damage|p2a: Furret|0 fnt
+|faint|p2a: Furret
+|
+|upkeep
+|
+|t:|1772747777
+|switch|p2a: Talonflame|Talonflame, L83, F|265/265
+|turn|20
+|
+|t:|1772747788
+|move|p2a: Talonflame|Overheat|p1a: Shaymin
+|-supereffective|p1a: Shaymin
+|-damage|p1a: Shaymin|0 fnt
+|-unboost|p2a: Talonflame|spa|2
+|faint|p1a: Shaymin
+|
+|upkeep
+|
+|t:|1772747792
+|switch|p1a: Quagsire|Quagsire, L84, M|243/297
+|-damage|p1a: Quagsire|225/297|[from] Stealth Rock
+|-activate|p1a: Quagsire|move: Sticky Web
+|-unboost|p1a: Quagsire|spe|1
+|turn|21
+|
+|t:|1772747804
+|switch|p2a: Arboliva|Arboliva, L91, F|234/288 tox
+|-damage|p2a: Arboliva|198/288 tox|[from] Stealth Rock
+|move|p1a: Quagsire|Ice Beam|p2a: Arboliva
+|-supereffective|p2a: Arboliva
+|-damage|p2a: Arboliva|124/288 tox
+|-enditem|p2a: Arboliva|Sitrus Berry|[eat]
+|-heal|p2a: Arboliva|196/288 tox|[from] item: Sitrus Berry
+|
+|-heal|p1a: Quagsire|243/297|[from] item: Leftovers
+|-damage|p2a: Arboliva|178/288 tox|[from] psn
+|-item|p2a: Arboliva|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|turn|22
+|
+|t:|1772747828
+|-terastallize|p1a: Quagsire|Poison
+|move|p2a: Arboliva|Leech Seed|p1a: Quagsire
+|-start|p1a: Quagsire|move: Leech Seed
+|move|p1a: Quagsire|Ice Beam|p2a: Arboliva
+|-supereffective|p2a: Arboliva
+|-damage|p2a: Arboliva|96/288 tox
+|-enditem|p2a: Arboliva|Sitrus Berry|[eat]
+|-heal|p2a: Arboliva|168/288 tox|[from] item: Sitrus Berry
+|
+|-heal|p1a: Quagsire|261/297|[from] item: Leftovers
+|-damage|p1a: Quagsire|224/297|[from] Leech Seed|[of] p2a: Arboliva
+|-heal|p2a: Arboliva|205/288 tox|[silent]
+|-damage|p2a: Arboliva|169/288 tox|[from] psn
+|-item|p2a: Arboliva|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|turn|23
+|
+|t:|1772747840
+|move|p2a: Arboliva|Protect|p2a: Arboliva
+|-singleturn|p2a: Arboliva|Protect
+|move|p1a: Quagsire|Ice Beam|p2a: Arboliva
+|-activate|p2a: Arboliva|move: Protect
+|
+|-heal|p1a: Quagsire|242/297|[from] item: Leftovers
+|-damage|p1a: Quagsire|205/297|[from] Leech Seed|[of] p2a: Arboliva
+|-heal|p2a: Arboliva|206/288 tox|[silent]
+|-damage|p2a: Arboliva|152/288 tox|[from] psn
+|upkeep
+|turn|24
+|
+|t:|1772747856
+|switch|p2a: Suicune|Suicune, L82|298/298
+|-damage|p2a: Suicune|261/298|[from] Stealth Rock
+|-ability|p2a: Suicune|Pressure
+|move|p1a: Quagsire|Ice Beam|p2a: Suicune
+|-resisted|p2a: Suicune
+|-crit|p2a: Suicune
+|-damage|p2a: Suicune|230/298
+|
+|-heal|p2a: Suicune|248/298|[from] item: Leftovers
+|-heal|p1a: Quagsire|223/297|[from] item: Leftovers
+|-damage|p1a: Quagsire|186/297|[from] Leech Seed|[of] p2a: Suicune
+|-heal|p2a: Suicune|285/298|[silent]
+|upkeep
+|turn|25
+|
+|t:|1772747866
+|move|p2a: Suicune|Calm Mind|p2a: Suicune
+|-boost|p2a: Suicune|spa|1
+|-boost|p2a: Suicune|spd|1
+|move|p1a: Quagsire|Toxic|p2a: Suicune
+|-status|p2a: Suicune|tox
+|
+|-heal|p2a: Suicune|298/298 tox|[from] item: Leftovers
+|-heal|p1a: Quagsire|204/297|[from] item: Leftovers
+|-damage|p1a: Quagsire|167/297|[from] Leech Seed|[of] p2a: Suicune
+|-damage|p2a: Suicune|280/298 tox|[from] psn
+|upkeep
+|turn|26
+|inactive|MasterJinouga has 120 seconds left.
+|
+|t:|1772747872
+|move|p2a: Suicune|Calm Mind|p2a: Suicune
+|-boost|p2a: Suicune|spa|1
+|-boost|p2a: Suicune|spd|1
+|move|p1a: Quagsire|Recover|p1a: Quagsire
+|-heal|p1a: Quagsire|297/297
+|
+|-heal|p2a: Suicune|298/298 tox|[from] item: Leftovers
+|-damage|p1a: Quagsire|260/297|[from] Leech Seed|[of] p2a: Suicune
+|-damage|p2a: Suicune|262/298 tox|[from] psn
+|upkeep
+|turn|27
+|
+|t:|1772747876
+|move|p2a: Suicune|Calm Mind|p2a: Suicune
+|-boost|p2a: Suicune|spa|1
+|-boost|p2a: Suicune|spd|1
+|move|p1a: Quagsire|Earthquake|p2a: Suicune
+|-damage|p2a: Suicune|180/298 tox
+|
+|-heal|p2a: Suicune|198/298 tox|[from] item: Leftovers
+|-heal|p1a: Quagsire|278/297|[from] item: Leftovers
+|-damage|p1a: Quagsire|241/297|[from] Leech Seed|[of] p2a: Suicune
+|-heal|p2a: Suicune|235/298 tox|[silent]
+|-damage|p2a: Suicune|181/298 tox|[from] psn
+|upkeep
+|turn|28
+|inactive|MasterJinouga has 120 seconds left.
+|
+|t:|1772747920
+|move|p2a: Suicune|Rest|p2a: Suicune
+|-status|p2a: Suicune|slp|[from] move: Rest
+|-heal|p2a: Suicune|298/298 slp|[silent]
+|move|p1a: Quagsire|Earthquake|p2a: Suicune
+|-damage|p2a: Suicune|222/298 slp
+|
+|-heal|p2a: Suicune|240/298 slp|[from] item: Leftovers
+|-heal|p1a: Quagsire|259/297|[from] item: Leftovers
+|-damage|p1a: Quagsire|222/297|[from] Leech Seed|[of] p2a: Suicune
+|-heal|p2a: Suicune|277/298 slp|[silent]
+|upkeep
+|turn|29
+|
+|t:|1772747929
+|cant|p2a: Suicune|slp
+|move|p2a: Suicune|Sleep Talk|p2a: Suicune
+|move|p2a: Suicune|Rest||[from] move: Sleep Talk|[still]
+|-fail|p2a: Suicune
+|move|p1a: Quagsire|Earthquake|p2a: Suicune
+|-damage|p2a: Suicune|198/298 slp
+|
+|-heal|p2a: Suicune|216/298 slp|[from] item: Leftovers
+|-heal|p1a: Quagsire|240/297|[from] item: Leftovers
+|-damage|p1a: Quagsire|203/297|[from] Leech Seed|[of] p2a: Suicune
+|-heal|p2a: Suicune|253/298 slp|[silent]
+|upkeep
+|turn|30
+|
+|t:|1772747940
+|cant|p2a: Suicune|slp
+|move|p2a: Suicune|Sleep Talk|p2a: Suicune
+|move|p2a: Suicune|Rest||[from] move: Sleep Talk|[still]
+|-fail|p2a: Suicune
+|move|p1a: Quagsire|Toxic||[still]
+|-fail|p1a: Quagsire
+|
+|-heal|p2a: Suicune|271/298 slp|[from] item: Leftovers
+|-heal|p1a: Quagsire|221/297|[from] item: Leftovers
+|-damage|p1a: Quagsire|184/297|[from] Leech Seed|[of] p2a: Suicune
+|-heal|p2a: Suicune|298/298 slp|[silent]
+|upkeep
+|turn|31
+|
+|t:|1772747947
+|-curestatus|p2a: Suicune|slp|[msg]
+|move|p2a: Suicune|Scald|p1a: Quagsire
+|-damage|p1a: Quagsire|88/297
+|-status|p1a: Quagsire|brn
+|move|p1a: Quagsire|Recover|p1a: Quagsire
+|-heal|p1a: Quagsire|237/297 brn
+|
+|-heal|p1a: Quagsire|255/297 brn|[from] item: Leftovers
+|-damage|p1a: Quagsire|218/297 brn|[from] Leech Seed|[of] p2a: Suicune
+|-damage|p1a: Quagsire|200/297 brn|[from] brn
+|upkeep
+|turn|32
+|inactive|MasterJinouga has 120 seconds left.
+|
+|t:|1772747959
+|move|p2a: Suicune|Calm Mind|p2a: Suicune
+|-boost|p2a: Suicune|spa|1
+|-boost|p2a: Suicune|spd|1
+|move|p1a: Quagsire|Recover|p1a: Quagsire
+|-heal|p1a: Quagsire|297/297 brn
+|
+|-damage|p1a: Quagsire|260/297 brn|[from] Leech Seed|[of] p2a: Suicune
+|-damage|p1a: Quagsire|242/297 brn|[from] brn
+|upkeep
+|turn|33
+|
+|t:|1772747962
+|move|p2a: Suicune|Calm Mind|p2a: Suicune
+|-boost|p2a: Suicune|spa|1
+|-boost|p2a: Suicune|spd|1
+|move|p1a: Quagsire|Toxic|p2a: Suicune
+|-status|p2a: Suicune|tox
+|
+|-heal|p1a: Quagsire|260/297 brn|[from] item: Leftovers
+|-damage|p1a: Quagsire|223/297 brn|[from] Leech Seed|[of] p2a: Suicune
+|-damage|p2a: Suicune|280/298 tox|[from] psn
+|-damage|p1a: Quagsire|205/297 brn|[from] brn
+|upkeep
+|turn|34
+|
+|t:|1772747965
+|move|p2a: Suicune|Calm Mind|p2a: Suicune
+|-boost|p2a: Suicune|spa|1
+|-boost|p2a: Suicune|spd|1
+|move|p1a: Quagsire|Recover|p1a: Quagsire
+|-heal|p1a: Quagsire|297/297 brn
+|
+|-heal|p2a: Suicune|298/298 tox|[from] item: Leftovers
+|-damage|p1a: Quagsire|260/297 brn|[from] Leech Seed|[of] p2a: Suicune
+|-damage|p2a: Suicune|262/298 tox|[from] psn
+|-damage|p1a: Quagsire|242/297 brn|[from] brn
+|upkeep
+|turn|35
+|
+|t:|1772747975
+|move|p2a: Suicune|Scald|p1a: Quagsire
+|-damage|p1a: Quagsire|145/297 brn
+|move|p1a: Quagsire|Earthquake|p2a: Suicune
+|-damage|p2a: Suicune|221/298 tox
+|
+|-heal|p2a: Suicune|239/298 tox|[from] item: Leftovers
+|-heal|p1a: Quagsire|163/297 brn|[from] item: Leftovers
+|-damage|p1a: Quagsire|126/297 brn|[from] Leech Seed|[of] p2a: Suicune
+|-heal|p2a: Suicune|276/298 tox|[silent]
+|-damage|p2a: Suicune|222/298 tox|[from] psn
+|-damage|p1a: Quagsire|108/297 brn|[from] brn
+|upkeep
+|turn|36
+|
+|t:|1772747981
+|move|p2a: Suicune|Scald|p1a: Quagsire
+|-damage|p1a: Quagsire|12/297 brn
+|move|p1a: Quagsire|Recover|p1a: Quagsire
+|-heal|p1a: Quagsire|161/297 brn
+|
+|-heal|p2a: Suicune|240/298 tox|[from] item: Leftovers
+|-heal|p1a: Quagsire|179/297 brn|[from] item: Leftovers
+|-damage|p1a: Quagsire|142/297 brn|[from] Leech Seed|[of] p2a: Suicune
+|-heal|p2a: Suicune|277/298 tox|[silent]
+|-damage|p2a: Suicune|205/298 tox|[from] psn
+|-damage|p1a: Quagsire|124/297 brn|[from] brn
+|upkeep
+|turn|37
+|
+|t:|1772747987
+|move|p2a: Suicune|Scald|p1a: Quagsire
+|-crit|p1a: Quagsire
+|-damage|p1a: Quagsire|0 fnt
+|faint|p1a: Quagsire
+|
+|-heal|p2a: Suicune|223/298 tox|[from] item: Leftovers
+|-damage|p2a: Suicune|133/298 tox|[from] psn
+|upkeep
+|
+|t:|1772747995
+|switch|p1a: Meloetta|Meloetta, L82|240/298
+|-damage|p1a: Meloetta|203/298|[from] Stealth Rock
+|-activate|p1a: Meloetta|move: Sticky Web
+|-unboost|p1a: Meloetta|spe|1
+|turn|38
+|
+|t:|1772747997
+|move|p2a: Suicune|Rest|p2a: Suicune
+|-status|p2a: Suicune|slp|[from] move: Rest
+|-heal|p2a: Suicune|298/298 slp|[silent]
+|move|p1a: Meloetta|Knock Off|p2a: Suicune
+|-damage|p2a: Suicune|242/298 slp
+|-enditem|p2a: Suicune|Leftovers|[from] move: Knock Off|[of] p1a: Meloetta
+|-damage|p1a: Meloetta|174/298|[from] item: Life Orb
+|
+|upkeep
+|turn|39
+|
+|t:|1772748003
+|cant|p2a: Suicune|slp
+|move|p2a: Suicune|Sleep Talk|p2a: Suicune
+|move|p2a: Suicune|Scald|p1a: Meloetta|[from] move: Sleep Talk
+|-damage|p1a: Meloetta|0 fnt
+|faint|p1a: Meloetta
+|
+|win|Shargy
+|raw|MasterJinouga's rating: 1381 &rarr; <strong>1358</strong><br />(-23 for losing)
+|raw|Shargy's rating: 1334 &rarr; <strong>1357</strong><br />(+23 for winning)

@@ -1,0 +1,498 @@
+|j|☆Aceryuzu
+|j|☆diemlow
+|t:|1772751431
+|gametype|singles
+|player|p1|Aceryuzu|steven|1567
+|player|p2|diemlow|169|1600
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772751431
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Bisharp|Bisharp, L79, M|232/232
+|switch|p2a: Vespiquen|Vespiquen, L99, F|299/299
+|-ability|p2a: Vespiquen|Pressure
+|turn|1
+|
+|t:|1772751447
+|move|p1a: Bisharp|Swords Dance|p1a: Bisharp
+|-boost|p1a: Bisharp|atk|2
+|move|p2a: Vespiquen|U-turn|p1a: Bisharp
+|-damage|p1a: Bisharp|174/232
+|
+|t:|1772751454
+|switch|p2a: Krookodile|Krookodile, L80, F|283/283|[from] U-turn
+|-ability|p2a: Krookodile|Intimidate|boost
+|-unboost|p1a: Bisharp|atk|1
+|-ability|p1a: Bisharp|Defiant|boost
+|-boost|p1a: Bisharp|atk|2
+|
+|upkeep
+|turn|2
+|l|☆Aceryuzu
+|player|p1|
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by diemlow)
+|j|☆Aceryuzu
+|inactive|Aceryuzu reconnected and has 125 seconds left.
+|player|p1|Aceryuzu|steven|
+|inactive|Aceryuzu has 120 seconds left.
+|
+|t:|1772751536
+|switch|p1a: Mandibuzz|Mandibuzz, L85, F|326/326
+|move|p2a: Krookodile|Earthquake|p1a: Mandibuzz
+|-immune|p1a: Mandibuzz
+|
+|upkeep
+|turn|3
+|
+|t:|1772751549
+|switch|p2a: Vespiquen|Vespiquen, L99, F|299/299
+|-ability|p2a: Vespiquen|Pressure
+|move|p1a: Mandibuzz|U-turn|p2a: Vespiquen
+|-resisted|p2a: Vespiquen
+|-damage|p2a: Vespiquen|283/299
+|
+|t:|1772751573
+|switch|p1a: Kleavor|Kleavor, L78, M|237/237|[from] U-turn
+|
+|upkeep
+|turn|4
+|
+|t:|1772751582
+|switch|p2a: Iron Treads|Iron Treads, L77|265/265
+|move|p1a: Kleavor|Stone Axe|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-crit|p2a: Iron Treads
+|-damage|p2a: Iron Treads|228/265
+|-sidestart|p2: diemlow|move: Stealth Rock
+|
+|upkeep
+|turn|5
+|
+|t:|1772751589
+|switch|p1a: Mandibuzz|Mandibuzz, L85, F|326/326
+|move|p2a: Iron Treads|Rapid Spin|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|299/326
+|-boost|p2a: Iron Treads|spe|1
+|-sideend|p2: diemlow|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Iron Treads
+|
+|upkeep
+|turn|6
+|
+|t:|1772751606
+|move|p2a: Iron Treads|Volt Switch|p1a: Mandibuzz
+|-supereffective|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|237/326
+|
+|t:|1772751623
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Vespiquen|Vespiquen, L99, F|283/299|[from] Volt Switch
+|-ability|p2a: Vespiquen|Pressure
+|move|p1a: Mandibuzz|U-turn|p2a: Vespiquen
+|-resisted|p2a: Vespiquen
+|-damage|p2a: Vespiquen|269/299
+|inactive|Aceryuzu has 120 seconds left.
+|
+|t:|1772751661
+|switch|p1a: Bellossom|Bellossom, L84, M|263/263|[from] U-turn
+|
+|upkeep
+|turn|7
+|
+|t:|1772751668
+|-terastallize|p1a: Bellossom|Rock
+|move|p2a: Vespiquen|Toxic|p1a: Bellossom
+|-status|p1a: Bellossom|tox
+|move|p1a: Bellossom|Quiver Dance|p1a: Bellossom
+|-boost|p1a: Bellossom|spa|1
+|-boost|p1a: Bellossom|spd|1
+|-boost|p1a: Bellossom|spe|1
+|
+|-damage|p1a: Bellossom|247/263 tox|[from] psn
+|upkeep
+|turn|8
+|inactive|Aceryuzu has 120 seconds left.
+|
+|t:|1772751678
+|move|p1a: Bellossom|Quiver Dance|p1a: Bellossom
+|-boost|p1a: Bellossom|spa|1
+|-boost|p1a: Bellossom|spd|1
+|-boost|p1a: Bellossom|spe|1
+|move|p2a: Vespiquen|U-turn|p1a: Bellossom
+|-damage|p1a: Bellossom|163/263 tox
+|
+|t:|1772751684
+|switch|p2a: Krookodile|Krookodile, L80, F|283/283|[from] U-turn
+|-ability|p2a: Krookodile|Intimidate|boost
+|-unboost|p1a: Bellossom|atk|1
+|
+|-heal|p1a: Bellossom|179/263 tox|[from] item: Leftovers
+|-damage|p1a: Bellossom|147/263 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1772751693
+|move|p2a: Krookodile|Earthquake|p1a: Bellossom
+|-supereffective|p1a: Bellossom
+|-damage|p1a: Bellossom|0 fnt
+|faint|p1a: Bellossom
+|
+|upkeep
+|inactive|Aceryuzu has 120 seconds left.
+|
+|t:|1772751710
+|switch|p1a: Kingdra|Kingdra, L84, M|263/263
+|turn|10
+|inactive|Aceryuzu has 120 seconds left.
+|
+|t:|1772751720
+|move|p2a: Krookodile|Earthquake|p1a: Kingdra
+|-damage|p1a: Kingdra|160/263
+|move|p1a: Kingdra|Dragon Dance|p1a: Kingdra
+|-boost|p1a: Kingdra|atk|1
+|-boost|p1a: Kingdra|spe|1
+|
+|upkeep
+|turn|11
+|
+|t:|1772751729
+|switch|p2a: Poliwrath|Poliwrath, L88, F|302/302
+|move|p1a: Kingdra|Dragon Dance|p1a: Kingdra
+|-boost|p1a: Kingdra|atk|1
+|-boost|p1a: Kingdra|spe|1
+|
+|upkeep
+|turn|12
+|
+|t:|1772751740
+|move|p1a: Kingdra|Outrage|p2a: Poliwrath
+|-damage|p2a: Poliwrath|83/302
+|move|p2a: Poliwrath|Close Combat|p1a: Kingdra
+|-damage|p1a: Kingdra|34/263
+|-unboost|p2a: Poliwrath|def|1
+|-unboost|p2a: Poliwrath|spd|1
+|
+|upkeep
+|turn|13
+|
+|t:|1772751746
+|move|p1a: Kingdra|Outrage|p2a: Poliwrath|[from] lockedmove
+|-damage|p2a: Poliwrath|0 fnt
+|faint|p2a: Poliwrath
+|
+|upkeep
+|
+|t:|1772751750
+|switch|p2a: Iron Treads|Iron Treads, L77|228/265
+|turn|14
+|
+|t:|1772751755
+|move|p1a: Kingdra|Outrage|p2a: Iron Treads|[from] lockedmove
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|114/265
+|-start|p1a: Kingdra|confusion|[fatigue]
+|-enditem|p1a: Kingdra|Lum Berry|[eat]
+|-end|p1a: Kingdra|confusion
+|move|p2a: Iron Treads|Earthquake|p1a: Kingdra
+|-damage|p1a: Kingdra|0 fnt
+|faint|p1a: Kingdra
+|
+|upkeep
+|inactive|Aceryuzu has 120 seconds left.
+|
+|t:|1772751788
+|switch|p1a: Kleavor|Kleavor, L78, M|237/237
+|turn|15
+|inactive|Aceryuzu has 120 seconds left.
+|
+|t:|1772751805
+|move|p1a: Kleavor|Close Combat|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|-unboost|p1a: Kleavor|def|1
+|-unboost|p1a: Kleavor|spd|1
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1772751815
+|switch|p2a: Raichu|Raichu-Alola, L87, M|246/246
+|turn|16
+|inactive|Aceryuzu has 120 seconds left.
+|
+|t:|1772751846
+|switch|p1a: Bisharp|Bisharp, L79, M|174/232
+|move|p2a: Raichu|Nasty Plot|p2a: Raichu
+|-boost|p2a: Raichu|spa|2
+|
+|upkeep
+|turn|17
+|
+|t:|1772751860
+|-terastallize|p2a: Raichu|Water
+|move|p1a: Bisharp|Sucker Punch|p2a: Raichu
+|-damage|p2a: Raichu|126/246
+|move|p2a: Raichu|Surf|p1a: Bisharp
+|-damage|p1a: Bisharp|0 fnt
+|faint|p1a: Bisharp
+|-damage|p2a: Raichu|102/246|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772751882
+|switch|p1a: Kleavor|Kleavor, L78, M|237/237
+|turn|18
+|
+|t:|1772751893
+|switch|p2a: Krookodile|Krookodile, L80, F|283/283
+|-ability|p2a: Krookodile|Intimidate|boost
+|-unboost|p1a: Kleavor|atk|1
+|move|p1a: Kleavor|Close Combat|p2a: Krookodile
+|-supereffective|p2a: Krookodile
+|-damage|p2a: Krookodile|147/283
+|-unboost|p1a: Kleavor|def|1
+|-unboost|p1a: Kleavor|spd|1
+|
+|upkeep
+|turn|19
+|
+|t:|1772751901
+|switch|p1a: Mandibuzz|Mandibuzz, L85, F|237/326
+|move|p2a: Krookodile|Stone Edge|p1a: Mandibuzz
+|-supereffective|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|113/326
+|
+|upkeep
+|turn|20
+|
+|t:|1772751914
+|move|p2a: Krookodile|Stone Edge|p1a: Mandibuzz|[miss]
+|-miss|p2a: Krookodile|p1a: Mandibuzz
+|move|p1a: Mandibuzz|Roost|p1a: Mandibuzz
+|-heal|p1a: Mandibuzz|276/326
+|-singleturn|p1a: Mandibuzz|move: Roost
+|
+|upkeep
+|turn|21
+|
+|t:|1772751920
+|move|p2a: Krookodile|Stone Edge|p1a: Mandibuzz
+|-supereffective|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|152/326
+|move|p1a: Mandibuzz|U-turn|p2a: Krookodile
+|-supereffective|p2a: Krookodile
+|-damage|p2a: Krookodile|55/283
+|c|☆diemlow|luckyyyy
+|c|☆Aceryuzu|its 80 accuracy
+|inactive|Aceryuzu has 90 seconds left.
+|
+|t:|1772751950
+|switch|p1a: Kleavor|Kleavor, L78, M|237/237|[from] U-turn
+|
+|upkeep
+|turn|22
+|c|☆diemlow|yeah 20 miss
+|c|☆diemlow|lucky
+|c|☆Aceryuzu|its 80 accuracy and you missed it 1 out of 3 times
+|inactive|Aceryuzu has 60 seconds left.
+|c|☆Aceryuzu|ur the lucky one
+|c|☆diemlow|u dont know math lol
+|
+|t:|1772752001
+|move|p2a: Krookodile|Stone Edge|p1a: Kleavor
+|-supereffective|p1a: Kleavor
+|-damage|p1a: Kleavor|77/237
+|move|p1a: Kleavor|Close Combat|p2a: Krookodile
+|-supereffective|p2a: Krookodile
+|-damage|p2a: Krookodile|0 fnt
+|-unboost|p1a: Kleavor|def|1
+|-unboost|p1a: Kleavor|spd|1
+|faint|p2a: Krookodile
+|
+|upkeep
+|
+|t:|1772752011
+|switch|p2a: Vespiquen|Vespiquen, L99, F|269/299
+|-ability|p2a: Vespiquen|Pressure
+|turn|23
+|c|☆Aceryuzu|and you landed it again
+|c|☆Aceryuzu|and yea i do
+|c|☆Aceryuzu|80 means you have a 4/5 chance of landing it
+|c|☆Aceryuzu|and you landed it 3/4 times
+|inactive|Aceryuzu has 30 seconds left.
+|c|☆Aceryuzu|so its pretty accurate so far
+|inactive|Aceryuzu has 20 seconds left.
+|
+|t:|1772752047
+|switch|p1a: Mandibuzz|Mandibuzz, L85, F|152/326
+|move|p2a: Vespiquen|Hurricane|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|28/326
+|
+|upkeep
+|turn|24
+|inactive|Aceryuzu has 30 seconds left this turn.
+|
+|t:|1772752056
+|move|p1a: Mandibuzz|Roost|p1a: Mandibuzz
+|-heal|p1a: Mandibuzz|191/326
+|-singleturn|p1a: Mandibuzz|move: Roost
+|move|p2a: Vespiquen|U-turn|p1a: Mandibuzz
+|-supereffective|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|23/326
+|
+|t:|1772752069
+|switch|p2a: Wugtrio|Wugtrio, L91, F|212/212|[from] U-turn
+|
+|upkeep
+|turn|25
+|inactive|Aceryuzu has 30 seconds left.
+|
+|t:|1772752080
+|move|p2a: Wugtrio|Liquidation|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|0 fnt
+|faint|p1a: Mandibuzz
+|
+|upkeep
+|
+|t:|1772752083
+|switch|p1a: Raging Bolt|Raging Bolt, L78|323/323
+|turn|26
+|inactive|Aceryuzu has 30 seconds left.
+|
+|t:|1772752105
+|switch|p2a: Vespiquen|Vespiquen, L99, F|269/299
+|-ability|p2a: Vespiquen|Pressure
+|move|p1a: Raging Bolt|Thunderclap||[still]
+|-fail|p1a: Raging Bolt
+|
+|upkeep
+|turn|27
+|inactive|Aceryuzu has 30 seconds left.
+|
+|t:|1772752117
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Kleavor|Kleavor, L78, M|77/237
+|move|p2a: Vespiquen|Toxic|p1a: Kleavor
+|-status|p1a: Kleavor|tox
+|
+|-damage|p1a: Kleavor|63/237 tox|[from] psn
+|upkeep
+|turn|28
+|inactive|Aceryuzu has 30 seconds left.
+|
+|t:|1772752134
+|switch|p2a: Wugtrio|Wugtrio, L91, F|212/212
+|move|p1a: Kleavor|Stone Axe|p2a: Wugtrio|[miss]
+|-miss|p1a: Kleavor|p2a: Wugtrio
+|
+|-damage|p1a: Kleavor|35/237 tox|[from] psn
+|upkeep
+|turn|29
+|c|☆diemlow|LMAOO
+|c|☆Aceryuzu|see ur lucky
+|inactive|Aceryuzu has 30 seconds left.
+|
+|t:|1772752147
+|move|p2a: Wugtrio|Stomping Tantrum|p1a: Kleavor
+|-damage|p1a: Kleavor|0 fnt
+|faint|p1a: Kleavor
+|
+|upkeep
+|c|☆diemlow|i am
+|
+|t:|1772752150
+|switch|p1a: Raging Bolt|Raging Bolt, L78|323/323
+|turn|30
+|
+|t:|1772752155
+|move|p2a: Wugtrio|Stomping Tantrum|p1a: Raging Bolt
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|119/323
+|move|p1a: Raging Bolt|Discharge|p2a: Wugtrio
+|-supereffective|p2a: Wugtrio
+|-damage|p2a: Wugtrio|0 fnt
+|faint|p2a: Wugtrio
+|
+|upkeep
+|
+|t:|1772752163
+|switch|p2a: Vespiquen|Vespiquen, L99, F|269/299
+|-ability|p2a: Vespiquen|Pressure
+|turn|31
+|
+|t:|1772752172
+|move|p1a: Raging Bolt|Discharge|p2a: Vespiquen
+|-supereffective|p2a: Vespiquen
+|-damage|p2a: Vespiquen|123/299
+|move|p2a: Vespiquen|U-turn|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|23/323
+|
+|t:|1772752179
+|switch|p2a: Raichu|Raichu-Alola, L87, M, tera:Water|102/246|[from] U-turn
+|
+|upkeep
+|turn|32
+|
+|t:|1772752188
+|move|p1a: Raging Bolt|Thunderclap||[still]
+|-fail|p1a: Raging Bolt
+|move|p2a: Raichu|Nasty Plot|p2a: Raichu
+|-boost|p2a: Raichu|spa|2
+|
+|upkeep
+|turn|33
+|
+|t:|1772752206
+|move|p1a: Raging Bolt|Thunderclap||[still]
+|-fail|p1a: Raging Bolt
+|move|p2a: Raichu|Nasty Plot|p2a: Raichu
+|-boost|p2a: Raichu|spa|2
+|
+|upkeep
+|turn|34
+|
+|t:|1772752216
+|move|p1a: Raging Bolt|Thunderclap||[still]
+|-fail|p1a: Raging Bolt
+|move|p2a: Raichu|Nasty Plot|p2a: Raichu
+|-boost|p2a: Raichu|spa|2
+|
+|upkeep
+|turn|35
+|
+|t:|1772752222
+|move|p2a: Raichu|Nasty Plot|p2a: Raichu
+|-boost|p2a: Raichu|spa|0
+|move|p1a: Raging Bolt|Discharge|p2a: Raichu
+|-supereffective|p2a: Raichu
+|-damage|p2a: Raichu|0 fnt
+|faint|p2a: Raichu
+|
+|upkeep
+|
+|t:|1772752224
+|switch|p2a: Vespiquen|Vespiquen, L99, F|123/299
+|-ability|p2a: Vespiquen|Pressure
+|turn|36
+|
+|t:|1772752227
+|move|p1a: Raging Bolt|Discharge|p2a: Vespiquen
+|-supereffective|p2a: Vespiquen
+|-damage|p2a: Vespiquen|0 fnt
+|faint|p2a: Vespiquen
+|
+|win|Aceryuzu
+|raw|Aceryuzu's rating: 1567 &rarr; <strong>1589</strong><br />(+22 for winning)
+|raw|diemlow's rating: 1600 &rarr; <strong>1578</strong><br />(-22 for losing)
+|c|☆Aceryuzu|lol
+|l|☆diemlow
+|player|p2|
+|c|☆Aceryuzu|unlucky you

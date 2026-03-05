@@ -1,0 +1,594 @@
+|j|☆Naturaharmoniag
+|j|☆razdahooman
+|t:|1772748170
+|gametype|singles
+|player|p1|Naturaharmoniag|n|1395
+|player|p2|razdahooman|170|1420
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772748170
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Rotom|Rotom-Frost, L87|229/229
+|switch|p2a: Dipplin|Dipplin, L88, F|284/284
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by razdahooman)
+|
+|t:|1772748187
+|switch|p2a: Iron Moth|Iron Moth, L78|253/253
+|move|p1a: Rotom|Blizzard|p2a: Iron Moth|[miss]
+|-miss|p1a: Rotom|p2a: Iron Moth
+|
+|upkeep
+|turn|2
+|
+|t:|1772748204
+|switch|p1a: Seviper|Seviper, L93, M|287/287
+|move|p2a: Iron Moth|Toxic Spikes|p1a: Seviper
+|-sidestart|p1: Naturaharmoniag|move: Toxic Spikes
+|
+|upkeep
+|turn|3
+|
+|t:|1772748218
+|move|p2a: Iron Moth|Toxic Spikes|p1a: Seviper
+|-sidestart|p1: Naturaharmoniag|move: Toxic Spikes
+|move|p1a: Seviper|Swords Dance|p1a: Seviper
+|-boost|p1a: Seviper|atk|2
+|
+|upkeep
+|turn|4
+|
+|t:|1772748225
+|move|p2a: Iron Moth|Fire Blast|p1a: Seviper
+|-damage|p1a: Seviper|119/287
+|move|p1a: Seviper|Earthquake|p2a: Iron Moth
+|-supereffective|p2a: Iron Moth
+|-damage|p2a: Iron Moth|0 fnt
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|
+|-heal|p1a: Seviper|136/287|[from] item: Leftovers
+|upkeep
+|
+|t:|1772748244
+|switch|p2a: Munkidori|Munkidori, L79, M|269/269
+|turn|5
+|inactive|Naturaharmoniag has 120 seconds left.
+|
+|t:|1772748282
+|switch|p1a: Mandibuzz|Mandibuzz, L85, F|326/326
+|move|p2a: Munkidori|Psyshock|p1a: Mandibuzz
+|-immune|p1a: Mandibuzz
+|
+|upkeep
+|turn|6
+|inactive|Naturaharmoniag has 120 seconds left.
+|inactive|Naturaharmoniag has 90 seconds left.
+|
+|t:|1772748320
+|move|p2a: Munkidori|Nasty Plot|p2a: Munkidori
+|-boost|p2a: Munkidori|spa|2
+|move|p1a: Mandibuzz|Defog|p2a: Munkidori
+|-unboost|p2a: Munkidori|evasion|1
+|-sideend|p1: Naturaharmoniag|Toxic Spikes|[from] move: Defog|[of] p1a: Mandibuzz
+|
+|upkeep
+|turn|7
+|inactive|Naturaharmoniag has 90 seconds left.
+|
+|t:|1772748333
+|-terastallize|p2a: Munkidori|Poison
+|move|p2a: Munkidori|Sludge Wave|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|0 fnt
+|faint|p1a: Mandibuzz
+|-damage|p2a: Munkidori|243/269|[from] item: Life Orb
+|
+|upkeep
+|inactive|Naturaharmoniag has 90 seconds left.
+|inactive|Naturaharmoniag has 60 seconds left.
+|
+|t:|1772748392
+|switch|p1a: Sableye|Sableye, L88, F|231/231
+|turn|8
+|
+|t:|1772748406
+|move|p2a: Munkidori|Sludge Wave|p1a: Sableye
+|-resisted|p1a: Sableye
+|-damage|p1a: Sableye|17/231
+|-damage|p2a: Munkidori|217/269|[from] item: Life Orb
+|move|p1a: Sableye|Knock Off|p2a: Munkidori
+|-damage|p2a: Munkidori|100/269
+|-enditem|p2a: Munkidori|Life Orb|[from] move: Knock Off|[of] p1a: Sableye
+|
+|-heal|p1a: Sableye|31/231|[from] item: Leftovers
+|upkeep
+|turn|9
+|inactive|Naturaharmoniag has 30 seconds left.
+|
+|t:|1772748430
+|-terastallize|p1a: Sableye|Steel
+|move|p1a: Sableye|Encore|p2a: Munkidori
+|-start|p2a: Munkidori|Encore
+|move|p2a: Munkidori|Sludge Wave|p1a: Sableye
+|-immune|p1a: Sableye
+|
+|-heal|p1a: Sableye|45/231|[from] item: Leftovers
+|upkeep
+|turn|10
+|inactive|Naturaharmoniag has 30 seconds left.
+|l|☆razdahooman
+|inactive|razdahooman disconnected and has a minute to reconnect!
+|player|p2|
+|inactive|razdahooman has 30 seconds to reconnect!
+|j|☆razdahooman
+|inactive|razdahooman reconnected and has 105 seconds left.
+|player|p2|razdahooman|170|
+|inactive|razdahooman has 90 seconds left.
+|
+|t:|1772748491
+|switch|p2a: Dipplin|Dipplin, L88, F|284/284
+|move|p1a: Sableye|Recover|p1a: Sableye
+|-heal|p1a: Sableye|161/231
+|
+|-heal|p1a: Sableye|175/231|[from] item: Leftovers
+|upkeep
+|turn|11
+|inactive|Naturaharmoniag has 30 seconds left.
+|
+|t:|1772748510
+|move|p1a: Sableye|Knock Off|p2a: Dipplin
+|-damage|p2a: Dipplin|230/284
+|-activate|p2a: Dipplin|ability: Sticky Hold
+|move|p2a: Dipplin|Dragon Tail|p1a: Sableye
+|-resisted|p1a: Sableye
+|-damage|p1a: Sableye|139/231
+|drag|p1a: Seviper|Seviper, L93, M|136/287
+|
+|-heal|p1a: Seviper|153/287|[from] item: Leftovers
+|upkeep
+|turn|12
+|inactive|Naturaharmoniag has 30 seconds left.
+|
+|t:|1772748525
+|move|p1a: Seviper|Earthquake|p2a: Dipplin
+|-resisted|p2a: Dipplin
+|-damage|p2a: Dipplin|206/284
+|move|p2a: Dipplin|Dragon Tail|p1a: Seviper
+|-crit|p1a: Seviper
+|-damage|p1a: Seviper|39/287
+|drag|p1a: Medicham|Medicham, L86, F|243/243
+|
+|upkeep
+|turn|13
+|inactive|Naturaharmoniag has 30 seconds left.
+|
+|t:|1772748536
+|move|p1a: Medicham|Ice Punch|p2a: Dipplin
+|-supereffective|p2a: Dipplin
+|-damage|p2a: Dipplin|0 fnt
+|faint|p2a: Dipplin
+|
+|upkeep
+|
+|t:|1772748542
+|switch|p2a: Munkidori|Munkidori, L79, M, tera:Poison|100/269
+|turn|14
+|inactive|Naturaharmoniag has 30 seconds left.
+|inactive|Naturaharmoniag has 20 seconds left.
+|inactive|Naturaharmoniag has 15 seconds left.
+|inactive|Naturaharmoniag has 10 seconds left.
+|
+|t:|1772748574
+|move|p2a: Munkidori|Focus Blast|p1a: Medicham
+|-resisted|p1a: Medicham
+|-damage|p1a: Medicham|195/243
+|move|p1a: Medicham|Ice Punch|p2a: Munkidori
+|-damage|p2a: Munkidori|0 fnt
+|faint|p2a: Munkidori
+|
+|upkeep
+|
+|t:|1772748583
+|switch|p2a: Arceus|Arceus-Water, L71|288/288
+|turn|15
+|inactive|Naturaharmoniag has 25 seconds left this turn.
+|inactive|Naturaharmoniag has 20 seconds left.
+|
+|t:|1772748589
+|move|p2a: Arceus|Will-O-Wisp|p1a: Medicham
+|-status|p1a: Medicham|brn
+|move|p1a: Medicham|Ice Punch|p2a: Arceus
+|-resisted|p2a: Arceus
+|-damage|p2a: Arceus|261/288
+|
+|-damage|p1a: Medicham|180/243 brn|[from] brn
+|upkeep
+|turn|16
+|inactive|Naturaharmoniag has 30 seconds left this turn.
+|inactive|razdahooman has 120 seconds left.
+|inactive|Naturaharmoniag has 20 seconds left.
+|inactive|Naturaharmoniag has 15 seconds left.
+|
+|t:|1772748604
+|switch|p1a: Rotom|Rotom-Frost, L87|229/229
+|move|p2a: Arceus|Calm Mind|p2a: Arceus
+|-boost|p2a: Arceus|spa|1
+|-boost|p2a: Arceus|spd|1
+|
+|upkeep
+|turn|17
+|inactive|Naturaharmoniag has 25 seconds left this turn.
+|inactive|Naturaharmoniag has 20 seconds left.
+|
+|t:|1772748618
+|move|p2a: Arceus|Calm Mind|p2a: Arceus
+|-boost|p2a: Arceus|spa|1
+|-boost|p2a: Arceus|spd|1
+|move|p1a: Rotom|Thunderbolt|p2a: Arceus
+|-supereffective|p2a: Arceus
+|-damage|p2a: Arceus|159/288
+|
+|upkeep
+|turn|18
+|inactive|Naturaharmoniag has 30 seconds left this turn.
+|inactive|Naturaharmoniag has 20 seconds left.
+|
+|t:|1772748631
+|move|p2a: Arceus|Judgment|p1a: Rotom
+|-damage|p1a: Rotom|48/229
+|move|p1a: Rotom|Thunderbolt|p2a: Arceus
+|-supereffective|p2a: Arceus
+|-damage|p2a: Arceus|51/288
+|
+|upkeep
+|turn|19
+|inactive|Naturaharmoniag has 30 seconds left this turn.
+|inactive|Naturaharmoniag has 20 seconds left.
+|inactive|Naturaharmoniag has 15 seconds left.
+|
+|t:|1772748648
+|move|p2a: Arceus|Recover|p2a: Arceus
+|-heal|p2a: Arceus|195/288
+|move|p1a: Rotom|Thunderbolt|p2a: Arceus
+|-supereffective|p2a: Arceus
+|-damage|p2a: Arceus|93/288
+|-status|p2a: Arceus|par
+|
+|upkeep
+|turn|20
+|inactive|Naturaharmoniag has 25 seconds left this turn.
+|inactive|Naturaharmoniag has 20 seconds left.
+|inactive|razdahooman has 120 seconds left.
+|
+|t:|1772748656
+|move|p1a: Rotom|Thunderbolt|p2a: Arceus
+|-supereffective|p2a: Arceus
+|-damage|p2a: Arceus|0 fnt
+|faint|p2a: Arceus
+|
+|upkeep
+|inactive|razdahooman has 120 seconds left.
+|
+|t:|1772748663
+|switch|p2a: Yanmega|Yanmega, L82, M|275/275
+|turn|21
+|inactive|Naturaharmoniag has 30 seconds left.
+|inactive|razdahooman has 120 seconds left.
+|
+|t:|1772748676
+|move|p2a: Yanmega|Bug Buzz|p1a: Rotom
+|-damage|p1a: Rotom|0 fnt
+|faint|p1a: Rotom
+|
+|-ability|p2a: Yanmega|Speed Boost|boost
+|-boost|p2a: Yanmega|spe|1
+|upkeep
+|inactive|Naturaharmoniag has 30 seconds left this turn.
+|inactive|Naturaharmoniag has 20 seconds left.
+|
+|t:|1772748691
+|switch|p1a: Masquerain|Masquerain, L87, F|264/264
+|-ability|p1a: Masquerain|Intimidate|boost
+|-unboost|p2a: Yanmega|atk|1
+|turn|22
+|inactive|Naturaharmoniag has 30 seconds left this turn.
+|
+|t:|1772748699
+|move|p2a: Yanmega|Air Slash|p1a: Masquerain
+|-supereffective|p1a: Masquerain
+|-damage|p1a: Masquerain|100/264
+|cant|p1a: Masquerain|flinch
+|
+|-ability|p2a: Yanmega|Speed Boost|boost
+|-boost|p2a: Yanmega|spe|1
+|upkeep
+|turn|23
+|inactive|Naturaharmoniag has 30 seconds left.
+|
+|t:|1772748708
+|switch|p1a: Sableye|Sableye, L88, F, tera:Steel|139/231
+|move|p2a: Yanmega|Air Slash|p1a: Sableye
+|-resisted|p1a: Sableye
+|-damage|p1a: Sableye|85/231
+|
+|-heal|p1a: Sableye|99/231|[from] item: Leftovers
+|-ability|p2a: Yanmega|Speed Boost|boost
+|-boost|p2a: Yanmega|spe|1
+|upkeep
+|turn|24
+|inactive|Naturaharmoniag has 30 seconds left.
+|
+|t:|1772748722
+|move|p1a: Sableye|Encore|p2a: Yanmega
+|-start|p2a: Yanmega|Encore
+|move|p2a: Yanmega|Air Slash|p1a: Sableye|[miss]
+|-miss|p2a: Yanmega|p1a: Sableye
+|
+|-heal|p1a: Sableye|113/231|[from] item: Leftovers
+|-ability|p2a: Yanmega|Speed Boost|boost
+|-boost|p2a: Yanmega|spe|1
+|upkeep
+|turn|25
+|inactive|Naturaharmoniag has 30 seconds left.
+|
+|t:|1772748739
+|move|p1a: Sableye|Thunder Wave|p2a: Yanmega
+|-status|p2a: Yanmega|par
+|move|p2a: Yanmega|Air Slash|p1a: Sableye
+|-resisted|p1a: Sableye
+|-damage|p1a: Sableye|59/231
+|
+|-heal|p1a: Sableye|73/231|[from] item: Leftovers
+|-ability|p2a: Yanmega|Speed Boost|boost
+|-boost|p2a: Yanmega|spe|1
+|upkeep
+|turn|26
+|inactive|Naturaharmoniag has 30 seconds left.
+|
+|t:|1772748750
+|move|p1a: Sableye|Recover|p1a: Sableye
+|-heal|p1a: Sableye|189/231
+|move|p2a: Yanmega|Air Slash|p1a: Sableye
+|-resisted|p1a: Sableye
+|-damage|p1a: Sableye|135/231
+|
+|-heal|p1a: Sableye|149/231|[from] item: Leftovers
+|-end|p2a: Yanmega|Encore
+|-ability|p2a: Yanmega|Speed Boost|boost
+|-boost|p2a: Yanmega|spe|1
+|upkeep
+|turn|27
+|inactive|Naturaharmoniag has 30 seconds left.
+|
+|t:|1772748761
+|move|p1a: Sableye|Encore|p2a: Yanmega
+|-start|p2a: Yanmega|Encore
+|cant|p2a: Yanmega|par
+|
+|-heal|p1a: Sableye|163/231|[from] item: Leftovers
+|upkeep
+|turn|28
+|inactive|Naturaharmoniag has 30 seconds left.
+|
+|t:|1772748770
+|move|p2a: Yanmega|Air Slash|p1a: Sableye
+|-resisted|p1a: Sableye
+|-damage|p1a: Sableye|109/231
+|cant|p1a: Sableye|flinch
+|
+|-heal|p1a: Sableye|123/231|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1772748779
+|move|p2a: Yanmega|Air Slash|p1a: Sableye
+|-resisted|p1a: Sableye
+|-damage|p1a: Sableye|69/231
+|cant|p1a: Sableye|flinch
+|
+|-heal|p1a: Sableye|83/231|[from] item: Leftovers
+|-end|p2a: Yanmega|Encore
+|upkeep
+|turn|30
+|
+|t:|1772748789
+|move|p1a: Sableye|Recover|p1a: Sableye
+|-heal|p1a: Sableye|199/231
+|cant|p2a: Yanmega|par
+|
+|-heal|p1a: Sableye|213/231|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1772748797
+|cant|p2a: Yanmega|par
+|move|p1a: Sableye|Knock Off|p2a: Yanmega
+|-damage|p2a: Yanmega|178/275 par
+|-enditem|p2a: Yanmega|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Sableye
+|
+|-heal|p1a: Sableye|227/231|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1772748812
+|move|p1a: Sableye|Encore|p2a: Yanmega
+|-start|p2a: Yanmega|Encore
+|move|p2a: Yanmega|Air Slash|p1a: Sableye
+|-resisted|p1a: Sableye
+|-damage|p1a: Sableye|178/231
+|
+|-heal|p1a: Sableye|192/231|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1772748824
+|move|p2a: Yanmega|Air Slash|p1a: Sableye
+|-resisted|p1a: Sableye
+|-damage|p1a: Sableye|136/231
+|move|p1a: Sableye|Knock Off|p2a: Yanmega
+|-damage|p2a: Yanmega|111/275 par
+|
+|-heal|p1a: Sableye|150/231|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1772748833
+|move|p2a: Yanmega|Air Slash|p1a: Sableye
+|-resisted|p1a: Sableye
+|-damage|p1a: Sableye|97/231
+|move|p1a: Sableye|Knock Off|p2a: Yanmega
+|-damage|p2a: Yanmega|41/275 par
+|
+|-heal|p1a: Sableye|111/231|[from] item: Leftovers
+|-end|p2a: Yanmega|Encore
+|upkeep
+|turn|35
+|
+|t:|1772748843
+|move|p1a: Sableye|Encore|p2a: Yanmega
+|-start|p2a: Yanmega|Encore
+|cant|p2a: Yanmega|par
+|
+|-heal|p1a: Sableye|125/231|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1772748851
+|move|p1a: Sableye|Recover|p1a: Sableye
+|-heal|p1a: Sableye|231/231
+|move|p2a: Yanmega|Air Slash|p1a: Sableye
+|-resisted|p1a: Sableye
+|-damage|p1a: Sableye|176/231
+|
+|-heal|p1a: Sableye|190/231|[from] item: Leftovers
+|upkeep
+|turn|37
+|
+|t:|1772748864
+|move|p2a: Yanmega|Air Slash|p1a: Sableye
+|-resisted|p1a: Sableye
+|-damage|p1a: Sableye|136/231
+|move|p1a: Sableye|Knock Off|p2a: Yanmega
+|-damage|p2a: Yanmega|0 fnt
+|faint|p2a: Yanmega
+|
+|-heal|p1a: Sableye|150/231|[from] item: Leftovers
+|upkeep
+|
+|t:|1772748869
+|switch|p2a: Honchkrow|Honchkrow, L86, F|312/312
+|turn|38
+|inactive|Naturaharmoniag has 60 seconds left.
+|
+|t:|1772748887
+|move|p1a: Sableye|Thunder Wave|p2a: Honchkrow
+|-hint|Since gen 7, Dark is immune to Prankster moves.
+|-immune|p2a: Honchkrow
+|move|p2a: Honchkrow|Heat Wave|p1a: Sableye
+|-supereffective|p1a: Sableye
+|-damage|p1a: Sableye|0 fnt
+|faint|p1a: Sableye
+|-ability|p2a: Honchkrow|Moxie|boost
+|-boost|p2a: Honchkrow|atk|1
+|
+|upkeep
+|inactive|Naturaharmoniag has 30 seconds left.
+|
+|t:|1772748918
+|switch|p1a: Medicham|Medicham, L86, F|180/243 brn
+|turn|39
+|
+|t:|1772748927
+|move|p1a: Medicham|Ice Punch|p2a: Honchkrow
+|-supereffective|p2a: Honchkrow
+|-damage|p2a: Honchkrow|150/312
+|move|p2a: Honchkrow|Brave Bird|p1a: Medicham
+|-supereffective|p1a: Medicham
+|-damage|p1a: Medicham|0 fnt
+|faint|p1a: Medicham
+|-ability|p2a: Honchkrow|Moxie|boost
+|-boost|p2a: Honchkrow|atk|1
+|-damage|p2a: Honchkrow|91/312|[from] Recoil
+|
+|upkeep
+|inactive|Naturaharmoniag has 30 seconds left.
+|
+|t:|1772748939
+|switch|p1a: Masquerain|Masquerain, L87, F|100/264
+|-ability|p1a: Masquerain|Intimidate|boost
+|-unboost|p2a: Honchkrow|atk|1
+|turn|40
+|inactive|Naturaharmoniag has 30 seconds left.
+|
+|t:|1772748949
+|move|p2a: Honchkrow|Sucker Punch|p1a: Masquerain
+|-damage|p1a: Masquerain|0 fnt
+|faint|p1a: Masquerain
+|-ability|p2a: Honchkrow|Moxie|boost
+|-boost|p2a: Honchkrow|atk|1
+|
+|upkeep
+|inactive|Naturaharmoniag has 30 seconds left.
+|
+|t:|1772748955
+|switch|p1a: Seviper|Seviper, L93, M|39/287
+|turn|41
+|inactive|Naturaharmoniag has 30 seconds left.
+|
+|t:|1772748971
+|move|p2a: Honchkrow|Sucker Punch||[still]
+|-fail|p2a: Honchkrow
+|move|p1a: Seviper|Swords Dance|p1a: Seviper
+|-boost|p1a: Seviper|atk|2
+|
+|-heal|p1a: Seviper|56/287|[from] item: Leftovers
+|upkeep
+|turn|42
+|inactive|Naturaharmoniag has 30 seconds left.
+|inactive|Naturaharmoniag has 20 seconds left.
+|inactive|Naturaharmoniag has 15 seconds left.
+|
+|t:|1772748996
+|move|p2a: Honchkrow|Sucker Punch||[still]
+|-fail|p2a: Honchkrow
+|move|p1a: Seviper|Swords Dance|p1a: Seviper
+|-boost|p1a: Seviper|atk|2
+|
+|-heal|p1a: Seviper|73/287|[from] item: Leftovers
+|upkeep
+|turn|43
+|inactive|Naturaharmoniag has 25 seconds left this turn.
+|inactive|Naturaharmoniag has 20 seconds left.
+|inactive|Naturaharmoniag has 15 seconds left.
+|
+|t:|1772749009
+|move|p2a: Honchkrow|Sucker Punch||[still]
+|-fail|p2a: Honchkrow
+|move|p1a: Seviper|Swords Dance|p1a: Seviper
+|-boost|p1a: Seviper|atk|2
+|
+|-heal|p1a: Seviper|90/287|[from] item: Leftovers
+|upkeep
+|turn|44
+|inactive|Naturaharmoniag has 25 seconds left this turn.
+|inactive|Naturaharmoniag has 20 seconds left.
+|inactive|Naturaharmoniag has 15 seconds left.
+|
+|t:|1772749021
+|move|p2a: Honchkrow|Sucker Punch|p1a: Seviper
+|-damage|p1a: Seviper|0 fnt
+|faint|p1a: Seviper
+|
+|win|razdahooman
+|raw|Naturaharmoniag's rating: 1395 &rarr; <strong>1376</strong><br />(-19 for losing)
+|raw|razdahooman's rating: 1420 &rarr; <strong>1439</strong><br />(+19 for winning)
+|l|☆Naturaharmoniag
+|player|p1|

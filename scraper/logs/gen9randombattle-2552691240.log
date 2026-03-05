@@ -1,0 +1,307 @@
+|j|☆Neo Cilpcolp
+|j|☆Scracey96
+|t:|1772743904
+|gametype|singles
+|player|p1|Neo Cilpcolp|drayden|1154
+|player|p2|Scracey96|265|1134
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772743904
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ursaluna|Ursaluna, L79, M|335/335
+|switch|p2a: Reuniclus|Reuniclus, L88, F|337/337
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Neo Cilpcolp)
+|
+|t:|1772743920
+|move|p1a: Ursaluna|Swords Dance|p1a: Ursaluna
+|-boost|p1a: Ursaluna|atk|2
+|move|p2a: Reuniclus|Calm Mind|p2a: Reuniclus
+|-boost|p2a: Reuniclus|spa|1
+|-boost|p2a: Reuniclus|spd|1
+|
+|-status|p1a: Ursaluna|brn|[from] item: Flame Orb
+|upkeep
+|turn|2
+|
+|t:|1772743936
+|move|p1a: Ursaluna|Crunch|p2a: Reuniclus
+|-supereffective|p2a: Reuniclus
+|-damage|p2a: Reuniclus|0 fnt
+|faint|p2a: Reuniclus
+|
+|-damage|p1a: Ursaluna|315/335 brn|[from] brn
+|upkeep
+|
+|t:|1772743955
+|switch|p2a: Quaquaval|Quaquaval, L79, M|264/264
+|turn|3
+|
+|t:|1772743977
+|switch|p1a: Wugtrio|Wugtrio, L91, M|212/212
+|move|p2a: Quaquaval|Aqua Step|p1a: Wugtrio
+|-resisted|p1a: Wugtrio
+|-damage|p1a: Wugtrio|116/212
+|-boost|p2a: Quaquaval|spe|1
+|-ability|p1a: Wugtrio|Gooey
+|-unboost|p2a: Quaquaval|spe|1
+|
+|upkeep
+|turn|4
+|
+|t:|1772743990
+|-terastallize|p2a: Quaquaval|Water
+|move|p1a: Wugtrio|Stomping Tantrum|p2a: Quaquaval
+|-damage|p2a: Quaquaval|162/264
+|move|p2a: Quaquaval|Aqua Step|p1a: Wugtrio
+|-resisted|p1a: Wugtrio
+|-damage|p1a: Wugtrio|0 fnt
+|-boost|p2a: Quaquaval|spe|1
+|-ability|p1a: Wugtrio|Gooey
+|-unboost|p2a: Quaquaval|spe|1
+|faint|p1a: Wugtrio
+|-ability|p2a: Quaquaval|Moxie|boost
+|-boost|p2a: Quaquaval|atk|1
+|
+|upkeep
+|inactive|Neo Cilpcolp has 120 seconds left.
+|
+|t:|1772744010
+|switch|p1a: Glalie|Glalie, L96, M|309/309
+|turn|5
+|
+|t:|1772744018
+|move|p1a: Glalie|Freeze-Dry|p2a: Quaquaval
+|-supereffective|p2a: Quaquaval
+|-damage|p2a: Quaquaval|0 fnt
+|faint|p2a: Quaquaval
+|
+|upkeep
+|
+|t:|1772744035
+|switch|p2a: Bisharp|Bisharp, L79, M|232/232
+|turn|6
+|
+|t:|1772744059
+|switch|p1a: Hitmonlee|Hitmonlee, L85, M|224/224
+|move|p2a: Bisharp|Throat Chop|p1a: Hitmonlee
+|-resisted|p1a: Hitmonlee
+|-damage|p1a: Hitmonlee|158/224
+|-start|p1a: Hitmonlee|Throat Chop|[silent]
+|
+|upkeep
+|turn|7
+|
+|t:|1772744071
+|move|p1a: Hitmonlee|Close Combat|p2a: Bisharp
+|-supereffective|p2a: Bisharp
+|-damage|p2a: Bisharp|0 fnt
+|-unboost|p1a: Hitmonlee|def|1
+|-unboost|p1a: Hitmonlee|spd|1
+|faint|p2a: Bisharp
+|-enditem|p1a: Hitmonlee|White Herb
+|-clearnegativeboost|p1a: Hitmonlee|[silent]
+|
+|-end|p1a: Hitmonlee|Throat Chop|[silent]
+|upkeep
+|
+|t:|1772744081
+|switch|p2a: Tropius|Tropius, L91, M|328/328
+|turn|8
+|
+|t:|1772744086
+|move|p1a: Hitmonlee|Knock Off|p2a: Tropius
+|-damage|p2a: Tropius|249/328
+|-enditem|p2a: Tropius|Sitrus Berry|[from] move: Knock Off|[of] p1a: Hitmonlee
+|move|p2a: Tropius|Earthquake|p1a: Hitmonlee
+|-damage|p1a: Hitmonlee|61/224
+|
+|upkeep
+|turn|9
+|
+|t:|1772744095
+|move|p1a: Hitmonlee|Stone Edge|p2a: Tropius
+|-supereffective|p2a: Tropius
+|-damage|p2a: Tropius|73/328
+|move|p2a: Tropius|Dual Wingbeat|p1a: Hitmonlee
+|-supereffective|p1a: Hitmonlee
+|-damage|p1a: Hitmonlee|0 fnt
+|faint|p1a: Hitmonlee
+|-hitcount|p1: Hitmonlee|1
+|
+|upkeep
+|
+|t:|1772744098
+|switch|p1a: Glalie|Glalie, L96, M|309/309
+|turn|10
+|
+|t:|1772744111
+|move|p1a: Glalie|Freeze-Dry|p2a: Tropius
+|-supereffective|p2a: Tropius
+|-damage|p2a: Tropius|0 fnt
+|faint|p2a: Tropius
+|
+|upkeep
+|
+|t:|1772744117
+|switch|p2a: Dachsbun|Dachsbun, L92, F|254/254
+|turn|11
+|
+|t:|1772744126
+|move|p2a: Dachsbun|Protect|p2a: Dachsbun
+|-singleturn|p2a: Dachsbun|Protect
+|move|p1a: Glalie|Freeze-Dry|p2a: Dachsbun
+|-activate|p2a: Dachsbun|move: Protect
+|
+|upkeep
+|turn|12
+|
+|t:|1772744135
+|move|p2a: Dachsbun|Wish|p2a: Dachsbun
+|move|p1a: Glalie|Taunt|p2a: Dachsbun
+|-start|p2a: Dachsbun|move: Taunt
+|
+|upkeep
+|turn|13
+|
+|t:|1772744145
+|move|p2a: Dachsbun|Play Rough|p1a: Glalie
+|-damage|p1a: Glalie|222/309
+|move|p1a: Glalie|Spikes|p2a: Dachsbun
+|-sidestart|p2: Scracey96|Spikes
+|
+|upkeep
+|turn|14
+|
+|t:|1772744152
+|move|p2a: Dachsbun|Play Rough|p1a: Glalie
+|-damage|p1a: Glalie|134/309
+|move|p1a: Glalie|Freeze-Dry|p2a: Dachsbun
+|-damage|p2a: Dachsbun|166/254
+|
+|-heal|p2a: Dachsbun|181/254|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1772744161
+|move|p2a: Dachsbun|Play Rough|p1a: Glalie
+|-damage|p1a: Glalie|43/309
+|move|p1a: Glalie|Freeze-Dry|p2a: Dachsbun
+|-damage|p2a: Dachsbun|105/254
+|
+|-heal|p2a: Dachsbun|120/254|[from] item: Leftovers
+|-end|p2a: Dachsbun|move: Taunt
+|upkeep
+|turn|16
+|
+|t:|1772744172
+|switch|p1a: Garganacl|Garganacl, L80, F|291/291
+|move|p2a: Dachsbun|Play Rough|p1a: Garganacl
+|-damage|p1a: Garganacl|219/291
+|
+|-heal|p2a: Dachsbun|135/254|[from] item: Leftovers
+|-heal|p1a: Garganacl|237/291|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1772744182
+|move|p2a: Dachsbun|Wish|p2a: Dachsbun
+|move|p1a: Garganacl|Salt Cure|p2a: Dachsbun
+|-damage|p2a: Dachsbun|104/254
+|-start|p2a: Dachsbun|Salt Cure
+|
+|-heal|p2a: Dachsbun|119/254|[from] item: Leftovers
+|-heal|p1a: Garganacl|255/291|[from] item: Leftovers
+|-damage|p2a: Dachsbun|88/254|[from] Salt Cure
+|upkeep
+|turn|18
+|
+|t:|1772744195
+|move|p1a: Garganacl|Protect|p1a: Garganacl
+|-singleturn|p1a: Garganacl|Protect
+|move|p2a: Dachsbun|Yawn|p1a: Garganacl
+|-activate|p1a: Garganacl|move: Protect
+|
+|-heal|p2a: Dachsbun|215/254|[from] move: Wish|[wisher] Dachsbun
+|-heal|p2a: Dachsbun|230/254|[from] item: Leftovers
+|-heal|p1a: Garganacl|273/291|[from] item: Leftovers
+|-damage|p2a: Dachsbun|199/254|[from] Salt Cure
+|upkeep
+|turn|19
+|
+|t:|1772744209
+|move|p2a: Dachsbun|Yawn|p1a: Garganacl
+|-immune|p1a: Garganacl|[from] ability: Purifying Salt
+|move|p1a: Garganacl|Earthquake|p2a: Dachsbun
+|-damage|p2a: Dachsbun|152/254
+|
+|-heal|p2a: Dachsbun|167/254|[from] item: Leftovers
+|-heal|p1a: Garganacl|291/291|[from] item: Leftovers
+|-damage|p2a: Dachsbun|136/254|[from] Salt Cure
+|upkeep
+|turn|20
+|
+|t:|1772744219
+|switch|p1a: Glalie|Glalie, L96, M|43/309
+|move|p2a: Dachsbun|Play Rough|p1a: Glalie
+|-damage|p1a: Glalie|0 fnt
+|faint|p1a: Glalie
+|
+|-heal|p2a: Dachsbun|151/254|[from] item: Leftovers
+|-damage|p2a: Dachsbun|120/254|[from] Salt Cure
+|upkeep
+|
+|t:|1772744221
+|switch|p1a: Ursaluna|Ursaluna, L79, M|315/335 brn
+|turn|21
+|
+|t:|1772744233
+|move|p2a: Dachsbun|Yawn||[still]
+|-fail|p2a: Dachsbun
+|move|p1a: Ursaluna|Facade|p2a: Dachsbun
+|-damage|p2a: Dachsbun|0 fnt
+|faint|p2a: Dachsbun
+|
+|-damage|p1a: Ursaluna|295/335 brn|[from] brn
+|upkeep
+|
+|t:|1772744243
+|switch|p2a: Hitmonlee|Hitmonlee, L85, M|224/224
+|-damage|p2a: Hitmonlee|196/224|[from] Spikes
+|turn|22
+|
+|t:|1772744253
+|move|p2a: Hitmonlee|Close Combat|p1a: Ursaluna
+|-supereffective|p1a: Ursaluna
+|-damage|p1a: Ursaluna|0 fnt
+|-unboost|p2a: Hitmonlee|def|1
+|-unboost|p2a: Hitmonlee|spd|1
+|faint|p1a: Ursaluna
+|-enditem|p2a: Hitmonlee|White Herb
+|-clearnegativeboost|p2a: Hitmonlee|[silent]
+|
+|upkeep
+|
+|t:|1772744256
+|switch|p1a: Entei|Entei, L78|307/307
+|turn|23
+|
+|t:|1772744267
+|move|p2a: Hitmonlee|Swords Dance|p2a: Hitmonlee
+|-boost|p2a: Hitmonlee|atk|2
+|move|p1a: Entei|Flare Blitz|p2a: Hitmonlee
+|-damage|p2a: Hitmonlee|0 fnt
+|faint|p2a: Hitmonlee
+|-damage|p1a: Entei|242/307|[from] Recoil
+|
+|win|Neo Cilpcolp
+|raw|Neo Cilpcolp's rating: 1182 &rarr; <strong>1204</strong><br />(+22 for winning)
+|raw|Scracey96's rating: 1134 &rarr; <strong>1112</strong><br />(-22 for losing)

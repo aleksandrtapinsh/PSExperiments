@@ -1,0 +1,255 @@
+|j|☆Daioito
+|j|☆mocaccinooo
+|t:|1772743852
+|gametype|singles
+|player|p1|Daioito|clair|
+|player|p2|mocaccinooo|iris-gen5bw2|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772743852
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Dusknoir|Dusknoir, L89, M|225/225
+|switch|p2a: Slowbro|Slowbro-Galar, L87, F|307/307
+|-item|p2a: Slowbro|Life Orb|[from] ability: Frisk|[of] p1a: Dusknoir
+|turn|1
+|
+|t:|1772743889
+|move|p1a: Dusknoir|Poltergeist|p2a: Slowbro
+|-activate|p2a: Slowbro|move: Poltergeist|Life Orb
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|67/307
+|move|p2a: Slowbro|Shell Side Arm|p1a: Dusknoir|[anim] Shell Side Arm Physical
+|-resisted|p1a: Dusknoir
+|-damage|p1a: Dusknoir|178/225
+|-hint|Physical Shell Side Arm
+|-damage|p2a: Slowbro|37/307|[from] item: Life Orb
+|
+|-heal|p1a: Dusknoir|192/225|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1772743911
+|move|p1a: Dusknoir|Poltergeist|p2a: Slowbro
+|-activate|p2a: Slowbro|move: Poltergeist|Life Orb
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|0 fnt
+|faint|p2a: Slowbro
+|
+|-heal|p1a: Dusknoir|206/225|[from] item: Leftovers
+|upkeep
+|
+|t:|1772743933
+|switch|p2a: Gholdengo|Gholdengo, L77|261/261
+|turn|3
+|
+|t:|1772743950
+|move|p2a: Gholdengo|Shadow Ball|p1a: Dusknoir
+|-supereffective|p1a: Dusknoir
+|-damage|p1a: Dusknoir|78/225
+|move|p1a: Dusknoir|Substitute|p1a: Dusknoir
+|-start|p1a: Dusknoir|Substitute
+|-damage|p1a: Dusknoir|22/225
+|
+|-heal|p1a: Dusknoir|36/225|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1772743959
+|move|p2a: Gholdengo|Shadow Ball|p1a: Dusknoir
+|-supereffective|p1a: Dusknoir
+|-end|p1a: Dusknoir|Substitute
+|move|p1a: Dusknoir|Poltergeist|p2a: Gholdengo
+|-activate|p2a: Gholdengo|move: Poltergeist|Choice Scarf
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|7/261
+|
+|-heal|p1a: Dusknoir|50/225|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1772743969
+|move|p2a: Gholdengo|Shadow Ball|p1a: Dusknoir
+|-supereffective|p1a: Dusknoir
+|-damage|p1a: Dusknoir|0 fnt
+|faint|p1a: Dusknoir
+|
+|upkeep
+|
+|t:|1772743983
+|switch|p1a: Toxicroak|Toxicroak, L84, F|277/277
+|turn|6
+|
+|t:|1772744005
+|move|p2a: Gholdengo|Shadow Ball|p1a: Toxicroak
+|-damage|p1a: Toxicroak|154/277
+|move|p1a: Toxicroak|Earthquake|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|-damage|p1a: Toxicroak|127/277|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772744020
+|switch|p2a: Oinkologne|Oinkologne-F, L92, F|361/361
+|turn|7
+|
+|t:|1772744033
+|move|p1a: Toxicroak|Close Combat|p2a: Oinkologne
+|-supereffective|p2a: Oinkologne
+|-crit|p2a: Oinkologne
+|-damage|p2a: Oinkologne|0 fnt
+|-unboost|p1a: Toxicroak|def|1
+|-unboost|p1a: Toxicroak|spd|1
+|faint|p2a: Oinkologne
+|-damage|p1a: Toxicroak|100/277|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772744038
+|switch|p2a: Skuntank|Skuntank, L84, F|310/310
+|turn|8
+|
+|t:|1772744062
+|move|p1a: Toxicroak|Close Combat|p2a: Skuntank
+|-damage|p2a: Skuntank|98/310
+|-unboost|p1a: Toxicroak|def|1
+|-unboost|p1a: Toxicroak|spd|1
+|-damage|p1a: Toxicroak|73/277|[from] item: Life Orb
+|move|p2a: Skuntank|Knock Off|p1a: Toxicroak
+|-resisted|p1a: Toxicroak
+|-damage|p1a: Toxicroak|0 fnt
+|-enditem|p1a: Toxicroak|Life Orb|[from] move: Knock Off|[of] p2a: Skuntank
+|faint|p1a: Toxicroak
+|-damage|p2a: Skuntank|67/310|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772744077
+|switch|p1a: Kricketune|Kricketune, L99, F|312/312
+|turn|9
+|
+|t:|1772744083
+|move|p2a: Skuntank|Fire Blast|p1a: Kricketune
+|-supereffective|p1a: Kricketune
+|-damage|p1a: Kricketune|96/312
+|-damage|p2a: Skuntank|36/310|[from] item: Life Orb
+|move|p1a: Kricketune|Pounce|p2a: Skuntank
+|-damage|p2a: Skuntank|0 fnt
+|-damage|p1a: Kricketune|18/312|[from] ability: Aftermath|[of] p2a: Skuntank
+|faint|p2a: Skuntank
+|
+|upkeep
+|
+|t:|1772744091
+|switch|p2a: Malamar|Malamar, L82, M, shiny|275/275
+|turn|10
+|
+|t:|1772744118
+|move|p1a: Kricketune|Pounce|p2a: Malamar
+|-supereffective|p2a: Malamar
+|-damage|p2a: Malamar|0 fnt
+|faint|p2a: Malamar
+|
+|upkeep
+|
+|t:|1772744120
+|switch|p2a: Chansey|Chansey, L85, F|564/564
+|turn|11
+|
+|t:|1772744135
+|-terastallize|p2a: Chansey|Ghost
+|move|p1a: Kricketune|Taunt|p2a: Chansey
+|-start|p2a: Chansey|move: Taunt
+|move|p2a: Chansey|Seismic Toss|p1a: Kricketune
+|-damage|p1a: Kricketune|0 fnt
+|faint|p1a: Kricketune
+|
+|upkeep
+|
+|t:|1772744143
+|switch|p1a: Umbreon|Umbreon, L84, M|297/297
+|turn|12
+|
+|t:|1772744158
+|move|p1a: Umbreon|Foul Play|p2a: Chansey
+|-supereffective|p2a: Chansey
+|-damage|p2a: Chansey|532/564
+|move|p2a: Chansey|Seismic Toss|p1a: Umbreon
+|-damage|p1a: Umbreon|212/297
+|
+|-heal|p1a: Umbreon|230/297|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1772744172
+|move|p1a: Umbreon|Toxic|p2a: Chansey
+|-status|p2a: Chansey|tox
+|move|p2a: Chansey|Seismic Toss|p1a: Umbreon
+|-damage|p1a: Umbreon|145/297
+|
+|-heal|p1a: Umbreon|163/297|[from] item: Leftovers
+|-damage|p2a: Chansey|497/564 tox|[from] psn
+|-end|p2a: Chansey|move: Taunt
+|upkeep
+|turn|14
+|
+|t:|1772744194
+|move|p1a: Umbreon|Wish|p1a: Umbreon
+|move|p2a: Chansey|Thunder Wave||[still]
+|-status|p1a: Umbreon|par
+|-activate|p1a: Umbreon|ability: Synchronize
+|-fail|p1a: Umbreon
+|
+|-heal|p1a: Umbreon|181/297 par|[from] item: Leftovers
+|-damage|p2a: Chansey|427/564 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1772744203
+|move|p1a: Umbreon|Protect|p1a: Umbreon
+|-singleturn|p1a: Umbreon|Protect
+|move|p2a: Chansey|Stealth Rock|p1a: Umbreon
+|-sidestart|p1: Daioito|move: Stealth Rock
+|
+|-heal|p1a: Umbreon|297/297 par|[from] move: Wish|[wisher] Umbreon
+|-damage|p2a: Chansey|322/564 tox|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1772744214
+|move|p2a: Chansey|Stealth Rock||[still]
+|-fail|p2a: Chansey
+|move|p1a: Umbreon|Wish|p1a: Umbreon
+|
+|-damage|p2a: Chansey|182/564 tox|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1772744226
+|switch|p1a: Flapple|Flapple, L88, F|266/266
+|-damage|p1a: Flapple|233/266|[from] Stealth Rock
+|move|p2a: Chansey|Soft-Boiled|p2a: Chansey
+|-heal|p2a: Chansey|464/564 tox
+|
+|-heal|p1a: Flapple|266/266|[from] move: Wish|[wisher] Umbreon
+|-damage|p2a: Chansey|289/564 tox|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1772744238
+|move|p1a: Flapple|Sucker Punch|p2a: Chansey
+|-supereffective|p2a: Chansey
+|-damage|p2a: Chansey|0 fnt
+|faint|p2a: Chansey
+|
+|win|Daioito
+|l|☆Daioito
+|player|p1|

@@ -1,0 +1,76 @@
+|j|☆lionboy7167111111
+|j|☆Hevijak
+|t:|1772747196
+|gametype|singles
+|player|p1|lionboy7167111111|youngn|
+|player|p2|Hevijak|emma-lza|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772747196
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Toxicroak|Toxicroak, L84, F|277/277
+|switch|p2a: Magnezone|Magnezone, L85|258/258
+|turn|1
+|
+|t:|1772747226
+|switch|p2a: Deoxys|Deoxys, L74|196/196
+|-ability|p2a: Deoxys|Pressure
+|move|p1a: Toxicroak|Close Combat|p2a: Deoxys
+|-resisted|p2a: Deoxys
+|-damage|p2a: Deoxys|45/196
+|-unboost|p1a: Toxicroak|def|1
+|-unboost|p1a: Toxicroak|spd|1
+|-damage|p1a: Toxicroak|250/277|[from] item: Life Orb
+|
+|upkeep
+|turn|2
+|
+|t:|1772747250
+|switch|p1a: Grafaiai|Grafaiai, L86, F|249/249
+|move|p2a: Deoxys|Psycho Boost|p1a: Grafaiai|[miss]
+|-miss|p2a: Deoxys|p1a: Grafaiai
+|
+|upkeep
+|turn|3
+|
+|t:|1772747263
+|switch|p2a: Wigglytuff|Wigglytuff, L96, F|424/424
+|move|p1a: Grafaiai|Swords Dance|p1a: Grafaiai
+|-boost|p1a: Grafaiai|atk|2
+|
+|upkeep
+|turn|4
+|
+|t:|1772747267
+|move|p1a: Grafaiai|Gunk Shot|p2a: Wigglytuff
+|-supereffective|p2a: Wigglytuff
+|-damage|p2a: Wigglytuff|0 fnt
+|faint|p2a: Wigglytuff
+|-damage|p1a: Grafaiai|225/249|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772747277
+|switch|p2a: Magnezone|Magnezone, L85|258/258
+|turn|5
+|
+|t:|1772747287
+|move|p1a: Grafaiai|Low Kick|p2a: Magnezone
+|-supereffective|p2a: Magnezone
+|-damage|p2a: Magnezone|0 fnt
+|faint|p2a: Magnezone
+|-damage|p1a: Grafaiai|201/249|[from] item: Life Orb
+|
+|upkeep
+|-message|Hevijak forfeited.
+|
+|win|lionboy7167111111
+|l|☆Hevijak
+|player|p2|

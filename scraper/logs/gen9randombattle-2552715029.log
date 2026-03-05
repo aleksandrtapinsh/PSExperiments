@@ -1,0 +1,404 @@
+|j|☆CobblestoneKing
+|j|☆deividxxxxxxx
+|t:|1772746139
+|gametype|singles
+|player|p1|CobblestoneKing|burglar|1239
+|player|p2|deividxxxxxxx|n|1186
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772746139
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Victreebel|Victreebel, L90, F|290/290
+|switch|p2a: Ho-Oh|Ho-Oh, L71|268/268
+|turn|1
+|c|☆deividxxxxxxx|GOD TEAM
+|c|☆deividxxxxxxx|you will lose
+|c|☆CobblestoneKing|:(
+|
+|t:|1772746171
+|switch|p1a: Garganacl|Garganacl, L80, M|291/291
+|move|p2a: Ho-Oh|Earthquake|p1a: Garganacl
+|-supereffective|p1a: Garganacl
+|-damage|p1a: Garganacl|189/291
+|
+|-heal|p1a: Garganacl|207/291|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1772746184
+|switch|p2a: Luvdisc|Luvdisc, M|247/247
+|move|p1a: Garganacl|Salt Cure|p2a: Luvdisc
+|-damage|p2a: Luvdisc|202/247
+|-start|p2a: Luvdisc|Salt Cure
+|
+|-heal|p1a: Garganacl|225/291|[from] item: Leftovers
+|-damage|p2a: Luvdisc|141/247|[from] Salt Cure
+|upkeep
+|turn|3
+|
+|t:|1772746197
+|switch|p1a: Gastrodon|Gastrodon-East, L86, M|331/331
+|move|p2a: Luvdisc|Whirlpool|p1a: Gastrodon
+|-ability|p1a: Gastrodon|Storm Drain|boost
+|-boost|p1a: Gastrodon|spa|1
+|
+|-damage|p2a: Luvdisc|80/247|[from] Salt Cure
+|upkeep
+|turn|4
+|
+|t:|1772746210
+|move|p2a: Luvdisc|Endeavor|p1a: Gastrodon
+|-damage|p1a: Gastrodon|80/331
+|move|p1a: Gastrodon|Earthquake|p2a: Luvdisc
+|-damage|p2a: Luvdisc|0 fnt
+|faint|p2a: Luvdisc
+|
+|-heal|p1a: Gastrodon|100/331|[from] item: Leftovers
+|upkeep
+|
+|t:|1772746228
+|switch|p2a: Persian|Persian-Alola, L86, F|252/252
+|turn|5
+|
+|t:|1772746235
+|move|p2a: Persian|Dark Pulse|p1a: Gastrodon
+|-damage|p1a: Gastrodon|6/331
+|-damage|p2a: Persian|227/252|[from] item: Life Orb
+|move|p1a: Gastrodon|Recover|p1a: Gastrodon
+|-heal|p1a: Gastrodon|172/331
+|
+|-heal|p1a: Gastrodon|192/331|[from] item: Leftovers
+|upkeep
+|turn|6
+|c|☆CobblestoneKing|lol
+|
+|t:|1772746249
+|move|p2a: Persian|Nasty Plot|p2a: Persian
+|-boost|p2a: Persian|spa|2
+|move|p1a: Gastrodon|Recover|p1a: Gastrodon
+|-heal|p1a: Gastrodon|331/331
+|
+|upkeep
+|turn|7
+|
+|t:|1772746256
+|move|p2a: Persian|Dark Pulse|p1a: Gastrodon
+|-damage|p1a: Gastrodon|132/331
+|-damage|p2a: Persian|202/252|[from] item: Life Orb
+|cant|p1a: Gastrodon|flinch
+|
+|-heal|p1a: Gastrodon|152/331|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1772746269
+|move|p2a: Persian|Dark Pulse|p1a: Gastrodon
+|-damage|p1a: Gastrodon|0 fnt
+|faint|p1a: Gastrodon
+|-damage|p2a: Persian|177/252|[from] item: Life Orb
+|
+|upkeep
+|c|☆deividxxxxxxx|esay
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by deividxxxxxxx)
+|
+|t:|1772746296
+|switch|p1a: Ninetales|Ninetales, L85, M|263/263
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|turn|9
+|
+|t:|1772746307
+|move|p2a: Persian|Dark Pulse|p1a: Ninetales
+|-damage|p1a: Ninetales|102/263
+|-damage|p2a: Persian|152/252|[from] item: Life Orb
+|move|p1a: Ninetales|Fire Blast|p2a: Persian
+|-damage|p2a: Persian|0 fnt
+|faint|p2a: Persian
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1772746328
+|switch|p2a: Iron Thorns|Iron Thorns, L83|302/302
+|-enditem|p2a: Iron Thorns|Booster Energy
+|-activate|p2a: Iron Thorns|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Thorns|quarkdriveatk
+|turn|10
+|
+|t:|1772746341
+|move|p1a: Ninetales|Scorching Sands|p2a: Iron Thorns
+|-supereffective|p2a: Iron Thorns
+|-damage|p2a: Iron Thorns|118/302
+|move|p2a: Iron Thorns|Dragon Dance|p2a: Iron Thorns
+|-boost|p2a: Iron Thorns|atk|1
+|-boost|p2a: Iron Thorns|spe|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1772746355
+|move|p2a: Iron Thorns|Stone Edge|p1a: Ninetales
+|-supereffective|p1a: Ninetales
+|-damage|p1a: Ninetales|0 fnt
+|faint|p1a: Ninetales
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1772746368
+|switch|p1a: Victreebel|Victreebel, L90, F|290/290
+|turn|12
+|
+|t:|1772746379
+|move|p1a: Victreebel|Power Whip|p2a: Iron Thorns
+|-supereffective|p2a: Iron Thorns
+|-damage|p2a: Iron Thorns|0 fnt
+|faint|p2a: Iron Thorns
+|-end|p2a: Iron Thorns|Quark Drive|[silent]
+|-damage|p1a: Victreebel|261/290|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1772746390
+|switch|p2a: Ho-Oh|Ho-Oh, L71|268/268
+|turn|13
+|
+|t:|1772746398
+|switch|p1a: Garganacl|Garganacl, L80, M|225/291
+|move|p2a: Ho-Oh|Sacred Fire|p1a: Garganacl
+|-resisted|p1a: Garganacl
+|-damage|p1a: Garganacl|171/291
+|
+|-weather|none
+|-heal|p1a: Garganacl|189/291|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1772746424
+|switch|p2a: Froslass|Froslass, L87, F|263/263
+|move|p1a: Garganacl|Salt Cure|p2a: Froslass
+|-supereffective|p2a: Froslass
+|-damage|p2a: Froslass|161/263
+|-start|p2a: Froslass|Salt Cure
+|-start|p1a: Garganacl|Disable|Salt Cure|[from] ability: Cursed Body|[of] p2a: Froslass
+|
+|-heal|p1a: Garganacl|207/291|[from] item: Leftovers
+|-damage|p2a: Froslass|129/263|[from] Salt Cure
+|upkeep
+|turn|15
+|inactive|deividxxxxxxx has 120 seconds left.
+|
+|t:|1772746442
+|move|p1a: Garganacl|Protect|p1a: Garganacl
+|-singleturn|p1a: Garganacl|Protect
+|move|p2a: Froslass|Destiny Bond|p2a: Froslass
+|-singlemove|p2a: Froslass|Destiny Bond
+|
+|-heal|p1a: Garganacl|225/291|[from] item: Leftovers
+|-damage|p2a: Froslass|97/263|[from] Salt Cure
+|upkeep
+|turn|16
+|
+|t:|1772746455
+|switch|p1a: Victreebel|Victreebel, L90, F|261/290
+|move|p2a: Froslass|Will-O-Wisp|p1a: Victreebel
+|-status|p1a: Victreebel|brn
+|
+|-damage|p1a: Victreebel|243/290 brn|[from] brn
+|-damage|p2a: Froslass|65/263|[from] Salt Cure
+|upkeep
+|turn|17
+|
+|t:|1772746466
+|move|p2a: Froslass|Triple Axel|p1a: Victreebel
+|-supereffective|p1a: Victreebel
+|-damage|p1a: Victreebel|199/290 brn
+|-supereffective|p1a: Victreebel
+|-crit|p1a: Victreebel
+|-damage|p1a: Victreebel|61/290 brn
+|-supereffective|p1a: Victreebel
+|-damage|p1a: Victreebel|0 fnt
+|faint|p1a: Victreebel
+|-hitcount|p1: Victreebel|3
+|
+|-damage|p2a: Froslass|33/263|[from] Salt Cure
+|upkeep
+|
+|t:|1772746475
+|switch|p1a: Garganacl|Garganacl, L80, M|225/291
+|turn|18
+|c|☆deividxxxxxxx|CRITICAL
+|
+|t:|1772746483
+|move|p1a: Garganacl|Protect|p1a: Garganacl
+|-singleturn|p1a: Garganacl|Protect
+|move|p2a: Froslass|Destiny Bond|p2a: Froslass
+|-singlemove|p2a: Froslass|Destiny Bond
+|
+|-heal|p1a: Garganacl|243/291|[from] item: Leftovers
+|-damage|p2a: Froslass|1/263|[from] Salt Cure
+|upkeep
+|turn|19
+|
+|t:|1772746501
+|move|p1a: Garganacl|Protect|p1a: Garganacl
+|-singleturn|p1a: Garganacl|Protect
+|move|p2a: Froslass|Will-O-Wisp|p1a: Garganacl
+|-activate|p1a: Garganacl|move: Protect
+|
+|-heal|p1a: Garganacl|261/291|[from] item: Leftovers
+|-damage|p2a: Froslass|0 fnt|[from] Salt Cure
+|faint|p2a: Froslass
+|upkeep
+|c|☆CobblestoneKing|doble protect
+|c|☆deividxxxxxxx|2 PROTEC?
+|c|☆CobblestoneKing|nice
+|c|☆deividxxxxxxx|OMG
+|
+|t:|1772746524
+|switch|p2a: Articuno|Articuno-Galar, L84|288/288
+|turn|20
+|
+|t:|1772746540
+|-terastallize|p2a: Articuno|Steel
+|move|p2a: Articuno|Freezing Glare|p1a: Garganacl
+|-damage|p1a: Garganacl|150/291
+|move|p1a: Garganacl|Salt Cure|p2a: Articuno
+|-resisted|p2a: Articuno
+|-damage|p2a: Articuno|269/288
+|-start|p2a: Articuno|Salt Cure
+|
+|-heal|p1a: Garganacl|168/291|[from] item: Leftovers
+|-damage|p2a: Articuno|197/288|[from] Salt Cure
+|upkeep
+|turn|21
+|
+|t:|1772746554
+|move|p2a: Articuno|Calm Mind|p2a: Articuno
+|-boost|p2a: Articuno|spa|1
+|-boost|p2a: Articuno|spd|1
+|move|p1a: Garganacl|Recover|p1a: Garganacl
+|-heal|p1a: Garganacl|291/291
+|
+|-damage|p2a: Articuno|125/288|[from] Salt Cure
+|upkeep
+|turn|22
+|
+|t:|1772746561
+|move|p2a: Articuno|Recover|p2a: Articuno
+|-heal|p2a: Articuno|269/288
+|move|p1a: Garganacl|Earthquake|p2a: Articuno
+|-supereffective|p2a: Articuno
+|-damage|p2a: Articuno|139/288
+|
+|-damage|p2a: Articuno|67/288|[from] Salt Cure
+|upkeep
+|turn|23
+|
+|t:|1772746577
+|move|p2a: Articuno|Freezing Glare|p1a: Garganacl
+|-damage|p1a: Garganacl|96/291
+|move|p1a: Garganacl|Earthquake|p2a: Articuno
+|-supereffective|p2a: Articuno
+|-damage|p2a: Articuno|0 fnt
+|faint|p2a: Articuno
+|
+|-heal|p1a: Garganacl|114/291|[from] item: Leftovers
+|upkeep
+|
+|t:|1772746583
+|switch|p2a: Ho-Oh|Ho-Oh, L71|268/268
+|turn|24
+|
+|t:|1772746589
+|move|p2a: Ho-Oh|Earthquake|p1a: Garganacl
+|-supereffective|p1a: Garganacl
+|-damage|p1a: Garganacl|14/291
+|move|p1a: Garganacl|Salt Cure|p2a: Ho-Oh
+|-supereffective|p2a: Ho-Oh
+|-damage|p2a: Ho-Oh|84/268
+|-start|p2a: Ho-Oh|Salt Cure
+|
+|-heal|p1a: Garganacl|32/291|[from] item: Leftovers
+|-damage|p2a: Ho-Oh|51/268|[from] Salt Cure
+|upkeep
+|turn|25
+|
+|t:|1772746599
+|move|p1a: Garganacl|Protect|p1a: Garganacl
+|-singleturn|p1a: Garganacl|Protect
+|move|p2a: Ho-Oh|Recover|p2a: Ho-Oh
+|-heal|p2a: Ho-Oh|185/268
+|
+|-heal|p1a: Garganacl|50/291|[from] item: Leftovers
+|-damage|p2a: Ho-Oh|152/268|[from] Salt Cure
+|upkeep
+|turn|26
+|
+|t:|1772746610
+|move|p2a: Ho-Oh|Earthquake|p1a: Garganacl
+|-supereffective|p1a: Garganacl
+|-damage|p1a: Garganacl|0 fnt
+|faint|p1a: Garganacl
+|
+|-damage|p2a: Ho-Oh|119/268|[from] Salt Cure
+|upkeep
+|
+|t:|1772746619
+|switch|p1a: Landorus|Landorus-Therian, L76, M|260/260
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Ho-Oh|atk|1
+|turn|27
+|c|☆deividxxxxxxx|FUCKING GARGA
+|c|☆deividxxxxxxx|LANDORUS?
+|c|☆CobblestoneKing|KILL
+|c|☆deividxxxxxxx|GG
+|c|☆CobblestoneKing|gg
+|
+|t:|1772746647
+|move|p1a: Landorus|Stone Edge|p2a: Ho-Oh|[miss]
+|-miss|p1a: Landorus|p2a: Ho-Oh
+|move|p2a: Ho-Oh|Brave Bird|p1a: Landorus
+|-damage|p1a: Landorus|179/260
+|-damage|p2a: Ho-Oh|92/268|[from] Recoil
+|
+|-heal|p1a: Landorus|195/260|[from] item: Leftovers
+|-damage|p2a: Ho-Oh|59/268|[from] Salt Cure
+|upkeep
+|turn|28
+|c|☆CobblestoneKing|AAAAAAHHHHHHH!
+|
+|t:|1772746657
+|move|p1a: Landorus|Stone Edge|p2a: Ho-Oh|[miss]
+|-miss|p1a: Landorus|p2a: Ho-Oh
+|move|p2a: Ho-Oh|Recover|p2a: Ho-Oh
+|-heal|p2a: Ho-Oh|193/268
+|
+|-heal|p1a: Landorus|211/260|[from] item: Leftovers
+|-damage|p2a: Ho-Oh|160/268|[from] Salt Cure
+|upkeep
+|turn|29
+|c|☆deividxxxxxxx|JAJJSSJJ
+|
+|t:|1772746667
+|move|p1a: Landorus|Stone Edge|p2a: Ho-Oh
+|-supereffective|p2a: Ho-Oh
+|-damage|p2a: Ho-Oh|0 fnt
+|faint|p2a: Ho-Oh
+|
+|win|CobblestoneKing
+|raw|CobblestoneKing's rating: 1239 &rarr; <strong>1260</strong><br />(+21 for winning)
+|raw|deividxxxxxxx's rating: 1186 &rarr; <strong>1165</strong><br />(-21 for losing)
+|c|☆deividxxxxxxx|GG
+|l|☆deividxxxxxxx
+|player|p2|
+|c|☆CobblestoneKing|GG

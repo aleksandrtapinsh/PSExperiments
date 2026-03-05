@@ -1,0 +1,364 @@
+|j|☆offwithurhead
+|j|☆idkverygoodnamefr
+|t:|1772752404
+|gametype|singles
+|player|p1|offwithurhead|266|1170
+|player|p2|idkverygoodnamefr|1|1193
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772752404
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Duraludon|Duraludon, L82, F|249/249
+|switch|p2a: Pelipper|Pelipper, L86, M|243/243
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by offwithurhead)
+|
+|t:|1772752423
+|switch|p2a: Cloyster|Cloyster, L80, M|211/211
+|move|p1a: Duraludon|Thunder Wave|p2a: Cloyster
+|-status|p2a: Cloyster|par
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1772752430
+|move|p1a: Duraludon|Flash Cannon|p2a: Cloyster
+|-damage|p2a: Cloyster|61/211 par
+|cant|p2a: Cloyster|par
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1772752435
+|move|p1a: Duraludon|Flash Cannon|p2a: Cloyster
+|-damage|p2a: Cloyster|0 fnt
+|faint|p2a: Cloyster
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1772752448
+|switch|p2a: Cobalion|Cobalion, L80|277/277
+|turn|4
+|
+|t:|1772752460
+|move|p2a: Cobalion|Iron Defense|p2a: Cobalion
+|-boost|p2a: Cobalion|def|2
+|move|p1a: Duraludon|Thunder Wave|p2a: Cobalion
+|-status|p2a: Cobalion|par
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1772752479
+|switch|p1a: Trevenant|Trevenant, L89, F|296/296
+|move|p2a: Cobalion|Body Press|p1a: Trevenant
+|-immune|p1a: Trevenant
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1772752495
+|switch|p1a: Girafarig|Girafarig, L89, M|269/269
+|-terastallize|p2a: Cobalion|Ghost
+|move|p2a: Cobalion|Iron Head|p1a: Girafarig
+|-damage|p1a: Girafarig|214/269
+|
+|upkeep
+|turn|7
+|
+|t:|1772752512
+|switch|p1a: Trevenant|Trevenant, L89, F|296/296
+|switch|p2a: Porygon-Z|Porygon-Z, L83|277/277
+|
+|upkeep
+|turn|8
+|
+|t:|1772752520
+|move|p2a: Porygon-Z|Nasty Plot|p2a: Porygon-Z
+|-boost|p2a: Porygon-Z|spa|2
+|move|p1a: Trevenant|Toxic|p2a: Porygon-Z
+|-status|p2a: Porygon-Z|tox
+|
+|-damage|p2a: Porygon-Z|260/277 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1772752529
+|move|p1a: Trevenant|Protect|p1a: Trevenant
+|-singleturn|p1a: Trevenant|Protect
+|move|p2a: Porygon-Z|Shadow Ball|p1a: Trevenant
+|-activate|p1a: Trevenant|move: Protect
+|
+|-damage|p2a: Porygon-Z|226/277 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1772752537
+|switch|p1a: Girafarig|Girafarig, L89, M|214/269
+|move|p2a: Porygon-Z|Shadow Ball|p1a: Girafarig
+|-immune|p1a: Girafarig
+|
+|-damage|p2a: Porygon-Z|175/277 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1772752545
+|move|p1a: Girafarig|Hyper Voice|p2a: Porygon-Z
+|-damage|p2a: Porygon-Z|63/277 tox
+|move|p2a: Porygon-Z|Shadow Ball|p1a: Girafarig
+|-immune|p1a: Girafarig
+|
+|-damage|p2a: Porygon-Z|0 fnt|[from] psn
+|faint|p2a: Porygon-Z
+|upkeep
+|c|☆idkverygoodnamefr|ez
+|
+|t:|1772752559
+|switch|p2a: Rotom|Rotom-Mow, L87|229/229
+|turn|12
+|
+|t:|1772752565
+|move|p2a: Rotom|Thunderbolt|p1a: Girafarig
+|-damage|p1a: Girafarig|129/269
+|move|p1a: Girafarig|Nasty Plot|p1a: Girafarig
+|-boost|p1a: Girafarig|spa|2
+|
+|upkeep
+|turn|13
+|
+|t:|1772752571
+|move|p2a: Rotom|Thunderbolt|p1a: Girafarig
+|-damage|p1a: Girafarig|39/269
+|move|p1a: Girafarig|Hyper Voice|p2a: Rotom
+|-damage|p2a: Rotom|64/229
+|
+|upkeep
+|turn|14
+|
+|t:|1772752578
+|move|p2a: Rotom|Thunderbolt|p1a: Girafarig
+|-damage|p1a: Girafarig|0 fnt
+|faint|p1a: Girafarig
+|
+|upkeep
+|
+|t:|1772752595
+|switch|p1a: Krookodile|Krookodile, L80, F|283/283
+|-ability|p1a: Krookodile|Intimidate|boost
+|-unboost|p2a: Rotom|atk|1
+|turn|15
+|
+|t:|1772752605
+|switch|p2a: Pelipper|Pelipper, L86, M|243/243
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Krookodile|Gunk Shot|p2a: Pelipper
+|-damage|p2a: Pelipper|165/243
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1772752616
+|switch|p1a: Trevenant|Trevenant, L89, F|296/296
+|move|p2a: Pelipper|Weather Ball|p1a: Trevenant
+|-resisted|p1a: Trevenant
+|-damage|p1a: Trevenant|176/296
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|17
+|
+|t:|1772752629
+|move|p2a: Pelipper|Weather Ball|p1a: Trevenant
+|-resisted|p1a: Trevenant
+|-damage|p1a: Trevenant|56/296
+|-enditem|p1a: Trevenant|Sitrus Berry|[eat]
+|-heal|p1a: Trevenant|130/296|[from] item: Sitrus Berry
+|move|p1a: Trevenant|Poltergeist|p2a: Pelipper
+|-activate|p2a: Pelipper|move: Poltergeist|Choice Specs
+|-damage|p2a: Pelipper|44/243
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1772752638
+|move|p1a: Trevenant|Protect|p1a: Trevenant
+|-singleturn|p1a: Trevenant|Protect
+|move|p2a: Pelipper|Weather Ball|p1a: Trevenant
+|-activate|p1a: Trevenant|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1772752649
+|move|p2a: Pelipper|Weather Ball|p1a: Trevenant
+|-resisted|p1a: Trevenant
+|-damage|p1a: Trevenant|16/296
+|move|p1a: Trevenant|Poltergeist|p2a: Pelipper
+|-activate|p2a: Pelipper|move: Poltergeist|Choice Specs
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|
+|-weather|none
+|upkeep
+|
+|t:|1772752658
+|switch|p2a: Rotom|Rotom-Mow, L87|64/229
+|turn|20
+|
+|t:|1772752663
+|move|p1a: Trevenant|Protect|p1a: Trevenant
+|-singleturn|p1a: Trevenant|Protect
+|move|p2a: Rotom|Leaf Storm|p1a: Trevenant
+|-activate|p1a: Trevenant|move: Protect
+|
+|-item|p1a: Trevenant|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|-enditem|p1a: Trevenant|Sitrus Berry|[eat]
+|-heal|p1a: Trevenant|90/296|[from] item: Sitrus Berry
+|turn|21
+|
+|t:|1772752675
+|switch|p2a: Heracross|Heracross, L80, M|259/259
+|move|p1a: Trevenant|Drain Punch|p2a: Heracross
+|-resisted|p2a: Heracross
+|-damage|p2a: Heracross|219/259
+|-heal|p1a: Trevenant|110/296|[from] drain|[of] p2a: Heracross
+|
+|-status|p2a: Heracross|brn|[from] item: Flame Orb
+|-item|p1a: Trevenant|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|-enditem|p1a: Trevenant|Sitrus Berry|[eat]
+|-heal|p1a: Trevenant|184/296|[from] item: Sitrus Berry
+|turn|22
+|
+|t:|1772752694
+|switch|p1a: Duraludon|Duraludon, L82, F|249/249
+|move|p2a: Heracross|Knock Off|p1a: Duraludon
+|-damage|p1a: Duraludon|184/249
+|-enditem|p1a: Duraludon|Eviolite|[from] move: Knock Off|[of] p2a: Heracross
+|
+|-damage|p2a: Heracross|203/259 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1772752703
+|move|p1a: Duraludon|Draco Meteor|p2a: Heracross
+|-damage|p2a: Heracross|38/259 brn
+|-unboost|p1a: Duraludon|spa|2
+|move|p2a: Heracross|Facade|p1a: Duraludon
+|-resisted|p1a: Duraludon
+|-damage|p1a: Duraludon|116/249
+|
+|-damage|p2a: Heracross|22/259 brn|[from] brn
+|upkeep
+|turn|24
+|
+|t:|1772752713
+|move|p1a: Duraludon|Body Press|p2a: Heracross
+|-resisted|p2a: Heracross
+|-damage|p2a: Heracross|0 fnt
+|faint|p2a: Heracross
+|
+|upkeep
+|
+|t:|1772752717
+|switch|p2a: Cobalion|Cobalion, L80, tera:Ghost|277/277 par
+|turn|25
+|
+|t:|1772752726
+|switch|p1a: Trevenant|Trevenant, L89, F|184/296
+|move|p2a: Cobalion|Iron Head|p1a: Trevenant
+|-damage|p1a: Trevenant|111/296
+|
+|-item|p1a: Trevenant|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|-enditem|p1a: Trevenant|Sitrus Berry|[eat]
+|-heal|p1a: Trevenant|185/296|[from] item: Sitrus Berry
+|turn|26
+|
+|t:|1772752739
+|move|p1a: Trevenant|Poltergeist|p2a: Cobalion
+|-activate|p2a: Cobalion|move: Poltergeist|Leftovers
+|-supereffective|p2a: Cobalion
+|-damage|p2a: Cobalion|49/277 par
+|move|p2a: Cobalion|Body Press|p1a: Trevenant
+|-immune|p1a: Trevenant
+|
+|-heal|p2a: Cobalion|66/277 par|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1772752750
+|move|p1a: Trevenant|Poltergeist|p2a: Cobalion
+|-activate|p2a: Cobalion|move: Poltergeist|Leftovers
+|-supereffective|p2a: Cobalion
+|-damage|p2a: Cobalion|0 fnt
+|faint|p2a: Cobalion
+|
+|upkeep
+|
+|t:|1772752753
+|switch|p2a: Rotom|Rotom-Mow, L87|64/229
+|turn|28
+|
+|t:|1772752758
+|move|p2a: Rotom|Thunderbolt|p1a: Trevenant
+|-resisted|p1a: Trevenant
+|-damage|p1a: Trevenant|132/296
+|move|p1a: Trevenant|Toxic|p2a: Rotom
+|-status|p2a: Rotom|tox
+|
+|-damage|p2a: Rotom|50/229 tox|[from] psn
+|-item|p1a: Trevenant|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|-enditem|p1a: Trevenant|Sitrus Berry|[eat]
+|-heal|p1a: Trevenant|206/296|[from] item: Sitrus Berry
+|turn|29
+|
+|t:|1772752768
+|move|p1a: Trevenant|Protect|p1a: Trevenant
+|-singleturn|p1a: Trevenant|Protect
+|move|p2a: Rotom|Thunderbolt|p1a: Trevenant
+|-activate|p1a: Trevenant|move: Protect
+|
+|-damage|p2a: Rotom|22/229 tox|[from] psn
+|-item|p1a: Trevenant|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|turn|30
+|c|☆idkverygoodnamefr|SPEED
+|
+|t:|1772752776
+|move|p1a: Trevenant|Protect||[still]
+|-fail|p1a: Trevenant
+|move|p2a: Rotom|Thunderbolt|p1a: Trevenant
+|-resisted|p1a: Trevenant
+|-crit|p1a: Trevenant
+|-damage|p1a: Trevenant|120/296
+|-enditem|p1a: Trevenant|Sitrus Berry|[eat]
+|-heal|p1a: Trevenant|194/296|[from] item: Sitrus Berry
+|
+|-damage|p2a: Rotom|0 fnt|[from] psn
+|faint|p2a: Rotom
+|
+|win|offwithurhead
+|raw|offwithurhead's rating: 1170 &rarr; <strong>1197</strong><br />(+27 for winning)
+|raw|idkverygoodnamefr's rating: 1193 &rarr; <strong>1166</strong><br />(-27 for losing)
+|l|☆idkverygoodnamefr
+|player|p2|

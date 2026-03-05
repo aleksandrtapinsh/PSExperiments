@@ -1,0 +1,432 @@
+|j|☆Ckrostmich
+|j|☆superpenegordo
+|t:|1772745840
+|gametype|singles
+|player|p1|Ckrostmich|101|
+|player|p2|superpenegordo|102|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772745840
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Grafaiai|Grafaiai, L86, M|249/249
+|switch|p2a: Gogoat|Gogoat, L88, F|360/360
+|turn|1
+|
+|t:|1772745882
+|switch|p2a: Miraidon|Miraidon, L65|238/238
+|-fieldstart|move: Electric Terrain|[from] ability: Hadron Engine|[of] p2a: Miraidon
+|-terastallize|p1a: Grafaiai|Dark
+|move|p1a: Grafaiai|Parting Shot|p2a: Miraidon
+|-unboost|p2a: Miraidon|atk|1
+|-unboost|p2a: Miraidon|spa|1
+|
+|t:|1772745911
+|switch|p1a: Volcanion|Volcanion, L79|256/256|[from] Parting Shot
+|
+|upkeep
+|turn|2
+|
+|t:|1772745926
+|move|p2a: Miraidon|Electro Drift|p1a: Volcanion
+|-supereffective|p1a: Volcanion
+|-damage|p1a: Volcanion|0 fnt
+|faint|p1a: Volcanion
+|-damage|p2a: Miraidon|215/238|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772745933
+|switch|p1a: Luvdisc|Luvdisc, F|247/247
+|turn|3
+|
+|t:|1772745941
+|move|p1a: Luvdisc|Substitute|p1a: Luvdisc
+|-start|p1a: Luvdisc|Substitute
+|-damage|p1a: Luvdisc|186/247
+|move|p2a: Miraidon|Dragon Pulse|p1a: Luvdisc
+|-end|p1a: Luvdisc|Substitute
+|-damage|p2a: Miraidon|192/238|[from] item: Life Orb
+|
+|upkeep
+|turn|4
+|
+|t:|1772745968
+|move|p1a: Luvdisc|Endeavor|p2a: Miraidon
+|-damage|p2a: Miraidon|186/238
+|move|p2a: Miraidon|Electro Drift|p1a: Luvdisc
+|-supereffective|p1a: Luvdisc
+|-damage|p1a: Luvdisc|0 fnt
+|faint|p1a: Luvdisc
+|-damage|p2a: Miraidon|163/238|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772745983
+|switch|p1a: Grafaiai|Grafaiai, L86, M, tera:Dark|249/249
+|turn|5
+|
+|t:|1772745990
+|move|p1a: Grafaiai|Encore|p2a: Miraidon
+|-start|p2a: Miraidon|Encore
+|move|p2a: Miraidon|Electro Drift|p1a: Grafaiai
+|-damage|p1a: Grafaiai|109/249
+|-damage|p2a: Miraidon|140/238|[from] item: Life Orb
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|6
+|
+|t:|1772746002
+|move|p1a: Grafaiai|Gunk Shot|p2a: Miraidon
+|-damage|p2a: Miraidon|0 fnt
+|faint|p2a: Miraidon
+|
+|upkeep
+|
+|t:|1772746011
+|switch|p2a: Hatterene|Hatterene, L85, F|236/236
+|turn|7
+|
+|t:|1772746025
+|move|p1a: Grafaiai|Knock Off|p2a: Hatterene
+|-damage|p2a: Hatterene|145/236
+|-enditem|p2a: Hatterene|Leftovers|[from] move: Knock Off|[of] p1a: Grafaiai
+|move|p2a: Hatterene|Mystical Fire|p1a: Grafaiai
+|-damage|p1a: Grafaiai|20/249
+|-unboost|p1a: Grafaiai|spa|1
+|
+|upkeep
+|turn|8
+|
+|t:|1772746035
+|move|p1a: Grafaiai|Gunk Shot|p2a: Hatterene
+|-supereffective|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|
+|upkeep
+|
+|t:|1772746042
+|switch|p2a: Chimecho|Chimecho, L93, M|290/290
+|turn|9
+|
+|t:|1772746054
+|move|p1a: Grafaiai|Knock Off|p2a: Chimecho
+|-supereffective|p2a: Chimecho
+|-damage|p2a: Chimecho|72/290
+|-enditem|p2a: Chimecho|Leftovers|[from] move: Knock Off|[of] p1a: Grafaiai
+|move|p2a: Chimecho|Thunder Wave|p1a: Grafaiai
+|-status|p1a: Grafaiai|par
+|
+|upkeep
+|turn|10
+|
+|t:|1772746073
+|move|p2a: Chimecho|Psychic Noise|p1a: Grafaiai
+|-immune|p1a: Grafaiai
+|move|p1a: Grafaiai|Knock Off|p2a: Chimecho
+|-supereffective|p2a: Chimecho
+|-damage|p2a: Chimecho|0 fnt
+|faint|p2a: Chimecho
+|
+|upkeep
+|
+|t:|1772746084
+|switch|p2a: Sudowoodo|Sudowoodo, L94, F|284/284
+|turn|11
+|l|☆Ckrostmich
+|player|p1|
+|j|☆Ckrostmich
+|player|p1|Ckrostmich|101|
+|
+|t:|1772746120
+|cant|p1a: Grafaiai|par
+|move|p2a: Sudowoodo|Sucker Punch||[still]
+|-fail|p2a: Sudowoodo
+|
+|upkeep
+|turn|12
+|
+|t:|1772746128
+|move|p1a: Grafaiai|Parting Shot|p2a: Sudowoodo
+|-unboost|p2a: Sudowoodo|atk|1
+|-unboost|p2a: Sudowoodo|spa|1
+|
+|t:|1772746140
+|switch|p1a: Rabsca|Rabsca, L91, F|284/284|[from] Parting Shot
+|move|p2a: Sudowoodo|Sucker Punch||[still]
+|-fail|p2a: Sudowoodo
+|
+|upkeep
+|turn|13
+|
+|t:|1772746173
+|move|p2a: Sudowoodo|Sucker Punch||[still]
+|-fail|p2a: Sudowoodo
+|move|p1a: Rabsca|Revival Blessing|p1a: Rabsca
+|
+|t:|1772746179
+|-heal|p1: Volcanion|128/256|[from] move: Revival Blessing
+|
+|upkeep
+|turn|14
+|
+|t:|1772746191
+|move|p2a: Sudowoodo|Sucker Punch|p1a: Rabsca
+|-supereffective|p1a: Rabsca
+|-damage|p1a: Rabsca|166/284
+|move|p1a: Rabsca|Bug Buzz|p2a: Sudowoodo
+|-damage|p2a: Sudowoodo|134/284
+|
+|upkeep
+|turn|15
+|
+|t:|1772746201
+|move|p2a: Sudowoodo|Sucker Punch|p1a: Rabsca
+|-supereffective|p1a: Rabsca
+|-damage|p1a: Rabsca|40/284
+|move|p1a: Rabsca|Earth Power|p2a: Sudowoodo
+|-supereffective|p2a: Sudowoodo
+|-damage|p2a: Sudowoodo|0 fnt
+|faint|p2a: Sudowoodo
+|
+|upkeep
+|
+|t:|1772746211
+|switch|p2a: Bellossom|Bellossom, L84, F|263/263
+|turn|16
+|
+|t:|1772746225
+|switch|p2a: Gogoat|Gogoat, L88, F|360/360
+|move|p1a: Rabsca|Bug Buzz|p2a: Gogoat
+|-supereffective|p2a: Gogoat
+|-damage|p2a: Gogoat|108/360
+|
+|-heal|p2a: Gogoat|130/360|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1772746238
+|move|p2a: Gogoat|Earthquake|p1a: Rabsca
+|-resisted|p1a: Rabsca
+|-damage|p1a: Rabsca|4/284
+|move|p1a: Rabsca|Bug Buzz|p2a: Gogoat
+|-supereffective|p2a: Gogoat
+|-damage|p2a: Gogoat|0 fnt
+|faint|p2a: Gogoat
+|
+|upkeep
+|
+|t:|1772746247
+|switch|p2a: Bellossom|Bellossom, L84, F|263/263
+|turn|18
+|
+|t:|1772746253
+|-terastallize|p2a: Bellossom|Fairy
+|move|p1a: Rabsca|Bug Buzz|p2a: Bellossom
+|-resisted|p2a: Bellossom
+|-damage|p2a: Bellossom|200/263
+|move|p2a: Bellossom|Strength Sap|p1a: Rabsca
+|-unboost|p1a: Rabsca|atk|1
+|-heal|p2a: Bellossom|263/263
+|
+|upkeep
+|turn|19
+|
+|t:|1772746265
+|move|p1a: Rabsca|Earth Power|p2a: Bellossom
+|-damage|p2a: Bellossom|179/263
+|move|p2a: Bellossom|Quiver Dance|p2a: Bellossom
+|-boost|p2a: Bellossom|spa|1
+|-boost|p2a: Bellossom|spd|1
+|-boost|p2a: Bellossom|spe|1
+|
+|-heal|p2a: Bellossom|195/263|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1772746278
+|switch|p1a: Volcanion|Volcanion, L79|128/256
+|move|p2a: Bellossom|Moonblast|p1a: Volcanion
+|-resisted|p1a: Volcanion
+|-damage|p1a: Volcanion|50/256
+|-unboost|p1a: Volcanion|spa|1
+|
+|-heal|p2a: Bellossom|211/263|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1772746295
+|move|p2a: Bellossom|Strength Sap|p1a: Volcanion
+|-unboost|p1a: Volcanion|atk|1
+|-heal|p2a: Bellossom|263/263
+|move|p1a: Volcanion|Steam Eruption|p2a: Bellossom
+|-damage|p2a: Bellossom|208/263
+|
+|-heal|p2a: Bellossom|224/263|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1772746305
+|move|p2a: Bellossom|Quiver Dance|p2a: Bellossom
+|-boost|p2a: Bellossom|spa|1
+|-boost|p2a: Bellossom|spd|1
+|-boost|p2a: Bellossom|spe|1
+|move|p1a: Volcanion|Flamethrower|p2a: Bellossom
+|-damage|p2a: Bellossom|191/263
+|
+|-heal|p2a: Bellossom|207/263|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1772746317
+|move|p2a: Bellossom|Strength Sap|p1a: Volcanion
+|-unboost|p1a: Volcanion|atk|1
+|-heal|p2a: Bellossom|263/263
+|move|p1a: Volcanion|Earth Power|p2a: Bellossom
+|-damage|p2a: Bellossom|240/263
+|
+|-heal|p2a: Bellossom|256/263|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1772746328
+|move|p2a: Bellossom|Moonblast|p1a: Volcanion
+|-resisted|p1a: Volcanion
+|-damage|p1a: Volcanion|0 fnt
+|faint|p1a: Volcanion
+|
+|-heal|p2a: Bellossom|263/263|[from] item: Leftovers
+|upkeep
+|
+|t:|1772746343
+|switch|p1a: Darkrai|Darkrai, L77|234/234
+|turn|25
+|
+|t:|1772746361
+|move|p2a: Bellossom|Quiver Dance|p2a: Bellossom
+|-boost|p2a: Bellossom|spa|1
+|-boost|p2a: Bellossom|spd|1
+|-boost|p2a: Bellossom|spe|1
+|move|p1a: Darkrai|Nasty Plot|p1a: Darkrai
+|-boost|p1a: Darkrai|spa|2
+|
+|upkeep
+|turn|26
+|
+|t:|1772746370
+|move|p2a: Bellossom|Quiver Dance|p2a: Bellossom
+|-boost|p2a: Bellossom|spa|1
+|-boost|p2a: Bellossom|spd|1
+|-boost|p2a: Bellossom|spe|1
+|move|p1a: Darkrai|Substitute|p1a: Darkrai
+|-start|p1a: Darkrai|Substitute
+|-damage|p1a: Darkrai|176/234
+|
+|-heal|p1a: Darkrai|190/234|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1772746379
+|move|p2a: Bellossom|Quiver Dance|p2a: Bellossom
+|-boost|p2a: Bellossom|spa|1
+|-boost|p2a: Bellossom|spd|1
+|-boost|p2a: Bellossom|spe|1
+|move|p1a: Darkrai|Nasty Plot|p1a: Darkrai
+|-boost|p1a: Darkrai|spa|2
+|
+|-heal|p1a: Darkrai|204/234|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1772746390
+|move|p2a: Bellossom|Moonblast|p1a: Darkrai
+|-supereffective|p1a: Darkrai
+|-end|p1a: Darkrai|Substitute
+|move|p1a: Darkrai|Nasty Plot|p1a: Darkrai
+|-boost|p1a: Darkrai|spa|2
+|
+|-heal|p1a: Darkrai|218/234|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1772746399
+|move|p2a: Bellossom|Moonblast|p1a: Darkrai
+|-supereffective|p1a: Darkrai
+|-damage|p1a: Darkrai|0 fnt
+|faint|p1a: Darkrai
+|
+|upkeep
+|
+|t:|1772746407
+|switch|p1a: Grafaiai|Grafaiai, L86, M, tera:Dark|20/249 par
+|turn|30
+|
+|t:|1772746412
+|move|p2a: Bellossom|Quiver Dance|p2a: Bellossom
+|-boost|p2a: Bellossom|spa|1
+|-boost|p2a: Bellossom|spd|1
+|-boost|p2a: Bellossom|spe|1
+|move|p1a: Grafaiai|Gunk Shot|p2a: Bellossom
+|-supereffective|p2a: Bellossom
+|-damage|p2a: Bellossom|29/263
+|
+|-heal|p2a: Bellossom|45/263|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1772746423
+|move|p2a: Bellossom|Moonblast|p1a: Grafaiai
+|-supereffective|p1a: Grafaiai
+|-damage|p1a: Grafaiai|0 fnt
+|faint|p1a: Grafaiai
+|
+|-heal|p2a: Bellossom|61/263|[from] item: Leftovers
+|upkeep
+|
+|t:|1772746431
+|switch|p1a: Miraidon|Miraidon, L65|238/238
+|-fieldstart|move: Electric Terrain|[from] ability: Hadron Engine|[of] p1a: Miraidon
+|turn|32
+|
+|t:|1772746443
+|move|p2a: Bellossom|Strength Sap|p1a: Miraidon
+|-unboost|p1a: Miraidon|atk|1
+|-heal|p2a: Bellossom|176/263
+|move|p1a: Miraidon|Draco Meteor|p2a: Bellossom
+|-immune|p2a: Bellossom
+|
+|-heal|p2a: Bellossom|192/263|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1772746457
+|switch|p1a: Rabsca|Rabsca, L91, F|4/284
+|move|p2a: Bellossom|Moonblast|p1a: Rabsca
+|-damage|p1a: Rabsca|0 fnt
+|faint|p1a: Rabsca
+|
+|-heal|p2a: Bellossom|208/263|[from] item: Leftovers
+|upkeep
+|
+|t:|1772746467
+|switch|p1a: Miraidon|Miraidon, L65|238/238
+|-activate|p1a: Miraidon|ability: Hadron Engine
+|turn|34
+|
+|t:|1772746474
+|move|p2a: Bellossom|Moonblast|p1a: Miraidon
+|-supereffective|p1a: Miraidon
+|-damage|p1a: Miraidon|0 fnt
+|faint|p1a: Miraidon
+|
+|win|superpenegordo
+|l|☆Ckrostmich
+|player|p1|

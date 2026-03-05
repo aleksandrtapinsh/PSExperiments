@@ -1,0 +1,360 @@
+|j|☆zulelabuleta
+|j|☆molfus
+|t:|1772751739
+|gametype|singles
+|player|p1|zulelabuleta|striker|1788
+|player|p2|molfus|schoolkid-gen4|1761
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772751739
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Arboliva|Arboliva, L91, M|288/288
+|switch|p2a: Duraludon|Duraludon, L82, F|249/249
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by molfus)
+|inactive|zulelabuleta also wants the timer to be on.
+|
+|t:|1772751750
+|move|p2a: Duraludon|Stealth Rock|p1a: Arboliva
+|-sidestart|p1: zulelabuleta|move: Stealth Rock
+|move|p1a: Arboliva|Substitute|p1a: Arboliva
+|-start|p1a: Arboliva|Substitute
+|-damage|p1a: Arboliva|216/288
+|
+|upkeep
+|turn|2
+|
+|t:|1772751754
+|move|p2a: Duraludon|Body Press|p1a: Arboliva
+|-supereffective|p1a: Arboliva
+|-end|p1a: Arboliva|Substitute
+|move|p1a: Arboliva|Leech Seed|p2a: Duraludon
+|-start|p2a: Duraludon|move: Leech Seed
+|
+|-damage|p2a: Duraludon|218/249|[from] Leech Seed|[of] p1a: Arboliva
+|-heal|p1a: Arboliva|247/288|[silent]
+|upkeep
+|turn|3
+|
+|t:|1772751765
+|switch|p2a: Pincurchin|Pincurchin, F|258/258
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Pincurchin
+|move|p1a: Arboliva|Substitute|p1a: Arboliva
+|-start|p1a: Arboliva|Substitute
+|-damage|p1a: Arboliva|175/288
+|
+|upkeep
+|turn|4
+|
+|t:|1772751780
+|move|p1a: Arboliva|Leech Seed|p2a: Pincurchin|[miss]
+|-miss|p1a: Arboliva|p2a: Pincurchin
+|move|p2a: Pincurchin|Toxic Spikes|p1a: Arboliva
+|-sidestart|p1: zulelabuleta|move: Toxic Spikes
+|
+|upkeep
+|turn|5
+|
+|t:|1772751789
+|switch|p2a: Goodra|Goodra, L85, M|292/292
+|move|p1a: Arboliva|Leech Seed|p2a: Goodra
+|-ability|p2a: Goodra|Sap Sipper|boost
+|-boost|p2a: Goodra|atk|1
+|
+|upkeep
+|turn|6
+|
+|t:|1772751804
+|move|p2a: Goodra|Fire Blast|p1a: Arboliva
+|-supereffective|p1a: Arboliva
+|-end|p1a: Arboliva|Substitute
+|move|p1a: Arboliva|Hyper Voice|p2a: Goodra
+|-damage|p2a: Goodra|237/292
+|
+|upkeep
+|turn|7
+|
+|t:|1772751826
+|move|p1a: Arboliva|Protect|p1a: Arboliva
+|-singleturn|p1a: Arboliva|Protect
+|move|p2a: Goodra|Fire Blast|p1a: Arboliva
+|-activate|p1a: Arboliva|move: Protect
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|8
+|
+|t:|1772751852
+|switch|p1a: Regice|Regice, L88|284/284
+|move|p2a: Goodra|Fire Blast|p1a: Regice
+|-supereffective|p1a: Regice
+|-damage|p1a: Regice|192/284
+|
+|upkeep
+|turn|9
+|
+|t:|1772751881
+|switch|p2a: Duraludon|Duraludon, L82, F|218/249
+|move|p1a: Regice|Ice Beam|p2a: Duraludon
+|-damage|p2a: Duraludon|112/249
+|-status|p2a: Duraludon|frz
+|
+|upkeep
+|turn|10
+|
+|t:|1772751892
+|-curestatus|p2a: Duraludon|frz|[msg]
+|move|p2a: Duraludon|Body Press|p1a: Regice
+|-supereffective|p1a: Regice
+|-damage|p1a: Regice|94/284
+|move|p1a: Regice|Ice Beam|p2a: Duraludon
+|-damage|p2a: Duraludon|12/249
+|
+|upkeep
+|turn|11
+|
+|t:|1772751899
+|switch|p1a: Leavanny|Leavanny, L86, M|269/269
+|move|p2a: Duraludon|Body Press|p1a: Leavanny
+|-resisted|p1a: Leavanny
+|-damage|p1a: Leavanny|239/269
+|
+|upkeep
+|turn|12
+|
+|t:|1772751905
+|move|p1a: Leavanny|Knock Off|p2a: Duraludon
+|-damage|p2a: Duraludon|0 fnt
+|-enditem|p2a: Duraludon|Eviolite|[from] move: Knock Off|[of] p1a: Leavanny
+|faint|p2a: Duraludon
+|
+|upkeep
+|
+|t:|1772751908
+|switch|p2a: Chi-Yu|Chi-Yu, L77|211/211
+|-ability|p2a: Chi-Yu|Beads of Ruin
+|turn|13
+|
+|t:|1772751921
+|switch|p1a: Regice|Regice, L88|94/284
+|move|p2a: Chi-Yu|Flamethrower|p1a: Regice
+|-supereffective|p1a: Regice
+|-damage|p1a: Regice|0 fnt
+|faint|p1a: Regice
+|
+|upkeep
+|
+|t:|1772751938
+|switch|p1a: Stonjourner|Stonjourner, L91, F|330/330
+|-damage|p1a: Stonjourner|289/330|[from] Stealth Rock
+|-status|p1a: Stonjourner|psn
+|turn|14
+|
+|t:|1772751954
+|switch|p2a: Pincurchin|Pincurchin, F|258/258
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Pincurchin
+|move|p1a: Stonjourner|Stone Edge|p2a: Pincurchin
+|-crit|p2a: Pincurchin
+|-damage|p2a: Pincurchin|42/258
+|-damage|p1a: Stonjourner|256/330 psn|[from] item: Life Orb
+|
+|-heal|p2a: Pincurchin|58/258|[from] item: Leftovers
+|-damage|p1a: Stonjourner|215/330 psn|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1772751978
+|move|p1a: Stonjourner|Earthquake|p2a: Pincurchin
+|-supereffective|p2a: Pincurchin
+|-damage|p2a: Pincurchin|0 fnt
+|faint|p2a: Pincurchin
+|-damage|p1a: Stonjourner|182/330 psn|[from] item: Life Orb
+|
+|-damage|p1a: Stonjourner|141/330 psn|[from] psn
+|upkeep
+|
+|t:|1772751981
+|switch|p2a: Greninja|Greninja, L80, M|246/246
+|turn|16
+|
+|t:|1772751998
+|switch|p1a: Vaporeon|Vaporeon, L86, M|364/364
+|-damage|p1a: Vaporeon|319/364|[from] Stealth Rock
+|-status|p1a: Vaporeon|psn
+|move|p2a: Greninja|Grass Knot|p1a: Vaporeon
+|-start|p2a: Greninja|typechange|Grass|[from] ability: Protean
+|-supereffective|p1a: Vaporeon
+|-damage|p1a: Vaporeon|171/364 psn
+|-damage|p2a: Greninja|222/246|[from] item: Life Orb
+|
+|-heal|p1a: Vaporeon|193/364 psn|[from] item: Leftovers
+|-damage|p1a: Vaporeon|148/364 psn|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1772752007
+|move|p2a: Greninja|Grass Knot|p1a: Vaporeon
+|-supereffective|p1a: Vaporeon
+|-damage|p1a: Vaporeon|5/364 psn
+|-damage|p2a: Greninja|198/246|[from] item: Life Orb
+|move|p1a: Vaporeon|Wish|p1a: Vaporeon
+|
+|-heal|p1a: Vaporeon|27/364 psn|[from] item: Leftovers
+|-damage|p1a: Vaporeon|0 fnt|[from] psn
+|faint|p1a: Vaporeon
+|upkeep
+|
+|t:|1772752012
+|switch|p1a: Leavanny|Leavanny, L86, M|239/269
+|turn|18
+|
+|t:|1772752017
+|switch|p2a: Chi-Yu|Chi-Yu, L77|211/211
+|-ability|p2a: Chi-Yu|Beads of Ruin
+|move|p1a: Leavanny|Lunge|p2a: Chi-Yu
+|-damage|p2a: Chi-Yu|108/211
+|-unboost|p2a: Chi-Yu|atk|1
+|
+|-heal|p1a: Leavanny|269/269|[from] move: Wish|[wisher] Vaporeon
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|19
+|
+|t:|1772752025
+|-terastallize|p1a: Leavanny|Ghost
+|move|p2a: Chi-Yu|Flamethrower|p1a: Leavanny
+|-damage|p1a: Leavanny|118/269
+|move|p1a: Leavanny|Sticky Web|p2a: Chi-Yu
+|-sidestart|p2: molfus|move: Sticky Web
+|
+|upkeep
+|turn|20
+|
+|t:|1772752032
+|switch|p1a: Stonjourner|Stonjourner, L91, F|141/330 psn
+|-damage|p1a: Stonjourner|100/330 psn|[from] Stealth Rock
+|move|p2a: Chi-Yu|Flamethrower|p1a: Stonjourner
+|-resisted|p1a: Stonjourner
+|-damage|p1a: Stonjourner|0 fnt
+|faint|p1a: Stonjourner
+|
+|upkeep
+|
+|t:|1772752038
+|switch|p1a: Mudsdale|Mudsdale, L83, M|302/302
+|-damage|p1a: Mudsdale|284/302|[from] Stealth Rock
+|-status|p1a: Mudsdale|psn
+|turn|21
+|
+|t:|1772752050
+|switch|p2a: Vivillon|Vivillon-Sandstorm, L83, F|268/268
+|move|p1a: Mudsdale|Earthquake|p2a: Vivillon
+|-immune|p2a: Vivillon
+|
+|-heal|p1a: Mudsdale|302/302 psn|[from] item: Leftovers
+|-damage|p1a: Mudsdale|265/302 psn|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1772752078
+|move|p2a: Vivillon|Hurricane|p1a: Mudsdale
+|-damage|p1a: Mudsdale|148/302 psn
+|-start|p1a: Mudsdale|confusion
+|-ability|p1a: Mudsdale|Stamina|boost
+|-boost|p1a: Mudsdale|def|1
+|-activate|p1a: Mudsdale|confusion
+|move|p1a: Mudsdale|Stone Edge|p2a: Vivillon
+|-supereffective|p2a: Vivillon
+|-damage|p2a: Vivillon|0 fnt
+|faint|p2a: Vivillon
+|
+|-heal|p1a: Mudsdale|166/302 psn|[from] item: Leftovers
+|-damage|p1a: Mudsdale|129/302 psn|[from] psn
+|upkeep
+|
+|t:|1772752087
+|switch|p2a: Greninja|Greninja, L80, M|198/246
+|-activate|p2a: Greninja|move: Sticky Web
+|-unboost|p2a: Greninja|spe|1
+|turn|23
+|
+|t:|1772752101
+|switch|p1a: Arboliva|Arboliva, L91, M|175/288
+|-damage|p1a: Arboliva|139/288|[from] Stealth Rock
+|-status|p1a: Arboliva|psn
+|-enditem|p1a: Arboliva|Sitrus Berry|[eat]
+|-heal|p1a: Arboliva|211/288 psn|[from] item: Sitrus Berry
+|move|p2a: Greninja|Gunk Shot|p1a: Arboliva
+|-start|p2a: Greninja|typechange|Poison|[from] ability: Protean
+|-supereffective|p1a: Arboliva
+|-damage|p1a: Arboliva|0 fnt
+|faint|p1a: Arboliva
+|-damage|p2a: Greninja|174/246|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772752111
+|switch|p1a: Leavanny|Leavanny, L86, M, tera:Ghost|118/269
+|turn|24
+|
+|t:|1772752119
+|switch|p2a: Chi-Yu|Chi-Yu, L77|108/211
+|-activate|p2a: Chi-Yu|move: Sticky Web
+|-unboost|p2a: Chi-Yu|spe|1
+|-ability|p2a: Chi-Yu|Beads of Ruin
+|move|p1a: Leavanny|Knock Off|p2a: Chi-Yu
+|-resisted|p2a: Chi-Yu
+|-crit|p2a: Chi-Yu
+|-damage|p2a: Chi-Yu|47/211
+|-enditem|p2a: Chi-Yu|Choice Scarf|[from] move: Knock Off|[of] p1a: Leavanny
+|
+|upkeep
+|turn|25
+|
+|t:|1772752138
+|move|p1a: Leavanny|Lunge|p2a: Chi-Yu
+|-damage|p2a: Chi-Yu|0 fnt
+|faint|p2a: Chi-Yu
+|
+|upkeep
+|
+|t:|1772752141
+|switch|p2a: Goodra|Goodra, L85, M|237/292
+|-activate|p2a: Goodra|move: Sticky Web
+|-unboost|p2a: Goodra|spe|1
+|turn|26
+|
+|t:|1772752149
+|move|p1a: Leavanny|Knock Off|p2a: Goodra
+|-damage|p2a: Goodra|150/292
+|-enditem|p2a: Goodra|Assault Vest|[from] move: Knock Off|[of] p1a: Leavanny
+|move|p2a: Goodra|Draco Meteor|p1a: Leavanny
+|-damage|p1a: Leavanny|0 fnt
+|-unboost|p2a: Goodra|spa|2
+|faint|p1a: Leavanny
+|
+|upkeep
+|
+|t:|1772752152
+|switch|p1a: Mudsdale|Mudsdale, L83, M|129/302 psn
+|-damage|p1a: Mudsdale|111/302 psn|[from] Stealth Rock
+|turn|27
+|
+|t:|1772752166
+|move|p2a: Goodra|Scald|p1a: Mudsdale
+|-supereffective|p1a: Mudsdale
+|-crit|p1a: Mudsdale
+|-damage|p1a: Mudsdale|0 fnt
+|faint|p1a: Mudsdale
+|
+|win|molfus
+|raw|zulelabuleta's rating: 1791 &rarr; <strong>1769</strong><br />(-22 for losing)
+|raw|molfus's rating: 1761 &rarr; <strong>1783</strong><br />(+22 for winning)

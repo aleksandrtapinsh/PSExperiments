@@ -1,0 +1,298 @@
+|j|☆Momomoms
+|j|☆Beanatron
+|t:|1772750179
+|gametype|singles
+|player|p1|Momomoms|2|1306
+|player|p2|Beanatron|265|1331
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772750179
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Zekrom|Zekrom, L71|259/259
+|switch|p2a: Tropius|Tropius, L91, M|328/328
+|-ability|p1a: Zekrom|Teravolt
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Beanatron)
+|
+|t:|1772750203
+|move|p1a: Zekrom|Substitute|p1a: Zekrom
+|-start|p1a: Zekrom|Substitute
+|-damage|p1a: Zekrom|195/259
+|move|p2a: Tropius|Dragon Dance|p2a: Tropius
+|-boost|p2a: Tropius|atk|1
+|-boost|p2a: Tropius|spe|1
+|
+|-heal|p1a: Zekrom|211/259|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1772750225
+|move|p2a: Tropius|Earthquake|p1a: Zekrom
+|-supereffective|p1a: Zekrom
+|-end|p1a: Zekrom|Substitute
+|move|p1a: Zekrom|Dragon Dance|p1a: Zekrom
+|-boost|p1a: Zekrom|atk|1
+|-boost|p1a: Zekrom|spe|1
+|
+|-heal|p1a: Zekrom|227/259|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1772750230
+|move|p1a: Zekrom|Bolt Strike|p2a: Tropius
+|-damage|p2a: Tropius|138/328
+|-enditem|p2a: Tropius|Sitrus Berry|[eat]
+|-heal|p2a: Tropius|220/328|[from] item: Sitrus Berry
+|move|p2a: Tropius|Earthquake|p1a: Zekrom
+|-supereffective|p1a: Zekrom
+|-damage|p1a: Zekrom|43/259
+|
+|-heal|p1a: Zekrom|59/259|[from] item: Leftovers
+|-item|p2a: Tropius|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|turn|4
+|
+|t:|1772750238
+|move|p1a: Zekrom|Bolt Strike|p2a: Tropius|[miss]
+|-miss|p1a: Zekrom|p2a: Tropius
+|move|p2a: Tropius|Earthquake|p1a: Zekrom
+|-supereffective|p1a: Zekrom
+|-damage|p1a: Zekrom|0 fnt
+|faint|p1a: Zekrom
+|
+|upkeep
+|
+|t:|1772750254
+|switch|p1a: Regigigas|Regigigas, L84|322/322
+|-start|p1a: Regigigas|ability: Slow Start
+|turn|5
+|
+|t:|1772750262
+|move|p2a: Tropius|Leaf Blade|p1a: Regigigas
+|-damage|p1a: Regigigas|210/322
+|move|p1a: Regigigas|Body Slam|p2a: Tropius
+|-damage|p2a: Tropius|156/328
+|-enditem|p2a: Tropius|Sitrus Berry|[eat]
+|-heal|p2a: Tropius|238/328|[from] item: Sitrus Berry
+|
+|-heal|p1a: Regigigas|230/322|[from] item: Leftovers
+|-item|p2a: Tropius|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|turn|6
+|
+|t:|1772750282
+|move|p2a: Tropius|Leaf Blade|p1a: Regigigas
+|-damage|p1a: Regigigas|118/322
+|move|p1a: Regigigas|Body Slam|p2a: Tropius
+|-damage|p2a: Tropius|177/328
+|
+|-heal|p1a: Regigigas|138/322|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1772750288
+|move|p2a: Tropius|Leaf Blade|p1a: Regigigas
+|-crit|p1a: Regigigas
+|-damage|p1a: Regigigas|0 fnt
+|faint|p1a: Regigigas
+|-end|p1a: Regigigas|Slow Start|[silent]
+|
+|upkeep
+|
+|t:|1772750294
+|switch|p1a: Archaludon|Archaludon, L78, F|268/268
+|turn|8
+|
+|t:|1772750298
+|move|p2a: Tropius|Dragon Dance|p2a: Tropius
+|-boost|p2a: Tropius|atk|1
+|-boost|p2a: Tropius|spe|1
+|move|p1a: Archaludon|Draco Meteor|p2a: Tropius
+|-damage|p2a: Tropius|36/328
+|-unboost|p1a: Archaludon|spa|2
+|-enditem|p2a: Tropius|Sitrus Berry|[eat]
+|-heal|p2a: Tropius|118/328|[from] item: Sitrus Berry
+|
+|upkeep
+|turn|9
+|
+|t:|1772750304
+|move|p2a: Tropius|Earthquake|p1a: Archaludon
+|-supereffective|p1a: Archaludon
+|-damage|p1a: Archaludon|64/268
+|-ability|p1a: Archaludon|Stamina|boost
+|-boost|p1a: Archaludon|def|1
+|move|p1a: Archaludon|Stealth Rock|p2a: Tropius
+|-sidestart|p2: Beanatron|move: Stealth Rock
+|
+|-heal|p1a: Archaludon|80/268|[from] item: Leftovers
+|-item|p2a: Tropius|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|-enditem|p2a: Tropius|Sitrus Berry|[eat]
+|-heal|p2a: Tropius|200/328|[from] item: Sitrus Berry
+|turn|10
+|
+|t:|1772750319
+|switch|p1a: Landorus|Landorus, L75, M|257/257
+|move|p2a: Tropius|Earthquake|p1a: Landorus
+|-immune|p1a: Landorus
+|
+|upkeep
+|turn|11
+|
+|t:|1772750324
+|move|p2a: Tropius|Leaf Blade|p1a: Landorus
+|-damage|p1a: Landorus|62/257
+|move|p1a: Landorus|Sludge Wave|p2a: Tropius
+|-supereffective|p2a: Tropius
+|-damage|p2a: Tropius|10/328
+|
+|upkeep
+|turn|12
+|
+|t:|1772750332
+|move|p2a: Tropius|Leaf Blade|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|upkeep
+|
+|t:|1772750343
+|switch|p1a: Donphan|Donphan, L84, M|288/288
+|turn|13
+|
+|t:|1772750350
+|move|p1a: Donphan|Ice Shard|p2a: Tropius
+|-supereffective|p2a: Tropius
+|-damage|p2a: Tropius|0 fnt
+|faint|p2a: Tropius
+|
+|upkeep
+|
+|t:|1772750366
+|switch|p2a: Porygon-Z|Porygon-Z, L83|277/277
+|-damage|p2a: Porygon-Z|243/277|[from] Stealth Rock
+|-ability|p2a: Porygon-Z|Download|boost
+|-boost|p2a: Porygon-Z|spa|1
+|turn|14
+|
+|t:|1772750374
+|move|p2a: Porygon-Z|Ice Beam|p1a: Donphan
+|-supereffective|p1a: Donphan
+|-ability|p1a: Donphan|Sturdy
+|-damage|p1a: Donphan|1/288
+|-damage|p2a: Porygon-Z|216/277|[from] item: Life Orb
+|move|p1a: Donphan|Earthquake|p2a: Porygon-Z
+|-damage|p2a: Porygon-Z|68/277
+|
+|upkeep
+|turn|15
+|
+|t:|1772750382
+|move|p1a: Donphan|Ice Shard|p2a: Porygon-Z
+|-damage|p2a: Porygon-Z|28/277
+|move|p2a: Porygon-Z|Ice Beam|p1a: Donphan
+|-supereffective|p1a: Donphan
+|-damage|p1a: Donphan|0 fnt
+|faint|p1a: Donphan
+|-damage|p2a: Porygon-Z|1/277|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772750394
+|switch|p1a: Raikou|Raikou, L81|278/278
+|-ability|p1a: Raikou|Pressure
+|turn|16
+|
+|t:|1772750399
+|move|p1a: Raikou|Thunderbolt|p2a: Porygon-Z
+|-damage|p2a: Porygon-Z|0 fnt
+|faint|p2a: Porygon-Z
+|
+|upkeep
+|
+|t:|1772750404
+|switch|p2a: Pachirisu|Pachirisu, L96, M|271/271
+|turn|17
+|
+|t:|1772750408
+|move|p2a: Pachirisu|Encore|p1a: Raikou
+|-start|p1a: Raikou|Encore
+|move|p1a: Raikou|Thunderbolt|p2a: Pachirisu
+|-immune|p2a: Pachirisu|[from] ability: Volt Absorb
+|
+|upkeep
+|turn|18
+|
+|t:|1772750413
+|switch|p1a: Archaludon|Archaludon, L78, F|80/268
+|move|p2a: Pachirisu|Super Fang|p1a: Archaludon
+|-damage|p1a: Archaludon|40/268
+|-ability|p1a: Archaludon|Stamina|boost
+|-boost|p1a: Archaludon|def|1
+|
+|-heal|p1a: Archaludon|56/268|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1772750424
+|move|p2a: Pachirisu|Discharge|p1a: Archaludon
+|-resisted|p1a: Archaludon
+|-damage|p1a: Archaludon|11/268
+|-ability|p1a: Archaludon|Stamina|boost
+|-boost|p1a: Archaludon|def|1
+|move|p1a: Archaludon|Body Press|p2a: Pachirisu
+|-damage|p2a: Pachirisu|133/271
+|
+|-heal|p1a: Archaludon|27/268|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1772750436
+|move|p2a: Pachirisu|Discharge|p1a: Archaludon
+|-resisted|p1a: Archaludon
+|-damage|p1a: Archaludon|0 fnt
+|faint|p1a: Archaludon
+|
+|upkeep
+|
+|t:|1772750438
+|switch|p1a: Raikou|Raikou, L81|278/278
+|-ability|p1a: Raikou|Pressure
+|turn|21
+|
+|t:|1772750442
+|move|p2a: Pachirisu|Super Fang|p1a: Raikou
+|-damage|p1a: Raikou|139/278
+|move|p1a: Raikou|Substitute|p1a: Raikou
+|-start|p1a: Raikou|Substitute
+|-damage|p1a: Raikou|70/278
+|
+|-heal|p1a: Raikou|87/278|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1772750449
+|move|p2a: Pachirisu|Encore|p1a: Raikou
+|-start|p1a: Raikou|Encore
+|move|p1a: Raikou|Substitute|p1a: Raikou
+|-fail|p1a: Raikou|move: Substitute
+|
+|-heal|p1a: Raikou|104/278|[from] item: Leftovers
+|upkeep
+|turn|23
+|-message|Momomoms forfeited.
+|
+|win|Beanatron
+|raw|Momomoms's rating: 1306 &rarr; <strong>1287</strong><br />(-19 for losing)
+|raw|Beanatron's rating: 1331 &rarr; <strong>1350</strong><br />(+19 for winning)
+|l|☆Momomoms
+|player|p1|

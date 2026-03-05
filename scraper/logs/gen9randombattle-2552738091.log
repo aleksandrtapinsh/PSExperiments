@@ -1,0 +1,249 @@
+|j|☆jay is a bully
+|j|☆Picchiamper
+|t:|1772748403
+|gametype|singles
+|player|p1|jay is a bully|265|1340
+|player|p2|Picchiamper|silver|1319
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772748403
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Empoleon|Empoleon, L84, F|278/278
+|switch|p2a: Orthworm|Orthworm, L88, M|266/266
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Picchiamper)
+|inactive|jay is a bully also wants the timer to be on.
+|
+|t:|1772748407
+|move|p2a: Orthworm|Coil|p2a: Orthworm
+|-boost|p2a: Orthworm|atk|1
+|-boost|p2a: Orthworm|def|1
+|-boost|p2a: Orthworm|accuracy|1
+|move|p1a: Empoleon|Yawn|p2a: Orthworm
+|-start|p2a: Orthworm|move: Yawn|[of] p1a: Empoleon
+|
+|upkeep
+|turn|2
+|
+|t:|1772748412
+|move|p2a: Orthworm|Body Press|p1a: Empoleon
+|-supereffective|p1a: Empoleon
+|-damage|p1a: Empoleon|16/278
+|move|p1a: Empoleon|Flip Turn|p2a: Orthworm
+|-damage|p2a: Orthworm|241/266
+|
+|t:|1772748419
+|switch|p1a: Dragalge|Dragalge, L88, F|258/258|[from] Flip Turn
+|
+|-end|p2a: Orthworm|move: Yawn|[silent]
+|-status|p2a: Orthworm|slp
+|upkeep
+|-enditem|p2a: Orthworm|Chesto Berry|[eat]
+|-curestatus|p2a: Orthworm|slp|[msg]
+|turn|3
+|
+|t:|1772748422
+|move|p2a: Orthworm|Iron Tail|p1a: Dragalge
+|-crit|p1a: Dragalge
+|-damage|p1a: Dragalge|26/258
+|move|p1a: Dragalge|Focus Blast|p2a: Orthworm
+|-supereffective|p2a: Orthworm
+|-damage|p2a: Orthworm|0 fnt
+|faint|p2a: Orthworm
+|
+|-heal|p1a: Dragalge|42/258|[from] item: Leftovers
+|upkeep
+|
+|t:|1772748434
+|switch|p2a: Regieleki|Regieleki, L79|256/256
+|turn|4
+|
+|t:|1772748440
+|move|p2a: Regieleki|Rapid Spin|p1a: Dragalge
+|-damage|p1a: Dragalge|12/258
+|-boost|p2a: Regieleki|spe|1
+|move|p1a: Dragalge|Sludge Wave|p2a: Regieleki
+|-damage|p2a: Regieleki|32/256
+|
+|-heal|p1a: Dragalge|28/258|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1772748444
+|move|p2a: Regieleki|Rapid Spin|p1a: Dragalge
+|-crit|p1a: Dragalge
+|-damage|p1a: Dragalge|0 fnt
+|-boost|p2a: Regieleki|spe|1
+|faint|p1a: Dragalge
+|
+|upkeep
+|
+|t:|1772748450
+|switch|p1a: Ditto|Ditto, L87|225/225
+|-transform|p1a: Ditto|p2a: Regieleki|[from] ability: Imposter
+|turn|6
+|
+|t:|1772748455
+|move|p1a: Ditto|Volt Switch|p2a: Regieleki
+|-resisted|p2a: Regieleki
+|-crit|p2a: Regieleki
+|-damage|p2a: Regieleki|0 fnt
+|faint|p2a: Regieleki
+|
+|t:|1772748459
+|switch|p1a: Mabosstiff|Mabosstiff, L86, M|278/278|[from] Volt Switch
+|
+|upkeep
+|
+|t:|1772748465
+|switch|p2a: Falinks|Falinks, L84|246/246
+|turn|7
+|
+|t:|1772748469
+|move|p1a: Mabosstiff|Psychic Fangs|p2a: Falinks
+|-supereffective|p2a: Falinks
+|-damage|p2a: Falinks|34/246
+|move|p2a: Falinks|No Retreat|p2a: Falinks
+|-boost|p2a: Falinks|atk|1
+|-boost|p2a: Falinks|def|1
+|-boost|p2a: Falinks|spa|1
+|-boost|p2a: Falinks|spd|1
+|-boost|p2a: Falinks|spe|1
+|-start|p2a: Falinks|move: No Retreat
+|
+|upkeep
+|turn|8
+|
+|t:|1772748476
+|move|p2a: Falinks|Close Combat|p1a: Mabosstiff
+|-supereffective|p1a: Mabosstiff
+|-damage|p1a: Mabosstiff|0 fnt
+|-unboost|p2a: Falinks|def|1
+|-unboost|p2a: Falinks|spd|1
+|faint|p1a: Mabosstiff
+|-damage|p2a: Falinks|10/246|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772748479
+|switch|p1a: Ditto|Ditto, L87|225/225
+|-transform|p1a: Ditto|p2a: Falinks|[from] ability: Imposter
+|turn|9
+|
+|t:|1772748484
+|move|p1a: Ditto|Close Combat|p2a: Falinks
+|-damage|p2a: Falinks|0 fnt
+|-unboost|p1a: Ditto|def|1
+|-unboost|p1a: Ditto|spd|1
+|faint|p2a: Falinks
+|
+|upkeep
+|
+|t:|1772748497
+|switch|p2a: Klefki|Klefki, L84, M|233/233
+|turn|10
+|
+|t:|1772748504
+|switch|p1a: Empoleon|Empoleon, L84, F|16/278
+|move|p2a: Klefki|Thunder Wave|p1a: Empoleon
+|-status|p1a: Empoleon|par
+|
+|-heal|p1a: Empoleon|33/278 par|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1772748510
+|move|p2a: Klefki|Foul Play|p1a: Empoleon
+|-damage|p1a: Empoleon|0 fnt
+|faint|p1a: Empoleon
+|
+|upkeep
+|
+|t:|1772748513
+|switch|p1a: Cinderace|Cinderace, L77, F|249/249
+|turn|12
+|
+|t:|1772748516
+|move|p2a: Klefki|Thunder Wave|p1a: Cinderace
+|-status|p1a: Cinderace|par
+|cant|p1a: Cinderace|par
+|
+|upkeep
+|turn|13
+|
+|t:|1772748522
+|move|p2a: Klefki|Foul Play|p1a: Cinderace
+|-damage|p1a: Cinderace|167/249 par
+|move|p1a: Cinderace|Pyro Ball|p2a: Klefki
+|-supereffective|p2a: Klefki
+|-damage|p2a: Klefki|0 fnt
+|faint|p2a: Klefki
+|
+|upkeep
+|
+|t:|1772748525
+|switch|p2a: Wugtrio|Wugtrio, L91, M|212/212
+|turn|14
+|
+|t:|1772748533
+|switch|p1a: Illumise|Illumise, L91, F|266/266
+|move|p2a: Wugtrio|Liquidation|p1a: Illumise
+|-damage|p1a: Illumise|97/266
+|
+|upkeep
+|turn|15
+|
+|t:|1772748536
+|move|p1a: Illumise|Thunder Wave|p2a: Wugtrio
+|-status|p2a: Wugtrio|par
+|move|p2a: Wugtrio|Liquidation|p1a: Illumise
+|-damage|p1a: Illumise|0 fnt
+|faint|p1a: Illumise
+|
+|upkeep
+|
+|t:|1772748543
+|switch|p1a: Ditto|Ditto, L87|225/225
+|-transform|p1a: Ditto|p2a: Wugtrio|[from] ability: Imposter
+|turn|16
+|
+|t:|1772748546
+|move|p1a: Ditto|Liquidation|p2a: Wugtrio
+|-resisted|p2a: Wugtrio
+|-damage|p2a: Wugtrio|143/212 par
+|-ability|p2a: Wugtrio|Gooey
+|-unboost|p1a: Ditto|spe|1
+|move|p2a: Wugtrio|Liquidation|p1a: Ditto
+|-resisted|p1a: Ditto
+|-damage|p1a: Ditto|109/225
+|-ability|p1a: Ditto|Gooey
+|-unboost|p2a: Wugtrio|spe|1
+|
+|upkeep
+|turn|17
+|
+|t:|1772748549
+|move|p1a: Ditto|Liquidation|p2a: Wugtrio
+|-resisted|p2a: Wugtrio
+|-damage|p2a: Wugtrio|67/212 par
+|-ability|p2a: Wugtrio|Gooey
+|-unboost|p1a: Ditto|spe|1
+|cant|p2a: Wugtrio|par
+|
+|upkeep
+|turn|18
+|-message|jay is a bully forfeited.
+|
+|win|Picchiamper
+|raw|jay is a bully's rating: 1340 &rarr; <strong>1319</strong><br />(-21 for losing)
+|raw|Picchiamper's rating: 1319 &rarr; <strong>1340</strong><br />(+21 for winning)
+|l|☆jay is a bully
+|player|p1|

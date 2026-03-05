@@ -1,0 +1,295 @@
+|j|☆AnonymousBW
+|j|☆Da Jenius
+|t:|1772746699
+|gametype|singles
+|player|p1|AnonymousBW|lucas|1754
+|player|p2|Da Jenius|266|1819
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772746699
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Manaphy|Manaphy, L78|284/284
+|switch|p2a: Hippowdon|Hippowdon, L82, M|311/311
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Da Jenius)
+|
+|t:|1772746707
+|move|p1a: Manaphy|Tail Glow|p1a: Manaphy
+|-boost|p1a: Manaphy|spa|3
+|move|p2a: Hippowdon|Earthquake|p1a: Manaphy
+|-crit|p1a: Manaphy
+|-damage|p1a: Manaphy|110/284
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Manaphy|93/284|[from] Sandstorm
+|-heal|p1a: Manaphy|110/284|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1772746715
+|move|p1a: Manaphy|Hydro Pump|p2a: Hippowdon
+|-supereffective|p2a: Hippowdon
+|-damage|p2a: Hippowdon|0 fnt
+|faint|p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Manaphy|93/284|[from] Sandstorm
+|-heal|p1a: Manaphy|110/284|[from] item: Leftovers
+|upkeep
+|
+|t:|1772746723
+|switch|p2a: Deoxys|Deoxys-Speed, L82|216/216
+|-ability|p2a: Deoxys|Pressure
+|turn|3
+|
+|t:|1772746732
+|switch|p1a: Spiritomb|Spiritomb, L89, F|234/234
+|move|p2a: Deoxys|Psycho Boost|p1a: Spiritomb
+|-immune|p1a: Spiritomb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Deoxys|203/216|[from] Sandstorm
+|-damage|p1a: Spiritomb|220/234|[from] Sandstorm
+|-heal|p1a: Spiritomb|234/234|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1772746737
+|switch|p2a: Qwilfish|Qwilfish-Hisui, L83, M|244/244
+|-ability|p2a: Qwilfish|Intimidate|boost
+|-unboost|p1a: Spiritomb|atk|1
+|move|p1a: Spiritomb|Toxic|p2a: Qwilfish
+|-immune|p2a: Qwilfish
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Qwilfish|229/244|[from] Sandstorm
+|-damage|p1a: Spiritomb|220/234|[from] Sandstorm
+|-heal|p1a: Spiritomb|234/234|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1772746744
+|switch|p1a: Flareon|Flareon, L90, M|263/263
+|move|p2a: Qwilfish|Spikes|p1a: Flareon
+|-sidestart|p1: AnonymousBW|Spikes
+|
+|-weather|none
+|-status|p1a: Flareon|tox|[from] item: Toxic Orb
+|upkeep
+|turn|6
+|
+|t:|1772746753
+|move|p2a: Qwilfish|Spikes|p1a: Flareon
+|-sidestart|p1: AnonymousBW|Spikes
+|move|p1a: Flareon|Trailblaze|p2a: Qwilfish
+|-resisted|p2a: Qwilfish
+|-damage|p2a: Qwilfish|201/244
+|-boost|p1a: Flareon|spe|1
+|
+|-damage|p1a: Flareon|247/263 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1772746762
+|move|p1a: Flareon|Facade|p2a: Qwilfish
+|-damage|p2a: Qwilfish|59/244
+|move|p2a: Qwilfish|Spikes|p1a: Flareon
+|-sidestart|p1: AnonymousBW|Spikes
+|
+|-damage|p1a: Flareon|215/263 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1772746766
+|move|p1a: Flareon|Facade|p2a: Qwilfish
+|-damage|p2a: Qwilfish|0 fnt
+|faint|p2a: Qwilfish
+|
+|-damage|p1a: Flareon|167/263 tox|[from] psn
+|upkeep
+|
+|t:|1772746770
+|switch|p2a: Deoxys|Deoxys-Speed, L82|203/216
+|-ability|p2a: Deoxys|Pressure
+|turn|9
+|
+|t:|1772746774
+|move|p2a: Deoxys|Psycho Boost|p1a: Flareon
+|-damage|p1a: Flareon|23/263 tox
+|-unboost|p2a: Deoxys|spa|2
+|-damage|p2a: Deoxys|182/216|[from] item: Life Orb
+|move|p1a: Flareon|Trailblaze|p2a: Deoxys
+|-damage|p2a: Deoxys|97/216
+|-boost|p1a: Flareon|spe|1
+|
+|-damage|p1a: Flareon|0 fnt|[from] psn
+|faint|p1a: Flareon
+|upkeep
+|
+|t:|1772746779
+|switch|p1a: Empoleon|Empoleon, L84, M|278/278
+|-damage|p1a: Empoleon|209/278|[from] Spikes
+|turn|10
+|
+|t:|1772746783
+|switch|p2a: Grimmsnarl|Grimmsnarl, L83, M|293/293
+|move|p1a: Empoleon|Yawn|p2a: Grimmsnarl
+|-start|p2a: Grimmsnarl|move: Yawn|[of] p1a: Empoleon
+|
+|-heal|p1a: Empoleon|226/278|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1772746787
+|move|p2a: Grimmsnarl|Thunder Wave|p1a: Empoleon
+|-status|p1a: Empoleon|par
+|move|p1a: Empoleon|Flip Turn|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|221/293
+|
+|t:|1772746796
+|switch|p1a: Dunsparce|Dunsparce, L86, F|312/312|[from] Flip Turn
+|-damage|p1a: Dunsparce|234/312|[from] Spikes
+|
+|-heal|p2a: Grimmsnarl|239/293|[from] item: Leftovers
+|-end|p2a: Grimmsnarl|move: Yawn|[silent]
+|-status|p2a: Grimmsnarl|slp
+|upkeep
+|turn|12
+|
+|t:|1772746800
+|switch|p2a: Sunflora|Sunflora, F|312/312
+|move|p1a: Dunsparce|Coil|p1a: Dunsparce
+|-boost|p1a: Dunsparce|atk|1
+|-boost|p1a: Dunsparce|def|1
+|-boost|p1a: Dunsparce|accuracy|1
+|
+|upkeep
+|turn|13
+|
+|t:|1772746803
+|move|p1a: Dunsparce|Body Slam|p2a: Sunflora
+|-damage|p2a: Sunflora|185/312
+|-status|p2a: Sunflora|par
+|move|p2a: Sunflora|Sunny Day|p2a: Sunflora
+|-weather|SunnyDay
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1772746814
+|move|p1a: Dunsparce|Body Slam|p2a: Sunflora
+|-damage|p2a: Sunflora|62/312 par
+|move|p2a: Sunflora|Weather Ball|p1a: Dunsparce
+|-damage|p1a: Dunsparce|53/312
+|-damage|p2a: Sunflora|31/312 par|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1772746821
+|move|p1a: Dunsparce|Roost|p1a: Dunsparce
+|-heal|p1a: Dunsparce|209/312
+|-singleturn|p1a: Dunsparce|move: Roost
+|cant|p2a: Sunflora|par
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1772746827
+|move|p1a: Dunsparce|Body Slam|p2a: Sunflora
+|-damage|p2a: Sunflora|0 fnt
+|faint|p2a: Sunflora
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1772746830
+|switch|p2a: Grimmsnarl|Grimmsnarl, L83, M|239/293 slp
+|turn|17
+|
+|t:|1772746833
+|cant|p2a: Grimmsnarl|slp
+|move|p1a: Dunsparce|Body Slam|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|95/293 slp
+|
+|-weather|none
+|-heal|p2a: Grimmsnarl|113/293 slp|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1772746839
+|cant|p2a: Grimmsnarl|slp
+|move|p1a: Dunsparce|Body Slam|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|0 fnt
+|faint|p2a: Grimmsnarl
+|
+|upkeep
+|
+|t:|1772746841
+|switch|p2a: Deoxys|Deoxys-Speed, L82|97/216
+|-ability|p2a: Deoxys|Pressure
+|turn|19
+|
+|t:|1772746846
+|move|p2a: Deoxys|Focus Blast|p1a: Dunsparce
+|-supereffective|p1a: Dunsparce
+|-damage|p1a: Dunsparce|40/312
+|-damage|p2a: Deoxys|76/216|[from] item: Life Orb
+|move|p1a: Dunsparce|Body Slam|p2a: Deoxys
+|-damage|p2a: Deoxys|0 fnt
+|faint|p2a: Deoxys
+|
+|upkeep
+|
+|t:|1772746850
+|switch|p2a: Flapple|Flapple, L88, M|266/266
+|turn|20
+|
+|t:|1772746854
+|move|p2a: Flapple|Grav Apple|p1a: Dunsparce
+|-damage|p1a: Dunsparce|0 fnt
+|faint|p1a: Dunsparce
+|
+|upkeep
+|
+|t:|1772746857
+|switch|p1a: Spiritomb|Spiritomb, L89, F|234/234
+|-damage|p1a: Spiritomb|176/234|[from] Spikes
+|turn|21
+|
+|t:|1772746860
+|move|p2a: Flapple|Grav Apple|p1a: Spiritomb
+|-damage|p1a: Spiritomb|0 fnt
+|faint|p1a: Spiritomb
+|
+|upkeep
+|
+|t:|1772746867
+|switch|p1a: Manaphy|Manaphy, L78|110/284
+|-damage|p1a: Manaphy|39/284|[from] Spikes
+|turn|22
+|
+|t:|1772746869
+|move|p1a: Manaphy|Ice Beam|p2a: Flapple
+|-supereffective|p2a: Flapple
+|-damage|p2a: Flapple|0 fnt
+|faint|p2a: Flapple
+|
+|win|AnonymousBW
+|raw|AnonymousBW's rating: 1754 &rarr; <strong>1778</strong><br />(+24 for winning)
+|raw|Da Jenius's rating: 1819 &rarr; <strong>1795</strong><br />(-24 for losing)
+|l|☆Da Jenius
+|player|p2|
+|c|☆AnonymousBW|gg

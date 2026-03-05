@@ -1,0 +1,392 @@
+|j|☆Reotaida
+|j|☆Bastion134
+|t:|1772743511
+|gametype|singles
+|player|p1|Reotaida|hiker|
+|player|p2|Bastion134|cynthia|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772743511
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Slaking|Slaking, L84, M|389/389
+|switch|p2a: Magmortar|Magmortar, L88, F|275/275
+|turn|1
+|
+|t:|1772743606
+|move|p1a: Slaking|Knock Off|p2a: Magmortar
+|-damage|p2a: Magmortar|82/275
+|-status|p1a: Slaking|brn|[from] ability: Flame Body|[of] p2a: Magmortar
+|-enditem|p2a: Magmortar|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Slaking
+|move|p2a: Magmortar|Knock Off|p1a: Slaking
+|-damage|p1a: Slaking|320/389 brn
+|-enditem|p1a: Slaking|Choice Band|[from] move: Knock Off|[of] p2a: Magmortar
+|
+|-damage|p1a: Slaking|296/389 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1772743673
+|switch|p1a: Crawdaunt|Crawdaunt, L84, M|243/243
+|switch|p2a: Gastrodon|Gastrodon, L86, F|331/331
+|
+|upkeep
+|turn|3
+|
+|t:|1772743686
+|move|p1a: Crawdaunt|Knock Off|p2a: Gastrodon
+|-damage|p2a: Gastrodon|100/331
+|-enditem|p2a: Gastrodon|Leftovers|[from] move: Knock Off|[of] p1a: Crawdaunt
+|-damage|p1a: Crawdaunt|219/243|[from] item: Life Orb
+|move|p2a: Gastrodon|Spikes|p1a: Crawdaunt
+|-sidestart|p1: Reotaida|Spikes
+|
+|upkeep
+|turn|4
+|
+|t:|1772743735
+|switch|p2a: Hydrapple|Hydrapple, L83, F|312/312
+|move|p1a: Crawdaunt|Aqua Jet|p2a: Hydrapple
+|-resisted|p2a: Hydrapple
+|-damage|p2a: Hydrapple|293/312
+|-damage|p1a: Crawdaunt|195/243|[from] item: Life Orb
+|
+|upkeep
+|turn|5
+|
+|t:|1772743777
+|switch|p1a: Frosmoth|Frosmoth, L82, F|249/249
+|move|p2a: Hydrapple|Fickle Beam|p1a: Frosmoth|[anim] Fickle Beam All Out
+|-activate|p2a: Hydrapple|move: Fickle Beam
+|-damage|p1a: Frosmoth|144/249
+|
+|upkeep
+|turn|6
+|
+|t:|1772743836
+|switch|p2a: Dusknoir|Dusknoir, L89, M|225/225
+|-item|p1a: Frosmoth|Heavy-Duty Boots|[from] ability: Frisk|[of] p2a: Dusknoir
+|move|p1a: Frosmoth|Ice Beam|p2a: Dusknoir
+|-crit|p2a: Dusknoir
+|-damage|p2a: Dusknoir|104/225
+|
+|-heal|p2a: Dusknoir|118/225|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1772743882
+|switch|p1a: Crawdaunt|Crawdaunt, L84, M|195/243
+|-damage|p1a: Crawdaunt|165/243|[from] Spikes
+|move|p2a: Dusknoir|Poltergeist|p1a: Crawdaunt
+|-activate|p1a: Crawdaunt|move: Poltergeist|Life Orb
+|-resisted|p1a: Crawdaunt
+|-damage|p1a: Crawdaunt|99/243
+|
+|-heal|p2a: Dusknoir|132/225|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1772743932
+|switch|p2a: Hydrapple|Hydrapple, L83, F|312/312
+|move|p1a: Crawdaunt|Knock Off|p2a: Hydrapple
+|-damage|p2a: Hydrapple|127/312
+|-enditem|p2a: Hydrapple|Assault Vest|[from] move: Knock Off|[of] p1a: Crawdaunt
+|-damage|p1a: Crawdaunt|75/243|[from] item: Life Orb
+|
+|upkeep
+|turn|9
+|
+|t:|1772743953
+|move|p1a: Crawdaunt|Crabhammer|p2a: Hydrapple
+|-resisted|p2a: Hydrapple
+|-damage|p2a: Hydrapple|80/312
+|-damage|p1a: Crawdaunt|51/243|[from] item: Life Orb
+|move|p2a: Hydrapple|Fickle Beam|p1a: Crawdaunt
+|-damage|p1a: Crawdaunt|0 fnt
+|faint|p1a: Crawdaunt
+|
+|upkeep
+|
+|t:|1772743967
+|switch|p1a: Frosmoth|Frosmoth, L82, F|144/249
+|turn|10
+|
+|t:|1772743983
+|-terastallize|p2a: Hydrapple|Steel
+|move|p1a: Frosmoth|Ice Beam|p2a: Hydrapple
+|-resisted|p2a: Hydrapple
+|-damage|p2a: Hydrapple|20/312
+|move|p2a: Hydrapple|Fickle Beam|p1a: Frosmoth
+|-crit|p1a: Frosmoth
+|-damage|p1a: Frosmoth|72/249
+|
+|upkeep
+|turn|11
+|
+|t:|1772744034
+|switch|p2a: Magmortar|Magmortar, L88, F|82/275
+|move|p1a: Frosmoth|Giga Drain|p2a: Magmortar
+|-resisted|p2a: Magmortar
+|-damage|p2a: Magmortar|53/275
+|-heal|p1a: Frosmoth|87/249|[from] drain|[of] p2a: Magmortar
+|
+|upkeep
+|turn|12
+|
+|t:|1772744069
+|switch|p1a: Urshifu|Urshifu, L74, F|270/270
+|-damage|p1a: Urshifu|237/270|[from] Spikes
+|move|p2a: Magmortar|Fire Blast|p1a: Urshifu
+|-damage|p1a: Urshifu|0 fnt
+|faint|p1a: Urshifu
+|
+|upkeep
+|
+|t:|1772744131
+|switch|p1a: Arceus|Arceus-Water, L71|288/288
+|-damage|p1a: Arceus|252/288|[from] Spikes
+|turn|13
+|
+|t:|1772744165
+|move|p1a: Arceus|Judgment|p2a: Magmortar
+|-supereffective|p2a: Magmortar
+|-damage|p2a: Magmortar|0 fnt
+|faint|p2a: Magmortar
+|
+|upkeep
+|
+|t:|1772744211
+|switch|p2a: Hydrapple|Hydrapple, L83, F, tera:Steel|124/312
+|turn|14
+|
+|t:|1772744251
+|-terastallize|p1a: Arceus|Steel
+|move|p1a: Arceus|Judgment|p2a: Hydrapple
+|-damage|p2a: Hydrapple|6/312
+|move|p2a: Hydrapple|Leaf Storm|p1a: Arceus
+|-resisted|p1a: Arceus
+|-damage|p1a: Arceus|179/288
+|-unboost|p2a: Hydrapple|spa|2
+|
+|upkeep
+|turn|15
+|
+|t:|1772744301
+|switch|p2a: Uxie|Uxie, L83|260/260
+|move|p1a: Arceus|Recover|p1a: Arceus
+|-heal|p1a: Arceus|288/288
+|
+|upkeep
+|turn|16
+|
+|t:|1772744320
+|move|p1a: Arceus|Judgment|p2a: Uxie
+|-crit|p2a: Uxie
+|-damage|p2a: Uxie|128/260
+|move|p2a: Uxie|Thunder Wave|p1a: Arceus
+|-status|p1a: Arceus|par
+|
+|-heal|p2a: Uxie|144/260|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1772744345
+|move|p2a: Uxie|Knock Off|p1a: Arceus
+|-damage|p1a: Arceus|251/288 par
+|move|p1a: Arceus|Judgment|p2a: Uxie
+|-damage|p2a: Uxie|59/260
+|
+|-heal|p2a: Uxie|75/260|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1772744402
+|switch|p2a: Hydrapple|Hydrapple, L83, F, tera:Steel|110/312
+|move|p1a: Arceus|Ice Beam|p2a: Hydrapple
+|-resisted|p2a: Hydrapple
+|-damage|p2a: Hydrapple|79/312
+|
+|upkeep
+|turn|19
+|
+|t:|1772744412
+|move|p2a: Hydrapple|Fickle Beam|p1a: Arceus
+|-resisted|p1a: Arceus
+|-damage|p1a: Arceus|205/288 par
+|move|p1a: Arceus|Judgment|p2a: Hydrapple
+|-damage|p2a: Hydrapple|0 fnt
+|faint|p2a: Hydrapple
+|
+|upkeep
+|
+|t:|1772744426
+|switch|p2a: Dusknoir|Dusknoir, L89, M|132/225
+|-item|p1a: Arceus|Splash Plate|[from] ability: Frisk|[of] p2a: Dusknoir
+|turn|20
+|
+|t:|1772744439
+|move|p2a: Dusknoir|Poltergeist|p1a: Arceus
+|-activate|p1a: Arceus|move: Poltergeist|Splash Plate
+|-damage|p1a: Arceus|78/288 par
+|cant|p1a: Arceus|par
+|
+|-heal|p2a: Dusknoir|146/225|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1772744451
+|switch|p1a: Slaking|Slaking, L84, M|296/389 brn
+|-damage|p1a: Slaking|248/389 brn|[from] Spikes
+|move|p2a: Dusknoir|Poltergeist||[still]
+|-fail|p2a: Dusknoir
+|
+|-heal|p2a: Dusknoir|160/225|[from] item: Leftovers
+|-damage|p1a: Slaking|224/389 brn|[from] brn
+|upkeep
+|turn|22
+|
+|t:|1772744473
+|switch|p2a: Venomoth|Venomoth, L84, M|255/255
+|move|p1a: Slaking|Knock Off|p2a: Venomoth
+|-crit|p2a: Venomoth
+|-damage|p2a: Venomoth|153/255
+|-enditem|p2a: Venomoth|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Slaking
+|
+|-damage|p1a: Slaking|200/389 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1772744520
+|switch|p1a: Frosmoth|Frosmoth, L82, F|87/249
+|move|p2a: Venomoth|Sleep Powder|p1a: Frosmoth|[miss]
+|-miss|p2a: Venomoth|p1a: Frosmoth
+|
+|upkeep
+|turn|24
+|
+|t:|1772744540
+|move|p2a: Venomoth|Quiver Dance|p2a: Venomoth
+|-boost|p2a: Venomoth|spa|1
+|-boost|p2a: Venomoth|spd|1
+|-boost|p2a: Venomoth|spe|1
+|move|p1a: Frosmoth|Hurricane|p2a: Venomoth
+|-supereffective|p2a: Venomoth
+|-damage|p2a: Venomoth|5/255
+|
+|upkeep
+|turn|25
+|
+|t:|1772744592
+|move|p2a: Venomoth|Sludge Wave|p1a: Frosmoth
+|-damage|p1a: Frosmoth|15/249
+|-status|p1a: Frosmoth|psn
+|move|p1a: Frosmoth|Ice Beam|p2a: Venomoth
+|-damage|p2a: Venomoth|0 fnt
+|faint|p2a: Venomoth
+|
+|-damage|p1a: Frosmoth|0 fnt|[from] psn
+|faint|p1a: Frosmoth
+|upkeep
+|
+|t:|1772744606
+|switch|p2a: Gastrodon|Gastrodon, L86, F|100/331
+|switch|p1a: Slaking|Slaking, L84, M|200/389 brn
+|-damage|p1a: Slaking|152/389 brn|[from] Spikes
+|turn|26
+|
+|t:|1772744640
+|move|p1a: Slaking|Giga Impact|p2a: Gastrodon
+|-damage|p2a: Gastrodon|0 fnt
+|-mustrecharge|p1a: Slaking
+|faint|p2a: Gastrodon
+|
+|-damage|p1a: Slaking|128/389 brn|[from] brn
+|upkeep
+|
+|t:|1772744647
+|switch|p2a: Uxie|Uxie, L83|75/260
+|turn|27
+|
+|t:|1772744673
+|cant|p1a: Slaking|recharge
+|move|p2a: Uxie|Psychic Noise|p1a: Slaking
+|-damage|p1a: Slaking|43/389 brn
+|-start|p1a: Slaking|move: Heal Block
+|
+|-heal|p2a: Uxie|91/260|[from] item: Leftovers
+|-damage|p1a: Slaking|19/389 brn|[from] brn
+|upkeep
+|turn|28
+|
+|t:|1772744693
+|move|p1a: Slaking|Knock Off|p2a: Uxie
+|-supereffective|p2a: Uxie
+|-damage|p2a: Uxie|12/260
+|-enditem|p2a: Uxie|Leftovers|[from] move: Knock Off|[of] p1a: Slaking
+|move|p2a: Uxie|Psychic Noise|p1a: Slaking
+|-damage|p1a: Slaking|0 fnt
+|faint|p1a: Slaking
+|
+|upkeep
+|
+|t:|1772744729
+|switch|p1a: Comfey|Comfey, L85, M|225/225
+|-damage|p1a: Comfey|197/225|[from] Spikes
+|turn|29
+|
+|t:|1772744771
+|move|p1a: Comfey|Tera Blast|p2a: Uxie
+|-damage|p2a: Uxie|0 fnt
+|faint|p2a: Uxie
+|
+|-heal|p1a: Comfey|211/225|[from] item: Leftovers
+|upkeep
+|
+|t:|1772744777
+|switch|p2a: Dusknoir|Dusknoir, L89, M|160/225
+|-item|p1a: Comfey|Leftovers|[from] ability: Frisk|[of] p2a: Dusknoir
+|turn|30
+|
+|t:|1772744809
+|move|p1a: Comfey|Draining Kiss|p2a: Dusknoir
+|-damage|p2a: Dusknoir|129/225
+|-heal|p1a: Comfey|225/225|[from] drain|[of] p2a: Dusknoir
+|move|p2a: Dusknoir|Poltergeist|p1a: Comfey
+|-activate|p1a: Comfey|move: Poltergeist|Leftovers
+|-damage|p1a: Comfey|89/225
+|
+|-heal|p1a: Comfey|103/225|[from] item: Leftovers
+|-heal|p2a: Dusknoir|143/225|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1772744819
+|move|p1a: Comfey|Draining Kiss|p2a: Dusknoir
+|-damage|p2a: Dusknoir|109/225
+|-heal|p1a: Comfey|129/225|[from] drain|[of] p2a: Dusknoir
+|move|p2a: Dusknoir|Poltergeist|p1a: Comfey
+|-activate|p1a: Comfey|move: Poltergeist|Leftovers
+|-damage|p1a: Comfey|0 fnt
+|faint|p1a: Comfey
+|
+|-heal|p2a: Dusknoir|123/225|[from] item: Leftovers
+|upkeep
+|
+|t:|1772744828
+|switch|p1a: Arceus|Arceus-Water, L71, tera:Steel|78/288 par
+|-damage|p1a: Arceus|42/288 par|[from] Spikes
+|turn|32
+|
+|t:|1772744838
+|move|p2a: Dusknoir|Poltergeist|p1a: Arceus
+|-activate|p1a: Arceus|move: Poltergeist|Splash Plate
+|-damage|p1a: Arceus|0 fnt
+|faint|p1a: Arceus
+|
+|win|Bastion134
