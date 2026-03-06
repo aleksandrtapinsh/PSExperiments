@@ -1,0 +1,353 @@
+|j|☆Auriate
+|j|☆Plumifero03
+|t:|1772747819
+|gametype|singles
+|player|p1|Auriate|roxie|1544
+|player|p2|Plumifero03|265|1527
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772747819
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Quagsire|Quagsire, L84, M|297/297
+|switch|p2a: Eternatus|Eternatus, L69|308/308
+|-ability|p2a: Eternatus|Pressure
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Auriate)
+|
+|t:|1772747859
+|move|p2a: Eternatus|Sludge Bomb|p1a: Quagsire
+|-resisted|p1a: Quagsire
+|-damage|p1a: Quagsire|238/297
+|move|p1a: Quagsire|Spikes|p2a: Eternatus
+|-sidestart|p2: Plumifero03|Spikes
+|
+|-heal|p1a: Quagsire|256/297|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1772747866
+|move|p2a: Eternatus|Sludge Bomb|p1a: Quagsire
+|-resisted|p1a: Quagsire
+|-damage|p1a: Quagsire|198/297
+|move|p1a: Quagsire|Earthquake|p2a: Eternatus
+|-supereffective|p2a: Eternatus
+|-damage|p2a: Eternatus|80/308
+|
+|-heal|p1a: Quagsire|216/297|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1772747883
+|switch|p2a: Ditto|Ditto, L87|225/225
+|-damage|p2a: Ditto|197/225|[from] Spikes
+|-transform|p2a: Ditto|p1a: Quagsire|[from] ability: Imposter
+|move|p1a: Quagsire|Spikes|p2a: Ditto
+|-sidestart|p2: Plumifero03|Spikes
+|
+|-heal|p1a: Quagsire|234/297|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1772747903
+|switch|p1a: Zangoose|Zangoose, L85, F|263/263
+|move|p2a: Ditto|Toxic|p1a: Zangoose|[miss]
+|-miss|p2a: Ditto|p1a: Zangoose
+|
+|-status|p1a: Zangoose|tox|[from] item: Toxic Orb
+|upkeep
+|turn|5
+|
+|t:|1772747912
+|switch|p2a: Eternatus|Eternatus, L69|80/308
+|-damage|p2a: Eternatus|29/308|[from] Spikes
+|-ability|p2a: Eternatus|Pressure
+|move|p1a: Zangoose|Facade|p2a: Eternatus
+|-damage|p2a: Eternatus|0 fnt
+|-damage|p1a: Zangoose|220/263 tox|[from] item: Rocky Helmet|[of] p2a: Eternatus
+|faint|p2a: Eternatus
+|
+|-damage|p1a: Zangoose|204/263 tox|[from] psn
+|upkeep
+|
+|t:|1772747917
+|switch|p2a: Terrakion|Terrakion, L79|273/273
+|-damage|p2a: Terrakion|228/273|[from] Spikes
+|turn|6
+|
+|t:|1772747931
+|switch|p1a: Glimmora|Glimmora, L75, F|248/248
+|move|p2a: Terrakion|Close Combat|p1a: Glimmora
+|-damage|p1a: Glimmora|4/248
+|-unboost|p2a: Terrakion|def|1
+|-unboost|p2a: Terrakion|spd|1
+|-activate|p1a: Glimmora|ability: Toxic Debris
+|-sidestart|p2: Plumifero03|move: Toxic Spikes
+|
+|upkeep
+|turn|7
+|
+|t:|1772747942
+|move|p2a: Terrakion|Close Combat|p1a: Glimmora
+|-damage|p1a: Glimmora|0 fnt
+|-unboost|p2a: Terrakion|def|1
+|-unboost|p2a: Terrakion|spd|1
+|-activate|p1a: Glimmora|ability: Toxic Debris
+|-sidestart|p2: Plumifero03|move: Toxic Spikes
+|faint|p1a: Glimmora
+|
+|upkeep
+|
+|t:|1772747947
+|switch|p1a: Luvdisc|Luvdisc, M|247/247
+|turn|8
+|
+|t:|1772747954
+|switch|p2a: Skuntank|Skuntank, L84, F|310/310
+|-damage|p2a: Skuntank|259/310|[from] Spikes
+|-sideend|p2: Plumifero03|move: Toxic Spikes|[of] p2a: Skuntank
+|move|p1a: Luvdisc|Substitute|p1a: Luvdisc
+|-start|p1a: Luvdisc|Substitute
+|-damage|p1a: Luvdisc|186/247
+|
+|-heal|p2a: Skuntank|278/310|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1772747964
+|move|p1a: Luvdisc|Whirlpool|p2a: Skuntank
+|-damage|p2a: Skuntank|244/310
+|-activate|p2a: Skuntank|move: Whirlpool|[of] p1a: Luvdisc
+|move|p2a: Skuntank|Knock Off|p1a: Luvdisc
+|-end|p1a: Luvdisc|Substitute
+|
+|-heal|p2a: Skuntank|263/310|[from] item: Leftovers
+|-damage|p2a: Skuntank|225/310|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|10
+|
+|t:|1772747973
+|move|p1a: Luvdisc|Substitute|p1a: Luvdisc
+|-start|p1a: Luvdisc|Substitute
+|-damage|p1a: Luvdisc|125/247
+|move|p2a: Skuntank|Knock Off|p1a: Luvdisc
+|-end|p1a: Luvdisc|Substitute
+|
+|-heal|p2a: Skuntank|244/310|[from] item: Leftovers
+|-damage|p2a: Skuntank|206/310|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|11
+|
+|t:|1772747979
+|move|p1a: Luvdisc|Surf|p2a: Skuntank
+|-damage|p2a: Skuntank|101/310
+|move|p2a: Skuntank|Knock Off|p1a: Luvdisc
+|-damage|p1a: Luvdisc|16/247
+|-enditem|p1a: Luvdisc|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Skuntank
+|
+|-heal|p2a: Skuntank|120/310|[from] item: Leftovers
+|-damage|p2a: Skuntank|82/310|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|12
+|
+|t:|1772747985
+|move|p1a: Luvdisc|Surf|p2a: Skuntank
+|-damage|p2a: Skuntank|0 fnt
+|faint|p2a: Skuntank
+|
+|upkeep
+|
+|t:|1772747993
+|switch|p2a: Ditto|Ditto, L87|197/225
+|-damage|p2a: Ditto|160/225|[from] Spikes
+|-transform|p2a: Ditto|p1a: Luvdisc|[from] ability: Imposter
+|turn|13
+|
+|t:|1772748005
+|switch|p1a: Bronzong|Bronzong, L88|261/261
+|move|p2a: Ditto|Surf|p1a: Bronzong
+|-damage|p1a: Bronzong|212/261
+|
+|-heal|p1a: Bronzong|228/261|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1772748010
+|switch|p2a: Illumise|Illumise, L91, F|266/266
+|move|p1a: Bronzong|Stealth Rock|p2a: Illumise
+|-sidestart|p2: Plumifero03|move: Stealth Rock
+|
+|-heal|p1a: Bronzong|244/261|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1772748039
+|switch|p1a: Zangoose|Zangoose, L85, F|204/263 tox
+|move|p2a: Illumise|Encore||[still]
+|-fail|p2a: Illumise
+|
+|-damage|p1a: Zangoose|188/263 tox|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1772748053
+|move|p2a: Illumise|Bug Buzz|p1a: Zangoose
+|-damage|p1a: Zangoose|71/263 tox
+|move|p1a: Zangoose|Facade|p2a: Illumise
+|-damage|p2a: Illumise|5/266
+|
+|-damage|p1a: Zangoose|39/263 tox|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1772748060
+|move|p1a: Zangoose|Quick Attack|p2a: Illumise
+|-damage|p2a: Illumise|0 fnt
+|faint|p2a: Illumise
+|
+|-damage|p1a: Zangoose|0 fnt|[from] psn
+|faint|p1a: Zangoose
+|upkeep
+|
+|t:|1772748080
+|switch|p2a: Ditto|Ditto, L87|160/225
+|switch|p1a: Quagsire|Quagsire, L84, M|234/297
+|-damage|p2a: Ditto|123/225|[from] Spikes
+|-damage|p2a: Ditto|95/225|[from] Stealth Rock
+|-transform|p2a: Ditto|p1a: Quagsire|[from] ability: Imposter
+|turn|18
+|
+|t:|1772748087
+|move|p2a: Ditto|Toxic|p1a: Quagsire
+|-status|p1a: Quagsire|tox
+|move|p1a: Quagsire|Toxic|p2a: Ditto
+|-status|p2a: Ditto|tox
+|
+|-heal|p1a: Quagsire|252/297 tox|[from] item: Leftovers
+|-damage|p2a: Ditto|81/225 tox|[from] psn
+|-damage|p1a: Quagsire|234/297 tox|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1772748095
+|switch|p2a: Komala|Komala, L89, F|260/260
+|-damage|p2a: Komala|217/260|[from] Spikes
+|-damage|p2a: Komala|185/260|[from] Stealth Rock
+|-ability|p2a: Komala|Comatose
+|move|p1a: Quagsire|Spikes|p2a: Komala
+|-sidestart|p2: Plumifero03|Spikes
+|
+|-heal|p1a: Quagsire|252/297 tox|[from] item: Leftovers
+|-damage|p1a: Quagsire|216/297 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1772748101
+|move|p2a: Komala|Rapid Spin|p1a: Quagsire
+|-damage|p1a: Quagsire|147/297 tox
+|-boost|p2a: Komala|spe|1
+|-sideend|p2: Plumifero03|Spikes|[from] move: Rapid Spin|[of] p2a: Komala
+|-sideend|p2: Plumifero03|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Komala
+|move|p1a: Quagsire|Toxic|p2a: Komala
+|-immune|p2a: Komala|[from] ability: Comatose
+|
+|-heal|p1a: Quagsire|165/297 tox|[from] item: Leftovers
+|-damage|p1a: Quagsire|111/297 tox|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1772748108
+|move|p2a: Komala|Body Slam|p1a: Quagsire
+|-damage|p1a: Quagsire|0 fnt
+|faint|p1a: Quagsire
+|
+|upkeep
+|
+|t:|1772748112
+|switch|p1a: Bronzong|Bronzong, L88|244/261
+|turn|22
+|
+|t:|1772748116
+|move|p2a: Komala|Knock Off|p1a: Bronzong
+|-supereffective|p1a: Bronzong
+|-damage|p1a: Bronzong|102/261
+|-enditem|p1a: Bronzong|Leftovers|[from] move: Knock Off|[of] p2a: Komala
+|move|p1a: Bronzong|Iron Head|p2a: Komala
+|-damage|p2a: Komala|80/260
+|
+|upkeep
+|turn|23
+|
+|t:|1772748128
+|move|p2a: Komala|Body Slam|p1a: Bronzong
+|-resisted|p1a: Bronzong
+|-damage|p1a: Bronzong|58/261
+|move|p1a: Bronzong|Psychic|p2a: Komala
+|-damage|p2a: Komala|26/260
+|
+|upkeep
+|turn|24
+|
+|t:|1772748132
+|move|p2a: Komala|Knock Off|p1a: Bronzong
+|-supereffective|p1a: Bronzong
+|-damage|p1a: Bronzong|0 fnt
+|faint|p1a: Bronzong
+|
+|upkeep
+|
+|t:|1772748136
+|switch|p1a: Vivillon|Vivillon-Sun, L83, F|268/268
+|turn|25
+|
+|t:|1772748142
+|move|p2a: Komala|Body Slam|p1a: Vivillon
+|-damage|p1a: Vivillon|88/268
+|-status|p1a: Vivillon|par
+|cant|p1a: Vivillon|par
+|
+|upkeep
+|turn|26
+|
+|t:|1772748147
+|move|p2a: Komala|Body Slam|p1a: Vivillon
+|-damage|p1a: Vivillon|0 fnt
+|faint|p1a: Vivillon
+|
+|upkeep
+|
+|t:|1772748149
+|switch|p1a: Luvdisc|Luvdisc, M|16/247
+|turn|27
+|
+|t:|1772748158
+|move|p1a: Luvdisc|Surf|p2a: Komala
+|-damage|p2a: Komala|0 fnt
+|faint|p2a: Komala
+|
+|upkeep
+|
+|t:|1772748160
+|switch|p2a: Ditto|Ditto, L87|81/225 tox
+|-transform|p2a: Ditto|p1a: Luvdisc|[from] ability: Imposter
+|turn|28
+|
+|t:|1772748176
+|move|p2a: Ditto|Surf|p1a: Luvdisc
+|-resisted|p1a: Luvdisc
+|-crit|p1a: Luvdisc
+|-damage|p1a: Luvdisc|0 fnt
+|faint|p1a: Luvdisc
+|
+|win|Plumifero03
+|raw|Auriate's rating: 1544 &rarr; <strong>1523</strong><br />(-21 for losing)
+|raw|Plumifero03's rating: 1527 &rarr; <strong>1548</strong><br />(+21 for winning)
+|l|☆Auriate
+|player|p1|

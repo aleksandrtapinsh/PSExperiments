@@ -1,0 +1,173 @@
+|j|☆randomplayboy
+|j|☆worthlesslucker
+|t:|1772752322
+|gametype|singles
+|player|p1|randomplayboy|102|1574
+|player|p2|worthlesslucker|baker|1559
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772752322
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Electivire|Electivire, L84, M|263/263
+|switch|p2a: Vikavolt|Vikavolt, L83, M|263/263
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by worthlesslucker)
+|inactive|randomplayboy has 120 seconds left.
+|c|☆worthlesslucker|hmmm
+|
+|t:|1772752366
+|move|p1a: Electivire|Flamethrower|p2a: Vikavolt
+|-supereffective|p2a: Vikavolt
+|-damage|p2a: Vikavolt|71/263
+|-damage|p1a: Electivire|237/263|[from] item: Life Orb
+|move|p2a: Vikavolt|Sticky Web|p1a: Electivire
+|-sidestart|p1: randomplayboy|move: Sticky Web
+|
+|upkeep
+|turn|2
+|c|☆worthlesslucker|so you a boy that just choose random plays
+|c|☆worthlesslucker|or random PlayBoy
+|inactive|worthlesslucker has 120 seconds left.
+|
+|t:|1772752398
+|switch|p2a: Poliwrath|Poliwrath, L88, F|302/302
+|move|p1a: Electivire|Ice Punch|p2a: Poliwrath
+|-resisted|p2a: Poliwrath
+|-damage|p2a: Poliwrath|263/302
+|-damage|p1a: Electivire|211/263|[from] item: Life Orb
+|
+|upkeep
+|turn|3
+|inactive|worthlesslucker has 120 seconds left.
+|
+|t:|1772752413
+|switch|p2a: Whiscash|Whiscash, L88, M|337/337
+|move|p1a: Electivire|Volt Switch|p2a: Whiscash
+|-immune|p2a: Whiscash
+|
+|upkeep
+|turn|4
+|inactive|worthlesslucker has 120 seconds left.
+|
+|t:|1772752431
+|switch|p1a: Rotom|Rotom-Mow, L87|229/229
+|move|p2a: Whiscash|Stealth Rock|p1a: Rotom
+|-sidestart|p1: randomplayboy|move: Stealth Rock
+|
+|upkeep
+|turn|5
+|inactive|worthlesslucker has 120 seconds left.
+|inactive|randomplayboy has 120 seconds left.
+|
+|t:|1772752463
+|switch|p2a: Vikavolt|Vikavolt, L83, M|71/263
+|move|p1a: Rotom|Nasty Plot|p1a: Rotom
+|-boost|p1a: Rotom|spa|2
+|
+|upkeep
+|turn|6
+|inactive|randomplayboy has 120 seconds left.
+|
+|t:|1772752474
+|move|p1a: Rotom|Thunderbolt|p2a: Vikavolt
+|-resisted|p2a: Vikavolt
+|-damage|p2a: Vikavolt|0 fnt
+|faint|p2a: Vikavolt
+|
+|upkeep
+|inactive|worthlesslucker has 90 seconds left.
+|
+|t:|1772752504
+|switch|p2a: Piloswine|Piloswine, L85, F|309/309
+|turn|7
+|inactive|randomplayboy has 120 seconds left.
+|
+|t:|1772752527
+|move|p1a: Rotom|Leaf Storm|p2a: Piloswine|[miss]
+|-miss|p1a: Rotom|p2a: Piloswine
+|move|p2a: Piloswine|Icicle Crash|p1a: Rotom
+|-supereffective|p1a: Rotom
+|-damage|p1a: Rotom|67/229
+|
+|-heal|p1a: Rotom|81/229|[from] item: Leftovers
+|upkeep
+|turn|8
+|inactive|randomplayboy has 120 seconds left.
+|inactive|worthlesslucker has 90 seconds left.
+|
+|t:|1772752544
+|move|p2a: Piloswine|Ice Shard|p1a: Rotom
+|-supereffective|p1a: Rotom
+|-damage|p1a: Rotom|9/229
+|move|p1a: Rotom|Leaf Storm|p2a: Piloswine
+|-supereffective|p2a: Piloswine
+|-damage|p2a: Piloswine|0 fnt
+|-unboost|p1a: Rotom|spa|2
+|faint|p2a: Piloswine
+|
+|-heal|p1a: Rotom|23/229|[from] item: Leftovers
+|upkeep
+|inactive|worthlesslucker has 90 seconds left.
+|
+|t:|1772752567
+|switch|p2a: Scovillain|Scovillain, L91, M|266/266
+|turn|9
+|inactive|randomplayboy has 120 seconds left.
+|
+|t:|1772752597
+|move|p1a: Rotom|Thunderbolt|p2a: Scovillain
+|-resisted|p2a: Scovillain
+|-damage|p2a: Scovillain|204/266
+|move|p2a: Scovillain|Flamethrower|p1a: Rotom
+|-supereffective|p1a: Rotom
+|-damage|p1a: Rotom|0 fnt
+|faint|p1a: Rotom
+|
+|upkeep
+|inactive|randomplayboy has 90 seconds left.
+|
+|t:|1772752630
+|switch|p1a: Vivillon|Vivillon-Elegant, L83, M|268/268
+|turn|10
+|inactive|worthlesslucker has 90 seconds left.
+|inactive|worthlesslucker has 60 seconds left.
+|
+|t:|1772752693
+|-terastallize|p2a: Scovillain|Grass
+|move|p1a: Vivillon|Hurricane|p2a: Scovillain
+|-supereffective|p2a: Scovillain
+|-damage|p2a: Scovillain|0 fnt
+|faint|p2a: Scovillain
+|
+|upkeep
+|inactive|worthlesslucker has 30 seconds left.
+|inactive|worthlesslucker has 20 seconds left.
+|
+|t:|1772752714
+|switch|p2a: Seviper|Seviper, L93, F|287/287
+|turn|11
+|inactive|worthlesslucker has 30 seconds left this turn.
+|inactive|randomplayboy has 90 seconds left.
+|
+|t:|1772752723
+|move|p1a: Vivillon|Sleep Powder|p2a: Seviper
+|-status|p2a: Seviper|slp|[from] move: Sleep Powder
+|cant|p2a: Seviper|slp
+|
+|upkeep
+|turn|12
+|-message|worthlesslucker forfeited.
+|
+|win|randomplayboy
+|raw|randomplayboy's rating: 1574 &rarr; <strong>1593</strong><br />(+19 for winning)
+|raw|worthlesslucker's rating: 1559 &rarr; <strong>1540</strong><br />(-19 for losing)
+|l|☆worthlesslucker
+|player|p2|

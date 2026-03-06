@@ -1,0 +1,70 @@
+|j|☆burnelltx
+|j|☆Poscidion
+|t:|1772751351
+|gametype|singles
+|player|p1|burnelltx|lenora|1420
+|player|p2|Poscidion|169|1417
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772751351
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Slither Wing|Slither Wing, L81|270/270
+|switch|p2a: Magearna|Magearna, L77|250/250
+|turn|1
+|
+|t:|1772751365
+|move|p1a: Slither Wing|Flare Blitz|p2a: Magearna
+|-supereffective|p2a: Magearna
+|-damage|p2a: Magearna|72/250
+|-enditem|p2a: Magearna|Weakness Policy
+|-boost|p2a: Magearna|atk|2|[from] item: Weakness Policy
+|-boost|p2a: Magearna|spa|2|[from] item: Weakness Policy
+|-damage|p1a: Slither Wing|211/270|[from] Recoil
+|move|p2a: Magearna|Shift Gear|p2a: Magearna
+|-boost|p2a: Magearna|spe|2
+|-boost|p2a: Magearna|atk|1
+|
+|upkeep
+|turn|2
+|
+|t:|1772751370
+|-terastallize|p1a: Slither Wing|Electric
+|move|p2a: Magearna|Fleur Cannon|p1a: Slither Wing
+|-damage|p1a: Slither Wing|0 fnt
+|-unboost|p2a: Magearna|spa|2
+|faint|p1a: Slither Wing
+|-ability|p2a: Magearna|Soul-Heart|boost
+|-boost|p2a: Magearna|spa|1
+|-end|p1a: Slither Wing|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1772751381
+|switch|p1a: Slowking|Slowking-Galar, L85, F|300/300
+|turn|3
+|
+|t:|1772751386
+|-terastallize|p2a: Magearna|Ground
+|move|p2a: Magearna|Tera Blast|p1a: Slowking|[anim] Tera Blast Ground
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|-ability|p2a: Magearna|Soul-Heart|boost
+|-boost|p2a: Magearna|spa|1
+|
+|upkeep
+|-message|burnelltx forfeited.
+|
+|win|Poscidion
+|raw|burnelltx's rating: 1420 &rarr; <strong>1400</strong><br />(-20 for losing)
+|raw|Poscidion's rating: 1417 &rarr; <strong>1437</strong><br />(+20 for winning)
+|l|☆burnelltx
+|player|p1|

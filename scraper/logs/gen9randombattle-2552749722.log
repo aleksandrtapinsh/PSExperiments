@@ -1,0 +1,291 @@
+|j|☆julupg
+|j|☆zaguar03
+|t:|1772749544
+|gametype|singles
+|player|p1|julupg|hoopster|
+|player|p2|zaguar03|cynthia-gen4|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772749544
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Toxtricity|Toxtricity, L82, F|257/257
+|switch|p2a: Golduck|Golduck, L90, F|290/290
+|-ability|p2a: Golduck|Cloud Nine
+|turn|1
+|
+|t:|1772749568
+|switch|p2a: Iron Leaves|Iron Leaves, L80|275/275
+|move|p1a: Toxtricity|Overdrive|p2a: Iron Leaves
+|-resisted|p2a: Iron Leaves
+|-damage|p2a: Iron Leaves|218/275
+|-enditem|p1a: Toxtricity|Throat Spray
+|-boost|p1a: Toxtricity|spa|1|[from] item: Throat Spray
+|
+|upkeep
+|turn|2
+|
+|t:|1772749585
+|switch|p1a: Spidops|Spidops, L96, F|271/271
+|move|p2a: Iron Leaves|Psyblade|p1a: Spidops
+|-damage|p1a: Spidops|162/271
+|-damage|p2a: Iron Leaves|191/275|[from] item: Life Orb
+|
+|upkeep
+|turn|3
+|
+|t:|1772749595
+|move|p2a: Iron Leaves|Swords Dance|p2a: Iron Leaves
+|-boost|p2a: Iron Leaves|atk|2
+|move|p1a: Spidops|U-turn|p2a: Iron Leaves
+|-supereffective|p2a: Iron Leaves
+|-damage|p2a: Iron Leaves|0 fnt
+|faint|p2a: Iron Leaves
+|-end|p2a: Iron Leaves|Quark Drive|[silent]
+|
+|t:|1772749608
+|switch|p1a: Toxtricity|Toxtricity, L82, F|257/257|[from] U-turn
+|
+|upkeep
+|
+|t:|1772749625
+|switch|p2a: Clefable|Clefable, L83, F|293/293
+|turn|4
+|
+|t:|1772749641
+|move|p1a: Toxtricity|Gunk Shot|p2a: Clefable
+|-supereffective|p2a: Clefable
+|-damage|p2a: Clefable|35/293
+|-status|p2a: Clefable|psn
+|move|p2a: Clefable|Moonblast|p1a: Toxtricity
+|-resisted|p1a: Toxtricity
+|-damage|p1a: Toxtricity|179/257
+|
+|upkeep
+|turn|5
+|
+|t:|1772749653
+|move|p1a: Toxtricity|Gunk Shot|p2a: Clefable
+|-supereffective|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|upkeep
+|
+|t:|1772749670
+|switch|p2a: Swalot|Swalot, L90, F|326/326
+|turn|6
+|
+|t:|1772749697
+|switch|p1a: Rabsca|Rabsca, L91, F|284/284
+|move|p2a: Swalot|Earthquake|p1a: Rabsca
+|-resisted|p1a: Rabsca
+|-crit|p1a: Rabsca
+|-damage|p1a: Rabsca|241/284
+|
+|upkeep
+|turn|7
+|
+|t:|1772749740
+|switch|p2a: Golduck|Golduck, L90, F|290/290
+|-ability|p2a: Golduck|Cloud Nine
+|move|p1a: Rabsca|Psychic|p2a: Golduck
+|-damage|p2a: Golduck|170/290
+|-unboost|p2a: Golduck|spd|1
+|
+|-heal|p2a: Golduck|188/290|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1772749766
+|move|p2a: Golduck|Nasty Plot|p2a: Golduck
+|-boost|p2a: Golduck|spa|2
+|move|p1a: Rabsca|Bug Buzz|p2a: Golduck
+|-damage|p2a: Golduck|8/290
+|
+|-heal|p2a: Golduck|26/290|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1772749775
+|move|p2a: Golduck|Ice Beam|p1a: Rabsca
+|-damage|p1a: Rabsca|121/284
+|move|p1a: Rabsca|Bug Buzz|p2a: Golduck
+|-damage|p2a: Golduck|0 fnt
+|faint|p2a: Golduck
+|
+|upkeep
+|
+|t:|1772749781
+|switch|p2a: Cinccino|Cinccino, L83, F|260/260
+|turn|10
+|
+|t:|1772749804
+|move|p2a: Cinccino|Tidy Up|p2a: Cinccino
+|-boost|p2a: Cinccino|atk|1
+|-boost|p2a: Cinccino|spe|1
+|move|p1a: Rabsca|Recover|p1a: Rabsca
+|-heal|p1a: Rabsca|263/284
+|
+|upkeep
+|turn|11
+|
+|t:|1772749813
+|move|p2a: Cinccino|Tidy Up|p2a: Cinccino
+|-boost|p2a: Cinccino|atk|1
+|-boost|p2a: Cinccino|spe|1
+|move|p1a: Rabsca|Bug Buzz|p2a: Cinccino
+|-damage|p2a: Cinccino|95/260
+|
+|upkeep
+|turn|12
+|
+|t:|1772749822
+|move|p2a: Cinccino|Triple Axel|p1a: Rabsca
+|-damage|p1a: Rabsca|225/284
+|-damage|p1a: Rabsca|153/284
+|-damage|p1a: Rabsca|29/284
+|-hitcount|p1a: Rabsca|3
+|move|p1a: Rabsca|Psychic|p2a: Cinccino
+|-damage|p2a: Cinccino|0 fnt
+|faint|p2a: Cinccino
+|
+|upkeep
+|
+|t:|1772749830
+|switch|p2a: Tentacruel|Tentacruel, L84, F|272/272
+|turn|13
+|
+|t:|1772749835
+|move|p2a: Tentacruel|Toxic Spikes|p1a: Rabsca
+|-sidestart|p1: julupg|move: Toxic Spikes
+|move|p1a: Rabsca|Recover|p1a: Rabsca
+|-heal|p1a: Rabsca|171/284
+|
+|upkeep
+|turn|14
+|
+|t:|1772749840
+|move|p2a: Tentacruel|Toxic Spikes|p1a: Rabsca
+|-sidestart|p1: julupg|move: Toxic Spikes
+|move|p1a: Rabsca|Recover|p1a: Rabsca
+|-heal|p1a: Rabsca|284/284
+|
+|upkeep
+|turn|15
+|
+|t:|1772749849
+|move|p2a: Tentacruel|Sludge Bomb|p1a: Rabsca
+|-damage|p1a: Rabsca|212/284
+|move|p1a: Rabsca|Bug Buzz|p2a: Tentacruel
+|-resisted|p2a: Tentacruel
+|-damage|p2a: Tentacruel|225/272
+|
+|-heal|p2a: Tentacruel|242/272|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1772749882
+|switch|p2a: Swalot|Swalot, L90, F|326/326
+|switch|p1a: Toxtricity|Toxtricity, L82, F|179/257
+|-sideend|p1: julupg|move: Toxic Spikes|[of] p1a: Toxtricity
+|
+|upkeep
+|turn|17
+|
+|t:|1772749904
+|move|p1a: Toxtricity|Shift Gear|p1a: Toxtricity
+|-boost|p1a: Toxtricity|spe|2
+|-boost|p1a: Toxtricity|atk|1
+|move|p2a: Swalot|Earthquake|p1a: Toxtricity
+|-supereffective|p1a: Toxtricity
+|-damage|p1a: Toxtricity|0 fnt
+|faint|p1a: Toxtricity
+|
+|upkeep
+|
+|t:|1772749912
+|switch|p1a: Rabsca|Rabsca, L91, F|212/284
+|turn|18
+|
+|t:|1772749918
+|move|p2a: Swalot|Toxic|p1a: Rabsca
+|-status|p1a: Rabsca|tox
+|-activate|p1a: Rabsca|ability: Synchronize
+|-immune|p2a: Swalot
+|move|p1a: Rabsca|Revival Blessing|p1a: Rabsca
+|
+|t:|1772749925
+|-heal|p1: Toxtricity|128/257|[from] move: Revival Blessing
+|
+|-damage|p1a: Rabsca|195/284 tox|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1772749934
+|move|p2a: Swalot|Sludge Bomb|p1a: Rabsca
+|-damage|p1a: Rabsca|119/284 tox
+|move|p1a: Rabsca|Psychic|p2a: Swalot
+|-supereffective|p2a: Swalot
+|-damage|p2a: Swalot|84/326
+|-unboost|p2a: Swalot|spd|1
+|
+|-heal|p2a: Swalot|104/326|[from] item: Leftovers
+|-damage|p1a: Rabsca|85/284 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1772749945
+|move|p2a: Swalot|Protect|p2a: Swalot
+|-singleturn|p2a: Swalot|Protect
+|move|p1a: Rabsca|Psychic|p2a: Swalot
+|-activate|p2a: Swalot|move: Protect
+|
+|-heal|p2a: Swalot|124/326|[from] item: Leftovers
+|-damage|p1a: Rabsca|34/284 tox|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1772749953
+|switch|p2a: Tentacruel|Tentacruel, L84, F|242/272
+|move|p1a: Rabsca|Psychic|p2a: Tentacruel
+|-supereffective|p2a: Tentacruel
+|-damage|p2a: Tentacruel|54/272
+|
+|-heal|p2a: Tentacruel|71/272|[from] item: Leftovers
+|-damage|p1a: Rabsca|0 fnt|[from] psn
+|faint|p1a: Rabsca
+|upkeep
+|
+|t:|1772749963
+|switch|p1a: Toxtricity|Toxtricity, L82, F|128/257
+|turn|22
+|
+|t:|1772749970
+|move|p2a: Tentacruel|Toxic Spikes|p1a: Toxtricity
+|-sidestart|p1: julupg|move: Toxic Spikes
+|move|p1a: Toxtricity|Overdrive|p2a: Tentacruel
+|-supereffective|p2a: Tentacruel
+|-damage|p2a: Tentacruel|0 fnt
+|faint|p2a: Tentacruel
+|
+|upkeep
+|
+|t:|1772749976
+|switch|p2a: Swalot|Swalot, L90, F|124/326
+|turn|23
+|
+|t:|1772749985
+|move|p1a: Toxtricity|Boomburst|p2a: Swalot
+|-damage|p2a: Swalot|0 fnt
+|faint|p2a: Swalot
+|
+|win|julupg
+|l|☆zaguar03
+|player|p2|

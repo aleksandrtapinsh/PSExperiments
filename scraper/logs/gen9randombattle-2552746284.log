@@ -1,0 +1,290 @@
+|j|☆king_kobold
+|j|☆Kirito028K
+|t:|1772749209
+|gametype|singles
+|player|p1|king_kobold|plasmagruntf-gen5bw|1215
+|player|p2|Kirito028K|2|1202
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772749209
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Goodra|Goodra, L85, M|292/292
+|switch|p2a: Cyclizar|Cyclizar, L83, F|252/252
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by king_kobold)
+|inactive|Kirito028K also wants the timer to be on.
+|
+|t:|1772749230
+|move|p2a: Cyclizar|Draco Meteor|p1a: Goodra
+|-supereffective|p1a: Goodra
+|-damage|p1a: Goodra|194/292
+|-unboost|p2a: Cyclizar|spa|2
+|move|p1a: Goodra|Draco Meteor|p2a: Cyclizar
+|-supereffective|p2a: Cyclizar
+|-damage|p2a: Cyclizar|0 fnt
+|-unboost|p1a: Goodra|spa|2
+|faint|p2a: Cyclizar
+|
+|upkeep
+|c|☆king_kobold|<3
+|
+|t:|1772749253
+|switch|p2a: Palkia|Palkia-Origin, L72|249/249
+|-ability|p2a: Palkia|Pressure
+|turn|2
+|
+|t:|1772749267
+|switch|p1a: Misdreavus|Misdreavus, L90, M|254/254
+|move|p2a: Palkia|Spacial Rend|p1a: Misdreavus
+|-damage|p1a: Misdreavus|176/254
+|
+|upkeep
+|turn|3
+|
+|t:|1772749285
+|switch|p2a: Sudowoodo|Sudowoodo, L94, M|284/284
+|-terastallize|p1a: Misdreavus|Fairy
+|move|p1a: Misdreavus|Calm Mind|p1a: Misdreavus
+|-boost|p1a: Misdreavus|spa|1
+|-boost|p1a: Misdreavus|spd|1
+|
+|upkeep
+|turn|4
+|
+|t:|1772749296
+|move|p1a: Misdreavus|Draining Kiss|p2a: Sudowoodo
+|-damage|p2a: Sudowoodo|172/284
+|-heal|p1a: Misdreavus|254/254|[from] drain|[of] p2a: Sudowoodo
+|move|p2a: Sudowoodo|Head Smash|p1a: Misdreavus|[miss]
+|-miss|p2a: Sudowoodo|p1a: Misdreavus
+|
+|upkeep
+|turn|5
+|
+|t:|1772749303
+|move|p1a: Misdreavus|Shadow Ball|p2a: Sudowoodo
+|-damage|p2a: Sudowoodo|33/284
+|move|p2a: Sudowoodo|Head Smash|p1a: Misdreavus
+|-damage|p1a: Misdreavus|26/254
+|
+|upkeep
+|turn|6
+|
+|t:|1772749310
+|move|p1a: Misdreavus|Draining Kiss|p2a: Sudowoodo
+|-damage|p2a: Sudowoodo|0 fnt
+|-heal|p1a: Misdreavus|51/254|[from] drain|[of] p2a: Sudowoodo
+|faint|p2a: Sudowoodo
+|
+|upkeep
+|
+|t:|1772749332
+|switch|p2a: Oricorio|Oricorio-Sensu, L85, F|266/266
+|turn|7
+|
+|t:|1772749340
+|move|p2a: Oricorio|Hurricane|p1a: Misdreavus
+|-damage|p1a: Misdreavus|2/254
+|move|p1a: Misdreavus|Shadow Ball|p2a: Oricorio
+|-supereffective|p2a: Oricorio
+|-damage|p2a: Oricorio|0 fnt
+|faint|p2a: Oricorio
+|
+|upkeep
+|c|☆king_kobold|no way </3
+|
+|t:|1772749351
+|switch|p2a: Palkia|Palkia-Origin, L72|249/249
+|-ability|p2a: Palkia|Pressure
+|turn|8
+|
+|t:|1772749365
+|move|p2a: Palkia|Fire Blast|p1a: Misdreavus
+|-damage|p1a: Misdreavus|0 fnt
+|faint|p1a: Misdreavus
+|
+|upkeep
+|
+|t:|1772749374
+|switch|p1a: Goodra|Goodra, L85, M|194/292
+|turn|9
+|
+|t:|1772749377
+|move|p2a: Palkia|Spacial Rend|p1a: Goodra|[miss]
+|-miss|p2a: Palkia|p1a: Goodra
+|move|p1a: Goodra|Draco Meteor|p2a: Palkia
+|-supereffective|p2a: Palkia
+|-damage|p2a: Palkia|0 fnt
+|-unboost|p1a: Goodra|spa|2
+|faint|p2a: Palkia
+|
+|upkeep
+|c|☆king_kobold|im hacking ong
+|c|☆Kirito028K|holy shit
+|c|☆king_kobold|bc there is no way
+|
+|t:|1772749392
+|switch|p2a: Chimecho|Chimecho, L93, M|290/290
+|turn|10
+|
+|t:|1772749399
+|move|p1a: Goodra|Knock Off|p2a: Chimecho
+|-supereffective|p2a: Chimecho
+|-damage|p2a: Chimecho|146/290
+|-enditem|p2a: Chimecho|Leftovers|[from] move: Knock Off|[of] p1a: Goodra
+|move|p2a: Chimecho|Knock Off|p1a: Goodra
+|-damage|p1a: Goodra|136/292
+|-enditem|p1a: Goodra|Assault Vest|[from] move: Knock Off|[of] p2a: Chimecho
+|
+|upkeep
+|turn|11
+|
+|t:|1772749411
+|move|p1a: Goodra|Knock Off|p2a: Chimecho
+|-supereffective|p2a: Chimecho
+|-damage|p2a: Chimecho|44/290
+|move|p2a: Chimecho|Recover|p2a: Chimecho
+|-heal|p2a: Chimecho|189/290
+|
+|upkeep
+|turn|12
+|
+|t:|1772749423
+|switch|p1a: Shaymin|Shaymin, L82|298/298
+|move|p2a: Chimecho|Recover|p2a: Chimecho
+|-heal|p2a: Chimecho|290/290
+|
+|upkeep
+|turn|13
+|
+|t:|1772749430
+|move|p1a: Shaymin|Air Slash|p2a: Chimecho
+|-damage|p2a: Chimecho|245/290
+|move|p2a: Chimecho|Knock Off|p1a: Shaymin
+|-damage|p1a: Shaymin|245/298
+|-enditem|p1a: Shaymin|Leftovers|[from] move: Knock Off|[of] p2a: Chimecho
+|
+|upkeep
+|turn|14
+|
+|t:|1772749442
+|move|p1a: Shaymin|Air Slash|p2a: Chimecho
+|-damage|p2a: Chimecho|199/290
+|move|p2a: Chimecho|Psychic Noise|p1a: Shaymin
+|-damage|p1a: Shaymin|160/298
+|-start|p1a: Shaymin|move: Heal Block
+|
+|upkeep
+|turn|15
+|
+|t:|1772749449
+|move|p1a: Shaymin|Seed Flare|p2a: Chimecho
+|-damage|p2a: Chimecho|87/290
+|-unboost|p2a: Chimecho|spd|2
+|move|p2a: Chimecho|Psychic Noise|p1a: Shaymin
+|-damage|p1a: Shaymin|66/298
+|
+|-end|p1a: Shaymin|move: Heal Block
+|upkeep
+|turn|16
+|
+|t:|1772749459
+|move|p1a: Shaymin|Seed Flare|p2a: Chimecho
+|-damage|p2a: Chimecho|0 fnt
+|faint|p2a: Chimecho
+|
+|upkeep
+|
+|t:|1772749463
+|switch|p2a: Iron Hands|Iron Hands, L79|373/373
+|turn|17
+|
+|t:|1772749469
+|move|p1a: Shaymin|Synthesis|p1a: Shaymin
+|-heal|p1a: Shaymin|215/298
+|move|p2a: Iron Hands|Ice Punch|p1a: Shaymin
+|-supereffective|p1a: Shaymin
+|-damage|p1a: Shaymin|99/298
+|
+|upkeep
+|turn|18
+|
+|t:|1772749476
+|move|p1a: Shaymin|Synthesis|p1a: Shaymin
+|-heal|p1a: Shaymin|248/298
+|move|p2a: Iron Hands|Ice Punch|p1a: Shaymin
+|-supereffective|p1a: Shaymin
+|-damage|p1a: Shaymin|128/298
+|
+|upkeep
+|turn|19
+|
+|t:|1772749482
+|move|p1a: Shaymin|Synthesis|p1a: Shaymin
+|-heal|p1a: Shaymin|277/298
+|move|p2a: Iron Hands|Swords Dance|p2a: Iron Hands
+|-boost|p2a: Iron Hands|atk|2
+|
+|upkeep
+|turn|20
+|
+|t:|1772749488
+|move|p1a: Shaymin|Air Slash|p2a: Iron Hands
+|-damage|p2a: Iron Hands|305/373
+|move|p2a: Iron Hands|Ice Punch|p1a: Shaymin
+|-supereffective|p1a: Shaymin
+|-damage|p1a: Shaymin|55/298
+|
+|-heal|p2a: Iron Hands|328/373|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1772749495
+|move|p1a: Shaymin|Earth Power|p2a: Iron Hands
+|-supereffective|p2a: Iron Hands
+|-damage|p2a: Iron Hands|156/373
+|move|p2a: Iron Hands|Ice Punch|p1a: Shaymin
+|-supereffective|p1a: Shaymin
+|-damage|p1a: Shaymin|0 fnt
+|faint|p1a: Shaymin
+|
+|-heal|p2a: Iron Hands|179/373|[from] item: Leftovers
+|upkeep
+|
+|t:|1772749499
+|switch|p1a: Great Tusk|Great Tusk, L77|304/304
+|turn|22
+|
+|t:|1772749508
+|-terastallize|p2a: Iron Hands|Fighting
+|move|p1a: Great Tusk|Earthquake|p2a: Iron Hands
+|-damage|p2a: Iron Hands|73/373
+|move|p2a: Iron Hands|Ice Punch|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|98/304
+|
+|-heal|p1a: Great Tusk|117/304|[from] item: Leftovers
+|-heal|p2a: Iron Hands|96/373|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1772749518
+|move|p1a: Great Tusk|Close Combat|p2a: Iron Hands
+|-damage|p2a: Iron Hands|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Iron Hands
+|-end|p2a: Iron Hands|Quark Drive|[silent]
+|
+|win|king_kobold
+|raw|king_kobold's rating: 1215 &rarr; <strong>1239</strong><br />(+24 for winning)
+|raw|Kirito028K's rating: 1202 &rarr; <strong>1178</strong><br />(-24 for losing)
+|c|☆king_kobold|gg goat

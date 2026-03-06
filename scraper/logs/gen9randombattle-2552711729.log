@@ -1,0 +1,383 @@
+|j|☆PhilsburySadBoi
+|j|☆liljuicewrldvert
+|t:|1772745823
+|gametype|singles
+|player|p1|PhilsburySadBoi|2|1484
+|player|p2|liljuicewrldvert|roxie|1489
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772745823
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Entei|Entei, L78|307/307
+|switch|p2a: Tauros|Tauros-Paldea-Aqua, L81, M|254/254
+|-ability|p2a: Tauros|Intimidate|boost
+|-fail|p1a: Entei|unboost|Attack|[from] ability: Inner Focus|[of] p1a: Entei
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by PhilsburySadBoi)
+|
+|t:|1772745833
+|move|p2a: Tauros|Liquidation|p1a: Entei
+|-supereffective|p1a: Entei
+|-damage|p1a: Entei|26/307
+|-damage|p2a: Tauros|229/254|[from] item: Life Orb
+|move|p1a: Entei|Sacred Fire|p2a: Tauros
+|-resisted|p2a: Tauros
+|-damage|p2a: Tauros|157/254
+|
+|upkeep
+|turn|2
+|
+|t:|1772745847
+|switch|p1a: Dipplin|Dipplin, L88, M|284/284
+|move|p2a: Tauros|Liquidation|p1a: Dipplin
+|-resisted|p1a: Dipplin
+|-crit|p1a: Dipplin
+|-damage|p1a: Dipplin|259/284
+|-damage|p2a: Tauros|132/254|[from] item: Life Orb
+|
+|upkeep
+|turn|3
+|
+|t:|1772745854
+|switch|p2a: Skarmory|Skarmory, L80, F|235/235
+|move|p1a: Dipplin|Giga Drain|p2a: Skarmory
+|-resisted|p2a: Skarmory
+|-crit|p2a: Skarmory
+|-damage|p2a: Skarmory|193/235
+|-heal|p1a: Dipplin|280/284|[from] drain|[of] p2a: Skarmory
+|
+|upkeep
+|turn|4
+|
+|t:|1772745868
+|move|p1a: Dipplin|Sucker Punch||[still]
+|-fail|p1a: Dipplin
+|move|p2a: Skarmory|Spikes|p1a: Dipplin
+|-sidestart|p1: PhilsburySadBoi|Spikes
+|
+|upkeep
+|turn|5
+|
+|t:|1772745874
+|switch|p1a: Blissey|Blissey, L85, F|219/219
+|-damage|p1a: Blissey|192/219|[from] Spikes
+|move|p2a: Skarmory|Body Press|p1a: Blissey
+|-immune|p1a: Blissey
+|
+|upkeep
+|turn|6
+|
+|t:|1772745888
+|move|p1a: Blissey|Trick|p2a: Skarmory
+|-activate|p1a: Blissey|move: Trick|[of] p2a: Skarmory
+|-item|p2a: Skarmory|Choice Specs|[from] move: Trick
+|-item|p1a: Blissey|Rocky Helmet|[from] move: Trick
+|move|p2a: Skarmory|Brave Bird|p1a: Blissey
+|-damage|p1a: Blissey|62/219
+|-damage|p2a: Skarmory|154/235|[from] item: Rocky Helmet|[of] p1a: Blissey
+|replace|p1a: Zoroark|Zoroark-Hisui, L80, F
+|-end|p1a: Zoroark|Illusion
+|-hint|Illusion Level Mod is active, so this Pokémon's true level was hidden.
+|-damage|p2a: Skarmory|111/235|[from] Recoil
+|
+|upkeep
+|turn|7
+|
+|t:|1772745899
+|move|p1a: Zoroark|Flamethrower|p2a: Skarmory
+|-supereffective|p2a: Skarmory
+|-damage|p2a: Skarmory|0 fnt
+|faint|p2a: Skarmory
+|
+|upkeep
+|
+|t:|1772745904
+|switch|p2a: Tauros|Tauros-Paldea-Aqua, L81, M|132/254
+|-ability|p2a: Tauros|Intimidate|boost
+|-unboost|p1a: Zoroark|atk|1
+|turn|8
+|
+|t:|1772745908
+|move|p2a: Tauros|Aqua Jet|p1a: Zoroark
+|-crit|p1a: Zoroark
+|-damage|p1a: Zoroark|0 fnt
+|-damage|p2a: Tauros|90/254|[from] item: Rocky Helmet|[of] p1a: Zoroark
+|faint|p1a: Zoroark
+|-damage|p2a: Tauros|65/254|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772745912
+|switch|p1a: Dipplin|Dipplin, L88, M|280/284
+|-damage|p1a: Dipplin|245/284|[from] Spikes
+|turn|9
+|
+|t:|1772745921
+|switch|p2a: Toxapex|Toxapex, L82, M|216/216
+|move|p1a: Dipplin|Dragon Pulse|p2a: Toxapex
+|-crit|p2a: Toxapex
+|-damage|p2a: Toxapex|105/216
+|
+|upkeep
+|turn|10
+|
+|t:|1772745931
+|move|p1a: Dipplin|Giga Drain|p2a: Toxapex
+|-damage|p2a: Toxapex|44/216
+|-heal|p1a: Dipplin|276/284|[from] drain|[of] p2a: Toxapex
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|152/216
+|
+|upkeep
+|turn|11
+|
+|t:|1772745941
+|move|p1a: Dipplin|Dragon Pulse|p2a: Toxapex
+|-damage|p2a: Toxapex|77/216
+|move|p2a: Toxapex|Toxic Spikes|p1a: Dipplin
+|-sidestart|p1: PhilsburySadBoi|move: Toxic Spikes
+|
+|upkeep
+|turn|12
+|
+|t:|1772745949
+|move|p1a: Dipplin|Dragon Pulse|p2a: Toxapex
+|-damage|p2a: Toxapex|2/216
+|move|p2a: Toxapex|Toxic Spikes|p1a: Dipplin
+|-sidestart|p1: PhilsburySadBoi|move: Toxic Spikes
+|
+|upkeep
+|turn|13
+|
+|t:|1772745957
+|switch|p2a: Palossand|Palossand, L89, F|296/296
+|move|p1a: Dipplin|Giga Drain|p2a: Palossand
+|-supereffective|p2a: Palossand
+|-damage|p2a: Palossand|116/296
+|-heal|p1a: Dipplin|284/284|[from] drain|[of] p2a: Palossand
+|
+|-heal|p2a: Palossand|134/296|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1772745967
+|move|p1a: Dipplin|Giga Drain|p2a: Palossand
+|-supereffective|p2a: Palossand
+|-damage|p2a: Palossand|0 fnt
+|faint|p2a: Palossand
+|
+|upkeep
+|
+|t:|1772745975
+|switch|p2a: Volcarona|Volcarona, L77, M|257/257
+|turn|15
+|
+|t:|1772745980
+|move|p2a: Volcarona|Bug Buzz|p1a: Dipplin
+|-supereffective|p1a: Dipplin
+|-damage|p1a: Dipplin|138/284
+|move|p1a: Dipplin|Dragon Pulse|p2a: Volcarona
+|-damage|p2a: Volcarona|169/257
+|
+|upkeep
+|turn|16
+|
+|t:|1772745988
+|-terastallize|p1a: Dipplin|Steel
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|move|p1a: Dipplin|Dragon Pulse|p2a: Volcarona
+|-damage|p2a: Volcarona|109/257
+|
+|upkeep
+|turn|17
+|
+|t:|1772745995
+|move|p1a: Dipplin|Sucker Punch|p2a: Volcarona
+|-damage|p2a: Volcarona|46/257
+|-status|p1a: Dipplin|brn|[from] ability: Flame Body|[of] p2a: Volcarona
+|move|p2a: Volcarona|Fire Blast|p1a: Dipplin
+|-supereffective|p1a: Dipplin
+|-damage|p1a: Dipplin|0 fnt
+|faint|p1a: Dipplin
+|
+|upkeep
+|
+|t:|1772746005
+|switch|p1a: Blissey|Blissey, L85, F|572/572
+|-damage|p1a: Blissey|501/572|[from] Spikes
+|-status|p1a: Blissey|tox
+|turn|18
+|
+|t:|1772746015
+|move|p2a: Volcarona|Giga Drain|p1a: Blissey
+|-damage|p1a: Blissey|435/572 tox
+|-heal|p2a: Volcarona|79/257|[from] drain|[of] p1a: Blissey
+|move|p1a: Blissey|Thunder Wave|p2a: Volcarona
+|-status|p2a: Volcarona|par
+|
+|-heal|p1a: Blissey|470/572 tox|[from] item: Leftovers
+|-damage|p1a: Blissey|435/572 tox|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1772746022
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|move|p1a: Blissey|Heal Bell|p1a: Blissey
+|-activate|p1a: Blissey|move: Heal Bell
+|-curestatus|p1a: Blissey|tox|[msg]
+|
+|-heal|p1a: Blissey|470/572|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1772746031
+|switch|p2a: Toxapex|Toxapex, L82, M|74/216
+|move|p1a: Blissey|Seismic Toss|p2a: Toxapex
+|-damage|p2a: Toxapex|0 fnt
+|-damage|p1a: Blissey|375/572|[from] item: Rocky Helmet|[of] p2a: Toxapex
+|faint|p2a: Toxapex
+|
+|-heal|p1a: Blissey|410/572|[from] item: Leftovers
+|upkeep
+|
+|t:|1772746036
+|switch|p2a: Tauros|Tauros-Paldea-Aqua, L81, M|65/254
+|-ability|p2a: Tauros|Intimidate|boost
+|-unboost|p1a: Blissey|atk|1
+|turn|21
+|
+|t:|1772746045
+|switch|p1a: Entei|Entei, L78|26/307
+|-damage|p1a: Entei|0 fnt|[from] Spikes
+|faint|p1a: Entei
+|move|p2a: Tauros|Close Combat|p1: Entei|[notarget]
+|-fail|p2a: Tauros
+|
+|upkeep
+|
+|t:|1772746051
+|switch|p1a: Leavanny|Leavanny, L86, F|269/269
+|turn|22
+|
+|t:|1772746066
+|move|p2a: Tauros|Liquidation|p1a: Leavanny
+|-resisted|p1a: Leavanny
+|-damage|p1a: Leavanny|211/269
+|-damage|p2a: Tauros|40/254|[from] item: Life Orb
+|move|p1a: Leavanny|Sticky Web|p2a: Tauros
+|-sidestart|p2: liljuicewrldvert|move: Sticky Web
+|
+|upkeep
+|turn|23
+|
+|t:|1772746074
+|move|p2a: Tauros|Close Combat|p1a: Leavanny
+|-resisted|p1a: Leavanny
+|-damage|p1a: Leavanny|116/269
+|-unboost|p2a: Tauros|def|1
+|-unboost|p2a: Tauros|spd|1
+|-damage|p2a: Tauros|15/254|[from] item: Life Orb
+|move|p1a: Leavanny|Leaf Blade|p2a: Tauros
+|-supereffective|p2a: Tauros
+|-crit|p2a: Tauros
+|-damage|p2a: Tauros|0 fnt
+|faint|p2a: Tauros
+|
+|upkeep
+|
+|t:|1772746078
+|switch|p2a: Volcarona|Volcarona, L77, M|79/257 par
+|turn|24
+|
+|t:|1772746089
+|move|p1a: Leavanny|Knock Off|p2a: Volcarona
+|-damage|p2a: Volcarona|0 fnt
+|-status|p1a: Leavanny|brn|[from] ability: Flame Body|[of] p2a: Volcarona
+|-enditem|p2a: Volcarona|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Leavanny
+|faint|p2a: Volcarona
+|
+|-damage|p1a: Leavanny|100/269 brn|[from] brn
+|upkeep
+|
+|t:|1772746092
+|switch|p2a: Tyranitar|Tyranitar, L78, F|284/284
+|-activate|p2a: Tyranitar|move: Sticky Web
+|-unboost|p2a: Tyranitar|spe|1
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|turn|25
+|
+|t:|1772746102
+|move|p1a: Leavanny|Leaf Blade|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|187/284
+|move|p2a: Tyranitar|Stone Edge|p1a: Leavanny
+|-supereffective|p1a: Leavanny
+|-damage|p1a: Leavanny|0 fnt
+|faint|p1a: Leavanny
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Tyranitar|204/284|[from] item: Leftovers
+|upkeep
+|
+|t:|1772746111
+|switch|p1a: Blissey|Blissey, L85, F|410/572
+|-damage|p1a: Blissey|339/572|[from] Spikes
+|-status|p1a: Blissey|tox
+|turn|26
+|c|☆PhilsburySadBoi|wp
+|
+|t:|1772746125
+|move|p1a: Blissey|Seismic Toss|p2a: Tyranitar
+|-damage|p2a: Tyranitar|119/284
+|move|p2a: Tyranitar|Stone Edge|p1a: Blissey
+|-damage|p1a: Blissey|6/572 tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Blissey|0 fnt|[from] Sandstorm
+|faint|p1a: Blissey
+|-heal|p2a: Tyranitar|136/284|[from] item: Leftovers
+|upkeep
+|c|☆liljuicewrldvert|samr
+|
+|t:|1772746131
+|switch|p1a: Bastiodon|Bastiodon, L89, F|252/252
+|-damage|p1a: Bastiodon|221/252|[from] Spikes
+|turn|27
+|
+|t:|1772746139
+|-terastallize|p2a: Tyranitar|Ghost
+|move|p1a: Bastiodon|Body Press|p2a: Tyranitar
+|-immune|p2a: Tyranitar
+|move|p2a: Tyranitar|Knock Off|p1a: Bastiodon
+|-damage|p1a: Bastiodon|160/252
+|-enditem|p1a: Bastiodon|Chesto Berry|[from] move: Knock Off|[of] p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Tyranitar|119/284|[from] Sandstorm
+|-heal|p2a: Tyranitar|136/284|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1772746143
+|move|p1a: Bastiodon|Foul Play|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|0 fnt
+|faint|p2a: Tyranitar
+|
+|win|PhilsburySadBoi
+|raw|PhilsburySadBoi's rating: 1484 &rarr; <strong>1504</strong><br />(+20 for winning)
+|raw|liljuicewrldvert's rating: 1489 &rarr; <strong>1469</strong><br />(-20 for losing)

@@ -1,0 +1,374 @@
+|j|☆volcaronapower
+|j|☆AFTR_ShoCk
+|t:|1772745347
+|gametype|singles
+|player|p1|volcaronapower|1|1315
+|player|p2|AFTR_ShoCk|169|1357
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772745347
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Enamorus|Enamorus-Therian, L83, F|259/259
+|switch|p2a: Blastoise|Blastoise, L80, M|258/258
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by AFTR_ShoCk)
+|inactive|volcaronapower also wants the timer to be on.
+|c|☆AFTR_ShoCk|glhf
+|
+|t:|1772745367
+|switch|p2a: Sandaconda|Sandaconda, L84, F|258/258
+|move|p1a: Enamorus|Agility|p1a: Enamorus
+|-boost|p1a: Enamorus|spe|2
+|
+|upkeep
+|turn|2
+|
+|t:|1772745378
+|-terastallize|p1a: Enamorus|Ground
+|move|p1a: Enamorus|Earth Power|p2a: Sandaconda
+|-crit|p2a: Sandaconda
+|-damage|p2a: Sandaconda|33/258
+|move|p2a: Sandaconda|Rock Blast|p1a: Enamorus
+|-resisted|p1a: Enamorus
+|-damage|p1a: Enamorus|251/259
+|-resisted|p1a: Enamorus
+|-damage|p1a: Enamorus|242/259
+|-resisted|p1a: Enamorus
+|-damage|p1a: Enamorus|234/259
+|-resisted|p1a: Enamorus
+|-damage|p1a: Enamorus|226/259
+|-hitcount|p1a: Enamorus|4
+|
+|upkeep
+|turn|3
+|
+|t:|1772745393
+|switch|p2a: Dipplin|Dipplin, L88, F|284/284
+|move|p1a: Enamorus|Earth Power|p2a: Dipplin
+|-resisted|p2a: Dipplin
+|-damage|p2a: Dipplin|241/284
+|
+|upkeep
+|turn|4
+|
+|t:|1772745401
+|move|p1a: Enamorus|Moonblast|p2a: Dipplin
+|-supereffective|p2a: Dipplin
+|-damage|p2a: Dipplin|47/284
+|move|p2a: Dipplin|Giga Drain|p1a: Enamorus
+|-supereffective|p1a: Enamorus
+|-damage|p1a: Enamorus|56/259
+|-heal|p2a: Dipplin|132/284|[from] drain|[of] p1a: Enamorus
+|-enditem|p1a: Enamorus|Weakness Policy
+|-boost|p1a: Enamorus|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Enamorus|spa|2|[from] item: Weakness Policy
+|
+|upkeep
+|turn|5
+|
+|t:|1772745408
+|move|p1a: Enamorus|Moonblast|p2a: Dipplin
+|-supereffective|p2a: Dipplin
+|-damage|p2a: Dipplin|0 fnt
+|faint|p2a: Dipplin
+|
+|upkeep
+|
+|t:|1772745421
+|switch|p2a: Luvdisc|Luvdisc, F|247/247
+|turn|6
+|
+|t:|1772745427
+|move|p2a: Luvdisc|Flip Turn|p1a: Enamorus
+|-supereffective|p1a: Enamorus
+|-damage|p1a: Enamorus|0 fnt
+|faint|p1a: Enamorus
+|
+|t:|1772745430
+|switch|p2a: Sandaconda|Sandaconda, L84, F|33/258|[from] Flip Turn
+|
+|upkeep
+|
+|t:|1772745441
+|switch|p1a: Regigigas|Regigigas, L84|322/322
+|-start|p1a: Regigigas|ability: Slow Start
+|turn|7
+|
+|t:|1772745454
+|move|p2a: Sandaconda|Earthquake|p1a: Regigigas
+|-damage|p1a: Regigigas|228/322
+|move|p1a: Regigigas|Substitute|p1a: Regigigas
+|-start|p1a: Regigigas|Substitute
+|-damage|p1a: Regigigas|148/322
+|
+|-heal|p1a: Regigigas|168/322|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1772745467
+|move|p2a: Sandaconda|Scale Shot|p1a: Regigigas
+|-activate|p1a: Regigigas|move: Substitute|[damage]
+|-activate|p1a: Regigigas|move: Substitute|[damage]
+|-activate|p1a: Regigigas|move: Substitute|[damage]
+|-activate|p1a: Regigigas|move: Substitute|[damage]
+|-hitcount|p1a: Regigigas|4
+|-unboost|p2a: Sandaconda|def|1
+|-boost|p2a: Sandaconda|spe|1
+|move|p1a: Regigigas|Body Slam|p2a: Sandaconda
+|-crit|p2a: Sandaconda
+|-damage|p2a: Sandaconda|0 fnt
+|faint|p2a: Sandaconda
+|
+|-heal|p1a: Regigigas|188/322|[from] item: Leftovers
+|upkeep
+|
+|t:|1772745479
+|switch|p2a: Luvdisc|Luvdisc, F|247/247
+|turn|9
+|
+|t:|1772745487
+|move|p1a: Regigigas|Protect|p1a: Regigigas
+|-singleturn|p1a: Regigigas|Protect
+|move|p2a: Luvdisc|Surf|p1a: Regigigas
+|-activate|p1a: Regigigas|move: Protect
+|
+|-heal|p1a: Regigigas|208/322|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1772745498
+|move|p2a: Luvdisc|Surf|p1a: Regigigas
+|-end|p1a: Regigigas|Substitute
+|move|p1a: Regigigas|Substitute|p1a: Regigigas
+|-start|p1a: Regigigas|Substitute
+|-damage|p1a: Regigigas|128/322
+|
+|-heal|p1a: Regigigas|148/322|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1772745508
+|move|p2a: Luvdisc|Substitute|p2a: Luvdisc
+|-start|p2a: Luvdisc|Substitute
+|-damage|p2a: Luvdisc|186/247
+|move|p1a: Regigigas|Body Slam|p2a: Luvdisc
+|-end|p2a: Luvdisc|Substitute
+|
+|-heal|p1a: Regigigas|168/322|[from] item: Leftovers
+|-end|p1a: Regigigas|Slow Start
+|upkeep
+|turn|12
+|
+|t:|1772745521
+|move|p2a: Luvdisc|Surf|p1a: Regigigas
+|-activate|p1a: Regigigas|move: Substitute|[damage]
+|move|p1a: Regigigas|Body Slam|p2a: Luvdisc
+|-damage|p2a: Luvdisc|33/247
+|
+|-heal|p1a: Regigigas|188/322|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1772745537
+|move|p1a: Regigigas|Protect|p1a: Regigigas
+|-singleturn|p1a: Regigigas|Protect
+|move|p2a: Luvdisc|Surf|p1a: Regigigas
+|-activate|p1a: Regigigas|move: Protect
+|
+|-heal|p1a: Regigigas|208/322|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1772745546
+|move|p2a: Luvdisc|Surf|p1a: Regigigas
+|-end|p1a: Regigigas|Substitute
+|move|p1a: Regigigas|Body Slam|p2a: Luvdisc
+|-damage|p2a: Luvdisc|0 fnt
+|faint|p2a: Luvdisc
+|
+|-heal|p1a: Regigigas|228/322|[from] item: Leftovers
+|upkeep
+|
+|t:|1772745548
+|switch|p2a: Alcremie|Alcremie-Rainbow-Swirl, L90, F|263/263
+|turn|15
+|
+|t:|1772745560
+|move|p1a: Regigigas|Substitute|p1a: Regigigas
+|-start|p1a: Regigigas|Substitute
+|-damage|p1a: Regigigas|148/322
+|move|p2a: Alcremie|Calm Mind|p2a: Alcremie
+|-boost|p2a: Alcremie|spa|1
+|-boost|p2a: Alcremie|spd|1
+|
+|-heal|p1a: Regigigas|168/322|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1772745570
+|move|p1a: Regigigas|Body Slam|p2a: Alcremie
+|-damage|p2a: Alcremie|130/263
+|move|p2a: Alcremie|Calm Mind|p2a: Alcremie
+|-boost|p2a: Alcremie|spa|1
+|-boost|p2a: Alcremie|spd|1
+|
+|-heal|p1a: Regigigas|188/322|[from] item: Leftovers
+|-heal|p2a: Alcremie|146/263|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1772745580
+|move|p1a: Regigigas|Body Slam|p2a: Alcremie
+|-damage|p2a: Alcremie|0 fnt
+|faint|p2a: Alcremie
+|
+|-heal|p1a: Regigigas|208/322|[from] item: Leftovers
+|upkeep
+|
+|t:|1772745588
+|switch|p2a: Mewtwo|Mewtwo, L72|272/272
+|-ability|p2a: Mewtwo|Pressure
+|turn|18
+|
+|t:|1772745593
+|move|p2a: Mewtwo|Psystrike|p1a: Regigigas
+|-end|p1a: Regigigas|Substitute
+|-damage|p2a: Mewtwo|245/272|[from] item: Life Orb
+|move|p1a: Regigigas|Knock Off|p2a: Mewtwo
+|-supereffective|p2a: Mewtwo
+|-damage|p2a: Mewtwo|15/272
+|-enditem|p2a: Mewtwo|Life Orb|[from] move: Knock Off|[of] p1a: Regigigas
+|
+|-heal|p1a: Regigigas|228/322|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1772745602
+|move|p1a: Regigigas|Protect|p1a: Regigigas
+|-singleturn|p1a: Regigigas|Protect
+|move|p2a: Mewtwo|Aura Sphere|p1a: Regigigas
+|-activate|p1a: Regigigas|move: Protect
+|
+|-heal|p1a: Regigigas|248/322|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1772745615
+|move|p2a: Mewtwo|Aura Sphere|p1a: Regigigas
+|-supereffective|p1a: Regigigas
+|-damage|p1a: Regigigas|152/322
+|move|p1a: Regigigas|Body Slam|p2a: Mewtwo
+|-damage|p2a: Mewtwo|0 fnt
+|faint|p2a: Mewtwo
+|
+|-heal|p1a: Regigigas|172/322|[from] item: Leftovers
+|upkeep
+|
+|t:|1772745618
+|switch|p2a: Blastoise|Blastoise, L80, M|258/258
+|turn|21
+|
+|t:|1772745628
+|move|p1a: Regigigas|Body Slam|p2a: Blastoise
+|-damage|p2a: Blastoise|125/258
+|-status|p2a: Blastoise|par
+|move|p2a: Blastoise|Shell Smash|p2a: Blastoise
+|-unboost|p2a: Blastoise|def|1
+|-unboost|p2a: Blastoise|spd|1
+|-boost|p2a: Blastoise|atk|2
+|-boost|p2a: Blastoise|spa|2
+|-boost|p2a: Blastoise|spe|2
+|-enditem|p2a: Blastoise|White Herb
+|-clearnegativeboost|p2a: Blastoise|[silent]
+|
+|-heal|p1a: Regigigas|192/322|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1772745637
+|move|p1a: Regigigas|Protect|p1a: Regigigas
+|-singleturn|p1a: Regigigas|Protect
+|move|p2a: Blastoise|Shell Smash|p2a: Blastoise
+|-unboost|p2a: Blastoise|def|1
+|-unboost|p2a: Blastoise|spd|1
+|-boost|p2a: Blastoise|atk|2
+|-boost|p2a: Blastoise|spa|2
+|-boost|p2a: Blastoise|spe|2
+|
+|-heal|p1a: Regigigas|212/322|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1772745642
+|move|p2a: Blastoise|Hydro Pump|p1a: Regigigas
+|-damage|p1a: Regigigas|0 fnt
+|faint|p1a: Regigigas
+|-end|p1a: Regigigas|Slow Start|[silent]
+|
+|upkeep
+|
+|t:|1772745650
+|switch|p1a: Spidops|Spidops, L96, F|271/271
+|turn|24
+|
+|t:|1772745657
+|-terastallize|p2a: Blastoise|Water
+|move|p2a: Blastoise|Hydro Pump|p1a: Spidops
+|-damage|p1a: Spidops|0 fnt
+|faint|p1a: Spidops
+|
+|upkeep
+|
+|t:|1772745668
+|switch|p1a: Dachsbun|Dachsbun, L92, M|254/254
+|turn|25
+|
+|t:|1772745680
+|cant|p2a: Blastoise|par
+|move|p1a: Dachsbun|Body Press|p2a: Blastoise
+|-damage|p2a: Blastoise|10/258 par
+|
+|upkeep
+|turn|26
+|
+|t:|1772745688
+|move|p2a: Blastoise|Hydro Pump|p1a: Dachsbun
+|-damage|p1a: Dachsbun|0 fnt
+|faint|p1a: Dachsbun
+|
+|upkeep
+|
+|t:|1772745690
+|switch|p1a: Gothitelle|Gothitelle, L90, F|272/272
+|turn|27
+|
+|t:|1772745693
+|move|p2a: Blastoise|Hydro Pump|p1a: Gothitelle
+|-damage|p1a: Gothitelle|0 fnt
+|faint|p1a: Gothitelle
+|
+|upkeep
+|
+|t:|1772745695
+|switch|p1a: Spectrier|Spectrier, L75|274/274
+|turn|28
+|
+|t:|1772745699
+|move|p2a: Blastoise|Hydro Pump|p1a: Spectrier
+|-damage|p1a: Spectrier|0 fnt
+|faint|p1a: Spectrier
+|
+|win|AFTR_ShoCk
+|raw|volcaronapower's rating: 1315 &rarr; <strong>1297</strong><br />(-18 for losing)
+|raw|AFTR_ShoCk's rating: 1357 &rarr; <strong>1375</strong><br />(+18 for winning)
+|c|☆AFTR_ShoCk|gg
+|l|☆volcaronapower
+|player|p1|

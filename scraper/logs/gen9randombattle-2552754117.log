@@ -1,0 +1,255 @@
+|j|☆ferdasillies
+|j|☆quibley1
+|t:|1772749984
+|gametype|singles
+|player|p1|ferdasillies|1|1315
+|player|p2|quibley1|265|1278
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772749984
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Honchkrow|Honchkrow, L86, F|312/312
+|switch|p2a: Sandslash|Sandslash-Alola, L88, M|275/275
+|turn|1
+|
+|t:|1772749998
+|switch|p1a: Toxicroak|Toxicroak, L84, F|277/277
+|move|p2a: Sandslash|Swords Dance|p2a: Sandslash
+|-boost|p2a: Sandslash|atk|2
+|
+|upkeep
+|turn|2
+|
+|t:|1772750006
+|-terastallize|p2a: Sandslash|Ground
+|move|p1a: Toxicroak|Close Combat|p2a: Sandslash
+|-damage|p2a: Sandslash|135/275
+|-unboost|p1a: Toxicroak|def|1
+|-unboost|p1a: Toxicroak|spd|1
+|-damage|p1a: Toxicroak|250/277|[from] item: Life Orb
+|move|p2a: Sandslash|Earthquake|p1a: Toxicroak
+|-supereffective|p1a: Toxicroak
+|-damage|p1a: Toxicroak|0 fnt
+|faint|p1a: Toxicroak
+|
+|-heal|p2a: Sandslash|152/275|[from] item: Leftovers
+|upkeep
+|
+|t:|1772750019
+|switch|p1a: Baxcalibur|Baxcalibur, L75, M|295/295
+|turn|3
+|
+|t:|1772750029
+|move|p1a: Baxcalibur|Icicle Crash|p2a: Sandslash|[miss]
+|-miss|p1a: Baxcalibur|p2a: Sandslash
+|move|p2a: Sandslash|Triple Axel|p1a: Baxcalibur
+|-damage|p1a: Baxcalibur|244/295
+|-damage|p1a: Baxcalibur|141/295
+|-hitcount|p1a: Baxcalibur|2
+|
+|-heal|p2a: Sandslash|169/275|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1772750058
+|switch|p2a: Passimian|Passimian, L83, M|302/302
+|move|p1a: Baxcalibur|Icicle Crash|p2a: Passimian
+|-damage|p2a: Passimian|149/302
+|
+|upkeep
+|turn|5
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ferdasillies)
+|
+|t:|1772750086
+|move|p2a: Passimian|Knock Off|p1a: Baxcalibur
+|-damage|p1a: Baxcalibur|17/295
+|-enditem|p1a: Baxcalibur|Choice Band|[from] move: Knock Off|[of] p2a: Passimian
+|move|p1a: Baxcalibur|Icicle Crash|p2a: Passimian|[miss]
+|-miss|p1a: Baxcalibur|p2a: Passimian
+|
+|upkeep
+|turn|6
+|
+|t:|1772750095
+|move|p1a: Baxcalibur|Ice Shard|p2a: Passimian
+|-damage|p2a: Passimian|101/302
+|move|p2a: Passimian|Knock Off|p1a: Baxcalibur
+|-damage|p1a: Baxcalibur|0 fnt
+|faint|p1a: Baxcalibur
+|
+|upkeep
+|
+|t:|1772750108
+|switch|p1a: Breloom|Breloom, L83, F|235/235
+|turn|7
+|
+|t:|1772750121
+|move|p2a: Passimian|Knock Off|p1a: Breloom
+|-resisted|p1a: Breloom
+|-crit|p1a: Breloom
+|-damage|p1a: Breloom|138/235
+|-enditem|p1a: Breloom|Life Orb|[from] move: Knock Off|[of] p2a: Passimian
+|move|p1a: Breloom|Spore|p2a: Passimian
+|-status|p2a: Passimian|slp|[from] move: Spore
+|
+|upkeep
+|turn|8
+|inactive|quibley1 has 120 seconds left.
+|
+|t:|1772750154
+|switch|p2a: Florges|Florges-Blue, L85, F|271/271
+|move|p1a: Breloom|Swords Dance|p1a: Breloom
+|-boost|p1a: Breloom|atk|2
+|
+|upkeep
+|turn|9
+|
+|t:|1772750161
+|move|p2a: Florges|Moonblast|p1a: Breloom
+|-supereffective|p1a: Breloom
+|-damage|p1a: Breloom|0 fnt
+|faint|p1a: Breloom
+|
+|upkeep
+|
+|t:|1772750167
+|switch|p1a: Skuntank|Skuntank, L84, M|310/310
+|turn|10
+|inactive|quibley1 has 120 seconds left.
+|
+|t:|1772750197
+|move|p2a: Florges|Protect|p2a: Florges
+|-singleturn|p2a: Florges|Protect
+|move|p1a: Skuntank|Gunk Shot|p2a: Florges
+|-activate|p2a: Florges|move: Protect
+|
+|upkeep
+|turn|11
+|inactive|quibley1 has 120 seconds left.
+|
+|t:|1772750223
+|move|p1a: Skuntank|Gunk Shot|p2a: Florges|[miss]
+|-miss|p1a: Skuntank|p2a: Florges
+|move|p2a: Florges|Wish|p2a: Florges
+|
+|upkeep
+|turn|12
+|
+|t:|1772750230
+|move|p1a: Skuntank|Gunk Shot|p2a: Florges
+|-supereffective|p2a: Florges
+|-damage|p2a: Florges|0 fnt
+|faint|p2a: Florges
+|-damage|p1a: Skuntank|279/310|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772750247
+|switch|p2a: Passimian|Passimian, L83, M|101/302 slp
+|turn|13
+|
+|t:|1772750252
+|move|p1a: Skuntank|Fire Blast|p2a: Passimian
+|-damage|p2a: Passimian|0 fnt
+|faint|p2a: Passimian
+|-damage|p1a: Skuntank|248/310|[from] item: Life Orb
+|
+|upkeep
+|inactive|quibley1 has 90 seconds left.
+|
+|t:|1772750281
+|switch|p2a: Sandslash|Sandslash-Alola, L88, M, tera:Ground|169/275
+|turn|14
+|
+|t:|1772750287
+|move|p1a: Skuntank|Knock Off|p2a: Sandslash
+|-damage|p2a: Sandslash|64/275
+|-enditem|p2a: Sandslash|Leftovers|[from] move: Knock Off|[of] p1a: Skuntank
+|-damage|p1a: Skuntank|217/310|[from] item: Life Orb
+|move|p2a: Sandslash|Earthquake|p1a: Skuntank
+|-supereffective|p1a: Skuntank
+|-damage|p1a: Skuntank|0 fnt
+|faint|p1a: Skuntank
+|
+|upkeep
+|
+|t:|1772750295
+|switch|p1a: Honchkrow|Honchkrow, L86, F|312/312
+|turn|15
+|
+|t:|1772750304
+|move|p1a: Honchkrow|Brave Bird|p2a: Sandslash
+|-damage|p2a: Sandslash|0 fnt
+|faint|p2a: Sandslash
+|-ability|p1a: Honchkrow|Moxie|boost
+|-boost|p1a: Honchkrow|atk|1
+|-damage|p1a: Honchkrow|291/312|[from] Recoil
+|
+|upkeep
+|inactive|quibley1 has 90 seconds left.
+|
+|t:|1772750322
+|switch|p2a: Electrode|Electrode, L92|260/260
+|turn|16
+|
+|t:|1772750334
+|-terastallize|p1a: Honchkrow|Dark
+|move|p2a: Electrode|Volt Switch|p1a: Honchkrow
+|-damage|p1a: Honchkrow|157/312
+|-damage|p2a: Electrode|234/260|[from] item: Life Orb
+|inactive|quibley1 has 90 seconds left.
+|
+|t:|1772750356
+|switch|p2a: Whiscash|Whiscash, L88, M|337/337|[from] Volt Switch
+|move|p1a: Honchkrow|Lash Out|p2a: Whiscash
+|-damage|p2a: Whiscash|133/337
+|
+|upkeep
+|turn|17
+|
+|t:|1772750374
+|move|p1a: Honchkrow|Lash Out|p2a: Whiscash
+|-damage|p2a: Whiscash|0 fnt
+|faint|p2a: Whiscash
+|-ability|p1a: Honchkrow|Moxie|boost
+|-boost|p1a: Honchkrow|atk|1
+|
+|upkeep
+|
+|t:|1772750389
+|switch|p2a: Electrode|Electrode, L92|234/260
+|turn|18
+|inactive|quibley1 has 60 seconds left.
+|
+|t:|1772750416
+|move|p1a: Honchkrow|Sucker Punch|p2a: Electrode
+|-damage|p2a: Electrode|0 fnt
+|faint|p2a: Electrode
+|-ability|p1a: Honchkrow|Moxie|boost
+|-boost|p1a: Honchkrow|atk|1
+|
+|upkeep
+|
+|t:|1772750422
+|switch|p2a: Crabominable|Crabominable, L90, M|321/321
+|turn|19
+|inactive|quibley1 has 60 seconds left.
+|
+|t:|1772750440
+|move|p1a: Honchkrow|Brave Bird|p2a: Crabominable
+|-supereffective|p2a: Crabominable
+|-damage|p2a: Crabominable|0 fnt
+|faint|p2a: Crabominable
+|-damage|p1a: Honchkrow|51/312|[from] Recoil
+|
+|win|ferdasillies
+|raw|ferdasillies's rating: 1315 &rarr; <strong>1333</strong><br />(+18 for winning)
+|raw|quibley1's rating: 1278 &rarr; <strong>1256</strong><br />(-22 for losing)

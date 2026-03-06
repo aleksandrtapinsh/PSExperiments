@@ -1,0 +1,339 @@
+|j|☆Seagullrick
+|j|☆Shargy
+|t:|1772752075
+|gametype|singles
+|player|p1|Seagullrick|blaine|1348
+|player|p2|Shargy|blue-gen3|1355
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772752075
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Frosmoth|Frosmoth, L82, M|249/249
+|switch|p2a: Crawdaunt|Crawdaunt, L84, F|243/243
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Seagullrick)
+|
+|t:|1772752090
+|switch|p2a: Swalot|Swalot, L90, M|326/326
+|move|p1a: Frosmoth|Quiver Dance|p1a: Frosmoth
+|-boost|p1a: Frosmoth|spa|1
+|-boost|p1a: Frosmoth|spd|1
+|-boost|p1a: Frosmoth|spe|1
+|
+|upkeep
+|turn|2
+|
+|t:|1772752099
+|move|p1a: Frosmoth|Quiver Dance|p1a: Frosmoth
+|-boost|p1a: Frosmoth|spa|1
+|-boost|p1a: Frosmoth|spd|1
+|-boost|p1a: Frosmoth|spe|1
+|move|p2a: Swalot|Toxic|p1a: Frosmoth
+|-status|p1a: Frosmoth|tox
+|
+|-damage|p1a: Frosmoth|234/249 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1772752107
+|move|p2a: Swalot|Protect|p2a: Swalot
+|-singleturn|p2a: Swalot|Protect
+|move|p1a: Frosmoth|Hurricane|p2a: Swalot
+|-activate|p2a: Swalot|move: Protect
+|
+|-damage|p1a: Frosmoth|204/249 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1772752115
+|switch|p2a: Magnezone|Magnezone, L85|258/258
+|move|p1a: Frosmoth|Hurricane|p2a: Magnezone|[miss]
+|-miss|p1a: Frosmoth|p2a: Magnezone
+|
+|-damage|p1a: Frosmoth|159/249 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1772752123
+|move|p1a: Frosmoth|Giga Drain|p2a: Magnezone
+|-resisted|p2a: Magnezone
+|-damage|p2a: Magnezone|220/258
+|-heal|p1a: Frosmoth|178/249 tox|[from] drain|[of] p2a: Magnezone
+|move|p2a: Magnezone|Volt Switch|p1a: Frosmoth
+|-damage|p1a: Frosmoth|145/249 tox
+|
+|t:|1772752130
+|switch|p2a: Swalot|Swalot, L90, M|326/326|[from] Volt Switch
+|
+|-damage|p1a: Frosmoth|85/249 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1772752133
+|move|p2a: Swalot|Protect|p2a: Swalot
+|-singleturn|p2a: Swalot|Protect
+|move|p1a: Frosmoth|Quiver Dance|p1a: Frosmoth
+|-boost|p1a: Frosmoth|spa|1
+|-boost|p1a: Frosmoth|spd|1
+|-boost|p1a: Frosmoth|spe|1
+|
+|-damage|p1a: Frosmoth|10/249 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1772752137
+|switch|p2a: Magnezone|Magnezone, L85|220/258
+|move|p1a: Frosmoth|Hurricane|p2a: Magnezone
+|-resisted|p2a: Magnezone
+|-damage|p2a: Magnezone|186/258
+|
+|-damage|p1a: Frosmoth|0 fnt|[from] psn
+|faint|p1a: Frosmoth
+|upkeep
+|
+|t:|1772752150
+|switch|p1a: Chesnaught|Chesnaught, L84, M|285/285
+|turn|8
+|
+|t:|1772752157
+|switch|p2a: Swalot|Swalot, L90, M|326/326
+|move|p1a: Chesnaught|Knock Off|p2a: Swalot
+|-damage|p2a: Swalot|258/326
+|-enditem|p2a: Swalot|Leftovers|[from] move: Knock Off|[of] p1a: Chesnaught
+|
+|upkeep
+|turn|9
+|
+|t:|1772752169
+|switch|p1a: Dragalge|Dragalge, L88, M|258/258
+|move|p2a: Swalot|Toxic|p1a: Dragalge
+|-immune|p1a: Dragalge
+|
+|upkeep
+|turn|10
+|
+|t:|1772752176
+|move|p2a: Swalot|Earthquake|p1a: Dragalge
+|-supereffective|p1a: Dragalge
+|-damage|p1a: Dragalge|124/258
+|move|p1a: Dragalge|Focus Blast|p2a: Swalot
+|-resisted|p2a: Swalot
+|-damage|p2a: Swalot|212/326
+|
+|-heal|p1a: Dragalge|140/258|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1772752186
+|switch|p1a: Chesnaught|Chesnaught, L84, M|285/285
+|move|p2a: Swalot|Toxic|p1a: Chesnaught
+|-status|p1a: Chesnaught|tox
+|
+|-damage|p1a: Chesnaught|268/285 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1772752199
+|move|p2a: Swalot|Protect|p2a: Swalot
+|-singleturn|p2a: Swalot|Protect
+|move|p1a: Chesnaught|Synthesis|p1a: Chesnaught
+|-heal|p1a: Chesnaught|285/285 tox
+|
+|-damage|p1a: Chesnaught|251/285 tox|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1772752211
+|move|p1a: Chesnaught|Body Press|p2a: Swalot
+|-resisted|p2a: Swalot
+|-damage|p2a: Swalot|164/326
+|move|p2a: Swalot|Sludge Bomb|p1a: Chesnaught
+|-immune|p1a: Chesnaught|[from] ability: Bulletproof
+|
+|-damage|p1a: Chesnaught|200/285 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1772752221
+|move|p1a: Chesnaught|Synthesis|p1a: Chesnaught
+|-heal|p1a: Chesnaught|285/285 tox
+|move|p2a: Swalot|Earthquake|p1a: Chesnaught
+|-resisted|p1a: Chesnaught
+|-damage|p1a: Chesnaught|257/285 tox
+|
+|-damage|p1a: Chesnaught|189/285 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1772752227
+|move|p2a: Swalot|Protect|p2a: Swalot
+|-singleturn|p2a: Swalot|Protect
+|move|p1a: Chesnaught|Wood Hammer|p2a: Swalot
+|-activate|p2a: Swalot|move: Protect
+|
+|-damage|p1a: Chesnaught|104/285 tox|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1772752238
+|move|p1a: Chesnaught|Wood Hammer|p2a: Swalot
+|-resisted|p2a: Swalot
+|-damage|p2a: Swalot|99/326
+|-damage|p1a: Chesnaught|83/285 tox|[from] Recoil
+|move|p2a: Swalot|Earthquake|p1a: Chesnaught
+|-resisted|p1a: Chesnaught
+|-damage|p1a: Chesnaught|59/285 tox
+|
+|-damage|p1a: Chesnaught|0 fnt|[from] psn
+|faint|p1a: Chesnaught
+|upkeep
+|
+|t:|1772752241
+|switch|p1a: Dragalge|Dragalge, L88, M|140/258
+|turn|17
+|
+|t:|1772752248
+|move|p2a: Swalot|Earthquake|p1a: Dragalge
+|-supereffective|p1a: Dragalge
+|-crit|p1a: Dragalge
+|-damage|p1a: Dragalge|0 fnt
+|faint|p1a: Dragalge
+|
+|upkeep
+|
+|t:|1772752261
+|switch|p1a: Mabosstiff|Mabosstiff, L86, F|278/278
+|turn|18
+|
+|t:|1772752275
+|move|p2a: Swalot|Protect|p2a: Swalot
+|-singleturn|p2a: Swalot|Protect
+|move|p1a: Mabosstiff|Wild Charge|p2a: Swalot
+|-activate|p2a: Swalot|move: Protect
+|
+|upkeep
+|turn|19
+|
+|t:|1772752299
+|move|p1a: Mabosstiff|Wild Charge|p2a: Swalot
+|-damage|p2a: Swalot|26/326
+|-damage|p1a: Mabosstiff|260/278|[from] Recoil
+|move|p2a: Swalot|Sludge Bomb|p1a: Mabosstiff
+|-crit|p1a: Mabosstiff
+|-damage|p1a: Mabosstiff|97/278
+|-status|p1a: Mabosstiff|psn
+|
+|-damage|p1a: Mabosstiff|63/278 psn|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1772752306
+|move|p2a: Swalot|Protect|p2a: Swalot
+|-singleturn|p2a: Swalot|Protect
+|move|p1a: Mabosstiff|Wild Charge|p2a: Swalot
+|-activate|p2a: Swalot|move: Protect
+|
+|-damage|p1a: Mabosstiff|29/278 psn|[from] psn
+|upkeep
+|turn|21
+|inactive|Seagullrick has 120 seconds left.
+|
+|t:|1772752355
+|move|p1a: Mabosstiff|Wild Charge|p2a: Swalot
+|-damage|p2a: Swalot|0 fnt
+|faint|p2a: Swalot
+|-damage|p1a: Mabosstiff|22/278 psn|[from] Recoil
+|
+|-damage|p1a: Mabosstiff|0 fnt|[from] psn
+|faint|p1a: Mabosstiff
+|upkeep
+|
+|t:|1772752365
+|switch|p1a: Annihilape|Annihilape, L76, M|292/292
+|switch|p2a: Crawdaunt|Crawdaunt, L84, F|243/243
+|turn|22
+|
+|t:|1772752374
+|move|p1a: Annihilape|Bulk Up|p1a: Annihilape
+|-boost|p1a: Annihilape|atk|1
+|-boost|p1a: Annihilape|def|1
+|move|p2a: Crawdaunt|Dragon Dance|p2a: Crawdaunt
+|-boost|p2a: Crawdaunt|atk|1
+|-boost|p2a: Crawdaunt|spe|1
+|
+|upkeep
+|turn|23
+|inactive|Seagullrick has 120 seconds left.
+|
+|t:|1772752383
+|move|p2a: Crawdaunt|Dragon Dance|p2a: Crawdaunt
+|-boost|p2a: Crawdaunt|atk|1
+|-boost|p2a: Crawdaunt|spe|1
+|move|p1a: Annihilape|Drain Punch|p2a: Crawdaunt
+|-supereffective|p2a: Crawdaunt
+|-damage|p2a: Crawdaunt|9/243
+|
+|upkeep
+|turn|24
+|
+|t:|1772752392
+|move|p2a: Crawdaunt|Crabhammer|p1a: Annihilape
+|-damage|p1a: Annihilape|0 fnt
+|faint|p1a: Annihilape
+|-damage|p2a: Crawdaunt|0 fnt|[from] item: Life Orb
+|faint|p2a: Crawdaunt
+|
+|upkeep
+|
+|t:|1772752403
+|switch|p1a: Stonjourner|Stonjourner, L91, F|330/330
+|switch|p2a: Magnezone|Magnezone, L85|186/258
+|turn|25
+|
+|t:|1772752415
+|switch|p2a: Heracross|Heracross, L80, M|259/259
+|move|p1a: Stonjourner|Earthquake|p2a: Heracross
+|-resisted|p2a: Heracross
+|-damage|p2a: Heracross|189/259
+|-damage|p1a: Stonjourner|297/330|[from] item: Life Orb
+|
+|upkeep
+|turn|26
+|
+|t:|1772752424
+|move|p2a: Heracross|Knock Off|p1a: Stonjourner
+|-damage|p1a: Stonjourner|222/330
+|-enditem|p1a: Stonjourner|Life Orb|[from] move: Knock Off|[of] p2a: Heracross
+|move|p1a: Stonjourner|Heat Crash|p2a: Heracross
+|-supereffective|p2a: Heracross
+|-damage|p2a: Heracross|0 fnt
+|faint|p2a: Heracross
+|
+|upkeep
+|
+|t:|1772752435
+|switch|p2a: Magnezone|Magnezone, L85|186/258
+|turn|27
+|
+|t:|1772752437
+|-terastallize|p2a: Magnezone|Flying
+|move|p1a: Stonjourner|Heat Crash|p2a: Magnezone
+|-damage|p2a: Magnezone|137/258
+|move|p2a: Magnezone|Flash Cannon|p1a: Stonjourner
+|-supereffective|p1a: Stonjourner
+|-damage|p1a: Stonjourner|0 fnt
+|faint|p1a: Stonjourner
+|
+|win|Shargy
+|raw|Seagullrick's rating: 1348 &rarr; <strong>1328</strong><br />(-20 for losing)
+|raw|Shargy's rating: 1355 &rarr; <strong>1375</strong><br />(+20 for winning)
+|l|☆Seagullrick
+|player|p1|

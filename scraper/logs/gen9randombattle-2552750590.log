@@ -1,0 +1,373 @@
+|j|☆dsbmay13
+|j|☆bovineflu
+|t:|1772749627
+|gametype|singles
+|player|p1|dsbmay13|n|1039
+|player|p2|bovineflu|pokefanf-gen4|1045
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772749627
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Pachirisu|Pachirisu, L96, F|271/271
+|switch|p2a: Glalie|Glalie, L96, M|309/309
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by dsbmay13)
+|
+|t:|1772749641
+|move|p1a: Pachirisu|Nuzzle|p2a: Glalie
+|-damage|p2a: Glalie|293/309
+|-status|p2a: Glalie|par
+|move|p2a: Glalie|Spikes|p1a: Pachirisu
+|-sidestart|p1: dsbmay13|Spikes
+|
+|upkeep
+|turn|2
+|
+|t:|1772749661
+|switch|p1a: Walking Wake|Walking Wake, L79|286/286
+|-damage|p1a: Walking Wake|251/286|[from] Spikes
+|move|p2a: Glalie|Taunt|p1a: Walking Wake
+|-start|p1a: Walking Wake|move: Taunt
+|
+|upkeep
+|turn|3
+|
+|t:|1772749672
+|move|p1a: Walking Wake|Flamethrower|p2a: Glalie
+|-supereffective|p2a: Glalie
+|-damage|p2a: Glalie|91/309 par
+|cant|p2a: Glalie|par
+|
+|upkeep
+|turn|4
+|
+|t:|1772749683
+|switch|p2a: Medicham|Medicham, L86, M|243/243
+|move|p1a: Walking Wake|Flamethrower|p2a: Medicham
+|-damage|p2a: Medicham|133/243
+|
+|-end|p1a: Walking Wake|move: Taunt
+|upkeep
+|turn|5
+|
+|t:|1772749706
+|move|p1a: Walking Wake|Flamethrower|p2a: Medicham
+|-damage|p2a: Medicham|22/243
+|move|p2a: Medicham|Poison Jab|p1a: Walking Wake
+|-damage|p1a: Walking Wake|123/286
+|
+|upkeep
+|turn|6
+|
+|t:|1772749717
+|move|p1a: Walking Wake|Flamethrower|p2a: Medicham
+|-damage|p2a: Medicham|0 fnt
+|faint|p2a: Medicham
+|
+|upkeep
+|
+|t:|1772749722
+|switch|p2a: Glalie|Glalie, L96, M|91/309 par
+|turn|7
+|
+|t:|1772749736
+|move|p1a: Walking Wake|Flamethrower|p2a: Glalie
+|-supereffective|p2a: Glalie
+|-damage|p2a: Glalie|0 fnt
+|faint|p2a: Glalie
+|
+|upkeep
+|inactive|bovineflu has 120 seconds left.
+|
+|t:|1772749761
+|switch|p2a: Donphan|Donphan, L84, M|288/288
+|turn|8
+|
+|t:|1772749783
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Lilligant|Lilligant, L86, F|261/261
+|-damage|p1a: Lilligant|229/261|[from] Spikes
+|move|p2a: Donphan|Knock Off|p1a: Lilligant
+|-crit|p1a: Lilligant
+|-damage|p1a: Lilligant|90/261
+|-enditem|p1a: Lilligant|Life Orb|[from] move: Knock Off|[of] p2a: Donphan
+|
+|upkeep
+|turn|9
+|inactive|bovineflu has 120 seconds left.
+|
+|t:|1772749804
+|move|p1a: Lilligant|Sleep Powder|p2a: Donphan|[miss]
+|-miss|p1a: Lilligant|p2a: Donphan
+|move|p2a: Donphan|Knock Off|p1a: Lilligant
+|-damage|p1a: Lilligant|25/261
+|
+|upkeep
+|turn|10
+|
+|t:|1772749818
+|move|p1a: Lilligant|Sleep Powder|p2a: Donphan
+|-status|p2a: Donphan|slp|[from] move: Sleep Powder
+|cant|p2a: Donphan|slp
+|
+|upkeep
+|turn|11
+|
+|t:|1772749838
+|switch|p2a: Drifblim|Drifblim, L86, F|398/398
+|move|p1a: Lilligant|Quiver Dance|p1a: Lilligant
+|-boost|p1a: Lilligant|spa|1
+|-boost|p1a: Lilligant|spd|1
+|-boost|p1a: Lilligant|spe|1
+|
+|upkeep
+|turn|12
+|inactive|bovineflu has 90 seconds left.
+|
+|t:|1772749859
+|move|p1a: Lilligant|Giga Drain|p2a: Drifblim
+|-resisted|p2a: Drifblim
+|-damage|p2a: Drifblim|305/398
+|-heal|p1a: Lilligant|72/261|[from] drain|[of] p2a: Drifblim
+|move|p2a: Drifblim|Shadow Ball|p1a: Lilligant
+|-damage|p1a: Lilligant|11/261
+|
+|upkeep
+|turn|13
+|
+|t:|1772749869
+|move|p1a: Lilligant|Giga Drain|p2a: Drifblim
+|-resisted|p2a: Drifblim
+|-damage|p2a: Drifblim|212/398
+|-heal|p1a: Lilligant|58/261|[from] drain|[of] p2a: Drifblim
+|move|p2a: Drifblim|Strength Sap|p1a: Lilligant
+|-unboost|p1a: Lilligant|atk|1
+|-heal|p2a: Drifblim|320/398
+|
+|upkeep
+|turn|14
+|
+|t:|1772749881
+|move|p1a: Lilligant|Giga Drain|p2a: Drifblim
+|-resisted|p2a: Drifblim
+|-damage|p2a: Drifblim|220/398
+|-heal|p1a: Lilligant|108/261|[from] drain|[of] p2a: Drifblim
+|move|p2a: Drifblim|Shadow Ball|p1a: Lilligant
+|-damage|p1a: Lilligant|44/261
+|-unboost|p1a: Lilligant|spd|1
+|
+|upkeep
+|turn|15
+|
+|t:|1772749891
+|move|p1a: Lilligant|Giga Drain|p2a: Drifblim
+|-resisted|p2a: Drifblim
+|-damage|p2a: Drifblim|130/398
+|-heal|p1a: Lilligant|89/261|[from] drain|[of] p2a: Drifblim
+|move|p2a: Drifblim|Shadow Ball|p1a: Lilligant
+|-damage|p1a: Lilligant|4/261
+|
+|upkeep
+|turn|16
+|
+|t:|1772749900
+|move|p1a: Lilligant|Giga Drain|p2a: Drifblim
+|-resisted|p2a: Drifblim
+|-damage|p2a: Drifblim|43/398
+|-heal|p1a: Lilligant|48/261|[from] drain|[of] p2a: Drifblim
+|move|p2a: Drifblim|Shadow Ball|p1a: Lilligant
+|-damage|p1a: Lilligant|0 fnt
+|faint|p1a: Lilligant
+|
+|upkeep
+|
+|t:|1772749911
+|switch|p1a: Pachirisu|Pachirisu, L96, F|271/271
+|-damage|p1a: Pachirisu|238/271|[from] Spikes
+|turn|17
+|
+|t:|1772749923
+|-terastallize|p2a: Drifblim|Ghost
+|move|p1a: Pachirisu|Thunderbolt|p2a: Drifblim
+|-damage|p2a: Drifblim|0 fnt
+|faint|p2a: Drifblim
+|
+|upkeep
+|
+|t:|1772749933
+|switch|p2a: Donphan|Donphan, L84, M|288/288 slp
+|turn|18
+|
+|t:|1772749939
+|switch|p1a: Walking Wake|Walking Wake, L79|123/286
+|-damage|p1a: Walking Wake|88/286|[from] Spikes
+|cant|p2a: Donphan|slp
+|
+|upkeep
+|turn|19
+|
+|t:|1772749963
+|switch|p2a: Luvdisc|Luvdisc, M|247/247
+|move|p1a: Walking Wake|Hydro Pump|p2a: Luvdisc|[miss]
+|-miss|p1a: Walking Wake|p2a: Luvdisc
+|
+|upkeep
+|turn|20
+|
+|t:|1772749976
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Pachirisu|Pachirisu, L96, F|238/271
+|-damage|p1a: Pachirisu|205/271|[from] Spikes
+|move|p2a: Luvdisc|Flip Turn|p1a: Pachirisu
+|-damage|p1a: Pachirisu|163/271
+|inactive|bovineflu has 90 seconds left.
+|
+|t:|1772749987
+|switch|p2a: Donphan|Donphan, L84, M|288/288 slp|[from] Flip Turn
+|
+|upkeep
+|turn|21
+|inactive|bovineflu has 90 seconds left.
+|
+|t:|1772750005
+|move|p1a: Pachirisu|U-turn|p2a: Donphan
+|-damage|p2a: Donphan|259/288 slp
+|
+|t:|1772750008
+|switch|p1a: Walking Wake|Walking Wake, L79|88/286|[from] U-turn
+|-damage|p1a: Walking Wake|53/286|[from] Spikes
+|-curestatus|p2a: Donphan|slp|[msg]
+|move|p2a: Donphan|Knock Off|p1a: Walking Wake
+|-damage|p1a: Walking Wake|0 fnt
+|-enditem|p1a: Walking Wake|Choice Specs|[from] move: Knock Off|[of] p2a: Donphan
+|faint|p1a: Walking Wake
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|
+|-heal|p2a: Donphan|277/288|[from] item: Leftovers
+|upkeep
+|
+|t:|1772750019
+|switch|p1a: Lumineon|Lumineon, L93, F|279/279
+|-damage|p1a: Lumineon|245/279|[from] Spikes
+|turn|22
+|
+|t:|1772750030
+|move|p2a: Donphan|Ice Shard|p1a: Lumineon
+|-resisted|p1a: Lumineon
+|-damage|p1a: Lumineon|229/279
+|move|p1a: Lumineon|Encore|p2a: Donphan
+|-start|p2a: Donphan|Encore
+|
+|-heal|p2a: Donphan|288/288|[from] item: Leftovers
+|upkeep
+|turn|23
+|inactive|bovineflu has 90 seconds left.
+|
+|t:|1772750058
+|switch|p2a: Luvdisc|Luvdisc, M|247/247
+|move|p1a: Lumineon|Hydro Pump|p2a: Luvdisc|[miss]
+|-miss|p1a: Lumineon|p2a: Luvdisc
+|
+|upkeep
+|turn|24
+|
+|t:|1772750070
+|-terastallize|p1a: Lumineon|Fairy
+|move|p2a: Luvdisc|Flip Turn|p1a: Lumineon
+|-ability|p1a: Lumineon|Storm Drain|boost
+|-boost|p1a: Lumineon|spa|1
+|move|p1a: Lumineon|Alluring Voice|p2a: Luvdisc
+|-damage|p2a: Luvdisc|68/247
+|-damage|p1a: Lumineon|202/279|[from] item: Life Orb
+|
+|upkeep
+|turn|25
+|
+|t:|1772750086
+|move|p2a: Luvdisc|Flip Turn|p1a: Lumineon
+|-ability|p1a: Lumineon|Storm Drain|boost
+|-boost|p1a: Lumineon|spa|1
+|move|p1a: Lumineon|Alluring Voice|p2a: Luvdisc
+|-damage|p2a: Luvdisc|0 fnt
+|faint|p2a: Luvdisc
+|-damage|p1a: Lumineon|175/279|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772750095
+|switch|p2a: Donphan|Donphan, L84, M|288/288
+|turn|26
+|
+|t:|1772750103
+|move|p1a: Lumineon|Hydro Pump|p2a: Donphan
+|-supereffective|p2a: Donphan
+|-ability|p2a: Donphan|Sturdy
+|-damage|p2a: Donphan|1/288
+|-damage|p1a: Lumineon|148/279|[from] item: Life Orb
+|move|p2a: Donphan|Knock Off|p1a: Lumineon
+|-resisted|p1a: Lumineon
+|-damage|p1a: Lumineon|109/279
+|-enditem|p1a: Lumineon|Life Orb|[from] move: Knock Off|[of] p2a: Donphan
+|
+|-heal|p2a: Donphan|19/288|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1772750117
+|switch|p2a: Gholdengo|Gholdengo, L77|261/261
+|move|p1a: Lumineon|Alluring Voice|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|170/261
+|
+|upkeep
+|turn|28
+|
+|t:|1772750127
+|move|p2a: Gholdengo|Make It Rain|p1a: Lumineon
+|-supereffective|p1a: Lumineon
+|-damage|p1a: Lumineon|0 fnt
+|-unboost|p2a: Gholdengo|spa|1
+|faint|p1a: Lumineon
+|
+|upkeep
+|
+|t:|1772750135
+|switch|p1a: Beartic|Beartic, L91, M|321/321
+|-damage|p1a: Beartic|281/321|[from] Spikes
+|turn|29
+|inactive|bovineflu has 90 seconds left.
+|
+|t:|1772750143
+|move|p2a: Gholdengo|Make It Rain|p1a: Beartic
+|-supereffective|p1a: Beartic
+|-damage|p1a: Beartic|113/321
+|-unboost|p2a: Gholdengo|spa|1
+|move|p1a: Beartic|Earthquake|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|upkeep
+|inactive|bovineflu has 90 seconds left.
+|
+|t:|1772750154
+|switch|p2a: Donphan|Donphan, L84, M|19/288
+|turn|30
+|inactive|bovineflu has 90 seconds left.
+|
+|t:|1772750163
+|move|p1a: Beartic|Earthquake|p2a: Donphan
+|-damage|p2a: Donphan|0 fnt
+|faint|p2a: Donphan
+|
+|win|dsbmay13
+|raw|dsbmay13's rating: 1074 &rarr; <strong>1100</strong><br />(+26 for winning)
+|raw|bovineflu's rating: 1045 &rarr; <strong>1030</strong><br />(-15 for losing)

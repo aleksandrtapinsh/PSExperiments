@@ -1,0 +1,295 @@
+|j|☆hyunbelievable
+|j|☆universalconnector
+|t:|1772749086
+|gametype|singles
+|player|p1|hyunbelievable|266|1263
+|player|p2|universalconnector|101|1252
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772749086
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Deoxys|Deoxys-Speed, L82|216/216
+|switch|p2a: Iron Moth|Iron Moth, L78|253/253
+|-ability|p1a: Deoxys|Pressure
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by universalconnector)
+|
+|t:|1772749099
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|switch|p2a: Vespiquen|Vespiquen, L99, F|299/299
+|-ability|p2a: Vespiquen|Pressure
+|move|p1a: Deoxys|Nasty Plot|p1a: Deoxys
+|-boost|p1a: Deoxys|spa|2
+|
+|upkeep
+|turn|2
+|
+|t:|1772749109
+|move|p1a: Deoxys|Psycho Boost|p2a: Vespiquen
+|-damage|p2a: Vespiquen|38/299
+|-unboost|p1a: Deoxys|spa|2
+|-damage|p1a: Deoxys|195/216|[from] item: Life Orb
+|move|p2a: Vespiquen|Hurricane|p1a: Deoxys
+|-damage|p1a: Deoxys|53/216
+|
+|upkeep
+|turn|3
+|
+|t:|1772749115
+|move|p1a: Deoxys|Dark Pulse|p2a: Vespiquen
+|-damage|p2a: Vespiquen|0 fnt
+|faint|p2a: Vespiquen
+|-damage|p1a: Deoxys|32/216|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772749140
+|switch|p2a: Kingambit|Kingambit, L74, F|270/270
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen1|[silent]
+|turn|4
+|
+|t:|1772749144
+|move|p2a: Kingambit|Sucker Punch|p1a: Deoxys
+|-supereffective|p1a: Deoxys
+|-damage|p1a: Deoxys|0 fnt
+|faint|p1a: Deoxys
+|
+|upkeep
+|
+|t:|1772749159
+|switch|p1a: Magmortar|Magmortar, L88, M|275/275
+|turn|5
+|
+|t:|1772749175
+|-end|p2a: Kingambit|fallen1|[silent]
+|switch|p2a: Blaziken|Blaziken, L76, F|247/247
+|move|p1a: Magmortar|Will-O-Wisp|p2a: Blaziken
+|-immune|p2a: Blaziken
+|
+|upkeep
+|turn|6
+|
+|t:|1772749190
+|switch|p1a: Latias|Latias, L79, F|256/256
+|move|p2a: Blaziken|Swords Dance|p2a: Blaziken
+|-boost|p2a: Blaziken|atk|2
+|
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|7
+|inactive|universalconnector has 120 seconds left.
+|
+|t:|1772749226
+|switch|p2a: Whimsicott|Whimsicott, L84, M|238/238
+|move|p1a: Latias|Psyshock|p2a: Whimsicott
+|-damage|p2a: Whimsicott|129/238
+|
+|upkeep
+|turn|8
+|inactive|universalconnector has 120 seconds left.
+|
+|t:|1772749253
+|switch|p1a: Magmortar|Magmortar, L88, M|275/275
+|move|p2a: Whimsicott|U-turn|p1a: Magmortar
+|-resisted|p1a: Magmortar
+|-damage|p1a: Magmortar|253/275
+|
+|t:|1772749258
+|switch|p2a: Blaziken|Blaziken, L76, F|247/247|[from] U-turn
+|
+|upkeep
+|turn|9
+|inactive|universalconnector has 120 seconds left.
+|
+|t:|1772749263
+|move|p1a: Magmortar|Earthquake|p2a: Blaziken
+|-supereffective|p2a: Blaziken
+|-damage|p2a: Blaziken|63/247
+|move|p2a: Blaziken|Close Combat|p1a: Magmortar
+|-damage|p1a: Magmortar|62/275
+|-unboost|p2a: Blaziken|def|1
+|-unboost|p2a: Blaziken|spd|1
+|-damage|p2a: Blaziken|39/247|[from] item: Life Orb
+|
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|10
+|
+|t:|1772749283
+|move|p2a: Blaziken|Close Combat|p1a: Magmortar
+|-damage|p1a: Magmortar|0 fnt
+|-unboost|p2a: Blaziken|def|1
+|-unboost|p2a: Blaziken|spd|1
+|faint|p1a: Magmortar
+|-damage|p2a: Blaziken|15/247|[from] item: Life Orb
+|
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|
+|t:|1772749291
+|switch|p1a: Latias|Latias, L79, F|256/256
+|turn|11
+|
+|t:|1772749298
+|move|p2a: Blaziken|Close Combat|p1a: Latias
+|-resisted|p1a: Latias
+|-damage|p1a: Latias|177/256
+|-unboost|p2a: Blaziken|def|1
+|-unboost|p2a: Blaziken|spd|1
+|-damage|p2a: Blaziken|0 fnt|[from] item: Life Orb
+|faint|p2a: Blaziken
+|move|p1a: Latias|Recover|p1a: Latias
+|-heal|p1a: Latias|256/256
+|
+|upkeep
+|
+|t:|1772749308
+|switch|p2a: Whimsicott|Whimsicott, L84, M|129/238
+|turn|12
+|
+|t:|1772749315
+|-terastallize|p1a: Latias|Steel
+|move|p2a: Whimsicott|Moonblast|p1a: Latias
+|-resisted|p1a: Latias
+|-damage|p1a: Latias|222/256
+|move|p1a: Latias|Calm Mind|p1a: Latias
+|-boost|p1a: Latias|spa|1
+|-boost|p1a: Latias|spd|1
+|
+|upkeep
+|turn|13
+|
+|t:|1772749324
+|move|p2a: Whimsicott|Stun Spore|p1a: Latias|[miss]
+|-miss|p2a: Whimsicott|p1a: Latias
+|move|p1a: Latias|Psyshock|p2a: Whimsicott
+|-damage|p2a: Whimsicott|0 fnt
+|faint|p2a: Whimsicott
+|
+|upkeep
+|
+|t:|1772749338
+|switch|p2a: Ogerpon|Ogerpon-Cornerstone, L76, F|247/247
+|turn|14
+|
+|t:|1772749349
+|move|p1a: Latias|Draco Meteor|p2a: Ogerpon
+|-ability|p2a: Ogerpon|Sturdy
+|-damage|p2a: Ogerpon|1/247
+|-unboost|p1a: Latias|spa|2
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Latias|[anim] Ivy Cudgel Rock
+|-resisted|p1a: Latias
+|-damage|p1a: Latias|153/256
+|
+|upkeep
+|turn|15
+|
+|t:|1772749372
+|switch|p1a: Suicune|Suicune, L82|298/298
+|-ability|p1a: Suicune|Pressure
+|move|p2a: Ogerpon|Superpower|p1a: Suicune
+|-damage|p1a: Suicune|219/298
+|-unboost|p2a: Ogerpon|atk|1
+|-unboost|p2a: Ogerpon|def|1
+|
+|-heal|p1a: Suicune|237/298|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1772749381
+|move|p2a: Ogerpon|Power Whip|p1a: Suicune
+|-supereffective|p1a: Suicune
+|-damage|p1a: Suicune|63/298
+|move|p1a: Suicune|Scald|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|-heal|p1a: Suicune|81/298|[from] item: Leftovers
+|upkeep
+|
+|t:|1772749391
+|switch|p2a: Iron Moth|Iron Moth, L78|253/253
+|turn|17
+|
+|t:|1772749399
+|move|p2a: Iron Moth|Energy Ball|p1a: Suicune
+|-supereffective|p1a: Suicune
+|-damage|p1a: Suicune|0 fnt
+|faint|p1a: Suicune
+|
+|upkeep
+|
+|t:|1772749401
+|switch|p1a: Latias|Latias, L79, F, tera:Steel|153/256
+|turn|18
+|
+|t:|1772749409
+|-terastallize|p2a: Iron Moth|Grass
+|move|p1a: Latias|Psyshock|p2a: Iron Moth
+|-damage|p2a: Iron Moth|112/253
+|move|p2a: Iron Moth|Fiery Dance|p1a: Latias
+|-supereffective|p1a: Latias
+|-damage|p1a: Latias|7/256
+|-boost|p2a: Iron Moth|spa|1
+|
+|upkeep
+|turn|19
+|
+|t:|1772749419
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|switch|p2a: Kingambit|Kingambit, L74, F|270/270
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen4|[silent]
+|move|p1a: Latias|Draco Meteor|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|183/270
+|-unboost|p1a: Latias|spa|2
+|
+|-heal|p2a: Kingambit|199/270|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1772749427
+|move|p1a: Latias|Psyshock|p2a: Kingambit
+|-immune|p2a: Kingambit
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Latias
+|-damage|p1a: Latias|0 fnt
+|faint|p1a: Latias
+|
+|-heal|p2a: Kingambit|215/270|[from] item: Leftovers
+|upkeep
+|
+|t:|1772749431
+|switch|p1a: Ursaring|Ursaring, L84, M|288/288
+|turn|21
+|
+|t:|1772749439
+|move|p1a: Ursaring|Close Combat|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|-unboost|p1a: Ursaring|def|1
+|-unboost|p1a: Ursaring|spd|1
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen4|[silent]
+|
+|-status|p1a: Ursaring|tox|[from] item: Toxic Orb
+|upkeep
+|-message|universalconnector forfeited.
+|
+|win|hyunbelievable
+|raw|hyunbelievable's rating: 1263 &rarr; <strong>1287</strong><br />(+24 for winning)
+|raw|universalconnector's rating: 1252 &rarr; <strong>1228</strong><br />(-24 for losing)
+|l|☆universalconnector
+|player|p2|

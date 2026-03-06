@@ -1,0 +1,114 @@
+|j|☆qegixar
+|j|☆TeSjeff
+|t:|1772750753
+|gametype|singles
+|player|p1|qegixar|caitlin|1535
+|player|p2|TeSjeff|swimmer|1545
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772750753
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Quaquaval|Quaquaval, L79, M|264/264
+|switch|p2a: Rampardos|Rampardos, L90, M|321/321
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by TeSjeff)
+|
+|t:|1772750768
+|switch|p2a: Galvantula|Galvantula, L82, F|249/249
+|move|p1a: Quaquaval|Aqua Step|p2a: Galvantula
+|-crit|p2a: Galvantula
+|-damage|p2a: Galvantula|0 fnt
+|-boost|p1a: Quaquaval|spe|1
+|faint|p2a: Galvantula
+|-ability|p1a: Quaquaval|Moxie|boost
+|-boost|p1a: Quaquaval|atk|1
+|
+|upkeep
+|
+|t:|1772750779
+|switch|p2a: Gallade|Gallade, L80, M|240/240
+|turn|2
+|
+|t:|1772750783
+|move|p1a: Quaquaval|Aqua Step|p2a: Gallade
+|-damage|p2a: Gallade|0 fnt
+|-boost|p1a: Quaquaval|spe|1
+|faint|p2a: Gallade
+|-ability|p1a: Quaquaval|Moxie|boost
+|-boost|p1a: Quaquaval|atk|1
+|
+|upkeep
+|c|☆TeSjeff|ah ggXD
+|
+|t:|1772750797
+|switch|p2a: Venomoth|Venomoth, L84, M|255/255
+|turn|3
+|c|☆qegixar|Seems unfair
+|c|☆TeSjeff|that okay finish me big bro
+|
+|t:|1772750814
+|move|p1a: Quaquaval|Aqua Step|p2a: Venomoth
+|-damage|p2a: Venomoth|0 fnt
+|-boost|p1a: Quaquaval|spe|1
+|faint|p2a: Venomoth
+|-ability|p1a: Quaquaval|Moxie|boost
+|-boost|p1a: Quaquaval|atk|1
+|
+|upkeep
+|
+|t:|1772750817
+|switch|p2a: Delphox|Delphox, L84, F|263/263
+|turn|4
+|c|☆qegixar|Lol
+|
+|t:|1772750824
+|move|p1a: Quaquaval|Aqua Step|p2a: Delphox
+|-supereffective|p2a: Delphox
+|-damage|p2a: Delphox|0 fnt
+|-boost|p1a: Quaquaval|spe|1
+|faint|p2a: Delphox
+|-ability|p1a: Quaquaval|Moxie|boost
+|-boost|p1a: Quaquaval|atk|1
+|
+|upkeep
+|
+|t:|1772750827
+|switch|p2a: Golurk|Golurk, L87|297/297
+|turn|5
+|
+|t:|1772750830
+|move|p1a: Quaquaval|Aqua Step|p2a: Golurk
+|-supereffective|p2a: Golurk
+|-damage|p2a: Golurk|0 fnt
+|-boost|p1a: Quaquaval|spe|1
+|faint|p2a: Golurk
+|-ability|p1a: Quaquaval|Moxie|boost
+|-boost|p1a: Quaquaval|atk|1
+|
+|upkeep
+|
+|t:|1772750832
+|switch|p2a: Rampardos|Rampardos, L90, M|321/321
+|turn|6
+|
+|t:|1772750836
+|-terastallize|p2a: Rampardos|Rock
+|move|p1a: Quaquaval|Aqua Step|p2a: Rampardos
+|-supereffective|p2a: Rampardos
+|-damage|p2a: Rampardos|0 fnt
+|-boost|p1a: Quaquaval|spe|1
+|faint|p2a: Rampardos
+|
+|win|qegixar
+|raw|qegixar's rating: 1535 &rarr; <strong>1556</strong><br />(+21 for winning)
+|raw|TeSjeff's rating: 1545 &rarr; <strong>1524</strong><br />(-21 for losing)
+|l|☆TeSjeff
+|player|p2|

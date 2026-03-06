@@ -1,0 +1,390 @@
+|j|☆JDNKNG
+|j|☆iateawalrus
+|t:|1772745568
+|gametype|singles
+|player|p1|JDNKNG|cynthia-gen4|1404
+|player|p2|iateawalrus|pokemaniac|1416
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772745568
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Scovillain|Scovillain, L91, F|266/266
+|switch|p2a: Azelf|Azelf, L82|257/257
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by iateawalrus)
+|inactive|JDNKNG also wants the timer to be on.
+|
+|t:|1772745587
+|switch|p1a: Sableye|Sableye, L88, M|231/231
+|move|p2a: Azelf|Psyshock|p1a: Sableye
+|-immune|p1a: Sableye
+|
+|upkeep
+|turn|2
+|
+|t:|1772745595
+|switch|p2a: Chi-Yu|Chi-Yu, L77|211/211
+|-ability|p2a: Chi-Yu|Beads of Ruin
+|move|p1a: Sableye|Knock Off|p2a: Chi-Yu
+|-resisted|p2a: Chi-Yu
+|-damage|p2a: Chi-Yu|158/211
+|-enditem|p2a: Chi-Yu|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Sableye
+|
+|upkeep
+|turn|3
+|
+|t:|1772745606
+|switch|p1a: Arcanine|Arcanine, L84, F|288/288
+|-ability|p1a: Arcanine|Intimidate|boost
+|-unboost|p2a: Chi-Yu|atk|1
+|move|p2a: Chi-Yu|Will-O-Wisp|p1a: Arcanine
+|-immune|p1a: Arcanine
+|
+|upkeep
+|turn|4
+|
+|t:|1772745616
+|switch|p2a: Gliscor|Gliscor, L76, M|239/239
+|move|p1a: Arcanine|Close Combat|p2a: Gliscor
+|-resisted|p2a: Gliscor
+|-damage|p2a: Gliscor|200/239
+|-unboost|p1a: Arcanine|def|1
+|-unboost|p1a: Arcanine|spd|1
+|
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|5
+|
+|t:|1772745637
+|move|p2a: Gliscor|Substitute|p2a: Gliscor
+|-start|p2a: Gliscor|Substitute
+|-damage|p2a: Gliscor|141/239 tox
+|move|p1a: Arcanine|Roar|p2a: Gliscor
+|drag|p2a: Polteageist|Polteageist-Antique, L78|222/222
+|
+|upkeep
+|turn|6
+|
+|t:|1772745651
+|switch|p2a: Gliscor|Gliscor, L76, M|141/239 tox
+|move|p1a: Arcanine|Flare Blitz|p2a: Gliscor
+|-damage|p2a: Gliscor|18/239 tox
+|-damage|p1a: Arcanine|247/288|[from] Recoil
+|
+|-heal|p2a: Gliscor|47/239 tox|[from] ability: Poison Heal
+|upkeep
+|turn|7
+|
+|t:|1772745660
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Arcanine|Flare Blitz|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-heal|p2a: Gliscor|76/239 tox|[from] ability: Poison Heal
+|upkeep
+|turn|8
+|
+|t:|1772745669
+|switch|p2a: Volcanion|Volcanion, L79|256/256
+|move|p1a: Arcanine|Flare Blitz|p2a: Volcanion
+|-resisted|p2a: Volcanion
+|-damage|p2a: Volcanion|229/256
+|-damage|p1a: Arcanine|238/288|[from] Recoil
+|
+|upkeep
+|turn|9
+|
+|t:|1772745676
+|switch|p1a: Sableye|Sableye, L88, M|231/231
+|move|p2a: Volcanion|Steam Eruption|p1a: Sableye
+|-damage|p1a: Sableye|89/231
+|-status|p1a: Sableye|brn
+|
+|-heal|p1a: Sableye|103/231 brn|[from] item: Leftovers
+|-damage|p1a: Sableye|89/231 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1772745687
+|move|p1a: Sableye|Recover|p1a: Sableye
+|-heal|p1a: Sableye|205/231 brn
+|move|p2a: Volcanion|Steam Eruption|p1a: Sableye
+|-damage|p1a: Sableye|48/231 brn
+|
+|-heal|p1a: Sableye|62/231 brn|[from] item: Leftovers
+|-damage|p1a: Sableye|48/231 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1772745694
+|switch|p2a: Chi-Yu|Chi-Yu, L77|158/211
+|-ability|p2a: Chi-Yu|Beads of Ruin
+|move|p1a: Sableye|Knock Off|p2a: Chi-Yu
+|-resisted|p2a: Chi-Yu
+|-damage|p2a: Chi-Yu|141/211
+|
+|-heal|p1a: Sableye|62/231 brn|[from] item: Leftovers
+|-damage|p1a: Sableye|48/231 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1772745702
+|move|p1a: Sableye|Recover|p1a: Sableye
+|-heal|p1a: Sableye|164/231 brn
+|move|p2a: Chi-Yu|Dark Pulse|p1a: Sableye
+|-damage|p1a: Sableye|19/231 brn
+|
+|-heal|p1a: Sableye|33/231 brn|[from] item: Leftovers
+|-damage|p1a: Sableye|19/231 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1772745708
+|move|p2a: Chi-Yu|Dark Pulse|p1a: Sableye
+|-damage|p1a: Sableye|0 fnt
+|faint|p1a: Sableye
+|
+|upkeep
+|
+|t:|1772745712
+|switch|p1a: Arcanine|Arcanine, L84, F|238/288
+|-ability|p1a: Arcanine|Intimidate|boost
+|-unboost|p2a: Chi-Yu|atk|1
+|turn|14
+|
+|t:|1772745728
+|move|p1a: Arcanine|Close Combat|p2a: Chi-Yu
+|-supereffective|p2a: Chi-Yu
+|-damage|p2a: Chi-Yu|0 fnt
+|-unboost|p1a: Arcanine|def|1
+|-unboost|p1a: Arcanine|spd|1
+|faint|p2a: Chi-Yu
+|
+|upkeep
+|
+|t:|1772745733
+|switch|p2a: Gliscor|Gliscor, L76, M|76/239 tox
+|turn|15
+|
+|t:|1772745736
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Arcanine|Flare Blitz|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-heal|p2a: Gliscor|105/239 tox|[from] ability: Poison Heal
+|upkeep
+|turn|16
+|
+|t:|1772745741
+|switch|p2a: Volcanion|Volcanion, L79|229/256
+|move|p1a: Arcanine|Flare Blitz|p2a: Volcanion
+|-resisted|p2a: Volcanion
+|-damage|p2a: Volcanion|198/256
+|-damage|p1a: Arcanine|228/288|[from] Recoil
+|
+|upkeep
+|turn|17
+|
+|t:|1772745749
+|switch|p1a: Scovillain|Scovillain, L91, F|266/266
+|move|p2a: Volcanion|Steam Eruption|p1a: Scovillain
+|-damage|p1a: Scovillain|124/266
+|
+|-heal|p1a: Scovillain|140/266|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1772745761
+|switch|p2a: Toxicroak|Toxicroak, L84, M|277/277
+|move|p1a: Scovillain|Leech Seed|p2a: Toxicroak|[miss]
+|-miss|p1a: Scovillain|p2a: Toxicroak
+|
+|-heal|p1a: Scovillain|156/266|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1772745768
+|move|p2a: Toxicroak|Gunk Shot|p1a: Scovillain
+|-supereffective|p1a: Scovillain
+|-damage|p1a: Scovillain|0 fnt
+|faint|p1a: Scovillain
+|
+|upkeep
+|
+|t:|1772745775
+|switch|p1a: Glimmora|Glimmora, L75, F|248/248
+|turn|20
+|
+|t:|1772745780
+|switch|p2a: Gliscor|Gliscor, L76, M|105/239 tox
+|move|p1a: Glimmora|Meteor Beam||[still]
+|-prepare|p1a: Glimmora|Meteor Beam
+|-boost|p1a: Glimmora|spa|1
+|-enditem|p1a: Glimmora|Power Herb
+|-anim|p1a: Glimmora|Meteor Beam|p2a: Gliscor
+|-damage|p2a: Gliscor|0 fnt
+|faint|p2a: Gliscor
+|
+|upkeep
+|
+|t:|1772745800
+|switch|p2a: Toxicroak|Toxicroak, L84, M|277/277
+|turn|21
+|
+|t:|1772745803
+|move|p2a: Toxicroak|Earthquake|p1a: Glimmora
+|-supereffective|p1a: Glimmora
+|-damage|p1a: Glimmora|0 fnt
+|-activate|p1a: Glimmora|ability: Toxic Debris
+|-sidestart|p2: iateawalrus|move: Toxic Spikes
+|faint|p1a: Glimmora
+|
+|upkeep
+|
+|t:|1772745817
+|switch|p1a: Arcanine|Arcanine, L84, F|228/288
+|-ability|p1a: Arcanine|Intimidate|boost
+|-unboost|p2a: Toxicroak|atk|1
+|turn|22
+|
+|t:|1772745839
+|switch|p1a: Dragalge|Dragalge, L88, M|258/258
+|switch|p2a: Azelf|Azelf, L82|257/257
+|
+|upkeep
+|turn|23
+|
+|t:|1772745854
+|move|p2a: Azelf|Psyshock|p1a: Dragalge
+|-supereffective|p1a: Dragalge
+|-damage|p1a: Dragalge|0 fnt
+|faint|p1a: Dragalge
+|-damage|p2a: Azelf|232/257|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772745862
+|switch|p1a: Meganium|Meganium, L90, M|290/290
+|turn|24
+|
+|t:|1772745876
+|switch|p1a: Arcanine|Arcanine, L84, F|228/288
+|-ability|p1a: Arcanine|Intimidate|boost
+|-unboost|p2a: Azelf|atk|1
+|move|p2a: Azelf|Fire Blast|p1a: Arcanine
+|-resisted|p1a: Arcanine
+|-damage|p1a: Arcanine|167/288
+|-damage|p2a: Azelf|207/257|[from] item: Life Orb
+|
+|upkeep
+|turn|25
+|
+|t:|1772745883
+|move|p2a: Azelf|Psyshock|p1a: Arcanine
+|-damage|p1a: Arcanine|31/288
+|-damage|p2a: Azelf|182/257|[from] item: Life Orb
+|move|p1a: Arcanine|Flare Blitz|p2a: Azelf
+|-damage|p2a: Azelf|16/257
+|-damage|p1a: Arcanine|0 fnt|[from] Recoil
+|faint|p1a: Arcanine
+|
+|upkeep
+|
+|t:|1772745886
+|switch|p1a: Meganium|Meganium, L90, M|290/290
+|turn|26
+|
+|t:|1772745890
+|move|p2a: Azelf|Fire Blast|p1a: Meganium|[miss]
+|-miss|p2a: Azelf|p1a: Meganium
+|move|p1a: Meganium|Knock Off|p2a: Azelf
+|-supereffective|p2a: Azelf
+|-damage|p2a: Azelf|0 fnt
+|-enditem|p2a: Azelf|Life Orb|[from] move: Knock Off|[of] p1a: Meganium
+|faint|p2a: Azelf
+|
+|upkeep
+|
+|t:|1772745894
+|switch|p2a: Toxicroak|Toxicroak, L84, M|277/277
+|-sideend|p2: iateawalrus|move: Toxic Spikes|[of] p2a: Toxicroak
+|turn|27
+|
+|t:|1772745900
+|-terastallize|p1a: Meganium|Steel
+|move|p1a: Meganium|Swords Dance|p1a: Meganium
+|-boost|p1a: Meganium|atk|2
+|move|p2a: Toxicroak|Gunk Shot|p1a: Meganium
+|-immune|p1a: Meganium
+|
+|upkeep
+|turn|28
+|
+|t:|1772745912
+|switch|p2a: Volcanion|Volcanion, L79|198/256
+|move|p1a: Meganium|Swords Dance|p1a: Meganium
+|-boost|p1a: Meganium|atk|2
+|
+|upkeep
+|turn|29
+|
+|t:|1772745919
+|move|p1a: Meganium|Earthquake|p2a: Volcanion
+|-supereffective|p2a: Volcanion
+|-damage|p2a: Volcanion|0 fnt
+|faint|p2a: Volcanion
+|
+|upkeep
+|
+|t:|1772745921
+|switch|p2a: Toxicroak|Toxicroak, L84, M|277/277
+|turn|30
+|
+|t:|1772745924
+|move|p1a: Meganium|Earthquake|p2a: Toxicroak
+|-supereffective|p2a: Toxicroak
+|-damage|p2a: Toxicroak|0 fnt
+|faint|p2a: Toxicroak
+|
+|upkeep
+|
+|t:|1772745927
+|switch|p2a: Polteageist|Polteageist-Antique, L78|222/222
+|turn|31
+|
+|t:|1772745936
+|-terastallize|p2a: Polteageist|Fighting
+|move|p1a: Meganium|Knock Off|p2a: Polteageist
+|-resisted|p2a: Polteageist
+|-damage|p2a: Polteageist|88/222
+|-start|p1a: Meganium|Disable|Knock Off|[from] ability: Cursed Body|[of] p2a: Polteageist
+|-enditem|p2a: Polteageist|White Herb|[from] move: Knock Off|[of] p1a: Meganium
+|move|p2a: Polteageist|Shell Smash|p2a: Polteageist
+|-unboost|p2a: Polteageist|def|1
+|-unboost|p2a: Polteageist|spd|1
+|-boost|p2a: Polteageist|atk|2
+|-boost|p2a: Polteageist|spa|2
+|-boost|p2a: Polteageist|spe|2
+|
+|upkeep
+|turn|32
+|
+|t:|1772745945
+|move|p2a: Polteageist|Tera Blast|p1a: Meganium|[anim] Tera Blast Fighting
+|-supereffective|p1a: Meganium
+|-damage|p1a: Meganium|0 fnt
+|faint|p1a: Meganium
+|
+|win|iateawalrus
+|raw|JDNKNG's rating: 1404 &rarr; <strong>1385</strong><br />(-19 for losing)
+|raw|iateawalrus's rating: 1416 &rarr; <strong>1435</strong><br />(+19 for winning)

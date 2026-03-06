@@ -1,0 +1,373 @@
+|j|☆alecksdee
+|j|☆los chipirones
+|t:|1772745614
+|gametype|singles
+|player|p1|alecksdee|baker|2178
+|player|p2|los chipirones|unknown|2321
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772745614
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Persian|Persian-Alola, L86, M|219/219
+|switch|p2a: Dipplin|Dipplin, L88, F|284/284
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by alecksdee)
+|
+|t:|1772745633
+|switch|p1a: Forretress|Forretress, L84, F|263/263
+|move|p2a: Dipplin|Dragon Tail|p1a: Forretress
+|-resisted|p1a: Forretress
+|-damage|p1a: Forretress|242/263
+|drag|p1a: Persian|Persian-Alola, L86, M|219/219
+|
+|upkeep
+|turn|2
+|
+|t:|1772745643
+|switch|p1a: Forretress|Forretress, L84, F|242/263
+|move|p2a: Dipplin|Dragon Tail|p1a: Forretress
+|-resisted|p1a: Forretress
+|-damage|p1a: Forretress|220/263
+|drag|p1a: Persian|Persian-Alola, L86, M|252/252
+|
+|upkeep
+|turn|3
+|
+|t:|1772745649
+|move|p1a: Persian|Parting Shot|p2a: Dipplin
+|-unboost|p2a: Dipplin|atk|1
+|-unboost|p2a: Dipplin|spa|1
+|
+|t:|1772745652
+|switch|p1a: Forretress|Forretress, L84, F|220/263|[from] Parting Shot
+|move|p2a: Dipplin|Dragon Pulse|p1a: Forretress
+|-resisted|p1a: Forretress
+|-damage|p1a: Forretress|175/263
+|
+|-heal|p1a: Forretress|191/263|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1772745657
+|switch|p2a: Cramorant|Cramorant, L86, F|261/261
+|move|p1a: Forretress|Stealth Rock|p2a: Cramorant
+|-sidestart|p2: los chipirones|move: Stealth Rock
+|
+|-heal|p1a: Forretress|207/263|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1772745675
+|switch|p1a: Skuntank|Skuntank, L84, F|310/310
+|move|p2a: Cramorant|Surf|p1a: Skuntank
+|-formechange|p2a: Cramorant|Cramorant-Gulping|
+|-damage|p1a: Skuntank|192/310
+|
+|upkeep
+|turn|6
+|
+|t:|1772745685
+|move|p2a: Cramorant|Defog|p1a: Skuntank
+|-unboost|p1a: Skuntank|evasion|1
+|-sideend|p2: los chipirones|Stealth Rock|[from] move: Defog|[of] p2a: Cramorant
+|move|p1a: Skuntank|Gunk Shot|p2a: Cramorant
+|-crit|p2a: Cramorant
+|-damage|p2a: Cramorant|0 fnt
+|-damage|p1a: Skuntank|115/310|[from] ability: Gulp Missile|[of] p2a: Cramorant
+|-unboost|p1a: Skuntank|def|1
+|-formechange|p2a: Cramorant|Cramorant|
+|faint|p2a: Cramorant
+|-damage|p1a: Skuntank|84/310|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772745696
+|switch|p2a: Tauros|Tauros-Paldea-Blaze, L81, M|252/252
+|turn|7
+|
+|t:|1772745714
+|move|p2a: Tauros|Substitute|p2a: Tauros
+|-start|p2a: Tauros|Substitute
+|-damage|p2a: Tauros|189/252
+|move|p1a: Skuntank|Taunt|p2a: Tauros
+|-start|p2a: Tauros|move: Taunt
+|
+|upkeep
+|turn|8
+|
+|t:|1772745727
+|move|p1a: Skuntank|Sucker Punch|p2a: Tauros
+|-resisted|p2a: Tauros
+|-activate|p2a: Tauros|move: Substitute|[damage]
+|-damage|p1a: Skuntank|53/310|[from] item: Life Orb
+|move|p2a: Tauros|Raging Bull|p1a: Skuntank
+|-damage|p1a: Skuntank|0 fnt
+|-damage|p2a: Tauros|126/252|[from] ability: Aftermath|[of] p1a: Skuntank
+|-enditem|p2a: Tauros|Sitrus Berry|[eat]
+|-heal|p2a: Tauros|189/252|[from] item: Sitrus Berry
+|faint|p1a: Skuntank
+|
+|upkeep
+|
+|t:|1772745739
+|switch|p1a: Tropius|Tropius, L91, F|328/328
+|turn|9
+|
+|t:|1772745742
+|move|p2a: Tauros|Raging Bull|p1a: Tropius
+|-supereffective|p1a: Tropius
+|-damage|p1a: Tropius|140/328
+|-enditem|p1a: Tropius|Sitrus Berry|[eat]
+|-heal|p1a: Tropius|222/328|[from] item: Sitrus Berry
+|move|p1a: Tropius|Dragon Dance|p1a: Tropius
+|-boost|p1a: Tropius|atk|1
+|-boost|p1a: Tropius|spe|1
+|
+|-activate|p2a: Tauros|ability: Cud Chew
+|-enditem|p2a: Tauros|Sitrus Berry|[eat]
+|-heal|p2a: Tauros|252/252|[from] item: Sitrus Berry
+|upkeep
+|turn|10
+|
+|t:|1772745748
+|move|p1a: Tropius|Dual Wingbeat|p2a: Tauros
+|-supereffective|p2a: Tauros
+|-end|p2a: Tauros|Substitute
+|-supereffective|p2a: Tauros
+|-damage|p2a: Tauros|154/252
+|-hitcount|p2a: Tauros|2
+|move|p2a: Tauros|Raging Bull|p1a: Tropius
+|-supereffective|p1a: Tropius
+|-damage|p1a: Tropius|16/328
+|
+|-end|p2a: Tauros|move: Taunt
+|-item|p1a: Tropius|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|-enditem|p1a: Tropius|Sitrus Berry|[eat]
+|-heal|p1a: Tropius|98/328|[from] item: Sitrus Berry
+|turn|11
+|
+|t:|1772745757
+|-terastallize|p2a: Tauros|Water
+|move|p1a: Tropius|Dual Wingbeat|p2a: Tauros
+|-damage|p2a: Tauros|106/252
+|-crit|p2a: Tauros
+|-damage|p2a: Tauros|31/252
+|-hitcount|p2a: Tauros|2
+|move|p2a: Tauros|Raging Bull|p1a: Tropius
+|-supereffective|p1a: Tropius
+|-damage|p1a: Tropius|0 fnt
+|faint|p1a: Tropius
+|
+|upkeep
+|
+|t:|1772745771
+|switch|p1a: Persian|Persian-Alola, L86, M|252/252
+|turn|12
+|
+|t:|1772745776
+|switch|p2a: Dipplin|Dipplin, L88, F|284/284
+|move|p1a: Persian|Knock Off|p2a: Dipplin
+|-crit|p2a: Dipplin
+|-damage|p2a: Dipplin|220/284
+|-activate|p2a: Dipplin|ability: Sticky Hold
+|
+|upkeep
+|turn|13
+|
+|t:|1772745782
+|move|p1a: Persian|Thunder Wave|p2a: Dipplin|[miss]
+|-miss|p1a: Persian|p2a: Dipplin
+|move|p2a: Dipplin|Dragon Tail|p1a: Persian
+|-damage|p1a: Persian|213/252
+|drag|p1a: Forretress|Forretress, L84, F|207/263
+|
+|-heal|p1a: Forretress|223/263|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1772745788
+|switch|p2a: Tauros|Tauros-Paldea-Blaze, L81, M, tera:Water|31/252
+|move|p1a: Forretress|Stealth Rock|p2a: Tauros
+|-sidestart|p2: los chipirones|move: Stealth Rock
+|
+|-heal|p1a: Forretress|239/263|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1772745797
+|switch|p1a: Annihilape|Annihilape, L76, F|292/292
+|move|p2a: Tauros|Close Combat|p1a: Annihilape
+|-immune|p1a: Annihilape
+|
+|upkeep
+|turn|16
+|
+|t:|1772745808
+|switch|p2a: Meloetta|Meloetta, L82|298/298
+|-damage|p2a: Meloetta|261/298|[from] Stealth Rock
+|move|p1a: Annihilape|Drain Punch|p2a: Meloetta
+|-damage|p2a: Meloetta|179/298
+|
+|upkeep
+|turn|17
+|
+|t:|1772745826
+|switch|p1a: Persian|Persian-Alola, L86, M|213/252
+|move|p2a: Meloetta|Hyper Voice|p1a: Persian
+|-damage|p1a: Persian|38/252
+|-damage|p2a: Meloetta|150/298|[from] item: Life Orb
+|
+|upkeep
+|turn|18
+|
+|t:|1772745835
+|switch|p2a: Tauros|Tauros-Paldea-Blaze, L81, M, tera:Water|31/252
+|-damage|p2a: Tauros|0 fnt|[from] Stealth Rock
+|faint|p2a: Tauros
+|move|p1a: Persian|Parting Shot|p2: Tauros|[notarget]
+|-fail|p1a: Persian
+|
+|upkeep
+|
+|t:|1772745843
+|switch|p2a: Dipplin|Dipplin, L88, F|220/284
+|-damage|p2a: Dipplin|185/284|[from] Stealth Rock
+|turn|19
+|
+|t:|1772745848
+|move|p1a: Persian|Thunder Wave|p2a: Dipplin
+|-status|p2a: Dipplin|par
+|move|p2a: Dipplin|Dragon Pulse|p1a: Persian
+|-damage|p1a: Persian|0 fnt
+|faint|p1a: Persian
+|
+|upkeep
+|
+|t:|1772745864
+|switch|p1a: Annihilape|Annihilape, L76, F|292/292
+|turn|20
+|
+|t:|1772745869
+|switch|p2a: Misdreavus|Misdreavus, L90, M|254/254
+|-damage|p2a: Misdreavus|223/254|[from] Stealth Rock
+|move|p1a: Annihilape|Gunk Shot|p2a: Misdreavus
+|-resisted|p2a: Misdreavus
+|-damage|p2a: Misdreavus|192/254
+|
+|upkeep
+|turn|21
+|
+|t:|1772745886
+|switch|p1a: Forretress|Forretress, L84, F|219/219
+|move|p2a: Misdreavus|Will-O-Wisp|p1a: Forretress
+|-status|p1a: Forretress|brn
+|
+|-damage|p1a: Forretress|206/219 brn|[from] brn
+|upkeep
+|turn|22
+|
+|t:|1772745892
+|move|p1a: Forretress|Bitter Malice|p2a: Misdreavus
+|-supereffective|p2a: Misdreavus
+|-damage|p2a: Misdreavus|28/254
+|-unboost|p2a: Misdreavus|atk|1
+|move|p2a: Misdreavus|Calm Mind|p2a: Misdreavus
+|-boost|p2a: Misdreavus|spa|1
+|-boost|p2a: Misdreavus|spd|1
+|
+|-damage|p1a: Forretress|193/219 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1772745906
+|move|p1a: Forretress|Bitter Malice|p2a: Misdreavus
+|-supereffective|p2a: Misdreavus
+|-crit|p2a: Misdreavus
+|-damage|p2a: Misdreavus|0 fnt
+|faint|p2a: Misdreavus
+|
+|-damage|p1a: Forretress|180/219 brn|[from] brn
+|upkeep
+|
+|t:|1772745913
+|switch|p2a: Meloetta|Meloetta, L82|150/298
+|-damage|p2a: Meloetta|113/298|[from] Stealth Rock
+|turn|24
+|
+|t:|1772745918
+|switch|p1a: Forretress|Forretress, L84, F|239/263
+|move|p2a: Meloetta|Psyshock|p1a: Forretress
+|-resisted|p1a: Forretress
+|-damage|p1a: Forretress|190/263
+|-damage|p2a: Meloetta|84/298|[from] item: Life Orb
+|
+|-heal|p1a: Forretress|206/263|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1772745925
+|move|p2a: Meloetta|Focus Blast|p1a: Forretress
+|-damage|p1a: Forretress|42/263
+|-damage|p2a: Meloetta|55/298|[from] item: Life Orb
+|move|p1a: Forretress|Iron Head|p2a: Meloetta
+|-damage|p2a: Meloetta|0 fnt
+|faint|p2a: Meloetta
+|
+|-heal|p1a: Forretress|58/263|[from] item: Leftovers
+|upkeep
+|
+|t:|1772745927
+|switch|p2a: Zekrom|Zekrom, L71|259/259
+|-damage|p2a: Zekrom|227/259|[from] Stealth Rock
+|-ability|p2a: Zekrom|Teravolt
+|turn|26
+|
+|t:|1772745957
+|switch|p1a: Forretress|Forretress, L84, F|180/219 brn
+|move|p2a: Zekrom|Dragon Dance|p2a: Zekrom
+|-boost|p2a: Zekrom|atk|1
+|-boost|p2a: Zekrom|spe|1
+|
+|-heal|p2a: Zekrom|243/259|[from] item: Leftovers
+|-damage|p1a: Forretress|167/219 brn|[from] brn
+|upkeep
+|turn|27
+|
+|t:|1772745967
+|switch|p1a: Forretress|Forretress, L84, F|58/263
+|move|p2a: Zekrom|Bolt Strike|p1a: Forretress
+|-damage|p1a: Forretress|0 fnt
+|faint|p1a: Forretress
+|
+|-heal|p2a: Zekrom|259/259|[from] item: Leftovers
+|upkeep
+|
+|t:|1772745973
+|switch|p1a: Annihilape|Annihilape, L76, F|292/292
+|turn|28
+|
+|t:|1772745982
+|move|p2a: Zekrom|Bolt Strike|p1a: Annihilape
+|-damage|p1a: Annihilape|37/292
+|-status|p1a: Annihilape|par
+|cant|p1a: Annihilape|par
+|
+|-heal|p1a: Annihilape|55/292 par|[from] item: Leftovers
+|upkeep
+|turn|29
+|-message|alecksdee forfeited.
+|
+|win|los chipirones
+|raw|alecksdee's rating: 2178 &rarr; <strong>2166</strong><br />(-12 for losing)
+|raw|los chipirones's rating: 2321 &rarr; <strong>2333</strong><br />(+12 for winning)
+|l|☆alecksdee
+|player|p1|

@@ -1,0 +1,264 @@
+|j|☆Felipeshuter
+|j|☆Peste Branca
+|t:|1772751237
+|gametype|singles
+|player|p1|Felipeshuter|1|
+|player|p2|Peste Branca|1|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772751237
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Drednaw|Drednaw, L81, F|278/278
+|switch|p2a: Kingdra|Kingdra, L84, F|263/263
+|turn|1
+|
+|t:|1772751258
+|move|p2a: Kingdra|Dragon Dance|p2a: Kingdra
+|-boost|p2a: Kingdra|atk|1
+|-boost|p2a: Kingdra|spe|1
+|move|p1a: Drednaw|Shell Smash|p1a: Drednaw
+|-unboost|p1a: Drednaw|def|1
+|-unboost|p1a: Drednaw|spd|1
+|-boost|p1a: Drednaw|atk|2
+|-boost|p1a: Drednaw|spa|2
+|-boost|p1a: Drednaw|spe|2
+|-enditem|p1a: Drednaw|White Herb
+|-clearnegativeboost|p1a: Drednaw|[silent]
+|
+|upkeep
+|turn|2
+|
+|t:|1772751271
+|move|p1a: Drednaw|Crunch|p2a: Kingdra
+|-damage|p2a: Kingdra|100/263
+|move|p2a: Kingdra|Outrage|p1a: Drednaw
+|-damage|p1a: Drednaw|80/278
+|
+|upkeep
+|turn|3
+|
+|t:|1772751277
+|move|p1a: Drednaw|Crunch|p2a: Kingdra
+|-damage|p2a: Kingdra|0 fnt
+|faint|p2a: Kingdra
+|
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Felipeshuter)
+|
+|t:|1772751304
+|switch|p2a: Dedenne|Dedenne, L88, M|261/261
+|turn|4
+|
+|t:|1772751311
+|move|p1a: Drednaw|Stone Edge|p2a: Dedenne
+|-crit|p2a: Dedenne
+|-damage|p2a: Dedenne|0 fnt
+|faint|p2a: Dedenne
+|
+|upkeep
+|
+|t:|1772751317
+|switch|p2a: Shiftry|Shiftry, L89, M|305/305
+|turn|5
+|
+|t:|1772751331
+|move|p1a: Drednaw|Crunch|p2a: Shiftry
+|-resisted|p2a: Shiftry
+|-damage|p2a: Shiftry|203/305
+|move|p2a: Shiftry|Leaf Blade|p1a: Drednaw
+|-supereffective|p1a: Drednaw
+|-damage|p1a: Drednaw|0 fnt
+|faint|p1a: Drednaw
+|-damage|p2a: Shiftry|173/305|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772751341
+|switch|p1a: Mandibuzz|Mandibuzz, L85, F|326/326
+|turn|6
+|
+|t:|1772751357
+|move|p2a: Shiftry|Knock Off|p1a: Mandibuzz
+|-resisted|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|264/326
+|-enditem|p1a: Mandibuzz|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Shiftry
+|-damage|p2a: Shiftry|143/305|[from] item: Life Orb
+|move|p1a: Mandibuzz|U-turn|p2a: Shiftry
+|-supereffective|p2a: Shiftry
+|-damage|p2a: Shiftry|0 fnt
+|faint|p2a: Shiftry
+|
+|t:|1772751373
+|switch|p1a: Shaymin|Shaymin-Sky, L73|266/266|[from] U-turn
+|
+|upkeep
+|
+|t:|1772751380
+|switch|p2a: Glalie|Glalie, L96, F|309/309
+|turn|7
+|
+|t:|1772751390
+|-terastallize|p1a: Shaymin|Steel
+|move|p1a: Shaymin|Earth Power|p2a: Glalie
+|-damage|p2a: Glalie|254/309
+|move|p2a: Glalie|Freeze-Dry|p1a: Shaymin
+|-resisted|p1a: Shaymin
+|-damage|p1a: Shaymin|209/266
+|
+|upkeep
+|turn|8
+|
+|t:|1772751406
+|move|p1a: Shaymin|Air Slash|p2a: Glalie
+|-damage|p2a: Glalie|187/309
+|move|p2a: Glalie|Earthquake|p1a: Shaymin
+|-supereffective|p1a: Shaymin
+|-damage|p1a: Shaymin|19/266
+|
+|upkeep
+|turn|9
+|
+|t:|1772751414
+|move|p1a: Shaymin|Seed Flare|p2a: Glalie
+|-damage|p2a: Glalie|78/309
+|-unboost|p2a: Glalie|spd|2
+|move|p2a: Glalie|Earthquake|p1a: Shaymin
+|-supereffective|p1a: Shaymin
+|-damage|p1a: Shaymin|0 fnt
+|faint|p1a: Shaymin
+|
+|upkeep
+|
+|t:|1772751422
+|switch|p1a: Grafaiai|Grafaiai, L86, F|249/249
+|turn|10
+|
+|t:|1772751440
+|move|p1a: Grafaiai|Low Kick|p2a: Glalie
+|-supereffective|p2a: Glalie
+|-damage|p2a: Glalie|0 fnt
+|faint|p2a: Glalie
+|-damage|p1a: Grafaiai|225/249|[from] item: Life Orb
+|
+|upkeep
+|inactive|Peste Branca has 270 seconds left.
+|
+|t:|1772751460
+|switch|p2a: Chimecho|Chimecho, L93, F|290/290
+|turn|11
+|
+|t:|1772751467
+|move|p1a: Grafaiai|Knock Off|p2a: Chimecho
+|-supereffective|p2a: Chimecho
+|-damage|p2a: Chimecho|103/290
+|-status|p2a: Chimecho|psn|[from] ability: Poison Touch|[of] p1a: Grafaiai
+|-enditem|p2a: Chimecho|Leftovers|[from] move: Knock Off|[of] p1a: Grafaiai
+|-damage|p1a: Grafaiai|201/249|[from] item: Life Orb
+|move|p2a: Chimecho|Psychic Noise|p1a: Grafaiai
+|-supereffective|p1a: Grafaiai
+|-damage|p1a: Grafaiai|0 fnt
+|faint|p1a: Grafaiai
+|
+|-damage|p2a: Chimecho|67/290 psn|[from] psn
+|upkeep
+|
+|t:|1772751474
+|switch|p1a: Mandibuzz|Mandibuzz, L85, F|264/326
+|turn|12
+|
+|t:|1772751488
+|move|p1a: Mandibuzz|Foul Play|p2a: Chimecho
+|-supereffective|p2a: Chimecho
+|-damage|p2a: Chimecho|0 fnt
+|faint|p2a: Chimecho
+|
+|upkeep
+|
+|t:|1772751492
+|switch|p2a: Roaring Moon|Roaring Moon, L72|270/270
+|-enditem|p2a: Roaring Moon|Booster Energy
+|-activate|p2a: Roaring Moon|ability: Protosynthesis|[fromitem]
+|-start|p2a: Roaring Moon|protosynthesisatk
+|turn|13
+|
+|t:|1772751503
+|move|p2a: Roaring Moon|Dragon Dance|p2a: Roaring Moon
+|-boost|p2a: Roaring Moon|atk|1
+|-boost|p2a: Roaring Moon|spe|1
+|move|p1a: Mandibuzz|U-turn|p2a: Roaring Moon
+|-supereffective|p2a: Roaring Moon
+|-damage|p2a: Roaring Moon|174/270
+|
+|t:|1772751507
+|switch|p1a: Quaquaval|Quaquaval, L79, M|264/264|[from] U-turn
+|
+|upkeep
+|turn|14
+|
+|t:|1772751518
+|move|p2a: Roaring Moon|Acrobatics|p1a: Quaquaval
+|-supereffective|p1a: Quaquaval
+|-damage|p1a: Quaquaval|0 fnt
+|faint|p1a: Quaquaval
+|
+|upkeep
+|
+|t:|1772751522
+|switch|p1a: Mandibuzz|Mandibuzz, L85, F|264/326
+|turn|15
+|
+|t:|1772751531
+|move|p2a: Roaring Moon|Outrage|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|66/326
+|move|p1a: Mandibuzz|U-turn|p2a: Roaring Moon
+|-supereffective|p2a: Roaring Moon
+|-damage|p2a: Roaring Moon|66/270
+|
+|t:|1772751534
+|switch|p1a: Cresselia|Cresselia, L80, F|323/323|[from] U-turn
+|
+|upkeep
+|turn|16
+|
+|t:|1772751546
+|move|p2a: Roaring Moon|Outrage|p1a: Cresselia|[from] lockedmove
+|-damage|p1a: Cresselia|110/323
+|-start|p2a: Roaring Moon|confusion|[fatigue]
+|move|p1a: Cresselia|Thunderbolt|p2a: Roaring Moon
+|-resisted|p2a: Roaring Moon
+|-damage|p2a: Roaring Moon|40/270
+|
+|-heal|p1a: Cresselia|130/323|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1772751558
+|-activate|p2a: Roaring Moon|confusion
+|move|p2a: Roaring Moon|Knock Off|p1a: Cresselia
+|-supereffective|p1a: Cresselia
+|-damage|p1a: Cresselia|0 fnt
+|-enditem|p1a: Cresselia|Leftovers|[from] move: Knock Off|[of] p2a: Roaring Moon
+|faint|p1a: Cresselia
+|
+|upkeep
+|
+|t:|1772751561
+|switch|p1a: Mandibuzz|Mandibuzz, L85, F|66/326
+|turn|18
+|
+|t:|1772751578
+|-activate|p2a: Roaring Moon|confusion
+|move|p2a: Roaring Moon|Outrage|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|0 fnt
+|faint|p1a: Mandibuzz
+|
+|win|Peste Branca
+|l|☆Felipeshuter
+|player|p1|

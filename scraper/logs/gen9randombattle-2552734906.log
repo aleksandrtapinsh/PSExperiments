@@ -1,0 +1,234 @@
+|j|☆TheSlopBros
+|j|☆pirulobazoka
+|t:|1772748081
+|gametype|singles
+|player|p1|TheSlopBros|interviewers|1644
+|player|p2|pirulobazoka|bugcatcher-gen4dp|1630
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772748081
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Flutter Mane|Flutter Mane, L74|203/203
+|switch|p2a: Grumpig|Grumpig, L92, M|297/297
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by pirulobazoka)
+|
+|t:|1772748113
+|move|p1a: Flutter Mane|Moonblast|p2a: Grumpig
+|-damage|p2a: Grumpig|192/297
+|-damage|p1a: Flutter Mane|183/203|[from] item: Life Orb
+|move|p2a: Grumpig|Shadow Ball|p1a: Flutter Mane
+|-supereffective|p1a: Flutter Mane
+|-damage|p1a: Flutter Mane|89/203
+|
+|-heal|p2a: Grumpig|210/297|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1772748139
+|-end|p1a: Flutter Mane|Protosynthesis|[silent]
+|switch|p1a: Incineroar|Incineroar, L82, M|290/290
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Grumpig|atk|1
+|move|p2a: Grumpig|Psychic|p1a: Incineroar
+|-immune|p1a: Incineroar
+|
+|-heal|p2a: Grumpig|228/297|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1772748149
+|move|p2a: Grumpig|Earth Power|p1a: Incineroar
+|-supereffective|p1a: Incineroar
+|-damage|p1a: Incineroar|200/290
+|-unboost|p1a: Incineroar|spd|1
+|move|p1a: Incineroar|Knock Off|p2a: Grumpig
+|-supereffective|p2a: Grumpig
+|-damage|p2a: Grumpig|0 fnt
+|-enditem|p2a: Grumpig|Leftovers|[from] move: Knock Off|[of] p1a: Incineroar
+|faint|p2a: Grumpig
+|
+|upkeep
+|
+|t:|1772748163
+|switch|p2a: Bellibolt|Bellibolt, L84, M|320/320
+|turn|4
+|
+|t:|1772748186
+|move|p1a: Incineroar|Knock Off|p2a: Bellibolt
+|-damage|p2a: Bellibolt|208/320
+|-start|p2a: Bellibolt|Charge|Knock Off|[from] ability: Electromorphosis
+|-enditem|p2a: Bellibolt|Leftovers|[from] move: Knock Off|[of] p1a: Incineroar
+|move|p2a: Bellibolt|Muddy Water|p1a: Incineroar
+|-supereffective|p1a: Incineroar
+|-damage|p1a: Incineroar|58/290
+|
+|upkeep
+|turn|5
+|
+|t:|1772748195
+|move|p1a: Incineroar|U-turn|p2a: Bellibolt
+|-damage|p2a: Bellibolt|155/320
+|-start|p2a: Bellibolt|Charge|U-turn|[from] ability: Electromorphosis
+|
+|t:|1772748204
+|switch|p1a: Tatsugiri|Tatsugiri, L87, F|260/260|[from] U-turn
+|move|p2a: Bellibolt|Muddy Water|p1a: Tatsugiri
+|-ability|p1a: Tatsugiri|Storm Drain|boost
+|-boost|p1a: Tatsugiri|spa|1
+|
+|upkeep
+|turn|6
+|
+|t:|1772748224
+|move|p1a: Tatsugiri|Rapid Spin|p2a: Bellibolt
+|-damage|p2a: Bellibolt|130/320
+|-boost|p1a: Tatsugiri|spe|1
+|-start|p2a: Bellibolt|Charge|Rapid Spin|[from] ability: Electromorphosis
+|move|p2a: Bellibolt|Thunderbolt|p1a: Tatsugiri
+|-damage|p1a: Tatsugiri|64/260
+|-end|p2a: Bellibolt|Charge|[silent]
+|
+|upkeep
+|turn|7
+|
+|t:|1772748243
+|move|p1a: Tatsugiri|Hydro Pump|p2a: Bellibolt
+|-damage|p2a: Bellibolt|0 fnt
+|faint|p2a: Bellibolt
+|
+|upkeep
+|
+|t:|1772748254
+|switch|p2a: Lilligant|Lilligant, L86, F|261/261
+|turn|8
+|
+|t:|1772748263
+|move|p1a: Tatsugiri|Draco Meteor|p2a: Lilligant
+|-crit|p2a: Lilligant
+|-damage|p2a: Lilligant|0 fnt
+|-unboost|p1a: Tatsugiri|spa|2
+|faint|p2a: Lilligant
+|
+|upkeep
+|
+|t:|1772748268
+|switch|p2a: Enamorus|Enamorus-Therian, L83, F|259/259
+|turn|9
+|
+|t:|1772748293
+|move|p1a: Tatsugiri|Hydro Pump|p2a: Enamorus
+|-damage|p2a: Enamorus|165/259
+|move|p2a: Enamorus|Moonblast|p1a: Tatsugiri
+|-supereffective|p1a: Tatsugiri
+|-damage|p1a: Tatsugiri|0 fnt
+|faint|p1a: Tatsugiri
+|
+|upkeep
+|
+|t:|1772748305
+|switch|p1a: Iron Crown|Iron Crown, L78|268/268
+|turn|10
+|
+|t:|1772748315
+|-terastallize|p2a: Enamorus|Ground
+|move|p1a: Iron Crown|Calm Mind|p1a: Iron Crown
+|-boost|p1a: Iron Crown|spa|1
+|-boost|p1a: Iron Crown|spd|1
+|move|p2a: Enamorus|Earth Power|p1a: Iron Crown
+|-supereffective|p1a: Iron Crown
+|-damage|p1a: Iron Crown|116/268
+|
+|-heal|p1a: Iron Crown|132/268|[from] item: Leftovers
+|upkeep
+|turn|11
+|inactive|TheSlopBros has 120 seconds left.
+|
+|t:|1772748350
+|-terastallize|p1a: Iron Crown|Fighting
+|move|p1a: Iron Crown|Psyshock|p2a: Enamorus
+|-damage|p2a: Enamorus|57/259
+|move|p2a: Enamorus|Mystical Fire|p1a: Iron Crown
+|-damage|p1a: Iron Crown|92/268
+|-unboost|p1a: Iron Crown|spa|1
+|
+|-heal|p1a: Iron Crown|108/268|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1772748365
+|move|p1a: Iron Crown|Psyshock|p2a: Enamorus
+|-damage|p2a: Enamorus|0 fnt
+|faint|p2a: Enamorus
+|
+|-heal|p1a: Iron Crown|124/268|[from] item: Leftovers
+|upkeep
+|
+|t:|1772748371
+|switch|p2a: Cresselia|Cresselia, L80, F|323/323
+|turn|13
+|inactive|TheSlopBros has 120 seconds left.
+|
+|t:|1772748391
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|switch|p1a: Crawdaunt|Crawdaunt, L84, F|243/243
+|move|p2a: Cresselia|Calm Mind|p2a: Cresselia
+|-boost|p2a: Cresselia|spa|1
+|-boost|p2a: Cresselia|spd|1
+|
+|upkeep
+|turn|14
+|
+|t:|1772748407
+|move|p2a: Cresselia|Moonblast|p1a: Crawdaunt
+|-supereffective|p1a: Crawdaunt
+|-damage|p1a: Crawdaunt|23/243
+|-unboost|p1a: Crawdaunt|spa|1
+|move|p1a: Crawdaunt|Knock Off|p2a: Cresselia
+|-supereffective|p2a: Cresselia
+|-damage|p2a: Cresselia|0 fnt
+|-enditem|p2a: Cresselia|Leftovers|[from] move: Knock Off|[of] p1a: Crawdaunt
+|faint|p2a: Cresselia
+|
+|upkeep
+|
+|t:|1772748411
+|switch|p2a: Toxapex|Toxapex, L82, F|216/216
+|turn|15
+|inactive|TheSlopBros has 120 seconds left.
+|
+|t:|1772748422
+|move|p1a: Crawdaunt|Knock Off|p2a: Toxapex
+|-damage|p2a: Toxapex|46/216
+|-damage|p1a: Crawdaunt|0 fnt|[from] item: Rocky Helmet|[of] p2a: Toxapex
+|faint|p1a: Crawdaunt
+|move|p2a: Toxapex|Liquidation|p1: Crawdaunt|[notarget]
+|-fail|p2a: Toxapex
+|
+|upkeep
+|
+|t:|1772748431
+|switch|p1a: Breloom|Breloom, L83, M|235/235
+|turn|16
+|inactive|TheSlopBros has 120 seconds left.
+|
+|t:|1772748442
+|move|p1a: Breloom|Bullet Seed|p2a: Toxapex
+|-damage|p2a: Toxapex|0 fnt
+|faint|p2a: Toxapex
+|-hitcount|p2: Toxapex|1
+|-damage|p1a: Breloom|212/235|[from] item: Life Orb
+|
+|win|TheSlopBros
+|raw|TheSlopBros's rating: 1644 &rarr; <strong>1663</strong><br />(+19 for winning)
+|raw|pirulobazoka's rating: 1630 &rarr; <strong>1611</strong><br />(-19 for losing)
+|l|☆pirulobazoka
+|player|p2|

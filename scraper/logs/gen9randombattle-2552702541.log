@@ -1,0 +1,30 @@
+|j|☆mghkfjcvhbjl
+|j|☆magicman4538
+|t:|1772744950
+|gametype|singles
+|player|p1|mghkfjcvhbjl|101|1000
+|player|p2|magicman4538|1|1012
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772744950
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Arbok|Arbok, L87, F|246/246
+|switch|p2a: Orthworm|Orthworm, L88, F|266/266
+|-ability|p1a: Arbok|Intimidate|boost
+|-unboost|p2a: Orthworm|atk|1
+|turn|1
+|-message|mghkfjcvhbjl forfeited.
+|
+|win|magicman4538
+|raw|mghkfjcvhbjl's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|raw|magicman4538's rating: 1012 &rarr; <strong>1049</strong><br />(+37 for winning)
+|l|☆mghkfjcvhbjl
+|player|p1|

@@ -1,0 +1,203 @@
+|j|☆raullc
+|j|☆manofcheese144
+|t:|1772745774
+|gametype|singles
+|player|p1|raullc|265|1560
+|player|p2|manofcheese144|gentleman-gen4dp|1595
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772745774
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Greninja|Greninja, L80, M|246/246
+|switch|p2a: Chi-Yu|Chi-Yu, L77|211/211
+|-ability|p2a: Chi-Yu|Beads of Ruin
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by manofcheese144)
+|
+|t:|1772745781
+|switch|p2a: Samurott|Samurott, L88, F|310/310
+|move|p1a: Greninja|Hydro Pump|p2a: Samurott
+|-resisted|p2a: Samurott
+|-damage|p2a: Samurott|259/310
+|-damage|p1a: Greninja|222/246|[from] item: Life Orb
+|
+|upkeep
+|turn|2
+|
+|t:|1772745787
+|switch|p1a: Vikavolt|Vikavolt, L83, M|263/263
+|move|p2a: Samurott|Megahorn|p1a: Vikavolt
+|-damage|p1a: Vikavolt|162/263
+|
+|upkeep
+|turn|3
+|
+|t:|1772745792
+|move|p2a: Samurott|Flip Turn|p1a: Vikavolt
+|-damage|p1a: Vikavolt|93/263
+|
+|t:|1772745796
+|switch|p2a: Great Tusk|Great Tusk, L77|304/304|[from] Flip Turn
+|move|p1a: Vikavolt|Sticky Web|p2a: Great Tusk
+|-sidestart|p2: manofcheese144|move: Sticky Web
+|
+|upkeep
+|turn|4
+|
+|t:|1772745803
+|move|p2a: Great Tusk|Rapid Spin|p1a: Vikavolt
+|-damage|p1a: Vikavolt|54/263
+|-boost|p2a: Great Tusk|spe|1
+|-sideend|p2: manofcheese144|Sticky Web|[from] move: Rapid Spin|[of] p2a: Great Tusk
+|move|p1a: Vikavolt|Energy Ball|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|122/304
+|
+|upkeep
+|turn|5
+|
+|t:|1772745809
+|move|p2a: Great Tusk|Ice Spinner|p1a: Vikavolt
+|-damage|p1a: Vikavolt|0 fnt
+|faint|p1a: Vikavolt
+|
+|upkeep
+|
+|t:|1772745822
+|switch|p1a: Greninja|Greninja, L80, M|222/246
+|turn|6
+|
+|t:|1772745825
+|move|p2a: Great Tusk|Close Combat|p1a: Greninja
+|-supereffective|p1a: Greninja
+|-damage|p1a: Greninja|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Greninja
+|
+|upkeep
+|
+|t:|1772745833
+|switch|p1a: Emboar|Emboar, L84, M|322/322
+|turn|7
+|
+|t:|1772745837
+|move|p2a: Great Tusk|Headlong Rush|p1a: Emboar
+|-supereffective|p1a: Emboar
+|-damage|p1a: Emboar|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Emboar
+|
+|upkeep
+|c|☆raullc|gg
+|
+|t:|1772745845
+|switch|p1a: Excadrill|Excadrill, L79, M|303/303
+|-ability|p1a: Excadrill|Mold Breaker
+|turn|8
+|
+|t:|1772745848
+|move|p2a: Great Tusk|Headlong Rush|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Excadrill
+|
+|upkeep
+|
+|t:|1772745852
+|switch|p1a: Heatran|Heatran, L79, F|273/273
+|-item|p1a: Heatran|Air Balloon
+|turn|9
+|
+|t:|1772745856
+|move|p2a: Great Tusk|Close Combat|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|43/273
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|-enditem|p1a: Heatran|Air Balloon
+|move|p1a: Heatran|Magma Storm|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1772745860
+|switch|p2a: Chi-Yu|Chi-Yu, L77|211/211
+|-ability|p2a: Chi-Yu|Beads of Ruin
+|turn|10
+|
+|t:|1772745865
+|move|p2a: Chi-Yu|Dark Pulse|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|upkeep
+|
+|t:|1772745867
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, L76, F|247/247
+|turn|11
+|
+|t:|1772745877
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|2
+|move|p2a: Chi-Yu|Will-O-Wisp|p1a: Ogerpon
+|-status|p1a: Ogerpon|brn
+|
+|-damage|p1a: Ogerpon|232/247 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1772745881
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Chi-Yu|[anim] Ivy Cudgel Water
+|-supereffective|p2a: Chi-Yu
+|-damage|p2a: Chi-Yu|0 fnt
+|faint|p2a: Chi-Yu
+|
+|-damage|p1a: Ogerpon|217/247 brn|[from] brn
+|upkeep
+|
+|t:|1772745886
+|switch|p2a: Azelf|Azelf, L82|257/257
+|turn|13
+|
+|t:|1772745894
+|move|p2a: Azelf|U-turn|p1a: Ogerpon
+|-supereffective|p1a: Ogerpon
+|-crit|p1a: Ogerpon
+|-damage|p1a: Ogerpon|19/247 brn
+|
+|t:|1772745897
+|switch|p2a: Darkrai|Darkrai, L77|234/234|[from] U-turn
+|move|p1a: Ogerpon|Horn Leech|p2a: Darkrai
+|-damage|p2a: Darkrai|136/234
+|-heal|p1a: Ogerpon|68/247 brn|[from] drain|[of] p2a: Darkrai
+|
+|-damage|p1a: Ogerpon|53/247 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1772745903
+|move|p2a: Darkrai|Dark Pulse|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|-damage|p2a: Darkrai|113/234|[from] item: Life Orb
+|
+|win|manofcheese144
+|raw|raullc's rating: 1560 &rarr; <strong>1542</strong><br />(-18 for losing)
+|raw|manofcheese144's rating: 1595 &rarr; <strong>1613</strong><br />(+18 for winning)
+|c|☆manofcheese144|gg
+|l|☆raullc
+|player|p1|

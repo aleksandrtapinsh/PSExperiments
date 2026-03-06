@@ -1,0 +1,389 @@
+|badge|p2|silver|gen9randombattle|30-8
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/">thread on Smogon.</a></div>
+|j|☆Ivar57
+|j|☆SebasDB
+|t:|1772746821
+|gametype|singles
+|player|p1|Ivar57|#ivar57|2265
+|player|p2|SebasDB|dawn-gen4pt|2386
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772746821
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Hatterene|Hatterene, L85, F|236/236
+|switch|p2a: Klawf|Klawf, L90, M|272/272
+|turn|1
+|j| Hair_uh_c
+|
+|t:|1772746919
+|switch|p2a: Gastrodon|Gastrodon, L86, M|331/331
+|switch|p1a: Krookodile|Krookodile, L80, M|283/283
+|-ability|p1a: Krookodile|Intimidate|boost
+|-unboost|p2a: Gastrodon|atk|1
+|
+|upkeep
+|turn|2
+|
+|t:|1772746934
+|switch|p1a: Ariados|Ariados, L95, F|287/287
+|move|p2a: Gastrodon|Surf|p1a: Ariados
+|-damage|p1a: Ariados|191/287
+|
+|upkeep
+|turn|3
+|
+|t:|1772746945
+|move|p1a: Ariados|Toxic Spikes|p2a: Gastrodon
+|-sidestart|p2: SebasDB|move: Toxic Spikes
+|move|p2a: Gastrodon|Stealth Rock|p1a: Ariados
+|-sidestart|p1: Ivar57|move: Stealth Rock
+|
+|upkeep
+|turn|4
+|
+|t:|1772746949
+|switch|p2a: Kricketune|Kricketune, L99, F|312/312
+|move|p1a: Ariados|Sticky Web|p2a: Kricketune
+|-sidestart|p2: SebasDB|move: Sticky Web
+|
+|upkeep
+|turn|5
+|
+|t:|1772746956
+|move|p2a: Kricketune|Pounce|p1a: Ariados
+|-resisted|p1a: Ariados
+|-damage|p1a: Ariados|142/287
+|-unboost|p1a: Ariados|spe|1
+|move|p1a: Ariados|Poison Jab|p2a: Kricketune
+|-damage|p2a: Kricketune|174/312
+|
+|upkeep
+|turn|6
+|
+|t:|1772746963
+|move|p2a: Kricketune|Sticky Web|p1a: Ariados
+|-sidestart|p1: Ivar57|move: Sticky Web
+|move|p1a: Ariados|Megahorn|p2a: Kricketune|[miss]
+|-miss|p1a: Ariados|p2a: Kricketune
+|
+|upkeep
+|turn|7
+|
+|t:|1772746978
+|move|p2a: Kricketune|Knock Off|p1a: Ariados
+|-damage|p1a: Ariados|49/287
+|-enditem|p1a: Ariados|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Kricketune
+|move|p1a: Ariados|Megahorn|p2a: Kricketune
+|-damage|p2a: Kricketune|0 fnt
+|faint|p2a: Kricketune
+|
+|upkeep
+|
+|t:|1772746988
+|switch|p2a: Shiftry|Shiftry, L89, F|305/305
+|-status|p2a: Shiftry|psn
+|-activate|p2a: Shiftry|move: Sticky Web
+|-unboost|p2a: Shiftry|spe|1
+|turn|8
+|
+|t:|1772746992
+|move|p2a: Shiftry|Knock Off|p1a: Ariados
+|-damage|p1a: Ariados|0 fnt
+|faint|p1a: Ariados
+|-damage|p2a: Shiftry|275/305 psn|[from] item: Life Orb
+|
+|-damage|p2a: Shiftry|237/305 psn|[from] psn
+|upkeep
+|
+|t:|1772747002
+|switch|p1a: Magmortar|Magmortar, L88, F|275/275
+|turn|9
+|
+|t:|1772747023
+|switch|p2a: Gastrodon|Gastrodon, L86, M|331/331
+|-status|p2a: Gastrodon|psn
+|-activate|p2a: Gastrodon|move: Sticky Web
+|-unboost|p2a: Gastrodon|spe|1
+|move|p1a: Magmortar|Knock Off|p2a: Gastrodon
+|-damage|p2a: Gastrodon|242/331 psn
+|-enditem|p2a: Gastrodon|Leftovers|[from] move: Knock Off|[of] p1a: Magmortar
+|
+|-damage|p2a: Gastrodon|201/331 psn|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1772747076
+|switch|p1a: Hatterene|Hatterene, L85, F|236/236
+|-damage|p1a: Hatterene|207/236|[from] Stealth Rock
+|-activate|p1a: Hatterene|move: Sticky Web
+|-unboost|p1a: Hatterene|spe|1
+|move|p2a: Gastrodon|Recover|p2a: Gastrodon
+|-heal|p2a: Gastrodon|331/331 psn
+|
+|-heal|p1a: Hatterene|221/236|[from] item: Leftovers
+|-damage|p2a: Gastrodon|290/331 psn|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1772747084
+|move|p2a: Gastrodon|Earthquake|p1a: Hatterene
+|-damage|p1a: Hatterene|137/236
+|move|p1a: Hatterene|Calm Mind|p1a: Hatterene
+|-boost|p1a: Hatterene|spa|1
+|-boost|p1a: Hatterene|spd|1
+|
+|-heal|p1a: Hatterene|151/236|[from] item: Leftovers
+|-damage|p2a: Gastrodon|249/331 psn|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1772747090
+|move|p2a: Gastrodon|Earthquake|p1a: Hatterene
+|-damage|p1a: Hatterene|60/236
+|move|p1a: Hatterene|Draining Kiss|p2a: Gastrodon
+|-damage|p2a: Gastrodon|137/331 psn
+|-heal|p1a: Hatterene|144/236|[from] drain|[of] p2a: Gastrodon
+|
+|-heal|p1a: Hatterene|158/236|[from] item: Leftovers
+|-damage|p2a: Gastrodon|96/331 psn|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1772747109
+|move|p2a: Gastrodon|Earthquake|p1a: Hatterene
+|-damage|p1a: Hatterene|62/236
+|move|p1a: Hatterene|Draining Kiss|p2a: Gastrodon
+|-damage|p2a: Gastrodon|0 fnt
+|-heal|p1a: Hatterene|134/236|[from] drain|[of] p2a: Gastrodon
+|faint|p2a: Gastrodon
+|
+|-heal|p1a: Hatterene|148/236|[from] item: Leftovers
+|upkeep
+|
+|t:|1772747116
+|switch|p2a: Klawf|Klawf, L90, M|272/272
+|-status|p2a: Klawf|psn
+|-enditem|p2a: Klawf|Lum Berry|[eat]
+|-curestatus|p2a: Klawf|psn|[msg]
+|-activate|p2a: Klawf|move: Sticky Web
+|-unboost|p2a: Klawf|spe|1
+|turn|14
+|
+|t:|1772747134
+|move|p2a: Klawf|Swords Dance|p2a: Klawf
+|-boost|p2a: Klawf|atk|2
+|move|p1a: Hatterene|Draining Kiss|p2a: Klawf
+|-damage|p2a: Klawf|140/272
+|-heal|p1a: Hatterene|236/236|[from] drain|[of] p2a: Klawf
+|
+|upkeep
+|turn|15
+|
+|t:|1772747142
+|move|p2a: Klawf|Stone Edge|p1a: Hatterene
+|-damage|p1a: Hatterene|8/236
+|move|p1a: Hatterene|Draining Kiss|p2a: Klawf
+|-damage|p2a: Klawf|5/272
+|-heal|p1a: Hatterene|109/236|[from] drain|[of] p2a: Klawf
+|-ability|p2a: Klawf|Anger Shell|boost
+|-boost|p2a: Klawf|atk|1
+|-boost|p2a: Klawf|spa|1
+|-boost|p2a: Klawf|spe|1
+|-unboost|p2a: Klawf|def|1
+|-unboost|p2a: Klawf|spd|1
+|
+|-heal|p1a: Hatterene|123/236|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1772747148
+|move|p2a: Klawf|High Horsepower|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|upkeep
+|
+|t:|1772747159
+|switch|p1a: Regieleki|Regieleki, L79|256/256
+|-damage|p1a: Regieleki|224/256|[from] Stealth Rock
+|-activate|p1a: Regieleki|move: Sticky Web
+|-unboost|p1a: Regieleki|spe|1
+|turn|17
+|
+|t:|1772747190
+|switch|p2a: Shiftry|Shiftry, L89, F|237/305 psn
+|-activate|p2a: Shiftry|move: Sticky Web
+|-unboost|p2a: Shiftry|spe|1
+|move|p1a: Regieleki|Rapid Spin|p2a: Shiftry
+|-damage|p2a: Shiftry|194/305 psn
+|-boost|p1a: Regieleki|spe|1
+|-sideend|p1: Ivar57|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Regieleki
+|-sideend|p1: Ivar57|Sticky Web|[from] move: Rapid Spin|[of] p1a: Regieleki
+|
+|-damage|p2a: Shiftry|156/305 psn|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1772747219
+|switch|p1a: Krookodile|Krookodile, L80, M|283/283
+|-ability|p1a: Krookodile|Intimidate|boost
+|-unboost|p2a: Shiftry|atk|1
+|move|p2a: Shiftry|Knock Off|p1a: Krookodile
+|-resisted|p1a: Krookodile
+|-damage|p1a: Krookodile|230/283
+|-enditem|p1a: Krookodile|Leftovers|[from] move: Knock Off|[of] p2a: Shiftry
+|-damage|p2a: Shiftry|126/305 psn|[from] item: Life Orb
+|
+|-damage|p2a: Shiftry|88/305 psn|[from] psn
+|upkeep
+|turn|19
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SebasDB)
+|
+|t:|1772747242
+|switch|p1a: Girafarig|Girafarig, L89, M|269/269
+|move|p2a: Shiftry|Tailwind|p2a: Shiftry
+|-sidestart|p2: SebasDB|move: Tailwind
+|-ability|p2a: Shiftry|Wind Rider|boost
+|-boost|p2a: Shiftry|atk|1
+|
+|-damage|p2a: Shiftry|50/305 psn|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1772747256
+|switch|p1a: Krookodile|Krookodile, L80, M|230/283
+|-ability|p1a: Krookodile|Intimidate|boost
+|-unboost|p2a: Shiftry|atk|1
+|move|p2a: Shiftry|Leaf Blade|p1a: Krookodile
+|-supereffective|p1a: Krookodile
+|-crit|p1a: Krookodile
+|-damage|p1a: Krookodile|0 fnt
+|faint|p1a: Krookodile
+|-damage|p2a: Shiftry|20/305 psn|[from] item: Life Orb
+|
+|-damage|p2a: Shiftry|0 fnt|[from] psn
+|faint|p2a: Shiftry
+|upkeep
+|
+|t:|1772747270
+|switch|p1a: Regieleki|Regieleki, L79|224/256
+|switch|p2a: Latios|Latios, L78, M|253/253
+|turn|21
+|
+|t:|1772747288
+|switch|p1a: Magmortar|Magmortar, L88, F|275/275
+|move|p2a: Latios|Luster Purge|p1a: Magmortar
+|-damage|p1a: Magmortar|148/275
+|
+|upkeep
+|turn|22
+|
+|t:|1772747294
+|move|p2a: Latios|Draco Meteor|p1a: Magmortar
+|-damage|p1a: Magmortar|0 fnt
+|-unboost|p2a: Latios|spa|2
+|faint|p1a: Magmortar
+|
+|-sideend|p2: SebasDB|move: Tailwind
+|upkeep
+|
+|t:|1772747298
+|switch|p1a: Girafarig|Girafarig, L89, M|269/269
+|turn|23
+|
+|t:|1772747307
+|move|p2a: Latios|Luster Purge|p1a: Girafarig
+|-resisted|p1a: Girafarig
+|-damage|p1a: Girafarig|243/269
+|-unboost|p1a: Girafarig|spd|1
+|move|p1a: Girafarig|Nasty Plot|p1a: Girafarig
+|-boost|p1a: Girafarig|spa|2
+|
+|upkeep
+|turn|24
+|
+|t:|1772747314
+|switch|p2a: Klawf|Klawf, L90, M|5/272
+|-status|p2a: Klawf|psn
+|-activate|p2a: Klawf|move: Sticky Web
+|-unboost|p2a: Klawf|spe|1
+|move|p1a: Girafarig|Nasty Plot|p1a: Girafarig
+|-boost|p1a: Girafarig|spa|2
+|
+|-damage|p2a: Klawf|0 fnt|[from] psn
+|faint|p2a: Klawf
+|upkeep
+|
+|t:|1772747321
+|switch|p2a: Kommo-o|Kommo-o, L78, M|245/245
+|-status|p2a: Kommo-o|psn
+|-activate|p2a: Kommo-o|move: Sticky Web
+|-unboost|p2a: Kommo-o|spe|1
+|turn|25
+|
+|t:|1772747341
+|-terastallize|p2a: Kommo-o|Normal
+|move|p1a: Girafarig|Psyshock|p2a: Kommo-o
+|-damage|p2a: Kommo-o|40/245 psn
+|move|p2a: Kommo-o|Boomburst|p1a: Girafarig
+|-damage|p1a: Girafarig|92/269
+|-enditem|p2a: Kommo-o|Throat Spray
+|-boost|p2a: Kommo-o|spa|1|[from] item: Throat Spray
+|
+|-damage|p2a: Kommo-o|10/245 psn|[from] psn
+|upkeep
+|turn|26
+|
+|t:|1772747360
+|move|p1a: Girafarig|Psyshock|p2a: Kommo-o
+|-damage|p2a: Kommo-o|0 fnt
+|faint|p2a: Kommo-o
+|
+|upkeep
+|
+|t:|1772747362
+|switch|p2a: Latios|Latios, L78, M|253/253
+|turn|27
+|
+|t:|1772747384
+|switch|p1a: Regieleki|Regieleki, L79|224/256
+|move|p2a: Latios|Aura Sphere|p1a: Regieleki
+|-damage|p1a: Regieleki|132/256
+|
+|upkeep
+|turn|28
+|
+|t:|1772747393
+|move|p1a: Regieleki|Explosion|p2a: Latios
+|-damage|p2a: Latios|67/253
+|faint|p1a: Regieleki
+|move|p2a: Latios|Recover|p2a: Latios
+|-heal|p2a: Latios|194/253
+|
+|upkeep
+|
+|t:|1772747396
+|switch|p1a: Girafarig|Girafarig, L89, M|92/269
+|turn|29
+|
+|t:|1772747400
+|move|p2a: Latios|Draco Meteor|p1a: Girafarig
+|-damage|p1a: Girafarig|0 fnt
+|-unboost|p2a: Latios|spa|2
+|faint|p1a: Girafarig
+|
+|win|SebasDB
+|raw|Ivar57's rating: 2265 &rarr; <strong>2252</strong><br />(-13 for losing)
+|raw|SebasDB's rating: 2386 &rarr; <strong>2399</strong><br />(+13 for winning)
+|c|☆Ivar57|gg
+|l|☆Ivar57
+|player|p1|
+|c|☆SebasDB|gg

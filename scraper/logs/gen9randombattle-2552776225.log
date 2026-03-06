@@ -1,0 +1,311 @@
+|j|☆zyjian
+|j|☆Amphi99
+|t:|1772752290
+|gametype|singles
+|player|p1|zyjian|lucas|1208
+|player|p2|Amphi99|169|1174
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772752290
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Necrozma|Necrozma-Dusk-Mane, L69|248/248
+|switch|p2a: Swampert|Swampert, L83, M|302/302
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by zyjian)
+|
+|t:|1772752308
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, L76, F|247/247
+|move|p2a: Swampert|Flip Turn|p1a: Ogerpon
+|-immune|p1a: Ogerpon|[from] ability: Water Absorb
+|
+|upkeep
+|turn|2
+|
+|t:|1772752321
+|switch|p2a: Shiftry|Shiftry, L89, M|305/305
+|move|p1a: Ogerpon|Spikes|p2a: Shiftry
+|-sidestart|p2: Amphi99|Spikes
+|
+|upkeep
+|turn|3
+|
+|t:|1772752333
+|switch|p1a: Okidogi|Okidogi, L77, M|262/262
+|move|p2a: Shiftry|Leaf Storm|p1a: Okidogi
+|-resisted|p1a: Okidogi
+|-damage|p1a: Okidogi|161/262
+|-unboost|p2a: Shiftry|spa|2
+|-damage|p2a: Shiftry|275/305|[from] item: Life Orb
+|
+|-heal|p1a: Okidogi|177/262|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1772752345
+|move|p2a: Shiftry|Will-O-Wisp|p1a: Okidogi
+|-status|p1a: Okidogi|brn
+|move|p1a: Okidogi|Bulk Up|p1a: Okidogi
+|-boost|p1a: Okidogi|atk|1
+|-boost|p1a: Okidogi|def|1
+|
+|-heal|p1a: Okidogi|193/262 brn|[from] item: Leftovers
+|-damage|p1a: Okidogi|177/262 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1772752359
+|switch|p2a: Flutter Mane|Flutter Mane, L74|203/203
+|-damage|p2a: Flutter Mane|178/203|[from] Spikes
+|move|p1a: Okidogi|Drain Punch|p2a: Flutter Mane
+|-immune|p2a: Flutter Mane
+|
+|-heal|p1a: Okidogi|193/262 brn|[from] item: Leftovers
+|-damage|p1a: Okidogi|177/262 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1772752375
+|move|p2a: Flutter Mane|Moonblast|p1a: Okidogi
+|-damage|p1a: Okidogi|0 fnt
+|faint|p1a: Okidogi
+|
+|upkeep
+|
+|t:|1772752381
+|switch|p1a: Necrozma|Necrozma-Dusk-Mane, L69|248/248
+|turn|7
+|
+|t:|1772752387
+|-end|p2a: Flutter Mane|Protosynthesis|[silent]
+|switch|p2a: Shiftry|Shiftry, L89, M|275/305
+|-damage|p2a: Shiftry|237/305|[from] Spikes
+|move|p1a: Necrozma|Dragon Dance|p1a: Necrozma
+|-boost|p1a: Necrozma|atk|1
+|-boost|p1a: Necrozma|spe|1
+|
+|upkeep
+|turn|8
+|
+|t:|1772752395
+|move|p2a: Shiftry|Sucker Punch||[still]
+|-fail|p2a: Shiftry
+|move|p1a: Necrozma|Dragon Dance|p1a: Necrozma
+|-boost|p1a: Necrozma|atk|1
+|-boost|p1a: Necrozma|spe|1
+|
+|upkeep
+|turn|9
+|
+|t:|1772752401
+|move|p2a: Shiftry|Sucker Punch||[still]
+|-fail|p2a: Shiftry
+|move|p1a: Necrozma|Dragon Dance|p1a: Necrozma
+|-boost|p1a: Necrozma|atk|1
+|-boost|p1a: Necrozma|spe|1
+|
+|upkeep
+|turn|10
+|
+|t:|1772752408
+|move|p1a: Necrozma|Dragon Dance|p1a: Necrozma
+|-boost|p1a: Necrozma|atk|1
+|-boost|p1a: Necrozma|spe|1
+|move|p2a: Shiftry|Knock Off|p1a: Necrozma
+|-supereffective|p1a: Necrozma
+|-damage|p1a: Necrozma|35/248
+|-enditem|p1a: Necrozma|Weakness Policy
+|-boost|p1a: Necrozma|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Necrozma|spa|2|[from] item: Weakness Policy
+|-damage|p2a: Shiftry|207/305|[from] item: Life Orb
+|
+|upkeep
+|turn|11
+|
+|t:|1772752418
+|move|p2a: Shiftry|Sucker Punch|p1a: Necrozma
+|-supereffective|p1a: Necrozma
+|-damage|p1a: Necrozma|0 fnt
+|faint|p1a: Necrozma
+|-damage|p2a: Shiftry|177/305|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772752421
+|switch|p1a: Squawkabilly|Squawkabilly, L85, F|278/278
+|turn|12
+|
+|t:|1772752427
+|move|p1a: Squawkabilly|Brave Bird|p2a: Shiftry
+|-supereffective|p2a: Shiftry
+|-damage|p2a: Shiftry|0 fnt
+|faint|p2a: Shiftry
+|-damage|p1a: Squawkabilly|220/278|[from] Recoil
+|
+|-status|p1a: Squawkabilly|brn|[from] item: Flame Orb
+|upkeep
+|
+|t:|1772752438
+|switch|p2a: Flutter Mane|Flutter Mane, L74|178/203
+|-damage|p2a: Flutter Mane|153/203|[from] Spikes
+|turn|13
+|
+|t:|1772752446
+|move|p2a: Flutter Mane|Thunderbolt|p1a: Squawkabilly
+|-supereffective|p1a: Squawkabilly
+|-damage|p1a: Squawkabilly|0 fnt
+|faint|p1a: Squawkabilly
+|
+|upkeep
+|
+|t:|1772752454
+|switch|p1a: Feraligatr|Feraligatr, L79, M|264/264
+|turn|14
+|
+|t:|1772752458
+|move|p2a: Flutter Mane|Thunderbolt|p1a: Feraligatr
+|-supereffective|p1a: Feraligatr
+|-damage|p1a: Feraligatr|54/264
+|move|p1a: Feraligatr|Trailblaze|p2a: Flutter Mane
+|-damage|p2a: Flutter Mane|58/203
+|
+|upkeep
+|turn|15
+|
+|t:|1772752466
+|move|p2a: Flutter Mane|Thunderbolt|p1a: Feraligatr
+|-supereffective|p1a: Feraligatr
+|-damage|p1a: Feraligatr|0 fnt
+|faint|p1a: Feraligatr
+|
+|upkeep
+|
+|t:|1772752484
+|switch|p1a: Hippowdon|Hippowdon, L82, M|311/311
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|turn|16
+|
+|t:|1772752490
+|-end|p2a: Flutter Mane|Protosynthesis|[silent]
+|switch|p2a: Swampert|Swampert, L83, M|302/302
+|-damage|p2a: Swampert|265/302|[from] Spikes
+|move|p1a: Hippowdon|Curse|p1a: Hippowdon
+|-unboost|p1a: Hippowdon|spe|1
+|-boost|p1a: Hippowdon|atk|1
+|-boost|p1a: Hippowdon|def|1
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Swampert|283/302|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1772752503
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, L76, F|247/247
+|move|p2a: Swampert|Ice Beam|p1a: Ogerpon
+|-damage|p1a: Ogerpon|192/247
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Ogerpon|177/247|[from] Sandstorm
+|-heal|p2a: Swampert|301/302|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1772752513
+|move|p1a: Ogerpon|Wood Hammer|p2a: Swampert
+|-supereffective|p2a: Swampert
+|-damage|p2a: Swampert|0 fnt
+|faint|p2a: Swampert
+|-damage|p1a: Ogerpon|78/247|[from] Recoil
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Ogerpon|63/247|[from] Sandstorm
+|upkeep
+|
+|t:|1772752524
+|switch|p2a: Kricketune|Kricketune, L99, F|312/312
+|turn|19
+|
+|t:|1772752533
+|move|p1a: Ogerpon|Synthesis|p1a: Ogerpon
+|-heal|p1a: Ogerpon|125/247
+|move|p2a: Kricketune|Knock Off|p1a: Ogerpon
+|-damage|p1a: Ogerpon|57/247
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Ogerpon|42/247|[from] Sandstorm
+|-damage|p2a: Kricketune|293/312|[from] Sandstorm
+|upkeep
+|turn|20
+|
+|t:|1772752554
+|-terastallize|p1a: Ogerpon|Water
+|detailschange|p1a: Ogerpon|Ogerpon-Wellspring-Tera, L76, F, tera:Water
+|-ability|p1a: Ogerpon|Embody Aspect (Wellspring)|boost
+|-boost|p1a: Ogerpon|spd|1
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Kricketune|[anim] Ivy Cudgel Water
+|-damage|p2a: Kricketune|95/312
+|move|p2a: Kricketune|Pounce|p1a: Ogerpon
+|-crit|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|detailschange|p1: Ogerpon|Ogerpon-Wellspring, L76, F|[silent]
+|
+|-weather|none
+|upkeep
+|
+|t:|1772752561
+|switch|p1a: Hippowdon|Hippowdon, L82, M|311/311
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|turn|21
+|
+|t:|1772752572
+|move|p2a: Kricketune|Knock Off|p1a: Hippowdon
+|-damage|p1a: Hippowdon|237/311
+|-enditem|p1a: Hippowdon|Leftovers|[from] move: Knock Off|[of] p2a: Kricketune
+|move|p1a: Hippowdon|Stone Edge|p2a: Kricketune|[miss]
+|-miss|p1a: Hippowdon|p2a: Kricketune
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Kricketune|76/312|[from] Sandstorm
+|upkeep
+|turn|22
+|
+|t:|1772752590
+|move|p2a: Kricketune|Pounce|p1a: Hippowdon
+|-damage|p1a: Hippowdon|153/311
+|-unboost|p1a: Hippowdon|spe|1
+|move|p1a: Hippowdon|Stone Edge|p2a: Kricketune
+|-supereffective|p2a: Kricketune
+|-damage|p2a: Kricketune|0 fnt
+|faint|p2a: Kricketune
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1772752604
+|switch|p2a: Flutter Mane|Flutter Mane, L74|58/203
+|-damage|p2a: Flutter Mane|33/203|[from] Spikes
+|turn|23
+|
+|t:|1772752612
+|-terastallize|p2a: Flutter Mane|Fairy
+|move|p2a: Flutter Mane|Moonblast|p1a: Hippowdon
+|-damage|p1a: Hippowdon|0 fnt
+|faint|p1a: Hippowdon
+|
+|win|Amphi99
+|raw|zyjian's rating: 1208 &rarr; <strong>1181</strong><br />(-27 for losing)
+|raw|Amphi99's rating: 1174 &rarr; <strong>1201</strong><br />(+27 for winning)
+|l|☆zyjian
+|player|p1|
+|l|☆Amphi99
+|player|p2|
+|j|☆Amphi99
+|player|p2|Amphi99|169|

@@ -1,0 +1,129 @@
+|j|☆NenupharHZ
+|j|☆efwefwefwefweifier
+|t:|1772751120
+|gametype|singles
+|player|p1|NenupharHZ|hilda-wonderlauncher|1625
+|player|p2|efwefwefwefweifier|clown|1627
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772751120
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Delibird|Delibird, F|252/252
+|switch|p2a: Lokix|Lokix, L82, F|251/251
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by efwefwefwefweifier)
+|
+|t:|1772751143
+|move|p2a: Lokix|First Impression|p1a: Delibird
+|-resisted|p1a: Delibird
+|-damage|p1a: Delibird|100/252
+|move|p1a: Delibird|Brave Bird|p2a: Lokix
+|-supereffective|p2a: Lokix
+|-damage|p2a: Lokix|0 fnt
+|faint|p2a: Lokix
+|-damage|p1a: Delibird|17/252|[from] Recoil
+|
+|upkeep
+|
+|t:|1772751163
+|switch|p2a: Magcargo|Magcargo, L95, F|268/268
+|turn|2
+|
+|t:|1772751171
+|move|p1a: Delibird|Drill Run|p2a: Magcargo
+|-supereffective|p2a: Magcargo
+|-damage|p2a: Magcargo|64/268
+|-ability|p2a: Magcargo|Weak Armor|boost
+|-unboost|p2a: Magcargo|def|1
+|-boost|p2a: Magcargo|spe|2
+|move|p2a: Magcargo|Shell Smash|p2a: Magcargo
+|-unboost|p2a: Magcargo|def|1
+|-unboost|p2a: Magcargo|spd|1
+|-boost|p2a: Magcargo|atk|2
+|-boost|p2a: Magcargo|spa|2
+|-boost|p2a: Magcargo|spe|2
+|
+|upkeep
+|turn|3
+|
+|t:|1772751183
+|move|p1a: Delibird|Ice Shard|p2a: Magcargo|[miss]
+|-miss|p1a: Delibird|p2a: Magcargo
+|move|p2a: Magcargo|Power Gem|p1a: Delibird
+|-supereffective|p1a: Delibird
+|-damage|p1a: Delibird|0 fnt
+|faint|p1a: Delibird
+|
+|upkeep
+|
+|t:|1772751197
+|switch|p1a: Krookodile|Krookodile, L80, M|283/283
+|-ability|p1a: Krookodile|Intimidate|boost
+|-unboost|p2a: Magcargo|atk|1
+|turn|4
+|
+|t:|1772751213
+|move|p2a: Magcargo|Fire Blast|p1a: Krookodile
+|-damage|p1a: Krookodile|0 fnt
+|faint|p1a: Krookodile
+|
+|upkeep
+|
+|t:|1772751215
+|switch|p1a: Tauros|Tauros-Paldea-Combat, L82, M|257/257
+|-ability|p1a: Tauros|Intimidate|boost
+|-unboost|p2a: Magcargo|atk|1
+|turn|5
+|
+|t:|1772751229
+|move|p2a: Magcargo|Fire Blast|p1a: Tauros
+|-damage|p1a: Tauros|0 fnt
+|faint|p1a: Tauros
+|
+|upkeep
+|
+|t:|1772751244
+|switch|p1a: Dodrio|Dodrio, L85, F|241/241
+|turn|6
+|
+|t:|1772751247
+|move|p2a: Magcargo|Power Gem|p1a: Dodrio
+|-supereffective|p1a: Dodrio
+|-damage|p1a: Dodrio|0 fnt
+|faint|p1a: Dodrio
+|
+|upkeep
+|
+|t:|1772751252
+|switch|p1a: Exeggutor|Exeggutor-Alola, L89, F|314/314
+|turn|7
+|
+|t:|1772751256
+|move|p2a: Magcargo|Fire Blast|p1a: Exeggutor
+|-damage|p1a: Exeggutor|0 fnt
+|faint|p1a: Exeggutor
+|
+|upkeep
+|
+|t:|1772751258
+|switch|p1a: Maushold|Maushold, L76|238/238
+|turn|8
+|
+|t:|1772751267
+|move|p2a: Magcargo|Fire Blast|p1a: Maushold
+|-damage|p1a: Maushold|0 fnt
+|faint|p1a: Maushold
+|
+|win|efwefwefwefweifier
+|raw|NenupharHZ's rating: 1625 &rarr; <strong>1605</strong><br />(-20 for losing)
+|raw|efwefwefwefweifier's rating: 1627 &rarr; <strong>1647</strong><br />(+20 for winning)
+|l|☆NenupharHZ
+|player|p1|

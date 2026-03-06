@@ -1,0 +1,320 @@
+|j|☆manofcheese144
+|j|☆ujfalusi95
+|t:|1772745915
+|gametype|singles
+|player|p1|manofcheese144|gentleman-gen4dp|1613
+|player|p2|ujfalusi95|266|1652
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772745915
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Cinccino|Cinccino, L83, M|260/260
+|switch|p2a: Rillaboom|Rillaboom, L79, F|288/288
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ujfalusi95)
+|
+|t:|1772745923
+|move|p2a: Rillaboom|Grassy Glide|p1a: Cinccino
+|-damage|p1a: Cinccino|97/260
+|move|p1a: Cinccino|Triple Axel|p2a: Rillaboom
+|-supereffective|p2a: Rillaboom
+|-damage|p2a: Rillaboom|244/288
+|-supereffective|p2a: Rillaboom
+|-damage|p2a: Rillaboom|162/288
+|-supereffective|p2a: Rillaboom
+|-damage|p2a: Rillaboom|32/288
+|-hitcount|p2a: Rillaboom|3
+|
+|-heal|p1a: Cinccino|113/260|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|50/288|[from] Grassy Terrain
+|upkeep
+|turn|2
+|
+|t:|1772745932
+|move|p2a: Rillaboom|Grassy Glide|p1a: Cinccino
+|-damage|p1a: Cinccino|0 fnt
+|faint|p1a: Cinccino
+|
+|-heal|p2a: Rillaboom|68/288|[from] Grassy Terrain
+|upkeep
+|
+|t:|1772745936
+|switch|p1a: Entei|Entei, L78|307/307
+|turn|3
+|
+|t:|1772745942
+|switch|p2a: Great Tusk|Great Tusk, L77|304/304
+|move|p1a: Entei|Sacred Fire|p2a: Great Tusk
+|-damage|p2a: Great Tusk|174/304
+|
+|-heal|p2a: Great Tusk|193/304|[from] Grassy Terrain
+|upkeep
+|turn|4
+|
+|t:|1772745949
+|move|p1a: Entei|Sacred Fire|p2a: Great Tusk|[miss]
+|-miss|p1a: Entei|p2a: Great Tusk
+|move|p2a: Great Tusk|Headlong Rush|p1a: Entei
+|-supereffective|p1a: Entei
+|-damage|p1a: Entei|31/307
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|
+|-heal|p1a: Entei|50/307|[from] Grassy Terrain
+|-heal|p2a: Great Tusk|212/304|[from] Grassy Terrain
+|upkeep
+|turn|5
+|
+|t:|1772745962
+|move|p1a: Entei|Sacred Fire|p2a: Great Tusk
+|-damage|p2a: Great Tusk|14/304
+|-status|p2a: Great Tusk|brn
+|move|p2a: Great Tusk|Rapid Spin|p1a: Entei
+|-damage|p1a: Entei|27/307
+|-boost|p2a: Great Tusk|spe|1
+|
+|-heal|p2a: Great Tusk|33/304 brn|[from] Grassy Terrain
+|-heal|p1a: Entei|46/307|[from] Grassy Terrain
+|-damage|p2a: Great Tusk|14/304 brn|[from] brn
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1772745968
+|switch|p1a: Rillaboom|Rillaboom, L79, F|288/288
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Great Tusk|Headlong Rush|p1a: Rillaboom
+|-resisted|p1a: Rillaboom
+|-damage|p1a: Rillaboom|252/288
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|
+|-heal|p2a: Great Tusk|33/304 brn|[from] Grassy Terrain
+|-heal|p1a: Rillaboom|270/288|[from] Grassy Terrain
+|-damage|p2a: Great Tusk|14/304 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1772745972
+|move|p1a: Rillaboom|Grassy Glide|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|-damage|p1a: Rillaboom|242/288|[from] item: Life Orb
+|
+|-heal|p1a: Rillaboom|260/288|[from] Grassy Terrain
+|upkeep
+|
+|t:|1772745990
+|switch|p2a: Emboar|Emboar, L84, F|322/322
+|turn|8
+|
+|t:|1772745994
+|move|p1a: Rillaboom|High Horsepower|p2a: Emboar
+|-supereffective|p2a: Emboar
+|-damage|p2a: Emboar|83/322
+|-damage|p1a: Rillaboom|232/288|[from] item: Life Orb
+|move|p2a: Emboar|Flare Blitz|p1a: Rillaboom
+|-supereffective|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p1a: Rillaboom
+|-damage|p2a: Emboar|6/322|[from] Recoil
+|
+|-heal|p2a: Emboar|26/322|[from] Grassy Terrain
+|upkeep
+|
+|t:|1772745997
+|switch|p1a: Entei|Entei, L78|46/307
+|turn|9
+|
+|t:|1772746004
+|move|p1a: Entei|Sacred Fire|p2a: Emboar
+|-resisted|p2a: Emboar
+|-damage|p2a: Emboar|0 fnt
+|faint|p2a: Emboar
+|
+|-heal|p1a: Entei|65/307|[from] Grassy Terrain
+|upkeep
+|
+|t:|1772746015
+|switch|p2a: Rillaboom|Rillaboom, L79, F|68/288
+|turn|10
+|
+|t:|1772746019
+|switch|p1a: Florges|Florges-Blue, L85, F|271/271
+|move|p2a: Rillaboom|Grassy Glide|p1a: Florges
+|-damage|p1a: Florges|123/271
+|
+|-heal|p2a: Rillaboom|86/288|[from] Grassy Terrain
+|-heal|p1a: Florges|139/271|[from] Grassy Terrain
+|-heal|p1a: Florges|155/271|[from] item: Leftovers
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|11
+|
+|t:|1772746025
+|move|p2a: Rillaboom|Grassy Glide|p1a: Florges
+|-damage|p1a: Florges|52/271
+|move|p1a: Florges|Moonblast|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|
+|-heal|p1a: Florges|68/271|[from] item: Leftovers
+|upkeep
+|
+|t:|1772746031
+|switch|p2a: Flareon|Flareon, L90, M|263/263
+|turn|12
+|
+|t:|1772746037
+|move|p1a: Florges|Moonblast|p2a: Flareon
+|-resisted|p2a: Flareon
+|-crit|p2a: Flareon
+|-damage|p2a: Flareon|191/263
+|-unboost|p2a: Flareon|spa|1
+|move|p2a: Flareon|Trailblaze|p1a: Florges
+|-damage|p1a: Florges|1/271
+|-boost|p2a: Flareon|spe|1
+|
+|-heal|p1a: Florges|17/271|[from] item: Leftovers
+|-status|p2a: Flareon|tox|[from] item: Toxic Orb
+|upkeep
+|turn|13
+|
+|t:|1772746047
+|move|p2a: Flareon|Trailblaze|p1a: Florges
+|-damage|p1a: Florges|0 fnt
+|-boost|p2a: Flareon|spe|1
+|faint|p1a: Florges
+|
+|-damage|p2a: Flareon|175/263 tox|[from] psn
+|upkeep
+|
+|t:|1772746051
+|switch|p1a: Entei|Entei, L78|65/307
+|turn|14
+|
+|t:|1772746058
+|-terastallize|p2a: Flareon|Normal
+|move|p1a: Entei|Extreme Speed|p2a: Flareon
+|-damage|p2a: Flareon|76/263 tox
+|move|p2a: Flareon|Quick Attack|p1a: Entei
+|-damage|p1a: Entei|0 fnt
+|faint|p1a: Entei
+|
+|-damage|p2a: Flareon|44/263 tox|[from] psn
+|upkeep
+|
+|t:|1772746068
+|switch|p1a: Rhyperior|Rhyperior, L82, M|323/323
+|turn|15
+|
+|t:|1772746071
+|switch|p1a: Clefable|Clefable, L83, F|293/293
+|move|p2a: Flareon|Trailblaze|p1a: Clefable
+|-damage|p1a: Clefable|200/293
+|-boost|p2a: Flareon|spe|1
+|
+|-damage|p2a: Flareon|0 fnt|[from] psn
+|faint|p2a: Flareon
+|upkeep
+|
+|t:|1772746074
+|switch|p2a: Tinkaton|Tinkaton, L82, F|274/274
+|-ability|p2a: Tinkaton|Mold Breaker
+|turn|16
+|
+|t:|1772746079
+|-terastallize|p1a: Clefable|Fire
+|move|p2a: Tinkaton|Gigaton Hammer|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|124/293
+|move|p1a: Clefable|Fire Blast|p2a: Tinkaton
+|-supereffective|p2a: Tinkaton
+|-damage|p2a: Tinkaton|22/274
+|
+|-heal|p2a: Tinkaton|39/274|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1772746098
+|move|p2a: Tinkaton|Thunder Wave|p1a: Clefable
+|-status|p1a: Clefable|par
+|move|p1a: Clefable|Fire Blast|p2a: Tinkaton|[miss]
+|-miss|p1a: Clefable|p2a: Tinkaton
+|
+|-heal|p2a: Tinkaton|56/274|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1772746110
+|move|p2a: Tinkaton|Knock Off|p1a: Clefable
+|-damage|p1a: Clefable|61/293 par
+|-enditem|p1a: Clefable|Life Orb|[from] move: Knock Off|[of] p2a: Tinkaton
+|move|p1a: Clefable|Moonlight|p1a: Clefable
+|-heal|p1a: Clefable|207/293 par
+|
+|-heal|p2a: Tinkaton|73/274|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1772746118
+|switch|p2a: Mimikyu|Mimikyu, L79, M|216/216
+|move|p1a: Clefable|Fire Blast|p2a: Mimikyu
+|-activate|p2a: Mimikyu|ability: Disguise
+|-damage|p2a: Mimikyu|216/216
+|detailschange|p2a: Mimikyu|Mimikyu-Busted, L79, M
+|-damage|p2a: Mimikyu|189/216|[from] pokemon: Mimikyu-Busted
+|
+|upkeep
+|turn|20
+|
+|t:|1772746127
+|move|p2a: Mimikyu|Swords Dance|p2a: Mimikyu
+|-boost|p2a: Mimikyu|atk|2
+|move|p1a: Clefable|Moonblast|p2a: Mimikyu
+|-damage|p2a: Mimikyu|104/216
+|-unboost|p2a: Mimikyu|spa|1
+|
+|upkeep
+|turn|21
+|
+|t:|1772746135
+|move|p2a: Mimikyu|Play Rough|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|91/293 par
+|-damage|p2a: Mimikyu|83/216|[from] item: Life Orb
+|move|p1a: Clefable|Moonblast|p2a: Mimikyu
+|-damage|p2a: Mimikyu|0 fnt
+|faint|p2a: Mimikyu
+|
+|upkeep
+|
+|t:|1772746137
+|switch|p2a: Tinkaton|Tinkaton, L82, F|73/274
+|-ability|p2a: Tinkaton|Mold Breaker
+|turn|22
+|
+|t:|1772746141
+|move|p2a: Tinkaton|Gigaton Hammer|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|14/293 par
+|move|p1a: Clefable|Fire Blast|p2a: Tinkaton
+|-supereffective|p2a: Tinkaton
+|-damage|p2a: Tinkaton|0 fnt
+|faint|p2a: Tinkaton
+|
+|win|manofcheese144
+|raw|manofcheese144's rating: 1613 &rarr; <strong>1635</strong><br />(+22 for winning)
+|raw|ujfalusi95's rating: 1652 &rarr; <strong>1630</strong><br />(-22 for losing)
+|c|☆manofcheese144|gg

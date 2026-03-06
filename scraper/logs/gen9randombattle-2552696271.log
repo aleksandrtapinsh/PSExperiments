@@ -1,0 +1,356 @@
+|badge|p2|silver|gen9randombattle|30-8
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/">thread on Smogon.</a></div>
+|j|☆koffingwoffing
+|j|☆SebasDB
+|t:|1772744371
+|gametype|singles
+|player|p1|koffingwoffing|will-gen2|2284
+|player|p2|SebasDB|dawn-gen4pt|2389
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772744371
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Salazzle|Salazzle, L83, F|249/249
+|switch|p2a: Shiftry|Shiftry, L89, M|305/305
+|turn|1
+|j| romancoles
+|
+|t:|1772744399
+|move|p1a: Salazzle|Substitute|p1a: Salazzle
+|-start|p1a: Salazzle|Substitute
+|-damage|p1a: Salazzle|187/249
+|move|p2a: Shiftry|Knock Off|p1a: Salazzle
+|-end|p1a: Salazzle|Substitute
+|
+|-heal|p1a: Salazzle|202/249|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1772744412
+|switch|p2a: Tyranitar|Tyranitar, L78, F|284/284
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Salazzle|Flamethrower|p2a: Tyranitar
+|-resisted|p2a: Tyranitar
+|-damage|p2a: Tyranitar|248/284
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Salazzle|187/249|[from] Sandstorm
+|-heal|p1a: Salazzle|202/249|[from] item: Leftovers
+|-heal|p2a: Tyranitar|265/284|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1772744436
+|move|p1a: Salazzle|Toxic|p2a: Tyranitar
+|-status|p2a: Tyranitar|tox
+|move|p2a: Tyranitar|Stealth Rock|p1a: Salazzle
+|-sidestart|p1: koffingwoffing|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Salazzle|187/249|[from] Sandstorm
+|-heal|p1a: Salazzle|202/249|[from] item: Leftovers
+|-heal|p2a: Tyranitar|282/284 tox|[from] item: Leftovers
+|-damage|p2a: Tyranitar|265/284 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1772744447
+|switch|p2a: Blaziken|Blaziken, L76, M|247/247
+|move|p1a: Salazzle|Substitute|p1a: Salazzle
+|-start|p1a: Salazzle|Substitute
+|-damage|p1a: Salazzle|140/249
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Salazzle|125/249|[from] Sandstorm
+|-damage|p2a: Blaziken|232/247|[from] Sandstorm
+|-heal|p1a: Salazzle|140/249|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1772744461
+|move|p1a: Salazzle|Toxic|p2a: Blaziken
+|-status|p2a: Blaziken|tox
+|move|p2a: Blaziken|Knock Off|p1a: Salazzle
+|-end|p1a: Salazzle|Substitute
+|-damage|p2a: Blaziken|208/247 tox|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Salazzle|125/249|[from] Sandstorm
+|-damage|p2a: Blaziken|193/247 tox|[from] Sandstorm
+|-heal|p1a: Salazzle|140/249|[from] item: Leftovers
+|-damage|p2a: Blaziken|178/247 tox|[from] psn
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|6
+|j| marcomosco
+|
+|t:|1772744473
+|move|p2a: Blaziken|Swords Dance|p2a: Blaziken
+|-boost|p2a: Blaziken|atk|2
+|move|p1a: Salazzle|Flamethrower|p2a: Blaziken
+|-resisted|p2a: Blaziken
+|-damage|p2a: Blaziken|108/247 tox
+|
+|-weather|none
+|-heal|p1a: Salazzle|155/249|[from] item: Leftovers
+|-damage|p2a: Blaziken|78/247 tox|[from] psn
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|7
+|
+|t:|1772744480
+|move|p1a: Salazzle|Protect|p1a: Salazzle
+|-singleturn|p1a: Salazzle|Protect
+|move|p2a: Blaziken|Close Combat|p1a: Salazzle
+|-activate|p1a: Salazzle|move: Protect
+|
+|-heal|p1a: Salazzle|170/249|[from] item: Leftovers
+|-damage|p2a: Blaziken|33/247 tox|[from] psn
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|8
+|
+|t:|1772744486
+|move|p1a: Salazzle|Protect||[still]
+|-fail|p1a: Salazzle
+|move|p2a: Blaziken|Knock Off|p1a: Salazzle
+|-damage|p1a: Salazzle|0 fnt
+|-enditem|p1a: Salazzle|Leftovers|[from] move: Knock Off|[of] p2a: Blaziken
+|faint|p1a: Salazzle
+|-damage|p2a: Blaziken|9/247 tox|[from] item: Life Orb
+|
+|-damage|p2a: Blaziken|0 fnt|[from] psn
+|faint|p2a: Blaziken
+|upkeep
+|
+|t:|1772744500
+|switch|p1a: Crabominable|Crabominable, L90, F|321/321
+|switch|p2a: Tsareena|Tsareena, L87, F|267/267
+|-damage|p1a: Crabominable|281/321|[from] Stealth Rock
+|turn|9
+|l| romancoles
+|l| marcomosco
+|
+|t:|1772744518
+|move|p2a: Tsareena|High Jump Kick|p1a: Crabominable
+|-supereffective|p1a: Crabominable
+|-damage|p1a: Crabominable|0 fnt
+|faint|p1a: Crabominable
+|
+|upkeep
+|
+|t:|1772744524
+|switch|p1a: Toxicroak|Toxicroak, L84, M|277/277
+|-damage|p1a: Toxicroak|260/277|[from] Stealth Rock
+|turn|10
+|
+|t:|1772744528
+|switch|p2a: Ursaring|Ursaring, L84, M|288/288
+|move|p1a: Toxicroak|Close Combat|p2a: Ursaring
+|-supereffective|p2a: Ursaring
+|-damage|p2a: Ursaring|0 fnt
+|-unboost|p1a: Toxicroak|def|1
+|-unboost|p1a: Toxicroak|spd|1
+|faint|p2a: Ursaring
+|-damage|p1a: Toxicroak|233/277|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772744546
+|switch|p2a: Zekrom|Zekrom, L71|259/259
+|-ability|p2a: Zekrom|Teravolt
+|turn|11
+|
+|t:|1772744579
+|move|p1a: Toxicroak|Earthquake|p2a: Zekrom
+|-supereffective|p2a: Zekrom
+|-damage|p2a: Zekrom|82/259
+|-damage|p1a: Toxicroak|206/277|[from] item: Life Orb
+|move|p2a: Zekrom|Dragon Dance|p2a: Zekrom
+|-boost|p2a: Zekrom|atk|1
+|-boost|p2a: Zekrom|spe|1
+|
+|-heal|p2a: Zekrom|98/259|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1772744611
+|-terastallize|p1a: Toxicroak|Ground
+|move|p2a: Zekrom|Bolt Strike|p1a: Toxicroak
+|-immune|p1a: Toxicroak
+|move|p1a: Toxicroak|Earthquake|p2a: Zekrom
+|-supereffective|p2a: Zekrom
+|-damage|p2a: Zekrom|0 fnt
+|faint|p2a: Zekrom
+|-damage|p1a: Toxicroak|179/277|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772744613
+|switch|p2a: Shiftry|Shiftry, L89, M|305/305
+|turn|13
+|
+|t:|1772744638
+|switch|p1a: Bombirdier|Bombirdier, L85, F|258/258
+|-damage|p1a: Bombirdier|194/258|[from] Stealth Rock
+|move|p2a: Shiftry|Knock Off|p1a: Bombirdier
+|-resisted|p1a: Bombirdier
+|-damage|p1a: Bombirdier|137/258
+|-enditem|p1a: Bombirdier|Choice Band|[from] move: Knock Off|[of] p2a: Shiftry
+|
+|upkeep
+|turn|14
+|
+|t:|1772744667
+|switch|p2a: Tyranitar|Tyranitar, L78, F|265/284 tox
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Bombirdier|U-turn|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|167/284 tox
+|
+|t:|1772744672
+|switch|p1a: Toxicroak|Toxicroak, L84, M, tera:Ground|179/277|[from] U-turn
+|-damage|p1a: Toxicroak|162/277|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Tyranitar|184/284 tox|[from] item: Leftovers
+|-damage|p2a: Tyranitar|167/284 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1772744683
+|move|p1a: Toxicroak|Earthquake|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|0 fnt
+|faint|p2a: Tyranitar
+|-damage|p1a: Toxicroak|135/277|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1772744685
+|switch|p2a: Shiftry|Shiftry, L89, M|305/305
+|turn|16
+|
+|t:|1772744734
+|move|p2a: Shiftry|Knock Off|p1a: Toxicroak
+|-damage|p1a: Toxicroak|0 fnt
+|-enditem|p1a: Toxicroak|Life Orb|[from] move: Knock Off|[of] p2a: Shiftry
+|faint|p1a: Toxicroak
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Shiftry|286/305|[from] Sandstorm
+|upkeep
+|
+|t:|1772744741
+|switch|p1a: Bombirdier|Bombirdier, L85, F|137/258
+|-damage|p1a: Bombirdier|73/258|[from] Stealth Rock
+|turn|17
+|
+|t:|1772744774
+|-terastallize|p2a: Shiftry|Dark
+|move|p2a: Shiftry|Will-O-Wisp|p1a: Bombirdier
+|-status|p1a: Bombirdier|brn
+|move|p1a: Bombirdier|Brave Bird|p2a: Shiftry
+|-damage|p2a: Shiftry|206/305
+|-damage|p1a: Bombirdier|47/258 brn|[from] Recoil
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Shiftry|187/305|[from] Sandstorm
+|-damage|p1a: Bombirdier|31/258 brn|[from] Sandstorm
+|-damage|p1a: Bombirdier|15/258 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1772744791
+|move|p2a: Shiftry|Knock Off|p1a: Bombirdier
+|-resisted|p1a: Bombirdier
+|-damage|p1a: Bombirdier|0 fnt
+|faint|p1a: Bombirdier
+|
+|-weather|none
+|upkeep
+|
+|t:|1772744797
+|switch|p1a: Honchkrow|Honchkrow, L86, M|312/312
+|turn|19
+|
+|t:|1772744804
+|move|p2a: Shiftry|Will-O-Wisp|p1a: Honchkrow
+|-status|p1a: Honchkrow|brn
+|move|p1a: Honchkrow|Brave Bird|p2a: Shiftry
+|-damage|p2a: Shiftry|80/305
+|-damage|p1a: Honchkrow|277/312 brn|[from] Recoil
+|
+|-damage|p1a: Honchkrow|258/312 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1772744816
+|switch|p2a: Tsareena|Tsareena, L87, F|267/267
+|move|p1a: Honchkrow|Brave Bird|p2a: Tsareena
+|-supereffective|p2a: Tsareena
+|-damage|p2a: Tsareena|119/267
+|-damage|p1a: Honchkrow|209/312 brn|[from] Recoil
+|
+|-damage|p1a: Honchkrow|190/312 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1772744828
+|move|p2a: Tsareena|Triple Axel|p1a: Honchkrow
+|-supereffective|p1a: Honchkrow
+|-damage|p1a: Honchkrow|110/312 brn
+|-hitcount|p1a: Honchkrow|1
+|move|p1a: Honchkrow|Brave Bird|p2a: Tsareena
+|-supereffective|p2a: Tsareena
+|-damage|p2a: Tsareena|0 fnt
+|faint|p2a: Tsareena
+|-ability|p1a: Honchkrow|Moxie|boost
+|-boost|p1a: Honchkrow|atk|1
+|-damage|p1a: Honchkrow|71/312 brn|[from] Recoil
+|
+|-damage|p1a: Honchkrow|52/312 brn|[from] brn
+|upkeep
+|
+|t:|1772744833
+|switch|p2a: Shiftry|Shiftry, L89, M, tera:Dark|80/305
+|turn|22
+|
+|t:|1772744848
+|move|p2a: Shiftry|Knock Off|p1a: Honchkrow
+|-resisted|p1a: Honchkrow
+|-damage|p1a: Honchkrow|0 fnt
+|-enditem|p1a: Honchkrow|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Shiftry
+|faint|p1a: Honchkrow
+|
+|upkeep
+|
+|t:|1772744850
+|switch|p1a: Ursaluna|Ursaluna-Bloodmoon, L79, M|308/308
+|-damage|p1a: Ursaluna|289/308|[from] Stealth Rock
+|turn|23
+|
+|t:|1772744852
+|move|p2a: Shiftry|Leaf Storm|p1a: Ursaluna
+|-supereffective|p1a: Ursaluna
+|-damage|p1a: Ursaluna|0 fnt
+|-unboost|p2a: Shiftry|spa|2
+|faint|p1a: Ursaluna
+|
+|win|SebasDB
+|raw|koffingwoffing's rating: 2284 &rarr; <strong>2270</strong><br />(-14 for losing)
+|raw|SebasDB's rating: 2389 &rarr; <strong>2403</strong><br />(+14 for winning)
+|l|☆koffingwoffing
+|player|p1|

@@ -1,0 +1,297 @@
+|j|☆blairenby
+|j|☆Beanatron
+|t:|1772747364
+|gametype|singles
+|player|p1|blairenby|acetrainerf|1356
+|player|p2|Beanatron|265|1348
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772747364
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Solgaleo|Solgaleo, L74|325/325
+|switch|p2a: Araquanid|Araquanid, L82, M|246/246
+|turn|1
+|
+|t:|1772747391
+|switch|p1a: Vaporeon|Vaporeon, L86, F|364/364
+|move|p2a: Araquanid|Sticky Web|p1a: Vaporeon
+|-sidestart|p1: blairenby|move: Sticky Web
+|
+|upkeep
+|turn|2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Beanatron)
+|
+|t:|1772747397
+|switch|p1a: Passimian|Passimian, L83, F|302/302
+|-activate|p1a: Passimian|move: Sticky Web
+|-unboost|p1a: Passimian|spe|1
+|-ability|p1a: Passimian|Defiant|boost
+|-boost|p1a: Passimian|atk|2
+|move|p2a: Araquanid|Leech Life|p1a: Passimian
+|-resisted|p1a: Passimian
+|-damage|p1a: Passimian|272/302
+|
+|upkeep
+|turn|3
+|
+|t:|1772747417
+|move|p1a: Passimian|Knock Off|p2a: Araquanid
+|-damage|p2a: Araquanid|82/246
+|-enditem|p2a: Araquanid|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Passimian
+|move|p2a: Araquanid|Liquidation|p1a: Passimian
+|-damage|p1a: Passimian|128/302
+|
+|upkeep
+|turn|4
+|
+|t:|1772747433
+|move|p1a: Passimian|Knock Off|p2a: Araquanid
+|-damage|p2a: Araquanid|0 fnt
+|faint|p2a: Araquanid
+|
+|upkeep
+|
+|t:|1772747448
+|switch|p2a: Hitmonchan|Hitmonchan, L87, M|229/229
+|turn|5
+|
+|t:|1772747473
+|switch|p1a: Comfey|Comfey, L85, M|225/225
+|-activate|p1a: Comfey|move: Sticky Web
+|-unboost|p1a: Comfey|spe|1
+|move|p2a: Hitmonchan|Drain Punch|p1a: Comfey
+|-resisted|p1a: Comfey
+|-damage|p1a: Comfey|177/225
+|
+|-heal|p1a: Comfey|191/225|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1772747490
+|switch|p2a: Goodra|Goodra-Hisui, L82, M|265/265
+|-terastallize|p1a: Comfey|Ground
+|move|p1a: Comfey|Calm Mind|p1a: Comfey
+|-boost|p1a: Comfey|spa|1
+|-boost|p1a: Comfey|spd|1
+|
+|-heal|p1a: Comfey|205/225|[from] item: Leftovers
+|upkeep
+|turn|7
+|inactive|blairenby has 120 seconds left.
+|
+|t:|1772747506
+|move|p1a: Comfey|Calm Mind|p1a: Comfey
+|-boost|p1a: Comfey|spa|1
+|-boost|p1a: Comfey|spd|1
+|move|p2a: Goodra|Hydro Pump|p1a: Comfey
+|-supereffective|p1a: Comfey
+|-damage|p1a: Comfey|141/225
+|
+|-heal|p1a: Comfey|155/225|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1772747515
+|move|p1a: Comfey|Tera Blast|p2a: Goodra|[anim] Tera Blast Ground
+|-supereffective|p2a: Goodra
+|-damage|p2a: Goodra|125/265
+|move|p2a: Goodra|Knock Off|p1a: Comfey
+|-damage|p1a: Comfey|90/225
+|-enditem|p1a: Comfey|Leftovers|[from] move: Knock Off|[of] p2a: Goodra
+|
+|upkeep
+|turn|9
+|
+|t:|1772747528
+|switch|p2a: Conkeldurr|Conkeldurr, L80, F|299/299
+|move|p1a: Comfey|Draining Kiss|p2a: Conkeldurr
+|-supereffective|p2a: Conkeldurr
+|-damage|p2a: Conkeldurr|47/299
+|-heal|p1a: Comfey|225/225|[from] drain|[of] p2a: Conkeldurr
+|
+|-status|p2a: Conkeldurr|brn|[from] item: Flame Orb
+|upkeep
+|turn|10
+|
+|t:|1772747542
+|move|p1a: Comfey|Draining Kiss|p2a: Conkeldurr
+|-supereffective|p2a: Conkeldurr
+|-damage|p2a: Conkeldurr|0 fnt
+|faint|p2a: Conkeldurr
+|
+|upkeep
+|
+|t:|1772747547
+|switch|p2a: Slaking|Slaking, L84, M|389/389
+|turn|11
+|
+|t:|1772747562
+|move|p1a: Comfey|Draining Kiss|p2a: Slaking
+|-damage|p2a: Slaking|260/389
+|move|p2a: Slaking|Giga Impact|p1a: Comfey
+|-damage|p1a: Comfey|0 fnt
+|-mustrecharge|p2a: Slaking
+|faint|p1a: Comfey
+|
+|upkeep
+|
+|t:|1772747572
+|switch|p1a: Deoxys|Deoxys-Attack, L72|219/219
+|-activate|p1a: Deoxys|move: Sticky Web
+|-unboost|p1a: Deoxys|spe|1
+|turn|12
+|
+|t:|1772747591
+|cant|p2a: Slaking|recharge
+|move|p1a: Deoxys|Will-O-Wisp|p2a: Slaking
+|-status|p2a: Slaking|brn
+|
+|-damage|p2a: Slaking|236/389 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1772747599
+|move|p2a: Slaking|Giga Impact|p1a: Deoxys
+|-immune|p1a: Deoxys
+|move|p1a: Deoxys|Focus Blast|p2a: Slaking|[miss]
+|-miss|p1a: Deoxys|p2a: Slaking
+|
+|-damage|p2a: Slaking|212/389 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1772747611
+|switch|p2a: Goodra|Goodra-Hisui, L82, M|125/265
+|move|p1a: Deoxys|Focus Blast|p2a: Goodra|[miss]
+|-miss|p1a: Deoxys|p2a: Goodra
+|
+|upkeep
+|turn|15
+|
+|t:|1772747622
+|move|p1a: Deoxys|Poltergeist|p2a: Goodra
+|-activate|p2a: Goodra|move: Poltergeist|Assault Vest
+|-damage|p2a: Goodra|0 fnt
+|faint|p2a: Goodra
+|-damage|p1a: Deoxys|198/219|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772747627
+|switch|p2a: Hitmonchan|Hitmonchan, L87, M|229/229
+|turn|16
+|
+|t:|1772747633
+|move|p2a: Hitmonchan|Knock Off|p1a: Deoxys
+|-supereffective|p1a: Deoxys
+|-damage|p1a: Deoxys|0 fnt
+|replace|p1a: Zoroark|Zoroark-Hisui, L80, F
+|-end|p1a: Zoroark|Illusion
+|-hint|Illusion Level Mod is active, so this Pokémon's true level was hidden.
+|-enditem|p1a: Zoroark|Life Orb|[from] move: Knock Off|[of] p2a: Hitmonchan
+|faint|p1a: Zoroark
+|
+|upkeep
+|
+|t:|1772747643
+|switch|p1a: Passimian|Passimian, L83, F|128/302
+|-activate|p1a: Passimian|move: Sticky Web
+|-unboost|p1a: Passimian|spe|1
+|-ability|p1a: Passimian|Defiant|boost
+|-boost|p1a: Passimian|atk|2
+|turn|17
+|
+|t:|1772747652
+|move|p2a: Hitmonchan|Drain Punch|p1a: Passimian
+|-damage|p1a: Passimian|16/302
+|move|p1a: Passimian|Close Combat|p2a: Hitmonchan
+|-damage|p2a: Hitmonchan|0 fnt
+|-unboost|p1a: Passimian|def|1
+|-unboost|p1a: Passimian|spd|1
+|faint|p2a: Hitmonchan
+|
+|upkeep
+|
+|t:|1772747659
+|switch|p2a: Slaking|Slaking, L84, M|212/389 brn
+|turn|18
+|
+|t:|1772747666
+|move|p2a: Slaking|Knock Off|p1a: Passimian
+|-resisted|p1a: Passimian
+|-damage|p1a: Passimian|0 fnt
+|-enditem|p1a: Passimian|Choice Scarf|[from] move: Knock Off|[of] p2a: Slaking
+|faint|p1a: Passimian
+|
+|-damage|p2a: Slaking|188/389 brn|[from] brn
+|upkeep
+|
+|t:|1772747683
+|switch|p1a: Deoxys|Deoxys-Attack, L72|191/191
+|-activate|p1a: Deoxys|move: Sticky Web
+|-unboost|p1a: Deoxys|spe|1
+|-ability|p1a: Deoxys|Pressure
+|turn|19
+|
+|t:|1772747691
+|cant|p2a: Slaking|ability: Truant
+|move|p1a: Deoxys|Superpower|p2a: Slaking
+|-supereffective|p2a: Slaking
+|-damage|p2a: Slaking|0 fnt
+|-unboost|p1a: Deoxys|atk|1
+|-unboost|p1a: Deoxys|def|1
+|faint|p2a: Slaking
+|-damage|p1a: Deoxys|172/191|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772747696
+|switch|p2a: Cetitan|Cetitan, L82, F|412/412
+|turn|20
+|
+|t:|1772747706
+|move|p1a: Deoxys|Knock Off|p2a: Cetitan
+|-damage|p2a: Cetitan|326/412
+|-enditem|p2a: Cetitan|Sitrus Berry|[from] move: Knock Off|[of] p1a: Deoxys
+|-damage|p1a: Deoxys|153/191|[from] item: Life Orb
+|move|p2a: Cetitan|Belly Drum|p2a: Cetitan
+|-damage|p2a: Cetitan|120/412
+|-setboost|p2a: Cetitan|atk|6|[from] move: Belly Drum
+|
+|upkeep
+|turn|21
+|
+|t:|1772747716
+|move|p2a: Cetitan|Ice Shard|p1a: Deoxys
+|-crit|p1a: Deoxys
+|-damage|p1a: Deoxys|0 fnt
+|faint|p1a: Deoxys
+|
+|upkeep
+|
+|t:|1772747723
+|switch|p1a: Vaporeon|Vaporeon, L86, F|364/364
+|-activate|p1a: Vaporeon|move: Sticky Web
+|-unboost|p1a: Vaporeon|spe|1
+|turn|22
+|
+|t:|1772747729
+|-terastallize|p2a: Cetitan|Ice
+|move|p2a: Cetitan|Ice Spinner|p1a: Vaporeon
+|-resisted|p1a: Vaporeon
+|-damage|p1a: Vaporeon|51/364
+|move|p1a: Vaporeon|Scald|p2a: Cetitan
+|-damage|p2a: Cetitan|0 fnt
+|faint|p2a: Cetitan
+|
+|win|blairenby
+|raw|blairenby's rating: 1356 &rarr; <strong>1376</strong><br />(+20 for winning)
+|raw|Beanatron's rating: 1348 &rarr; <strong>1328</strong><br />(-20 for losing)

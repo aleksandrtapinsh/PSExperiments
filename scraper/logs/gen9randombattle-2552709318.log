@@ -1,0 +1,64 @@
+|j|☆spideythegoat
+|j|☆naruto5993
+|t:|1772745592
+|gametype|singles
+|player|p1|spideythegoat|chili|1033
+|player|p2|naruto5993|170|1080
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772745592
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Trevenant|Trevenant, L89, M|296/296
+|switch|p2a: Feraligatr|Feraligatr, L79, F|264/264
+|turn|1
+|
+|t:|1772745609
+|switch|p2a: Snorlax|Snorlax, L82, F|397/397
+|-terastallize|p1a: Trevenant|Fighting
+|move|p1a: Trevenant|Wood Hammer|p2a: Snorlax
+|-damage|p2a: Snorlax|142/397
+|-damage|p1a: Trevenant|212/296|[from] Recoil
+|-damage|p1a: Trevenant|183/296|[from] item: Life Orb
+|
+|-heal|p2a: Snorlax|166/397|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1772745626
+|-terastallize|p2a: Snorlax|Fairy
+|move|p1a: Trevenant|Drain Punch|p2a: Snorlax
+|-resisted|p2a: Snorlax
+|-damage|p2a: Snorlax|80/397
+|-heal|p1a: Trevenant|226/296|[from] drain|[of] p2a: Snorlax
+|-damage|p1a: Trevenant|197/296|[from] item: Life Orb
+|move|p2a: Snorlax|Rest|p2a: Snorlax
+|-status|p2a: Snorlax|slp|[from] move: Rest
+|-heal|p2a: Snorlax|397/397 slp|[silent]
+|
+|upkeep
+|turn|3
+|
+|t:|1772745645
+|switch|p1a: Lunala|Lunala, L70|308/308
+|cant|p2a: Snorlax|slp
+|move|p2a: Snorlax|Sleep Talk|p2a: Snorlax
+|move|p2a: Snorlax|Rest||[from] move: Sleep Talk|[still]
+|-fail|p2a: Snorlax
+|
+|upkeep
+|turn|4
+|-message|naruto5993 forfeited.
+|
+|win|spideythegoat
+|raw|spideythegoat's rating: 1033 &rarr; <strong>1073</strong><br />(+40 for winning)
+|raw|naruto5993's rating: 1080 &rarr; <strong>1055</strong><br />(-25 for losing)
+|l|☆naruto5993
+|player|p2|

@@ -1,0 +1,382 @@
+|j|☆FlyingAvocado
+|j|☆molfus
+|t:|1772750744
+|gametype|singles
+|player|p1|FlyingAvocado|wallace|1765
+|player|p2|molfus|schoolkid-gen4|1760
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772750744
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Palafin|Palafin, L77, F|281/281
+|switch|p2a: Vaporeon|Vaporeon, L86, M|364/364
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by molfus)
+|
+|t:|1772750756
+|detailschange|p1a: Palafin|Palafin-Hero, L77, F
+|switch|p1a: Raikou|Raikou, L81|278/278
+|-ability|p1a: Raikou|Pressure
+|move|p2a: Vaporeon|Scald|p1a: Raikou
+|-damage|p1a: Raikou|191/278
+|
+|upkeep
+|turn|2
+|
+|t:|1772750773
+|-terastallize|p2a: Vaporeon|Ground
+|move|p1a: Raikou|Volt Switch|p2a: Vaporeon
+|-immune|p2a: Vaporeon
+|move|p2a: Vaporeon|Scald|p1a: Raikou
+|-damage|p1a: Raikou|91/278
+|
+|upkeep
+|turn|3
+|
+|t:|1772750782
+|switch|p1a: Zapdos|Zapdos, L78|268/268
+|move|p2a: Vaporeon|Scald|p1a: Zapdos
+|-damage|p1a: Zapdos|168/268
+|
+|upkeep
+|turn|4
+|
+|t:|1772750799
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|268/268
+|-singleturn|p1a: Zapdos|move: Roost
+|move|p2a: Vaporeon|Scald|p1a: Zapdos
+|-damage|p1a: Zapdos|163/268
+|
+|upkeep
+|turn|5
+|
+|t:|1772750802
+|switch|p1a: Raikou|Raikou, L81|91/278
+|-ability|p1a: Raikou|Pressure
+|move|p2a: Vaporeon|Scald|p1a: Raikou
+|-damage|p1a: Raikou|0 fnt
+|faint|p1a: Raikou
+|
+|upkeep
+|
+|t:|1772750807
+|switch|p1a: Arceus|Arceus-Bug, L73|295/295
+|turn|6
+|
+|t:|1772750830
+|switch|p2a: Klawf|Klawf, L90, M|272/272
+|move|p1a: Arceus|Calm Mind|p1a: Arceus
+|-boost|p1a: Arceus|spa|1
+|-boost|p1a: Arceus|spd|1
+|
+|upkeep
+|turn|7
+|
+|t:|1772750844
+|move|p1a: Arceus|Judgment|p2a: Klawf
+|-damage|p2a: Klawf|26/272
+|-ability|p2a: Klawf|Anger Shell|boost
+|-boost|p2a: Klawf|atk|1
+|-boost|p2a: Klawf|spa|1
+|-boost|p2a: Klawf|spe|1
+|-unboost|p2a: Klawf|def|1
+|-unboost|p2a: Klawf|spd|1
+|move|p2a: Klawf|Stone Edge|p1a: Arceus|[miss]
+|-miss|p2a: Klawf|p1a: Arceus
+|
+|upkeep
+|turn|8
+|
+|t:|1772750856
+|move|p2a: Klawf|Stone Edge|p1a: Arceus
+|-supereffective|p1a: Arceus
+|-crit|p1a: Arceus
+|-damage|p1a: Arceus|0 fnt
+|faint|p1a: Arceus
+|
+|upkeep
+|
+|t:|1772750863
+|switch|p1a: Palafin|Palafin-Hero, L77, F|281/281
+|-activate|p1a: Palafin|ability: Zero to Hero
+|turn|9
+|
+|t:|1772750867
+|switch|p2a: Vaporeon|Vaporeon, L86, M, tera:Ground|364/364
+|move|p1a: Palafin|Jet Punch|p2a: Vaporeon
+|-immune|p2a: Vaporeon|[from] ability: Water Absorb
+|
+|upkeep
+|turn|10
+|
+|t:|1772750872
+|move|p1a: Palafin|Bulk Up|p1a: Palafin
+|-boost|p1a: Palafin|atk|1
+|-boost|p1a: Palafin|def|1
+|move|p2a: Vaporeon|Scald|p1a: Palafin
+|-resisted|p1a: Palafin
+|-damage|p1a: Palafin|231/281
+|
+|-heal|p1a: Palafin|248/281|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1772750877
+|move|p1a: Palafin|Ice Punch|p2a: Vaporeon
+|-supereffective|p2a: Vaporeon
+|-damage|p2a: Vaporeon|98/364
+|move|p2a: Vaporeon|Scald|p1a: Palafin
+|-resisted|p1a: Palafin
+|-damage|p1a: Palafin|198/281
+|
+|-heal|p1a: Palafin|215/281|[from] item: Leftovers
+|-heal|p2a: Vaporeon|120/364|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1772750886
+|switch|p2a: Klawf|Klawf, L90, M|26/272
+|move|p1a: Palafin|Ice Punch|p2a: Klawf
+|-damage|p2a: Klawf|0 fnt
+|faint|p2a: Klawf
+|
+|-heal|p1a: Palafin|232/281|[from] item: Leftovers
+|upkeep
+|
+|t:|1772750909
+|switch|p2a: Charizard|Charizard, L85, F|271/271
+|turn|13
+|
+|t:|1772750922
+|move|p1a: Palafin|Jet Punch|p2a: Charizard
+|-supereffective|p2a: Charizard
+|-damage|p2a: Charizard|23/271
+|move|p2a: Charizard|Will-O-Wisp|p1a: Palafin
+|-status|p1a: Palafin|brn
+|
+|-heal|p1a: Palafin|249/281 brn|[from] item: Leftovers
+|-damage|p1a: Palafin|232/281 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1772750930
+|switch|p2a: Vaporeon|Vaporeon, L86, M, tera:Ground|120/364
+|move|p1a: Palafin|Bulk Up|p1a: Palafin
+|-boost|p1a: Palafin|atk|1
+|-boost|p1a: Palafin|def|1
+|
+|-heal|p1a: Palafin|249/281 brn|[from] item: Leftovers
+|-heal|p2a: Vaporeon|142/364|[from] item: Leftovers
+|-damage|p1a: Palafin|232/281 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1772750940
+|switch|p2a: Deoxys|Deoxys-Defense, L84|221/221
+|-ability|p2a: Deoxys|Pressure
+|move|p1a: Palafin|Ice Punch|p2a: Deoxys
+|-damage|p2a: Deoxys|177/221
+|-status|p2a: Deoxys|frz
+|-damage|p1a: Palafin|186/281 brn|[from] item: Rocky Helmet|[of] p2a: Deoxys
+|
+|-heal|p1a: Palafin|203/281 brn|[from] item: Leftovers
+|-damage|p1a: Palafin|186/281 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1772750947
+|move|p1a: Palafin|Bulk Up|p1a: Palafin
+|-boost|p1a: Palafin|atk|1
+|-boost|p1a: Palafin|def|1
+|cant|p2a: Deoxys|frz
+|
+|-heal|p1a: Palafin|203/281 brn|[from] item: Leftovers
+|-damage|p1a: Palafin|186/281 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1772750952
+|cant|p2a: Deoxys|frz
+|move|p1a: Palafin|Bulk Up|p1a: Palafin
+|-boost|p1a: Palafin|atk|1
+|-boost|p1a: Palafin|def|1
+|
+|-heal|p1a: Palafin|203/281 brn|[from] item: Leftovers
+|-damage|p1a: Palafin|186/281 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1772750956
+|move|p1a: Palafin|Jet Punch|p2a: Deoxys
+|-damage|p2a: Deoxys|102/221 frz
+|-damage|p1a: Palafin|140/281 brn|[from] item: Rocky Helmet|[of] p2a: Deoxys
+|cant|p2a: Deoxys|frz
+|
+|-heal|p1a: Palafin|157/281 brn|[from] item: Leftovers
+|-damage|p1a: Palafin|140/281 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1772750961
+|move|p1a: Palafin|Jet Punch|p2a: Deoxys
+|-damage|p2a: Deoxys|30/221 frz
+|-damage|p1a: Palafin|94/281 brn|[from] item: Rocky Helmet|[of] p2a: Deoxys
+|cant|p2a: Deoxys|frz
+|
+|-heal|p1a: Palafin|111/281 brn|[from] item: Leftovers
+|-damage|p1a: Palafin|94/281 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1772750967
+|cant|p2a: Deoxys|frz
+|move|p1a: Palafin|Ice Punch|p2a: Deoxys
+|-damage|p2a: Deoxys|0 fnt
+|-damage|p1a: Palafin|48/281 brn|[from] item: Rocky Helmet|[of] p2a: Deoxys
+|faint|p2a: Deoxys
+|
+|-heal|p1a: Palafin|65/281 brn|[from] item: Leftovers
+|-damage|p1a: Palafin|48/281 brn|[from] brn
+|upkeep
+|
+|t:|1772750989
+|switch|p2a: Okidogi|Okidogi, L77, M|262/262
+|turn|21
+|
+|t:|1772750996
+|move|p1a: Palafin|Jet Punch|p2a: Okidogi
+|-damage|p2a: Okidogi|151/262
+|move|p2a: Okidogi|Knock Off|p1a: Palafin
+|-damage|p1a: Palafin|21/281 brn
+|-enditem|p1a: Palafin|Leftovers|[from] move: Knock Off|[of] p2a: Okidogi
+|
+|-damage|p1a: Palafin|4/281 brn|[from] brn
+|upkeep
+|turn|22
+|
+|t:|1772751006
+|move|p1a: Palafin|Ice Punch|p2a: Okidogi
+|-damage|p2a: Okidogi|71/262
+|move|p2a: Okidogi|Drain Punch|p1a: Palafin
+|-damage|p1a: Palafin|0 fnt
+|-heal|p2a: Okidogi|73/262|[from] drain|[of] p1a: Palafin
+|faint|p1a: Palafin
+|
+|upkeep
+|
+|t:|1772751011
+|switch|p1a: Zapdos|Zapdos, L78|163/268
+|turn|23
+|
+|t:|1772751020
+|move|p1a: Zapdos|Hurricane|p2a: Okidogi
+|-supereffective|p2a: Okidogi
+|-damage|p2a: Okidogi|0 fnt
+|faint|p2a: Okidogi
+|
+|upkeep
+|
+|t:|1772751023
+|switch|p2a: Vaporeon|Vaporeon, L86, M, tera:Ground|142/364
+|turn|24
+|
+|t:|1772751026
+|move|p1a: Zapdos|Hurricane|p2a: Vaporeon|[miss]
+|-miss|p1a: Zapdos|p2a: Vaporeon
+|move|p2a: Vaporeon|Wish|p2a: Vaporeon
+|
+|-heal|p2a: Vaporeon|164/364|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1772751030
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|268/268
+|-singleturn|p1a: Zapdos|move: Roost
+|move|p2a: Vaporeon|Scald|p1a: Zapdos
+|-damage|p1a: Zapdos|165/268
+|
+|-heal|p2a: Vaporeon|346/364|[from] move: Wish|[wisher] Vaporeon
+|-heal|p2a: Vaporeon|364/364|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1772751035
+|move|p1a: Zapdos|Hurricane|p2a: Vaporeon|[miss]
+|-miss|p1a: Zapdos|p2a: Vaporeon
+|move|p2a: Vaporeon|Ice Beam|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|15/268
+|
+|upkeep
+|turn|27
+|
+|t:|1772751038
+|move|p1a: Zapdos|Hurricane|p2a: Vaporeon|[miss]
+|-miss|p1a: Zapdos|p2a: Vaporeon
+|move|p2a: Vaporeon|Scald|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|upkeep
+|
+|t:|1772751042
+|switch|p1a: Flapple|Flapple, L88, M|266/266
+|turn|28
+|
+|t:|1772751050
+|move|p1a: Flapple|Grav Apple|p2a: Vaporeon
+|-supereffective|p2a: Vaporeon
+|-damage|p2a: Vaporeon|0 fnt
+|faint|p2a: Vaporeon
+|
+|upkeep
+|
+|t:|1772751055
+|switch|p2a: Cloyster|Cloyster, L80, F|211/211
+|turn|29
+|
+|t:|1772751060
+|move|p1a: Flapple|Grav Apple|p2a: Cloyster
+|-supereffective|p2a: Cloyster
+|-damage|p2a: Cloyster|0 fnt
+|faint|p2a: Cloyster
+|
+|upkeep
+|
+|t:|1772751064
+|switch|p2a: Charizard|Charizard, L85, F|23/271
+|turn|30
+|
+|t:|1772751071
+|move|p2a: Charizard|Hurricane|p1a: Flapple
+|-supereffective|p1a: Flapple
+|-damage|p1a: Flapple|0 fnt
+|faint|p1a: Flapple
+|
+|upkeep
+|
+|t:|1772751073
+|switch|p1a: Clawitzer|Clawitzer, L87, M|265/265
+|turn|31
+|
+|t:|1772751077
+|move|p2a: Charizard|Hurricane|p1a: Clawitzer|[miss]
+|-miss|p2a: Charizard|p1a: Clawitzer
+|move|p1a: Clawitzer|Water Pulse|p2a: Charizard
+|-supereffective|p2a: Charizard
+|-damage|p2a: Charizard|0 fnt
+|faint|p2a: Charizard
+|
+|win|FlyingAvocado
+|raw|FlyingAvocado's rating: 1765 &rarr; <strong>1785</strong><br />(+20 for winning)
+|raw|molfus's rating: 1760 &rarr; <strong>1740</strong><br />(-20 for losing)

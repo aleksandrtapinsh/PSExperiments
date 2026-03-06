@@ -1,0 +1,117 @@
+|j|☆avionsito
+|j|☆z3kky1
+|t:|1772749534
+|gametype|singles
+|player|p1|avionsito|102|1184
+|player|p2|z3kky1|170|1204
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772749534
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Umbreon|Umbreon, L84, F|297/297
+|switch|p2a: Polteageist|Polteageist, L78|222/222
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by avionsito)
+|
+|t:|1772749567
+|switch|p2a: Tyranitar|Tyranitar, L78, M|284/284
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Umbreon|Toxic|p2a: Tyranitar
+|-status|p2a: Tyranitar|tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Umbreon|279/297|[from] Sandstorm
+|-heal|p1a: Umbreon|297/297|[from] item: Leftovers
+|-damage|p2a: Tyranitar|267/284 tox|[from] psn
+|upkeep
+|turn|2
+|
+|t:|1772749582
+|move|p1a: Umbreon|Foul Play|p2a: Tyranitar
+|-resisted|p2a: Tyranitar
+|-damage|p2a: Tyranitar|210/284 tox
+|move|p2a: Tyranitar|Thunder Wave||[still]
+|-status|p1a: Umbreon|par
+|-activate|p1a: Umbreon|ability: Synchronize
+|-fail|p1a: Umbreon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Umbreon|279/297 par|[from] Sandstorm
+|-heal|p2a: Tyranitar|227/284 tox|[from] item: Leftovers
+|-heal|p1a: Umbreon|297/297 par|[from] item: Leftovers
+|-damage|p2a: Tyranitar|193/284 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1772749599
+|move|p1a: Umbreon|Foul Play|p2a: Tyranitar
+|-resisted|p2a: Tyranitar
+|-crit|p2a: Tyranitar
+|-damage|p2a: Tyranitar|108/284 tox
+|move|p2a: Tyranitar|Dragon Tail|p1a: Umbreon
+|-damage|p1a: Umbreon|254/297 par
+|drag|p1a: Scream Tail|Scream Tail, L84|330/330
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Scream Tail|310/330|[from] Sandstorm
+|-heal|p1a: Scream Tail|330/330|[from] item: Leftovers
+|-heal|p2a: Tyranitar|125/284 tox|[from] item: Leftovers
+|-damage|p2a: Tyranitar|74/284 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1772749615
+|-end|p1a: Scream Tail|Protosynthesis|[silent]
+|switch|p1a: Umbreon|Umbreon, L84, F|254/297 par
+|move|p2a: Tyranitar|Stone Edge|p1a: Umbreon
+|-damage|p1a: Umbreon|158/297 par
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Umbreon|140/297 par|[from] Sandstorm
+|-heal|p2a: Tyranitar|91/284 tox|[from] item: Leftovers
+|-heal|p1a: Umbreon|158/297 par|[from] item: Leftovers
+|-damage|p2a: Tyranitar|23/284 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1772749626
+|move|p2a: Tyranitar|Stone Edge|p1a: Umbreon
+|-damage|p1a: Umbreon|55/297 par
+|move|p1a: Umbreon|Foul Play|p2a: Tyranitar
+|-resisted|p2a: Tyranitar
+|-damage|p2a: Tyranitar|0 fnt
+|faint|p2a: Tyranitar
+|
+|-weather|none
+|-heal|p1a: Umbreon|73/297 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1772749641
+|switch|p2a: Rampardos|Rampardos, L90, F|321/321
+|turn|6
+|
+|t:|1772749649
+|move|p2a: Rampardos|Rock Slide|p1a: Umbreon
+|-damage|p1a: Umbreon|0 fnt
+|faint|p1a: Umbreon
+|
+|upkeep
+|
+|t:|1772749659
+|switch|p1a: Feraligatr|Feraligatr, L79, F|264/264
+|turn|7
+|-message|z3kky1 forfeited.
+|
+|win|avionsito
+|raw|avionsito's rating: 1184 &rarr; <strong>1210</strong><br />(+26 for winning)
+|raw|z3kky1's rating: 1204 &rarr; <strong>1178</strong><br />(-26 for losing)
+|l|☆z3kky1
+|player|p2|

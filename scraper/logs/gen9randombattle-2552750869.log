@@ -1,0 +1,218 @@
+|j|☆revi98
+|j|☆Codyrhodesismid
+|t:|1772749655
+|gametype|singles
+|player|p1|revi98|265|1142
+|player|p2|Codyrhodesismid|roughneck-gen4|1161
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772749655
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Duraludon|Duraludon, L82, M|249/249
+|switch|p2a: Politoed|Politoed, L88, M|302/302
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Politoed
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Codyrhodesismid)
+|
+|t:|1772749668
+|move|p1a: Duraludon|Stealth Rock|p2a: Politoed
+|-sidestart|p2: Codyrhodesismid|move: Stealth Rock
+|move|p2a: Politoed|Focus Blast|p1a: Duraludon
+|-supereffective|p1a: Duraludon
+|-damage|p1a: Duraludon|1/249
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1772749689
+|move|p1a: Duraludon|Draco Meteor|p2a: Politoed
+|-damage|p2a: Politoed|161/302
+|-unboost|p1a: Duraludon|spa|2
+|move|p2a: Politoed|Focus Blast|p1a: Duraludon|[miss]
+|-miss|p2a: Politoed|p1a: Duraludon
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1772749700
+|move|p1a: Duraludon|Body Press|p2a: Politoed
+|-damage|p2a: Politoed|92/302
+|move|p2a: Politoed|Focus Blast|p1a: Duraludon
+|-supereffective|p1a: Duraludon
+|-damage|p1a: Duraludon|0 fnt
+|faint|p1a: Duraludon
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1772749704
+|switch|p1a: Raikou|Raikou, L81|278/278
+|-ability|p1a: Raikou|Pressure
+|turn|4
+|
+|t:|1772749714
+|move|p1a: Raikou|Thunderbolt|p2a: Politoed
+|-supereffective|p2a: Politoed
+|-damage|p2a: Politoed|0 fnt
+|faint|p2a: Politoed
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1772749717
+|switch|p2a: Piloswine|Piloswine, L85, M|309/309
+|-damage|p2a: Piloswine|271/309|[from] Stealth Rock
+|turn|5
+|inactive|revi98 has 120 seconds left.
+|
+|t:|1772749766
+|move|p1a: Raikou|Scald|p2a: Piloswine
+|-supereffective|p2a: Piloswine
+|-damage|p2a: Piloswine|115/309
+|move|p2a: Piloswine|Stealth Rock|p1a: Raikou
+|-sidestart|p1: revi98|move: Stealth Rock
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1772749777
+|move|p1a: Raikou|Scald|p2a: Piloswine
+|-supereffective|p2a: Piloswine
+|-damage|p2a: Piloswine|7/309
+|-status|p2a: Piloswine|brn
+|move|p2a: Piloswine|Earthquake|p1a: Raikou
+|-supereffective|p1a: Raikou
+|-damage|p1a: Raikou|139/278
+|
+|-heal|p1a: Raikou|156/278|[from] item: Leftovers
+|-damage|p2a: Piloswine|0 fnt|[from] brn
+|faint|p2a: Piloswine
+|upkeep
+|
+|t:|1772749786
+|switch|p2a: Maushold|Maushold, L76|238/238
+|-damage|p2a: Maushold|209/238|[from] Stealth Rock
+|turn|7
+|inactive|revi98 has 120 seconds left.
+|
+|t:|1772749805
+|move|p1a: Raikou|Scald|p2a: Maushold
+|-damage|p2a: Maushold|137/238
+|move|p2a: Maushold|Tidy Up|p2a: Maushold
+|-sideend|p2: Codyrhodesismid|Stealth Rock
+|-sideend|p1: revi98|Stealth Rock
+|-activate|p2a: Maushold|move: Tidy Up
+|-boost|p2a: Maushold|atk|1
+|-boost|p2a: Maushold|spe|1
+|
+|-heal|p1a: Raikou|173/278|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1772749811
+|move|p2a: Maushold|Population Bomb|p1a: Raikou
+|-damage|p1a: Raikou|131/278
+|-damage|p1a: Raikou|94/278
+|-damage|p1a: Raikou|52/278
+|-damage|p1a: Raikou|12/278
+|-damage|p1a: Raikou|0 fnt
+|faint|p1a: Raikou
+|-hitcount|p1: Raikou|5
+|
+|upkeep
+|inactive|revi98 has 120 seconds left.
+|
+|t:|1772749843
+|switch|p1a: Palkia|Palkia-Origin, L72|249/249
+|-ability|p1a: Palkia|Pressure
+|turn|9
+|
+|t:|1772749851
+|move|p2a: Maushold|Population Bomb|p1a: Palkia
+|-damage|p1a: Palkia|212/249
+|-damage|p1a: Palkia|176/249
+|-damage|p1a: Palkia|142/249
+|-damage|p1a: Palkia|105/249
+|-damage|p1a: Palkia|71/249
+|-damage|p1a: Palkia|37/249
+|-damage|p1a: Palkia|3/249
+|-damage|p1a: Palkia|0 fnt
+|faint|p1a: Palkia
+|-hitcount|p1: Palkia|8
+|
+|upkeep
+|inactive|revi98 has 90 seconds left.
+|
+|t:|1772749883
+|switch|p1a: Cinccino|Cinccino, L83, F|260/260
+|turn|10
+|
+|t:|1772749890
+|move|p2a: Maushold|Population Bomb|p1a: Cinccino
+|-damage|p1a: Cinccino|218/260
+|-damage|p1a: Cinccino|170/260
+|-damage|p1a: Cinccino|124/260
+|-damage|p1a: Cinccino|79/260
+|-damage|p1a: Cinccino|39/260
+|-crit|p1a: Cinccino
+|-damage|p1a: Cinccino|0 fnt
+|faint|p1a: Cinccino
+|-hitcount|p1: Cinccino|6
+|
+|upkeep
+|
+|t:|1772749894
+|switch|p1a: Zarude|Zarude, L77|288/288
+|turn|11
+|
+|t:|1772749902
+|move|p2a: Maushold|Population Bomb|p1a: Zarude
+|-damage|p1a: Zarude|257/288
+|-damage|p1a: Zarude|223/288
+|-damage|p1a: Zarude|189/288
+|-damage|p1a: Zarude|159/288
+|-damage|p1a: Zarude|129/288
+|-damage|p1a: Zarude|99/288
+|-damage|p1a: Zarude|65/288
+|-damage|p1a: Zarude|35/288
+|-damage|p1a: Zarude|2/288
+|-damage|p1a: Zarude|0 fnt
+|faint|p1a: Zarude
+|-hitcount|p1: Zarude|10
+|
+|upkeep
+|inactive|revi98 has 90 seconds left.
+|
+|t:|1772749919
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, L76, F|247/247
+|turn|12
+|
+|t:|1772749923
+|move|p2a: Maushold|Population Bomb|p1a: Ogerpon
+|-damage|p1a: Ogerpon|211/247
+|-crit|p1a: Ogerpon
+|-damage|p1a: Ogerpon|157/247
+|-damage|p1a: Ogerpon|121/247
+|-damage|p1a: Ogerpon|82/247
+|-damage|p1a: Ogerpon|42/247
+|-damage|p1a: Ogerpon|6/247
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|-hitcount|p1: Ogerpon|7
+|
+|win|Codyrhodesismid
+|raw|revi98's rating: 1142 &rarr; <strong>1118</strong><br />(-24 for losing)
+|raw|Codyrhodesismid's rating: 1161 &rarr; <strong>1185</strong><br />(+24 for winning)
+|l|☆revi98
+|player|p1|

@@ -1,0 +1,37 @@
+|j|☆dsbmay13
+|j|☆ignisyk
+|t:|1772750928
+|gametype|singles
+|player|p1|dsbmay13|n|1146
+|player|p2|ignisyk|170|1171
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772750928
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Boulder|Iron Boulder, L77|265/265
+|switch|p2a: Ceruledge|Ceruledge, L78, F|245/245
+|turn|1
+|
+|t:|1772750944
+|move|p1a: Iron Boulder|Mighty Cleave|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-damage|p2a: Ceruledge|0 fnt
+|faint|p2a: Ceruledge
+|-damage|p1a: Iron Boulder|239/265|[from] item: Life Orb
+|
+|upkeep
+|-message|ignisyk forfeited.
+|
+|win|dsbmay13
+|raw|dsbmay13's rating: 1146 &rarr; <strong>1173</strong><br />(+27 for winning)
+|raw|ignisyk's rating: 1171 &rarr; <strong>1144</strong><br />(-27 for losing)
+|l|☆ignisyk
+|player|p2|

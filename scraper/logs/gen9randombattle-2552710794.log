@@ -1,0 +1,282 @@
+|j|☆dragon1of1the1end
+|j|☆regiigiigas
+|t:|1772745731
+|gametype|singles
+|player|p1|dragon1of1the1end|boarder|1181
+|player|p2|regiigiigas|102|1203
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772745731
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Altaria|Altaria, L89, F|278/278
+|switch|p2a: Masquerain|Masquerain, L87, M|264/264
+|-ability|p2a: Masquerain|Intimidate|boost
+|-unboost|p1a: Altaria|atk|1
+|turn|1
+|
+|t:|1772745749
+|move|p1a: Altaria|Brave Bird|p2a: Masquerain
+|-supereffective|p2a: Masquerain
+|-damage|p2a: Masquerain|84/264
+|-damage|p1a: Altaria|219/278|[from] Recoil
+|move|p2a: Masquerain|Quiver Dance|p2a: Masquerain
+|-boost|p2a: Masquerain|spa|1
+|-boost|p2a: Masquerain|spd|1
+|-boost|p2a: Masquerain|spe|1
+|
+|upkeep
+|turn|2
+|
+|t:|1772745761
+|move|p2a: Masquerain|Hurricane|p1a: Altaria
+|-damage|p1a: Altaria|57/278
+|-start|p1a: Altaria|confusion
+|-activate|p1a: Altaria|confusion
+|-damage|p1a: Altaria|41/278|[from] confusion
+|
+|upkeep
+|turn|3
+|
+|t:|1772745791
+|move|p2a: Masquerain|Hydro Pump|p1a: Altaria
+|-resisted|p1a: Altaria
+|-damage|p1a: Altaria|0 fnt
+|faint|p1a: Altaria
+|
+|upkeep
+|
+|t:|1772745813
+|switch|p1a: Toucannon|Toucannon, L88, M|284/284
+|turn|4
+|
+|t:|1772745825
+|-singleturn|p1a: Toucannon|move: Beak Blast
+|move|p2a: Masquerain|Hydro Pump|p1a: Toucannon
+|-damage|p1a: Toucannon|147/284
+|move|p1a: Toucannon|Beak Blast|p2a: Masquerain
+|-supereffective|p2a: Masquerain
+|-damage|p2a: Masquerain|0 fnt
+|faint|p2a: Masquerain
+|
+|upkeep
+|
+|t:|1772745833
+|switch|p2a: Cramorant|Cramorant, L86, M|261/261
+|turn|5
+|
+|t:|1772745840
+|move|p2a: Cramorant|Surf|p1a: Toucannon
+|-formechange|p2a: Cramorant|Cramorant-Gulping|
+|-damage|p1a: Toucannon|47/284
+|move|p1a: Toucannon|Roost|p1a: Toucannon
+|-heal|p1a: Toucannon|189/284
+|-singleturn|p1a: Toucannon|move: Roost
+|
+|upkeep
+|turn|6
+|
+|t:|1772745851
+|move|p2a: Cramorant|Surf|p1a: Toucannon
+|-crit|p1a: Toucannon
+|-damage|p1a: Toucannon|51/284
+|move|p1a: Toucannon|Bullet Seed|p2a: Cramorant
+|-damage|p2a: Cramorant|231/261
+|-damage|p1a: Toucannon|0 fnt|[from] ability: Gulp Missile|[of] p2a: Cramorant
+|-formechange|p2a: Cramorant|Cramorant|
+|faint|p1a: Toucannon
+|-hitcount|p2a: Cramorant|1
+|
+|upkeep
+|
+|t:|1772745870
+|switch|p1a: Qwilfish|Qwilfish-Hisui, L83, M|244/244
+|-ability|p1a: Qwilfish|Intimidate|boost
+|-unboost|p2a: Cramorant|atk|1
+|turn|7
+|
+|t:|1772745879
+|move|p2a: Cramorant|Surf|p1a: Qwilfish
+|-formechange|p2a: Cramorant|Cramorant-Gulping|
+|-damage|p1a: Qwilfish|165/244
+|move|p1a: Qwilfish|Spikes|p2a: Cramorant
+|-sidestart|p2: regiigiigas|Spikes
+|
+|upkeep
+|turn|8
+|
+|t:|1772745889
+|move|p2a: Cramorant|Surf|p1a: Qwilfish
+|-crit|p1a: Qwilfish
+|-damage|p1a: Qwilfish|39/244
+|move|p1a: Qwilfish|Spikes|p2a: Cramorant
+|-sidestart|p2: regiigiigas|Spikes
+|
+|upkeep
+|turn|9
+|
+|t:|1772745896
+|move|p2a: Cramorant|Defog|p1a: Qwilfish
+|-unboost|p1a: Qwilfish|evasion|1
+|-sideend|p2: regiigiigas|Spikes|[from] move: Defog|[of] p2a: Cramorant
+|move|p1a: Qwilfish|Spikes|p2a: Cramorant
+|-sidestart|p2: regiigiigas|Spikes
+|
+|upkeep
+|turn|10
+|
+|t:|1772745907
+|move|p2a: Cramorant|Surf|p1a: Qwilfish
+|-damage|p1a: Qwilfish|0 fnt
+|faint|p1a: Qwilfish
+|
+|upkeep
+|
+|t:|1772745918
+|switch|p1a: Dragalge|Dragalge, L88, M|258/258
+|turn|11
+|
+|t:|1772745927
+|move|p2a: Cramorant|Surf|p1a: Dragalge
+|-resisted|p1a: Dragalge
+|-damage|p1a: Dragalge|225/258
+|move|p1a: Dragalge|Sludge Wave|p2a: Cramorant
+|-damage|p2a: Cramorant|25/261
+|-status|p2a: Cramorant|psn
+|-damage|p1a: Dragalge|161/258|[from] ability: Gulp Missile|[of] p2a: Cramorant
+|-unboost|p1a: Dragalge|def|1
+|-formechange|p2a: Cramorant|Cramorant|
+|
+|-damage|p2a: Cramorant|0 fnt|[from] psn
+|faint|p2a: Cramorant
+|upkeep
+|
+|t:|1772745933
+|switch|p2a: Excadrill|Excadrill, L79, M|303/303
+|-damage|p2a: Excadrill|266/303|[from] Spikes
+|-ability|p2a: Excadrill|Mold Breaker
+|turn|12
+|
+|t:|1772745949
+|switch|p1a: Gurdurr|Gurdurr, L85, F|283/283
+|move|p2a: Excadrill|Swords Dance|p2a: Excadrill
+|-boost|p2a: Excadrill|atk|2
+|
+|-heal|p2a: Excadrill|284/303|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1772745968
+|-terastallize|p2a: Excadrill|Water
+|move|p2a: Excadrill|Iron Head|p1a: Gurdurr
+|-damage|p1a: Gurdurr|156/283
+|move|p1a: Gurdurr|Drain Punch|p2a: Excadrill
+|-damage|p2a: Excadrill|167/303
+|-heal|p1a: Gurdurr|215/283|[from] drain|[of] p2a: Excadrill
+|
+|-heal|p2a: Excadrill|185/303|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1772745977
+|move|p2a: Excadrill|Earthquake|p1a: Gurdurr
+|-damage|p1a: Gurdurr|52/283
+|move|p1a: Gurdurr|Knock Off|p2a: Excadrill
+|-damage|p2a: Excadrill|75/303
+|-enditem|p2a: Excadrill|Leftovers|[from] move: Knock Off|[of] p1a: Gurdurr
+|
+|upkeep
+|turn|15
+|
+|t:|1772745988
+|move|p2a: Excadrill|Rapid Spin|p1a: Gurdurr
+|-damage|p1a: Gurdurr|0 fnt
+|-boost|p2a: Excadrill|spe|1
+|-sideend|p2: regiigiigas|Spikes|[from] move: Rapid Spin|[of] p2a: Excadrill
+|faint|p1a: Gurdurr
+|
+|upkeep
+|
+|t:|1772745998
+|switch|p1a: Lycanroc|Lycanroc-Midnight, L89, M|296/296
+|turn|16
+|
+|t:|1772746004
+|move|p1a: Lycanroc|Sucker Punch|p2a: Excadrill
+|-damage|p2a: Excadrill|0 fnt
+|faint|p2a: Excadrill
+|-damage|p1a: Lycanroc|267/296|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772746012
+|switch|p2a: Qwilfish|Qwilfish, L86, M|252/252
+|-ability|p2a: Qwilfish|Intimidate|boost
+|-unboost|p1a: Lycanroc|atk|1
+|turn|17
+|
+|t:|1772746029
+|move|p1a: Lycanroc|Swords Dance|p1a: Lycanroc
+|-boost|p1a: Lycanroc|atk|2
+|move|p2a: Qwilfish|Spikes|p1a: Lycanroc
+|-sidestart|p1: dragon1of1the1end|Spikes
+|
+|upkeep
+|turn|18
+|
+|t:|1772746040
+|move|p1a: Lycanroc|Swords Dance|p1a: Lycanroc
+|-boost|p1a: Lycanroc|atk|2
+|move|p2a: Qwilfish|Waterfall|p1a: Lycanroc
+|-supereffective|p1a: Lycanroc
+|-damage|p1a: Lycanroc|85/296
+|
+|upkeep
+|turn|19
+|
+|t:|1772746071
+|move|p1a: Lycanroc|Stone Edge|p2a: Qwilfish
+|-damage|p2a: Qwilfish|0 fnt
+|faint|p2a: Qwilfish
+|-damage|p1a: Lycanroc|56/296|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772746078
+|switch|p2a: Gallade|Gallade, L80, M|240/240
+|turn|20
+|
+|t:|1772746085
+|move|p1a: Lycanroc|Sucker Punch|p2a: Gallade
+|-damage|p2a: Gallade|0 fnt
+|faint|p2a: Gallade
+|-damage|p1a: Lycanroc|27/296|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772746088
+|switch|p2a: Ursaring|Ursaring, L84, F|288/288
+|turn|21
+|
+|t:|1772746091
+|move|p1a: Lycanroc|Close Combat|p2a: Ursaring
+|-supereffective|p2a: Ursaring
+|-damage|p2a: Ursaring|0 fnt
+|-unboost|p1a: Lycanroc|def|1
+|-unboost|p1a: Lycanroc|spd|1
+|faint|p2a: Ursaring
+|-damage|p1a: Lycanroc|0 fnt|[from] item: Life Orb
+|faint|p1a: Lycanroc
+|
+|win|dragon1of1the1end
+|raw|dragon1of1the1end's rating: 1181 &rarr; <strong>1208</strong><br />(+27 for winning)
+|raw|regiigiigas's rating: 1203 &rarr; <strong>1176</strong><br />(-27 for losing)
+|l|☆regiigiigas
+|player|p2|

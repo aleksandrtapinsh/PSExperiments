@@ -1,0 +1,511 @@
+|j|☆audiomushroom
+|j|☆ilovekagurabachi
+|t:|1772749869
+|gametype|singles
+|player|p1|audiomushroom|169|1431
+|player|p2|ilovekagurabachi|cynthia|1462
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772749869
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ampharos|Ampharos, L88, F|302/302
+|switch|p2a: Slowking|Slowking, L88, F|310/310
+|turn|1
+|c|☆ilovekagurabachi|Glhf
+|
+|t:|1772749893
+|switch|p2a: Mudsdale|Mudsdale, L83, F|302/302
+|move|p1a: Ampharos|Volt Switch|p2a: Mudsdale
+|-immune|p2a: Mudsdale
+|
+|upkeep
+|turn|2
+|
+|t:|1772749916
+|switch|p1a: Blastoise|Blastoise, L80, M|258/258
+|move|p2a: Mudsdale|Stealth Rock|p1a: Blastoise
+|-sidestart|p1: audiomushroom|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|c|☆audiomushroom|glhf
+|
+|t:|1772749923
+|move|p1a: Blastoise|Shell Smash|p1a: Blastoise
+|-unboost|p1a: Blastoise|def|1
+|-unboost|p1a: Blastoise|spd|1
+|-boost|p1a: Blastoise|atk|2
+|-boost|p1a: Blastoise|spa|2
+|-boost|p1a: Blastoise|spe|2
+|-enditem|p1a: Blastoise|White Herb
+|-clearnegativeboost|p1a: Blastoise|[silent]
+|move|p2a: Mudsdale|Roar|p1a: Blastoise
+|drag|p1a: Ampharos|Ampharos, L88, F|302/302
+|-damage|p1a: Ampharos|265/302|[from] Stealth Rock
+|
+|upkeep
+|turn|4
+|
+|t:|1772749936
+|switch|p1a: Blastoise|Blastoise, L80, M|258/258
+|-damage|p1a: Blastoise|226/258|[from] Stealth Rock
+|move|p2a: Mudsdale|Earthquake|p1a: Blastoise
+|-damage|p1a: Blastoise|105/258
+|
+|upkeep
+|turn|5
+|
+|t:|1772749947
+|switch|p2a: Vileplume|Vileplume, L85, M|266/266
+|move|p1a: Blastoise|Hydro Pump|p2a: Vileplume
+|-resisted|p2a: Vileplume
+|-damage|p2a: Vileplume|218/266
+|
+|-heal|p2a: Vileplume|234/266|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1772749956
+|move|p1a: Blastoise|Ice Beam|p2a: Vileplume
+|-supereffective|p2a: Vileplume
+|-damage|p2a: Vileplume|124/266
+|move|p2a: Vileplume|Giga Drain|p1a: Blastoise
+|-supereffective|p1a: Blastoise
+|-damage|p1a: Blastoise|0 fnt
+|-heal|p2a: Vileplume|177/266|[from] drain|[of] p1a: Blastoise
+|faint|p1a: Blastoise
+|
+|-heal|p2a: Vileplume|193/266|[from] item: Leftovers
+|upkeep
+|
+|t:|1772749968
+|switch|p1a: Froslass|Froslass, L87, F|263/263
+|-damage|p1a: Froslass|198/263|[from] Stealth Rock
+|turn|7
+|
+|t:|1772749981
+|switch|p2a: Mudsdale|Mudsdale, L83, F|302/302
+|move|p1a: Froslass|Triple Axel|p2a: Mudsdale
+|-supereffective|p2a: Mudsdale
+|-damage|p2a: Mudsdale|264/302
+|-ability|p2a: Mudsdale|Stamina|boost
+|-boost|p2a: Mudsdale|def|1
+|-supereffective|p2a: Mudsdale
+|-damage|p2a: Mudsdale|216/302
+|-ability|p2a: Mudsdale|Stamina|boost
+|-boost|p2a: Mudsdale|def|1
+|-supereffective|p2a: Mudsdale
+|-damage|p2a: Mudsdale|162/302
+|-ability|p2a: Mudsdale|Stamina|boost
+|-boost|p2a: Mudsdale|def|1
+|-hitcount|p2a: Mudsdale|3
+|
+|-heal|p2a: Mudsdale|180/302|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1772750014
+|move|p1a: Froslass|Triple Axel|p2a: Mudsdale
+|-supereffective|p2a: Mudsdale
+|-damage|p2a: Mudsdale|162/302
+|-ability|p2a: Mudsdale|Stamina|boost
+|-boost|p2a: Mudsdale|def|1
+|-supereffective|p2a: Mudsdale
+|-damage|p2a: Mudsdale|136/302
+|-ability|p2a: Mudsdale|Stamina|boost
+|-boost|p2a: Mudsdale|def|1
+|-supereffective|p2a: Mudsdale
+|-crit|p2a: Mudsdale
+|-damage|p2a: Mudsdale|0 fnt
+|faint|p2a: Mudsdale
+|-hitcount|p2: Mudsdale|3
+|
+|upkeep
+|
+|t:|1772750049
+|switch|p2a: Vileplume|Vileplume, L85, M|193/266
+|turn|9
+|
+|t:|1772750067
+|-terastallize|p2a: Vileplume|Water
+|move|p1a: Froslass|Taunt|p2a: Vileplume
+|-start|p2a: Vileplume|move: Taunt
+|cant|p2a: Vileplume|move: Taunt|Sleep Powder
+|
+|-heal|p2a: Vileplume|209/266|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1772750087
+|move|p1a: Froslass|Poltergeist|p2a: Vileplume
+|-activate|p2a: Vileplume|move: Poltergeist|Leftovers
+|-damage|p2a: Vileplume|95/266
+|move|p2a: Vileplume|Giga Drain|p1a: Froslass
+|-damage|p1a: Froslass|93/263
+|-heal|p2a: Vileplume|148/266|[from] drain|[of] p1a: Froslass
+|
+|-heal|p2a: Vileplume|164/266|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1772750129
+|switch|p1a: Ampharos|Ampharos, L88, F|265/302
+|-damage|p1a: Ampharos|228/302|[from] Stealth Rock
+|switch|p2a: Oinkologne|Oinkologne-F, L92, F|361/361
+|
+|upkeep
+|turn|12
+|
+|t:|1772750165
+|switch|p2a: Electivire|Electivire, L84, M|263/263
+|move|p1a: Ampharos|Volt Switch|p2a: Electivire
+|-ability|p2a: Electivire|Motor Drive|boost
+|-boost|p2a: Electivire|spe|1
+|
+|upkeep
+|turn|13
+|
+|t:|1772750174
+|move|p2a: Electivire|Bulk Up|p2a: Electivire
+|-boost|p2a: Electivire|atk|1
+|-boost|p2a: Electivire|def|1
+|move|p1a: Ampharos|Dragon Tail|p2a: Electivire
+|-damage|p2a: Electivire|228/263
+|drag|p2a: Oinkologne|Oinkologne-F, L92, F|361/361
+|
+|upkeep
+|turn|14
+|
+|t:|1772750198
+|move|p2a: Oinkologne|Body Slam|p1a: Ampharos
+|-damage|p1a: Ampharos|132/302
+|move|p1a: Ampharos|Dragon Tail|p2a: Oinkologne
+|-damage|p2a: Oinkologne|318/361
+|drag|p2a: Vileplume|Vileplume, L85, M, tera:Water|164/266
+|
+|-heal|p2a: Vileplume|180/266|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1772750247
+|switch|p2a: Electivire|Electivire, L84, M|228/263
+|move|p1a: Ampharos|Thunderbolt|p2a: Electivire
+|-ability|p2a: Electivire|Motor Drive|boost
+|-boost|p2a: Electivire|spe|1
+|
+|upkeep
+|turn|16
+|
+|t:|1772750266
+|switch|p1a: Froslass|Froslass, L87, F|93/263
+|-damage|p1a: Froslass|28/263|[from] Stealth Rock
+|move|p2a: Electivire|Earthquake|p1a: Froslass
+|-damage|p1a: Froslass|0 fnt
+|-start|p2a: Electivire|Disable|Earthquake|[from] ability: Cursed Body|[of] p1a: Froslass
+|faint|p1a: Froslass
+|-damage|p2a: Electivire|202/263|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772750280
+|switch|p1a: Slowbro|Slowbro-Galar, L87, M|307/307
+|-damage|p1a: Slowbro|269/307|[from] Stealth Rock
+|turn|17
+|
+|t:|1772750294
+|switch|p2a: Slowking|Slowking, L88, F|310/310
+|move|p1a: Slowbro|Shell Side Arm|p2a: Slowking|[anim] Shell Side Arm Physical
+|-damage|p2a: Slowking|199/310
+|-hint|Physical Shell Side Arm
+|
+|-heal|p1a: Slowbro|288/307|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1772750315
+|switch|p1a: Morpeko|Morpeko, L88, M|245/245
+|move|p2a: Slowking|Scald|p1a: Morpeko
+|-damage|p1a: Morpeko|116/245
+|-status|p1a: Morpeko|brn
+|
+|-damage|p1a: Morpeko|101/245 brn|[from] brn
+|-formechange|p1a: Morpeko|Morpeko-Hangry||[from] ability: Hunger Switch
+|upkeep
+|turn|19
+|
+|t:|1772750326
+|switch|p2a: Virizion|Virizion, L82|283/283
+|move|p1a: Morpeko|Rapid Spin|p2a: Virizion
+|-damage|p2a: Virizion|260/283
+|-boost|p1a: Morpeko|spe|1
+|-sideend|p1: audiomushroom|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Morpeko
+|
+|-damage|p1a: Morpeko|86/245 brn|[from] brn
+|-formechange|p1a: Morpeko|Morpeko||[from] ability: Hunger Switch
+|upkeep
+|turn|20
+|
+|t:|1772750358
+|switch|p2a: Slowking|Slowking, L88, F|302/310
+|move|p1a: Morpeko|Parting Shot|p2a: Slowking
+|-unboost|p2a: Slowking|atk|1
+|-unboost|p2a: Slowking|spa|1
+|
+|t:|1772750395
+|switch|p1a: Ampharos|Ampharos, L88, F|132/302|[from] Parting Shot
+|
+|upkeep
+|turn|21
+|
+|t:|1772750427
+|move|p2a: Slowking|Future Sight|p1a: Ampharos
+|-start|p2a: Slowking|move: Future Sight
+|move|p1a: Ampharos|Dragon Tail|p2a: Slowking
+|-damage|p2a: Slowking|265/310
+|drag|p2a: Oinkologne|Oinkologne-F, L92, F|318/361
+|
+|-heal|p2a: Oinkologne|340/361|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1772750440
+|move|p2a: Oinkologne|Body Slam|p1a: Ampharos
+|-damage|p1a: Ampharos|41/302
+|move|p1a: Ampharos|Dragon Tail|p2a: Oinkologne
+|-damage|p2a: Oinkologne|298/361
+|drag|p2a: Slowking|Slowking, L88, F|310/310
+|
+|upkeep
+|turn|23
+|
+|t:|1772750448
+|move|p1a: Ampharos|Thunderbolt|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|116/310
+|move|p2a: Slowking|Scald|p1a: Ampharos
+|-damage|p1a: Ampharos|0 fnt
+|faint|p1a: Ampharos
+|
+|-hint|Future Sight did not hit because the target is fainted.
+|upkeep
+|
+|t:|1772750462
+|switch|p1a: Morpeko|Morpeko, L88, M|86/245 brn
+|turn|24
+|
+|t:|1772750473
+|switch|p2a: Virizion|Virizion, L82|260/283
+|move|p1a: Morpeko|Aura Wheel|p2a: Virizion
+|-resisted|p2a: Virizion
+|-damage|p2a: Virizion|223/283
+|-boost|p1a: Morpeko|spe|1
+|
+|-damage|p1a: Morpeko|71/245 brn|[from] brn
+|-formechange|p1a: Morpeko|Morpeko-Hangry||[from] ability: Hunger Switch
+|upkeep
+|turn|25
+|
+|t:|1772750482
+|switch|p2a: Oinkologne|Oinkologne-F, L92, F|298/361
+|move|p1a: Morpeko|Parting Shot|p2a: Oinkologne
+|-unboost|p2a: Oinkologne|atk|1
+|-unboost|p2a: Oinkologne|spa|1
+|
+|t:|1772750487
+|switch|p1a: Slowbro|Slowbro-Galar, L87, M|307/307|[from] Parting Shot
+|
+|-heal|p2a: Oinkologne|320/361|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1772750517
+|move|p2a: Oinkologne|Body Slam|p1a: Slowbro
+|-damage|p1a: Slowbro|243/307
+|-status|p1a: Slowbro|par
+|cant|p1a: Slowbro|par
+|
+|-heal|p2a: Oinkologne|342/361|[from] item: Leftovers
+|-heal|p1a: Slowbro|262/307 par|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1772750525
+|switch|p2a: Slowking|Slowking, L88, F|219/310
+|move|p1a: Slowbro|Shell Side Arm|p2a: Slowking|[anim] Shell Side Arm Physical
+|-damage|p2a: Slowking|108/310
+|-hint|Physical Shell Side Arm
+|
+|-heal|p1a: Slowbro|281/307 par|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1772750539
+|switch|p1a: Morpeko|Morpeko, L88, M|71/245 brn
+|move|p2a: Slowking|Slack Off|p2a: Slowking
+|-heal|p2a: Slowking|263/310
+|
+|-damage|p1a: Morpeko|56/245 brn|[from] brn
+|-formechange|p1a: Morpeko|Morpeko-Hangry||[from] ability: Hunger Switch
+|upkeep
+|turn|29
+|
+|t:|1772750548
+|switch|p2a: Oinkologne|Oinkologne-F, L92, F|342/361
+|move|p1a: Morpeko|Parting Shot|p2a: Oinkologne
+|-unboost|p2a: Oinkologne|atk|1
+|-unboost|p2a: Oinkologne|spa|1
+|
+|t:|1772750554
+|switch|p1a: Slowbro|Slowbro-Galar, L87, M|307/307 par|[from] Parting Shot
+|
+|-heal|p2a: Oinkologne|361/361|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1772750559
+|move|p2a: Oinkologne|Curse|p2a: Oinkologne
+|-unboost|p2a: Oinkologne|spe|1
+|-boost|p2a: Oinkologne|atk|1
+|-boost|p2a: Oinkologne|def|1
+|move|p1a: Slowbro|Shell Side Arm|p2a: Oinkologne|[anim] Shell Side Arm Special
+|-damage|p2a: Oinkologne|259/361
+|-hint|Special Shell Side Arm
+|
+|-heal|p2a: Oinkologne|281/361|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1772750575
+|move|p2a: Oinkologne|Curse|p2a: Oinkologne
+|-unboost|p2a: Oinkologne|spe|1
+|-boost|p2a: Oinkologne|atk|1
+|-boost|p2a: Oinkologne|def|1
+|move|p1a: Slowbro|Psychic|p2a: Oinkologne
+|-damage|p2a: Oinkologne|193/361
+|
+|-heal|p2a: Oinkologne|215/361|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1772750589
+|move|p2a: Oinkologne|Body Slam|p1a: Slowbro
+|-damage|p1a: Slowbro|165/307 par
+|cant|p1a: Slowbro|par
+|
+|-heal|p2a: Oinkologne|237/361|[from] item: Leftovers
+|-heal|p1a: Slowbro|184/307 par|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1772750599
+|move|p2a: Oinkologne|Body Slam|p1a: Slowbro
+|-damage|p1a: Slowbro|45/307 par
+|move|p1a: Slowbro|Shell Side Arm|p2a: Oinkologne|[anim] Shell Side Arm Special
+|-damage|p2a: Oinkologne|140/361
+|-hint|Special Shell Side Arm
+|
+|-heal|p2a: Oinkologne|162/361|[from] item: Leftovers
+|-heal|p1a: Slowbro|64/307 par|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1772750627
+|switch|p1a: Morpeko|Morpeko, L88, M|56/245 brn
+|move|p2a: Oinkologne|Body Slam|p1a: Morpeko
+|-damage|p1a: Morpeko|0 fnt
+|faint|p1a: Morpeko
+|
+|-heal|p2a: Oinkologne|184/361|[from] item: Leftovers
+|upkeep
+|
+|t:|1772750652
+|switch|p1a: Ambipom|Ambipom, L84, F|263/263
+|turn|35
+|
+|t:|1772750673
+|move|p1a: Ambipom|Double-Edge|p2a: Oinkologne
+|-damage|p2a: Oinkologne|72/361
+|-damage|p1a: Ambipom|226/263|[from] Recoil
+|move|p2a: Oinkologne|Body Slam|p1a: Ambipom
+|-damage|p1a: Ambipom|42/263
+|
+|-heal|p2a: Oinkologne|94/361|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1772750681
+|move|p1a: Ambipom|Double-Edge|p2a: Oinkologne
+|-damage|p2a: Oinkologne|0 fnt
+|faint|p2a: Oinkologne
+|-damage|p1a: Ambipom|11/263|[from] Recoil
+|
+|upkeep
+|
+|t:|1772750703
+|switch|p2a: Slowking|Slowking, L88, F|310/310
+|turn|37
+|
+|t:|1772750708
+|switch|p1a: Slowbro|Slowbro-Galar, L87, M|166/307 par
+|move|p2a: Slowking|Slack Off||[still]
+|-fail|p2a: Slowking|heal
+|
+|-heal|p1a: Slowbro|185/307 par|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|t:|1772750719
+|move|p2a: Slowking|Future Sight|p1a: Slowbro
+|-start|p2a: Slowking|move: Future Sight
+|move|p1a: Slowbro|Shell Side Arm|p2a: Slowking|[anim] Shell Side Arm Physical
+|-damage|p2a: Slowking|202/310
+|-hint|Physical Shell Side Arm
+|
+|-heal|p1a: Slowbro|204/307 par|[from] item: Leftovers
+|upkeep
+|turn|39
+|
+|t:|1772750735
+|move|p2a: Slowking|Scald|p1a: Slowbro
+|-damage|p1a: Slowbro|102/307 par
+|cant|p1a: Slowbro|par
+|
+|-heal|p1a: Slowbro|121/307 par|[from] item: Leftovers
+|upkeep
+|turn|40
+|
+|t:|1772750765
+|move|p2a: Slowking|Scald|p1a: Slowbro
+|-damage|p1a: Slowbro|13/307 par
+|cant|p1a: Slowbro|par
+|
+|-end|p1a: Slowbro|move: Future Sight
+|-damage|p1a: Slowbro|0 fnt
+|faint|p1a: Slowbro
+|upkeep
+|
+|t:|1772750776
+|switch|p1a: Ambipom|Ambipom, L84, F|11/263
+|turn|41
+|
+|t:|1772750786
+|move|p1a: Ambipom|Double-Edge|p2a: Slowking
+|-damage|p2a: Slowking|9/310
+|-damage|p1a: Ambipom|0 fnt|[from] Recoil
+|faint|p1a: Ambipom
+|
+|win|ilovekagurabachi
+|raw|audiomushroom's rating: 1431 &rarr; <strong>1413</strong><br />(-18 for losing)
+|raw|ilovekagurabachi's rating: 1462 &rarr; <strong>1480</strong><br />(+18 for winning)
+|c|☆audiomushroom|gg
+|c|☆ilovekagurabachi|Gg
+|l|☆audiomushroom
+|player|p1|

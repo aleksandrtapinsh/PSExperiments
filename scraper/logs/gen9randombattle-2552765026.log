@@ -1,0 +1,251 @@
+|j|☆Aceryuzu
+|j|☆Gambit in the back
+|t:|1772751108
+|gametype|singles
+|player|p1|Aceryuzu|steven|1548
+|player|p2|Gambit in the back|koga|1527
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772751108
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Plusle|Plusle, L95, M|268/268
+|switch|p2a: Golduck|Golduck, L90, F|290/290
+|-ability|p2a: Golduck|Cloud Nine
+|turn|1
+|
+|t:|1772751120
+|switch|p2a: Iron Hands|Iron Hands, L79|373/373
+|move|p1a: Plusle|Nasty Plot|p1a: Plusle
+|-boost|p1a: Plusle|spa|2
+|
+|upkeep
+|turn|2
+|
+|t:|1772751126
+|move|p2a: Iron Hands|Fake Out|p1a: Plusle
+|-damage|p1a: Plusle|220/268
+|cant|p1a: Plusle|flinch
+|
+|upkeep
+|turn|3
+|
+|t:|1772751130
+|move|p1a: Plusle|Alluring Voice|p2a: Iron Hands
+|-supereffective|p2a: Iron Hands
+|-crit|p2a: Iron Hands
+|-damage|p2a: Iron Hands|0 fnt
+|faint|p2a: Iron Hands
+|-end|p2a: Iron Hands|Quark Drive|[silent]
+|-damage|p1a: Plusle|194/268|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772751140
+|switch|p2a: Raikou|Raikou, L81|278/278
+|-ability|p2a: Raikou|Pressure
+|turn|4
+|
+|t:|1772751148
+|move|p1a: Plusle|Alluring Voice|p2a: Raikou
+|-damage|p2a: Raikou|121/278
+|-damage|p1a: Plusle|168/268|[from] item: Life Orb
+|move|p2a: Raikou|Scald|p1a: Plusle
+|-damage|p1a: Plusle|112/268
+|-status|p1a: Plusle|brn
+|
+|-heal|p2a: Raikou|138/278|[from] item: Leftovers
+|-damage|p1a: Plusle|96/268 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1772751156
+|move|p1a: Plusle|Alluring Voice|p2a: Raikou
+|-damage|p2a: Raikou|0 fnt
+|faint|p2a: Raikou
+|-damage|p1a: Plusle|70/268 brn|[from] item: Life Orb
+|
+|-damage|p1a: Plusle|54/268 brn|[from] brn
+|upkeep
+|
+|t:|1772751163
+|switch|p2a: Reuniclus|Reuniclus, L88, F|337/337
+|turn|6
+|
+|t:|1772751168
+|move|p1a: Plusle|Thunderbolt|p2a: Reuniclus
+|-damage|p2a: Reuniclus|47/337
+|-damage|p1a: Plusle|28/268 brn|[from] item: Life Orb
+|move|p2a: Reuniclus|Psyshock|p1a: Plusle
+|-damage|p1a: Plusle|0 fnt
+|faint|p1a: Plusle
+|
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Gambit in the back)
+|l|☆Aceryuzu
+|inactive|Aceryuzu disconnected and has a minute to reconnect!
+|player|p1|
+|j|☆Aceryuzu
+|inactive|Aceryuzu reconnected and has 125 seconds left.
+|player|p1|Aceryuzu|steven|
+|inactive|Aceryuzu has 120 seconds left.
+|
+|t:|1772751230
+|switch|p1a: Virizion|Virizion, L82|283/283
+|turn|7
+|
+|t:|1772751238
+|move|p1a: Virizion|Leaf Blade|p2a: Reuniclus
+|-crit|p2a: Reuniclus
+|-damage|p2a: Reuniclus|0 fnt
+|faint|p2a: Reuniclus
+|-damage|p1a: Virizion|255/283|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772751258
+|switch|p2a: Flamigo|Flamigo, L82, F|269/269
+|turn|8
+|
+|t:|1772751281
+|-terastallize|p1a: Virizion|Rock
+|-terastallize|p2a: Flamigo|Steel
+|move|p1a: Virizion|Stone Edge|p2a: Flamigo
+|-resisted|p2a: Flamigo
+|-damage|p2a: Flamigo|195/269
+|-damage|p1a: Virizion|227/283|[from] item: Life Orb
+|move|p2a: Flamigo|Close Combat|p1a: Virizion
+|-supereffective|p1a: Virizion
+|-damage|p1a: Virizion|0 fnt
+|-unboost|p2a: Flamigo|def|1
+|-unboost|p2a: Flamigo|spd|1
+|faint|p1a: Virizion
+|-damage|p2a: Flamigo|169/269|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772751296
+|switch|p1a: Grafaiai|Grafaiai, L86, F|249/249
+|turn|9
+|
+|t:|1772751301
+|switch|p2a: Golduck|Golduck, L90, F|290/290
+|-ability|p2a: Golduck|Cloud Nine
+|move|p1a: Grafaiai|Low Kick|p2a: Golduck
+|-damage|p2a: Golduck|208/290
+|-status|p2a: Golduck|psn|[from] ability: Poison Touch|[of] p1a: Grafaiai
+|-damage|p1a: Grafaiai|225/249|[from] item: Life Orb
+|
+|-heal|p2a: Golduck|226/290 psn|[from] item: Leftovers
+|-damage|p2a: Golduck|190/290 psn|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1772751315
+|move|p1a: Grafaiai|Knock Off|p2a: Golduck
+|-damage|p2a: Golduck|98/290 psn
+|-enditem|p2a: Golduck|Leftovers|[from] move: Knock Off|[of] p1a: Grafaiai
+|-damage|p1a: Grafaiai|201/249|[from] item: Life Orb
+|move|p2a: Golduck|Hydro Pump|p1a: Grafaiai
+|-damage|p1a: Grafaiai|56/249
+|
+|-damage|p2a: Golduck|62/290 psn|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1772751324
+|move|p1a: Grafaiai|Low Kick|p2a: Golduck
+|-damage|p2a: Golduck|0 fnt
+|faint|p2a: Golduck
+|-damage|p1a: Grafaiai|32/249|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772751328
+|switch|p2a: Chi-Yu|Chi-Yu, L77|211/211
+|-ability|p2a: Chi-Yu|Beads of Ruin
+|turn|12
+|
+|t:|1772751333
+|move|p1a: Grafaiai|Low Kick|p2a: Chi-Yu
+|-supereffective|p2a: Chi-Yu
+|-damage|p2a: Chi-Yu|167/211
+|-status|p2a: Chi-Yu|psn|[from] ability: Poison Touch|[of] p1a: Grafaiai
+|-damage|p1a: Grafaiai|8/249|[from] item: Life Orb
+|move|p2a: Chi-Yu|Dark Pulse|p1a: Grafaiai
+|-damage|p1a: Grafaiai|0 fnt
+|faint|p1a: Grafaiai
+|
+|-damage|p2a: Chi-Yu|141/211 psn|[from] psn
+|upkeep
+|
+|t:|1772751350
+|switch|p1a: Misdreavus|Misdreavus, L90, F|254/254
+|turn|13
+|
+|t:|1772751357
+|move|p1a: Misdreavus|Draining Kiss|p2a: Chi-Yu
+|-damage|p2a: Chi-Yu|111/211 psn
+|move|p2a: Chi-Yu|Nasty Plot|p2a: Chi-Yu
+|-boost|p2a: Chi-Yu|spa|2
+|
+|-damage|p2a: Chi-Yu|85/211 psn|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1772751384
+|move|p1a: Misdreavus|Shadow Ball|p2a: Chi-Yu
+|-resisted|p2a: Chi-Yu
+|-damage|p2a: Chi-Yu|49/211 psn
+|move|p2a: Chi-Yu|Dark Pulse|p1a: Misdreavus
+|-supereffective|p1a: Misdreavus
+|-damage|p1a: Misdreavus|0 fnt
+|faint|p1a: Misdreavus
+|
+|-damage|p2a: Chi-Yu|23/211 psn|[from] psn
+|upkeep
+|
+|t:|1772751392
+|switch|p1a: Porygon-Z|Porygon-Z, L83|277/277
+|turn|15
+|
+|t:|1772751401
+|move|p2a: Chi-Yu|Fire Blast|p1a: Porygon-Z
+|-damage|p1a: Porygon-Z|0 fnt
+|faint|p1a: Porygon-Z
+|
+|-damage|p2a: Chi-Yu|0 fnt|[from] psn
+|faint|p2a: Chi-Yu
+|upkeep
+|
+|t:|1772751405
+|switch|p2a: Flamigo|Flamigo, L82, F, tera:Steel|169/269
+|switch|p1a: Hoopa|Hoopa-Unbound, L80|259/259
+|turn|16
+|
+|t:|1772751413
+|move|p2a: Flamigo|Roost|p2a: Flamigo
+|-heal|p2a: Flamigo|269/269
+|move|p1a: Hoopa|Drain Punch|p2a: Flamigo
+|-supereffective|p2a: Flamigo
+|-damage|p2a: Flamigo|25/269
+|
+|upkeep
+|turn|17
+|
+|t:|1772751419
+|move|p2a: Flamigo|Brave Bird|p1a: Hoopa
+|-damage|p1a: Hoopa|28/259
+|-damage|p2a: Flamigo|0 fnt|[from] Recoil
+|faint|p2a: Flamigo
+|
+|win|Aceryuzu
+|raw|Aceryuzu's rating: 1548 &rarr; <strong>1567</strong><br />(+19 for winning)
+|raw|Gambit in the back's rating: 1527 &rarr; <strong>1508</strong><br />(-19 for losing)

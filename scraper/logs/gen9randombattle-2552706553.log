@@ -1,0 +1,337 @@
+|j|☆eglantineofclubs
+|j|☆GeniusGamingLegend
+|t:|1772745328
+|gametype|singles
+|player|p1|eglantineofclubs|169|1462
+|player|p2|GeniusGamingLegend|harlequin|1502
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772745328
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Gallade|Gallade, L80, M|240/240
+|switch|p2a: Mabosstiff|Mabosstiff, L86, M|278/278
+|turn|1
+|
+|t:|1772745365
+|move|p2a: Mabosstiff|Play Rough|p1a: Gallade
+|-supereffective|p1a: Gallade
+|-damage|p1a: Gallade|0 fnt
+|faint|p1a: Gallade
+|
+|upkeep
+|
+|t:|1772745382
+|switch|p1a: Duraludon|Duraludon, L82, F|249/249
+|turn|2
+|
+|t:|1772745406
+|switch|p2a: Scovillain|Scovillain, L91, F|266/266
+|move|p1a: Duraludon|Iron Defense|p1a: Duraludon
+|-boost|p1a: Duraludon|def|2
+|
+|upkeep
+|turn|3
+|
+|t:|1772745421
+|move|p2a: Scovillain|Sunny Day|p2a: Scovillain
+|-weather|SunnyDay
+|move|p1a: Duraludon|Body Press|p2a: Scovillain
+|-damage|p2a: Scovillain|118/266
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1772745424
+|move|p2a: Scovillain|Fire Blast|p1a: Duraludon
+|-damage|p1a: Duraludon|20/249
+|move|p1a: Duraludon|Body Press|p2a: Scovillain
+|-damage|p2a: Scovillain|0 fnt
+|faint|p2a: Scovillain
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1772745431
+|switch|p2a: Regieleki|Regieleki, L79|256/256
+|turn|5
+|
+|t:|1772745435
+|switch|p1a: Whiscash|Whiscash, L88, F|337/337
+|move|p2a: Regieleki|Thunderbolt|p1a: Whiscash
+|-immune|p1a: Whiscash
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1772745446
+|switch|p2a: Dudunsparce|Dudunsparce, L83, M|343/343
+|move|p1a: Whiscash|Stealth Rock|p2a: Dudunsparce
+|-sidestart|p2: GeniusGamingLegend|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1772745454
+|move|p1a: Whiscash|Earthquake|p2a: Dudunsparce
+|-damage|p2a: Dudunsparce|231/343
+|move|p2a: Dudunsparce|Glare|p1a: Whiscash
+|-status|p1a: Whiscash|par
+|
+|-weather|none
+|-heal|p2a: Dudunsparce|252/343|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1772745456
+|move|p2a: Dudunsparce|Headbutt|p1a: Whiscash
+|-damage|p1a: Whiscash|261/337 par
+|cant|p1a: Whiscash|flinch
+|
+|-heal|p2a: Dudunsparce|273/343|[from] item: Leftovers
+|-heal|p1a: Whiscash|282/337 par|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1772745462
+|move|p2a: Dudunsparce|Headbutt|p1a: Whiscash
+|-damage|p1a: Whiscash|195/337 par
+|move|p1a: Whiscash|Hydro Pump|p2a: Dudunsparce
+|-damage|p2a: Dudunsparce|141/343
+|
+|-heal|p2a: Dudunsparce|162/343|[from] item: Leftovers
+|-heal|p1a: Whiscash|216/337 par|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1772745466
+|move|p2a: Dudunsparce|Roost|p2a: Dudunsparce
+|-heal|p2a: Dudunsparce|334/343
+|-singleturn|p2a: Dudunsparce|move: Roost
+|cant|p1a: Whiscash|par
+|
+|-heal|p2a: Dudunsparce|343/343|[from] item: Leftovers
+|-heal|p1a: Whiscash|237/337 par|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1772745472
+|move|p2a: Dudunsparce|Headbutt|p1a: Whiscash
+|-damage|p1a: Whiscash|147/337 par
+|cant|p1a: Whiscash|flinch
+|
+|-heal|p1a: Whiscash|168/337 par|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1772745476
+|move|p2a: Dudunsparce|Headbutt|p1a: Whiscash
+|-crit|p1a: Whiscash
+|-damage|p1a: Whiscash|42/337 par
+|move|p1a: Whiscash|Hydro Pump|p2a: Dudunsparce
+|-damage|p2a: Dudunsparce|219/343
+|
+|-heal|p2a: Dudunsparce|240/343|[from] item: Leftovers
+|-heal|p1a: Whiscash|63/337 par|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1772745480
+|move|p2a: Dudunsparce|Headbutt|p1a: Whiscash
+|-damage|p1a: Whiscash|0 fnt
+|faint|p1a: Whiscash
+|
+|-heal|p2a: Dudunsparce|261/343|[from] item: Leftovers
+|upkeep
+|
+|t:|1772745487
+|switch|p1a: Greedent|Greedent, L86, F|347/347
+|turn|14
+|
+|t:|1772745495
+|move|p2a: Dudunsparce|Glare|p1a: Greedent
+|-status|p1a: Greedent|par
+|cant|p1a: Greedent|par
+|
+|-heal|p2a: Dudunsparce|282/343|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1772745498
+|move|p2a: Dudunsparce|Headbutt|p1a: Greedent
+|-damage|p1a: Greedent|278/347 par
+|cant|p1a: Greedent|par
+|
+|-heal|p2a: Dudunsparce|303/343|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1772745502
+|move|p2a: Dudunsparce|Headbutt|p1a: Greedent
+|-damage|p1a: Greedent|214/347 par
+|cant|p1a: Greedent|flinch
+|
+|-heal|p2a: Dudunsparce|324/343|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1772745505
+|move|p2a: Dudunsparce|Headbutt|p1a: Greedent
+|-damage|p1a: Greedent|148/347 par
+|-enditem|p1a: Greedent|Sitrus Berry|[eat]
+|-heal|p1a: Greedent|234/347 par|[from] item: Sitrus Berry
+|-heal|p1a: Greedent|347/347 par|[from] ability: Cheek Pouch
+|cant|p1a: Greedent|flinch
+|
+|-heal|p2a: Dudunsparce|343/343|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1772745509
+|move|p2a: Dudunsparce|Headbutt|p1a: Greedent
+|-damage|p1a: Greedent|278/347 par
+|cant|p1a: Greedent|flinch
+|
+|upkeep
+|turn|19
+|
+|t:|1772745512
+|move|p2a: Dudunsparce|Headbutt|p1a: Greedent
+|-damage|p1a: Greedent|208/347 par
+|cant|p1a: Greedent|flinch
+|
+|upkeep
+|turn|20
+|
+|t:|1772745516
+|move|p2a: Dudunsparce|Headbutt|p1a: Greedent
+|-damage|p1a: Greedent|132/347 par
+|cant|p1a: Greedent|flinch
+|
+|upkeep
+|turn|21
+|
+|t:|1772745519
+|move|p2a: Dudunsparce|Headbutt|p1a: Greedent
+|-damage|p1a: Greedent|62/347 par
+|cant|p1a: Greedent|flinch
+|
+|upkeep
+|turn|22
+|
+|t:|1772745523
+|move|p2a: Dudunsparce|Headbutt|p1a: Greedent
+|-damage|p1a: Greedent|0 fnt
+|faint|p1a: Greedent
+|
+|upkeep
+|
+|t:|1772745528
+|switch|p1a: Mewtwo|Mewtwo, L72|272/272
+|-ability|p1a: Mewtwo|Unnerve
+|turn|23
+|
+|t:|1772745537
+|move|p1a: Mewtwo|Psystrike|p2a: Dudunsparce
+|-damage|p2a: Dudunsparce|179/343
+|-damage|p1a: Mewtwo|245/272|[from] item: Life Orb
+|move|p2a: Dudunsparce|Glare|p1a: Mewtwo
+|-status|p1a: Mewtwo|par
+|
+|-heal|p2a: Dudunsparce|200/343|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1772745540
+|move|p2a: Dudunsparce|Headbutt|p1a: Mewtwo
+|-damage|p1a: Mewtwo|154/272 par
+|cant|p1a: Mewtwo|flinch
+|
+|-heal|p2a: Dudunsparce|221/343|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1772745543
+|move|p2a: Dudunsparce|Headbutt|p1a: Mewtwo
+|-damage|p1a: Mewtwo|67/272 par
+|cant|p1a: Mewtwo|flinch
+|
+|-heal|p2a: Dudunsparce|242/343|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1772745546
+|move|p2a: Dudunsparce|Headbutt|p1a: Mewtwo
+|-crit|p1a: Mewtwo
+|-damage|p1a: Mewtwo|0 fnt
+|faint|p1a: Mewtwo
+|
+|-heal|p2a: Dudunsparce|263/343|[from] item: Leftovers
+|upkeep
+|
+|t:|1772745548
+|switch|p1a: Duraludon|Duraludon, L82, F|20/249
+|turn|27
+|
+|t:|1772745553
+|move|p1a: Duraludon|Body Press|p2a: Dudunsparce
+|-supereffective|p2a: Dudunsparce
+|-damage|p2a: Dudunsparce|127/343
+|move|p2a: Dudunsparce|Earthquake|p1a: Duraludon
+|-supereffective|p1a: Duraludon
+|-damage|p1a: Duraludon|0 fnt
+|faint|p1a: Duraludon
+|
+|-heal|p2a: Dudunsparce|148/343|[from] item: Leftovers
+|upkeep
+|
+|t:|1772745556
+|switch|p1a: Kyogre|Kyogre, L71|259/259
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Kyogre
+|turn|28
+|
+|t:|1772745561
+|move|p1a: Kyogre|Water Spout|p2a: Dudunsparce
+|-damage|p2a: Dudunsparce|0 fnt
+|faint|p2a: Dudunsparce
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1772745565
+|switch|p2a: Regieleki|Regieleki, L79|256/256
+|-damage|p2a: Regieleki|224/256|[from] Stealth Rock
+|turn|29
+|
+|t:|1772745568
+|move|p2a: Regieleki|Thunderbolt|p1a: Kyogre
+|-supereffective|p1a: Kyogre
+|-damage|p1a: Kyogre|43/259
+|move|p1a: Kyogre|Water Spout|p2a: Regieleki
+|-damage|p2a: Regieleki|163/256
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|30
+|
+|t:|1772745571
+|move|p2a: Regieleki|Explosion|p1a: Kyogre
+|-damage|p1a: Kyogre|0 fnt
+|faint|p2a: Regieleki
+|faint|p1a: Kyogre
+|
+|win|GeniusGamingLegend
+|raw|eglantineofclubs's rating: 1462 &rarr; <strong>1444</strong><br />(-18 for losing)
+|raw|GeniusGamingLegend's rating: 1502 &rarr; <strong>1520</strong><br />(+18 for winning)
+|l|☆eglantineofclubs
+|player|p1|

@@ -1,0 +1,419 @@
+|j|☆Codyrhodesismid
+|j|‽raja gidh 2
+|t:|1772744880
+|gametype|singles
+|player|p1|Codyrhodesismid|roughneck-gen4|1164
+|player|p2|raja gidh 2|1|1164
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772744880
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Leaves|Iron Leaves, L80|275/275
+|switch|p2a: Rillaboom|Rillaboom, L79, F|288/288
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Codyrhodesismid)
+|inactive|raja gidh 2 has 120 seconds left.
+|
+|t:|1772744914
+|move|p1a: Iron Leaves|Swords Dance|p1a: Iron Leaves
+|-boost|p1a: Iron Leaves|atk|2
+|move|p2a: Rillaboom|Knock Off|p1a: Iron Leaves
+|-supereffective|p1a: Iron Leaves
+|-damage|p1a: Iron Leaves|51/275
+|-enditem|p1a: Iron Leaves|Life Orb|[from] move: Knock Off|[of] p2a: Rillaboom
+|
+|-heal|p1a: Iron Leaves|68/275|[from] Grassy Terrain
+|upkeep
+|turn|2
+|inactive|raja gidh 2 has 120 seconds left.
+|
+|t:|1772744961
+|-terastallize|p2a: Rillaboom|Grass
+|move|p1a: Iron Leaves|Psyblade|p2a: Rillaboom
+|-damage|p2a: Rillaboom|87/288
+|move|p2a: Rillaboom|Knock Off|p1a: Iron Leaves
+|-supereffective|p1a: Iron Leaves
+|-damage|p1a: Iron Leaves|0 fnt
+|faint|p1a: Iron Leaves
+|-end|p1a: Iron Leaves|Quark Drive|[silent]
+|
+|-heal|p2a: Rillaboom|105/288|[from] Grassy Terrain
+|upkeep
+|
+|t:|1772744987
+|switch|p1a: Sableye|Sableye, L88, M|231/231
+|turn|3
+|
+|t:|1772744996
+|move|p1a: Sableye|Thunder Wave|p2a: Rillaboom
+|-status|p2a: Rillaboom|par
+|move|p2a: Rillaboom|Knock Off|p1a: Sableye
+|-damage|p1a: Sableye|112/231
+|-enditem|p1a: Sableye|Leftovers|[from] move: Knock Off|[of] p2a: Rillaboom
+|
+|-heal|p1a: Sableye|126/231|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|123/288 par|[from] Grassy Terrain
+|upkeep
+|turn|4
+|inactive|raja gidh 2 has 120 seconds left.
+|
+|t:|1772745005
+|move|p1a: Sableye|Knock Off|p2a: Rillaboom
+|-damage|p2a: Rillaboom|30/288 par
+|-enditem|p2a: Rillaboom|Choice Band|[from] move: Knock Off|[of] p1a: Sableye
+|move|p2a: Rillaboom|Knock Off|p1a: Sableye
+|-damage|p1a: Sableye|76/231
+|
+|-heal|p1a: Sableye|90/231|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|48/288 par|[from] Grassy Terrain
+|upkeep
+|turn|5
+|inactive|raja gidh 2 has 120 seconds left.
+|
+|t:|1772745023
+|move|p1a: Sableye|Recover|p1a: Sableye
+|-heal|p1a: Sableye|206/231
+|move|p2a: Rillaboom|Knock Off|p1a: Sableye
+|-damage|p1a: Sableye|152/231
+|
+|-heal|p1a: Sableye|166/231|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|66/288 par|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|6
+|inactive|raja gidh 2 has 120 seconds left.
+|
+|t:|1772745032
+|move|p1a: Sableye|Recover|p1a: Sableye
+|-heal|p1a: Sableye|231/231
+|cant|p2a: Rillaboom|par
+|
+|upkeep
+|turn|7
+|
+|t:|1772745042
+|move|p1a: Sableye|Knock Off|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|
+|upkeep
+|inactive|raja gidh 2 has 120 seconds left.
+|
+|t:|1772745064
+|switch|p2a: Dedenne|Dedenne, L88, F|261/261
+|turn|8
+|
+|t:|1772745074
+|move|p2a: Dedenne|Thunderbolt|p1a: Sableye
+|-crit|p1a: Sableye
+|-damage|p1a: Sableye|71/231
+|move|p1a: Sableye|Knock Off|p2a: Dedenne
+|-resisted|p2a: Dedenne
+|-damage|p2a: Dedenne|201/261
+|-enditem|p2a: Dedenne|Sitrus Berry|[from] move: Knock Off|[of] p1a: Sableye
+|
+|upkeep
+|turn|9
+|
+|t:|1772745081
+|move|p1a: Sableye|Encore|p2a: Dedenne
+|-start|p2a: Dedenne|Encore
+|move|p2a: Dedenne|Thunderbolt|p1a: Sableye
+|-damage|p1a: Sableye|0 fnt
+|faint|p1a: Sableye
+|
+|upkeep
+|
+|t:|1772745084
+|switch|p1a: Whiscash|Whiscash, L88, F|337/337
+|turn|10
+|inactive|raja gidh 2 has 120 seconds left.
+|
+|t:|1772745097
+|switch|p2a: Torterra|Torterra, L78, M|276/276
+|move|p1a: Whiscash|Ice Beam|p2a: Torterra
+|-supereffective|p2a: Torterra
+|-damage|p2a: Torterra|0 fnt
+|faint|p2a: Torterra
+|
+|upkeep
+|inactive|raja gidh 2 has 120 seconds left.
+|inactive|raja gidh 2 has 90 seconds left.
+|
+|t:|1772745152
+|switch|p2a: Tatsugiri|Tatsugiri, L87, M|260/260
+|turn|11
+|
+|t:|1772745169
+|switch|p1a: Dachsbun|Dachsbun, L92, M|254/254
+|move|p2a: Tatsugiri|Nasty Plot|p2a: Tatsugiri
+|-boost|p2a: Tatsugiri|spa|2
+|
+|upkeep
+|turn|12
+|
+|t:|1772745185
+|switch|p2a: Revavroom|Revavroom, L79, F|256/256
+|move|p1a: Dachsbun|Play Rough|p2a: Revavroom
+|-resisted|p2a: Revavroom
+|-damage|p2a: Revavroom|233/256
+|-unboost|p2a: Revavroom|atk|1
+|
+|upkeep
+|turn|13
+|
+|t:|1772745197
+|switch|p1a: Spiritomb|Spiritomb, L89, M|234/234
+|move|p2a: Revavroom|Gunk Shot|p1a: Spiritomb
+|-resisted|p1a: Spiritomb
+|-damage|p1a: Spiritomb|187/234
+|-damage|p2a: Revavroom|208/256|[from] item: Life Orb
+|
+|upkeep
+|turn|14
+|inactive|raja gidh 2 has 60 seconds left.
+|
+|t:|1772745218
+|move|p2a: Revavroom|Iron Head|p1a: Spiritomb
+|-damage|p1a: Spiritomb|129/234
+|-damage|p2a: Revavroom|183/256|[from] item: Life Orb
+|move|p1a: Spiritomb|Foul Play|p2a: Revavroom
+|-damage|p2a: Revavroom|57/256
+|
+|upkeep
+|turn|15
+|inactive|raja gidh 2 has 60 seconds left.
+|
+|t:|1772745229
+|move|p2a: Revavroom|Iron Head|p1a: Spiritomb
+|-damage|p1a: Spiritomb|65/234
+|-damage|p2a: Revavroom|32/256|[from] item: Life Orb
+|cant|p1a: Spiritomb|flinch
+|
+|upkeep
+|turn|16
+|inactive|raja gidh 2 has 60 seconds left.
+|
+|t:|1772745239
+|switch|p1a: Whiscash|Whiscash, L88, F|337/337
+|move|p2a: Revavroom|Shift Gear|p2a: Revavroom
+|-boost|p2a: Revavroom|spe|2
+|-boost|p2a: Revavroom|atk|1
+|
+|upkeep
+|turn|17
+|inactive|raja gidh 2 has 60 seconds left.
+|
+|t:|1772745263
+|switch|p2a: Tatsugiri|Tatsugiri, L87, M|260/260
+|move|p1a: Whiscash|Earthquake|p2a: Tatsugiri
+|-damage|p2a: Tatsugiri|130/260
+|
+|upkeep
+|turn|18
+|
+|t:|1772745276
+|move|p2a: Tatsugiri|Hydro Pump|p1a: Whiscash|[miss]
+|-miss|p2a: Tatsugiri|p1a: Whiscash
+|move|p1a: Whiscash|Earthquake|p2a: Tatsugiri
+|-damage|p2a: Tatsugiri|6/260
+|
+|upkeep
+|turn|19
+|
+|t:|1772745291
+|switch|p1a: Spiritomb|Spiritomb, L89, M|65/234
+|move|p2a: Tatsugiri|Nasty Plot|p2a: Tatsugiri
+|-boost|p2a: Tatsugiri|spa|2
+|
+|upkeep
+|turn|20
+|inactive|raja gidh 2 has 30 seconds left.
+|
+|t:|1772745322
+|move|p1a: Spiritomb|Shadow Sneak|p2a: Tatsugiri
+|-damage|p2a: Tatsugiri|0 fnt
+|faint|p2a: Tatsugiri
+|
+|upkeep
+|inactive|raja gidh 2 has 30 seconds left this turn.
+|inactive|raja gidh 2 has 20 seconds left.
+|
+|t:|1772745333
+|switch|p2a: Dedenne|Dedenne, L88, F|201/261
+|turn|21
+|inactive|raja gidh 2 has 30 seconds left this turn.
+|
+|t:|1772745340
+|move|p1a: Spiritomb|Shadow Sneak|p2a: Dedenne
+|-damage|p2a: Dedenne|113/261
+|move|p2a: Dedenne|Dazzling Gleam|p1a: Spiritomb
+|-supereffective|p1a: Spiritomb
+|-damage|p1a: Spiritomb|0 fnt
+|faint|p1a: Spiritomb
+|
+|upkeep
+|
+|t:|1772745350
+|switch|p1a: Avalugg|Avalugg, L88, M|310/310
+|turn|22
+|inactive|raja gidh 2 has 30 seconds left.
+|
+|t:|1772745362
+|move|p2a: Dedenne|Thunderbolt|p1a: Avalugg
+|-damage|p1a: Avalugg|172/310
+|move|p1a: Avalugg|Avalanche|p2a: Dedenne
+|-damage|p2a: Dedenne|0 fnt
+|faint|p2a: Dedenne
+|
+|upkeep
+|inactive|raja gidh 2 has 30 seconds left.
+|inactive|raja gidh 2 has 20 seconds left.
+|
+|t:|1772745378
+|switch|p2a: Revavroom|Revavroom, L79, F|32/256
+|turn|23
+|inactive|raja gidh 2 has 30 seconds left this turn.
+|
+|t:|1772745387
+|move|p2a: Revavroom|Iron Head|p1a: Avalugg
+|-supereffective|p1a: Avalugg
+|-damage|p1a: Avalugg|52/310
+|-damage|p2a: Revavroom|7/256|[from] item: Life Orb
+|move|p1a: Avalugg|Rapid Spin|p2a: Revavroom
+|-resisted|p2a: Revavroom
+|-crit|p2a: Revavroom
+|-damage|p2a: Revavroom|0 fnt
+|-boost|p1a: Avalugg|spe|1
+|faint|p2a: Revavroom
+|
+|upkeep
+|inactive|raja gidh 2 has 30 seconds left this turn.
+|inactive|raja gidh 2 has 20 seconds left.
+|
+|t:|1772745397
+|switch|p2a: Miraidon|Miraidon, L65|238/238
+|-fieldstart|move: Electric Terrain|[from] ability: Hadron Engine|[of] p2a: Miraidon
+|turn|24
+|inactive|raja gidh 2 has 30 seconds left this turn.
+|
+|t:|1772745404
+|move|p2a: Miraidon|Overheat|p1a: Avalugg
+|-supereffective|p1a: Avalugg
+|-damage|p1a: Avalugg|0 fnt
+|-unboost|p2a: Miraidon|spa|2
+|faint|p1a: Avalugg
+|
+|upkeep
+|
+|t:|1772745406
+|switch|p1a: Dachsbun|Dachsbun, L92, M|254/254
+|turn|25
+|
+|t:|1772745412
+|move|p1a: Dachsbun|Play Rough|p2a: Miraidon
+|-supereffective|p2a: Miraidon
+|-damage|p2a: Miraidon|20/238
+|move|p2a: Miraidon|Overheat|p1a: Dachsbun
+|-ability|p1a: Dachsbun|Well-Baked Body|boost
+|-boost|p1a: Dachsbun|def|2
+|
+|upkeep
+|turn|26
+|
+|t:|1772745429
+|move|p1a: Dachsbun|Wish|p1a: Dachsbun
+|move|p2a: Miraidon|Overheat|p1a: Dachsbun
+|-ability|p1a: Dachsbun|Well-Baked Body|boost
+|-boost|p1a: Dachsbun|def|2
+|
+|upkeep
+|turn|27
+|
+|t:|1772745442
+|move|p1a: Dachsbun|Yawn|p2a: Miraidon
+|-activate|p2a: Miraidon|move: Electric Terrain
+|move|p2a: Miraidon|Overheat|p1a: Dachsbun
+|-ability|p1a: Dachsbun|Well-Baked Body|boost
+|-boost|p1a: Dachsbun|def|2
+|
+|upkeep
+|turn|28
+|
+|t:|1772745448
+|move|p1a: Dachsbun|Yawn|p2a: Miraidon
+|-activate|p2a: Miraidon|move: Electric Terrain
+|move|p2a: Miraidon|Overheat|p1a: Dachsbun
+|-immune|p1a: Dachsbun|[from] ability: Well-Baked Body
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|29
+|
+|t:|1772745455
+|move|p1a: Dachsbun|Yawn|p2a: Miraidon
+|-start|p2a: Miraidon|move: Yawn|[of] p1a: Dachsbun
+|move|p2a: Miraidon|Overheat|p1a: Dachsbun
+|-immune|p1a: Dachsbun|[from] ability: Well-Baked Body
+|
+|upkeep
+|turn|30
+|
+|t:|1772745461
+|move|p1a: Dachsbun|Wish|p1a: Dachsbun
+|move|p2a: Miraidon|Overheat|p1a: Dachsbun
+|-immune|p1a: Dachsbun|[from] ability: Well-Baked Body
+|
+|-end|p2a: Miraidon|move: Yawn|[silent]
+|-status|p2a: Miraidon|slp
+|upkeep
+|turn|31
+|inactive|raja gidh 2 has 60 seconds left.
+|
+|t:|1772745468
+|move|p1a: Dachsbun|Protect|p1a: Dachsbun
+|-singleturn|p1a: Dachsbun|Protect
+|cant|p2a: Miraidon|slp
+|
+|upkeep
+|turn|32
+|
+|t:|1772745475
+|move|p1a: Dachsbun|Wish|p1a: Dachsbun
+|cant|p2a: Miraidon|slp
+|
+|upkeep
+|turn|33
+|
+|t:|1772745479
+|move|p1a: Dachsbun|Yawn||[still]
+|-fail|p1a: Dachsbun
+|-curestatus|p2a: Miraidon|slp|[msg]
+|move|p2a: Miraidon|Overheat|p1a: Dachsbun
+|-immune|p1a: Dachsbun|[from] ability: Well-Baked Body
+|
+|upkeep
+|turn|34
+|
+|t:|1772745493
+|move|p1a: Dachsbun|Yawn|p2a: Miraidon
+|-start|p2a: Miraidon|move: Yawn|[of] p1a: Dachsbun
+|-activate|p2a: Miraidon|move: Struggle
+|move|p2a: Miraidon|Struggle|p1a: Dachsbun
+|-damage|p1a: Dachsbun|250/254
+|-damage|p2a: Miraidon|0 fnt|[from] recoil
+|faint|p2a: Miraidon
+|
+|win|Codyrhodesismid
+|raw|Codyrhodesismid's rating: 1164 &rarr; <strong>1189</strong><br />(+25 for winning)
+|raw|raja gidh 2's rating: 1164 &rarr; <strong>1139</strong><br />(-25 for losing)
+|c|☆Codyrhodesismid|Gg

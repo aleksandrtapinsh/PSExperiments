@@ -1,0 +1,1069 @@
+|j|☆iamthelaw.rence
+|j|☆crunchnka
+|t:|1772751526
+|gametype|singles
+|player|p1|iamthelaw.rence|steven|1385
+|player|p2|crunchnka|265|1432
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772751526
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Grimmsnarl|Grimmsnarl, L83, M|293/293
+|switch|p2a: Basculin|Basculin-Blue-Striped, L86, M|261/261
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by crunchnka)
+|
+|t:|1772751537
+|move|p1a: Grimmsnarl|Parting Shot|p2a: Basculin
+|-unboost|p2a: Basculin|atk|1
+|-unboost|p2a: Basculin|spa|1
+|
+|t:|1772751544
+|switch|p1a: Brute Bonnet|Brute Bonnet, L81|312/312|[from] Parting Shot
+|move|p2a: Basculin|Flip Turn|p1a: Brute Bonnet
+|-resisted|p1a: Brute Bonnet
+|-crit|p1a: Brute Bonnet
+|-damage|p1a: Brute Bonnet|227/312
+|
+|t:|1772751572
+|switch|p2a: Bisharp|Bisharp, L79, F|232/232|[from] Flip Turn
+|
+|-heal|p1a: Brute Bonnet|246/312|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1772751584
+|move|p2a: Bisharp|Stealth Rock|p1a: Brute Bonnet
+|-sidestart|p1: iamthelaw.rence|move: Stealth Rock
+|move|p1a: Brute Bonnet|Spore|p2a: Bisharp
+|-status|p2a: Bisharp|slp|[from] move: Spore
+|
+|-heal|p1a: Brute Bonnet|265/312|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1772751602
+|switch|p2a: Pawmot|Pawmot, L80, M|243/243
+|move|p1a: Brute Bonnet|Crunch|p2a: Pawmot
+|-resisted|p2a: Pawmot
+|-damage|p2a: Pawmot|181/243
+|
+|-heal|p1a: Brute Bonnet|284/312|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1772751612
+|-end|p1a: Brute Bonnet|Protosynthesis|[silent]
+|switch|p1a: Eternatus|Eternatus, L69|308/308
+|-damage|p1a: Eternatus|270/308|[from] Stealth Rock
+|-ability|p1a: Eternatus|Pressure
+|move|p2a: Pawmot|Close Combat|p1a: Eternatus
+|-resisted|p1a: Eternatus
+|-damage|p1a: Eternatus|197/308
+|-unboost|p2a: Pawmot|def|1
+|-unboost|p2a: Pawmot|spd|1
+|
+|-heal|p1a: Eternatus|216/308|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1772751632
+|switch|p2a: Bisharp|Bisharp, L79, F|232/232 slp
+|move|p1a: Eternatus|Toxic Spikes|p2a: Bisharp
+|-sidestart|p2: crunchnka|move: Toxic Spikes
+|
+|-heal|p1a: Eternatus|235/308|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1772751649
+|move|p1a: Eternatus|Toxic Spikes|p2a: Bisharp
+|-sidestart|p2: crunchnka|move: Toxic Spikes
+|cant|p2a: Bisharp|slp
+|
+|-heal|p1a: Eternatus|254/308|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1772751653
+|move|p1a: Eternatus|Flamethrower|p2a: Bisharp
+|-supereffective|p2a: Bisharp
+|-damage|p2a: Bisharp|128/232 slp
+|cant|p2a: Bisharp|slp
+|
+|-heal|p1a: Eternatus|273/308|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1772751659
+|switch|p2a: Basculin|Basculin-Blue-Striped, L86, M|261/261
+|-status|p2a: Basculin|tox
+|move|p1a: Eternatus|Flamethrower|p2a: Basculin
+|-resisted|p2a: Basculin
+|-damage|p2a: Basculin|218/261 tox
+|
+|-heal|p1a: Eternatus|292/308|[from] item: Leftovers
+|-damage|p2a: Basculin|202/261 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1772751665
+|move|p1a: Eternatus|Dynamax Cannon|p2a: Basculin
+|-damage|p2a: Basculin|69/261 tox
+|move|p2a: Basculin|Flip Turn|p1a: Eternatus
+|-resisted|p1a: Eternatus
+|-damage|p1a: Eternatus|213/308
+|
+|t:|1772751667
+|switch|p2a: Bisharp|Bisharp, L79, F|128/232 slp|[from] Flip Turn
+|
+|-heal|p1a: Eternatus|232/308|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1772751676
+|move|p1a: Eternatus|Flamethrower|p2a: Bisharp
+|-supereffective|p2a: Bisharp
+|-damage|p2a: Bisharp|30/232 slp
+|cant|p2a: Bisharp|slp
+|
+|-heal|p1a: Eternatus|251/308|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1772751683
+|-curestatus|p2a: Bisharp|slp|[msg]
+|move|p2a: Bisharp|Sucker Punch|p1a: Eternatus
+|-damage|p1a: Eternatus|167/308
+|move|p1a: Eternatus|Flamethrower|p2a: Bisharp
+|-supereffective|p2a: Bisharp
+|-damage|p2a: Bisharp|0 fnt
+|faint|p2a: Bisharp
+|
+|-heal|p1a: Eternatus|186/308|[from] item: Leftovers
+|upkeep
+|
+|t:|1772751694
+|switch|p2a: Brute Bonnet|Brute Bonnet, L81|312/312
+|-status|p2a: Brute Bonnet|tox
+|turn|12
+|
+|t:|1772751699
+|-terastallize|p2a: Brute Bonnet|Poison
+|move|p1a: Eternatus|Flamethrower|p2a: Brute Bonnet
+|-damage|p2a: Brute Bonnet|260/312 tox
+|move|p2a: Brute Bonnet|Spore|p1a: Eternatus
+|-status|p1a: Eternatus|slp|[from] move: Spore
+|
+|-heal|p1a: Eternatus|205/308 slp|[from] item: Leftovers
+|-heal|p2a: Brute Bonnet|279/312 tox|[from] item: Leftovers
+|-damage|p2a: Brute Bonnet|260/312 tox|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1772751705
+|-end|p2a: Brute Bonnet|Protosynthesis|[silent]
+|switch|p2a: Basculin|Basculin-Blue-Striped, L86, M|69/261 tox
+|cant|p1a: Eternatus|slp
+|
+|-heal|p1a: Eternatus|224/308 slp|[from] item: Leftovers
+|-damage|p2a: Basculin|53/261 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1772751707
+|-curestatus|p1a: Eternatus|slp|[msg]
+|move|p1a: Eternatus|Recover|p1a: Eternatus
+|-heal|p1a: Eternatus|308/308
+|move|p2a: Basculin|Flip Turn|p1a: Eternatus
+|-resisted|p1a: Eternatus
+|-damage|p1a: Eternatus|232/308
+|
+|t:|1772751711
+|switch|p2a: Brute Bonnet|Brute Bonnet, L81, tera:Poison|260/312 tox|[from] Flip Turn
+|-sideend|p2: crunchnka|move: Toxic Spikes|[of] p2a: Brute Bonnet
+|
+|-heal|p1a: Eternatus|251/308|[from] item: Leftovers
+|-heal|p2a: Brute Bonnet|279/312 tox|[from] item: Leftovers
+|-damage|p2a: Brute Bonnet|260/312 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1772751714
+|move|p1a: Eternatus|Dynamax Cannon|p2a: Brute Bonnet
+|-damage|p2a: Brute Bonnet|170/312 tox
+|move|p2a: Brute Bonnet|Spore|p1a: Eternatus
+|-status|p1a: Eternatus|slp|[from] move: Spore
+|
+|-heal|p1a: Eternatus|270/308 slp|[from] item: Leftovers
+|-heal|p2a: Brute Bonnet|189/312 tox|[from] item: Leftovers
+|-damage|p2a: Brute Bonnet|151/312 tox|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1772751726
+|-end|p2a: Brute Bonnet|Protosynthesis|[silent]
+|switch|p2a: Scovillain|Scovillain, L91, F|266/266
+|cant|p1a: Eternatus|slp
+|
+|-heal|p1a: Eternatus|289/308 slp|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1772751742
+|-curestatus|p1a: Eternatus|slp|[msg]
+|move|p1a: Eternatus|Flamethrower|p2a: Scovillain
+|-damage|p2a: Scovillain|202/266
+|move|p2a: Scovillain|Leech Seed|p1a: Eternatus
+|-start|p1a: Eternatus|move: Leech Seed
+|
+|-heal|p1a: Eternatus|308/308|[from] item: Leftovers
+|-heal|p2a: Scovillain|218/266|[from] item: Leftovers
+|-damage|p1a: Eternatus|270/308|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|256/266|[silent]
+|upkeep
+|turn|18
+|
+|t:|1772751754
+|switch|p1a: Grimmsnarl|Grimmsnarl, L83, M|293/293
+|-damage|p1a: Grimmsnarl|257/293|[from] Stealth Rock
+|move|p2a: Scovillain|Substitute|p2a: Scovillain
+|-start|p2a: Scovillain|Substitute
+|-damage|p2a: Scovillain|190/266
+|
+|-heal|p2a: Scovillain|206/266|[from] item: Leftovers
+|-heal|p1a: Grimmsnarl|275/293|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1772751761
+|move|p2a: Scovillain|Leech Seed|p1a: Grimmsnarl
+|-start|p1a: Grimmsnarl|move: Leech Seed
+|move|p1a: Grimmsnarl|Spirit Break|p2a: Scovillain
+|-resisted|p2a: Scovillain
+|-activate|p2a: Scovillain|move: Substitute|[damage]
+|
+|-heal|p2a: Scovillain|222/266|[from] item: Leftovers
+|-heal|p1a: Grimmsnarl|293/293|[from] item: Leftovers
+|-damage|p1a: Grimmsnarl|257/293|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|258/266|[silent]
+|upkeep
+|turn|20
+|
+|t:|1772751768
+|move|p1a: Grimmsnarl|Taunt|p2a: Scovillain
+|-start|p2a: Scovillain|move: Taunt
+|move|p2a: Scovillain|Flamethrower|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|115/293
+|
+|-heal|p2a: Scovillain|266/266|[from] item: Leftovers
+|-heal|p1a: Grimmsnarl|133/293|[from] item: Leftovers
+|-damage|p1a: Grimmsnarl|97/293|[from] Leech Seed|[of] p2a: Scovillain
+|upkeep
+|turn|21
+|
+|t:|1772751776
+|move|p1a: Grimmsnarl|Parting Shot|p2a: Scovillain
+|-unboost|p2a: Scovillain|atk|1
+|-unboost|p2a: Scovillain|spa|1
+|
+|t:|1772751779
+|switch|p1a: Eternatus|Eternatus, L69|270/308|[from] Parting Shot
+|-damage|p1a: Eternatus|232/308|[from] Stealth Rock
+|-ability|p1a: Eternatus|Pressure
+|move|p2a: Scovillain|Flamethrower|p1a: Eternatus
+|-resisted|p1a: Eternatus
+|-damage|p1a: Eternatus|185/308
+|
+|-heal|p1a: Eternatus|204/308|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1772751789
+|move|p1a: Eternatus|Flamethrower|p2a: Scovillain
+|-end|p2a: Scovillain|Substitute
+|move|p2a: Scovillain|Flamethrower|p1a: Eternatus
+|-resisted|p1a: Eternatus
+|-damage|p1a: Eternatus|156/308
+|
+|-heal|p1a: Eternatus|175/308|[from] item: Leftovers
+|-end|p2a: Scovillain|move: Taunt
+|upkeep
+|turn|23
+|
+|t:|1772751795
+|move|p1a: Eternatus|Dynamax Cannon|p2a: Scovillain
+|-damage|p2a: Scovillain|161/266
+|move|p2a: Scovillain|Leech Seed|p1a: Eternatus
+|-start|p1a: Eternatus|move: Leech Seed
+|
+|-heal|p1a: Eternatus|194/308|[from] item: Leftovers
+|-heal|p2a: Scovillain|177/266|[from] item: Leftovers
+|-damage|p1a: Eternatus|156/308|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|215/266|[silent]
+|upkeep
+|turn|24
+|
+|t:|1772751803
+|switch|p1a: Grimmsnarl|Grimmsnarl, L83, M|97/293
+|-damage|p1a: Grimmsnarl|61/293|[from] Stealth Rock
+|move|p2a: Scovillain|Substitute|p2a: Scovillain
+|-start|p2a: Scovillain|Substitute
+|-damage|p2a: Scovillain|149/266
+|
+|-heal|p2a: Scovillain|165/266|[from] item: Leftovers
+|-heal|p1a: Grimmsnarl|79/293|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1772751810
+|move|p1a: Grimmsnarl|Taunt|p2a: Scovillain
+|-start|p2a: Scovillain|move: Taunt
+|move|p2a: Scovillain|Flamethrower|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|0 fnt
+|faint|p1a: Grimmsnarl
+|
+|-heal|p2a: Scovillain|181/266|[from] item: Leftovers
+|upkeep
+|
+|t:|1772751812
+|switch|p1a: Eternatus|Eternatus, L69|156/308
+|-damage|p1a: Eternatus|118/308|[from] Stealth Rock
+|-ability|p1a: Eternatus|Pressure
+|turn|26
+|
+|t:|1772751816
+|move|p1a: Eternatus|Recover|p1a: Eternatus
+|-heal|p1a: Eternatus|272/308
+|move|p2a: Scovillain|Flamethrower|p1a: Eternatus
+|-resisted|p1a: Eternatus
+|-damage|p1a: Eternatus|224/308
+|
+|-heal|p1a: Eternatus|243/308|[from] item: Leftovers
+|-heal|p2a: Scovillain|197/266|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1772751821
+|move|p1a: Eternatus|Dynamax Cannon|p2a: Scovillain
+|-end|p2a: Scovillain|Substitute
+|move|p2a: Scovillain|Flamethrower|p1a: Eternatus
+|-resisted|p1a: Eternatus
+|-damage|p1a: Eternatus|198/308
+|
+|-heal|p1a: Eternatus|217/308|[from] item: Leftovers
+|-heal|p2a: Scovillain|213/266|[from] item: Leftovers
+|-end|p2a: Scovillain|move: Taunt
+|upkeep
+|turn|28
+|
+|t:|1772751833
+|switch|p1a: Brute Bonnet|Brute Bonnet, L81|284/312
+|-damage|p1a: Brute Bonnet|245/312|[from] Stealth Rock
+|move|p2a: Scovillain|Substitute|p2a: Scovillain
+|-start|p2a: Scovillain|Substitute
+|-damage|p2a: Scovillain|147/266
+|
+|-heal|p2a: Scovillain|163/266|[from] item: Leftovers
+|-heal|p1a: Brute Bonnet|264/312|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1772751838
+|move|p2a: Scovillain|Flamethrower|p1a: Brute Bonnet
+|-supereffective|p1a: Brute Bonnet
+|-damage|p1a: Brute Bonnet|112/312
+|move|p1a: Brute Bonnet|Crunch|p2a: Scovillain
+|-end|p2a: Scovillain|Substitute
+|
+|-heal|p2a: Scovillain|179/266|[from] item: Leftovers
+|-heal|p1a: Brute Bonnet|131/312|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1772751851
+|move|p1a: Brute Bonnet|Sucker Punch|p2a: Scovillain
+|-damage|p2a: Scovillain|83/266
+|move|p2a: Scovillain|Flamethrower|p1a: Brute Bonnet
+|-supereffective|p1a: Brute Bonnet
+|-damage|p1a: Brute Bonnet|0 fnt
+|faint|p1a: Brute Bonnet
+|-end|p1a: Brute Bonnet|Protosynthesis|[silent]
+|
+|-heal|p2a: Scovillain|99/266|[from] item: Leftovers
+|upkeep
+|
+|t:|1772751862
+|switch|p1a: Furret|Furret, L94, F|312/312
+|-damage|p1a: Furret|273/312|[from] Stealth Rock
+|-item|p2a: Scovillain|Leftovers|[from] ability: Frisk|[of] p1a: Furret
+|turn|31
+|
+|t:|1772751868
+|move|p1a: Furret|Tidy Up|p1a: Furret
+|-sideend|p1: iamthelaw.rence|Stealth Rock
+|-activate|p1a: Furret|move: Tidy Up
+|-boost|p1a: Furret|atk|1
+|-boost|p1a: Furret|spe|1
+|move|p2a: Scovillain|Leech Seed|p1a: Furret
+|-start|p1a: Furret|move: Leech Seed
+|
+|-heal|p2a: Scovillain|115/266|[from] item: Leftovers
+|-damage|p1a: Furret|234/312|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|154/266|[silent]
+|upkeep
+|turn|32
+|
+|t:|1772751875
+|move|p2a: Scovillain|Protect|p2a: Scovillain
+|-singleturn|p2a: Scovillain|Protect
+|move|p1a: Furret|Knock Off|p2a: Scovillain
+|-activate|p2a: Scovillain|move: Protect
+|
+|-heal|p2a: Scovillain|170/266|[from] item: Leftovers
+|-damage|p1a: Furret|195/312|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|209/266|[silent]
+|upkeep
+|turn|33
+|
+|t:|1772751879
+|move|p1a: Furret|Knock Off|p2a: Scovillain
+|-damage|p2a: Scovillain|45/266
+|-enditem|p2a: Scovillain|Leftovers|[from] move: Knock Off|[of] p1a: Furret
+|-damage|p1a: Furret|164/312|[from] item: Life Orb
+|move|p2a: Scovillain|Substitute|p2a: Scovillain
+|-fail|p2a: Scovillain|move: Substitute|[weak]
+|
+|-damage|p1a: Furret|125/312|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|84/266|[silent]
+|upkeep
+|turn|34
+|
+|t:|1772751886
+|move|p2a: Scovillain|Protect|p2a: Scovillain
+|-singleturn|p2a: Scovillain|Protect
+|move|p1a: Furret|Double-Edge|p2a: Scovillain
+|-activate|p2a: Scovillain|move: Protect
+|
+|-damage|p1a: Furret|86/312|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|123/266|[silent]
+|upkeep
+|turn|35
+|
+|t:|1772751903
+|switch|p2a: Basculin|Basculin-Blue-Striped, L86, M|53/261 tox
+|move|p1a: Furret|Double-Edge|p2a: Basculin
+|-damage|p2a: Basculin|0 fnt
+|faint|p2a: Basculin
+|-damage|p1a: Furret|69/312|[from] Recoil
+|-damage|p1a: Furret|38/312|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772751908
+|switch|p2a: Scovillain|Scovillain, L91, F|123/266
+|turn|36
+|
+|t:|1772751915
+|move|p2a: Scovillain|Protect|p2a: Scovillain
+|-singleturn|p2a: Scovillain|Protect
+|move|p1a: Furret|Tidy Up|p1a: Furret
+|-boost|p1a: Furret|atk|1
+|-boost|p1a: Furret|spe|1
+|
+|-damage|p1a: Furret|0 fnt|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|161/266|[silent]
+|faint|p1a: Furret
+|upkeep
+|
+|t:|1772751925
+|switch|p1a: Regidrago|Regidrago, L77|435/435
+|turn|37
+|
+|t:|1772751935
+|move|p2a: Scovillain|Leech Seed|p1a: Regidrago
+|-start|p1a: Regidrago|move: Leech Seed
+|move|p1a: Regidrago|Dragon Dance|p1a: Regidrago
+|-boost|p1a: Regidrago|atk|1
+|-boost|p1a: Regidrago|spe|1
+|
+|-damage|p1a: Regidrago|381/435|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|215/266|[silent]
+|upkeep
+|turn|38
+|
+|t:|1772751941
+|move|p2a: Scovillain|Protect|p2a: Scovillain
+|-singleturn|p2a: Scovillain|Protect
+|move|p1a: Regidrago|Dragon Dance|p1a: Regidrago
+|-boost|p1a: Regidrago|atk|1
+|-boost|p1a: Regidrago|spe|1
+|
+|-damage|p1a: Regidrago|327/435|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|266/266|[silent]
+|upkeep
+|turn|39
+|
+|t:|1772751945
+|move|p1a: Regidrago|Earthquake|p2a: Scovillain
+|-damage|p2a: Scovillain|126/266
+|move|p2a: Scovillain|Substitute|p2a: Scovillain
+|-start|p2a: Scovillain|Substitute
+|-damage|p2a: Scovillain|60/266
+|
+|-damage|p1a: Regidrago|273/435|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|114/266|[silent]
+|upkeep
+|turn|40
+|
+|t:|1772751950
+|move|p1a: Regidrago|Dragon Dance|p1a: Regidrago
+|-boost|p1a: Regidrago|atk|1
+|-boost|p1a: Regidrago|spe|1
+|move|p2a: Scovillain|Flamethrower|p1a: Regidrago
+|-resisted|p1a: Regidrago
+|-damage|p1a: Regidrago|168/435
+|
+|-damage|p1a: Regidrago|114/435|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|168/266|[silent]
+|upkeep
+|turn|41
+|
+|t:|1772751952
+|move|p2a: Scovillain|Protect|p2a: Scovillain
+|-singleturn|p2a: Scovillain|Protect
+|move|p1a: Regidrago|Earthquake|p2a: Scovillain
+|-activate|p2a: Scovillain|move: Protect
+|
+|-damage|p1a: Regidrago|60/435|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|222/266|[silent]
+|upkeep
+|turn|42
+|
+|t:|1772751960
+|move|p1a: Regidrago|Earthquake|p2a: Scovillain
+|-end|p2a: Scovillain|Substitute
+|move|p2a: Scovillain|Substitute|p2a: Scovillain
+|-start|p2a: Scovillain|Substitute
+|-damage|p2a: Scovillain|156/266
+|
+|-damage|p1a: Regidrago|6/435|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|210/266|[silent]
+|upkeep
+|turn|43
+|
+|t:|1772751965
+|move|p2a: Scovillain|Protect|p2a: Scovillain
+|-singleturn|p2a: Scovillain|Protect
+|move|p1a: Regidrago|Earthquake|p2a: Scovillain
+|-activate|p2a: Scovillain|move: Protect
+|
+|-damage|p1a: Regidrago|0 fnt|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|216/266|[silent]
+|faint|p1a: Regidrago
+|upkeep
+|
+|t:|1772751966
+|switch|p1a: Eternatus|Eternatus, L69|217/308
+|-ability|p1a: Eternatus|Pressure
+|turn|44
+|
+|t:|1772751972
+|move|p1a: Eternatus|Dynamax Cannon|p2a: Scovillain
+|-end|p2a: Scovillain|Substitute
+|move|p2a: Scovillain|Leech Seed|p1a: Eternatus
+|-start|p1a: Eternatus|move: Leech Seed
+|
+|-heal|p1a: Eternatus|236/308|[from] item: Leftovers
+|-damage|p1a: Eternatus|198/308|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|254/266|[silent]
+|upkeep
+|turn|45
+|
+|t:|1772751980
+|move|p1a: Eternatus|Dynamax Cannon|p2a: Scovillain
+|-damage|p2a: Scovillain|136/266
+|move|p2a: Scovillain|Substitute|p2a: Scovillain
+|-start|p2a: Scovillain|Substitute
+|-damage|p2a: Scovillain|70/266
+|
+|-heal|p1a: Eternatus|217/308|[from] item: Leftovers
+|-damage|p1a: Eternatus|179/308|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|108/266|[silent]
+|upkeep
+|turn|46
+|
+|t:|1772751983
+|move|p2a: Scovillain|Protect|p2a: Scovillain
+|-singleturn|p2a: Scovillain|Protect
+|move|p1a: Eternatus|Dynamax Cannon|p2a: Scovillain
+|-activate|p2a: Scovillain|move: Protect
+|
+|-heal|p1a: Eternatus|198/308|[from] item: Leftovers
+|-damage|p1a: Eternatus|160/308|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|146/266|[silent]
+|upkeep
+|turn|47
+|
+|t:|1772751995
+|move|p1a: Eternatus|Recover|p1a: Eternatus
+|-heal|p1a: Eternatus|308/308
+|move|p2a: Scovillain|Substitute|p2a: Scovillain
+|-fail|p2a: Scovillain|move: Substitute
+|
+|-damage|p1a: Eternatus|270/308|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|184/266|[silent]
+|upkeep
+|turn|48
+|
+|t:|1772751999
+|move|p2a: Scovillain|Protect|p2a: Scovillain
+|-singleturn|p2a: Scovillain|Protect
+|move|p1a: Eternatus|Flamethrower|p2a: Scovillain
+|-activate|p2a: Scovillain|move: Protect
+|
+|-heal|p1a: Eternatus|289/308|[from] item: Leftovers
+|-damage|p1a: Eternatus|251/308|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|222/266|[silent]
+|upkeep
+|turn|49
+|
+|t:|1772752016
+|move|p1a: Eternatus|Flamethrower|p2a: Scovillain
+|-end|p2a: Scovillain|Substitute
+|move|p2a: Scovillain|Flamethrower|p1a: Eternatus
+|-resisted|p1a: Eternatus
+|-damage|p1a: Eternatus|184/308
+|
+|-heal|p1a: Eternatus|203/308|[from] item: Leftovers
+|-damage|p1a: Eternatus|165/308|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|260/266|[silent]
+|upkeep
+|turn|50
+|
+|t:|1772752027
+|move|p1a: Eternatus|Flamethrower|p2a: Scovillain
+|-damage|p2a: Scovillain|190/266
+|move|p2a: Scovillain|Substitute|p2a: Scovillain
+|-start|p2a: Scovillain|Substitute
+|-damage|p2a: Scovillain|124/266
+|
+|-heal|p1a: Eternatus|184/308|[from] item: Leftovers
+|-damage|p1a: Eternatus|146/308|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|162/266|[silent]
+|upkeep
+|turn|51
+|
+|t:|1772752031
+|move|p2a: Scovillain|Protect|p2a: Scovillain
+|-singleturn|p2a: Scovillain|Protect
+|move|p1a: Eternatus|Recover|p1a: Eternatus
+|-heal|p1a: Eternatus|300/308
+|
+|-heal|p1a: Eternatus|308/308|[from] item: Leftovers
+|-damage|p1a: Eternatus|270/308|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|200/266|[silent]
+|upkeep
+|turn|52
+|
+|t:|1772752035
+|move|p1a: Eternatus|Flamethrower|p2a: Scovillain
+|-crit|p2a: Scovillain
+|-end|p2a: Scovillain|Substitute
+|move|p2a: Scovillain|Flamethrower|p1a: Eternatus
+|-resisted|p1a: Eternatus
+|-damage|p1a: Eternatus|205/308
+|
+|-heal|p1a: Eternatus|224/308|[from] item: Leftovers
+|-damage|p1a: Eternatus|186/308|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|238/266|[silent]
+|upkeep
+|turn|53
+|
+|t:|1772752047
+|move|p2a: Scovillain|Protect|p2a: Scovillain
+|-singleturn|p2a: Scovillain|Protect
+|move|p1a: Eternatus|Flamethrower|p2a: Scovillain
+|-activate|p2a: Scovillain|move: Protect
+|
+|-heal|p1a: Eternatus|205/308|[from] item: Leftovers
+|-damage|p1a: Eternatus|167/308|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|266/266|[silent]
+|upkeep
+|turn|54
+|
+|t:|1772752053
+|move|p1a: Eternatus|Flamethrower|p2a: Scovillain
+|-damage|p2a: Scovillain|197/266
+|move|p2a: Scovillain|Substitute|p2a: Scovillain
+|-start|p2a: Scovillain|Substitute
+|-damage|p2a: Scovillain|131/266
+|
+|-heal|p1a: Eternatus|186/308|[from] item: Leftovers
+|-damage|p1a: Eternatus|148/308|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|169/266|[silent]
+|upkeep
+|turn|55
+|
+|t:|1772752058
+|move|p2a: Scovillain|Protect|p2a: Scovillain
+|-singleturn|p2a: Scovillain|Protect
+|move|p1a: Eternatus|Recover|p1a: Eternatus
+|-heal|p1a: Eternatus|302/308
+|
+|-heal|p1a: Eternatus|308/308|[from] item: Leftovers
+|-damage|p1a: Eternatus|270/308|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|207/266|[silent]
+|upkeep
+|turn|56
+|
+|t:|1772752072
+|move|p1a: Eternatus|Flamethrower|p2a: Scovillain
+|-end|p2a: Scovillain|Substitute
+|move|p2a: Scovillain|Flamethrower|p1a: Eternatus
+|-resisted|p1a: Eternatus
+|-damage|p1a: Eternatus|205/308
+|
+|-heal|p1a: Eternatus|224/308|[from] item: Leftovers
+|-damage|p1a: Eternatus|186/308|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|245/266|[silent]
+|upkeep
+|turn|57
+|
+|t:|1772752080
+|move|p1a: Eternatus|Toxic Spikes|p2a: Scovillain
+|-sidestart|p2: crunchnka|move: Toxic Spikes
+|move|p2a: Scovillain|Substitute|p2a: Scovillain
+|-start|p2a: Scovillain|Substitute
+|-damage|p2a: Scovillain|179/266
+|
+|-heal|p1a: Eternatus|205/308|[from] item: Leftovers
+|-damage|p1a: Eternatus|167/308|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|217/266|[silent]
+|upkeep
+|turn|58
+|
+|t:|1772752090
+|move|p1a: Eternatus|Recover|p1a: Eternatus
+|-heal|p1a: Eternatus|308/308
+|move|p2a: Scovillain|Flamethrower|p1a: Eternatus
+|-resisted|p1a: Eternatus
+|-damage|p1a: Eternatus|239/308
+|
+|-heal|p1a: Eternatus|258/308|[from] item: Leftovers
+|-damage|p1a: Eternatus|220/308|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|255/266|[silent]
+|upkeep
+|turn|59
+|
+|t:|1772752104
+|move|p1a: Eternatus|Toxic Spikes|p2a: Scovillain
+|-sidestart|p2: crunchnka|move: Toxic Spikes
+|move|p2a: Scovillain|Flamethrower|p1a: Eternatus
+|-resisted|p1a: Eternatus
+|-damage|p1a: Eternatus|153/308
+|
+|-heal|p1a: Eternatus|172/308|[from] item: Leftovers
+|-damage|p1a: Eternatus|134/308|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|266/266|[silent]
+|upkeep
+|turn|60
+|
+|t:|1772752109
+|move|p1a: Eternatus|Recover|p1a: Eternatus
+|-heal|p1a: Eternatus|288/308
+|move|p2a: Scovillain|Flamethrower|p1a: Eternatus
+|-resisted|p1a: Eternatus
+|-damage|p1a: Eternatus|216/308
+|-status|p1a: Eternatus|brn
+|
+|-heal|p1a: Eternatus|235/308 brn|[from] item: Leftovers
+|-damage|p1a: Eternatus|197/308 brn|[from] Leech Seed|[of] p2a: Scovillain
+|-damage|p1a: Eternatus|178/308 brn|[from] brn
+|upkeep
+|turn|61
+|
+|t:|1772752119
+|move|p2a: Scovillain|Protect|p2a: Scovillain
+|-singleturn|p2a: Scovillain|Protect
+|move|p1a: Eternatus|Recover|p1a: Eternatus
+|-heal|p1a: Eternatus|308/308 brn
+|
+|-damage|p1a: Eternatus|270/308 brn|[from] Leech Seed|[of] p2a: Scovillain
+|-damage|p1a: Eternatus|251/308 brn|[from] brn
+|upkeep
+|turn|62
+|
+|t:|1772752125
+|move|p1a: Eternatus|Flamethrower|p2a: Scovillain
+|-end|p2a: Scovillain|Substitute
+|move|p2a: Scovillain|Substitute|p2a: Scovillain
+|-start|p2a: Scovillain|Substitute
+|-damage|p2a: Scovillain|200/266
+|
+|-heal|p1a: Eternatus|270/308 brn|[from] item: Leftovers
+|-damage|p1a: Eternatus|232/308 brn|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|238/266|[silent]
+|-damage|p1a: Eternatus|213/308 brn|[from] brn
+|upkeep
+|turn|63
+|
+|t:|1772752136
+|move|p1a: Eternatus|Toxic Spikes||[still]
+|-fail|p1a: Eternatus
+|move|p2a: Scovillain|Leech Seed||[still]
+|-fail|p2a: Scovillain
+|
+|-heal|p1a: Eternatus|232/308 brn|[from] item: Leftovers
+|-damage|p1a: Eternatus|194/308 brn|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|266/266|[silent]
+|-damage|p1a: Eternatus|175/308 brn|[from] brn
+|upkeep
+|turn|64
+|
+|t:|1772752143
+|move|p1a: Eternatus|Flamethrower|p2a: Scovillain
+|-end|p2a: Scovillain|Substitute
+|move|p2a: Scovillain|Leech Seed||[still]
+|-fail|p2a: Scovillain
+|
+|-heal|p1a: Eternatus|194/308 brn|[from] item: Leftovers
+|-damage|p1a: Eternatus|156/308 brn|[from] Leech Seed|[of] p2a: Scovillain
+|-damage|p1a: Eternatus|137/308 brn|[from] brn
+|upkeep
+|turn|65
+|
+|t:|1772752150
+|move|p2a: Scovillain|Protect|p2a: Scovillain
+|-singleturn|p2a: Scovillain|Protect
+|move|p1a: Eternatus|Flamethrower|p2a: Scovillain
+|-activate|p2a: Scovillain|move: Protect
+|
+|-heal|p1a: Eternatus|156/308 brn|[from] item: Leftovers
+|-damage|p1a: Eternatus|118/308 brn|[from] Leech Seed|[of] p2a: Scovillain
+|-damage|p1a: Eternatus|99/308 brn|[from] brn
+|upkeep
+|turn|66
+|
+|t:|1772752154
+|move|p1a: Eternatus|Flamethrower|p2a: Scovillain
+|-damage|p2a: Scovillain|192/266
+|move|p2a: Scovillain|Substitute|p2a: Scovillain
+|-start|p2a: Scovillain|Substitute
+|-damage|p2a: Scovillain|126/266
+|
+|-heal|p1a: Eternatus|118/308 brn|[from] item: Leftovers
+|-damage|p1a: Eternatus|80/308 brn|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|164/266|[silent]
+|-damage|p1a: Eternatus|61/308 brn|[from] brn
+|upkeep
+|turn|67
+|
+|t:|1772752164
+|switch|p1a: Scizor|Scizor, L79, F|240/240
+|move|p2a: Scovillain|Protect||[still]
+|-fail|p2a: Scovillain
+|
+|upkeep
+|turn|68
+|
+|t:|1772752171
+|move|p2a: Scovillain|Leech Seed|p1a: Scizor
+|-start|p1a: Scizor|move: Leech Seed
+|move|p1a: Scizor|U-turn|p2a: Scovillain
+|-end|p2a: Scovillain|Substitute
+|
+|t:|1772752173
+|switch|p1a: Eternatus|Eternatus, L69|61/308 brn|[from] U-turn
+|-ability|p1a: Eternatus|Pressure
+|
+|-heal|p1a: Eternatus|80/308 brn|[from] item: Leftovers
+|-damage|p1a: Eternatus|61/308 brn|[from] brn
+|upkeep
+|turn|69
+|
+|t:|1772752183
+|move|p1a: Eternatus|Dynamax Cannon|p2a: Scovillain
+|-damage|p2a: Scovillain|53/266
+|move|p2a: Scovillain|Leech Seed|p1a: Eternatus
+|-start|p1a: Eternatus|move: Leech Seed
+|
+|-heal|p1a: Eternatus|80/308 brn|[from] item: Leftovers
+|-damage|p1a: Eternatus|42/308 brn|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|91/266|[silent]
+|-damage|p1a: Eternatus|23/308 brn|[from] brn
+|upkeep
+|turn|70
+|
+|t:|1772752191
+|move|p1a: Eternatus|Flamethrower|p2a: Scovillain
+|-damage|p2a: Scovillain|19/266
+|move|p2a: Scovillain|Substitute|p2a: Scovillain
+|-fail|p2a: Scovillain|move: Substitute|[weak]
+|
+|-heal|p1a: Eternatus|42/308 brn|[from] item: Leftovers
+|-damage|p1a: Eternatus|4/308 brn|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|57/266|[silent]
+|-damage|p1a: Eternatus|0 fnt|[from] brn
+|faint|p1a: Eternatus
+|upkeep
+|
+|t:|1772752193
+|switch|p1a: Scizor|Scizor, L79, F|240/240
+|turn|71
+|
+|t:|1772752206
+|switch|p2a: Brute Bonnet|Brute Bonnet, L81, tera:Poison|151/312 tox
+|-sideend|p2: crunchnka|move: Toxic Spikes|[of] p2a: Brute Bonnet
+|move|p1a: Scizor|Knock Off|p2a: Brute Bonnet
+|-damage|p2a: Brute Bonnet|37/312 tox
+|-enditem|p2a: Brute Bonnet|Leftovers|[from] move: Knock Off|[of] p1a: Scizor
+|
+|-damage|p2a: Brute Bonnet|18/312 tox|[from] psn
+|upkeep
+|turn|72
+|
+|t:|1772752213
+|move|p1a: Scizor|Knock Off|p2a: Brute Bonnet
+|-damage|p2a: Brute Bonnet|0 fnt
+|faint|p2a: Brute Bonnet
+|-end|p2a: Brute Bonnet|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1772752218
+|switch|p2a: Pawmot|Pawmot, L80, M|181/243
+|turn|73
+|
+|t:|1772752221
+|move|p2a: Pawmot|Nuzzle|p1a: Scizor
+|-crit|p1a: Scizor
+|-damage|p1a: Scizor|206/240
+|-status|p1a: Scizor|par
+|move|p1a: Scizor|Knock Off|p2a: Pawmot
+|-resisted|p2a: Pawmot
+|-damage|p2a: Pawmot|116/243
+|-enditem|p2a: Pawmot|Leppa Berry|[from] move: Knock Off|[of] p1a: Scizor
+|
+|upkeep
+|turn|74
+|
+|t:|1772752226
+|switch|p2a: Scovillain|Scovillain, L91, F|57/266
+|move|p1a: Scizor|Knock Off|p2a: Scovillain
+|-damage|p2a: Scovillain|0 fnt
+|faint|p2a: Scovillain
+|
+|upkeep
+|
+|t:|1772752231
+|switch|p2a: Pawmot|Pawmot, L80, M|116/243
+|turn|75
+|
+|t:|1772752234
+|move|p2a: Pawmot|Revival Blessing|p2a: Pawmot
+|
+|t:|1772752236
+|-heal|p2: Scovillain|133/266|[from] move: Revival Blessing
+|move|p1a: Scizor|Knock Off|p2a: Pawmot
+|-resisted|p2a: Pawmot
+|-damage|p2a: Pawmot|71/243
+|
+|upkeep
+|turn|76
+|
+|t:|1772752241
+|move|p2a: Pawmot|Double Shock|p1a: Scizor
+|-damage|p1a: Scizor|86/240 par
+|-start|p2a: Pawmot|typechange|???/Fighting|[from] move: Double Shock
+|move|p1a: Scizor|Knock Off|p2a: Pawmot
+|-resisted|p2a: Pawmot
+|-damage|p2a: Pawmot|21/243
+|
+|upkeep
+|turn|77
+|
+|t:|1772752246
+|move|p2a: Pawmot|Nuzzle|p1a: Scizor
+|-damage|p1a: Scizor|71/240 par
+|move|p1a: Scizor|Knock Off|p2a: Pawmot
+|-resisted|p2a: Pawmot
+|-damage|p2a: Pawmot|0 fnt
+|faint|p2a: Pawmot
+|
+|upkeep
+|
+|t:|1772752248
+|switch|p2a: Scovillain|Scovillain, L91, F|133/266
+|turn|78
+|
+|t:|1772752254
+|-terastallize|p1a: Scizor|Steel
+|move|p2a: Scovillain|Substitute|p2a: Scovillain
+|-start|p2a: Scovillain|Substitute
+|-damage|p2a: Scovillain|67/266
+|cant|p1a: Scizor|par
+|
+|upkeep
+|turn|79
+|
+|t:|1772752258
+|move|p2a: Scovillain|Protect|p2a: Scovillain
+|-singleturn|p2a: Scovillain|Protect
+|move|p1a: Scizor|Knock Off|p2a: Scovillain
+|-activate|p2a: Scovillain|move: Protect
+|
+|upkeep
+|turn|80
+|
+|t:|1772752264
+|move|p2a: Scovillain|Substitute|p2a: Scovillain
+|-fail|p2a: Scovillain|move: Substitute
+|move|p1a: Scizor|Knock Off|p2a: Scovillain
+|-end|p2a: Scovillain|Substitute
+|
+|upkeep
+|turn|81
+|
+|t:|1772752265
+|move|p2a: Scovillain|Protect|p2a: Scovillain
+|-singleturn|p2a: Scovillain|Protect
+|move|p1a: Scizor|Knock Off|p2a: Scovillain
+|-activate|p2a: Scovillain|move: Protect
+|
+|upkeep
+|turn|82
+|
+|t:|1772752268
+|-activate|p2a: Scovillain|move: Struggle
+|move|p2a: Scovillain|Struggle|p1a: Scizor
+|-damage|p1a: Scizor|34/240 par
+|-damage|p2a: Scovillain|0 fnt|[from] recoil
+|faint|p2a: Scovillain
+|move|p1a: Scizor|Knock Off|p2: Scovillain|[notarget]
+|-fail|p1a: Scizor
+|
+|upkeep
+|
+|t:|1772752271
+|switch|p2a: Kilowattrel|Kilowattrel, L83, F|252/252
+|turn|83
+|
+|t:|1772752277
+|move|p2a: Kilowattrel|Discharge|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|faint|p1a: Scizor
+|
+|win|crunchnka
+|raw|iamthelaw.rence's rating: 1385 &rarr; <strong>1368</strong><br />(-17 for losing)
+|raw|crunchnka's rating: 1432 &rarr; <strong>1449</strong><br />(+17 for winning)
+|l|☆iamthelaw.rence
+|player|p1|

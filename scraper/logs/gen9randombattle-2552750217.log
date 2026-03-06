@@ -1,0 +1,300 @@
+|j|☆Papi Draieul
+|j|☆Anderj10
+|t:|1772749592
+|gametype|singles
+|player|p1|Papi Draieul|2|1772
+|player|p2|Anderj10|lanette|1727
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772749592
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Conkeldurr|Conkeldurr, L80, M|299/299
+|switch|p2a: Garchomp|Garchomp, L74, M|282/282
+|turn|1
+|
+|t:|1772749624
+|switch|p1a: Groudon|Groudon, L72|263/263
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Groudon
+|move|p2a: Garchomp|Swords Dance|p2a: Garchomp
+|-boost|p2a: Garchomp|atk|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1772749643
+|move|p2a: Garchomp|Swords Dance|p2a: Garchomp
+|-boost|p2a: Garchomp|atk|2
+|move|p1a: Groudon|Roar|p2a: Garchomp
+|drag|p2a: Latios|Latios, L78, M|253/253
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1772749654
+|switch|p1a: Regice|Regice, L88|284/284
+|move|p2a: Latios|Luster Purge|p1a: Regice
+|-damage|p1a: Regice|218/284
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1772749661
+|switch|p2a: Tentacruel|Tentacruel, L84, F|272/272
+|move|p1a: Regice|Thunder Wave|p2a: Tentacruel
+|-status|p2a: Tentacruel|par
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1772749699
+|switch|p1a: Conkeldurr|Conkeldurr, L80, M|299/299
+|cant|p2a: Tentacruel|par
+|
+|-weather|none
+|-status|p1a: Conkeldurr|brn|[from] item: Flame Orb
+|upkeep
+|turn|6
+|
+|t:|1772749715
+|move|p1a: Conkeldurr|Facade|p2a: Tentacruel
+|-damage|p2a: Tentacruel|58/272 par
+|cant|p2a: Tentacruel|par
+|
+|-heal|p2a: Tentacruel|75/272 par|[from] item: Leftovers
+|-damage|p1a: Conkeldurr|281/299 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1772749740
+|switch|p2a: Perrserker|Perrserker, L89, M|269/269
+|move|p1a: Conkeldurr|Facade|p2a: Perrserker
+|-resisted|p2a: Perrserker
+|-damage|p2a: Perrserker|192/269
+|
+|-damage|p1a: Conkeldurr|263/299 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1772749746
+|move|p1a: Conkeldurr|Mach Punch|p2a: Perrserker
+|-supereffective|p2a: Perrserker
+|-damage|p2a: Perrserker|52/269
+|move|p2a: Perrserker|Iron Head|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|67/299 brn
+|
+|-damage|p1a: Conkeldurr|49/299 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1772749754
+|switch|p2a: Latios|Latios, L78, M|253/253
+|move|p1a: Conkeldurr|Mach Punch|p2a: Latios
+|-resisted|p2a: Latios
+|-damage|p2a: Latios|211/253
+|
+|-damage|p1a: Conkeldurr|31/299 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1772749764
+|move|p1a: Conkeldurr|Mach Punch|p2a: Latios
+|-resisted|p2a: Latios
+|-damage|p2a: Latios|165/253
+|move|p2a: Latios|Aura Sphere|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|0 fnt
+|faint|p1a: Conkeldurr
+|
+|upkeep
+|
+|t:|1772749811
+|switch|p1a: Groudon|Groudon, L72|219/219
+|turn|11
+|
+|t:|1772749817
+|move|p1a: Groudon|Bitter Malice|p2a: Latios
+|-supereffective|p2a: Latios
+|-damage|p2a: Latios|0 fnt
+|faint|p2a: Latios
+|
+|upkeep
+|
+|t:|1772749823
+|switch|p2a: Gumshoos|Gumshoos, L95, M|321/321
+|turn|12
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Anderj10)
+|
+|t:|1772749876
+|switch|p1a: Groudon|Groudon, L72|263/263
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Groudon
+|move|p2a: Gumshoos|Knock Off|p1a: Groudon
+|-damage|p1a: Groudon|149/263
+|-enditem|p1a: Groudon|Leftovers|[from] move: Knock Off|[of] p2a: Gumshoos
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|13
+|inactive|Papi Draieul has 120 seconds left.
+|inactive|Papi Draieul has 90 seconds left.
+|
+|t:|1772749941
+|switch|p2a: Perrserker|Perrserker, L89, M|52/269
+|move|p1a: Groudon|Stealth Rock|p2a: Perrserker
+|-sidestart|p2: Anderj10|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1772749960
+|move|p1a: Groudon|Heat Crash|p2a: Perrserker
+|-supereffective|p2a: Perrserker
+|-damage|p2a: Perrserker|0 fnt
+|faint|p2a: Perrserker
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1772749964
+|switch|p2a: Garchomp|Garchomp, L74, M|282/282
+|-damage|p2a: Garchomp|265/282|[from] Stealth Rock
+|turn|15
+|inactive|Papi Draieul has 90 seconds left.
+|
+|t:|1772750009
+|move|p2a: Garchomp|Earthquake|p1a: Groudon
+|-damage|p1a: Groudon|68/263
+|move|p1a: Groudon|Roar|p2a: Garchomp
+|drag|p2a: Tentacruel|Tentacruel, L84, F|75/272 par
+|-damage|p2a: Tentacruel|41/272 par|[from] Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Tentacruel|58/272 par|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1772750014
+|move|p1a: Groudon|Precipice Blades|p2a: Tentacruel
+|-supereffective|p2a: Tentacruel
+|-damage|p2a: Tentacruel|0 fnt
+|faint|p2a: Tentacruel
+|
+|-weather|none
+|upkeep
+|
+|t:|1772750016
+|switch|p2a: Basculin|Basculin-Blue-Striped, L86, M|261/261
+|-damage|p2a: Basculin|229/261|[from] Stealth Rock
+|turn|17
+|inactive|Papi Draieul has 90 seconds left.
+|
+|t:|1772750024
+|move|p2a: Basculin|Flip Turn|p1a: Groudon
+|-supereffective|p1a: Groudon
+|-damage|p1a: Groudon|0 fnt
+|faint|p1a: Groudon
+|
+|t:|1772750031
+|switch|p2a: Gumshoos|Gumshoos, L95, M|321/321|[from] Flip Turn
+|-damage|p2a: Gumshoos|281/321|[from] Stealth Rock
+|
+|upkeep
+|inactive|Papi Draieul has 90 seconds left.
+|
+|t:|1772750046
+|switch|p1a: Regice|Regice, L88|219/219
+|turn|18
+|inactive|Papi Draieul has 90 seconds left.
+|
+|t:|1772750053
+|move|p1a: Regice|Focus Blast|p2a: Gumshoos|[miss]
+|-miss|p1a: Regice|p2a: Gumshoos
+|move|p2a: Gumshoos|Knock Off|p1a: Regice
+|-supereffective|p1a: Regice
+|-damage|p1a: Regice|0 fnt
+|replace|p1a: Zoroark|Zoroark-Hisui, L80, F
+|-end|p1a: Zoroark|Illusion
+|-hint|Illusion Level Mod is active, so this Pokémon's true level was hidden.
+|-enditem|p1a: Zoroark|Choice Specs|[from] move: Knock Off|[of] p2a: Gumshoos
+|faint|p1a: Zoroark
+|
+|upkeep
+|
+|t:|1772750057
+|switch|p1a: Chi-Yu|Chi-Yu, L77|211/211
+|-ability|p1a: Chi-Yu|Beads of Ruin
+|turn|19
+|
+|t:|1772750068
+|move|p1a: Chi-Yu|Overheat|p2a: Gumshoos
+|-damage|p2a: Gumshoos|0 fnt
+|-unboost|p1a: Chi-Yu|spa|2
+|faint|p2a: Gumshoos
+|
+|upkeep
+|
+|t:|1772750071
+|switch|p2a: Garchomp|Garchomp, L74, M|265/282
+|-damage|p2a: Garchomp|248/282|[from] Stealth Rock
+|turn|20
+|
+|t:|1772750081
+|switch|p1a: Regice|Regice, L88|218/284
+|move|p2a: Garchomp|Swords Dance|p2a: Garchomp
+|-boost|p2a: Garchomp|atk|2
+|
+|upkeep
+|turn|21
+|
+|t:|1772750086
+|-terastallize|p2a: Garchomp|Ground
+|move|p2a: Garchomp|Earthquake|p1a: Regice
+|-damage|p1a: Regice|0 fnt
+|faint|p1a: Regice
+|
+|upkeep
+|
+|t:|1772750090
+|switch|p1a: Regidrago|Regidrago, L77|435/435
+|turn|22
+|
+|t:|1772750094
+|-terastallize|p1a: Regidrago|Steel
+|move|p2a: Garchomp|Scale Shot|p1a: Regidrago
+|-resisted|p1a: Regidrago
+|-crit|p1a: Regidrago
+|-damage|p1a: Regidrago|372/435
+|-resisted|p1a: Regidrago
+|-damage|p1a: Regidrago|333/435
+|-resisted|p1a: Regidrago
+|-damage|p1a: Regidrago|293/435
+|-resisted|p1a: Regidrago
+|-damage|p1a: Regidrago|254/435
+|-hitcount|p1a: Regidrago|4
+|-unboost|p2a: Garchomp|def|1
+|-boost|p2a: Garchomp|spe|1
+|move|p1a: Regidrago|Dragon Dance|p1a: Regidrago
+|-boost|p1a: Regidrago|atk|1
+|-boost|p1a: Regidrago|spe|1
+|
+|upkeep
+|turn|23
+|inactive|Papi Draieul has 120 seconds left.
+|-message|Papi Draieul forfeited.
+|
+|win|Anderj10
+|raw|Papi Draieul's rating: 1772 &rarr; <strong>1749</strong><br />(-23 for losing)
+|raw|Anderj10's rating: 1727 &rarr; <strong>1750</strong><br />(+23 for winning)
+|l|☆Papi Draieul
+|player|p1|

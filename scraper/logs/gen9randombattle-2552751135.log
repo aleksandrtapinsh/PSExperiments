@@ -1,0 +1,37 @@
+|j|☆Jadedlitch
+|j|☆Dr.lisek_68+1
+|t:|1772749683
+|gametype|singles
+|player|p1|Jadedlitch|cheren-gen5bw2|1128
+|player|p2|Dr.lisek_68+1|ingo|1129
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772749683
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Gurdurr|Gurdurr, L85, F|283/283
+|switch|p2a: Noivern|Noivern, L82, M|274/274
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Dr.lisek_68+1)
+|
+|t:|1772749700
+|move|p2a: Noivern|Hurricane|p1a: Gurdurr
+|-supereffective|p1a: Gurdurr
+|-damage|p1a: Gurdurr|0 fnt
+|faint|p1a: Gurdurr
+|
+|upkeep
+|-message|Jadedlitch forfeited.
+|
+|win|Dr.lisek_68+1
+|raw|Jadedlitch's rating: 1128 &rarr; <strong>1103</strong><br />(-25 for losing)
+|raw|Dr.lisek_68+1's rating: 1129 &rarr; <strong>1154</strong><br />(+25 for winning)
+|l|☆Jadedlitch
+|player|p1|

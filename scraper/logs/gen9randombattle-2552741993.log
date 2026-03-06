@@ -1,0 +1,357 @@
+|j|☆Real Lil Baby
+|j|☆skimaskshawty
+|t:|1772748792
+|gametype|singles
+|player|p1|Real Lil Baby|169|1411
+|player|p2|skimaskshawty|169|1357
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772748792
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Delibird|Delibird, M|252/252
+|switch|p2a: Clefable|Clefable, L83, M|293/293
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Real Lil Baby)
+|inactive|Real Lil Baby has 120 seconds left.
+|
+|t:|1772748848
+|switch|p1a: Electrode|Electrode, L92|260/260
+|move|p2a: Clefable|Stealth Rock|p1a: Electrode
+|-sidestart|p1: Real Lil Baby|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1772748856
+|move|p1a: Electrode|Taunt|p2a: Clefable
+|-start|p2a: Clefable|move: Taunt
+|move|p2a: Clefable|Knock Off|p1a: Electrode
+|-damage|p1a: Electrode|203/260
+|-enditem|p1a: Electrode|Life Orb|[from] move: Knock Off|[of] p2a: Clefable
+|
+|upkeep
+|turn|3
+|
+|t:|1772748869
+|move|p1a: Electrode|Volt Switch|p2a: Clefable
+|-damage|p2a: Clefable|209/293
+|
+|t:|1772748875
+|switch|p1a: Delibird|Delibird, M|252/252|[from] Volt Switch
+|move|p2a: Clefable|Moonblast|p1a: Delibird
+|-damage|p1a: Delibird|128/252
+|
+|-heal|p2a: Clefable|227/293|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1772748905
+|move|p1a: Delibird|Rapid Spin|p2a: Clefable
+|-damage|p2a: Clefable|186/293
+|-boost|p1a: Delibird|spe|1
+|-sideend|p1: Real Lil Baby|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Delibird
+|move|p2a: Clefable|Knock Off|p1a: Delibird
+|-damage|p1a: Delibird|52/252
+|-enditem|p1a: Delibird|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Clefable
+|
+|-heal|p2a: Clefable|204/293|[from] item: Leftovers
+|-end|p2a: Clefable|move: Taunt
+|upkeep
+|turn|5
+|
+|t:|1772748916
+|move|p1a: Delibird|Spikes|p2a: Clefable
+|-sidestart|p2: skimaskshawty|Spikes
+|move|p2a: Clefable|Moonblast|p1a: Delibird
+|-damage|p1a: Delibird|0 fnt
+|faint|p1a: Delibird
+|
+|-heal|p2a: Clefable|222/293|[from] item: Leftovers
+|upkeep
+|
+|t:|1772748923
+|switch|p1a: Barraskewda|Barraskewda, L81, F|231/231
+|turn|6
+|
+|t:|1772748934
+|move|p1a: Barraskewda|Waterfall|p2a: Clefable
+|-damage|p2a: Clefable|59/293
+|move|p2a: Clefable|Stealth Rock|p1a: Barraskewda
+|-sidestart|p1: Real Lil Baby|move: Stealth Rock
+|
+|-heal|p2a: Clefable|77/293|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1772748946
+|move|p1a: Barraskewda|Waterfall|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|upkeep
+|inactive|skimaskshawty has 120 seconds left.
+|
+|t:|1772748976
+|switch|p2a: Toxapex|Toxapex, L82, F|216/216
+|-damage|p2a: Toxapex|189/216|[from] Spikes
+|turn|8
+|
+|t:|1772749001
+|switch|p1a: Volcanion|Volcanion, L79|256/256
+|move|p2a: Toxapex|Toxic Spikes|p1a: Volcanion
+|-sidestart|p1: Real Lil Baby|move: Toxic Spikes
+|
+|upkeep
+|turn|9
+|inactive|Real Lil Baby has 120 seconds left.
+|
+|t:|1772749021
+|move|p1a: Volcanion|Earth Power|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|85/216
+|move|p2a: Toxapex|Toxic Spikes|p1a: Volcanion
+|-sidestart|p1: Real Lil Baby|move: Toxic Spikes
+|
+|upkeep
+|turn|10
+|c|☆skimaskshawty|So u are the real lil baby
+|inactive|Real Lil Baby has 120 seconds left.
+|c|☆skimaskshawty|rap for me
+|
+|t:|1772749039
+|move|p1a: Volcanion|Earth Power|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|0 fnt
+|faint|p2a: Toxapex
+|
+|upkeep
+|
+|t:|1772749045
+|switch|p2a: Gastrodon|Gastrodon, L86, F|331/331
+|-damage|p2a: Gastrodon|290/331|[from] Spikes
+|turn|11
+|inactive|Real Lil Baby has 120 seconds left.
+|c|☆Real Lil Baby|fuck toxapex that boy not a flex we out here in atlanta collecting big checks
+|c|☆skimaskshawty|WOW
+|inactive|Real Lil Baby has 90 seconds left.
+|c|☆skimaskshawty|IT IS THE REAL LIL BABY
+|
+|t:|1772749106
+|switch|p1a: Bellossom|Bellossom, L84, M|263/263
+|-damage|p1a: Bellossom|231/263|[from] Stealth Rock
+|-status|p1a: Bellossom|tox
+|move|p2a: Gastrodon|Earthquake|p1a: Bellossom
+|-resisted|p1a: Bellossom
+|-damage|p1a: Bellossom|189/263 tox
+|
+|-heal|p1a: Bellossom|205/263 tox|[from] item: Leftovers
+|-heal|p2a: Gastrodon|310/331|[from] item: Leftovers
+|-damage|p1a: Bellossom|189/263 tox|[from] psn
+|upkeep
+|turn|12
+|inactive|skimaskshawty has 120 seconds left.
+|
+|t:|1772749127
+|switch|p2a: Frosmoth|Frosmoth, L82, M|249/249
+|move|p1a: Bellossom|Quiver Dance|p1a: Bellossom
+|-boost|p1a: Bellossom|spa|1
+|-boost|p1a: Bellossom|spd|1
+|-boost|p1a: Bellossom|spe|1
+|
+|-heal|p1a: Bellossom|205/263 tox|[from] item: Leftovers
+|-damage|p1a: Bellossom|173/263 tox|[from] psn
+|upkeep
+|turn|13
+|inactive|skimaskshawty has 120 seconds left.
+|
+|t:|1772749141
+|move|p1a: Bellossom|Sludge Bomb|p2a: Frosmoth
+|-damage|p2a: Frosmoth|205/249
+|move|p2a: Frosmoth|Quiver Dance|p2a: Frosmoth
+|-boost|p2a: Frosmoth|spa|1
+|-boost|p2a: Frosmoth|spd|1
+|-boost|p2a: Frosmoth|spe|1
+|
+|-heal|p1a: Bellossom|189/263 tox|[from] item: Leftovers
+|-damage|p1a: Bellossom|141/263 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1772749147
+|move|p2a: Frosmoth|Bug Buzz|p1a: Bellossom
+|-supereffective|p1a: Bellossom
+|-damage|p1a: Bellossom|0 fnt
+|faint|p1a: Bellossom
+|
+|upkeep
+|
+|t:|1772749157
+|switch|p1a: Volcanion|Volcanion, L79|256/256
+|turn|15
+|c|☆skimaskshawty|If I win you gotta sign me to 4PF
+|
+|t:|1772749174
+|-terastallize|p2a: Frosmoth|Ground
+|move|p2a: Frosmoth|Tera Blast|p1a: Volcanion|[anim] Tera Blast Ground
+|-supereffective|p1a: Volcanion
+|-damage|p1a: Volcanion|0 fnt
+|faint|p1a: Volcanion
+|
+|upkeep
+|
+|t:|1772749183
+|switch|p1a: Barraskewda|Barraskewda, L81, F|231/231
+|-damage|p1a: Barraskewda|203/231|[from] Stealth Rock
+|-status|p1a: Barraskewda|tox
+|turn|16
+|inactive|Real Lil Baby has 90 seconds left.
+|
+|t:|1772749190
+|move|p1a: Barraskewda|Close Combat|p2a: Frosmoth
+|-damage|p2a: Frosmoth|0 fnt
+|-unboost|p1a: Barraskewda|def|1
+|-unboost|p1a: Barraskewda|spd|1
+|faint|p2a: Frosmoth
+|
+|-damage|p1a: Barraskewda|189/231 tox|[from] psn
+|upkeep
+|
+|t:|1772749198
+|switch|p2a: Banette|Banette, L93, M|270/270
+|-damage|p2a: Banette|237/270|[from] Spikes
+|turn|17
+|c|☆Real Lil Baby|kill an opp first
+|
+|t:|1772749209
+|switch|p1a: Raikou|Raikou, L81|278/278
+|-damage|p1a: Raikou|244/278|[from] Stealth Rock
+|-status|p1a: Raikou|tox
+|-ability|p1a: Raikou|Pressure
+|move|p2a: Banette|Poltergeist|p1a: Raikou
+|-activate|p1a: Raikou|move: Poltergeist|Leftovers
+|-damage|p1a: Raikou|2/278 tox
+|-damage|p2a: Banette|210/270|[from] item: Life Orb
+|
+|-heal|p1a: Raikou|19/278 tox|[from] item: Leftovers
+|-damage|p1a: Raikou|2/278 tox|[from] psn
+|upkeep
+|turn|18
+|c|☆skimaskshawty|Who says I haven’t already
+|inactive|skimaskshawty has 120 seconds left.
+|
+|t:|1772749261
+|move|p2a: Banette|Shadow Sneak|p1a: Raikou
+|-damage|p1a: Raikou|0 fnt
+|faint|p1a: Raikou
+|-damage|p2a: Banette|183/270|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772749268
+|switch|p1a: Barraskewda|Barraskewda, L81, F|189/231 tox
+|-damage|p1a: Barraskewda|161/231 tox|[from] Stealth Rock
+|turn|19
+|
+|t:|1772749279
+|move|p1a: Barraskewda|Throat Chop|p2a: Banette
+|-supereffective|p2a: Banette
+|-damage|p2a: Banette|0 fnt
+|faint|p2a: Banette
+|
+|-damage|p1a: Barraskewda|147/231 tox|[from] psn
+|upkeep
+|
+|t:|1772749282
+|switch|p2a: Persian|Persian-Alola, L86, F|252/252
+|-damage|p2a: Persian|221/252|[from] Spikes
+|turn|20
+|
+|t:|1772749289
+|switch|p1a: Electrode|Electrode, L92|203/260
+|-damage|p1a: Electrode|171/260|[from] Stealth Rock
+|-status|p1a: Electrode|tox
+|move|p2a: Persian|Thunderbolt|p1a: Electrode
+|-resisted|p1a: Electrode
+|-damage|p1a: Electrode|144/260 tox
+|
+|-heal|p2a: Persian|236/252|[from] item: Leftovers
+|-damage|p1a: Electrode|128/260 tox|[from] psn
+|upkeep
+|turn|21
+|inactive|Real Lil Baby has 120 seconds left.
+|
+|t:|1772749305
+|move|p1a: Electrode|Thunderbolt|p2a: Persian
+|-damage|p2a: Persian|112/252
+|move|p2a: Persian|Dark Pulse|p1a: Electrode
+|-damage|p1a: Electrode|61/260 tox
+|
+|-heal|p2a: Persian|127/252|[from] item: Leftovers
+|-damage|p1a: Electrode|29/260 tox|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1772749317
+|switch|p2a: Gastrodon|Gastrodon, L86, F|310/331
+|-damage|p2a: Gastrodon|269/331|[from] Spikes
+|-terastallize|p1a: Electrode|Ice
+|move|p1a: Electrode|Tera Blast|p2a: Gastrodon|[anim] Tera Blast Ice
+|-damage|p2a: Gastrodon|175/331
+|
+|-heal|p2a: Gastrodon|195/331|[from] item: Leftovers
+|-damage|p1a: Electrode|0 fnt|[from] psn
+|faint|p1a: Electrode
+|upkeep
+|
+|t:|1772749330
+|switch|p1a: Barraskewda|Barraskewda, L81, F|147/231 tox
+|-damage|p1a: Barraskewda|119/231 tox|[from] Stealth Rock
+|turn|23
+|
+|t:|1772749341
+|move|p1a: Barraskewda|Close Combat|p2a: Gastrodon
+|-damage|p2a: Gastrodon|40/331
+|-unboost|p1a: Barraskewda|def|1
+|-unboost|p1a: Barraskewda|spd|1
+|move|p2a: Gastrodon|Ice Beam|p1a: Barraskewda
+|-resisted|p1a: Barraskewda
+|-damage|p1a: Barraskewda|44/231 tox
+|
+|-heal|p2a: Gastrodon|60/331|[from] item: Leftovers
+|-damage|p1a: Barraskewda|30/231 tox|[from] psn
+|upkeep
+|turn|24
+|inactive|Real Lil Baby has 120 seconds left.
+|
+|t:|1772749354
+|move|p1a: Barraskewda|Close Combat|p2a: Gastrodon
+|-damage|p2a: Gastrodon|0 fnt
+|-unboost|p1a: Barraskewda|def|1
+|-unboost|p1a: Barraskewda|spd|1
+|faint|p2a: Gastrodon
+|
+|-damage|p1a: Barraskewda|2/231 tox|[from] psn
+|upkeep
+|
+|t:|1772749357
+|switch|p2a: Persian|Persian-Alola, L86, F|127/252
+|-damage|p2a: Persian|96/252|[from] Spikes
+|turn|25
+|
+|t:|1772749365
+|move|p1a: Barraskewda|Close Combat|p2a: Persian
+|-supereffective|p2a: Persian
+|-damage|p2a: Persian|0 fnt
+|-unboost|p1a: Barraskewda|def|1
+|-unboost|p1a: Barraskewda|spd|1
+|faint|p2a: Persian
+|
+|win|Real Lil Baby

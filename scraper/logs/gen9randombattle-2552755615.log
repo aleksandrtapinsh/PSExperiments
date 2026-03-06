@@ -1,0 +1,373 @@
+|j|☆vorpaldevil
+|j|☆DoubleJumbo
+|t:|1772750131
+|gametype|singles
+|player|p1|vorpaldevil|workerice|1727
+|player|p2|DoubleJumbo|170|1738
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772750131
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Cresselia|Cresselia, L80, F|323/323
+|switch|p2a: Skarmory|Skarmory, L80, F|235/235
+|turn|1
+|
+|t:|1772750159
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|move|p2a: Skarmory|Stealth Rock|p1a: Cresselia
+|-sidestart|p1: vorpaldevil|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1772750168
+|switch|p2a: Kleavor|Kleavor, L78, M|237/237
+|move|p1a: Cresselia|Thunderbolt|p2a: Kleavor
+|-damage|p2a: Kleavor|137/237
+|-status|p2a: Kleavor|par
+|
+|upkeep
+|turn|3
+|
+|t:|1772750177
+|move|p1a: Cresselia|Thunderbolt|p2a: Kleavor
+|-damage|p2a: Kleavor|51/237 par
+|move|p2a: Kleavor|X-Scissor|p1a: Cresselia
+|-supereffective|p1a: Cresselia
+|-damage|p1a: Cresselia|59/323
+|
+|-heal|p1a: Cresselia|79/323|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1772750183
+|move|p1a: Cresselia|Thunderbolt|p2a: Kleavor
+|-damage|p2a: Kleavor|0 fnt
+|faint|p2a: Kleavor
+|
+|-heal|p1a: Cresselia|99/323|[from] item: Leftovers
+|upkeep
+|
+|t:|1772750186
+|switch|p2a: Zapdos|Zapdos-Galar, L77|265/265
+|turn|5
+|
+|t:|1772750201
+|move|p2a: Zapdos|Brave Bird|p1a: Cresselia
+|-damage|p1a: Cresselia|0 fnt
+|faint|p1a: Cresselia
+|-damage|p2a: Zapdos|232/265|[from] Recoil
+|
+|upkeep
+|
+|t:|1772750212
+|switch|p1a: Oricorio|Oricorio, L84, F|263/263
+|turn|6
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by vorpaldevil)
+|inactive|DoubleJumbo has 120 seconds left.
+|
+|t:|1772750316
+|move|p1a: Oricorio|Quiver Dance|p1a: Oricorio
+|-boost|p1a: Oricorio|spa|1
+|-boost|p1a: Oricorio|spd|1
+|-boost|p1a: Oricorio|spe|1
+|move|p2a: Zapdos|Brave Bird|p1a: Oricorio
+|-damage|p1a: Oricorio|25/263
+|-damage|p2a: Zapdos|153/265|[from] Recoil
+|
+|upkeep
+|turn|7
+|
+|t:|1772750326
+|switch|p2a: Raging Bolt|Raging Bolt, L78|323/323
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|move|p1a: Oricorio|Hurricane|p2a: Raging Bolt|[miss]
+|-miss|p1a: Oricorio|p2a: Raging Bolt
+|
+|upkeep
+|turn|8
+|
+|t:|1772750334
+|-terastallize|p1a: Oricorio|Ground
+|move|p1a: Oricorio|Roost|p1a: Oricorio
+|-heal|p1a: Oricorio|157/263
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Oricorio
+|-damage|p1a: Oricorio|49/263
+|
+|upkeep
+|turn|9
+|
+|t:|1772750341
+|move|p1a: Oricorio|Roost|p1a: Oricorio
+|-heal|p1a: Oricorio|181/263
+|move|p2a: Raging Bolt|Calm Mind|p2a: Raging Bolt
+|-boost|p2a: Raging Bolt|spa|1
+|-boost|p2a: Raging Bolt|spd|1
+|
+|upkeep
+|turn|10
+|
+|t:|1772750347
+|move|p1a: Oricorio|Quiver Dance|p1a: Oricorio
+|-boost|p1a: Oricorio|spa|1
+|-boost|p1a: Oricorio|spd|1
+|-boost|p1a: Oricorio|spe|1
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Oricorio
+|-damage|p1a: Oricorio|72/263
+|
+|upkeep
+|turn|11
+|
+|t:|1772750354
+|move|p1a: Oricorio|Roost|p1a: Oricorio
+|-heal|p1a: Oricorio|204/263
+|move|p2a: Raging Bolt|Calm Mind|p2a: Raging Bolt
+|-boost|p2a: Raging Bolt|spa|1
+|-boost|p2a: Raging Bolt|spd|1
+|
+|upkeep
+|turn|12
+|
+|t:|1772750358
+|move|p1a: Oricorio|Quiver Dance|p1a: Oricorio
+|-boost|p1a: Oricorio|spa|1
+|-boost|p1a: Oricorio|spd|1
+|-boost|p1a: Oricorio|spe|1
+|move|p2a: Raging Bolt|Calm Mind|p2a: Raging Bolt
+|-boost|p2a: Raging Bolt|spa|1
+|-boost|p2a: Raging Bolt|spd|1
+|
+|upkeep
+|turn|13
+|
+|t:|1772750363
+|move|p1a: Oricorio|Quiver Dance|p1a: Oricorio
+|-boost|p1a: Oricorio|spa|1
+|-boost|p1a: Oricorio|spd|1
+|-boost|p1a: Oricorio|spe|1
+|move|p2a: Raging Bolt|Calm Mind|p2a: Raging Bolt
+|-boost|p2a: Raging Bolt|spa|1
+|-boost|p2a: Raging Bolt|spd|1
+|
+|upkeep
+|turn|14
+|
+|t:|1772750367
+|move|p1a: Oricorio|Quiver Dance|p1a: Oricorio
+|-boost|p1a: Oricorio|spa|1
+|-boost|p1a: Oricorio|spd|1
+|-boost|p1a: Oricorio|spe|1
+|move|p2a: Raging Bolt|Calm Mind|p2a: Raging Bolt
+|-boost|p2a: Raging Bolt|spa|1
+|-boost|p2a: Raging Bolt|spd|1
+|
+|upkeep
+|turn|15
+|
+|t:|1772750372
+|move|p1a: Oricorio|Quiver Dance|p1a: Oricorio
+|-boost|p1a: Oricorio|spa|1
+|-boost|p1a: Oricorio|spd|1
+|-boost|p1a: Oricorio|spe|1
+|move|p2a: Raging Bolt|Calm Mind|p2a: Raging Bolt
+|-boost|p2a: Raging Bolt|spa|1
+|-boost|p2a: Raging Bolt|spd|1
+|
+|upkeep
+|turn|16
+|
+|t:|1772750376
+|move|p1a: Oricorio|Revelation Dance|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|101/323
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Oricorio
+|-damage|p1a: Oricorio|48/263
+|
+|upkeep
+|turn|17
+|
+|t:|1772750383
+|move|p1a: Oricorio|Revelation Dance|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1772750385
+|switch|p2a: Abomasnow|Abomasnow, L84, F|287/287
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Abomasnow
+|turn|18
+|
+|t:|1772750394
+|switch|p1a: Froslass|Froslass, L87, F|263/263
+|-damage|p1a: Froslass|198/263|[from] Stealth Rock
+|move|p2a: Abomasnow|Ice Shard|p1a: Froslass
+|-resisted|p1a: Froslass
+|-damage|p1a: Froslass|182/263
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|19
+|inactive|DoubleJumbo has 120 seconds left.
+|
+|t:|1772750426
+|move|p1a: Froslass|Taunt|p2a: Abomasnow
+|-start|p2a: Abomasnow|move: Taunt
+|cant|p2a: Abomasnow|move: Taunt|Aurora Veil
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|20
+|
+|t:|1772750432
+|switch|p2a: Skarmory|Skarmory, L80, F|235/235
+|move|p1a: Froslass|Will-O-Wisp|p2a: Skarmory
+|-status|p2a: Skarmory|brn
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p2a: Skarmory|221/235 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1772750442
+|move|p1a: Froslass|Triple Axel|p2a: Skarmory
+|-damage|p2a: Skarmory|206/235 brn
+|-damage|p1a: Froslass|139/263|[from] item: Rocky Helmet|[of] p2a: Skarmory
+|-damage|p2a: Skarmory|175/235 brn
+|-damage|p1a: Froslass|96/263|[from] item: Rocky Helmet|[of] p2a: Skarmory
+|-damage|p2a: Skarmory|135/235 brn
+|-damage|p1a: Froslass|53/263|[from] item: Rocky Helmet|[of] p2a: Skarmory
+|-hitcount|p2a: Skarmory|3
+|move|p2a: Skarmory|Brave Bird|p1a: Froslass
+|-damage|p1a: Froslass|13/263
+|-start|p2a: Skarmory|Disable|Brave Bird|[from] ability: Cursed Body|[of] p1a: Froslass
+|-damage|p2a: Skarmory|122/235 brn|[from] Recoil
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p2a: Skarmory|108/235 brn|[from] brn
+|upkeep
+|turn|22
+|
+|t:|1772750454
+|move|p1a: Froslass|Taunt|p2a: Skarmory
+|-start|p2a: Skarmory|move: Taunt
+|cant|p2a: Skarmory|move: Taunt|Roost
+|
+|-weather|none
+|-damage|p2a: Skarmory|94/235 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1772750459
+|move|p1a: Froslass|Poltergeist|p2a: Skarmory
+|-activate|p2a: Skarmory|move: Poltergeist|Rocky Helmet
+|-damage|p2a: Skarmory|12/235 brn
+|move|p2a: Skarmory|Body Press|p1a: Froslass
+|-immune|p1a: Froslass
+|
+|-damage|p2a: Skarmory|0 fnt|[from] brn
+|faint|p2a: Skarmory
+|upkeep
+|
+|t:|1772750462
+|switch|p2a: Abomasnow|Abomasnow, L84, F|287/287
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Abomasnow
+|turn|24
+|
+|t:|1772750468
+|move|p2a: Abomasnow|Ice Shard|p1a: Froslass
+|-resisted|p1a: Froslass
+|-damage|p1a: Froslass|0 fnt
+|faint|p1a: Froslass
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1772750474
+|switch|p1a: Cinccino|Cinccino, L83, M|260/260
+|-damage|p1a: Cinccino|228/260|[from] Stealth Rock
+|turn|25
+|
+|t:|1772750479
+|move|p1a: Cinccino|Tail Slap|p2a: Abomasnow
+|-damage|p2a: Abomasnow|260/287
+|-damage|p2a: Abomasnow|230/287
+|-damage|p2a: Abomasnow|200/287
+|-damage|p2a: Abomasnow|167/287
+|-damage|p2a: Abomasnow|137/287
+|-hitcount|p2a: Abomasnow|5
+|move|p2a: Abomasnow|Blizzard|p1a: Cinccino
+|-damage|p1a: Cinccino|83/260
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|26
+|
+|t:|1772750503
+|move|p1a: Cinccino|Tail Slap|p2a: Abomasnow
+|-damage|p2a: Abomasnow|107/287
+|-damage|p2a: Abomasnow|77/287
+|-damage|p2a: Abomasnow|46/287
+|-damage|p2a: Abomasnow|15/287
+|-damage|p2a: Abomasnow|0 fnt
+|faint|p2a: Abomasnow
+|-hitcount|p2: Abomasnow|5
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1772750512
+|switch|p2a: Walking Wake|Walking Wake, L79|286/286
+|turn|27
+|
+|t:|1772750518
+|move|p1a: Cinccino|Tail Slap|p2a: Walking Wake
+|-damage|p2a: Walking Wake|246/286
+|-damage|p2a: Walking Wake|207/286
+|-damage|p2a: Walking Wake|164/286
+|-damage|p2a: Walking Wake|122/286
+|-hitcount|p2a: Walking Wake|4
+|move|p2a: Walking Wake|Flamethrower|p1a: Cinccino
+|-damage|p1a: Cinccino|0 fnt
+|faint|p1a: Cinccino
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1772750529
+|switch|p1a: Moltres|Moltres-Galar, L79|271/271
+|-damage|p1a: Moltres|204/271|[from] Stealth Rock
+|turn|28
+|
+|t:|1772750538
+|move|p2a: Walking Wake|Flamethrower|p1a: Moltres
+|-damage|p1a: Moltres|126/271
+|-ability|p1a: Moltres|Berserk|boost
+|-boost|p1a: Moltres|spa|1
+|move|p1a: Moltres|Agility|p1a: Moltres
+|-boost|p1a: Moltres|spe|2
+|
+|-weather|none
+|upkeep
+|turn|29
+|-message|DoubleJumbo forfeited.
+|
+|win|vorpaldevil
+|raw|vorpaldevil's rating: 1727 &rarr; <strong>1749</strong><br />(+22 for winning)
+|raw|DoubleJumbo's rating: 1760 &rarr; <strong>1738</strong><br />(-22 for losing)
+|l|☆DoubleJumbo
+|player|p2|

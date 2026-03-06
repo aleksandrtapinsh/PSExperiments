@@ -1,0 +1,212 @@
+|j|☆jurassicstorm11
+|j|☆asssnatcher
+|t:|1772745528
+|gametype|singles
+|player|p1|jurassicstorm11|rocketgruntf|1078
+|player|p2|asssnatcher|n|1101
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772745528
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Dugtrio|Dugtrio-Alola, L84, F|196/196
+|switch|p2a: Alcremie|Alcremie-Salted-Cream, L90, F|263/263
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by asssnatcher)
+|
+|t:|1772745558
+|switch|p2a: Ho-Oh|Ho-Oh, L71|268/268
+|move|p1a: Dugtrio|Iron Head|p2a: Ho-Oh
+|-resisted|p2a: Ho-Oh
+|-damage|p2a: Ho-Oh|200/268
+|-damage|p1a: Dugtrio|177/196|[from] item: Life Orb
+|
+|upkeep
+|turn|2
+|
+|t:|1772745575
+|switch|p1a: Dragapult|Dragapult, L77, F|262/262
+|move|p2a: Ho-Oh|Sacred Fire|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|203/262
+|
+|upkeep
+|turn|3
+|
+|t:|1772745590
+|move|p1a: Dragapult|Dragon Darts|p2a: Ho-Oh
+|-damage|p2a: Ho-Oh|140/268
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Ho-Oh
+|-damage|p2a: Ho-Oh|80/268
+|move|p2a: Ho-Oh|Brave Bird|p1a: Dragapult
+|-damage|p1a: Dragapult|58/262
+|-damage|p2a: Ho-Oh|32/268|[from] Recoil
+|
+|upkeep
+|turn|4
+|
+|t:|1772745601
+|move|p1a: Dragapult|U-turn|p2a: Ho-Oh
+|-resisted|p2a: Ho-Oh
+|-damage|p2a: Ho-Oh|19/268
+|
+|t:|1772745607
+|switch|p1a: Typhlosion|Typhlosion-Hisui, L83, F|257/257|[from] U-turn
+|move|p2a: Ho-Oh|Recover|p2a: Ho-Oh
+|-heal|p2a: Ho-Oh|153/268
+|
+|upkeep
+|turn|5
+|
+|t:|1772745617
+|move|p1a: Typhlosion|Shadow Ball|p2a: Ho-Oh
+|-damage|p2a: Ho-Oh|86/268
+|move|p2a: Ho-Oh|Earthquake|p1a: Typhlosion
+|-supereffective|p1a: Typhlosion
+|-damage|p1a: Typhlosion|123/257
+|
+|-heal|p1a: Typhlosion|139/257|[from] item: Leftovers
+|upkeep
+|turn|6
+|inactive|jurassicstorm11 has 120 seconds left.
+|inactive|jurassicstorm11 has 90 seconds left.
+|
+|t:|1772745689
+|switch|p1a: Darkrai|Darkrai, L77|234/234
+|move|p2a: Ho-Oh|Recover|p2a: Ho-Oh
+|-heal|p2a: Ho-Oh|220/268
+|
+|upkeep
+|turn|7
+|inactive|jurassicstorm11 has 60 seconds left.
+|
+|t:|1772745723
+|switch|p1a: Minior|Minior-Green, L79|224/224
+|-formechange|p1a: Minior|Minior-Meteor||[from] ability: Shields Down
+|move|p2a: Ho-Oh|Brave Bird|p1a: Minior
+|-resisted|p1a: Minior
+|-damage|p1a: Minior|171/224
+|-damage|p2a: Ho-Oh|203/268|[from] Recoil
+|
+|upkeep
+|turn|8
+|inactive|jurassicstorm11 has 60 seconds left.
+|
+|t:|1772745753
+|switch|p2a: Phione|Phione, L91|293/293
+|switch|p1a: Dugtrio|Dugtrio-Alola, L84, F|177/196
+|
+|upkeep
+|turn|9
+|
+|t:|1772745764
+|switch|p1a: Oricorio|Oricorio-Pa'u, L87, F|272/272
+|move|p2a: Phione|Take Heart|p2a: Phione
+|-boost|p2a: Phione|spa|1
+|-boost|p2a: Phione|spd|1
+|
+|upkeep
+|turn|10
+|
+|t:|1772745773
+|switch|p1a: Typhlosion|Typhlosion-Hisui, L83, F|139/257
+|move|p2a: Phione|Take Heart|p2a: Phione
+|-boost|p2a: Phione|spa|1
+|-boost|p2a: Phione|spd|1
+|
+|-heal|p1a: Typhlosion|155/257|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1772745782
+|move|p1a: Typhlosion|Substitute|p1a: Typhlosion
+|-start|p1a: Typhlosion|Substitute
+|-damage|p1a: Typhlosion|91/257
+|move|p2a: Phione|Scald|p1a: Typhlosion
+|-supereffective|p1a: Typhlosion
+|-end|p1a: Typhlosion|Substitute
+|
+|-heal|p1a: Typhlosion|107/257|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1772745791
+|switch|p1a: Darkrai|Darkrai, L77|234/234
+|move|p2a: Phione|Scald|p1a: Darkrai
+|-damage|p1a: Darkrai|57/234
+|
+|upkeep
+|turn|13
+|inactive|jurassicstorm11 has 60 seconds left.
+|
+|t:|1772745812
+|switch|p1a: Oricorio|Oricorio-Pa'u, L87, F|272/272
+|move|p2a: Phione|Scald|p1a: Oricorio
+|-crit|p1a: Oricorio
+|-damage|p1a: Oricorio|0 fnt
+|faint|p1a: Oricorio
+|
+|upkeep
+|
+|t:|1772745825
+|switch|p1a: Dugtrio|Dugtrio-Alola, L84, F|177/196
+|turn|14
+|
+|t:|1772745833
+|switch|p1a: Minior|Minior-Green, L79|171/224
+|-formechange|p1a: Minior|Minior-Meteor||[from] ability: Shields Down
+|move|p2a: Phione|Take Heart|p2a: Phione
+|-boost|p2a: Phione|spa|1
+|-boost|p2a: Phione|spd|1
+|
+|upkeep
+|turn|15
+|
+|t:|1772745843
+|switch|p1a: Dugtrio|Dugtrio-Alola, L84, F|177/196
+|move|p2a: Phione|Scald|p1a: Dugtrio
+|-supereffective|p1a: Dugtrio
+|-crit|p1a: Dugtrio
+|-damage|p1a: Dugtrio|0 fnt
+|faint|p1a: Dugtrio
+|
+|upkeep
+|c|☆jurassicstorm11|fart
+|inactive|jurassicstorm11 has 30 seconds left.
+|c|☆jurassicstorm11|GAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+|c|☆jurassicstorm11|Jjakdga
+|c|☆jurassicstorm11|a;sldkgjaslkdf
+|c|☆jurassicstorm11|as;kgjas;dklf
+|c|☆jurassicstorm11|dg;alskdfkavasd
+|c|☆jurassicstorm11|f;alksdj;oivankdf
+|c|☆jurassicstorm11|asdfkl;vna;ksdjga
+|c|☆jurassicstorm11|sdgjk
+|c|☆jurassicstorm11|aldkg
+|inactive|jurassicstorm11 has 20 seconds left.
+|c|☆jurassicstorm11|asdlkgj
+|c|☆jurassicstorm11|asdlkglka
+|c|☆jurassicstorm11|alksdf
+|c|☆jurassicstorm11|dlkdd
+|c|☆jurassicstorm11|af
+|inactive|jurassicstorm11 has 15 seconds left.
+|c|☆jurassicstorm11|d
+|c|☆jurassicstorm11|a
+|c|☆jurassicstorm11|a
+|c|☆jurassicstorm11|sdf
+|c|☆jurassicstorm11|fd
+|c|☆jurassicstorm11|a
+|c|☆jurassicstorm11|d
+|c|☆jurassicstorm11|fa
+|inactive|jurassicstorm11 has 10 seconds left.
+|inactive|jurassicstorm11 has 5 seconds left.
+|c|☆asssnatcher|AAAAAA
+|-message|jurassicstorm11 lost due to inactivity.
+|
+|win|asssnatcher

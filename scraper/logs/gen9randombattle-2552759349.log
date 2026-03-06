@@ -1,0 +1,290 @@
+|j|☆ayanayanami
+|j|☆SuperSayianFrog
+|t:|1772750513
+|gametype|singles
+|player|p1|ayanayanami|n-masters2|
+|player|p2|SuperSayianFrog|266|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772750513
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Gothitelle|Gothitelle, L90, F|272/272
+|switch|p2a: Rillaboom|Rillaboom, L79, F|288/288
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ayanayanami)
+|c|☆ayanayanami|am i kirked
+|c|☆SuperSayianFrog|wait my team is lowkey tuff
+|c|☆SuperSayianFrog|I think
+|
+|t:|1772750544
+|switch|p1a: Gogoat|Gogoat, L88, M|360/360
+|move|p2a: Rillaboom|Swords Dance|p2a: Rillaboom
+|-boost|p2a: Rillaboom|atk|2
+|
+|upkeep
+|turn|2
+|c|☆ayanayanami|gogoat save me
+|
+|t:|1772750564
+|move|p2a: Rillaboom|Knock Off|p1a: Gogoat
+|-damage|p1a: Gogoat|104/360
+|-enditem|p1a: Gogoat|Leftovers|[from] move: Knock Off|[of] p2a: Rillaboom
+|-damage|p2a: Rillaboom|260/288|[from] item: Life Orb
+|move|p1a: Gogoat|Bulk Up|p1a: Gogoat
+|-boost|p1a: Gogoat|atk|1
+|-boost|p1a: Gogoat|def|1
+|
+|-heal|p2a: Rillaboom|278/288|[from] Grassy Terrain
+|-heal|p1a: Gogoat|126/360|[from] Grassy Terrain
+|upkeep
+|turn|3
+|
+|t:|1772750576
+|move|p2a: Rillaboom|Grassy Glide|p1a: Gogoat
+|-ability|p1a: Gogoat|Sap Sipper|boost
+|-boost|p1a: Gogoat|atk|1
+|move|p1a: Gogoat|Milk Drink|p1a: Gogoat
+|-heal|p1a: Gogoat|306/360
+|
+|-heal|p2a: Rillaboom|288/288|[from] Grassy Terrain
+|-heal|p1a: Gogoat|328/360|[from] Grassy Terrain
+|upkeep
+|turn|4
+|c|☆ayanayanami|bro fell for it
+|c|☆ayanayanami|the big gogoat
+|
+|t:|1772750590
+|-terastallize|p2a: Rillaboom|Grass
+|move|p2a: Rillaboom|Swords Dance|p2a: Rillaboom
+|-boost|p2a: Rillaboom|atk|2
+|move|p1a: Gogoat|Bulk Up|p1a: Gogoat
+|-boost|p1a: Gogoat|atk|1
+|-boost|p1a: Gogoat|def|1
+|
+|-heal|p1a: Gogoat|350/360|[from] Grassy Terrain
+|upkeep
+|turn|5
+|c|☆ayanayanami|why the tera
+|
+|t:|1772750602
+|move|p2a: Rillaboom|Knock Off|p1a: Gogoat
+|-damage|p1a: Gogoat|236/360
+|-damage|p2a: Rillaboom|260/288|[from] item: Life Orb
+|move|p1a: Gogoat|Bulk Up|p1a: Gogoat
+|-boost|p1a: Gogoat|atk|1
+|-boost|p1a: Gogoat|def|1
+|
+|-heal|p2a: Rillaboom|278/288|[from] Grassy Terrain
+|-heal|p1a: Gogoat|258/360|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|6
+|c|☆SuperSayianFrog|why not
+|c|☆ayanayanami|ts guy
+|
+|t:|1772750616
+|move|p2a: Rillaboom|Knock Off|p1a: Gogoat
+|-damage|p1a: Gogoat|162/360
+|-damage|p2a: Rillaboom|250/288|[from] item: Life Orb
+|move|p1a: Gogoat|Bulk Up|p1a: Gogoat
+|-boost|p1a: Gogoat|atk|1
+|-boost|p1a: Gogoat|def|1
+|
+|upkeep
+|turn|7
+|c|☆SuperSayianFrog|for the defense boost duh
+|
+|t:|1772750628
+|move|p2a: Rillaboom|Knock Off|p1a: Gogoat
+|-damage|p1a: Gogoat|89/360
+|-damage|p2a: Rillaboom|222/288|[from] item: Life Orb
+|move|p1a: Gogoat|Milk Drink|p1a: Gogoat
+|-heal|p1a: Gogoat|269/360
+|
+|upkeep
+|turn|8
+|c|☆ayanayanami|son??
+|
+|t:|1772750637
+|move|p2a: Rillaboom|Swords Dance|p2a: Rillaboom
+|-boost|p2a: Rillaboom|atk|2
+|move|p1a: Gogoat|Bulk Up|p1a: Gogoat
+|-boost|p1a: Gogoat|atk|1
+|-boost|p1a: Gogoat|def|1
+|
+|upkeep
+|turn|9
+|
+|t:|1772750644
+|move|p2a: Rillaboom|Knock Off|p1a: Gogoat
+|-damage|p1a: Gogoat|179/360
+|-damage|p2a: Rillaboom|194/288|[from] item: Life Orb
+|move|p1a: Gogoat|Horn Leech|p2a: Rillaboom
+|-resisted|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|-heal|p1a: Gogoat|276/360|[from] drain|[of] p2a: Rillaboom
+|faint|p2a: Rillaboom
+|
+|upkeep
+|c|☆SuperSayianFrog|yeah gg
+|c|☆ayanayanami|son 💔💔
+|
+|t:|1772750665
+|switch|p2a: Scovillain|Scovillain, L91, M|266/266
+|turn|10
+|
+|t:|1772750685
+|move|p2a: Scovillain|Sunny Day|p2a: Scovillain
+|-weather|SunnyDay
+|move|p1a: Gogoat|Earthquake|p2a: Scovillain
+|-damage|p2a: Scovillain|0 fnt
+|faint|p2a: Scovillain
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|c|☆ayanayanami|why not just kill it
+|c|☆SuperSayianFrog|here comes the sun
+|inactive|SuperSayianFrog has 270 seconds left.
+|
+|t:|1772750705
+|switch|p2a: Garchomp|Garchomp, L74, F|282/282
+|turn|11
+|c|☆ayanayanami|uh oh
+|
+|t:|1772750711
+|move|p1a: Gogoat|Horn Leech|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|-heal|p1a: Gogoat|360/360|[from] drain|[of] p2a: Garchomp
+|-damage|p1a: Gogoat|315/360|[from] ability: Rough Skin|[of] p2a: Garchomp
+|-damage|p1a: Gogoat|255/360|[from] item: Rocky Helmet|[of] p2a: Garchomp
+|faint|p2a: Garchomp
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|c|☆ayanayanami|okay nevermind
+|
+|t:|1772750721
+|switch|p2a: Lugia|Lugia, L73|275/275
+|turn|12
+|
+|t:|1772750727
+|move|p2a: Lugia|Aeroblast|p1a: Gogoat
+|-supereffective|p1a: Gogoat
+|-damage|p1a: Gogoat|93/360
+|move|p1a: Gogoat|Horn Leech|p2a: Lugia
+|-resisted|p2a: Lugia
+|-damage|p2a: Lugia|201/275
+|-heal|p1a: Gogoat|130/360|[from] drain|[of] p2a: Lugia
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1772750739
+|move|p2a: Lugia|Aeroblast|p1a: Gogoat
+|-supereffective|p1a: Gogoat
+|-damage|p1a: Gogoat|0 fnt
+|faint|p1a: Gogoat
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1772750753
+|switch|p1a: Polteageist|Polteageist, L78|222/222
+|turn|14
+|
+|t:|1772750761
+|move|p2a: Lugia|Calm Mind|p2a: Lugia
+|-boost|p2a: Lugia|spa|1
+|-boost|p2a: Lugia|spd|1
+|move|p1a: Polteageist|Shell Smash|p1a: Polteageist
+|-unboost|p1a: Polteageist|def|1
+|-unboost|p1a: Polteageist|spd|1
+|-boost|p1a: Polteageist|atk|2
+|-boost|p1a: Polteageist|spa|2
+|-boost|p1a: Polteageist|spe|2
+|-enditem|p1a: Polteageist|White Herb
+|-clearnegativeboost|p1a: Polteageist|[silent]
+|
+|-weather|none
+|upkeep
+|turn|15
+|
+|t:|1772750772
+|move|p1a: Polteageist|Shell Smash|p1a: Polteageist
+|-unboost|p1a: Polteageist|def|1
+|-unboost|p1a: Polteageist|spd|1
+|-boost|p1a: Polteageist|atk|2
+|-boost|p1a: Polteageist|spa|2
+|-boost|p1a: Polteageist|spe|2
+|move|p2a: Lugia|Calm Mind|p2a: Lugia
+|-boost|p2a: Lugia|spa|1
+|-boost|p2a: Lugia|spd|1
+|
+|upkeep
+|turn|16
+|
+|t:|1772750783
+|move|p1a: Polteageist|Shadow Ball|p2a: Lugia
+|-supereffective|p2a: Lugia
+|-damage|p2a: Lugia|0 fnt
+|faint|p2a: Lugia
+|
+|upkeep
+|
+|t:|1772750789
+|switch|p2a: Girafarig|Girafarig, L89, M|269/269
+|turn|17
+|
+|t:|1772750796
+|-terastallize|p1a: Polteageist|Fighting
+|move|p1a: Polteageist|Tera Blast|p2a: Girafarig|[anim] Tera Blast Fighting
+|-damage|p2a: Girafarig|50/269
+|move|p2a: Girafarig|Shadow Ball|p1a: Polteageist
+|-damage|p1a: Polteageist|149/222
+|
+|upkeep
+|turn|18
+|
+|t:|1772750807
+|move|p1a: Polteageist|Tera Blast|p2a: Girafarig|[anim] Tera Blast Fighting
+|-damage|p2a: Girafarig|0 fnt
+|faint|p2a: Girafarig
+|
+|upkeep
+|
+|t:|1772750814
+|switch|p2a: Probopass|Probopass, L91, M|257/257
+|turn|19
+|
+|t:|1772750821
+|move|p1a: Polteageist|Tera Blast|p2a: Probopass|[anim] Tera Blast Fighting
+|-supereffective|p2a: Probopass
+|-damage|p2a: Probopass|0 fnt
+|faint|p2a: Probopass
+|
+|win|ayanayanami
+|c|☆ayanayanami|gg
+|c|☆SuperSayianFrog|gg
+|c|☆ayanayanami|rematch or naw
+|c|☆SuperSayianFrog|okay night night hector
+|c|☆SuperSayianFrog|naw
+|c|☆ayanayanami|no pressure btw
+|c|☆ayanayanami|fair
+|c|☆ayanayanami|gn cha
+|c|☆SuperSayianFrog|ty
+|c|☆ayanayanami|chatt
+|c|☆SuperSayianFrog|meow
+|c|☆ayanayanami|last chance to take a glance
+|c|☆ayanayanami|okay
+|c|☆ayanayanami|meeeeeeeeeeeeeeeeeeeyow
+|l|☆SuperSayianFrog
+|player|p2|

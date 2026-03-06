@@ -1,0 +1,168 @@
+|j|☆dsbmay13
+|j|☆craftycaprid
+|t:|1772750960
+|gametype|singles
+|player|p1|dsbmay13|n|1173
+|player|p2|craftycaprid|crasherwake|1168
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772750960
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Bruxish|Bruxish, L85, M|254/254
+|switch|p2a: Altaria|Altaria, L89, M|278/278
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by craftycaprid)
+|
+|t:|1772750973
+|move|p1a: Bruxish|Swords Dance|p1a: Bruxish
+|-boost|p1a: Bruxish|atk|2
+|move|p2a: Altaria|Brave Bird|p1a: Bruxish
+|-damage|p1a: Bruxish|125/254
+|-damage|p2a: Altaria|235/278|[from] Recoil
+|
+|upkeep
+|turn|2
+|
+|t:|1772750980
+|-terastallize|p1a: Bruxish|Psychic
+|move|p1a: Bruxish|Psychic Fangs|p2a: Altaria
+|-damage|p2a: Altaria|0 fnt
+|faint|p2a: Altaria
+|-damage|p1a: Bruxish|100/254|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772750993
+|switch|p2a: Zarude|Zarude-Dada, L77|288/288
+|turn|3
+|
+|t:|1772751000
+|move|p2a: Zarude|Knock Off|p1a: Bruxish
+|-supereffective|p1a: Bruxish
+|-damage|p1a: Bruxish|0 fnt
+|-enditem|p1a: Bruxish|Life Orb|[from] move: Knock Off|[of] p2a: Zarude
+|faint|p1a: Bruxish
+|
+|upkeep
+|
+|t:|1772751011
+|switch|p1a: Magcargo|Magcargo, L95, F|268/268
+|turn|4
+|
+|t:|1772751021
+|switch|p2a: Clodsire|Clodsire, L81, F|343/343
+|move|p1a: Magcargo|Yawn|p2a: Clodsire
+|-start|p2a: Clodsire|move: Yawn|[of] p1a: Magcargo
+|
+|upkeep
+|turn|5
+|
+|t:|1772751035
+|move|p1a: Magcargo|Lava Plume|p2a: Clodsire
+|-damage|p2a: Clodsire|250/343
+|move|p2a: Clodsire|Earthquake|p1a: Magcargo
+|-supereffective|p1a: Magcargo
+|-damage|p1a: Magcargo|24/268
+|
+|-heal|p2a: Clodsire|271/343|[from] item: Leftovers
+|-end|p2a: Clodsire|move: Yawn|[silent]
+|-status|p2a: Clodsire|slp
+|upkeep
+|turn|6
+|
+|t:|1772751043
+|move|p1a: Magcargo|Recover|p1a: Magcargo
+|-heal|p1a: Magcargo|158/268
+|cant|p2a: Clodsire|slp
+|
+|-heal|p2a: Clodsire|292/343 slp|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1772751054
+|move|p1a: Magcargo|Recover|p1a: Magcargo
+|-heal|p1a: Magcargo|268/268
+|cant|p2a: Clodsire|slp
+|
+|-heal|p2a: Clodsire|313/343 slp|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1772751065
+|switch|p1a: Cinccino|Cinccino, L83, M|260/260
+|cant|p2a: Clodsire|slp
+|
+|-heal|p2a: Clodsire|334/343 slp|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1772751074
+|move|p1a: Cinccino|Tidy Up|p1a: Cinccino
+|-boost|p1a: Cinccino|atk|1
+|-boost|p1a: Cinccino|spe|1
+|-curestatus|p2a: Clodsire|slp|[msg]
+|move|p2a: Clodsire|Toxic Spikes|p1a: Cinccino
+|-sidestart|p1: dsbmay13|move: Toxic Spikes
+|
+|-heal|p2a: Clodsire|343/343|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1772751081
+|move|p1a: Cinccino|Tidy Up|p1a: Cinccino
+|-sideend|p1: dsbmay13|Toxic Spikes
+|-activate|p1a: Cinccino|move: Tidy Up
+|-boost|p1a: Cinccino|atk|1
+|-boost|p1a: Cinccino|spe|1
+|move|p2a: Clodsire|Toxic Spikes|p1a: Cinccino
+|-sidestart|p1: dsbmay13|move: Toxic Spikes
+|
+|upkeep
+|turn|11
+|
+|t:|1772751088
+|move|p1a: Cinccino|Triple Axel|p2a: Clodsire
+|-supereffective|p2a: Clodsire
+|-damage|p2a: Clodsire|231/343
+|-supereffective|p2a: Clodsire
+|-damage|p2a: Clodsire|5/343
+|-supereffective|p2a: Clodsire
+|-damage|p2a: Clodsire|0 fnt
+|faint|p2a: Clodsire
+|-hitcount|p2: Clodsire|3
+|
+|upkeep
+|
+|t:|1772751102
+|switch|p2a: Ninetales|Ninetales-Alola, L78, M|242/242
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Ninetales
+|turn|12
+|
+|t:|1772751114
+|move|p1a: Cinccino|Tail Slap|p2a: Ninetales
+|-damage|p2a: Ninetales|179/242
+|-damage|p2a: Ninetales|119/242
+|-damage|p2a: Ninetales|62/242
+|-damage|p2a: Ninetales|2/242
+|-hitcount|p2a: Ninetales|4
+|move|p2a: Ninetales|Blizzard|p1a: Cinccino
+|-damage|p1a: Cinccino|149/260
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|13
+|-message|craftycaprid forfeited.
+|
+|win|dsbmay13
+|raw|dsbmay13's rating: 1196 &rarr; <strong>1219</strong><br />(+23 for winning)
+|raw|craftycaprid's rating: 1168 &rarr; <strong>1145</strong><br />(-23 for losing)
+|l|☆craftycaprid
+|player|p2|

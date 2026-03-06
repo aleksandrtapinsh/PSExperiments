@@ -1,0 +1,253 @@
+|j|☆E Pluribus
+|j|☆The_ZirR
+|t:|1772747508
+|gametype|singles
+|player|p1|E Pluribus|rocketgrunt|1203
+|player|p2|The_ZirR|bellelba|1252
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772747508
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Amoonguss|Amoonguss, L82, F|321/321
+|switch|p2a: Typhlosion|Typhlosion, L84, F|267/267
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by E Pluribus)
+|
+|t:|1772747540
+|switch|p1a: Ting-Lu|Ting-Lu, L78|370/370
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Typhlosion|Eruption|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|217/370
+|
+|-heal|p1a: Ting-Lu|240/370|[from] item: Leftovers
+|upkeep
+|turn|2
+|inactive|The_ZirR has 120 seconds left.
+|
+|t:|1772747574
+|switch|p2a: Toedscruel|Toedscruel, L87, M|281/281
+|move|p1a: Ting-Lu|Earthquake|p2a: Toedscruel
+|-resisted|p2a: Toedscruel
+|-damage|p2a: Toedscruel|224/281
+|
+|-heal|p1a: Ting-Lu|263/370|[from] item: Leftovers
+|upkeep
+|turn|3
+|inactive|E Pluribus has 120 seconds left.
+|inactive|E Pluribus has 90 seconds left.
+|
+|t:|1772747638
+|switch|p1a: Vikavolt|Vikavolt, L83, M|263/263
+|move|p2a: Toedscruel|Knock Off|p1a: Vikavolt
+|-damage|p1a: Vikavolt|203/263
+|-enditem|p1a: Vikavolt|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Toedscruel
+|
+|upkeep
+|turn|4
+|inactive|E Pluribus has 90 seconds left.
+|inactive|The_ZirR has 120 seconds left.
+|
+|t:|1772747659
+|switch|p2a: Iron Crown|Iron Crown, L78|268/268
+|move|p1a: Vikavolt|Sticky Web|p2a: Iron Crown
+|-sidestart|p2: The_ZirR|move: Sticky Web
+|
+|upkeep
+|turn|5
+|inactive|E Pluribus has 90 seconds left.
+|
+|t:|1772747680
+|switch|p1a: Ting-Lu|Ting-Lu, L78|263/370
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Iron Crown|Focus Blast|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|105/370
+|
+|-heal|p1a: Ting-Lu|128/370|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1772747701
+|-terastallize|p1a: Ting-Lu|Poison
+|move|p2a: Iron Crown|Focus Blast|p1a: Ting-Lu
+|-resisted|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|88/370
+|move|p1a: Ting-Lu|Stealth Rock|p2a: Iron Crown
+|-sidestart|p2: The_ZirR|move: Stealth Rock
+|
+|-heal|p1a: Ting-Lu|111/370|[from] item: Leftovers
+|upkeep
+|turn|7
+|inactive|E Pluribus has 60 seconds left.
+|
+|t:|1772747729
+|move|p2a: Iron Crown|Psyshock|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|0 fnt
+|faint|p1a: Ting-Lu
+|
+|upkeep
+|inactive|E Pluribus has 30 seconds left.
+|inactive|E Pluribus has 20 seconds left.
+|
+|t:|1772747767
+|switch|p1a: Pikachu|Pikachu-Partner, L93, M|216/216
+|turn|8
+|inactive|E Pluribus has 30 seconds left this turn.
+|inactive|E Pluribus has 20 seconds left.
+|inactive|The_ZirR has 120 seconds left.
+|
+|t:|1772747802
+|move|p1a: Pikachu|Volt Switch|p2a: Iron Crown
+|-damage|p2a: Iron Crown|154/268
+|inactive|E Pluribus has 25 seconds left this turn.
+|inactive|E Pluribus has 20 seconds left.
+|
+|t:|1772747807
+|switch|p1a: Vikavolt|Vikavolt, L83, M|203/263|[from] Volt Switch
+|move|p2a: Iron Crown|Tachyon Cutter|p1a: Vikavolt
+|-resisted|p1a: Vikavolt
+|-damage|p1a: Vikavolt|169/263
+|-resisted|p1a: Vikavolt
+|-damage|p1a: Vikavolt|138/263
+|-hitcount|p1a: Vikavolt|2
+|
+|-heal|p2a: Iron Crown|170/268|[from] item: Leftovers
+|upkeep
+|turn|9
+|inactive|E Pluribus has 30 seconds left this turn.
+|inactive|E Pluribus has 20 seconds left.
+|inactive|E Pluribus has 15 seconds left.
+|
+|t:|1772747824
+|move|p2a: Iron Crown|Tachyon Cutter|p1a: Vikavolt
+|-resisted|p1a: Vikavolt
+|-damage|p1a: Vikavolt|109/263
+|-resisted|p1a: Vikavolt
+|-damage|p1a: Vikavolt|79/263
+|-hitcount|p1a: Vikavolt|2
+|move|p1a: Vikavolt|Bug Buzz|p2a: Iron Crown
+|-damage|p2a: Iron Crown|50/268
+|
+|-heal|p2a: Iron Crown|66/268|[from] item: Leftovers
+|upkeep
+|turn|10
+|inactive|E Pluribus has 25 seconds left this turn.
+|inactive|E Pluribus has 20 seconds left.
+|inactive|E Pluribus has 15 seconds left.
+|
+|t:|1772747836
+|move|p2a: Iron Crown|Tachyon Cutter|p1a: Vikavolt
+|-resisted|p1a: Vikavolt
+|-damage|p1a: Vikavolt|46/263
+|-resisted|p1a: Vikavolt
+|-damage|p1a: Vikavolt|16/263
+|-hitcount|p1a: Vikavolt|2
+|move|p1a: Vikavolt|Bug Buzz|p2a: Iron Crown
+|-damage|p2a: Iron Crown|0 fnt
+|faint|p2a: Iron Crown
+|-end|p2a: Iron Crown|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1772747841
+|switch|p2a: Toedscruel|Toedscruel, L87, M|224/281
+|-activate|p2a: Toedscruel|move: Sticky Web
+|-unboost|p2a: Toedscruel|spe|1
+|-damage|p2a: Toedscruel|207/281|[from] Stealth Rock
+|turn|11
+|inactive|E Pluribus has 30 seconds left this turn.
+|inactive|E Pluribus has 20 seconds left.
+|
+|t:|1772747853
+|move|p2a: Toedscruel|Rapid Spin|p1a: Vikavolt
+|-damage|p1a: Vikavolt|0 fnt
+|-boost|p2a: Toedscruel|spe|1
+|-sideend|p2: The_ZirR|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Toedscruel
+|-sideend|p2: The_ZirR|Sticky Web|[from] move: Rapid Spin|[of] p2a: Toedscruel
+|faint|p1a: Vikavolt
+|
+|upkeep
+|inactive|E Pluribus has 25 seconds left this turn.
+|inactive|E Pluribus has 20 seconds left.
+|inactive|E Pluribus has 15 seconds left.
+|
+|t:|1772747865
+|switch|p1a: Probopass|Probopass, L91, F|257/257
+|turn|12
+|inactive|E Pluribus has 25 seconds left this turn.
+|inactive|E Pluribus has 20 seconds left.
+|
+|t:|1772747873
+|move|p2a: Toedscruel|Earth Power|p1a: Probopass
+|-supereffective|p1a: Probopass
+|-damage|p1a: Probopass|61/257
+|-unboost|p1a: Probopass|spd|1
+|move|p1a: Probopass|Body Press|p2a: Toedscruel
+|-damage|p2a: Toedscruel|98/281
+|
+|upkeep
+|turn|13
+|inactive|E Pluribus has 30 seconds left this turn.
+|
+|t:|1772747882
+|switch|p1a: Wo-Chien|Wo-Chien, L83|277/277
+|-ability|p1a: Wo-Chien|Tablets of Ruin
+|move|p2a: Toedscruel|Earth Power|p1a: Wo-Chien
+|-resisted|p1a: Wo-Chien
+|-damage|p1a: Wo-Chien|247/277
+|
+|-heal|p1a: Wo-Chien|264/277|[from] item: Leftovers
+|upkeep
+|turn|14
+|inactive|E Pluribus has 30 seconds left.
+|
+|t:|1772747895
+|move|p2a: Toedscruel|Knock Off|p1a: Wo-Chien
+|-resisted|p1a: Wo-Chien
+|-damage|p1a: Wo-Chien|244/277
+|-enditem|p1a: Wo-Chien|Leftovers|[from] move: Knock Off|[of] p2a: Toedscruel
+|move|p1a: Wo-Chien|Knock Off|p2a: Toedscruel
+|-damage|p2a: Toedscruel|0 fnt
+|-enditem|p2a: Toedscruel|Assault Vest|[from] move: Knock Off|[of] p1a: Wo-Chien
+|faint|p2a: Toedscruel
+|
+|upkeep
+|
+|t:|1772747908
+|switch|p2a: Typhlosion|Typhlosion, L84, F|267/267
+|turn|15
+|
+|t:|1772747917
+|switch|p1a: Probopass|Probopass, L91, F|61/257
+|move|p2a: Typhlosion|Eruption|p1a: Probopass
+|-damage|p1a: Probopass|0 fnt
+|faint|p1a: Probopass
+|
+|upkeep
+|
+|t:|1772747923
+|switch|p1a: Pikachu|Pikachu-Partner, L93, M|216/216
+|turn|16
+|
+|t:|1772747926
+|move|p2a: Typhlosion|Eruption|p1a: Pikachu
+|-damage|p1a: Pikachu|0 fnt
+|faint|p1a: Pikachu
+|
+|upkeep
+|-message|E Pluribus forfeited.
+|
+|win|The_ZirR
+|raw|E Pluribus's rating: 1203 &rarr; <strong>1182</strong><br />(-21 for losing)
+|raw|The_ZirR's rating: 1252 &rarr; <strong>1273</strong><br />(+21 for winning)
+|l|☆E Pluribus
+|player|p1|

@@ -1,0 +1,304 @@
+|j|☆kiuxre
+|j|☆DarkCharry45
+|t:|1772750407
+|gametype|singles
+|player|p1|kiuxre|hilda|1083
+|player|p2|DarkCharry45|nate|1071
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772750407
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Klefki|Klefki, L84, F|233/233
+|switch|p2a: Stonjourner|Stonjourner, L91, F|330/330
+|turn|1
+|
+|t:|1772750439
+|move|p1a: Klefki|Thunder Wave|p2a: Stonjourner
+|-status|p2a: Stonjourner|par
+|cant|p2a: Stonjourner|par
+|
+|upkeep
+|turn|2
+|
+|t:|1772750445
+|move|p1a: Klefki|Spikes|p2a: Stonjourner
+|-sidestart|p2: DarkCharry45|Spikes
+|move|p2a: Stonjourner|Stone Edge|p1a: Klefki
+|-resisted|p1a: Klefki
+|-damage|p1a: Klefki|142/233
+|-damage|p2a: Stonjourner|297/330 par|[from] item: Life Orb
+|
+|-heal|p1a: Klefki|156/233|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1772750480
+|move|p1a: Klefki|Dazzling Gleam|p2a: Stonjourner
+|-damage|p2a: Stonjourner|132/330 par
+|move|p2a: Stonjourner|Earthquake|p1a: Klefki
+|-supereffective|p1a: Klefki
+|-damage|p1a: Klefki|0 fnt
+|faint|p1a: Klefki
+|-damage|p2a: Stonjourner|99/330 par|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772750490
+|switch|p1a: Ursaluna|Ursaluna, L79, F|335/335
+|turn|4
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by kiuxre)
+|
+|t:|1772750505
+|switch|p2a: Venomoth|Venomoth, L84, F|255/255
+|move|p1a: Ursaluna|Swords Dance|p1a: Ursaluna
+|-boost|p1a: Ursaluna|atk|2
+|
+|-status|p1a: Ursaluna|brn|[from] item: Flame Orb
+|upkeep
+|turn|5
+|inactive|kiuxre has 120 seconds left.
+|
+|t:|1772750543
+|move|p2a: Venomoth|Sleep Powder||[still]
+|-fail|p2a: Venomoth
+|move|p1a: Ursaluna|Headlong Rush|p2a: Venomoth
+|-damage|p2a: Venomoth|0 fnt
+|-unboost|p1a: Ursaluna|def|1
+|-unboost|p1a: Ursaluna|spd|1
+|faint|p2a: Venomoth
+|
+|-damage|p1a: Ursaluna|315/335 brn|[from] brn
+|upkeep
+|
+|t:|1772750560
+|switch|p2a: Avalugg|Avalugg, L88, F|310/310
+|turn|6
+|inactive|kiuxre has 120 seconds left.
+|
+|t:|1772750573
+|switch|p1a: Cacturne|Cacturne, L92, F|278/278
+|-terastallize|p2a: Avalugg|Fighting
+|move|p2a: Avalugg|Body Press|p1a: Cacturne
+|-supereffective|p1a: Cacturne
+|-damage|p1a: Cacturne|0 fnt
+|faint|p1a: Cacturne
+|
+|upkeep
+|inactive|kiuxre has 120 seconds left.
+|
+|t:|1772750582
+|switch|p1a: Yanmega|Yanmega, L82, F|275/275
+|turn|7
+|
+|t:|1772750601
+|move|p1a: Yanmega|Air Slash|p2a: Avalugg
+|-supereffective|p2a: Avalugg
+|-ability|p2a: Avalugg|Sturdy
+|-damage|p2a: Avalugg|1/310
+|move|p2a: Avalugg|Rapid Spin|p1a: Yanmega
+|-damage|p1a: Yanmega|227/275
+|-boost|p2a: Avalugg|spe|1
+|-sideend|p2: DarkCharry45|Spikes|[from] move: Rapid Spin|[of] p2a: Avalugg
+|
+|upkeep
+|turn|8
+|
+|t:|1772750620
+|move|p1a: Yanmega|Air Slash|p2a: Avalugg
+|-supereffective|p2a: Avalugg
+|-damage|p2a: Avalugg|0 fnt
+|faint|p2a: Avalugg
+|
+|upkeep
+|
+|t:|1772750629
+|switch|p2a: Regice|Regice, L88|284/284
+|turn|9
+|inactive|kiuxre has 120 seconds left.
+|
+|t:|1772750653
+|move|p1a: Yanmega|Air Slash|p2a: Regice
+|-damage|p2a: Regice|217/284
+|move|p2a: Regice|Ice Beam|p1a: Yanmega
+|-supereffective|p1a: Yanmega
+|-damage|p1a: Yanmega|0 fnt
+|faint|p1a: Yanmega
+|
+|upkeep
+|
+|t:|1772750656
+|switch|p1a: Fezandipiti|Fezandipiti, L82, M|278/278
+|turn|10
+|inactive|kiuxre has 120 seconds left.
+|inactive|DarkCharry45 has 120 seconds left.
+|
+|t:|1772750695
+|move|p1a: Fezandipiti|Moonblast|p2a: Regice
+|-damage|p2a: Regice|183/284
+|move|p2a: Regice|Ice Beam|p1a: Fezandipiti
+|-crit|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|158/278
+|
+|-heal|p1a: Fezandipiti|175/278|[from] item: Leftovers
+|upkeep
+|turn|11
+|inactive|DarkCharry45 has 120 seconds left.
+|inactive|kiuxre has 120 seconds left.
+|
+|t:|1772750707
+|move|p1a: Fezandipiti|Beat Up|p2a: Regice
+|-damage|p2a: Regice|175/284
+|-damage|p2a: Regice|168/284
+|-hitcount|p2a: Regice|2
+|move|p2a: Regice|Ice Beam|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|91/278
+|
+|-heal|p1a: Fezandipiti|108/278|[from] item: Leftovers
+|upkeep
+|turn|12
+|inactive|DarkCharry45 has 120 seconds left.
+|
+|t:|1772750717
+|move|p1a: Fezandipiti|Roost|p1a: Fezandipiti
+|-heal|p1a: Fezandipiti|247/278
+|-singleturn|p1a: Fezandipiti|move: Roost
+|move|p2a: Regice|Ice Beam|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|169/278
+|
+|-heal|p1a: Fezandipiti|186/278|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1772750733
+|move|p1a: Fezandipiti|Moonblast|p2a: Regice
+|-damage|p2a: Regice|129/284
+|move|p2a: Regice|Ice Beam|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|104/278
+|
+|-heal|p1a: Fezandipiti|121/278|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1772750743
+|move|p1a: Fezandipiti|Roost|p1a: Fezandipiti
+|-heal|p1a: Fezandipiti|260/278
+|-singleturn|p1a: Fezandipiti|move: Roost
+|move|p2a: Regice|Ice Beam|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|184/278
+|
+|-heal|p1a: Fezandipiti|201/278|[from] item: Leftovers
+|upkeep
+|turn|15
+|inactive|kiuxre has 120 seconds left.
+|
+|t:|1772750769
+|move|p1a: Fezandipiti|Gunk Shot|p2a: Regice
+|-damage|p2a: Regice|24/284
+|-status|p2a: Regice|psn
+|move|p2a: Regice|Ice Beam|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|113/278
+|
+|-heal|p1a: Fezandipiti|130/278|[from] item: Leftovers
+|-damage|p2a: Regice|0 fnt|[from] psn
+|faint|p2a: Regice
+|upkeep
+|
+|t:|1772750784
+|switch|p2a: Mesprit|Mesprit, L85|275/275
+|turn|16
+|inactive|kiuxre has 120 seconds left.
+|
+|t:|1772750820
+|move|p1a: Fezandipiti|Beat Up|p2a: Mesprit
+|-supereffective|p2a: Mesprit
+|-damage|p2a: Mesprit|257/275
+|-supereffective|p2a: Mesprit
+|-damage|p2a: Mesprit|243/275
+|-hitcount|p2a: Mesprit|2
+|move|p2a: Mesprit|Psychic|p1a: Fezandipiti
+|-supereffective|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|0 fnt
+|faint|p1a: Fezandipiti
+|-damage|p2a: Mesprit|216/275|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772750826
+|switch|p1a: Ursaluna|Ursaluna, L79, F|315/335 brn
+|turn|17
+|
+|t:|1772750841
+|switch|p2a: Wugtrio|Wugtrio, L91, M|212/212
+|move|p1a: Ursaluna|Trailblaze|p2a: Wugtrio
+|-supereffective|p2a: Wugtrio
+|-damage|p2a: Wugtrio|50/212
+|-boost|p1a: Ursaluna|spe|1
+|-ability|p2a: Wugtrio|Gooey
+|-unboost|p1a: Ursaluna|spe|1
+|
+|-damage|p1a: Ursaluna|295/335 brn|[from] brn
+|upkeep
+|turn|18
+|inactive|DarkCharry45 has 120 seconds left.
+|
+|t:|1772750856
+|-terastallize|p1a: Ursaluna|Normal
+|move|p2a: Wugtrio|Liquidation|p1a: Ursaluna
+|-damage|p1a: Ursaluna|136/335 brn
+|move|p1a: Ursaluna|Trailblaze|p2a: Wugtrio
+|-supereffective|p2a: Wugtrio
+|-damage|p2a: Wugtrio|0 fnt
+|-boost|p1a: Ursaluna|spe|1
+|-ability|p2a: Wugtrio|Gooey
+|-unboost|p1a: Ursaluna|spe|1
+|faint|p2a: Wugtrio
+|
+|-damage|p1a: Ursaluna|116/335 brn|[from] brn
+|upkeep
+|inactive|DarkCharry45 has 120 seconds left.
+|
+|t:|1772750872
+|switch|p2a: Stonjourner|Stonjourner, L91, F|99/330 par
+|turn|19
+|inactive|kiuxre has 120 seconds left.
+|
+|t:|1772750881
+|move|p1a: Ursaluna|Trailblaze|p2a: Stonjourner
+|-supereffective|p2a: Stonjourner
+|-damage|p2a: Stonjourner|17/330 par
+|-boost|p1a: Ursaluna|spe|1
+|move|p2a: Stonjourner|Earthquake|p1a: Ursaluna
+|-damage|p1a: Ursaluna|0 fnt
+|faint|p1a: Ursaluna
+|-damage|p2a: Stonjourner|0 fnt|[from] item: Life Orb
+|faint|p2a: Stonjourner
+|
+|upkeep
+|inactive|kiuxre has 120 seconds left.
+|
+|t:|1772750893
+|switch|p2a: Mesprit|Mesprit, L85|216/275
+|switch|p1a: Pelipper|Pelipper, L86, M|243/243
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|20
+|
+|t:|1772750901
+|move|p2a: Mesprit|Thunderbolt|p1a: Pelipper
+|-supereffective|p1a: Pelipper
+|-damage|p1a: Pelipper|0 fnt
+|faint|p1a: Pelipper
+|-damage|p2a: Mesprit|189/275|[from] item: Life Orb
+|
+|win|DarkCharry45
+|raw|kiuxre's rating: 1083 &rarr; <strong>1060</strong><br />(-23 for losing)
+|raw|DarkCharry45's rating: 1071 &rarr; <strong>1101</strong><br />(+30 for winning)
+|l|☆kiuxre
+|player|p1|

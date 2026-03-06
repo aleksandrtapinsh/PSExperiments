@@ -1,0 +1,136 @@
+|j|☆Godly gogeta
+|j|☆Meitri
+|t:|1772751581
+|gametype|singles
+|player|p1|Godly gogeta|170|1265
+|player|p2|Meitri|266|1264
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772751581
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Regieleki|Regieleki, L79|256/256
+|switch|p2a: Weezing|Weezing, L88, M|258/258
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Meitri)
+|
+|t:|1772751589
+|move|p1a: Regieleki|Thunderbolt|p2a: Weezing
+|-damage|p2a: Weezing|96/258
+|move|p2a: Weezing|Will-O-Wisp|p1a: Regieleki|[miss]
+|-miss|p2a: Weezing|p1a: Regieleki
+|
+|-heal|p2a: Weezing|112/258|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1772751594
+|move|p1a: Regieleki|Thunderbolt|p2a: Weezing
+|-crit|p2a: Weezing
+|-damage|p2a: Weezing|0 fnt
+|faint|p2a: Weezing
+|
+|upkeep
+|
+|t:|1772751608
+|switch|p2a: Rotom|Rotom-Heat, L83|219/219
+|turn|3
+|
+|t:|1772751617
+|move|p1a: Regieleki|Volt Switch|p2a: Rotom
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|171/219
+|
+|t:|1772751623
+|switch|p1a: Grumpig|Grumpig, L92, M|297/297|[from] Volt Switch
+|move|p2a: Rotom|Overheat|p1a: Grumpig
+|-crit|p1a: Grumpig
+|-damage|p1a: Grumpig|210/297
+|-unboost|p2a: Rotom|spa|2
+|
+|-heal|p1a: Grumpig|228/297|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1772751628
+|move|p1a: Grumpig|Nasty Plot|p1a: Grumpig
+|-boost|p1a: Grumpig|spa|2
+|move|p2a: Rotom|Pain Split|p1a: Grumpig
+|-sethp|p1a: Grumpig|199/297|[from] move: Pain Split|[silent]
+|-sethp|p2a: Rotom|199/219|[from] move: Pain Split
+|
+|-heal|p1a: Grumpig|217/297|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1772751636
+|move|p1a: Grumpig|Psyshock|p2a: Rotom
+|-damage|p2a: Rotom|43/219
+|move|p2a: Rotom|Volt Switch|p1a: Grumpig
+|-damage|p1a: Grumpig|186/297
+|
+|t:|1772751647
+|switch|p2a: Mightyena|Mightyena, L96, M|290/290|[from] Volt Switch
+|-ability|p2a: Mightyena|Intimidate|boost
+|-unboost|p1a: Grumpig|atk|1
+|
+|-heal|p1a: Grumpig|204/297|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1772751653
+|move|p2a: Mightyena|Sucker Punch|p1a: Grumpig
+|-supereffective|p1a: Grumpig
+|-damage|p1a: Grumpig|16/297
+|move|p1a: Grumpig|Focus Blast|p2a: Mightyena
+|-supereffective|p2a: Mightyena
+|-damage|p2a: Mightyena|0 fnt
+|faint|p2a: Mightyena
+|
+|-heal|p1a: Grumpig|34/297|[from] item: Leftovers
+|upkeep
+|
+|t:|1772751661
+|switch|p2a: Flutter Mane|Flutter Mane, L74|203/203
+|turn|7
+|
+|t:|1772751666
+|move|p2a: Flutter Mane|Moonblast|p1a: Grumpig
+|-damage|p1a: Grumpig|0 fnt
+|faint|p1a: Grumpig
+|
+|upkeep
+|
+|t:|1772751690
+|switch|p1a: Indeedee|Indeedee-F, L90, F|272/272
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Indeedee
+|turn|8
+|
+|t:|1772751697
+|-terastallize|p2a: Flutter Mane|Fairy
+|move|p1a: Indeedee|Psyshock|p2a: Flutter Mane
+|-damage|p2a: Flutter Mane|0 fnt
+|faint|p2a: Flutter Mane
+|-end|p2a: Flutter Mane|Protosynthesis|[silent]
+|
+|upkeep
+|l|☆Meitri
+|inactive|Meitri disconnected and has a minute to reconnect!
+|player|p2|
+|inactive|Meitri has 30 seconds to reconnect!
+|inactive|Meitri has 20 seconds to reconnect!
+|inactive|Meitri has 15 seconds to reconnect!
+|inactive|Meitri has 10 seconds to reconnect!
+|inactive|Meitri has 5 seconds to reconnect!
+|-message|Meitri lost due to inactivity.
+|
+|win|Godly gogeta
+|raw|Godly gogeta's rating: 1265 &rarr; <strong>1290</strong><br />(+25 for winning)
+|raw|Meitri's rating: 1264 &rarr; <strong>1239</strong><br />(-25 for losing)

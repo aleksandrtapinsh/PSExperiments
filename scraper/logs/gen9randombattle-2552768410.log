@@ -1,0 +1,252 @@
+|j|☆pushergod
+|j|☆occhiotips
+|t:|1772751464
+|gametype|singles
+|player|p1|pushergod|aquagrunt-rse|1512
+|player|p2|occhiotips|benga|1542
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772751464
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Minun|Minun, L95, F|268/268
+|switch|p2a: Lokix|Lokix, L82, M|251/251
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by pushergod)
+|c|☆pushergod|glhf
+|c|☆pushergod|!!!!!!!
+|inactive|pushergod has 120 seconds left.
+|
+|t:|1772751500
+|switch|p1a: Vespiquen|Vespiquen, L99, F|299/299
+|-ability|p1a: Vespiquen|Pressure
+|move|p2a: Lokix|First Impression|p1a: Vespiquen
+|-resisted|p1a: Vespiquen
+|-damage|p1a: Vespiquen|205/299
+|-damage|p2a: Lokix|226/251|[from] item: Life Orb
+|
+|upkeep
+|turn|2
+|
+|t:|1772751517
+|switch|p2a: Landorus|Landorus-Therian, L76, M|260/260
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Vespiquen|atk|1
+|move|p1a: Vespiquen|Toxic Spikes|p2a: Landorus
+|-sidestart|p2: occhiotips|move: Toxic Spikes
+|
+|upkeep
+|turn|3
+|inactive|pushergod has 120 seconds left.
+|inactive|occhiotips has 120 seconds left.
+|
+|t:|1772751556
+|switch|p1a: Leavanny|Leavanny, L86, M|269/269
+|move|p2a: Landorus|Stone Edge|p1a: Leavanny
+|-supereffective|p1a: Leavanny
+|-damage|p1a: Leavanny|111/269
+|
+|upkeep
+|turn|4
+|inactive|occhiotips has 120 seconds left.
+|inactive|pushergod has 120 seconds left.
+|inactive|pushergod has 90 seconds left.
+|inactive|pushergod has 60 seconds left.
+|
+|t:|1772751628
+|move|p1a: Leavanny|Sticky Web|p2a: Landorus
+|-sidestart|p2: occhiotips|move: Sticky Web
+|move|p2a: Landorus|U-turn|p1a: Leavanny
+|-supereffective|p1a: Leavanny
+|-damage|p1a: Leavanny|0 fnt
+|faint|p1a: Leavanny
+|c|☆pushergod|sorry i was eating
+|
+|t:|1772751644
+|switch|p2a: Slowking|Slowking-Galar, L85, M|300/300|[from] U-turn
+|-sideend|p2: occhiotips|move: Toxic Spikes|[of] p2a: Slowking
+|-activate|p2a: Slowking|move: Sticky Web
+|-unboost|p2a: Slowking|spe|1
+|
+|upkeep
+|inactive|pushergod has 60 seconds left.
+|c|☆occhiotips|dont worry
+|
+|t:|1772751671
+|switch|p1a: Spectrier|Spectrier, L75|274/274
+|turn|5
+|
+|t:|1772751679
+|move|p1a: Spectrier|Will-O-Wisp|p2a: Slowking
+|-status|p2a: Slowking|brn
+|move|p2a: Slowking|Future Sight|p1a: Spectrier
+|-start|p2a: Slowking|move: Future Sight
+|
+|-damage|p2a: Slowking|282/300 brn|[from] brn
+|upkeep
+|turn|6
+|inactive|pushergod has 60 seconds left.
+|inactive|occhiotips has 120 seconds left.
+|
+|t:|1772751695
+|switch|p1a: Diancie|Diancie, L82|216/216
+|move|p2a: Slowking|Psychic Noise|p1a: Diancie
+|-damage|p1a: Diancie|156/216
+|-start|p1a: Diancie|move: Heal Block
+|
+|-damage|p2a: Slowking|264/300 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1772751709
+|move|p1a: Diancie|Diamond Storm|p2a: Slowking
+|-damage|p2a: Slowking|158/300 brn
+|move|p2a: Slowking|Surf|p1a: Diancie
+|-supereffective|p1a: Diancie
+|-damage|p1a: Diancie|66/216
+|
+|-end|p1a: Diancie|move: Future Sight
+|-damage|p1a: Diancie|0 fnt
+|faint|p1a: Diancie
+|-damage|p2a: Slowking|140/300 brn|[from] brn
+|upkeep
+|
+|t:|1772751725
+|switch|p1a: Zangoose|Zangoose, L85, F|263/263
+|turn|8
+|
+|t:|1772751732
+|move|p1a: Zangoose|Knock Off|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|-enditem|p2a: Slowking|Assault Vest|[from] move: Knock Off|[of] p1a: Zangoose
+|faint|p2a: Slowking
+|
+|-status|p1a: Zangoose|tox|[from] item: Toxic Orb
+|upkeep
+|
+|t:|1772751741
+|switch|p2a: Regieleki|Regieleki, L79|256/256
+|-activate|p2a: Regieleki|move: Sticky Web
+|-unboost|p2a: Regieleki|spe|1
+|turn|9
+|inactive|pushergod has 60 seconds left.
+|inactive|occhiotips has 120 seconds left.
+|inactive|occhiotips has 90 seconds left.
+|
+|t:|1772751788
+|move|p2a: Regieleki|Rapid Spin|p1a: Zangoose
+|-damage|p1a: Zangoose|224/263 tox
+|-boost|p2a: Regieleki|spe|1
+|-sideend|p2: occhiotips|Sticky Web|[from] move: Rapid Spin|[of] p2a: Regieleki
+|move|p1a: Zangoose|Facade|p2a: Regieleki
+|-damage|p2a: Regieleki|0 fnt
+|faint|p2a: Regieleki
+|
+|-damage|p1a: Zangoose|208/263 tox|[from] psn
+|upkeep
+|inactive|occhiotips has 90 seconds left.
+|
+|t:|1772751796
+|switch|p2a: Lokix|Lokix, L82, M|226/251
+|turn|10
+|inactive|pushergod has 60 seconds left.
+|
+|t:|1772751808
+|move|p2a: Lokix|First Impression|p1a: Zangoose
+|-damage|p1a: Zangoose|64/263 tox
+|-damage|p2a: Lokix|201/251|[from] item: Life Orb
+|move|p1a: Zangoose|Facade|p2a: Lokix
+|-damage|p2a: Lokix|0 fnt
+|faint|p2a: Lokix
+|
+|-damage|p1a: Zangoose|32/263 tox|[from] psn
+|upkeep
+|inactive|occhiotips has 90 seconds left.
+|
+|t:|1772751826
+|switch|p2a: Landorus|Landorus-Therian, L76, M|260/260
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Zangoose|atk|1
+|turn|11
+|
+|t:|1772751838
+|move|p1a: Zangoose|Facade|p2a: Landorus
+|-damage|p2a: Landorus|76/260
+|move|p2a: Landorus|Stone Edge|p1a: Zangoose
+|-crit|p1a: Zangoose
+|-damage|p1a: Zangoose|0 fnt
+|faint|p1a: Zangoose
+|
+|-heal|p2a: Landorus|92/260|[from] item: Leftovers
+|upkeep
+|inactive|pushergod has 60 seconds left.
+|
+|t:|1772751869
+|switch|p1a: Spectrier|Spectrier, L75|274/274
+|turn|12
+|inactive|occhiotips has 90 seconds left.
+|
+|t:|1772751896
+|move|p1a: Spectrier|Shadow Ball|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|-ability|p1a: Spectrier|Grim Neigh|boost
+|-boost|p1a: Spectrier|spa|1
+|-damage|p1a: Spectrier|247/274|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772751901
+|switch|p2a: Volcarona|Volcarona, L77, M|257/257
+|turn|13
+|inactive|pushergod has 60 seconds left.
+|inactive|occhiotips has 90 seconds left.
+|
+|t:|1772751917
+|move|p1a: Spectrier|Nasty Plot|p1a: Spectrier
+|-boost|p1a: Spectrier|spa|2
+|move|p2a: Volcarona|Fire Blast|p1a: Spectrier
+|-damage|p1a: Spectrier|97/274
+|-status|p1a: Spectrier|brn
+|
+|-damage|p1a: Spectrier|80/274 brn|[from] brn
+|upkeep
+|turn|14
+|inactive|pushergod has 60 seconds left.
+|
+|t:|1772751931
+|move|p1a: Spectrier|Shadow Ball|p2a: Volcarona
+|-damage|p2a: Volcarona|0 fnt
+|faint|p2a: Volcarona
+|-ability|p1a: Spectrier|Grim Neigh|boost
+|-boost|p1a: Spectrier|spa|1
+|-damage|p1a: Spectrier|53/274 brn|[from] item: Life Orb
+|
+|-damage|p1a: Spectrier|36/274 brn|[from] brn
+|upkeep
+|
+|t:|1772751933
+|switch|p2a: Swampert|Swampert, L83, F|302/302
+|turn|15
+|c|☆pushergod|gg
+|inactive|pushergod has 60 seconds left.
+|
+|t:|1772751954
+|-terastallize|p1a: Spectrier|Dark
+|-terastallize|p2a: Swampert|Steel
+|move|p1a: Spectrier|Dark Pulse|p2a: Swampert
+|-damage|p2a: Swampert|0 fnt
+|faint|p2a: Swampert
+|-damage|p1a: Spectrier|9/274 brn|[from] item: Life Orb
+|
+|win|pushergod
+|raw|pushergod's rating: 1512 &rarr; <strong>1534</strong><br />(+22 for winning)
+|raw|occhiotips's rating: 1542 &rarr; <strong>1520</strong><br />(-22 for losing)

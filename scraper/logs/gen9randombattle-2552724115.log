@@ -1,0 +1,165 @@
+|j|☆amirulamani
+|j|☆tejuelico
+|t:|1772747018
+|gametype|singles
+|player|p1|amirulamani|proton|1300
+|player|p2|tejuelico|hiker-gen4|1301
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772747018
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Vileplume|Vileplume, L85, F|266/266
+|switch|p2a: Cinccino|Cinccino, L83, F|260/260
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by amirulamani)
+|
+|t:|1772747032
+|move|p2a: Cinccino|U-turn|p1a: Vileplume
+|-damage|p1a: Vileplume|220/266
+|-status|p2a: Cinccino|slp|[from] ability: Effect Spore|[of] p1a: Vileplume
+|
+|t:|1772747039
+|switch|p2a: Revavroom|Revavroom, L79, M|256/256|[from] U-turn
+|move|p1a: Vileplume|Strength Sap|p2a: Revavroom
+|-unboost|p2a: Revavroom|atk|1
+|-heal|p1a: Vileplume|266/266
+|
+|upkeep
+|turn|2
+|
+|t:|1772747050
+|switch|p1a: Lucario|Lucario, L84, M|255/255
+|move|p2a: Revavroom|Shift Gear|p2a: Revavroom
+|-boost|p2a: Revavroom|spe|2
+|-boost|p2a: Revavroom|atk|1
+|
+|upkeep
+|turn|3
+|
+|t:|1772747057
+|move|p2a: Revavroom|High Horsepower|p1a: Lucario
+|-supereffective|p1a: Lucario
+|-damage|p1a: Lucario|29/255
+|-damage|p2a: Revavroom|231/256|[from] item: Life Orb
+|move|p1a: Lucario|Close Combat|p2a: Revavroom
+|-damage|p2a: Revavroom|0 fnt
+|-unboost|p1a: Lucario|def|1
+|-unboost|p1a: Lucario|spd|1
+|faint|p2a: Revavroom
+|
+|upkeep
+|
+|t:|1772747074
+|switch|p2a: Cramorant|Cramorant, L86, F|261/261
+|turn|4
+|
+|t:|1772747081
+|move|p1a: Lucario|Close Combat|p2a: Cramorant
+|-resisted|p2a: Cramorant
+|-crit|p2a: Cramorant
+|-damage|p2a: Cramorant|36/261
+|-unboost|p1a: Lucario|def|1
+|-unboost|p1a: Lucario|spd|1
+|move|p2a: Cramorant|Brave Bird|p1a: Lucario
+|-damage|p1a: Lucario|0 fnt
+|faint|p1a: Lucario
+|-damage|p2a: Cramorant|26/261|[from] Recoil
+|
+|upkeep
+|
+|t:|1772747088
+|switch|p1a: Dedenne|Dedenne, L88, F|261/261
+|turn|5
+|
+|t:|1772747095
+|switch|p2a: Lurantis|Lurantis, L87, M|264/264
+|move|p1a: Dedenne|Dazzling Gleam|p2a: Lurantis
+|-damage|p2a: Lurantis|212/264
+|
+|upkeep
+|turn|6
+|
+|t:|1772747103
+|move|p1a: Dedenne|Nuzzle|p2a: Lurantis
+|-resisted|p2a: Lurantis
+|-damage|p2a: Lurantis|205/264
+|-status|p2a: Lurantis|par
+|move|p2a: Lurantis|Knock Off|p1a: Dedenne
+|-resisted|p1a: Dedenne
+|-damage|p1a: Dedenne|213/261
+|-enditem|p1a: Dedenne|Sitrus Berry|[from] move: Knock Off|[of] p2a: Lurantis
+|
+|upkeep
+|turn|7
+|
+|t:|1772747116
+|move|p1a: Dedenne|Super Fang|p2a: Lurantis
+|-damage|p2a: Lurantis|103/264 par
+|move|p2a: Lurantis|Leech Life|p1a: Dedenne
+|-resisted|p1a: Dedenne
+|-damage|p1a: Dedenne|174/261
+|-heal|p2a: Lurantis|123/264 par|[from] drain|[of] p1a: Dedenne
+|
+|upkeep
+|turn|8
+|
+|t:|1772747130
+|switch|p1a: Vileplume|Vileplume, L85, F|266/266
+|cant|p2a: Lurantis|par
+|
+|upkeep
+|turn|9
+|
+|t:|1772747137
+|-terastallize|p2a: Lurantis|Steel
+|move|p1a: Vileplume|Sludge Bomb|p2a: Lurantis
+|-immune|p2a: Lurantis
+|cant|p2a: Lurantis|par
+|
+|upkeep
+|turn|10
+|
+|t:|1772747149
+|switch|p1a: Armarouge|Armarouge, L80, M|267/267
+|move|p2a: Lurantis|Leech Life|p1a: Armarouge
+|-damage|p1a: Armarouge|210/267
+|-heal|p2a: Lurantis|152/264 par|[from] drain|[of] p1a: Armarouge
+|-ability|p1a: Armarouge|Weak Armor|boost
+|-unboost|p1a: Armarouge|def|1
+|-boost|p1a: Armarouge|spe|2
+|
+|upkeep
+|turn|11
+|
+|t:|1772747162
+|switch|p2a: Smeargle|Smeargle, L95, M|258/258
+|move|p1a: Armarouge|Aura Sphere|p2a: Smeargle
+|-supereffective|p2a: Smeargle
+|-enditem|p2a: Smeargle|Focus Sash
+|-damage|p2a: Smeargle|1/258
+|
+|upkeep
+|turn|12
+|
+|t:|1772747172
+|move|p1a: Armarouge|Aura Sphere|p2a: Smeargle
+|-supereffective|p2a: Smeargle
+|-damage|p2a: Smeargle|0 fnt
+|faint|p2a: Smeargle
+|
+|upkeep
+|-message|tejuelico forfeited.
+|
+|win|amirulamani
+|raw|amirulamani's rating: 1300 &rarr; <strong>1325</strong><br />(+25 for winning)
+|raw|tejuelico's rating: 1301 &rarr; <strong>1281</strong><br />(-20 for losing)
+|l|☆tejuelico
+|player|p2|

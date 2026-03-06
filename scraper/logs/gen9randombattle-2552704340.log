@@ -1,0 +1,179 @@
+|j|☆Fa1xan
+|j|☆Fire_Fly2025
+|t:|1772745120
+|gametype|singles
+|player|p1|Fa1xan|266|1038
+|player|p2|Fire_Fly2025|169|1088
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772745120
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Leafeon|Leafeon, L88, F|258/258
+|switch|p2a: Empoleon|Empoleon, L84, M|278/278
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Fa1xan)
+|
+|t:|1772745129
+|move|p1a: Leafeon|Swords Dance|p1a: Leafeon
+|-boost|p1a: Leafeon|atk|2
+|move|p2a: Empoleon|Ice Beam|p1a: Leafeon
+|-supereffective|p1a: Leafeon
+|-damage|p1a: Leafeon|82/258
+|
+|-heal|p1a: Leafeon|98/258|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1772745138
+|move|p1a: Leafeon|Leaf Blade|p2a: Empoleon
+|-damage|p2a: Empoleon|41/278
+|move|p2a: Empoleon|Ice Beam|p1a: Leafeon
+|-supereffective|p1a: Leafeon
+|-damage|p1a: Leafeon|0 fnt
+|faint|p1a: Leafeon
+|
+|-heal|p2a: Empoleon|58/278|[from] item: Leftovers
+|upkeep
+|
+|t:|1772745147
+|switch|p1a: Ludicolo|Ludicolo, L90, M|290/290
+|turn|3
+|
+|t:|1772745153
+|move|p1a: Ludicolo|Giga Drain|p2a: Empoleon
+|-damage|p2a: Empoleon|0 fnt
+|faint|p2a: Empoleon
+|-damage|p1a: Ludicolo|261/290|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772745163
+|switch|p2a: Inteleon|Inteleon, L81, M|246/246
+|turn|4
+|
+|t:|1772745170
+|move|p2a: Inteleon|U-turn|p1a: Ludicolo
+|-supereffective|p1a: Ludicolo
+|-damage|p1a: Ludicolo|173/290
+|
+|t:|1772745185
+|switch|p2a: Hitmonchan|Hitmonchan, L87, M|229/229|[from] U-turn
+|move|p1a: Ludicolo|Giga Drain|p2a: Hitmonchan
+|-damage|p2a: Hitmonchan|167/229
+|-heal|p1a: Ludicolo|204/290|[from] drain|[of] p2a: Hitmonchan
+|-damage|p1a: Ludicolo|175/290|[from] item: Life Orb
+|
+|upkeep
+|turn|5
+|
+|t:|1772745196
+|-terastallize|p2a: Hitmonchan|Steel
+|move|p2a: Hitmonchan|Poison Jab|p1a: Ludicolo
+|-supereffective|p1a: Ludicolo
+|-damage|p1a: Ludicolo|29/290
+|-status|p1a: Ludicolo|psn
+|move|p1a: Ludicolo|Rain Dance|p1a: Ludicolo
+|-weather|RainDance
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Ludicolo|0 fnt|[from] psn
+|faint|p1a: Ludicolo
+|upkeep
+|
+|t:|1772745200
+|switch|p1a: Cramorant|Cramorant, L86, F|261/261
+|turn|6
+|
+|t:|1772745219
+|switch|p2a: Raging Bolt|Raging Bolt, L78|323/323
+|move|p1a: Cramorant|Surf|p2a: Raging Bolt
+|-formechange|p1a: Cramorant|Cramorant-Gulping|
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|278/323
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1772745231
+|switch|p1a: Camerupt|Camerupt, L91, M|275/275
+|move|p2a: Raging Bolt|Thunderclap||[still]
+|-fail|p2a: Raging Bolt
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1772745242
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Inteleon|Inteleon, L81, M|246/246
+|move|p1a: Camerupt|Will-O-Wisp|p2a: Inteleon
+|-status|p2a: Inteleon|brn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Inteleon|231/246 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1772745258
+|switch|p1a: Cramorant|Cramorant, L86, F|261/261
+|move|p2a: Inteleon|Ice Beam|p1a: Cramorant
+|-damage|p1a: Cramorant|161/261
+|
+|-weather|none
+|-damage|p2a: Inteleon|216/246 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1772745270
+|move|p2a: Inteleon|Ice Beam|p1a: Cramorant
+|-damage|p1a: Cramorant|66/261
+|-status|p1a: Cramorant|frz
+|-curestatus|p1a: Cramorant|frz|[msg]
+|move|p1a: Cramorant|Brave Bird|p2a: Inteleon
+|-damage|p2a: Inteleon|68/246 brn
+|-damage|p1a: Cramorant|17/261|[from] Recoil
+|
+|-damage|p2a: Inteleon|53/246 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1772745290
+|move|p2a: Inteleon|Ice Beam|p1a: Cramorant
+|-damage|p1a: Cramorant|0 fnt
+|faint|p1a: Cramorant
+|
+|-damage|p2a: Inteleon|38/246 brn|[from] brn
+|upkeep
+|inactive|Fa1xan has 120 seconds left.
+|
+|t:|1772745308
+|switch|p1a: Camerupt|Camerupt, L91, M|275/275
+|turn|12
+|
+|t:|1772745312
+|-terastallize|p1a: Camerupt|Grass
+|move|p2a: Inteleon|Ice Beam|p1a: Camerupt
+|-supereffective|p1a: Camerupt
+|-damage|p1a: Camerupt|112/275
+|move|p1a: Camerupt|Earthquake|p2a: Inteleon
+|-damage|p2a: Inteleon|0 fnt
+|faint|p2a: Inteleon
+|
+|-heal|p1a: Camerupt|129/275|[from] item: Leftovers
+|upkeep
+|-message|Fa1xan forfeited.
+|
+|win|Fire_Fly2025
+|raw|Fa1xan's rating: 1038 &rarr; <strong>1025</strong><br />(-13 for losing)
+|raw|Fire_Fly2025's rating: 1088 &rarr; <strong>1111</strong><br />(+23 for winning)
+|l|☆Fa1xan
+|player|p1|

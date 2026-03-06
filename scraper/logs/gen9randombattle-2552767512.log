@@ -1,0 +1,495 @@
+|j|☆RastaHimbo
+|j|☆hitsugaya1999
+|t:|1772751370
+|gametype|singles
+|player|p1|RastaHimbo|erbie-unite|1667
+|player|p2|hitsugaya1999|169|1729
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772751370
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ting-Lu|Ting-Lu, L78|370/370
+|switch|p2a: Shiftry|Shiftry, L89, F|305/305
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|turn|1
+|
+|t:|1772751380
+|move|p2a: Shiftry|Swords Dance|p2a: Shiftry
+|-boost|p2a: Shiftry|atk|2
+|move|p1a: Ting-Lu|Stealth Rock|p2a: Shiftry
+|-sidestart|p2: hitsugaya1999|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by hitsugaya1999)
+|
+|t:|1772751394
+|switch|p1a: Skarmory|Skarmory, L80, F|235/235
+|move|p2a: Shiftry|Leaf Blade|p1a: Skarmory
+|-resisted|p1a: Skarmory
+|-crit|p1a: Skarmory
+|-damage|p1a: Skarmory|161/235
+|-damage|p2a: Shiftry|275/305|[from] item: Life Orb
+|
+|-heal|p1a: Skarmory|175/235|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1772751421
+|move|p2a: Shiftry|Knock Off|p1a: Skarmory
+|-damage|p1a: Skarmory|0 fnt
+|-enditem|p1a: Skarmory|Leftovers|[from] move: Knock Off|[of] p2a: Shiftry
+|faint|p1a: Skarmory
+|-damage|p2a: Shiftry|245/305|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772751428
+|switch|p1a: Illumise|Illumise, L91, F|266/266
+|turn|4
+|
+|t:|1772751445
+|switch|p2a: Cryogonal|Cryogonal, L89|287/287
+|move|p1a: Illumise|Bug Buzz|p2a: Cryogonal
+|-damage|p2a: Cryogonal|226/287
+|
+|upkeep
+|turn|5
+|
+|t:|1772751452
+|move|p1a: Illumise|Thunder Wave|p2a: Cryogonal
+|-status|p2a: Cryogonal|par
+|move|p2a: Cryogonal|Rapid Spin|p1a: Illumise
+|-damage|p1a: Illumise|242/266
+|-boost|p2a: Cryogonal|spe|1
+|-sideend|p2: hitsugaya1999|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Cryogonal
+|
+|upkeep
+|turn|6
+|
+|t:|1772751467
+|move|p1a: Illumise|Encore|p2a: Cryogonal
+|-start|p2a: Cryogonal|Encore
+|move|p2a: Cryogonal|Rapid Spin|p1a: Illumise
+|-damage|p1a: Illumise|216/266
+|-boost|p2a: Cryogonal|spe|1
+|
+|upkeep
+|turn|7
+|
+|t:|1772751472
+|switch|p2a: Chesnaught|Chesnaught, L84, M|285/285
+|move|p1a: Illumise|Bug Buzz|p2a: Chesnaught
+|-damage|p2a: Chesnaught|179/285
+|
+|-heal|p2a: Chesnaught|196/285|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1772751479
+|switch|p2a: Regigigas|Regigigas, L84|322/322
+|-start|p2a: Regigigas|ability: Slow Start
+|move|p1a: Illumise|Thunder Wave|p2a: Regigigas
+|-status|p2a: Regigigas|par
+|
+|upkeep
+|turn|9
+|
+|t:|1772751486
+|move|p1a: Illumise|Bug Buzz|p2a: Regigigas
+|-damage|p2a: Regigigas|241/322 par
+|move|p2a: Regigigas|Knock Off|p1a: Illumise
+|-damage|p1a: Illumise|165/266
+|-enditem|p1a: Illumise|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Regigigas
+|
+|-heal|p2a: Regigigas|261/322 par|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1772751496
+|move|p1a: Illumise|Encore|p2a: Regigigas
+|-start|p2a: Regigigas|Encore
+|cant|p2a: Regigigas|par
+|
+|-heal|p2a: Regigigas|281/322 par|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1772751499
+|move|p1a: Illumise|Roost|p1a: Illumise
+|-heal|p1a: Illumise|266/266
+|-singleturn|p1a: Illumise|move: Roost
+|cant|p2a: Regigigas|par
+|
+|-heal|p2a: Regigigas|301/322 par|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1772751516
+|move|p1a: Illumise|Bug Buzz|p2a: Regigigas
+|-damage|p2a: Regigigas|229/322 par
+|move|p2a: Regigigas|Knock Off|p1a: Illumise
+|-damage|p1a: Illumise|226/266
+|
+|-heal|p2a: Regigigas|249/322 par|[from] item: Leftovers
+|-end|p2a: Regigigas|Encore
+|upkeep
+|turn|13
+|
+|t:|1772751522
+|move|p1a: Illumise|Encore|p2a: Regigigas
+|-start|p2a: Regigigas|Encore
+|move|p2a: Regigigas|Knock Off|p1a: Illumise
+|-damage|p1a: Illumise|192/266
+|
+|-heal|p2a: Regigigas|269/322 par|[from] item: Leftovers
+|-end|p2a: Regigigas|Slow Start
+|upkeep
+|turn|14
+|
+|t:|1772751538
+|switch|p2a: Cryogonal|Cryogonal, L89|226/287 par
+|move|p1a: Illumise|Bug Buzz|p2a: Cryogonal
+|-damage|p2a: Cryogonal|163/287 par
+|
+|upkeep
+|turn|15
+|
+|t:|1772751544
+|move|p1a: Illumise|Roost|p1a: Illumise
+|-heal|p1a: Illumise|266/266
+|-singleturn|p1a: Illumise|move: Roost
+|move|p2a: Cryogonal|Freeze-Dry|p1a: Illumise
+|-damage|p1a: Illumise|187/266
+|
+|upkeep
+|turn|16
+|
+|t:|1772751550
+|move|p1a: Illumise|Bug Buzz|p2a: Cryogonal
+|-crit|p2a: Cryogonal
+|-damage|p2a: Cryogonal|66/287 par
+|cant|p2a: Cryogonal|par
+|
+|upkeep
+|turn|17
+|
+|t:|1772751556
+|move|p1a: Illumise|Bug Buzz|p2a: Cryogonal
+|-damage|p2a: Cryogonal|3/287 par
+|move|p2a: Cryogonal|Freeze-Dry|p1a: Illumise
+|-damage|p1a: Illumise|114/266
+|
+|upkeep
+|turn|18
+|
+|t:|1772751563
+|move|p1a: Illumise|Roost|p1a: Illumise
+|-heal|p1a: Illumise|247/266
+|-singleturn|p1a: Illumise|move: Roost
+|move|p2a: Cryogonal|Freeze-Dry|p1a: Illumise
+|-damage|p1a: Illumise|165/266
+|
+|upkeep
+|turn|19
+|
+|t:|1772751566
+|move|p1a: Illumise|Bug Buzz|p2a: Cryogonal
+|-damage|p2a: Cryogonal|0 fnt
+|faint|p2a: Cryogonal
+|
+|upkeep
+|
+|t:|1772751578
+|switch|p2a: Regigigas|Regigigas, L84|269/322 par
+|-start|p2a: Regigigas|ability: Slow Start
+|turn|20
+|
+|t:|1772751582
+|move|p1a: Illumise|Bug Buzz|p2a: Regigigas
+|-damage|p2a: Regigigas|194/322 par
+|move|p2a: Regigigas|Body Slam|p1a: Illumise
+|-damage|p1a: Illumise|96/266
+|-status|p1a: Illumise|par
+|
+|-heal|p2a: Regigigas|214/322 par|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1772751589
+|move|p1a: Illumise|Roost|p1a: Illumise
+|-heal|p1a: Illumise|229/266 par
+|-singleturn|p1a: Illumise|move: Roost
+|cant|p2a: Regigigas|par
+|
+|-heal|p2a: Regigigas|234/322 par|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1772751594
+|move|p1a: Illumise|Bug Buzz|p2a: Regigigas
+|-damage|p2a: Regigigas|162/322 par
+|-unboost|p2a: Regigigas|spd|1
+|move|p2a: Regigigas|Body Slam|p1a: Illumise
+|-damage|p1a: Illumise|162/266 par
+|
+|-heal|p2a: Regigigas|182/322 par|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1772751601
+|move|p1a: Illumise|Bug Buzz|p2a: Regigigas
+|-damage|p2a: Regigigas|59/322 par
+|move|p2a: Regigigas|Body Slam|p1a: Illumise
+|-damage|p1a: Illumise|93/266 par
+|
+|-heal|p2a: Regigigas|79/322 par|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1772751606
+|move|p1a: Illumise|Bug Buzz|p2a: Regigigas
+|-damage|p2a: Regigigas|0 fnt
+|faint|p2a: Regigigas
+|-end|p2a: Regigigas|Slow Start|[silent]
+|
+|upkeep
+|
+|t:|1772751610
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, L75, M|274/274
+|turn|25
+|
+|t:|1772751614
+|move|p1a: Illumise|Roost|p1a: Illumise
+|-heal|p1a: Illumise|226/266 par
+|-singleturn|p1a: Illumise|move: Roost
+|move|p2a: Urshifu|Surging Strikes|p1a: Illumise
+|-crit|p1a: Illumise
+|-damage|p1a: Illumise|163/266 par
+|-crit|p1a: Illumise
+|-damage|p1a: Illumise|100/266 par
+|-crit|p1a: Illumise
+|-damage|p1a: Illumise|37/266 par
+|-hitcount|p1a: Illumise|3
+|
+|upkeep
+|turn|26
+|
+|t:|1772751622
+|move|p1a: Illumise|Thunder Wave|p2a: Urshifu
+|-status|p2a: Urshifu|par
+|cant|p2a: Urshifu|par
+|
+|upkeep
+|turn|27
+|
+|t:|1772751630
+|cant|p1a: Illumise|par
+|move|p2a: Urshifu|Surging Strikes|p1a: Illumise
+|-crit|p1a: Illumise
+|-damage|p1a: Illumise|0 fnt
+|faint|p1a: Illumise
+|-hitcount|p1: Illumise|1
+|
+|upkeep
+|
+|t:|1772751639
+|switch|p1a: Deoxys|Deoxys, L74|196/196
+|-ability|p1a: Deoxys|Pressure
+|turn|28
+|
+|t:|1772751644
+|-terastallize|p2a: Urshifu|Water
+|move|p1a: Deoxys|Psycho Boost|p2a: Urshifu
+|-damage|p2a: Urshifu|0 fnt
+|-unboost|p1a: Deoxys|spa|2
+|faint|p2a: Urshifu
+|-damage|p1a: Deoxys|177/196|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772751650
+|switch|p2a: Shiftry|Shiftry, L89, F|245/305
+|turn|29
+|
+|t:|1772751655
+|-terastallize|p1a: Deoxys|Fighting
+|move|p1a: Deoxys|Superpower|p2a: Shiftry
+|-supereffective|p2a: Shiftry
+|-damage|p2a: Shiftry|0 fnt
+|-unboost|p1a: Deoxys|atk|1
+|-unboost|p1a: Deoxys|def|1
+|faint|p2a: Shiftry
+|-damage|p1a: Deoxys|158/196|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772751658
+|switch|p2a: Mew|Mew, L82|298/298
+|turn|30
+|
+|t:|1772751666
+|move|p1a: Deoxys|Knock Off|p2a: Mew
+|-supereffective|p2a: Mew
+|-damage|p2a: Mew|184/298
+|-enditem|p2a: Mew|Leftovers|[from] move: Knock Off|[of] p1a: Deoxys
+|-damage|p1a: Deoxys|139/196|[from] item: Life Orb
+|move|p2a: Mew|Stealth Rock|p1a: Deoxys
+|-sidestart|p1: RastaHimbo|move: Stealth Rock
+|
+|upkeep
+|turn|31
+|
+|t:|1772751693
+|switch|p1a: Ting-Lu|Ting-Lu, L78|370/370
+|-damage|p1a: Ting-Lu|347/370|[from] Stealth Rock
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Mew|Toxic Spikes|p1a: Ting-Lu
+|-sidestart|p1: RastaHimbo|move: Toxic Spikes
+|
+|-heal|p1a: Ting-Lu|370/370|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1772751699
+|move|p2a: Mew|U-turn|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|290/370
+|
+|t:|1772751706
+|switch|p2a: Chesnaught|Chesnaught, L84, M|196/285|[from] U-turn
+|move|p1a: Ting-Lu|Stealth Rock|p2a: Chesnaught
+|-sidestart|p2: hitsugaya1999|move: Stealth Rock
+|
+|-heal|p2a: Chesnaught|213/285|[from] item: Leftovers
+|-heal|p1a: Ting-Lu|313/370|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1772751714
+|move|p2a: Chesnaught|Trailblaze|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|227/370
+|-boost|p2a: Chesnaught|spe|1
+|move|p1a: Ting-Lu|Whirlwind|p2a: Chesnaught
+|drag|p2a: Mew|Mew, L82|184/298
+|-damage|p2a: Mew|147/298|[from] Stealth Rock
+|
+|-heal|p1a: Ting-Lu|250/370|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1772751721
+|move|p2a: Mew|U-turn|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|166/370
+|
+|t:|1772751724
+|switch|p2a: Chesnaught|Chesnaught, L84, M|213/285|[from] U-turn
+|-damage|p2a: Chesnaught|196/285|[from] Stealth Rock
+|move|p1a: Ting-Lu|Throat Chop|p2a: Chesnaught
+|-resisted|p2a: Chesnaught
+|-damage|p2a: Chesnaught|166/285
+|-start|p2a: Chesnaught|Throat Chop|[silent]
+|
+|-heal|p2a: Chesnaught|183/285|[from] item: Leftovers
+|-heal|p1a: Ting-Lu|189/370|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1772751738
+|move|p2a: Chesnaught|Trailblaze|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|99/370
+|-boost|p2a: Chesnaught|spe|1
+|move|p1a: Ting-Lu|Whirlwind|p2a: Chesnaught
+|drag|p2a: Mew|Mew, L82|147/298
+|-damage|p2a: Mew|110/298|[from] Stealth Rock
+|
+|-heal|p1a: Ting-Lu|122/370|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1772751754
+|move|p2a: Mew|U-turn|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|44/370
+|
+|t:|1772751761
+|switch|p2a: Chesnaught|Chesnaught, L84, M|183/285|[from] U-turn
+|-damage|p2a: Chesnaught|166/285|[from] Stealth Rock
+|move|p1a: Ting-Lu|Earthquake|p2a: Chesnaught
+|-resisted|p2a: Chesnaught
+|-damage|p2a: Chesnaught|130/285
+|
+|-heal|p2a: Chesnaught|147/285|[from] item: Leftovers
+|-heal|p1a: Ting-Lu|67/370|[from] item: Leftovers
+|upkeep
+|turn|37
+|
+|t:|1772751783
+|move|p2a: Chesnaught|Trailblaze|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|0 fnt
+|-boost|p2a: Chesnaught|spe|1
+|faint|p1a: Ting-Lu
+|
+|-heal|p2a: Chesnaught|164/285|[from] item: Leftovers
+|upkeep
+|
+|t:|1772751787
+|switch|p1a: Glalie|Glalie, L96, F|309/309
+|turn|38
+|
+|t:|1772751792
+|move|p2a: Chesnaught|Body Press|p1a: Glalie
+|-supereffective|p1a: Glalie
+|-crit|p1a: Glalie
+|-damage|p1a: Glalie|7/309
+|move|p1a: Glalie|Freeze-Dry|p2a: Chesnaught
+|-supereffective|p2a: Chesnaught
+|-damage|p2a: Chesnaught|0 fnt
+|faint|p2a: Chesnaught
+|
+|upkeep
+|
+|t:|1772751794
+|switch|p2a: Mew|Mew, L82|110/298
+|-damage|p2a: Mew|73/298|[from] Stealth Rock
+|turn|39
+|
+|t:|1772751803
+|move|p2a: Mew|Psychic Noise|p1a: Glalie
+|-damage|p1a: Glalie|0 fnt
+|faint|p1a: Glalie
+|
+|upkeep
+|
+|t:|1772751807
+|switch|p1a: Deoxys|Deoxys, L74, tera:Fighting|139/196
+|-damage|p1a: Deoxys|127/196|[from] Stealth Rock
+|-status|p1a: Deoxys|psn
+|-ability|p1a: Deoxys|Pressure
+|turn|40
+|c|☆RastaHimbo|gg
+|inactive|hitsugaya1999 has 120 seconds left.
+|
+|t:|1772751846
+|move|p1a: Deoxys|Knock Off|p2a: Mew
+|-supereffective|p2a: Mew
+|-crit|p2a: Mew
+|-damage|p2a: Mew|0 fnt
+|faint|p2a: Mew
+|-damage|p1a: Deoxys|108/196 psn|[from] item: Life Orb
+|
+|win|RastaHimbo
+|raw|RastaHimbo's rating: 1667 &rarr; <strong>1691</strong><br />(+24 for winning)
+|raw|hitsugaya1999's rating: 1729 &rarr; <strong>1705</strong><br />(-24 for losing)

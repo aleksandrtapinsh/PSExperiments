@@ -1,0 +1,320 @@
+|badge|p2|bronze|gen9randombattle|100-8
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/">thread on Smogon.</a></div>
+|j|☆MoopMerr
+|j|☆pokeblade☆101
+|t:|1772749438
+|gametype|singles
+|player|p1|MoopMerr|harlequin|2282
+|player|p2|pokeblade☆101|yellow|2380
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772749438
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Florges|Florges-Blue, L85, F|271/271
+|switch|p2a: Bastiodon|Bastiodon, L89, F|252/252
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by MoopMerr)
+|inactive|MoopMerr has 120 seconds left.
+|inactive|pokeblade☆101 has 120 seconds left.
+|
+|t:|1772749485
+|switch|p1a: Pincurchin|Pincurchin, F|258/258
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Pincurchin
+|move|p2a: Bastiodon|Iron Defense|p2a: Bastiodon
+|-boost|p2a: Bastiodon|def|2
+|
+|upkeep
+|turn|2
+|
+|t:|1772749491
+|move|p2a: Bastiodon|Body Press|p1a: Pincurchin
+|-damage|p1a: Pincurchin|111/258
+|move|p1a: Pincurchin|Toxic Spikes|p2a: Bastiodon
+|-sidestart|p2: pokeblade☆101|move: Toxic Spikes
+|
+|-heal|p1a: Pincurchin|127/258|[from] item: Leftovers
+|upkeep
+|turn|3
+|inactive|MoopMerr has 120 seconds left.
+|
+|t:|1772749529
+|switch|p1a: Florges|Florges-Blue, L85, F|271/271
+|move|p2a: Bastiodon|Body Press|p1a: Florges
+|-resisted|p1a: Florges
+|-damage|p1a: Florges|158/271
+|
+|-heal|p1a: Florges|174/271|[from] item: Leftovers
+|upkeep
+|turn|4
+|inactive|MoopMerr has 120 seconds left.
+|
+|t:|1772749538
+|move|p1a: Florges|Wish|p1a: Florges
+|move|p2a: Bastiodon|Body Press|p1a: Florges
+|-resisted|p1a: Florges
+|-damage|p1a: Florges|53/271
+|
+|-heal|p1a: Florges|69/271|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1772749546
+|switch|p1a: Kyogre|Kyogre, L71|259/259
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Kyogre
+|move|p2a: Bastiodon|Body Press|p1a: Kyogre
+|-damage|p1a: Kyogre|20/259
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Kyogre|155/259|[from] move: Wish|[wisher] Florges
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|6
+|
+|t:|1772749566
+|switch|p2a: Golduck|Golduck, L90, F|290/290
+|-status|p2a: Golduck|psn
+|-ability|p2a: Golduck|Cloud Nine
+|move|p1a: Kyogre|Origin Pulse|p2a: Golduck|[miss]
+|-miss|p1a: Kyogre|p2a: Golduck
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Golduck|254/290 psn|[from] psn
+|upkeep
+|turn|7
+|j|+Aqua
+|
+|t:|1772749574
+|switch|p1a: Florges|Florges-Blue, L85, F|69/271
+|move|p2a: Golduck|Nasty Plot|p2a: Golduck
+|-boost|p2a: Golduck|spa|2
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Golduck|272/290 psn|[from] item: Leftovers
+|-heal|p1a: Florges|85/271|[from] item: Leftovers
+|-damage|p2a: Golduck|236/290 psn|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1772749581
+|move|p1a: Florges|Protect|p1a: Florges
+|-singleturn|p1a: Florges|Protect
+|move|p2a: Golduck|Hydro Pump|p1a: Florges
+|-activate|p1a: Florges|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Golduck|254/290 psn|[from] item: Leftovers
+|-heal|p1a: Florges|101/271|[from] item: Leftovers
+|-damage|p2a: Golduck|218/290 psn|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1772749584
+|switch|p1a: Cacturne|Cacturne, L92, M|278/278
+|move|p2a: Golduck|Hydro Pump|p1a: Cacturne
+|-immune|p1a: Cacturne|[from] ability: Water Absorb
+|
+|-weather|none
+|-heal|p2a: Golduck|236/290 psn|[from] item: Leftovers
+|-damage|p2a: Golduck|200/290 psn|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1772749602
+|switch|p1a: Florges|Florges-Blue, L85, F|101/271
+|move|p2a: Golduck|Hydro Pump|p1a: Florges
+|-damage|p1a: Florges|0 fnt
+|faint|p1a: Florges
+|
+|-heal|p2a: Golduck|218/290 psn|[from] item: Leftovers
+|-damage|p2a: Golduck|182/290 psn|[from] psn
+|upkeep
+|
+|t:|1772749612
+|switch|p1a: Kyogre|Kyogre, L71|155/259
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Kyogre
+|turn|11
+|
+|t:|1772749615
+|move|p1a: Kyogre|Thunder|p2a: Golduck
+|-supereffective|p2a: Golduck
+|-damage|p2a: Golduck|10/290 psn
+|move|p2a: Golduck|Grass Knot|p1a: Kyogre
+|-supereffective|p1a: Kyogre
+|-damage|p1a: Kyogre|0 fnt
+|faint|p1a: Kyogre
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Golduck|28/290 psn|[from] item: Leftovers
+|-damage|p2a: Golduck|0 fnt|[from] psn
+|faint|p2a: Golduck
+|upkeep
+|c|☆pokeblade☆101|couldnt touch the cacturne lol
+|
+|t:|1772749635
+|switch|p2a: Miraidon|Miraidon, L65|238/238
+|switch|p1a: Cacturne|Cacturne, L92, M|278/278
+|-status|p2a: Miraidon|psn
+|-fieldstart|move: Electric Terrain|[from] ability: Hadron Engine|[of] p2a: Miraidon
+|turn|12
+|
+|t:|1772749644
+|move|p2a: Miraidon|Draco Meteor|p1a: Cacturne
+|-damage|p1a: Cacturne|7/278
+|-unboost|p2a: Miraidon|spa|2
+|move|p1a: Cacturne|Spikes|p2a: Miraidon
+|-sidestart|p2: pokeblade☆101|Spikes
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Miraidon|209/238 psn|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1772749655
+|move|p1a: Cacturne|Sucker Punch|p2a: Miraidon
+|-crit|p2a: Miraidon
+|-damage|p2a: Miraidon|0 fnt
+|faint|p2a: Miraidon
+|-damage|p1a: Cacturne|0 fnt|[from] item: Life Orb
+|faint|p1a: Cacturne
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1772749663
+|switch|p2a: Ting-Lu|Ting-Lu, L78|370/370
+|switch|p1a: Pincurchin|Pincurchin, F|127/258
+|-status|p2a: Ting-Lu|psn
+|-damage|p2a: Ting-Lu|324/370 psn|[from] Spikes
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|turn|14
+|
+|t:|1772749669
+|switch|p1a: Bronzong|Bronzong, L88|261/261
+|move|p2a: Ting-Lu|Earthquake|p1a: Bronzong
+|-immune|p1a: Bronzong|[from] ability: Levitate
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Ting-Lu|347/370 psn|[from] item: Leftovers
+|-damage|p2a: Ting-Lu|301/370 psn|[from] psn
+|upkeep
+|turn|15
+|inactive|MoopMerr has 120 seconds left.
+|
+|t:|1772749699
+|switch|p2a: Malamar|Malamar, L82, F|275/275
+|-status|p2a: Malamar|psn
+|-damage|p2a: Malamar|241/275 psn|[from] Spikes
+|switch|p1a: Zacian|Zacian, L69|241/241
+|-ability|p1a: Zacian|Intrepid Sword|boost
+|-boost|p1a: Zacian|atk|1
+|
+|-weather|none
+|-damage|p2a: Malamar|207/275 psn|[from] psn
+|upkeep
+|turn|16
+|inactive|MoopMerr has 120 seconds left.
+|
+|t:|1772749713
+|switch|p2a: Ting-Lu|Ting-Lu, L78|301/370 psn
+|-damage|p2a: Ting-Lu|255/370 psn|[from] Spikes
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Zacian|Close Combat|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|13/370 psn
+|-unboost|p1a: Zacian|def|1
+|-unboost|p1a: Zacian|spd|1
+|
+|-heal|p2a: Ting-Lu|36/370 psn|[from] item: Leftovers
+|-damage|p2a: Ting-Lu|0 fnt|[from] psn
+|faint|p2a: Ting-Lu
+|-fieldend|move: Electric Terrain
+|upkeep
+|inactive|pokeblade☆101 has 120 seconds left.
+|inactive|pokeblade☆101 has 90 seconds left.
+|
+|t:|1772749774
+|switch|p2a: Bastiodon|Bastiodon, L89, F|252/252
+|-damage|p2a: Bastiodon|221/252|[from] Spikes
+|turn|17
+|inactive|MoopMerr has 120 seconds left.
+|
+|t:|1772749805
+|switch|p1a: Bronzong|Bronzong, L88|261/261
+|-terastallize|p2a: Bastiodon|Fighting
+|move|p2a: Bastiodon|Iron Defense|p2a: Bastiodon
+|-boost|p2a: Bastiodon|def|2
+|
+|upkeep
+|turn|18
+|
+|t:|1772749811
+|move|p1a: Bronzong|Psychic|p2a: Bastiodon
+|-supereffective|p2a: Bastiodon
+|-damage|p2a: Bastiodon|93/252
+|move|p2a: Bastiodon|Iron Defense|p2a: Bastiodon
+|-boost|p2a: Bastiodon|def|2
+|
+|upkeep
+|turn|19
+|c|☆pokeblade☆101|omg
+|c|☆pokeblade☆101|i forgot it got that
+|
+|t:|1772749823
+|switch|p2a: Malamar|Malamar, L82, F|207/275 psn
+|-damage|p2a: Malamar|173/275 psn|[from] Spikes
+|move|p1a: Bronzong|Psychic|p2a: Malamar
+|-immune|p2a: Malamar
+|
+|-damage|p2a: Malamar|139/275 psn|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1772749828
+|switch|p1a: Pincurchin|Pincurchin, F|127/258
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Pincurchin
+|move|p2a: Malamar|Superpower|p1a: Pincurchin
+|-damage|p1a: Pincurchin|63/258
+|-boost|p2a: Malamar|atk|1
+|-boost|p2a: Malamar|def|1
+|
+|-heal|p1a: Pincurchin|79/258|[from] item: Leftovers
+|-damage|p2a: Malamar|105/275 psn|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1772749834
+|move|p2a: Malamar|Superpower|p1a: Pincurchin
+|-damage|p1a: Pincurchin|0 fnt
+|-boost|p2a: Malamar|atk|1
+|-boost|p2a: Malamar|def|1
+|faint|p1a: Pincurchin
+|
+|-damage|p2a: Malamar|71/275 psn|[from] psn
+|upkeep
+|
+|t:|1772749836
+|switch|p1a: Zacian|Zacian, L69|241/241
+|turn|22
+|
+|t:|1772749838
+|move|p1a: Zacian|Play Rough|p2a: Malamar
+|-supereffective|p2a: Malamar
+|-damage|p2a: Malamar|0 fnt
+|faint|p2a: Malamar
+|
+|upkeep
+|-message|pokeblade☆101 forfeited.
+|
+|win|MoopMerr
+|raw|MoopMerr's rating: 2282 &rarr; <strong>2307</strong><br />(+25 for winning)
+|raw|pokeblade☆101's rating: 2380 &rarr; <strong>2355</strong><br />(-25 for losing)
+|l|☆pokeblade☆101
+|player|p2|

@@ -1,0 +1,274 @@
+|badge|p1|silver|gen9randombattle|30-8
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/">thread on Smogon.</a></div>
+|badge|p2|silver|gen9randombattle|30-8
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/">thread on Smogon.</a></div>
+|j|☆SebasDB
+|j|☆listen kid
+|t:|1772750955
+|gametype|singles
+|player|p1|SebasDB|dawn-gen4pt|2415
+|player|p2|listen kid|hilbert|2381
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772750955
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Persian|Persian-Alola, L86, F|252/252
+|switch|p2a: Iron Valiant|Iron Valiant, L78|244/244
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by listen kid)
+|
+|t:|1772750980
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|switch|p2a: Mudsdale|Mudsdale, L83, M|302/302
+|move|p1a: Persian|Thunderbolt|p2a: Mudsdale
+|-immune|p2a: Mudsdale
+|
+|upkeep
+|turn|2
+|
+|t:|1772750998
+|move|p1a: Persian|Nasty Plot|p1a: Persian
+|-boost|p1a: Persian|spa|2
+|move|p2a: Mudsdale|Stealth Rock|p1a: Persian
+|-sidestart|p1: SebasDB|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|inactive|SebasDB has 120 seconds left.
+|
+|t:|1772751030
+|move|p1a: Persian|Dark Pulse|p2a: Mudsdale
+|-damage|p2a: Mudsdale|117/302
+|-ability|p2a: Mudsdale|Stamina|boost
+|-boost|p2a: Mudsdale|def|1
+|-damage|p1a: Persian|227/252|[from] item: Life Orb
+|move|p2a: Mudsdale|Roar|p1a: Persian
+|drag|p1a: Rabsca|Rabsca, L91, F|284/284
+|
+|-heal|p2a: Mudsdale|135/302|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1772751055
+|move|p1a: Rabsca|Bug Buzz|p2a: Mudsdale
+|-damage|p2a: Mudsdale|3/302
+|-ability|p2a: Mudsdale|Stamina|boost
+|-boost|p2a: Mudsdale|def|1
+|move|p2a: Mudsdale|Roar|p1a: Rabsca
+|drag|p1a: Persian|Persian-Alola, L86, F|227/252
+|-damage|p1a: Persian|196/252|[from] Stealth Rock
+|
+|-heal|p2a: Mudsdale|21/302|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1772751064
+|move|p1a: Persian|Dark Pulse|p2a: Mudsdale
+|-damage|p2a: Mudsdale|0 fnt
+|faint|p2a: Mudsdale
+|-damage|p1a: Persian|171/252|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772751081
+|switch|p2a: Houndoom|Houndoom, L87, M|272/272
+|turn|6
+|
+|t:|1772751090
+|move|p1a: Persian|Power Gem|p2a: Houndoom
+|-supereffective|p2a: Houndoom
+|-damage|p2a: Houndoom|126/272
+|-damage|p1a: Persian|146/252|[from] item: Life Orb
+|move|p2a: Houndoom|Fire Blast|p1a: Persian
+|-damage|p1a: Persian|0 fnt
+|faint|p1a: Persian
+|
+|upkeep
+|
+|t:|1772751102
+|switch|p1a: Beartic|Beartic, L91, M|321/321
+|-damage|p1a: Beartic|241/321|[from] Stealth Rock
+|turn|7
+|inactive|listen kid has 120 seconds left.
+|inactive|SebasDB has 120 seconds left.
+|
+|t:|1772751152
+|move|p1a: Beartic|Aqua Jet|p2a: Houndoom
+|-supereffective|p2a: Houndoom
+|-damage|p2a: Houndoom|0 fnt
+|faint|p2a: Houndoom
+|
+|upkeep
+|inactive|listen kid has 90 seconds left.
+|inactive|listen kid has 60 seconds left.
+|
+|t:|1772751203
+|switch|p2a: Dewgong|Dewgong, L94, F|322/322
+|turn|8
+|inactive|listen kid has 60 seconds left.
+|inactive|SebasDB has 120 seconds left.
+|
+|t:|1772751221
+|switch|p1a: Sableye|Sableye, L88, M|231/231
+|-damage|p1a: Sableye|203/231|[from] Stealth Rock
+|move|p2a: Dewgong|Ice Beam|p1a: Sableye
+|-damage|p1a: Sableye|88/231
+|
+|-heal|p1a: Sableye|102/231|[from] item: Leftovers
+|upkeep
+|turn|9
+|inactive|listen kid has 60 seconds left.
+|inactive|SebasDB has 120 seconds left.
+|inactive|listen kid has 30 seconds left.
+|
+|t:|1772751272
+|move|p1a: Sableye|Recover|p1a: Sableye
+|-heal|p1a: Sableye|218/231
+|move|p2a: Dewgong|Ice Beam|p1a: Sableye
+|-damage|p1a: Sableye|104/231
+|
+|-heal|p1a: Sableye|118/231|[from] item: Leftovers
+|upkeep
+|turn|10
+|inactive|listen kid has 30 seconds left.
+|inactive|listen kid has 20 seconds left.
+|inactive|listen kid has 15 seconds left.
+|
+|t:|1772751296
+|move|p1a: Sableye|Will-O-Wisp|p2a: Dewgong
+|-status|p2a: Dewgong|brn
+|move|p2a: Dewgong|Encore|p1a: Sableye
+|-start|p1a: Sableye|Encore
+|
+|-heal|p1a: Sableye|132/231|[from] item: Leftovers
+|-damage|p2a: Dewgong|302/322 brn|[from] brn
+|upkeep
+|turn|11
+|inactive|listen kid has 25 seconds left this turn.
+|inactive|SebasDB has 120 seconds left.
+|
+|t:|1772751324
+|switch|p1a: Beartic|Beartic, L91, M|241/321
+|-damage|p1a: Beartic|161/321|[from] Stealth Rock
+|move|p2a: Dewgong|Surf|p1a: Beartic
+|-damage|p1a: Beartic|74/321
+|
+|-damage|p2a: Dewgong|282/322 brn|[from] brn
+|upkeep
+|turn|12
+|inactive|listen kid has 30 seconds left.
+|
+|t:|1772751339
+|move|p1a: Beartic|Aqua Jet|p2a: Dewgong
+|-resisted|p2a: Dewgong
+|-damage|p2a: Dewgong|250/322 brn
+|move|p2a: Dewgong|Surf|p1a: Beartic
+|-damage|p1a: Beartic|0 fnt
+|faint|p1a: Beartic
+|
+|-damage|p2a: Dewgong|230/322 brn|[from] brn
+|upkeep
+|
+|t:|1772751341
+|switch|p1a: Espathra|Espathra, L80, M, shiny|283/283
+|-damage|p1a: Espathra|248/283|[from] Stealth Rock
+|turn|13
+|inactive|SebasDB has 120 seconds left.
+|inactive|listen kid has 30 seconds left.
+|inactive|listen kid has 20 seconds left.
+|
+|t:|1772751365
+|move|p1a: Espathra|Calm Mind|p1a: Espathra
+|-boost|p1a: Espathra|spa|1
+|-boost|p1a: Espathra|spd|1
+|move|p2a: Dewgong|Encore|p1a: Espathra
+|-start|p1a: Espathra|Encore
+|
+|-heal|p1a: Espathra|265/283|[from] item: Leftovers
+|-damage|p2a: Dewgong|210/322 brn|[from] brn
+|-ability|p1a: Espathra|Speed Boost|boost
+|-boost|p1a: Espathra|spe|1
+|upkeep
+|turn|14
+|inactive|listen kid has 30 seconds left this turn.
+|
+|t:|1772751367
+|move|p1a: Espathra|Calm Mind|p1a: Espathra
+|-boost|p1a: Espathra|spa|1
+|-boost|p1a: Espathra|spd|1
+|move|p2a: Dewgong|Flip Turn|p1a: Espathra
+|-damage|p1a: Espathra|220/283
+|inactive|listen kid has 30 seconds left.
+|
+|t:|1772751375
+|switch|p2a: Munkidori|Munkidori, L79, M|269/269|[from] Flip Turn
+|
+|-heal|p1a: Espathra|237/283|[from] item: Leftovers
+|-ability|p1a: Espathra|Speed Boost|boost
+|-boost|p1a: Espathra|spe|1
+|upkeep
+|turn|15
+|
+|t:|1772751381
+|move|p1a: Espathra|Calm Mind|p1a: Espathra
+|-boost|p1a: Espathra|spa|1
+|-boost|p1a: Espathra|spd|1
+|move|p2a: Munkidori|Nasty Plot|p2a: Munkidori
+|-boost|p2a: Munkidori|spa|2
+|
+|-heal|p1a: Espathra|254/283|[from] item: Leftovers
+|-ability|p1a: Espathra|Speed Boost|boost
+|-boost|p1a: Espathra|spe|1
+|upkeep
+|turn|16
+|
+|t:|1772751385
+|move|p1a: Espathra|Calm Mind|p1a: Espathra
+|-boost|p1a: Espathra|spa|1
+|-boost|p1a: Espathra|spd|1
+|move|p2a: Munkidori|Psyshock|p1a: Espathra
+|-resisted|p1a: Espathra
+|-damage|p1a: Espathra|95/283
+|-status|p1a: Espathra|tox|[from] ability: Toxic Chain|[of] p2a: Munkidori
+|-damage|p2a: Munkidori|243/269|[from] item: Life Orb
+|
+|-heal|p1a: Espathra|112/283 tox|[from] item: Leftovers
+|-damage|p1a: Espathra|95/283 tox|[from] psn
+|-end|p1a: Espathra|Encore
+|-ability|p1a: Espathra|Speed Boost|boost
+|-boost|p1a: Espathra|spe|1
+|upkeep
+|turn|17
+|inactive|listen kid has 30 seconds left.
+|inactive|listen kid has 20 seconds left.
+|inactive|listen kid has 15 seconds left.
+|inactive|SebasDB has 120 seconds left.
+|inactive|listen kid has 10 seconds left.
+|
+|t:|1772751438
+|switch|p2a: Dewgong|Dewgong, L94, F|210/322 brn
+|move|p1a: Espathra|Stored Power|p2a: Dewgong
+|-damage|p2a: Dewgong|0 fnt
+|faint|p2a: Dewgong
+|
+|-heal|p1a: Espathra|112/283 tox|[from] item: Leftovers
+|-damage|p1a: Espathra|78/283 tox|[from] psn
+|-ability|p1a: Espathra|Speed Boost|boost
+|-boost|p1a: Espathra|spe|1
+|upkeep
+|inactive|listen kid has 15 seconds left this turn.
+|inactive|listen kid has 10 seconds left.
+|inactive|listen kid has 5 seconds left.
+|-message|listen kid lost due to inactivity.
+|
+|win|SebasDB
+|raw|SebasDB's rating: 2415 &rarr; <strong>2433</strong><br />(+18 for winning)
+|raw|listen kid's rating: 2381 &rarr; <strong>2363</strong><br />(-18 for losing)

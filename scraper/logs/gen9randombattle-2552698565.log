@@ -1,0 +1,380 @@
+|j|☆Trosharp
+|j|☆edthegamer1
+|t:|1772744578
+|gametype|singles
+|player|p1|Trosharp|blue|1585
+|player|p2|edthegamer1|266|1605
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772744578
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Brambleghast|Brambleghast, L88, F|240/240
+|switch|p2a: Azumarill|Azumarill, L82, M|298/298
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by edthegamer1)
+|inactive|Trosharp also wants the timer to be on.
+|
+|t:|1772744584
+|move|p1a: Brambleghast|Power Whip|p2a: Azumarill|[miss]
+|-miss|p1a: Brambleghast|p2a: Azumarill
+|move|p2a: Azumarill|Ice Spinner|p1a: Brambleghast
+|-supereffective|p1a: Brambleghast
+|-damage|p1a: Brambleghast|4/240
+|
+|-heal|p1a: Brambleghast|19/240|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1772744593
+|switch|p2a: Hawlucha|Hawlucha, L80, M|256/256
+|move|p1a: Brambleghast|Power Whip|p2a: Hawlucha
+|-resisted|p2a: Hawlucha
+|-damage|p2a: Hawlucha|156/256
+|
+|-heal|p1a: Brambleghast|34/240|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1772744604
+|switch|p1a: Bellibolt|Bellibolt, L84, M|320/320
+|move|p2a: Hawlucha|Brave Bird|p1a: Bellibolt
+|-resisted|p1a: Bellibolt
+|-damage|p1a: Bellibolt|269/320
+|-start|p1a: Bellibolt|Charge|Brave Bird|[from] ability: Electromorphosis
+|-damage|p2a: Hawlucha|139/256|[from] Recoil
+|
+|-heal|p1a: Bellibolt|289/320|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1772744608
+|move|p2a: Hawlucha|Close Combat|p1a: Bellibolt
+|-damage|p1a: Bellibolt|172/320
+|-unboost|p2a: Hawlucha|def|1
+|-unboost|p2a: Hawlucha|spd|1
+|-start|p1a: Bellibolt|Charge|Close Combat|[from] ability: Electromorphosis
+|-enditem|p2a: Hawlucha|White Herb
+|-clearnegativeboost|p2a: Hawlucha|[silent]
+|move|p1a: Bellibolt|Thunderbolt|p2a: Hawlucha
+|-supereffective|p2a: Hawlucha
+|-damage|p2a: Hawlucha|0 fnt
+|faint|p2a: Hawlucha
+|-end|p1a: Bellibolt|Charge|[silent]
+|
+|-heal|p1a: Bellibolt|192/320|[from] item: Leftovers
+|upkeep
+|
+|t:|1772744615
+|switch|p2a: Torterra|Torterra, L78, M|276/276
+|turn|5
+|
+|t:|1772744642
+|move|p2a: Torterra|Shell Smash|p2a: Torterra
+|-unboost|p2a: Torterra|def|1
+|-unboost|p2a: Torterra|spd|1
+|-boost|p2a: Torterra|atk|2
+|-boost|p2a: Torterra|spa|2
+|-boost|p2a: Torterra|spe|2
+|move|p1a: Bellibolt|Toxic|p2a: Torterra
+|-status|p2a: Torterra|tox
+|
+|-heal|p1a: Bellibolt|212/320|[from] item: Leftovers
+|-damage|p2a: Torterra|259/276 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1772744648
+|switch|p1a: Dipplin|Dipplin, L88, F|284/284
+|-terastallize|p2a: Torterra|Rock
+|move|p2a: Torterra|Rock Blast|p1a: Dipplin
+|-damage|p1a: Dipplin|257/284
+|-damage|p1a: Dipplin|232/284
+|-damage|p1a: Dipplin|205/284
+|-damage|p1a: Dipplin|177/284
+|-hitcount|p1a: Dipplin|4
+|
+|-damage|p2a: Torterra|225/276 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1772744663
+|switch|p2a: Azumarill|Azumarill, L82, M|298/298
+|move|p1a: Dipplin|Giga Drain|p2a: Azumarill
+|-supereffective|p2a: Azumarill
+|-damage|p2a: Azumarill|116/298
+|-heal|p1a: Dipplin|268/284|[from] drain|[of] p2a: Azumarill
+|
+|upkeep
+|turn|8
+|
+|t:|1772744674
+|switch|p1a: Keldeo|Keldeo-Resolute, L79|273/273
+|move|p2a: Azumarill|Play Rough|p1a: Keldeo
+|-supereffective|p1a: Keldeo
+|-damage|p1a: Keldeo|0 fnt
+|faint|p1a: Keldeo
+|
+|upkeep
+|
+|t:|1772744690
+|switch|p1a: Brambleghast|Brambleghast, L88, F|34/240
+|turn|9
+|
+|t:|1772744693
+|move|p1a: Brambleghast|Power Whip|p2a: Azumarill
+|-supereffective|p2a: Azumarill
+|-damage|p2a: Azumarill|0 fnt
+|faint|p2a: Azumarill
+|
+|-heal|p1a: Brambleghast|49/240|[from] item: Leftovers
+|upkeep
+|
+|t:|1772744710
+|switch|p2a: Copperajah|Copperajah, L86, M|349/349
+|turn|10
+|
+|t:|1772744722
+|switch|p1a: Cloyster|Cloyster, L80, M|211/211
+|move|p2a: Copperajah|Knock Off|p1a: Cloyster
+|-damage|p1a: Cloyster|134/211
+|-enditem|p1a: Cloyster|White Herb|[from] move: Knock Off|[of] p2a: Copperajah
+|
+|upkeep
+|turn|11
+|
+|t:|1772744730
+|switch|p2a: Volbeat|Volbeat, L90, M|263/263
+|move|p1a: Cloyster|Drill Run|p2a: Volbeat
+|-resisted|p2a: Volbeat
+|-damage|p2a: Volbeat|238/263
+|
+|upkeep
+|turn|12
+|
+|t:|1772744737
+|switch|p1a: Bellibolt|Bellibolt, L84, M|212/320
+|move|p2a: Volbeat|Lunge|p1a: Bellibolt
+|-damage|p1a: Bellibolt|130/320
+|-unboost|p1a: Bellibolt|atk|1
+|-start|p1a: Bellibolt|Charge|Lunge|[from] ability: Electromorphosis
+|
+|-heal|p1a: Bellibolt|150/320|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1772744744
+|switch|p2a: Torterra|Torterra, L78, M, tera:Rock|225/276 tox
+|move|p1a: Bellibolt|Thunderbolt|p2a: Torterra
+|-damage|p2a: Torterra|0 fnt
+|faint|p2a: Torterra
+|-end|p1a: Bellibolt|Charge|[silent]
+|
+|-heal|p1a: Bellibolt|170/320|[from] item: Leftovers
+|upkeep
+|
+|t:|1772744749
+|switch|p2a: Copperajah|Copperajah, L86, M|349/349
+|turn|14
+|
+|t:|1772744758
+|switch|p1a: Dipplin|Dipplin, L88, F|268/284
+|move|p2a: Copperajah|Knock Off|p1a: Dipplin
+|-damage|p1a: Dipplin|196/284
+|-activate|p1a: Dipplin|ability: Sticky Hold
+|
+|upkeep
+|turn|15
+|
+|t:|1772744766
+|switch|p2a: Volbeat|Volbeat, L90, M|238/263
+|move|p1a: Dipplin|Dragon Pulse|p2a: Volbeat
+|-damage|p2a: Volbeat|147/263
+|
+|upkeep
+|turn|16
+|
+|t:|1772744773
+|switch|p1a: Bellibolt|Bellibolt, L84, M|170/320
+|move|p2a: Volbeat|Lunge|p1a: Bellibolt
+|-damage|p1a: Bellibolt|95/320
+|-unboost|p1a: Bellibolt|atk|1
+|-start|p1a: Bellibolt|Charge|Lunge|[from] ability: Electromorphosis
+|
+|-heal|p1a: Bellibolt|115/320|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1772744778
+|move|p2a: Volbeat|Lunge|p1a: Bellibolt
+|-damage|p1a: Bellibolt|43/320
+|-unboost|p1a: Bellibolt|atk|1
+|-start|p1a: Bellibolt|Charge|Lunge|[from] ability: Electromorphosis
+|move|p1a: Bellibolt|Slack Off|p1a: Bellibolt
+|-heal|p1a: Bellibolt|203/320
+|
+|-heal|p1a: Bellibolt|223/320|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1772744786
+|move|p2a: Volbeat|Encore|p1a: Bellibolt
+|-start|p1a: Bellibolt|Encore
+|move|p1a: Bellibolt|Slack Off|p1a: Bellibolt
+|-heal|p1a: Bellibolt|320/320
+|
+|upkeep
+|turn|19
+|
+|t:|1772744794
+|switch|p1a: Brambleghast|Brambleghast, L88, F|49/240
+|move|p2a: Volbeat|Lunge|p1a: Brambleghast
+|-damage|p1a: Brambleghast|0 fnt
+|faint|p1a: Brambleghast
+|
+|upkeep
+|
+|t:|1772744800
+|switch|p1a: Bellibolt|Bellibolt, L84, M|320/320
+|turn|20
+|
+|t:|1772744809
+|switch|p2a: Copperajah|Copperajah, L86, M|349/349
+|move|p1a: Bellibolt|Thunderbolt|p2a: Copperajah
+|-crit|p2a: Copperajah
+|-damage|p2a: Copperajah|169/349
+|
+|upkeep
+|turn|21
+|
+|t:|1772744823
+|move|p1a: Bellibolt|Thunderbolt|p2a: Copperajah
+|-damage|p2a: Copperajah|52/349
+|move|p2a: Copperajah|Knock Off|p1a: Bellibolt
+|-damage|p1a: Bellibolt|192/320
+|-start|p1a: Bellibolt|Charge|Knock Off|[from] ability: Electromorphosis
+|-enditem|p1a: Bellibolt|Leftovers|[from] move: Knock Off|[of] p2a: Copperajah
+|
+|upkeep
+|turn|22
+|
+|t:|1772744830
+|move|p1a: Bellibolt|Muddy Water|p2a: Copperajah|[miss]
+|-miss|p1a: Bellibolt|p2a: Copperajah
+|move|p2a: Copperajah|Knock Off|p1a: Bellibolt
+|-damage|p1a: Bellibolt|108/320
+|-start|p1a: Bellibolt|Charge|Knock Off|[from] ability: Electromorphosis
+|
+|upkeep
+|turn|23
+|
+|t:|1772744833
+|move|p1a: Bellibolt|Muddy Water|p2a: Copperajah
+|-damage|p2a: Copperajah|0 fnt
+|faint|p2a: Copperajah
+|
+|upkeep
+|
+|t:|1772744836
+|switch|p2a: Maushold|Maushold-Four, L76|238/238
+|turn|24
+|
+|t:|1772744843
+|move|p2a: Maushold|Population Bomb|p1a: Bellibolt
+|-damage|p1a: Bellibolt|86/320
+|-start|p1a: Bellibolt|Charge|Population Bomb|[from] ability: Electromorphosis
+|-damage|p1a: Bellibolt|62/320
+|-start|p1a: Bellibolt|Charge|Population Bomb|[from] ability: Electromorphosis
+|-damage|p1a: Bellibolt|40/320
+|-start|p1a: Bellibolt|Charge|Population Bomb|[from] ability: Electromorphosis
+|-damage|p1a: Bellibolt|19/320
+|-start|p1a: Bellibolt|Charge|Population Bomb|[from] ability: Electromorphosis
+|-damage|p1a: Bellibolt|0 fnt
+|faint|p1a: Bellibolt
+|-hitcount|p1: Bellibolt|5
+|
+|upkeep
+|
+|t:|1772744848
+|switch|p1a: Gengar|Gengar, L81, M|230/230
+|turn|25
+|
+|t:|1772744858
+|switch|p1a: Cloyster|Cloyster, L80, M|134/211
+|move|p2a: Maushold|Bite|p1a: Cloyster
+|-damage|p1a: Cloyster|108/211
+|
+|upkeep
+|turn|26
+|
+|t:|1772744868
+|move|p2a: Maushold|Tidy Up|p2a: Maushold
+|-boost|p2a: Maushold|atk|1
+|-boost|p2a: Maushold|spe|1
+|move|p1a: Cloyster|Icicle Spear|p2a: Maushold
+|-damage|p2a: Maushold|202/238
+|-damage|p2a: Maushold|171/238
+|-damage|p2a: Maushold|135/238
+|-damage|p2a: Maushold|101/238
+|-damage|p2a: Maushold|68/238
+|-hitcount|p2a: Maushold|5
+|
+|upkeep
+|turn|27
+|
+|t:|1772744874
+|move|p2a: Maushold|Population Bomb|p1a: Cloyster
+|-damage|p1a: Cloyster|87/211
+|-damage|p1a: Cloyster|66/211
+|-damage|p1a: Cloyster|47/211
+|-damage|p1a: Cloyster|29/211
+|-crit|p1a: Cloyster
+|-damage|p1a: Cloyster|1/211
+|-damage|p1a: Cloyster|0 fnt
+|faint|p1a: Cloyster
+|-hitcount|p1: Cloyster|6
+|
+|upkeep
+|
+|t:|1772744877
+|switch|p1a: Dipplin|Dipplin, L88, F|196/284
+|turn|28
+|
+|t:|1772744886
+|move|p1a: Dipplin|Sucker Punch|p2a: Maushold
+|-damage|p2a: Maushold|9/238
+|move|p2a: Maushold|Population Bomb|p1a: Dipplin
+|-damage|p1a: Dipplin|177/284
+|-crit|p1a: Dipplin
+|-damage|p1a: Dipplin|149/284
+|-damage|p1a: Dipplin|131/284
+|-damage|p1a: Dipplin|110/284
+|-crit|p1a: Dipplin
+|-damage|p1a: Dipplin|80/284
+|-damage|p1a: Dipplin|62/284
+|-damage|p1a: Dipplin|44/284
+|-damage|p1a: Dipplin|25/284
+|-damage|p1a: Dipplin|7/284
+|-damage|p1a: Dipplin|0 fnt
+|faint|p1a: Dipplin
+|-hitcount|p1: Dipplin|10
+|
+|upkeep
+|
+|t:|1772744889
+|switch|p1a: Gengar|Gengar, L81, M|230/230
+|turn|29
+|-message|Trosharp forfeited.
+|
+|win|edthegamer1
+|raw|Trosharp's rating: 1585 &rarr; <strong>1566</strong><br />(-19 for losing)
+|raw|edthegamer1's rating: 1605 &rarr; <strong>1624</strong><br />(+19 for winning)
+|l|☆Trosharp
+|player|p1|

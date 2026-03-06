@@ -1,0 +1,294 @@
+|j|☆Ajeti
+|j|☆olyricsx
+|t:|1772749030
+|gametype|singles
+|player|p1|Ajeti|102|1716
+|player|p2|olyricsx|266|1681
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772749030
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Uxie|Uxie, L83|260/260
+|switch|p2a: Blissey|Blissey, L85, F|572/572
+|turn|1
+|
+|t:|1772749064
+|move|p1a: Uxie|Knock Off|p2a: Blissey
+|-damage|p2a: Blissey|402/572
+|-enditem|p2a: Blissey|Leftovers|[from] move: Knock Off|[of] p1a: Uxie
+|move|p2a: Blissey|Thunder Wave|p1a: Uxie
+|-status|p1a: Uxie|par
+|
+|upkeep
+|turn|2
+|
+|t:|1772749082
+|move|p2a: Blissey|Seismic Toss|p1a: Uxie
+|-damage|p1a: Uxie|175/260 par
+|move|p1a: Uxie|U-turn|p2a: Blissey
+|-damage|p2a: Blissey|280/572
+|
+|t:|1772749099
+|switch|p1a: Ambipom|Ambipom, L84, M|263/263|[from] U-turn
+|
+|upkeep
+|turn|3
+|
+|t:|1772749110
+|move|p1a: Ambipom|Double-Edge|p2a: Blissey
+|-crit|p2a: Blissey
+|-damage|p2a: Blissey|0 fnt
+|faint|p2a: Blissey
+|-damage|p1a: Ambipom|171/263|[from] Recoil
+|
+|upkeep
+|
+|t:|1772749120
+|switch|p2a: Regice|Regice, L88|284/284
+|turn|4
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by olyricsx)
+|
+|t:|1772749160
+|switch|p1a: Uxie|Uxie, L83|175/260 par
+|move|p2a: Regice|Ice Beam|p1a: Uxie
+|-damage|p1a: Uxie|87/260 par
+|
+|-heal|p1a: Uxie|103/260 par|[from] item: Leftovers
+|upkeep
+|turn|5
+|inactive|Ajeti has 120 seconds left.
+|
+|t:|1772749193
+|move|p2a: Regice|Ice Beam|p1a: Uxie
+|-damage|p1a: Uxie|22/260 par
+|move|p1a: Uxie|U-turn|p2a: Regice
+|-damage|p2a: Regice|251/284
+|inactive|Ajeti has 120 seconds left.
+|
+|t:|1772749212
+|switch|p1a: Cobalion|Cobalion, L80|277/277|[from] U-turn
+|
+|upkeep
+|turn|6
+|
+|t:|1772749219
+|switch|p2a: Torkoal|Torkoal, L88, M|266/266
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|move|p1a: Cobalion|Body Press|p2a: Torkoal
+|-damage|p2a: Torkoal|205/266
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|inactive|Ajeti has 120 seconds left.
+|
+|t:|1772749228
+|move|p1a: Cobalion|Stealth Rock|p2a: Torkoal
+|-sidestart|p2: olyricsx|move: Stealth Rock
+|move|p2a: Torkoal|Fire Blast|p1a: Cobalion
+|-supereffective|p1a: Cobalion
+|-damage|p1a: Cobalion|0 fnt
+|faint|p1a: Cobalion
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|inactive|Ajeti has 120 seconds left.
+|inactive|Ajeti has 90 seconds left.
+|
+|t:|1772749273
+|switch|p1a: Overqwil|Overqwil, L82, F|274/274
+|-ability|p1a: Overqwil|Intimidate|boost
+|-unboost|p2a: Torkoal|atk|1
+|turn|8
+|
+|t:|1772749278
+|-terastallize|p1a: Overqwil|Water
+|move|p1a: Overqwil|Swords Dance|p1a: Overqwil
+|-boost|p1a: Overqwil|atk|2
+|move|p2a: Torkoal|Rapid Spin|p1a: Overqwil
+|-damage|p1a: Overqwil|249/274
+|-boost|p2a: Torkoal|spe|1
+|-sideend|p2: olyricsx|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1772749285
+|-terastallize|p2a: Torkoal|Grass
+|move|p1a: Overqwil|Liquidation|p2a: Torkoal
+|-resisted|p2a: Torkoal
+|-damage|p2a: Torkoal|162/266
+|-damage|p1a: Overqwil|222/274|[from] item: Life Orb
+|move|p2a: Torkoal|Solar Beam||[still]
+|-prepare|p2a: Torkoal|Solar Beam
+|-anim|p2a: Torkoal|Solar Beam|p1a: Overqwil
+|-supereffective|p1a: Overqwil
+|-damage|p1a: Overqwil|0 fnt
+|faint|p1a: Overqwil
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|inactive|Ajeti has 90 seconds left.
+|
+|t:|1772749301
+|switch|p1a: Ambipom|Ambipom, L84, M|171/263
+|turn|10
+|
+|t:|1772749306
+|move|p1a: Ambipom|Fake Out|p2a: Torkoal
+|-damage|p2a: Torkoal|110/266
+|cant|p2a: Torkoal|flinch
+|
+|-weather|none
+|upkeep
+|turn|11
+|
+|t:|1772749310
+|move|p1a: Ambipom|Double-Edge|p2a: Torkoal
+|-damage|p2a: Torkoal|7/266
+|-damage|p1a: Ambipom|137/263|[from] Recoil
+|move|p2a: Torkoal|Fire Blast|p1a: Ambipom
+|-damage|p1a: Ambipom|0 fnt
+|faint|p1a: Ambipom
+|
+|upkeep
+|
+|t:|1772749325
+|switch|p1a: Malamar|Malamar, L82, F|275/275
+|turn|12
+|
+|t:|1772749334
+|switch|p2a: Tornadus|Tornadus-Therian, L79, M|254/254
+|move|p1a: Malamar|Superpower|p2a: Tornadus
+|-resisted|p2a: Tornadus
+|-damage|p2a: Tornadus|208/254
+|-boost|p1a: Malamar|atk|1
+|-boost|p1a: Malamar|def|1
+|
+|upkeep
+|turn|13
+|inactive|Ajeti has 120 seconds left.
+|
+|t:|1772749363
+|move|p2a: Tornadus|Heat Wave|p1a: Malamar
+|-crit|p1a: Malamar
+|-damage|p1a: Malamar|160/275
+|-status|p1a: Malamar|brn
+|move|p1a: Malamar|Rest|p1a: Malamar
+|-status|p1a: Malamar|slp|[from] move: Rest
+|-heal|p1a: Malamar|275/275 slp|[silent]
+|
+|upkeep
+|turn|14
+|
+|t:|1772749367
+|move|p2a: Tornadus|Nasty Plot|p2a: Tornadus
+|-boost|p2a: Tornadus|spa|2
+|cant|p1a: Malamar|slp
+|move|p1a: Malamar|Sleep Talk|p1a: Malamar
+|move|p1a: Malamar|Knock Off|p2a: Tornadus|[from] move: Sleep Talk
+|-damage|p2a: Tornadus|40/254
+|-enditem|p2a: Tornadus|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Malamar
+|
+|upkeep
+|turn|15
+|
+|t:|1772749371
+|move|p2a: Tornadus|Bleakwind Storm|p1a: Malamar
+|-damage|p1a: Malamar|23/275 slp
+|-boost|p1a: Malamar|spe|1
+|cant|p1a: Malamar|slp
+|move|p1a: Malamar|Sleep Talk|p1a: Malamar
+|move|p1a: Malamar|Rest||[from] move: Sleep Talk|[still]
+|-fail|p1a: Malamar
+|
+|-heal|p1a: Malamar|40/275 slp|[from] item: Leftovers
+|upkeep
+|turn|16
+|inactive|Ajeti has 120 seconds left.
+|
+|t:|1772749391
+|-curestatus|p1a: Malamar|slp|[msg]
+|move|p1a: Malamar|Superpower|p2a: Tornadus
+|-resisted|p2a: Tornadus
+|-damage|p2a: Tornadus|0 fnt
+|-boost|p1a: Malamar|atk|1
+|-boost|p1a: Malamar|def|1
+|faint|p2a: Tornadus
+|
+|-heal|p1a: Malamar|57/275|[from] item: Leftovers
+|upkeep
+|
+|t:|1772749396
+|switch|p2a: Heatran|Heatran, L79, M|273/273
+|-item|p2a: Heatran|Air Balloon
+|turn|17
+|inactive|Ajeti has 120 seconds left.
+|
+|t:|1772749418
+|move|p1a: Malamar|Superpower|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|-boost|p1a: Malamar|atk|1
+|-boost|p1a: Malamar|def|1
+|-enditem|p2a: Heatran|Air Balloon
+|faint|p2a: Heatran
+|
+|-heal|p1a: Malamar|74/275|[from] item: Leftovers
+|upkeep
+|
+|t:|1772749421
+|switch|p2a: Regice|Regice, L88|251/284
+|turn|18
+|inactive|Ajeti has 120 seconds left.
+|
+|t:|1772749436
+|move|p1a: Malamar|Superpower|p2a: Regice
+|-supereffective|p2a: Regice
+|-damage|p2a: Regice|0 fnt
+|-boost|p1a: Malamar|atk|1
+|-boost|p1a: Malamar|def|1
+|faint|p2a: Regice
+|
+|-heal|p1a: Malamar|91/275|[from] item: Leftovers
+|upkeep
+|
+|t:|1772749438
+|switch|p2a: Tentacruel|Tentacruel, L84, F|272/272
+|turn|19
+|
+|t:|1772749441
+|move|p1a: Malamar|Knock Off|p2a: Tentacruel
+|-damage|p2a: Tentacruel|0 fnt
+|-enditem|p2a: Tentacruel|Leftovers|[from] move: Knock Off|[of] p1a: Malamar
+|faint|p2a: Tentacruel
+|
+|-heal|p1a: Malamar|108/275|[from] item: Leftovers
+|upkeep
+|
+|t:|1772749443
+|switch|p2a: Torkoal|Torkoal, L88, M, tera:Grass|7/266
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|turn|20
+|
+|t:|1772749448
+|move|p1a: Malamar|Superpower|p2a: Torkoal
+|-damage|p2a: Torkoal|0 fnt
+|-boost|p1a: Malamar|atk|1
+|-boost|p1a: Malamar|def|1
+|faint|p2a: Torkoal
+|
+|win|Ajeti
+|raw|Ajeti's rating: 1693 &rarr; <strong>1712</strong><br />(+19 for winning)
+|raw|olyricsx's rating: 1681 &rarr; <strong>1662</strong><br />(-19 for losing)
+|l|☆olyricsx
+|player|p2|
