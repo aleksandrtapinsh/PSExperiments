@@ -19,6 +19,8 @@ server:
   # Evaluation env accounts
   eval1_username: "RL_Eval_1"
   eval2_username: "RL_Eval_2"
+  #imitation learning bot username (update this once the IL agent is running)
+  il_agent_username: "IL_Agent_1"
 
 # --- Model Persistence ---
 model:
