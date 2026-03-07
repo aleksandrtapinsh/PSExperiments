@@ -5,6 +5,8 @@ __pycache__/
 .venv/
 venv/
 env/
+rl_env/
+models/
 
 # Training outputs
 # models/ # Uncomment if you want to ignore saved models
