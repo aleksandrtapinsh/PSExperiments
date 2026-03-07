@@ -72,7 +72,7 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "mode",
-        choices=["selfplay", "vs_player"],
+        choices=["selfplay", "vs_player", "vs_il"],
         help=(
             "Training mode: 'selfplay' (agent vs frozen self, 2 parallel envs) "
             "or 'vs_player' (accept challenges from any human player)"
@@ -187,6 +187,28 @@ def main() -> None:
             "challenge them on the Showdown server to begin."
         )
         agent.train_vs_player()
+
+    
+    #vs_il mode: RL agent actively challenges the Imitation Learning bot.
+    # this mode uses send_challenges() to initiate each battle, allowing automated
+    # back-to-back training without human interaction.
+    elif args.mode == "vs_il":
+        # read IL bot's username from config.yaml (server.il_agent_username).
+        # update this value once the IL bot is deployed on the server.
+        il_username = cfg["server"].get("il_agent_username")
+        logger.info(
+            f"Starting VS-IL mode. "
+            f"RL agent will challenge IL bot '{il_username}' on "
+            f"{cfg['server']['websocket_url']}."
+        )
+
+        # the IL bot must already be running and logged in before this is called.
+        # if the bot is offline, send_challenges() will hang until timeout.
+        logger.info(
+            "Make sure the IL bot is already running and logged in on the server "
+            "before starting this mode, otherwise challenges will time out."
+        )
+        agent.train_vs_il(il_username=il_username)
 
     logger.info("Session complete. Goodbye!")
 
