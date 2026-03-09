@@ -1,0 +1,221 @@
+|j|☆Ionselldrugs
+|j|☆0Phux
+|t:|1772751206
+|gametype|singles
+|player|p1|Ionselldrugs|skier|
+|player|p2|0Phux|miku-ghost|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772751206
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Noctowl|Noctowl, L95, M|344/344
+|switch|p2a: Houndoom|Houndoom, L87, M|272/272
+|turn|1
+|c|☆0Phux|damn they gave you one now
+|
+|t:|1772751233
+|move|p2a: Houndoom|Nasty Plot|p2a: Houndoom
+|-boost|p2a: Houndoom|spa|2
+|move|p1a: Noctowl|Calm Mind|p1a: Noctowl
+|-boost|p1a: Noctowl|spa|1
+|-boost|p1a: Noctowl|spd|1
+|
+|upkeep
+|turn|2
+|
+|t:|1772751244
+|move|p2a: Houndoom|Dark Pulse|p1a: Noctowl
+|-damage|p1a: Noctowl|233/344
+|move|p1a: Noctowl|Hurricane|p2a: Houndoom
+|-damage|p2a: Houndoom|46/272
+|-start|p2a: Houndoom|confusion
+|
+|upkeep
+|turn|3
+|
+|t:|1772751251
+|-activate|p2a: Houndoom|confusion
+|-damage|p2a: Houndoom|2/272|[from] confusion
+|move|p1a: Noctowl|Calm Mind|p1a: Noctowl
+|-boost|p1a: Noctowl|spa|1
+|-boost|p1a: Noctowl|spd|1
+|
+|upkeep
+|turn|4
+|
+|t:|1772751266
+|-end|p2a: Houndoom|confusion
+|move|p2a: Houndoom|Fire Blast|p1a: Noctowl
+|-damage|p1a: Noctowl|112/344
+|move|p1a: Noctowl|Calm Mind|p1a: Noctowl
+|-boost|p1a: Noctowl|spa|1
+|-boost|p1a: Noctowl|spd|1
+|
+|upkeep
+|turn|5
+|
+|t:|1772751276
+|move|p2a: Houndoom|Dark Pulse|p1a: Noctowl
+|-damage|p1a: Noctowl|49/344
+|move|p1a: Noctowl|Roost|p1a: Noctowl
+|-heal|p1a: Noctowl|221/344
+|-singleturn|p1a: Noctowl|move: Roost
+|
+|upkeep
+|turn|6
+|
+|t:|1772751287
+|switch|p2a: Arceus|Arceus, L68|276/276
+|move|p1a: Noctowl|Hyper Voice|p2a: Arceus
+|-damage|p2a: Arceus|24/276
+|
+|upkeep
+|turn|7
+|
+|t:|1772751294
+|move|p2a: Arceus|Extreme Speed|p1a: Noctowl
+|-damage|p1a: Noctowl|95/344
+|-damage|p2a: Arceus|0 fnt|[from] item: Life Orb
+|faint|p2a: Arceus
+|move|p1a: Noctowl|Hyper Voice|p2: Arceus|[notarget]
+|-fail|p1a: Noctowl
+|
+|upkeep
+|
+|t:|1772751307
+|switch|p2a: Ludicolo|Ludicolo, L90, F|290/290
+|turn|8
+|
+|t:|1772751316
+|move|p1a: Noctowl|Hurricane|p2a: Ludicolo
+|-supereffective|p2a: Ludicolo
+|-damage|p2a: Ludicolo|0 fnt
+|faint|p2a: Ludicolo
+|
+|upkeep
+|
+|t:|1772751331
+|switch|p2a: Oranguru|Oranguru, L92, F|315/315
+|turn|9
+|
+|t:|1772751341
+|move|p1a: Noctowl|Hurricane|p2a: Oranguru
+|-damage|p2a: Oranguru|32/315
+|-start|p2a: Oranguru|confusion
+|-activate|p2a: Oranguru|confusion
+|move|p2a: Oranguru|Nasty Plot|p2a: Oranguru
+|-boost|p2a: Oranguru|spa|2
+|
+|-heal|p2a: Oranguru|51/315|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1772751350
+|move|p1a: Noctowl|Hyper Voice|p2a: Oranguru
+|-damage|p2a: Oranguru|0 fnt
+|faint|p2a: Oranguru
+|
+|upkeep
+|
+|t:|1772751356
+|switch|p2a: Houndoom|Houndoom, L87, M|2/272
+|turn|11
+|
+|t:|1772751359
+|move|p2a: Houndoom|Sucker Punch||[still]
+|-fail|p2a: Houndoom
+|move|p1a: Noctowl|Roost|p1a: Noctowl
+|-heal|p1a: Noctowl|267/344
+|-singleturn|p1a: Noctowl|move: Roost
+|
+|upkeep
+|turn|12
+|
+|t:|1772751368
+|move|p2a: Houndoom|Sucker Punch||[still]
+|-fail|p2a: Houndoom
+|move|p1a: Noctowl|Calm Mind|p1a: Noctowl
+|-boost|p1a: Noctowl|spa|1
+|-boost|p1a: Noctowl|spd|1
+|
+|upkeep
+|turn|13
+|
+|t:|1772751371
+|move|p2a: Houndoom|Sucker Punch|p1a: Noctowl
+|-crit|p1a: Noctowl
+|-damage|p1a: Noctowl|114/344
+|move|p1a: Noctowl|Hyper Voice|p2a: Houndoom
+|-damage|p2a: Houndoom|0 fnt
+|faint|p2a: Houndoom
+|
+|upkeep
+|
+|t:|1772751378
+|switch|p2a: Gengar|Gengar, L81, F|230/230
+|turn|14
+|
+|t:|1772751391
+|move|p2a: Gengar|Sludge Wave|p1a: Noctowl
+|-damage|p1a: Noctowl|70/344
+|-damage|p2a: Gengar|207/230|[from] item: Life Orb
+|move|p1a: Noctowl|Hurricane|p2a: Gengar|[miss]
+|-miss|p1a: Noctowl|p2a: Gengar
+|
+|upkeep
+|turn|15
+|
+|t:|1772751401
+|-terastallize|p2a: Gengar|Fighting
+|move|p2a: Gengar|Focus Blast|p1a: Noctowl|[miss]
+|-miss|p2a: Gengar|p1a: Noctowl
+|move|p1a: Noctowl|Roost|p1a: Noctowl
+|-heal|p1a: Noctowl|242/344
+|-singleturn|p1a: Noctowl|move: Roost
+|
+|upkeep
+|turn|16
+|
+|t:|1772751407
+|move|p2a: Gengar|Focus Blast|p1a: Noctowl
+|-damage|p1a: Noctowl|187/344
+|-damage|p2a: Gengar|184/230|[from] item: Life Orb
+|move|p1a: Noctowl|Roost|p1a: Noctowl
+|-heal|p1a: Noctowl|344/344
+|-singleturn|p1a: Noctowl|move: Roost
+|
+|upkeep
+|turn|17
+|
+|t:|1772751415
+|move|p2a: Gengar|Focus Blast|p1a: Noctowl
+|-damage|p1a: Noctowl|286/344
+|-damage|p2a: Gengar|161/230|[from] item: Life Orb
+|move|p1a: Noctowl|Hurricane|p2a: Gengar
+|-supereffective|p2a: Gengar
+|-damage|p2a: Gengar|0 fnt
+|-start|p1a: Noctowl|Disable|Hurricane|[from] ability: Cursed Body|[of] p2a: Gengar
+|faint|p2a: Gengar
+|
+|upkeep
+|
+|t:|1772751419
+|switch|p2a: Ninetales|Ninetales, L85, M|263/263
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|turn|18
+|
+|t:|1772751422
+|move|p2a: Ninetales|Nasty Plot|p2a: Ninetales
+|-boost|p2a: Ninetales|spa|2
+|move|p1a: Noctowl|Hyper Voice|p2a: Ninetales
+|-damage|p2a: Ninetales|0 fnt
+|faint|p2a: Ninetales
+|
+|win|Ionselldrugs

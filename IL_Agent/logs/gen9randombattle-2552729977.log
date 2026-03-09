@@ -1,0 +1,271 @@
+|j|☆PlooshieBaird
+|j|☆Ella Langley
+|t:|1772747595
+|gametype|singles
+|player|p1|PlooshieBaird|clive-v|1892
+|player|p2|Ella Langley|170|1916
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772747595
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Azelf|Azelf, L82|257/257
+|switch|p2a: Kyurem|Kyurem-Black, L71|295/295
+|-ability|p2a: Kyurem|Teravolt
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Ella Langley)
+|
+|t:|1772747626
+|move|p1a: Azelf|Psychic|p2a: Kyurem
+|-damage|p2a: Kyurem|138/295
+|-damage|p1a: Azelf|232/257|[from] item: Life Orb
+|move|p2a: Kyurem|Dragon Dance|p2a: Kyurem
+|-boost|p2a: Kyurem|atk|1
+|-boost|p2a: Kyurem|spe|1
+|
+|upkeep
+|turn|2
+|
+|t:|1772747655
+|move|p2a: Kyurem|Icicle Spear|p1a: Azelf
+|-damage|p1a: Azelf|180/257
+|-damage|p1a: Azelf|129/257
+|-damage|p1a: Azelf|75/257
+|-damage|p1a: Azelf|20/257
+|-hitcount|p1a: Azelf|4
+|move|p1a: Azelf|Psychic|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|faint|p2a: Kyurem
+|-damage|p1a: Azelf|0 fnt|[from] item: Life Orb
+|faint|p1a: Azelf
+|
+|upkeep
+|inactive|PlooshieBaird has 120 seconds left.
+|
+|t:|1772747670
+|switch|p1a: Houndstone|Houndstone, L86, M|264/264
+|switch|p2a: Incineroar|Incineroar, L82, F|290/290
+|-ability|p2a: Incineroar|Intimidate|boost
+|-unboost|p1a: Houndstone|atk|1
+|turn|3
+|inactive|PlooshieBaird has 120 seconds left.
+|
+|t:|1772747680
+|switch|p1a: Ampharos|Ampharos, L88, F|302/302
+|move|p2a: Incineroar|Knock Off|p1a: Ampharos
+|-damage|p1a: Ampharos|196/302
+|-status|p2a: Incineroar|par|[from] ability: Static|[of] p1a: Ampharos
+|-enditem|p1a: Ampharos|Choice Specs|[from] move: Knock Off|[of] p2a: Incineroar
+|
+|upkeep
+|turn|4
+|inactive|PlooshieBaird has 120 seconds left.
+|
+|t:|1772747697
+|move|p1a: Ampharos|Focus Blast|p2a: Incineroar
+|-supereffective|p2a: Incineroar
+|-damage|p2a: Incineroar|142/290 par
+|move|p2a: Incineroar|Overheat|p1a: Ampharos|[miss]
+|-miss|p2a: Incineroar|p1a: Ampharos
+|
+|upkeep
+|turn|5
+|
+|t:|1772747706
+|switch|p2a: Eternatus|Eternatus, L69|308/308
+|-ability|p2a: Eternatus|Pressure
+|move|p1a: Ampharos|Volt Switch|p2a: Eternatus
+|-resisted|p2a: Eternatus
+|-damage|p2a: Eternatus|256/308
+|inactive|PlooshieBaird has 120 seconds left.
+|
+|t:|1772747717
+|switch|p1a: Porygon2|Porygon2, L81|270/270|[from] Volt Switch
+|-ability|p1a: Porygon2|Download|boost
+|-boost|p1a: Porygon2|spa|1
+|
+|upkeep
+|turn|6
+|
+|t:|1772747725
+|switch|p2a: Incineroar|Incineroar, L82, F|142/290 par
+|-ability|p2a: Incineroar|Intimidate|boost
+|-unboost|p1a: Porygon2|atk|1
+|move|p1a: Porygon2|Thunder Wave|p2a: Incineroar
+|-fail|p2a: Incineroar|par
+|
+|upkeep
+|turn|7
+|
+|t:|1772747739
+|switch|p1a: Pecharunt|Pecharunt, L77|262/262
+|move|p2a: Incineroar|Knock Off|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|110/262
+|-damage|p2a: Incineroar|94/290 par|[from] item: Rocky Helmet|[of] p1a: Pecharunt
+|-enditem|p1a: Pecharunt|Rocky Helmet|[from] move: Knock Off|[of] p2a: Incineroar
+|
+|upkeep
+|turn|8
+|
+|t:|1772747750
+|move|p1a: Pecharunt|Recover|p1a: Pecharunt
+|-heal|p1a: Pecharunt|241/262
+|cant|p2a: Incineroar|par
+|
+|upkeep
+|turn|9
+|
+|t:|1772747756
+|move|p1a: Pecharunt|Malignant Chain|p2a: Incineroar
+|-damage|p2a: Incineroar|36/290 par
+|move|p2a: Incineroar|Overheat|p1a: Pecharunt
+|-damage|p1a: Pecharunt|126/262
+|-unboost|p2a: Incineroar|spa|2
+|
+|upkeep
+|turn|10
+|
+|t:|1772747762
+|switch|p2a: Slowbro|Slowbro-Galar, L87, M|307/307
+|move|p1a: Pecharunt|Recover|p1a: Pecharunt
+|-heal|p1a: Pecharunt|257/262
+|
+|upkeep
+|turn|11
+|
+|t:|1772747774
+|move|p1a: Pecharunt|Parting Shot|p2a: Slowbro
+|-unboost|p2a: Slowbro|atk|1
+|-unboost|p2a: Slowbro|spa|1
+|
+|t:|1772747779
+|switch|p1a: Porygon2|Porygon2, L81|270/270|[from] Parting Shot
+|-ability|p1a: Porygon2|Download|boost
+|-boost|p1a: Porygon2|spa|1
+|move|p2a: Slowbro|Psychic|p1a: Porygon2
+|-damage|p1a: Porygon2|228/270
+|
+|upkeep
+|turn|12
+|
+|t:|1772747787
+|switch|p2a: Incineroar|Incineroar, L82, F|36/290 par
+|-ability|p2a: Incineroar|Intimidate|boost
+|-unboost|p1a: Porygon2|atk|1
+|move|p1a: Porygon2|Tera Blast|p2a: Incineroar
+|-damage|p2a: Incineroar|0 fnt
+|faint|p2a: Incineroar
+|
+|upkeep
+|
+|t:|1772747789
+|switch|p2a: Slowbro|Slowbro-Galar, L87, M|307/307
+|turn|13
+|
+|t:|1772747796
+|-terastallize|p2a: Slowbro|Ground
+|move|p1a: Porygon2|Shadow Ball|p2a: Slowbro
+|-damage|p2a: Slowbro|241/307
+|move|p2a: Slowbro|Shell Side Arm|p1a: Porygon2|[anim] Shell Side Arm Physical
+|-damage|p1a: Porygon2|156/270
+|-hint|Physical Shell Side Arm
+|
+|upkeep
+|turn|14
+|l|☆Ella Langley
+|inactive|Ella Langley disconnected and has a minute to reconnect!
+|player|p2|
+|
+|t:|1772747823
+|move|p1a: Porygon2|Tera Blast|p2a: Slowbro
+|-damage|p2a: Slowbro|144/307
+|move|p2a: Slowbro|Psychic|p1a: Porygon2
+|-damage|p1a: Porygon2|84/270
+|
+|upkeep
+|turn|15
+|j|☆Ella Langley
+|inactive|Ella Langley reconnected and has 150 seconds left.
+|player|p2|Ella Langley|170|
+|
+|t:|1772747836
+|move|p1a: Porygon2|Tera Blast|p2a: Slowbro
+|-damage|p2a: Slowbro|47/307
+|move|p2a: Slowbro|Shell Side Arm|p1a: Porygon2|[anim] Shell Side Arm Physical
+|-damage|p1a: Porygon2|11/270
+|-hint|Physical Shell Side Arm
+|
+|upkeep
+|turn|16
+|inactive|Ella Langley has 120 seconds left.
+|
+|t:|1772747870
+|switch|p2a: Basculegion|Basculegion-F, L83, F|335/335
+|move|p1a: Porygon2|Recover|p1a: Porygon2
+|-heal|p1a: Porygon2|146/270
+|
+|upkeep
+|turn|17
+|inactive|Ella Langley has 120 seconds left.
+|l|☆Ella Langley
+|inactive|Ella Langley disconnected and has a minute to reconnect!
+|player|p2|
+|inactive|PlooshieBaird has 120 seconds left.
+|
+|t:|1772747899
+|move|p2a: Basculegion|Flip Turn|p1a: Porygon2
+|-damage|p1a: Porygon2|86/270
+|j|☆Ella Langley
+|inactive|Ella Langley reconnected and has 120 seconds left.
+|player|p2|Ella Langley|170|
+|
+|t:|1772747911
+|switch|p2a: Slowbro|Slowbro-Galar, L87, M, tera:Ground|149/307|[from] Flip Turn
+|move|p1a: Porygon2|Shadow Ball|p2a: Slowbro
+|-damage|p2a: Slowbro|88/307
+|
+|upkeep
+|turn|18
+|inactive|Ella Langley has 120 seconds left.
+|
+|t:|1772747917
+|move|p1a: Porygon2|Recover|p1a: Porygon2
+|-heal|p1a: Porygon2|221/270
+|move|p2a: Slowbro|Shell Side Arm|p1a: Porygon2|[anim] Shell Side Arm Physical
+|-damage|p1a: Porygon2|154/270
+|-hint|Physical Shell Side Arm
+|
+|upkeep
+|turn|19
+|
+|t:|1772747922
+|move|p1a: Porygon2|Tera Blast|p2a: Slowbro
+|-damage|p2a: Slowbro|0 fnt
+|faint|p2a: Slowbro
+|
+|upkeep
+|
+|t:|1772747928
+|switch|p2a: Yanmega|Yanmega, L82, F|275/275
+|turn|20
+|l|☆Ella Langley
+|inactive|Ella Langley disconnected and has a minute to reconnect!
+|player|p2|
+|inactive|Ella Langley has 30 seconds to reconnect!
+|inactive|Ella Langley has 20 seconds to reconnect!
+|inactive|Ella Langley has 15 seconds to reconnect!
+|inactive|Ella Langley has 10 seconds to reconnect!
+|inactive|Ella Langley has 5 seconds to reconnect!
+|-message|Ella Langley lost due to inactivity.
+|
+|win|PlooshieBaird
+|raw|PlooshieBaird's rating: 1892 &rarr; <strong>1913</strong><br />(+21 for winning)
+|raw|Ella Langley's rating: 1916 &rarr; <strong>1895</strong><br />(-21 for losing)

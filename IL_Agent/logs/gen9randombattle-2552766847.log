@@ -1,0 +1,305 @@
+|j|☆Jskjekejsjs
+|j|‽bobisbricked
+|t:|1772751300
+|gametype|singles
+|player|p1|Jskjekejsjs|265|1132
+|player|p2|bobisbricked|101|1169
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772751300
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Incineroar|Incineroar, L82, F|290/290
+|switch|p2a: Breloom|Breloom, L83, M|235/235
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Breloom|atk|1
+|turn|1
+|
+|t:|1772751318
+|switch|p1a: Iron Moth|Iron Moth, L78|253/253
+|-terastallize|p2a: Breloom|Rock
+|move|p2a: Breloom|Rock Tomb|p1a: Iron Moth
+|-supereffective|p1a: Iron Moth
+|-damage|p1a: Iron Moth|0 fnt
+|faint|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|-damage|p2a: Breloom|212/235|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772751325
+|switch|p1a: Jirachi|Jirachi, L80|291/291
+|turn|2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Jskjekejsjs)
+|
+|t:|1772751336
+|move|p1a: Jirachi|Iron Head|p2a: Breloom
+|-supereffective|p2a: Breloom
+|-damage|p2a: Breloom|32/235
+|cant|p2a: Breloom|flinch
+|
+|upkeep
+|turn|3
+|
+|t:|1772751342
+|move|p2a: Breloom|Mach Punch|p1a: Jirachi
+|-damage|p1a: Jirachi|229/291
+|-damage|p2a: Breloom|9/235|[from] item: Life Orb
+|move|p1a: Jirachi|Iron Head|p2a: Breloom
+|-supereffective|p2a: Breloom
+|-damage|p2a: Breloom|0 fnt
+|faint|p2a: Breloom
+|
+|-heal|p1a: Jirachi|247/291|[from] item: Leftovers
+|upkeep
+|
+|t:|1772751363
+|switch|p2a: Koraidon|Koraidon, L64|235/235
+|-weather|SunnyDay|[from] ability: Orichalcum Pulse|[of] p2a: Koraidon
+|-activate|p2a: Koraidon|Orichalcum Pulse|[source]
+|turn|4
+|
+|t:|1772751375
+|move|p2a: Koraidon|Flare Blitz|p1a: Jirachi
+|-supereffective|p1a: Jirachi
+|-damage|p1a: Jirachi|0 fnt
+|faint|p1a: Jirachi
+|-damage|p2a: Koraidon|153/235|[from] Recoil
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1772751379
+|switch|p1a: Incineroar|Incineroar, L82, F|290/290
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Koraidon|atk|1
+|turn|5
+|
+|t:|1772751393
+|move|p2a: Koraidon|Collision Course|p1a: Incineroar
+|-supereffective|p1a: Incineroar
+|-damage|p1a: Incineroar|110/290
+|move|p1a: Incineroar|U-turn|p2a: Koraidon
+|-resisted|p2a: Koraidon
+|-damage|p2a: Koraidon|125/235
+|
+|t:|1772751400
+|switch|p1a: Mudsdale|Mudsdale, L83, M|302/302|[from] U-turn
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1772751422
+|switch|p2a: Cinccino|Cinccino, L83, M|260/260
+|move|p1a: Mudsdale|Stealth Rock|p2a: Cinccino
+|-sidestart|p2: bobisbricked|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1772751432
+|move|p2a: Cinccino|Triple Axel|p1a: Mudsdale
+|-supereffective|p1a: Mudsdale
+|-damage|p1a: Mudsdale|264/302
+|-ability|p1a: Mudsdale|Stamina|boost
+|-boost|p1a: Mudsdale|def|1
+|-supereffective|p1a: Mudsdale
+|-damage|p1a: Mudsdale|212/302
+|-ability|p1a: Mudsdale|Stamina|boost
+|-boost|p1a: Mudsdale|def|1
+|-supereffective|p1a: Mudsdale
+|-damage|p1a: Mudsdale|154/302
+|-ability|p1a: Mudsdale|Stamina|boost
+|-boost|p1a: Mudsdale|def|1
+|-hitcount|p1a: Mudsdale|3
+|move|p1a: Mudsdale|Earthquake|p2a: Cinccino
+|-damage|p2a: Cinccino|86/260
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Mudsdale|172/302|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1772751456
+|move|p2a: Cinccino|Triple Axel|p1a: Mudsdale
+|-supereffective|p1a: Mudsdale
+|-damage|p1a: Mudsdale|156/302
+|-ability|p1a: Mudsdale|Stamina|boost
+|-boost|p1a: Mudsdale|def|1
+|-supereffective|p1a: Mudsdale
+|-damage|p1a: Mudsdale|130/302
+|-ability|p1a: Mudsdale|Stamina|boost
+|-boost|p1a: Mudsdale|def|1
+|-supereffective|p1a: Mudsdale
+|-damage|p1a: Mudsdale|98/302
+|-ability|p1a: Mudsdale|Stamina|boost
+|-boost|p1a: Mudsdale|def|1
+|-hitcount|p1a: Mudsdale|3
+|move|p1a: Mudsdale|Earthquake|p2a: Cinccino
+|-crit|p2a: Cinccino
+|-damage|p2a: Cinccino|0 fnt
+|faint|p2a: Cinccino
+|
+|-weather|none
+|-heal|p1a: Mudsdale|116/302|[from] item: Leftovers
+|upkeep
+|inactive|bobisbricked has 120 seconds left.
+|
+|t:|1772751475
+|switch|p2a: Grumpig|Grumpig, L92, M|297/297
+|-damage|p2a: Grumpig|260/297|[from] Stealth Rock
+|turn|9
+|
+|t:|1772751485
+|switch|p1a: Incineroar|Incineroar, L82, F|110/290
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Grumpig|atk|1
+|move|p2a: Grumpig|Focus Blast|p1a: Incineroar|[miss]
+|-miss|p2a: Grumpig|p1a: Incineroar
+|
+|-heal|p2a: Grumpig|278/297|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1772751494
+|move|p2a: Grumpig|Focus Blast|p1a: Incineroar
+|-supereffective|p1a: Incineroar
+|-damage|p1a: Incineroar|0 fnt
+|faint|p1a: Incineroar
+|
+|-heal|p2a: Grumpig|296/297|[from] item: Leftovers
+|upkeep
+|
+|t:|1772751498
+|switch|p1a: Smeargle|Smeargle, L95, F|258/258
+|turn|11
+|
+|t:|1772751504
+|-terastallize|p1a: Smeargle|Ghost
+|move|p2a: Grumpig|Focus Blast|p1a: Smeargle
+|-immune|p1a: Smeargle
+|move|p1a: Smeargle|Spore|p2a: Grumpig
+|-status|p2a: Grumpig|slp|[from] move: Spore
+|
+|-heal|p2a: Grumpig|297/297 slp|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1772751518
+|switch|p2a: Arceus|Arceus-Bug, L73|295/295
+|-damage|p2a: Arceus|222/295|[from] Stealth Rock
+|move|p1a: Smeargle|Sticky Web|p2a: Arceus
+|-sidestart|p2: bobisbricked|move: Sticky Web
+|
+|upkeep
+|turn|13
+|
+|t:|1772751531
+|switch|p1a: Sylveon|Sylveon, L85, M|300/300
+|move|p2a: Arceus|Calm Mind|p2a: Arceus
+|-boost|p2a: Arceus|spa|1
+|-boost|p2a: Arceus|spd|1
+|
+|upkeep
+|turn|14
+|
+|t:|1772751537
+|move|p2a: Arceus|Judgment|p1a: Sylveon
+|-resisted|p1a: Sylveon
+|-damage|p1a: Sylveon|240/300
+|move|p1a: Sylveon|Calm Mind|p1a: Sylveon
+|-boost|p1a: Sylveon|spa|1
+|-boost|p1a: Sylveon|spd|1
+|
+|-heal|p1a: Sylveon|258/300|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1772751548
+|switch|p2a: Perrserker|Perrserker, L89, M|269/269
+|-damage|p2a: Perrserker|253/269|[from] Stealth Rock
+|-activate|p2a: Perrserker|move: Sticky Web
+|-unboost|p2a: Perrserker|spe|1
+|move|p1a: Sylveon|Calm Mind|p1a: Sylveon
+|-boost|p1a: Sylveon|spa|1
+|-boost|p1a: Sylveon|spd|1
+|
+|-heal|p1a: Sylveon|276/300|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1772751560
+|switch|p1a: Smeargle|Smeargle, L95, F, tera:Ghost|258/258
+|move|p2a: Perrserker|Iron Head|p1a: Smeargle
+|-enditem|p1a: Smeargle|Focus Sash
+|-damage|p1a: Smeargle|1/258
+|-damage|p2a: Perrserker|227/269|[from] item: Life Orb
+|
+|upkeep
+|turn|17
+|
+|t:|1772751571
+|move|p1a: Smeargle|Ceaseless Edge|p2a: Perrserker|[miss]
+|-miss|p1a: Smeargle|p2a: Perrserker
+|move|p2a: Perrserker|Iron Head|p1a: Smeargle
+|-damage|p1a: Smeargle|0 fnt
+|faint|p1a: Smeargle
+|-damage|p2a: Perrserker|201/269|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772751573
+|switch|p1a: Mudsdale|Mudsdale, L83, M|116/302
+|turn|18
+|
+|t:|1772751587
+|move|p1a: Mudsdale|Earthquake|p2a: Perrserker
+|-supereffective|p2a: Perrserker
+|-damage|p2a: Perrserker|0 fnt
+|faint|p2a: Perrserker
+|
+|-heal|p1a: Mudsdale|134/302|[from] item: Leftovers
+|upkeep
+|
+|t:|1772751594
+|switch|p2a: Arceus|Arceus-Bug, L73|222/295
+|-damage|p2a: Arceus|149/295|[from] Stealth Rock
+|-activate|p2a: Arceus|move: Sticky Web
+|-unboost|p2a: Arceus|spe|1
+|turn|19
+|
+|t:|1772751599
+|switch|p1a: Sylveon|Sylveon, L85, M|276/300
+|move|p2a: Arceus|Recover|p2a: Arceus
+|-heal|p2a: Arceus|295/295
+|
+|-heal|p1a: Sylveon|294/300|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1772751605
+|move|p1a: Sylveon|Calm Mind|p1a: Sylveon
+|-boost|p1a: Sylveon|spa|1
+|-boost|p1a: Sylveon|spd|1
+|move|p2a: Arceus|Fire Blast|p1a: Sylveon
+|-damage|p1a: Sylveon|260/300
+|
+|-heal|p1a: Sylveon|278/300|[from] item: Leftovers
+|upkeep
+|turn|21
+|-message|bobisbricked forfeited.
+|
+|win|Jskjekejsjs
+|raw|Jskjekejsjs's rating: 1132 &rarr; <strong>1160</strong><br />(+28 for winning)
+|raw|bobisbricked's rating: 1169 &rarr; <strong>1141</strong><br />(-28 for losing)
+|l|‽bobisbricked
+|player|p2|

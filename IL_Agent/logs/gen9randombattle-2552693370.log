@@ -1,0 +1,274 @@
+|j|☆potty111live.ca
+|j|☆vegemite360
+|t:|1772744099
+|gametype|singles
+|player|p1|potty111live.ca|2|1826
+|player|p2|vegemite360|bugcatcher-gen4dp|1778
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772744099
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Mesprit|Mesprit, L85|275/275
+|switch|p2a: Vivillon|Vivillon-Sandstorm, L83, F|268/268
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by vegemite360)
+|
+|t:|1772744110
+|move|p1a: Mesprit|Trick|p2a: Vivillon
+|-activate|p1a: Mesprit|move: Trick|[of] p2a: Vivillon
+|-item|p2a: Vivillon|Choice Scarf|[from] move: Trick
+|-item|p1a: Mesprit|Heavy-Duty Boots|[from] move: Trick
+|move|p2a: Vivillon|Sleep Powder|p1a: Mesprit
+|-status|p1a: Mesprit|slp|[from] move: Sleep Powder
+|
+|upkeep
+|turn|2
+|
+|t:|1772744123
+|switch|p2a: Toxapex|Toxapex, L82, M|216/216
+|cant|p1a: Mesprit|slp
+|
+|upkeep
+|turn|3
+|
+|t:|1772744130
+|-curestatus|p1a: Mesprit|slp|[msg]
+|move|p1a: Mesprit|Psychic|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|82/216
+|move|p2a: Toxapex|Toxic Spikes|p1a: Mesprit
+|-sidestart|p1: potty111live.ca|move: Toxic Spikes
+|
+|upkeep
+|turn|4
+|
+|t:|1772744144
+|switch|p2a: Shiftry|Shiftry, L89, F|305/305
+|move|p1a: Mesprit|Psychic|p2a: Shiftry
+|-immune|p2a: Shiftry
+|
+|upkeep
+|turn|5
+|
+|t:|1772744153
+|-terastallize|p1a: Mesprit|Fairy
+|move|p2a: Shiftry|Knock Off|p1a: Mesprit
+|-resisted|p1a: Mesprit
+|-damage|p1a: Mesprit|229/275
+|-enditem|p1a: Mesprit|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Shiftry
+|move|p1a: Mesprit|Dazzling Gleam|p2a: Shiftry
+|-supereffective|p2a: Shiftry
+|-damage|p2a: Shiftry|77/305
+|
+|upkeep
+|turn|6
+|
+|t:|1772744163
+|move|p2a: Shiftry|Leaf Storm|p1a: Mesprit
+|-damage|p1a: Mesprit|97/275
+|-unboost|p2a: Shiftry|spa|2
+|move|p1a: Mesprit|Dazzling Gleam|p2a: Shiftry
+|-supereffective|p2a: Shiftry
+|-damage|p2a: Shiftry|0 fnt
+|faint|p2a: Shiftry
+|
+|upkeep
+|
+|t:|1772744173
+|switch|p2a: Mismagius|Mismagius, L86, F|243/243
+|turn|7
+|
+|t:|1772744177
+|move|p2a: Mismagius|Substitute|p2a: Mismagius
+|-start|p2a: Mismagius|Substitute
+|-damage|p2a: Mismagius|183/243
+|move|p1a: Mesprit|Shadow Ball|p2a: Mismagius
+|-supereffective|p2a: Mismagius
+|-end|p2a: Mismagius|Substitute
+|
+|-heal|p2a: Mismagius|198/243|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1772744185
+|move|p2a: Mismagius|Nasty Plot|p2a: Mismagius
+|-boost|p2a: Mismagius|spa|2
+|move|p1a: Mesprit|Shadow Ball|p2a: Mismagius
+|-supereffective|p2a: Mismagius
+|-crit|p2a: Mismagius
+|-damage|p2a: Mismagius|52/243
+|
+|-heal|p2a: Mismagius|67/243|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1772744196
+|move|p2a: Mismagius|Shadow Ball|p1a: Mesprit
+|-damage|p1a: Mesprit|0 fnt
+|faint|p1a: Mesprit
+|
+|-heal|p2a: Mismagius|82/243|[from] item: Leftovers
+|upkeep
+|
+|t:|1772744211
+|switch|p1a: Sylveon|Sylveon, L85, M|300/300
+|-status|p1a: Sylveon|psn
+|turn|10
+|
+|t:|1772744217
+|switch|p2a: Toxapex|Toxapex, L82, M|154/216
+|move|p1a: Sylveon|Hyper Voice|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|105/216
+|
+|-damage|p1a: Sylveon|263/300 psn|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1772744230
+|move|p1a: Sylveon|Calm Mind|p1a: Sylveon
+|-boost|p1a: Sylveon|spa|1
+|-boost|p1a: Sylveon|spd|1
+|move|p2a: Toxapex|Toxic Spikes|p1a: Sylveon
+|-sidestart|p1: potty111live.ca|move: Toxic Spikes
+|
+|-heal|p1a: Sylveon|281/300 psn|[from] item: Leftovers
+|-damage|p1a: Sylveon|244/300 psn|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1772744237
+|move|p1a: Sylveon|Hyper Voice|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|37/216
+|move|p2a: Toxapex|Haze|p2a: Toxapex
+|-clearallboost
+|
+|-heal|p1a: Sylveon|262/300 psn|[from] item: Leftovers
+|-damage|p1a: Sylveon|225/300 psn|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1772744247
+|switch|p2a: Vivillon|Vivillon-Sandstorm, L83, F|268/268
+|move|p1a: Sylveon|Hyper Voice|p2a: Vivillon
+|-damage|p2a: Vivillon|64/268
+|
+|-heal|p1a: Sylveon|243/300 psn|[from] item: Leftovers
+|-damage|p1a: Sylveon|206/300 psn|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1772744255
+|move|p2a: Vivillon|Hurricane|p1a: Sylveon
+|-damage|p1a: Sylveon|124/300 psn
+|move|p1a: Sylveon|Wish|p1a: Sylveon
+|
+|-heal|p1a: Sylveon|142/300 psn|[from] item: Leftovers
+|-damage|p1a: Sylveon|105/300 psn|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1772744262
+|switch|p2a: Toxapex|Toxapex, L82, M|109/216
+|move|p1a: Sylveon|Protect||[still]
+|-fail|p1a: Sylveon
+|
+|-heal|p1a: Sylveon|255/300 psn|[from] move: Wish|[wisher] Sylveon
+|-heal|p1a: Sylveon|273/300 psn|[from] item: Leftovers
+|-damage|p1a: Sylveon|236/300 psn|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1772744271
+|switch|p1a: Slowking|Slowking-Galar, L85, F|300/300
+|-sideend|p1: potty111live.ca|move: Toxic Spikes|[of] p1a: Slowking
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|216/216
+|
+|upkeep
+|turn|17
+|
+|t:|1772744282
+|switch|p2a: Kingambit|Kingambit, L74, F|270/270
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen1|[silent]
+|move|p1a: Slowking|Psyshock|p2a: Kingambit
+|-immune|p2a: Kingambit
+|
+|upkeep
+|turn|18
+|
+|t:|1772744297
+|switch|p1a: Crabominable|Crabominable, L90, F|321/321
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Crabominable
+|-resisted|p1a: Crabominable
+|-damage|p1a: Crabominable|264/321
+|
+|upkeep
+|turn|19
+|
+|t:|1772744310
+|-end|p2a: Kingambit|fallen1|[silent]
+|switch|p2a: Toxapex|Toxapex, L82, M|216/216
+|move|p1a: Crabominable|Ice Hammer|p2a: Toxapex|[miss]
+|-miss|p1a: Crabominable|p2a: Toxapex
+|
+|upkeep
+|turn|20
+|
+|t:|1772744326
+|switch|p1a: Gastrodon|Gastrodon, L86, M|331/331
+|move|p2a: Toxapex|Liquidation|p1a: Gastrodon
+|-ability|p1a: Gastrodon|Storm Drain|boost
+|-boost|p1a: Gastrodon|spa|1
+|
+|upkeep
+|turn|21
+|
+|t:|1772744341
+|move|p1a: Gastrodon|Surf|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|169/216
+|move|p2a: Toxapex|Toxic Spikes|p1a: Gastrodon
+|-sidestart|p1: potty111live.ca|move: Toxic Spikes
+|
+|upkeep
+|turn|22
+|
+|t:|1772744356
+|switch|p2a: Dodrio|Dodrio, L85, M|241/241
+|move|p1a: Gastrodon|Stealth Rock|p2a: Dodrio
+|-sidestart|p2: vegemite360|move: Stealth Rock
+|
+|upkeep
+|turn|23
+|
+|t:|1772744363
+|move|p2a: Dodrio|Brave Bird|p1a: Gastrodon
+|-crit|p1a: Gastrodon
+|-damage|p1a: Gastrodon|0 fnt
+|faint|p1a: Gastrodon
+|-damage|p2a: Dodrio|132/241|[from] Recoil
+|
+|upkeep
+|
+|t:|1772744369
+|switch|p1a: Slowking|Slowking-Galar, L85, F|300/300
+|-sideend|p1: potty111live.ca|move: Toxic Spikes|[of] p1a: Slowking
+|turn|24
+|-message|potty111live.ca forfeited.
+|
+|win|vegemite360
+|raw|potty111live.ca's rating: 1826 &rarr; <strong>1803</strong><br />(-23 for losing)
+|raw|vegemite360's rating: 1778 &rarr; <strong>1801</strong><br />(+23 for winning)
+|l|☆potty111live.ca
+|player|p1|

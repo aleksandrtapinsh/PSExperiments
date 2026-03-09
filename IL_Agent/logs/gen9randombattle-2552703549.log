@@ -1,0 +1,306 @@
+|j|☆Yue Zhen
+|j|☆Idkbawouhe
+|t:|1772745046
+|gametype|singles
+|player|p1|Yue Zhen|265|
+|player|p2|Idkbawouhe|hilbert-wonderlauncher|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772745046
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Regice|Regice, L88|284/284
+|switch|p2a: Chi-Yu|Chi-Yu, L77|211/211
+|-ability|p2a: Chi-Yu|Beads of Ruin
+|turn|1
+|
+|t:|1772745071
+|switch|p1a: Mismagius|Mismagius, L86, F|243/243
+|move|p2a: Chi-Yu|Flamethrower|p1a: Mismagius
+|-damage|p1a: Mismagius|81/243
+|
+|upkeep
+|turn|2
+|
+|t:|1772745110
+|switch|p2a: Dachsbun|Dachsbun, L92, M|254/254
+|move|p1a: Mismagius|Shadow Ball|p2a: Dachsbun
+|-damage|p2a: Dachsbun|103/254
+|
+|-heal|p2a: Dachsbun|118/254|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1772745123
+|-terastallize|p1a: Mismagius|Ghost
+|move|p1a: Mismagius|Shadow Ball|p2a: Dachsbun
+|-damage|p2a: Dachsbun|0 fnt
+|faint|p2a: Dachsbun
+|
+|upkeep
+|
+|t:|1772745133
+|switch|p2a: Gliscor|Gliscor, L76, F|239/239
+|turn|4
+|
+|t:|1772745139
+|move|p1a: Mismagius|Shadow Ball|p2a: Gliscor
+|-damage|p2a: Gliscor|21/239
+|move|p2a: Gliscor|Knock Off|p1a: Mismagius
+|-supereffective|p1a: Mismagius
+|-damage|p1a: Mismagius|0 fnt
+|-enditem|p1a: Mismagius|Choice Specs|[from] move: Knock Off|[of] p2a: Gliscor
+|faint|p1a: Mismagius
+|
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|
+|t:|1772745157
+|switch|p1a: Eelektross|Eelektross, L87, F|290/290
+|turn|5
+|
+|t:|1772745185
+|switch|p2a: Dialga|Dialga-Origin, L73|266/266
+|-ability|p2a: Dialga|Pressure
+|move|p1a: Eelektross|Coil|p1a: Eelektross
+|-boost|p1a: Eelektross|atk|1
+|-boost|p1a: Eelektross|def|1
+|-boost|p1a: Eelektross|accuracy|1
+|
+|upkeep
+|turn|6
+|
+|t:|1772745204
+|move|p2a: Dialga|Draco Meteor|p1a: Eelektross
+|-damage|p1a: Eelektross|103/290
+|-unboost|p2a: Dialga|spa|2
+|move|p1a: Eelektross|Drain Punch|p2a: Dialga
+|-supereffective|p2a: Dialga
+|-damage|p2a: Dialga|78/266
+|-heal|p1a: Eelektross|197/290|[from] drain|[of] p2a: Dialga
+|
+|-heal|p1a: Eelektross|215/290|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1772745218
+|-terastallize|p2a: Dialga|Dragon
+|move|p2a: Dialga|Draco Meteor|p1a: Eelektross
+|-damage|p1a: Eelektross|97/290
+|-unboost|p2a: Dialga|spa|2
+|move|p1a: Eelektross|Fire Punch|p2a: Dialga
+|-resisted|p2a: Dialga
+|-crit|p2a: Dialga
+|-damage|p2a: Dialga|12/266
+|
+|-heal|p1a: Eelektross|115/290|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1772745231
+|move|p2a: Dialga|Fire Blast|p1a: Eelektross
+|-damage|p1a: Eelektross|83/290
+|move|p1a: Eelektross|Drain Punch|p2a: Dialga
+|-damage|p2a: Dialga|0 fnt
+|-heal|p1a: Eelektross|89/290|[from] drain|[of] p2a: Dialga
+|faint|p2a: Dialga
+|
+|-heal|p1a: Eelektross|107/290|[from] item: Leftovers
+|upkeep
+|
+|t:|1772745243
+|switch|p2a: Golurk|Golurk, L87|297/297
+|turn|9
+|
+|t:|1772745257
+|move|p2a: Golurk|Earthquake|p1a: Eelektross
+|-immune|p1a: Eelektross|[from] ability: Levitate
+|move|p1a: Eelektross|Drain Punch|p2a: Golurk
+|-immune|p2a: Golurk
+|
+|-heal|p1a: Eelektross|125/290|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1772745281
+|switch|p1a: Gogoat|Gogoat, L88, F|360/360
+|move|p2a: Golurk|Earthquake|p1a: Gogoat
+|-resisted|p1a: Gogoat
+|-damage|p1a: Gogoat|228/360
+|
+|-heal|p1a: Gogoat|250/360|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1772745294
+|switch|p2a: Chi-Yu|Chi-Yu, L77|211/211
+|-ability|p2a: Chi-Yu|Beads of Ruin
+|move|p1a: Gogoat|Bulk Up|p1a: Gogoat
+|-boost|p1a: Gogoat|atk|1
+|-boost|p1a: Gogoat|def|1
+|
+|-heal|p1a: Gogoat|272/360|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1772745314
+|switch|p1a: Blissey|Blissey, L85, F|572/572
+|move|p2a: Chi-Yu|Overheat|p1a: Blissey
+|-damage|p1a: Blissey|371/572
+|-unboost|p2a: Chi-Yu|spa|2
+|
+|-heal|p1a: Blissey|406/572|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1772745338
+|switch|p2a: Golurk|Golurk, L87|297/297
+|move|p1a: Blissey|Thunder Wave|p2a: Golurk
+|-immune|p2a: Golurk
+|
+|-heal|p1a: Blissey|441/572|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1772745349
+|switch|p1a: Dipplin|Dipplin, L88, F|284/284
+|move|p2a: Golurk|Dynamic Punch|p1a: Dipplin
+|-damage|p1a: Dipplin|204/284
+|-start|p1a: Dipplin|confusion
+|
+|upkeep
+|turn|15
+|
+|t:|1772745374
+|switch|p2a: Chi-Yu|Chi-Yu, L77|211/211
+|-ability|p2a: Chi-Yu|Beads of Ruin
+|-activate|p1a: Dipplin|confusion
+|-damage|p1a: Dipplin|181/284|[from] confusion
+|
+|upkeep
+|turn|16
+|
+|t:|1772745418
+|move|p2a: Chi-Yu|Flamethrower|p1a: Dipplin
+|-damage|p1a: Dipplin|40/284
+|-activate|p1a: Dipplin|confusion
+|move|p1a: Dipplin|Dragon Tail|p2a: Chi-Yu|[miss]
+|-miss|p1a: Dipplin|p2a: Chi-Yu
+|
+|upkeep
+|turn|17
+|
+|t:|1772745430
+|switch|p1a: Eelektross|Eelektross, L87, F|125/290
+|move|p2a: Chi-Yu|Flamethrower|p1a: Eelektross
+|-damage|p1a: Eelektross|0 fnt
+|faint|p1a: Eelektross
+|
+|upkeep
+|
+|t:|1772745440
+|switch|p1a: Blissey|Blissey, L85, F|441/572
+|turn|18
+|
+|t:|1772745449
+|switch|p2a: Golurk|Golurk, L87|297/297
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|572/572
+|
+|upkeep
+|turn|19
+|
+|t:|1772745461
+|switch|p1a: Regice|Regice, L88|284/284
+|move|p2a: Golurk|Dynamic Punch|p1a: Regice
+|-supereffective|p1a: Regice
+|-damage|p1a: Regice|64/284
+|-start|p1a: Regice|confusion
+|
+|upkeep
+|turn|20
+|
+|t:|1772745470
+|move|p2a: Golurk|Dynamic Punch|p1a: Regice
+|-supereffective|p1a: Regice
+|-damage|p1a: Regice|0 fnt
+|faint|p1a: Regice
+|
+|upkeep
+|
+|t:|1772745481
+|switch|p1a: Gogoat|Gogoat, L88, F|272/360
+|turn|21
+|
+|t:|1772745489
+|switch|p2a: Chi-Yu|Chi-Yu, L77|211/211
+|-ability|p2a: Chi-Yu|Beads of Ruin
+|move|p1a: Gogoat|Horn Leech|p2a: Chi-Yu
+|-resisted|p2a: Chi-Yu
+|-damage|p2a: Chi-Yu|160/211
+|-heal|p1a: Gogoat|298/360|[from] drain|[of] p2a: Chi-Yu
+|
+|-heal|p1a: Gogoat|320/360|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1772745502
+|move|p2a: Chi-Yu|Flamethrower|p1a: Gogoat
+|-supereffective|p1a: Gogoat
+|-damage|p1a: Gogoat|0 fnt
+|faint|p1a: Gogoat
+|
+|upkeep
+|
+|t:|1772745508
+|switch|p1a: Blissey|Blissey, L85, F|572/572
+|turn|23
+|
+|t:|1772745529
+|move|p2a: Chi-Yu|Flamethrower|p1a: Blissey
+|-damage|p1a: Blissey|433/572
+|-status|p1a: Blissey|brn
+|move|p1a: Blissey|Seismic Toss|p2a: Chi-Yu
+|-damage|p2a: Chi-Yu|75/211
+|
+|-heal|p1a: Blissey|468/572 brn|[from] item: Leftovers
+|-damage|p1a: Blissey|433/572 brn|[from] brn
+|upkeep
+|turn|24
+|
+|t:|1772745540
+|switch|p2a: Golurk|Golurk, L87|297/297
+|move|p1a: Blissey|Seismic Toss|p2a: Golurk
+|-immune|p2a: Golurk
+|
+|-heal|p1a: Blissey|468/572 brn|[from] item: Leftovers
+|-damage|p1a: Blissey|433/572 brn|[from] brn
+|upkeep
+|turn|25
+|
+|t:|1772745552
+|-curestatus|p1a: Blissey|brn|[from] ability: Natural Cure
+|switch|p1a: Dipplin|Dipplin, L88, F|40/284
+|move|p2a: Golurk|Dynamic Punch|p1a: Dipplin
+|-damage|p1a: Dipplin|0 fnt
+|faint|p1a: Dipplin
+|
+|upkeep
+|
+|t:|1772745562
+|switch|p1a: Blissey|Blissey, L85, F|433/572
+|turn|26
+|
+|t:|1772745566
+|move|p2a: Golurk|Dynamic Punch|p1a: Blissey
+|-supereffective|p1a: Blissey
+|-damage|p1a: Blissey|0 fnt
+|faint|p1a: Blissey
+|
+|win|Idkbawouhe

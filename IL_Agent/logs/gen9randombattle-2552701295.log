@@ -1,0 +1,418 @@
+|j|☆manofcheese144
+|j|☆superdoodlebob
+|t:|1772744836
+|gametype|singles
+|player|p1|manofcheese144|gentleman-gen4dp|1536
+|player|p2|superdoodlebob|170|1542
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772744836
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Bisharp|Bisharp, L79, F|232/232
+|switch|p2a: Arceus|Arceus-Rock, L74|300/300
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by manofcheese144)
+|
+|t:|1772744852
+|switch|p2a: Dragapult|Dragapult, L77, F|262/262
+|move|p1a: Bisharp|Stealth Rock|p2a: Dragapult
+|-sidestart|p2: superdoodlebob|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1772744857
+|move|p2a: Dragapult|Will-O-Wisp|p1a: Bisharp
+|-status|p1a: Bisharp|brn
+|move|p1a: Bisharp|Throat Chop|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|154/262
+|-start|p2a: Dragapult|Throat Chop|[silent]
+|
+|-damage|p1a: Bisharp|218/232 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1772744862
+|move|p2a: Dragapult|U-turn|p1a: Bisharp
+|-crit|p1a: Bisharp
+|-damage|p1a: Bisharp|168/232 brn
+|
+|t:|1772744870
+|switch|p2a: Scovillain|Scovillain, L91, M|266/266|[from] U-turn
+|-damage|p2a: Scovillain|200/266|[from] Stealth Rock
+|move|p1a: Bisharp|Throat Chop|p2a: Scovillain
+|-damage|p2a: Scovillain|149/266
+|-start|p2a: Scovillain|Throat Chop|[silent]
+|
+|-heal|p2a: Scovillain|165/266|[from] item: Leftovers
+|-damage|p1a: Bisharp|154/232 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1772744878
+|move|p1a: Bisharp|Sucker Punch||[still]
+|-fail|p1a: Bisharp
+|move|p2a: Scovillain|Substitute|p2a: Scovillain
+|-start|p2a: Scovillain|Substitute
+|-damage|p2a: Scovillain|99/266
+|
+|-heal|p2a: Scovillain|115/266|[from] item: Leftovers
+|-damage|p1a: Bisharp|140/232 brn|[from] brn
+|-end|p2a: Scovillain|Throat Chop|[silent]
+|upkeep
+|turn|5
+|
+|t:|1772744880
+|move|p2a: Scovillain|Leech Seed|p1a: Bisharp
+|-start|p1a: Bisharp|move: Leech Seed
+|move|p1a: Bisharp|Throat Chop|p2a: Scovillain
+|-activate|p2a: Scovillain|move: Substitute|[damage]
+|
+|-heal|p2a: Scovillain|131/266|[from] item: Leftovers
+|-damage|p1a: Bisharp|111/232 brn|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|160/266|[silent]
+|-damage|p1a: Bisharp|97/232 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1772744883
+|switch|p1a: Grimmsnarl|Grimmsnarl, L83, M|293/293
+|move|p2a: Scovillain|Protect||[still]
+|-fail|p2a: Scovillain
+|
+|-heal|p2a: Scovillain|176/266|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1772744886
+|move|p2a: Scovillain|Leech Seed|p1a: Grimmsnarl
+|-start|p1a: Grimmsnarl|move: Leech Seed
+|move|p1a: Grimmsnarl|Spirit Break|p2a: Scovillain
+|-resisted|p2a: Scovillain
+|-end|p2a: Scovillain|Substitute
+|
+|-heal|p2a: Scovillain|192/266|[from] item: Leftovers
+|-damage|p1a: Grimmsnarl|257/293|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|228/266|[silent]
+|upkeep
+|turn|8
+|
+|t:|1772744889
+|move|p2a: Scovillain|Protect|p2a: Scovillain
+|-singleturn|p2a: Scovillain|Protect
+|move|p1a: Grimmsnarl|Thunder Wave|p2a: Scovillain
+|-activate|p2a: Scovillain|move: Protect
+|
+|-heal|p2a: Scovillain|244/266|[from] item: Leftovers
+|-damage|p1a: Grimmsnarl|221/293|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|266/266|[silent]
+|upkeep
+|turn|9
+|
+|t:|1772744907
+|switch|p2a: Cryogonal|Cryogonal, L89|287/287
+|move|p1a: Grimmsnarl|Thunder Wave|p2a: Cryogonal
+|-status|p2a: Cryogonal|par
+|
+|-damage|p1a: Grimmsnarl|185/293|[from] Leech Seed|[of] p2a: Cryogonal
+|upkeep
+|turn|10
+|
+|t:|1772744913
+|move|p1a: Grimmsnarl|Spirit Break|p2a: Cryogonal
+|-damage|p2a: Cryogonal|149/287 par
+|-unboost|p2a: Cryogonal|spa|1
+|cant|p2a: Cryogonal|par
+|
+|-damage|p1a: Grimmsnarl|149/293|[from] Leech Seed|[of] p2a: Cryogonal
+|-heal|p2a: Cryogonal|185/287 par|[silent]
+|upkeep
+|turn|11
+|
+|t:|1772744941
+|move|p1a: Grimmsnarl|Spirit Break|p2a: Cryogonal
+|-damage|p2a: Cryogonal|67/287 par
+|-unboost|p2a: Cryogonal|spa|1
+|move|p2a: Cryogonal|Rapid Spin|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|117/293
+|-boost|p2a: Cryogonal|spe|1
+|-sideend|p2: superdoodlebob|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Cryogonal
+|
+|-damage|p1a: Grimmsnarl|81/293|[from] Leech Seed|[of] p2a: Cryogonal
+|-heal|p2a: Cryogonal|103/287 par|[silent]
+|upkeep
+|turn|12
+|
+|t:|1772744946
+|switch|p2a: Scovillain|Scovillain, L91, M|266/266
+|move|p1a: Grimmsnarl|Spirit Break|p2a: Scovillain
+|-resisted|p2a: Scovillain
+|-damage|p2a: Scovillain|213/266
+|-unboost|p2a: Scovillain|spa|1
+|
+|-heal|p2a: Scovillain|229/266|[from] item: Leftovers
+|-damage|p1a: Grimmsnarl|45/293|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|265/266|[silent]
+|upkeep
+|turn|13
+|
+|t:|1772744949
+|switch|p2a: Cryogonal|Cryogonal, L89|103/287 par
+|move|p1a: Grimmsnarl|Thunder Wave|p2a: Cryogonal
+|-fail|p2a: Cryogonal|par
+|
+|-damage|p1a: Grimmsnarl|9/293|[from] Leech Seed|[of] p2a: Cryogonal
+|-heal|p2a: Cryogonal|139/287 par|[silent]
+|upkeep
+|turn|14
+|
+|t:|1772744955
+|move|p1a: Grimmsnarl|Spirit Break|p2a: Cryogonal
+|-damage|p2a: Cryogonal|16/287 par
+|-unboost|p2a: Cryogonal|spa|1
+|move|p2a: Cryogonal|Recover|p2a: Cryogonal
+|-heal|p2a: Cryogonal|160/287 par
+|
+|-damage|p1a: Grimmsnarl|0 fnt|[from] Leech Seed|[of] p2a: Cryogonal
+|-heal|p2a: Cryogonal|169/287 par|[silent]
+|faint|p1a: Grimmsnarl
+|upkeep
+|
+|t:|1772744959
+|switch|p1a: Hatterene|Hatterene, L85, F|236/236
+|turn|15
+|inactive|superdoodlebob has 120 seconds left.
+|
+|t:|1772745003
+|switch|p2a: Iron Moth|Iron Moth, L78|253/253
+|move|p1a: Hatterene|Calm Mind|p1a: Hatterene
+|-boost|p1a: Hatterene|spa|1
+|-boost|p1a: Hatterene|spd|1
+|
+|upkeep
+|turn|16
+|
+|t:|1772745010
+|move|p2a: Iron Moth|Fiery Dance|p1a: Hatterene
+|-damage|p1a: Hatterene|151/236
+|move|p1a: Hatterene|Psychic|p2a: Iron Moth
+|-supereffective|p2a: Iron Moth
+|-damage|p2a: Iron Moth|0 fnt
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|
+|-heal|p1a: Hatterene|165/236|[from] item: Leftovers
+|upkeep
+|inactive|superdoodlebob has 120 seconds left.
+|
+|t:|1772745023
+|switch|p2a: Arceus|Arceus-Rock, L74|300/300
+|turn|17
+|
+|t:|1772745030
+|move|p2a: Arceus|Calm Mind|p2a: Arceus
+|-boost|p2a: Arceus|spa|1
+|-boost|p2a: Arceus|spd|1
+|move|p1a: Hatterene|Psychic|p2a: Arceus
+|-damage|p2a: Arceus|191/300
+|
+|-heal|p1a: Hatterene|179/236|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1772745034
+|move|p2a: Arceus|Calm Mind|p2a: Arceus
+|-boost|p2a: Arceus|spa|1
+|-boost|p2a: Arceus|spd|1
+|move|p1a: Hatterene|Calm Mind|p1a: Hatterene
+|-boost|p1a: Hatterene|spa|1
+|-boost|p1a: Hatterene|spd|1
+|
+|-heal|p1a: Hatterene|193/236|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1772745037
+|move|p2a: Arceus|Calm Mind|p2a: Arceus
+|-boost|p2a: Arceus|spa|1
+|-boost|p2a: Arceus|spd|1
+|move|p1a: Hatterene|Psychic|p2a: Arceus
+|-damage|p2a: Arceus|104/300
+|
+|-heal|p1a: Hatterene|207/236|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1772745039
+|move|p2a: Arceus|Recover|p2a: Arceus
+|-heal|p2a: Arceus|254/300
+|move|p1a: Hatterene|Psychic|p2a: Arceus
+|-damage|p2a: Arceus|164/300
+|
+|-heal|p1a: Hatterene|221/236|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1772745042
+|move|p2a: Arceus|Calm Mind|p2a: Arceus
+|-boost|p2a: Arceus|spa|1
+|-boost|p2a: Arceus|spd|1
+|move|p1a: Hatterene|Calm Mind|p1a: Hatterene
+|-boost|p1a: Hatterene|spa|1
+|-boost|p1a: Hatterene|spd|1
+|
+|-heal|p1a: Hatterene|235/236|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1772745044
+|move|p2a: Arceus|Calm Mind|p2a: Arceus
+|-boost|p2a: Arceus|spa|1
+|-boost|p2a: Arceus|spd|1
+|move|p1a: Hatterene|Calm Mind|p1a: Hatterene
+|-boost|p1a: Hatterene|spa|1
+|-boost|p1a: Hatterene|spd|1
+|
+|-heal|p1a: Hatterene|236/236|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1772745045
+|move|p2a: Arceus|Recover|p2a: Arceus
+|-heal|p2a: Arceus|300/300
+|move|p1a: Hatterene|Calm Mind|p1a: Hatterene
+|-boost|p1a: Hatterene|spa|1
+|-boost|p1a: Hatterene|spd|1
+|
+|upkeep
+|turn|24
+|
+|t:|1772745048
+|move|p2a: Arceus|Calm Mind|p2a: Arceus
+|-boost|p2a: Arceus|spa|1
+|-boost|p2a: Arceus|spd|1
+|move|p1a: Hatterene|Calm Mind|p1a: Hatterene
+|-boost|p1a: Hatterene|spa|1
+|-boost|p1a: Hatterene|spd|1
+|
+|upkeep
+|turn|25
+|
+|t:|1772745050
+|move|p2a: Arceus|Judgment|p1a: Hatterene
+|-damage|p1a: Hatterene|139/236
+|move|p1a: Hatterene|Psychic|p2a: Arceus
+|-damage|p2a: Arceus|185/300
+|
+|-heal|p1a: Hatterene|153/236|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1772745055
+|move|p2a: Arceus|Judgment|p1a: Hatterene
+|-damage|p1a: Hatterene|51/236
+|move|p1a: Hatterene|Psychic|p2a: Arceus
+|-damage|p2a: Arceus|76/300
+|
+|-heal|p1a: Hatterene|65/236|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1772745059
+|move|p2a: Arceus|Judgment|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|upkeep
+|
+|t:|1772745066
+|switch|p1a: Regidrago|Regidrago, L77|435/435
+|turn|28
+|
+|t:|1772745071
+|-terastallize|p1a: Regidrago|Steel
+|move|p2a: Arceus|Judgment|p1a: Regidrago
+|-resisted|p1a: Regidrago
+|-crit|p1a: Regidrago
+|-damage|p1a: Regidrago|0 fnt
+|faint|p1a: Regidrago
+|
+|upkeep
+|
+|t:|1772745075
+|switch|p1a: Torterra|Torterra, L78, F|276/276
+|turn|29
+|
+|t:|1772745081
+|move|p2a: Arceus|Judgment|p1a: Torterra
+|-resisted|p1a: Torterra
+|-damage|p1a: Torterra|29/276
+|move|p1a: Torterra|Shell Smash|p1a: Torterra
+|-unboost|p1a: Torterra|def|1
+|-unboost|p1a: Torterra|spd|1
+|-boost|p1a: Torterra|atk|2
+|-boost|p1a: Torterra|spa|2
+|-boost|p1a: Torterra|spe|2
+|
+|upkeep
+|turn|30
+|
+|t:|1772745088
+|move|p1a: Torterra|Headlong Rush|p2a: Arceus
+|-supereffective|p2a: Arceus
+|-damage|p2a: Arceus|0 fnt
+|-unboost|p1a: Torterra|def|1
+|-unboost|p1a: Torterra|spd|1
+|faint|p2a: Arceus
+|
+|upkeep
+|
+|t:|1772745101
+|switch|p2a: Scovillain|Scovillain, L91, M|265/266
+|turn|31
+|
+|t:|1772745106
+|move|p1a: Torterra|Rock Blast|p2a: Scovillain
+|-supereffective|p2a: Scovillain
+|-damage|p2a: Scovillain|193/266
+|-supereffective|p2a: Scovillain
+|-damage|p2a: Scovillain|111/266
+|-supereffective|p2a: Scovillain
+|-damage|p2a: Scovillain|39/266
+|-supereffective|p2a: Scovillain
+|-damage|p2a: Scovillain|0 fnt
+|faint|p2a: Scovillain
+|-hitcount|p2: Scovillain|4
+|
+|upkeep
+|
+|t:|1772745112
+|switch|p2a: Tatsugiri|Tatsugiri, L87, F|260/260
+|turn|32
+|
+|t:|1772745115
+|move|p1a: Torterra|Bullet Seed|p2a: Tatsugiri
+|-damage|p2a: Tatsugiri|164/260
+|-damage|p2a: Tatsugiri|59/260
+|-damage|p2a: Tatsugiri|0 fnt
+|faint|p2a: Tatsugiri
+|-hitcount|p2: Tatsugiri|3
+|
+|upkeep
+|-message|superdoodlebob forfeited.
+|
+|win|manofcheese144
+|raw|manofcheese144's rating: 1536 &rarr; <strong>1556</strong><br />(+20 for winning)
+|raw|superdoodlebob's rating: 1542 &rarr; <strong>1522</strong><br />(-20 for losing)
+|l|☆superdoodlebob
+|player|p2|
+|c|☆manofcheese144|gg

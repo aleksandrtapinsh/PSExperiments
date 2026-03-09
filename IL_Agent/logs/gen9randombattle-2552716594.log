@@ -1,0 +1,262 @@
+|j|☆billbobbizzy
+|j|☆flybeg0n
+|t:|1772746289
+|gametype|singles
+|player|p1|billbobbizzy|2|
+|player|p2|flybeg0n|169|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772746289
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Mismagius|Mismagius, L86, F|243/243
+|switch|p2a: Metagross|Metagross, L79|256/256
+|turn|1
+|
+|t:|1772746314
+|move|p1a: Mismagius|Nasty Plot|p1a: Mismagius
+|-boost|p1a: Mismagius|spa|2
+|move|p2a: Metagross|Knock Off|p1a: Mismagius
+|-supereffective|p1a: Mismagius
+|-damage|p1a: Mismagius|37/243
+|-enditem|p1a: Mismagius|Life Orb|[from] move: Knock Off|[of] p2a: Metagross
+|
+|upkeep
+|turn|2
+|
+|t:|1772746328
+|move|p1a: Mismagius|Shadow Ball|p2a: Metagross
+|-supereffective|p2a: Metagross
+|-damage|p2a: Metagross|0 fnt
+|faint|p2a: Metagross
+|
+|upkeep
+|
+|t:|1772746382
+|switch|p2a: Terrakion|Terrakion, L79|273/273
+|turn|3
+|
+|t:|1772746394
+|move|p1a: Mismagius|Dazzling Gleam|p2a: Terrakion
+|-supereffective|p2a: Terrakion
+|-damage|p2a: Terrakion|0 fnt
+|faint|p2a: Terrakion
+|
+|upkeep
+|
+|t:|1772746399
+|switch|p2a: Garchomp|Garchomp, L74, F|282/282
+|turn|4
+|
+|t:|1772746406
+|move|p1a: Mismagius|Dazzling Gleam|p2a: Garchomp
+|-supereffective|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|faint|p2a: Garchomp
+|
+|upkeep
+|
+|t:|1772746425
+|switch|p2a: Blissey|Blissey, L85, F|572/572
+|turn|5
+|
+|t:|1772746459
+|switch|p1a: Whiscash|Whiscash, L88, M|337/337
+|move|p2a: Blissey|Thunder Wave|p1a: Whiscash
+|-immune|p1a: Whiscash
+|
+|upkeep
+|turn|6
+|
+|t:|1772746478
+|move|p1a: Whiscash|Dragon Dance|p1a: Whiscash
+|-boost|p1a: Whiscash|atk|1
+|-boost|p1a: Whiscash|spe|1
+|move|p2a: Blissey|Seismic Toss|p1a: Whiscash
+|-damage|p1a: Whiscash|252/337
+|
+|upkeep
+|turn|7
+|
+|t:|1772746489
+|switch|p2a: Tsareena|Tsareena, L87, F|267/267
+|move|p1a: Whiscash|Earthquake|p2a: Tsareena
+|-resisted|p2a: Tsareena
+|-damage|p2a: Tsareena|185/267
+|-damage|p1a: Whiscash|219/337|[from] item: Life Orb
+|
+|upkeep
+|turn|8
+|
+|t:|1772746507
+|switch|p1a: Chandelure|Chandelure, L83, F|235/235
+|move|p2a: Tsareena|Power Whip|p1a: Chandelure|[miss]
+|-miss|p2a: Tsareena|p1a: Chandelure
+|
+|upkeep
+|turn|9
+|
+|t:|1772746534
+|switch|p2a: Alomomola|Alomomola, L87, F|429/429
+|move|p1a: Chandelure|Fire Blast|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|298/429
+|
+|upkeep
+|turn|10
+|
+|t:|1772746563
+|switch|p1a: Oinkologne|Oinkologne-F, L92, F|361/361
+|move|p2a: Alomomola|Scald|p1a: Oinkologne
+|-damage|p1a: Oinkologne|316/361
+|
+|-heal|p1a: Oinkologne|338/361|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1772746597
+|switch|p2a: Blissey|Blissey, L85, F|572/572
+|move|p1a: Oinkologne|Curse|p1a: Oinkologne
+|-unboost|p1a: Oinkologne|spe|1
+|-boost|p1a: Oinkologne|atk|1
+|-boost|p1a: Oinkologne|def|1
+|
+|-heal|p1a: Oinkologne|360/361|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1772746610
+|move|p2a: Blissey|Seismic Toss|p1a: Oinkologne
+|-damage|p1a: Oinkologne|275/361
+|move|p1a: Oinkologne|Body Slam|p2a: Blissey
+|-damage|p2a: Blissey|152/572
+|
+|-heal|p2a: Blissey|187/572|[from] item: Leftovers
+|-heal|p1a: Oinkologne|297/361|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1772746624
+|move|p2a: Blissey|Seismic Toss|p1a: Oinkologne
+|-damage|p1a: Oinkologne|212/361
+|move|p1a: Oinkologne|Body Slam|p2a: Blissey
+|-damage|p2a: Blissey|0 fnt
+|faint|p2a: Blissey
+|
+|-heal|p1a: Oinkologne|234/361|[from] item: Leftovers
+|upkeep
+|
+|t:|1772746637
+|switch|p2a: Tsareena|Tsareena, L87, F|185/267
+|turn|14
+|
+|t:|1772746660
+|-terastallize|p2a: Tsareena|Fighting
+|move|p2a: Tsareena|High Jump Kick|p1a: Oinkologne
+|-supereffective|p1a: Oinkologne
+|-damage|p1a: Oinkologne|0 fnt
+|faint|p1a: Oinkologne
+|
+|upkeep
+|
+|t:|1772746680
+|switch|p1a: Mismagius|Mismagius, L86, F|37/243
+|turn|15
+|
+|t:|1772746697
+|move|p1a: Mismagius|Dazzling Gleam|p2a: Tsareena
+|-supereffective|p2a: Tsareena
+|-damage|p2a: Tsareena|109/267
+|move|p2a: Tsareena|Knock Off|p1a: Mismagius
+|-supereffective|p1a: Mismagius
+|-damage|p1a: Mismagius|0 fnt
+|faint|p1a: Mismagius
+|
+|upkeep
+|
+|t:|1772746713
+|switch|p1a: Chandelure|Chandelure, L83, F|235/235
+|turn|16
+|
+|t:|1772746723
+|switch|p2a: Alomomola|Alomomola, L87, F|429/429
+|-terastallize|p1a: Chandelure|Fire
+|move|p1a: Chandelure|Shadow Ball|p2a: Alomomola
+|-damage|p2a: Alomomola|242/429
+|
+|upkeep
+|turn|17
+|
+|t:|1772746736
+|switch|p1a: Gumshoos|Gumshoos, L95, M|321/321
+|move|p2a: Alomomola|Scald|p1a: Gumshoos
+|-damage|p1a: Gumshoos|260/321
+|
+|upkeep
+|turn|18
+|
+|t:|1772746757
+|move|p2a: Alomomola|Flip Turn|p1a: Gumshoos
+|-damage|p1a: Gumshoos|190/321
+|
+|t:|1772746760
+|switch|p2a: Tsareena|Tsareena, L87, F, tera:Fighting|109/267|[from] Flip Turn
+|move|p1a: Gumshoos|Double-Edge|p2a: Tsareena
+|-damage|p2a: Tsareena|0 fnt
+|faint|p2a: Tsareena
+|-damage|p1a: Gumshoos|154/321|[from] Recoil
+|
+|upkeep
+|
+|t:|1772746767
+|switch|p2a: Alomomola|Alomomola, L87, F|385/429
+|turn|19
+|
+|t:|1772746774
+|move|p2a: Alomomola|Scald|p1a: Gumshoos
+|-damage|p1a: Gumshoos|102/321
+|move|p1a: Gumshoos|Double-Edge|p2a: Alomomola
+|-damage|p2a: Alomomola|111/429
+|-damage|p1a: Gumshoos|49/321|[from] item: Rocky Helmet|[of] p2a: Alomomola
+|-damage|p1a: Gumshoos|0 fnt|[from] Recoil
+|faint|p1a: Gumshoos
+|
+|upkeep
+|
+|t:|1772746786
+|switch|p1a: Whiscash|Whiscash, L88, M|219/337
+|turn|20
+|
+|t:|1772746791
+|move|p2a: Alomomola|Protect|p2a: Alomomola
+|-singleturn|p2a: Alomomola|Protect
+|move|p1a: Whiscash|Earthquake|p2a: Alomomola
+|-activate|p2a: Alomomola|move: Protect
+|
+|upkeep
+|turn|21
+|
+|t:|1772746798
+|move|p2a: Alomomola|Protect|p2a: Alomomola
+|-singleturn|p2a: Alomomola|Protect
+|move|p1a: Whiscash|Earthquake|p2a: Alomomola
+|-activate|p2a: Alomomola|move: Protect
+|
+|upkeep
+|turn|22
+|
+|t:|1772746807
+|move|p2a: Alomomola|Protect||[still]
+|-fail|p2a: Alomomola
+|move|p1a: Whiscash|Earthquake|p2a: Alomomola
+|-damage|p2a: Alomomola|0 fnt
+|faint|p2a: Alomomola
+|-damage|p1a: Whiscash|186/337|[from] item: Life Orb
+|
+|win|billbobbizzy

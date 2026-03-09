@@ -1,0 +1,293 @@
+|j|☆b02501109a
+|j|☆toaduniversity9
+|t:|1772746716
+|gametype|singles
+|player|p1|b02501109a|170|1802
+|player|p2|toaduniversity9|1|1800
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772746716
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Basculegion|Basculegion-F, L83, F|335/335
+|switch|p2a: Reuniclus|Reuniclus, L88, F|337/337
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by toaduniversity9)
+|
+|t:|1772746736
+|switch|p2a: Vikavolt|Vikavolt, L83, M|263/263
+|move|p1a: Basculegion|Shadow Ball|p2a: Vikavolt
+|-damage|p2a: Vikavolt|81/263
+|
+|upkeep
+|turn|2
+|
+|t:|1772746754
+|switch|p2a: Raichu|Raichu, L88, F|249/249
+|move|p1a: Basculegion|Shadow Ball|p2a: Raichu
+|-damage|p2a: Raichu|77/249
+|
+|upkeep
+|turn|3
+|
+|t:|1772746759
+|switch|p1a: Camerupt|Camerupt, L91, F|275/275
+|move|p2a: Raichu|Thunderbolt|p1a: Camerupt
+|-immune|p1a: Camerupt
+|
+|upkeep
+|turn|4
+|
+|t:|1772746764
+|switch|p2a: Vikavolt|Vikavolt, L83, M|81/263
+|switch|p1a: Wo-Chien|Wo-Chien, L83|277/277
+|-ability|p1a: Wo-Chien|Tablets of Ruin
+|
+|upkeep
+|turn|5
+|
+|t:|1772746772
+|move|p1a: Wo-Chien|Knock Off|p2a: Vikavolt
+|-damage|p2a: Vikavolt|0 fnt
+|-enditem|p2a: Vikavolt|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Wo-Chien
+|faint|p2a: Vikavolt
+|
+|upkeep
+|
+|t:|1772746778
+|switch|p2a: Zacian|Zacian-Crowned, L64|225/225
+|-ability|p2a: Zacian|Intrepid Sword|boost
+|-boost|p2a: Zacian|atk|1
+|turn|6
+|
+|t:|1772746785
+|move|p2a: Zacian|Swords Dance|p2a: Zacian
+|-boost|p2a: Zacian|atk|2
+|move|p1a: Wo-Chien|Leech Seed|p2a: Zacian
+|-start|p2a: Zacian|move: Leech Seed
+|
+|-damage|p2a: Zacian|197/225|[from] Leech Seed|[of] p1a: Wo-Chien
+|upkeep
+|turn|7
+|
+|t:|1772746789
+|switch|p1a: Basculegion|Basculegion-F, L83, F|335/335
+|move|p2a: Zacian|Swords Dance|p2a: Zacian
+|-boost|p2a: Zacian|atk|2
+|
+|-damage|p2a: Zacian|169/225|[from] Leech Seed|[of] p1a: Basculegion
+|upkeep
+|turn|8
+|
+|t:|1772746805
+|switch|p1a: Camerupt|Camerupt, L91, F|275/275
+|move|p2a: Zacian|Play Rough|p1a: Camerupt
+|-resisted|p1a: Camerupt
+|-damage|p1a: Camerupt|129/275
+|
+|-heal|p1a: Camerupt|146/275|[from] item: Leftovers
+|-damage|p2a: Zacian|141/225|[from] Leech Seed|[of] p1a: Camerupt
+|-heal|p1a: Camerupt|174/275|[silent]
+|upkeep
+|turn|9
+|
+|t:|1772746814
+|move|p2a: Zacian|Close Combat|p1a: Camerupt
+|-damage|p1a: Camerupt|0 fnt
+|-unboost|p2a: Zacian|def|1
+|-unboost|p2a: Zacian|spd|1
+|faint|p1a: Camerupt
+|
+|upkeep
+|
+|t:|1772746823
+|switch|p1a: Basculegion|Basculegion-F, L83, F|335/335
+|turn|10
+|
+|t:|1772746830
+|move|p2a: Zacian|Play Rough|p1a: Basculegion
+|-damage|p1a: Basculegion|0 fnt
+|faint|p1a: Basculegion
+|
+|upkeep
+|
+|t:|1772746835
+|switch|p1a: Mesprit|Mesprit, L85|275/275
+|turn|11
+|
+|t:|1772746841
+|move|p2a: Zacian|Behemoth Blade|p1a: Mesprit
+|-damage|p1a: Mesprit|19/275
+|move|p1a: Mesprit|Psychic Noise|p2a: Zacian
+|-resisted|p2a: Zacian
+|-damage|p2a: Zacian|74/225
+|-start|p2a: Zacian|move: Heal Block
+|
+|-heal|p1a: Mesprit|36/275|[from] item: Leftovers
+|-damage|p2a: Zacian|46/225|[from] Leech Seed|[of] p1a: Mesprit
+|-heal|p1a: Mesprit|64/275|[silent]
+|upkeep
+|turn|12
+|
+|t:|1772746851
+|switch|p1a: Ting-Lu|Ting-Lu, L78|370/370
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Zacian|Behemoth Blade|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|102/370
+|
+|-heal|p1a: Ting-Lu|125/370|[from] item: Leftovers
+|-damage|p2a: Zacian|18/225|[from] Leech Seed|[of] p1a: Ting-Lu
+|-heal|p1a: Ting-Lu|153/370|[silent]
+|-end|p2a: Zacian|move: Heal Block
+|upkeep
+|turn|13
+|
+|t:|1772746862
+|move|p2a: Zacian|Behemoth Blade|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|0 fnt
+|faint|p1a: Ting-Lu
+|
+|upkeep
+|
+|t:|1772746863
+|switch|p1a: Wo-Chien|Wo-Chien, L83|277/277
+|-ability|p1a: Wo-Chien|Tablets of Ruin
+|turn|14
+|
+|t:|1772746868
+|move|p1a: Wo-Chien|Protect|p1a: Wo-Chien
+|-singleturn|p1a: Wo-Chien|Protect
+|move|p2a: Zacian|Close Combat|p1a: Wo-Chien
+|-activate|p1a: Wo-Chien|move: Protect
+|
+|-damage|p2a: Zacian|0 fnt|[from] Leech Seed|[of] p1a: Wo-Chien
+|faint|p2a: Zacian
+|upkeep
+|inactive|toaduniversity9 has 120 seconds left.
+|
+|t:|1772746910
+|switch|p2a: Basculegion|Basculegion-F, L83, F|335/335
+|turn|15
+|
+|t:|1772746918
+|move|p2a: Basculegion|Ice Beam|p1a: Wo-Chien
+|-supereffective|p1a: Wo-Chien
+|-damage|p1a: Wo-Chien|131/277
+|move|p1a: Wo-Chien|Knock Off|p2a: Basculegion
+|-supereffective|p2a: Basculegion
+|-damage|p2a: Basculegion|113/335
+|-enditem|p2a: Basculegion|Choice Specs|[from] move: Knock Off|[of] p1a: Wo-Chien
+|
+|-heal|p1a: Wo-Chien|148/277|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1772746926
+|move|p1a: Wo-Chien|Protect|p1a: Wo-Chien
+|-singleturn|p1a: Wo-Chien|Protect
+|move|p2a: Basculegion|Ice Beam|p1a: Wo-Chien
+|-activate|p1a: Wo-Chien|move: Protect
+|
+|-heal|p1a: Wo-Chien|165/277|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1772746930
+|move|p2a: Basculegion|Ice Beam|p1a: Wo-Chien
+|-supereffective|p1a: Wo-Chien
+|-damage|p1a: Wo-Chien|69/277
+|move|p1a: Wo-Chien|Knock Off|p2a: Basculegion
+|-supereffective|p2a: Basculegion
+|-damage|p2a: Basculegion|0 fnt
+|faint|p2a: Basculegion
+|
+|-heal|p1a: Wo-Chien|86/277|[from] item: Leftovers
+|upkeep
+|
+|t:|1772746945
+|switch|p2a: Raichu|Raichu, L88, F|77/249
+|turn|18
+|
+|t:|1772746950
+|-terastallize|p2a: Raichu|Ice
+|move|p2a: Raichu|Tera Blast|p1a: Wo-Chien|[anim] Tera Blast Ice
+|-supereffective|p1a: Wo-Chien
+|-damage|p1a: Wo-Chien|0 fnt
+|faint|p1a: Wo-Chien
+|-damage|p2a: Raichu|53/249|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772746956
+|switch|p1a: Koraidon|Koraidon, L64|235/235
+|-weather|SunnyDay|[from] ability: Orichalcum Pulse|[of] p1a: Koraidon
+|-activate|p1a: Koraidon|Orichalcum Pulse|[source]
+|turn|19
+|
+|t:|1772746963
+|-terastallize|p1a: Koraidon|Fire
+|move|p2a: Raichu|Tera Blast|p1a: Koraidon|[anim] Tera Blast Ice
+|-resisted|p1a: Koraidon
+|-damage|p1a: Koraidon|169/235
+|-damage|p2a: Raichu|29/249|[from] item: Life Orb
+|move|p1a: Koraidon|Scale Shot|p2a: Raichu
+|-damage|p2a: Raichu|0 fnt
+|faint|p2a: Raichu
+|-hitcount|p2: Raichu|1
+|-unboost|p1a: Koraidon|def|1
+|-boost|p1a: Koraidon|spe|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1772746981
+|switch|p2a: Reuniclus|Reuniclus, L88, F|337/337
+|turn|20
+|
+|t:|1772746992
+|move|p1a: Koraidon|Flare Blitz|p2a: Reuniclus
+|-damage|p2a: Reuniclus|115/337
+|-damage|p1a: Koraidon|96/235|[from] Recoil
+|move|p2a: Reuniclus|Psychic|p1a: Koraidon
+|-damage|p1a: Koraidon|0 fnt
+|faint|p1a: Koraidon
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1772746995
+|switch|p1a: Mesprit|Mesprit, L85|64/275
+|turn|21
+|
+|t:|1772747012
+|move|p1a: Mesprit|Knock Off|p2a: Reuniclus
+|-supereffective|p2a: Reuniclus
+|-damage|p2a: Reuniclus|0 fnt
+|-enditem|p2a: Reuniclus|Life Orb|[from] move: Knock Off|[of] p1a: Mesprit
+|faint|p2a: Reuniclus
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Mesprit|81/275|[from] item: Leftovers
+|upkeep
+|
+|t:|1772747014
+|switch|p2a: Dugtrio|Dugtrio, L84, M|196/196
+|turn|22
+|
+|t:|1772747021
+|move|p2a: Dugtrio|Sucker Punch|p1a: Mesprit
+|-supereffective|p1a: Mesprit
+|-damage|p1a: Mesprit|0 fnt
+|faint|p1a: Mesprit
+|-damage|p2a: Dugtrio|177/196|[from] item: Life Orb
+|
+|win|toaduniversity9
+|raw|b02501109a's rating: 1802 &rarr; <strong>1782</strong><br />(-20 for losing)
+|raw|toaduniversity9's rating: 1800 &rarr; <strong>1820</strong><br />(+20 for winning)

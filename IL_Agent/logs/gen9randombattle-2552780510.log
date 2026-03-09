@@ -1,0 +1,96 @@
+|j|☆pidgeot2312
+|j|☆Nskskskmsms
+|t:|1772752758
+|gametype|singles
+|player|p1|pidgeot2312|169|1141
+|player|p2|Nskskskmsms|1|1105
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772752758
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Pyroar|Pyroar, L88, F|295/295
+|switch|p2a: Dialga|Dialga-Origin, L73|266/266
+|-ability|p1a: Pyroar|Unnerve
+|-ability|p2a: Dialga|Pressure
+|turn|1
+|
+|t:|1772752770
+|switch|p2a: Alomomola|Alomomola, L87, M|429/429
+|move|p1a: Pyroar|Fire Blast|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-crit|p2a: Alomomola
+|-damage|p2a: Alomomola|275/429
+|-status|p2a: Alomomola|brn
+|
+|-damage|p2a: Alomomola|249/429 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1772752792
+|switch|p1a: Vikavolt|Vikavolt, L83, F|263/263
+|move|p2a: Alomomola|Scald|p1a: Vikavolt
+|-damage|p1a: Vikavolt|202/263
+|
+|-damage|p2a: Alomomola|223/429 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1772752800
+|move|p2a: Alomomola|Flip Turn|p1a: Vikavolt
+|-damage|p1a: Vikavolt|173/263
+|
+|t:|1772752805
+|switch|p2a: Oricorio|Oricorio-Sensu, L85, F|266/266|[from] Flip Turn
+|move|p1a: Vikavolt|Sticky Web|p2a: Oricorio
+|-sidestart|p2: Nskskskmsms|move: Sticky Web
+|
+|upkeep
+|turn|4
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Nskskskmsms)
+|
+|t:|1772752819
+|-terastallize|p2a: Oricorio|Ghost
+|move|p2a: Oricorio|Quiver Dance|p2a: Oricorio
+|-boost|p2a: Oricorio|spa|1
+|-boost|p2a: Oricorio|spd|1
+|-boost|p2a: Oricorio|spe|1
+|move|p1a: Vikavolt|Discharge|p2a: Oricorio
+|-damage|p2a: Oricorio|179/266
+|
+|upkeep
+|turn|5
+|
+|t:|1772752838
+|switch|p1a: Pyroar|Pyroar, L88, F|295/295
+|-ability|p1a: Pyroar|Unnerve
+|move|p2a: Oricorio|Quiver Dance|p2a: Oricorio
+|-boost|p2a: Oricorio|spa|1
+|-boost|p2a: Oricorio|spd|1
+|-boost|p2a: Oricorio|spe|1
+|
+|upkeep
+|turn|6
+|
+|t:|1772752847
+|move|p2a: Oricorio|Hurricane|p1a: Pyroar
+|-damage|p1a: Pyroar|1/295
+|move|p1a: Pyroar|Fire Blast|p2a: Oricorio|[miss]
+|-miss|p1a: Pyroar|p2a: Oricorio
+|
+|upkeep
+|turn|7
+|-message|pidgeot2312 forfeited.
+|
+|win|Nskskskmsms
+|raw|pidgeot2312's rating: 1141 &rarr; <strong>1113</strong><br />(-28 for losing)
+|raw|Nskskskmsms's rating: 1105 &rarr; <strong>1133</strong><br />(+28 for winning)
+|l|☆pidgeot2312
+|player|p1|

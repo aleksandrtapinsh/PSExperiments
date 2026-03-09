@@ -1,0 +1,615 @@
+|j|☆UziBoii
+|j|☆marianx098
+|t:|1772748901
+|gametype|singles
+|player|p1|UziBoii|steven|1424
+|player|p2|marianx098|red-lgpe|1461
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772748901
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Mandibuzz|Mandibuzz, L85, F|326/326
+|switch|p2a: Iron Valiant|Iron Valiant, L78|244/244
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by UziBoii)
+|
+|t:|1772748910
+|move|p2a: Iron Valiant|Calm Mind|p2a: Iron Valiant
+|-boost|p2a: Iron Valiant|spa|1
+|-boost|p2a: Iron Valiant|spd|1
+|move|p1a: Mandibuzz|Toxic|p2a: Iron Valiant
+|-status|p2a: Iron Valiant|tox
+|
+|-damage|p2a: Iron Valiant|229/244 tox|[from] psn
+|upkeep
+|turn|2
+|
+|t:|1772748924
+|switch|p1a: Hypno|Hypno, L95, F|315/315
+|move|p2a: Iron Valiant|Moonblast|p1a: Hypno
+|-damage|p1a: Hypno|169/315
+|-unboost|p1a: Hypno|spa|1
+|-damage|p2a: Iron Valiant|205/244 tox|[from] item: Life Orb
+|
+|-heal|p1a: Hypno|188/315|[from] item: Leftovers
+|-damage|p2a: Iron Valiant|175/244 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1772748932
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|switch|p2a: Empoleon|Empoleon, L84, M|278/278
+|move|p1a: Hypno|Psychic Noise|p2a: Empoleon
+|-resisted|p2a: Empoleon
+|-damage|p2a: Empoleon|253/278
+|-start|p2a: Empoleon|move: Heal Block
+|
+|-heal|p1a: Hypno|207/315|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1772748943
+|move|p1a: Hypno|Knock Off|p2a: Empoleon
+|-damage|p2a: Empoleon|186/278
+|-enditem|p2a: Empoleon|Leftovers|[from] move: Knock Off|[of] p1a: Hypno
+|move|p2a: Empoleon|Surf|p1a: Hypno
+|-damage|p1a: Hypno|129/315
+|
+|-heal|p1a: Hypno|148/315|[from] item: Leftovers
+|-end|p2a: Empoleon|move: Heal Block
+|upkeep
+|turn|5
+|
+|t:|1772748957
+|switch|p1a: Dunsparce|Dunsparce, L86, F|312/312
+|move|p2a: Empoleon|Ice Beam|p1a: Dunsparce
+|-damage|p1a: Dunsparce|250/312
+|
+|upkeep
+|turn|6
+|
+|t:|1772748964
+|move|p2a: Empoleon|Flip Turn|p1a: Dunsparce
+|-damage|p1a: Dunsparce|207/312
+|
+|t:|1772748968
+|switch|p2a: Iron Valiant|Iron Valiant, L78|175/244 tox|[from] Flip Turn
+|move|p1a: Dunsparce|Coil|p1a: Dunsparce
+|-boost|p1a: Dunsparce|atk|1
+|-boost|p1a: Dunsparce|def|1
+|-boost|p1a: Dunsparce|accuracy|1
+|
+|-damage|p2a: Iron Valiant|160/244 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1772748977
+|move|p2a: Iron Valiant|Close Combat|p1a: Dunsparce
+|-supereffective|p1a: Dunsparce
+|-damage|p1a: Dunsparce|33/312
+|-unboost|p2a: Iron Valiant|def|1
+|-unboost|p2a: Iron Valiant|spd|1
+|-damage|p2a: Iron Valiant|136/244 tox|[from] item: Life Orb
+|move|p1a: Dunsparce|Roost|p1a: Dunsparce
+|-heal|p1a: Dunsparce|189/312
+|-singleturn|p1a: Dunsparce|move: Roost
+|
+|-damage|p2a: Iron Valiant|106/244 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1772748982
+|move|p2a: Iron Valiant|Close Combat|p1a: Dunsparce
+|-supereffective|p1a: Dunsparce
+|-damage|p1a: Dunsparce|15/312
+|-unboost|p2a: Iron Valiant|def|1
+|-unboost|p2a: Iron Valiant|spd|1
+|-damage|p2a: Iron Valiant|82/244 tox|[from] item: Life Orb
+|move|p1a: Dunsparce|Body Slam|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1772748988
+|switch|p2a: Empoleon|Empoleon, L84, M|186/278
+|turn|9
+|
+|t:|1772748993
+|switch|p1a: Hypno|Hypno, L95, F|148/315
+|move|p2a: Empoleon|Surf|p1a: Hypno
+|-damage|p1a: Hypno|70/315
+|
+|-heal|p1a: Hypno|89/315|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1772749002
+|move|p1a: Hypno|Encore|p2a: Empoleon
+|-start|p2a: Empoleon|Encore
+|move|p2a: Empoleon|Surf|p1a: Hypno
+|-damage|p1a: Hypno|8/315
+|
+|-heal|p1a: Hypno|27/315|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1772749009
+|switch|p1a: Dragapult|Dragapult, L77, F|262/262
+|move|p2a: Empoleon|Surf|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|195/262
+|
+|upkeep
+|turn|12
+|
+|t:|1772749016
+|move|p1a: Dragapult|Shadow Ball|p2a: Empoleon
+|-damage|p2a: Empoleon|86/278
+|move|p2a: Empoleon|Surf|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|127/262
+|
+|-end|p2a: Empoleon|Encore
+|upkeep
+|turn|13
+|
+|t:|1772749021
+|move|p1a: Dragapult|Shadow Ball|p2a: Empoleon
+|-damage|p2a: Empoleon|0 fnt
+|faint|p2a: Empoleon
+|
+|upkeep
+|
+|t:|1772749033
+|switch|p2a: Houndstone|Houndstone, L86, F|264/264
+|turn|14
+|
+|t:|1772749042
+|-terastallize|p2a: Houndstone|Fairy
+|move|p1a: Dragapult|Shadow Ball|p2a: Houndstone
+|-damage|p2a: Houndstone|201/264
+|move|p2a: Houndstone|Poltergeist|p1a: Dragapult
+|-activate|p1a: Dragapult|move: Poltergeist|Choice Specs
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|upkeep
+|
+|t:|1772749046
+|switch|p1a: Florges|Florges-Orange, L85, F|271/271
+|turn|15
+|
+|t:|1772749073
+|move|p1a: Florges|Wish|p1a: Florges
+|move|p2a: Houndstone|Poltergeist|p1a: Florges
+|-activate|p1a: Florges|move: Poltergeist|Leftovers
+|-damage|p1a: Florges|120/271
+|
+|-heal|p1a: Florges|136/271|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1772749084
+|switch|p1a: Mandibuzz|Mandibuzz, L85, F|326/326
+|switch|p2a: Zapdos|Zapdos, L78|268/268
+|
+|upkeep
+|turn|17
+|inactive|marianx098 has 120 seconds left.
+|
+|t:|1772749125
+|move|p2a: Zapdos|Discharge|p1a: Mandibuzz
+|-supereffective|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|140/326
+|-status|p1a: Mandibuzz|par
+|move|p1a: Mandibuzz|Toxic|p2a: Zapdos
+|-status|p2a: Zapdos|tox
+|
+|-damage|p2a: Zapdos|252/268 tox|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1772749137
+|move|p2a: Zapdos|Discharge|p1a: Mandibuzz
+|-supereffective|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|0 fnt
+|faint|p1a: Mandibuzz
+|
+|-damage|p2a: Zapdos|220/268 tox|[from] psn
+|upkeep
+|
+|t:|1772749149
+|switch|p1a: Dunsparce|Dunsparce, L86, F|15/312
+|turn|19
+|inactive|marianx098 has 120 seconds left.
+|
+|t:|1772749160
+|-terastallize|p1a: Dunsparce|Ground
+|move|p2a: Zapdos|Discharge|p1a: Dunsparce
+|-immune|p1a: Dunsparce
+|move|p1a: Dunsparce|Roost|p1a: Dunsparce
+|-heal|p1a: Dunsparce|171/312
+|
+|-damage|p2a: Zapdos|172/268 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1772749165
+|move|p2a: Zapdos|Heat Wave|p1a: Dunsparce
+|-damage|p1a: Dunsparce|114/312
+|-status|p1a: Dunsparce|brn
+|move|p1a: Dunsparce|Roost|p1a: Dunsparce
+|-heal|p1a: Dunsparce|270/312 brn
+|
+|-damage|p2a: Zapdos|108/268 tox|[from] psn
+|-damage|p1a: Dunsparce|251/312 brn|[from] brn
+|upkeep
+|turn|21
+|inactive|marianx098 has 120 seconds left.
+|
+|t:|1772749189
+|move|p2a: Zapdos|Hurricane|p1a: Dunsparce
+|-damage|p1a: Dunsparce|142/312 brn
+|-start|p1a: Dunsparce|confusion
+|-activate|p1a: Dunsparce|confusion
+|move|p1a: Dunsparce|Coil|p1a: Dunsparce
+|-boost|p1a: Dunsparce|atk|1
+|-boost|p1a: Dunsparce|def|1
+|-boost|p1a: Dunsparce|accuracy|1
+|
+|-damage|p2a: Zapdos|28/268 tox|[from] psn
+|-damage|p1a: Dunsparce|123/312 brn|[from] brn
+|upkeep
+|turn|22
+|inactive|marianx098 has 120 seconds left.
+|
+|t:|1772749213
+|move|p2a: Zapdos|Hurricane|p1a: Dunsparce
+|-damage|p1a: Dunsparce|30/312 brn
+|-activate|p1a: Dunsparce|confusion
+|move|p1a: Dunsparce|Roost|p1a: Dunsparce
+|-heal|p1a: Dunsparce|186/312 brn
+|
+|-damage|p2a: Zapdos|0 fnt|[from] psn
+|faint|p2a: Zapdos
+|-damage|p1a: Dunsparce|167/312 brn|[from] brn
+|upkeep
+|inactive|marianx098 has 90 seconds left.
+|c|☆marianx098|now im the cofused one wtf with that thing, hit yourself damn it
+|
+|t:|1772749253
+|switch|p2a: Houndstone|Houndstone, L86, F, tera:Fairy|201/264
+|turn|23
+|inactive|marianx098 has 60 seconds left.
+|
+|t:|1772749274
+|move|p2a: Houndstone|Poltergeist|p1a: Dunsparce
+|-activate|p1a: Dunsparce|move: Poltergeist|Eviolite
+|-damage|p1a: Dunsparce|104/312 brn
+|-end|p1a: Dunsparce|confusion
+|move|p1a: Dunsparce|Roost|p1a: Dunsparce
+|-heal|p1a: Dunsparce|260/312 brn
+|
+|-damage|p1a: Dunsparce|241/312 brn|[from] brn
+|upkeep
+|turn|24
+|c|☆UziBoii|Nah, built different
+|inactive|marianx098 has 60 seconds left.
+|
+|t:|1772749297
+|move|p2a: Houndstone|Play Rough|p1a: Dunsparce
+|-damage|p1a: Dunsparce|186/312 brn
+|move|p1a: Dunsparce|Body Slam|p2a: Houndstone
+|-damage|p2a: Houndstone|179/264
+|-status|p2a: Houndstone|par
+|
+|-damage|p1a: Dunsparce|167/312 brn|[from] brn
+|upkeep
+|turn|25
+|
+|t:|1772749302
+|move|p1a: Dunsparce|Coil|p1a: Dunsparce
+|-boost|p1a: Dunsparce|atk|1
+|-boost|p1a: Dunsparce|def|1
+|-boost|p1a: Dunsparce|accuracy|1
+|cant|p2a: Houndstone|par
+|
+|-damage|p1a: Dunsparce|148/312 brn|[from] brn
+|upkeep
+|turn|26
+|inactive|marianx098 has 60 seconds left.
+|
+|t:|1772749317
+|move|p1a: Dunsparce|Coil|p1a: Dunsparce
+|-boost|p1a: Dunsparce|atk|1
+|-boost|p1a: Dunsparce|def|1
+|-boost|p1a: Dunsparce|accuracy|1
+|move|p2a: Houndstone|Play Rough|p1a: Dunsparce
+|-damage|p1a: Dunsparce|114/312 brn
+|
+|-damage|p1a: Dunsparce|95/312 brn|[from] brn
+|upkeep
+|turn|27
+|
+|t:|1772749320
+|move|p1a: Dunsparce|Roost|p1a: Dunsparce
+|-heal|p1a: Dunsparce|251/312 brn
+|move|p2a: Houndstone|Play Rough|p1a: Dunsparce|[miss]
+|-miss|p2a: Houndstone|p1a: Dunsparce
+|
+|-damage|p1a: Dunsparce|232/312 brn|[from] brn
+|upkeep
+|turn|28
+|
+|t:|1772749324
+|move|p1a: Dunsparce|Coil|p1a: Dunsparce
+|-boost|p1a: Dunsparce|atk|1
+|-boost|p1a: Dunsparce|def|1
+|-boost|p1a: Dunsparce|accuracy|1
+|cant|p2a: Houndstone|par
+|
+|-damage|p1a: Dunsparce|213/312 brn|[from] brn
+|upkeep
+|turn|29
+|
+|t:|1772749327
+|move|p1a: Dunsparce|Coil|p1a: Dunsparce
+|-boost|p1a: Dunsparce|atk|1
+|-boost|p1a: Dunsparce|def|1
+|-boost|p1a: Dunsparce|accuracy|1
+|move|p2a: Houndstone|Poltergeist|p1a: Dunsparce
+|-activate|p1a: Dunsparce|move: Poltergeist|Eviolite
+|-damage|p1a: Dunsparce|182/312 brn
+|
+|-damage|p1a: Dunsparce|163/312 brn|[from] brn
+|upkeep
+|turn|30
+|
+|t:|1772749331
+|move|p1a: Dunsparce|Coil|p1a: Dunsparce
+|-boost|p1a: Dunsparce|atk|1
+|-boost|p1a: Dunsparce|def|1
+|-boost|p1a: Dunsparce|accuracy|1
+|move|p2a: Houndstone|Poltergeist|p1a: Dunsparce|[miss]
+|-miss|p2a: Houndstone|p1a: Dunsparce
+|
+|-damage|p1a: Dunsparce|144/312 brn|[from] brn
+|upkeep
+|turn|31
+|
+|t:|1772749335
+|move|p1a: Dunsparce|Roost|p1a: Dunsparce
+|-heal|p1a: Dunsparce|300/312 brn
+|move|p2a: Houndstone|Body Press|p1a: Dunsparce
+|-damage|p1a: Dunsparce|288/312 brn
+|
+|-damage|p1a: Dunsparce|269/312 brn|[from] brn
+|upkeep
+|turn|32
+|
+|t:|1772749339
+|move|p1a: Dunsparce|Body Slam|p2a: Houndstone
+|-crit|p2a: Houndstone
+|-damage|p2a: Houndstone|81/264 par
+|move|p2a: Houndstone|Poltergeist|p1a: Dunsparce
+|-activate|p1a: Dunsparce|move: Poltergeist|Eviolite
+|-damage|p1a: Dunsparce|242/312 brn
+|
+|-damage|p1a: Dunsparce|223/312 brn|[from] brn
+|upkeep
+|turn|33
+|
+|t:|1772749343
+|move|p1a: Dunsparce|Body Slam|p2a: Houndstone
+|-damage|p2a: Houndstone|19/264 par
+|move|p2a: Houndstone|Poltergeist|p1a: Dunsparce
+|-activate|p1a: Dunsparce|move: Poltergeist|Eviolite
+|-damage|p1a: Dunsparce|196/312 brn
+|
+|-damage|p1a: Dunsparce|177/312 brn|[from] brn
+|upkeep
+|turn|34
+|
+|t:|1772749357
+|move|p1a: Dunsparce|Body Slam|p2a: Houndstone
+|-damage|p2a: Houndstone|0 fnt
+|faint|p2a: Houndstone
+|
+|-damage|p1a: Dunsparce|158/312 brn|[from] brn
+|upkeep
+|
+|t:|1772749363
+|switch|p2a: Great Tusk|Great Tusk, L77|304/304
+|turn|35
+|
+|t:|1772749368
+|move|p2a: Great Tusk|Bulk Up|p2a: Great Tusk
+|-boost|p2a: Great Tusk|atk|1
+|-boost|p2a: Great Tusk|def|1
+|move|p1a: Dunsparce|Body Slam|p2a: Great Tusk
+|-damage|p2a: Great Tusk|223/304
+|
+|-heal|p2a: Great Tusk|242/304|[from] item: Leftovers
+|-damage|p1a: Dunsparce|139/312 brn|[from] brn
+|upkeep
+|turn|36
+|
+|t:|1772749374
+|move|p2a: Great Tusk|Bulk Up|p2a: Great Tusk
+|-boost|p2a: Great Tusk|atk|1
+|-boost|p2a: Great Tusk|def|1
+|move|p1a: Dunsparce|Body Slam|p2a: Great Tusk
+|-damage|p2a: Great Tusk|186/304
+|
+|-heal|p2a: Great Tusk|205/304|[from] item: Leftovers
+|-damage|p1a: Dunsparce|120/312 brn|[from] brn
+|upkeep
+|turn|37
+|
+|t:|1772749377
+|move|p2a: Great Tusk|Bulk Up|p2a: Great Tusk
+|-boost|p2a: Great Tusk|atk|1
+|-boost|p2a: Great Tusk|def|1
+|move|p1a: Dunsparce|Body Slam|p2a: Great Tusk
+|-damage|p2a: Great Tusk|162/304
+|-status|p2a: Great Tusk|par
+|
+|-heal|p2a: Great Tusk|181/304 par|[from] item: Leftovers
+|-damage|p1a: Dunsparce|101/312 brn|[from] brn
+|upkeep
+|turn|38
+|
+|t:|1772749380
+|move|p1a: Dunsparce|Roost|p1a: Dunsparce
+|-heal|p1a: Dunsparce|257/312 brn
+|move|p2a: Great Tusk|Bulk Up|p2a: Great Tusk
+|-boost|p2a: Great Tusk|atk|1
+|-boost|p2a: Great Tusk|def|1
+|
+|-heal|p2a: Great Tusk|200/304 par|[from] item: Leftovers
+|-damage|p1a: Dunsparce|238/312 brn|[from] brn
+|upkeep
+|turn|39
+|
+|t:|1772749386
+|move|p1a: Dunsparce|Body Slam|p2a: Great Tusk
+|-damage|p2a: Great Tusk|162/304 par
+|move|p2a: Great Tusk|Bulk Up|p2a: Great Tusk
+|-boost|p2a: Great Tusk|atk|1
+|-boost|p2a: Great Tusk|def|1
+|
+|-heal|p2a: Great Tusk|181/304 par|[from] item: Leftovers
+|-damage|p1a: Dunsparce|219/312 brn|[from] brn
+|upkeep
+|turn|40
+|
+|t:|1772749400
+|switch|p1a: Hypno|Hypno, L95, F|27/315
+|cant|p2a: Great Tusk|par
+|
+|-heal|p1a: Hypno|46/315|[from] item: Leftovers
+|-heal|p2a: Great Tusk|200/304 par|[from] item: Leftovers
+|upkeep
+|turn|41
+|
+|t:|1772749404
+|move|p1a: Hypno|Encore|p2a: Great Tusk
+|-start|p2a: Great Tusk|Encore
+|move|p2a: Great Tusk|Bulk Up|p2a: Great Tusk
+|-boost|p2a: Great Tusk|atk|1
+|-boost|p2a: Great Tusk|def|1
+|
+|-heal|p1a: Hypno|65/315|[from] item: Leftovers
+|-heal|p2a: Great Tusk|219/304 par|[from] item: Leftovers
+|upkeep
+|turn|42
+|
+|t:|1772749410
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Salamence|Salamence, L77, F|273/273
+|-ability|p2a: Salamence|Intimidate|boost
+|-unboost|p1a: Hypno|atk|1
+|move|p1a: Hypno|Knock Off|p2a: Salamence
+|-damage|p2a: Salamence|218/273
+|-enditem|p2a: Salamence|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Hypno
+|
+|-heal|p1a: Hypno|84/315|[from] item: Leftovers
+|upkeep
+|turn|43
+|
+|t:|1772749415
+|move|p2a: Salamence|Dragon Dance|p2a: Salamence
+|-boost|p2a: Salamence|atk|1
+|-boost|p2a: Salamence|spe|1
+|move|p1a: Hypno|Encore|p2a: Salamence
+|-start|p2a: Salamence|Encore
+|
+|-heal|p1a: Hypno|103/315|[from] item: Leftovers
+|upkeep
+|turn|44
+|
+|t:|1772749425
+|switch|p2a: Great Tusk|Great Tusk, L77|219/304 par
+|move|p1a: Hypno|Psychic Noise|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|-heal|p1a: Hypno|122/315|[from] item: Leftovers
+|upkeep
+|
+|t:|1772749428
+|switch|p2a: Salamence|Salamence, L77, F|218/273
+|-ability|p2a: Salamence|Intimidate|boost
+|-unboost|p1a: Hypno|atk|1
+|turn|45
+|
+|t:|1772749433
+|move|p2a: Salamence|Dual Wingbeat|p1a: Hypno
+|-damage|p1a: Hypno|71/315
+|-damage|p1a: Hypno|19/315
+|-hitcount|p1a: Hypno|2
+|move|p1a: Hypno|Toxic|p2a: Salamence
+|-status|p2a: Salamence|tox
+|
+|-heal|p1a: Hypno|38/315|[from] item: Leftovers
+|-damage|p2a: Salamence|201/273 tox|[from] psn
+|upkeep
+|turn|46
+|
+|t:|1772749439
+|move|p2a: Salamence|Dual Wingbeat|p1a: Hypno
+|-damage|p1a: Hypno|0 fnt
+|faint|p1a: Hypno
+|-hitcount|p1: Hypno|1
+|
+|-damage|p2a: Salamence|167/273 tox|[from] psn
+|upkeep
+|
+|t:|1772749445
+|switch|p1a: Florges|Florges-Orange, L85, F|136/271
+|turn|47
+|
+|t:|1772749449
+|move|p2a: Salamence|Dual Wingbeat|p1a: Florges
+|-damage|p1a: Florges|78/271
+|-damage|p1a: Florges|18/271
+|-hitcount|p1a: Florges|2
+|move|p1a: Florges|Wish|p1a: Florges
+|
+|-heal|p1a: Florges|34/271|[from] item: Leftovers
+|-damage|p2a: Salamence|116/273 tox|[from] psn
+|upkeep
+|turn|48
+|
+|t:|1772749455
+|switch|p1a: Tauros|Tauros, L82, M|257/257
+|move|p2a: Salamence|Dragon Dance|p2a: Salamence
+|-boost|p2a: Salamence|atk|1
+|-boost|p2a: Salamence|spe|1
+|
+|-damage|p2a: Salamence|48/273 tox|[from] psn
+|upkeep
+|turn|49
+|
+|t:|1772749459
+|switch|p1a: Dunsparce|Dunsparce, L86, F, tera:Ground|219/312 brn
+|move|p2a: Salamence|Outrage|p1a: Dunsparce
+|-damage|p1a: Dunsparce|66/312 brn
+|
+|-damage|p2a: Salamence|0 fnt|[from] psn
+|faint|p2a: Salamence
+|
+|win|UziBoii

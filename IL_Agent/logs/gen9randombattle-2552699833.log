@@ -1,0 +1,336 @@
+|j|☆helfry05
+|j|☆arsi_jeli
+|t:|1772744702
+|gametype|singles
+|player|p1|helfry05|170|1324
+|player|p2|arsi_jeli|pokemaniac|1287
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772744702
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Clodsire|Clodsire, L81, M|343/343
+|switch|p2a: Spiritomb|Spiritomb, L89, M|234/234
+|turn|1
+|
+|t:|1772744712
+|switch|p2a: Iron Moth|Iron Moth, L78|253/253
+|move|p1a: Clodsire|Toxic|p2a: Iron Moth
+|-immune|p2a: Iron Moth
+|
+|upkeep
+|turn|2
+|
+|t:|1772744726
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|switch|p2a: Swampert|Swampert, L83, F|302/302
+|move|p1a: Clodsire|Earthquake|p2a: Swampert
+|-damage|p2a: Swampert|217/302
+|
+|-heal|p2a: Swampert|235/302|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1772744735
+|move|p2a: Swampert|Earthquake|p1a: Clodsire
+|-supereffective|p1a: Clodsire
+|-crit|p1a: Clodsire
+|-damage|p1a: Clodsire|0 fnt
+|faint|p1a: Clodsire
+|
+|-heal|p2a: Swampert|253/302|[from] item: Leftovers
+|upkeep
+|
+|t:|1772744743
+|switch|p1a: Slaking|Slaking, L84, M|389/389
+|turn|4
+|
+|t:|1772744748
+|switch|p2a: Spiritomb|Spiritomb, L89, M|234/234
+|move|p1a: Slaking|Giga Impact|p2a: Spiritomb
+|-immune|p2a: Spiritomb
+|
+|upkeep
+|turn|5
+|
+|t:|1772744758
+|switch|p1a: Volcanion|Volcanion, L79|256/256
+|move|p2a: Spiritomb|Toxic|p1a: Volcanion
+|-status|p1a: Volcanion|tox
+|
+|-damage|p1a: Volcanion|240/256 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1772744767
+|switch|p2a: Swampert|Swampert, L83, F|253/302
+|move|p1a: Volcanion|Steam Eruption|p2a: Swampert
+|-damage|p2a: Swampert|120/302
+|
+|-heal|p2a: Swampert|138/302|[from] item: Leftovers
+|-damage|p1a: Volcanion|208/256 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1772744781
+|move|p1a: Volcanion|Steam Eruption|p2a: Swampert
+|-crit|p2a: Swampert
+|-damage|p2a: Swampert|0 fnt
+|faint|p2a: Swampert
+|
+|-damage|p1a: Volcanion|160/256 tox|[from] psn
+|upkeep
+|
+|t:|1772744800
+|switch|p2a: Metagross|Metagross, L79|256/256
+|turn|8
+|
+|t:|1772744809
+|-terastallize|p1a: Volcanion|Fire
+|-terastallize|p2a: Metagross|Water
+|move|p1a: Volcanion|Flamethrower|p2a: Metagross
+|-resisted|p2a: Metagross
+|-damage|p2a: Metagross|178/256
+|move|p2a: Metagross|Knock Off|p1a: Volcanion
+|-damage|p1a: Volcanion|67/256 tox
+|-enditem|p1a: Volcanion|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Metagross
+|
+|-damage|p1a: Volcanion|3/256 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1772744821
+|move|p1a: Volcanion|Sludge Bomb|p2a: Metagross
+|-damage|p2a: Metagross|102/256
+|move|p2a: Metagross|Knock Off|p1a: Volcanion
+|-damage|p1a: Volcanion|0 fnt
+|faint|p1a: Volcanion
+|
+|upkeep
+|
+|t:|1772744833
+|switch|p1a: Slaking|Slaking, L84, M|389/389
+|turn|10
+|
+|t:|1772744838
+|move|p1a: Slaking|Earthquake|p2a: Metagross
+|-damage|p2a: Metagross|0 fnt
+|faint|p2a: Metagross
+|
+|upkeep
+|
+|t:|1772744849
+|switch|p2a: Darkrai|Darkrai, L77|234/234
+|turn|11
+|
+|t:|1772744856
+|switch|p1a: Zapdos|Zapdos, L78|268/268
+|move|p2a: Darkrai|Hypnosis|p1a: Zapdos|[miss]
+|-miss|p2a: Darkrai|p1a: Zapdos
+|
+|upkeep
+|turn|12
+|
+|t:|1772744867
+|move|p2a: Darkrai|Hypnosis|p1a: Zapdos|[miss]
+|-miss|p2a: Darkrai|p1a: Zapdos
+|move|p1a: Zapdos|U-turn|p2a: Darkrai
+|-supereffective|p2a: Darkrai
+|-damage|p2a: Darkrai|140/234
+|
+|t:|1772744877
+|switch|p1a: Kommo-o|Kommo-o, L78, F|245/245|[from] U-turn
+|
+|upkeep
+|turn|13
+|
+|t:|1772744884
+|move|p2a: Darkrai|Hypnosis|p1a: Kommo-o
+|-status|p1a: Kommo-o|slp|[from] move: Hypnosis
+|cant|p1a: Kommo-o|slp
+|
+|-damage|p1a: Kommo-o|215/245 slp|[from] ability: Bad Dreams|[of] p2a: Darkrai
+|upkeep
+|turn|14
+|
+|t:|1772744910
+|switch|p2a: Iron Moth|Iron Moth, L78|253/253
+|-curestatus|p1a: Kommo-o|slp|[msg]
+|move|p1a: Kommo-o|Close Combat|p2a: Iron Moth
+|-resisted|p2a: Iron Moth
+|-damage|p2a: Iron Moth|162/253
+|-unboost|p1a: Kommo-o|def|1
+|-unboost|p1a: Kommo-o|spd|1
+|
+|upkeep
+|turn|15
+|
+|t:|1772744920
+|move|p2a: Iron Moth|Sludge Wave|p1a: Kommo-o
+|-damage|p1a: Kommo-o|40/245
+|move|p1a: Kommo-o|Scale Shot|p2a: Iron Moth|[miss]
+|-miss|p1a: Kommo-o|p2a: Iron Moth
+|
+|upkeep
+|turn|16
+|
+|t:|1772744928
+|move|p2a: Iron Moth|Sludge Wave|p1a: Kommo-o
+|-damage|p1a: Kommo-o|0 fnt
+|faint|p1a: Kommo-o
+|
+|upkeep
+|
+|t:|1772744936
+|switch|p1a: Slaking|Slaking, L84, M|389/389
+|turn|17
+|
+|t:|1772744942
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|switch|p2a: Spiritomb|Spiritomb, L89, M|234/234
+|move|p1a: Slaking|Earthquake|p2a: Spiritomb
+|-crit|p2a: Spiritomb
+|-damage|p2a: Spiritomb|27/234
+|
+|-heal|p2a: Spiritomb|41/234|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1772744953
+|switch|p1a: Crabominable|Crabominable, L90, F|321/321
+|move|p2a: Spiritomb|Toxic|p1a: Crabominable
+|-status|p1a: Crabominable|tox
+|
+|-heal|p2a: Spiritomb|55/234|[from] item: Leftovers
+|-damage|p1a: Crabominable|301/321 tox|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1772744964
+|move|p1a: Crabominable|Knock Off|p2a: Spiritomb
+|-damage|p2a: Spiritomb|0 fnt
+|-enditem|p2a: Spiritomb|Leftovers|[from] move: Knock Off|[of] p1a: Crabominable
+|faint|p2a: Spiritomb
+|
+|-damage|p1a: Crabominable|261/321 tox|[from] psn
+|upkeep
+|
+|t:|1772744972
+|switch|p2a: Deoxys|Deoxys, L74|196/196
+|-ability|p2a: Deoxys|Pressure
+|turn|20
+|
+|t:|1772744979
+|move|p2a: Deoxys|Superpower|p1a: Crabominable
+|-supereffective|p1a: Crabominable
+|-damage|p1a: Crabominable|30/321 tox
+|-unboost|p2a: Deoxys|atk|1
+|-unboost|p2a: Deoxys|def|1
+|-damage|p2a: Deoxys|177/196|[from] item: Life Orb
+|move|p1a: Crabominable|Knock Off|p2a: Deoxys
+|-supereffective|p2a: Deoxys
+|-crit|p2a: Deoxys
+|-damage|p2a: Deoxys|0 fnt
+|-enditem|p2a: Deoxys|Life Orb|[from] move: Knock Off|[of] p1a: Crabominable
+|faint|p2a: Deoxys
+|
+|-damage|p1a: Crabominable|0 fnt|[from] psn
+|faint|p1a: Crabominable
+|upkeep
+|c|☆arsi_jeli|its fight is two more lucky person meet
+|
+|t:|1772745007
+|switch|p2a: Darkrai|Darkrai, L77|140/234
+|switch|p1a: Slaking|Slaking, L84, M|389/389
+|turn|21
+|
+|t:|1772745013
+|move|p2a: Darkrai|Hypnosis|p1a: Slaking
+|-status|p1a: Slaking|slp|[from] move: Hypnosis
+|cant|p1a: Slaking|slp
+|
+|-damage|p1a: Slaking|341/389 slp|[from] ability: Bad Dreams|[of] p2a: Darkrai
+|upkeep
+|turn|22
+|
+|t:|1772745027
+|switch|p2a: Iron Moth|Iron Moth, L78|162/253
+|cant|p1a: Slaking|slp
+|
+|upkeep
+|turn|23
+|
+|t:|1772745043
+|move|p2a: Iron Moth|Sludge Wave|p1a: Slaking
+|-damage|p1a: Slaking|197/389 slp
+|-curestatus|p1a: Slaking|slp|[msg]
+|move|p1a: Slaking|Earthquake|p2a: Iron Moth
+|-supereffective|p2a: Iron Moth
+|-damage|p2a: Iron Moth|0 fnt
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1772745050
+|switch|p2a: Darkrai|Darkrai, L77|140/234
+|turn|24
+|
+|t:|1772745052
+|move|p2a: Darkrai|Hypnosis|p1a: Slaking
+|-status|p1a: Slaking|slp|[from] move: Hypnosis
+|cant|p1a: Slaking|slp
+|
+|-damage|p1a: Slaking|149/389 slp|[from] ability: Bad Dreams|[of] p2a: Darkrai
+|upkeep
+|turn|25
+|
+|t:|1772745058
+|move|p2a: Darkrai|Nasty Plot|p2a: Darkrai
+|-boost|p2a: Darkrai|spa|2
+|cant|p1a: Slaking|slp
+|
+|-damage|p1a: Slaking|101/389 slp|[from] ability: Bad Dreams|[of] p2a: Darkrai
+|upkeep
+|turn|26
+|
+|t:|1772745066
+|move|p2a: Darkrai|Dark Pulse|p1a: Slaking
+|-damage|p1a: Slaking|0 fnt
+|faint|p1a: Slaking
+|-damage|p2a: Darkrai|117/234|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772745072
+|switch|p1a: Zapdos|Zapdos, L78|268/268
+|turn|27
+|
+|t:|1772745080
+|move|p2a: Darkrai|Hypnosis|p1a: Zapdos
+|-status|p1a: Zapdos|slp|[from] move: Hypnosis
+|cant|p1a: Zapdos|slp
+|
+|-damage|p1a: Zapdos|235/268 slp|[from] ability: Bad Dreams|[of] p2a: Darkrai
+|upkeep
+|turn|28
+|
+|t:|1772745087
+|move|p2a: Darkrai|Dark Pulse|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|-damage|p2a: Darkrai|94/234|[from] item: Life Orb
+|
+|win|arsi_jeli
+|raw|helfry05's rating: 1324 &rarr; <strong>1302</strong><br />(-22 for losing)
+|raw|arsi_jeli's rating: 1287 &rarr; <strong>1315</strong><br />(+28 for winning)
+|c|☆arsi_jeli|gg
+|l|☆helfry05
+|player|p1|

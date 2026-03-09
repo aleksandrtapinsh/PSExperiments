@@ -1,0 +1,174 @@
+|j|☆Intense Fucking
+|j|☆Dewy Louie
+|t:|1772750353
+|gametype|singles
+|player|p1|Intense Fucking|265|1347
+|player|p2|Dewy Louie|swimmer-gen4dp|1391
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772750353
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Oinkologne|Oinkologne-F, L92, F|361/361
+|switch|p2a: Rotom|Rotom-Heat, L83|219/219
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Dewy Louie)
+|inactive|Intense Fucking also wants the timer to be on.
+|
+|t:|1772750369
+|move|p2a: Rotom|Will-O-Wisp|p1a: Oinkologne
+|-status|p1a: Oinkologne|brn
+|move|p1a: Oinkologne|Body Slam|p2a: Rotom
+|-damage|p2a: Rotom|176/219
+|
+|-damage|p1a: Oinkologne|339/361 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1772750386
+|move|p2a: Rotom|Overheat|p1a: Oinkologne
+|-damage|p1a: Oinkologne|273/361 brn
+|-unboost|p2a: Rotom|spa|2
+|move|p1a: Oinkologne|Rest|p1a: Oinkologne
+|-status|p1a: Oinkologne|slp|[from] move: Rest
+|-heal|p1a: Oinkologne|361/361 slp|[silent]
+|
+|upkeep
+|turn|3
+|inactive|Dewy Louie has 120 seconds left.
+|
+|t:|1772750413
+|switch|p2a: Flapple|Flapple, L88, F|266/266
+|cant|p1a: Oinkologne|slp
+|move|p1a: Oinkologne|Sleep Talk|p1a: Oinkologne
+|move|p1a: Oinkologne|Rest||[from] move: Sleep Talk|[still]
+|-fail|p1a: Oinkologne
+|
+|upkeep
+|turn|4
+|inactive|Dewy Louie has 120 seconds left.
+|
+|t:|1772750429
+|move|p2a: Flapple|Dragon Dance|p2a: Flapple
+|-boost|p2a: Flapple|atk|1
+|-boost|p2a: Flapple|spe|1
+|cant|p1a: Oinkologne|slp
+|move|p1a: Oinkologne|Sleep Talk|p1a: Oinkologne
+|move|p1a: Oinkologne|Rest||[from] move: Sleep Talk|[still]
+|-fail|p1a: Oinkologne
+|
+|upkeep
+|turn|5
+|inactive|Dewy Louie has 120 seconds left.
+|
+|t:|1772750438
+|move|p2a: Flapple|Dragon Dance|p2a: Flapple
+|-boost|p2a: Flapple|atk|1
+|-boost|p2a: Flapple|spe|1
+|-curestatus|p1a: Oinkologne|slp|[msg]
+|move|p1a: Oinkologne|Body Slam|p2a: Flapple
+|-damage|p2a: Flapple|155/266
+|-status|p2a: Flapple|par
+|-enditem|p2a: Flapple|Lum Berry|[eat]
+|-curestatus|p2a: Flapple|par|[msg]
+|
+|upkeep
+|turn|6
+|inactive|Dewy Louie has 120 seconds left.
+|
+|t:|1772750457
+|move|p2a: Flapple|Outrage|p1a: Oinkologne|[miss]
+|-miss|p2a: Flapple|p1a: Oinkologne
+|move|p1a: Oinkologne|Body Slam|p2a: Flapple
+|-damage|p2a: Flapple|43/266
+|-status|p2a: Flapple|par
+|
+|upkeep
+|turn|7
+|inactive|Dewy Louie has 120 seconds left.
+|
+|t:|1772750465
+|switch|p1a: Iron Treads|Iron Treads, L77|265/265
+|move|p2a: Flapple|Outrage|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|76/265
+|
+|-heal|p1a: Iron Treads|92/265|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1772750479
+|move|p1a: Iron Treads|Stealth Rock|p2a: Flapple
+|-sidestart|p2: Dewy Louie|move: Stealth Rock
+|move|p2a: Flapple|Outrage|p1a: Iron Treads|[from] lockedmove|[miss]
+|-miss|p2a: Flapple|p1a: Iron Treads
+|
+|-heal|p1a: Iron Treads|108/265|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1772750488
+|move|p1a: Iron Treads|Iron Head|p2a: Flapple
+|-crit|p2a: Flapple
+|-damage|p2a: Flapple|0 fnt
+|faint|p2a: Flapple
+|
+|-heal|p1a: Iron Treads|124/265|[from] item: Leftovers
+|upkeep
+|
+|t:|1772750498
+|switch|p2a: Rotom|Rotom-Heat, L83|176/219
+|turn|10
+|
+|t:|1772750507
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Lumineon|Lumineon, L93, F|279/279
+|move|p2a: Rotom|Thunderbolt|p1a: Lumineon
+|-supereffective|p1a: Lumineon
+|-damage|p1a: Lumineon|79/279
+|
+|upkeep
+|turn|11
+|
+|t:|1772750521
+|switch|p2a: Kommo-o|Kommo-o, L78, F|245/245
+|-damage|p2a: Kommo-o|230/245|[from] Stealth Rock
+|move|p1a: Lumineon|Hydro Pump|p2a: Kommo-o|[miss]
+|-miss|p1a: Lumineon|p2a: Kommo-o
+|
+|upkeep
+|turn|12
+|
+|t:|1772750529
+|move|p1a: Lumineon|Ice Beam|p2a: Kommo-o
+|-supereffective|p2a: Kommo-o
+|-damage|p2a: Kommo-o|108/245
+|move|p2a: Kommo-o|Swords Dance|p2a: Kommo-o
+|-boost|p2a: Kommo-o|atk|2
+|
+|upkeep
+|turn|13
+|
+|t:|1772750537
+|-terastallize|p2a: Kommo-o|Steel
+|move|p1a: Lumineon|Encore|p2a: Kommo-o
+|-start|p2a: Kommo-o|Encore
+|move|p2a: Kommo-o|Swords Dance|p2a: Kommo-o
+|-boost|p2a: Kommo-o|atk|2
+|
+|upkeep
+|turn|14
+|-message|Dewy Louie forfeited.
+|
+|win|Intense Fucking
+|raw|Intense Fucking's rating: 1347 &rarr; <strong>1370</strong><br />(+23 for winning)
+|raw|Dewy Louie's rating: 1391 &rarr; <strong>1368</strong><br />(-23 for losing)
+|l|☆Dewy Louie
+|player|p2|

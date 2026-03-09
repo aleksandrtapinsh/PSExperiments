@@ -1,0 +1,214 @@
+|j|☆LeyZiBoi
+|j|☆Nws_shine
+|t:|1772751993
+|gametype|singles
+|player|p1|LeyZiBoi|alder|1214
+|player|p2|Nws_shine|n|1174
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772751993
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Sawsbuck|Sawsbuck-Summer, L88, M|284/284
+|switch|p2a: Hydrapple|Hydrapple, L83, F|312/312
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by LeyZiBoi)
+|
+|t:|1772752018
+|move|p1a: Sawsbuck|Swords Dance|p1a: Sawsbuck
+|-boost|p1a: Sawsbuck|atk|2
+|move|p2a: Hydrapple|Fickle Beam|p1a: Sawsbuck|[anim] Fickle Beam All Out
+|-activate|p2a: Hydrapple|move: Fickle Beam
+|-damage|p1a: Sawsbuck|0 fnt
+|faint|p1a: Sawsbuck
+|
+|upkeep
+|
+|t:|1772752031
+|switch|p1a: Iron Bundle|Iron Bundle, L78|215/215
+|turn|2
+|
+|t:|1772752049
+|move|p1a: Iron Bundle|Ice Beam|p2a: Hydrapple
+|-supereffective|p2a: Hydrapple
+|-damage|p2a: Hydrapple|0 fnt
+|faint|p2a: Hydrapple
+|
+|upkeep
+|
+|t:|1772752062
+|switch|p2a: Bisharp|Bisharp, L79, M|232/232
+|turn|3
+|inactive|LeyZiBoi has 120 seconds left.
+|
+|t:|1772752115
+|-end|p1a: Iron Bundle|Quark Drive|[silent]
+|switch|p1a: Jumpluff|Jumpluff, L87, M|271/271
+|move|p2a: Bisharp|Swords Dance|p2a: Bisharp
+|-boost|p2a: Bisharp|atk|2
+|
+|upkeep
+|turn|4
+|inactive|Nws_shine has 120 seconds left.
+|
+|t:|1772752146
+|move|p1a: Jumpluff|Sleep Powder|p2a: Bisharp
+|-status|p2a: Bisharp|slp|[from] move: Sleep Powder
+|cant|p2a: Bisharp|slp
+|
+|upkeep
+|turn|5
+|
+|t:|1772752164
+|move|p1a: Jumpluff|U-turn|p2a: Bisharp
+|-damage|p2a: Bisharp|210/232 slp
+|inactive|LeyZiBoi has 90 seconds left.
+|
+|t:|1772752175
+|switch|p1a: Salazzle|Salazzle, L83, F|249/249|[from] U-turn
+|-curestatus|p2a: Bisharp|slp|[msg]
+|move|p2a: Bisharp|Iron Head|p1a: Salazzle
+|-resisted|p1a: Salazzle
+|-damage|p1a: Salazzle|135/249
+|
+|upkeep
+|turn|6
+|
+|t:|1772752184
+|-terastallize|p2a: Bisharp|Flying
+|move|p1a: Salazzle|Fire Blast|p2a: Bisharp
+|-damage|p2a: Bisharp|105/232
+|-status|p2a: Bisharp|brn
+|move|p2a: Bisharp|Iron Head|p1a: Salazzle
+|-resisted|p1a: Salazzle
+|-damage|p1a: Salazzle|75/249
+|
+|-damage|p2a: Bisharp|91/232 brn|[from] brn
+|upkeep
+|turn|7
+|inactive|LeyZiBoi has 90 seconds left.
+|
+|t:|1772752205
+|move|p1a: Salazzle|Fire Blast|p2a: Bisharp
+|-damage|p2a: Bisharp|0 fnt
+|faint|p2a: Bisharp
+|
+|upkeep
+|
+|t:|1772752217
+|switch|p2a: Wigglytuff|Wigglytuff, L96, M|424/424
+|turn|8
+|
+|t:|1772752227
+|move|p1a: Salazzle|Sludge Wave|p2a: Wigglytuff
+|-supereffective|p2a: Wigglytuff
+|-damage|p2a: Wigglytuff|146/424
+|move|p2a: Wigglytuff|Thunder Wave|p1a: Salazzle
+|-status|p1a: Salazzle|par
+|
+|-heal|p2a: Wigglytuff|172/424|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1772752235
+|move|p2a: Wigglytuff|Knock Off|p1a: Salazzle
+|-damage|p1a: Salazzle|0 fnt
+|-enditem|p1a: Salazzle|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Wigglytuff
+|faint|p1a: Salazzle
+|
+|-heal|p2a: Wigglytuff|198/424|[from] item: Leftovers
+|upkeep
+|inactive|LeyZiBoi has 90 seconds left.
+|
+|t:|1772752265
+|switch|p1a: Klefki|Klefki, L84, F|233/233
+|turn|10
+|
+|t:|1772752270
+|move|p1a: Klefki|Thunder Wave|p2a: Wigglytuff
+|-status|p2a: Wigglytuff|par
+|move|p2a: Wigglytuff|Fire Blast|p1a: Klefki
+|-supereffective|p1a: Klefki
+|-damage|p1a: Klefki|59/233
+|
+|-heal|p1a: Klefki|73/233|[from] item: Leftovers
+|-heal|p2a: Wigglytuff|224/424 par|[from] item: Leftovers
+|upkeep
+|turn|11
+|inactive|LeyZiBoi has 90 seconds left.
+|
+|t:|1772752281
+|move|p1a: Klefki|Spikes|p2a: Wigglytuff
+|-sidestart|p2: Nws_shine|Spikes
+|move|p2a: Wigglytuff|Fire Blast|p1a: Klefki
+|-supereffective|p1a: Klefki
+|-damage|p1a: Klefki|0 fnt
+|faint|p1a: Klefki
+|
+|-heal|p2a: Wigglytuff|250/424 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1772752290
+|switch|p1a: Iron Bundle|Iron Bundle, L78|215/215
+|turn|12
+|inactive|LeyZiBoi has 90 seconds left.
+|
+|t:|1772752298
+|move|p1a: Iron Bundle|Hydro Pump|p2a: Wigglytuff
+|-damage|p2a: Wigglytuff|25/424 par
+|move|p2a: Wigglytuff|Thunder Wave|p1a: Iron Bundle
+|-status|p1a: Iron Bundle|par
+|
+|-heal|p2a: Wigglytuff|51/424 par|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1772752306
+|cant|p1a: Iron Bundle|par
+|cant|p2a: Wigglytuff|par
+|
+|-heal|p2a: Wigglytuff|77/424 par|[from] item: Leftovers
+|upkeep
+|turn|14
+|c|☆Nws_shine|lol
+|
+|t:|1772752315
+|move|p1a: Iron Bundle|Hydro Pump|p2a: Wigglytuff
+|-damage|p2a: Wigglytuff|0 fnt
+|faint|p2a: Wigglytuff
+|
+|upkeep
+|
+|t:|1772752322
+|switch|p2a: Ursaring|Ursaring, L84, F|288/288
+|-damage|p2a: Ursaring|252/288|[from] Spikes
+|turn|15
+|
+|t:|1772752332
+|-end|p1a: Iron Bundle|Quark Drive|[silent]
+|switch|p1a: Jumpluff|Jumpluff, L87, M|271/271
+|move|p2a: Ursaring|Body Slam|p1a: Jumpluff
+|-damage|p1a: Jumpluff|138/271
+|-status|p1a: Jumpluff|par
+|
+|upkeep
+|turn|16
+|n|!LeyZiBoi|leyziboi
+|
+|t:|1772752356
+|move|p2a: Ursaring|Body Slam|p1a: Jumpluff
+|-damage|p1a: Jumpluff|5/271 par
+|cant|p1a: Jumpluff|par
+|
+|upkeep
+|turn|17
+|-message|LeyZiBoi forfeited.
+|
+|win|Nws_shine

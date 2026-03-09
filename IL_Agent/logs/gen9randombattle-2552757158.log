@@ -1,0 +1,135 @@
+|j|☆laprasgoated
+|j|☆DJNumonic
+|t:|1772750289
+|gametype|singles
+|player|p1|laprasgoated|102|1085
+|player|p2|DJNumonic|bruno|1095
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772750289
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ribombee|Ribombee, L83, F|235/235
+|switch|p2a: Florges|Florges-Blue, L85, F|271/271
+|turn|1
+|
+|t:|1772750312
+|switch|p2a: Galvantula|Galvantula, L82, F|249/249
+|move|p1a: Ribombee|Sticky Web|p2a: Galvantula
+|-sidestart|p2: DJNumonic|move: Sticky Web
+|
+|upkeep
+|turn|2
+|
+|t:|1772750341
+|move|p1a: Ribombee|Moonblast|p2a: Galvantula
+|-damage|p2a: Galvantula|128/249
+|-unboost|p2a: Galvantula|spa|1
+|move|p2a: Galvantula|Sticky Web|p1a: Ribombee
+|-sidestart|p1: laprasgoated|move: Sticky Web
+|
+|upkeep
+|turn|3
+|
+|t:|1772750354
+|move|p1a: Ribombee|Moonblast|p2a: Galvantula
+|-damage|p2a: Galvantula|0 fnt
+|faint|p2a: Galvantula
+|
+|upkeep
+|c|☆DJNumonic|awwwwwwwwwwwww
+|
+|t:|1772750364
+|switch|p2a: Magcargo|Magcargo, L95, M|268/268
+|turn|4
+|
+|t:|1772750374
+|move|p1a: Ribombee|Stun Spore|p2a: Magcargo
+|-status|p2a: Magcargo|par
+|move|p2a: Magcargo|Shell Smash|p2a: Magcargo
+|-unboost|p2a: Magcargo|def|1
+|-unboost|p2a: Magcargo|spd|1
+|-boost|p2a: Magcargo|atk|2
+|-boost|p2a: Magcargo|spa|2
+|-boost|p2a: Magcargo|spe|2
+|
+|upkeep
+|turn|5
+|
+|t:|1772750392
+|move|p1a: Ribombee|Moonblast|p2a: Magcargo
+|-resisted|p2a: Magcargo
+|-damage|p2a: Magcargo|204/268 par
+|move|p2a: Magcargo|Power Gem|p1a: Ribombee
+|-supereffective|p1a: Ribombee
+|-enditem|p1a: Ribombee|Focus Sash
+|-damage|p1a: Ribombee|1/235
+|
+|upkeep
+|turn|6
+|
+|t:|1772750402
+|move|p1a: Ribombee|Bug Buzz|p2a: Magcargo
+|-resisted|p2a: Magcargo
+|-damage|p2a: Magcargo|140/268 par
+|cant|p2a: Magcargo|par
+|
+|upkeep
+|turn|7
+|
+|t:|1772750421
+|switch|p1a: Azumarill|Azumarill, L82, M|298/298
+|-activate|p1a: Azumarill|move: Sticky Web
+|-unboost|p1a: Azumarill|spe|1
+|move|p2a: Magcargo|Shell Smash|p2a: Magcargo
+|-unboost|p2a: Magcargo|def|1
+|-unboost|p2a: Magcargo|spd|1
+|-boost|p2a: Magcargo|atk|2
+|-boost|p2a: Magcargo|spa|2
+|-boost|p2a: Magcargo|spe|2
+|
+|upkeep
+|turn|8
+|c|☆DJNumonic|this is gonna work
+|
+|t:|1772750446
+|-terastallize|p2a: Magcargo|Dragon
+|move|p1a: Azumarill|Aqua Jet|p2a: Magcargo
+|-resisted|p2a: Magcargo
+|-damage|p2a: Magcargo|89/268 par
+|-ability|p2a: Magcargo|Weak Armor|boost
+|-unboost|p2a: Magcargo|def|1
+|-boost|p2a: Magcargo|spe|2
+|move|p2a: Magcargo|Power Gem|p1a: Azumarill
+|-damage|p1a: Azumarill|0 fnt
+|faint|p1a: Azumarill
+|
+|upkeep
+|
+|t:|1772750471
+|switch|p1a: Ribombee|Ribombee, L83, F|1/235
+|-activate|p1a: Ribombee|move: Sticky Web
+|-unboost|p1a: Ribombee|spe|1
+|turn|9
+|
+|t:|1772750480
+|move|p2a: Magcargo|Power Gem|p1a: Ribombee
+|-supereffective|p1a: Ribombee
+|-damage|p1a: Ribombee|0 fnt
+|faint|p1a: Ribombee
+|
+|upkeep
+|-message|laprasgoated forfeited.
+|
+|win|DJNumonic
+|raw|laprasgoated's rating: 1085 &rarr; <strong>1063</strong><br />(-22 for losing)
+|raw|DJNumonic's rating: 1095 &rarr; <strong>1120</strong><br />(+25 for winning)
+|l|☆laprasgoated
+|player|p1|

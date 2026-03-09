@@ -1,0 +1,101 @@
+|j|☆Bloertcher
+|j|☆The69Messiah
+|t:|1772745018
+|gametype|singles
+|player|p1|Bloertcher|hiker|1750
+|player|p2|The69Messiah|101|1751
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772745018
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Klefki|Klefki, L84, M|233/233
+|switch|p2a: Galvantula|Galvantula, L82, F|249/249
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by The69Messiah)
+|inactive|Bloertcher also wants the timer to be on.
+|inactive|The69Messiah has 120 seconds left.
+|
+|t:|1772745061
+|move|p1a: Klefki|Spikes|p2a: Galvantula
+|-sidestart|p2: The69Messiah|Spikes
+|move|p2a: Galvantula|Thunder|p1a: Klefki
+|-damage|p1a: Klefki|124/233
+|-status|p1a: Klefki|par
+|
+|-heal|p1a: Klefki|138/233 par|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1772745069
+|move|p1a: Klefki|Spikes|p2a: Galvantula
+|-sidestart|p2: The69Messiah|Spikes
+|move|p2a: Galvantula|Thunder|p1a: Klefki
+|-damage|p1a: Klefki|18/233 par
+|
+|-heal|p1a: Klefki|32/233 par|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1772745075
+|move|p1a: Klefki|Spikes|p2a: Galvantula
+|-sidestart|p2: The69Messiah|Spikes
+|move|p2a: Galvantula|Sticky Web|p1a: Klefki
+|-sidestart|p1: Bloertcher|move: Sticky Web
+|
+|-heal|p1a: Klefki|46/233 par|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1772745080
+|move|p2a: Galvantula|Thunder|p1a: Klefki
+|-damage|p1a: Klefki|0 fnt
+|faint|p1a: Klefki
+|
+|upkeep
+|
+|t:|1772745086
+|switch|p1a: Chien-Pao|Chien-Pao, L72|234/234
+|-activate|p1a: Chien-Pao|move: Sticky Web
+|-unboost|p1a: Chien-Pao|spe|1
+|-ability|p1a: Chien-Pao|Sword of Ruin
+|turn|5
+|
+|t:|1772745095
+|move|p2a: Galvantula|Bug Buzz|p1a: Chien-Pao
+|-supereffective|p1a: Chien-Pao
+|-damage|p1a: Chien-Pao|0 fnt
+|faint|p1a: Chien-Pao
+|
+|upkeep
+|
+|t:|1772745100
+|switch|p1a: Whiscash|Whiscash, L88, M|337/337
+|-activate|p1a: Whiscash|move: Sticky Web
+|-unboost|p1a: Whiscash|spe|1
+|turn|6
+|
+|t:|1772745103
+|move|p2a: Galvantula|Energy Ball|p1a: Whiscash
+|-supereffective|p1a: Whiscash
+|-damage|p1a: Whiscash|41/337
+|move|p1a: Whiscash|Dragon Dance|p1a: Whiscash
+|-boost|p1a: Whiscash|atk|1
+|-boost|p1a: Whiscash|spe|1
+|
+|upkeep
+|turn|7
+|-message|Bloertcher forfeited.
+|
+|win|The69Messiah
+|raw|Bloertcher's rating: 1750 &rarr; <strong>1730</strong><br />(-20 for losing)
+|raw|The69Messiah's rating: 1751 &rarr; <strong>1771</strong><br />(+20 for winning)
+|l|☆Bloertcher
+|player|p1|

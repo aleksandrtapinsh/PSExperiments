@@ -1,0 +1,194 @@
+|j|☆Htxlou
+|j|☆Starstone
+|t:|1772751762
+|gametype|singles
+|player|p1|Htxlou|1|1473
+|player|p2|Starstone|acetrainer-gen4dp|1519
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772751762
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Grumpig|Grumpig, L92, F|297/297
+|switch|p2a: Comfey|Comfey, L85, F|225/225
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Starstone)
+|
+|t:|1772751775
+|move|p2a: Comfey|Calm Mind|p2a: Comfey
+|-boost|p2a: Comfey|spa|1
+|-boost|p2a: Comfey|spd|1
+|move|p1a: Grumpig|Nasty Plot|p1a: Grumpig
+|-boost|p1a: Grumpig|spa|2
+|
+|upkeep
+|turn|2
+|
+|t:|1772751778
+|move|p2a: Comfey|Encore|p1a: Grumpig
+|-start|p1a: Grumpig|Encore
+|move|p1a: Grumpig|Nasty Plot|p1a: Grumpig
+|-boost|p1a: Grumpig|spa|2
+|
+|upkeep
+|turn|3
+|
+|t:|1772751780
+|move|p2a: Comfey|Calm Mind|p2a: Comfey
+|-boost|p2a: Comfey|spa|1
+|-boost|p2a: Comfey|spd|1
+|move|p1a: Grumpig|Nasty Plot|p1a: Grumpig
+|-boost|p1a: Grumpig|spa|2
+|
+|upkeep
+|turn|4
+|
+|t:|1772751783
+|move|p2a: Comfey|Calm Mind|p2a: Comfey
+|-boost|p2a: Comfey|spa|1
+|-boost|p2a: Comfey|spd|1
+|move|p1a: Grumpig|Nasty Plot|p1a: Grumpig
+|-boost|p1a: Grumpig|spa|0
+|
+|-end|p1a: Grumpig|Encore
+|upkeep
+|turn|5
+|
+|t:|1772751791
+|move|p2a: Comfey|Encore|p1a: Grumpig
+|-start|p1a: Grumpig|Encore
+|move|p1a: Grumpig|Nasty Plot|p1a: Grumpig
+|-boost|p1a: Grumpig|spa|0
+|
+|upkeep
+|turn|6
+|
+|t:|1772751806
+|switch|p1a: Volcanion|Volcanion, L79|256/256
+|move|p2a: Comfey|Calm Mind|p2a: Comfey
+|-boost|p2a: Comfey|spa|1
+|-boost|p2a: Comfey|spd|1
+|
+|upkeep
+|turn|7
+|
+|t:|1772751823
+|-terastallize|p2a: Comfey|Ground
+|move|p2a: Comfey|Tera Blast|p1a: Volcanion|[anim] Tera Blast Ground
+|-supereffective|p1a: Volcanion
+|-damage|p1a: Volcanion|0 fnt
+|faint|p1a: Volcanion
+|
+|upkeep
+|
+|t:|1772751833
+|switch|p1a: Manaphy|Manaphy, L78|284/284
+|turn|8
+|
+|t:|1772751843
+|-terastallize|p1a: Manaphy|Grass
+|move|p2a: Comfey|Tera Blast|p1a: Manaphy|[anim] Tera Blast Ground
+|-resisted|p1a: Manaphy
+|-damage|p1a: Manaphy|177/284
+|move|p1a: Manaphy|Ice Beam|p2a: Comfey
+|-supereffective|p2a: Comfey
+|-crit|p2a: Comfey
+|-damage|p2a: Comfey|91/225
+|-status|p2a: Comfey|frz
+|
+|-heal|p2a: Comfey|105/225 frz|[from] item: Leftovers
+|-heal|p1a: Manaphy|194/284|[from] item: Leftovers
+|upkeep
+|turn|9
+|c|☆Starstone|...
+|
+|t:|1772751853
+|cant|p2a: Comfey|frz
+|move|p1a: Manaphy|Tail Glow|p1a: Manaphy
+|-boost|p1a: Manaphy|spa|3
+|
+|-heal|p2a: Comfey|119/225 frz|[from] item: Leftovers
+|-heal|p1a: Manaphy|211/284|[from] item: Leftovers
+|upkeep
+|turn|10
+|c|☆Starstone|Okay
+|
+|t:|1772751858
+|cant|p2a: Comfey|frz
+|move|p1a: Manaphy|Tail Glow|p1a: Manaphy
+|-boost|p1a: Manaphy|spa|3
+|
+|-heal|p2a: Comfey|133/225 frz|[from] item: Leftovers
+|-heal|p1a: Manaphy|228/284|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1772751861
+|cant|p2a: Comfey|frz
+|move|p1a: Manaphy|Ice Beam|p2a: Comfey
+|-supereffective|p2a: Comfey
+|-damage|p2a: Comfey|9/225 frz
+|
+|-heal|p2a: Comfey|23/225 frz|[from] item: Leftovers
+|-heal|p1a: Manaphy|245/284|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1772751871
+|-curestatus|p2a: Comfey|frz|[msg]
+|move|p2a: Comfey|Draining Kiss|p1a: Manaphy
+|-damage|p1a: Manaphy|113/284
+|-heal|p2a: Comfey|122/225|[from] drain|[of] p1a: Manaphy
+|move|p1a: Manaphy|Ice Beam|p2a: Comfey
+|-supereffective|p2a: Comfey
+|-damage|p2a: Comfey|6/225
+|
+|-heal|p2a: Comfey|20/225|[from] item: Leftovers
+|-heal|p1a: Manaphy|130/284|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1772751887
+|move|p2a: Comfey|Draining Kiss|p1a: Manaphy
+|-damage|p1a: Manaphy|0 fnt
+|-heal|p2a: Comfey|118/225|[from] drain|[of] p1a: Manaphy
+|faint|p1a: Manaphy
+|
+|-heal|p2a: Comfey|132/225|[from] item: Leftovers
+|upkeep
+|inactive|Htxlou has 120 seconds left.
+|c|☆Htxlou|You got the best starting hand and you’re complaining?
+|
+|t:|1772751925
+|switch|p1a: Rayquaza|Rayquaza, L72|270/270
+|-ability|p1a: Rayquaza|Air Lock
+|turn|14
+|c|☆Starstone|You tried to set up on comfey
+|c|☆Starstone|You got a crit plus frz on ice beam ofc I am complaining
+|
+|t:|1772751951
+|move|p2a: Comfey|Draining Kiss|p1a: Rayquaza
+|-supereffective|p1a: Rayquaza
+|-damage|p1a: Rayquaza|0 fnt
+|-heal|p2a: Comfey|225/225|[from] drain|[of] p1a: Rayquaza
+|faint|p1a: Rayquaza
+|
+|upkeep
+|inactive|Htxlou has 90 seconds left.
+|c|☆Htxlou|It doesn’t always have encore
+|-message|Htxlou forfeited.
+|
+|win|Starstone
+|raw|Htxlou's rating: 1473 &rarr; <strong>1456</strong><br />(-17 for losing)
+|raw|Starstone's rating: 1519 &rarr; <strong>1536</strong><br />(+17 for winning)
+|c|☆Starstone|True, still risky
+|l|☆Htxlou
+|player|p1|
+|c|☆Starstone|Ggs though

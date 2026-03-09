@@ -1,0 +1,347 @@
+|j|‽andrewf169
+|j|☆Beanatron
+|t:|1772749885
+|gametype|singles
+|player|p1|andrewf169|1|1355
+|player|p2|Beanatron|265|1351
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772749885
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Persian|Persian-Alola, L86, F|252/252
+|switch|p2a: Scyther|Scyther, L82, F|249/249
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Beanatron)
+|
+|t:|1772749906
+|move|p1a: Persian|Parting Shot|p2a: Scyther
+|-unboost|p2a: Scyther|atk|1
+|-unboost|p2a: Scyther|spa|1
+|
+|t:|1772749918
+|switch|p1a: Zacian|Zacian-Crowned, L64|225/225|[from] Parting Shot
+|-ability|p1a: Zacian|Intrepid Sword|boost
+|-boost|p1a: Zacian|atk|1
+|move|p2a: Scyther|Swords Dance|p2a: Scyther
+|-boost|p2a: Scyther|atk|2
+|
+|upkeep
+|turn|2
+|
+|t:|1772749935
+|move|p1a: Zacian|Play Rough|p2a: Scyther
+|-damage|p2a: Scyther|164/249
+|-unboost|p2a: Scyther|atk|1
+|move|p2a: Scyther|Close Combat|p1a: Zacian
+|-damage|p1a: Zacian|138/225
+|-unboost|p2a: Scyther|def|1
+|-unboost|p2a: Scyther|spd|1
+|
+|upkeep
+|turn|3
+|
+|t:|1772749954
+|switch|p2a: Hatterene|Hatterene, L85, F|236/236
+|move|p1a: Zacian|Behemoth Blade|p2a: Hatterene
+|-supereffective|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|
+|upkeep
+|
+|t:|1772749969
+|switch|p2a: Diancie|Diancie, L82|216/216
+|turn|4
+|
+|t:|1772749975
+|-terastallize|p2a: Diancie|Water
+|move|p1a: Zacian|Behemoth Blade|p2a: Diancie
+|-resisted|p2a: Diancie
+|-damage|p2a: Diancie|171/216
+|move|p2a: Diancie|Diamond Storm|p1a: Zacian
+|-resisted|p1a: Zacian
+|-damage|p1a: Zacian|87/225
+|-boost|p2a: Diancie|def|2
+|
+|-heal|p2a: Diancie|184/216|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1772749984
+|move|p1a: Zacian|Close Combat|p2a: Diancie
+|-damage|p2a: Diancie|150/216
+|-unboost|p1a: Zacian|def|1
+|-unboost|p1a: Zacian|spd|1
+|move|p2a: Diancie|Earth Power|p1a: Zacian
+|-supereffective|p1a: Zacian
+|-damage|p1a: Zacian|0 fnt
+|faint|p1a: Zacian
+|
+|-heal|p2a: Diancie|163/216|[from] item: Leftovers
+|upkeep
+|
+|t:|1772750007
+|switch|p1a: Torterra|Torterra, L78, F|276/276
+|turn|6
+|
+|t:|1772750010
+|move|p1a: Torterra|Bullet Seed|p2a: Diancie
+|-supereffective|p2a: Diancie
+|-damage|p2a: Diancie|143/216
+|-supereffective|p2a: Diancie
+|-damage|p2a: Diancie|123/216
+|-supereffective|p2a: Diancie
+|-damage|p2a: Diancie|103/216
+|-supereffective|p2a: Diancie
+|-damage|p2a: Diancie|83/216
+|-supereffective|p2a: Diancie
+|-damage|p2a: Diancie|63/216
+|-hitcount|p2a: Diancie|5
+|move|p2a: Diancie|Diamond Storm|p1a: Torterra
+|-resisted|p1a: Torterra
+|-damage|p1a: Torterra|231/276
+|
+|-heal|p2a: Diancie|76/216|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1772750017
+|move|p1a: Torterra|Bullet Seed|p2a: Diancie
+|-supereffective|p2a: Diancie
+|-damage|p2a: Diancie|56/216
+|-supereffective|p2a: Diancie
+|-damage|p2a: Diancie|36/216
+|-supereffective|p2a: Diancie
+|-damage|p2a: Diancie|12/216
+|-supereffective|p2a: Diancie
+|-damage|p2a: Diancie|0 fnt
+|faint|p2a: Diancie
+|-hitcount|p2: Diancie|4
+|
+|upkeep
+|
+|t:|1772750021
+|switch|p2a: Glaceon|Glaceon, L94, F|275/275
+|turn|8
+|
+|t:|1772750033
+|switch|p1a: Passimian|Passimian, L83, F|302/302
+|move|p2a: Glaceon|Wish|p2a: Glaceon
+|
+|upkeep
+|turn|9
+|
+|t:|1772750040
+|move|p1a: Passimian|Close Combat|p2a: Glaceon
+|-supereffective|p2a: Glaceon
+|-damage|p2a: Glaceon|65/275
+|-unboost|p1a: Passimian|def|1
+|-unboost|p1a: Passimian|spd|1
+|move|p2a: Glaceon|Mud Shot|p1a: Passimian
+|-damage|p1a: Passimian|184/302
+|-unboost|p1a: Passimian|spe|1
+|-ability|p1a: Passimian|Defiant|boost
+|-boost|p1a: Passimian|atk|2
+|
+|-heal|p2a: Glaceon|202/275|[from] move: Wish|[wisher] Glaceon
+|upkeep
+|turn|10
+|
+|t:|1772750055
+|switch|p2a: Scyther|Scyther, L82, F|164/249
+|move|p1a: Passimian|Close Combat|p2a: Scyther
+|-resisted|p2a: Scyther
+|-damage|p2a: Scyther|106/249
+|-unboost|p1a: Passimian|def|1
+|-unboost|p1a: Passimian|spd|1
+|
+|upkeep
+|turn|11
+|
+|t:|1772750063
+|switch|p1a: Lumineon|Lumineon, L93, F|279/279
+|move|p2a: Scyther|Dual Wingbeat|p1a: Lumineon
+|-crit|p1a: Lumineon
+|-damage|p1a: Lumineon|180/279
+|-damage|p1a: Lumineon|107/279
+|-hitcount|p1a: Lumineon|2
+|
+|upkeep
+|turn|12
+|
+|t:|1772750070
+|move|p1a: Lumineon|Ice Beam|p2a: Scyther
+|-supereffective|p2a: Scyther
+|-damage|p2a: Scyther|16/249
+|move|p2a: Scyther|Dual Wingbeat|p1a: Lumineon
+|-damage|p1a: Lumineon|41/279
+|-damage|p1a: Lumineon|0 fnt
+|faint|p1a: Lumineon
+|-hitcount|p1: Lumineon|2
+|
+|upkeep
+|
+|t:|1772750075
+|switch|p1a: Passimian|Passimian, L83, F|184/302
+|turn|13
+|
+|t:|1772750078
+|move|p1a: Passimian|Rock Slide|p2a: Scyther
+|-supereffective|p2a: Scyther
+|-damage|p2a: Scyther|0 fnt
+|faint|p2a: Scyther
+|
+|upkeep
+|
+|t:|1772750082
+|switch|p2a: Glaceon|Glaceon, L94, F|202/275
+|turn|14
+|
+|t:|1772750086
+|switch|p1a: Leafeon|Leafeon, L88, F|258/258
+|move|p2a: Glaceon|Mud Shot|p1a: Leafeon
+|-resisted|p1a: Leafeon
+|-damage|p1a: Leafeon|225/258
+|-unboost|p1a: Leafeon|spe|1
+|
+|upkeep
+|turn|15
+|
+|t:|1772750091
+|move|p2a: Glaceon|Freeze-Dry|p1a: Leafeon
+|-supereffective|p1a: Leafeon
+|-damage|p1a: Leafeon|0 fnt
+|faint|p1a: Leafeon
+|
+|upkeep
+|
+|t:|1772750102
+|switch|p1a: Passimian|Passimian, L83, F|184/302
+|turn|16
+|
+|t:|1772750107
+|move|p1a: Passimian|Close Combat|p2a: Glaceon
+|-supereffective|p2a: Glaceon
+|-damage|p2a: Glaceon|0 fnt
+|-unboost|p1a: Passimian|def|1
+|-unboost|p1a: Passimian|spd|1
+|faint|p2a: Glaceon
+|
+|upkeep
+|
+|t:|1772750111
+|switch|p2a: Cloyster|Cloyster, L80, M|211/211
+|turn|17
+|
+|t:|1772750118
+|move|p1a: Passimian|Close Combat|p2a: Cloyster
+|-supereffective|p2a: Cloyster
+|-damage|p2a: Cloyster|41/211
+|-unboost|p1a: Passimian|def|1
+|-unboost|p1a: Passimian|spd|1
+|move|p2a: Cloyster|Shell Smash|p2a: Cloyster
+|-unboost|p2a: Cloyster|def|1
+|-unboost|p2a: Cloyster|spd|1
+|-boost|p2a: Cloyster|atk|2
+|-boost|p2a: Cloyster|spa|2
+|-boost|p2a: Cloyster|spe|2
+|-enditem|p2a: Cloyster|White Herb
+|-clearnegativeboost|p2a: Cloyster|[silent]
+|
+|upkeep
+|turn|18
+|
+|t:|1772750125
+|move|p2a: Cloyster|Icicle Spear|p1a: Passimian
+|-damage|p1a: Passimian|85/302
+|-damage|p1a: Passimian|0 fnt
+|faint|p1a: Passimian
+|-hitcount|p1: Passimian|2
+|
+|upkeep
+|
+|t:|1772750126
+|switch|p1a: Persian|Persian-Alola, L86, F|252/252
+|turn|19
+|
+|t:|1772750133
+|move|p2a: Cloyster|Icicle Spear|p1a: Persian
+|-damage|p1a: Persian|218/252
+|-damage|p1a: Persian|185/252
+|-damage|p1a: Persian|151/252
+|-damage|p1a: Persian|117/252
+|-damage|p1a: Persian|87/252
+|-hitcount|p1a: Persian|5
+|move|p1a: Persian|Thunder Wave|p2a: Cloyster
+|-status|p2a: Cloyster|par
+|
+|upkeep
+|turn|20
+|
+|t:|1772750138
+|move|p1a: Persian|Foul Play|p2a: Cloyster
+|-damage|p2a: Cloyster|0 fnt
+|faint|p2a: Cloyster
+|
+|upkeep
+|
+|t:|1772750140
+|switch|p2a: Chansey|Chansey, L85, F|564/564
+|turn|21
+|
+|t:|1772750145
+|move|p1a: Persian|Taunt|p2a: Chansey
+|-start|p2a: Chansey|move: Taunt
+|move|p2a: Chansey|Seismic Toss|p1a: Persian
+|-damage|p1a: Persian|2/252
+|
+|upkeep
+|turn|22
+|
+|t:|1772750150
+|move|p1a: Persian|Parting Shot|p2a: Chansey
+|-unboost|p2a: Chansey|atk|1
+|-unboost|p2a: Chansey|spa|1
+|
+|t:|1772750152
+|switch|p1a: Torterra|Torterra, L78, F|231/276|[from] Parting Shot
+|move|p2a: Chansey|Seismic Toss|p1a: Torterra
+|-damage|p1a: Torterra|146/276
+|
+|upkeep
+|turn|23
+|
+|t:|1772750160
+|move|p2a: Chansey|Seismic Toss|p1a: Torterra
+|-damage|p1a: Torterra|61/276
+|move|p1a: Torterra|Shell Smash|p1a: Torterra
+|-unboost|p1a: Torterra|def|1
+|-unboost|p1a: Torterra|spd|1
+|-boost|p1a: Torterra|atk|2
+|-boost|p1a: Torterra|spa|2
+|-boost|p1a: Torterra|spe|2
+|
+|-end|p2a: Chansey|move: Taunt
+|upkeep
+|turn|24
+|
+|t:|1772750167
+|move|p1a: Torterra|Bullet Seed|p2a: Chansey
+|-damage|p2a: Chansey|377/564
+|-damage|p2a: Chansey|214/564
+|-damage|p2a: Chansey|24/564
+|-damage|p2a: Chansey|0 fnt
+|faint|p2a: Chansey
+|-hitcount|p2: Chansey|4
+|
+|win|andrewf169
+|raw|andrewf169's rating: 1355 &rarr; <strong>1375</strong><br />(+20 for winning)
+|raw|Beanatron's rating: 1351 &rarr; <strong>1331</strong><br />(-20 for losing)

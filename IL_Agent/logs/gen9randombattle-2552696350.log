@@ -1,0 +1,169 @@
+|j|☆jalelopie
+|j|☆ocarinaoftime98
+|t:|1772744378
+|gametype|singles
+|player|p1|jalelopie|n|1412
+|player|p2|ocarinaoftime98|palmer|1400
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772744378
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Hitmontop|Hitmontop, L88, M|231/231
+|switch|p2a: Calyrex|Calyrex, L93|337/337
+|-ability|p2a: Calyrex|Unnerve
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by jalelopie)
+|
+|t:|1772744392
+|-terastallize|p1a: Hitmontop|Ice
+|move|p2a: Calyrex|Psychic|p1a: Hitmontop
+|-damage|p1a: Hitmontop|141/231
+|move|p1a: Hitmontop|Triple Axel|p2a: Calyrex
+|-supereffective|p2a: Calyrex
+|-damage|p2a: Calyrex|271/337
+|-supereffective|p2a: Calyrex
+|-damage|p2a: Calyrex|127/337
+|-supereffective|p2a: Calyrex
+|-damage|p2a: Calyrex|0 fnt
+|faint|p2a: Calyrex
+|-hitcount|p2: Calyrex|3
+|
+|-heal|p1a: Hitmontop|155/231|[from] item: Leftovers
+|upkeep
+|
+|t:|1772744404
+|switch|p2a: Arcanine|Arcanine-Hisui, L79, M|279/279
+|turn|2
+|
+|t:|1772744420
+|switch|p1a: Heatran|Heatran, L79, F|273/273
+|-item|p1a: Heatran|Air Balloon
+|move|p2a: Arcanine|Head Smash|p1a: Heatran
+|-damage|p1a: Heatran|36/273
+|-enditem|p1a: Heatran|Air Balloon
+|
+|upkeep
+|turn|3
+|
+|t:|1772744428
+|move|p2a: Arcanine|Head Smash|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|upkeep
+|
+|t:|1772744439
+|switch|p1a: Baxcalibur|Baxcalibur, L75, M|296/296
+|turn|4
+|
+|t:|1772744446
+|-terastallize|p2a: Arcanine|Rock
+|move|p2a: Arcanine|Head Smash|p1a: Baxcalibur
+|-supereffective|p1a: Baxcalibur
+|-damage|p1a: Baxcalibur|0 fnt
+|faint|p1a: Baxcalibur
+|
+|upkeep
+|
+|t:|1772744452
+|switch|p1a: Virizion|Virizion, L82|283/283
+|turn|5
+|
+|t:|1772744457
+|move|p1a: Virizion|Swords Dance|p1a: Virizion
+|-boost|p1a: Virizion|atk|2
+|move|p2a: Arcanine|Head Smash|p1a: Virizion
+|-resisted|p1a: Virizion
+|-damage|p1a: Virizion|94/283
+|
+|upkeep
+|turn|6
+|
+|t:|1772744463
+|move|p1a: Virizion|Leaf Blade|p2a: Arcanine
+|-supereffective|p2a: Arcanine
+|-damage|p2a: Arcanine|0 fnt
+|faint|p2a: Arcanine
+|-damage|p1a: Virizion|66/283|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772744474
+|switch|p2a: Eelektross|Eelektross, L87, M|290/290
+|turn|7
+|
+|t:|1772744485
+|move|p1a: Virizion|Close Combat|p2a: Eelektross
+|-damage|p2a: Eelektross|0 fnt
+|-unboost|p1a: Virizion|def|1
+|-unboost|p1a: Virizion|spd|1
+|faint|p2a: Eelektross
+|-damage|p1a: Virizion|38/283|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772744490
+|switch|p2a: Wugtrio|Wugtrio, L91, F|212/212
+|turn|8
+|
+|t:|1772744495
+|move|p2a: Wugtrio|Throat Chop|p1a: Virizion
+|-resisted|p1a: Virizion
+|-damage|p1a: Virizion|0 fnt
+|faint|p1a: Virizion
+|
+|upkeep
+|
+|t:|1772744503
+|switch|p1a: Klefki|Klefki, L84, M|233/233
+|turn|9
+|
+|t:|1772744508
+|switch|p2a: Crabominable|Crabominable, L90, F|321/321
+|move|p1a: Klefki|Thunder Wave|p2a: Crabominable
+|-status|p2a: Crabominable|par
+|
+|upkeep
+|turn|10
+|
+|t:|1772744515
+|move|p1a: Klefki|Dazzling Gleam|p2a: Crabominable
+|-supereffective|p2a: Crabominable
+|-damage|p2a: Crabominable|207/321 par
+|move|p2a: Crabominable|Earthquake|p1a: Klefki
+|-supereffective|p1a: Klefki
+|-crit|p1a: Klefki
+|-damage|p1a: Klefki|0 fnt
+|faint|p1a: Klefki
+|
+|upkeep
+|
+|t:|1772744526
+|switch|p1a: Jolteon|Jolteon, L84, F|246/246
+|turn|11
+|
+|t:|1772744535
+|move|p1a: Jolteon|Alluring Voice|p2a: Crabominable
+|-supereffective|p2a: Crabominable
+|-damage|p2a: Crabominable|57/321 par
+|move|p2a: Crabominable|Earthquake|p1a: Jolteon
+|-supereffective|p1a: Jolteon
+|-damage|p1a: Jolteon|0 fnt
+|faint|p1a: Jolteon
+|
+|upkeep
+|-message|jalelopie forfeited.
+|
+|win|ocarinaoftime98
+|raw|jalelopie's rating: 1412 &rarr; <strong>1391</strong><br />(-21 for losing)
+|raw|ocarinaoftime98's rating: 1400 &rarr; <strong>1421</strong><br />(+21 for winning)
+|l|☆jalelopie
+|player|p1|

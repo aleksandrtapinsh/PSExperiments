@@ -1,0 +1,82 @@
+|j|☆rngismythbadadmin
+|j|☆Walker&Gear
+|t:|1772752174
+|gametype|singles
+|player|p1|rngismythbadadmin|2|1128
+|player|p2|Walker&Gear|gambler|1123
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772752174
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Salamence|Salamence, L77, M|273/273
+|switch|p2a: Serperior|Serperior, L79, F|248/248
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by rngismythbadadmin)
+|
+|t:|1772752180
+|move|p2a: Serperior|Glare|p1a: Salamence
+|-status|p1a: Salamence|par
+|cant|p1a: Salamence|par
+|
+|upkeep
+|turn|2
+|
+|t:|1772752186
+|move|p2a: Serperior|Dragon Pulse|p1a: Salamence
+|-supereffective|p1a: Salamence
+|-damage|p1a: Salamence|140/273 par
+|-damage|p2a: Serperior|224/248|[from] item: Life Orb
+|move|p1a: Salamence|Dragon Dance|p1a: Salamence
+|-boost|p1a: Salamence|atk|1
+|-boost|p1a: Salamence|spe|1
+|
+|upkeep
+|turn|3
+|
+|t:|1772752193
+|move|p2a: Serperior|Dragon Pulse|p1a: Salamence
+|-supereffective|p1a: Salamence
+|-damage|p1a: Salamence|13/273 par
+|-damage|p2a: Serperior|200/248|[from] item: Life Orb
+|move|p1a: Salamence|Dual Wingbeat|p2a: Serperior
+|-supereffective|p2a: Serperior
+|-damage|p2a: Serperior|56/248
+|-supereffective|p2a: Serperior
+|-damage|p2a: Serperior|0 fnt
+|faint|p2a: Serperior
+|-ability|p1a: Salamence|Moxie|boost
+|-boost|p1a: Salamence|atk|1
+|-hitcount|p2: Serperior|2
+|
+|upkeep
+|
+|t:|1772752212
+|switch|p2a: Arcanine|Arcanine-Hisui, L79, M|279/279
+|turn|4
+|
+|t:|1772752221
+|move|p2a: Arcanine|Head Smash|p1a: Salamence|[miss]
+|-miss|p2a: Arcanine|p1a: Salamence
+|move|p1a: Salamence|Earthquake|p2a: Arcanine
+|-supereffective|p2a: Arcanine
+|-damage|p2a: Arcanine|0 fnt
+|faint|p2a: Arcanine
+|-ability|p1a: Salamence|Moxie|boost
+|-boost|p1a: Salamence|atk|1
+|
+|upkeep
+|-message|Walker&Gear forfeited.
+|
+|win|rngismythbadadmin
+|raw|rngismythbadadmin's rating: 1128 &rarr; <strong>1153</strong><br />(+25 for winning)
+|raw|Walker&amp;Gear's rating: 1123 &rarr; <strong>1098</strong><br />(-25 for losing)
+|l|☆Walker&Gear
+|player|p2|

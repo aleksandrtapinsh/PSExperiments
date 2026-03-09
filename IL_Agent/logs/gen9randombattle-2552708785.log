@@ -1,0 +1,350 @@
+|j|☆huijethiuer
+|j|☆Fire_Fly2025
+|t:|1772745542
+|gametype|singles
+|player|p1|huijethiuer|102|
+|player|p2|Fire_Fly2025|169|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772745542
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Arceus|Arceus-Steel, L70|284/284
+|switch|p2a: Delibird|Delibird, M|252/252
+|turn|1
+|
+|t:|1772745563
+|move|p1a: Arceus|Will-O-Wisp|p2a: Delibird
+|-status|p2a: Delibird|brn
+|move|p2a: Delibird|Spikes|p1a: Arceus
+|-sidestart|p1: huijethiuer|Spikes
+|
+|-damage|p2a: Delibird|237/252 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1772745572
+|move|p1a: Arceus|Earthquake|p2a: Delibird
+|-immune|p2a: Delibird
+|move|p2a: Delibird|Spikes|p1a: Arceus
+|-sidestart|p1: huijethiuer|Spikes
+|
+|-damage|p2a: Delibird|222/252 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1772745580
+|move|p1a: Arceus|Judgment|p2a: Delibird
+|-supereffective|p2a: Delibird
+|-damage|p2a: Delibird|0 fnt
+|faint|p2a: Delibird
+|
+|upkeep
+|
+|t:|1772745588
+|switch|p2a: Pyroar|Pyroar, L88, F|295/295
+|-ability|p2a: Pyroar|Unnerve
+|turn|4
+|
+|t:|1772745595
+|move|p2a: Pyroar|Fire Blast|p1a: Arceus
+|-supereffective|p1a: Arceus
+|-damage|p1a: Arceus|30/284
+|move|p1a: Arceus|Judgment|p2a: Pyroar
+|-resisted|p2a: Pyroar
+|-damage|p2a: Pyroar|230/295
+|
+|upkeep
+|turn|5
+|
+|t:|1772745604
+|move|p2a: Pyroar|Fire Blast|p1a: Arceus
+|-supereffective|p1a: Arceus
+|-damage|p1a: Arceus|0 fnt
+|faint|p1a: Arceus
+|
+|upkeep
+|
+|t:|1772745610
+|switch|p1a: Landorus|Landorus, L75, M|257/257
+|turn|6
+|
+|t:|1772745631
+|switch|p2a: Dewgong|Dewgong, L94, M|322/322
+|move|p1a: Landorus|Focus Blast|p2a: Dewgong|[miss]
+|-miss|p1a: Landorus|p2a: Dewgong
+|
+|upkeep
+|turn|7
+|
+|t:|1772745643
+|-terastallize|p1a: Landorus|Ground
+|move|p1a: Landorus|Focus Blast|p2a: Dewgong
+|-supereffective|p2a: Dewgong
+|-damage|p2a: Dewgong|166/322
+|move|p2a: Dewgong|Ice Beam|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|45/257
+|-status|p1a: Landorus|frz
+|
+|upkeep
+|turn|8
+|
+|t:|1772745656
+|cant|p1a: Landorus|frz
+|move|p2a: Dewgong|Ice Beam|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|upkeep
+|
+|t:|1772745668
+|switch|p1a: Wigglytuff|Wigglytuff, L96, M|424/424
+|-damage|p1a: Wigglytuff|354/424|[from] Spikes
+|turn|9
+|
+|t:|1772745685
+|move|p2a: Dewgong|Flip Turn|p1a: Wigglytuff
+|-damage|p1a: Wigglytuff|263/424
+|
+|t:|1772745688
+|switch|p2a: Eternatus|Eternatus, L69|308/308|[from] Flip Turn
+|-ability|p2a: Eternatus|Pressure
+|move|p1a: Wigglytuff|Thunder Wave|p2a: Eternatus
+|-status|p2a: Eternatus|par
+|
+|-heal|p1a: Wigglytuff|289/424|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1772745705
+|move|p1a: Wigglytuff|Fire Blast|p2a: Eternatus
+|-resisted|p2a: Eternatus
+|-crit|p2a: Eternatus
+|-damage|p2a: Eternatus|230/308 par
+|cant|p2a: Eternatus|par
+|
+|-heal|p1a: Wigglytuff|315/424|[from] item: Leftovers
+|-heal|p2a: Eternatus|249/308 par|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1772745716
+|move|p1a: Wigglytuff|Fire Blast|p2a: Eternatus|[miss]
+|-miss|p1a: Wigglytuff|p2a: Eternatus
+|cant|p2a: Eternatus|par
+|
+|-heal|p1a: Wigglytuff|341/424|[from] item: Leftovers
+|-heal|p2a: Eternatus|268/308 par|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1772745725
+|move|p1a: Wigglytuff|Thunder Wave|p2a: Eternatus|[miss]
+|-miss|p1a: Wigglytuff|p2a: Eternatus
+|move|p2a: Eternatus|Toxic|p1a: Wigglytuff
+|-status|p1a: Wigglytuff|tox
+|
+|-heal|p1a: Wigglytuff|367/424 tox|[from] item: Leftovers
+|-heal|p2a: Eternatus|287/308 par|[from] item: Leftovers
+|-damage|p1a: Wigglytuff|341/424 tox|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1772745735
+|switch|p2a: Dewgong|Dewgong, L94, M|166/322
+|move|p1a: Wigglytuff|Fire Blast|p2a: Dewgong
+|-damage|p2a: Dewgong|138/322
+|
+|-heal|p1a: Wigglytuff|367/424 tox|[from] item: Leftovers
+|-damage|p1a: Wigglytuff|315/424 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1772745748
+|move|p2a: Dewgong|Surf|p1a: Wigglytuff
+|-damage|p1a: Wigglytuff|195/424 tox
+|move|p1a: Wigglytuff|Knock Off|p2a: Dewgong
+|-crit|p2a: Dewgong
+|-damage|p2a: Dewgong|29/322
+|-enditem|p2a: Dewgong|Assault Vest|[from] move: Knock Off|[of] p1a: Wigglytuff
+|
+|-heal|p1a: Wigglytuff|221/424 tox|[from] item: Leftovers
+|-damage|p1a: Wigglytuff|143/424 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1772745763
+|move|p2a: Dewgong|Surf|p1a: Wigglytuff
+|-damage|p1a: Wigglytuff|20/424 tox
+|move|p1a: Wigglytuff|Dazzling Gleam|p2a: Dewgong
+|-damage|p2a: Dewgong|0 fnt
+|faint|p2a: Dewgong
+|
+|-heal|p1a: Wigglytuff|46/424 tox|[from] item: Leftovers
+|-damage|p1a: Wigglytuff|0 fnt|[from] psn
+|faint|p1a: Wigglytuff
+|upkeep
+|
+|t:|1772745774
+|switch|p2a: Eternatus|Eternatus, L69|287/308 par
+|switch|p1a: Pincurchin|Pincurchin, F|258/258
+|-ability|p2a: Eternatus|Pressure
+|-damage|p1a: Pincurchin|215/258|[from] Spikes
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Pincurchin
+|turn|16
+|
+|t:|1772745789
+|move|p2a: Eternatus|Dynamax Cannon|p1a: Pincurchin
+|-damage|p1a: Pincurchin|134/258
+|move|p1a: Pincurchin|Toxic Spikes|p2a: Eternatus
+|-sidestart|p2: Fire_Fly2025|move: Toxic Spikes
+|
+|-heal|p2a: Eternatus|306/308 par|[from] item: Leftovers
+|-heal|p1a: Pincurchin|150/258|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1772745802
+|move|p2a: Eternatus|Flamethrower|p1a: Pincurchin
+|-damage|p1a: Pincurchin|97/258
+|move|p1a: Pincurchin|Discharge|p2a: Eternatus
+|-resisted|p2a: Eternatus
+|-damage|p2a: Eternatus|216/308 par
+|
+|-heal|p2a: Eternatus|235/308 par|[from] item: Leftovers
+|-heal|p1a: Pincurchin|113/258|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1772745816
+|move|p2a: Eternatus|Flamethrower|p1a: Pincurchin
+|-damage|p1a: Pincurchin|64/258
+|move|p1a: Pincurchin|Recover|p1a: Pincurchin
+|-heal|p1a: Pincurchin|193/258
+|
+|-heal|p2a: Eternatus|254/308 par|[from] item: Leftovers
+|-heal|p1a: Pincurchin|209/258|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1772745831
+|switch|p2a: Pyroar|Pyroar, L88, F|230/295
+|-ability|p2a: Pyroar|Unnerve
+|move|p1a: Pincurchin|Recover|p1a: Pincurchin
+|-heal|p1a: Pincurchin|258/258
+|
+|upkeep
+|turn|20
+|
+|t:|1772745843
+|move|p2a: Pyroar|Work Up|p2a: Pyroar
+|-boost|p2a: Pyroar|atk|1
+|-boost|p2a: Pyroar|spa|1
+|move|p1a: Pincurchin|Scald|p2a: Pyroar
+|-supereffective|p2a: Pyroar
+|-damage|p2a: Pyroar|48/295
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|21
+|
+|t:|1772745859
+|move|p2a: Pyroar|Fire Blast|p1a: Pincurchin
+|-damage|p1a: Pincurchin|66/258
+|move|p1a: Pincurchin|Scald|p2a: Pyroar
+|-supereffective|p2a: Pyroar
+|-damage|p2a: Pyroar|0 fnt
+|faint|p2a: Pyroar
+|
+|-heal|p1a: Pincurchin|82/258|[from] item: Leftovers
+|upkeep
+|
+|t:|1772745869
+|switch|p2a: Leafeon|Leafeon, L88, M|258/258
+|-status|p2a: Leafeon|psn
+|turn|22
+|
+|t:|1772745875
+|move|p2a: Leafeon|Swords Dance|p2a: Leafeon
+|-boost|p2a: Leafeon|atk|2
+|move|p1a: Pincurchin|Recover|p1a: Pincurchin
+|-heal|p1a: Pincurchin|211/258
+|
+|-heal|p1a: Pincurchin|227/258|[from] item: Leftovers
+|-damage|p2a: Leafeon|226/258 psn|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1772745892
+|move|p2a: Leafeon|Swords Dance|p2a: Leafeon
+|-boost|p2a: Leafeon|atk|2
+|move|p1a: Pincurchin|Recover|p1a: Pincurchin
+|-heal|p1a: Pincurchin|258/258
+|
+|-damage|p2a: Leafeon|194/258 psn|[from] psn
+|upkeep
+|turn|24
+|
+|t:|1772745902
+|move|p2a: Leafeon|Swords Dance|p2a: Leafeon
+|-boost|p2a: Leafeon|atk|2
+|move|p1a: Pincurchin|Toxic Spikes|p2a: Leafeon
+|-sidestart|p2: Fire_Fly2025|move: Toxic Spikes
+|
+|-damage|p2a: Leafeon|162/258 psn|[from] psn
+|upkeep
+|turn|25
+|
+|t:|1772745911
+|move|p2a: Leafeon|Leaf Blade|p1a: Pincurchin
+|-damage|p1a: Pincurchin|0 fnt
+|faint|p1a: Pincurchin
+|-damage|p2a: Leafeon|137/258 psn|[from] item: Life Orb
+|
+|-damage|p2a: Leafeon|105/258 psn|[from] psn
+|upkeep
+|
+|t:|1772745927
+|switch|p1a: Sudowoodo|Sudowoodo, L94, M|284/284
+|-damage|p1a: Sudowoodo|237/284|[from] Spikes
+|turn|26
+|
+|t:|1772745932
+|move|p1a: Sudowoodo|Sucker Punch|p2a: Leafeon
+|-damage|p2a: Leafeon|43/258 psn
+|move|p2a: Leafeon|Leaf Blade|p1a: Sudowoodo
+|-supereffective|p1a: Sudowoodo
+|-damage|p1a: Sudowoodo|0 fnt
+|faint|p1a: Sudowoodo
+|-damage|p2a: Leafeon|18/258 psn|[from] item: Life Orb
+|
+|-damage|p2a: Leafeon|0 fnt|[from] psn
+|faint|p2a: Leafeon
+|upkeep
+|
+|t:|1772745946
+|switch|p2a: Hitmonchan|Hitmonchan, L87, M|229/229
+|switch|p1a: Komala|Komala, L89, F|260/260
+|-status|p2a: Hitmonchan|tox
+|-damage|p1a: Komala|217/260|[from] Spikes
+|-ability|p1a: Komala|Comatose
+|turn|27
+|
+|t:|1772745961
+|-terastallize|p2a: Hitmonchan|Steel
+|move|p2a: Hitmonchan|Drain Punch|p1a: Komala
+|-supereffective|p1a: Komala
+|-damage|p1a: Komala|0 fnt
+|faint|p1a: Komala
+|
+|win|Fire_Fly2025
+|l|☆huijethiuer
+|player|p1|

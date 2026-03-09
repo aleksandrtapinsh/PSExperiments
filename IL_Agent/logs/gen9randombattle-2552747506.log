@@ -1,0 +1,352 @@
+|j|☆luisant17
+|j|☆ChrisDaDerp
+|t:|1772749329
+|gametype|singles
+|player|p1|luisant17|n|1443
+|player|p2|ChrisDaDerp|volkner|1489
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772749329
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Garchomp|Garchomp, L74, M|282/282
+|switch|p2a: Ditto|Ditto, L87|225/225
+|-transform|p2a: Ditto|p1a: Garchomp|[from] ability: Imposter
+|turn|1
+|c|☆ChrisDaDerp|wait a second
+|
+|t:|1772749347
+|switch|p2a: Whimsicott|Whimsicott, L84, F|238/238
+|switch|p1a: Granbull|Granbull, L88, F|302/302
+|-ability|p1a: Granbull|Intimidate|boost
+|-unboost|p2a: Whimsicott|atk|1
+|
+|upkeep
+|turn|2
+|
+|t:|1772749355
+|move|p2a: Whimsicott|Leech Seed|p1a: Granbull
+|-start|p1a: Granbull|move: Leech Seed
+|move|p1a: Granbull|Thunder Wave|p2a: Whimsicott|[miss]
+|-miss|p1a: Granbull|p2a: Whimsicott
+|
+|-damage|p1a: Granbull|265/302|[from] Leech Seed|[of] p2a: Whimsicott
+|upkeep
+|turn|3
+|
+|t:|1772749360
+|move|p2a: Whimsicott|Substitute|p2a: Whimsicott
+|-start|p2a: Whimsicott|Substitute
+|-damage|p2a: Whimsicott|179/238
+|move|p1a: Granbull|Thunder Wave||[still]
+|-fail|p1a: Granbull
+|
+|-heal|p2a: Whimsicott|193/238|[from] item: Leftovers
+|-heal|p1a: Granbull|283/302|[from] item: Leftovers
+|-damage|p1a: Granbull|246/302|[from] Leech Seed|[of] p2a: Whimsicott
+|-heal|p2a: Whimsicott|230/238|[silent]
+|upkeep
+|turn|4
+|
+|t:|1772749365
+|move|p2a: Whimsicott|Encore|p1a: Granbull
+|-start|p1a: Granbull|Encore
+|move|p1a: Granbull|Thunder Wave||[still]
+|-fail|p1a: Granbull
+|
+|-heal|p2a: Whimsicott|238/238|[from] item: Leftovers
+|-heal|p1a: Granbull|264/302|[from] item: Leftovers
+|-damage|p1a: Granbull|227/302|[from] Leech Seed|[of] p2a: Whimsicott
+|upkeep
+|turn|5
+|
+|t:|1772749372
+|switch|p1a: Beartic|Beartic, L91, F|321/321
+|move|p2a: Whimsicott|Moonblast|p1a: Beartic
+|-crit|p1a: Beartic
+|-damage|p1a: Beartic|185/321
+|
+|upkeep
+|turn|6
+|
+|t:|1772749385
+|move|p2a: Whimsicott|Leech Seed|p1a: Beartic
+|-start|p1a: Beartic|move: Leech Seed
+|move|p1a: Beartic|Icicle Crash|p2a: Whimsicott
+|-supereffective|p2a: Whimsicott
+|-end|p2a: Whimsicott|Substitute
+|
+|-damage|p1a: Beartic|145/321|[from] Leech Seed|[of] p2a: Whimsicott
+|upkeep
+|turn|7
+|
+|t:|1772749391
+|move|p2a: Whimsicott|Substitute|p2a: Whimsicott
+|-start|p2a: Whimsicott|Substitute
+|-damage|p2a: Whimsicott|179/238
+|move|p1a: Beartic|Icicle Crash|p2a: Whimsicott
+|-supereffective|p2a: Whimsicott
+|-end|p2a: Whimsicott|Substitute
+|
+|-heal|p2a: Whimsicott|193/238|[from] item: Leftovers
+|-damage|p1a: Beartic|105/321|[from] Leech Seed|[of] p2a: Whimsicott
+|-heal|p2a: Whimsicott|233/238|[silent]
+|upkeep
+|turn|8
+|
+|t:|1772749393
+|move|p2a: Whimsicott|Substitute|p2a: Whimsicott
+|-start|p2a: Whimsicott|Substitute
+|-damage|p2a: Whimsicott|174/238
+|move|p1a: Beartic|Icicle Crash|p2a: Whimsicott|[miss]
+|-miss|p1a: Beartic|p2a: Whimsicott
+|
+|-heal|p2a: Whimsicott|188/238|[from] item: Leftovers
+|-damage|p1a: Beartic|65/321|[from] Leech Seed|[of] p2a: Whimsicott
+|-heal|p2a: Whimsicott|228/238|[silent]
+|upkeep
+|turn|9
+|
+|t:|1772749397
+|move|p2a: Whimsicott|Substitute|p2a: Whimsicott
+|-fail|p2a: Whimsicott|move: Substitute
+|move|p1a: Beartic|Icicle Crash|p2a: Whimsicott
+|-supereffective|p2a: Whimsicott
+|-end|p2a: Whimsicott|Substitute
+|
+|-heal|p2a: Whimsicott|238/238|[from] item: Leftovers
+|-damage|p1a: Beartic|25/321|[from] Leech Seed|[of] p2a: Whimsicott
+|upkeep
+|turn|10
+|
+|t:|1772749400
+|move|p2a: Whimsicott|Substitute|p2a: Whimsicott
+|-start|p2a: Whimsicott|Substitute
+|-damage|p2a: Whimsicott|179/238
+|move|p1a: Beartic|Icicle Crash|p2a: Whimsicott
+|-supereffective|p2a: Whimsicott
+|-end|p2a: Whimsicott|Substitute
+|
+|-heal|p2a: Whimsicott|193/238|[from] item: Leftovers
+|-damage|p1a: Beartic|0 fnt|[from] Leech Seed|[of] p2a: Whimsicott
+|-heal|p2a: Whimsicott|218/238|[silent]
+|faint|p1a: Beartic
+|upkeep
+|
+|t:|1772749412
+|switch|p1a: Noctowl|Noctowl, L95, M|344/344
+|turn|11
+|
+|t:|1772749419
+|move|p2a: Whimsicott|Substitute|p2a: Whimsicott
+|-start|p2a: Whimsicott|Substitute
+|-damage|p2a: Whimsicott|159/238
+|move|p1a: Noctowl|Hyper Voice|p2a: Whimsicott
+|-damage|p2a: Whimsicott|44/238
+|
+|-heal|p2a: Whimsicott|58/238|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1772749439
+|switch|p2a: Muk|Muk, L86, F|321/321
+|move|p1a: Noctowl|Hyper Voice|p2a: Muk
+|-damage|p2a: Muk|222/321
+|
+|-heal|p2a: Muk|242/321|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1772749490
+|switch|p1a: Granbull|Granbull, L88, F|227/302
+|-ability|p1a: Granbull|Intimidate|boost
+|-unboost|p2a: Muk|atk|1
+|move|p2a: Muk|Ice Punch|p1a: Granbull
+|-damage|p1a: Granbull|185/302
+|
+|-heal|p2a: Muk|262/321|[from] item: Leftovers
+|-heal|p1a: Granbull|203/302|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1772749503
+|-terastallize|p1a: Granbull|Ground
+|move|p2a: Muk|Poison Jab|p1a: Granbull
+|-resisted|p1a: Granbull
+|-damage|p1a: Granbull|168/302
+|move|p1a: Granbull|Earthquake|p2a: Muk
+|-supereffective|p2a: Muk
+|-damage|p2a: Muk|0 fnt
+|faint|p2a: Muk
+|
+|-heal|p1a: Granbull|186/302|[from] item: Leftovers
+|upkeep
+|
+|t:|1772749524
+|switch|p2a: Gastrodon|Gastrodon, L86, M|331/331
+|turn|15
+|
+|t:|1772749550
+|switch|p1a: Phione|Phione, L91|293/293
+|move|p2a: Gastrodon|Surf|p1a: Phione
+|-resisted|p1a: Phione
+|-damage|p1a: Phione|248/293
+|
+|-heal|p1a: Phione|266/293|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1772749574
+|switch|p1a: Grimmsnarl|Grimmsnarl, L83, M|293/293
+|switch|p2a: Brambleghast|Brambleghast, L88, F|240/240
+|
+|upkeep
+|turn|17
+|
+|t:|1772749595
+|move|p2a: Brambleghast|Leech Seed|p1a: Grimmsnarl
+|-start|p1a: Grimmsnarl|move: Leech Seed
+|move|p1a: Grimmsnarl|Spirit Break|p2a: Brambleghast
+|-damage|p2a: Brambleghast|137/240
+|-unboost|p2a: Brambleghast|spa|1
+|
+|-heal|p2a: Brambleghast|152/240|[from] item: Leftovers
+|-damage|p1a: Grimmsnarl|257/293|[from] Leech Seed|[of] p2a: Brambleghast
+|-heal|p2a: Brambleghast|188/240|[silent]
+|upkeep
+|turn|18
+|
+|t:|1772749603
+|move|p1a: Grimmsnarl|Thunder Wave|p2a: Brambleghast
+|-status|p2a: Brambleghast|par
+|cant|p2a: Brambleghast|par
+|
+|-heal|p2a: Brambleghast|203/240 par|[from] item: Leftovers
+|-damage|p1a: Grimmsnarl|221/293|[from] Leech Seed|[of] p2a: Brambleghast
+|-heal|p2a: Brambleghast|239/240 par|[silent]
+|upkeep
+|turn|19
+|
+|t:|1772749614
+|switch|p1a: Granbull|Granbull, L88, F, tera:Ground|186/302
+|-ability|p1a: Granbull|Intimidate|boost
+|-unboost|p2a: Brambleghast|atk|1
+|cant|p2a: Brambleghast|par
+|
+|-heal|p1a: Granbull|204/302|[from] item: Leftovers
+|-heal|p2a: Brambleghast|240/240 par|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1772749621
+|move|p1a: Granbull|Play Rough|p2a: Brambleghast
+|-damage|p2a: Brambleghast|105/240 par
+|move|p2a: Brambleghast|Power Whip|p1a: Granbull
+|-supereffective|p1a: Granbull
+|-damage|p1a: Granbull|0 fnt
+|faint|p1a: Granbull
+|
+|-heal|p2a: Brambleghast|120/240 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1772749634
+|switch|p1a: Noctowl|Noctowl, L95, M|344/344
+|turn|21
+|
+|t:|1772749650
+|switch|p2a: Gastrodon|Gastrodon, L86, M|331/331
+|move|p1a: Noctowl|Hurricane|p2a: Gastrodon|[miss]
+|-miss|p1a: Noctowl|p2a: Gastrodon
+|
+|upkeep
+|turn|22
+|
+|t:|1772749669
+|move|p1a: Noctowl|Calm Mind|p1a: Noctowl
+|-boost|p1a: Noctowl|spa|1
+|-boost|p1a: Noctowl|spd|1
+|move|p2a: Gastrodon|Ice Beam|p1a: Noctowl
+|-supereffective|p1a: Noctowl
+|-damage|p1a: Noctowl|268/344
+|
+|upkeep
+|turn|23
+|
+|t:|1772749679
+|move|p1a: Noctowl|Calm Mind|p1a: Noctowl
+|-boost|p1a: Noctowl|spa|1
+|-boost|p1a: Noctowl|spd|1
+|move|p2a: Gastrodon|Ice Beam|p1a: Noctowl
+|-supereffective|p1a: Noctowl
+|-damage|p1a: Noctowl|210/344
+|-status|p1a: Noctowl|frz
+|
+|upkeep
+|turn|24
+|
+|t:|1772749690
+|switch|p2a: Whimsicott|Whimsicott, L84, F|58/238
+|cant|p1a: Noctowl|frz
+|
+|-heal|p2a: Whimsicott|72/238|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1772749697
+|move|p2a: Whimsicott|Leech Seed|p1a: Noctowl|[miss]
+|-miss|p2a: Whimsicott|p1a: Noctowl
+|cant|p1a: Noctowl|frz
+|
+|-heal|p2a: Whimsicott|86/238|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1772749699
+|move|p2a: Whimsicott|Leech Seed|p1a: Noctowl
+|-start|p1a: Noctowl|move: Leech Seed
+|cant|p1a: Noctowl|frz
+|
+|-heal|p2a: Whimsicott|100/238|[from] item: Leftovers
+|-damage|p1a: Noctowl|167/344 frz|[from] Leech Seed|[of] p2a: Whimsicott
+|-heal|p2a: Whimsicott|143/238|[silent]
+|upkeep
+|turn|27
+|
+|t:|1772749704
+|move|p2a: Whimsicott|Substitute|p2a: Whimsicott
+|-start|p2a: Whimsicott|Substitute
+|-damage|p2a: Whimsicott|84/238
+|cant|p1a: Noctowl|frz
+|
+|-heal|p2a: Whimsicott|98/238|[from] item: Leftovers
+|-damage|p1a: Noctowl|124/344 frz|[from] Leech Seed|[of] p2a: Whimsicott
+|-heal|p2a: Whimsicott|141/238|[silent]
+|upkeep
+|turn|28
+|
+|t:|1772749708
+|move|p2a: Whimsicott|Moonblast|p1a: Noctowl
+|-damage|p1a: Noctowl|85/344 frz
+|-unboost|p1a: Noctowl|spa|1
+|cant|p1a: Noctowl|frz
+|
+|-heal|p2a: Whimsicott|155/238|[from] item: Leftovers
+|-damage|p1a: Noctowl|42/344 frz|[from] Leech Seed|[of] p2a: Whimsicott
+|-heal|p2a: Whimsicott|198/238|[silent]
+|upkeep
+|turn|29
+|c|☆ChrisDaDerp|I'm so sorry
+|-message|luisant17 forfeited.
+|
+|win|ChrisDaDerp
+|raw|luisant17's rating: 1443 &rarr; <strong>1426</strong><br />(-17 for losing)
+|raw|ChrisDaDerp's rating: 1489 &rarr; <strong>1506</strong><br />(+17 for winning)
+|l|☆luisant17
+|player|p1|

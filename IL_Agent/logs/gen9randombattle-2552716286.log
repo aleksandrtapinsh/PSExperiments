@@ -1,0 +1,370 @@
+|j|☆KyrusRonin
+|j|☆kaifaku
+|t:|1772746260
+|gametype|singles
+|player|p1|KyrusRonin|169|1000
+|player|p2|kaifaku|170|1044
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772746260
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ninetales|Ninetales, L85, M|263/263
+|switch|p2a: Ambipom|Ambipom, L84, M|263/263
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|turn|1
+|
+|t:|1772746306
+|move|p2a: Ambipom|Knock Off|p1a: Ninetales
+|-damage|p1a: Ninetales|155/263
+|-enditem|p1a: Ninetales|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Ambipom
+|move|p1a: Ninetales|Scorching Sands|p2a: Ambipom
+|-damage|p2a: Ambipom|205/263
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1772746322
+|move|p2a: Ambipom|Knock Off|p1a: Ninetales
+|-damage|p1a: Ninetales|76/263
+|move|p1a: Ninetales|Solar Beam||[still]
+|-prepare|p1a: Ninetales|Solar Beam
+|-anim|p1a: Ninetales|Solar Beam|p2a: Ambipom
+|-damage|p2a: Ambipom|118/263
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1772746335
+|move|p2a: Ambipom|Knock Off|p1a: Ninetales
+|-damage|p1a: Ninetales|0 fnt
+|faint|p1a: Ninetales
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1772746360
+|switch|p1a: Mightyena|Mightyena, L96, F|290/290
+|-ability|p1a: Mightyena|Intimidate|boost
+|-unboost|p2a: Ambipom|atk|1
+|turn|4
+|
+|t:|1772746370
+|move|p1a: Mightyena|Sucker Punch|p2a: Ambipom
+|-damage|p2a: Ambipom|10/263
+|move|p2a: Ambipom|Knock Off|p1a: Mightyena
+|-resisted|p1a: Mightyena
+|-damage|p1a: Mightyena|255/290
+|-enditem|p1a: Mightyena|Assault Vest|[from] move: Knock Off|[of] p2a: Ambipom
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1772746382
+|move|p2a: Ambipom|Knock Off|p1a: Mightyena
+|-resisted|p1a: Mightyena
+|-damage|p1a: Mightyena|232/290
+|move|p1a: Mightyena|Poison Fang|p2a: Ambipom
+|-damage|p2a: Ambipom|0 fnt
+|faint|p2a: Ambipom
+|
+|-weather|none
+|upkeep
+|
+|t:|1772746403
+|switch|p2a: Dipplin|Dipplin, L88, M|284/284
+|turn|6
+|
+|t:|1772746410
+|move|p1a: Mightyena|Poison Fang|p2a: Dipplin
+|-supereffective|p2a: Dipplin
+|-damage|p2a: Dipplin|240/284
+|move|p2a: Dipplin|Giga Drain|p1a: Mightyena
+|-damage|p1a: Mightyena|129/290
+|-heal|p2a: Dipplin|284/284|[from] drain|[of] p1a: Mightyena
+|
+|upkeep
+|turn|7
+|
+|t:|1772746422
+|move|p1a: Mightyena|Super Fang|p2a: Dipplin
+|-damage|p2a: Dipplin|142/284
+|move|p2a: Dipplin|Dragon Pulse|p1a: Mightyena
+|-damage|p1a: Mightyena|24/290
+|
+|upkeep
+|turn|8
+|
+|t:|1772746430
+|-terastallize|p2a: Dipplin|Steel
+|move|p1a: Mightyena|Poison Fang|p2a: Dipplin
+|-immune|p2a: Dipplin
+|move|p2a: Dipplin|Giga Drain|p1a: Mightyena
+|-damage|p1a: Mightyena|0 fnt
+|-heal|p2a: Dipplin|154/284|[from] drain|[of] p1a: Mightyena
+|faint|p1a: Mightyena
+|
+|upkeep
+|
+|t:|1772746478
+|switch|p1a: Bombirdier|Bombirdier, L85, M|258/258
+|turn|9
+|
+|t:|1772746488
+|move|p1a: Bombirdier|Knock Off|p2a: Dipplin
+|-crit|p2a: Dipplin
+|-damage|p2a: Dipplin|21/284
+|-activate|p2a: Dipplin|ability: Sticky Hold
+|move|p2a: Dipplin|Recover|p2a: Dipplin
+|-heal|p2a: Dipplin|163/284
+|
+|upkeep
+|turn|10
+|
+|t:|1772746503
+|switch|p1a: Necrozma|Necrozma, L80|286/286
+|move|p2a: Dipplin|Dragon Pulse|p1a: Necrozma
+|-damage|p1a: Necrozma|177/286
+|
+|upkeep
+|turn|11
+|
+|t:|1772746512
+|move|p2a: Dipplin|Sucker Punch|p1a: Necrozma
+|-supereffective|p1a: Necrozma
+|-damage|p1a: Necrozma|107/286
+|move|p1a: Necrozma|Earthquake|p2a: Dipplin
+|-supereffective|p2a: Dipplin
+|-damage|p2a: Dipplin|62/284
+|-damage|p1a: Necrozma|79/286|[from] item: Life Orb
+|
+|upkeep
+|turn|12
+|
+|t:|1772746524
+|move|p2a: Dipplin|Sucker Punch|p1a: Necrozma
+|-supereffective|p1a: Necrozma
+|-damage|p1a: Necrozma|15/286
+|move|p1a: Necrozma|Earthquake|p2a: Dipplin
+|-supereffective|p2a: Dipplin
+|-damage|p2a: Dipplin|0 fnt
+|faint|p2a: Dipplin
+|-damage|p1a: Necrozma|0 fnt|[from] item: Life Orb
+|faint|p1a: Necrozma
+|
+|upkeep
+|
+|t:|1772746538
+|switch|p1a: Dedenne|Dedenne, L88, F|261/261
+|switch|p2a: Incineroar|Incineroar, L82, M|290/290
+|-ability|p2a: Incineroar|Intimidate|boost
+|-unboost|p1a: Dedenne|atk|1
+|turn|13
+|
+|t:|1772746574
+|move|p1a: Dedenne|Nuzzle|p2a: Incineroar
+|-damage|p2a: Incineroar|278/290
+|-status|p2a: Incineroar|par
+|move|p2a: Incineroar|Swords Dance|p2a: Incineroar
+|-boost|p2a: Incineroar|atk|2
+|
+|upkeep
+|turn|14
+|
+|t:|1772746585
+|move|p1a: Dedenne|Super Fang|p2a: Incineroar
+|-damage|p2a: Incineroar|139/290 par
+|move|p2a: Incineroar|Flare Blitz|p1a: Dedenne
+|-crit|p1a: Dedenne
+|-damage|p1a: Dedenne|0 fnt
+|faint|p1a: Dedenne
+|-damage|p2a: Incineroar|53/290 par|[from] Recoil
+|
+|upkeep
+|
+|t:|1772746595
+|switch|p1a: Bombirdier|Bombirdier, L85, M|258/258
+|turn|15
+|
+|t:|1772746602
+|move|p1a: Bombirdier|U-turn|p2a: Incineroar
+|-damage|p2a: Incineroar|0 fnt
+|faint|p2a: Incineroar
+|
+|t:|1772746606
+|switch|p1a: Fezandipiti|Fezandipiti, L82, M|278/278|[from] U-turn
+|
+|upkeep
+|
+|t:|1772746612
+|switch|p2a: Pecharunt|Pecharunt, L77|262/262
+|turn|16
+|
+|t:|1772746650
+|move|p1a: Fezandipiti|Beat Up|p2a: Pecharunt
+|-supereffective|p2a: Pecharunt
+|-damage|p2a: Pecharunt|248/262
+|-supereffective|p2a: Pecharunt
+|-damage|p2a: Pecharunt|234/262
+|-hitcount|p2a: Pecharunt|2
+|move|p2a: Pecharunt|Shadow Ball|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|244/278
+|
+|-heal|p2a: Pecharunt|250/262|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1772746684
+|move|p1a: Fezandipiti|Beat Up|p2a: Pecharunt
+|-supereffective|p2a: Pecharunt
+|-damage|p2a: Pecharunt|236/262
+|-supereffective|p2a: Pecharunt
+|-damage|p2a: Pecharunt|222/262
+|-hitcount|p2a: Pecharunt|2
+|move|p2a: Pecharunt|Malignant Chain|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|201/278
+|
+|-heal|p2a: Pecharunt|238/262|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1772746703
+|switch|p2a: Toxtricity|Toxtricity, L82, F|257/257
+|-terastallize|p1a: Fezandipiti|Dark
+|move|p1a: Fezandipiti|Beat Up|p2a: Toxtricity
+|-damage|p2a: Toxtricity|241/257
+|-damage|p2a: Toxtricity|222/257
+|-hitcount|p2a: Toxtricity|2
+|
+|upkeep
+|turn|19
+|
+|t:|1772746723
+|move|p2a: Toxtricity|Boomburst|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|131/278
+|move|p1a: Fezandipiti|U-turn|p2a: Toxtricity
+|-resisted|p2a: Toxtricity
+|-damage|p2a: Toxtricity|197/257
+|
+|t:|1772746730
+|switch|p1a: Bombirdier|Bombirdier, L85, M|258/258|[from] U-turn
+|
+|upkeep
+|turn|20
+|
+|t:|1772746739
+|switch|p2a: Cresselia|Cresselia, L80, F|323/323
+|move|p1a: Bombirdier|Stone Edge|p2a: Cresselia
+|-damage|p2a: Cresselia|178/323
+|
+|-heal|p2a: Cresselia|198/323|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1772746753
+|switch|p1a: Fezandipiti|Fezandipiti, L82, M, tera:Dark|131/278
+|move|p2a: Cresselia|Moonblast|p1a: Fezandipiti
+|-supereffective|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|79/278
+|-unboost|p1a: Fezandipiti|spa|1
+|
+|-heal|p2a: Cresselia|218/323|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1772746764
+|move|p1a: Fezandipiti|Beat Up|p2a: Cresselia
+|-supereffective|p2a: Cresselia
+|-damage|p2a: Cresselia|192/323
+|-supereffective|p2a: Cresselia
+|-damage|p2a: Cresselia|166/323
+|-hitcount|p2a: Cresselia|2
+|move|p2a: Cresselia|Moonblast|p1a: Fezandipiti
+|-supereffective|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|23/278
+|
+|-heal|p2a: Cresselia|186/323|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1772746775
+|move|p1a: Fezandipiti|Gunk Shot|p2a: Cresselia|[miss]
+|-miss|p1a: Fezandipiti|p2a: Cresselia
+|move|p2a: Cresselia|Calm Mind|p2a: Cresselia
+|-boost|p2a: Cresselia|spa|1
+|-boost|p2a: Cresselia|spd|1
+|
+|-heal|p2a: Cresselia|206/323|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1772746784
+|move|p1a: Fezandipiti|Gunk Shot|p2a: Cresselia
+|-damage|p2a: Cresselia|104/323
+|move|p2a: Cresselia|Moonblast|p1a: Fezandipiti
+|-supereffective|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|0 fnt
+|faint|p1a: Fezandipiti
+|
+|-heal|p2a: Cresselia|124/323|[from] item: Leftovers
+|upkeep
+|
+|t:|1772746795
+|switch|p1a: Bombirdier|Bombirdier, L85, M|258/258
+|turn|25
+|
+|t:|1772746799
+|move|p1a: Bombirdier|Knock Off|p2a: Cresselia
+|-supereffective|p2a: Cresselia
+|-damage|p2a: Cresselia|0 fnt
+|-enditem|p2a: Cresselia|Leftovers|[from] move: Knock Off|[of] p1a: Bombirdier
+|faint|p2a: Cresselia
+|
+|upkeep
+|
+|t:|1772746806
+|switch|p2a: Toxtricity|Toxtricity, L82, F|197/257
+|turn|26
+|
+|t:|1772746810
+|move|p2a: Toxtricity|Overdrive|p1a: Bombirdier
+|-supereffective|p1a: Bombirdier
+|-damage|p1a: Bombirdier|10/258
+|move|p1a: Bombirdier|Knock Off|p2a: Toxtricity
+|-damage|p2a: Toxtricity|10/257
+|-enditem|p2a: Toxtricity|Choice Scarf|[from] move: Knock Off|[of] p1a: Bombirdier
+|
+|upkeep
+|turn|27
+|
+|t:|1772746820
+|move|p1a: Bombirdier|Knock Off|p2a: Toxtricity
+|-damage|p2a: Toxtricity|0 fnt
+|faint|p2a: Toxtricity
+|
+|upkeep
+|
+|t:|1772746825
+|switch|p2a: Pecharunt|Pecharunt, L77|238/262
+|turn|28
+|
+|t:|1772746835
+|move|p1a: Bombirdier|Knock Off|p2a: Pecharunt
+|-supereffective|p2a: Pecharunt
+|-damage|p2a: Pecharunt|0 fnt
+|-enditem|p2a: Pecharunt|Leftovers|[from] move: Knock Off|[of] p1a: Bombirdier
+|faint|p2a: Pecharunt
+|
+|win|KyrusRonin
+|raw|KyrusRonin's rating: 1000 &rarr; <strong>1045</strong><br />(+45 for winning)
+|raw|kaifaku's rating: 1044 &rarr; <strong>1025</strong><br />(-19 for losing)

@@ -1,0 +1,508 @@
+|badge|p1|bronze|gen9randombattle|100-8
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/">thread on Smogon.</a></div>
+|j|☆Krimblutar
+|j|☆roadto80gxe
+|t:|1772752036
+|gametype|singles
+|player|p1|Krimblutar|266|2267
+|player|p2|roadto80gxe|guzma|2216
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772752036
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Regirock|Regirock, L83|268/268
+|switch|p2a: Carbink|Carbink, L90|236/236
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Krimblutar)
+|
+|t:|1772752058
+|move|p2a: Carbink|Moonblast|p1a: Regirock
+|-damage|p1a: Regirock|198/268
+|move|p1a: Regirock|Thunder Wave|p2a: Carbink
+|-status|p2a: Carbink|par
+|
+|-heal|p1a: Regirock|214/268|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1772752065
+|move|p1a: Regirock|Stealth Rock|p2a: Carbink
+|-sidestart|p2: roadto80gxe|move: Stealth Rock
+|move|p2a: Carbink|Body Press|p1a: Regirock
+|-supereffective|p1a: Regirock
+|-damage|p1a: Regirock|120/268
+|
+|-heal|p1a: Regirock|136/268|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1772752072
+|switch|p1a: Alomomola|Alomomola, L87, M|429/429
+|move|p2a: Carbink|Iron Defense|p2a: Carbink
+|-boost|p2a: Carbink|def|2
+|
+|upkeep
+|turn|4
+|
+|t:|1772752080
+|move|p1a: Alomomola|Scald|p2a: Carbink
+|-supereffective|p2a: Carbink
+|-damage|p2a: Carbink|176/236 par
+|move|p2a: Carbink|Body Press|p1a: Alomomola
+|-damage|p1a: Alomomola|228/429
+|
+|-heal|p1a: Alomomola|254/429|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1772752088
+|move|p1a: Alomomola|Flip Turn|p2a: Carbink
+|-supereffective|p2a: Carbink
+|-damage|p2a: Carbink|138/236 par
+|
+|t:|1772752090
+|switch|p1a: Hydrapple|Hydrapple, L83, M|312/312|[from] Flip Turn
+|move|p2a: Carbink|Iron Defense|p2a: Carbink
+|-boost|p2a: Carbink|def|2
+|
+|upkeep
+|turn|6
+|
+|t:|1772752107
+|switch|p2a: Lurantis|Lurantis, L87, M|264/264
+|-damage|p2a: Lurantis|231/264|[from] Stealth Rock
+|move|p1a: Hydrapple|Leaf Storm|p2a: Lurantis
+|-resisted|p2a: Lurantis
+|-damage|p2a: Lurantis|159/264
+|-unboost|p1a: Hydrapple|spa|2
+|
+|upkeep
+|turn|7
+|
+|t:|1772752120
+|switch|p1a: Thundurus|Thundurus, L80, M|258/258
+|move|p2a: Lurantis|Superpower|p1a: Thundurus
+|-resisted|p1a: Thundurus
+|-damage|p1a: Thundurus|194/258
+|-boost|p2a: Lurantis|atk|1
+|-boost|p2a: Lurantis|def|1
+|
+|upkeep
+|turn|8
+|inactive|Krimblutar has 120 seconds left.
+|
+|t:|1772752157
+|move|p1a: Thundurus|Acrobatics|p2a: Lurantis
+|-supereffective|p2a: Lurantis
+|-damage|p2a: Lurantis|15/264
+|move|p2a: Lurantis|Knock Off|p1a: Thundurus
+|-damage|p1a: Thundurus|104/258
+|
+|upkeep
+|turn|9
+|
+|t:|1772752170
+|move|p1a: Thundurus|Thunderbolt|p2a: Lurantis
+|-resisted|p2a: Lurantis
+|-damage|p2a: Lurantis|0 fnt
+|faint|p2a: Lurantis
+|
+|upkeep
+|
+|t:|1772752183
+|switch|p2a: Whimsicott|Whimsicott, L84, F|238/238
+|-damage|p2a: Whimsicott|209/238|[from] Stealth Rock
+|turn|10
+|
+|t:|1772752194
+|switch|p1a: Registeel|Registeel, L81|262/262
+|move|p2a: Whimsicott|Moonblast|p1a: Registeel
+|-resisted|p1a: Registeel
+|-damage|p1a: Registeel|231/262
+|
+|-heal|p2a: Whimsicott|223/238|[from] item: Leftovers
+|-heal|p1a: Registeel|247/262|[from] item: Leftovers
+|upkeep
+|turn|11
+|inactive|roadto80gxe has 120 seconds left.
+|
+|t:|1772752222
+|switch|p2a: Mew|Mew, L82|298/298
+|-damage|p2a: Mew|261/298|[from] Stealth Rock
+|move|p1a: Registeel|Iron Head|p2a: Mew
+|-damage|p2a: Mew|200/298
+|
+|-heal|p1a: Registeel|262/262|[from] item: Leftovers
+|upkeep
+|turn|12
+|inactive|roadto80gxe has 120 seconds left.
+|
+|t:|1772752239
+|move|p2a: Mew|Nasty Plot|p2a: Mew
+|-boost|p2a: Mew|spa|2
+|move|p1a: Registeel|Thunder Wave|p2a: Mew
+|-status|p2a: Mew|par
+|-activate|p2a: Mew|ability: Synchronize
+|-status|p1a: Registeel|par
+|
+|upkeep
+|turn|13
+|inactive|roadto80gxe has 120 seconds left.
+|
+|t:|1772752249
+|switch|p1a: Hydrapple|Hydrapple, L83, M|312/312
+|move|p2a: Mew|Psyshock|p1a: Hydrapple
+|-damage|p1a: Hydrapple|120/312
+|-damage|p2a: Mew|171/298 par|[from] item: Life Orb
+|
+|upkeep
+|turn|14
+|inactive|roadto80gxe has 120 seconds left.
+|
+|t:|1772752257
+|move|p1a: Hydrapple|Leaf Storm|p2a: Mew
+|-damage|p2a: Mew|0 fnt
+|-unboost|p1a: Hydrapple|spa|2
+|faint|p2a: Mew
+|
+|upkeep
+|inactive|roadto80gxe has 120 seconds left.
+|
+|t:|1772752281
+|switch|p2a: Carbink|Carbink, L90|138/236 par
+|-damage|p2a: Carbink|109/236 par|[from] Stealth Rock
+|turn|15
+|
+|t:|1772752287
+|switch|p1a: Thundurus|Thundurus, L80, M|104/258
+|move|p2a: Carbink|Rest|p2a: Carbink
+|-status|p2a: Carbink|slp|[from] move: Rest
+|-heal|p2a: Carbink|236/236 slp|[silent]
+|-enditem|p2a: Carbink|Chesto Berry|[eat]
+|-curestatus|p2a: Carbink|slp|[msg]
+|
+|upkeep
+|turn|16
+|
+|t:|1772752298
+|move|p1a: Thundurus|Thunderbolt|p2a: Carbink
+|-damage|p2a: Carbink|169/236
+|move|p2a: Carbink|Iron Defense|p2a: Carbink
+|-boost|p2a: Carbink|def|2
+|
+|upkeep
+|turn|17
+|
+|t:|1772752305
+|move|p1a: Thundurus|Thunderbolt|p2a: Carbink
+|-damage|p2a: Carbink|106/236
+|move|p2a: Carbink|Body Press|p1a: Thundurus
+|-resisted|p1a: Thundurus
+|-damage|p1a: Thundurus|0 fnt
+|faint|p1a: Thundurus
+|
+|upkeep
+|
+|t:|1772752314
+|switch|p1a: Hydrapple|Hydrapple, L83, M|224/312
+|turn|18
+|inactive|roadto80gxe has 120 seconds left.
+|
+|t:|1772752333
+|move|p2a: Carbink|Body Press|p1a: Hydrapple
+|-damage|p1a: Hydrapple|65/312
+|move|p1a: Hydrapple|Leaf Storm|p2a: Carbink
+|-supereffective|p2a: Carbink
+|-damage|p2a: Carbink|0 fnt
+|-unboost|p1a: Hydrapple|spa|2
+|faint|p2a: Carbink
+|
+|upkeep
+|
+|t:|1772752342
+|switch|p2a: Misdreavus|Misdreavus, L90, M|254/254
+|-damage|p2a: Misdreavus|223/254|[from] Stealth Rock
+|turn|19
+|inactive|roadto80gxe has 120 seconds left.
+|
+|t:|1772752354
+|switch|p1a: Alomomola|Alomomola, L87, M|397/429
+|move|p2a: Misdreavus|Calm Mind|p2a: Misdreavus
+|-boost|p2a: Misdreavus|spa|1
+|-boost|p2a: Misdreavus|spd|1
+|
+|-heal|p1a: Alomomola|423/429|[from] item: Leftovers
+|upkeep
+|turn|20
+|inactive|roadto80gxe has 120 seconds left.
+|
+|t:|1772752362
+|move|p2a: Misdreavus|Calm Mind|p2a: Misdreavus
+|-boost|p2a: Misdreavus|spa|1
+|-boost|p2a: Misdreavus|spd|1
+|move|p1a: Alomomola|Flip Turn|p2a: Misdreavus
+|-damage|p2a: Misdreavus|178/254
+|
+|t:|1772752380
+|switch|p1a: Regirock|Regirock, L83|136/268|[from] Flip Turn
+|
+|-heal|p1a: Regirock|152/268|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1772752391
+|move|p2a: Misdreavus|Shadow Ball|p1a: Regirock
+|-damage|p1a: Regirock|0 fnt
+|faint|p1a: Regirock
+|
+|upkeep
+|
+|t:|1772752411
+|switch|p1a: Registeel|Registeel, L81|262/262 par
+|turn|22
+|
+|t:|1772752417
+|move|p2a: Misdreavus|Shadow Ball|p1a: Registeel
+|-damage|p1a: Registeel|148/262 par
+|move|p1a: Registeel|Thunder Wave|p2a: Misdreavus
+|-status|p2a: Misdreavus|par
+|
+|-heal|p1a: Registeel|164/262 par|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1772752433
+|switch|p1a: Hydrapple|Hydrapple, L83, M|169/312
+|cant|p2a: Misdreavus|par
+|
+|upkeep
+|turn|24
+|
+|t:|1772752440
+|switch|p1a: Alomomola|Alomomola, L87, M|429/429
+|move|p2a: Misdreavus|Shadow Ball|p1a: Alomomola
+|-damage|p1a: Alomomola|176/429
+|-unboost|p1a: Alomomola|spd|1
+|
+|-heal|p1a: Alomomola|202/429|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1772752450
+|move|p1a: Alomomola|Flip Turn|p2a: Misdreavus
+|-damage|p2a: Misdreavus|136/254 par
+|
+|t:|1772752465
+|switch|p1a: Hydrapple|Hydrapple, L83, M|273/312|[from] Flip Turn
+|move|p2a: Misdreavus|Draining Kiss|p1a: Hydrapple
+|-supereffective|p1a: Hydrapple
+|-damage|p1a: Hydrapple|113/312
+|-heal|p2a: Misdreavus|254/254 par|[from] drain|[of] p1a: Hydrapple
+|
+|upkeep
+|turn|26
+|
+|t:|1772752475
+|move|p1a: Hydrapple|Leaf Storm|p2a: Misdreavus
+|-damage|p2a: Misdreavus|172/254 par
+|-unboost|p1a: Hydrapple|spa|2
+|move|p2a: Misdreavus|Shadow Ball|p1a: Hydrapple
+|-damage|p1a: Hydrapple|0 fnt
+|faint|p1a: Hydrapple
+|
+|upkeep
+|
+|t:|1772752482
+|switch|p1a: Wugtrio|Wugtrio, L91, M|212/212
+|turn|27
+|inactive|roadto80gxe has 120 seconds left.
+|
+|t:|1772752513
+|-terastallize|p2a: Misdreavus|Fairy
+|move|p1a: Wugtrio|Liquidation|p2a: Misdreavus
+|-damage|p2a: Misdreavus|39/254 par
+|cant|p2a: Misdreavus|par
+|
+|upkeep
+|turn|28
+|inactive|roadto80gxe has 120 seconds left.
+|c|☆roadto80gxe|frustrating
+|
+|t:|1772752533
+|move|p1a: Wugtrio|Liquidation|p2a: Misdreavus
+|-damage|p2a: Misdreavus|0 fnt
+|faint|p2a: Misdreavus
+|
+|upkeep
+|
+|t:|1772752540
+|switch|p2a: Whimsicott|Whimsicott, L84, F|223/238
+|-damage|p2a: Whimsicott|194/238|[from] Stealth Rock
+|turn|29
+|
+|t:|1772752549
+|switch|p1a: Alomomola|Alomomola, L87, M|345/429
+|switch|p2a: Tauros|Tauros-Paldea-Blaze, L81, M|254/254
+|-damage|p2a: Tauros|223/254|[from] Stealth Rock
+|-ability|p2a: Tauros|Intimidate|boost
+|-unboost|p1a: Alomomola|atk|1
+|
+|-heal|p1a: Alomomola|371/429|[from] item: Leftovers
+|upkeep
+|turn|30
+|inactive|roadto80gxe has 120 seconds left.
+|inactive|roadto80gxe has 90 seconds left.
+|
+|t:|1772752596
+|switch|p2a: Whimsicott|Whimsicott, L84, F|194/238
+|-damage|p2a: Whimsicott|165/238|[from] Stealth Rock
+|move|p1a: Alomomola|Flip Turn|p2a: Whimsicott
+|-resisted|p2a: Whimsicott
+|-damage|p2a: Whimsicott|145/238
+|
+|t:|1772752602
+|switch|p1a: Registeel|Registeel, L81|164/262 par|[from] Flip Turn
+|
+|-heal|p2a: Whimsicott|159/238|[from] item: Leftovers
+|-heal|p1a: Registeel|180/262 par|[from] item: Leftovers
+|upkeep
+|turn|31
+|inactive|roadto80gxe has 90 seconds left.
+|
+|t:|1772752611
+|move|p2a: Whimsicott|Giga Drain|p1a: Registeel
+|-resisted|p1a: Registeel
+|-damage|p1a: Registeel|159/262 par
+|-heal|p2a: Whimsicott|170/238|[from] drain|[of] p1a: Registeel
+|cant|p1a: Registeel|par
+|
+|-heal|p2a: Whimsicott|184/238|[from] item: Leftovers
+|-heal|p1a: Registeel|175/262 par|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1772752621
+|switch|p2a: Tauros|Tauros-Paldea-Blaze, L81, M|223/254
+|-damage|p2a: Tauros|192/254|[from] Stealth Rock
+|-ability|p2a: Tauros|Intimidate|boost
+|-fail|p1a: Registeel|unboost|[from] ability: Clear Body|[of] p1a: Registeel
+|move|p1a: Registeel|Iron Head|p2a: Tauros
+|-resisted|p2a: Tauros
+|-damage|p2a: Tauros|162/254
+|
+|-heal|p1a: Registeel|191/262 par|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1772752632
+|switch|p1a: Alomomola|Alomomola, L87, M|429/429
+|move|p2a: Tauros|Close Combat|p1a: Alomomola
+|-damage|p1a: Alomomola|236/429
+|-unboost|p2a: Tauros|def|1
+|-unboost|p2a: Tauros|spd|1
+|
+|-heal|p1a: Alomomola|262/429|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1772752642
+|switch|p2a: Whimsicott|Whimsicott, L84, F|184/238
+|-damage|p2a: Whimsicott|155/238|[from] Stealth Rock
+|move|p1a: Alomomola|Flip Turn|p2a: Whimsicott
+|-resisted|p2a: Whimsicott
+|-damage|p2a: Whimsicott|128/238
+|
+|t:|1772752644
+|switch|p1a: Registeel|Registeel, L81|191/262 par|[from] Flip Turn
+|
+|-heal|p2a: Whimsicott|142/238|[from] item: Leftovers
+|-heal|p1a: Registeel|207/262 par|[from] item: Leftovers
+|upkeep
+|turn|35
+|c|☆roadto80gxe|ugh the rnjesus got me
+|
+|t:|1772752659
+|switch|p2a: Tauros|Tauros-Paldea-Blaze, L81, M|162/254
+|-damage|p2a: Tauros|131/254|[from] Stealth Rock
+|-ability|p2a: Tauros|Intimidate|boost
+|-fail|p1a: Registeel|unboost|[from] ability: Clear Body|[of] p1a: Registeel
+|move|p1a: Registeel|Iron Head|p2a: Tauros
+|-resisted|p2a: Tauros
+|-damage|p2a: Tauros|98/254
+|
+|-heal|p1a: Registeel|223/262 par|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1772752669
+|switch|p1a: Alomomola|Alomomola, L87, M|405/429
+|move|p2a: Tauros|Close Combat|p1a: Alomomola
+|-damage|p1a: Alomomola|197/429
+|-unboost|p2a: Tauros|def|1
+|-unboost|p2a: Tauros|spd|1
+|
+|-heal|p1a: Alomomola|223/429|[from] item: Leftovers
+|upkeep
+|turn|37
+|
+|t:|1772752678
+|switch|p2a: Whimsicott|Whimsicott, L84, F|142/238
+|-damage|p2a: Whimsicott|113/238|[from] Stealth Rock
+|move|p1a: Alomomola|Protect||[still]
+|-fail|p1a: Alomomola
+|
+|-heal|p2a: Whimsicott|127/238|[from] item: Leftovers
+|-heal|p1a: Alomomola|249/429|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|t:|1772752686
+|move|p1a: Alomomola|Protect|p1a: Alomomola
+|-singleturn|p1a: Alomomola|Protect
+|move|p2a: Whimsicott|Encore|p1a: Alomomola
+|-activate|p1a: Alomomola|move: Protect
+|
+|-heal|p2a: Whimsicott|141/238|[from] item: Leftovers
+|-heal|p1a: Alomomola|275/429|[from] item: Leftovers
+|upkeep
+|turn|39
+|
+|t:|1772752695
+|switch|p2a: Tauros|Tauros-Paldea-Blaze, L81, M|98/254
+|-damage|p2a: Tauros|67/254|[from] Stealth Rock
+|-ability|p2a: Tauros|Intimidate|boost
+|-unboost|p1a: Alomomola|atk|1
+|switch|p1a: Registeel|Registeel, L81|223/262 par
+|
+|-heal|p1a: Registeel|239/262 par|[from] item: Leftovers
+|upkeep
+|turn|40
+|inactive|roadto80gxe has 120 seconds left.
+|
+|t:|1772752705
+|switch|p1a: Alomomola|Alomomola, L87, M|418/429
+|move|p2a: Tauros|Close Combat|p1a: Alomomola
+|-damage|p1a: Alomomola|229/429
+|-unboost|p2a: Tauros|def|1
+|-unboost|p2a: Tauros|spd|1
+|
+|-heal|p1a: Alomomola|255/429|[from] item: Leftovers
+|upkeep
+|turn|41
+|inactive|roadto80gxe has 120 seconds left.
+|c|☆roadto80gxe|yeah you got lucky but closed it well
+|-message|roadto80gxe forfeited.
+|
+|win|Krimblutar
+|raw|Krimblutar's rating: 2249 &rarr; <strong>2267</strong><br />(+18 for winning)
+|raw|roadto80gxe's rating: 2216 &rarr; <strong>2198</strong><br />(-18 for losing)
+|l|☆roadto80gxe
+|player|p2|

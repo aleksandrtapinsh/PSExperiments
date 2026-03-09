@@ -1,0 +1,336 @@
+|j|☆Jsjsjsjsjdjd
+|j|☆chiefbiznas
+|t:|1772743982
+|gametype|singles
+|player|p1|Jsjsjsjsjdjd|adaman|1237
+|player|p2|chiefbiznas|102|1210
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772743982
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Barraskewda|Barraskewda, L81, M|231/231
+|switch|p2a: Cyclizar|Cyclizar, L83, F|252/252
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Jsjsjsjsjdjd)
+|
+|t:|1772743992
+|move|p1a: Barraskewda|Close Combat|p2a: Cyclizar
+|-supereffective|p2a: Cyclizar
+|-damage|p2a: Cyclizar|0 fnt
+|-unboost|p1a: Barraskewda|def|1
+|-unboost|p1a: Barraskewda|spd|1
+|faint|p2a: Cyclizar
+|
+|upkeep
+|
+|t:|1772743996
+|switch|p2a: Skeledirge|Skeledirge, L79, M|294/294
+|turn|2
+|
+|t:|1772744016
+|switch|p1a: Gyarados|Gyarados, L79, F|280/280
+|move|p2a: Skeledirge|Torch Song|p1a: Gyarados
+|-resisted|p1a: Gyarados
+|-damage|p1a: Gyarados|244/280
+|-boost|p2a: Skeledirge|spa|1
+|
+|upkeep
+|turn|3
+|
+|t:|1772744023
+|move|p1a: Gyarados|Waterfall|p2a: Skeledirge
+|-supereffective|p2a: Skeledirge
+|-damage|p2a: Skeledirge|118/294
+|move|p2a: Skeledirge|Will-O-Wisp|p1a: Gyarados
+|-status|p1a: Gyarados|brn
+|
+|-damage|p1a: Gyarados|227/280 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1772744031
+|switch|p1a: Chandelure|Chandelure, L83, F|235/235
+|switch|p2a: Victreebel|Victreebel, L90, F|290/290
+|
+|upkeep
+|turn|5
+|
+|t:|1772744037
+|move|p1a: Chandelure|Trick|p2a: Victreebel
+|-activate|p1a: Chandelure|move: Trick|[of] p2a: Victreebel
+|-item|p2a: Victreebel|Choice Scarf|[from] move: Trick
+|-item|p1a: Chandelure|Life Orb|[from] move: Trick
+|move|p2a: Victreebel|Knock Off|p1a: Chandelure
+|-supereffective|p1a: Chandelure
+|-damage|p1a: Chandelure|75/235
+|-enditem|p1a: Chandelure|Life Orb|[from] move: Knock Off|[of] p2a: Victreebel
+|
+|upkeep
+|turn|6
+|
+|t:|1772744056
+|switch|p1a: Gyarados|Gyarados, L79, F|227/280 brn
+|move|p2a: Victreebel|Knock Off|p1a: Gyarados
+|-damage|p1a: Gyarados|123/280 brn
+|-enditem|p1a: Gyarados|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Victreebel
+|
+|-damage|p1a: Gyarados|106/280 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1772744065
+|move|p2a: Victreebel|Knock Off|p1a: Gyarados
+|-damage|p1a: Gyarados|35/280 brn
+|move|p1a: Gyarados|Earthquake|p2a: Victreebel
+|-damage|p2a: Victreebel|242/290
+|
+|-damage|p1a: Gyarados|18/280 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1772744070
+|move|p2a: Victreebel|Knock Off|p1a: Gyarados
+|-damage|p1a: Gyarados|0 fnt
+|faint|p1a: Gyarados
+|
+|upkeep
+|
+|t:|1772744073
+|switch|p1a: Magnezone|Magnezone, L85|258/258
+|turn|9
+|
+|t:|1772744080
+|move|p2a: Victreebel|Knock Off|p1a: Magnezone
+|-damage|p1a: Magnezone|187/258
+|-enditem|p1a: Magnezone|Leftovers|[from] move: Knock Off|[of] p2a: Victreebel
+|move|p1a: Magnezone|Flash Cannon|p2a: Victreebel
+|-damage|p2a: Victreebel|79/290
+|
+|upkeep
+|turn|10
+|
+|t:|1772744089
+|move|p2a: Victreebel|Knock Off|p1a: Magnezone
+|-damage|p1a: Magnezone|139/258
+|move|p1a: Magnezone|Flash Cannon|p2a: Victreebel
+|-damage|p2a: Victreebel|0 fnt
+|faint|p2a: Victreebel
+|
+|upkeep
+|
+|t:|1772744092
+|switch|p2a: Skeledirge|Skeledirge, L79, M|118/294
+|turn|11
+|
+|t:|1772744096
+|move|p1a: Magnezone|Thunderbolt|p2a: Skeledirge
+|-damage|p2a: Skeledirge|0 fnt
+|faint|p2a: Skeledirge
+|
+|upkeep
+|
+|t:|1772744105
+|switch|p2a: Appletun|Appletun, L92, M|352/352
+|turn|12
+|
+|t:|1772744112
+|move|p1a: Magnezone|Flash Cannon|p2a: Appletun
+|-damage|p2a: Appletun|235/352
+|move|p2a: Appletun|Apple Acid|p1a: Magnezone
+|-resisted|p1a: Magnezone
+|-damage|p1a: Magnezone|91/258
+|-unboost|p1a: Magnezone|spd|1
+|
+|-heal|p2a: Appletun|257/352|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1772744116
+|move|p1a: Magnezone|Flash Cannon|p2a: Appletun
+|-damage|p2a: Appletun|154/352
+|move|p2a: Appletun|Apple Acid|p1a: Magnezone
+|-resisted|p1a: Magnezone
+|-damage|p1a: Magnezone|16/258
+|-unboost|p1a: Magnezone|spd|1
+|
+|-heal|p2a: Appletun|176/352|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1772744119
+|move|p1a: Magnezone|Flash Cannon|p2a: Appletun
+|-damage|p2a: Appletun|71/352
+|move|p2a: Appletun|Recover|p2a: Appletun
+|-heal|p2a: Appletun|247/352
+|
+|-heal|p2a: Appletun|269/352|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1772744122
+|move|p1a: Magnezone|Flash Cannon|p2a: Appletun
+|-damage|p2a: Appletun|160/352
+|move|p2a: Appletun|Recover|p2a: Appletun
+|-heal|p2a: Appletun|336/352
+|
+|-heal|p2a: Appletun|352/352|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1772744125
+|move|p1a: Magnezone|Flash Cannon|p2a: Appletun
+|-damage|p2a: Appletun|252/352
+|move|p2a: Appletun|Apple Acid|p1a: Magnezone
+|-resisted|p1a: Magnezone
+|-damage|p1a: Magnezone|0 fnt
+|faint|p1a: Magnezone
+|
+|-heal|p2a: Appletun|274/352|[from] item: Leftovers
+|upkeep
+|
+|t:|1772744128
+|switch|p1a: Uxie|Uxie, L83|260/260
+|turn|17
+|
+|t:|1772744133
+|move|p1a: Uxie|Knock Off|p2a: Appletun
+|-damage|p2a: Appletun|215/352
+|-enditem|p2a: Appletun|Leftovers|[from] move: Knock Off|[of] p1a: Uxie
+|move|p2a: Appletun|Apple Acid|p1a: Uxie
+|-damage|p1a: Uxie|182/260
+|-unboost|p1a: Uxie|spd|1
+|
+|-heal|p1a: Uxie|198/260|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1772744139
+|move|p1a: Uxie|Yawn|p2a: Appletun
+|-start|p2a: Appletun|move: Yawn|[of] p1a: Uxie
+|move|p2a: Appletun|Apple Acid|p1a: Uxie
+|-damage|p1a: Uxie|77/260
+|-unboost|p1a: Uxie|spd|1
+|
+|-heal|p1a: Uxie|93/260|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1772744143
+|move|p1a: Uxie|Psychic Noise|p2a: Appletun
+|-damage|p2a: Appletun|157/352
+|-start|p2a: Appletun|move: Heal Block
+|move|p2a: Appletun|Apple Acid|p1a: Uxie
+|-damage|p1a: Uxie|0 fnt
+|faint|p1a: Uxie
+|
+|-end|p2a: Appletun|move: Yawn|[silent]
+|-status|p2a: Appletun|slp
+|upkeep
+|
+|t:|1772744153
+|switch|p1a: Latios|Latios, L78, M|253/253
+|turn|20
+|
+|t:|1772744166
+|move|p1a: Latios|Luster Purge|p2a: Appletun
+|-damage|p2a: Appletun|30/352 slp
+|-unboost|p2a: Appletun|spd|1
+|cant|p2a: Appletun|slp
+|
+|-end|p2a: Appletun|move: Heal Block
+|upkeep
+|turn|21
+|
+|t:|1772744169
+|move|p1a: Latios|Luster Purge|p2a: Appletun
+|-damage|p2a: Appletun|0 fnt
+|faint|p2a: Appletun
+|
+|upkeep
+|
+|t:|1772744174
+|switch|p2a: Spectrier|Spectrier, L75|274/274
+|turn|22
+|
+|t:|1772744185
+|-terastallize|p2a: Spectrier|Dark
+|move|p2a: Spectrier|Nasty Plot|p2a: Spectrier
+|-boost|p2a: Spectrier|spa|2
+|move|p1a: Latios|Luster Purge|p2a: Spectrier
+|-immune|p2a: Spectrier
+|
+|upkeep
+|turn|23
+|inactive|chiefbiznas has 120 seconds left.
+|
+|t:|1772744218
+|switch|p1a: Chandelure|Chandelure, L83, F|75/235
+|move|p2a: Spectrier|Shadow Ball|p1a: Chandelure
+|-supereffective|p1a: Chandelure
+|-damage|p1a: Chandelure|0 fnt
+|faint|p1a: Chandelure
+|-ability|p2a: Spectrier|Grim Neigh|boost
+|-boost|p2a: Spectrier|spa|1
+|
+|upkeep
+|
+|t:|1772744224
+|switch|p1a: Barraskewda|Barraskewda, L81, M|231/231
+|turn|24
+|
+|t:|1772744227
+|move|p1a: Barraskewda|Close Combat|p2a: Spectrier
+|-supereffective|p2a: Spectrier
+|-damage|p2a: Spectrier|0 fnt
+|-unboost|p1a: Barraskewda|def|1
+|-unboost|p1a: Barraskewda|spd|1
+|faint|p2a: Spectrier
+|
+|upkeep
+|
+|t:|1772744229
+|switch|p2a: Meloetta|Meloetta, L82|298/298
+|turn|25
+|
+|t:|1772744237
+|-terastallize|p1a: Barraskewda|Fighting
+|move|p1a: Barraskewda|Close Combat|p2a: Meloetta
+|-damage|p2a: Meloetta|58/298
+|-unboost|p1a: Barraskewda|def|1
+|-unboost|p1a: Barraskewda|spd|1
+|move|p2a: Meloetta|Relic Song|p1a: Barraskewda
+|-damage|p1a: Barraskewda|0 fnt
+|faint|p1a: Barraskewda
+|-formechange|p2a: Meloetta|Meloetta-Pirouette|[msg]
+|-damage|p2a: Meloetta|29/298|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772744246
+|switch|p1a: Latios|Latios, L78, M|253/253
+|turn|26
+|
+|t:|1772744251
+|move|p2a: Meloetta|Triple Axel|p1a: Latios
+|-supereffective|p1a: Latios
+|-damage|p1a: Latios|198/253
+|-supereffective|p1a: Latios
+|-damage|p1a: Latios|91/253
+|-hitcount|p1a: Latios|2
+|-damage|p2a: Meloetta|0 fnt|[from] item: Life Orb
+|faint|p2a: Meloetta
+|
+|win|Jsjsjsjsjdjd
+|raw|Jsjsjsjsjdjd's rating: 1237 &rarr; <strong>1260</strong><br />(+23 for winning)
+|raw|chiefbiznas's rating: 1210 &rarr; <strong>1187</strong><br />(-23 for losing)
+|l|☆chiefbiznas
+|player|p2|
+|n|☆Jsjsjsjsjdjd|jsjsjsjsjdjd

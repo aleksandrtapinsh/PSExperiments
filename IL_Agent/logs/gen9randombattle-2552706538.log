@@ -1,0 +1,214 @@
+|j|☆puchamonpy
+|j|☆magicman4538
+|t:|1772745326
+|gametype|singles
+|player|p1|puchamonpy|rosa|1041
+|player|p2|magicman4538|1|1049
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772745326
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Zekrom|Zekrom, L71|259/259
+|switch|p2a: Cyclizar|Cyclizar, L83, F|252/252
+|-ability|p1a: Zekrom|Teravolt
+|turn|1
+|
+|t:|1772745340
+|move|p2a: Cyclizar|Draco Meteor|p1a: Zekrom
+|-supereffective|p1a: Zekrom
+|-damage|p1a: Zekrom|0 fnt
+|-unboost|p2a: Cyclizar|spa|2
+|faint|p1a: Zekrom
+|
+|upkeep
+|
+|t:|1772745349
+|switch|p1a: Dewgong|Dewgong, L94, F|322/322
+|turn|2
+|
+|t:|1772745377
+|switch|p2a: Kleavor|Kleavor, L78, M|237/237
+|move|p1a: Dewgong|Ice Beam|p2a: Kleavor
+|-damage|p2a: Kleavor|126/237
+|-status|p2a: Kleavor|frz
+|
+|upkeep
+|turn|3
+|
+|t:|1772745387
+|cant|p2a: Kleavor|frz
+|move|p1a: Dewgong|Hydro Pump|p2a: Kleavor|[miss]
+|-miss|p1a: Dewgong|p2a: Kleavor
+|
+|upkeep
+|turn|4
+|
+|t:|1772745397
+|cant|p2a: Kleavor|frz
+|move|p1a: Dewgong|Hydro Pump|p2a: Kleavor
+|-supereffective|p2a: Kleavor
+|-damage|p2a: Kleavor|0 fnt
+|faint|p2a: Kleavor
+|
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by puchamonpy)
+|
+|t:|1772745407
+|switch|p2a: Ho-Oh|Ho-Oh, L71|268/268
+|turn|5
+|
+|t:|1772745413
+|move|p1a: Dewgong|Hydro Pump|p2a: Ho-Oh|[miss]
+|-miss|p1a: Dewgong|p2a: Ho-Oh
+|move|p2a: Ho-Oh|Brave Bird|p1a: Dewgong
+|-damage|p1a: Dewgong|213/322
+|-damage|p2a: Ho-Oh|232/268|[from] Recoil
+|
+|upkeep
+|turn|6
+|
+|t:|1772745420
+|move|p1a: Dewgong|Hydro Pump|p2a: Ho-Oh
+|-supereffective|p2a: Ho-Oh
+|-damage|p2a: Ho-Oh|56/268
+|move|p2a: Ho-Oh|Brave Bird|p1a: Dewgong
+|-damage|p1a: Dewgong|105/322
+|-damage|p2a: Ho-Oh|20/268|[from] Recoil
+|
+|upkeep
+|turn|7
+|
+|t:|1772745424
+|move|p1a: Dewgong|Ice Beam|p2a: Ho-Oh
+|-damage|p2a: Ho-Oh|0 fnt
+|faint|p2a: Ho-Oh
+|
+|upkeep
+|
+|t:|1772745437
+|switch|p2a: Cyclizar|Cyclizar, L83, F|252/252
+|turn|8
+|
+|t:|1772745445
+|move|p2a: Cyclizar|Draco Meteor|p1a: Dewgong
+|-damage|p1a: Dewgong|6/322
+|-unboost|p2a: Cyclizar|spa|2
+|move|p1a: Dewgong|Ice Beam|p2a: Cyclizar
+|-supereffective|p2a: Cyclizar
+|-damage|p2a: Cyclizar|0 fnt
+|faint|p2a: Cyclizar
+|
+|upkeep
+|
+|t:|1772745453
+|switch|p2a: Lumineon|Lumineon, L93, F|279/279
+|turn|9
+|
+|t:|1772745458
+|move|p2a: Lumineon|Hydro Pump|p1a: Dewgong
+|-resisted|p1a: Dewgong
+|-damage|p1a: Dewgong|0 fnt
+|faint|p1a: Dewgong
+|
+|upkeep
+|
+|t:|1772745472
+|switch|p1a: Salamence|Salamence, L77, F|273/273
+|-ability|p1a: Salamence|Intimidate|boost
+|-unboost|p2a: Lumineon|atk|1
+|turn|10
+|
+|t:|1772745479
+|move|p2a: Lumineon|Ice Beam|p1a: Salamence
+|-supereffective|p1a: Salamence
+|-damage|p1a: Salamence|1/273
+|move|p1a: Salamence|Dragon Dance|p1a: Salamence
+|-boost|p1a: Salamence|atk|1
+|-boost|p1a: Salamence|spe|1
+|
+|upkeep
+|turn|11
+|
+|t:|1772745491
+|move|p1a: Salamence|Dual Wingbeat|p2a: Lumineon
+|-damage|p2a: Lumineon|215/279
+|-damage|p2a: Lumineon|148/279
+|-hitcount|p2a: Lumineon|2
+|move|p2a: Lumineon|Ice Beam|p1a: Salamence
+|-supereffective|p1a: Salamence
+|-damage|p1a: Salamence|0 fnt
+|faint|p1a: Salamence
+|
+|upkeep
+|
+|t:|1772745499
+|switch|p1a: Iron Thorns|Iron Thorns, L83|302/302
+|-enditem|p1a: Iron Thorns|Booster Energy
+|-activate|p1a: Iron Thorns|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Thorns|quarkdriveatk
+|turn|12
+|
+|t:|1772745509
+|switch|p2a: Palossand|Palossand, L89, M|296/296
+|move|p1a: Iron Thorns|Dragon Dance|p1a: Iron Thorns
+|-boost|p1a: Iron Thorns|atk|1
+|-boost|p1a: Iron Thorns|spe|1
+|
+|upkeep
+|turn|13
+|
+|t:|1772745515
+|move|p1a: Iron Thorns|Ice Punch|p2a: Palossand
+|-supereffective|p2a: Palossand
+|-damage|p2a: Palossand|90/296
+|-status|p2a: Palossand|frz
+|cant|p2a: Palossand|frz
+|
+|-heal|p2a: Palossand|108/296 frz|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1772745532
+|move|p1a: Iron Thorns|Ice Punch|p2a: Palossand
+|-supereffective|p2a: Palossand
+|-damage|p2a: Palossand|0 fnt
+|faint|p2a: Palossand
+|
+|upkeep
+|
+|t:|1772745539
+|switch|p2a: Kricketune|Kricketune, L99, F|312/312
+|turn|15
+|
+|t:|1772745547
+|move|p1a: Iron Thorns|Stone Edge|p2a: Kricketune
+|-supereffective|p2a: Kricketune
+|-damage|p2a: Kricketune|0 fnt
+|faint|p2a: Kricketune
+|
+|upkeep
+|
+|t:|1772745549
+|switch|p2a: Lumineon|Lumineon, L93, F|148/279
+|turn|16
+|
+|t:|1772745557
+|move|p1a: Iron Thorns|Wild Charge|p2a: Lumineon
+|-supereffective|p2a: Lumineon
+|-damage|p2a: Lumineon|0 fnt
+|faint|p2a: Lumineon
+|-damage|p1a: Iron Thorns|265/302|[from] Recoil
+|
+|win|puchamonpy
+|raw|puchamonpy's rating: 1041 &rarr; <strong>1076</strong><br />(+35 for winning)
+|raw|magicman4538's rating: 1049 &rarr; <strong>1031</strong><br />(-18 for losing)
+|l|☆puchamonpy
+|player|p1|

@@ -1,0 +1,264 @@
+|j|☆jakaiak
+|j|☆Ududjudgg
+|t:|1772750858
+|gametype|singles
+|player|p1|jakaiak|cynthia-gen4|1081
+|player|p2|Ududjudgg|2|1040
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772750858
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Cramorant|Cramorant, L86, M|261/261
+|switch|p2a: Porygon-Z|Porygon-Z, L83|277/277
+|-ability|p2a: Porygon-Z|Download|boost
+|-boost|p2a: Porygon-Z|atk|1
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Ududjudgg)
+|
+|t:|1772750873
+|move|p2a: Porygon-Z|Thunderbolt|p1a: Cramorant
+|-supereffective|p1a: Cramorant
+|-damage|p1a: Cramorant|0 fnt
+|faint|p1a: Cramorant
+|
+|upkeep
+|
+|t:|1772750884
+|switch|p1a: Gurdurr|Gurdurr, L85, M|283/283
+|turn|2
+|
+|t:|1772750894
+|switch|p2a: Cramorant|Cramorant, L86, F|261/261
+|move|p1a: Gurdurr|Mach Punch|p2a: Cramorant
+|-resisted|p2a: Cramorant
+|-damage|p2a: Cramorant|228/261
+|
+|upkeep
+|turn|3
+|
+|t:|1772750908
+|switch|p1a: Eelektross|Eelektross, L87, M|290/290
+|move|p2a: Cramorant|Surf|p1a: Eelektross
+|-formechange|p2a: Cramorant|Cramorant-Gulping|
+|-crit|p1a: Eelektross
+|-damage|p1a: Eelektross|200/290
+|
+|upkeep
+|turn|4
+|
+|t:|1772750920
+|switch|p2a: Dipplin|Dipplin, L88, M|284/284
+|move|p1a: Eelektross|Discharge|p2a: Dipplin
+|-resisted|p2a: Dipplin
+|-damage|p2a: Dipplin|266/284
+|
+|upkeep
+|turn|5
+|
+|t:|1772750938
+|move|p1a: Eelektross|Flamethrower|p2a: Dipplin
+|-damage|p2a: Dipplin|212/284
+|-status|p2a: Dipplin|brn
+|move|p2a: Dipplin|Dragon Pulse|p1a: Eelektross
+|-damage|p1a: Eelektross|130/290
+|
+|-damage|p2a: Dipplin|195/284 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1772750949
+|move|p1a: Eelektross|U-turn|p2a: Dipplin
+|-supereffective|p2a: Dipplin
+|-damage|p2a: Dipplin|129/284 brn
+|
+|t:|1772750956
+|switch|p1a: Gurdurr|Gurdurr, L85, M|283/283|[from] U-turn
+|move|p2a: Dipplin|Giga Drain|p1a: Gurdurr
+|-damage|p1a: Gurdurr|199/283
+|-heal|p2a: Dipplin|171/284 brn|[from] drain|[of] p1a: Gurdurr
+|
+|-damage|p2a: Dipplin|154/284 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1772750972
+|move|p2a: Dipplin|Recover|p2a: Dipplin
+|-heal|p2a: Dipplin|284/284 brn
+|move|p1a: Gurdurr|Drain Punch|p2a: Dipplin
+|-damage|p2a: Dipplin|235/284 brn
+|-heal|p1a: Gurdurr|224/283|[from] drain|[of] p2a: Dipplin
+|
+|-damage|p2a: Dipplin|218/284 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1772750985
+|move|p2a: Dipplin|Dragon Pulse|p1a: Gurdurr
+|-damage|p1a: Gurdurr|128/283
+|move|p1a: Gurdurr|Bulk Up|p1a: Gurdurr
+|-boost|p1a: Gurdurr|atk|1
+|-boost|p1a: Gurdurr|def|1
+|
+|-damage|p2a: Dipplin|201/284 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1772750995
+|move|p2a: Dipplin|Dragon Pulse|p1a: Gurdurr
+|-damage|p1a: Gurdurr|38/283
+|move|p1a: Gurdurr|Drain Punch|p2a: Dipplin
+|-damage|p2a: Dipplin|128/284 brn
+|-heal|p1a: Gurdurr|75/283|[from] drain|[of] p2a: Dipplin
+|
+|-damage|p2a: Dipplin|111/284 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1772751019
+|switch|p1a: Azelf|Azelf, L82|257/257
+|move|p2a: Dipplin|Giga Drain|p1a: Azelf
+|-crit|p1a: Azelf
+|-damage|p1a: Azelf|107/257
+|-heal|p2a: Dipplin|186/284 brn|[from] drain|[of] p1a: Azelf
+|
+|-heal|p1a: Azelf|123/257|[from] item: Leftovers
+|-damage|p2a: Dipplin|169/284 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1772751035
+|move|p1a: Azelf|Psychic|p2a: Dipplin
+|-damage|p2a: Dipplin|90/284 brn
+|move|p2a: Dipplin|Giga Drain|p1a: Azelf
+|-damage|p1a: Azelf|27/257
+|-heal|p2a: Dipplin|138/284 brn|[from] drain|[of] p1a: Azelf
+|
+|-heal|p1a: Azelf|43/257|[from] item: Leftovers
+|-damage|p2a: Dipplin|121/284 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1772751047
+|move|p2a: Dipplin|Sucker Punch|p1a: Azelf
+|-supereffective|p1a: Azelf
+|-damage|p1a: Azelf|0 fnt
+|faint|p1a: Azelf
+|
+|-damage|p2a: Dipplin|104/284 brn|[from] brn
+|upkeep
+|
+|t:|1772751055
+|switch|p1a: Cyclizar|Cyclizar, L83, F|252/252
+|turn|13
+|
+|t:|1772751063
+|switch|p2a: Lapras|Lapras, L87, F|367/367
+|move|p1a: Cyclizar|Draco Meteor|p2a: Lapras
+|-damage|p2a: Lapras|253/367
+|-unboost|p1a: Cyclizar|spa|2
+|
+|upkeep
+|turn|14
+|
+|t:|1772751076
+|move|p1a: Cyclizar|Shed Tail|p1a: Cyclizar
+|-start|p1a: Cyclizar|Substitute|[from] move: Shed Tail
+|-damage|p1a: Cyclizar|126/252
+|
+|t:|1772751081
+|switch|p1a: Krookodile|Krookodile, L80, F|283/283|[from] Shed Tail
+|-ability|p1a: Krookodile|Intimidate|boost
+|-unboost|p2a: Lapras|atk|1
+|move|p2a: Lapras|Dragon Dance|p2a: Lapras
+|-boost|p2a: Lapras|atk|1
+|-boost|p2a: Lapras|spe|1
+|
+|upkeep
+|turn|15
+|
+|t:|1772751098
+|move|p2a: Lapras|Icicle Spear|p1a: Krookodile
+|-supereffective|p1a: Krookodile
+|-activate|p1a: Krookodile|move: Substitute|[damage]
+|-supereffective|p1a: Krookodile
+|-end|p1a: Krookodile|Substitute
+|-supereffective|p1a: Krookodile
+|-damage|p1a: Krookodile|223/283
+|-supereffective|p1a: Krookodile
+|-damage|p1a: Krookodile|161/283
+|-supereffective|p1a: Krookodile
+|-damage|p1a: Krookodile|101/283
+|-hitcount|p1a: Krookodile|5
+|move|p1a: Krookodile|Earthquake|p2a: Lapras
+|-damage|p2a: Lapras|72/367
+|
+|upkeep
+|turn|16
+|
+|t:|1772751113
+|switch|p1a: Eelektross|Eelektross, L87, M|130/290
+|move|p2a: Lapras|Icicle Spear|p1a: Eelektross
+|-damage|p1a: Eelektross|103/290
+|-damage|p1a: Eelektross|78/290
+|-damage|p1a: Eelektross|51/290
+|-damage|p1a: Eelektross|24/290
+|-damage|p1a: Eelektross|0 fnt
+|faint|p1a: Eelektross
+|-hitcount|p1: Eelektross|5
+|
+|upkeep
+|inactive|jakaiak has 120 seconds left.
+|
+|t:|1772751125
+|switch|p1a: Gurdurr|Gurdurr, L85, M|75/283
+|turn|17
+|
+|t:|1772751131
+|switch|p2a: Cramorant|Cramorant, L86, F|228/261
+|move|p1a: Gurdurr|Drain Punch|p2a: Cramorant
+|-resisted|p2a: Cramorant
+|-damage|p2a: Cramorant|171/261
+|-heal|p1a: Gurdurr|104/283|[from] drain|[of] p2a: Cramorant
+|
+|upkeep
+|turn|18
+|
+|t:|1772751143
+|switch|p1a: Cyclizar|Cyclizar, L83, F|210/252
+|move|p2a: Cramorant|Surf|p1a: Cyclizar
+|-formechange|p2a: Cramorant|Cramorant-Gulping|
+|-resisted|p1a: Cyclizar
+|-damage|p1a: Cyclizar|152/252
+|
+|upkeep
+|turn|19
+|
+|t:|1772751157
+|move|p1a: Cyclizar|Knock Off|p2a: Cramorant
+|-damage|p2a: Cramorant|80/261
+|-damage|p1a: Cyclizar|89/252|[from] ability: Gulp Missile|[of] p2a: Cramorant
+|-unboost|p1a: Cyclizar|def|1
+|-formechange|p2a: Cramorant|Cramorant|
+|-enditem|p2a: Cramorant|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Cyclizar
+|move|p2a: Cramorant|Brave Bird|p1a: Cyclizar
+|-damage|p1a: Cyclizar|0 fnt
+|faint|p1a: Cyclizar
+|-damage|p2a: Cramorant|51/261|[from] Recoil
+|
+|upkeep
+|inactive|jakaiak has 120 seconds left.
+|-message|jakaiak forfeited.
+|
+|win|Ududjudgg
+|raw|jakaiak's rating: 1081 &rarr; <strong>1056</strong><br />(-25 for losing)
+|raw|Ududjudgg's rating: 1040 &rarr; <strong>1078</strong><br />(+38 for winning)
+|l|☆jakaiak
+|player|p1|

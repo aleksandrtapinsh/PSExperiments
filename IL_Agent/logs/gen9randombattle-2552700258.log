@@ -1,0 +1,448 @@
+|j|☆mattia zaccagni
+|j|☆Privtime69
+|t:|1772744740
+|gametype|singles
+|player|p1|mattia zaccagni|ingo|1515
+|player|p2|Privtime69|265|1552
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772744740
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Dusknoir|Dusknoir, L89, F|225/225
+|switch|p2a: Tsareena|Tsareena, L87, F|267/267
+|-item|p2a: Tsareena|Heavy-Duty Boots|[from] ability: Frisk|[of] p1a: Dusknoir
+|turn|1
+|
+|t:|1772744745
+|switch|p1a: Sableye|Sableye, L88, F|231/231
+|move|p2a: Tsareena|U-turn|p1a: Sableye
+|-damage|p1a: Sableye|161/231
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by mattia zaccagni)
+|
+|t:|1772744757
+|switch|p2a: Glimmora|Glimmora, L75, M|248/248|[from] U-turn
+|-item|p2a: Glimmora|Air Balloon
+|
+|-heal|p1a: Sableye|175/231|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1772744763
+|move|p1a: Sableye|Thunder Wave|p2a: Glimmora
+|-status|p2a: Glimmora|par
+|move|p2a: Glimmora|Stealth Rock|p1a: Sableye
+|-sidestart|p1: mattia zaccagni|move: Stealth Rock
+|
+|-heal|p1a: Sableye|189/231|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1772744779
+|switch|p1a: Garchomp|Garchomp, L74, F|282/282
+|-damage|p1a: Garchomp|265/282|[from] Stealth Rock
+|move|p2a: Glimmora|Spikes|p1a: Garchomp
+|-sidestart|p1: mattia zaccagni|Spikes
+|
+|upkeep
+|turn|4
+|
+|t:|1772744785
+|switch|p2a: Tsareena|Tsareena, L87, F|267/267
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|
+|upkeep
+|turn|5
+|
+|t:|1772744789
+|move|p1a: Garchomp|Scale Shot|p2a: Tsareena
+|-damage|p2a: Tsareena|218/267
+|-crit|p2a: Tsareena
+|-damage|p2a: Tsareena|149/267
+|-damage|p2a: Tsareena|97/267
+|-crit|p2a: Tsareena
+|-damage|p2a: Tsareena|21/267
+|-damage|p2a: Tsareena|0 fnt
+|faint|p2a: Tsareena
+|-hitcount|p2: Tsareena|5
+|-unboost|p1a: Garchomp|def|1
+|-boost|p1a: Garchomp|spe|1
+|
+|upkeep
+|
+|t:|1772744797
+|switch|p2a: Mesprit|Mesprit, L85|275/275
+|turn|6
+|
+|t:|1772744802
+|move|p1a: Garchomp|Iron Head|p2a: Mesprit
+|-damage|p2a: Mesprit|186/275
+|move|p2a: Mesprit|Psychic Noise|p1a: Garchomp
+|-damage|p1a: Garchomp|172/282
+|-start|p1a: Garchomp|move: Heal Block
+|
+|upkeep
+|turn|7
+|
+|t:|1772744808
+|move|p1a: Garchomp|Iron Head|p2a: Mesprit
+|-damage|p2a: Mesprit|95/275
+|move|p2a: Mesprit|Knock Off|p1a: Garchomp
+|-damage|p1a: Garchomp|55/282
+|-damage|p2a: Mesprit|61/275|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-enditem|p1a: Garchomp|Loaded Dice|[from] move: Knock Off|[of] p2a: Mesprit
+|
+|-end|p1a: Garchomp|move: Heal Block
+|upkeep
+|turn|8
+|
+|t:|1772744819
+|move|p1a: Garchomp|Iron Head|p2a: Mesprit
+|-damage|p2a: Mesprit|0 fnt
+|faint|p2a: Mesprit
+|
+|upkeep
+|
+|t:|1772744823
+|switch|p2a: Jumpluff|Jumpluff, L87, M|271/271
+|turn|9
+|
+|t:|1772744827
+|move|p1a: Garchomp|Iron Head|p2a: Jumpluff
+|-damage|p2a: Jumpluff|148/271
+|cant|p2a: Jumpluff|flinch
+|
+|upkeep
+|turn|10
+|
+|t:|1772744833
+|move|p1a: Garchomp|Iron Head|p2a: Jumpluff
+|-damage|p2a: Jumpluff|17/271
+|move|p2a: Jumpluff|Strength Sap|p1a: Garchomp
+|-unboost|p1a: Garchomp|atk|1
+|-heal|p2a: Jumpluff|271/271
+|
+|upkeep
+|turn|11
+|
+|t:|1772744845
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|move|p2a: Jumpluff|Acrobatics|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|-damage|p2a: Jumpluff|238/271|[from] ability: Rough Skin|[of] p1a: Garchomp
+|faint|p1a: Garchomp
+|
+|upkeep
+|
+|t:|1772744855
+|switch|p1a: Sableye|Sableye, L88, F|189/231
+|-damage|p1a: Sableye|161/231|[from] Stealth Rock
+|-damage|p1a: Sableye|133/231|[from] Spikes
+|turn|12
+|
+|t:|1772744863
+|move|p1a: Sableye|Thunder Wave|p2a: Jumpluff
+|-status|p2a: Jumpluff|par
+|move|p2a: Jumpluff|Sleep Powder|p1a: Sableye
+|-status|p1a: Sableye|slp|[from] move: Sleep Powder
+|
+|-heal|p1a: Sableye|147/231 slp|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1772744869
+|cant|p1a: Sableye|slp
+|move|p2a: Jumpluff|Acrobatics|p1a: Sableye
+|-damage|p1a: Sableye|50/231 slp
+|
+|-heal|p1a: Sableye|64/231 slp|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1772744872
+|-curestatus|p1a: Sableye|slp|[msg]
+|move|p1a: Sableye|Recover|p1a: Sableye
+|-heal|p1a: Sableye|180/231
+|move|p2a: Jumpluff|Acrobatics|p1a: Sableye
+|-damage|p1a: Sableye|92/231
+|
+|-heal|p1a: Sableye|106/231|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1772744878
+|move|p1a: Sableye|Recover|p1a: Sableye
+|-heal|p1a: Sableye|222/231
+|move|p2a: Jumpluff|Encore|p1a: Sableye
+|-start|p1a: Sableye|Encore
+|
+|-heal|p1a: Sableye|231/231|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1772744886
+|switch|p1a: Dusknoir|Dusknoir, L89, F|225/225
+|-damage|p1a: Dusknoir|197/225|[from] Stealth Rock
+|-damage|p1a: Dusknoir|169/225|[from] Spikes
+|switch|p2a: Glimmora|Glimmora, L75, M|248/248 par
+|-item|p2a: Glimmora|Air Balloon
+|
+|-heal|p1a: Dusknoir|183/225|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1772744893
+|move|p1a: Dusknoir|Substitute|p1a: Dusknoir
+|-start|p1a: Dusknoir|Substitute
+|-damage|p1a: Dusknoir|127/225
+|move|p2a: Glimmora|Spikes|p1a: Dusknoir
+|-sidestart|p1: mattia zaccagni|Spikes
+|
+|-heal|p1a: Dusknoir|141/225|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1772744900
+|move|p1a: Dusknoir|Poltergeist|p2a: Glimmora
+|-activate|p2a: Glimmora|move: Poltergeist|Air Balloon
+|-damage|p2a: Glimmora|98/248 par
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: mattia zaccagni|move: Toxic Spikes
+|-enditem|p2a: Glimmora|Air Balloon
+|move|p2a: Glimmora|Sludge Wave|p1a: Dusknoir
+|-resisted|p1a: Dusknoir
+|-activate|p1a: Dusknoir|move: Substitute|[damage]
+|
+|-heal|p1a: Dusknoir|155/225|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1772744912
+|-singleturn|p1a: Dusknoir|move: Focus Punch
+|move|p2a: Glimmora|Sludge Wave|p1a: Dusknoir
+|-resisted|p1a: Dusknoir
+|-end|p1a: Dusknoir|Substitute
+|move|p1a: Dusknoir|Focus Punch|p2a: Glimmora
+|-damage|p2a: Glimmora|0 fnt
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: mattia zaccagni|move: Toxic Spikes
+|faint|p2a: Glimmora
+|
+|-heal|p1a: Dusknoir|169/225|[from] item: Leftovers
+|upkeep
+|
+|t:|1772744923
+|switch|p2a: Frosmoth|Frosmoth, L82, M|249/249
+|turn|20
+|
+|t:|1772744935
+|move|p2a: Frosmoth|Quiver Dance|p2a: Frosmoth
+|-boost|p2a: Frosmoth|spa|1
+|-boost|p2a: Frosmoth|spd|1
+|-boost|p2a: Frosmoth|spe|1
+|move|p1a: Dusknoir|Pain Split|p2a: Frosmoth
+|-sethp|p2a: Frosmoth|209/249|[from] move: Pain Split|[silent]
+|-sethp|p1a: Dusknoir|209/225|[from] move: Pain Split
+|
+|-heal|p1a: Dusknoir|223/225|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1772744940
+|-singleturn|p1a: Dusknoir|move: Focus Punch
+|move|p2a: Frosmoth|Quiver Dance|p2a: Frosmoth
+|-boost|p2a: Frosmoth|spa|1
+|-boost|p2a: Frosmoth|spd|1
+|-boost|p2a: Frosmoth|spe|1
+|move|p1a: Dusknoir|Focus Punch|p2a: Frosmoth
+|-damage|p2a: Frosmoth|35/249
+|
+|-heal|p1a: Dusknoir|225/225|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1772744950
+|move|p2a: Frosmoth|Giga Drain|p1a: Dusknoir
+|-damage|p1a: Dusknoir|137/225
+|-heal|p2a: Frosmoth|79/249|[from] drain|[of] p1a: Dusknoir
+|move|p1a: Dusknoir|Poltergeist|p2a: Frosmoth
+|-activate|p2a: Frosmoth|move: Poltergeist|Heavy-Duty Boots
+|-damage|p2a: Frosmoth|0 fnt
+|faint|p2a: Frosmoth
+|
+|-heal|p1a: Dusknoir|151/225|[from] item: Leftovers
+|upkeep
+|
+|t:|1772744957
+|switch|p2a: Sandy Shocks|Sandy Shocks, L80|267/267
+|turn|23
+|
+|t:|1772744960
+|move|p2a: Sandy Shocks|Thunderbolt|p1a: Dusknoir
+|-damage|p1a: Dusknoir|84/225
+|move|p1a: Dusknoir|Substitute|p1a: Dusknoir
+|-start|p1a: Dusknoir|Substitute
+|-damage|p1a: Dusknoir|28/225
+|
+|-heal|p1a: Dusknoir|42/225|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1772744965
+|move|p2a: Sandy Shocks|Volt Switch|p1a: Dusknoir
+|-end|p1a: Dusknoir|Substitute
+|
+|t:|1772744969
+|-end|p2a: Sandy Shocks|Protosynthesis|[silent]
+|switch|p2a: Jumpluff|Jumpluff, L87, M|238/271 par|[from] Volt Switch
+|move|p1a: Dusknoir|Pain Split|p2a: Jumpluff
+|-sethp|p2a: Jumpluff|140/271 par|[from] move: Pain Split|[silent]
+|-sethp|p1a: Dusknoir|140/225|[from] move: Pain Split
+|
+|-heal|p1a: Dusknoir|154/225|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1772744978
+|switch|p1a: Sableye|Sableye, L88, F|231/231
+|-damage|p1a: Sableye|203/231|[from] Stealth Rock
+|-damage|p1a: Sableye|165/231|[from] Spikes
+|-status|p1a: Sableye|tox
+|cant|p2a: Jumpluff|par
+|
+|-heal|p1a: Sableye|179/231 tox|[from] item: Leftovers
+|-damage|p1a: Sableye|165/231 tox|[from] psn
+|upkeep
+|turn|26
+|
+|t:|1772744987
+|move|p1a: Sableye|Knock Off|p2a: Jumpluff
+|-damage|p2a: Jumpluff|70/271 par
+|cant|p2a: Jumpluff|par
+|
+|-heal|p1a: Sableye|179/231 tox|[from] item: Leftovers
+|-damage|p1a: Sableye|151/231 tox|[from] psn
+|upkeep
+|turn|27
+|
+|t:|1772744991
+|move|p1a: Sableye|Knock Off|p2a: Jumpluff
+|-damage|p2a: Jumpluff|0 fnt
+|faint|p2a: Jumpluff
+|
+|-heal|p1a: Sableye|165/231 tox|[from] item: Leftovers
+|-damage|p1a: Sableye|123/231 tox|[from] psn
+|upkeep
+|
+|t:|1772744994
+|switch|p2a: Sandy Shocks|Sandy Shocks, L80|267/267
+|turn|28
+|
+|t:|1772745002
+|-terastallize|p2a: Sandy Shocks|Electric
+|move|p2a: Sandy Shocks|Thunderbolt|p1a: Sableye
+|-damage|p1a: Sableye|0 fnt
+|faint|p1a: Sableye
+|
+|upkeep
+|
+|t:|1772745014
+|switch|p1a: Hariyama|Hariyama, L87, F|392/392
+|-damage|p1a: Hariyama|368/392|[from] Stealth Rock
+|-damage|p1a: Hariyama|303/392|[from] Spikes
+|-status|p1a: Hariyama|tox
+|turn|29
+|
+|t:|1772745023
+|move|p2a: Sandy Shocks|Thunderbolt|p1a: Hariyama
+|-damage|p1a: Hariyama|185/392 tox
+|move|p1a: Hariyama|Close Combat|p2a: Sandy Shocks
+|-damage|p2a: Sandy Shocks|123/267
+|-unboost|p1a: Hariyama|def|1
+|-unboost|p1a: Hariyama|spd|1
+|
+|-damage|p1a: Hariyama|161/392 tox|[from] psn
+|upkeep
+|turn|30
+|
+|t:|1772745028
+|move|p2a: Sandy Shocks|Thunderbolt|p1a: Hariyama
+|-damage|p1a: Hariyama|0 fnt
+|faint|p1a: Hariyama
+|
+|upkeep
+|
+|t:|1772745055
+|switch|p1a: Dusknoir|Dusknoir, L89, F|154/225
+|-damage|p1a: Dusknoir|126/225|[from] Stealth Rock
+|-damage|p1a: Dusknoir|89/225|[from] Spikes
+|-status|p1a: Dusknoir|tox
+|-item|p2a: Sandy Shocks|Heavy-Duty Boots|[from] ability: Frisk|[of] p1a: Dusknoir
+|turn|31
+|
+|t:|1772745059
+|move|p2a: Sandy Shocks|Thunderbolt|p1a: Dusknoir
+|-damage|p1a: Dusknoir|0 fnt
+|faint|p1a: Dusknoir
+|
+|upkeep
+|
+|t:|1772745065
+|switch|p1a: Pelipper|Pelipper, L86, M|243/243
+|-damage|p1a: Pelipper|183/243|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|32
+|
+|t:|1772745072
+|-terastallize|p1a: Pelipper|Water
+|move|p2a: Sandy Shocks|Thunderbolt|p1a: Pelipper
+|-supereffective|p1a: Pelipper
+|-damage|p1a: Pelipper|0 fnt
+|faint|p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1772745074
+|switch|p1a: Comfey|Comfey, L85, M|225/225
+|-damage|p1a: Comfey|197/225|[from] Stealth Rock
+|-damage|p1a: Comfey|160/225|[from] Spikes
+|-status|p1a: Comfey|tox
+|turn|33
+|
+|t:|1772745079
+|move|p1a: Comfey|Calm Mind|p1a: Comfey
+|-boost|p1a: Comfey|spa|1
+|-boost|p1a: Comfey|spd|1
+|move|p2a: Sandy Shocks|Thunderbolt|p1a: Comfey
+|-damage|p1a: Comfey|86/225 tox
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Comfey|100/225 tox|[from] item: Leftovers
+|-damage|p1a: Comfey|86/225 tox|[from] psn
+|upkeep
+|turn|34
+|
+|t:|1772745083
+|move|p1a: Comfey|Draining Kiss|p2a: Sandy Shocks
+|-damage|p2a: Sandy Shocks|48/267
+|-heal|p1a: Comfey|142/225 tox|[from] drain|[of] p2a: Sandy Shocks
+|move|p2a: Sandy Shocks|Thunderbolt|p1a: Comfey
+|-crit|p1a: Comfey
+|-damage|p1a: Comfey|0 fnt
+|faint|p1a: Comfey
+|
+|win|Privtime69
+|raw|mattia zaccagni's rating: 1515 &rarr; <strong>1497</strong><br />(-18 for losing)
+|raw|Privtime69's rating: 1552 &rarr; <strong>1570</strong><br />(+18 for winning)
+|l|☆mattia zaccagni
+|player|p1|

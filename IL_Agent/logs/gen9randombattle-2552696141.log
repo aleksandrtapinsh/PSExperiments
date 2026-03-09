@@ -1,0 +1,489 @@
+|j|☆Homes64
+|j|☆UTXPamplemousse
+|t:|1772744358
+|gametype|singles
+|player|p1|Homes64|1|1132
+|player|p2|UTXPamplemousse|gentleman|1114
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772744358
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Necrozma|Necrozma-Dusk-Mane, L69|248/248
+|switch|p2a: Squawkabilly|Squawkabilly-Blue, L85, M|278/278
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by UTXPamplemousse)
+|
+|t:|1772744384
+|move|p2a: Squawkabilly|Quick Attack|p1a: Necrozma
+|-resisted|p1a: Necrozma
+|-damage|p1a: Necrozma|227/248
+|move|p1a: Necrozma|Dragon Dance|p1a: Necrozma
+|-boost|p1a: Necrozma|atk|1
+|-boost|p1a: Necrozma|spe|1
+|
+|-status|p2a: Squawkabilly|brn|[from] item: Flame Orb
+|upkeep
+|turn|2
+|
+|t:|1772744398
+|-terastallize|p2a: Squawkabilly|Normal
+|move|p1a: Necrozma|Dragon Dance|p1a: Necrozma
+|-boost|p1a: Necrozma|atk|1
+|-boost|p1a: Necrozma|spe|1
+|move|p2a: Squawkabilly|Facade|p1a: Necrozma
+|-resisted|p1a: Necrozma
+|-damage|p1a: Necrozma|91/248
+|
+|-damage|p2a: Squawkabilly|261/278 brn|[from] brn
+|upkeep
+|turn|3
+|inactive|Homes64 has 120 seconds left.
+|
+|t:|1772744438
+|move|p1a: Necrozma|Morning Sun|p1a: Necrozma
+|-heal|p1a: Necrozma|215/248
+|move|p2a: Squawkabilly|Facade|p1a: Necrozma
+|-resisted|p1a: Necrozma
+|-damage|p1a: Necrozma|76/248
+|
+|-damage|p2a: Squawkabilly|244/278 brn|[from] brn
+|upkeep
+|turn|4
+|inactive|Homes64 has 120 seconds left.
+|
+|t:|1772744450
+|move|p1a: Necrozma|Sunsteel Strike|p2a: Squawkabilly
+|-damage|p2a: Squawkabilly|0 fnt
+|faint|p2a: Squawkabilly
+|
+|upkeep
+|
+|t:|1772744460
+|switch|p2a: Wo-Chien|Wo-Chien, L83|277/277
+|-ability|p2a: Wo-Chien|Tablets of Ruin
+|turn|5
+|inactive|Homes64 has 120 seconds left.
+|c|☆UTXPamplemousse|play
+|l|☆Homes64
+|inactive|Homes64 disconnected and has a minute to reconnect!
+|player|p1|
+|j|☆Homes64
+|inactive|Homes64 reconnected and has 95 seconds left.
+|player|p1|Homes64|1|
+|c|☆UTXPamplemousse|gay
+|inactive|Homes64 has 90 seconds left.
+|
+|t:|1772744508
+|move|p1a: Necrozma|Morning Sun|p1a: Necrozma
+|-heal|p1a: Necrozma|200/248
+|move|p2a: Wo-Chien|Knock Off|p1a: Necrozma
+|-supereffective|p1a: Necrozma
+|-damage|p1a: Necrozma|64/248
+|-enditem|p1a: Necrozma|Weakness Policy
+|-boost|p1a: Necrozma|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Necrozma|spa|2|[from] item: Weakness Policy
+|
+|upkeep
+|turn|6
+|inactive|Homes64 has 90 seconds left.
+|
+|t:|1772744521
+|move|p1a: Necrozma|Sunsteel Strike|p2a: Wo-Chien
+|-damage|p2a: Wo-Chien|43/277
+|move|p2a: Wo-Chien|Leech Seed|p1a: Necrozma
+|-start|p1a: Necrozma|move: Leech Seed
+|
+|-heal|p2a: Wo-Chien|60/277|[from] item: Leftovers
+|-damage|p1a: Necrozma|33/248|[from] Leech Seed|[of] p2a: Wo-Chien
+|-heal|p2a: Wo-Chien|91/277|[silent]
+|upkeep
+|turn|7
+|inactive|Homes64 has 90 seconds left.
+|
+|t:|1772744531
+|move|p2a: Wo-Chien|Protect|p2a: Wo-Chien
+|-singleturn|p2a: Wo-Chien|Protect
+|move|p1a: Necrozma|Sunsteel Strike|p2a: Wo-Chien
+|-activate|p2a: Wo-Chien|move: Protect
+|
+|-heal|p2a: Wo-Chien|108/277|[from] item: Leftovers
+|-damage|p1a: Necrozma|2/248|[from] Leech Seed|[of] p2a: Wo-Chien
+|-heal|p2a: Wo-Chien|139/277|[silent]
+|upkeep
+|turn|8
+|inactive|Homes64 has 90 seconds left.
+|
+|t:|1772744542
+|move|p1a: Necrozma|Sunsteel Strike|p2a: Wo-Chien
+|-damage|p2a: Wo-Chien|0 fnt
+|faint|p2a: Wo-Chien
+|
+|upkeep
+|
+|t:|1772744553
+|switch|p2a: Azelf|Azelf, L82|257/257
+|turn|9
+|
+|t:|1772744561
+|move|p1a: Necrozma|Sunsteel Strike|p2a: Azelf
+|-crit|p2a: Azelf
+|-damage|p2a: Azelf|0 fnt
+|faint|p2a: Azelf
+|
+|upkeep
+|
+|t:|1772744566
+|switch|p2a: Electrode|Electrode, L92|260/260
+|turn|10
+|
+|t:|1772744575
+|move|p2a: Electrode|Foul Play|p1a: Necrozma
+|-supereffective|p1a: Necrozma
+|-damage|p1a: Necrozma|0 fnt
+|faint|p1a: Necrozma
+|-damage|p2a: Electrode|234/260|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772744590
+|switch|p1a: Vigoroth|Vigoroth, L85, M|275/275
+|turn|11
+|
+|t:|1772744604
+|move|p2a: Electrode|Thunderbolt|p1a: Vigoroth
+|-damage|p1a: Vigoroth|149/275
+|-damage|p2a: Electrode|208/260|[from] item: Life Orb
+|move|p1a: Vigoroth|Bulk Up|p1a: Vigoroth
+|-boost|p1a: Vigoroth|atk|1
+|-boost|p1a: Vigoroth|def|1
+|
+|upkeep
+|turn|12
+|
+|t:|1772744617
+|move|p2a: Electrode|Thunderbolt|p1a: Vigoroth
+|-damage|p1a: Vigoroth|35/275
+|-status|p1a: Vigoroth|par
+|-damage|p2a: Electrode|182/260|[from] item: Life Orb
+|move|p1a: Vigoroth|Slack Off|p1a: Vigoroth
+|-heal|p1a: Vigoroth|173/275 par
+|
+|upkeep
+|turn|13
+|
+|t:|1772744628
+|move|p2a: Electrode|Thunderbolt|p1a: Vigoroth
+|-crit|p1a: Vigoroth
+|-damage|p1a: Vigoroth|0 fnt
+|faint|p1a: Vigoroth
+|-damage|p2a: Electrode|156/260|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772744636
+|switch|p1a: Ursaring|Ursaring, L84, F|288/288
+|turn|14
+|
+|t:|1772744645
+|move|p2a: Electrode|Thunderbolt|p1a: Ursaring
+|-damage|p1a: Ursaring|183/288
+|-damage|p2a: Electrode|130/260|[from] item: Life Orb
+|move|p1a: Ursaring|Throat Chop|p2a: Electrode
+|-damage|p2a: Electrode|51/260
+|-start|p2a: Electrode|Throat Chop|[silent]
+|
+|upkeep
+|turn|15
+|
+|t:|1772744653
+|move|p2a: Electrode|Explosion|p1a: Ursaring
+|-damage|p1a: Ursaring|61/288
+|faint|p2a: Electrode
+|move|p1a: Ursaring|Throat Chop|p2: Electrode|[notarget]
+|-fail|p1a: Ursaring
+|
+|upkeep
+|
+|t:|1772744660
+|switch|p2a: Garganacl|Garganacl, L80, F|291/291
+|turn|16
+|
+|t:|1772744666
+|move|p1a: Ursaring|Rest|p1a: Ursaring
+|-status|p1a: Ursaring|slp|[from] move: Rest
+|-heal|p1a: Ursaring|288/288 slp|[silent]
+|move|p2a: Garganacl|Earthquake|p1a: Ursaring
+|-damage|p1a: Ursaring|235/288 slp
+|
+|upkeep
+|turn|17
+|inactive|Homes64 has 120 seconds left.
+|
+|t:|1772744687
+|cant|p1a: Ursaring|slp
+|move|p1a: Ursaring|Sleep Talk|p1a: Ursaring
+|move|p1a: Ursaring|Throat Chop|p2a: Garganacl|[from] move: Sleep Talk
+|-damage|p2a: Garganacl|201/291
+|-start|p2a: Garganacl|Throat Chop|[silent]
+|move|p2a: Garganacl|Salt Cure|p1a: Ursaring
+|-damage|p1a: Ursaring|202/288 slp
+|-start|p1a: Ursaring|Salt Cure
+|
+|-heal|p2a: Garganacl|219/291|[from] item: Leftovers
+|-damage|p1a: Ursaring|166/288 slp|[from] Salt Cure
+|upkeep
+|turn|18
+|inactive|Homes64 has 120 seconds left.
+|
+|t:|1772744702
+|cant|p1a: Ursaring|slp
+|move|p1a: Ursaring|Sleep Talk|p1a: Ursaring
+|move|p1a: Ursaring|Body Slam|p2a: Garganacl|[from] move: Sleep Talk
+|-resisted|p2a: Garganacl
+|-damage|p2a: Garganacl|153/291
+|move|p2a: Garganacl|Earthquake|p1a: Ursaring
+|-damage|p1a: Ursaring|118/288 slp
+|
+|-heal|p2a: Garganacl|171/291|[from] item: Leftovers
+|-damage|p1a: Ursaring|82/288 slp|[from] Salt Cure
+|-end|p2a: Garganacl|Throat Chop|[silent]
+|upkeep
+|turn|19
+|inactive|Homes64 has 120 seconds left.
+|
+|t:|1772744719
+|-curestatus|p1a: Ursaring|slp|[msg]
+|move|p1a: Ursaring|Sleep Talk||[still]
+|-fail|p1a: Ursaring
+|move|p2a: Garganacl|Recover|p2a: Garganacl
+|-heal|p2a: Garganacl|291/291
+|
+|-damage|p1a: Ursaring|46/288|[from] Salt Cure
+|upkeep
+|turn|20
+|
+|t:|1772744729
+|move|p1a: Ursaring|Rest|p1a: Ursaring
+|-status|p1a: Ursaring|slp|[from] move: Rest
+|-heal|p1a: Ursaring|288/288 slp|[silent]
+|move|p2a: Garganacl|Earthquake|p1a: Ursaring
+|-damage|p1a: Ursaring|235/288 slp
+|
+|-damage|p1a: Ursaring|199/288 slp|[from] Salt Cure
+|upkeep
+|turn|21
+|
+|t:|1772744745
+|cant|p1a: Ursaring|slp
+|move|p1a: Ursaring|Sleep Talk|p1a: Ursaring
+|move|p1a: Ursaring|Throat Chop|p2a: Garganacl|[from] move: Sleep Talk
+|-damage|p2a: Garganacl|205/291
+|-start|p2a: Garganacl|Throat Chop|[silent]
+|move|p2a: Garganacl|Earthquake|p1a: Ursaring
+|-damage|p1a: Ursaring|152/288 slp
+|
+|-heal|p2a: Garganacl|223/291|[from] item: Leftovers
+|-damage|p1a: Ursaring|116/288 slp|[from] Salt Cure
+|upkeep
+|turn|22
+|
+|t:|1772744765
+|move|p2a: Garganacl|Protect|p2a: Garganacl
+|-singleturn|p2a: Garganacl|Protect
+|cant|p1a: Ursaring|slp
+|move|p1a: Ursaring|Sleep Talk|p1a: Ursaring
+|move|p1a: Ursaring|Throat Chop|p2a: Garganacl|[from] move: Sleep Talk
+|-activate|p2a: Garganacl|move: Protect
+|
+|-heal|p2a: Garganacl|241/291|[from] item: Leftovers
+|-damage|p1a: Ursaring|80/288 slp|[from] Salt Cure
+|-end|p2a: Garganacl|Throat Chop|[silent]
+|upkeep
+|turn|23
+|inactive|Homes64 has 90 seconds left.
+|
+|t:|1772744780
+|-curestatus|p1a: Ursaring|slp|[msg]
+|move|p1a: Ursaring|Sleep Talk||[still]
+|-fail|p1a: Ursaring
+|move|p2a: Garganacl|Earthquake|p1a: Ursaring
+|-damage|p1a: Ursaring|32/288
+|
+|-heal|p2a: Garganacl|259/291|[from] item: Leftovers
+|-damage|p1a: Ursaring|0 fnt|[from] Salt Cure
+|faint|p1a: Ursaring
+|upkeep
+|inactive|Homes64 has 90 seconds left.
+|
+|t:|1772744793
+|switch|p1a: Empoleon|Empoleon, L84, M|278/278
+|turn|24
+|inactive|Homes64 has 90 seconds left.
+|
+|t:|1772744799
+|move|p1a: Empoleon|Yawn|p2a: Garganacl
+|-immune|p2a: Garganacl|[from] ability: Purifying Salt
+|move|p2a: Garganacl|Salt Cure|p1a: Empoleon
+|-resisted|p1a: Empoleon
+|-damage|p1a: Empoleon|256/278
+|-start|p1a: Empoleon|Salt Cure
+|
+|-heal|p1a: Empoleon|273/278|[from] item: Leftovers
+|-heal|p2a: Garganacl|277/291|[from] item: Leftovers
+|-damage|p1a: Empoleon|204/278|[from] Salt Cure
+|upkeep
+|turn|25
+|inactive|Homes64 has 90 seconds left.
+|
+|t:|1772744812
+|move|p1a: Empoleon|Surf|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|65/291
+|move|p2a: Garganacl|Earthquake|p1a: Empoleon
+|-supereffective|p1a: Empoleon
+|-damage|p1a: Empoleon|68/278
+|
+|-heal|p1a: Empoleon|85/278|[from] item: Leftovers
+|-heal|p2a: Garganacl|83/291|[from] item: Leftovers
+|-damage|p1a: Empoleon|16/278|[from] Salt Cure
+|upkeep
+|turn|26
+|inactive|Homes64 has 90 seconds left.
+|
+|t:|1772744822
+|move|p2a: Garganacl|Protect|p2a: Garganacl
+|-singleturn|p2a: Garganacl|Protect
+|move|p1a: Empoleon|Surf|p2a: Garganacl
+|-activate|p2a: Garganacl|move: Protect
+|
+|-heal|p1a: Empoleon|33/278|[from] item: Leftovers
+|-heal|p2a: Garganacl|101/291|[from] item: Leftovers
+|-damage|p1a: Empoleon|0 fnt|[from] Salt Cure
+|faint|p1a: Empoleon
+|upkeep
+|inactive|Homes64 has 90 seconds left.
+|
+|t:|1772744832
+|switch|p1a: Alomomola|Alomomola, L87, F|429/429
+|turn|27
+|
+|t:|1772744840
+|move|p1a: Alomomola|Scald|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|5/291
+|move|p2a: Garganacl|Recover|p2a: Garganacl
+|-heal|p2a: Garganacl|151/291
+|
+|-heal|p2a: Garganacl|169/291|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1772744850
+|move|p1a: Alomomola|Scald|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|71/291
+|move|p2a: Garganacl|Salt Cure|p1a: Alomomola
+|-damage|p1a: Alomomola|387/429
+|-start|p1a: Alomomola|Salt Cure
+|
+|-heal|p2a: Garganacl|89/291|[from] item: Leftovers
+|-damage|p1a: Alomomola|280/429|[from] Salt Cure
+|upkeep
+|turn|29
+|
+|t:|1772744861
+|move|p2a: Garganacl|Protect|p2a: Garganacl
+|-singleturn|p2a: Garganacl|Protect
+|move|p1a: Alomomola|Scald|p2a: Garganacl
+|-activate|p2a: Garganacl|move: Protect
+|
+|-heal|p2a: Garganacl|107/291|[from] item: Leftovers
+|-damage|p1a: Alomomola|173/429|[from] Salt Cure
+|upkeep
+|turn|30
+|
+|t:|1772744873
+|move|p1a: Alomomola|Flip Turn|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|15/291
+|
+|t:|1772744877
+|switch|p1a: Regieleki|Regieleki, L79|256/256|[from] Flip Turn
+|move|p2a: Garganacl|Recover|p2a: Garganacl
+|-heal|p2a: Garganacl|161/291
+|
+|-heal|p2a: Garganacl|179/291|[from] item: Leftovers
+|upkeep
+|turn|31
+|inactive|Homes64 has 90 seconds left.
+|
+|t:|1772744903
+|-terastallize|p1a: Regieleki|Ice
+|move|p1a: Regieleki|Tera Blast|p2a: Garganacl|[anim] Tera Blast Ice
+|-damage|p2a: Garganacl|103/291
+|move|p2a: Garganacl|Salt Cure|p1a: Regieleki
+|-supereffective|p1a: Regieleki
+|-damage|p1a: Regieleki|140/256
+|-start|p1a: Regieleki|Salt Cure
+|
+|-heal|p2a: Garganacl|121/291|[from] item: Leftovers
+|-damage|p1a: Regieleki|108/256|[from] Salt Cure
+|upkeep
+|turn|32
+|inactive|Homes64 has 90 seconds left.
+|
+|t:|1772744916
+|move|p2a: Garganacl|Protect|p2a: Garganacl
+|-singleturn|p2a: Garganacl|Protect
+|move|p1a: Regieleki|Tera Blast|p2a: Garganacl|[anim] Tera Blast Ice
+|-activate|p2a: Garganacl|move: Protect
+|
+|-heal|p2a: Garganacl|139/291|[from] item: Leftovers
+|-damage|p1a: Regieleki|76/256|[from] Salt Cure
+|upkeep
+|turn|33
+|inactive|Homes64 has 90 seconds left.
+|
+|t:|1772744930
+|move|p1a: Regieleki|Thunderbolt|p2a: Garganacl
+|-damage|p2a: Garganacl|7/291
+|move|p2a: Garganacl|Recover|p2a: Garganacl
+|-heal|p2a: Garganacl|153/291
+|
+|-heal|p2a: Garganacl|171/291|[from] item: Leftovers
+|-damage|p1a: Regieleki|44/256|[from] Salt Cure
+|upkeep
+|turn|34
+|inactive|Homes64 has 90 seconds left.
+|
+|t:|1772744942
+|move|p2a: Garganacl|Protect|p2a: Garganacl
+|-singleturn|p2a: Garganacl|Protect
+|move|p1a: Regieleki|Thunderbolt|p2a: Garganacl
+|-activate|p2a: Garganacl|move: Protect
+|
+|-heal|p2a: Garganacl|189/291|[from] item: Leftovers
+|-damage|p1a: Regieleki|12/256|[from] Salt Cure
+|upkeep
+|turn|35
+|inactive|Homes64 has 90 seconds left.
+|l|☆Homes64
+|inactive|Homes64 disconnected and has a minute to reconnect!
+|player|p1|
+|inactive|Homes64 has 30 seconds to reconnect!
+|n|‽UTXPamplemousse|utxpamplemousse
+|inactive|Homes64 has 20 seconds to reconnect!
+|inactive|Homes64 has 15 seconds to reconnect!
+|inactive|Homes64 has 10 seconds to reconnect!
+|inactive|Homes64 has 5 seconds to reconnect!
+|-message|Homes64 lost due to inactivity.
+|
+|win|UTXPamplemousse

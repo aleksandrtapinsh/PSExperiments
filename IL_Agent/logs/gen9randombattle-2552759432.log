@@ -1,0 +1,141 @@
+|j|☆Dr.lisek_68+1
+|j|☆Slothguy1236
+|t:|1772750522
+|gametype|singles
+|player|p1|Dr.lisek_68+1|ingo|1127
+|player|p2|Slothguy1236|lucas|1124
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772750522
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Alomomola|Alomomola, L87, F|429/429
+|switch|p2a: Delibird|Delibird, F|252/252
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Slothguy1236)
+|
+|t:|1772750528
+|move|p2a: Delibird|Spikes|p1a: Alomomola
+|-sidestart|p1: Dr.lisek_68+1|Spikes
+|move|p1a: Alomomola|Scald|p2a: Delibird
+|-damage|p2a: Delibird|191/252
+|
+|upkeep
+|turn|2
+|
+|t:|1772750550
+|switch|p1a: Zacian|Zacian-Crowned, L64|225/225
+|-damage|p1a: Zacian|197/225|[from] Spikes
+|-ability|p1a: Zacian|Intrepid Sword|boost
+|-boost|p1a: Zacian|atk|1
+|move|p2a: Delibird|Spikes|p1a: Zacian
+|-sidestart|p1: Dr.lisek_68+1|Spikes
+|
+|upkeep
+|turn|3
+|
+|t:|1772750559
+|move|p1a: Zacian|Swords Dance|p1a: Zacian
+|-boost|p1a: Zacian|atk|2
+|move|p2a: Delibird|Spikes|p1a: Zacian
+|-sidestart|p1: Dr.lisek_68+1|Spikes
+|
+|upkeep
+|turn|4
+|
+|t:|1772750564
+|move|p1a: Zacian|Behemoth Blade|p2a: Delibird
+|-supereffective|p2a: Delibird
+|-damage|p2a: Delibird|0 fnt
+|faint|p2a: Delibird
+|
+|upkeep
+|
+|t:|1772750572
+|switch|p2a: Overqwil|Overqwil, L82, F|274/274
+|-ability|p2a: Overqwil|Intimidate|boost
+|-unboost|p1a: Zacian|atk|1
+|turn|5
+|inactive|Dr.lisek_68+1 has 120 seconds left.
+|
+|t:|1772750602
+|-terastallize|p1a: Zacian|Fighting
+|move|p1a: Zacian|Close Combat|p2a: Overqwil
+|-damage|p2a: Overqwil|75/274
+|-unboost|p1a: Zacian|def|1
+|-unboost|p1a: Zacian|spd|1
+|move|p2a: Overqwil|Crunch|p1a: Zacian
+|-resisted|p1a: Zacian
+|-damage|p1a: Zacian|122/225
+|
+|upkeep
+|turn|6
+|
+|t:|1772750612
+|move|p1a: Zacian|Behemoth Blade|p2a: Overqwil
+|-damage|p2a: Overqwil|0 fnt
+|faint|p2a: Overqwil
+|
+|upkeep
+|
+|t:|1772750617
+|switch|p2a: Altaria|Altaria, L89, M|278/278
+|turn|7
+|
+|t:|1772750620
+|move|p1a: Zacian|Play Rough|p2a: Altaria
+|-supereffective|p2a: Altaria
+|-damage|p2a: Altaria|0 fnt
+|faint|p2a: Altaria
+|
+|upkeep
+|
+|t:|1772750623
+|switch|p2a: Conkeldurr|Conkeldurr, L80, M|299/299
+|turn|8
+|
+|t:|1772750628
+|move|p1a: Zacian|Play Rough|p2a: Conkeldurr
+|-supereffective|p2a: Conkeldurr
+|-damage|p2a: Conkeldurr|0 fnt
+|faint|p2a: Conkeldurr
+|
+|upkeep
+|
+|t:|1772750631
+|switch|p2a: Mamoswine|Mamoswine, L81, F|311/311
+|turn|9
+|
+|t:|1772750643
+|move|p1a: Zacian|Close Combat|p2a: Mamoswine
+|-supereffective|p2a: Mamoswine
+|-damage|p2a: Mamoswine|0 fnt
+|-unboost|p1a: Zacian|def|1
+|-unboost|p1a: Zacian|spd|1
+|faint|p2a: Mamoswine
+|
+|upkeep
+|
+|t:|1772750645
+|switch|p2a: Miraidon|Miraidon, L65|238/238
+|-fieldstart|move: Electric Terrain|[from] ability: Hadron Engine|[of] p2a: Miraidon
+|turn|10
+|
+|t:|1772750653
+|move|p1a: Zacian|Play Rough|p2a: Miraidon
+|-supereffective|p2a: Miraidon
+|-damage|p2a: Miraidon|0 fnt
+|faint|p2a: Miraidon
+|
+|win|Dr.lisek_68+1
+|raw|Dr.lisek_68+1's rating: 1127 &rarr; <strong>1152</strong><br />(+25 for winning)
+|raw|Slothguy1236's rating: 1124 &rarr; <strong>1099</strong><br />(-25 for losing)
+|l|☆Slothguy1236
+|player|p2|

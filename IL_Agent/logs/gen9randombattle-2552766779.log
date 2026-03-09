@@ -1,0 +1,68 @@
+|j|☆sdrews
+|j|☆Jenome
+|t:|1772751294
+|gametype|singles
+|player|p1|sdrews|sonia|1488
+|player|p2|Jenome|gentleman-gen4|1535
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772751294
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Sudowoodo|Sudowoodo, L94, F|284/284
+|switch|p2a: Koraidon|Koraidon, L64|235/235
+|-weather|SunnyDay|[from] ability: Orichalcum Pulse|[of] p2a: Koraidon
+|-activate|p2a: Koraidon|Orichalcum Pulse|[source]
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Jenome)
+|
+|t:|1772751338
+|move|p2a: Koraidon|Swords Dance|p2a: Koraidon
+|-boost|p2a: Koraidon|atk|2
+|move|p1a: Sudowoodo|Stealth Rock|p2a: Koraidon
+|-sidestart|p2: Jenome|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1772751346
+|move|p2a: Koraidon|Collision Course|p1a: Sudowoodo
+|-supereffective|p1a: Sudowoodo
+|-damage|p1a: Sudowoodo|0 fnt
+|faint|p1a: Sudowoodo
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1772751351
+|switch|p1a: Rillaboom|Rillaboom, L79, F|219/219
+|turn|3
+|
+|t:|1772751360
+|move|p1a: Rillaboom|Will-O-Wisp|p2a: Koraidon|[miss]
+|-miss|p1a: Rillaboom|p2a: Koraidon
+|move|p2a: Koraidon|Flare Blitz|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|replace|p1a: Zoroark|Zoroark-Hisui, L80, F
+|-end|p1a: Zoroark|Illusion
+|-hint|Illusion Level Mod is active, so this Pokémon's true level was hidden.
+|faint|p1a: Zoroark
+|-damage|p2a: Koraidon|163/235|[from] Recoil
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|-message|sdrews forfeited.
+|
+|win|Jenome
+|raw|sdrews's rating: 1488 &rarr; <strong>1471</strong><br />(-17 for losing)
+|raw|Jenome's rating: 1535 &rarr; <strong>1552</strong><br />(+17 for winning)
+|l|☆sdrews
+|player|p1|

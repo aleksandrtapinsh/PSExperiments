@@ -1,0 +1,282 @@
+|j|☆shimimba
+|j|☆hakunapatutoe
+|t:|1772745408
+|gametype|singles
+|player|p1|shimimba|roxie|1564
+|player|p2|hakunapatutoe|169|1505
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772745408
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Jirachi|Jirachi, L80|291/291
+|switch|p2a: Floatzel|Floatzel, L86, M|286/286
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by hakunapatutoe)
+|inactive|shimimba also wants the timer to be on.
+|
+|t:|1772745433
+|move|p1a: Jirachi|U-turn|p2a: Floatzel
+|-damage|p2a: Floatzel|225/286
+|
+|t:|1772745444
+|switch|p1a: Skuntank|Skuntank, L84, F|310/310|[from] U-turn
+|move|p2a: Floatzel|Flip Turn|p1a: Skuntank
+|-damage|p1a: Skuntank|190/310
+|inactive|hakunapatutoe has 120 seconds left.
+|
+|t:|1772745475
+|switch|p2a: Espeon|Espeon, L84, M|246/246|[from] Flip Turn
+|
+|upkeep
+|turn|2
+|
+|t:|1772745493
+|-terastallize|p2a: Espeon|Fairy
+|move|p2a: Espeon|Alluring Voice|p1a: Skuntank
+|-damage|p1a: Skuntank|25/310
+|-damage|p2a: Espeon|222/246|[from] item: Life Orb
+|move|p1a: Skuntank|Knock Off|p2a: Espeon
+|-resisted|p2a: Espeon
+|-damage|p2a: Espeon|138/246
+|-enditem|p2a: Espeon|Life Orb|[from] move: Knock Off|[of] p1a: Skuntank
+|-damage|p1a: Skuntank|0 fnt|[from] item: Life Orb
+|faint|p1a: Skuntank
+|
+|upkeep
+|
+|t:|1772745506
+|switch|p1a: Jirachi|Jirachi, L80|291/291
+|turn|3
+|
+|t:|1772745515
+|switch|p2a: Floatzel|Floatzel, L86, M|225/286
+|move|p1a: Jirachi|Psychic|p2a: Floatzel
+|-damage|p2a: Floatzel|84/286
+|
+|upkeep
+|turn|4
+|
+|t:|1772745528
+|move|p1a: Jirachi|Psychic|p2a: Floatzel
+|-damage|p2a: Floatzel|0 fnt
+|faint|p2a: Floatzel
+|
+|upkeep
+|
+|t:|1772745536
+|switch|p2a: Lunala|Lunala, L70|308/308
+|turn|5
+|
+|t:|1772745551
+|switch|p1a: Abomasnow|Abomasnow, L84, M|287/287
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p1a: Abomasnow
+|move|p2a: Lunala|Calm Mind|p2a: Lunala
+|-boost|p2a: Lunala|spa|1
+|-boost|p2a: Lunala|spd|1
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1772745565
+|move|p2a: Lunala|Moongeist Beam|p1a: Abomasnow
+|-damage|p1a: Abomasnow|140/287
+|move|p1a: Abomasnow|Wood Hammer|p2a: Lunala
+|-damage|p2a: Lunala|239/308
+|-damage|p1a: Abomasnow|117/287|[from] Recoil
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Lunala|258/308|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1772745575
+|move|p2a: Lunala|Moongeist Beam|p1a: Abomasnow
+|-damage|p1a: Abomasnow|0 fnt
+|faint|p1a: Abomasnow
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Lunala|277/308|[from] item: Leftovers
+|upkeep
+|
+|t:|1772745585
+|switch|p1a: Raikou|Raikou, L81|278/278
+|-ability|p1a: Raikou|Pressure
+|turn|8
+|
+|t:|1772745604
+|move|p1a: Raikou|Shadow Ball|p2a: Lunala
+|-supereffective|p2a: Lunala
+|-damage|p2a: Lunala|33/308
+|move|p2a: Lunala|Calm Mind|p2a: Lunala
+|-boost|p2a: Lunala|spa|1
+|-boost|p2a: Lunala|spd|1
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Lunala|52/308|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1772745619
+|switch|p2a: Espeon|Espeon, L84, M, tera:Fairy|138/246
+|move|p1a: Raikou|Shadow Ball|p2a: Espeon
+|-damage|p2a: Espeon|53/246
+|
+|-weather|none
+|upkeep
+|turn|10
+|
+|t:|1772745627
+|move|p1a: Raikou|Shadow Ball|p2a: Espeon
+|-damage|p2a: Espeon|0 fnt
+|faint|p2a: Espeon
+|
+|upkeep
+|inactive|hakunapatutoe has 120 seconds left.
+|
+|t:|1772745661
+|switch|p2a: Minior|Minior-Orange, L79|224/224
+|-formechange|p2a: Minior|Minior-Meteor||[from] ability: Shields Down
+|turn|11
+|
+|t:|1772745685
+|switch|p1a: Jirachi|Jirachi, L80|291/291
+|move|p2a: Minior|Earthquake|p1a: Jirachi
+|-supereffective|p1a: Jirachi
+|-damage|p1a: Jirachi|199/291
+|
+|upkeep
+|turn|12
+|inactive|hakunapatutoe has 120 seconds left.
+|
+|t:|1772745701
+|move|p1a: Jirachi|U-turn|p2a: Minior
+|-resisted|p2a: Minior
+|-damage|p2a: Minior|201/224
+|
+|t:|1772745703
+|switch|p1a: Raikou|Raikou, L81|278/278|[from] U-turn
+|-ability|p1a: Raikou|Pressure
+|move|p2a: Minior|Shell Smash|p2a: Minior
+|-unboost|p2a: Minior|def|1
+|-unboost|p2a: Minior|spd|1
+|-boost|p2a: Minior|atk|2
+|-boost|p2a: Minior|spa|2
+|-boost|p2a: Minior|spe|2
+|-enditem|p2a: Minior|White Herb
+|-clearnegativeboost|p2a: Minior|[silent]
+|
+|upkeep
+|turn|13
+|inactive|hakunapatutoe has 120 seconds left.
+|
+|t:|1772745716
+|-terastallize|p1a: Raikou|Water
+|move|p2a: Minior|Earthquake|p1a: Raikou
+|-damage|p1a: Raikou|171/278
+|move|p1a: Raikou|Volt Switch|p2a: Minior
+|-supereffective|p2a: Minior
+|-damage|p2a: Minior|0 fnt
+|faint|p2a: Minior
+|
+|t:|1772745723
+|switch|p1a: Jirachi|Jirachi, L80|199/291|[from] Volt Switch
+|
+|upkeep
+|inactive|hakunapatutoe has 120 seconds left.
+|
+|t:|1772745737
+|switch|p2a: Hippowdon|Hippowdon, L82, M|311/311
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|turn|14
+|inactive|hakunapatutoe has 120 seconds left.
+|
+|t:|1772745754
+|move|p1a: Jirachi|Psychic|p2a: Hippowdon
+|-damage|p2a: Hippowdon|202/311
+|move|p2a: Hippowdon|Curse|p2a: Hippowdon
+|-unboost|p2a: Hippowdon|spe|1
+|-boost|p2a: Hippowdon|atk|1
+|-boost|p2a: Hippowdon|def|1
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Hippowdon|221/311|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1772745763
+|move|p1a: Jirachi|Psychic|p2a: Hippowdon
+|-damage|p2a: Hippowdon|115/311
+|move|p2a: Hippowdon|Earthquake|p1a: Jirachi
+|-supereffective|p1a: Jirachi
+|-damage|p1a: Jirachi|0 fnt
+|faint|p1a: Jirachi
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Hippowdon|134/311|[from] item: Leftovers
+|upkeep
+|
+|t:|1772745767
+|switch|p1a: Raikou|Raikou, L81, tera:Water|171/278
+|-ability|p1a: Raikou|Pressure
+|turn|16
+|
+|t:|1772745775
+|move|p1a: Raikou|Scald|p2a: Hippowdon
+|-supereffective|p2a: Hippowdon
+|-damage|p2a: Hippowdon|0 fnt
+|faint|p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Raikou|154/278|[from] Sandstorm
+|upkeep
+|
+|t:|1772745785
+|switch|p2a: Scyther|Scyther, L82, M|249/249
+|turn|17
+|
+|t:|1772745798
+|move|p1a: Raikou|Scald|p2a: Scyther
+|-damage|p2a: Scyther|92/249
+|move|p2a: Scyther|Close Combat|p1a: Raikou
+|-damage|p1a: Raikou|47/278
+|-unboost|p2a: Scyther|def|1
+|-unboost|p2a: Scyther|spd|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Raikou|30/278|[from] Sandstorm
+|-damage|p2a: Scyther|77/249|[from] Sandstorm
+|upkeep
+|turn|18
+|
+|t:|1772745809
+|switch|p2a: Lunala|Lunala, L70|52/308
+|move|p1a: Raikou|Scald|p2a: Lunala
+|-damage|p2a: Lunala|0 fnt
+|faint|p2a: Lunala
+|
+|-weather|none
+|upkeep
+|
+|t:|1772745816
+|switch|p2a: Scyther|Scyther, L82, M|77/249
+|turn|19
+|
+|t:|1772745819
+|move|p1a: Raikou|Scald|p2a: Scyther
+|-damage|p2a: Scyther|0 fnt
+|faint|p2a: Scyther
+|
+|win|shimimba
+|raw|shimimba's rating: 1564 &rarr; <strong>1581</strong><br />(+17 for winning)
+|raw|hakunapatutoe's rating: 1505 &rarr; <strong>1488</strong><br />(-17 for losing)
+|l|☆hakunapatutoe
+|player|p2|

@@ -1,0 +1,377 @@
+|j|☆Cubielubie
+|j|☆Natfloco
+|t:|1772743932
+|gametype|singles
+|player|p1|Cubielubie|265|1583
+|player|p2|Natfloco|169|1588
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772743932
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Goodra|Goodra-Hisui, L82, M|265/265
+|switch|p2a: Glaceon|Glaceon, L94, F|275/275
+|turn|1
+|
+|t:|1772743951
+|switch|p2a: Hariyama|Hariyama, L87, M|392/392
+|move|p1a: Goodra|Heavy Slam|p2a: Hariyama
+|-damage|p2a: Hariyama|343/392
+|
+|-status|p2a: Hariyama|brn|[from] item: Flame Orb
+|upkeep
+|turn|2
+|
+|t:|1772743959
+|switch|p1a: Amoonguss|Amoonguss, L82, M|321/321
+|move|p2a: Hariyama|Close Combat|p1a: Amoonguss
+|-resisted|p1a: Amoonguss
+|-damage|p1a: Amoonguss|180/321
+|-unboost|p2a: Hariyama|def|1
+|-unboost|p2a: Hariyama|spd|1
+|-damage|p2a: Hariyama|278/392 brn|[from] item: Rocky Helmet|[of] p1a: Amoonguss
+|
+|-damage|p2a: Hariyama|254/392 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1772743966
+|switch|p1a: Typhlosion|Typhlosion-Hisui, L83, M|257/257
+|move|p2a: Hariyama|Facade|p1a: Typhlosion
+|-immune|p1a: Typhlosion
+|
+|-damage|p2a: Hariyama|230/392 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1772743973
+|move|p1a: Typhlosion|Eruption|p2a: Hariyama
+|-damage|p2a: Hariyama|0 fnt
+|faint|p2a: Hariyama
+|
+|upkeep
+|
+|t:|1772743988
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, L76, F|247/247
+|turn|5
+|
+|t:|1772743999
+|switch|p1a: Amoonguss|Amoonguss, L82, M|287/321
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Amoonguss|[anim] Ivy Cudgel Water
+|-resisted|p1a: Amoonguss
+|-damage|p1a: Amoonguss|209/321
+|
+|upkeep
+|turn|6
+|
+|t:|1772744009
+|switch|p2a: Vikavolt|Vikavolt, L83, F|263/263
+|move|p1a: Amoonguss|Sludge Bomb|p2a: Vikavolt
+|-damage|p2a: Vikavolt|172/263
+|
+|upkeep
+|turn|7
+|
+|t:|1772744017
+|switch|p1a: Goodra|Goodra-Hisui, L82, M|265/265
+|move|p2a: Vikavolt|Sticky Web|p1a: Goodra
+|-sidestart|p1: Cubielubie|move: Sticky Web
+|
+|upkeep
+|turn|8
+|
+|t:|1772744034
+|move|p1a: Goodra|Draco Meteor|p2a: Vikavolt
+|-damage|p2a: Vikavolt|16/263
+|-unboost|p1a: Goodra|spa|2
+|move|p2a: Vikavolt|Discharge|p1a: Goodra
+|-resisted|p1a: Goodra
+|-damage|p1a: Goodra|241/265
+|-status|p1a: Goodra|par
+|
+|upkeep
+|turn|9
+|
+|t:|1772744045
+|move|p2a: Vikavolt|Discharge|p1a: Goodra
+|-resisted|p1a: Goodra
+|-damage|p1a: Goodra|217/265 par
+|cant|p1a: Goodra|par
+|
+|upkeep
+|turn|10
+|
+|t:|1772744052
+|switch|p2a: Vigoroth|Vigoroth, L85, M|275/275
+|move|p1a: Goodra|Knock Off|p2a: Vigoroth
+|-damage|p2a: Vigoroth|231/275
+|-enditem|p2a: Vigoroth|Eviolite|[from] move: Knock Off|[of] p1a: Goodra
+|
+|upkeep
+|turn|11
+|
+|t:|1772744061
+|switch|p1a: Forretress|Forretress, L84, F|263/263
+|-activate|p1a: Forretress|move: Sticky Web
+|-unboost|p1a: Forretress|spe|1
+|move|p2a: Vigoroth|Bulk Up|p2a: Vigoroth
+|-boost|p2a: Vigoroth|atk|1
+|-boost|p2a: Vigoroth|def|1
+|
+|upkeep
+|turn|12
+|
+|t:|1772744066
+|move|p2a: Vigoroth|Bulk Up|p2a: Vigoroth
+|-boost|p2a: Vigoroth|atk|1
+|-boost|p2a: Vigoroth|def|1
+|move|p1a: Forretress|Rapid Spin|p2a: Vigoroth
+|-damage|p2a: Vigoroth|212/275
+|-boost|p1a: Forretress|spe|1
+|-sideend|p1: Cubielubie|Sticky Web|[from] move: Rapid Spin|[of] p1a: Forretress
+|
+|upkeep
+|turn|13
+|
+|t:|1772744076
+|move|p2a: Vigoroth|Bulk Up|p2a: Vigoroth
+|-boost|p2a: Vigoroth|atk|1
+|-boost|p2a: Vigoroth|def|1
+|move|p1a: Forretress|Spikes|p2a: Vigoroth
+|-sidestart|p2: Natfloco|Spikes
+|
+|upkeep
+|turn|14
+|
+|t:|1772744081
+|move|p2a: Vigoroth|Bulk Up|p2a: Vigoroth
+|-boost|p2a: Vigoroth|atk|1
+|-boost|p2a: Vigoroth|def|1
+|move|p1a: Forretress|Body Press|p2a: Vigoroth
+|-supereffective|p2a: Vigoroth
+|-damage|p2a: Vigoroth|160/275
+|
+|upkeep
+|turn|15
+|
+|t:|1772744087
+|move|p2a: Vigoroth|Bulk Up|p2a: Vigoroth
+|-boost|p2a: Vigoroth|atk|1
+|-boost|p2a: Vigoroth|def|1
+|move|p1a: Forretress|Spikes|p2a: Vigoroth
+|-sidestart|p2: Natfloco|Spikes
+|
+|upkeep
+|turn|16
+|
+|t:|1772744091
+|move|p2a: Vigoroth|Bulk Up|p2a: Vigoroth
+|-boost|p2a: Vigoroth|atk|1
+|-boost|p2a: Vigoroth|def|1
+|move|p1a: Forretress|Spikes|p2a: Vigoroth
+|-sidestart|p2: Natfloco|Spikes
+|
+|upkeep
+|turn|17
+|
+|t:|1772744095
+|move|p2a: Vigoroth|Earthquake|p1a: Forretress
+|-damage|p1a: Forretress|94/263
+|move|p1a: Forretress|Rapid Spin|p2a: Vigoroth
+|-damage|p2a: Vigoroth|151/275
+|-boost|p1a: Forretress|spe|1
+|
+|-heal|p1a: Forretress|110/263|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1772744099
+|move|p2a: Vigoroth|Earthquake|p1a: Forretress
+|-damage|p1a: Forretress|0 fnt
+|faint|p1a: Forretress
+|
+|upkeep
+|
+|t:|1772744101
+|switch|p1a: Typhlosion|Typhlosion-Hisui, L83, M|257/257
+|turn|19
+|
+|t:|1772744104
+|move|p1a: Typhlosion|Eruption|p2a: Vigoroth
+|-damage|p2a: Vigoroth|0 fnt
+|faint|p2a: Vigoroth
+|
+|upkeep
+|
+|t:|1772744110
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, L76, F|247/247
+|-damage|p2a: Ogerpon|186/247|[from] Spikes
+|turn|20
+|
+|t:|1772744127
+|switch|p2a: Vikavolt|Vikavolt, L83, F|16/263
+|switch|p1a: Amoonguss|Amoonguss, L82, M|316/321
+|
+|upkeep
+|turn|21
+|
+|t:|1772744137
+|switch|p1a: Serperior|Serperior, L79, F|248/248
+|move|p2a: Vikavolt|Sticky Web|p1a: Serperior
+|-sidestart|p1: Cubielubie|move: Sticky Web
+|
+|upkeep
+|turn|22
+|
+|t:|1772744142
+|move|p1a: Serperior|Leaf Storm|p2a: Vikavolt
+|-resisted|p2a: Vikavolt
+|-damage|p2a: Vikavolt|0 fnt
+|-boost|p1a: Serperior|spa|2
+|faint|p2a: Vikavolt
+|-damage|p1a: Serperior|224/248|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772744146
+|switch|p2a: Glaceon|Glaceon, L94, F|275/275
+|turn|23
+|
+|t:|1772744150
+|move|p1a: Serperior|Leaf Storm|p2a: Glaceon
+|-damage|p2a: Glaceon|59/275
+|-boost|p1a: Serperior|spa|2
+|-damage|p1a: Serperior|200/248|[from] item: Life Orb
+|move|p2a: Glaceon|Freeze-Dry|p1a: Serperior
+|-supereffective|p1a: Serperior
+|-damage|p1a: Serperior|0 fnt
+|faint|p1a: Serperior
+|
+|upkeep
+|
+|t:|1772744158
+|switch|p1a: Goodra|Goodra-Hisui, L82, M|217/265 par
+|-activate|p1a: Goodra|move: Sticky Web
+|-unboost|p1a: Goodra|spe|1
+|turn|24
+|
+|t:|1772744164
+|move|p2a: Glaceon|Wish|p2a: Glaceon
+|move|p1a: Goodra|Heavy Slam|p2a: Glaceon
+|-supereffective|p2a: Glaceon
+|-damage|p2a: Glaceon|0 fnt
+|faint|p2a: Glaceon
+|
+|upkeep
+|
+|t:|1772744169
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, L76, F|186/247
+|-damage|p2a: Ogerpon|125/247|[from] Spikes
+|turn|25
+|
+|t:|1772744173
+|switch|p1a: Amoonguss|Amoonguss, L82, M|321/321
+|-activate|p1a: Amoonguss|move: Sticky Web
+|-unboost|p1a: Amoonguss|spe|1
+|move|p2a: Ogerpon|Swords Dance|p2a: Ogerpon
+|-boost|p2a: Ogerpon|atk|2
+|
+|-heal|p2a: Ogerpon|247/247|[from] move: Wish|[wisher] Glaceon
+|upkeep
+|turn|26
+|
+|t:|1772744179
+|move|p2a: Ogerpon|Swords Dance|p2a: Ogerpon
+|-boost|p2a: Ogerpon|atk|2
+|move|p1a: Amoonguss|Sludge Bomb|p2a: Ogerpon
+|-supereffective|p2a: Ogerpon
+|-damage|p2a: Ogerpon|65/247
+|
+|upkeep
+|turn|27
+|
+|t:|1772744184
+|-terastallize|p2a: Ogerpon|Water
+|detailschange|p2a: Ogerpon|Ogerpon-Wellspring-Tera, L76, F, tera:Water
+|-ability|p2a: Ogerpon|Embody Aspect (Wellspring)|boost
+|-boost|p2a: Ogerpon|spd|1
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Amoonguss|[anim] Ivy Cudgel Water
+|-resisted|p1a: Amoonguss
+|-crit|p1a: Amoonguss
+|-damage|p1a: Amoonguss|0 fnt
+|faint|p1a: Amoonguss
+|
+|upkeep
+|
+|t:|1772744192
+|switch|p1a: Quagsire|Quagsire, L84, F|297/297
+|-activate|p1a: Quagsire|move: Sticky Web
+|-unboost|p1a: Quagsire|spe|1
+|turn|28
+|
+|t:|1772744198
+|-terastallize|p1a: Quagsire|Steel
+|move|p2a: Ogerpon|Power Whip|p1a: Quagsire
+|-resisted|p1a: Quagsire
+|-damage|p1a: Quagsire|225/297
+|move|p1a: Quagsire|Earthquake|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|detailschange|p2: Ogerpon|Ogerpon-Wellspring, L76, F|[silent]
+|
+|-heal|p1a: Quagsire|243/297|[from] item: Leftovers
+|upkeep
+|
+|t:|1772744200
+|switch|p2a: Ludicolo|Ludicolo, L90, M|290/290
+|-damage|p2a: Ludicolo|218/290|[from] Spikes
+|turn|29
+|
+|t:|1772744209
+|move|p2a: Ludicolo|Hydro Pump|p1a: Quagsire
+|-damage|p1a: Quagsire|5/297
+|move|p1a: Quagsire|Toxic|p2a: Ludicolo
+|-status|p2a: Ludicolo|tox
+|
+|-heal|p1a: Quagsire|23/297|[from] item: Leftovers
+|-damage|p2a: Ludicolo|200/290 tox|[from] psn
+|upkeep
+|turn|30
+|
+|t:|1772744215
+|move|p2a: Ludicolo|Hydro Pump|p1a: Quagsire
+|-damage|p1a: Quagsire|0 fnt
+|faint|p1a: Quagsire
+|
+|-damage|p2a: Ludicolo|164/290 tox|[from] psn
+|upkeep
+|
+|t:|1772744219
+|switch|p1a: Goodra|Goodra-Hisui, L82, M|217/265 par
+|-activate|p1a: Goodra|move: Sticky Web
+|-unboost|p1a: Goodra|spe|1
+|turn|31
+|
+|t:|1772744227
+|move|p2a: Ludicolo|Hydro Pump|p1a: Goodra
+|-resisted|p1a: Goodra
+|-damage|p1a: Goodra|178/265 par
+|cant|p1a: Goodra|par
+|
+|-damage|p2a: Ludicolo|110/290 tox|[from] psn
+|upkeep
+|turn|32
+|-message|Natfloco forfeited.
+|
+|win|Cubielubie
+|raw|Cubielubie's rating: 1583 &rarr; <strong>1603</strong><br />(+20 for winning)
+|raw|Natfloco's rating: 1588 &rarr; <strong>1568</strong><br />(-20 for losing)
+|l|☆Natfloco
+|player|p2|

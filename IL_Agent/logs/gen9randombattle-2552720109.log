@@ -1,0 +1,395 @@
+|j|☆Gatito345
+|j|☆bibo boggins
+|t:|1772746630
+|gametype|singles
+|player|p1|Gatito345|lucas|1331
+|player|p2|bibo boggins|jogger|1322
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772746630
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Miraidon|Miraidon, L65|238/238
+|switch|p2a: Spiritomb|Spiritomb, L89, F|234/234
+|-fieldstart|move: Electric Terrain|[from] ability: Hadron Engine|[of] p1a: Miraidon
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Gatito345)
+|
+|t:|1772746646
+|move|p1a: Miraidon|Volt Switch|p2a: Spiritomb
+|-damage|p2a: Spiritomb|104/234
+|
+|t:|1772746650
+|switch|p1a: Raikou|Raikou, L81|278/278|[from] Volt Switch
+|-ability|p1a: Raikou|Pressure
+|move|p2a: Spiritomb|Pain Split|p1a: Raikou
+|-sethp|p1a: Raikou|191/278|[from] move: Pain Split|[silent]
+|-sethp|p2a: Spiritomb|191/234|[from] move: Pain Split
+|
+|-heal|p1a: Raikou|208/278|[from] item: Leftovers
+|-heal|p2a: Spiritomb|205/234|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1772746661
+|move|p1a: Raikou|Substitute|p1a: Raikou
+|-start|p1a: Raikou|Substitute
+|-damage|p1a: Raikou|139/278
+|move|p2a: Spiritomb|Poltergeist|p1a: Raikou|[miss]
+|-miss|p2a: Spiritomb|p1a: Raikou
+|
+|-heal|p1a: Raikou|156/278|[from] item: Leftovers
+|-heal|p2a: Spiritomb|219/234|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1772746669
+|move|p1a: Raikou|Calm Mind|p1a: Raikou
+|-boost|p1a: Raikou|spa|1
+|-boost|p1a: Raikou|spd|1
+|move|p2a: Spiritomb|Foul Play|p1a: Raikou
+|-crit|p1a: Raikou
+|-damage|p1a: Raikou|20/278
+|
+|-heal|p1a: Raikou|37/278|[from] item: Leftovers
+|-heal|p2a: Spiritomb|233/234|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1772746679
+|move|p1a: Raikou|Thunderbolt|p2a: Spiritomb
+|-damage|p2a: Spiritomb|73/234
+|move|p2a: Spiritomb|Foul Play|p1a: Raikou
+|-damage|p1a: Raikou|0 fnt
+|faint|p1a: Raikou
+|
+|-heal|p2a: Spiritomb|87/234|[from] item: Leftovers
+|upkeep
+|
+|t:|1772746688
+|switch|p1a: Miraidon|Miraidon, L65|238/238
+|-activate|p1a: Miraidon|ability: Hadron Engine
+|turn|5
+|
+|t:|1772746699
+|switch|p2a: Garchomp|Garchomp, L74, M|282/282
+|move|p1a: Miraidon|Volt Switch|p2a: Garchomp
+|-immune|p2a: Garchomp
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|6
+|
+|t:|1772746713
+|switch|p1a: Iron Valiant|Iron Valiant, L78|244/244
+|move|p2a: Garchomp|Dragon Tail|p1a: Iron Valiant
+|-immune|p1a: Iron Valiant
+|
+|upkeep
+|turn|7
+|
+|t:|1772746734
+|switch|p2a: Houndstone|Houndstone, L86, M|264/264
+|move|p1a: Iron Valiant|Knock Off|p2a: Houndstone
+|-supereffective|p2a: Houndstone
+|-damage|p2a: Houndstone|170/264
+|-enditem|p2a: Houndstone|Choice Band|[from] move: Knock Off|[of] p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|220/244|[from] item: Life Orb
+|
+|upkeep
+|turn|8
+|
+|t:|1772746754
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Annihilape|Annihilape, L76, F|292/292
+|move|p2a: Houndstone|Play Rough|p1a: Annihilape
+|-supereffective|p1a: Annihilape
+|-damage|p1a: Annihilape|126/292
+|
+|-heal|p1a: Annihilape|144/292|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1772746768
+|move|p2a: Houndstone|Shadow Sneak|p1a: Annihilape
+|-supereffective|p1a: Annihilape
+|-damage|p1a: Annihilape|42/292
+|move|p1a: Annihilape|Rage Fist|p2a: Houndstone
+|-supereffective|p2a: Houndstone
+|-damage|p2a: Houndstone|32/264
+|
+|-heal|p1a: Annihilape|60/292|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1772746786
+|switch|p1a: Shaymin|Shaymin-Sky, L73|266/266
+|move|p2a: Houndstone|Shadow Sneak|p1a: Shaymin
+|-damage|p1a: Shaymin|203/266
+|
+|upkeep
+|turn|11
+|
+|t:|1772746797
+|switch|p2a: Zebstrika|Zebstrika, L87, M|272/272
+|move|p1a: Shaymin|Dazzling Gleam|p2a: Zebstrika
+|-damage|p2a: Zebstrika|176/272
+|
+|upkeep
+|turn|12
+|
+|t:|1772746805
+|switch|p1a: Armarouge|Armarouge, L80, M|267/267
+|move|p2a: Zebstrika|Overheat|p1a: Armarouge
+|-resisted|p1a: Armarouge
+|-damage|p1a: Armarouge|203/267
+|-unboost|p2a: Zebstrika|spa|2
+|-damage|p2a: Zebstrika|149/272|[from] item: Life Orb
+|
+|upkeep
+|turn|13
+|
+|t:|1772746816
+|switch|p1a: Shaymin|Shaymin-Sky, L73|203/266
+|move|p2a: Zebstrika|High Horsepower|p1a: Shaymin
+|-immune|p1a: Shaymin
+|
+|upkeep
+|turn|14
+|
+|t:|1772746824
+|move|p2a: Zebstrika|Volt Switch|p1a: Shaymin
+|-damage|p1a: Shaymin|148/266
+|-damage|p2a: Zebstrika|122/272|[from] item: Life Orb
+|
+|t:|1772746835
+|switch|p2a: Ribombee|Ribombee, L83, F|235/235|[from] Volt Switch
+|move|p1a: Shaymin|Seed Flare|p2a: Ribombee
+|-resisted|p2a: Ribombee
+|-damage|p2a: Ribombee|129/235
+|
+|upkeep
+|turn|15
+|
+|t:|1772746847
+|switch|p1a: Miraidon|Miraidon, L65|238/238
+|-fieldstart|move: Electric Terrain|[from] ability: Hadron Engine|[of] p1a: Miraidon
+|move|p2a: Ribombee|Sticky Web|p1a: Miraidon
+|-sidestart|p1: Gatito345|move: Sticky Web
+|
+|upkeep
+|turn|16
+|
+|t:|1772746862
+|move|p2a: Ribombee|Moonblast|p1a: Miraidon
+|-supereffective|p1a: Miraidon
+|-damage|p1a: Miraidon|20/238
+|move|p1a: Miraidon|Overheat|p2a: Ribombee
+|-supereffective|p2a: Ribombee
+|-damage|p2a: Ribombee|0 fnt
+|-unboost|p1a: Miraidon|spa|2
+|faint|p2a: Ribombee
+|
+|upkeep
+|
+|t:|1772746880
+|switch|p2a: Spiritomb|Spiritomb, L89, F|87/234
+|turn|17
+|
+|t:|1772746896
+|switch|p1a: Shaymin|Shaymin-Sky, L73|148/266
+|move|p2a: Spiritomb|Sucker Punch||[still]
+|-fail|p2a: Spiritomb
+|
+|-heal|p2a: Spiritomb|101/234|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1772746904
+|move|p2a: Spiritomb|Sucker Punch|p1a: Shaymin
+|-damage|p1a: Shaymin|40/266
+|move|p1a: Shaymin|Air Slash|p2a: Spiritomb
+|-damage|p2a: Spiritomb|11/234
+|
+|-heal|p2a: Spiritomb|25/234|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1772746913
+|switch|p1a: Iron Valiant|Iron Valiant, L78|220/244
+|-activate|p1a: Iron Valiant|move: Sticky Web
+|-unboost|p1a: Iron Valiant|spe|1
+|-activate|p1a: Iron Valiant|ability: Quark Drive
+|-start|p1a: Iron Valiant|quarkdriveatk
+|move|p2a: Spiritomb|Foul Play|p1a: Iron Valiant
+|-resisted|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|184/244
+|
+|-heal|p2a: Spiritomb|39/234|[from] item: Leftovers
+|-fieldend|move: Electric Terrain
+|-end|p1a: Iron Valiant|Quark Drive
+|upkeep
+|turn|20
+|
+|t:|1772746931
+|move|p1a: Iron Valiant|Spirit Break|p2a: Spiritomb
+|-supereffective|p2a: Spiritomb
+|-damage|p2a: Spiritomb|0 fnt
+|faint|p2a: Spiritomb
+|-damage|p1a: Iron Valiant|160/244|[from] item: Life Orb
+|
+|upkeep
+|inactive|bibo boggins has 120 seconds left.
+|
+|t:|1772746959
+|switch|p2a: Avalugg|Avalugg, L88, M|310/310
+|turn|21
+|
+|t:|1772746968
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Armarouge|Armarouge, L80, M|203/267
+|-activate|p1a: Armarouge|move: Sticky Web
+|-unboost|p1a: Armarouge|spe|1
+|move|p2a: Avalugg|Avalanche|p1a: Armarouge
+|-resisted|p1a: Armarouge
+|-damage|p1a: Armarouge|167/267
+|-ability|p1a: Armarouge|Weak Armor|boost
+|-unboost|p1a: Armarouge|def|1
+|-boost|p1a: Armarouge|spe|2
+|
+|upkeep
+|turn|22
+|inactive|bibo boggins has 120 seconds left.
+|
+|t:|1772746989
+|move|p1a: Armarouge|Aura Sphere|p2a: Avalugg
+|-supereffective|p2a: Avalugg
+|-damage|p2a: Avalugg|20/310
+|move|p2a: Avalugg|Rapid Spin|p1a: Armarouge
+|-damage|p1a: Armarouge|104/267
+|-boost|p2a: Avalugg|spe|1
+|-ability|p1a: Armarouge|Weak Armor|boost
+|-unboost|p1a: Armarouge|def|1
+|-boost|p1a: Armarouge|spe|2
+|
+|upkeep
+|turn|23
+|inactive|bibo boggins has 120 seconds left.
+|
+|t:|1772747001
+|switch|p2a: Houndstone|Houndstone, L86, M|32/264
+|move|p1a: Armarouge|Aura Sphere|p2a: Houndstone
+|-immune|p2a: Houndstone
+|
+|upkeep
+|turn|24
+|
+|t:|1772747011
+|switch|p1a: Iron Valiant|Iron Valiant, L78|160/244
+|-activate|p1a: Iron Valiant|move: Sticky Web
+|-unboost|p1a: Iron Valiant|spe|1
+|move|p2a: Houndstone|Shadow Sneak|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|115/244
+|
+|upkeep
+|turn|25
+|
+|t:|1772747020
+|switch|p2a: Avalugg|Avalugg, L88, M|20/310
+|move|p1a: Iron Valiant|Spirit Break|p2a: Avalugg
+|-damage|p2a: Avalugg|0 fnt
+|faint|p2a: Avalugg
+|-damage|p1a: Iron Valiant|91/244|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772747026
+|switch|p2a: Zebstrika|Zebstrika, L87, M|122/272
+|turn|26
+|
+|t:|1772747055
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Armarouge|Armarouge, L80, M|104/267
+|-activate|p1a: Armarouge|move: Sticky Web
+|-unboost|p1a: Armarouge|spe|1
+|move|p2a: Zebstrika|Supercell Slam|p1a: Armarouge
+|-damage|p1a: Armarouge|0 fnt
+|faint|p1a: Armarouge
+|-damage|p2a: Zebstrika|95/272|[from] item: Life Orb
+|
+|upkeep
+|inactive|Gatito345 has 120 seconds left.
+|
+|t:|1772747082
+|switch|p1a: Annihilape|Annihilape, L76, F|60/292
+|-activate|p1a: Annihilape|move: Sticky Web
+|-unboost|p1a: Annihilape|spe|1
+|-ability|p1a: Annihilape|Defiant|boost
+|-boost|p1a: Annihilape|atk|2
+|turn|27
+|
+|t:|1772747092
+|move|p2a: Zebstrika|High Horsepower|p1a: Annihilape
+|-crit|p1a: Annihilape
+|-damage|p1a: Annihilape|0 fnt
+|faint|p1a: Annihilape
+|-damage|p2a: Zebstrika|68/272|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772747111
+|switch|p1a: Shaymin|Shaymin-Sky, L73|40/266
+|turn|28
+|
+|t:|1772747117
+|move|p2a: Zebstrika|Overheat|p1a: Shaymin
+|-supereffective|p1a: Shaymin
+|-damage|p1a: Shaymin|0 fnt
+|-unboost|p2a: Zebstrika|spa|2
+|faint|p1a: Shaymin
+|-damage|p2a: Zebstrika|41/272|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772747125
+|switch|p1a: Iron Valiant|Iron Valiant, L78|91/244
+|-activate|p1a: Iron Valiant|move: Sticky Web
+|-unboost|p1a: Iron Valiant|spe|1
+|turn|29
+|
+|t:|1772747132
+|move|p2a: Zebstrika|High Horsepower|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|-damage|p2a: Zebstrika|14/272|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772747138
+|switch|p1a: Miraidon|Miraidon, L65|20/238
+|-activate|p1a: Miraidon|move: Sticky Web
+|-unboost|p1a: Miraidon|spe|1
+|-fieldstart|move: Electric Terrain|[from] ability: Hadron Engine|[of] p1a: Miraidon
+|turn|30
+|inactive|Gatito345 has 120 seconds left.
+|c|☆bibo boggins|polo on i got that horsepower
+|
+|t:|1772747149
+|move|p2a: Zebstrika|High Horsepower|p1a: Miraidon
+|-supereffective|p1a: Miraidon
+|-damage|p1a: Miraidon|0 fnt
+|faint|p1a: Miraidon
+|-damage|p2a: Zebstrika|0 fnt|[from] item: Life Orb
+|faint|p2a: Zebstrika
+|
+|win|bibo boggins
+|raw|Gatito345's rating: 1331 &rarr; <strong>1310</strong><br />(-21 for losing)
+|raw|bibo boggins's rating: 1322 &rarr; <strong>1343</strong><br />(+21 for winning)

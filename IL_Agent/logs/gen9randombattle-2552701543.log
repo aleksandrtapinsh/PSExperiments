@@ -1,0 +1,218 @@
+|j|☆a_g00se
+|j|☆Uncreative7452
+|t:|1772744857
+|gametype|singles
+|player|p1|a_g00se|169|1409
+|player|p2|Uncreative7452|tuber|1399
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772744857
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Cloyster|Cloyster, L80, M|211/211
+|switch|p2a: Ogerpon|Ogerpon-Hearthflame, L74, F|239/239
+|-ability|p2a: Ogerpon|Mold Breaker
+|turn|1
+|
+|t:|1772744888
+|switch|p1a: Flapple|Flapple, L88, F|266/266
+|move|p2a: Ogerpon|Power Whip|p1a: Flapple
+|-resisted|p1a: Flapple
+|-damage|p1a: Flapple|228/266
+|
+|upkeep
+|turn|2
+|
+|t:|1772744898
+|move|p2a: Ogerpon|Swords Dance|p2a: Ogerpon
+|-boost|p2a: Ogerpon|atk|2
+|move|p1a: Flapple|Dragon Dance|p1a: Flapple
+|-boost|p1a: Flapple|atk|1
+|-boost|p1a: Flapple|spe|1
+|
+|upkeep
+|turn|3
+|
+|t:|1772744909
+|-terastallize|p2a: Ogerpon|Fire
+|detailschange|p2a: Ogerpon|Ogerpon-Hearthflame-Tera, L74, F, tera:Fire
+|-ability|p2a: Ogerpon|Embody Aspect (Hearthflame)|boost
+|-boost|p2a: Ogerpon|atk|1
+|move|p1a: Flapple|Dragon Dance|p1a: Flapple
+|-boost|p1a: Flapple|atk|1
+|-boost|p1a: Flapple|spe|1
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Flapple|[anim] Ivy Cudgel Fire
+|-damage|p1a: Flapple|0 fnt
+|faint|p1a: Flapple
+|
+|upkeep
+|
+|t:|1772744951
+|switch|p1a: Kingdra|Kingdra, L84, F|263/263
+|turn|4
+|
+|t:|1772744967
+|move|p2a: Ogerpon|Power Whip|p1a: Kingdra
+|-damage|p1a: Kingdra|0 fnt
+|faint|p1a: Kingdra
+|
+|upkeep
+|
+|t:|1772744989
+|switch|p1a: Ditto|Ditto, L87|225/225
+|turn|5
+|
+|t:|1772744996
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Ditto|[anim] Ivy Cudgel Fire
+|-damage|p1a: Ditto|0 fnt
+|faint|p1a: Ditto
+|
+|upkeep
+|c|☆a_g00se|what
+|
+|t:|1772745028
+|switch|p1a: Brambleghast|Brambleghast, L88, F|240/240
+|turn|6
+|
+|t:|1772745036
+|move|p1a: Brambleghast|Poltergeist|p2a: Ogerpon
+|-activate|p2a: Ogerpon|move: Poltergeist|Hearthflame Mask
+|-damage|p2a: Ogerpon|64/239
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Brambleghast|[anim] Ivy Cudgel Fire
+|-supereffective|p1a: Brambleghast
+|-damage|p1a: Brambleghast|0 fnt
+|faint|p1a: Brambleghast
+|
+|upkeep
+|
+|t:|1772745049
+|switch|p1a: Espeon|Espeon, L84, M|246/246
+|turn|7
+|c|☆Uncreative7452|Ditto can’t copy terad ogerpon
+|
+|t:|1772745059
+|move|p1a: Espeon|Shadow Ball|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|detailschange|p2: Ogerpon|Ogerpon-Hearthflame, L74, F|[silent]
+|
+|upkeep
+|c|☆a_g00se|oh i see
+|c|☆a_g00se|tragic
+|
+|t:|1772745066
+|switch|p2a: Ting-Lu|Ting-Lu, L78|370/370
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|turn|8
+|
+|t:|1772745077
+|switch|p1a: Cloyster|Cloyster, L80, M|211/211
+|move|p2a: Ting-Lu|Spikes|p1a: Cloyster
+|-sidestart|p1: a_g00se|Spikes
+|
+|upkeep
+|turn|9
+|
+|t:|1772745085
+|-terastallize|p1a: Cloyster|Ground
+|move|p1a: Cloyster|Shell Smash|p1a: Cloyster
+|-unboost|p1a: Cloyster|def|1
+|-unboost|p1a: Cloyster|spd|1
+|-boost|p1a: Cloyster|atk|2
+|-boost|p1a: Cloyster|spa|2
+|-boost|p1a: Cloyster|spe|2
+|-enditem|p1a: Cloyster|White Herb
+|-clearnegativeboost|p1a: Cloyster|[silent]
+|move|p2a: Ting-Lu|Heavy Slam|p1a: Cloyster
+|-damage|p1a: Cloyster|164/211
+|
+|upkeep
+|turn|10
+|
+|t:|1772745089
+|move|p1a: Cloyster|Icicle Spear|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|292/370
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|208/370
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|124/370
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|44/370
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|0 fnt
+|faint|p2a: Ting-Lu
+|-hitcount|p2: Ting-Lu|5
+|
+|upkeep
+|
+|t:|1772745096
+|switch|p2a: Lumineon|Lumineon, L93, F|279/279
+|turn|11
+|
+|t:|1772745115
+|move|p1a: Cloyster|Drill Run|p2a: Lumineon
+|-damage|p2a: Lumineon|125/279
+|move|p2a: Lumineon|Hydro Pump|p1a: Cloyster
+|-supereffective|p1a: Cloyster
+|-damage|p1a: Cloyster|0 fnt
+|faint|p1a: Cloyster
+|-damage|p2a: Lumineon|98/279|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772745120
+|switch|p1a: Espeon|Espeon, L84, M|246/246
+|-damage|p1a: Espeon|216/246|[from] Spikes
+|turn|12
+|
+|t:|1772745128
+|move|p1a: Espeon|Psyshock|p2a: Lumineon
+|-damage|p2a: Lumineon|0 fnt
+|faint|p2a: Lumineon
+|
+|upkeep
+|
+|t:|1772745131
+|switch|p2a: Shaymin|Shaymin-Sky, L73|266/266
+|turn|13
+|
+|t:|1772745134
+|move|p1a: Espeon|Psyshock|p2a: Shaymin
+|-damage|p2a: Shaymin|52/266
+|move|p2a: Shaymin|Seed Flare|p1a: Espeon
+|-damage|p1a: Espeon|113/246
+|-unboost|p1a: Espeon|spd|2
+|
+|upkeep
+|turn|14
+|
+|t:|1772745153
+|move|p1a: Espeon|Psyshock|p2a: Shaymin
+|-damage|p2a: Shaymin|0 fnt
+|faint|p2a: Shaymin
+|
+|upkeep
+|
+|t:|1772745156
+|switch|p2a: Ribombee|Ribombee, L83, M|235/235
+|turn|15
+|
+|t:|1772745158
+|move|p2a: Ribombee|Bug Buzz|p1a: Espeon
+|-supereffective|p1a: Espeon
+|-damage|p1a: Espeon|0 fnt
+|faint|p1a: Espeon
+|
+|win|Uncreative7452
+|raw|a_g00se's rating: 1409 &rarr; <strong>1388</strong><br />(-21 for losing)
+|raw|Uncreative7452's rating: 1399 &rarr; <strong>1420</strong><br />(+21 for winning)
+|l|☆a_g00se
+|player|p1|

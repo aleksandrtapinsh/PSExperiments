@@ -1,0 +1,417 @@
+|j|☆m0untaineer
+|j|☆Kwazy Kupcakes
+|t:|1772751801
+|gametype|singles
+|player|p1|m0untaineer|102|1719
+|player|p2|Kwazy Kupcakes|102|1680
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772751801
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Jumpluff|Jumpluff, L87, F|271/271
+|switch|p2a: Palossand|Palossand, L89, F|296/296
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Kwazy Kupcakes)
+|
+|t:|1772751814
+|move|p1a: Jumpluff|Leech Seed|p2a: Palossand|[miss]
+|-miss|p1a: Jumpluff|p2a: Palossand
+|move|p2a: Palossand|Sludge Bomb|p1a: Jumpluff
+|-supereffective|p1a: Jumpluff
+|-crit|p1a: Jumpluff
+|-damage|p1a: Jumpluff|69/271
+|-status|p1a: Jumpluff|psn
+|
+|-damage|p1a: Jumpluff|36/271 psn|[from] psn
+|upkeep
+|turn|2
+|
+|t:|1772751825
+|switch|p2a: Chesnaught|Chesnaught, L84, F|285/285
+|move|p1a: Jumpluff|Acrobatics|p2a: Chesnaught
+|-supereffective|p2a: Chesnaught
+|-damage|p2a: Chesnaught|21/285
+|
+|-heal|p2a: Chesnaught|38/285|[from] item: Leftovers
+|-damage|p1a: Jumpluff|3/271 psn|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1772751837
+|switch|p1a: Yanmega|Yanmega, L82, F|275/275
+|switch|p2a: Ninetales|Ninetales-Alola, L78, F|242/242
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Ninetales
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1772751857
+|switch|p1a: Oranguru|Oranguru, L92, F|315/315
+|move|p2a: Ninetales|Aurora Veil|p2a: Ninetales
+|-sidestart|p2: Kwazy Kupcakes|move: Aurora Veil
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1772751876
+|move|p2a: Ninetales|Blizzard|p1a: Oranguru
+|-damage|p1a: Oranguru|246/315
+|move|p1a: Oranguru|Psyshock|p2a: Ninetales
+|-damage|p2a: Ninetales|203/242
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Oranguru|265/315|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1772751886
+|switch|p2a: Palossand|Palossand, L89, F|296/296
+|move|p1a: Oranguru|Psyshock|p2a: Palossand
+|-crit|p2a: Palossand
+|-damage|p2a: Palossand|188/296
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Oranguru|284/315|[from] item: Leftovers
+|-heal|p2a: Palossand|206/296|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1772751899
+|move|p1a: Oranguru|Nasty Plot|p1a: Oranguru
+|-boost|p1a: Oranguru|spa|2
+|move|p2a: Palossand|Sludge Bomb|p1a: Oranguru
+|-damage|p1a: Oranguru|228/315
+|-status|p1a: Oranguru|psn
+|
+|-weather|none
+|-heal|p1a: Oranguru|247/315 psn|[from] item: Leftovers
+|-heal|p2a: Palossand|224/296|[from] item: Leftovers
+|-damage|p1a: Oranguru|208/315 psn|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1772751909
+|move|p1a: Oranguru|Psyshock|p2a: Palossand
+|-damage|p2a: Palossand|150/296
+|move|p2a: Palossand|Earth Power|p1a: Oranguru
+|-crit|p1a: Oranguru
+|-damage|p1a: Oranguru|73/315 psn
+|
+|-heal|p1a: Oranguru|92/315 psn|[from] item: Leftovers
+|-heal|p2a: Palossand|168/296|[from] item: Leftovers
+|-damage|p1a: Oranguru|53/315 psn|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1772751923
+|move|p1a: Oranguru|Psyshock|p2a: Palossand
+|-damage|p2a: Palossand|98/296
+|move|p2a: Palossand|Shore Up|p2a: Palossand
+|-heal|p2a: Palossand|246/296
+|
+|-heal|p1a: Oranguru|72/315 psn|[from] item: Leftovers
+|-heal|p2a: Palossand|264/296|[from] item: Leftovers
+|-damage|p1a: Oranguru|33/315 psn|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1772751936
+|switch|p1a: Yanmega|Yanmega, L82, F|275/275
+|move|p2a: Palossand|Sludge Bomb|p1a: Yanmega
+|-crit|p1a: Yanmega
+|-damage|p1a: Yanmega|116/275
+|
+|-heal|p2a: Palossand|282/296|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1772751945
+|move|p1a: Yanmega|Giga Drain|p2a: Palossand
+|-supereffective|p2a: Palossand
+|-damage|p2a: Palossand|196/296
+|-heal|p1a: Yanmega|159/275|[from] drain|[of] p2a: Palossand
+|move|p2a: Palossand|Sludge Bomb|p1a: Yanmega
+|-damage|p1a: Yanmega|55/275
+|
+|-heal|p2a: Palossand|214/296|[from] item: Leftovers
+|-sideend|p2: Kwazy Kupcakes|move: Aurora Veil
+|upkeep
+|turn|12
+|
+|t:|1772751958
+|switch|p2a: Slowbro|Slowbro-Galar, L87, M|307/307
+|move|p1a: Yanmega|Giga Drain|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|207/307
+|-heal|p1a: Yanmega|105/275|[from] drain|[of] p2a: Slowbro
+|
+|upkeep
+|turn|13
+|
+|t:|1772751971
+|switch|p1a: Oranguru|Oranguru, L92, F|33/315 psn
+|move|p2a: Slowbro|Shell Side Arm|p1a: Oranguru|[anim] Shell Side Arm Physical
+|-damage|p1a: Oranguru|0 fnt
+|-hint|Physical Shell Side Arm
+|faint|p1a: Oranguru
+|
+|upkeep
+|
+|t:|1772751992
+|switch|p1a: Brute Bonnet|Brute Bonnet, L81|312/312
+|turn|14
+|
+|t:|1772751999
+|switch|p2a: Ninetales|Ninetales-Alola, L78, F|203/242
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Ninetales
+|move|p1a: Brute Bonnet|Spore|p2a: Ninetales
+|-status|p2a: Ninetales|slp|[from] move: Spore
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|15
+|inactive|m0untaineer has 120 seconds left.
+|
+|t:|1772752030
+|switch|p2a: Crabominable|Crabominable, L90, M|321/321
+|-end|p1a: Brute Bonnet|Protosynthesis|[silent]
+|switch|p1a: Yanmega|Yanmega, L82, F|105/275
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1772752047
+|switch|p2a: Dragalge|Dragalge, L88, M|258/258
+|move|p1a: Yanmega|Air Slash|p2a: Dragalge
+|-damage|p2a: Dragalge|192/258
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|17
+|
+|t:|1772752055
+|move|p1a: Yanmega|Air Slash|p2a: Dragalge
+|-damage|p2a: Dragalge|126/258
+|move|p2a: Dragalge|Sludge Wave|p1a: Yanmega
+|-damage|p1a: Yanmega|0 fnt
+|faint|p1a: Yanmega
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|inactive|m0untaineer has 120 seconds left.
+|
+|t:|1772752092
+|switch|p1a: Brute Bonnet|Brute Bonnet, L81|312/312
+|turn|18
+|
+|t:|1772752096
+|move|p1a: Brute Bonnet|Crunch|p2a: Dragalge
+|-damage|p2a: Dragalge|36/258
+|move|p2a: Dragalge|Sludge Wave|p1a: Brute Bonnet
+|-supereffective|p1a: Brute Bonnet
+|-damage|p1a: Brute Bonnet|24/312
+|
+|-weather|none
+|-heal|p1a: Brute Bonnet|43/312|[from] item: Leftovers
+|upkeep
+|turn|19
+|inactive|m0untaineer has 120 seconds left.
+|
+|t:|1772752105
+|move|p1a: Brute Bonnet|Crunch|p2a: Dragalge
+|-damage|p2a: Dragalge|0 fnt
+|faint|p2a: Dragalge
+|
+|-heal|p1a: Brute Bonnet|62/312|[from] item: Leftovers
+|upkeep
+|
+|t:|1772752112
+|switch|p2a: Crabominable|Crabominable, L90, M|321/321
+|turn|20
+|inactive|m0untaineer has 120 seconds left.
+|
+|t:|1772752154
+|-terastallize|p1a: Brute Bonnet|Fighting
+|move|p1a: Brute Bonnet|Close Combat|p2a: Crabominable
+|-supereffective|p2a: Crabominable
+|-damage|p2a: Crabominable|31/321
+|-unboost|p1a: Brute Bonnet|def|1
+|-unboost|p1a: Brute Bonnet|spd|1
+|move|p2a: Crabominable|Ice Hammer|p1a: Brute Bonnet
+|-damage|p1a: Brute Bonnet|0 fnt
+|-unboost|p2a: Crabominable|spe|1
+|faint|p1a: Brute Bonnet
+|-end|p1a: Brute Bonnet|Protosynthesis|[silent]
+|
+|upkeep
+|inactive|m0untaineer has 90 seconds left.
+|
+|t:|1772752171
+|switch|p1a: Jumpluff|Jumpluff, L87, F|3/271 psn
+|turn|21
+|inactive|Kwazy Kupcakes has 120 seconds left.
+|
+|t:|1772752207
+|move|p1a: Jumpluff|Strength Sap|p2a: Crabominable
+|-unboost|p2a: Crabominable|atk|1
+|-heal|p1a: Jumpluff|271/271 psn
+|move|p2a: Crabominable|Ice Hammer|p1a: Jumpluff|[miss]
+|-miss|p2a: Crabominable|p1a: Jumpluff
+|
+|-damage|p1a: Jumpluff|238/271 psn|[from] psn
+|upkeep
+|turn|22
+|inactive|Kwazy Kupcakes has 120 seconds left.
+|
+|t:|1772752219
+|move|p1a: Jumpluff|Acrobatics|p2a: Crabominable
+|-supereffective|p2a: Crabominable
+|-damage|p2a: Crabominable|0 fnt
+|faint|p2a: Crabominable
+|
+|-damage|p1a: Jumpluff|205/271 psn|[from] psn
+|upkeep
+|
+|t:|1772752226
+|switch|p2a: Ninetales|Ninetales-Alola, L78, F|203/242 slp
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Ninetales
+|turn|23
+|inactive|Kwazy Kupcakes has 120 seconds left.
+|
+|t:|1772752234
+|switch|p1a: Maushold|Maushold, L76|238/238
+|cant|p2a: Ninetales|slp
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|24
+|inactive|Kwazy Kupcakes has 120 seconds left.
+|
+|t:|1772752253
+|switch|p2a: Palossand|Palossand, L89, F|214/296
+|move|p1a: Maushold|Tidy Up|p1a: Maushold
+|-boost|p1a: Maushold|atk|1
+|-boost|p1a: Maushold|spe|1
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Palossand|232/296|[from] item: Leftovers
+|upkeep
+|turn|25
+|inactive|Kwazy Kupcakes has 120 seconds left.
+|
+|t:|1772752269
+|move|p1a: Maushold|Bite|p2a: Palossand
+|-supereffective|p2a: Palossand
+|-damage|p2a: Palossand|132/296
+|move|p2a: Palossand|Earth Power|p1a: Maushold
+|-damage|p1a: Maushold|106/238
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Palossand|150/296|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1772752277
+|move|p1a: Maushold|Bite|p2a: Palossand
+|-supereffective|p2a: Palossand
+|-damage|p2a: Palossand|48/296
+|cant|p2a: Palossand|flinch
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Palossand|66/296|[from] item: Leftovers
+|upkeep
+|turn|27
+|inactive|Kwazy Kupcakes has 120 seconds left.
+|
+|t:|1772752284
+|-terastallize|p2a: Palossand|Poison
+|move|p1a: Maushold|Bite|p2a: Palossand
+|-crit|p2a: Palossand
+|-damage|p2a: Palossand|0 fnt
+|faint|p2a: Palossand
+|
+|-weather|none
+|upkeep
+|inactive|Kwazy Kupcakes has 120 seconds left.
+|
+|t:|1772752293
+|switch|p2a: Slowbro|Slowbro-Galar, L87, M|307/307
+|turn|28
+|
+|t:|1772752302
+|move|p1a: Maushold|Population Bomb|p2a: Slowbro
+|-crit|p2a: Slowbro
+|-damage|p2a: Slowbro|262/307
+|-damage|p1a: Maushold|67/238|[from] item: Rocky Helmet|[of] p2a: Slowbro
+|-damage|p2a: Slowbro|232/307
+|-damage|p1a: Maushold|28/238|[from] item: Rocky Helmet|[of] p2a: Slowbro
+|-damage|p2a: Slowbro|199/307
+|-damage|p1a: Maushold|0 fnt|[from] item: Rocky Helmet|[of] p2a: Slowbro
+|faint|p1a: Maushold
+|-hitcount|p2a: Slowbro|3
+|move|p2a: Slowbro|Psychic|p1: Maushold|[notarget]
+|-fail|p2a: Slowbro
+|
+|upkeep
+|
+|t:|1772752311
+|switch|p1a: Tatsugiri|Tatsugiri, L87, F|260/260
+|turn|29
+|
+|t:|1772752320
+|move|p1a: Tatsugiri|Nasty Plot|p1a: Tatsugiri
+|-boost|p1a: Tatsugiri|spa|2
+|move|p2a: Slowbro|Shell Side Arm|p1a: Tatsugiri|[anim] Shell Side Arm Physical
+|-damage|p1a: Tatsugiri|130/260
+|-hint|Physical Shell Side Arm
+|
+|upkeep
+|turn|30
+|
+|t:|1772752332
+|move|p1a: Tatsugiri|Hydro Pump|p2a: Slowbro
+|-damage|p2a: Slowbro|0 fnt
+|faint|p2a: Slowbro
+|
+|upkeep
+|
+|t:|1772752340
+|switch|p2a: Ninetales|Ninetales-Alola, L78, F|203/242 slp
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Ninetales
+|turn|31
+|
+|t:|1772752346
+|cant|p2a: Ninetales|slp
+|move|p1a: Tatsugiri|Hydro Pump|p2a: Ninetales
+|-damage|p2a: Ninetales|0 fnt
+|faint|p2a: Ninetales
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1772752352
+|switch|p2a: Chesnaught|Chesnaught, L84, F|38/285
+|turn|32
+|
+|t:|1772752358
+|move|p1a: Tatsugiri|Draco Meteor|p2a: Chesnaught
+|-damage|p2a: Chesnaught|0 fnt
+|-unboost|p1a: Tatsugiri|spa|2
+|faint|p2a: Chesnaught
+|
+|win|m0untaineer
+|raw|m0untaineer's rating: 1719 &rarr; <strong>1737</strong><br />(+18 for winning)
+|raw|Kwazy Kupcakes's rating: 1680 &rarr; <strong>1662</strong><br />(-18 for losing)
+|l|☆Kwazy Kupcakes
+|player|p2|

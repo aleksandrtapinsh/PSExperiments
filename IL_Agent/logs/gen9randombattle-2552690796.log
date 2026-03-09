@@ -1,0 +1,136 @@
+|j|☆giveli
+|j|☆Leonel2005
+|t:|1772743864
+|gametype|singles
+|player|p1|giveli|170|1100
+|player|p2|Leonel2005|169|1148
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772743864
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Hitmonlee|Hitmonlee, L85, M|224/224
+|switch|p2a: Lycanroc|Lycanroc, L86, F|269/269
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by giveli)
+|inactive|Leonel2005 has 120 seconds left.
+|inactive|Leonel2005 has 90 seconds left.
+|
+|t:|1772743945
+|switch|p2a: Granbull|Granbull, L88, M|302/302
+|-ability|p2a: Granbull|Intimidate|boost
+|-unboost|p1a: Hitmonlee|atk|1
+|-enditem|p1a: Hitmonlee|White Herb
+|-clearnegativeboost|p1a: Hitmonlee|[silent]
+|move|p1a: Hitmonlee|Swords Dance|p1a: Hitmonlee
+|-boost|p1a: Hitmonlee|atk|2
+|
+|upkeep
+|turn|2
+|
+|t:|1772743953
+|-terastallize|p1a: Hitmonlee|Poison
+|move|p1a: Hitmonlee|Poison Jab|p2a: Granbull
+|-supereffective|p2a: Granbull
+|-damage|p2a: Granbull|0 fnt
+|faint|p2a: Granbull
+|
+|upkeep
+|inactive|Leonel2005 has 120 seconds left.
+|
+|t:|1772743988
+|switch|p2a: Haxorus|Haxorus, L77, M|244/244
+|-ability|p2a: Haxorus|Mold Breaker
+|turn|3
+|
+|t:|1772743995
+|move|p1a: Hitmonlee|Poison Jab|p2a: Haxorus
+|-damage|p2a: Haxorus|25/244
+|move|p2a: Haxorus|Dragon Dance|p2a: Haxorus
+|-boost|p2a: Haxorus|atk|1
+|-boost|p2a: Haxorus|spe|1
+|
+|upkeep
+|turn|4
+|
+|t:|1772744001
+|move|p1a: Hitmonlee|Poison Jab|p2a: Haxorus
+|-damage|p2a: Haxorus|0 fnt
+|faint|p2a: Haxorus
+|
+|upkeep
+|
+|t:|1772744006
+|switch|p2a: Phione|Phione, L91|293/293
+|turn|5
+|
+|t:|1772744012
+|move|p1a: Hitmonlee|Poison Jab|p2a: Phione
+|-damage|p2a: Phione|74/293
+|move|p2a: Phione|Scald|p1a: Hitmonlee
+|-damage|p1a: Hitmonlee|157/224
+|
+|-heal|p2a: Phione|92/293|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1772744021
+|move|p1a: Hitmonlee|Poison Jab|p2a: Phione
+|-damage|p2a: Phione|0 fnt
+|faint|p2a: Phione
+|
+|upkeep
+|
+|t:|1772744024
+|switch|p2a: Klawf|Klawf, L90, F|272/272
+|turn|7
+|
+|t:|1772744032
+|-terastallize|p2a: Klawf|Dark
+|move|p1a: Hitmonlee|Close Combat|p2a: Klawf
+|-supereffective|p2a: Klawf
+|-damage|p2a: Klawf|0 fnt
+|-unboost|p1a: Hitmonlee|def|1
+|-unboost|p1a: Hitmonlee|spd|1
+|faint|p2a: Klawf
+|
+|upkeep
+|
+|t:|1772744038
+|switch|p2a: Lycanroc|Lycanroc, L86, F|269/269
+|turn|8
+|
+|t:|1772744041
+|move|p1a: Hitmonlee|Close Combat|p2a: Lycanroc
+|-supereffective|p2a: Lycanroc
+|-damage|p2a: Lycanroc|0 fnt
+|-unboost|p1a: Hitmonlee|def|1
+|-unboost|p1a: Hitmonlee|spd|1
+|faint|p2a: Lycanroc
+|
+|upkeep
+|
+|t:|1772744043
+|switch|p2a: Perrserker|Perrserker, L89, M|269/269
+|turn|9
+|
+|t:|1772744049
+|move|p1a: Hitmonlee|Close Combat|p2a: Perrserker
+|-supereffective|p2a: Perrserker
+|-damage|p2a: Perrserker|0 fnt
+|-unboost|p1a: Hitmonlee|def|1
+|-unboost|p1a: Hitmonlee|spd|1
+|faint|p2a: Perrserker
+|
+|win|giveli
+|raw|giveli's rating: 1100 &rarr; <strong>1128</strong><br />(+28 for winning)
+|raw|Leonel2005's rating: 1148 &rarr; <strong>1120</strong><br />(-28 for losing)
+|l|☆Leonel2005
+|player|p2|

@@ -1,0 +1,657 @@
+|j|☆grass meloeta
+|j|☆aaron8955
+|t:|1772749910
+|gametype|singles
+|player|p1|grass meloeta|1|1562
+|player|p2|aaron8955|169|1579
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772749910
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Tropius|Tropius, L91, F|328/328
+|switch|p2a: Lucario|Lucario, L84, M|255/255
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by grass meloeta)
+|
+|t:|1772749929
+|switch|p2a: Venomoth|Venomoth, L84, M|255/255
+|move|p1a: Tropius|Leech Seed|p2a: Venomoth
+|-start|p2a: Venomoth|move: Leech Seed
+|
+|-damage|p2a: Venomoth|224/255|[from] Leech Seed|[of] p1a: Tropius
+|upkeep
+|turn|2
+|
+|t:|1772749943
+|move|p1a: Tropius|Protect|p1a: Tropius
+|-singleturn|p1a: Tropius|Protect
+|move|p2a: Venomoth|Sludge Wave|p1a: Tropius
+|-activate|p1a: Tropius|move: Protect
+|
+|-damage|p2a: Venomoth|193/255|[from] Leech Seed|[of] p1a: Tropius
+|upkeep
+|turn|3
+|
+|t:|1772749954
+|move|p2a: Venomoth|Sludge Wave|p1a: Tropius
+|-supereffective|p1a: Tropius
+|-damage|p1a: Tropius|158/328
+|-enditem|p1a: Tropius|Sitrus Berry|[eat]
+|-heal|p1a: Tropius|240/328|[from] item: Sitrus Berry
+|move|p1a: Tropius|Air Slash|p2a: Venomoth
+|-supereffective|p2a: Venomoth
+|-damage|p2a: Venomoth|29/255
+|
+|-damage|p2a: Venomoth|0 fnt|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|269/328|[silent]
+|faint|p2a: Venomoth
+|-item|p1a: Tropius|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|
+|t:|1772749968
+|switch|p2a: Iron Treads|Iron Treads, L77|265/265
+|turn|4
+|
+|t:|1772749992
+|move|p2a: Iron Treads|Knock Off|p1a: Tropius
+|-damage|p1a: Tropius|208/328
+|-enditem|p1a: Tropius|Sitrus Berry|[from] move: Knock Off|[of] p2a: Iron Treads
+|move|p1a: Tropius|Leech Seed|p2a: Iron Treads
+|-start|p2a: Iron Treads|move: Leech Seed
+|
+|-damage|p2a: Iron Treads|232/265|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|241/328|[silent]
+|upkeep
+|turn|5
+|
+|t:|1772750000
+|move|p2a: Iron Treads|Rapid Spin|p1a: Tropius
+|-damage|p1a: Tropius|208/328
+|-boost|p2a: Iron Treads|spe|1
+|-end|p2a: Iron Treads|Leech Seed|[from] move: Rapid Spin|[of] p2a: Iron Treads
+|move|p1a: Tropius|Leech Seed|p2a: Iron Treads
+|-start|p2a: Iron Treads|move: Leech Seed
+|
+|-damage|p2a: Iron Treads|199/265|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|241/328|[silent]
+|upkeep
+|turn|6
+|
+|t:|1772750006
+|move|p2a: Iron Treads|Rapid Spin|p1a: Tropius
+|-damage|p1a: Tropius|209/328
+|-boost|p2a: Iron Treads|spe|1
+|-end|p2a: Iron Treads|Leech Seed|[from] move: Rapid Spin|[of] p2a: Iron Treads
+|move|p1a: Tropius|Leech Seed|p2a: Iron Treads
+|-start|p2a: Iron Treads|move: Leech Seed
+|
+|-damage|p2a: Iron Treads|166/265|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|242/328|[silent]
+|upkeep
+|turn|7
+|
+|t:|1772750012
+|move|p1a: Tropius|Protect|p1a: Tropius
+|-singleturn|p1a: Tropius|Protect
+|move|p2a: Iron Treads|Rapid Spin|p1a: Tropius
+|-activate|p1a: Tropius|move: Protect
+|
+|-damage|p2a: Iron Treads|133/265|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|275/328|[silent]
+|upkeep
+|turn|8
+|
+|t:|1772750013
+|move|p2a: Iron Treads|Rapid Spin|p1a: Tropius
+|-damage|p1a: Tropius|245/328
+|-boost|p2a: Iron Treads|spe|1
+|-end|p2a: Iron Treads|Leech Seed|[from] move: Rapid Spin|[of] p2a: Iron Treads
+|move|p1a: Tropius|Substitute|p1a: Tropius
+|-start|p1a: Tropius|Substitute
+|-damage|p1a: Tropius|163/328
+|
+|upkeep
+|turn|9
+|
+|t:|1772750016
+|move|p2a: Iron Treads|Iron Head|p1a: Tropius
+|-activate|p1a: Tropius|move: Substitute|[damage]
+|move|p1a: Tropius|Leech Seed|p2a: Iron Treads
+|-start|p2a: Iron Treads|move: Leech Seed
+|
+|-damage|p2a: Iron Treads|100/265|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|196/328|[silent]
+|upkeep
+|turn|10
+|
+|t:|1772750018
+|move|p1a: Tropius|Protect|p1a: Tropius
+|-singleturn|p1a: Tropius|Protect
+|move|p2a: Iron Treads|Knock Off|p1a: Tropius
+|-activate|p1a: Tropius|move: Protect
+|
+|-damage|p2a: Iron Treads|67/265|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|229/328|[silent]
+|upkeep
+|turn|11
+|
+|t:|1772750022
+|move|p2a: Iron Treads|Rapid Spin|p1a: Tropius
+|-end|p1a: Tropius|Substitute
+|-end|p2a: Iron Treads|Leech Seed|[from] move: Rapid Spin|[of] p2a: Iron Treads
+|-boost|p2a: Iron Treads|spe|1
+|move|p1a: Tropius|Leech Seed|p2a: Iron Treads
+|-start|p2a: Iron Treads|move: Leech Seed
+|
+|-damage|p2a: Iron Treads|34/265|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|262/328|[silent]
+|upkeep
+|turn|12
+|
+|t:|1772750025
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Pachirisu|Pachirisu, L96, M|271/271
+|move|p1a: Tropius|Protect||[still]
+|-fail|p1a: Tropius
+|
+|upkeep
+|turn|13
+|
+|t:|1772750028
+|move|p2a: Pachirisu|Discharge|p1a: Tropius
+|-damage|p1a: Tropius|201/328
+|move|p1a: Tropius|Leech Seed|p2a: Pachirisu
+|-start|p2a: Pachirisu|move: Leech Seed
+|
+|-damage|p2a: Pachirisu|238/271|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|234/328|[silent]
+|upkeep
+|turn|14
+|
+|t:|1772750032
+|move|p2a: Pachirisu|Super Fang|p1a: Tropius
+|-damage|p1a: Tropius|117/328
+|move|p1a: Tropius|Substitute|p1a: Tropius
+|-start|p1a: Tropius|Substitute
+|-damage|p1a: Tropius|35/328
+|
+|-damage|p2a: Pachirisu|205/271|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|68/328|[silent]
+|upkeep
+|turn|15
+|
+|t:|1772750035
+|move|p2a: Pachirisu|Encore|p1a: Tropius
+|-start|p1a: Tropius|Encore
+|move|p1a: Tropius|Substitute|p1a: Tropius
+|-fail|p1a: Tropius|move: Substitute
+|
+|-damage|p2a: Pachirisu|172/271|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|101/328|[silent]
+|upkeep
+|turn|16
+|
+|t:|1772750037
+|move|p2a: Pachirisu|Discharge|p1a: Tropius
+|-activate|p1a: Tropius|move: Substitute|[damage]
+|move|p1a: Tropius|Substitute|p1a: Tropius
+|-fail|p1a: Tropius|move: Substitute
+|
+|-damage|p2a: Pachirisu|139/271|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|134/328|[silent]
+|upkeep
+|turn|17
+|
+|t:|1772750040
+|move|p2a: Pachirisu|U-turn|p1a: Tropius
+|-end|p1a: Tropius|Substitute
+|
+|t:|1772750047
+|switch|p2a: Lucario|Lucario, L84, M|255/255|[from] U-turn
+|move|p1a: Tropius|Substitute|p1a: Tropius
+|-start|p1a: Tropius|Substitute
+|-damage|p1a: Tropius|52/328
+|
+|-end|p1a: Tropius|Encore
+|upkeep
+|turn|18
+|
+|t:|1772750049
+|move|p2a: Lucario|Flash Cannon|p1a: Tropius
+|-end|p1a: Tropius|Substitute
+|-damage|p2a: Lucario|230/255|[from] item: Life Orb
+|move|p1a: Tropius|Leech Seed|p2a: Lucario
+|-start|p2a: Lucario|move: Leech Seed
+|
+|-damage|p2a: Lucario|199/255|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|83/328|[silent]
+|upkeep
+|turn|19
+|
+|t:|1772750052
+|move|p1a: Tropius|Protect|p1a: Tropius
+|-singleturn|p1a: Tropius|Protect
+|move|p2a: Lucario|Flash Cannon|p1a: Tropius
+|-activate|p1a: Tropius|move: Protect
+|
+|-damage|p2a: Lucario|168/255|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|114/328|[silent]
+|upkeep
+|turn|20
+|
+|t:|1772750054
+|switch|p1a: Palkia|Palkia-Origin, L72|249/249
+|-ability|p1a: Palkia|Pressure
+|move|p2a: Lucario|Flash Cannon|p1a: Palkia
+|-resisted|p1a: Palkia
+|-damage|p1a: Palkia|191/249
+|-damage|p2a: Lucario|143/255|[from] item: Life Orb
+|
+|-damage|p2a: Lucario|112/255|[from] Leech Seed|[of] p1a: Palkia
+|-heal|p1a: Palkia|222/249|[silent]
+|upkeep
+|turn|21
+|
+|t:|1772750063
+|switch|p2a: Iron Treads|Iron Treads, L77|34/265
+|move|p1a: Palkia|Hydro Pump|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1772750067
+|switch|p2a: Lunala|Lunala, L70|308/308
+|turn|22
+|
+|t:|1772750094
+|move|p1a: Palkia|Thunder Wave|p2a: Lunala
+|-status|p2a: Lunala|par
+|move|p2a: Lunala|Calm Mind|p2a: Lunala
+|-boost|p2a: Lunala|spa|1
+|-boost|p2a: Lunala|spd|1
+|
+|upkeep
+|turn|23
+|
+|t:|1772750098
+|switch|p1a: Tropius|Tropius, L91, F|114/328
+|move|p2a: Lunala|Calm Mind|p2a: Lunala
+|-boost|p2a: Lunala|spa|1
+|-boost|p2a: Lunala|spd|1
+|
+|upkeep
+|turn|24
+|
+|t:|1772750101
+|move|p1a: Tropius|Leech Seed|p2a: Lunala
+|-start|p2a: Lunala|move: Leech Seed
+|cant|p2a: Lunala|par
+|
+|-damage|p2a: Lunala|270/308 par|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|152/328|[silent]
+|upkeep
+|turn|25
+|
+|t:|1772750106
+|move|p1a: Tropius|Substitute|p1a: Tropius
+|-start|p1a: Tropius|Substitute
+|-damage|p1a: Tropius|70/328
+|cant|p2a: Lunala|par
+|
+|-heal|p2a: Lunala|289/308 par|[from] item: Leftovers
+|-damage|p2a: Lunala|251/308 par|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|108/328|[silent]
+|upkeep
+|turn|26
+|
+|t:|1772750109
+|move|p1a: Tropius|Air Slash|p2a: Lunala
+|-damage|p2a: Lunala|209/308 par
+|cant|p2a: Lunala|par
+|
+|-heal|p2a: Lunala|228/308 par|[from] item: Leftovers
+|-damage|p2a: Lunala|190/308 par|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|146/328|[silent]
+|upkeep
+|turn|27
+|c|☆aaron8955|nice
+|
+|t:|1772750114
+|move|p1a: Tropius|Air Slash|p2a: Lunala
+|-damage|p2a: Lunala|148/308 par
+|move|p2a: Lunala|Moongeist Beam|p1a: Tropius
+|-end|p1a: Tropius|Substitute
+|
+|-heal|p2a: Lunala|167/308 par|[from] item: Leftovers
+|-damage|p2a: Lunala|129/308 par|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|184/328|[silent]
+|upkeep
+|turn|28
+|
+|t:|1772750118
+|move|p1a: Tropius|Substitute|p1a: Tropius
+|-start|p1a: Tropius|Substitute
+|-damage|p1a: Tropius|102/328
+|move|p2a: Lunala|Moonlight|p2a: Lunala
+|-heal|p2a: Lunala|283/308 par
+|
+|-heal|p2a: Lunala|302/308 par|[from] item: Leftovers
+|-damage|p2a: Lunala|264/308 par|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|140/328|[silent]
+|upkeep
+|turn|29
+|c|☆grass meloeta|oh yea
+|
+|t:|1772750126
+|move|p1a: Tropius|Air Slash|p2a: Lunala
+|-damage|p2a: Lunala|227/308 par
+|move|p2a: Lunala|Moongeist Beam|p1a: Tropius
+|-end|p1a: Tropius|Substitute
+|
+|-heal|p2a: Lunala|246/308 par|[from] item: Leftovers
+|-damage|p2a: Lunala|208/308 par|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|178/328|[silent]
+|upkeep
+|turn|30
+|
+|t:|1772750128
+|move|p1a: Tropius|Substitute|p1a: Tropius
+|-start|p1a: Tropius|Substitute
+|-damage|p1a: Tropius|96/328
+|move|p2a: Lunala|Calm Mind|p2a: Lunala
+|-boost|p2a: Lunala|spa|1
+|-boost|p2a: Lunala|spd|1
+|
+|-heal|p2a: Lunala|227/308 par|[from] item: Leftovers
+|-damage|p2a: Lunala|189/308 par|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|134/328|[silent]
+|upkeep
+|turn|31
+|
+|t:|1772750131
+|move|p1a: Tropius|Air Slash|p2a: Lunala
+|-damage|p2a: Lunala|161/308 par
+|move|p2a: Lunala|Calm Mind|p2a: Lunala
+|-boost|p2a: Lunala|spa|1
+|-boost|p2a: Lunala|spd|1
+|
+|-heal|p2a: Lunala|180/308 par|[from] item: Leftovers
+|-damage|p2a: Lunala|142/308 par|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|172/328|[silent]
+|upkeep
+|turn|32
+|
+|t:|1772750133
+|move|p1a: Tropius|Air Slash|p2a: Lunala
+|-damage|p2a: Lunala|117/308 par
+|move|p2a: Lunala|Moonlight|p2a: Lunala
+|-heal|p2a: Lunala|271/308 par
+|
+|-heal|p2a: Lunala|290/308 par|[from] item: Leftovers
+|-damage|p2a: Lunala|252/308 par|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|210/328|[silent]
+|upkeep
+|turn|33
+|
+|t:|1772750135
+|move|p1a: Tropius|Air Slash|p2a: Lunala|[miss]
+|-miss|p1a: Tropius|p2a: Lunala
+|move|p2a: Lunala|Moongeist Beam|p1a: Tropius
+|-end|p1a: Tropius|Substitute
+|
+|-heal|p2a: Lunala|271/308 par|[from] item: Leftovers
+|-damage|p2a: Lunala|233/308 par|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|248/328|[silent]
+|upkeep
+|turn|34
+|
+|t:|1772750137
+|move|p1a: Tropius|Air Slash|p2a: Lunala
+|-damage|p2a: Lunala|208/308 par
+|move|p2a: Lunala|Moongeist Beam|p1a: Tropius
+|-damage|p1a: Tropius|0 fnt
+|faint|p1a: Tropius
+|
+|-heal|p2a: Lunala|227/308 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1772750143
+|switch|p1a: Ambipom|Ambipom, L84, M|263/263
+|turn|35
+|
+|t:|1772750145
+|move|p1a: Ambipom|Knock Off|p2a: Lunala
+|-supereffective|p2a: Lunala
+|-damage|p2a: Lunala|0 fnt
+|-enditem|p2a: Lunala|Leftovers|[from] move: Knock Off|[of] p1a: Ambipom
+|faint|p2a: Lunala
+|
+|upkeep
+|
+|t:|1772750147
+|switch|p2a: Lucario|Lucario, L84, M|112/255
+|turn|36
+|
+|t:|1772750153
+|switch|p1a: Alomomola|Alomomola, L87, F|429/429
+|move|p2a: Lucario|Aura Sphere|p1a: Alomomola
+|-damage|p1a: Alomomola|238/429
+|-damage|p2a: Lucario|87/255|[from] item: Life Orb
+|
+|-heal|p1a: Alomomola|264/429|[from] item: Leftovers
+|upkeep
+|turn|37
+|
+|t:|1772750157
+|move|p2a: Lucario|Aura Sphere|p1a: Alomomola
+|-damage|p1a: Alomomola|79/429
+|-damage|p2a: Lucario|62/255|[from] item: Life Orb
+|move|p1a: Alomomola|Wish|p1a: Alomomola
+|
+|-heal|p1a: Alomomola|105/429|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|t:|1772750160
+|move|p1a: Alomomola|Protect|p1a: Alomomola
+|-singleturn|p1a: Alomomola|Protect
+|move|p2a: Lucario|Nasty Plot|p2a: Lucario
+|-boost|p2a: Lucario|spa|2
+|
+|-heal|p1a: Alomomola|319/429|[from] move: Wish|[wisher] Alomomola
+|-heal|p1a: Alomomola|345/429|[from] item: Leftovers
+|upkeep
+|turn|39
+|
+|t:|1772750163
+|switch|p1a: Palkia|Palkia-Origin, L72|222/249
+|-ability|p1a: Palkia|Pressure
+|move|p2a: Lucario|Aura Sphere|p1a: Palkia
+|-damage|p1a: Palkia|8/249
+|-damage|p2a: Lucario|37/255|[from] item: Life Orb
+|
+|upkeep
+|turn|40
+|
+|t:|1772750166
+|move|p2a: Lucario|Vacuum Wave|p1a: Palkia
+|-damage|p1a: Palkia|0 fnt
+|faint|p1a: Palkia
+|-damage|p2a: Lucario|12/255|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772750167
+|switch|p1a: Ambipom|Ambipom, L84, M|263/263
+|turn|41
+|
+|t:|1772750169
+|move|p1a: Ambipom|Fake Out|p2a: Lucario
+|-resisted|p2a: Lucario
+|-damage|p2a: Lucario|0 fnt
+|faint|p2a: Lucario
+|
+|upkeep
+|
+|t:|1772750171
+|switch|p2a: Mienshao|Mienshao, L83, F|244/244
+|turn|42
+|
+|t:|1772750173
+|switch|p1a: Alomomola|Alomomola, L87, F|429/429
+|move|p2a: Mienshao|Close Combat|p1a: Alomomola
+|-damage|p1a: Alomomola|217/429
+|-unboost|p2a: Mienshao|def|1
+|-unboost|p2a: Mienshao|spd|1
+|-damage|p2a: Mienshao|220/244|[from] item: Life Orb
+|
+|-heal|p1a: Alomomola|243/429|[from] item: Leftovers
+|upkeep
+|turn|43
+|
+|t:|1772750176
+|switch|p2a: Pachirisu|Pachirisu, L96, M|139/271
+|move|p1a: Alomomola|Wish|p1a: Alomomola
+|
+|-heal|p1a: Alomomola|269/429|[from] item: Leftovers
+|upkeep
+|turn|44
+|
+|t:|1772750178
+|move|p1a: Alomomola|Protect|p1a: Alomomola
+|-singleturn|p1a: Alomomola|Protect
+|move|p2a: Pachirisu|Discharge|p1a: Alomomola
+|-activate|p1a: Alomomola|move: Protect
+|
+|-heal|p1a: Alomomola|429/429|[from] move: Wish|[wisher] Alomomola
+|upkeep
+|turn|45
+|
+|t:|1772750181
+|switch|p1a: Pawmot|Pawmot, L80, M|243/243
+|move|p2a: Pachirisu|Super Fang|p1a: Pawmot
+|-damage|p1a: Pawmot|122/243
+|
+|upkeep
+|turn|46
+|
+|t:|1772750186
+|move|p2a: Pachirisu|U-turn|p1a: Pawmot
+|-resisted|p1a: Pawmot
+|-damage|p1a: Pawmot|99/243
+|
+|t:|1772750188
+|switch|p2a: Mienshao|Mienshao, L83, F|244/244|[from] U-turn
+|move|p1a: Pawmot|Close Combat|p2a: Mienshao
+|-damage|p2a: Mienshao|63/244
+|-unboost|p1a: Pawmot|def|1
+|-unboost|p1a: Pawmot|spd|1
+|
+|upkeep
+|turn|47
+|
+|t:|1772750191
+|switch|p1a: Alomomola|Alomomola, L87, F|429/429
+|move|p2a: Mienshao|Close Combat|p1a: Alomomola
+|-damage|p1a: Alomomola|217/429
+|-unboost|p2a: Mienshao|def|1
+|-unboost|p2a: Mienshao|spd|1
+|-damage|p2a: Mienshao|39/244|[from] item: Life Orb
+|
+|-heal|p1a: Alomomola|243/429|[from] item: Leftovers
+|upkeep
+|turn|48
+|
+|t:|1772750197
+|switch|p2a: Pachirisu|Pachirisu, L96, M|139/271
+|move|p1a: Alomomola|Wish|p1a: Alomomola
+|
+|-heal|p1a: Alomomola|269/429|[from] item: Leftovers
+|upkeep
+|turn|49
+|
+|t:|1772750204
+|switch|p1a: Pawmot|Pawmot, L80, M|99/243
+|move|p2a: Pachirisu|Super Fang|p1a: Pawmot
+|-damage|p1a: Pawmot|50/243
+|
+|-heal|p1a: Pawmot|243/243|[from] move: Wish|[wisher] Alomomola
+|upkeep
+|turn|50
+|
+|t:|1772750209
+|move|p2a: Pachirisu|Super Fang|p1a: Pawmot
+|-damage|p1a: Pawmot|122/243
+|move|p1a: Pawmot|Revival Blessing|p1a: Pawmot
+|-enditem|p1a: Pawmot|Leppa Berry|[eat]
+|-activate|p1a: Pawmot|item: Leppa Berry|Revival Blessing|[consumed]
+|
+|t:|1772750212
+|-heal|p1: Tropius|164/328|[from] move: Revival Blessing
+|
+|upkeep
+|turn|51
+|n|!aaron8955|aaron8955
+|
+|t:|1772750228
+|move|p2a: Pachirisu|Super Fang|p1a: Pawmot
+|-damage|p1a: Pawmot|61/243
+|move|p1a: Pawmot|Revival Blessing|p1a: Pawmot
+|
+|t:|1772750230
+|-heal|p1: Palkia|124/249|[from] move: Revival Blessing
+|
+|upkeep
+|turn|52
+|
+|t:|1772750239
+|move|p2a: Pachirisu|U-turn|p1a: Pawmot
+|-resisted|p1a: Pawmot
+|-damage|p1a: Pawmot|38/243
+|
+|t:|1772750241
+|switch|p2a: Mienshao|Mienshao, L83, F|120/244|[from] U-turn
+|move|p1a: Pawmot|Close Combat|p2a: Mienshao
+|-damage|p2a: Mienshao|0 fnt
+|-unboost|p1a: Pawmot|def|1
+|-unboost|p1a: Pawmot|spd|1
+|faint|p2a: Mienshao
+|
+|upkeep
+|
+|t:|1772750242
+|switch|p2a: Pachirisu|Pachirisu, L96, M|139/271
+|turn|53
+|
+|t:|1772750245
+|switch|p1a: Hawlucha|Hawlucha, L80, F|256/256
+|move|p2a: Pachirisu|Super Fang|p1a: Hawlucha
+|-damage|p1a: Hawlucha|128/256
+|
+|upkeep
+|turn|54
+|
+|t:|1772750253
+|-terastallize|p1a: Hawlucha|Fighting
+|move|p2a: Pachirisu|Discharge|p1a: Hawlucha
+|-damage|p1a: Hawlucha|34/256
+|move|p1a: Hawlucha|Close Combat|p2a: Pachirisu
+|-damage|p2a: Pachirisu|0 fnt
+|-unboost|p1a: Hawlucha|def|1
+|-unboost|p1a: Hawlucha|spd|1
+|faint|p2a: Pachirisu
+|-enditem|p1a: Hawlucha|White Herb
+|-clearnegativeboost|p1a: Hawlucha|[silent]
+|
+|win|grass meloeta

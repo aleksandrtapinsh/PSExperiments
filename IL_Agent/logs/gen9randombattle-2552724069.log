@@ -1,0 +1,225 @@
+|j|☆imortaljuan
+|j|☆deep_lerd
+|t:|1772747013
+|gametype|singles
+|player|p1|imortaljuan|steven|
+|player|p2|deep_lerd|psychic-gen4|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772747013
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Trevenant|Trevenant, L89, M|296/296
+|switch|p2a: Thundurus|Thundurus-Therian, L80, M|258/258
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by deep_lerd)
+|
+|t:|1772747040
+|move|p2a: Thundurus|Sludge Wave|p1a: Trevenant
+|-damage|p1a: Trevenant|172/296
+|move|p1a: Trevenant|Poltergeist|p2a: Thundurus
+|-activate|p2a: Thundurus|move: Poltergeist|Choice Specs
+|-damage|p2a: Thundurus|12/258
+|-damage|p1a: Trevenant|143/296|[from] item: Life Orb
+|
+|upkeep
+|turn|2
+|
+|t:|1772747059
+|move|p2a: Thundurus|Sludge Wave|p1a: Trevenant
+|-damage|p1a: Trevenant|10/296
+|-status|p1a: Trevenant|psn
+|move|p1a: Trevenant|Horn Leech|p2a: Thundurus
+|-resisted|p2a: Thundurus
+|-damage|p2a: Thundurus|0 fnt
+|-heal|p1a: Trevenant|16/296 psn|[from] drain|[of] p2a: Thundurus
+|faint|p2a: Thundurus
+|-damage|p1a: Trevenant|0 fnt|[from] item: Life Orb
+|faint|p1a: Trevenant
+|
+|upkeep
+|inactive|deep_lerd has 270 seconds left.
+|
+|t:|1772747087
+|switch|p2a: Kricketune|Kricketune, L99, F|312/312
+|switch|p1a: Honchkrow|Honchkrow, L86, F|312/312
+|turn|3
+|inactive|deep_lerd has 270 seconds left.
+|
+|t:|1772747108
+|move|p2a: Kricketune|Pounce|p1a: Honchkrow
+|-damage|p1a: Honchkrow|164/312
+|-unboost|p1a: Honchkrow|spe|1
+|move|p1a: Honchkrow|Brave Bird|p2a: Kricketune
+|-supereffective|p2a: Kricketune
+|-damage|p2a: Kricketune|0 fnt
+|faint|p2a: Kricketune
+|-ability|p1a: Honchkrow|Moxie|boost
+|-boost|p1a: Honchkrow|atk|1
+|-damage|p1a: Honchkrow|61/312|[from] Recoil
+|
+|upkeep
+|
+|t:|1772747120
+|switch|p2a: Luxray|Luxray, L88, F|284/284
+|-ability|p2a: Luxray|Intimidate|boost
+|-unboost|p1a: Honchkrow|atk|1
+|turn|4
+|
+|t:|1772747134
+|move|p1a: Honchkrow|Sucker Punch|p2a: Luxray
+|-damage|p2a: Luxray|188/284
+|move|p2a: Luxray|Ice Fang|p1a: Honchkrow
+|-supereffective|p1a: Honchkrow
+|-damage|p1a: Honchkrow|0 fnt
+|faint|p1a: Honchkrow
+|
+|upkeep
+|
+|t:|1772747144
+|switch|p1a: Medicham|Medicham, L86, F|243/243
+|turn|5
+|
+|t:|1772747151
+|move|p1a: Medicham|Close Combat|p2a: Luxray
+|-damage|p2a: Luxray|0 fnt
+|-unboost|p1a: Medicham|def|1
+|-unboost|p1a: Medicham|spd|1
+|faint|p2a: Luxray
+|
+|upkeep
+|
+|t:|1772747159
+|switch|p2a: Serperior|Serperior, L79, M|248/248
+|turn|6
+|
+|t:|1772747173
+|switch|p1a: Noivern|Noivern, L82, F|274/274
+|move|p2a: Serperior|Leaf Storm|p1a: Noivern
+|-resisted|p1a: Noivern
+|-damage|p1a: Noivern|238/274
+|-boost|p2a: Serperior|spa|2
+|-damage|p2a: Serperior|224/248|[from] item: Life Orb
+|
+|upkeep
+|turn|7
+|
+|t:|1772747181
+|-terastallize|p1a: Noivern|Fire
+|-terastallize|p2a: Serperior|Water
+|move|p1a: Noivern|Flamethrower|p2a: Serperior
+|-resisted|p2a: Serperior
+|-damage|p2a: Serperior|175/248
+|move|p2a: Serperior|Dragon Pulse|p1a: Noivern
+|-damage|p1a: Noivern|115/274
+|-damage|p2a: Serperior|151/248|[from] item: Life Orb
+|
+|upkeep
+|turn|8
+|inactive|deep_lerd has 270 seconds left.
+|
+|t:|1772747192
+|move|p1a: Noivern|Draco Meteor|p2a: Serperior
+|-damage|p2a: Serperior|21/248
+|-unboost|p1a: Noivern|spa|2
+|move|p2a: Serperior|Leaf Storm|p1a: Noivern
+|-resisted|p1a: Noivern
+|-damage|p1a: Noivern|0 fnt
+|-boost|p2a: Serperior|spa|2
+|faint|p1a: Noivern
+|-damage|p2a: Serperior|0 fnt|[from] item: Life Orb
+|faint|p2a: Serperior
+|
+|upkeep
+|
+|t:|1772747210
+|switch|p1a: Medicham|Medicham, L86, F|243/243
+|switch|p2a: Brute Bonnet|Brute Bonnet, L81|312/312
+|turn|9
+|
+|t:|1772747220
+|move|p1a: Medicham|Close Combat|p2a: Brute Bonnet
+|-supereffective|p2a: Brute Bonnet
+|-damage|p2a: Brute Bonnet|0 fnt
+|-unboost|p1a: Medicham|def|1
+|-unboost|p1a: Medicham|spd|1
+|faint|p2a: Brute Bonnet
+|-end|p2a: Brute Bonnet|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1772747224
+|switch|p2a: Crawdaunt|Crawdaunt, L84, M|243/243
+|turn|10
+|inactive|deep_lerd has 270 seconds left.
+|
+|t:|1772747230
+|switch|p1a: Cryogonal|Cryogonal, L89|287/287
+|move|p2a: Crawdaunt|Dragon Dance|p2a: Crawdaunt
+|-boost|p2a: Crawdaunt|atk|1
+|-boost|p2a: Crawdaunt|spe|1
+|
+|upkeep
+|turn|11
+|inactive|deep_lerd has 270 seconds left.
+|
+|t:|1772747241
+|move|p1a: Cryogonal|Haze|p1a: Cryogonal
+|-clearallboost
+|move|p2a: Crawdaunt|Crabhammer|p1a: Cryogonal
+|-damage|p1a: Cryogonal|0 fnt
+|faint|p1a: Cryogonal
+|-damage|p2a: Crawdaunt|219/243|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772747248
+|switch|p1a: Misdreavus|Misdreavus, L90, M|254/254
+|turn|12
+|
+|t:|1772747253
+|move|p1a: Misdreavus|Will-O-Wisp|p2a: Crawdaunt
+|-status|p2a: Crawdaunt|brn
+|move|p2a: Crawdaunt|Dragon Dance|p2a: Crawdaunt
+|-boost|p2a: Crawdaunt|atk|1
+|-boost|p2a: Crawdaunt|spe|1
+|
+|-damage|p2a: Crawdaunt|204/243 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1772747260
+|move|p2a: Crawdaunt|Knock Off|p1a: Misdreavus
+|-supereffective|p1a: Misdreavus
+|-damage|p1a: Misdreavus|0 fnt
+|-enditem|p1a: Misdreavus|Eviolite|[from] move: Knock Off|[of] p2a: Crawdaunt
+|faint|p1a: Misdreavus
+|-damage|p2a: Crawdaunt|180/243 brn|[from] item: Life Orb
+|
+|-damage|p2a: Crawdaunt|165/243 brn|[from] brn
+|upkeep
+|
+|t:|1772747262
+|switch|p1a: Medicham|Medicham, L86, F|243/243
+|turn|14
+|
+|t:|1772747282
+|move|p2a: Crawdaunt|Crabhammer|p1a: Medicham
+|-damage|p1a: Medicham|56/243
+|-damage|p2a: Crawdaunt|141/243 brn|[from] item: Life Orb
+|move|p1a: Medicham|Close Combat|p2a: Crawdaunt
+|-supereffective|p2a: Crawdaunt
+|-damage|p2a: Crawdaunt|0 fnt
+|-unboost|p1a: Medicham|def|1
+|-unboost|p1a: Medicham|spd|1
+|faint|p2a: Crawdaunt
+|
+|win|imortaljuan
+|l|☆deep_lerd
+|player|p2|

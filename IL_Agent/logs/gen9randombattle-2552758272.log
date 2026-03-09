@@ -1,0 +1,1315 @@
+|j|☆Exenaphiel
+|j|☆BrutalBjoern
+|t:|1772750401
+|gametype|singles
+|player|p1|Exenaphiel|beni-ninja|2175
+|player|p2|BrutalBjoern|lady-gen4|2219
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772750401
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Sunflora|Sunflora, F|312/312
+|switch|p2a: Corviknight|Corviknight, L80, M|288/288
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Exenaphiel)
+|
+|t:|1772750416
+|switch|p1a: Magcargo|Magcargo, L95, M|268/268
+|move|p2a: Corviknight|Brave Bird|p1a: Magcargo
+|-resisted|p1a: Magcargo
+|-damage|p1a: Magcargo|229/268
+|-damage|p2a: Corviknight|275/288|[from] Recoil
+|
+|upkeep
+|turn|2
+|
+|t:|1772750440
+|switch|p2a: Pelipper|Pelipper, L86, F|243/243
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Magcargo|Yawn|p2a: Pelipper
+|-start|p2a: Pelipper|move: Yawn|[of] p1a: Magcargo
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1772750454
+|switch|p1a: Scream Tail|Scream Tail, L84|330/330
+|move|p2a: Pelipper|Hydro Pump|p1a: Scream Tail
+|-damage|p1a: Scream Tail|192/330
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Scream Tail|212/330|[from] item: Leftovers
+|-end|p2a: Pelipper|move: Yawn|[silent]
+|-status|p2a: Pelipper|slp
+|upkeep
+|turn|4
+|
+|t:|1772750464
+|switch|p2a: Araquanid|Araquanid, L82, M|246/246
+|move|p1a: Scream Tail|Wish|p1a: Scream Tail
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Scream Tail|232/330|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1772750479
+|-end|p1a: Scream Tail|Protosynthesis|[silent]
+|switch|p1a: Exeggutor|Exeggutor-Alola, L89, F|314/314
+|-item|p2a: Araquanid|Heavy-Duty Boots|[from] ability: Frisk|[of] p1a: Exeggutor
+|move|p2a: Araquanid|Sticky Web|p1a: Exeggutor
+|-sidestart|p1: Exenaphiel|move: Sticky Web
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1772750490
+|move|p1a: Exeggutor|Draco Meteor|p2a: Araquanid
+|-damage|p2a: Araquanid|26/246
+|-unboost|p1a: Exeggutor|spa|2
+|move|p2a: Araquanid|Leech Life|p1a: Exeggutor
+|-supereffective|p1a: Exeggutor
+|-damage|p1a: Exeggutor|200/314
+|-heal|p2a: Araquanid|83/246|[from] drain|[of] p1a: Exeggutor
+|
+|-weather|none
+|upkeep
+|turn|7
+|
+|t:|1772750503
+|switch|p2a: Corviknight|Corviknight, L80, M|275/288
+|move|p1a: Exeggutor|Draco Meteor|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|198/288
+|-unboost|p1a: Exeggutor|spa|2
+|
+|upkeep
+|turn|8
+|inactive|Exenaphiel has 120 seconds left.
+|
+|t:|1772750535
+|switch|p2a: Araquanid|Araquanid, L82, M|83/246
+|switch|p1a: Scream Tail|Scream Tail, L84|232/330
+|-activate|p1a: Scream Tail|move: Sticky Web
+|-unboost|p1a: Scream Tail|spe|1
+|
+|-heal|p1a: Scream Tail|252/330|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1772750548
+|move|p1a: Scream Tail|Dazzling Gleam|p2a: Araquanid
+|-damage|p2a: Araquanid|32/246
+|move|p2a: Araquanid|Leech Life|p1a: Scream Tail
+|-damage|p1a: Scream Tail|194/330
+|-heal|p2a: Araquanid|61/246|[from] drain|[of] p1a: Scream Tail
+|
+|-heal|p1a: Scream Tail|214/330|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1772750557
+|switch|p2a: Corviknight|Corviknight, L80, M|198/288
+|move|p1a: Scream Tail|Wish|p1a: Scream Tail
+|
+|-heal|p1a: Scream Tail|234/330|[from] item: Leftovers
+|upkeep
+|turn|11
+|inactive|BrutalBjoern has 120 seconds left.
+|
+|t:|1772750599
+|-end|p1a: Scream Tail|Protosynthesis|[silent]
+|switch|p1a: Magcargo|Magcargo, L95, M|229/268
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|288/288
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-heal|p1a: Magcargo|268/268|[from] move: Wish|[wisher] Scream Tail
+|upkeep
+|turn|12
+|
+|t:|1772750611
+|switch|p2a: Araquanid|Araquanid, L82, M|61/246
+|move|p1a: Magcargo|Power Gem|p2a: Araquanid
+|-supereffective|p2a: Araquanid
+|-damage|p2a: Araquanid|0 fnt
+|faint|p2a: Araquanid
+|
+|upkeep
+|
+|t:|1772750620
+|switch|p2a: Hitmontop|Hitmontop, L88, M|231/231
+|-ability|p2a: Hitmontop|Intimidate|boost
+|-unboost|p1a: Magcargo|atk|1
+|turn|13
+|
+|t:|1772750639
+|switch|p1a: Scream Tail|Scream Tail, L84|234/330
+|-activate|p1a: Scream Tail|move: Sticky Web
+|-unboost|p1a: Scream Tail|spe|1
+|move|p2a: Hitmontop|Close Combat|p1a: Scream Tail
+|-resisted|p1a: Scream Tail
+|-damage|p1a: Scream Tail|191/330
+|-unboost|p2a: Hitmontop|def|1
+|-unboost|p2a: Hitmontop|spd|1
+|
+|-heal|p1a: Scream Tail|211/330|[from] item: Leftovers
+|upkeep
+|turn|14
+|inactive|BrutalBjoern has 90 seconds left.
+|
+|t:|1772750672
+|switch|p2a: Corviknight|Corviknight, L80, M|288/288
+|move|p1a: Scream Tail|Wish|p1a: Scream Tail
+|
+|-heal|p1a: Scream Tail|231/330|[from] item: Leftovers
+|upkeep
+|turn|15
+|inactive|BrutalBjoern has 90 seconds left.
+|
+|t:|1772750686
+|-end|p1a: Scream Tail|Protosynthesis|[silent]
+|switch|p1a: Exeggutor|Exeggutor-Alola, L89, F|200/314
+|-activate|p1a: Exeggutor|move: Sticky Web
+|-unboost|p1a: Exeggutor|spe|1
+|-item|p2a: Corviknight|Rocky Helmet|[from] ability: Frisk|[of] p1a: Exeggutor
+|switch|p2a: Hitmontop|Hitmontop, L88, M|231/231
+|-ability|p2a: Hitmontop|Intimidate|boost
+|-unboost|p1a: Exeggutor|atk|1
+|
+|-heal|p1a: Exeggutor|314/314|[from] move: Wish|[wisher] Scream Tail
+|upkeep
+|turn|16
+|inactive|BrutalBjoern has 90 seconds left.
+|
+|t:|1772750694
+|switch|p2a: Corviknight|Corviknight, L80, M|288/288
+|switch|p1a: Magcargo|Magcargo, L95, M|268/268
+|
+|upkeep
+|turn|17
+|inactive|BrutalBjoern has 90 seconds left.
+|
+|t:|1772750706
+|switch|p2a: Hitmontop|Hitmontop, L88, M|231/231
+|-ability|p2a: Hitmontop|Intimidate|boost
+|-unboost|p1a: Magcargo|atk|1
+|move|p1a: Magcargo|Lava Plume|p2a: Hitmontop
+|-damage|p2a: Hitmontop|146/231
+|-status|p2a: Hitmontop|brn
+|
+|-damage|p2a: Hitmontop|132/231 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1772750716
+|switch|p1a: Scream Tail|Scream Tail, L84|231/330
+|-activate|p1a: Scream Tail|move: Sticky Web
+|-unboost|p1a: Scream Tail|spe|1
+|move|p2a: Hitmontop|Earthquake|p1a: Scream Tail
+|-damage|p1a: Scream Tail|177/330
+|
+|-heal|p1a: Scream Tail|197/330|[from] item: Leftovers
+|-damage|p2a: Hitmontop|118/231 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1772750724
+|switch|p2a: Pelipper|Pelipper, L86, F|243/243 slp
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Scream Tail|Wish|p1a: Scream Tail
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Scream Tail|217/330|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1772750729
+|cant|p2a: Pelipper|slp
+|move|p1a: Scream Tail|Dazzling Gleam|p2a: Pelipper
+|-damage|p2a: Pelipper|170/243 slp
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Scream Tail|330/330|[from] move: Wish|[wisher] Scream Tail
+|upkeep
+|turn|21
+|inactive|BrutalBjoern has 120 seconds left.
+|
+|t:|1772750746
+|cant|p2a: Pelipper|slp
+|move|p1a: Scream Tail|Dazzling Gleam|p2a: Pelipper
+|-damage|p2a: Pelipper|103/243 slp
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|22
+|
+|t:|1772750752
+|-curestatus|p2a: Pelipper|slp|[msg]
+|move|p2a: Pelipper|Roost|p2a: Pelipper
+|-heal|p2a: Pelipper|225/243
+|-singleturn|p2a: Pelipper|move: Roost
+|move|p1a: Scream Tail|Dazzling Gleam|p2a: Pelipper
+|-damage|p2a: Pelipper|152/243
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|23
+|inactive|BrutalBjoern has 120 seconds left.
+|
+|t:|1772750761
+|move|p2a: Pelipper|Knock Off|p1a: Scream Tail
+|-damage|p1a: Scream Tail|286/330
+|-enditem|p1a: Scream Tail|Leftovers|[from] move: Knock Off|[of] p2a: Pelipper
+|move|p1a: Scream Tail|Dazzling Gleam|p2a: Pelipper
+|-damage|p2a: Pelipper|77/243
+|
+|-weather|none
+|upkeep
+|turn|24
+|
+|t:|1772750766
+|move|p2a: Pelipper|Roost|p2a: Pelipper
+|-heal|p2a: Pelipper|199/243
+|-singleturn|p2a: Pelipper|move: Roost
+|move|p1a: Scream Tail|Encore|p2a: Pelipper
+|-start|p2a: Pelipper|Encore
+|
+|upkeep
+|turn|25
+|inactive|BrutalBjoern has 120 seconds left.
+|
+|t:|1772750793
+|switch|p2a: Corviknight|Corviknight, L80, M|288/288
+|-end|p1a: Scream Tail|Protosynthesis|[silent]
+|switch|p1a: Magcargo|Magcargo, L95, M|268/268
+|
+|upkeep
+|turn|26
+|inactive|BrutalBjoern has 120 seconds left.
+|
+|t:|1772750799
+|switch|p2a: Hitmontop|Hitmontop, L88, M|118/231 brn
+|-ability|p2a: Hitmontop|Intimidate|boost
+|-unboost|p1a: Magcargo|atk|1
+|move|p1a: Magcargo|Yawn||[still]
+|-fail|p1a: Magcargo
+|
+|-damage|p2a: Hitmontop|104/231 brn|[from] brn
+|upkeep
+|turn|27
+|inactive|BrutalBjoern has 120 seconds left.
+|
+|t:|1772750824
+|switch|p2a: Pelipper|Pelipper, L86, F|199/243
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|switch|p1a: Scream Tail|Scream Tail, L84|286/330
+|-activate|p1a: Scream Tail|move: Sticky Web
+|-unboost|p1a: Scream Tail|spe|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|28
+|
+|t:|1772750830
+|move|p1a: Scream Tail|Protect|p1a: Scream Tail
+|-singleturn|p1a: Scream Tail|Protect
+|move|p2a: Pelipper|Hydro Pump|p1a: Scream Tail
+|-activate|p1a: Scream Tail|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|29
+|
+|t:|1772750834
+|move|p2a: Pelipper|Hydro Pump|p1a: Scream Tail
+|-damage|p1a: Scream Tail|141/330
+|move|p1a: Scream Tail|Wish|p1a: Scream Tail
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|30
+|inactive|BrutalBjoern has 120 seconds left.
+|
+|t:|1772750860
+|move|p1a: Scream Tail|Protect|p1a: Scream Tail
+|-singleturn|p1a: Scream Tail|Protect
+|move|p2a: Pelipper|Hydro Pump|p1a: Scream Tail
+|-activate|p1a: Scream Tail|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Scream Tail|306/330|[from] move: Wish|[wisher] Scream Tail
+|upkeep
+|turn|31
+|
+|t:|1772750871
+|move|p2a: Pelipper|Hydro Pump|p1a: Scream Tail
+|-damage|p1a: Scream Tail|153/330
+|move|p1a: Scream Tail|Wish|p1a: Scream Tail
+|
+|-weather|none
+|upkeep
+|turn|32
+|
+|t:|1772750878
+|switch|p2a: Plusle|Plusle, L95, F|268/268
+|move|p1a: Scream Tail|Dazzling Gleam|p2a: Plusle
+|-damage|p2a: Plusle|207/268
+|
+|-heal|p1a: Scream Tail|318/330|[from] move: Wish|[wisher] Scream Tail
+|upkeep
+|turn|33
+|
+|t:|1772750893
+|move|p2a: Plusle|Nasty Plot|p2a: Plusle
+|-boost|p2a: Plusle|spa|2
+|move|p1a: Scream Tail|Encore|p2a: Plusle
+|-start|p2a: Plusle|Encore
+|
+|upkeep
+|turn|34
+|
+|t:|1772750910
+|switch|p2a: Corviknight|Corviknight, L80, M|288/288
+|-end|p1a: Scream Tail|Protosynthesis|[silent]
+|switch|p1a: Beartic|Beartic, L91, M|321/321
+|
+|upkeep
+|turn|35
+|
+|t:|1772750925
+|switch|p1a: Magcargo|Magcargo, L95, M|268/268
+|move|p2a: Corviknight|Body Press|p1a: Magcargo
+|-supereffective|p1a: Magcargo
+|-damage|p1a: Magcargo|188/268
+|
+|upkeep
+|turn|36
+|
+|t:|1772750932
+|switch|p2a: Hitmontop|Hitmontop, L88, M|104/231 brn
+|-ability|p2a: Hitmontop|Intimidate|boost
+|-unboost|p1a: Magcargo|atk|1
+|move|p1a: Magcargo|Power Gem|p2a: Hitmontop
+|-resisted|p2a: Hitmontop
+|-damage|p2a: Hitmontop|64/231 brn
+|
+|-damage|p2a: Hitmontop|50/231 brn|[from] brn
+|upkeep
+|turn|37
+|
+|t:|1772750937
+|switch|p2a: Plusle|Plusle, L95, F|207/268
+|switch|p1a: Scream Tail|Scream Tail, L84|318/330
+|-activate|p1a: Scream Tail|move: Sticky Web
+|-unboost|p1a: Scream Tail|spe|1
+|
+|upkeep
+|turn|38
+|
+|t:|1772750942
+|move|p2a: Plusle|Nasty Plot|p2a: Plusle
+|-boost|p2a: Plusle|spa|2
+|move|p1a: Scream Tail|Dazzling Gleam|p2a: Plusle
+|-damage|p2a: Plusle|146/268
+|
+|upkeep
+|turn|39
+|
+|t:|1772750955
+|-end|p1a: Scream Tail|Protosynthesis|[silent]
+|switch|p1a: Exeggutor|Exeggutor-Alola, L89, F|314/314
+|-activate|p1a: Exeggutor|move: Sticky Web
+|-unboost|p1a: Exeggutor|spe|1
+|-item|p2a: Plusle|Life Orb|[from] ability: Frisk|[of] p1a: Exeggutor
+|move|p2a: Plusle|Thunderbolt|p1a: Exeggutor
+|-resisted|p1a: Exeggutor
+|-damage|p1a: Exeggutor|232/314
+|-damage|p2a: Plusle|120/268|[from] item: Life Orb
+|
+|upkeep
+|turn|40
+|
+|t:|1772750969
+|switch|p1a: Scream Tail|Scream Tail, L84|318/330
+|-activate|p1a: Scream Tail|move: Sticky Web
+|-unboost|p1a: Scream Tail|spe|1
+|move|p2a: Plusle|Alluring Voice|p1a: Scream Tail
+|-damage|p1a: Scream Tail|184/330
+|-damage|p2a: Plusle|94/268|[from] item: Life Orb
+|
+|upkeep
+|turn|41
+|
+|t:|1772750985
+|-end|p1a: Scream Tail|Protosynthesis|[silent]
+|switch|p1a: Exeggutor|Exeggutor-Alola, L89, F|232/314
+|-activate|p1a: Exeggutor|move: Sticky Web
+|-unboost|p1a: Exeggutor|spe|1
+|-item|p2a: Plusle|Life Orb|[from] ability: Frisk|[of] p1a: Exeggutor
+|move|p2a: Plusle|Thunderbolt|p1a: Exeggutor
+|-resisted|p1a: Exeggutor
+|-damage|p1a: Exeggutor|158/314
+|-status|p1a: Exeggutor|par
+|-damage|p2a: Plusle|68/268|[from] item: Life Orb
+|
+|upkeep
+|turn|42
+|
+|t:|1772750999
+|move|p2a: Plusle|Alluring Voice|p1a: Exeggutor
+|-supereffective|p1a: Exeggutor
+|-damage|p1a: Exeggutor|0 fnt
+|faint|p1a: Exeggutor
+|-damage|p2a: Plusle|42/268|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772751002
+|switch|p1a: Beartic|Beartic, L91, M|321/321
+|turn|43
+|
+|t:|1772751008
+|-terastallize|p2a: Plusle|Grass
+|move|p1a: Beartic|Aqua Jet|p2a: Plusle
+|-resisted|p2a: Plusle
+|-damage|p2a: Plusle|10/268
+|move|p2a: Plusle|Grass Knot|p1a: Beartic
+|-damage|p1a: Beartic|0 fnt
+|faint|p1a: Beartic
+|-damage|p2a: Plusle|0 fnt|[from] item: Life Orb
+|faint|p2a: Plusle
+|
+|upkeep
+|
+|t:|1772751020
+|switch|p2a: Chimecho|Chimecho, L93, M|290/290
+|switch|p1a: Scream Tail|Scream Tail, L84|184/330
+|-activate|p1a: Scream Tail|move: Sticky Web
+|-unboost|p1a: Scream Tail|spe|1
+|turn|44
+|
+|t:|1772751025
+|move|p2a: Chimecho|Cosmic Power|p2a: Chimecho
+|-boost|p2a: Chimecho|def|1
+|-boost|p2a: Chimecho|spd|1
+|move|p1a: Scream Tail|Encore|p2a: Chimecho
+|-start|p2a: Chimecho|Encore
+|
+|upkeep
+|turn|45
+|
+|t:|1772751032
+|-end|p1a: Scream Tail|Protosynthesis|[silent]
+|switch|p1a: Scrafty|Scrafty, L84, M|246/246
+|-activate|p1a: Scrafty|move: Sticky Web
+|-unboost|p1a: Scrafty|spe|1
+|-ability|p1a: Scrafty|Intimidate|boost
+|-unboost|p2a: Chimecho|atk|1
+|move|p2a: Chimecho|Cosmic Power|p2a: Chimecho
+|-boost|p2a: Chimecho|def|1
+|-boost|p2a: Chimecho|spd|1
+|
+|upkeep
+|turn|46
+|
+|t:|1772751040
+|switch|p2a: Hitmontop|Hitmontop, L88, M|50/231 brn
+|-ability|p2a: Hitmontop|Intimidate|boost
+|-unboost|p1a: Scrafty|atk|1
+|move|p1a: Scrafty|Poison Jab|p2a: Hitmontop
+|-damage|p2a: Hitmontop|17/231 brn
+|
+|-damage|p2a: Hitmontop|3/231 brn|[from] brn
+|upkeep
+|turn|47
+|
+|t:|1772751065
+|switch|p1a: Scream Tail|Scream Tail, L84|184/330
+|-activate|p1a: Scream Tail|move: Sticky Web
+|-unboost|p1a: Scream Tail|spe|1
+|move|p2a: Hitmontop|Close Combat|p1a: Scream Tail
+|-resisted|p1a: Scream Tail
+|-damage|p1a: Scream Tail|161/330
+|-unboost|p2a: Hitmontop|def|1
+|-unboost|p2a: Hitmontop|spd|1
+|
+|-damage|p2a: Hitmontop|0 fnt|[from] brn
+|faint|p2a: Hitmontop
+|upkeep
+|
+|t:|1772751071
+|switch|p2a: Pelipper|Pelipper, L86, F|199/243
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|48
+|
+|t:|1772751076
+|move|p1a: Scream Tail|Protect|p1a: Scream Tail
+|-singleturn|p1a: Scream Tail|Protect
+|move|p2a: Pelipper|Hurricane|p1a: Scream Tail
+|-activate|p1a: Scream Tail|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|49
+|
+|t:|1772751083
+|move|p2a: Pelipper|Hurricane|p1a: Scream Tail
+|-damage|p1a: Scream Tail|70/330
+|move|p1a: Scream Tail|Wish|p1a: Scream Tail
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|50
+|
+|t:|1772751091
+|move|p1a: Scream Tail|Protect|p1a: Scream Tail
+|-singleturn|p1a: Scream Tail|Protect
+|move|p2a: Pelipper|Hurricane|p1a: Scream Tail
+|-activate|p1a: Scream Tail|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Scream Tail|235/330|[from] move: Wish|[wisher] Scream Tail
+|upkeep
+|turn|51
+|
+|t:|1772751095
+|move|p2a: Pelipper|Hydro Pump|p1a: Scream Tail
+|-damage|p1a: Scream Tail|82/330
+|move|p1a: Scream Tail|Wish|p1a: Scream Tail
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|52
+|
+|t:|1772751099
+|move|p1a: Scream Tail|Protect|p1a: Scream Tail
+|-singleturn|p1a: Scream Tail|Protect
+|move|p2a: Pelipper|Hurricane|p1a: Scream Tail
+|-activate|p1a: Scream Tail|move: Protect
+|
+|-weather|none
+|-heal|p1a: Scream Tail|247/330|[from] move: Wish|[wisher] Scream Tail
+|upkeep
+|turn|53
+|
+|t:|1772751104
+|switch|p2a: Corviknight|Corviknight, L80, M|288/288
+|move|p1a: Scream Tail|Dazzling Gleam|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|252/288
+|
+|upkeep
+|turn|54
+|
+|t:|1772751108
+|switch|p2a: Pelipper|Pelipper, L86, F|199/243
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Scream Tail|Wish|p1a: Scream Tail
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|55
+|
+|t:|1772751127
+|move|p2a: Pelipper|Hurricane|p1a: Scream Tail
+|-damage|p1a: Scream Tail|156/330
+|move|p1a: Scream Tail|Dazzling Gleam|p2a: Pelipper
+|-damage|p2a: Pelipper|132/243
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Scream Tail|321/330|[from] move: Wish|[wisher] Scream Tail
+|upkeep
+|turn|56
+|
+|t:|1772751140
+|move|p2a: Pelipper|Roost|p2a: Pelipper
+|-heal|p2a: Pelipper|243/243
+|-singleturn|p2a: Pelipper|move: Roost
+|move|p1a: Scream Tail|Encore|p2a: Pelipper
+|-start|p2a: Pelipper|Encore
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|57
+|
+|t:|1772751146
+|switch|p2a: Corviknight|Corviknight, L80, M|252/288
+|-end|p1a: Scream Tail|Protosynthesis|[silent]
+|switch|p1a: Magcargo|Magcargo, L95, M|188/268
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|58
+|
+|t:|1772751155
+|move|p2a: Corviknight|Body Press|p1a: Magcargo
+|-supereffective|p1a: Magcargo
+|-damage|p1a: Magcargo|110/268
+|move|p1a: Magcargo|Power Gem|p2a: Corviknight
+|-damage|p2a: Corviknight|143/288
+|
+|-weather|none
+|upkeep
+|turn|59
+|
+|t:|1772751164
+|switch|p2a: Pelipper|Pelipper, L86, F|243/243
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Magcargo|Lava Plume|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|215/243
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|60
+|
+|t:|1772751172
+|switch|p1a: Scream Tail|Scream Tail, L84|321/330
+|-activate|p1a: Scream Tail|move: Sticky Web
+|-unboost|p1a: Scream Tail|spe|1
+|move|p2a: Pelipper|Hydro Pump|p1a: Scream Tail|[miss]
+|-miss|p2a: Pelipper|p1a: Scream Tail
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|61
+|
+|t:|1772751180
+|switch|p2a: Corviknight|Corviknight, L80, M|143/288
+|move|p1a: Scream Tail|Encore||[still]
+|-fail|p1a: Scream Tail
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|62
+|
+|t:|1772751185
+|-end|p1a: Scream Tail|Protosynthesis|[silent]
+|switch|p1a: Magcargo|Magcargo, L95, M|110/268
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|287/288
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|63
+|
+|t:|1772751196
+|move|p2a: Corviknight|Body Press|p1a: Magcargo
+|-supereffective|p1a: Magcargo
+|-damage|p1a: Magcargo|32/268
+|move|p1a: Magcargo|Recover|p1a: Magcargo
+|-heal|p1a: Magcargo|166/268
+|
+|-weather|none
+|upkeep
+|turn|64
+|
+|t:|1772751210
+|switch|p2a: Pelipper|Pelipper, L86, F|215/243
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Magcargo|Lava Plume|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|187/243
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|65
+|
+|t:|1772751213
+|switch|p1a: Scream Tail|Scream Tail, L84|321/330
+|-activate|p1a: Scream Tail|move: Sticky Web
+|-unboost|p1a: Scream Tail|spe|1
+|move|p2a: Pelipper|Hydro Pump|p1a: Scream Tail|[miss]
+|-miss|p2a: Pelipper|p1a: Scream Tail
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|66
+|
+|t:|1772751223
+|move|p2a: Pelipper|Hurricane|p1a: Scream Tail
+|-damage|p1a: Scream Tail|222/330
+|move|p1a: Scream Tail|Dazzling Gleam|p2a: Pelipper
+|-damage|p2a: Pelipper|120/243
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|67
+|
+|t:|1772751232
+|move|p2a: Pelipper|Roost|p2a: Pelipper
+|-heal|p2a: Pelipper|242/243
+|-singleturn|p2a: Pelipper|move: Roost
+|move|p1a: Scream Tail|Wish|p1a: Scream Tail
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|68
+|
+|t:|1772751238
+|switch|p2a: Chimecho|Chimecho, L93, M|290/290
+|move|p1a: Scream Tail|Protect||[still]
+|-fail|p1a: Scream Tail
+|
+|-weather|none
+|-heal|p1a: Scream Tail|330/330|[from] move: Wish|[wisher] Scream Tail
+|upkeep
+|turn|69
+|
+|t:|1772751241
+|move|p2a: Chimecho|Dazzling Gleam|p1a: Scream Tail
+|-damage|p1a: Scream Tail|274/330
+|move|p1a: Scream Tail|Encore|p2a: Chimecho
+|-start|p2a: Chimecho|Encore
+|
+|upkeep
+|turn|70
+|
+|t:|1772751246
+|switch|p2a: Pelipper|Pelipper, L86, F|242/243
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|-end|p1a: Scream Tail|Protosynthesis|[silent]
+|switch|p1a: Sunflora|Sunflora, F|312/312
+|-activate|p1a: Sunflora|move: Sticky Web
+|-unboost|p1a: Sunflora|spe|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|71
+|
+|t:|1772751250
+|move|p2a: Pelipper|Hurricane|p1a: Sunflora
+|-supereffective|p1a: Sunflora
+|-damage|p1a: Sunflora|84/312
+|-start|p1a: Sunflora|confusion
+|-activate|p1a: Sunflora|confusion
+|-damage|p1a: Sunflora|56/312|[from] confusion
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|72
+|
+|t:|1772751260
+|switch|p1a: Scream Tail|Scream Tail, L84|274/330
+|-activate|p1a: Scream Tail|move: Sticky Web
+|-unboost|p1a: Scream Tail|spe|1
+|move|p2a: Pelipper|Hurricane|p1a: Scream Tail
+|-damage|p1a: Scream Tail|172/330
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|73
+|
+|t:|1772751278
+|switch|p2a: Chimecho|Chimecho, L93, M|290/290
+|move|p1a: Scream Tail|Wish|p1a: Scream Tail
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|74
+|
+|t:|1772751282
+|move|p2a: Chimecho|Cosmic Power|p2a: Chimecho
+|-boost|p2a: Chimecho|def|1
+|-boost|p2a: Chimecho|spd|1
+|move|p1a: Scream Tail|Encore|p2a: Chimecho
+|-start|p2a: Chimecho|Encore
+|
+|-weather|none
+|-heal|p1a: Scream Tail|330/330|[from] move: Wish|[wisher] Scream Tail
+|upkeep
+|turn|75
+|
+|t:|1772751288
+|switch|p2a: Corviknight|Corviknight, L80, M|287/288
+|-end|p1a: Scream Tail|Protosynthesis|[silent]
+|switch|p1a: Scrafty|Scrafty, L84, M|246/246
+|-activate|p1a: Scrafty|move: Sticky Web
+|-unboost|p1a: Scrafty|spe|1
+|-ability|p1a: Scrafty|Intimidate|boost
+|-ability|p2a: Corviknight|Mirror Armor
+|-unboost|p1a: Scrafty|atk|1
+|
+|upkeep
+|turn|76
+|
+|t:|1772751291
+|switch|p1a: Magcargo|Magcargo, L95, M|166/268
+|move|p2a: Corviknight|Brave Bird|p1a: Magcargo
+|-resisted|p1a: Magcargo
+|-damage|p1a: Magcargo|127/268
+|-status|p2a: Corviknight|brn|[from] ability: Flame Body|[of] p1a: Magcargo
+|-damage|p2a: Corviknight|274/288 brn|[from] Recoil
+|
+|-damage|p2a: Corviknight|256/288 brn|[from] brn
+|upkeep
+|turn|77
+|
+|t:|1772751299
+|switch|p2a: Pelipper|Pelipper, L86, F|242/243
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Magcargo|Recover|p1a: Magcargo
+|-heal|p1a: Magcargo|261/268
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|78
+|
+|t:|1772751312
+|switch|p2a: Corviknight|Corviknight, L80, M|256/288 brn
+|move|p1a: Magcargo|Power Gem|p2a: Corviknight
+|-damage|p2a: Corviknight|141/288 brn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Corviknight|123/288 brn|[from] brn
+|upkeep
+|turn|79
+|
+|t:|1772751314
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|267/288 brn
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Magcargo|Power Gem|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|209/288 brn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Corviknight|191/288 brn|[from] brn
+|upkeep
+|turn|80
+|inactive|BrutalBjoern has 120 seconds left.
+|
+|t:|1772751348
+|switch|p2a: Chimecho|Chimecho, L93, M|290/290
+|move|p1a: Magcargo|Power Gem|p2a: Chimecho
+|-damage|p2a: Chimecho|190/290
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Chimecho|208/290|[from] item: Leftovers
+|upkeep
+|turn|81
+|
+|t:|1772751355
+|move|p2a: Chimecho|Cosmic Power|p2a: Chimecho
+|-boost|p2a: Chimecho|def|1
+|-boost|p2a: Chimecho|spd|1
+|move|p1a: Magcargo|Yawn|p2a: Chimecho
+|-start|p2a: Chimecho|move: Yawn|[of] p1a: Magcargo
+|
+|-weather|none
+|-heal|p2a: Chimecho|226/290|[from] item: Leftovers
+|upkeep
+|turn|82
+|
+|t:|1772751362
+|switch|p2a: Pelipper|Pelipper, L86, F|242/243
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|switch|p1a: Sunflora|Sunflora, F|56/312
+|-activate|p1a: Sunflora|move: Sticky Web
+|-unboost|p1a: Sunflora|spe|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|83
+|
+|t:|1772751373
+|switch|p1a: Scream Tail|Scream Tail, L84|330/330
+|-activate|p1a: Scream Tail|move: Sticky Web
+|-unboost|p1a: Scream Tail|spe|1
+|move|p2a: Pelipper|Hurricane|p1a: Scream Tail
+|-damage|p1a: Scream Tail|239/330
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|84
+|
+|t:|1772751381
+|switch|p2a: Chimecho|Chimecho, L93, M|226/290
+|move|p1a: Scream Tail|Wish|p1a: Scream Tail
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Chimecho|244/290|[from] item: Leftovers
+|upkeep
+|turn|85
+|
+|t:|1772751396
+|move|p2a: Chimecho|Cosmic Power|p2a: Chimecho
+|-boost|p2a: Chimecho|def|1
+|-boost|p2a: Chimecho|spd|1
+|move|p1a: Scream Tail|Dazzling Gleam|p2a: Chimecho
+|-damage|p2a: Chimecho|208/290
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Scream Tail|330/330|[from] move: Wish|[wisher] Scream Tail
+|-heal|p2a: Chimecho|226/290|[from] item: Leftovers
+|upkeep
+|turn|86
+|
+|t:|1772751408
+|move|p2a: Chimecho|Cosmic Power|p2a: Chimecho
+|-boost|p2a: Chimecho|def|1
+|-boost|p2a: Chimecho|spd|1
+|move|p1a: Scream Tail|Encore|p2a: Chimecho
+|-start|p2a: Chimecho|Encore
+|
+|-weather|none
+|-heal|p2a: Chimecho|244/290|[from] item: Leftovers
+|upkeep
+|turn|87
+|
+|t:|1772751412
+|-end|p1a: Scream Tail|Protosynthesis|[silent]
+|switch|p1a: Scrafty|Scrafty, L84, M|246/246
+|-activate|p1a: Scrafty|move: Sticky Web
+|-unboost|p1a: Scrafty|spe|1
+|-ability|p1a: Scrafty|Intimidate|boost
+|-unboost|p2a: Chimecho|atk|1
+|move|p2a: Chimecho|Cosmic Power|p2a: Chimecho
+|-boost|p2a: Chimecho|def|1
+|-boost|p2a: Chimecho|spd|1
+|
+|-heal|p2a: Chimecho|262/290|[from] item: Leftovers
+|upkeep
+|turn|88
+|
+|t:|1772751418
+|move|p2a: Chimecho|Cosmic Power|p2a: Chimecho
+|-boost|p2a: Chimecho|def|1
+|-boost|p2a: Chimecho|spd|1
+|move|p1a: Scrafty|Dragon Dance|p1a: Scrafty
+|-boost|p1a: Scrafty|atk|1
+|-boost|p1a: Scrafty|spe|1
+|
+|-heal|p2a: Chimecho|280/290|[from] item: Leftovers
+|upkeep
+|turn|89
+|
+|t:|1772751421
+|move|p2a: Chimecho|Cosmic Power|p2a: Chimecho
+|-boost|p2a: Chimecho|def|1
+|-boost|p2a: Chimecho|spd|1
+|move|p1a: Scrafty|Dragon Dance|p1a: Scrafty
+|-boost|p1a: Scrafty|atk|1
+|-boost|p1a: Scrafty|spe|1
+|
+|-heal|p2a: Chimecho|290/290|[from] item: Leftovers
+|-end|p2a: Chimecho|Encore
+|upkeep
+|turn|90
+|
+|t:|1772751428
+|-terastallize|p1a: Scrafty|Poison
+|move|p1a: Scrafty|Knock Off|p2a: Chimecho
+|-supereffective|p2a: Chimecho
+|-damage|p2a: Chimecho|180/290
+|-enditem|p2a: Chimecho|Leftovers|[from] move: Knock Off|[of] p1a: Scrafty
+|move|p2a: Chimecho|Dazzling Gleam|p1a: Scrafty
+|-resisted|p1a: Scrafty
+|-damage|p1a: Scrafty|218/246
+|
+|-heal|p1a: Scrafty|233/246|[from] item: Leftovers
+|upkeep
+|turn|91
+|
+|t:|1772751436
+|move|p1a: Scrafty|Poison Jab|p2a: Chimecho
+|-damage|p2a: Chimecho|134/290
+|-status|p2a: Chimecho|psn
+|move|p2a: Chimecho|Stored Power|p1a: Scrafty
+|-supereffective|p1a: Scrafty
+|-damage|p1a: Scrafty|0 fnt
+|faint|p1a: Scrafty
+|
+|-damage|p2a: Chimecho|98/290 psn|[from] psn
+|upkeep
+|
+|t:|1772751448
+|switch|p1a: Magcargo|Magcargo, L95, M|261/268
+|turn|92
+|
+|t:|1772751464
+|move|p2a: Chimecho|Recover|p2a: Chimecho
+|-heal|p2a: Chimecho|243/290 psn
+|move|p1a: Magcargo|Power Gem|p2a: Chimecho
+|-damage|p2a: Chimecho|216/290 psn
+|
+|-damage|p2a: Chimecho|180/290 psn|[from] psn
+|upkeep
+|turn|93
+|
+|t:|1772751468
+|move|p2a: Chimecho|Stored Power|p1a: Magcargo
+|-damage|p1a: Magcargo|5/268
+|move|p1a: Magcargo|Power Gem|p2a: Chimecho
+|-damage|p2a: Chimecho|155/290 psn
+|
+|-damage|p2a: Chimecho|119/290 psn|[from] psn
+|upkeep
+|turn|94
+|
+|t:|1772751477
+|move|p2a: Chimecho|Stored Power|p1a: Magcargo
+|-damage|p1a: Magcargo|0 fnt
+|faint|p1a: Magcargo
+|
+|-damage|p2a: Chimecho|83/290 psn|[from] psn
+|upkeep
+|c|☆BrutalBjoern|gg
+|
+|t:|1772751482
+|switch|p1a: Sunflora|Sunflora, F|56/312
+|-activate|p1a: Sunflora|move: Sticky Web
+|-unboost|p1a: Sunflora|spe|1
+|turn|95
+|
+|t:|1772751489
+|move|p2a: Chimecho|Stored Power|p1a: Sunflora
+|-damage|p1a: Sunflora|0 fnt
+|faint|p1a: Sunflora
+|
+|-damage|p2a: Chimecho|47/290 psn|[from] psn
+|upkeep
+|
+|t:|1772751491
+|switch|p1a: Scream Tail|Scream Tail, L84|330/330
+|-activate|p1a: Scream Tail|move: Sticky Web
+|-unboost|p1a: Scream Tail|spe|1
+|turn|96
+|
+|t:|1772751494
+|move|p2a: Chimecho|Recover|p2a: Chimecho
+|-heal|p2a: Chimecho|192/290 psn
+|move|p1a: Scream Tail|Dazzling Gleam|p2a: Chimecho
+|-damage|p2a: Chimecho|176/290 psn
+|
+|-damage|p2a: Chimecho|140/290 psn|[from] psn
+|upkeep
+|turn|97
+|
+|t:|1772751497
+|move|p2a: Chimecho|Recover|p2a: Chimecho
+|-heal|p2a: Chimecho|285/290 psn
+|move|p1a: Scream Tail|Dazzling Gleam|p2a: Chimecho
+|-damage|p2a: Chimecho|269/290 psn
+|
+|-damage|p2a: Chimecho|233/290 psn|[from] psn
+|upkeep
+|turn|98
+|
+|t:|1772751502
+|move|p2a: Chimecho|Cosmic Power|p2a: Chimecho
+|-boost|p2a: Chimecho|def|1
+|-boost|p2a: Chimecho|spd|1
+|move|p1a: Scream Tail|Dazzling Gleam|p2a: Chimecho
+|-damage|p2a: Chimecho|220/290 psn
+|
+|-damage|p2a: Chimecho|184/290 psn|[from] psn
+|upkeep
+|turn|99
+|
+|t:|1772751505
+|move|p2a: Chimecho|Stored Power|p1a: Scream Tail
+|-resisted|p1a: Scream Tail
+|-damage|p1a: Scream Tail|202/330
+|move|p1a: Scream Tail|Dazzling Gleam|p2a: Chimecho
+|-damage|p2a: Chimecho|169/290 psn
+|
+|-damage|p2a: Chimecho|133/290 psn|[from] psn
+|upkeep
+|turn|100
+|
+|t:|1772751507
+|move|p2a: Chimecho|Recover|p2a: Chimecho
+|-heal|p2a: Chimecho|278/290 psn
+|move|p1a: Scream Tail|Dazzling Gleam|p2a: Chimecho
+|-damage|p2a: Chimecho|263/290 psn
+|
+|-damage|p2a: Chimecho|227/290 psn|[from] psn
+|upkeep
+|turn|101
+|
+|t:|1772751513
+|move|p1a: Scream Tail|Protect|p1a: Scream Tail
+|-singleturn|p1a: Scream Tail|Protect
+|move|p2a: Chimecho|Stored Power|p1a: Scream Tail
+|-activate|p1a: Scream Tail|move: Protect
+|
+|-damage|p2a: Chimecho|191/290 psn|[from] psn
+|upkeep
+|turn|102
+|
+|t:|1772751525
+|move|p2a: Chimecho|Stored Power|p1a: Scream Tail
+|-resisted|p1a: Scream Tail
+|-damage|p1a: Scream Tail|68/330
+|move|p1a: Scream Tail|Wish|p1a: Scream Tail
+|
+|-damage|p2a: Chimecho|155/290 psn|[from] psn
+|upkeep
+|turn|103
+|
+|t:|1772751538
+|move|p1a: Scream Tail|Protect|p1a: Scream Tail
+|-singleturn|p1a: Scream Tail|Protect
+|move|p2a: Chimecho|Stored Power|p1a: Scream Tail
+|-activate|p1a: Scream Tail|move: Protect
+|
+|-heal|p1a: Scream Tail|233/330|[from] move: Wish|[wisher] Scream Tail
+|-damage|p2a: Chimecho|119/290 psn|[from] psn
+|upkeep
+|turn|104
+|
+|t:|1772751541
+|move|p2a: Chimecho|Stored Power|p1a: Scream Tail
+|-resisted|p1a: Scream Tail
+|-damage|p1a: Scream Tail|110/330
+|move|p1a: Scream Tail|Wish|p1a: Scream Tail
+|
+|-damage|p2a: Chimecho|83/290 psn|[from] psn
+|upkeep
+|turn|105
+|
+|t:|1772751546
+|move|p1a: Scream Tail|Protect|p1a: Scream Tail
+|-singleturn|p1a: Scream Tail|Protect
+|move|p2a: Chimecho|Recover|p2a: Chimecho
+|-heal|p2a: Chimecho|228/290 psn
+|
+|-heal|p1a: Scream Tail|275/330|[from] move: Wish|[wisher] Scream Tail
+|-damage|p2a: Chimecho|192/290 psn|[from] psn
+|upkeep
+|turn|106
+|
+|t:|1772751549
+|move|p2a: Chimecho|Stored Power|p1a: Scream Tail
+|-resisted|p1a: Scream Tail
+|-damage|p1a: Scream Tail|135/330
+|move|p1a: Scream Tail|Wish|p1a: Scream Tail
+|
+|-damage|p2a: Chimecho|156/290 psn|[from] psn
+|upkeep
+|turn|107
+|
+|t:|1772751551
+|move|p1a: Scream Tail|Protect|p1a: Scream Tail
+|-singleturn|p1a: Scream Tail|Protect
+|move|p2a: Chimecho|Recover|p2a: Chimecho
+|-heal|p2a: Chimecho|290/290 psn
+|
+|-heal|p1a: Scream Tail|300/330|[from] move: Wish|[wisher] Scream Tail
+|-damage|p2a: Chimecho|254/290 psn|[from] psn
+|upkeep
+|turn|108
+|
+|t:|1772751557
+|move|p1a: Scream Tail|Protect|p1a: Scream Tail
+|-singleturn|p1a: Scream Tail|Protect
+|move|p2a: Chimecho|Stored Power|p1a: Scream Tail
+|-activate|p1a: Scream Tail|move: Protect
+|
+|-damage|p2a: Chimecho|218/290 psn|[from] psn
+|upkeep
+|turn|109
+|
+|t:|1772751560
+|move|p1a: Scream Tail|Protect||[still]
+|-fail|p1a: Scream Tail
+|move|p2a: Chimecho|Stored Power|p1a: Scream Tail
+|-resisted|p1a: Scream Tail
+|-damage|p1a: Scream Tail|174/330
+|
+|-damage|p2a: Chimecho|182/290 psn|[from] psn
+|upkeep
+|turn|110
+|
+|t:|1772751573
+|move|p2a: Chimecho|Stored Power|p1a: Scream Tail
+|-resisted|p1a: Scream Tail
+|-damage|p1a: Scream Tail|51/330
+|move|p1a: Scream Tail|Wish|p1a: Scream Tail
+|
+|-damage|p2a: Chimecho|146/290 psn|[from] psn
+|upkeep
+|turn|111
+|
+|t:|1772751576
+|move|p1a: Scream Tail|Protect|p1a: Scream Tail
+|-singleturn|p1a: Scream Tail|Protect
+|move|p2a: Chimecho|Stored Power|p1a: Scream Tail
+|-activate|p1a: Scream Tail|move: Protect
+|
+|-heal|p1a: Scream Tail|216/330|[from] move: Wish|[wisher] Scream Tail
+|-damage|p2a: Chimecho|110/290 psn|[from] psn
+|upkeep
+|turn|112
+|
+|t:|1772751578
+|move|p1a: Scream Tail|Protect||[still]
+|-fail|p1a: Scream Tail
+|move|p2a: Chimecho|Stored Power|p1a: Scream Tail
+|-resisted|p1a: Scream Tail
+|-damage|p1a: Scream Tail|90/330
+|
+|-damage|p2a: Chimecho|74/290 psn|[from] psn
+|upkeep
+|turn|113
+|
+|t:|1772751581
+|move|p1a: Scream Tail|Protect|p1a: Scream Tail
+|-singleturn|p1a: Scream Tail|Protect
+|move|p2a: Chimecho|Stored Power|p1a: Scream Tail
+|-activate|p1a: Scream Tail|move: Protect
+|
+|-damage|p2a: Chimecho|38/290 psn|[from] psn
+|upkeep
+|turn|114
+|
+|t:|1772751586
+|move|p1a: Scream Tail|Protect||[still]
+|-fail|p1a: Scream Tail
+|move|p2a: Chimecho|Recover|p2a: Chimecho
+|-heal|p2a: Chimecho|183/290 psn
+|
+|-damage|p2a: Chimecho|147/290 psn|[from] psn
+|upkeep
+|turn|115
+|
+|t:|1772751588
+|move|p2a: Chimecho|Recover|p2a: Chimecho
+|-heal|p2a: Chimecho|290/290 psn
+|-activate|p1a: Scream Tail|move: Struggle
+|move|p1a: Scream Tail|Struggle|p2a: Chimecho
+|-damage|p2a: Chimecho|284/290 psn
+|-damage|p1a: Scream Tail|7/330|[from] recoil
+|
+|-damage|p2a: Chimecho|248/290 psn|[from] psn
+|upkeep
+|turn|116
+|
+|t:|1772751590
+|move|p2a: Chimecho|Dazzling Gleam|p1a: Scream Tail
+|-damage|p1a: Scream Tail|0 fnt
+|faint|p1a: Scream Tail
+|-end|p1a: Scream Tail|Protosynthesis|[silent]
+|
+|win|BrutalBjoern
+|raw|Exenaphiel's rating: 2175 &rarr; <strong>2158</strong><br />(-17 for losing)
+|raw|BrutalBjoern's rating: 2219 &rarr; <strong>2236</strong><br />(+17 for winning)
+|l|☆Exenaphiel
+|player|p1|
+|l|☆BrutalBjoern
+|player|p2|
+|j|☆BrutalBjoern
+|player|p2|BrutalBjoern|lady-gen4|

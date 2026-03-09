@@ -1,0 +1,65 @@
+|j|☆Phani42
+|j|☆DrainGangPunch
+|t:|1772749613
+|gametype|singles
+|player|p1|Phani42|101|1531
+|player|p2|DrainGangPunch|iris-gen5bw2|1512
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772749613
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Bombirdier|Bombirdier, L85, F|258/258
+|switch|p2a: Torterra|Torterra, L78, F|276/276
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by DrainGangPunch)
+|inactive|Phani42 also wants the timer to be on.
+|
+|t:|1772749624
+|move|p1a: Bombirdier|Brave Bird|p2a: Torterra
+|-supereffective|p2a: Torterra
+|-damage|p2a: Torterra|16/276
+|-damage|p1a: Bombirdier|172/258|[from] Recoil
+|move|p2a: Torterra|Shell Smash|p2a: Torterra
+|-unboost|p2a: Torterra|def|1
+|-unboost|p2a: Torterra|spd|1
+|-boost|p2a: Torterra|atk|2
+|-boost|p2a: Torterra|spa|2
+|-boost|p2a: Torterra|spe|2
+|
+|upkeep
+|turn|2
+|
+|t:|1772749632
+|move|p1a: Bombirdier|Sucker Punch|p2a: Torterra
+|-crit|p2a: Torterra
+|-damage|p2a: Torterra|0 fnt
+|faint|p2a: Torterra
+|
+|upkeep
+|
+|t:|1772749638
+|switch|p2a: Persian|Persian, L92, M|269/269
+|turn|3
+|
+|t:|1772749643
+|switch|p1a: Basculegion|Basculegion-F, L83, F|335/335
+|move|p2a: Persian|Double-Edge|p1a: Basculegion
+|-immune|p1a: Basculegion
+|
+|upkeep
+|turn|4
+|-message|DrainGangPunch forfeited.
+|
+|win|Phani42
+|raw|Phani42's rating: 1531 &rarr; <strong>1550</strong><br />(+19 for winning)
+|raw|DrainGangPunch's rating: 1512 &rarr; <strong>1493</strong><br />(-19 for losing)
+|l|☆DrainGangPunch
+|player|p2|

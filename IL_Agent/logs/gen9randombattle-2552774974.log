@@ -1,0 +1,319 @@
+|j|☆kirbstari
+|j|☆glopre
+|t:|1772752161
+|gametype|singles
+|player|p1|kirbstari|shauntal|1518
+|player|p2|glopre|101|1486
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772752161
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Illumise|Illumise, L91, F|266/266
+|switch|p2a: Vaporeon|Vaporeon, L86, M|364/364
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by glopre)
+|inactive|kirbstari also wants the timer to be on.
+|
+|t:|1772752186
+|move|p1a: Illumise|Thunder Wave|p2a: Vaporeon
+|-status|p2a: Vaporeon|par
+|cant|p2a: Vaporeon|par
+|
+|upkeep
+|turn|2
+|
+|t:|1772752206
+|move|p1a: Illumise|Bug Buzz|p2a: Vaporeon
+|-damage|p2a: Vaporeon|273/364 par
+|move|p2a: Vaporeon|Scald|p1a: Illumise
+|-damage|p1a: Illumise|178/266
+|
+|-heal|p2a: Vaporeon|295/364 par|[from] item: Leftovers
+|upkeep
+|turn|3
+|inactive|kirbstari has 120 seconds left.
+|inactive|kirbstari has 90 seconds left.
+|
+|t:|1772752262
+|switch|p1a: Meganium|Meganium, L90, M|290/290
+|move|p2a: Vaporeon|Scald|p1a: Meganium
+|-resisted|p1a: Meganium
+|-crit|p1a: Meganium
+|-damage|p1a: Meganium|232/290
+|
+|-heal|p1a: Meganium|250/290|[from] item: Leftovers
+|-heal|p2a: Vaporeon|317/364 par|[from] item: Leftovers
+|upkeep
+|turn|4
+|inactive|kirbstari has 90 seconds left.
+|inactive|glopre has 120 seconds left.
+|
+|t:|1772752293
+|switch|p2a: Sylveon|Sylveon, L85, M|300/300
+|move|p1a: Meganium|Knock Off|p2a: Sylveon
+|-resisted|p2a: Sylveon
+|-damage|p2a: Sylveon|257/300
+|-enditem|p2a: Sylveon|Leftovers|[from] move: Knock Off|[of] p1a: Meganium
+|
+|-heal|p1a: Meganium|268/290|[from] item: Leftovers
+|upkeep
+|turn|5
+|inactive|kirbstari has 90 seconds left.
+|
+|t:|1772752319
+|switch|p1a: Torkoal|Torkoal, L88, F|266/266
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|move|p2a: Sylveon|Calm Mind|p2a: Sylveon
+|-boost|p2a: Sylveon|spa|1
+|-boost|p2a: Sylveon|spd|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1772752326
+|move|p2a: Sylveon|Calm Mind|p2a: Sylveon
+|-boost|p2a: Sylveon|spa|1
+|-boost|p2a: Sylveon|spd|1
+|move|p1a: Torkoal|Yawn|p2a: Sylveon
+|-start|p2a: Sylveon|move: Yawn|[of] p1a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1772752344
+|switch|p2a: Vaporeon|Vaporeon, L86, M|317/364 par
+|move|p1a: Torkoal|Stealth Rock|p2a: Vaporeon
+|-sidestart|p2: glopre|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Vaporeon|339/364 par|[from] item: Leftovers
+|upkeep
+|turn|8
+|inactive|kirbstari has 90 seconds left.
+|
+|t:|1772752362
+|switch|p1a: Meganium|Meganium, L90, M|268/290
+|move|p2a: Vaporeon|Wish|p2a: Vaporeon
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Meganium|286/290|[from] item: Leftovers
+|-heal|p2a: Vaporeon|361/364 par|[from] item: Leftovers
+|upkeep
+|turn|9
+|inactive|kirbstari has 90 seconds left.
+|
+|t:|1772752370
+|switch|p2a: Smeargle|Smeargle, L95, M|258/258
+|-damage|p2a: Smeargle|226/258|[from] Stealth Rock
+|move|p1a: Meganium|Knock Off|p2a: Smeargle
+|-damage|p2a: Smeargle|106/258
+|-enditem|p2a: Smeargle|Focus Sash|[from] move: Knock Off|[of] p1a: Meganium
+|
+|-weather|none
+|-heal|p2a: Smeargle|258/258|[from] move: Wish|[wisher] Vaporeon
+|-heal|p1a: Meganium|290/290|[from] item: Leftovers
+|upkeep
+|turn|10
+|inactive|kirbstari has 90 seconds left.
+|
+|t:|1772752385
+|move|p2a: Smeargle|Stealth Rock|p1a: Meganium
+|-sidestart|p1: kirbstari|move: Stealth Rock
+|move|p1a: Meganium|Encore|p2a: Smeargle
+|-start|p2a: Smeargle|Encore
+|
+|upkeep
+|turn|11
+|inactive|kirbstari has 90 seconds left.
+|
+|t:|1772752401
+|switch|p2a: Mabosstiff|Mabosstiff, L86, F|278/278
+|-damage|p2a: Mabosstiff|244/278|[from] Stealth Rock
+|move|p1a: Meganium|Energy Ball|p2a: Mabosstiff
+|-damage|p2a: Mabosstiff|133/278
+|
+|upkeep
+|turn|12
+|
+|t:|1772752412
+|move|p1a: Meganium|Energy Ball|p2a: Mabosstiff
+|-damage|p2a: Mabosstiff|24/278
+|move|p2a: Mabosstiff|Crunch|p1a: Meganium
+|-damage|p1a: Meganium|158/290
+|
+|-heal|p1a: Meganium|176/290|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1772752421
+|move|p1a: Meganium|Energy Ball|p2a: Mabosstiff
+|-damage|p2a: Mabosstiff|0 fnt
+|faint|p2a: Mabosstiff
+|
+|-heal|p1a: Meganium|194/290|[from] item: Leftovers
+|upkeep
+|
+|t:|1772752427
+|switch|p2a: Smeargle|Smeargle, L95, M|258/258
+|-damage|p2a: Smeargle|226/258|[from] Stealth Rock
+|turn|14
+|
+|t:|1772752439
+|move|p2a: Smeargle|Sticky Web|p1a: Meganium
+|-sidestart|p1: kirbstari|move: Sticky Web
+|move|p1a: Meganium|Energy Ball|p2a: Smeargle
+|-damage|p2a: Smeargle|81/258
+|
+|-heal|p1a: Meganium|212/290|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1772752452
+|move|p2a: Smeargle|Ceaseless Edge|p1a: Meganium|[miss]
+|-miss|p2a: Smeargle|p1a: Meganium
+|move|p1a: Meganium|Energy Ball|p2a: Smeargle
+|-damage|p2a: Smeargle|0 fnt
+|faint|p2a: Smeargle
+|
+|-heal|p1a: Meganium|230/290|[from] item: Leftovers
+|upkeep
+|
+|t:|1772752460
+|switch|p2a: Sylveon|Sylveon, L85, M|257/300
+|-damage|p2a: Sylveon|220/300|[from] Stealth Rock
+|turn|16
+|
+|t:|1772752467
+|move|p1a: Meganium|Synthesis|p1a: Meganium
+|-heal|p1a: Meganium|290/290
+|move|p2a: Sylveon|Wish|p2a: Sylveon
+|
+|upkeep
+|turn|17
+|
+|t:|1772752472
+|switch|p1a: Krookodile|Krookodile, L80, M|283/283
+|-damage|p1a: Krookodile|266/283|[from] Stealth Rock
+|-activate|p1a: Krookodile|move: Sticky Web
+|-unboost|p1a: Krookodile|spe|1
+|-ability|p1a: Krookodile|Intimidate|boost
+|-unboost|p2a: Sylveon|atk|1
+|move|p2a: Sylveon|Calm Mind|p2a: Sylveon
+|-boost|p2a: Sylveon|spa|1
+|-boost|p2a: Sylveon|spd|1
+|
+|-heal|p2a: Sylveon|300/300|[from] move: Wish|[wisher] Sylveon
+|upkeep
+|turn|18
+|inactive|kirbstari has 120 seconds left.
+|
+|t:|1772752484
+|-terastallize|p1a: Krookodile|Ground
+|move|p2a: Sylveon|Protect|p2a: Sylveon
+|-singleturn|p2a: Sylveon|Protect
+|move|p1a: Krookodile|Gunk Shot|p2a: Sylveon
+|-activate|p2a: Sylveon|move: Protect
+|
+|upkeep
+|turn|19
+|
+|t:|1772752492
+|-terastallize|p2a: Sylveon|Steel
+|move|p2a: Sylveon|Calm Mind|p2a: Sylveon
+|-boost|p2a: Sylveon|spa|1
+|-boost|p2a: Sylveon|spd|1
+|move|p1a: Krookodile|Gunk Shot|p2a: Sylveon
+|-immune|p2a: Sylveon
+|
+|upkeep
+|turn|20
+|
+|t:|1772752502
+|switch|p1a: Torkoal|Torkoal, L88, F|266/266
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|move|p2a: Sylveon|Hyper Voice|p1a: Torkoal
+|-resisted|p1a: Torkoal
+|-damage|p1a: Torkoal|122/266
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|21
+|
+|t:|1772752513
+|move|p2a: Sylveon|Hyper Voice|p1a: Torkoal
+|-resisted|p1a: Torkoal
+|-damage|p1a: Torkoal|0 fnt
+|faint|p1a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1772752524
+|switch|p1a: Krookodile|Krookodile, L80, M, tera:Ground|266/283
+|-damage|p1a: Krookodile|249/283|[from] Stealth Rock
+|-activate|p1a: Krookodile|move: Sticky Web
+|-unboost|p1a: Krookodile|spe|1
+|-ability|p1a: Krookodile|Intimidate|boost
+|-unboost|p2a: Sylveon|atk|1
+|turn|22
+|
+|t:|1772752533
+|move|p2a: Sylveon|Protect|p2a: Sylveon
+|-singleturn|p2a: Sylveon|Protect
+|move|p1a: Krookodile|Earthquake|p2a: Sylveon
+|-activate|p2a: Sylveon|move: Protect
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|23
+|
+|t:|1772752541
+|move|p2a: Sylveon|Hyper Voice|p1a: Krookodile
+|-damage|p1a: Krookodile|0 fnt
+|faint|p1a: Krookodile
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1772752549
+|switch|p1a: Luvdisc|Luvdisc, F|247/247
+|turn|24
+|
+|t:|1772752557
+|move|p1a: Luvdisc|Substitute|p1a: Luvdisc
+|-start|p1a: Luvdisc|Substitute
+|-damage|p1a: Luvdisc|186/247
+|move|p2a: Sylveon|Calm Mind|p2a: Sylveon
+|-boost|p2a: Sylveon|spa|1
+|-boost|p2a: Sylveon|spd|1
+|
+|-weather|none
+|upkeep
+|turn|25
+|
+|t:|1772752564
+|move|p1a: Luvdisc|Whirlpool|p2a: Sylveon|[miss]
+|-miss|p1a: Luvdisc|p2a: Sylveon
+|move|p2a: Sylveon|Calm Mind|p2a: Sylveon
+|-boost|p2a: Sylveon|spa|1
+|-boost|p2a: Sylveon|spd|1
+|
+|upkeep
+|turn|26
+|-message|kirbstari forfeited.
+|
+|win|glopre
+|raw|kirbstari's rating: 1518 &rarr; <strong>1496</strong><br />(-22 for losing)
+|raw|glopre's rating: 1486 &rarr; <strong>1508</strong><br />(+22 for winning)
+|l|☆kirbstari
+|player|p1|
