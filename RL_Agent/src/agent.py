@@ -52,6 +52,8 @@ from .environment import (
     build_server_config,
     make_selfplay_env,
     make_random_opponent,
+    cleanup_vec_env,
+    cleanup_runner,
 )
 from .observation import OBS_SIZE
 
@@ -195,6 +197,8 @@ class PokeAgent:
                 eval_opp,
             )
         )
+        #A
+        eval_vec = DummyVecEnv([lambda: eval_env])
 
         # Callbacks
         from .utils import BattleMetricsCallback, SelfPlayOpponentUpdateCallback
@@ -205,7 +209,7 @@ class PokeAgent:
             name_prefix="poke_ppo_ckpt",
         )
         eval_cb = EvalCallback(
-            eval_env,
+            eval_vec,
             best_model_save_path=str(Path(self._save_path).parent / "best"),
             log_path=l_cfg["log_dir"],
             eval_freq=l_cfg["eval_freq"] // t_cfg["n_envs_selfplay"],
@@ -233,107 +237,15 @@ class PokeAgent:
             )
         finally:
             self.save()
-            vec_env.close()
-            eval_env.close()
+            # Forfeit any in-progress battles before disconnecting so accounts
+            # are freed immediately instead of waiting for the server timeout.
+            cleanup_vec_env(vec_env)
+            cleanup_vec_env(eval_vec)
             logger.info("Self-play training finished.")
 
     # ------------------------------------------------------------------
     # vs-player training
     # ------------------------------------------------------------------
-    def train_vs_il(self, il_username: Optional[str] = None) -> None:
-        """
-        Actively challenge the IL bot on the server and learn from each battle. 
-        The RL agent sends challenges instead of waiting for them; otherwise 
-        the learning logic is identical to train_vs_player().
-
-        Prerequisites
-        - The IL bot must already be logged in and running on the same server.
-        - il_agent_username in config.yaml must match the IL bot's username.
-
-        Usage
-        -----
-          python main.py vs_il --timesteps num_of_steps
-        """
-        cfg = self.cfg
-        t_cfg = cfg["training"]
-        l_cfg = cfg["logging"]
-
-        il_username = il_username or cfg["server"].get("il_agent_username")
-        if not il_username:
-            raise ValueError(
-                "il_agent_username must be set in config.yaml under 'server:', "
-                "or passed directly as an argument."
-            )
-
-        # Use eval accounts for the dummy env so agent2_username stays free
-        # for the actual VsPlayerRunner connection (same pattern as train_vs_player)
-        dummy_opp = make_random_opponent()
-        dummy_env = Monitor(
-            make_selfplay_env(
-                cfg,
-                build_account_config(cfg["server"]["eval1_username"]),
-                build_account_config(cfg["server"]["eval2_username"]),
-                dummy_opp,
-            )
-        )
-        vec_env = DummyVecEnv([lambda: dummy_env])
-        self.load(vec_env)
-        vec_env.close()
-
-        """
-        VsPlayerRunner handles move selection + episodic PPO update after each battle.
-        the only difference is we call send_challenges() instead of
-        accept_challenges(), so the RL agent is the one initiating each battle.
-        """
-        runner = VsPlayerRunner(
-            model=self.model,
-            reward_cfg=cfg["rewards"],
-            update_every_n_battles=1,
-            n_update_epochs=cfg["training"]["n_epochs"],
-            gamma=cfg["training"]["gamma"],
-            log_dir=l_cfg["log_dir"],
-            account_configuration=build_account_config(cfg["server"]["agent2_username"]),
-            server_configuration=build_server_config(cfg),
-            battle_format=cfg["server"]["battle_format"],
-            log_level=logging.WARNING,
-        )
-
-        logger.info(
-            f"VS-IL mode started. "
-            f"RL agent '{cfg['server']['agent2_username']}' will challenge "
-            f"IL bot '{il_username}' on {cfg['server']['websocket_url']}."
-        )
-
-        battles_played = 0
-        checkpoint_freq = l_cfg["checkpoint_freq"]
-
-        async def _challenge_loop():
-            nonlocal battles_played
-            while battles_played < t_cfg["total_timesteps"]:
-                """
-                Actively send a challenge to the IL bot.
-                uses accept_challenges() and waits for someone to challenge it.
-                """
-                await runner.send_challenges(
-                    opponent=il_username,
-                    n_challenges=1,
-                )
-                battles_played += 1
-                if battles_played % max(1, checkpoint_freq // 20) == 0:
-                    self.save()
-                    logger.info(
-                        f"[VS-IL] {battles_played} battles played — model saved. "
-                        f"Wins: {runner.n_won_battles}, "
-                        f"Losses: {runner.n_lost_battles}"
-                    )
-
-        try:
-            asyncio.get_event_loop().run_until_complete(_challenge_loop())
-        except KeyboardInterrupt:
-            logger.info("VS-IL session interrupted by user.")
-        finally:
-            self.save()
-            logger.info("VS-IL training finished.")
 
     def train_vs_player(self) -> None:
         """
@@ -390,7 +302,7 @@ class PokeAgent:
 
         async def _accept_loop():
             nonlocal battles_played
-            while battles_played < t_cfg["total_timesteps"]:
+            while battles_played < t_cfg["total_vs_battles"]:
                 # Accept one challenge at a time; loop for many battles
                 await runner.accept_challenges(
                     opponent=None, n_challenges=1
@@ -410,4 +322,103 @@ class PokeAgent:
             logger.info("VsPlayer session interrupted by user.")
         finally:
             self.save()
+            # Forfeit any battle still in progress before disconnecting.
+            cleanup_runner(runner)
             logger.info("vs-player session finished.")
+    
+    # ------------------------------------------------------------------
+    # vs-IL training
+    # ------------------------------------------------------------------
+    def train_vs_il(self, il_username: Optional[str] = None) -> None:
+        """
+        Actively challenge the IL bot on the server and learn from each battle. 
+        The RL agent sends challenges instead of waiting for them; otherwise 
+        the learning logic is identical to train_vs_player().
+
+        Prerequisites
+        - The IL bot must already be logged in and running on the same server.
+        - il_agent_username in config.yaml must match the IL bot's username.
+
+        Usage
+        -----
+          python main.py vs_il --timesteps num_of_steps
+        """
+        cfg = self.cfg
+        t_cfg = cfg["training"]
+        l_cfg = cfg["logging"]
+
+        il_username = il_username or cfg["server"].get("il_agent_username")
+        if not il_username:
+            raise ValueError(
+                "il_agent_username must be set in config.yaml under 'server:', "
+                "or passed directly as an argument."
+            )
+
+        # Use eval accounts for the dummy env so agent2_username stays free
+        # for the actual VsPlayerRunner connection (same pattern as train_vs_player)
+        dummy_opp = make_random_opponent()
+        dummy_env = Monitor(
+            make_selfplay_env(
+                cfg,
+                build_account_config(cfg["server"]["eval1_username"]),
+                build_account_config(cfg["server"]["eval2_username"]),
+                dummy_opp,
+            )
+        )
+        vec_env = DummyVecEnv([lambda: dummy_env])
+        self.load(vec_env)
+        vec_env.close()
+
+        
+        #VsPlayerRunner handles move selection + episodic PPO update after each battle.
+        #the only difference is we call send_challenges() instead of
+        #accept_challenges(), so the RL agent is the one initiating each battle.
+        
+        runner = VsPlayerRunner(
+            model=self.model,
+            reward_cfg=cfg["rewards"],
+            update_every_n_battles=1,
+            n_update_epochs=cfg["training"]["n_epochs"],
+            gamma=cfg["training"]["gamma"],
+            log_dir=l_cfg["log_dir"],
+            account_configuration=build_account_config(cfg["server"]["agent2_username"]),
+            server_configuration=build_server_config(cfg),
+            battle_format=cfg["server"]["battle_format"],
+            log_level=logging.WARNING,
+        )
+
+        logger.info(
+            f"VS-IL mode started. "
+            f"RL agent '{cfg['server']['agent2_username']}' will challenge "
+            f"IL bot '{il_username}' on {cfg['server']['websocket_url']}."
+        )
+
+        battles_played = 0
+        checkpoint_freq = l_cfg["checkpoint_freq"]
+
+        async def _challenge_loop():
+            nonlocal battles_played
+            while battles_played < t_cfg["total_vs_bettles"]:
+                
+                #Actively send a challenge to the IL bot and wait for it to accept.
+                await runner.send_challenges(
+                    opponent=il_username,
+                    n_challenges=1,
+                )
+                battles_played += 1
+                if battles_played % max(1, checkpoint_freq // 20) == 0:
+                    self.save()
+                    logger.info(
+                        f"[VS-IL] {battles_played} battles played — model saved. "
+                        f"Wins: {runner.n_won_battles}, "
+                        f"Losses: {runner.n_lost_battles}"
+                    )
+
+        try:
+            asyncio.get_event_loop().run_until_complete(_challenge_loop())
+        except KeyboardInterrupt:
+            logger.info("VS-IL session interrupted by user.")
+        finally:
+            self.save()
+            cleanup_runner(runner)
+            logger.info("VS-IL training finished.")
