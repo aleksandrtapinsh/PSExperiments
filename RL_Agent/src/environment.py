@@ -35,6 +35,7 @@ build_account_config(username, password)     -> AccountConfiguration
 
 from __future__ import annotations
 
+import asyncio
 import copy
 import logging
 import math
@@ -467,7 +468,132 @@ class VsPlayerRunner(Player):
         self._writer.add_scalar("vsplayer/total_loss", loss.item(), self._battle_count)
         self._writer.flush()
 
+# ---------------------------------------------------------------------------
+# Cleanup helpers — forfeit active battles on program exit
+# ---------------------------------------------------------------------------
+ 
+def _extract_players_from_vec_env(vec_env: Any) -> List[Player]:
+    """
+    Unwrap a DummyVecEnv all the way down to the underlying PokemonEnv and
+    return any poke-env Player objects found inside.
+ 
+    Wrapper chain expected:
+      DummyVecEnv → Monitor → ActionMasker → SingleAgentWrapper → PokemonEnv
+ 
+    PokemonEnv (SinglesEnv) holds its two server-connected players under
+    various attribute names depending on the poke-env version.
+    """
+    players: List[Player] = []
+    for env in getattr(vec_env, "envs", []):
+        # Peel off every wrapper layer until we reach the raw PokemonEnv
+        unwrapped = env
+        while hasattr(unwrapped, "env"):
+            unwrapped = unwrapped.env
+ 
+        # Try every attribute name poke-env uses across versions
+        for attr in ("_player1", "_player2", "agent1", "agent2",
+                     "player1", "player2", "_env_player1", "_env_player2"):
+            p = getattr(unwrapped, attr, None)
+            if isinstance(p, Player) and p not in players:
+                players.append(p)
+ 
+    return players
+ 
+ 
+async def _forfeit_all_battles(players: List[Player]) -> None:
+    async def _forfeit_one(player: Player, battle: Any) -> None:
+        try:
+            await player.ps_client.send_message(
+                "/forfeit",
+                battle.battle_tag
+            )
+            logger.info(
+                f"Forfeited battle '{battle.battle_tag}' for '{player.username}'."
+            )
+        except Exception as exc:
+            logger.debug(f"Could not forfeit battle for '{player.username}': {exc}")
 
+    active_battles = [
+        (player, battle)
+        for player in players
+        for battle in list(getattr(player, "battles", {}).values())
+        if not getattr(battle, "finished", True)
+    ]
+
+    if not active_battles:
+        logger.info("No active battles to forfeit.")
+        return
+
+    logger.info(f"Forfeiting {len(active_battles)} active battle(s) before shutdown...")
+    tasks = [_forfeit_one(p, b) for p, b in active_battles]
+    await asyncio.gather(*tasks, return_exceptions=True)
+
+    # Wait up to 5 seconds for server confirmation
+    deadline = asyncio.get_event_loop().time() + 5
+    for _, battle in active_battles:
+        while not getattr(battle, "finished", True):
+            if asyncio.get_event_loop().time() > deadline:
+                break
+            await asyncio.sleep(0.1)
+
+    # Force-mark all battles as finished so reset_battles() won't raise OSError.
+    # Even if the server hasn't confirmed the forfeit yet, we mark them locally
+    # so the next run can start cleanly.
+    for player in players:
+        try:
+            for battle in player.battles.values():
+                battle._finished = True
+            player._battles.clear()
+            logger.debug(f"Force-cleared battle state for '{player.username}'.")
+        except Exception as exc:
+            logger.debug(f"Could not force-clear battles for '{player.username}': {exc}")
+
+    logger.info("Cleanup complete.")
+ 
+ 
+def cleanup_vec_env(vec_env: Any) -> None:
+    """
+    Synchronous wrapper: forfeit all active battles found inside a DummyVecEnv,
+    then close the env.  Safe to call from a finally block.
+    """
+    from poke_env.player import POKE_LOOP
+    players = _extract_players_from_vec_env(vec_env)
+    if players:
+        try:
+            # Must submit to POKE_LOOP — poke-env runs all server communication
+            # on its own background thread loop, not the main asyncio loop.
+            future = asyncio.run_coroutine_threadsafe(
+                _forfeit_all_battles(players), POKE_LOOP
+            )
+            future.result(timeout=10)  # 最多等10秒
+        except Exception as exc:
+            logger.warning(f"Error during battle forfeit on shutdown: {exc}")
+    try:
+        vec_env.close()
+    except Exception as exc:
+        logger.debug(f"Error closing vec_env (safe to ignore on shutdown): {exc}")
+ 
+ 
+def cleanup_runner(runner: "VsPlayerRunner") -> None:
+    """
+    Synchronous wrapper: forfeit all active battles held by a VsPlayerRunner,
+    then flush its TensorBoard writer.  Safe to call from a finally block.
+    """
+    from poke_env.player import POKE_LOOP
+    try:
+        future = asyncio.run_coroutine_threadsafe(
+            _forfeit_all_battles([runner]), POKE_LOOP
+        )
+        future.result(timeout=10)
+    except Exception as exc:
+        logger.warning(f"Error during VsPlayerRunner forfeit on shutdown: {exc}")
+    try:
+        runner._writer.flush()
+        runner._writer.close()
+    except Exception:
+        pass
+
+    
 # ---------------------------------------------------------------------------
 # Factory helpers
 # ---------------------------------------------------------------------------
