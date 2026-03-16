@@ -1,7 +1,6 @@
 import json
 from pathlib import Path
 import numpy as np
-import tensorflow as tf
 
 # Load data
 BASE = Path(__file__).parent.parent
@@ -47,7 +46,7 @@ def encode_move(move):
     if move is None:
         return np.zeros(MOVE_DIM)
     return np.concatenate([
-        [move.get("base_power", 0) / 250],
+        [move.get("base_power", 0) / 250], 
         [move.get("accuracy", 1.0)],
         [move.get("current_pp", 0) / max(move.get("pp", 1), 1)],
         one_hot(move.get("type"), TYPES),
@@ -104,12 +103,16 @@ def encode_move_action(turn):
     chosen = normalize_name(turn["action_name"])
     
     # check available_moves
-    for i, m in enumerate(turn["available_moves"]):
+    for i, m in enumerate(turn["available_moves"][:4]):
+        if (i > 3):
+            print(f"available moves: {i}")
         if normalize_name(m["name"]) == chosen:
             return i
     
     # covers pivot moves
-    for i, m in enumerate(turn["my_active"].get("moves", [])):
+    for i, m in enumerate(turn["my_active"].get("moves", [])[:4]):
+        if (i > 3):
+            print(f"active moves: {i}")
         if normalize_name(m["name"]) == chosen:
             return i
     
@@ -154,7 +157,7 @@ def vectorize_turns(turn_list):
             try:
                 action = encode_move_action(turn)
             except ValueError as e:
-                print(f"Skipping turn: {e}")
+                #print(f"Skipping turn: {e}")
                 continue
             move_states.append(state)
             move_actions.append(action)
@@ -199,4 +202,40 @@ def load_and_vectorize(path):
 
 move_data, switch_data = load_and_vectorize(
     Path(__file__).parent.parent / "parser" / "cleaned_dataset.jsonl"
+)
+
+import tensorflow as tf
+
+def build_move_model(state_dim, num_actions=4):
+    inputs = tf.keras.Input(shape=(state_dim,))
+    mask   = tf.keras.Input(shape=(num_actions,))
+    
+    x = tf.keras.layers.Dense(256, activation='relu')(inputs)
+    x = tf.keras.layers.Dropout(0.3)(x)
+    x = tf.keras.layers.Dense(128, activation='relu')(x)
+    x = tf.keras.layers.Dropout(0.3)(x)
+    logits = tf.keras.layers.Dense(num_actions)(x)
+    
+    # mask illegal actions before softmax
+    masked = logits + (1.0 - mask) * -1e9
+    output = tf.keras.layers.Softmax()(masked)
+    
+    return tf.keras.Model(inputs=[inputs, mask], outputs=output)
+
+move_states, move_actions, move_masks = move_data
+state_dim = move_states.shape[1]
+
+model = build_move_model(state_dim)
+model.compile(
+    optimizer='rmsprop',
+    loss='sparse_categorical_crossentropy',
+    metrics=['accuracy']
+)
+ 
+model.fit(
+    [move_states, move_masks],
+    move_actions,
+    epochs=12,
+    batch_size=64,
+    validation_split=0.1  # use 10% of training data as validation
 )
