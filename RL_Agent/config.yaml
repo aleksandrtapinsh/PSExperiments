@@ -49,6 +49,7 @@ training:
   max_grad_norm: 0.5              # Gradient clipping norm
   # Self-play opponent update: freeze a copy and update it every N steps
   selfplay_opponent_update_freq: 40000
+  total_vs_battles: 500           # Maximum number of battles for vs_player and vs_il modes
 
 # --- Reward Shaping ---
 rewards:
