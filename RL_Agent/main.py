@@ -24,6 +24,11 @@ vs_player
     experience to continue training the PPO model.  Great for online learning
     against diverse opponents.
 
+vs_il
+    The RL agent actively sends challenges to the Imitation Learning bot.
+    Requires the IL bot to already be running and logged in on the server.
+    Uses send_challenges() instead of accept_challenges().
+
 Both modes load the same model file (models/poke_ppo.zip) on startup and save
 after training, ensuring learning persists across sessions.
 """
@@ -74,8 +79,9 @@ def parse_args() -> argparse.Namespace:
         "mode",
         choices=["selfplay", "vs_player", "vs_il"],
         help=(
-            "Training mode: 'selfplay' (agent vs frozen self, 2 parallel envs) "
-            "or 'vs_player' (accept challenges from any human player)"
+            "Training mode: 'selfplay' (agent vs frozen self, 2 parallel envs),"
+            "'vs_player' (accept challenges from any human player), "
+            "or 'vs_il' (challenge the Imitation Learning bot)"
         ),
     )
     parser.add_argument(

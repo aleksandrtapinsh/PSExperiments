@@ -8,6 +8,7 @@ env/
 rl_env/
 models/
 fake_il_bot.py
+forfeit_all.py
 
 # Training outputs
 # models/ # Uncomment if you want to ignore saved models
