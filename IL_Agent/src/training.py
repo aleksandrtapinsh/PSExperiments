@@ -206,36 +206,65 @@ move_data, switch_data = load_and_vectorize(
 
 import tensorflow as tf
 
-def build_move_model(state_dim, num_actions=4):
+MODEL_DIR = Path(__file__).parent.parent / "models"
+
+def build_model(state_dim, num_actions):
+    """Shared architecture for both move and switch models."""
     inputs = tf.keras.Input(shape=(state_dim,))
     mask   = tf.keras.Input(shape=(num_actions,))
-    
+
     x = tf.keras.layers.Dense(256, activation='relu')(inputs)
     x = tf.keras.layers.Dropout(0.3)(x)
     x = tf.keras.layers.Dense(128, activation='relu')(x)
     x = tf.keras.layers.Dropout(0.3)(x)
     logits = tf.keras.layers.Dense(num_actions)(x)
-    
-    # mask illegal actions before softmax
+
+    # Mask illegal actions before softmax
     masked = logits + (1.0 - mask) * -1e9
     output = tf.keras.layers.Softmax()(masked)
-    
+
     return tf.keras.Model(inputs=[inputs, mask], outputs=output)
 
-move_states, move_actions, move_masks = move_data
-state_dim = move_states.shape[1]
 
-model = build_move_model(state_dim)
-model.compile(
+move_states, move_actions, move_masks     = move_data
+switch_states, switch_actions, switch_masks = switch_data
+
+state_dim = move_states.shape[1]
+MODEL_DIR.mkdir(parents=True, exist_ok=True)
+
+# --- Move model ---
+move_model = build_model(state_dim, num_actions=4)
+move_model.compile(
     optimizer='rmsprop',
     loss='sparse_categorical_crossentropy',
     metrics=['accuracy']
 )
- 
-model.fit(
+move_model.fit(
     [move_states, move_masks],
     move_actions,
     epochs=12,
     batch_size=64,
-    validation_split=0.1  # use 10% of training data as validation
+    validation_split=0.1,
 )
+move_model.save(str(MODEL_DIR / "move_model.keras"))
+print(f"Move model saved → {MODEL_DIR / 'move_model.keras'}")
+
+# --- Switch model ---
+if len(switch_actions) > 0:
+    switch_model = build_model(state_dim, num_actions=5)
+    switch_model.compile(
+        optimizer='rmsprop',
+        loss='sparse_categorical_crossentropy',
+        metrics=['accuracy']
+    )
+    switch_model.fit(
+        [switch_states, switch_masks],
+        switch_actions,
+        epochs=12,
+        batch_size=64,
+        validation_split=0.1,
+    )
+    switch_model.save(str(MODEL_DIR / "switch_model.keras"))
+    print(f"Switch model saved → {MODEL_DIR / 'switch_model.keras'}")
+else:
+    print("No switch turns found in dataset — switch model not trained.")
