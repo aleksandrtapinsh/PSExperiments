@@ -71,8 +71,15 @@ class ILPlayer(Player):
         except Exception:
             self._writer = None
 
-        using = "Keras models" if (self.move_model and self.switch_model) else "random play"
-        logger.info(f"ILPlayer initialised — using {using}.")
+        if self.move_model and self.switch_model:
+            using = "move + switch Keras models"
+        elif self.move_model:
+            using = "move Keras model (switch model missing — force-switches will be random)"
+        elif self.switch_model:
+            using = "switch Keras model (move model missing — moves will be random)"
+        else:
+            using = "random play (no models loaded)"
+        logger.info(f"ILPlayer initialised — {using}.")
 
     # ------------------------------------------------------------------
     # Model loading

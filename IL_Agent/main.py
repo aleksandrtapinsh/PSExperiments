@@ -166,7 +166,7 @@ def main() -> None:
             )
 
     try:
-        asyncio.get_event_loop().run_until_complete(_accept_loop())
+        asyncio.run(_accept_loop())
     except KeyboardInterrupt:
         logger.info("IL agent stopped by user (Ctrl+C).")
     finally:

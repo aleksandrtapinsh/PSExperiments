@@ -1,0 +1,1124 @@
+2026-04-07 10:12:26,626 [INFO] __main__: ============================================================
+2026-04-07 10:12:26,626 [INFO] __main__:   Pokémon Showdown IL Agent
+2026-04-07 10:12:26,626 [INFO] __main__:   Mode    : vs_human
+2026-04-07 10:12:26,626 [INFO] __main__:   Server  : ws://showdown.sasha-tapinsh.online:8000/showdown/websocket
+2026-04-07 10:12:26,626 [INFO] __main__:   Username: IL_Agent_1
+2026-04-07 10:12:26,626 [INFO] __main__:   Format  : gen9randombattle
+2026-04-07 10:12:26,626 [INFO] __main__:   Battles : 500
+2026-04-07 10:12:26,626 [INFO] __main__: ============================================================
+2026-04-07 10:12:27,859 [ERROR] IL_Agent_1: [Errno 61] Connect call failed ('184.17.251.26', 8000)
+Traceback (most recent call last):
+  File "/Users/aleksandrtapinsh/Documents/PSExperiments/PSExperiments/.venv/lib/python3.12/site-packages/poke_env/ps_client/ps_client.py", line 222, in listen
+    async with ws.connect(
+               ^^^^^^^^^^^
+  File "/Users/aleksandrtapinsh/Documents/PSExperiments/PSExperiments/.venv/lib/python3.12/site-packages/websockets/asyncio/client.py", line 590, in __aenter__
+    return await self
+           ^^^^^^^^^^
+  File "/Users/aleksandrtapinsh/Documents/PSExperiments/PSExperiments/.venv/lib/python3.12/site-packages/websockets/asyncio/client.py", line 544, in __await_impl__
+    self.connection = await self.create_connection()
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/aleksandrtapinsh/Documents/PSExperiments/PSExperiments/.venv/lib/python3.12/site-packages/websockets/asyncio/client.py", line 470, in create_connection
+    _, connection = await loop.create_connection(factory, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.12/3.12.9/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/base_events.py", line 1132, in create_connection
+    raise exceptions[0]
+  File "/opt/homebrew/Cellar/python@3.12/3.12.9/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/base_events.py", line 1107, in create_connection
+    sock = await self._connect_sock(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.12/3.12.9/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/base_events.py", line 1010, in _connect_sock
+    await self.sock_connect(sock, address)
+  File "/opt/homebrew/Cellar/python@3.12/3.12.9/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/selector_events.py", line 651, in sock_connect
+    return await fut
+           ^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.12/3.12.9/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/selector_events.py", line 691, in _sock_connect_cb
+    raise OSError(err, f'Connect call failed {address}')
+ConnectionRefusedError: [Errno 61] Connect call failed ('184.17.251.26', 8000)
+2026-04-07 10:12:31,412 [INFO] src.agent: Loaded IL model: /Users/aleksandrtapinsh/Documents/PSExperiments/PSExperiments/IL_Agent/models/move_model.keras
+2026-04-07 10:12:31,413 [WARNING] src.agent: Model not found at /Users/aleksandrtapinsh/Documents/PSExperiments/PSExperiments/IL_Agent/models/switch_model.keras — falling back to random play.
+2026-04-07 10:12:32,887 [INFO] src.agent: ILPlayer initialised — using random play.
+2026-04-07 10:12:32,887 [INFO] __main__: Waiting for challenges — challenge 'IL_Agent_1' on the server to start a battle.
+2026-04-07 10:16:06,408 [INFO] __main__: IL agent stopped by user (Ctrl+C).
+2026-04-07 10:16:06,415 [INFO] __main__: IL agent session finished.
+2026-04-07 10:16:09,289 [INFO] __main__: ============================================================
+2026-04-07 10:16:09,289 [INFO] __main__:   Pokémon Showdown IL Agent
+2026-04-07 10:16:09,289 [INFO] __main__:   Mode    : vs_human
+2026-04-07 10:16:09,289 [INFO] __main__:   Server  : ws://showdown.sasha-tapinsh.online:8000/showdown/websocket
+2026-04-07 10:16:09,289 [INFO] __main__:   Username: IL_Agent_1
+2026-04-07 10:16:09,289 [INFO] __main__:   Format  : gen9randombattle
+2026-04-07 10:16:09,289 [INFO] __main__:   Battles : 500
+2026-04-07 10:16:09,289 [INFO] __main__: ============================================================
+2026-04-07 10:16:13,231 [INFO] src.agent: Loaded IL model: /Users/aleksandrtapinsh/Documents/PSExperiments/PSExperiments/IL_Agent/models/move_model.keras
+2026-04-07 10:16:13,232 [WARNING] src.agent: Model not found at /Users/aleksandrtapinsh/Documents/PSExperiments/PSExperiments/IL_Agent/models/switch_model.keras — falling back to random play.
+2026-04-07 10:16:14,799 [INFO] src.agent: ILPlayer initialised — using random play.
+2026-04-07 10:16:14,799 [INFO] __main__: Waiting for challenges — challenge 'IL_Agent_1' on the server to start a battle.
+2026-04-07 10:16:16,503 [INFO] __main__: IL agent stopped by user (Ctrl+C).
+2026-04-07 10:16:16,504 [INFO] __main__: IL agent session finished.
+2026-04-07 10:17:02,491 [INFO] __main__: ============================================================
+2026-04-07 10:17:02,491 [INFO] __main__:   Pokémon Showdown IL Agent
+2026-04-07 10:17:02,491 [INFO] __main__:   Mode    : vs_human
+2026-04-07 10:17:02,491 [INFO] __main__:   Server  : ws://showdown.sasha-tapinsh.online:8000/showdown/websocket
+2026-04-07 10:17:02,491 [INFO] __main__:   Username: IL_Agent_1
+2026-04-07 10:17:02,491 [INFO] __main__:   Format  : gen9randombattle
+2026-04-07 10:17:02,491 [INFO] __main__:   Battles : 500
+2026-04-07 10:17:02,491 [INFO] __main__: ============================================================
+2026-04-07 10:17:06,428 [INFO] src.agent: Loaded IL model: /Users/aleksandrtapinsh/Documents/PSExperiments/PSExperiments/IL_Agent/models/move_model.keras
+2026-04-07 10:17:06,428 [WARNING] src.agent: Model not found at /Users/aleksandrtapinsh/Documents/PSExperiments/PSExperiments/IL_Agent/models/switch_model.keras — falling back to random play.
+2026-04-07 10:17:59,196 [INFO] __main__: ============================================================
+2026-04-07 10:17:59,196 [INFO] __main__:   Pokémon Showdown IL Agent
+2026-04-07 10:17:59,196 [INFO] __main__:   Mode    : vs_human
+2026-04-07 10:17:59,196 [INFO] __main__:   Server  : ws://showdown.sasha-tapinsh.online:8000/showdown/websocket
+2026-04-07 10:17:59,196 [INFO] __main__:   Username: IL_Agent_1
+2026-04-07 10:17:59,196 [INFO] __main__:   Format  : gen9randombattle
+2026-04-07 10:17:59,196 [INFO] __main__:   Battles : 500
+2026-04-07 10:17:59,196 [INFO] __main__: ============================================================
+2026-04-07 10:18:03,192 [INFO] src.agent: Loaded IL model: /Users/aleksandrtapinsh/Documents/PSExperiments/PSExperiments/IL_Agent/models/move_model.keras
+2026-04-07 10:18:03,193 [WARNING] src.agent: Model not found at /Users/aleksandrtapinsh/Documents/PSExperiments/PSExperiments/IL_Agent/models/switch_model.keras — falling back to random play.
+2026-04-07 10:18:05,221 [INFO] src.agent: ILPlayer initialised — using random play.
+2026-04-07 10:18:05,221 [INFO] __main__: Waiting for challenges — challenge 'IL_Agent_1' on the server to start a battle.
+2026-04-07 10:19:19,089 [INFO] __main__: IL agent stopped by user (Ctrl+C).
+2026-04-07 10:19:19,093 [INFO] __main__: IL agent session finished.
+2026-04-07 10:20:12,478 [INFO] __main__: ============================================================
+2026-04-07 10:20:12,478 [INFO] __main__:   Pokémon Showdown IL Agent
+2026-04-07 10:20:12,478 [INFO] __main__:   Mode    : vs_human
+2026-04-07 10:20:12,478 [INFO] __main__:   Server  : ws://showdown.sasha-tapinsh.online:8000/showdown/websocket
+2026-04-07 10:20:12,478 [INFO] __main__:   Username: IL_Agent_1
+2026-04-07 10:20:12,478 [INFO] __main__:   Format  : gen9randombattle
+2026-04-07 10:20:12,478 [INFO] __main__:   Battles : 500
+2026-04-07 10:20:12,478 [INFO] __main__: ============================================================
+2026-04-07 10:20:16,550 [INFO] src.agent: Loaded IL model: /Users/aleksandrtapinsh/Documents/PSExperiments/PSExperiments/IL_Agent/models/move_model.keras
+2026-04-07 10:20:16,550 [WARNING] src.agent: Model not found at /Users/aleksandrtapinsh/Documents/PSExperiments/PSExperiments/IL_Agent/models/switch_model.keras — falling back to random play.
+2026-04-07 10:20:18,291 [INFO] src.agent: ILPlayer initialised — move Keras model (switch model missing — force-switches will be random).
+2026-04-07 10:20:18,291 [INFO] __main__: Waiting for challenges — challenge 'IL_Agent_1' on the server to start a battle.
+2026-04-07 10:21:18,300 [INFO] src.agent: [ILAgent] LOST — 0W / 1L
+2026-04-07 10:21:18,305 [INFO] __main__: [ILAgent] 1/500 battles | W:0 L:1
+2026-04-07 10:21:20,580 [INFO] __main__: IL agent stopped by user (Ctrl+C).
+2026-04-07 10:21:20,583 [INFO] __main__: IL agent session finished.
+2026-04-07 10:31:36,890 [INFO] __main__: ============================================================
+2026-04-07 10:31:36,890 [INFO] __main__:   Pokémon Showdown IL Agent
+2026-04-07 10:31:36,890 [INFO] __main__:   Mode    : vs_human
+2026-04-07 10:31:36,890 [INFO] __main__:   Server  : ws://showdown.sasha-tapinsh.online:8000/showdown/websocket
+2026-04-07 10:31:36,890 [INFO] __main__:   Username: IL_Agent_1
+2026-04-07 10:31:36,890 [INFO] __main__:   Format  : gen9randombattle
+2026-04-07 10:31:36,890 [INFO] __main__:   Battles : 500
+2026-04-07 10:31:36,890 [INFO] __main__: ============================================================
+2026-04-07 10:31:41,116 [INFO] src.agent: Loaded IL model: /Users/aleksandrtapinsh/Documents/PSExperiments/PSExperiments/IL_Agent/models/move_model.keras
+2026-04-07 10:31:41,172 [INFO] src.agent: Loaded IL model: /Users/aleksandrtapinsh/Documents/PSExperiments/PSExperiments/IL_Agent/models/switch_model.keras
+2026-04-07 10:31:42,803 [INFO] src.agent: ILPlayer initialised — move + switch Keras models.
+2026-04-07 10:31:42,803 [INFO] __main__: Waiting for challenges — challenge 'IL_Agent_1' on the server to start a battle.
+2026-04-07 10:32:38,500 [INFO] src.agent: [ILAgent] LOST — 0W / 1L
+2026-04-07 10:32:38,503 [INFO] __main__: [ILAgent] 1/500 battles | W:0 L:1
+2026-04-07 10:32:47,444 [INFO] __main__: IL agent stopped by user (Ctrl+C).
+2026-04-07 10:32:47,445 [INFO] __main__: IL agent session finished.
+2026-04-07 10:34:07,496 [INFO] __main__: ============================================================
+2026-04-07 10:34:07,496 [INFO] __main__:   Pokémon Showdown IL Agent
+2026-04-07 10:34:07,496 [INFO] __main__:   Mode    : vs_rl
+2026-04-07 10:34:07,496 [INFO] __main__:   Server  : ws://showdown.sasha-tapinsh.online:8000/showdown/websocket
+2026-04-07 10:34:07,496 [INFO] __main__:   Username: IL_Agent_1
+2026-04-07 10:34:07,496 [INFO] __main__:   Format  : gen9randombattle
+2026-04-07 10:34:07,496 [INFO] __main__:   Battles : 500
+2026-04-07 10:34:07,496 [INFO] __main__: ============================================================
+2026-04-07 10:34:11,699 [INFO] src.agent: Loaded IL model: /Users/aleksandrtapinsh/Documents/PSExperiments/PSExperiments/IL_Agent/models/move_model.keras
+2026-04-07 10:34:11,740 [INFO] src.agent: Loaded IL model: /Users/aleksandrtapinsh/Documents/PSExperiments/PSExperiments/IL_Agent/models/switch_model.keras
+2026-04-07 10:34:13,188 [INFO] src.agent: ILPlayer initialised — move + switch Keras models.
+2026-04-07 10:34:13,188 [INFO] __main__: Waiting for challenges from the RL agent ('RL_Agent_2' should be running in vs_il mode).
+2026-04-07 10:47:26,815 [INFO] src.agent: [ILAgent] LOST — 0W / 1L
+2026-04-07 10:47:26,816 [INFO] __main__: [ILAgent] 1/500 battles | W:0 L:1
+2026-04-07 10:47:28,630 [INFO] src.agent: [ILAgent] WON — 1W / 1L
+2026-04-07 10:47:28,631 [INFO] __main__: [ILAgent] 2/500 battles | W:1 L:1
+2026-04-07 10:47:31,002 [INFO] src.agent: [ILAgent] LOST — 1W / 2L
+2026-04-07 10:47:31,002 [INFO] __main__: [ILAgent] 3/500 battles | W:1 L:2
+2026-04-07 10:47:33,867 [INFO] src.agent: [ILAgent] LOST — 1W / 3L
+2026-04-07 10:47:33,868 [INFO] __main__: [ILAgent] 4/500 battles | W:1 L:3
+2026-04-07 10:47:35,352 [INFO] src.agent: [ILAgent] WON — 2W / 3L
+2026-04-07 10:47:35,353 [INFO] __main__: [ILAgent] 5/500 battles | W:2 L:3
+2026-04-07 10:47:37,414 [INFO] src.agent: [ILAgent] LOST — 2W / 4L
+2026-04-07 10:47:37,414 [INFO] __main__: [ILAgent] 6/500 battles | W:2 L:4
+2026-04-07 10:47:39,234 [INFO] src.agent: [ILAgent] LOST — 2W / 5L
+2026-04-07 10:47:39,235 [INFO] __main__: [ILAgent] 7/500 battles | W:2 L:5
+2026-04-07 10:47:41,901 [INFO] src.agent: [ILAgent] LOST — 2W / 6L
+2026-04-07 10:47:41,902 [INFO] __main__: [ILAgent] 8/500 battles | W:2 L:6
+2026-04-07 10:47:43,919 [INFO] src.agent: [ILAgent] LOST — 2W / 7L
+2026-04-07 10:47:43,920 [INFO] __main__: [ILAgent] 9/500 battles | W:2 L:7
+2026-04-07 10:47:45,736 [INFO] src.agent: [ILAgent] LOST — 2W / 8L
+2026-04-07 10:47:45,739 [INFO] __main__: [ILAgent] 10/500 battles | W:2 L:8
+2026-04-07 10:47:47,614 [INFO] src.agent: [ILAgent] LOST — 2W / 9L
+2026-04-07 10:47:47,615 [INFO] __main__: [ILAgent] 11/500 battles | W:2 L:9
+2026-04-07 10:47:49,336 [INFO] src.agent: [ILAgent] WON — 3W / 9L
+2026-04-07 10:47:49,337 [INFO] __main__: [ILAgent] 12/500 battles | W:3 L:9
+2026-04-07 10:47:50,774 [INFO] src.agent: [ILAgent] LOST — 3W / 10L
+2026-04-07 10:47:50,775 [INFO] __main__: [ILAgent] 13/500 battles | W:3 L:10
+2026-04-07 10:47:52,193 [INFO] src.agent: [ILAgent] WON — 4W / 10L
+2026-04-07 10:47:52,193 [INFO] __main__: [ILAgent] 14/500 battles | W:4 L:10
+2026-04-07 10:47:53,648 [INFO] src.agent: [ILAgent] WON — 5W / 10L
+2026-04-07 10:47:53,648 [INFO] __main__: [ILAgent] 15/500 battles | W:5 L:10
+2026-04-07 10:47:56,179 [INFO] src.agent: [ILAgent] WON — 6W / 10L
+2026-04-07 10:47:56,180 [INFO] __main__: [ILAgent] 16/500 battles | W:6 L:10
+2026-04-07 10:47:57,349 [INFO] src.agent: [ILAgent] WON — 7W / 10L
+2026-04-07 10:47:57,350 [INFO] __main__: [ILAgent] 17/500 battles | W:7 L:10
+2026-04-07 10:47:58,538 [INFO] src.agent: [ILAgent] LOST — 7W / 11L
+2026-04-07 10:47:58,539 [INFO] __main__: [ILAgent] 18/500 battles | W:7 L:11
+2026-04-07 10:48:00,922 [INFO] src.agent: [ILAgent] LOST — 7W / 12L
+2026-04-07 10:48:00,923 [INFO] __main__: [ILAgent] 19/500 battles | W:7 L:12
+2026-04-07 10:48:03,717 [INFO] src.agent: [ILAgent] LOST — 7W / 13L
+2026-04-07 10:48:03,718 [INFO] __main__: [ILAgent] 20/500 battles | W:7 L:13
+2026-04-07 10:48:05,955 [INFO] src.agent: [ILAgent] WON — 8W / 13L
+2026-04-07 10:48:05,957 [INFO] __main__: [ILAgent] 21/500 battles | W:8 L:13
+2026-04-07 10:48:07,679 [INFO] src.agent: [ILAgent] LOST — 8W / 14L
+2026-04-07 10:48:07,680 [INFO] __main__: [ILAgent] 22/500 battles | W:8 L:14
+2026-04-07 10:48:09,570 [INFO] src.agent: [ILAgent] WON — 9W / 14L
+2026-04-07 10:48:09,571 [INFO] __main__: [ILAgent] 23/500 battles | W:9 L:14
+2026-04-07 10:48:10,854 [INFO] src.agent: [ILAgent] WON — 10W / 14L
+2026-04-07 10:48:10,854 [INFO] __main__: [ILAgent] 24/500 battles | W:10 L:14
+2026-04-07 10:48:14,466 [INFO] src.agent: [ILAgent] WON — 11W / 14L
+2026-04-07 10:48:14,466 [INFO] __main__: [ILAgent] 25/500 battles | W:11 L:14
+2026-04-07 10:48:15,995 [INFO] src.agent: [ILAgent] LOST — 11W / 15L
+2026-04-07 10:48:15,996 [INFO] __main__: [ILAgent] 26/500 battles | W:11 L:15
+2026-04-07 10:48:17,126 [INFO] src.agent: [ILAgent] WON — 12W / 15L
+2026-04-07 10:48:17,127 [INFO] __main__: [ILAgent] 27/500 battles | W:12 L:15
+2026-04-07 10:48:18,488 [INFO] src.agent: [ILAgent] WON — 13W / 15L
+2026-04-07 10:48:18,489 [INFO] __main__: [ILAgent] 28/500 battles | W:13 L:15
+2026-04-07 10:48:20,856 [INFO] src.agent: [ILAgent] LOST — 13W / 16L
+2026-04-07 10:48:20,856 [INFO] __main__: [ILAgent] 29/500 battles | W:13 L:16
+2026-04-07 10:48:22,571 [INFO] src.agent: [ILAgent] WON — 14W / 16L
+2026-04-07 10:48:22,572 [INFO] __main__: [ILAgent] 30/500 battles | W:14 L:16
+2026-04-07 10:48:24,440 [INFO] src.agent: [ILAgent] LOST — 14W / 17L
+2026-04-07 10:48:24,441 [INFO] __main__: [ILAgent] 31/500 battles | W:14 L:17
+2026-04-07 10:48:26,198 [INFO] src.agent: [ILAgent] WON — 15W / 17L
+2026-04-07 10:48:26,198 [INFO] __main__: [ILAgent] 32/500 battles | W:15 L:17
+2026-04-07 10:48:28,731 [INFO] src.agent: [ILAgent] LOST — 15W / 18L
+2026-04-07 10:48:28,732 [INFO] __main__: [ILAgent] 33/500 battles | W:15 L:18
+2026-04-07 10:48:30,908 [INFO] src.agent: [ILAgent] LOST — 15W / 19L
+2026-04-07 10:48:30,909 [INFO] __main__: [ILAgent] 34/500 battles | W:15 L:19
+2026-04-07 10:48:33,793 [INFO] src.agent: [ILAgent] LOST — 15W / 20L
+2026-04-07 10:48:33,794 [INFO] __main__: [ILAgent] 35/500 battles | W:15 L:20
+2026-04-07 10:48:35,426 [INFO] src.agent: [ILAgent] WON — 16W / 20L
+2026-04-07 10:48:35,427 [INFO] __main__: [ILAgent] 36/500 battles | W:16 L:20
+2026-04-07 10:48:37,132 [INFO] src.agent: [ILAgent] WON — 17W / 20L
+2026-04-07 10:48:37,132 [INFO] __main__: [ILAgent] 37/500 battles | W:17 L:20
+2026-04-07 10:48:38,817 [INFO] src.agent: [ILAgent] WON — 18W / 20L
+2026-04-07 10:48:38,817 [INFO] __main__: [ILAgent] 38/500 battles | W:18 L:20
+2026-04-07 10:48:41,042 [INFO] src.agent: [ILAgent] LOST — 18W / 21L
+2026-04-07 10:48:41,043 [INFO] __main__: [ILAgent] 39/500 battles | W:18 L:21
+2026-04-07 10:48:43,616 [INFO] src.agent: [ILAgent] LOST — 18W / 22L
+2026-04-07 10:48:43,617 [INFO] __main__: [ILAgent] 40/500 battles | W:18 L:22
+2026-04-07 10:48:47,550 [INFO] src.agent: [ILAgent] LOST — 18W / 23L
+2026-04-07 10:48:47,551 [INFO] __main__: [ILAgent] 41/500 battles | W:18 L:23
+2026-04-07 10:48:50,135 [INFO] src.agent: [ILAgent] LOST — 18W / 24L
+2026-04-07 10:48:50,136 [INFO] __main__: [ILAgent] 42/500 battles | W:18 L:24
+2026-04-07 10:48:53,286 [INFO] src.agent: [ILAgent] LOST — 18W / 25L
+2026-04-07 10:48:53,286 [INFO] __main__: [ILAgent] 43/500 battles | W:18 L:25
+2026-04-07 10:48:55,230 [INFO] src.agent: [ILAgent] WON — 19W / 25L
+2026-04-07 10:48:55,230 [INFO] __main__: [ILAgent] 44/500 battles | W:19 L:25
+2026-04-07 10:48:57,874 [INFO] src.agent: [ILAgent] WON — 20W / 25L
+2026-04-07 10:48:57,875 [INFO] __main__: [ILAgent] 45/500 battles | W:20 L:25
+2026-04-07 10:49:00,001 [INFO] src.agent: [ILAgent] LOST — 20W / 26L
+2026-04-07 10:49:00,002 [INFO] __main__: [ILAgent] 46/500 battles | W:20 L:26
+2026-04-07 10:49:04,365 [INFO] src.agent: [ILAgent] WON — 21W / 26L
+2026-04-07 10:49:04,366 [INFO] __main__: [ILAgent] 47/500 battles | W:21 L:26
+2026-04-07 10:49:05,976 [INFO] src.agent: [ILAgent] LOST — 21W / 27L
+2026-04-07 10:49:05,977 [INFO] __main__: [ILAgent] 48/500 battles | W:21 L:27
+2026-04-07 10:49:10,212 [INFO] src.agent: [ILAgent] WON — 22W / 27L
+2026-04-07 10:49:10,213 [INFO] __main__: [ILAgent] 49/500 battles | W:22 L:27
+2026-04-07 10:49:11,969 [INFO] src.agent: [ILAgent] WON — 23W / 27L
+2026-04-07 10:49:11,970 [INFO] __main__: [ILAgent] 50/500 battles | W:23 L:27
+2026-04-07 10:49:14,109 [INFO] src.agent: [ILAgent] LOST — 23W / 28L
+2026-04-07 10:49:14,110 [INFO] __main__: [ILAgent] 51/500 battles | W:23 L:28
+2026-04-07 10:49:15,826 [INFO] src.agent: [ILAgent] LOST — 23W / 29L
+2026-04-07 10:49:15,827 [INFO] __main__: [ILAgent] 52/500 battles | W:23 L:29
+2026-04-07 10:49:18,403 [INFO] src.agent: [ILAgent] LOST — 23W / 30L
+2026-04-07 10:49:18,403 [INFO] __main__: [ILAgent] 53/500 battles | W:23 L:30
+2026-04-07 10:49:19,572 [INFO] src.agent: [ILAgent] WON — 24W / 30L
+2026-04-07 10:49:19,573 [INFO] __main__: [ILAgent] 54/500 battles | W:24 L:30
+2026-04-07 10:49:21,036 [INFO] src.agent: [ILAgent] WON — 25W / 30L
+2026-04-07 10:49:21,037 [INFO] __main__: [ILAgent] 55/500 battles | W:25 L:30
+2026-04-07 10:49:22,554 [INFO] src.agent: [ILAgent] LOST — 25W / 31L
+2026-04-07 10:49:22,555 [INFO] __main__: [ILAgent] 56/500 battles | W:25 L:31
+2026-04-07 10:49:23,717 [INFO] src.agent: [ILAgent] WON — 26W / 31L
+2026-04-07 10:49:23,718 [INFO] __main__: [ILAgent] 57/500 battles | W:26 L:31
+2026-04-07 10:49:26,201 [INFO] src.agent: [ILAgent] WON — 27W / 31L
+2026-04-07 10:49:26,202 [INFO] __main__: [ILAgent] 58/500 battles | W:27 L:31
+2026-04-07 10:49:28,948 [INFO] src.agent: [ILAgent] LOST — 27W / 32L
+2026-04-07 10:49:28,949 [INFO] __main__: [ILAgent] 59/500 battles | W:27 L:32
+2026-04-07 10:49:30,261 [INFO] src.agent: [ILAgent] WON — 28W / 32L
+2026-04-07 10:49:30,262 [INFO] __main__: [ILAgent] 60/500 battles | W:28 L:32
+2026-04-07 10:49:32,373 [INFO] src.agent: [ILAgent] WON — 29W / 32L
+2026-04-07 10:49:32,374 [INFO] __main__: [ILAgent] 61/500 battles | W:29 L:32
+2026-04-07 10:49:34,991 [INFO] src.agent: [ILAgent] LOST — 29W / 33L
+2026-04-07 10:49:34,999 [INFO] __main__: [ILAgent] 62/500 battles | W:29 L:33
+2026-04-07 10:49:36,702 [INFO] src.agent: [ILAgent] LOST — 29W / 34L
+2026-04-07 10:49:36,705 [INFO] __main__: [ILAgent] 63/500 battles | W:29 L:34
+2026-04-07 10:49:38,660 [INFO] src.agent: [ILAgent] LOST — 29W / 35L
+2026-04-07 10:49:38,661 [INFO] __main__: [ILAgent] 64/500 battles | W:29 L:35
+2026-04-07 10:49:40,845 [INFO] src.agent: [ILAgent] WON — 30W / 35L
+2026-04-07 10:49:40,846 [INFO] __main__: [ILAgent] 65/500 battles | W:30 L:35
+2026-04-07 10:49:42,132 [INFO] src.agent: [ILAgent] LOST — 30W / 36L
+2026-04-07 10:49:42,133 [INFO] __main__: [ILAgent] 66/500 battles | W:30 L:36
+2026-04-07 10:49:45,749 [INFO] src.agent: [ILAgent] WON — 31W / 36L
+2026-04-07 10:49:45,750 [INFO] __main__: [ILAgent] 67/500 battles | W:31 L:36
+2026-04-07 10:49:47,950 [INFO] src.agent: [ILAgent] WON — 32W / 36L
+2026-04-07 10:49:47,950 [INFO] __main__: [ILAgent] 68/500 battles | W:32 L:36
+2026-04-07 10:49:49,535 [INFO] src.agent: [ILAgent] WON — 33W / 36L
+2026-04-07 10:49:49,535 [INFO] __main__: [ILAgent] 69/500 battles | W:33 L:36
+2026-04-07 10:49:52,401 [INFO] src.agent: [ILAgent] WON — 34W / 36L
+2026-04-07 10:49:52,402 [INFO] __main__: [ILAgent] 70/500 battles | W:34 L:36
+2026-04-07 10:49:56,386 [INFO] src.agent: [ILAgent] WON — 35W / 36L
+2026-04-07 10:49:56,386 [INFO] __main__: [ILAgent] 71/500 battles | W:35 L:36
+2026-04-07 10:49:58,954 [INFO] src.agent: [ILAgent] LOST — 35W / 37L
+2026-04-07 10:49:58,955 [INFO] __main__: [ILAgent] 72/500 battles | W:35 L:37
+2026-04-07 10:50:01,216 [INFO] src.agent: [ILAgent] WON — 36W / 37L
+2026-04-07 10:50:01,216 [INFO] __main__: [ILAgent] 73/500 battles | W:36 L:37
+2026-04-07 10:50:04,237 [INFO] src.agent: [ILAgent] LOST — 36W / 38L
+2026-04-07 10:50:04,237 [INFO] __main__: [ILAgent] 74/500 battles | W:36 L:38
+2026-04-07 10:50:05,814 [INFO] src.agent: [ILAgent] LOST — 36W / 39L
+2026-04-07 10:50:05,814 [INFO] __main__: [ILAgent] 75/500 battles | W:36 L:39
+2026-04-07 10:50:08,785 [INFO] src.agent: [ILAgent] LOST — 36W / 40L
+2026-04-07 10:50:08,786 [INFO] __main__: [ILAgent] 76/500 battles | W:36 L:40
+2026-04-07 10:50:10,221 [INFO] src.agent: [ILAgent] LOST — 36W / 41L
+2026-04-07 10:50:10,221 [INFO] __main__: [ILAgent] 77/500 battles | W:36 L:41
+2026-04-07 10:50:13,529 [INFO] src.agent: [ILAgent] WON — 37W / 41L
+2026-04-07 10:50:13,529 [INFO] __main__: [ILAgent] 78/500 battles | W:37 L:41
+2026-04-07 10:50:15,114 [INFO] src.agent: [ILAgent] LOST — 37W / 42L
+2026-04-07 10:50:15,115 [INFO] __main__: [ILAgent] 79/500 battles | W:37 L:42
+2026-04-07 10:50:17,047 [INFO] src.agent: [ILAgent] LOST — 37W / 43L
+2026-04-07 10:50:17,047 [INFO] __main__: [ILAgent] 80/500 battles | W:37 L:43
+2026-04-07 10:50:19,703 [INFO] src.agent: [ILAgent] LOST — 37W / 44L
+2026-04-07 10:50:19,703 [INFO] __main__: [ILAgent] 81/500 battles | W:37 L:44
+2026-04-07 10:50:21,702 [INFO] src.agent: [ILAgent] WON — 38W / 44L
+2026-04-07 10:50:21,703 [INFO] __main__: [ILAgent] 82/500 battles | W:38 L:44
+2026-04-07 10:50:24,191 [INFO] src.agent: [ILAgent] WON — 39W / 44L
+2026-04-07 10:50:24,191 [INFO] __main__: [ILAgent] 83/500 battles | W:39 L:44
+2026-04-07 10:50:26,447 [INFO] src.agent: [ILAgent] LOST — 39W / 45L
+2026-04-07 10:50:26,448 [INFO] __main__: [ILAgent] 84/500 battles | W:39 L:45
+2026-04-07 10:50:27,797 [INFO] src.agent: [ILAgent] LOST — 39W / 46L
+2026-04-07 10:50:27,798 [INFO] __main__: [ILAgent] 85/500 battles | W:39 L:46
+2026-04-07 10:50:29,849 [INFO] src.agent: [ILAgent] LOST — 39W / 47L
+2026-04-07 10:50:29,850 [INFO] __main__: [ILAgent] 86/500 battles | W:39 L:47
+2026-04-07 10:50:32,440 [INFO] src.agent: [ILAgent] LOST — 39W / 48L
+2026-04-07 10:50:32,440 [INFO] __main__: [ILAgent] 87/500 battles | W:39 L:48
+2026-04-07 10:50:34,386 [INFO] src.agent: [ILAgent] LOST — 39W / 49L
+2026-04-07 10:50:34,386 [INFO] __main__: [ILAgent] 88/500 battles | W:39 L:49
+2026-04-07 10:50:36,406 [INFO] src.agent: [ILAgent] LOST — 39W / 50L
+2026-04-07 10:50:36,406 [INFO] __main__: [ILAgent] 89/500 battles | W:39 L:50
+2026-04-07 10:50:39,011 [INFO] src.agent: [ILAgent] WON — 40W / 50L
+2026-04-07 10:50:39,011 [INFO] __main__: [ILAgent] 90/500 battles | W:40 L:50
+2026-04-07 10:50:40,895 [INFO] src.agent: [ILAgent] LOST — 40W / 51L
+2026-04-07 10:50:40,896 [INFO] __main__: [ILAgent] 91/500 battles | W:40 L:51
+2026-04-07 10:50:42,837 [INFO] src.agent: [ILAgent] LOST — 40W / 52L
+2026-04-07 10:50:42,837 [INFO] __main__: [ILAgent] 92/500 battles | W:40 L:52
+2026-04-07 10:50:44,844 [INFO] src.agent: [ILAgent] WON — 41W / 52L
+2026-04-07 10:50:44,845 [INFO] __main__: [ILAgent] 93/500 battles | W:41 L:52
+2026-04-07 10:50:46,490 [INFO] src.agent: [ILAgent] WON — 42W / 52L
+2026-04-07 10:50:46,491 [INFO] __main__: [ILAgent] 94/500 battles | W:42 L:52
+2026-04-07 10:50:47,306 [INFO] src.agent: [ILAgent] WON — 43W / 52L
+2026-04-07 10:50:47,306 [INFO] __main__: [ILAgent] 95/500 battles | W:43 L:52
+2026-04-07 10:50:49,269 [INFO] src.agent: [ILAgent] LOST — 43W / 53L
+2026-04-07 10:50:49,270 [INFO] __main__: [ILAgent] 96/500 battles | W:43 L:53
+2026-04-07 10:50:52,735 [INFO] src.agent: [ILAgent] LOST — 43W / 54L
+2026-04-07 10:50:52,735 [INFO] __main__: [ILAgent] 97/500 battles | W:43 L:54
+2026-04-07 10:50:54,327 [INFO] src.agent: [ILAgent] WON — 44W / 54L
+2026-04-07 10:50:54,328 [INFO] __main__: [ILAgent] 98/500 battles | W:44 L:54
+2026-04-07 10:50:55,895 [INFO] src.agent: [ILAgent] WON — 45W / 54L
+2026-04-07 10:50:55,896 [INFO] __main__: [ILAgent] 99/500 battles | W:45 L:54
+2026-04-07 10:50:59,234 [INFO] src.agent: [ILAgent] WON — 46W / 54L
+2026-04-07 10:50:59,235 [INFO] __main__: [ILAgent] 100/500 battles | W:46 L:54
+2026-04-07 10:51:02,299 [INFO] src.agent: [ILAgent] LOST — 46W / 55L
+2026-04-07 10:51:02,300 [INFO] __main__: [ILAgent] 101/500 battles | W:46 L:55
+2026-04-07 10:51:03,200 [INFO] src.agent: [ILAgent] WON — 47W / 55L
+2026-04-07 10:51:03,200 [INFO] __main__: [ILAgent] 102/500 battles | W:47 L:55
+2026-04-07 10:51:05,170 [INFO] src.agent: [ILAgent] LOST — 47W / 56L
+2026-04-07 10:51:05,171 [INFO] __main__: [ILAgent] 103/500 battles | W:47 L:56
+2026-04-07 10:51:07,303 [INFO] src.agent: [ILAgent] LOST — 47W / 57L
+2026-04-07 10:51:07,304 [INFO] __main__: [ILAgent] 104/500 battles | W:47 L:57
+2026-04-07 10:51:10,103 [INFO] src.agent: [ILAgent] WON — 48W / 57L
+2026-04-07 10:51:10,104 [INFO] __main__: [ILAgent] 105/500 battles | W:48 L:57
+2026-04-07 10:51:13,694 [INFO] src.agent: [ILAgent] LOST — 48W / 58L
+2026-04-07 10:51:13,694 [INFO] __main__: [ILAgent] 106/500 battles | W:48 L:58
+2026-04-07 10:51:15,777 [INFO] src.agent: [ILAgent] LOST — 48W / 59L
+2026-04-07 10:51:15,777 [INFO] __main__: [ILAgent] 107/500 battles | W:48 L:59
+2026-04-07 10:51:17,599 [INFO] src.agent: [ILAgent] WON — 49W / 59L
+2026-04-07 10:51:17,600 [INFO] __main__: [ILAgent] 108/500 battles | W:49 L:59
+2026-04-07 10:51:21,198 [INFO] src.agent: [ILAgent] WON — 50W / 59L
+2026-04-07 10:51:21,198 [INFO] __main__: [ILAgent] 109/500 battles | W:50 L:59
+2026-04-07 10:51:24,156 [INFO] src.agent: [ILAgent] WON — 51W / 59L
+2026-04-07 10:51:24,157 [INFO] __main__: [ILAgent] 110/500 battles | W:51 L:59
+2026-04-07 10:51:27,492 [INFO] src.agent: [ILAgent] WON — 52W / 59L
+2026-04-07 10:51:27,492 [INFO] __main__: [ILAgent] 111/500 battles | W:52 L:59
+2026-04-07 10:51:29,343 [INFO] src.agent: [ILAgent] LOST — 52W / 60L
+2026-04-07 10:51:29,344 [INFO] __main__: [ILAgent] 112/500 battles | W:52 L:60
+2026-04-07 10:51:31,247 [INFO] src.agent: [ILAgent] WON — 53W / 60L
+2026-04-07 10:51:31,247 [INFO] __main__: [ILAgent] 113/500 battles | W:53 L:60
+2026-04-07 10:51:33,408 [INFO] src.agent: [ILAgent] WON — 54W / 60L
+2026-04-07 10:51:33,409 [INFO] __main__: [ILAgent] 114/500 battles | W:54 L:60
+2026-04-07 10:51:35,250 [INFO] src.agent: [ILAgent] LOST — 54W / 61L
+2026-04-07 10:51:35,253 [INFO] __main__: [ILAgent] 115/500 battles | W:54 L:61
+2026-04-07 10:51:37,054 [INFO] src.agent: [ILAgent] LOST — 54W / 62L
+2026-04-07 10:51:37,054 [INFO] __main__: [ILAgent] 116/500 battles | W:54 L:62
+2026-04-07 10:51:38,945 [INFO] src.agent: [ILAgent] LOST — 54W / 63L
+2026-04-07 10:51:38,945 [INFO] __main__: [ILAgent] 117/500 battles | W:54 L:63
+2026-04-07 10:51:41,908 [INFO] src.agent: [ILAgent] WON — 55W / 63L
+2026-04-07 10:51:41,909 [INFO] __main__: [ILAgent] 118/500 battles | W:55 L:63
+2026-04-07 10:51:44,195 [INFO] src.agent: [ILAgent] WON — 56W / 63L
+2026-04-07 10:51:44,196 [INFO] __main__: [ILAgent] 119/500 battles | W:56 L:63
+2026-04-07 10:51:47,033 [INFO] src.agent: [ILAgent] LOST — 56W / 64L
+2026-04-07 10:51:47,033 [INFO] __main__: [ILAgent] 120/500 battles | W:56 L:64
+2026-04-07 10:51:48,588 [INFO] src.agent: [ILAgent] LOST — 56W / 65L
+2026-04-07 10:51:48,588 [INFO] __main__: [ILAgent] 121/500 battles | W:56 L:65
+2026-04-07 10:51:50,027 [INFO] src.agent: [ILAgent] LOST — 56W / 66L
+2026-04-07 10:51:50,028 [INFO] __main__: [ILAgent] 122/500 battles | W:56 L:66
+2026-04-07 10:51:51,950 [INFO] src.agent: [ILAgent] LOST — 56W / 67L
+2026-04-07 10:51:51,950 [INFO] __main__: [ILAgent] 123/500 battles | W:56 L:67
+2026-04-07 10:51:53,672 [INFO] src.agent: [ILAgent] LOST — 56W / 68L
+2026-04-07 10:51:53,672 [INFO] __main__: [ILAgent] 124/500 battles | W:56 L:68
+2026-04-07 10:51:54,767 [INFO] src.agent: [ILAgent] WON — 57W / 68L
+2026-04-07 10:51:54,768 [INFO] __main__: [ILAgent] 125/500 battles | W:57 L:68
+2026-04-07 10:51:56,540 [INFO] src.agent: [ILAgent] LOST — 57W / 69L
+2026-04-07 10:51:56,541 [INFO] __main__: [ILAgent] 126/500 battles | W:57 L:69
+2026-04-07 10:51:58,412 [INFO] src.agent: [ILAgent] LOST — 57W / 70L
+2026-04-07 10:51:58,412 [INFO] __main__: [ILAgent] 127/500 battles | W:57 L:70
+2026-04-07 10:52:00,258 [INFO] src.agent: [ILAgent] WON — 58W / 70L
+2026-04-07 10:52:00,259 [INFO] __main__: [ILAgent] 128/500 battles | W:58 L:70
+2026-04-07 10:52:04,216 [INFO] src.agent: [ILAgent] WON — 59W / 70L
+2026-04-07 10:52:04,217 [INFO] __main__: [ILAgent] 129/500 battles | W:59 L:70
+2026-04-07 10:52:06,116 [INFO] src.agent: [ILAgent] WON — 60W / 70L
+2026-04-07 10:52:06,117 [INFO] __main__: [ILAgent] 130/500 battles | W:60 L:70
+2026-04-07 10:52:08,305 [INFO] src.agent: [ILAgent] LOST — 60W / 71L
+2026-04-07 10:52:08,305 [INFO] __main__: [ILAgent] 131/500 battles | W:60 L:71
+2026-04-07 10:52:10,688 [INFO] src.agent: [ILAgent] WON — 61W / 71L
+2026-04-07 10:52:10,688 [INFO] __main__: [ILAgent] 132/500 battles | W:61 L:71
+2026-04-07 10:52:14,506 [INFO] src.agent: [ILAgent] LOST — 61W / 72L
+2026-04-07 10:52:14,507 [INFO] __main__: [ILAgent] 133/500 battles | W:61 L:72
+2026-04-07 10:52:16,352 [INFO] src.agent: [ILAgent] LOST — 61W / 73L
+2026-04-07 10:52:16,352 [INFO] __main__: [ILAgent] 134/500 battles | W:61 L:73
+2026-04-07 10:52:17,699 [INFO] src.agent: [ILAgent] WON — 62W / 73L
+2026-04-07 10:52:17,700 [INFO] __main__: [ILAgent] 135/500 battles | W:62 L:73
+2026-04-07 10:52:21,363 [INFO] src.agent: [ILAgent] WON — 63W / 73L
+2026-04-07 10:52:21,364 [INFO] __main__: [ILAgent] 136/500 battles | W:63 L:73
+2026-04-07 10:52:22,927 [INFO] src.agent: [ILAgent] WON — 64W / 73L
+2026-04-07 10:52:22,927 [INFO] __main__: [ILAgent] 137/500 battles | W:64 L:73
+2026-04-07 10:52:25,510 [INFO] src.agent: [ILAgent] WON — 65W / 73L
+2026-04-07 10:52:25,511 [INFO] __main__: [ILAgent] 138/500 battles | W:65 L:73
+2026-04-07 10:52:27,519 [INFO] src.agent: [ILAgent] LOST — 65W / 74L
+2026-04-07 10:52:27,519 [INFO] __main__: [ILAgent] 139/500 battles | W:65 L:74
+2026-04-07 10:52:32,065 [INFO] src.agent: [ILAgent] LOST — 65W / 75L
+2026-04-07 10:52:32,065 [INFO] __main__: [ILAgent] 140/500 battles | W:65 L:75
+2026-04-07 10:52:36,967 [INFO] src.agent: [ILAgent] WON — 66W / 75L
+2026-04-07 10:52:36,967 [INFO] __main__: [ILAgent] 141/500 battles | W:66 L:75
+2026-04-07 10:52:39,428 [INFO] src.agent: [ILAgent] LOST — 66W / 76L
+2026-04-07 10:52:39,429 [INFO] __main__: [ILAgent] 142/500 battles | W:66 L:76
+2026-04-07 10:52:41,178 [INFO] src.agent: [ILAgent] LOST — 66W / 77L
+2026-04-07 10:52:41,179 [INFO] __main__: [ILAgent] 143/500 battles | W:66 L:77
+2026-04-07 10:52:42,417 [INFO] src.agent: [ILAgent] LOST — 66W / 78L
+2026-04-07 10:52:42,417 [INFO] __main__: [ILAgent] 144/500 battles | W:66 L:78
+2026-04-07 10:52:44,418 [INFO] src.agent: [ILAgent] LOST — 66W / 79L
+2026-04-07 10:52:44,419 [INFO] __main__: [ILAgent] 145/500 battles | W:66 L:79
+2026-04-07 10:52:47,326 [INFO] src.agent: [ILAgent] LOST — 66W / 80L
+2026-04-07 10:52:47,327 [INFO] __main__: [ILAgent] 146/500 battles | W:66 L:80
+2026-04-07 10:52:49,081 [INFO] src.agent: [ILAgent] LOST — 66W / 81L
+2026-04-07 10:52:49,081 [INFO] __main__: [ILAgent] 147/500 battles | W:66 L:81
+2026-04-07 10:52:51,515 [INFO] src.agent: [ILAgent] WON — 67W / 81L
+2026-04-07 10:52:51,515 [INFO] __main__: [ILAgent] 148/500 battles | W:67 L:81
+2026-04-07 10:52:53,344 [INFO] src.agent: [ILAgent] LOST — 67W / 82L
+2026-04-07 10:52:53,345 [INFO] __main__: [ILAgent] 149/500 battles | W:67 L:82
+2026-04-07 10:52:55,895 [INFO] src.agent: [ILAgent] WON — 68W / 82L
+2026-04-07 10:52:55,896 [INFO] __main__: [ILAgent] 150/500 battles | W:68 L:82
+2026-04-07 10:52:57,643 [INFO] src.agent: [ILAgent] LOST — 68W / 83L
+2026-04-07 10:52:57,643 [INFO] __main__: [ILAgent] 151/500 battles | W:68 L:83
+2026-04-07 10:53:00,283 [INFO] src.agent: [ILAgent] LOST — 68W / 84L
+2026-04-07 10:53:00,284 [INFO] __main__: [ILAgent] 152/500 battles | W:68 L:84
+2026-04-07 10:53:03,515 [INFO] src.agent: [ILAgent] LOST — 68W / 85L
+2026-04-07 10:53:03,516 [INFO] __main__: [ILAgent] 153/500 battles | W:68 L:85
+2026-04-07 10:53:05,827 [INFO] src.agent: [ILAgent] LOST — 68W / 86L
+2026-04-07 10:53:05,828 [INFO] __main__: [ILAgent] 154/500 battles | W:68 L:86
+2026-04-07 10:53:10,593 [INFO] src.agent: [ILAgent] LOST — 68W / 87L
+2026-04-07 10:53:10,594 [INFO] __main__: [ILAgent] 155/500 battles | W:68 L:87
+2026-04-07 10:53:13,112 [INFO] src.agent: [ILAgent] WON — 69W / 87L
+2026-04-07 10:53:13,115 [INFO] __main__: [ILAgent] 156/500 battles | W:69 L:87
+2026-04-07 10:53:14,662 [INFO] src.agent: [ILAgent] WON — 70W / 87L
+2026-04-07 10:53:14,662 [INFO] __main__: [ILAgent] 157/500 battles | W:70 L:87
+2026-04-07 10:53:16,210 [INFO] src.agent: [ILAgent] WON — 71W / 87L
+2026-04-07 10:53:16,211 [INFO] __main__: [ILAgent] 158/500 battles | W:71 L:87
+2026-04-07 10:53:18,095 [INFO] src.agent: [ILAgent] WON — 72W / 87L
+2026-04-07 10:53:18,095 [INFO] __main__: [ILAgent] 159/500 battles | W:72 L:87
+2026-04-07 10:53:20,451 [INFO] src.agent: [ILAgent] WON — 73W / 87L
+2026-04-07 10:53:20,451 [INFO] __main__: [ILAgent] 160/500 battles | W:73 L:87
+2026-04-07 10:53:23,096 [INFO] src.agent: [ILAgent] LOST — 73W / 88L
+2026-04-07 10:53:23,143 [INFO] __main__: [ILAgent] 161/500 battles | W:73 L:88
+2026-04-07 10:53:25,880 [INFO] src.agent: [ILAgent] LOST — 73W / 89L
+2026-04-07 10:53:25,880 [INFO] __main__: [ILAgent] 162/500 battles | W:73 L:89
+2026-04-07 10:53:26,950 [INFO] src.agent: [ILAgent] WON — 74W / 89L
+2026-04-07 10:53:26,951 [INFO] __main__: [ILAgent] 163/500 battles | W:74 L:89
+2026-04-07 10:53:29,529 [INFO] src.agent: [ILAgent] WON — 75W / 89L
+2026-04-07 10:53:29,529 [INFO] __main__: [ILAgent] 164/500 battles | W:75 L:89
+2026-04-07 10:53:30,993 [INFO] src.agent: [ILAgent] LOST — 75W / 90L
+2026-04-07 10:53:30,994 [INFO] __main__: [ILAgent] 165/500 battles | W:75 L:90
+2026-04-07 10:53:32,706 [INFO] src.agent: [ILAgent] LOST — 75W / 91L
+2026-04-07 10:53:32,707 [INFO] __main__: [ILAgent] 166/500 battles | W:75 L:91
+2026-04-07 10:53:35,640 [INFO] src.agent: [ILAgent] LOST — 75W / 92L
+2026-04-07 10:53:35,640 [INFO] __main__: [ILAgent] 167/500 battles | W:75 L:92
+2026-04-07 10:53:37,488 [INFO] src.agent: [ILAgent] LOST — 75W / 93L
+2026-04-07 10:53:37,488 [INFO] __main__: [ILAgent] 168/500 battles | W:75 L:93
+2026-04-07 10:53:39,324 [INFO] src.agent: [ILAgent] WON — 76W / 93L
+2026-04-07 10:53:39,325 [INFO] __main__: [ILAgent] 169/500 battles | W:76 L:93
+2026-04-07 10:53:40,706 [INFO] src.agent: [ILAgent] LOST — 76W / 94L
+2026-04-07 10:53:40,707 [INFO] __main__: [ILAgent] 170/500 battles | W:76 L:94
+2026-04-07 10:53:44,391 [INFO] src.agent: [ILAgent] WON — 77W / 94L
+2026-04-07 10:53:44,392 [INFO] __main__: [ILAgent] 171/500 battles | W:77 L:94
+2026-04-07 10:53:46,227 [INFO] src.agent: [ILAgent] WON — 78W / 94L
+2026-04-07 10:53:46,228 [INFO] __main__: [ILAgent] 172/500 battles | W:78 L:94
+2026-04-07 10:53:48,057 [INFO] src.agent: [ILAgent] WON — 79W / 94L
+2026-04-07 10:53:48,058 [INFO] __main__: [ILAgent] 173/500 battles | W:79 L:94
+2026-04-07 10:53:50,377 [INFO] src.agent: [ILAgent] LOST — 79W / 95L
+2026-04-07 10:53:50,378 [INFO] __main__: [ILAgent] 174/500 battles | W:79 L:95
+2026-04-07 10:53:54,020 [INFO] src.agent: [ILAgent] LOST — 79W / 96L
+2026-04-07 10:53:54,020 [INFO] __main__: [ILAgent] 175/500 battles | W:79 L:96
+2026-04-07 10:53:55,443 [INFO] src.agent: [ILAgent] LOST — 79W / 97L
+2026-04-07 10:53:55,444 [INFO] __main__: [ILAgent] 176/500 battles | W:79 L:97
+2026-04-07 10:53:57,791 [INFO] src.agent: [ILAgent] LOST — 79W / 98L
+2026-04-07 10:53:57,792 [INFO] __main__: [ILAgent] 177/500 battles | W:79 L:98
+2026-04-07 10:53:59,601 [INFO] src.agent: [ILAgent] WON — 80W / 98L
+2026-04-07 10:53:59,601 [INFO] __main__: [ILAgent] 178/500 battles | W:80 L:98
+2026-04-07 10:54:01,543 [INFO] src.agent: [ILAgent] WON — 81W / 98L
+2026-04-07 10:54:01,543 [INFO] __main__: [ILAgent] 179/500 battles | W:81 L:98
+2026-04-07 10:54:03,222 [INFO] src.agent: [ILAgent] LOST — 81W / 99L
+2026-04-07 10:54:03,222 [INFO] __main__: [ILAgent] 180/500 battles | W:81 L:99
+2026-04-07 10:54:05,985 [INFO] src.agent: [ILAgent] LOST — 81W / 100L
+2026-04-07 10:54:05,986 [INFO] __main__: [ILAgent] 181/500 battles | W:81 L:100
+2026-04-07 10:54:08,100 [INFO] src.agent: [ILAgent] LOST — 81W / 101L
+2026-04-07 10:54:08,100 [INFO] __main__: [ILAgent] 182/500 battles | W:81 L:101
+2026-04-07 10:54:10,282 [INFO] src.agent: [ILAgent] LOST — 81W / 102L
+2026-04-07 10:54:10,283 [INFO] __main__: [ILAgent] 183/500 battles | W:81 L:102
+2026-04-07 10:54:12,104 [INFO] src.agent: [ILAgent] WON — 82W / 102L
+2026-04-07 10:54:12,105 [INFO] __main__: [ILAgent] 184/500 battles | W:82 L:102
+2026-04-07 10:54:15,267 [INFO] src.agent: [ILAgent] WON — 83W / 102L
+2026-04-07 10:54:15,268 [INFO] __main__: [ILAgent] 185/500 battles | W:83 L:102
+2026-04-07 10:54:17,279 [INFO] src.agent: [ILAgent] WON — 84W / 102L
+2026-04-07 10:54:17,279 [INFO] __main__: [ILAgent] 186/500 battles | W:84 L:102
+2026-04-07 10:54:19,148 [INFO] src.agent: [ILAgent] LOST — 84W / 103L
+2026-04-07 10:54:19,149 [INFO] __main__: [ILAgent] 187/500 battles | W:84 L:103
+2026-04-07 10:54:20,453 [INFO] src.agent: [ILAgent] WON — 85W / 103L
+2026-04-07 10:54:20,454 [INFO] __main__: [ILAgent] 188/500 battles | W:85 L:103
+2026-04-07 10:54:22,067 [INFO] src.agent: [ILAgent] WON — 86W / 103L
+2026-04-07 10:54:22,068 [INFO] __main__: [ILAgent] 189/500 battles | W:86 L:103
+2026-04-07 10:54:23,351 [INFO] src.agent: [ILAgent] LOST — 86W / 104L
+2026-04-07 10:54:23,352 [INFO] __main__: [ILAgent] 190/500 battles | W:86 L:104
+2026-04-07 10:54:26,540 [INFO] src.agent: [ILAgent] LOST — 86W / 105L
+2026-04-07 10:54:26,540 [INFO] __main__: [ILAgent] 191/500 battles | W:86 L:105
+2026-04-07 10:54:29,752 [INFO] src.agent: [ILAgent] LOST — 86W / 106L
+2026-04-07 10:54:29,753 [INFO] __main__: [ILAgent] 192/500 battles | W:86 L:106
+2026-04-07 10:54:31,015 [INFO] src.agent: [ILAgent] LOST — 86W / 107L
+2026-04-07 10:54:31,016 [INFO] __main__: [ILAgent] 193/500 battles | W:86 L:107
+2026-04-07 10:54:32,946 [INFO] src.agent: [ILAgent] LOST — 86W / 108L
+2026-04-07 10:54:32,947 [INFO] __main__: [ILAgent] 194/500 battles | W:86 L:108
+2026-04-07 10:54:38,700 [INFO] src.agent: [ILAgent] LOST — 86W / 109L
+2026-04-07 10:54:38,701 [INFO] __main__: [ILAgent] 195/500 battles | W:86 L:109
+2026-04-07 10:54:40,592 [INFO] src.agent: [ILAgent] LOST — 86W / 110L
+2026-04-07 10:54:40,593 [INFO] __main__: [ILAgent] 196/500 battles | W:86 L:110
+2026-04-07 10:54:42,435 [INFO] src.agent: [ILAgent] WON — 87W / 110L
+2026-04-07 10:54:42,436 [INFO] __main__: [ILAgent] 197/500 battles | W:87 L:110
+2026-04-07 10:54:46,300 [INFO] src.agent: [ILAgent] WON — 88W / 110L
+2026-04-07 10:54:46,301 [INFO] __main__: [ILAgent] 198/500 battles | W:88 L:110
+2026-04-07 10:54:47,934 [INFO] src.agent: [ILAgent] LOST — 88W / 111L
+2026-04-07 10:54:47,935 [INFO] __main__: [ILAgent] 199/500 battles | W:88 L:111
+2026-04-07 10:54:49,674 [INFO] src.agent: [ILAgent] LOST — 88W / 112L
+2026-04-07 10:54:49,674 [INFO] __main__: [ILAgent] 200/500 battles | W:88 L:112
+2026-04-07 10:54:51,560 [INFO] src.agent: [ILAgent] WON — 89W / 112L
+2026-04-07 10:54:51,561 [INFO] __main__: [ILAgent] 201/500 battles | W:89 L:112
+2026-04-07 10:54:53,240 [INFO] src.agent: [ILAgent] WON — 90W / 112L
+2026-04-07 10:54:53,240 [INFO] __main__: [ILAgent] 202/500 battles | W:90 L:112
+2026-04-07 10:54:55,397 [INFO] src.agent: [ILAgent] WON — 91W / 112L
+2026-04-07 10:54:55,397 [INFO] __main__: [ILAgent] 203/500 battles | W:91 L:112
+2026-04-07 10:54:57,196 [INFO] src.agent: [ILAgent] WON — 92W / 112L
+2026-04-07 10:54:57,196 [INFO] __main__: [ILAgent] 204/500 battles | W:92 L:112
+2026-04-07 10:54:59,423 [INFO] src.agent: [ILAgent] WON — 93W / 112L
+2026-04-07 10:54:59,423 [INFO] __main__: [ILAgent] 205/500 battles | W:93 L:112
+2026-04-07 10:55:01,997 [INFO] src.agent: [ILAgent] WON — 94W / 112L
+2026-04-07 10:55:01,998 [INFO] __main__: [ILAgent] 206/500 battles | W:94 L:112
+2026-04-07 10:55:05,600 [INFO] src.agent: [ILAgent] LOST — 94W / 113L
+2026-04-07 10:55:05,600 [INFO] __main__: [ILAgent] 207/500 battles | W:94 L:113
+2026-04-07 10:55:08,019 [INFO] src.agent: [ILAgent] WON — 95W / 113L
+2026-04-07 10:55:08,019 [INFO] __main__: [ILAgent] 208/500 battles | W:95 L:113
+2026-04-07 10:55:09,650 [INFO] src.agent: [ILAgent] LOST — 95W / 114L
+2026-04-07 10:55:09,651 [INFO] __main__: [ILAgent] 209/500 battles | W:95 L:114
+2026-04-07 10:55:11,259 [INFO] src.agent: [ILAgent] LOST — 95W / 115L
+2026-04-07 10:55:11,259 [INFO] __main__: [ILAgent] 210/500 battles | W:95 L:115
+2026-04-07 10:55:13,237 [INFO] src.agent: [ILAgent] WON — 96W / 115L
+2026-04-07 10:55:13,238 [INFO] __main__: [ILAgent] 211/500 battles | W:96 L:115
+2026-04-07 10:55:14,713 [INFO] src.agent: [ILAgent] LOST — 96W / 116L
+2026-04-07 10:55:14,713 [INFO] __main__: [ILAgent] 212/500 battles | W:96 L:116
+2026-04-07 10:55:16,663 [INFO] src.agent: [ILAgent] WON — 97W / 116L
+2026-04-07 10:55:16,664 [INFO] __main__: [ILAgent] 213/500 battles | W:97 L:116
+2026-04-07 10:55:18,594 [INFO] src.agent: [ILAgent] WON — 98W / 116L
+2026-04-07 10:55:18,595 [INFO] __main__: [ILAgent] 214/500 battles | W:98 L:116
+2026-04-07 10:55:19,384 [INFO] src.agent: [ILAgent] WON — 99W / 116L
+2026-04-07 10:55:19,385 [INFO] __main__: [ILAgent] 215/500 battles | W:99 L:116
+2026-04-07 10:55:24,667 [INFO] src.agent: [ILAgent] LOST — 99W / 117L
+2026-04-07 10:55:24,669 [INFO] __main__: [ILAgent] 216/500 battles | W:99 L:117
+2026-04-07 10:55:25,722 [INFO] src.agent: [ILAgent] WON — 100W / 117L
+2026-04-07 10:55:25,722 [INFO] __main__: [ILAgent] 217/500 battles | W:100 L:117
+2026-04-07 10:55:27,280 [INFO] src.agent: [ILAgent] WON — 101W / 117L
+2026-04-07 10:55:27,280 [INFO] __main__: [ILAgent] 218/500 battles | W:101 L:117
+2026-04-07 10:55:29,930 [INFO] src.agent: [ILAgent] LOST — 101W / 118L
+2026-04-07 10:55:29,932 [INFO] __main__: [ILAgent] 219/500 battles | W:101 L:118
+2026-04-07 10:55:32,223 [INFO] src.agent: [ILAgent] LOST — 101W / 119L
+2026-04-07 10:55:32,224 [INFO] __main__: [ILAgent] 220/500 battles | W:101 L:119
+2026-04-07 10:55:33,513 [INFO] src.agent: [ILAgent] WON — 102W / 119L
+2026-04-07 10:55:33,513 [INFO] __main__: [ILAgent] 221/500 battles | W:102 L:119
+2026-04-07 10:55:35,307 [INFO] src.agent: [ILAgent] LOST — 102W / 120L
+2026-04-07 10:55:35,307 [INFO] __main__: [ILAgent] 222/500 battles | W:102 L:120
+2026-04-07 10:55:37,155 [INFO] src.agent: [ILAgent] WON — 103W / 120L
+2026-04-07 10:55:37,156 [INFO] __main__: [ILAgent] 223/500 battles | W:103 L:120
+2026-04-07 10:55:39,461 [INFO] src.agent: [ILAgent] LOST — 103W / 121L
+2026-04-07 10:55:39,462 [INFO] __main__: [ILAgent] 224/500 battles | W:103 L:121
+2026-04-07 10:55:42,923 [INFO] src.agent: [ILAgent] LOST — 103W / 122L
+2026-04-07 10:55:42,924 [INFO] __main__: [ILAgent] 225/500 battles | W:103 L:122
+2026-04-07 10:55:45,495 [INFO] src.agent: [ILAgent] LOST — 103W / 123L
+2026-04-07 10:55:45,496 [INFO] __main__: [ILAgent] 226/500 battles | W:103 L:123
+2026-04-07 10:55:47,706 [INFO] src.agent: [ILAgent] LOST — 103W / 124L
+2026-04-07 10:55:47,707 [INFO] __main__: [ILAgent] 227/500 battles | W:103 L:124
+2026-04-07 10:55:49,866 [INFO] src.agent: [ILAgent] WON — 104W / 124L
+2026-04-07 10:55:49,867 [INFO] __main__: [ILAgent] 228/500 battles | W:104 L:124
+2026-04-07 10:55:53,876 [INFO] src.agent: [ILAgent] WON — 105W / 124L
+2026-04-07 10:55:53,876 [INFO] __main__: [ILAgent] 229/500 battles | W:105 L:124
+2026-04-07 10:55:56,275 [INFO] src.agent: [ILAgent] LOST — 105W / 125L
+2026-04-07 10:55:56,276 [INFO] __main__: [ILAgent] 230/500 battles | W:105 L:125
+2026-04-07 10:55:59,465 [INFO] src.agent: [ILAgent] LOST — 105W / 126L
+2026-04-07 10:55:59,466 [INFO] __main__: [ILAgent] 231/500 battles | W:105 L:126
+2026-04-07 10:56:01,047 [INFO] src.agent: [ILAgent] LOST — 105W / 127L
+2026-04-07 10:56:01,048 [INFO] __main__: [ILAgent] 232/500 battles | W:105 L:127
+2026-04-07 10:56:03,487 [INFO] src.agent: [ILAgent] WON — 106W / 127L
+2026-04-07 10:56:03,488 [INFO] __main__: [ILAgent] 233/500 battles | W:106 L:127
+2026-04-07 10:56:05,646 [INFO] src.agent: [ILAgent] LOST — 106W / 128L
+2026-04-07 10:56:05,647 [INFO] __main__: [ILAgent] 234/500 battles | W:106 L:128
+2026-04-07 10:56:08,906 [INFO] src.agent: [ILAgent] WON — 107W / 128L
+2026-04-07 10:56:08,906 [INFO] __main__: [ILAgent] 235/500 battles | W:107 L:128
+2026-04-07 10:56:11,113 [INFO] src.agent: [ILAgent] LOST — 107W / 129L
+2026-04-07 10:56:11,114 [INFO] __main__: [ILAgent] 236/500 battles | W:107 L:129
+2026-04-07 10:56:13,060 [INFO] src.agent: [ILAgent] LOST — 107W / 130L
+2026-04-07 10:56:13,060 [INFO] __main__: [ILAgent] 237/500 battles | W:107 L:130
+2026-04-07 10:56:15,025 [INFO] src.agent: [ILAgent] LOST — 107W / 131L
+2026-04-07 10:56:15,026 [INFO] __main__: [ILAgent] 238/500 battles | W:107 L:131
+2026-04-07 10:56:17,108 [INFO] src.agent: [ILAgent] LOST — 107W / 132L
+2026-04-07 10:56:17,108 [INFO] __main__: [ILAgent] 239/500 battles | W:107 L:132
+2026-04-07 10:56:19,141 [INFO] src.agent: [ILAgent] WON — 108W / 132L
+2026-04-07 10:56:19,142 [INFO] __main__: [ILAgent] 240/500 battles | W:108 L:132
+2026-04-07 10:56:21,371 [INFO] src.agent: [ILAgent] LOST — 108W / 133L
+2026-04-07 10:56:21,372 [INFO] __main__: [ILAgent] 241/500 battles | W:108 L:133
+2026-04-07 10:56:24,050 [INFO] src.agent: [ILAgent] WON — 109W / 133L
+2026-04-07 10:56:24,051 [INFO] __main__: [ILAgent] 242/500 battles | W:109 L:133
+2026-04-07 10:56:26,684 [INFO] src.agent: [ILAgent] WON — 110W / 133L
+2026-04-07 10:56:26,684 [INFO] __main__: [ILAgent] 243/500 battles | W:110 L:133
+2026-04-07 10:56:29,138 [INFO] src.agent: [ILAgent] WON — 111W / 133L
+2026-04-07 10:56:29,139 [INFO] __main__: [ILAgent] 244/500 battles | W:111 L:133
+2026-04-07 10:56:30,893 [INFO] src.agent: [ILAgent] WON — 112W / 133L
+2026-04-07 10:56:30,893 [INFO] __main__: [ILAgent] 245/500 battles | W:112 L:133
+2026-04-07 10:56:32,107 [INFO] src.agent: [ILAgent] WON — 113W / 133L
+2026-04-07 10:56:32,108 [INFO] __main__: [ILAgent] 246/500 battles | W:113 L:133
+2026-04-07 10:56:33,603 [INFO] src.agent: [ILAgent] WON — 114W / 133L
+2026-04-07 10:56:33,604 [INFO] __main__: [ILAgent] 247/500 battles | W:114 L:133
+2026-04-07 10:56:35,689 [INFO] src.agent: [ILAgent] WON — 115W / 133L
+2026-04-07 10:56:35,689 [INFO] __main__: [ILAgent] 248/500 battles | W:115 L:133
+2026-04-07 10:56:37,656 [INFO] src.agent: [ILAgent] WON — 116W / 133L
+2026-04-07 10:56:37,656 [INFO] __main__: [ILAgent] 249/500 battles | W:116 L:133
+2026-04-07 10:56:39,236 [INFO] src.agent: [ILAgent] WON — 117W / 133L
+2026-04-07 10:56:39,237 [INFO] __main__: [ILAgent] 250/500 battles | W:117 L:133
+2026-04-07 10:56:43,572 [INFO] src.agent: [ILAgent] LOST — 117W / 134L
+2026-04-07 10:56:43,573 [INFO] __main__: [ILAgent] 251/500 battles | W:117 L:134
+2026-04-07 10:56:44,691 [INFO] src.agent: [ILAgent] WON — 118W / 134L
+2026-04-07 10:56:44,691 [INFO] __main__: [ILAgent] 252/500 battles | W:118 L:134
+2026-04-07 10:56:45,990 [INFO] src.agent: [ILAgent] LOST — 118W / 135L
+2026-04-07 10:56:45,990 [INFO] __main__: [ILAgent] 253/500 battles | W:118 L:135
+2026-04-07 10:56:48,426 [INFO] src.agent: [ILAgent] WON — 119W / 135L
+2026-04-07 10:56:48,426 [INFO] __main__: [ILAgent] 254/500 battles | W:119 L:135
+2026-04-07 10:56:51,246 [INFO] src.agent: [ILAgent] WON — 120W / 135L
+2026-04-07 10:56:51,247 [INFO] __main__: [ILAgent] 255/500 battles | W:120 L:135
+2026-04-07 10:56:53,657 [INFO] src.agent: [ILAgent] LOST — 120W / 136L
+2026-04-07 10:56:53,657 [INFO] __main__: [ILAgent] 256/500 battles | W:120 L:136
+2026-04-07 10:56:57,178 [INFO] src.agent: [ILAgent] WON — 121W / 136L
+2026-04-07 10:56:57,179 [INFO] __main__: [ILAgent] 257/500 battles | W:121 L:136
+2026-04-07 10:56:58,616 [INFO] src.agent: [ILAgent] WON — 122W / 136L
+2026-04-07 10:56:58,617 [INFO] __main__: [ILAgent] 258/500 battles | W:122 L:136
+2026-04-07 10:57:00,579 [INFO] src.agent: [ILAgent] LOST — 122W / 137L
+2026-04-07 10:57:00,579 [INFO] __main__: [ILAgent] 259/500 battles | W:122 L:137
+2026-04-07 10:57:02,370 [INFO] src.agent: [ILAgent] WON — 123W / 137L
+2026-04-07 10:57:02,370 [INFO] __main__: [ILAgent] 260/500 battles | W:123 L:137
+2026-04-07 10:57:04,637 [INFO] src.agent: [ILAgent] WON — 124W / 137L
+2026-04-07 10:57:04,637 [INFO] __main__: [ILAgent] 261/500 battles | W:124 L:137
+2026-04-07 10:57:06,327 [INFO] src.agent: [ILAgent] WON — 125W / 137L
+2026-04-07 10:57:06,327 [INFO] __main__: [ILAgent] 262/500 battles | W:125 L:137
+2026-04-07 10:57:08,876 [INFO] src.agent: [ILAgent] WON — 126W / 137L
+2026-04-07 10:57:08,877 [INFO] __main__: [ILAgent] 263/500 battles | W:126 L:137
+2026-04-07 10:57:10,224 [INFO] src.agent: [ILAgent] WON — 127W / 137L
+2026-04-07 10:57:10,225 [INFO] __main__: [ILAgent] 264/500 battles | W:127 L:137
+2026-04-07 10:57:12,293 [INFO] src.agent: [ILAgent] WON — 128W / 137L
+2026-04-07 10:57:12,294 [INFO] __main__: [ILAgent] 265/500 battles | W:128 L:137
+2026-04-07 10:57:15,183 [INFO] src.agent: [ILAgent] WON — 129W / 137L
+2026-04-07 10:57:15,184 [INFO] __main__: [ILAgent] 266/500 battles | W:129 L:137
+2026-04-07 10:57:16,569 [INFO] src.agent: [ILAgent] WON — 130W / 137L
+2026-04-07 10:57:16,569 [INFO] __main__: [ILAgent] 267/500 battles | W:130 L:137
+2026-04-07 10:57:20,600 [INFO] src.agent: [ILAgent] WON — 131W / 137L
+2026-04-07 10:57:20,600 [INFO] __main__: [ILAgent] 268/500 battles | W:131 L:137
+2026-04-07 10:57:24,364 [INFO] src.agent: [ILAgent] LOST — 131W / 138L
+2026-04-07 10:57:24,365 [INFO] __main__: [ILAgent] 269/500 battles | W:131 L:138
+2026-04-07 10:57:26,310 [INFO] src.agent: [ILAgent] LOST — 131W / 139L
+2026-04-07 10:57:26,311 [INFO] __main__: [ILAgent] 270/500 battles | W:131 L:139
+2026-04-07 10:57:28,056 [INFO] src.agent: [ILAgent] LOST — 131W / 140L
+2026-04-07 10:57:28,057 [INFO] __main__: [ILAgent] 271/500 battles | W:131 L:140
+2026-04-07 10:57:30,623 [INFO] src.agent: [ILAgent] LOST — 131W / 141L
+2026-04-07 10:57:30,624 [INFO] __main__: [ILAgent] 272/500 battles | W:131 L:141
+2026-04-07 10:57:32,124 [INFO] src.agent: [ILAgent] WON — 132W / 141L
+2026-04-07 10:57:32,124 [INFO] __main__: [ILAgent] 273/500 battles | W:132 L:141
+2026-04-07 10:57:35,542 [INFO] src.agent: [ILAgent] WON — 133W / 141L
+2026-04-07 10:57:35,543 [INFO] __main__: [ILAgent] 274/500 battles | W:133 L:141
+2026-04-07 10:57:37,124 [INFO] src.agent: [ILAgent] WON — 134W / 141L
+2026-04-07 10:57:37,124 [INFO] __main__: [ILAgent] 275/500 battles | W:134 L:141
+2026-04-07 10:57:38,614 [INFO] src.agent: [ILAgent] WON — 135W / 141L
+2026-04-07 10:57:38,615 [INFO] __main__: [ILAgent] 276/500 battles | W:135 L:141
+2026-04-07 10:57:44,981 [INFO] src.agent: [ILAgent] WON — 136W / 141L
+2026-04-07 10:57:44,982 [INFO] __main__: [ILAgent] 277/500 battles | W:136 L:141
+2026-04-07 10:57:46,800 [INFO] src.agent: [ILAgent] WON — 137W / 141L
+2026-04-07 10:57:46,801 [INFO] __main__: [ILAgent] 278/500 battles | W:137 L:141
+2026-04-07 10:57:48,121 [INFO] src.agent: [ILAgent] LOST — 137W / 142L
+2026-04-07 10:57:48,121 [INFO] __main__: [ILAgent] 279/500 battles | W:137 L:142
+2026-04-07 10:57:49,132 [INFO] src.agent: [ILAgent] WON — 138W / 142L
+2026-04-07 10:57:49,133 [INFO] __main__: [ILAgent] 280/500 battles | W:138 L:142
+2026-04-07 10:57:52,463 [INFO] src.agent: [ILAgent] LOST — 138W / 143L
+2026-04-07 10:57:52,463 [INFO] __main__: [ILAgent] 281/500 battles | W:138 L:143
+2026-04-07 10:57:54,525 [INFO] src.agent: [ILAgent] WON — 139W / 143L
+2026-04-07 10:57:54,525 [INFO] __main__: [ILAgent] 282/500 battles | W:139 L:143
+2026-04-07 10:57:56,985 [INFO] src.agent: [ILAgent] WON — 140W / 143L
+2026-04-07 10:57:56,986 [INFO] __main__: [ILAgent] 283/500 battles | W:140 L:143
+2026-04-07 10:57:57,992 [INFO] src.agent: [ILAgent] WON — 141W / 143L
+2026-04-07 10:57:57,992 [INFO] __main__: [ILAgent] 284/500 battles | W:141 L:143
+2026-04-07 10:57:59,634 [INFO] src.agent: [ILAgent] WON — 142W / 143L
+2026-04-07 10:57:59,634 [INFO] __main__: [ILAgent] 285/500 battles | W:142 L:143
+2026-04-07 10:58:01,757 [INFO] src.agent: [ILAgent] WON — 143W / 143L
+2026-04-07 10:58:01,758 [INFO] __main__: [ILAgent] 286/500 battles | W:143 L:143
+2026-04-07 10:58:03,518 [INFO] src.agent: [ILAgent] LOST — 143W / 144L
+2026-04-07 10:58:03,519 [INFO] __main__: [ILAgent] 287/500 battles | W:143 L:144
+2026-04-07 10:58:07,034 [INFO] src.agent: [ILAgent] WON — 144W / 144L
+2026-04-07 10:58:07,034 [INFO] __main__: [ILAgent] 288/500 battles | W:144 L:144
+2026-04-07 10:58:08,938 [INFO] src.agent: [ILAgent] WON — 145W / 144L
+2026-04-07 10:58:08,939 [INFO] __main__: [ILAgent] 289/500 battles | W:145 L:144
+2026-04-07 10:58:15,093 [INFO] src.agent: [ILAgent] LOST — 145W / 145L
+2026-04-07 10:58:15,093 [INFO] __main__: [ILAgent] 290/500 battles | W:145 L:145
+2026-04-07 10:58:18,316 [INFO] src.agent: [ILAgent] WON — 146W / 145L
+2026-04-07 10:58:18,316 [INFO] __main__: [ILAgent] 291/500 battles | W:146 L:145
+2026-04-07 10:58:20,896 [INFO] src.agent: [ILAgent] WON — 147W / 145L
+2026-04-07 10:58:20,896 [INFO] __main__: [ILAgent] 292/500 battles | W:147 L:145
+2026-04-07 10:58:22,998 [INFO] src.agent: [ILAgent] WON — 148W / 145L
+2026-04-07 10:58:22,998 [INFO] __main__: [ILAgent] 293/500 battles | W:148 L:145
+2026-04-07 10:58:24,605 [INFO] src.agent: [ILAgent] WON — 149W / 145L
+2026-04-07 10:58:24,606 [INFO] __main__: [ILAgent] 294/500 battles | W:149 L:145
+2026-04-07 10:58:27,508 [INFO] src.agent: [ILAgent] WON — 150W / 145L
+2026-04-07 10:58:27,509 [INFO] __main__: [ILAgent] 295/500 battles | W:150 L:145
+2026-04-07 10:58:28,691 [INFO] src.agent: [ILAgent] WON — 151W / 145L
+2026-04-07 10:58:28,692 [INFO] __main__: [ILAgent] 296/500 battles | W:151 L:145
+2026-04-07 10:58:31,316 [INFO] src.agent: [ILAgent] WON — 152W / 145L
+2026-04-07 10:58:31,316 [INFO] __main__: [ILAgent] 297/500 battles | W:152 L:145
+2026-04-07 10:58:32,969 [INFO] src.agent: [ILAgent] WON — 153W / 145L
+2026-04-07 10:58:32,969 [INFO] __main__: [ILAgent] 298/500 battles | W:153 L:145
+2026-04-07 10:58:34,609 [INFO] src.agent: [ILAgent] WON — 154W / 145L
+2026-04-07 10:58:34,610 [INFO] __main__: [ILAgent] 299/500 battles | W:154 L:145
+2026-04-07 10:58:36,426 [INFO] src.agent: [ILAgent] WON — 155W / 145L
+2026-04-07 10:58:36,426 [INFO] __main__: [ILAgent] 300/500 battles | W:155 L:145
+2026-04-07 10:58:38,148 [INFO] src.agent: [ILAgent] WON — 156W / 145L
+2026-04-07 10:58:38,149 [INFO] __main__: [ILAgent] 301/500 battles | W:156 L:145
+2026-04-07 10:58:39,686 [INFO] src.agent: [ILAgent] LOST — 156W / 146L
+2026-04-07 10:58:39,686 [INFO] __main__: [ILAgent] 302/500 battles | W:156 L:146
+2026-04-07 10:58:40,526 [INFO] src.agent: [ILAgent] WON — 157W / 146L
+2026-04-07 10:58:40,526 [INFO] __main__: [ILAgent] 303/500 battles | W:157 L:146
+2026-04-07 10:58:43,788 [INFO] src.agent: [ILAgent] WON — 158W / 146L
+2026-04-07 10:58:43,789 [INFO] __main__: [ILAgent] 304/500 battles | W:158 L:146
+2026-04-07 10:58:46,895 [INFO] src.agent: [ILAgent] WON — 159W / 146L
+2026-04-07 10:58:46,895 [INFO] __main__: [ILAgent] 305/500 battles | W:159 L:146
+2026-04-07 10:58:48,432 [INFO] src.agent: [ILAgent] WON — 160W / 146L
+2026-04-07 10:58:48,432 [INFO] __main__: [ILAgent] 306/500 battles | W:160 L:146
+2026-04-07 10:58:50,473 [INFO] src.agent: [ILAgent] WON — 161W / 146L
+2026-04-07 10:58:50,474 [INFO] __main__: [ILAgent] 307/500 battles | W:161 L:146
+2026-04-07 10:58:52,002 [INFO] src.agent: [ILAgent] WON — 162W / 146L
+2026-04-07 10:58:52,002 [INFO] __main__: [ILAgent] 308/500 battles | W:162 L:146
+2026-04-07 10:58:54,165 [INFO] src.agent: [ILAgent] LOST — 162W / 147L
+2026-04-07 10:58:54,165 [INFO] __main__: [ILAgent] 309/500 battles | W:162 L:147
+2026-04-07 10:58:57,444 [INFO] src.agent: [ILAgent] LOST — 162W / 148L
+2026-04-07 10:58:57,445 [INFO] __main__: [ILAgent] 310/500 battles | W:162 L:148
+2026-04-07 10:58:59,267 [INFO] src.agent: [ILAgent] WON — 163W / 148L
+2026-04-07 10:58:59,267 [INFO] __main__: [ILAgent] 311/500 battles | W:163 L:148
+2026-04-07 10:59:01,108 [INFO] src.agent: [ILAgent] LOST — 163W / 149L
+2026-04-07 10:59:01,108 [INFO] __main__: [ILAgent] 312/500 battles | W:163 L:149
+2026-04-07 10:59:03,518 [INFO] src.agent: [ILAgent] LOST — 163W / 150L
+2026-04-07 10:59:03,519 [INFO] __main__: [ILAgent] 313/500 battles | W:163 L:150
+2026-04-07 10:59:06,458 [INFO] src.agent: [ILAgent] LOST — 163W / 151L
+2026-04-07 10:59:06,459 [INFO] __main__: [ILAgent] 314/500 battles | W:163 L:151
+2026-04-07 10:59:09,728 [INFO] src.agent: [ILAgent] WON — 164W / 151L
+2026-04-07 10:59:09,729 [INFO] __main__: [ILAgent] 315/500 battles | W:164 L:151
+2026-04-07 10:59:12,122 [INFO] src.agent: [ILAgent] LOST — 164W / 152L
+2026-04-07 10:59:12,122 [INFO] __main__: [ILAgent] 316/500 battles | W:164 L:152
+2026-04-07 10:59:14,391 [INFO] src.agent: [ILAgent] WON — 165W / 152L
+2026-04-07 10:59:14,392 [INFO] __main__: [ILAgent] 317/500 battles | W:165 L:152
+2026-04-07 10:59:15,825 [INFO] src.agent: [ILAgent] LOST — 165W / 153L
+2026-04-07 10:59:15,826 [INFO] __main__: [ILAgent] 318/500 battles | W:165 L:153
+2026-04-07 10:59:18,040 [INFO] src.agent: [ILAgent] LOST — 165W / 154L
+2026-04-07 10:59:18,041 [INFO] __main__: [ILAgent] 319/500 battles | W:165 L:154
+2026-04-07 10:59:19,173 [INFO] src.agent: [ILAgent] WON — 166W / 154L
+2026-04-07 10:59:19,174 [INFO] __main__: [ILAgent] 320/500 battles | W:166 L:154
+2026-04-07 10:59:24,553 [INFO] src.agent: [ILAgent] LOST — 166W / 155L
+2026-04-07 10:59:24,555 [INFO] __main__: [ILAgent] 321/500 battles | W:166 L:155
+2026-04-07 10:59:26,264 [INFO] src.agent: [ILAgent] LOST — 166W / 156L
+2026-04-07 10:59:26,264 [INFO] __main__: [ILAgent] 322/500 battles | W:166 L:156
+2026-04-07 10:59:27,832 [INFO] src.agent: [ILAgent] LOST — 166W / 157L
+2026-04-07 10:59:27,833 [INFO] __main__: [ILAgent] 323/500 battles | W:166 L:157
+2026-04-07 10:59:31,595 [INFO] src.agent: [ILAgent] WON — 167W / 157L
+2026-04-07 10:59:31,596 [INFO] __main__: [ILAgent] 324/500 battles | W:167 L:157
+2026-04-07 10:59:36,314 [INFO] src.agent: [ILAgent] LOST — 167W / 158L
+2026-04-07 10:59:36,315 [INFO] __main__: [ILAgent] 325/500 battles | W:167 L:158
+2026-04-07 10:59:40,845 [INFO] src.agent: [ILAgent] LOST — 167W / 159L
+2026-04-07 10:59:40,847 [INFO] __main__: [ILAgent] 326/500 battles | W:167 L:159
+2026-04-07 10:59:42,477 [INFO] src.agent: [ILAgent] LOST — 167W / 160L
+2026-04-07 10:59:42,478 [INFO] __main__: [ILAgent] 327/500 battles | W:167 L:160
+2026-04-07 10:59:44,822 [INFO] src.agent: [ILAgent] WON — 168W / 160L
+2026-04-07 10:59:44,823 [INFO] __main__: [ILAgent] 328/500 battles | W:168 L:160
+2026-04-07 10:59:48,779 [INFO] src.agent: [ILAgent] LOST — 168W / 161L
+2026-04-07 10:59:48,780 [INFO] __main__: [ILAgent] 329/500 battles | W:168 L:161
+2026-04-07 10:59:49,544 [INFO] src.agent: [ILAgent] WON — 169W / 161L
+2026-04-07 10:59:49,545 [INFO] __main__: [ILAgent] 330/500 battles | W:169 L:161
+2026-04-07 10:59:54,423 [INFO] src.agent: [ILAgent] LOST — 169W / 162L
+2026-04-07 10:59:54,423 [INFO] __main__: [ILAgent] 331/500 battles | W:169 L:162
+2026-04-07 10:59:57,184 [INFO] src.agent: [ILAgent] WON — 170W / 162L
+2026-04-07 10:59:57,185 [INFO] __main__: [ILAgent] 332/500 battles | W:170 L:162
+2026-04-07 10:59:59,213 [INFO] src.agent: [ILAgent] LOST — 170W / 163L
+2026-04-07 10:59:59,213 [INFO] __main__: [ILAgent] 333/500 battles | W:170 L:163
+2026-04-07 11:00:00,493 [INFO] src.agent: [ILAgent] LOST — 170W / 164L
+2026-04-07 11:00:00,494 [INFO] __main__: [ILAgent] 334/500 battles | W:170 L:164
+2026-04-07 11:00:02,641 [INFO] src.agent: [ILAgent] WON — 171W / 164L
+2026-04-07 11:00:02,641 [INFO] __main__: [ILAgent] 335/500 battles | W:171 L:164
+2026-04-07 11:00:05,438 [INFO] src.agent: [ILAgent] LOST — 171W / 165L
+2026-04-07 11:00:05,439 [INFO] __main__: [ILAgent] 336/500 battles | W:171 L:165
+2026-04-07 11:00:10,751 [INFO] src.agent: [ILAgent] WON — 172W / 165L
+2026-04-07 11:00:10,752 [INFO] __main__: [ILAgent] 337/500 battles | W:172 L:165
+2026-04-07 11:00:15,926 [INFO] src.agent: [ILAgent] WON — 173W / 165L
+2026-04-07 11:00:15,928 [INFO] __main__: [ILAgent] 338/500 battles | W:173 L:165
+2026-04-07 11:00:20,630 [INFO] src.agent: [ILAgent] WON — 174W / 165L
+2026-04-07 11:00:20,630 [INFO] __main__: [ILAgent] 339/500 battles | W:174 L:165
+2026-04-07 11:00:22,975 [INFO] src.agent: [ILAgent] WON — 175W / 165L
+2026-04-07 11:00:22,975 [INFO] __main__: [ILAgent] 340/500 battles | W:175 L:165
+2026-04-07 11:00:24,753 [INFO] src.agent: [ILAgent] LOST — 175W / 166L
+2026-04-07 11:00:24,753 [INFO] __main__: [ILAgent] 341/500 battles | W:175 L:166
+2026-04-07 11:00:27,297 [INFO] src.agent: [ILAgent] WON — 176W / 166L
+2026-04-07 11:00:27,298 [INFO] __main__: [ILAgent] 342/500 battles | W:176 L:166
+2026-04-07 11:00:31,697 [INFO] src.agent: [ILAgent] LOST — 176W / 167L
+2026-04-07 11:00:31,698 [INFO] __main__: [ILAgent] 343/500 battles | W:176 L:167
+2026-04-07 11:00:33,313 [INFO] src.agent: [ILAgent] WON — 177W / 167L
+2026-04-07 11:00:33,314 [INFO] __main__: [ILAgent] 344/500 battles | W:177 L:167
+2026-04-07 11:00:36,172 [INFO] src.agent: [ILAgent] LOST — 177W / 168L
+2026-04-07 11:00:36,172 [INFO] __main__: [ILAgent] 345/500 battles | W:177 L:168
+2026-04-07 11:00:37,779 [INFO] src.agent: [ILAgent] LOST — 177W / 169L
+2026-04-07 11:00:37,780 [INFO] __main__: [ILAgent] 346/500 battles | W:177 L:169
+2026-04-07 11:00:40,176 [INFO] src.agent: [ILAgent] WON — 178W / 169L
+2026-04-07 11:00:40,177 [INFO] __main__: [ILAgent] 347/500 battles | W:178 L:169
+2026-04-07 11:00:43,944 [INFO] src.agent: [ILAgent] WON — 179W / 169L
+2026-04-07 11:00:43,944 [INFO] __main__: [ILAgent] 348/500 battles | W:179 L:169
+2026-04-07 11:00:46,591 [INFO] src.agent: [ILAgent] LOST — 179W / 170L
+2026-04-07 11:00:46,592 [INFO] __main__: [ILAgent] 349/500 battles | W:179 L:170
+2026-04-07 11:00:48,323 [INFO] src.agent: [ILAgent] LOST — 179W / 171L
+2026-04-07 11:00:48,324 [INFO] __main__: [ILAgent] 350/500 battles | W:179 L:171
+2026-04-07 11:00:49,497 [INFO] src.agent: [ILAgent] WON — 180W / 171L
+2026-04-07 11:00:49,498 [INFO] __main__: [ILAgent] 351/500 battles | W:180 L:171
+2026-04-07 11:00:54,791 [INFO] src.agent: [ILAgent] WON — 181W / 171L
+2026-04-07 11:00:54,792 [INFO] __main__: [ILAgent] 352/500 battles | W:181 L:171
+2026-04-07 11:00:57,042 [INFO] src.agent: [ILAgent] WON — 182W / 171L
+2026-04-07 11:00:57,043 [INFO] __main__: [ILAgent] 353/500 battles | W:182 L:171
+2026-04-07 11:00:58,637 [INFO] src.agent: [ILAgent] LOST — 182W / 172L
+2026-04-07 11:00:58,637 [INFO] __main__: [ILAgent] 354/500 battles | W:182 L:172
+2026-04-07 11:00:59,890 [INFO] src.agent: [ILAgent] LOST — 182W / 173L
+2026-04-07 11:00:59,891 [INFO] __main__: [ILAgent] 355/500 battles | W:182 L:173
+2026-04-07 11:01:01,894 [INFO] src.agent: [ILAgent] LOST — 182W / 174L
+2026-04-07 11:01:01,895 [INFO] __main__: [ILAgent] 356/500 battles | W:182 L:174
+2026-04-07 11:01:04,261 [INFO] src.agent: [ILAgent] WON — 183W / 174L
+2026-04-07 11:01:04,262 [INFO] __main__: [ILAgent] 357/500 battles | W:183 L:174
+2026-04-07 11:01:06,847 [INFO] src.agent: [ILAgent] WON — 184W / 174L
+2026-04-07 11:01:06,848 [INFO] __main__: [ILAgent] 358/500 battles | W:184 L:174
+2026-04-07 11:01:08,588 [INFO] src.agent: [ILAgent] WON — 185W / 174L
+2026-04-07 11:01:08,589 [INFO] __main__: [ILAgent] 359/500 battles | W:185 L:174
+2026-04-07 11:01:11,894 [INFO] src.agent: [ILAgent] LOST — 185W / 175L
+2026-04-07 11:01:11,895 [INFO] __main__: [ILAgent] 360/500 battles | W:185 L:175
+2026-04-07 11:01:13,177 [INFO] src.agent: [ILAgent] LOST — 185W / 176L
+2026-04-07 11:01:13,178 [INFO] __main__: [ILAgent] 361/500 battles | W:185 L:176
+2026-04-07 11:01:15,859 [INFO] src.agent: [ILAgent] LOST — 185W / 177L
+2026-04-07 11:01:15,861 [INFO] __main__: [ILAgent] 362/500 battles | W:185 L:177
+2026-04-07 11:01:16,957 [INFO] src.agent: [ILAgent] WON — 186W / 177L
+2026-04-07 11:01:16,958 [INFO] __main__: [ILAgent] 363/500 battles | W:186 L:177
+2026-04-07 11:01:20,776 [INFO] src.agent: [ILAgent] WON — 187W / 177L
+2026-04-07 11:01:20,776 [INFO] __main__: [ILAgent] 364/500 battles | W:187 L:177
+2026-04-07 11:01:22,335 [INFO] src.agent: [ILAgent] WON — 188W / 177L
+2026-04-07 11:01:22,335 [INFO] __main__: [ILAgent] 365/500 battles | W:188 L:177
+2026-04-07 11:01:25,422 [INFO] src.agent: [ILAgent] LOST — 188W / 178L
+2026-04-07 11:01:25,423 [INFO] __main__: [ILAgent] 366/500 battles | W:188 L:178
+2026-04-07 11:01:26,607 [INFO] src.agent: [ILAgent] WON — 189W / 178L
+2026-04-07 11:01:26,608 [INFO] __main__: [ILAgent] 367/500 battles | W:189 L:178
+2026-04-07 11:01:28,583 [INFO] src.agent: [ILAgent] LOST — 189W / 179L
+2026-04-07 11:01:28,584 [INFO] __main__: [ILAgent] 368/500 battles | W:189 L:179
+2026-04-07 11:01:31,882 [INFO] src.agent: [ILAgent] WON — 190W / 179L
+2026-04-07 11:01:31,883 [INFO] __main__: [ILAgent] 369/500 battles | W:190 L:179
+2026-04-07 11:01:33,493 [INFO] src.agent: [ILAgent] WON — 191W / 179L
+2026-04-07 11:01:33,494 [INFO] __main__: [ILAgent] 370/500 battles | W:191 L:179
+2026-04-07 11:01:35,958 [INFO] src.agent: [ILAgent] LOST — 191W / 180L
+2026-04-07 11:01:35,959 [INFO] __main__: [ILAgent] 371/500 battles | W:191 L:180
+2026-04-07 11:01:38,291 [INFO] src.agent: [ILAgent] WON — 192W / 180L
+2026-04-07 11:01:38,292 [INFO] __main__: [ILAgent] 372/500 battles | W:192 L:180
+2026-04-07 11:01:41,224 [INFO] src.agent: [ILAgent] WON — 193W / 180L
+2026-04-07 11:01:41,224 [INFO] __main__: [ILAgent] 373/500 battles | W:193 L:180
+2026-04-07 11:01:42,768 [INFO] src.agent: [ILAgent] LOST — 193W / 181L
+2026-04-07 11:01:42,769 [INFO] __main__: [ILAgent] 374/500 battles | W:193 L:181
+2026-04-07 11:01:44,533 [INFO] src.agent: [ILAgent] WON — 194W / 181L
+2026-04-07 11:01:44,533 [INFO] __main__: [ILAgent] 375/500 battles | W:194 L:181
+2026-04-07 11:01:49,676 [INFO] src.agent: [ILAgent] LOST — 194W / 182L
+2026-04-07 11:01:49,676 [INFO] __main__: [ILAgent] 376/500 battles | W:194 L:182
+2026-04-07 11:01:50,830 [INFO] src.agent: [ILAgent] WON — 195W / 182L
+2026-04-07 11:01:50,830 [INFO] __main__: [ILAgent] 377/500 battles | W:195 L:182
+2026-04-07 11:01:54,017 [INFO] src.agent: [ILAgent] WON — 196W / 182L
+2026-04-07 11:01:54,018 [INFO] __main__: [ILAgent] 378/500 battles | W:196 L:182
+2026-04-07 11:01:56,467 [INFO] src.agent: [ILAgent] WON — 197W / 182L
+2026-04-07 11:01:56,468 [INFO] __main__: [ILAgent] 379/500 battles | W:197 L:182
+2026-04-07 11:01:59,378 [INFO] src.agent: [ILAgent] WON — 198W / 182L
+2026-04-07 11:01:59,379 [INFO] __main__: [ILAgent] 380/500 battles | W:198 L:182
+2026-04-07 11:02:00,944 [INFO] src.agent: [ILAgent] LOST — 198W / 183L
+2026-04-07 11:02:00,944 [INFO] __main__: [ILAgent] 381/500 battles | W:198 L:183
+2026-04-07 11:02:02,778 [INFO] src.agent: [ILAgent] WON — 199W / 183L
+2026-04-07 11:02:02,778 [INFO] __main__: [ILAgent] 382/500 battles | W:199 L:183
+2026-04-07 11:02:05,341 [INFO] src.agent: [ILAgent] WON — 200W / 183L
+2026-04-07 11:02:05,342 [INFO] __main__: [ILAgent] 383/500 battles | W:200 L:183
+2026-04-07 11:02:07,158 [INFO] src.agent: [ILAgent] WON — 201W / 183L
+2026-04-07 11:02:07,159 [INFO] __main__: [ILAgent] 384/500 battles | W:201 L:183
+2026-04-07 11:02:10,164 [INFO] src.agent: [ILAgent] LOST — 201W / 184L
+2026-04-07 11:02:10,164 [INFO] __main__: [ILAgent] 385/500 battles | W:201 L:184
+2026-04-07 11:02:13,622 [INFO] src.agent: [ILAgent] WON — 202W / 184L
+2026-04-07 11:02:13,623 [INFO] __main__: [ILAgent] 386/500 battles | W:202 L:184
+2026-04-07 11:02:17,391 [INFO] src.agent: [ILAgent] WON — 203W / 184L
+2026-04-07 11:02:17,392 [INFO] __main__: [ILAgent] 387/500 battles | W:203 L:184
+2026-04-07 11:02:18,142 [INFO] src.agent: [ILAgent] WON — 204W / 184L
+2026-04-07 11:02:18,142 [INFO] __main__: [ILAgent] 388/500 battles | W:204 L:184
+2026-04-07 11:02:20,085 [INFO] src.agent: [ILAgent] WON — 205W / 184L
+2026-04-07 11:02:20,086 [INFO] __main__: [ILAgent] 389/500 battles | W:205 L:184
+2026-04-07 11:02:21,504 [INFO] src.agent: [ILAgent] LOST — 205W / 185L
+2026-04-07 11:02:21,505 [INFO] __main__: [ILAgent] 390/500 battles | W:205 L:185
+2026-04-07 11:02:23,484 [INFO] src.agent: [ILAgent] LOST — 205W / 186L
+2026-04-07 11:02:23,485 [INFO] __main__: [ILAgent] 391/500 battles | W:205 L:186
+2026-04-07 11:02:24,818 [INFO] src.agent: [ILAgent] WON — 206W / 186L
+2026-04-07 11:02:24,819 [INFO] __main__: [ILAgent] 392/500 battles | W:206 L:186
+2026-04-07 11:02:27,713 [INFO] src.agent: [ILAgent] WON — 207W / 186L
+2026-04-07 11:02:27,714 [INFO] __main__: [ILAgent] 393/500 battles | W:207 L:186
+2026-04-07 11:02:29,240 [INFO] src.agent: [ILAgent] WON — 208W / 186L
+2026-04-07 11:02:29,241 [INFO] __main__: [ILAgent] 394/500 battles | W:208 L:186
+2026-04-07 11:02:32,068 [INFO] src.agent: [ILAgent] WON — 209W / 186L
+2026-04-07 11:02:32,069 [INFO] __main__: [ILAgent] 395/500 battles | W:209 L:186
+2026-04-07 11:02:33,564 [INFO] src.agent: [ILAgent] LOST — 209W / 187L
+2026-04-07 11:02:33,564 [INFO] __main__: [ILAgent] 396/500 battles | W:209 L:187
+2026-04-07 11:02:35,131 [INFO] src.agent: [ILAgent] WON — 210W / 187L
+2026-04-07 11:02:35,132 [INFO] __main__: [ILAgent] 397/500 battles | W:210 L:187
+2026-04-07 11:02:37,095 [INFO] src.agent: [ILAgent] LOST — 210W / 188L
+2026-04-07 11:02:37,096 [INFO] __main__: [ILAgent] 398/500 battles | W:210 L:188
+2026-04-07 11:02:40,513 [INFO] src.agent: [ILAgent] WON — 211W / 188L
+2026-04-07 11:02:40,514 [INFO] __main__: [ILAgent] 399/500 battles | W:211 L:188
+2026-04-07 11:02:44,733 [INFO] src.agent: [ILAgent] WON — 212W / 188L
+2026-04-07 11:02:44,734 [INFO] __main__: [ILAgent] 400/500 battles | W:212 L:188
+2026-04-07 11:02:47,871 [INFO] src.agent: [ILAgent] LOST — 212W / 189L
+2026-04-07 11:02:47,871 [INFO] __main__: [ILAgent] 401/500 battles | W:212 L:189
+2026-04-07 11:02:49,875 [INFO] src.agent: [ILAgent] LOST — 212W / 190L
+2026-04-07 11:02:49,876 [INFO] __main__: [ILAgent] 402/500 battles | W:212 L:190
+2026-04-07 11:02:53,371 [INFO] src.agent: [ILAgent] WON — 213W / 190L
+2026-04-07 11:02:53,371 [INFO] __main__: [ILAgent] 403/500 battles | W:213 L:190
+2026-04-07 11:02:57,171 [INFO] src.agent: [ILAgent] LOST — 213W / 191L
+2026-04-07 11:02:57,172 [INFO] __main__: [ILAgent] 404/500 battles | W:213 L:191
+2026-04-07 11:03:01,009 [INFO] src.agent: [ILAgent] LOST — 213W / 192L
+2026-04-07 11:03:01,009 [INFO] __main__: [ILAgent] 405/500 battles | W:213 L:192
+2026-04-07 11:03:05,475 [INFO] src.agent: [ILAgent] WON — 214W / 192L
+2026-04-07 11:03:05,475 [INFO] __main__: [ILAgent] 406/500 battles | W:214 L:192
+2026-04-07 11:03:06,575 [INFO] src.agent: [ILAgent] WON — 215W / 192L
+2026-04-07 11:03:06,575 [INFO] __main__: [ILAgent] 407/500 battles | W:215 L:192
+2026-04-07 11:03:09,823 [INFO] src.agent: [ILAgent] LOST — 215W / 193L
+2026-04-07 11:03:09,824 [INFO] __main__: [ILAgent] 408/500 battles | W:215 L:193
+2026-04-07 11:03:12,222 [INFO] src.agent: [ILAgent] WON — 216W / 193L
+2026-04-07 11:03:12,223 [INFO] __main__: [ILAgent] 409/500 battles | W:216 L:193
+2026-04-07 11:03:13,830 [INFO] src.agent: [ILAgent] WON — 217W / 193L
+2026-04-07 11:03:13,830 [INFO] __main__: [ILAgent] 410/500 battles | W:217 L:193
+2026-04-07 11:03:16,414 [INFO] src.agent: [ILAgent] WON — 218W / 193L
+2026-04-07 11:03:16,415 [INFO] __main__: [ILAgent] 411/500 battles | W:218 L:193
+2026-04-07 11:03:17,680 [INFO] src.agent: [ILAgent] WON — 219W / 193L
+2026-04-07 11:03:17,680 [INFO] __main__: [ILAgent] 412/500 battles | W:219 L:193
+2026-04-07 11:03:19,605 [INFO] src.agent: [ILAgent] WON — 220W / 193L
+2026-04-07 11:03:19,606 [INFO] __main__: [ILAgent] 413/500 battles | W:220 L:193
+2026-04-07 11:03:23,582 [INFO] src.agent: [ILAgent] LOST — 220W / 194L
+2026-04-07 11:03:23,583 [INFO] __main__: [ILAgent] 414/500 battles | W:220 L:194
+2026-04-07 11:03:25,066 [INFO] src.agent: [ILAgent] LOST — 220W / 195L
+2026-04-07 11:03:25,067 [INFO] __main__: [ILAgent] 415/500 battles | W:220 L:195
+2026-04-07 11:03:27,263 [INFO] src.agent: [ILAgent] WON — 221W / 195L
+2026-04-07 11:03:27,264 [INFO] __main__: [ILAgent] 416/500 battles | W:221 L:195
+2026-04-07 11:03:29,615 [INFO] src.agent: [ILAgent] WON — 222W / 195L
+2026-04-07 11:03:29,616 [INFO] __main__: [ILAgent] 417/500 battles | W:222 L:195
+2026-04-07 11:03:30,693 [INFO] src.agent: [ILAgent] WON — 223W / 195L
+2026-04-07 11:03:30,693 [INFO] __main__: [ILAgent] 418/500 battles | W:223 L:195
+2026-04-07 11:03:32,247 [INFO] src.agent: [ILAgent] WON — 224W / 195L
+2026-04-07 11:03:32,247 [INFO] __main__: [ILAgent] 419/500 battles | W:224 L:195
+2026-04-07 11:03:33,548 [INFO] src.agent: [ILAgent] WON — 225W / 195L
+2026-04-07 11:03:33,548 [INFO] __main__: [ILAgent] 420/500 battles | W:225 L:195
+2026-04-07 11:03:34,840 [INFO] src.agent: [ILAgent] WON — 226W / 195L
+2026-04-07 11:03:34,841 [INFO] __main__: [ILAgent] 421/500 battles | W:226 L:195
+2026-04-07 11:03:38,185 [INFO] src.agent: [ILAgent] LOST — 226W / 196L
+2026-04-07 11:03:38,186 [INFO] __main__: [ILAgent] 422/500 battles | W:226 L:196
+2026-04-07 11:03:41,053 [INFO] src.agent: [ILAgent] WON — 227W / 196L
+2026-04-07 11:03:41,054 [INFO] __main__: [ILAgent] 423/500 battles | W:227 L:196
+2026-04-07 11:03:42,134 [INFO] src.agent: [ILAgent] LOST — 227W / 197L
+2026-04-07 11:03:42,135 [INFO] __main__: [ILAgent] 424/500 battles | W:227 L:197
+2026-04-07 11:03:44,003 [INFO] src.agent: [ILAgent] LOST — 227W / 198L
+2026-04-07 11:03:44,004 [INFO] __main__: [ILAgent] 425/500 battles | W:227 L:198
+2026-04-07 11:03:48,025 [INFO] src.agent: [ILAgent] WON — 228W / 198L
+2026-04-07 11:03:48,026 [INFO] __main__: [ILAgent] 426/500 battles | W:228 L:198
+2026-04-07 11:03:51,903 [INFO] src.agent: [ILAgent] WON — 229W / 198L
+2026-04-07 11:03:51,903 [INFO] __main__: [ILAgent] 427/500 battles | W:229 L:198
+2026-04-07 11:03:54,298 [INFO] src.agent: [ILAgent] LOST — 229W / 199L
+2026-04-07 11:03:54,299 [INFO] __main__: [ILAgent] 428/500 battles | W:229 L:199
+2026-04-07 11:03:55,524 [INFO] src.agent: [ILAgent] WON — 230W / 199L
+2026-04-07 11:03:55,525 [INFO] __main__: [ILAgent] 429/500 battles | W:230 L:199
+2026-04-07 11:03:58,995 [INFO] src.agent: [ILAgent] LOST — 230W / 200L
+2026-04-07 11:03:58,996 [INFO] __main__: [ILAgent] 430/500 battles | W:230 L:200
+2026-04-07 11:04:01,199 [INFO] src.agent: [ILAgent] LOST — 230W / 201L
+2026-04-07 11:04:01,200 [INFO] __main__: [ILAgent] 431/500 battles | W:230 L:201
+2026-04-07 11:04:02,970 [INFO] src.agent: [ILAgent] WON — 231W / 201L
+2026-04-07 11:04:02,971 [INFO] __main__: [ILAgent] 432/500 battles | W:231 L:201
+2026-04-07 11:04:05,361 [INFO] src.agent: [ILAgent] LOST — 231W / 202L
+2026-04-07 11:04:05,362 [INFO] __main__: [ILAgent] 433/500 battles | W:231 L:202
+2026-04-07 11:04:07,788 [INFO] src.agent: [ILAgent] WON — 232W / 202L
+2026-04-07 11:04:07,789 [INFO] __main__: [ILAgent] 434/500 battles | W:232 L:202
+2026-04-07 11:04:11,818 [INFO] src.agent: [ILAgent] WON — 233W / 202L
+2026-04-07 11:04:11,819 [INFO] __main__: [ILAgent] 435/500 battles | W:233 L:202
+2026-04-07 11:04:13,822 [INFO] src.agent: [ILAgent] LOST — 233W / 203L
+2026-04-07 11:04:13,823 [INFO] __main__: [ILAgent] 436/500 battles | W:233 L:203
+2026-04-07 11:04:18,248 [INFO] src.agent: [ILAgent] LOST — 233W / 204L
+2026-04-07 11:04:18,249 [INFO] __main__: [ILAgent] 437/500 battles | W:233 L:204
+2026-04-07 11:04:20,457 [INFO] src.agent: [ILAgent] LOST — 233W / 205L
+2026-04-07 11:04:20,458 [INFO] __main__: [ILAgent] 438/500 battles | W:233 L:205
+2026-04-07 11:04:22,694 [INFO] src.agent: [ILAgent] WON — 234W / 205L
+2026-04-07 11:04:22,694 [INFO] __main__: [ILAgent] 439/500 battles | W:234 L:205
+2026-04-07 11:04:24,877 [INFO] src.agent: [ILAgent] WON — 235W / 205L
+2026-04-07 11:04:24,877 [INFO] __main__: [ILAgent] 440/500 battles | W:235 L:205
+2026-04-07 11:04:26,777 [INFO] src.agent: [ILAgent] WON — 236W / 205L
+2026-04-07 11:04:26,777 [INFO] __main__: [ILAgent] 441/500 battles | W:236 L:205
+2026-04-07 11:04:28,443 [INFO] src.agent: [ILAgent] WON — 237W / 205L
+2026-04-07 11:04:28,443 [INFO] __main__: [ILAgent] 442/500 battles | W:237 L:205
+2026-04-07 11:04:29,939 [INFO] src.agent: [ILAgent] WON — 238W / 205L
+2026-04-07 11:04:29,939 [INFO] __main__: [ILAgent] 443/500 battles | W:238 L:205
+2026-04-07 11:04:33,499 [INFO] src.agent: [ILAgent] WON — 239W / 205L
+2026-04-07 11:04:33,500 [INFO] __main__: [ILAgent] 444/500 battles | W:239 L:205
+2026-04-07 11:04:35,561 [INFO] src.agent: [ILAgent] LOST — 239W / 206L
+2026-04-07 11:04:35,562 [INFO] __main__: [ILAgent] 445/500 battles | W:239 L:206
+2026-04-07 11:04:37,404 [INFO] src.agent: [ILAgent] WON — 240W / 206L
+2026-04-07 11:04:37,404 [INFO] __main__: [ILAgent] 446/500 battles | W:240 L:206
+2026-04-07 11:04:39,812 [INFO] src.agent: [ILAgent] LOST — 240W / 207L
+2026-04-07 11:04:39,812 [INFO] __main__: [ILAgent] 447/500 battles | W:240 L:207
+2026-04-07 11:04:41,130 [INFO] src.agent: [ILAgent] LOST — 240W / 208L
+2026-04-07 11:04:41,130 [INFO] __main__: [ILAgent] 448/500 battles | W:240 L:208
+2026-04-07 11:04:43,357 [INFO] src.agent: [ILAgent] WON — 241W / 208L
+2026-04-07 11:04:43,358 [INFO] __main__: [ILAgent] 449/500 battles | W:241 L:208
+2026-04-07 11:04:44,793 [INFO] src.agent: [ILAgent] WON — 242W / 208L
+2026-04-07 11:04:44,794 [INFO] __main__: [ILAgent] 450/500 battles | W:242 L:208
+2026-04-07 11:04:46,655 [INFO] src.agent: [ILAgent] WON — 243W / 208L
+2026-04-07 11:04:46,655 [INFO] __main__: [ILAgent] 451/500 battles | W:243 L:208
+2026-04-07 11:04:48,634 [INFO] src.agent: [ILAgent] WON — 244W / 208L
+2026-04-07 11:04:48,636 [INFO] __main__: [ILAgent] 452/500 battles | W:244 L:208
+2026-04-07 11:04:50,804 [INFO] src.agent: [ILAgent] WON — 245W / 208L
+2026-04-07 11:04:50,805 [INFO] __main__: [ILAgent] 453/500 battles | W:245 L:208
+2026-04-07 11:04:52,244 [INFO] src.agent: [ILAgent] WON — 246W / 208L
+2026-04-07 11:04:52,245 [INFO] __main__: [ILAgent] 454/500 battles | W:246 L:208
+2026-04-07 11:04:55,363 [INFO] src.agent: [ILAgent] WON — 247W / 208L
+2026-04-07 11:04:55,364 [INFO] __main__: [ILAgent] 455/500 battles | W:247 L:208
+2026-04-07 11:04:59,233 [INFO] src.agent: [ILAgent] WON — 248W / 208L
+2026-04-07 11:04:59,238 [INFO] __main__: [ILAgent] 456/500 battles | W:248 L:208
+2026-04-07 11:05:02,736 [INFO] src.agent: [ILAgent] LOST — 248W / 209L
+2026-04-07 11:05:02,741 [INFO] __main__: [ILAgent] 457/500 battles | W:248 L:209
+2026-04-07 11:05:05,151 [INFO] src.agent: [ILAgent] WON — 249W / 209L
+2026-04-07 11:05:05,151 [INFO] __main__: [ILAgent] 458/500 battles | W:249 L:209
+2026-04-07 11:05:06,557 [INFO] src.agent: [ILAgent] LOST — 249W / 210L
+2026-04-07 11:05:06,558 [INFO] __main__: [ILAgent] 459/500 battles | W:249 L:210
+2026-04-07 11:05:08,986 [INFO] src.agent: [ILAgent] WON — 250W / 210L
+2026-04-07 11:05:08,987 [INFO] __main__: [ILAgent] 460/500 battles | W:250 L:210
+2026-04-07 11:05:10,344 [INFO] src.agent: [ILAgent] WON — 251W / 210L
+2026-04-07 11:05:10,345 [INFO] __main__: [ILAgent] 461/500 battles | W:251 L:210
+2026-04-07 11:05:12,845 [INFO] src.agent: [ILAgent] LOST — 251W / 211L
+2026-04-07 11:05:12,846 [INFO] __main__: [ILAgent] 462/500 battles | W:251 L:211
+2026-04-07 11:05:14,982 [INFO] src.agent: [ILAgent] WON — 252W / 211L
+2026-04-07 11:05:14,983 [INFO] __main__: [ILAgent] 463/500 battles | W:252 L:211
+2026-04-07 11:05:16,639 [INFO] src.agent: [ILAgent] LOST — 252W / 212L
+2026-04-07 11:05:16,639 [INFO] __main__: [ILAgent] 464/500 battles | W:252 L:212
+2026-04-07 11:05:20,083 [INFO] src.agent: [ILAgent] LOST — 252W / 213L
+2026-04-07 11:05:20,084 [INFO] __main__: [ILAgent] 465/500 battles | W:252 L:213
+2026-04-07 11:05:22,814 [INFO] src.agent: [ILAgent] WON — 253W / 213L
+2026-04-07 11:05:22,814 [INFO] __main__: [ILAgent] 466/500 battles | W:253 L:213
+2026-04-07 11:05:25,150 [INFO] src.agent: [ILAgent] LOST — 253W / 214L
+2026-04-07 11:05:25,150 [INFO] __main__: [ILAgent] 467/500 battles | W:253 L:214
+2026-04-07 11:05:26,671 [INFO] src.agent: [ILAgent] LOST — 253W / 215L
+2026-04-07 11:05:26,671 [INFO] __main__: [ILAgent] 468/500 battles | W:253 L:215
+2026-04-07 11:05:30,874 [INFO] src.agent: [ILAgent] LOST — 253W / 216L
+2026-04-07 11:05:30,874 [INFO] __main__: [ILAgent] 469/500 battles | W:253 L:216
+2026-04-07 11:05:32,464 [INFO] src.agent: [ILAgent] LOST — 253W / 217L
+2026-04-07 11:05:32,465 [INFO] __main__: [ILAgent] 470/500 battles | W:253 L:217
+2026-04-07 11:05:34,880 [INFO] src.agent: [ILAgent] LOST — 253W / 218L
+2026-04-07 11:05:34,880 [INFO] __main__: [ILAgent] 471/500 battles | W:253 L:218
+2026-04-07 11:05:38,242 [INFO] src.agent: [ILAgent] LOST — 253W / 219L
+2026-04-07 11:05:38,243 [INFO] __main__: [ILAgent] 472/500 battles | W:253 L:219
+2026-04-07 11:05:40,483 [INFO] src.agent: [ILAgent] LOST — 253W / 220L
+2026-04-07 11:05:40,484 [INFO] __main__: [ILAgent] 473/500 battles | W:253 L:220
+2026-04-07 11:05:45,484 [INFO] src.agent: [ILAgent] WON — 254W / 220L
+2026-04-07 11:05:45,485 [INFO] __main__: [ILAgent] 474/500 battles | W:254 L:220
+2026-04-07 11:05:48,017 [INFO] src.agent: [ILAgent] LOST — 254W / 221L
+2026-04-07 11:05:48,018 [INFO] __main__: [ILAgent] 475/500 battles | W:254 L:221
+2026-04-07 11:05:50,201 [INFO] src.agent: [ILAgent] WON — 255W / 221L
+2026-04-07 11:05:50,202 [INFO] __main__: [ILAgent] 476/500 battles | W:255 L:221
+2026-04-07 11:05:51,863 [INFO] src.agent: [ILAgent] WON — 256W / 221L
+2026-04-07 11:05:51,863 [INFO] __main__: [ILAgent] 477/500 battles | W:256 L:221
+2026-04-07 11:05:53,880 [INFO] src.agent: [ILAgent] WON — 257W / 221L
+2026-04-07 11:05:53,881 [INFO] __main__: [ILAgent] 478/500 battles | W:257 L:221
+2026-04-07 11:05:56,070 [INFO] src.agent: [ILAgent] LOST — 257W / 222L
+2026-04-07 11:05:56,070 [INFO] __main__: [ILAgent] 479/500 battles | W:257 L:222
+2026-04-07 11:05:58,687 [INFO] src.agent: [ILAgent] WON — 258W / 222L
+2026-04-07 11:05:58,688 [INFO] __main__: [ILAgent] 480/500 battles | W:258 L:222
+2026-04-07 11:06:00,538 [INFO] src.agent: [ILAgent] LOST — 258W / 223L
+2026-04-07 11:06:00,538 [INFO] __main__: [ILAgent] 481/500 battles | W:258 L:223
+2026-04-07 11:06:02,449 [INFO] src.agent: [ILAgent] LOST — 258W / 224L
+2026-04-07 11:06:02,449 [INFO] __main__: [ILAgent] 482/500 battles | W:258 L:224
+2026-04-07 11:06:06,587 [INFO] src.agent: [ILAgent] WON — 259W / 224L
+2026-04-07 11:06:06,588 [INFO] __main__: [ILAgent] 483/500 battles | W:259 L:224
+2026-04-07 11:06:08,139 [INFO] src.agent: [ILAgent] WON — 260W / 224L
+2026-04-07 11:06:08,140 [INFO] __main__: [ILAgent] 484/500 battles | W:260 L:224
+2026-04-07 11:06:10,640 [INFO] src.agent: [ILAgent] LOST — 260W / 225L
+2026-04-07 11:06:10,640 [INFO] __main__: [ILAgent] 485/500 battles | W:260 L:225
+2026-04-07 11:06:12,075 [INFO] src.agent: [ILAgent] LOST — 260W / 226L
+2026-04-07 11:06:12,076 [INFO] __main__: [ILAgent] 486/500 battles | W:260 L:226
+2026-04-07 11:06:14,009 [INFO] src.agent: [ILAgent] LOST — 260W / 227L
+2026-04-07 11:06:14,009 [INFO] __main__: [ILAgent] 487/500 battles | W:260 L:227
+2026-04-07 11:06:15,484 [INFO] src.agent: [ILAgent] WON — 261W / 227L
+2026-04-07 11:06:15,485 [INFO] __main__: [ILAgent] 488/500 battles | W:261 L:227
+2026-04-07 11:06:17,483 [INFO] src.agent: [ILAgent] LOST — 261W / 228L
+2026-04-07 11:06:17,483 [INFO] __main__: [ILAgent] 489/500 battles | W:261 L:228
+2026-04-07 11:06:21,306 [INFO] src.agent: [ILAgent] LOST — 261W / 229L
+2026-04-07 11:06:21,306 [INFO] __main__: [ILAgent] 490/500 battles | W:261 L:229
+2026-04-07 11:06:22,793 [INFO] src.agent: [ILAgent] WON — 262W / 229L
+2026-04-07 11:06:22,794 [INFO] __main__: [ILAgent] 491/500 battles | W:262 L:229
+2026-04-07 11:06:24,202 [INFO] src.agent: [ILAgent] LOST — 262W / 230L
+2026-04-07 11:06:24,203 [INFO] __main__: [ILAgent] 492/500 battles | W:262 L:230
+2026-04-07 11:06:25,662 [INFO] src.agent: [ILAgent] WON — 263W / 230L
+2026-04-07 11:06:25,663 [INFO] __main__: [ILAgent] 493/500 battles | W:263 L:230
+2026-04-07 11:06:27,795 [INFO] src.agent: [ILAgent] LOST — 263W / 231L
+2026-04-07 11:06:27,796 [INFO] __main__: [ILAgent] 494/500 battles | W:263 L:231
+2026-04-07 11:06:30,066 [INFO] src.agent: [ILAgent] LOST — 263W / 232L
+2026-04-07 11:06:30,067 [INFO] __main__: [ILAgent] 495/500 battles | W:263 L:232
+2026-04-07 11:06:33,357 [INFO] src.agent: [ILAgent] WON — 264W / 232L
+2026-04-07 11:06:33,357 [INFO] __main__: [ILAgent] 496/500 battles | W:264 L:232
+2026-04-07 11:06:35,574 [INFO] src.agent: [ILAgent] WON — 265W / 232L
+2026-04-07 11:06:35,576 [INFO] __main__: [ILAgent] 497/500 battles | W:265 L:232
+2026-04-07 11:06:36,884 [INFO] src.agent: [ILAgent] LOST — 265W / 233L
+2026-04-07 11:06:36,885 [INFO] __main__: [ILAgent] 498/500 battles | W:265 L:233
+2026-04-07 11:06:38,110 [INFO] src.agent: [ILAgent] WON — 266W / 233L
+2026-04-07 11:06:38,110 [INFO] __main__: [ILAgent] 499/500 battles | W:266 L:233
+2026-04-07 11:06:40,150 [INFO] src.agent: [ILAgent] LOST — 266W / 234L
+2026-04-07 11:06:40,151 [INFO] __main__: [ILAgent] 500/500 battles | W:266 L:234
+2026-04-07 11:06:40,152 [INFO] __main__: IL agent session finished.
