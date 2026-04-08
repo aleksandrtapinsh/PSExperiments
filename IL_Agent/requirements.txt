@@ -1,0 +1,4 @@
+poke-env>=0.9.0
+numpy>=1.24.0
+pyyaml>=6.0
+tensorflow>=2.13.0

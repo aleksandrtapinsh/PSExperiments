@@ -1,0 +1,23 @@
+# ============================================================
+# Pokemon Showdown IL Agent Configuration
+# ============================================================
+
+server:
+  websocket_url: "ws://showdown.sasha-tapinsh.online:8000/showdown/websocket"
+  auth_url: "http://showdown.sasha-tapinsh.online:8000/~~showdown/action.php?"
+  battle_format: "gen9randombattle"
+  # IL agent's username on the server
+  il_agent_username: "IL_Agent_1"
+  # RL agent's username (used for vs_rl mode reference)
+  rl_agent_username: "RL_Agent_2"
+
+model:
+  # Paths relative to the IL_Agent project root
+  move_model_path: "models/move_model.keras"
+  switch_model_path: "models/switch_model.keras"
+
+battle:
+  total_vs_battles: 500
+
+logging:
+  log_dir: "logs"
