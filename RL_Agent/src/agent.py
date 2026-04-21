@@ -398,7 +398,7 @@ class PokeAgent:
 
         async def _challenge_loop():
             nonlocal battles_played
-            while battles_played < t_cfg["total_vs_bettles"]:
+            while battles_played < t_cfg["total_vs_battles"]:
                 
                 #Actively send a challenge to the IL bot and wait for it to accept.
                 await runner.send_challenges(

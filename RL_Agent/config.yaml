@@ -5,9 +5,9 @@
 # --- Server ---
 server:
   # WebSocket endpoint for the private Showdown server
-  websocket_url: "ws://sasha-tapinsh.online:8000/showdown/websocket"
+  websocket_url: "ws://showdown.sasha-tapinsh.online:8000/showdown/websocket"
   # Auth endpoint — points to local server (--no-security: no registration required)
-  auth_url: "http://sasha-tapinsh.online:8000/~~showdown/action.php?"
+  auth_url: "http://showdown.sasha-tapinsh.online:8000/~~showdown/action.php?"
   # Battle format (gen9 Random Battle)
   battle_format: "gen9randombattle"
   # Player usernames (no passwords needed with --no-security)

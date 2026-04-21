@@ -12,6 +12,8 @@ Usage:
 import json
 import re
 import argparse
+import time
+import urllib.request
 import uuid
 from pathlib import Path
 from dataclasses import dataclass, field, asdict
@@ -475,23 +477,26 @@ class BattleState:
 
         pmon = self.teams[player][species]
         pmon.hp_frac = hp_frac
-        pmon.is_active = True
 
         # Deactivate previous active
         prev = self.active[player]
         if prev and prev in self.teams[player]:
             self.teams[player][prev].is_active = False
 
+        # Emit the force-switch record BEFORE making the incoming pokemon active.
+        # The snapshot must reflect the decision state: the incoming pokemon is
+        # still on the bench (not yet active) so it appears in available_switches.
+        if self._force_switch[player] and not is_drag:
+            self._emit_record(player, "switch", species, force_switch=True)
+            self._force_switch[player] = False
+
+        # Now activate the incoming pokemon and reset its boosts
+        pmon.is_active = True
         self.active[player] = species
         self.teams[player][species].boosts = {
             "atk": 0, "def": 0, "spa": 0, "spd": 0, "spe": 0,
             "accuracy": 0, "evasion": 0
         }
-
-        # If this was a forced switch action, emit the record now
-        if self._force_switch[player] and not is_drag:
-            self._emit_record(player, "switch", species, force_switch=True)
-            self._force_switch[player] = False
 
     def handle_move(self, parts: list):
         """

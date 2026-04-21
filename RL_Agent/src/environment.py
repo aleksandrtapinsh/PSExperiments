@@ -43,6 +43,7 @@ import random
 from pathlib import Path
 from typing import Any, Callable, Dict, List, Optional, Tuple
 
+import gymnasium as gym
 import numpy as np
 import torch as th
 from gymnasium import spaces
@@ -72,6 +73,30 @@ logger = logging.getLogger(__name__)
 # ---------------------------------------------------------------------------
 OBS_LOW = np.full(OBS_SIZE, -1.0, dtype=np.float32)
 OBS_HIGH = np.full(OBS_SIZE, 1.0, dtype=np.float32)
+
+
+# ---------------------------------------------------------------------------
+# Observation unwrapper
+# ---------------------------------------------------------------------------
+
+class _FlatObsWrapper(gym.ObservationWrapper):
+    """
+    Strip poke_env's Dict({'observation': Box, 'action_mask': Box}) back to
+    a plain Box so that MaskablePPO can use MlpPolicy.
+
+    poke_env >= 0.9 wraps every obs as a Dict to expose masks natively.
+    We undo that here — ActionMasker (applied on top) still provides
+    action_masks() for MaskablePPO's masking logic.
+    """
+
+    def __init__(self, env: gym.Env) -> None:
+        super().__init__(env)
+        self.observation_space = env.observation_space["observation"]
+
+    def observation(self, obs: Any) -> np.ndarray:
+        if isinstance(obs, dict) and "observation" in obs:
+            return obs["observation"]
+        return obs
 
 
 # ---------------------------------------------------------------------------
@@ -192,6 +217,11 @@ class SelfPlayOpponent:
     def __init__(self) -> None:
         """Initialise with no policy (random play until update_policy() is called)."""
         self._policy: Optional[Any] = None  # SB3 PPO model or None
+        self._battles: Dict[str, AbstractBattle] = {}
+
+    def reset_battles(self):
+        """Reset the internal battle tracker."""
+        self._battles = {}
 
     def update_policy(self, model: Any) -> None:
         """Deep-copy the current PPO model for frozen-opponent inference."""
@@ -633,13 +663,21 @@ def make_selfplay_env(
         strict=False,
     )
     saw = SingleAgentWrapper(env, opponent)
+    flat = _FlatObsWrapper(saw)  # strip Dict obs → plain Box for MlpPolicy
     n_actions = saw.action_space.n
 
-    def _mask_fn(e: SingleAgentWrapper) -> np.ndarray:
-        # battle1 lives on the underlying PokeEnv, not on SingleAgentWrapper itself.
-        return compute_action_mask(getattr(e.env, "battle1", None), n_actions)
+    def _mask_fn(e) -> np.ndarray:
+        # Walk the wrapper chain to find battle1 (lives on PokemonEnv).
+        unwrapped = e
+        while True:
+            if hasattr(unwrapped, "battle1"):
+                return compute_action_mask(unwrapped.battle1, n_actions)
+            if not hasattr(unwrapped, "env"):
+                break
+            unwrapped = unwrapped.env
+        return compute_action_mask(None, n_actions)
 
-    return ActionMasker(saw, _mask_fn)
+    return ActionMasker(flat, _mask_fn)
 
 
 def make_random_opponent() -> SelfPlayOpponent:
