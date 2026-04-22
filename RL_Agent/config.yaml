@@ -35,7 +35,7 @@ model:
 
 # --- PPO Hyperparameters ---
 training:
-  total_timesteps: 3000000        # Total environment steps across all envs. Set to a larger number for longer training
+  selfplay_total_timesteps: 3000000 #selfplay mode uses timestep budget because SB3 PPO learn on rollout steps
   n_envs_selfplay: 2              # Parallel envs for self-play (both sides of the battle)
   learning_rate: 0.0003           # Adam LR
   n_steps: 512                    # Steps per env before PPO update (rollout buffer size)
@@ -49,7 +49,7 @@ training:
   max_grad_norm: 0.5              # Gradient clipping norm
   # Self-play opponent update: freeze a copy and update it every N steps
   selfplay_opponent_update_freq: 40000
-  total_vs_battles: 500           # Maximum number of battles for vs_player and vs_il modes
+  online_total_battles: 500       #vs_player and vs_il use battle budget because updates happen after each battle 
 
 # --- Reward Shaping ---
 rewards:

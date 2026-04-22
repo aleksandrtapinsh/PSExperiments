@@ -229,7 +229,7 @@ class PokeAgent:
 
         try:
             self.model.learn(
-                total_timesteps=t_cfg["total_timesteps"],
+                total_timesteps=t_cfg["selfplay_total_timesteps"],
                 callback=CallbackList([ckpt_cb, eval_cb, metrics_cb, sp_cb]),
                 reset_num_timesteps=not loaded,
                 tb_log_name="selfplay",
@@ -274,8 +274,9 @@ class PokeAgent:
         )
         vec_env = DummyVecEnv([lambda: dummy_env])
         self.load(vec_env)
-        # We only used vec_env to load the model — close the dummy env now
-        vec_env.close()
+
+        # Use unified cleanup so the temporary env does not leave stale battle state
+        cleanup_vec_env(vec_env)
 
         # Build the standalone VsPlayerRunner
         runner = VsPlayerRunner(
@@ -285,6 +286,8 @@ class PokeAgent:
             n_update_epochs=self.cfg["training"]["n_epochs"],
             gamma=self.cfg["training"]["gamma"],
             log_dir=l_cfg["log_dir"],
+            mode="vs_player",
+            opponent_label="human",
             account_configuration=build_account_config(cfg["server"]["agent1_username"]),
             server_configuration=build_server_config(cfg),
             battle_format=cfg["server"]["battle_format"],
@@ -302,7 +305,7 @@ class PokeAgent:
 
         async def _accept_loop():
             nonlocal battles_played
-            while battles_played < t_cfg["total_vs_battles"]:
+            while battles_played < t_cfg["online_total_battles"]:
                 # Accept one challenge at a time; loop for many battles
                 await runner.accept_challenges(
                     opponent=None, n_challenges=1
@@ -367,8 +370,9 @@ class PokeAgent:
         )
         vec_env = DummyVecEnv([lambda: dummy_env])
         self.load(vec_env)
-        vec_env.close()
 
+        # Use unified cleanup for consistency with the rest of the project
+        cleanup_vec_env(vec_env)
         
         #VsPlayerRunner handles move selection + episodic PPO update after each battle.
         #the only difference is we call send_challenges() instead of
@@ -381,6 +385,8 @@ class PokeAgent:
             n_update_epochs=cfg["training"]["n_epochs"],
             gamma=cfg["training"]["gamma"],
             log_dir=l_cfg["log_dir"],
+            mode="vs_il",
+            opponent_label=il_username,
             account_configuration=build_account_config(cfg["server"]["agent2_username"]),
             server_configuration=build_server_config(cfg),
             battle_format=cfg["server"]["battle_format"],
@@ -398,7 +404,7 @@ class PokeAgent:
 
         async def _challenge_loop():
             nonlocal battles_played
-            while battles_played < t_cfg["total_vs_battles"]:
+            while battles_played < t_cfg["online_total_battles"]:
                 
                 #Actively send a challenge to the IL bot and wait for it to accept.
                 await runner.send_challenges(
