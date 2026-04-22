@@ -89,9 +89,19 @@ class _FlatObsWrapper(gym.ObservationWrapper):
     action_masks() for MaskablePPO's masking logic.
     """
 
+    # def __init__(self, env: gym.Env) -> None:
+    #     super().__init__(env)
+    #     self.observation_space = env.observation_space["observation"]
+
     def __init__(self, env: gym.Env) -> None:
         super().__init__(env)
-        self.observation_space = env.observation_space["observation"]
+    # observation_space may already be a plain Box (older poke-env versions)
+    # or a Dict({'observation': Box, 'action_mask': Box}) in newer versions.
+        obs_space = env.observation_space
+        if isinstance(obs_space, spaces.Dict) and "observation" in obs_space:
+            self.observation_space = obs_space["observation"]
+        else:
+            self.observation_space = obs_space
 
     def observation(self, obs: Any) -> np.ndarray:
         if isinstance(obs, dict) and "observation" in obs:
