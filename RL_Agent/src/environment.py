@@ -91,14 +91,11 @@ class _FlatObsWrapper(gym.ObservationWrapper):
     action_masks() for MaskablePPO's masking logic.
     """
 
-    # def __init__(self, env: gym.Env) -> None:
-    #     super().__init__(env)
-    #     self.observation_space = env.observation_space["observation"]
-
     def __init__(self, env: gym.Env) -> None:
         super().__init__(env)
-    # observation_space may already be a plain Box (older poke-env versions)
-    # or a Dict({'observation': Box, 'action_mask': Box}) in newer versions.
+        
+        # observation_space may already be a plain Box (older poke-env versions)
+        # or a Dict({'observation': Box, 'action_mask': Box}) in newer versions.
         obs_space = env.observation_space
         if isinstance(obs_space, spaces.Dict) and "observation" in obs_space:
             self.observation_space = obs_space["observation"]
@@ -228,7 +225,8 @@ class SelfPlayOpponent:
 
     def __init__(self) -> None:
         """Initialise with no policy (random play until update_policy() is called)."""
-        self._policy: Optional[Any] = None  # SB3 PPO model or None
+        self._policy_net: Optional[Any] = None  # copy of model.policy (nn.Module)
+        self._action_space: Optional[Any] = None
         self._battles: Dict[str, AbstractBattle] = {}
 
     def reset_battles(self):
@@ -236,8 +234,9 @@ class SelfPlayOpponent:
         self._battles = {}
 
     def update_policy(self, model: Any) -> None:
-        """Deep-copy the current PPO model for frozen-opponent inference."""
-        self._policy = copy.deepcopy(model)
+        """Copy only the policy network weights to avoid pickling asyncio tasks."""
+        self._policy_net = copy.deepcopy(model.policy)
+        self._action_space = model.action_space
         logger.info("SelfPlayOpponent policy updated.")
 
     def choose_move(self, battle: AbstractBattle) -> DefaultBattleOrder:
@@ -250,13 +249,13 @@ class SelfPlayOpponent:
         except Exception:
             pass
 
-        if self._policy is None:
+        if self._policy_net is None:
             return self._random_move(battle)
         try:
             obs = embed_battle(battle)
-            n_actions = self._policy.action_space.n
+            n_actions = self._action_space.n
             masks = compute_action_mask(battle, n_actions)
-            action, _ = self._policy.predict(
+            action, _ = self._policy_net.predict(
                 obs[np.newaxis, :],
                 action_masks=masks[np.newaxis, :],
                 deterministic=False,

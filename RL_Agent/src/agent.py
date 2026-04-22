@@ -320,7 +320,7 @@ class PokeAgent:
                     )
 
         try:
-            asyncio.get_event_loop().run_until_complete(_accept_loop())
+            asyncio.run(_accept_loop())
         except KeyboardInterrupt:
             logger.info("VsPlayer session interrupted by user.")
         finally:
@@ -421,7 +421,7 @@ class PokeAgent:
                     )
 
         try:
-            asyncio.get_event_loop().run_until_complete(_challenge_loop())
+            asyncio.run(_challenge_loop())
         except KeyboardInterrupt:
             logger.info("VS-IL session interrupted by user.")
         finally:
