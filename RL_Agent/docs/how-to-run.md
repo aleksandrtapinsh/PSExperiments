@@ -40,6 +40,13 @@ python main.py vs_player
 
 Connects to the Showdown server and waits for incoming battle challenges. The agent plays against human opponents and learns from each battle. Challenge the bot's username (configured in config.yaml) on the server to start a match.
 
+## Online Modes With Battle Budget
+
+```bash
+python main.py vs_player --battles 100
+python main.py vs_il --battles 200
+```
+
 ## Optional Flags
 
 ```bash

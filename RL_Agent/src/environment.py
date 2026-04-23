@@ -42,6 +42,8 @@ import math
 import random
 from pathlib import Path
 from typing import Any, Callable, Dict, List, Optional, Tuple
+import csv
+import time
 
 import gymnasium as gym
 import numpy as np
@@ -91,10 +93,14 @@ class _FlatObsWrapper(gym.ObservationWrapper):
 
     def __init__(self, env: gym.Env) -> None:
         super().__init__(env)
-        if isinstance(env.observation_space, gym.spaces.Dict):
-            self.observation_space = env.observation_space["observation"]
+        
+        # observation_space may already be a plain Box (older poke-env versions)
+        # or a Dict({'observation': Box, 'action_mask': Box}) in newer versions.
+        obs_space = env.observation_space
+        if isinstance(obs_space, spaces.Dict) and "observation" in obs_space:
+            self.observation_space = obs_space["observation"]
         else:
-            self.observation_space = env.observation_space
+            self.observation_space = obs_space
 
     def observation(self, obs: Any) -> np.ndarray:
         if isinstance(obs, dict) and "observation" in obs:
@@ -293,6 +299,8 @@ class VsPlayerRunner(Player):
         n_update_epochs: int = 4,
         gamma: float = 0.99,
         log_dir: str = "logs",
+        mode: str = "vs_player",
+        opponent_label: str = "unknown",
         **kwargs: Any,
     ) -> None:
         """Initialise buffers, reward config, and TensorBoard writer for episodic learning."""
@@ -316,6 +324,30 @@ class VsPlayerRunner(Player):
         self._recent_wins: List[int] = []  # 1=win, 0=loss for rolling win rate
         self._writer = SummaryWriter(log_dir=str(Path(log_dir) / "vsplayer"))
 
+        # Store mode and opponent metadata for structured per battle logging
+        self._mode = mode
+        self._opponent_label = opponent_label
+
+        # Per battle CSV log used for later RL vs IL analysis
+        self._results_csv_path = Path(log_dir) / "battle_results.csv"
+        self._results_csv_initialized = self._results_csv_path.exists()
+
+        if not self._results_csv_initialized:
+            with open(self._results_csv_path, "w", newline="", encoding="utf-8") as f:
+                writer = csv.writer(f)
+                writer.writerow([
+                    "timestamp",
+                    "mode",
+                    "battle_index",
+                    "battle_tag",
+                    "opponent",
+                    "won",
+                    "turns",
+                    "episode_return",
+                    "decision_steps",
+                    "rolling_win_rate",
+                ])
+            self._results_csv_initialized = True
     # ------------------------------------------------------------------
     # Move selection with trajectory recording
     # ------------------------------------------------------------------
@@ -384,6 +416,28 @@ class VsPlayerRunner(Player):
     # ------------------------------------------------------------------
     # After-battle update
     # ------------------------------------------------------------------
+    def _append_battle_result(
+        self,
+        battle: AbstractBattle,
+        final_reward: float,
+        decision_steps: int,
+        rolling_win_rate: float,
+    ) -> None:
+        """Append one finished battle to the structured CSV log."""
+        with open(self._results_csv_path, "a", newline="", encoding="utf-8") as f:
+            writer = csv.writer(f)
+            writer.writerow([
+                int(time.time()),
+                self._mode,
+                self._battle_count,
+                getattr(battle, "battle_tag", "unknown"),
+                self._opponent_label,
+                int(bool(battle.won)),
+                int(getattr(battle, "turn", 0)),
+                float(final_reward),
+                int(decision_steps),
+                float(rolling_win_rate),
+            ])
 
     def _battle_finished_callback(self, battle: AbstractBattle) -> None:
         """Trigger episodic PPO update, log outcome metrics, and clear trajectory buffers."""
@@ -411,10 +465,20 @@ class VsPlayerRunner(Player):
         if len(self._recent_wins) > 100:
             self._recent_wins.pop(0)
         rolling_win_rate = sum(self._recent_wins) / len(self._recent_wins)
-        self._writer.add_scalar("vsplayer/win", float(battle.won), self._battle_count)
-        self._writer.add_scalar("vsplayer/win_rate_100", rolling_win_rate, self._battle_count)
-        self._writer.add_scalar("vsplayer/episode_return", final_reward, self._battle_count)
+
+        # TensorBoard logging
+        self._writer.add_scalar(f"{self._mode}/win", float(battle.won), self._battle_count)
+        self._writer.add_scalar(f"{self._mode}/win_rate_100", rolling_win_rate, self._battle_count)
+        self._writer.add_scalar(f"{self._mode}/episode_return", final_reward, self._battle_count)
         self._writer.flush()
+
+        # Structured CSV logging for later analysis and RL vs IL comparison
+        self._append_battle_result(
+            battle=battle,
+            final_reward=final_reward,
+            decision_steps=n,
+            rolling_win_rate=rolling_win_rate,
+        )
 
         # Reset trajectory
         self._obs_buf.clear()
@@ -497,10 +561,10 @@ class VsPlayerRunner(Player):
             f"[VsPlayer] Episodic update — {n} steps, "
             f"return={sum(returns):.2f}, loss={loss.item():.4f}"
         )
-        self._writer.add_scalar("vsplayer/pg_loss", pg_loss.item(), self._battle_count)
-        self._writer.add_scalar("vsplayer/value_loss", value_loss.item(), self._battle_count)
-        self._writer.add_scalar("vsplayer/entropy", entropy.item(), self._battle_count)
-        self._writer.add_scalar("vsplayer/total_loss", loss.item(), self._battle_count)
+        self._writer.add_scalar(f"{self._mode}/pg_loss", pg_loss.item(), self._battle_count)
+        self._writer.add_scalar(f"{self._mode}/value_loss", value_loss.item(), self._battle_count)
+        self._writer.add_scalar(f"{self._mode}/entropy", entropy.item(), self._battle_count)
+        self._writer.add_scalar(f"{self._mode}/total_loss", loss.item(), self._battle_count)
         self._writer.flush()
 
 # ---------------------------------------------------------------------------

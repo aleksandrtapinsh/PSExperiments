@@ -52,8 +52,9 @@ Pokemon_Showdown_RL_Agent/
 ## logs/
 
 | Path | Description |
-|---|---|
+| --- | --- |
 | `logs/training.log` | Text log of training events, battle results, and status messages. |
 | `logs/battle_metrics.csv` | CSV with per-checkpoint stats: timestep, battles played, wins, losses, win rate, average reward, average battle length, and throughput. |
 | `logs/selfplay_0/` | TensorBoard event files for self-play training (PPO losses, rewards, etc.). |
 | `logs/vsplayer/` | TensorBoard event files for VS player mode (win rate, episode returns, losses). |
+| `logs/battle_results.csv` | Per battle structured results for `vs_player` and `vs_il`, used for later comparison and analysis. |

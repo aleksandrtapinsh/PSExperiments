@@ -101,7 +101,14 @@ def parse_args() -> argparse.Namespace:
         type=int,
         default=None,
         metavar="N",
-        help="Override total_timesteps from config (useful for quick tests)",
+        help="Override selfplay timestep budget from config",
+    )
+    parser.add_argument(
+        "--battles",
+        type=int,
+        default=None,
+        metavar="N",
+        help="Override online battle budget for vs_player and vs_il",
     )
     parser.add_argument(
         "--log-level",
@@ -125,9 +132,19 @@ def main() -> None:
     # -----------------------------------------------------------------------
     cfg = load_config(args.config)
 
-    # Apply CLI overrides
-    if args.timesteps is not None:
-        cfg["training"]["total_timesteps"] = args.timesteps
+    # Apply CLI overrides based on mode semantics
+    if args.mode == "selfplay":
+        if args.timesteps is not None:
+            cfg["training"]["selfplay_total_timesteps"] = args.timesteps
+        if args.battles is not None:
+            # battles do not control selfplay training, so warn and ignore
+            print("[WARN] --battles is ignored in selfplay mode.")
+    else:
+        if args.battles is not None:
+            cfg["training"]["online_total_battles"] = args.battles
+        if args.timesteps is not None:
+            # timesteps do not stop online modes, so warn and ignore
+            print("[WARN] --timesteps is ignored in vs_player and vs_il. Use --battles instead.")
 
     # Ensure output directories exist
     Path(cfg["logging"]["log_dir"]).mkdir(parents=True, exist_ok=True)
@@ -159,14 +176,21 @@ def main() -> None:
     # -----------------------------------------------------------------------
     # Print banner
     # -----------------------------------------------------------------------
+    if args.mode == "selfplay":
+        budget_label = "Timesteps"
+        budget_value = cfg["training"]["selfplay_total_timesteps"]
+    else:
+        budget_label = "Battles"
+        budget_value = cfg["training"]["online_total_battles"]
+
     logger.info("=" * 60)
     logger.info("  Pokémon Showdown RL Agent")
-    logger.info(f"  Mode   : {args.mode}")
-    logger.info(f"  Device : {device}")
-    logger.info(f"  Server : {cfg['server']['websocket_url']}")
-    logger.info(f"  Format : {cfg['server']['battle_format']}")
-    logger.info(f"  Steps  : {cfg['training']['total_timesteps']:,}")
-    logger.info(f"  Model  : {cfg['model']['save_path']}")
+    logger.info(f"  Mode    : {args.mode}")
+    logger.info(f"  Device  : {device}")
+    logger.info(f"  Server  : {cfg['server']['websocket_url']}")
+    logger.info(f"  Format  : {cfg['server']['battle_format']}")
+    logger.info(f"  {budget_label:<8}: {budget_value:,}")
+    logger.info(f"  Model   : {cfg['model']['save_path']}")
     logger.info("=" * 60)
 
     # -----------------------------------------------------------------------
