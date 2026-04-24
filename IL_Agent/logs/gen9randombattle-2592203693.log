@@ -1,0 +1,206 @@
+|j|☆AdrielDrielRiel
+|j|☆Arthurinho
+|t:|1776970160
+|gametype|singles
+|player|p1|AdrielDrielRiel|2|1190
+|player|p2|Arthurinho|biker|1213
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776970160
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Azumarill|Azumarill, L82, F|298/298
+|switch|p2a: Vaporeon|Vaporeon, L86, F|364/364
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by AdrielDrielRiel)
+|inactive|Arthurinho has 120 seconds left.
+|
+|t:|1776970193
+|move|p2a: Vaporeon|Flip Turn|p1a: Azumarill
+|-resisted|p1a: Azumarill
+|-damage|p1a: Azumarill|268/298
+|
+|t:|1776970198
+|switch|p2a: Rotom|Rotom-Fan, L86|226/226|[from] Flip Turn
+|move|p1a: Azumarill|Knock Off|p2a: Rotom
+|-damage|p2a: Rotom|117/226
+|-enditem|p2a: Rotom|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Azumarill
+|
+|upkeep
+|turn|2
+|
+|t:|1776970219
+|switch|p1a: Regieleki|Regieleki, L79|256/256
+|move|p2a: Rotom|Thunderbolt|p1a: Regieleki
+|-resisted|p1a: Regieleki
+|-damage|p1a: Regieleki|169/256
+|
+|upkeep
+|turn|3
+|
+|t:|1776970244
+|switch|p2a: Oranguru|Oranguru, L92, M|315/315
+|move|p1a: Regieleki|Thunderbolt|p2a: Oranguru
+|-damage|p2a: Oranguru|212/315
+|-status|p2a: Oranguru|par
+|
+|upkeep
+|turn|4
+|inactive|AdrielDrielRiel has 120 seconds left.
+|
+|t:|1776970261
+|move|p1a: Regieleki|Volt Switch|p2a: Oranguru
+|-damage|p2a: Oranguru|131/315 par
+|
+|t:|1776970263
+|switch|p1a: Azumarill|Azumarill, L82, F|268/298|[from] Volt Switch
+|move|p2a: Oranguru|Hyper Voice|p1a: Azumarill
+|-damage|p1a: Azumarill|84/298
+|
+|upkeep
+|turn|5
+|
+|t:|1776970272
+|move|p1a: Azumarill|Knock Off|p2a: Oranguru
+|-supereffective|p2a: Oranguru
+|-damage|p2a: Oranguru|0 fnt
+|-enditem|p2a: Oranguru|Choice Specs|[from] move: Knock Off|[of] p1a: Azumarill
+|faint|p2a: Oranguru
+|
+|upkeep
+|
+|t:|1776970289
+|switch|p2a: Glastrier|Glastrier, L86|312/312
+|turn|6
+|l|☆AdrielDrielRiel
+|inactive|AdrielDrielRiel disconnected and has a minute to reconnect!
+|player|p1|
+|j|☆AdrielDrielRiel
+|inactive|AdrielDrielRiel reconnected and has 135 seconds left.
+|player|p1|AdrielDrielRiel|2|
+|
+|t:|1776970306
+|move|p1a: Azumarill|Knock Off|p2a: Glastrier
+|-damage|p2a: Glastrier|228/312
+|-enditem|p2a: Glastrier|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Azumarill
+|move|p2a: Glastrier|High Horsepower|p1a: Azumarill
+|-damage|p1a: Azumarill|0 fnt
+|faint|p1a: Azumarill
+|-ability|p2a: Glastrier|Chilling Neigh|boost
+|-boost|p2a: Glastrier|atk|1
+|
+|upkeep
+|inactive|AdrielDrielRiel has 120 seconds left.
+|inactive|AdrielDrielRiel has 90 seconds left.
+|
+|t:|1776970363
+|switch|p1a: Necrozma|Necrozma, L80|286/286
+|turn|7
+|
+|t:|1776970388
+|move|p1a: Necrozma|Dragon Dance|p1a: Necrozma
+|-boost|p1a: Necrozma|atk|1
+|-boost|p1a: Necrozma|spe|1
+|move|p2a: Glastrier|Icicle Crash|p1a: Necrozma
+|-damage|p1a: Necrozma|114/286
+|
+|upkeep
+|turn|8
+|inactive|AdrielDrielRiel has 90 seconds left.
+|inactive|Arthurinho has 120 seconds left.
+|
+|t:|1776970406
+|move|p1a: Necrozma|Photon Geyser|p2a: Glastrier
+|-damage|p2a: Glastrier|123/312
+|move|p2a: Glastrier|High Horsepower|p1a: Necrozma
+|-damage|p1a: Necrozma|0 fnt
+|faint|p1a: Necrozma
+|-ability|p2a: Glastrier|Chilling Neigh|boost
+|-boost|p2a: Glastrier|atk|1
+|
+|upkeep
+|inactive|AdrielDrielRiel has 90 seconds left.
+|
+|t:|1776970416
+|switch|p1a: Enamorus|Enamorus, L79, F|247/247
+|turn|9
+|
+|t:|1776970424
+|move|p1a: Enamorus|Superpower|p2a: Glastrier
+|-supereffective|p2a: Glastrier
+|-damage|p2a: Glastrier|3/312
+|-boost|p1a: Enamorus|atk|1
+|-boost|p1a: Enamorus|def|1
+|move|p2a: Glastrier|Heavy Slam|p1a: Enamorus
+|-supereffective|p1a: Enamorus
+|-damage|p1a: Enamorus|0 fnt
+|faint|p1a: Enamorus
+|-ability|p2a: Glastrier|Chilling Neigh|boost
+|-boost|p2a: Glastrier|atk|1
+|
+|upkeep
+|
+|t:|1776970436
+|switch|p1a: Regieleki|Regieleki, L79|169/256
+|turn|10
+|
+|t:|1776970440
+|move|p1a: Regieleki|Rapid Spin|p2a: Glastrier
+|-damage|p2a: Glastrier|0 fnt
+|-boost|p1a: Regieleki|spe|1
+|faint|p2a: Glastrier
+|
+|upkeep
+|
+|t:|1776970447
+|switch|p2a: Arceus|Arceus-Bug, L73|295/295
+|turn|11
+|
+|t:|1776970460
+|-terastallize|p2a: Arceus|Ground
+|move|p1a: Regieleki|Volt Switch|p2a: Arceus
+|-immune|p2a: Arceus
+|move|p2a: Arceus|Calm Mind|p2a: Arceus
+|-boost|p2a: Arceus|spa|1
+|-boost|p2a: Arceus|spd|1
+|
+|upkeep
+|turn|12
+|
+|t:|1776970474
+|-terastallize|p1a: Regieleki|Ice
+|move|p1a: Regieleki|Tera Blast|p2a: Arceus|[anim] Tera Blast Ice
+|-supereffective|p2a: Arceus
+|-damage|p2a: Arceus|209/295
+|move|p2a: Arceus|Earth Power|p1a: Regieleki
+|-damage|p1a: Regieleki|0 fnt
+|faint|p1a: Regieleki
+|
+|upkeep
+|
+|t:|1776970482
+|switch|p1a: Gholdengo|Gholdengo, L77|261/261
+|turn|13
+|inactive|AdrielDrielRiel has 120 seconds left.
+|
+|t:|1776970490
+|move|p2a: Arceus|Earth Power|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|upkeep
+|-message|AdrielDrielRiel forfeited.
+|
+|win|Arthurinho
+|raw|AdrielDrielRiel's rating: 1190 &rarr; <strong>1167</strong><br />(-23 for losing)
+|raw|Arthurinho's rating: 1213 &rarr; <strong>1236</strong><br />(+23 for winning)
+|l|☆AdrielDrielRiel
+|player|p1|

@@ -1,0 +1,251 @@
+|j|☆AlgaeBruh
+|j|☆56i56i56r
+|t:|1776974212
+|gametype|singles
+|player|p1|AlgaeBruh|265|1045
+|player|p2|56i56i56r|170|1043
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776974212
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Spiritomb|Spiritomb, L89, M|234/234
+|switch|p2a: Vivillon|Vivillon, L83, F|268/268
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by 56i56i56r)
+|
+|t:|1776974235
+|move|p1a: Spiritomb|Sucker Punch||[still]
+|-fail|p1a: Spiritomb
+|move|p2a: Vivillon|Sleep Powder|p1a: Spiritomb
+|-status|p1a: Spiritomb|slp|[from] move: Sleep Powder
+|
+|upkeep
+|turn|2
+|
+|t:|1776974249
+|switch|p2a: Fezandipiti|Fezandipiti, L82, M|278/278
+|cant|p1a: Spiritomb|slp
+|
+|upkeep
+|turn|3
+|
+|t:|1776974255
+|move|p2a: Fezandipiti|Moonblast|p1a: Spiritomb
+|-supereffective|p1a: Spiritomb
+|-damage|p1a: Spiritomb|106/234 slp
+|-unboost|p1a: Spiritomb|spa|1
+|-curestatus|p1a: Spiritomb|slp|[msg]
+|move|p1a: Spiritomb|Poltergeist|p2a: Fezandipiti
+|-activate|p2a: Fezandipiti|move: Poltergeist|Leftovers
+|-damage|p2a: Fezandipiti|139/278
+|
+|-heal|p2a: Fezandipiti|156/278|[from] item: Leftovers
+|-heal|p1a: Spiritomb|120/234|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776974281
+|switch|p1a: Heatran|Heatran, L79, M|273/273
+|-item|p1a: Heatran|Air Balloon
+|move|p2a: Fezandipiti|Moonblast|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|255/273
+|-enditem|p1a: Heatran|Air Balloon
+|
+|-heal|p2a: Fezandipiti|173/278|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776974308
+|move|p2a: Fezandipiti|U-turn|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|245/273
+|inactive|56i56i56r has 120 seconds left.
+|
+|t:|1776974318
+|switch|p2a: Kommo-o|Kommo-o, L78, F|245/245|[from] U-turn
+|move|p1a: Heatran|Heavy Slam|p2a: Kommo-o
+|-damage|p2a: Kommo-o|152/245
+|
+|upkeep
+|turn|6
+|inactive|56i56i56r has 120 seconds left.
+|
+|t:|1776974341
+|switch|p1a: Spiritomb|Spiritomb, L89, M|120/234
+|move|p2a: Kommo-o|Clangorous Soul|p2a: Kommo-o
+|-boost|p2a: Kommo-o|atk|1
+|-boost|p2a: Kommo-o|def|1
+|-boost|p2a: Kommo-o|spa|1
+|-boost|p2a: Kommo-o|spd|1
+|-boost|p2a: Kommo-o|spe|1
+|-damage|p2a: Kommo-o|72/245
+|-enditem|p2a: Kommo-o|Throat Spray
+|-boost|p2a: Kommo-o|spa|1|[from] item: Throat Spray
+|
+|-heal|p1a: Spiritomb|134/234|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776974353
+|move|p1a: Spiritomb|Sucker Punch|p2a: Kommo-o
+|-resisted|p2a: Kommo-o
+|-damage|p2a: Kommo-o|51/245
+|move|p2a: Kommo-o|Clanging Scales|p1a: Spiritomb
+|-damage|p1a: Spiritomb|0 fnt
+|faint|p1a: Spiritomb
+|-unboost|p2a: Kommo-o|def|1
+|
+|upkeep
+|inactive|AlgaeBruh has 120 seconds left.
+|
+|t:|1776974372
+|switch|p1a: Deoxys|Deoxys-Attack, L72|191/191
+|-ability|p1a: Deoxys|Pressure
+|turn|8
+|
+|t:|1776974380
+|move|p2a: Kommo-o|Clanging Scales|p1a: Deoxys
+|-damage|p1a: Deoxys|0 fnt
+|faint|p1a: Deoxys
+|-unboost|p2a: Kommo-o|def|1
+|
+|upkeep
+|inactive|AlgaeBruh has 120 seconds left.
+|
+|t:|1776974400
+|switch|p1a: Heatran|Heatran, L79, M|245/273
+|turn|9
+|inactive|AlgaeBruh has 120 seconds left.
+|
+|t:|1776974413
+|move|p2a: Kommo-o|Drain Punch|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|23/273
+|-heal|p2a: Kommo-o|162/245|[from] drain|[of] p1a: Heatran
+|move|p1a: Heatran|Heavy Slam|p2a: Kommo-o
+|-crit|p2a: Kommo-o
+|-damage|p2a: Kommo-o|0 fnt
+|faint|p2a: Kommo-o
+|
+|upkeep
+|
+|t:|1776974418
+|switch|p2a: Porygon-Z|Porygon-Z, L83|277/277
+|-ability|p2a: Porygon-Z|Download|boost
+|-boost|p2a: Porygon-Z|spa|1
+|turn|10
+|
+|t:|1776974426
+|switch|p1a: Blaziken|Blaziken, L76, M|247/247
+|move|p2a: Porygon-Z|Tri Attack|p1a: Blaziken
+|-crit|p1a: Blaziken
+|-damage|p1a: Blaziken|0 fnt
+|faint|p1a: Blaziken
+|
+|upkeep
+|
+|t:|1776974433
+|switch|p1a: Milotic|Milotic, L83, F|293/293
+|turn|11
+|
+|t:|1776974445
+|-terastallize|p1a: Milotic|Dragon
+|move|p2a: Porygon-Z|Tri Attack|p1a: Milotic
+|-damage|p1a: Milotic|158/293
+|move|p1a: Milotic|Dragon Tail|p2a: Porygon-Z|[miss]
+|-miss|p1a: Milotic|p2a: Porygon-Z
+|
+|-heal|p1a: Milotic|176/293|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776974453
+|switch|p2a: Fezandipiti|Fezandipiti, L82, M|173/278
+|move|p1a: Milotic|Dragon Tail|p2a: Fezandipiti
+|-immune|p2a: Fezandipiti
+|
+|-heal|p2a: Fezandipiti|190/278|[from] item: Leftovers
+|-heal|p1a: Milotic|194/293|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776974460
+|move|p2a: Fezandipiti|Moonblast|p1a: Milotic
+|-supereffective|p1a: Milotic
+|-damage|p1a: Milotic|78/293
+|-status|p1a: Milotic|tox|[from] ability: Toxic Chain|[of] p2a: Fezandipiti
+|move|p1a: Milotic|Scald|p2a: Fezandipiti
+|-crit|p2a: Fezandipiti
+|-damage|p2a: Fezandipiti|94/278
+|
+|-heal|p2a: Fezandipiti|111/278|[from] item: Leftovers
+|-heal|p1a: Milotic|96/293 tox|[from] item: Leftovers
+|-damage|p1a: Milotic|78/293 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1776974479
+|switch|p1a: Luxray|Luxray, L88, M|284/284
+|-ability|p1a: Luxray|Intimidate|boost
+|-unboost|p2a: Fezandipiti|atk|1
+|move|p2a: Fezandipiti|Moonblast|p1a: Luxray
+|-damage|p1a: Luxray|235/284
+|
+|-heal|p2a: Fezandipiti|128/278|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1776974493
+|move|p2a: Fezandipiti|U-turn|p1a: Luxray
+|-damage|p1a: Luxray|204/284
+|
+|t:|1776974498
+|switch|p2a: Plusle|Plusle, L95, M|268/268|[from] U-turn
+|move|p1a: Luxray|Volt Switch|p2a: Plusle
+|-ability|p2a: Plusle|Lightning Rod|boost
+|-boost|p2a: Plusle|spa|1
+|
+|upkeep
+|turn|16
+|
+|t:|1776974506
+|move|p2a: Plusle|Encore|p1a: Luxray
+|-start|p1a: Luxray|Encore
+|move|p1a: Luxray|Volt Switch|p2a: Plusle
+|-ability|p2a: Plusle|Lightning Rod|boost
+|-boost|p2a: Plusle|spa|1
+|
+|upkeep
+|turn|17
+|
+|t:|1776974513
+|switch|p1a: Heatran|Heatran, L79, M|23/273
+|move|p2a: Plusle|Nasty Plot|p2a: Plusle
+|-boost|p2a: Plusle|spa|2
+|
+|upkeep
+|turn|18
+|
+|t:|1776974536
+|move|p2a: Plusle|Thunderbolt|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|-damage|p2a: Plusle|242/268|[from] item: Life Orb
+|
+|upkeep
+|-message|AlgaeBruh forfeited.
+|
+|win|56i56i56r
+|raw|AlgaeBruh's rating: 1045 &rarr; <strong>1028</strong><br />(-17 for losing)
+|raw|56i56i56r's rating: 1043 &rarr; <strong>1077</strong><br />(+34 for winning)
+|l|☆AlgaeBruh
+|player|p1|

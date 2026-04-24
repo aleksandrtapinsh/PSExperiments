@@ -1,0 +1,272 @@
+|j|☆MannyManati
+|j|☆captainnetz
+|t:|1776970449
+|gametype|singles
+|player|p1|MannyManati|steven|1396
+|player|p2|captainnetz|whitney|1421
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776970449
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Skarmory|Skarmory, L80, F|235/235
+|switch|p2a: Orthworm|Orthworm, L88, M|266/266
+|turn|1
+|
+|t:|1776970470
+|move|p2a: Orthworm|Stealth Rock|p1a: Skarmory
+|-sidestart|p1: MannyManati|move: Stealth Rock
+|move|p1a: Skarmory|Stealth Rock|p2a: Orthworm
+|-sidestart|p2: captainnetz|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1776970495
+|move|p2a: Orthworm|Shed Tail|p2a: Orthworm
+|-start|p2a: Orthworm|Substitute|[from] move: Shed Tail
+|-damage|p2a: Orthworm|133/266
+|
+|t:|1776970499
+|switch|p2a: Great Tusk|Great Tusk, L77|304/304|[from] Shed Tail
+|-damage|p2a: Great Tusk|295/304|[from] Stealth Rock
+|move|p1a: Skarmory|Spikes|p2a: Great Tusk
+|-sidestart|p2: captainnetz|Spikes
+|
+|upkeep
+|turn|3
+|
+|t:|1776970506
+|move|p2a: Great Tusk|Rapid Spin|p1a: Skarmory
+|-resisted|p1a: Skarmory
+|-damage|p1a: Skarmory|222/235
+|-boost|p2a: Great Tusk|spe|1
+|-sideend|p2: captainnetz|Spikes|[from] move: Rapid Spin|[of] p2a: Great Tusk
+|-sideend|p2: captainnetz|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Great Tusk
+|move|p1a: Skarmory|Brave Bird|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-end|p2a: Great Tusk|Substitute
+|-damage|p1a: Skarmory|200/235|[from] Recoil|[of] p2a: Great Tusk
+|
+|-heal|p1a: Skarmory|214/235|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776970521
+|-terastallize|p2a: Great Tusk|Steel
+|move|p2a: Great Tusk|Ice Spinner|p1a: Skarmory
+|-damage|p1a: Skarmory|167/235
+|move|p1a: Skarmory|Brave Bird|p2a: Great Tusk
+|-resisted|p2a: Great Tusk
+|-damage|p2a: Great Tusk|253/304
+|-damage|p1a: Skarmory|153/235|[from] Recoil
+|
+|-heal|p1a: Skarmory|167/235|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776970532
+|switch|p1a: Magmortar|Magmortar, L88, F|275/275
+|move|p2a: Great Tusk|Ice Spinner|p1a: Magmortar
+|-resisted|p1a: Magmortar
+|-damage|p1a: Magmortar|239/275
+|-status|p2a: Great Tusk|brn|[from] ability: Flame Body|[of] p1a: Magmortar
+|
+|-damage|p2a: Great Tusk|234/304 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1776970546
+|move|p2a: Great Tusk|Headlong Rush|p1a: Magmortar
+|-supereffective|p1a: Magmortar
+|-damage|p1a: Magmortar|83/275
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|move|p1a: Magmortar|Earthquake|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|46/304 brn
+|
+|-damage|p2a: Great Tusk|27/304 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1776970559
+|move|p2a: Great Tusk|Headlong Rush|p1a: Magmortar
+|-supereffective|p1a: Magmortar
+|-damage|p1a: Magmortar|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Magmortar
+|
+|-damage|p2a: Great Tusk|8/304 brn|[from] brn
+|upkeep
+|
+|t:|1776970566
+|switch|p1a: Basculin|Basculin, L86, F|261/261
+|-damage|p1a: Basculin|229/261|[from] Stealth Rock
+|turn|8
+|
+|t:|1776970575
+|move|p2a: Great Tusk|Rapid Spin|p1a: Basculin
+|-damage|p1a: Basculin|205/261
+|-boost|p2a: Great Tusk|spe|1
+|move|p1a: Basculin|Flip Turn|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|t:|1776970580
+|switch|p1a: Skarmory|Skarmory, L80, F|167/235|[from] Flip Turn
+|-damage|p1a: Skarmory|138/235|[from] Stealth Rock
+|
+|-heal|p1a: Skarmory|152/235|[from] item: Leftovers
+|upkeep
+|
+|t:|1776970598
+|switch|p2a: Toxtricity|Toxtricity, L82, F|257/257
+|turn|9
+|
+|t:|1776970607
+|move|p2a: Toxtricity|Overdrive|p1a: Skarmory
+|-supereffective|p1a: Skarmory
+|-damage|p1a: Skarmory|0 fnt
+|faint|p1a: Skarmory
+|
+|upkeep
+|
+|t:|1776970616
+|switch|p1a: Dodrio|Dodrio, L85, F|241/241
+|-damage|p1a: Dodrio|181/241|[from] Stealth Rock
+|turn|10
+|
+|t:|1776970623
+|switch|p2a: Orthworm|Orthworm, L88, M|133/266
+|-terastallize|p1a: Dodrio|Ground
+|move|p1a: Dodrio|Drill Run|p2a: Orthworm
+|-heal|p2a: Orthworm|199/266|[from] ability: Earth Eater|[of] p1a: Dodrio
+|
+|-heal|p2a: Orthworm|215/266|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776970642
+|switch|p1a: Basculin|Basculin, L86, F|205/261
+|-damage|p1a: Basculin|173/261|[from] Stealth Rock
+|move|p2a: Orthworm|Body Press|p1a: Basculin
+|-damage|p1a: Basculin|70/261
+|
+|-heal|p2a: Orthworm|231/266|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776970654
+|move|p1a: Basculin|Wave Crash|p2a: Orthworm
+|-damage|p2a: Orthworm|79/266
+|-damage|p1a: Basculin|20/261|[from] Recoil
+|move|p2a: Orthworm|Body Press|p1a: Basculin
+|-damage|p1a: Basculin|0 fnt
+|faint|p1a: Basculin
+|
+|-heal|p2a: Orthworm|95/266|[from] item: Leftovers
+|upkeep
+|
+|t:|1776970665
+|switch|p1a: Virizion|Virizion, L82|283/283
+|-damage|p1a: Virizion|266/283|[from] Stealth Rock
+|turn|13
+|
+|t:|1776970672
+|move|p1a: Virizion|Close Combat|p2a: Orthworm
+|-supereffective|p2a: Orthworm
+|-damage|p2a: Orthworm|0 fnt
+|-unboost|p1a: Virizion|def|1
+|-unboost|p1a: Virizion|spd|1
+|faint|p2a: Orthworm
+|-damage|p1a: Virizion|238/283|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776970693
+|switch|p2a: Braviary|Braviary-Hisui, L85, M|326/326
+|turn|14
+|
+|t:|1776970701
+|move|p1a: Virizion|Stone Edge|p2a: Braviary
+|-supereffective|p2a: Braviary
+|-damage|p2a: Braviary|121/326
+|-damage|p1a: Virizion|210/283|[from] item: Life Orb
+|move|p2a: Braviary|Esper Wing|p1a: Virizion
+|-supereffective|p1a: Virizion
+|-damage|p1a: Virizion|0 fnt
+|-boost|p2a: Braviary|spe|1
+|faint|p1a: Virizion
+|
+|upkeep
+|
+|t:|1776970707
+|switch|p1a: Dodrio|Dodrio, L85, F, tera:Ground|181/241
+|-damage|p1a: Dodrio|166/241|[from] Stealth Rock
+|turn|15
+|
+|t:|1776970715
+|move|p2a: Braviary|Esper Wing|p1a: Dodrio
+|-damage|p1a: Dodrio|0 fnt
+|-boost|p2a: Braviary|spe|1
+|faint|p1a: Dodrio
+|
+|upkeep
+|
+|t:|1776970718
+|switch|p1a: Tinkaton|Tinkaton, L82, F|274/274
+|-damage|p1a: Tinkaton|257/274|[from] Stealth Rock
+|-ability|p1a: Tinkaton|Mold Breaker
+|turn|16
+|
+|t:|1776970725
+|move|p2a: Braviary|Esper Wing|p1a: Tinkaton
+|-resisted|p1a: Tinkaton
+|-damage|p1a: Tinkaton|125/274
+|-boost|p2a: Braviary|spe|1
+|move|p1a: Tinkaton|Knock Off|p2a: Braviary
+|-supereffective|p2a: Braviary
+|-damage|p2a: Braviary|0 fnt
+|-enditem|p2a: Braviary|Choice Specs|[from] move: Knock Off|[of] p1a: Tinkaton
+|faint|p2a: Braviary
+|
+|-heal|p1a: Tinkaton|142/274|[from] item: Leftovers
+|upkeep
+|
+|t:|1776970736
+|switch|p2a: Toxtricity|Toxtricity, L82, F|257/257
+|turn|17
+|
+|t:|1776970743
+|move|p1a: Tinkaton|Knock Off|p2a: Toxtricity
+|-damage|p2a: Toxtricity|193/257
+|-enditem|p2a: Toxtricity|Choice Specs|[from] move: Knock Off|[of] p1a: Tinkaton
+|move|p2a: Toxtricity|Overdrive|p1a: Tinkaton
+|-damage|p1a: Tinkaton|37/274
+|
+|-heal|p1a: Tinkaton|54/274|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1776970752
+|move|p1a: Tinkaton|Knock Off|p2a: Toxtricity
+|-damage|p2a: Toxtricity|146/257
+|move|p2a: Toxtricity|Overdrive|p1a: Tinkaton
+|-damage|p1a: Tinkaton|0 fnt
+|faint|p1a: Tinkaton
+|
+|win|captainnetz
+|raw|MannyManati's rating: 1396 &rarr; <strong>1377</strong><br />(-19 for losing)
+|raw|captainnetz's rating: 1421 &rarr; <strong>1440</strong><br />(+19 for winning)
+|l|☆MannyManati
+|player|p1|

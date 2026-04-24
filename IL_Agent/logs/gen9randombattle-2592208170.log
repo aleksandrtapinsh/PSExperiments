@@ -1,0 +1,345 @@
+|j|☆Shyler321
+|j|☆ledgerdomainn
+|t:|1776970459
+|gametype|singles
+|player|p1|Shyler321|265|1365
+|player|p2|ledgerdomainn|n|1406
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776970459
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Enamorus|Enamorus-Therian, L83, F|259/259
+|switch|p2a: Kilowattrel|Kilowattrel, L83, F|252/252
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Shyler321)
+|
+|t:|1776970479
+|switch|p1a: Magcargo|Magcargo, L95, M|268/268
+|move|p2a: Kilowattrel|Hurricane|p1a: Magcargo
+|-resisted|p1a: Magcargo
+|-damage|p1a: Magcargo|212/268
+|
+|upkeep
+|turn|2
+|inactive|ledgerdomainn has 120 seconds left.
+|
+|t:|1776970520
+|move|p2a: Kilowattrel|U-turn|p1a: Magcargo
+|-resisted|p1a: Magcargo
+|-damage|p1a: Magcargo|199/268
+|-ability|p1a: Magcargo|Weak Armor|boost
+|-unboost|p1a: Magcargo|def|1
+|-boost|p1a: Magcargo|spe|2
+|
+|t:|1776970524
+|switch|p2a: Vaporeon|Vaporeon, L86, M|364/364|[from] U-turn
+|move|p1a: Magcargo|Shell Smash|p1a: Magcargo
+|-unboost|p1a: Magcargo|def|1
+|-unboost|p1a: Magcargo|spd|1
+|-boost|p1a: Magcargo|atk|2
+|-boost|p1a: Magcargo|spa|2
+|-boost|p1a: Magcargo|spe|2
+|
+|upkeep
+|turn|3
+|
+|t:|1776970539
+|-terastallize|p1a: Magcargo|Dragon
+|move|p1a: Magcargo|Power Gem|p2a: Vaporeon
+|-damage|p2a: Vaporeon|172/364
+|move|p2a: Vaporeon|Scald|p1a: Magcargo
+|-resisted|p1a: Magcargo
+|-damage|p1a: Magcargo|123/268
+|
+|-heal|p2a: Vaporeon|194/364|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776970551
+|move|p2a: Vaporeon|Protect|p2a: Vaporeon
+|-singleturn|p2a: Vaporeon|Protect
+|move|p1a: Magcargo|Earth Power|p2a: Vaporeon
+|-activate|p2a: Vaporeon|move: Protect
+|
+|-heal|p2a: Vaporeon|216/364|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776970562
+|move|p1a: Magcargo|Power Gem|p2a: Vaporeon
+|-damage|p2a: Vaporeon|14/364
+|move|p2a: Vaporeon|Wish|p2a: Vaporeon
+|
+|-heal|p2a: Vaporeon|36/364|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776970568
+|move|p2a: Vaporeon|Protect|p2a: Vaporeon
+|-singleturn|p2a: Vaporeon|Protect
+|move|p1a: Magcargo|Shell Smash|p1a: Magcargo
+|-unboost|p1a: Magcargo|def|1
+|-unboost|p1a: Magcargo|spd|1
+|-boost|p1a: Magcargo|atk|2
+|-boost|p1a: Magcargo|spa|2
+|-boost|p1a: Magcargo|spe|2
+|
+|-heal|p2a: Vaporeon|218/364|[from] move: Wish|[wisher] Vaporeon
+|-heal|p2a: Vaporeon|240/364|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776970578
+|move|p1a: Magcargo|Power Gem|p2a: Vaporeon
+|-damage|p2a: Vaporeon|0 fnt
+|faint|p2a: Vaporeon
+|
+|upkeep
+|
+|t:|1776970589
+|switch|p2a: Medicham|Medicham, L86, F|243/243
+|turn|8
+|inactive|Shyler321 has 120 seconds left.
+|
+|t:|1776970620
+|move|p2a: Medicham|Bullet Punch|p1a: Magcargo
+|-damage|p1a: Magcargo|7/268
+|-ability|p1a: Magcargo|Weak Armor|boost
+|-unboost|p1a: Magcargo|def|1
+|move|p1a: Magcargo|Fire Blast|p2a: Medicham
+|-damage|p2a: Medicham|0 fnt
+|faint|p2a: Medicham
+|
+|upkeep
+|
+|t:|1776970646
+|switch|p2a: Sandaconda|Sandaconda, L84, F|258/258
+|turn|9
+|
+|t:|1776970654
+|move|p1a: Magcargo|Fire Blast|p2a: Sandaconda
+|-damage|p2a: Sandaconda|0 fnt
+|faint|p2a: Sandaconda
+|
+|upkeep
+|
+|t:|1776970660
+|switch|p2a: Wigglytuff|Wigglytuff, L96, M|424/424
+|turn|10
+|
+|t:|1776970666
+|-terastallize|p2a: Wigglytuff|Steel
+|move|p1a: Magcargo|Power Gem|p2a: Wigglytuff
+|-resisted|p2a: Wigglytuff
+|-damage|p2a: Wigglytuff|238/424
+|move|p2a: Wigglytuff|Dazzling Gleam|p1a: Magcargo
+|-supereffective|p1a: Magcargo
+|-damage|p1a: Magcargo|0 fnt
+|faint|p1a: Magcargo
+|
+|-heal|p2a: Wigglytuff|264/424|[from] item: Leftovers
+|upkeep
+|
+|t:|1776970677
+|switch|p1a: Gouging Fire|Gouging Fire, L74|277/277
+|turn|11
+|
+|t:|1776970691
+|move|p1a: Gouging Fire|Heat Crash|p2a: Wigglytuff
+|-supereffective|p2a: Wigglytuff
+|-damage|p2a: Wigglytuff|0 fnt
+|faint|p2a: Wigglytuff
+|
+|upkeep
+|
+|t:|1776970696
+|switch|p2a: Morpeko|Morpeko, L88, F|245/245
+|turn|12
+|
+|t:|1776970702
+|move|p2a: Morpeko|Parting Shot|p1a: Gouging Fire
+|-unboost|p1a: Gouging Fire|atk|1
+|-unboost|p1a: Gouging Fire|spa|1
+|
+|t:|1776970718
+|switch|p2a: Kilowattrel|Kilowattrel, L83, F|252/252|[from] Parting Shot
+|move|p1a: Gouging Fire|Dragon Dance|p1a: Gouging Fire
+|-boost|p1a: Gouging Fire|atk|1
+|-boost|p1a: Gouging Fire|spe|1
+|
+|upkeep
+|turn|13
+|
+|t:|1776970725
+|move|p1a: Gouging Fire|Dragon Dance|p1a: Gouging Fire
+|-boost|p1a: Gouging Fire|atk|1
+|-boost|p1a: Gouging Fire|spe|1
+|move|p2a: Kilowattrel|Hurricane|p1a: Gouging Fire
+|-damage|p1a: Gouging Fire|150/277
+|-start|p1a: Gouging Fire|confusion
+|
+|upkeep
+|turn|14
+|
+|t:|1776970744
+|-activate|p1a: Gouging Fire|confusion
+|-damage|p1a: Gouging Fire|119/277|[from] confusion
+|move|p2a: Kilowattrel|Hurricane|p1a: Gouging Fire
+|-damage|p1a: Gouging Fire|0 fnt
+|faint|p1a: Gouging Fire
+|-end|p1a: Gouging Fire|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1776970755
+|switch|p1a: Breloom|Breloom, L83, M|235/235
+|turn|15
+|
+|t:|1776970777
+|switch|p1a: Enamorus|Enamorus-Therian, L83, F|259/259
+|move|p2a: Kilowattrel|Hurricane|p1a: Enamorus
+|-damage|p1a: Enamorus|181/259
+|
+|upkeep
+|turn|16
+|
+|t:|1776970786
+|move|p2a: Kilowattrel|Discharge|p1a: Enamorus
+|-supereffective|p1a: Enamorus
+|-damage|p1a: Enamorus|67/259
+|move|p1a: Enamorus|Moonblast|p2a: Kilowattrel
+|-damage|p2a: Kilowattrel|77/252
+|
+|upkeep
+|turn|17
+|
+|t:|1776970792
+|move|p2a: Kilowattrel|Discharge|p1a: Enamorus
+|-supereffective|p1a: Enamorus
+|-damage|p1a: Enamorus|0 fnt
+|faint|p1a: Enamorus
+|
+|upkeep
+|
+|t:|1776970802
+|switch|p1a: Arbok|Arbok, L87, M|246/246
+|-ability|p1a: Arbok|Intimidate|boost
+|-unboost|p2a: Kilowattrel|atk|1
+|turn|18
+|
+|t:|1776970824
+|move|p2a: Kilowattrel|Roost|p2a: Kilowattrel
+|-heal|p2a: Kilowattrel|203/252
+|-singleturn|p2a: Kilowattrel|move: Roost
+|move|p1a: Arbok|Coil|p1a: Arbok
+|-boost|p1a: Arbok|atk|1
+|-boost|p1a: Arbok|def|1
+|-boost|p1a: Arbok|accuracy|1
+|
+|upkeep
+|turn|19
+|
+|t:|1776970834
+|move|p2a: Kilowattrel|Hurricane|p1a: Arbok
+|-damage|p1a: Arbok|116/246
+|move|p1a: Arbok|Coil|p1a: Arbok
+|-boost|p1a: Arbok|atk|1
+|-boost|p1a: Arbok|def|1
+|-boost|p1a: Arbok|accuracy|1
+|
+|-heal|p1a: Arbok|131/246|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1776970843
+|move|p2a: Kilowattrel|Hurricane|p1a: Arbok
+|-damage|p1a: Arbok|1/246
+|-start|p1a: Arbok|confusion
+|-activate|p1a: Arbok|confusion
+|-damage|p1a: Arbok|0 fnt|[from] confusion
+|faint|p1a: Arbok
+|
+|upkeep
+|c|☆Shyler321|BRUH
+|
+|t:|1776970851
+|switch|p1a: Cresselia|Cresselia, L80, F|323/323
+|turn|21
+|
+|t:|1776970869
+|move|p2a: Kilowattrel|U-turn|p1a: Cresselia
+|-supereffective|p1a: Cresselia
+|-damage|p1a: Cresselia|279/323
+|
+|t:|1776970871
+|switch|p2a: Morpeko|Morpeko, L88, F|245/245|[from] U-turn
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|
+|-heal|p1a: Cresselia|299/323|[from] item: Leftovers
+|-formechange|p2a: Morpeko|Morpeko-Hangry||[from] ability: Hunger Switch
+|upkeep
+|turn|22
+|
+|t:|1776970882
+|move|p2a: Morpeko|Aura Wheel|p1a: Cresselia
+|-supereffective|p1a: Cresselia
+|-damage|p1a: Cresselia|65/323
+|-boost|p2a: Morpeko|spe|1
+|move|p1a: Cresselia|Moonblast|p2a: Morpeko
+|-supereffective|p2a: Morpeko
+|-damage|p2a: Morpeko|31/245
+|
+|-heal|p1a: Cresselia|85/323|[from] item: Leftovers
+|-formechange|p2a: Morpeko|Morpeko||[from] ability: Hunger Switch
+|upkeep
+|turn|23
+|
+|t:|1776970894
+|move|p2a: Morpeko|Aura Wheel|p1a: Cresselia
+|-damage|p1a: Cresselia|0 fnt
+|-boost|p2a: Morpeko|spe|1
+|faint|p1a: Cresselia
+|
+|-formechange|p2a: Morpeko|Morpeko-Hangry||[from] ability: Hunger Switch
+|upkeep
+|
+|t:|1776970903
+|switch|p1a: Breloom|Breloom, L83, M|235/235
+|turn|24
+|inactive|ledgerdomainn has 120 seconds left.
+|
+|t:|1776970941
+|move|p1a: Breloom|Mach Punch|p2a: Morpeko
+|-supereffective|p2a: Morpeko
+|-damage|p2a: Morpeko|0 fnt
+|faint|p2a: Morpeko
+|-damage|p1a: Breloom|212/235|[from] item: Life Orb
+|
+|upkeep
+|inactive|ledgerdomainn has 120 seconds left.
+|
+|t:|1776970948
+|switch|p2a: Kilowattrel|Kilowattrel, L83, F|203/252
+|turn|25
+|
+|t:|1776970950
+|move|p2a: Kilowattrel|Hurricane|p1a: Breloom
+|-supereffective|p1a: Breloom
+|-damage|p1a: Breloom|0 fnt
+|faint|p1a: Breloom
+|
+|win|ledgerdomainn
+|raw|Shyler321's rating: 1365 &rarr; <strong>1347</strong><br />(-18 for losing)
+|raw|ledgerdomainn's rating: 1406 &rarr; <strong>1424</strong><br />(+18 for winning)
+|l|☆Shyler321
+|player|p1|

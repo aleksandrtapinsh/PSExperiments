@@ -1,0 +1,103 @@
+|j|☆cjdacoolest
+|j|☆Kontusz
+|t:|1776969658
+|gametype|singles
+|player|p1|cjdacoolest|2|1000
+|player|p2|Kontusz|1|1037
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776969658
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Toxicroak|Toxicroak, L84, F|277/277
+|switch|p2a: Flapple|Flapple, L88, F|266/266
+|turn|1
+|
+|t:|1776969675
+|move|p1a: Toxicroak|Swords Dance|p1a: Toxicroak
+|-boost|p1a: Toxicroak|atk|2
+|move|p2a: Flapple|Dragon Dance|p2a: Flapple
+|-boost|p2a: Flapple|atk|1
+|-boost|p2a: Flapple|spe|1
+|
+|upkeep
+|turn|2
+|
+|t:|1776969682
+|move|p2a: Flapple|Outrage|p1a: Toxicroak
+|-damage|p1a: Toxicroak|0 fnt
+|faint|p1a: Toxicroak
+|
+|upkeep
+|
+|t:|1776969698
+|switch|p1a: Kilowattrel|Kilowattrel, L83, M|252/252
+|turn|3
+|
+|t:|1776969702
+|move|p2a: Flapple|Outrage|p1a: Kilowattrel|[from] lockedmove
+|-damage|p1a: Kilowattrel|0 fnt
+|faint|p1a: Kilowattrel
+|
+|upkeep
+|
+|t:|1776969706
+|switch|p1a: Vikavolt|Vikavolt, L83, F|263/263
+|turn|4
+|
+|t:|1776969709
+|move|p2a: Flapple|Outrage|p1a: Vikavolt|[from] lockedmove
+|-damage|p1a: Vikavolt|0 fnt
+|faint|p1a: Vikavolt
+|-start|p2a: Flapple|confusion|[fatigue]
+|-enditem|p2a: Flapple|Lum Berry|[eat]
+|-end|p2a: Flapple|confusion
+|
+|upkeep
+|
+|t:|1776969726
+|switch|p1a: Kingdra|Kingdra, L84, F|263/263
+|turn|5
+|
+|t:|1776969730
+|move|p2a: Flapple|Outrage|p1a: Kingdra
+|-supereffective|p1a: Kingdra
+|-damage|p1a: Kingdra|0 fnt
+|faint|p1a: Kingdra
+|
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Kontusz)
+|
+|t:|1776969753
+|switch|p1a: Oricorio|Oricorio-Pa'u, L87, M|272/272
+|turn|6
+|
+|t:|1776969762
+|move|p2a: Flapple|Outrage|p1a: Oricorio|[from] lockedmove
+|-damage|p1a: Oricorio|0 fnt
+|faint|p1a: Oricorio
+|
+|upkeep
+|
+|t:|1776969779
+|switch|p1a: Banette|Banette, L93, F|270/270
+|turn|7
+|
+|t:|1776969786
+|move|p2a: Flapple|Outrage|p1a: Banette|[from] lockedmove
+|-damage|p1a: Banette|0 fnt
+|faint|p1a: Banette
+|-start|p2a: Flapple|confusion|[fatigue]
+|
+|win|Kontusz
+|raw|cjdacoolest's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|raw|Kontusz's rating: 1037 &rarr; <strong>1068</strong><br />(+31 for winning)
+|l|☆Kontusz
+|player|p2|

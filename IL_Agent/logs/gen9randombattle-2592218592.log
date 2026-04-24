@@ -1,0 +1,465 @@
+|j|☆RadicalYTP
+|j|☆vixozzzz
+|t:|1776971167
+|gametype|singles
+|player|p1|RadicalYTP|1|1233
+|player|p2|vixozzzz|2|1230
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776971167
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Archaludon|Archaludon, L78, F|268/268
+|switch|p2a: Eiscue|Eiscue, L88, F|274/274
+|turn|1
+|
+|t:|1776971198
+|switch|p2a: Hippowdon|Hippowdon, L82, M|311/311
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Archaludon|Flash Cannon|p2a: Hippowdon
+|-damage|p2a: Hippowdon|211/311
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Hippowdon|230/311|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776971214
+|move|p1a: Archaludon|Body Press|p2a: Hippowdon
+|-damage|p2a: Hippowdon|179/311
+|move|p2a: Hippowdon|Curse|p2a: Hippowdon
+|-unboost|p2a: Hippowdon|spe|1
+|-boost|p2a: Hippowdon|atk|1
+|-boost|p2a: Hippowdon|def|1
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Hippowdon|198/311|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776971224
+|move|p2a: Hippowdon|Curse|p2a: Hippowdon
+|-unboost|p2a: Hippowdon|spe|1
+|-boost|p2a: Hippowdon|atk|1
+|-boost|p2a: Hippowdon|def|1
+|move|p1a: Archaludon|Dragon Tail|p2a: Hippowdon
+|-damage|p2a: Hippowdon|173/311
+|drag|p2a: Rotom|Rotom, L88|231/231
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Rotom|217/231|[from] Sandstorm
+|upkeep
+|turn|4
+|
+|t:|1776971243
+|move|p2a: Rotom|Will-O-Wisp|p1a: Archaludon
+|-status|p1a: Archaludon|brn
+|move|p1a: Archaludon|Dragon Tail|p2a: Rotom
+|-damage|p2a: Rotom|186/231
+|drag|p2a: Eiscue|Eiscue, L88, F|274/274
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Eiscue|257/274|[from] Sandstorm
+|-damage|p1a: Archaludon|252/268 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1776971264
+|switch|p2a: Iron Treads|Iron Treads, L77|265/265
+|move|p1a: Archaludon|Flash Cannon|p2a: Iron Treads
+|-resisted|p2a: Iron Treads
+|-damage|p2a: Iron Treads|226/265
+|-unboost|p2a: Iron Treads|spd|1
+|
+|-weather|none
+|-damage|p1a: Archaludon|236/268 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1776971276
+|move|p2a: Iron Treads|Earthquake|p1a: Archaludon
+|-supereffective|p1a: Archaludon
+|-damage|p1a: Archaludon|80/268 brn
+|-ability|p1a: Archaludon|Stamina|boost
+|-boost|p1a: Archaludon|def|1
+|move|p1a: Archaludon|Body Press|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|140/265
+|
+|-damage|p1a: Archaludon|64/268 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1776971297
+|switch|p1a: Iron Leaves|Iron Leaves, L80|275/275
+|move|p2a: Iron Treads|Earthquake|p1a: Iron Leaves
+|-resisted|p1a: Iron Leaves
+|-damage|p1a: Iron Leaves|221/275
+|
+|upkeep
+|turn|8
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by RadicalYTP)
+|
+|t:|1776971320
+|move|p1a: Iron Leaves|Close Combat|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|-unboost|p1a: Iron Leaves|def|1
+|-unboost|p1a: Iron Leaves|spd|1
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1776971334
+|switch|p2a: Chandelure|Chandelure, L83, F|235/235
+|turn|9
+|
+|t:|1776971348
+|-end|p1a: Iron Leaves|Quark Drive|[silent]
+|switch|p1a: Mismagius|Mismagius, L86, M|243/243
+|move|p2a: Chandelure|Trick|p1a: Mismagius
+|-activate|p2a: Chandelure|move: Trick|[of] p1a: Mismagius
+|-item|p1a: Mismagius|Choice Scarf|[from] move: Trick
+|-item|p2a: Chandelure|Leftovers|[from] move: Trick
+|
+|upkeep
+|turn|10
+|
+|t:|1776971376
+|move|p1a: Mismagius|Shadow Ball|p2a: Chandelure
+|-supereffective|p2a: Chandelure
+|-damage|p2a: Chandelure|55/235
+|move|p2a: Chandelure|Shadow Ball|p1a: Mismagius
+|-supereffective|p1a: Mismagius
+|-damage|p1a: Mismagius|27/243
+|
+|-heal|p2a: Chandelure|69/235|[from] item: Leftovers
+|upkeep
+|turn|11
+|inactive|RadicalYTP has 120 seconds left.
+|
+|t:|1776971409
+|move|p1a: Mismagius|Shadow Ball|p2a: Chandelure
+|-supereffective|p2a: Chandelure
+|-damage|p2a: Chandelure|0 fnt
+|faint|p2a: Chandelure
+|
+|upkeep
+|c|☆vixozzzz|fvcking pvssy
+|inactive|vixozzzz has 120 seconds left.
+|
+|t:|1776971422
+|switch|p2a: Hypno|Hypno, L95, M|315/315
+|turn|12
+|inactive|RadicalYTP has 120 seconds left.
+|c|☆RadicalYTP|how am i a pvssy u just suck
+|
+|t:|1776971459
+|-terastallize|p2a: Hypno|Dark
+|move|p1a: Mismagius|Shadow Ball|p2a: Hypno
+|-resisted|p2a: Hypno
+|-damage|p2a: Hypno|280/315
+|move|p2a: Hypno|Knock Off|p1a: Mismagius
+|-supereffective|p1a: Mismagius
+|-damage|p1a: Mismagius|0 fnt
+|-enditem|p1a: Mismagius|Choice Scarf|[from] move: Knock Off|[of] p2a: Hypno
+|faint|p1a: Mismagius
+|
+|-heal|p2a: Hypno|299/315|[from] item: Leftovers
+|upkeep
+|c|☆vixozzzz|play
+|
+|t:|1776971469
+|switch|p1a: Iron Boulder|Iron Boulder, L77|265/265
+|turn|13
+|
+|t:|1776971483
+|-terastallize|p1a: Iron Boulder|Fighting
+|move|p1a: Iron Boulder|Close Combat|p2a: Hypno
+|-supereffective|p2a: Hypno
+|-damage|p2a: Hypno|0 fnt
+|-unboost|p1a: Iron Boulder|def|1
+|-unboost|p1a: Iron Boulder|spd|1
+|faint|p2a: Hypno
+|-damage|p1a: Iron Boulder|239/265|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776971496
+|switch|p2a: Hippowdon|Hippowdon, L82, M|173/311
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|turn|14
+|c|☆vixozzzz|u won only for the dragon tail
+|n|!vixozzzz|vixozzzz
+|
+|t:|1776971525
+|-end|p1a: Iron Boulder|Quark Drive|[silent]
+|switch|p1a: Archaludon|Archaludon, L78, F|64/268 brn
+|move|p2a: Hippowdon|Earthquake|p1a: Archaludon
+|-supereffective|p1a: Archaludon
+|-damage|p1a: Archaludon|0 fnt
+|faint|p1a: Archaludon
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Hippowdon|192/311|[from] item: Leftovers
+|upkeep
+|
+|t:|1776971529
+|switch|p1a: Iron Leaves|Iron Leaves, L80|221/275
+|turn|15
+|
+|t:|1776971537
+|switch|p2a: Rotom|Rotom, L88|186/231
+|move|p1a: Iron Leaves|Leaf Blade|p2a: Rotom
+|-damage|p2a: Rotom|12/231
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Iron Leaves|204/275|[from] Sandstorm
+|-damage|p2a: Rotom|0 fnt|[from] Sandstorm
+|faint|p2a: Rotom
+|upkeep
+|
+|t:|1776971545
+|switch|p2a: Eiscue|Eiscue, L88, F|257/274
+|turn|16
+|
+|t:|1776971553
+|move|p1a: Iron Leaves|Leaf Blade|p2a: Eiscue
+|-activate|p2a: Eiscue|ability: Ice Face
+|-damage|p2a: Eiscue|257/274
+|detailschange|p2a: Eiscue|Eiscue-Noice, L88, F
+|move|p2a: Eiscue|Ice Spinner|p1a: Iron Leaves
+|-supereffective|p1a: Iron Leaves
+|-crit|p1a: Iron Leaves
+|-damage|p1a: Iron Leaves|0 fnt
+|faint|p1a: Iron Leaves
+|-end|p1a: Iron Leaves|Quark Drive|[silent]
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Eiscue|240/274|[from] Sandstorm
+|upkeep
+|
+|t:|1776971562
+|switch|p1a: Iron Boulder|Iron Boulder, L77, tera:Fighting|239/265
+|turn|17
+|
+|t:|1776971571
+|move|p2a: Eiscue|Zen Headbutt|p1a: Iron Boulder
+|-supereffective|p1a: Iron Boulder
+|-damage|p1a: Iron Boulder|109/265
+|move|p1a: Iron Boulder|Mighty Cleave|p2a: Eiscue
+|-supereffective|p2a: Eiscue
+|-damage|p2a: Eiscue|0 fnt
+|faint|p2a: Eiscue
+|-damage|p1a: Iron Boulder|83/265|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Iron Boulder|67/265|[from] Sandstorm
+|upkeep
+|
+|t:|1776971577
+|switch|p2a: Hippowdon|Hippowdon, L82, M|192/311
+|turn|18
+|
+|t:|1776971583
+|move|p1a: Iron Boulder|Close Combat|p2a: Hippowdon
+|-damage|p2a: Hippowdon|67/311
+|-unboost|p1a: Iron Boulder|def|1
+|-unboost|p1a: Iron Boulder|spd|1
+|-damage|p1a: Iron Boulder|41/265|[from] item: Life Orb
+|move|p2a: Hippowdon|Earthquake|p1a: Iron Boulder
+|-crit|p1a: Iron Boulder
+|-damage|p1a: Iron Boulder|0 fnt
+|faint|p1a: Iron Boulder
+|-end|p1a: Iron Boulder|Quark Drive|[silent]
+|
+|-weather|none
+|-heal|p2a: Hippowdon|86/311|[from] item: Leftovers
+|upkeep
+|
+|t:|1776971589
+|switch|p1a: Chansey|Chansey, L85, F|564/564
+|turn|19
+|
+|t:|1776971595
+|move|p1a: Chansey|Seismic Toss|p2a: Hippowdon
+|-damage|p2a: Hippowdon|1/311
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|157/311
+|
+|-heal|p2a: Hippowdon|176/311|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1776971606
+|move|p1a: Chansey|Seismic Toss|p2a: Hippowdon
+|-damage|p2a: Hippowdon|91/311
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|247/311
+|
+|-heal|p2a: Hippowdon|266/311|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1776971611
+|move|p1a: Chansey|Seismic Toss|p2a: Hippowdon
+|-damage|p2a: Hippowdon|181/311
+|move|p2a: Hippowdon|Curse|p2a: Hippowdon
+|-unboost|p2a: Hippowdon|spe|1
+|-boost|p2a: Hippowdon|atk|1
+|-boost|p2a: Hippowdon|def|1
+|
+|-heal|p2a: Hippowdon|200/311|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1776971616
+|move|p1a: Chansey|Seismic Toss|p2a: Hippowdon
+|-damage|p2a: Hippowdon|115/311
+|move|p2a: Hippowdon|Curse|p2a: Hippowdon
+|-unboost|p2a: Hippowdon|spe|1
+|-boost|p2a: Hippowdon|atk|1
+|-boost|p2a: Hippowdon|def|1
+|
+|-heal|p2a: Hippowdon|134/311|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1776971621
+|move|p1a: Chansey|Seismic Toss|p2a: Hippowdon
+|-damage|p2a: Hippowdon|49/311
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|205/311
+|
+|-heal|p2a: Hippowdon|224/311|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1776971630
+|move|p1a: Chansey|Seismic Toss|p2a: Hippowdon
+|-damage|p2a: Hippowdon|139/311
+|move|p2a: Hippowdon|Curse|p2a: Hippowdon
+|-unboost|p2a: Hippowdon|spe|1
+|-boost|p2a: Hippowdon|atk|1
+|-boost|p2a: Hippowdon|def|1
+|
+|-heal|p2a: Hippowdon|158/311|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1776971634
+|move|p1a: Chansey|Seismic Toss|p2a: Hippowdon
+|-damage|p2a: Hippowdon|73/311
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|229/311
+|
+|-heal|p2a: Hippowdon|248/311|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1776971641
+|move|p1a: Chansey|Seismic Toss|p2a: Hippowdon
+|-damage|p2a: Hippowdon|163/311
+|move|p2a: Hippowdon|Curse|p2a: Hippowdon
+|-unboost|p2a: Hippowdon|spe|1
+|-boost|p2a: Hippowdon|atk|1
+|-boost|p2a: Hippowdon|def|1
+|
+|-heal|p2a: Hippowdon|182/311|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1776971647
+|move|p1a: Chansey|Seismic Toss|p2a: Hippowdon
+|-damage|p2a: Hippowdon|97/311
+|move|p2a: Hippowdon|Curse|p2a: Hippowdon
+|-unboost|p2a: Hippowdon|spe|1
+|-boost|p2a: Hippowdon|atk|1
+|-boost|p2a: Hippowdon|def|1
+|
+|-heal|p2a: Hippowdon|116/311|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1776971653
+|move|p1a: Chansey|Seismic Toss|p2a: Hippowdon
+|-damage|p2a: Hippowdon|31/311
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|187/311
+|
+|-heal|p2a: Hippowdon|206/311|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1776971657
+|move|p1a: Chansey|Seismic Toss|p2a: Hippowdon
+|-damage|p2a: Hippowdon|121/311
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|277/311
+|
+|-heal|p2a: Hippowdon|296/311|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1776971660
+|move|p1a: Chansey|Seismic Toss|p2a: Hippowdon
+|-damage|p2a: Hippowdon|211/311
+|move|p2a: Hippowdon|Curse|p2a: Hippowdon
+|-unboost|p2a: Hippowdon|spe|1
+|-boost|p2a: Hippowdon|atk|1
+|-boost|p2a: Hippowdon|def|1
+|
+|-heal|p2a: Hippowdon|230/311|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1776971665
+|move|p1a: Chansey|Seismic Toss|p2a: Hippowdon
+|-damage|p2a: Hippowdon|145/311
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|301/311
+|
+|-heal|p2a: Hippowdon|311/311|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1776971669
+|move|p1a: Chansey|Seismic Toss|p2a: Hippowdon
+|-damage|p2a: Hippowdon|226/311
+|move|p2a: Hippowdon|Earthquake|p1a: Chansey
+|-damage|p1a: Chansey|0 fnt
+|faint|p1a: Chansey
+|
+|-heal|p2a: Hippowdon|245/311|[from] item: Leftovers
+|upkeep
+|
+|t:|1776971680
+|switch|p1a: Cryogonal|Cryogonal, L89|287/287
+|turn|33
+|
+|t:|1776971688
+|move|p1a: Cryogonal|Freeze-Dry|p2a: Hippowdon
+|-supereffective|p2a: Hippowdon
+|-damage|p2a: Hippowdon|63/311
+|-status|p2a: Hippowdon|frz
+|cant|p2a: Hippowdon|frz
+|
+|-heal|p2a: Hippowdon|82/311 frz|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1776971696
+|move|p1a: Cryogonal|Freeze-Dry|p2a: Hippowdon
+|-supereffective|p2a: Hippowdon
+|-damage|p2a: Hippowdon|0 fnt
+|faint|p2a: Hippowdon
+|
+|win|RadicalYTP

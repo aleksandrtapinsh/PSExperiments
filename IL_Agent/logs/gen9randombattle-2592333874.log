@@ -1,0 +1,351 @@
+|j|☆Uziboii
+|j|☆soupnspoons
+|t:|1776979710
+|gametype|singles
+|player|p1|Uziboii|steven|1505
+|player|p2|soupnspoons|265|1530
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776979710
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Leavanny|Leavanny, L86, M|269/269
+|switch|p2a: Scizor|Scizor, L79, M|240/240
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Uziboii)
+|
+|t:|1776979726
+|switch|p1a: Toxicroak|Toxicroak, L84, F|277/277
+|move|p2a: Scizor|Swords Dance|p2a: Scizor
+|-boost|p2a: Scizor|atk|2
+|
+|upkeep
+|turn|2
+|
+|t:|1776979744
+|switch|p2a: Azelf|Azelf, L82|257/257
+|move|p1a: Toxicroak|Close Combat|p2a: Azelf
+|-resisted|p2a: Azelf
+|-damage|p2a: Azelf|145/257
+|-unboost|p1a: Toxicroak|def|1
+|-unboost|p1a: Toxicroak|spd|1
+|-damage|p1a: Toxicroak|250/277|[from] item: Life Orb
+|
+|upkeep
+|turn|3
+|
+|t:|1776979752
+|switch|p1a: Ting-Lu|Ting-Lu, L78|370/370
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Azelf|Psychic|p1a: Ting-Lu
+|-immune|p1a: Ting-Lu
+|
+|upkeep
+|turn|4
+|
+|t:|1776979759
+|move|p2a: Azelf|U-turn|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|237/370
+|-damage|p2a: Azelf|120/257|[from] item: Life Orb
+|
+|t:|1776979769
+|switch|p2a: Whimsicott|Whimsicott, L84, M|238/238|[from] U-turn
+|move|p1a: Ting-Lu|Payback|p2a: Whimsicott
+|-resisted|p2a: Whimsicott
+|-damage|p2a: Whimsicott|213/238
+|
+|upkeep
+|turn|5
+|
+|t:|1776979777
+|move|p2a: Whimsicott|Moonblast|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|139/370
+|move|p1a: Ting-Lu|Heavy Slam|p2a: Whimsicott
+|-supereffective|p2a: Whimsicott
+|-damage|p2a: Whimsicott|43/238
+|
+|upkeep
+|turn|6
+|
+|t:|1776979782
+|move|p2a: Whimsicott|Giga Drain|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|65/370
+|-heal|p2a: Whimsicott|80/238|[from] drain|[of] p1a: Ting-Lu
+|move|p1a: Ting-Lu|Heavy Slam|p2a: Whimsicott
+|-supereffective|p2a: Whimsicott
+|-damage|p2a: Whimsicott|0 fnt
+|faint|p2a: Whimsicott
+|
+|upkeep
+|
+|t:|1776979792
+|switch|p2a: Azelf|Azelf, L82|120/257
+|turn|7
+|
+|t:|1776979799
+|switch|p1a: Armarouge|Armarouge, L80, M|267/267
+|move|p2a: Azelf|U-turn|p1a: Armarouge
+|-damage|p1a: Armarouge|199/267
+|-ability|p1a: Armarouge|Weak Armor|boost
+|-unboost|p1a: Armarouge|def|1
+|-boost|p1a: Armarouge|spe|2
+|-damage|p2a: Azelf|95/257|[from] item: Life Orb
+|
+|t:|1776979813
+|switch|p2a: Mesprit|Mesprit, L85|275/275|[from] U-turn
+|
+|upkeep
+|turn|8
+|
+|t:|1776979818
+|move|p1a: Armarouge|Armor Cannon|p2a: Mesprit
+|-damage|p2a: Mesprit|85/275
+|-unboost|p1a: Armarouge|def|1
+|-unboost|p1a: Armarouge|spd|1
+|move|p2a: Mesprit|Thunder Wave|p1a: Armarouge
+|-status|p1a: Armarouge|par
+|
+|-heal|p2a: Mesprit|102/275|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776979834
+|move|p2a: Mesprit|Psychic Noise|p1a: Armarouge
+|-resisted|p1a: Armarouge
+|-damage|p1a: Armarouge|124/267 par
+|-start|p1a: Armarouge|move: Heal Block
+|move|p1a: Armarouge|Armor Cannon|p2a: Mesprit
+|-damage|p2a: Mesprit|0 fnt
+|-unboost|p1a: Armarouge|def|1
+|-unboost|p1a: Armarouge|spd|1
+|faint|p2a: Mesprit
+|
+|upkeep
+|
+|t:|1776979854
+|switch|p2a: Eiscue|Eiscue, L88, F|274/274
+|turn|10
+|
+|t:|1776979858
+|cant|p1a: Armarouge|par
+|move|p2a: Eiscue|Liquidation|p1a: Armarouge
+|-supereffective|p1a: Armarouge
+|-damage|p1a: Armarouge|0 fnt
+|faint|p1a: Armarouge
+|
+|upkeep
+|
+|t:|1776979866
+|switch|p1a: Mismagius|Mismagius, L86, F|243/243
+|turn|11
+|
+|t:|1776979877
+|switch|p2a: Azelf|Azelf, L82|95/257
+|move|p1a: Mismagius|Trick|p2a: Azelf
+|-activate|p1a: Mismagius|move: Trick|[of] p2a: Azelf
+|-item|p2a: Azelf|Choice Specs|[from] move: Trick
+|-item|p1a: Mismagius|Life Orb|[from] move: Trick
+|
+|upkeep
+|turn|12
+|
+|t:|1776979883
+|switch|p1a: Ting-Lu|Ting-Lu, L78|65/370
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Azelf|Psychic|p1a: Ting-Lu
+|-immune|p1a: Ting-Lu
+|
+|upkeep
+|turn|13
+|
+|t:|1776979891
+|switch|p2a: Scizor|Scizor, L79, M|240/240
+|move|p1a: Ting-Lu|Ruination|p2a: Scizor
+|-damage|p2a: Scizor|120/240
+|
+|upkeep
+|turn|14
+|
+|t:|1776979896
+|move|p2a: Scizor|Bug Bite|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|0 fnt
+|faint|p1a: Ting-Lu
+|-damage|p2a: Scizor|96/240|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776979897
+|switch|p1a: Toxicroak|Toxicroak, L84, F|250/277
+|turn|15
+|
+|t:|1776979908
+|move|p2a: Scizor|Bullet Punch|p1a: Toxicroak
+|-damage|p1a: Toxicroak|128/277
+|-damage|p2a: Scizor|72/240|[from] item: Life Orb
+|move|p1a: Toxicroak|Swords Dance|p1a: Toxicroak
+|-boost|p1a: Toxicroak|atk|2
+|
+|upkeep
+|turn|16
+|
+|t:|1776979913
+|move|p2a: Scizor|Bullet Punch|p1a: Toxicroak
+|-damage|p1a: Toxicroak|18/277
+|-damage|p2a: Scizor|48/240|[from] item: Life Orb
+|move|p1a: Toxicroak|Close Combat|p2a: Scizor
+|-damage|p2a: Scizor|0 fnt
+|-unboost|p1a: Toxicroak|def|1
+|-unboost|p1a: Toxicroak|spd|1
+|faint|p2a: Scizor
+|-damage|p1a: Toxicroak|0 fnt|[from] item: Life Orb
+|faint|p1a: Toxicroak
+|
+|upkeep
+|
+|t:|1776979932
+|switch|p1a: Leavanny|Leavanny, L86, M|269/269
+|switch|p2a: Azelf|Azelf, L82|95/257
+|turn|17
+|
+|t:|1776979936
+|switch|p1a: Scrafty|Scrafty, L83, M|244/244
+|-ability|p1a: Scrafty|Intimidate|boost
+|-unboost|p2a: Azelf|atk|1
+|move|p2a: Azelf|Fire Blast|p1a: Scrafty
+|-damage|p1a: Scrafty|142/244
+|
+|-heal|p1a: Scrafty|157/244|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1776979946
+|move|p2a: Azelf|Fire Blast|p1a: Scrafty
+|-damage|p1a: Scrafty|39/244
+|move|p1a: Scrafty|Dragon Dance|p1a: Scrafty
+|-boost|p1a: Scrafty|atk|1
+|-boost|p1a: Scrafty|spe|1
+|
+|-heal|p1a: Scrafty|54/244|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1776979950
+|move|p2a: Azelf|Fire Blast|p1a: Scrafty
+|-damage|p1a: Scrafty|0 fnt
+|faint|p1a: Scrafty
+|
+|upkeep
+|
+|t:|1776979954
+|switch|p1a: Mismagius|Mismagius, L86, F|243/243
+|turn|20
+|
+|t:|1776979958
+|switch|p2a: Noctowl|Noctowl, L95, F|344/344
+|move|p1a: Mismagius|Shadow Ball|p2a: Noctowl
+|-immune|p2a: Noctowl
+|
+|upkeep
+|turn|21
+|
+|t:|1776979964
+|move|p1a: Mismagius|Mystical Fire|p2a: Noctowl
+|-damage|p2a: Noctowl|276/344
+|-unboost|p2a: Noctowl|spa|1
+|-damage|p1a: Mismagius|219/243|[from] item: Life Orb
+|move|p2a: Noctowl|Hurricane|p1a: Mismagius
+|-damage|p1a: Mismagius|146/243
+|
+|upkeep
+|turn|22
+|
+|t:|1776979977
+|switch|p2a: Azelf|Azelf, L82|95/257
+|move|p1a: Mismagius|Mystical Fire|p2a: Azelf
+|-damage|p2a: Azelf|0 fnt
+|faint|p2a: Azelf
+|-damage|p1a: Mismagius|122/243|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776979980
+|switch|p2a: Eiscue|Eiscue, L88, F|274/274
+|turn|23
+|
+|t:|1776979984
+|move|p1a: Mismagius|Mystical Fire|p2a: Eiscue
+|-supereffective|p2a: Eiscue
+|-damage|p2a: Eiscue|126/274
+|-unboost|p2a: Eiscue|spa|1
+|-enditem|p2a: Eiscue|Sitrus Berry|[eat]
+|-heal|p2a: Eiscue|194/274|[from] item: Sitrus Berry
+|-damage|p1a: Mismagius|98/243|[from] item: Life Orb
+|move|p2a: Eiscue|Ice Spinner|p1a: Mismagius
+|-damage|p1a: Mismagius|0 fnt
+|faint|p1a: Mismagius
+|
+|upkeep
+|
+|t:|1776979988
+|switch|p1a: Leavanny|Leavanny, L86, M|269/269
+|turn|24
+|
+|t:|1776979994
+|-terastallize|p1a: Leavanny|Ghost
+|move|p1a: Leavanny|Bullet Seed|p2a: Eiscue
+|-activate|p2a: Eiscue|ability: Ice Face
+|-damage|p2a: Eiscue|194/274
+|detailschange|p2a: Eiscue|Eiscue-Noice, L88, F
+|-damage|p2a: Eiscue|160/274
+|-damage|p2a: Eiscue|127/274
+|-damage|p2a: Eiscue|96/274
+|-hitcount|p2a: Eiscue|4
+|move|p2a: Eiscue|Ice Spinner|p1a: Leavanny
+|-damage|p1a: Leavanny|191/269
+|
+|upkeep
+|turn|25
+|
+|t:|1776980004
+|move|p2a: Eiscue|Ice Spinner|p1a: Leavanny
+|-damage|p1a: Leavanny|113/269
+|move|p1a: Leavanny|Bullet Seed|p2a: Eiscue
+|-damage|p2a: Eiscue|63/274
+|-damage|p2a: Eiscue|30/274
+|-damage|p2a: Eiscue|0 fnt
+|faint|p2a: Eiscue
+|-hitcount|p2: Eiscue|3
+|
+|upkeep
+|
+|t:|1776980006
+|switch|p2a: Noctowl|Noctowl, L95, F|276/344
+|turn|26
+|
+|t:|1776980010
+|move|p1a: Leavanny|Triple Axel|p2a: Noctowl
+|-supereffective|p2a: Noctowl
+|-damage|p2a: Noctowl|236/344
+|-supereffective|p2a: Noctowl
+|-damage|p2a: Noctowl|148/344
+|-supereffective|p2a: Noctowl
+|-damage|p2a: Noctowl|36/344
+|-hitcount|p2a: Noctowl|3
+|move|p2a: Noctowl|Hurricane|p1a: Leavanny
+|-damage|p1a: Leavanny|0 fnt
+|faint|p1a: Leavanny
+|
+|win|soupnspoons
+|raw|Uziboii's rating: 1505 &rarr; <strong>1486</strong><br />(-19 for losing)
+|raw|soupnspoons's rating: 1530 &rarr; <strong>1549</strong><br />(+19 for winning)

@@ -1,0 +1,336 @@
+|j|☆San0311
+|j|☆mathysour
+|t:|1776969566
+|gametype|singles
+|player|p1|San0311|1|1208
+|player|p2|mathysour|169|1214
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776969566
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Zangoose|Zangoose, L85, F|263/263
+|switch|p2a: Klefki|Klefki, L84, F|233/233
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by mathysour)
+|
+|t:|1776969587
+|move|p2a: Klefki|Thunder Wave|p1a: Zangoose
+|-status|p1a: Zangoose|par
+|move|p1a: Zangoose|Swords Dance|p1a: Zangoose
+|-boost|p1a: Zangoose|atk|2
+|
+|upkeep
+|turn|2
+|
+|t:|1776969608
+|switch|p1a: Iron Hands|Iron Hands, L79|373/373
+|move|p2a: Klefki|Spikes|p1a: Iron Hands
+|-sidestart|p1: San0311|Spikes
+|
+|upkeep
+|turn|3
+|
+|t:|1776969623
+|move|p2a: Klefki|Play Rough|p1a: Iron Hands
+|-supereffective|p1a: Iron Hands
+|-damage|p1a: Iron Hands|221/373
+|move|p1a: Iron Hands|Swords Dance|p1a: Iron Hands
+|-boost|p1a: Iron Hands|atk|2
+|
+|-heal|p1a: Iron Hands|244/373|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776969633
+|move|p2a: Klefki|Play Rough|p1a: Iron Hands
+|-supereffective|p1a: Iron Hands
+|-damage|p1a: Iron Hands|92/373
+|move|p1a: Iron Hands|Drain Punch|p2a: Klefki
+|-damage|p2a: Klefki|52/233
+|-heal|p1a: Iron Hands|183/373|[from] drain|[of] p2a: Klefki
+|
+|-heal|p2a: Klefki|66/233|[from] item: Leftovers
+|-heal|p1a: Iron Hands|206/373|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776969643
+|move|p2a: Klefki|Play Rough|p1a: Iron Hands
+|-supereffective|p1a: Iron Hands
+|-damage|p1a: Iron Hands|50/373
+|move|p1a: Iron Hands|Drain Punch|p2a: Klefki
+|-damage|p2a: Klefki|0 fnt
+|-heal|p1a: Iron Hands|83/373|[from] drain|[of] p2a: Klefki
+|faint|p2a: Klefki
+|
+|-heal|p1a: Iron Hands|106/373|[from] item: Leftovers
+|upkeep
+|
+|t:|1776969662
+|switch|p2a: Kilowattrel|Kilowattrel, L83, M|252/252
+|turn|6
+|
+|t:|1776969670
+|move|p2a: Kilowattrel|Hurricane|p1a: Iron Hands|[miss]
+|-miss|p2a: Kilowattrel|p1a: Iron Hands
+|move|p1a: Iron Hands|Ice Punch|p2a: Kilowattrel
+|-supereffective|p2a: Kilowattrel
+|-damage|p2a: Kilowattrel|0 fnt
+|faint|p2a: Kilowattrel
+|
+|-heal|p1a: Iron Hands|129/373|[from] item: Leftovers
+|upkeep
+|inactive|mathysour has 120 seconds left.
+|
+|t:|1776969692
+|switch|p2a: Mienshao|Mienshao, L83, M|244/244
+|turn|7
+|inactive|mathysour has 120 seconds left.
+|
+|t:|1776969715
+|-end|p1a: Iron Hands|Quark Drive|[silent]
+|switch|p1a: Girafarig|Girafarig, L89, M|269/269
+|-damage|p1a: Girafarig|236/269|[from] Spikes
+|move|p2a: Mienshao|Triple Axel|p1a: Girafarig
+|-damage|p1a: Girafarig|219/269
+|-hitcount|p1a: Girafarig|1
+|-damage|p2a: Mienshao|220/244|[from] item: Life Orb
+|
+|upkeep
+|turn|8
+|inactive|mathysour has 120 seconds left.
+|
+|t:|1776969734
+|move|p2a: Mienshao|Swords Dance|p2a: Mienshao
+|-boost|p2a: Mienshao|atk|2
+|move|p1a: Girafarig|Psyshock|p2a: Mienshao
+|-supereffective|p2a: Mienshao
+|-damage|p2a: Mienshao|0 fnt
+|faint|p2a: Mienshao
+|
+|upkeep
+|
+|t:|1776969744
+|switch|p2a: Hypno|Hypno, L95, F|315/315
+|turn|9
+|
+|t:|1776969753
+|switch|p1a: Zarude|Zarude, L77|288/288
+|-damage|p1a: Zarude|252/288|[from] Spikes
+|move|p2a: Hypno|Knock Off|p1a: Zarude
+|-resisted|p1a: Zarude
+|-crit|p1a: Zarude
+|-damage|p1a: Zarude|202/288
+|-enditem|p1a: Zarude|Life Orb|[from] move: Knock Off|[of] p2a: Hypno
+|
+|upkeep
+|turn|10
+|inactive|mathysour has 120 seconds left.
+|
+|t:|1776969764
+|move|p1a: Zarude|Knock Off|p2a: Hypno
+|-supereffective|p2a: Hypno
+|-damage|p2a: Hypno|105/315
+|-enditem|p2a: Hypno|Leftovers|[from] move: Knock Off|[of] p1a: Zarude
+|move|p2a: Hypno|Toxic|p1a: Zarude
+|-status|p1a: Zarude|tox
+|
+|-damage|p1a: Zarude|184/288 tox|[from] psn
+|upkeep
+|turn|11
+|inactive|mathysour has 120 seconds left.
+|c|☆mathysour|Fuc
+|
+|t:|1776969785
+|switch|p2a: Amoonguss|Amoonguss, L82, M|321/321
+|move|p1a: Zarude|Swords Dance|p1a: Zarude
+|-boost|p1a: Zarude|atk|2
+|
+|-damage|p1a: Zarude|148/288 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1776969803
+|move|p1a: Zarude|Knock Off|p2a: Amoonguss
+|-damage|p2a: Amoonguss|56/321
+|-enditem|p2a: Amoonguss|Leftovers|[from] move: Knock Off|[of] p1a: Zarude
+|move|p2a: Amoonguss|Sludge Bomb|p1a: Zarude
+|-supereffective|p1a: Zarude
+|-damage|p1a: Zarude|0 fnt
+|faint|p1a: Zarude
+|
+|upkeep
+|c|☆mathysour|Fuk u you son of a...
+|inactive|San0311 has 120 seconds left.
+|
+|t:|1776969825
+|switch|p1a: Zangoose|Zangoose, L85, F|263/263 par
+|-damage|p1a: Zangoose|231/263 par|[from] Spikes
+|turn|13
+|inactive|San0311 has 120 seconds left.
+|
+|t:|1776969846
+|move|p1a: Zangoose|Swords Dance|p1a: Zangoose
+|-boost|p1a: Zangoose|atk|2
+|move|p2a: Amoonguss|Giga Drain|p1a: Zangoose
+|-damage|p1a: Zangoose|137/263 par
+|-heal|p2a: Amoonguss|103/321|[from] drain|[of] p1a: Zangoose
+|
+|upkeep
+|turn|14
+|
+|t:|1776969859
+|cant|p1a: Zangoose|par
+|move|p2a: Amoonguss|Giga Drain|p1a: Zangoose
+|-crit|p1a: Zangoose
+|-damage|p1a: Zangoose|0 fnt
+|-heal|p2a: Amoonguss|172/321|[from] drain|[of] p1a: Zangoose
+|faint|p1a: Zangoose
+|
+|upkeep
+|c|☆San0311|damn
+|inactive|San0311 has 120 seconds left.
+|
+|t:|1776969871
+|switch|p1a: Iron Hands|Iron Hands, L79|129/373
+|-damage|p1a: Iron Hands|83/373|[from] Spikes
+|turn|15
+|c|☆mathysour|Sorry...
+|c|☆mathysour|My bad man i'm sorry
+|inactive|mathysour has 90 seconds left.
+|
+|t:|1776969900
+|move|p1a: Iron Hands|Ice Punch|p2a: Amoonguss
+|-supereffective|p2a: Amoonguss
+|-damage|p2a: Amoonguss|26/321
+|move|p2a: Amoonguss|Spore|p1a: Iron Hands
+|-status|p1a: Iron Hands|slp|[from] move: Spore
+|
+|-heal|p1a: Iron Hands|106/373 slp|[from] item: Leftovers
+|upkeep
+|turn|16
+|c|☆San0311|why sorry
+|inactive|mathysour has 90 seconds left.
+|inactive|San0311 has 120 seconds left.
+|
+|t:|1776969919
+|-end|p1a: Iron Hands|Quark Drive|[silent]
+|switch|p1a: Entei|Entei, L78|307/307
+|-damage|p1a: Entei|269/307|[from] Spikes
+|move|p2a: Amoonguss|Giga Drain|p1a: Entei
+|-resisted|p1a: Entei
+|-damage|p1a: Entei|227/307
+|-heal|p2a: Amoonguss|47/321|[from] drain|[of] p1a: Entei
+|
+|upkeep
+|turn|17
+|inactive|San0311 has 120 seconds left.
+|
+|t:|1776969933
+|move|p1a: Entei|Extreme Speed|p2a: Amoonguss
+|-damage|p2a: Amoonguss|0 fnt
+|faint|p2a: Amoonguss
+|
+|upkeep
+|
+|t:|1776969941
+|switch|p2a: Serperior|Serperior, L79, F|248/248
+|turn|18
+|
+|t:|1776969951
+|switch|p1a: Kleavor|Kleavor, L78, M|237/237
+|-terastallize|p2a: Serperior|Rock
+|move|p2a: Serperior|Leech Seed|p1a: Kleavor
+|-start|p1a: Kleavor|move: Leech Seed
+|
+|-damage|p1a: Kleavor|208/237|[from] Leech Seed|[of] p2a: Serperior
+|upkeep
+|turn|19
+|
+|t:|1776969965
+|move|p2a: Serperior|Leaf Storm|p1a: Kleavor
+|-damage|p1a: Kleavor|81/237
+|-boost|p2a: Serperior|spa|2
+|move|p1a: Kleavor|Close Combat|p2a: Serperior
+|-supereffective|p2a: Serperior
+|-damage|p2a: Serperior|54/248
+|-unboost|p1a: Kleavor|def|1
+|-unboost|p1a: Kleavor|spd|1
+|
+|-heal|p2a: Serperior|69/248|[from] item: Leftovers
+|-damage|p1a: Kleavor|52/237|[from] Leech Seed|[of] p2a: Serperior
+|-heal|p2a: Serperior|98/248|[silent]
+|upkeep
+|turn|20
+|
+|t:|1776969985
+|move|p2a: Serperior|Leaf Storm|p1a: Kleavor
+|-damage|p1a: Kleavor|0 fnt
+|-boost|p2a: Serperior|spa|2
+|faint|p1a: Kleavor
+|
+|-heal|p2a: Serperior|113/248|[from] item: Leftovers
+|upkeep
+|
+|t:|1776969992
+|switch|p1a: Entei|Entei, L78|227/307
+|-damage|p1a: Entei|189/307|[from] Spikes
+|turn|21
+|
+|t:|1776970001
+|move|p2a: Serperior|Tera Blast|p1a: Entei|[anim] Tera Blast Rock
+|-supereffective|p1a: Entei
+|-damage|p1a: Entei|0 fnt
+|faint|p1a: Entei
+|
+|-heal|p2a: Serperior|128/248|[from] item: Leftovers
+|upkeep
+|
+|t:|1776970010
+|switch|p1a: Iron Hands|Iron Hands, L79|106/373 slp
+|-damage|p1a: Iron Hands|60/373 slp|[from] Spikes
+|turn|22
+|
+|t:|1776970017
+|move|p2a: Serperior|Leaf Storm|p1a: Iron Hands
+|-damage|p1a: Iron Hands|0 fnt
+|-boost|p2a: Serperior|spa|2
+|faint|p1a: Iron Hands
+|-end|p1a: Iron Hands|Quark Drive|[silent]
+|
+|-heal|p2a: Serperior|143/248|[from] item: Leftovers
+|upkeep
+|
+|t:|1776970024
+|switch|p1a: Girafarig|Girafarig, L89, M|219/269
+|-damage|p1a: Girafarig|186/269|[from] Spikes
+|turn|23
+|c|☆mathysour|Oh shii
+|
+|t:|1776970042
+|-terastallize|p1a: Girafarig|Electric
+|move|p2a: Serperior|Leaf Storm|p1a: Girafarig
+|-ability|p1a: Girafarig|Sap Sipper|boost
+|-boost|p1a: Girafarig|atk|1
+|move|p1a: Girafarig|Thunderbolt|p2a: Serperior
+|-damage|p2a: Serperior|38/248
+|
+|-heal|p2a: Serperior|53/248|[from] item: Leftovers
+|upkeep
+|turn|24
+|c|☆mathysour|He strong as hell
+|
+|t:|1776970054
+|move|p2a: Serperior|Tera Blast|p1a: Girafarig|[anim] Tera Blast Rock
+|-damage|p1a: Girafarig|0 fnt
+|faint|p1a: Girafarig
+|
+|win|mathysour

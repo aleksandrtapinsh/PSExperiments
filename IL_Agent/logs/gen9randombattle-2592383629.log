@@ -1,0 +1,559 @@
+|j|☆FleurNspooky
+|j|☆luolikonn
+|t:|1776984201
+|gametype|singles
+|player|p1|FleurNspooky|fantina|1159
+|player|p2|luolikonn|erika|1151
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776984201
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Lurantis|Lurantis, L87, F|264/264
+|switch|p2a: Jumpluff|Jumpluff, L87, F|271/271
+|turn|1
+|
+|t:|1776984231
+|move|p2a: Jumpluff|Acrobatics|p1a: Lurantis
+|-supereffective|p1a: Lurantis
+|-damage|p1a: Lurantis|102/264
+|move|p1a: Lurantis|Knock Off|p2a: Jumpluff
+|-damage|p2a: Jumpluff|214/271
+|
+|upkeep
+|turn|2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by FleurNspooky)
+|
+|t:|1776984249
+|move|p2a: Jumpluff|Acrobatics|p1a: Lurantis
+|-supereffective|p1a: Lurantis
+|-crit|p1a: Lurantis
+|-damage|p1a: Lurantis|0 fnt
+|faint|p1a: Lurantis
+|
+|upkeep
+|
+|t:|1776984263
+|switch|p1a: Dedenne|Dedenne, L88, M|261/261
+|turn|3
+|
+|t:|1776984276
+|move|p2a: Jumpluff|Sleep Powder|p1a: Dedenne
+|-status|p1a: Dedenne|slp|[from] move: Sleep Powder
+|cant|p1a: Dedenne|slp
+|
+|upkeep
+|turn|4
+|
+|t:|1776984286
+|move|p2a: Jumpluff|Strength Sap|p1a: Dedenne
+|-unboost|p1a: Dedenne|atk|1
+|-heal|p2a: Jumpluff|271/271
+|cant|p1a: Dedenne|slp
+|
+|upkeep
+|turn|5
+|
+|t:|1776984294
+|move|p2a: Jumpluff|Strength Sap|p1a: Dedenne
+|-unboost|p1a: Dedenne|atk|1
+|-curestatus|p1a: Dedenne|slp|[msg]
+|move|p1a: Dedenne|Nuzzle|p2a: Jumpluff
+|-damage|p2a: Jumpluff|261/271
+|-status|p2a: Jumpluff|par
+|
+|upkeep
+|turn|6
+|
+|t:|1776984306
+|switch|p1a: Pikachu|Pikachu, L93, M|216/216
+|cant|p2a: Jumpluff|par
+|
+|upkeep
+|turn|7
+|
+|t:|1776984314
+|move|p1a: Pikachu|Volt Tackle|p2a: Jumpluff
+|-damage|p2a: Jumpluff|30/271 par
+|-damage|p1a: Pikachu|140/216|[from] Recoil
+|move|p2a: Jumpluff|Sleep Powder|p1a: Pikachu
+|-status|p1a: Pikachu|slp|[from] move: Sleep Powder
+|
+|upkeep
+|turn|8
+|
+|t:|1776984328
+|switch|p2a: Orthworm|Orthworm, L88, M|266/266
+|cant|p1a: Pikachu|slp
+|
+|upkeep
+|turn|9
+|
+|t:|1776984347
+|switch|p1a: Excadrill|Excadrill, L79, M|303/303
+|-ability|p1a: Excadrill|Mold Breaker
+|move|p2a: Orthworm|Spikes|p1a: Excadrill
+|-sidestart|p1: FleurNspooky|Spikes
+|
+|upkeep
+|turn|10
+|
+|t:|1776984356
+|move|p1a: Excadrill|Earthquake|p2a: Orthworm
+|-supereffective|p2a: Orthworm
+|-crit|p2a: Orthworm
+|-damage|p2a: Orthworm|32/266
+|move|p2a: Orthworm|Spikes|p1a: Excadrill
+|-sidestart|p1: FleurNspooky|Spikes
+|
+|-heal|p2a: Orthworm|48/266|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776984371
+|switch|p2a: Jumpluff|Jumpluff, L87, F|30/271 par
+|move|p1a: Excadrill|Earthquake|p2a: Jumpluff
+|-immune|p2a: Jumpluff
+|
+|upkeep
+|turn|12
+|
+|t:|1776984381
+|move|p1a: Excadrill|Rapid Spin|p2a: Jumpluff
+|-damage|p2a: Jumpluff|0 fnt
+|-boost|p1a: Excadrill|spe|1
+|-sideend|p1: FleurNspooky|Spikes|[from] move: Rapid Spin|[of] p1a: Excadrill
+|faint|p2a: Jumpluff
+|
+|upkeep
+|
+|t:|1776984387
+|switch|p2a: Gothitelle|Gothitelle, L90, M|272/272
+|turn|13
+|
+|t:|1776984400
+|move|p1a: Excadrill|Swords Dance|p1a: Excadrill
+|-boost|p1a: Excadrill|atk|2
+|move|p2a: Gothitelle|Focus Blast|p1a: Excadrill|[miss]
+|-miss|p2a: Gothitelle|p1a: Excadrill
+|
+|upkeep
+|turn|14
+|
+|t:|1776984408
+|move|p1a: Excadrill|Earthquake|p2a: Gothitelle
+|-damage|p2a: Gothitelle|55/272
+|move|p2a: Gothitelle|Focus Blast|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|37/303
+|
+|-heal|p1a: Excadrill|55/303|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1776984417
+|move|p1a: Excadrill|Earthquake|p2a: Gothitelle
+|-damage|p2a: Gothitelle|0 fnt
+|faint|p2a: Gothitelle
+|
+|-heal|p1a: Excadrill|73/303|[from] item: Leftovers
+|upkeep
+|
+|t:|1776984426
+|switch|p2a: Staraptor|Staraptor, L79, M|263/263
+|turn|16
+|c|☆FleurNspooky|that set up was so worth
+|
+|t:|1776984437
+|move|p2a: Staraptor|Quick Attack|p1a: Excadrill
+|-resisted|p1a: Excadrill
+|-damage|p1a: Excadrill|25/303
+|move|p1a: Excadrill|Iron Head|p2a: Staraptor
+|-damage|p2a: Staraptor|34/263
+|
+|-heal|p1a: Excadrill|43/303|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1776984447
+|move|p2a: Staraptor|Quick Attack|p1a: Excadrill
+|-resisted|p1a: Excadrill
+|-damage|p1a: Excadrill|0 fnt
+|faint|p1a: Excadrill
+|
+|upkeep
+|
+|t:|1776984452
+|switch|p1a: Pikachu|Pikachu, L93, M|140/216 slp
+|turn|18
+|
+|t:|1776984456
+|switch|p2a: Orthworm|Orthworm, L88, M|48/266
+|-curestatus|p1a: Pikachu|slp|[msg]
+|move|p1a: Pikachu|Fake Out|p2a: Orthworm
+|-resisted|p2a: Orthworm
+|-damage|p2a: Orthworm|33/266
+|
+|-heal|p2a: Orthworm|49/266|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1776984466
+|move|p1a: Pikachu|Volt Tackle|p2a: Orthworm
+|-damage|p2a: Orthworm|0 fnt
+|faint|p2a: Orthworm
+|-damage|p1a: Pikachu|124/216|[from] Recoil
+|
+|upkeep
+|
+|t:|1776984472
+|switch|p2a: Clefable|Clefable, L83, F|293/293
+|turn|20
+|
+|t:|1776984484
+|-terastallize|p2a: Clefable|Steel
+|move|p1a: Pikachu|Volt Switch|p2a: Clefable
+|-damage|p2a: Clefable|182/293
+|
+|t:|1776984501
+|switch|p1a: Enamorus|Enamorus-Therian, L83, F|259/259|[from] Volt Switch
+|move|p2a: Clefable|Moonblast|p1a: Enamorus
+|-damage|p1a: Enamorus|177/259
+|-unboost|p1a: Enamorus|spa|1
+|
+|-heal|p2a: Clefable|200/293|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1776984514
+|move|p2a: Clefable|Thunder Wave|p1a: Enamorus
+|-status|p1a: Enamorus|par
+|move|p1a: Enamorus|Earth Power|p2a: Clefable
+|-supereffective|p2a: Clefable
+|-damage|p2a: Clefable|40/293
+|
+|-heal|p2a: Clefable|58/293|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1776984526
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|204/293
+|cant|p1a: Enamorus|par
+|
+|-heal|p2a: Clefable|222/293|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1776984536
+|move|p2a: Clefable|Moonblast|p1a: Enamorus
+|-damage|p1a: Enamorus|95/259 par
+|-unboost|p1a: Enamorus|spa|1
+|move|p1a: Enamorus|Earth Power|p2a: Clefable
+|-supereffective|p2a: Clefable
+|-damage|p2a: Clefable|54/293
+|
+|-heal|p2a: Clefable|72/293|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1776984547
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|218/293
+|move|p1a: Enamorus|Mystical Fire|p2a: Clefable
+|-supereffective|p2a: Clefable
+|-damage|p2a: Clefable|92/293
+|-unboost|p2a: Clefable|spa|1
+|
+|-heal|p2a: Clefable|110/293|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1776984556
+|move|p2a: Clefable|Moonblast|p1a: Enamorus
+|-damage|p1a: Enamorus|32/259 par
+|move|p1a: Enamorus|Earth Power|p2a: Clefable
+|-supereffective|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|upkeep
+|
+|t:|1776984565
+|switch|p2a: Umbreon|Umbreon, L84, F|297/297
+|turn|26
+|
+|t:|1776984573
+|move|p2a: Umbreon|Foul Play|p1a: Enamorus
+|-resisted|p1a: Enamorus
+|-damage|p1a: Enamorus|0 fnt
+|faint|p1a: Enamorus
+|
+|upkeep
+|
+|t:|1776984581
+|switch|p1a: Dedenne|Dedenne, L88, M|261/261
+|turn|27
+|
+|t:|1776984587
+|move|p1a: Dedenne|Dazzling Gleam|p2a: Umbreon
+|-supereffective|p2a: Umbreon
+|-damage|p2a: Umbreon|181/297
+|move|p2a: Umbreon|Toxic|p1a: Dedenne
+|-status|p1a: Dedenne|tox
+|
+|-heal|p2a: Umbreon|199/297|[from] item: Leftovers
+|-damage|p1a: Dedenne|245/261 tox|[from] psn
+|upkeep
+|turn|28
+|
+|t:|1776984603
+|move|p1a: Dedenne|Nuzzle||[still]
+|-damage|p2a: Umbreon|184/297
+|-status|p2a: Umbreon|par
+|-activate|p2a: Umbreon|ability: Synchronize
+|-fail|p2a: Umbreon
+|move|p2a: Umbreon|Wish|p2a: Umbreon
+|
+|-heal|p2a: Umbreon|202/297 par|[from] item: Leftovers
+|-damage|p1a: Dedenne|213/261 tox|[from] psn
+|upkeep
+|turn|29
+|
+|t:|1776984617
+|move|p2a: Umbreon|Protect|p2a: Umbreon
+|-singleturn|p2a: Umbreon|Protect
+|move|p1a: Dedenne|Thunderbolt|p2a: Umbreon
+|-activate|p2a: Umbreon|move: Protect
+|
+|-heal|p2a: Umbreon|297/297 par|[from] move: Wish|[wisher] Umbreon
+|-damage|p1a: Dedenne|165/261 tox|[from] psn
+|upkeep
+|turn|30
+|
+|t:|1776984627
+|move|p1a: Dedenne|Dazzling Gleam|p2a: Umbreon
+|-supereffective|p2a: Umbreon
+|-damage|p2a: Umbreon|183/297 par
+|move|p2a: Umbreon|Wish|p2a: Umbreon
+|
+|-heal|p2a: Umbreon|201/297 par|[from] item: Leftovers
+|-damage|p1a: Dedenne|101/261 tox|[from] psn
+|upkeep
+|-enditem|p1a: Dedenne|Sitrus Berry|[eat]
+|-heal|p1a: Dedenne|166/261 tox|[from] item: Sitrus Berry
+|-heal|p1a: Dedenne|253/261 tox|[from] ability: Cheek Pouch
+|turn|31
+|
+|t:|1776984637
+|cant|p2a: Umbreon|par
+|move|p1a: Dedenne|Dazzling Gleam|p2a: Umbreon
+|-supereffective|p2a: Umbreon
+|-damage|p2a: Umbreon|81/297 par
+|
+|-heal|p2a: Umbreon|229/297 par|[from] move: Wish|[wisher] Umbreon
+|-heal|p2a: Umbreon|247/297 par|[from] item: Leftovers
+|-damage|p1a: Dedenne|173/261 tox|[from] psn
+|upkeep
+|turn|32
+|
+|t:|1776984647
+|cant|p2a: Umbreon|par
+|move|p1a: Dedenne|Dazzling Gleam|p2a: Umbreon
+|-supereffective|p2a: Umbreon
+|-damage|p2a: Umbreon|127/297 par
+|
+|-heal|p2a: Umbreon|145/297 par|[from] item: Leftovers
+|-damage|p1a: Dedenne|77/261 tox|[from] psn
+|upkeep
+|turn|33
+|
+|t:|1776984658
+|move|p1a: Dedenne|Dazzling Gleam|p2a: Umbreon
+|-supereffective|p2a: Umbreon
+|-damage|p2a: Umbreon|25/297 par
+|move|p2a: Umbreon|Wish|p2a: Umbreon
+|
+|-heal|p2a: Umbreon|43/297 par|[from] item: Leftovers
+|-damage|p1a: Dedenne|0 fnt|[from] psn
+|faint|p1a: Dedenne
+|upkeep
+|
+|t:|1776984665
+|switch|p1a: Pikachu|Pikachu, L93, M|124/216
+|turn|34
+|
+|t:|1776984682
+|move|p2a: Umbreon|Protect|p2a: Umbreon
+|-singleturn|p2a: Umbreon|Protect
+|move|p1a: Pikachu|Surf|p2a: Umbreon
+|-activate|p2a: Umbreon|move: Protect
+|
+|-heal|p2a: Umbreon|191/297 par|[from] move: Wish|[wisher] Umbreon
+|-heal|p2a: Umbreon|209/297 par|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1776984691
+|move|p1a: Pikachu|Surf|p2a: Umbreon
+|-damage|p2a: Umbreon|143/297 par
+|move|p2a: Umbreon|Toxic|p1a: Pikachu
+|-status|p1a: Pikachu|tox
+|
+|-heal|p2a: Umbreon|161/297 par|[from] item: Leftovers
+|-damage|p1a: Pikachu|111/216 tox|[from] psn
+|upkeep
+|turn|36
+|
+|t:|1776984703
+|switch|p2a: Staraptor|Staraptor, L79, M|34/263
+|move|p1a: Pikachu|Volt Tackle|p2a: Staraptor
+|-supereffective|p2a: Staraptor
+|-damage|p2a: Staraptor|0 fnt
+|faint|p2a: Staraptor
+|-damage|p1a: Pikachu|100/216 tox|[from] Recoil
+|
+|-damage|p1a: Pikachu|74/216 tox|[from] psn
+|upkeep
+|
+|t:|1776984712
+|switch|p2a: Umbreon|Umbreon, L84, F|161/297 par
+|turn|37
+|
+|t:|1776984715
+|move|p2a: Umbreon|Protect|p2a: Umbreon
+|-singleturn|p2a: Umbreon|Protect
+|move|p1a: Pikachu|Volt Tackle|p2a: Umbreon
+|-activate|p2a: Umbreon|move: Protect
+|
+|-heal|p2a: Umbreon|179/297 par|[from] item: Leftovers
+|-damage|p1a: Pikachu|35/216 tox|[from] psn
+|upkeep
+|turn|38
+|
+|t:|1776984724
+|move|p2a: Umbreon|Protect||[still]
+|-fail|p2a: Umbreon
+|move|p1a: Pikachu|Volt Tackle|p2a: Umbreon
+|-damage|p2a: Umbreon|11/297 par
+|-damage|p1a: Pikachu|0 fnt|[from] Recoil
+|faint|p1a: Pikachu
+|
+|-heal|p2a: Umbreon|29/297 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1776984732
+|switch|p1a: Luvdisc|Luvdisc, M|247/247
+|turn|39
+|
+|t:|1776984741
+|move|p2a: Umbreon|Protect|p2a: Umbreon
+|-singleturn|p2a: Umbreon|Protect
+|move|p1a: Luvdisc|Surf|p2a: Umbreon
+|-activate|p2a: Umbreon|move: Protect
+|
+|-heal|p2a: Umbreon|47/297 par|[from] item: Leftovers
+|upkeep
+|turn|40
+|
+|t:|1776984748
+|move|p2a: Umbreon|Protect|p2a: Umbreon
+|-singleturn|p2a: Umbreon|Protect
+|move|p1a: Luvdisc|Surf|p2a: Umbreon
+|-activate|p2a: Umbreon|move: Protect
+|
+|-heal|p2a: Umbreon|65/297 par|[from] item: Leftovers
+|upkeep
+|turn|41
+|
+|t:|1776984755
+|move|p1a: Luvdisc|Surf|p2a: Umbreon
+|-damage|p2a: Umbreon|8/297 par
+|move|p2a: Umbreon|Wish|p2a: Umbreon
+|
+|-heal|p2a: Umbreon|26/297 par|[from] item: Leftovers
+|upkeep
+|turn|42
+|inactive|FleurNspooky has 120 seconds left.
+|
+|t:|1776984786
+|move|p2a: Umbreon|Protect|p2a: Umbreon
+|-singleturn|p2a: Umbreon|Protect
+|move|p1a: Luvdisc|Surf|p2a: Umbreon
+|-activate|p2a: Umbreon|move: Protect
+|
+|-heal|p2a: Umbreon|174/297 par|[from] move: Wish|[wisher] Umbreon
+|-heal|p2a: Umbreon|192/297 par|[from] item: Leftovers
+|upkeep
+|turn|43
+|
+|t:|1776984795
+|move|p1a: Luvdisc|Whirlpool|p2a: Umbreon
+|-damage|p2a: Umbreon|171/297 par
+|-activate|p2a: Umbreon|move: Whirlpool|[of] p1a: Luvdisc
+|move|p2a: Umbreon|Toxic|p1a: Luvdisc
+|-status|p1a: Luvdisc|tox
+|
+|-heal|p2a: Umbreon|189/297 par|[from] item: Leftovers
+|-damage|p1a: Luvdisc|232/247 tox|[from] psn
+|-damage|p2a: Umbreon|152/297 par|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|44
+|
+|t:|1776984805
+|move|p1a: Luvdisc|Surf|p2a: Umbreon
+|-damage|p2a: Umbreon|101/297 par
+|move|p2a: Umbreon|Wish|p2a: Umbreon
+|
+|-heal|p2a: Umbreon|119/297 par|[from] item: Leftovers
+|-damage|p1a: Luvdisc|202/247 tox|[from] psn
+|-damage|p2a: Umbreon|82/297 par|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|45
+|
+|t:|1776984814
+|move|p1a: Luvdisc|Surf|p2a: Umbreon
+|-damage|p2a: Umbreon|31/297 par
+|move|p2a: Umbreon|Foul Play|p1a: Luvdisc
+|-damage|p1a: Luvdisc|165/247 tox
+|
+|-heal|p2a: Umbreon|179/297 par|[from] move: Wish|[wisher] Umbreon
+|-heal|p2a: Umbreon|197/297 par|[from] item: Leftovers
+|-damage|p1a: Luvdisc|120/247 tox|[from] psn
+|-damage|p2a: Umbreon|160/297 par|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|46
+|
+|t:|1776984832
+|-terastallize|p1a: Luvdisc|Ground
+|move|p1a: Luvdisc|Surf|p2a: Umbreon
+|-damage|p2a: Umbreon|109/297 par
+|cant|p2a: Umbreon|par
+|
+|-heal|p2a: Umbreon|127/297 par|[from] item: Leftovers
+|-damage|p1a: Luvdisc|60/247 tox|[from] psn
+|-damage|p2a: Umbreon|90/297 par|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|47
+|
+|t:|1776984841
+|move|p2a: Umbreon|Protect|p2a: Umbreon
+|-singleturn|p2a: Umbreon|Protect
+|move|p1a: Luvdisc|Surf|p2a: Umbreon
+|-activate|p2a: Umbreon|move: Protect
+|
+|-heal|p2a: Umbreon|108/297 par|[from] item: Leftovers
+|-damage|p1a: Luvdisc|0 fnt|[from] psn
+|faint|p1a: Luvdisc
+|
+|win|luolikonn
+|raw|FleurNspooky's rating: 1159 &rarr; <strong>1133</strong><br />(-26 for losing)
+|raw|luolikonn's rating: 1151 &rarr; <strong>1177</strong><br />(+26 for winning)
+|c|☆FleurNspooky|ur so lame

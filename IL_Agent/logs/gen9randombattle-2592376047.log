@@ -1,0 +1,451 @@
+|j|☆Neferlian Frant
+|j|☆Uziboii
+|t:|1776983491
+|gametype|singles
+|player|p1|Neferlian Frant|scientist-gen4|1470
+|player|p2|Uziboii|steven|1486
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776983491
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Calyrex|Calyrex-Shadow, L64|235/235
+|switch|p2a: Tropius|Tropius, L91, F|328/328
+|-ability|p1a: Calyrex|As One
+|-ability|p1a: Calyrex|Unnerve
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Uziboii)
+|
+|t:|1776983509
+|switch|p2a: Umbreon|Umbreon, L84, M|297/297
+|move|p1a: Calyrex|Nasty Plot|p1a: Calyrex
+|-boost|p1a: Calyrex|spa|2
+|
+|upkeep
+|turn|2
+|
+|t:|1776983517
+|move|p1a: Calyrex|Pollen Puff|p2a: Umbreon
+|-supereffective|p2a: Umbreon
+|-damage|p2a: Umbreon|86/297
+|-damage|p1a: Calyrex|212/235|[from] item: Life Orb
+|move|p2a: Umbreon|Foul Play|p1a: Calyrex
+|-supereffective|p1a: Calyrex
+|-crit|p1a: Calyrex
+|-damage|p1a: Calyrex|0 fnt
+|faint|p1a: Calyrex
+|
+|-heal|p2a: Umbreon|104/297|[from] item: Leftovers
+|upkeep
+|
+|t:|1776983530
+|switch|p1a: Fezandipiti|Fezandipiti, L82, M|278/278
+|turn|3
+|
+|t:|1776983540
+|move|p2a: Umbreon|Protect|p2a: Umbreon
+|-singleturn|p2a: Umbreon|Protect
+|move|p1a: Fezandipiti|Moonblast|p2a: Umbreon
+|-activate|p2a: Umbreon|move: Protect
+|
+|-heal|p2a: Umbreon|122/297|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776983545
+|switch|p2a: Glimmora|Glimmora, L75, F|248/248
+|move|p1a: Fezandipiti|Moonblast|p2a: Glimmora
+|-resisted|p2a: Glimmora
+|-damage|p2a: Glimmora|200/248
+|
+|upkeep
+|turn|5
+|
+|t:|1776983553
+|move|p1a: Fezandipiti|Moonblast|p2a: Glimmora
+|-resisted|p2a: Glimmora
+|-damage|p2a: Glimmora|155/248
+|move|p2a: Glimmora|Meteor Beam||[still]
+|-prepare|p2a: Glimmora|Meteor Beam
+|-boost|p2a: Glimmora|spa|1
+|-enditem|p2a: Glimmora|Power Herb
+|-anim|p2a: Glimmora|Meteor Beam|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|112/278
+|
+|-heal|p1a: Fezandipiti|129/278|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776983558
+|move|p1a: Fezandipiti|Roost|p1a: Fezandipiti
+|-heal|p1a: Fezandipiti|268/278
+|-singleturn|p1a: Fezandipiti|move: Roost
+|move|p2a: Glimmora|Earth Power|p1a: Fezandipiti
+|-supereffective|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|122/278
+|
+|-heal|p1a: Fezandipiti|139/278|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776983568
+|switch|p1a: Greedent|Greedent, L86, F|347/347
+|move|p2a: Glimmora|Earth Power|p1a: Greedent
+|-damage|p1a: Greedent|241/347
+|
+|upkeep
+|turn|8
+|
+|t:|1776983576
+|move|p2a: Glimmora|Sludge Wave|p1a: Greedent
+|-damage|p1a: Greedent|75/347
+|-enditem|p1a: Greedent|Sitrus Berry|[eat]
+|-heal|p1a: Greedent|161/347|[from] item: Sitrus Berry
+|-heal|p1a: Greedent|276/347|[from] ability: Cheek Pouch
+|move|p1a: Greedent|Earthquake|p2a: Glimmora
+|-supereffective|p2a: Glimmora
+|-damage|p2a: Glimmora|0 fnt
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: Neferlian Frant|move: Toxic Spikes
+|faint|p2a: Glimmora
+|
+|upkeep
+|
+|t:|1776983586
+|switch|p2a: Krookodile|Krookodile, L79, F|280/280
+|-ability|p2a: Krookodile|Intimidate|boost
+|-unboost|p1a: Greedent|atk|1
+|turn|9
+|
+|t:|1776983591
+|move|p2a: Krookodile|Stealth Rock|p1a: Greedent
+|-sidestart|p1: Neferlian Frant|move: Stealth Rock
+|move|p1a: Greedent|Double-Edge|p2a: Krookodile
+|-damage|p2a: Krookodile|187/280
+|-damage|p1a: Greedent|245/347|[from] Recoil
+|
+|upkeep
+|turn|10
+|
+|t:|1776983595
+|move|p2a: Krookodile|Gunk Shot|p1a: Greedent
+|-damage|p1a: Greedent|136/347
+|-damage|p2a: Krookodile|159/280|[from] item: Life Orb
+|move|p1a: Greedent|Double-Edge|p2a: Krookodile
+|-damage|p2a: Krookodile|62/280
+|-damage|p1a: Greedent|104/347|[from] Recoil
+|
+|upkeep
+|turn|11
+|
+|t:|1776983597
+|move|p2a: Krookodile|Earthquake|p1a: Greedent
+|-damage|p1a: Greedent|0 fnt
+|faint|p1a: Greedent
+|-damage|p2a: Krookodile|34/280|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776983600
+|switch|p1a: Fezandipiti|Fezandipiti, L82, M|139/278
+|-sideend|p1: Neferlian Frant|move: Toxic Spikes|[of] p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|105/278|[from] Stealth Rock
+|turn|12
+|
+|t:|1776983608
+|switch|p2a: Tropius|Tropius, L91, F|328/328
+|move|p1a: Fezandipiti|Moonblast|p2a: Tropius
+|-damage|p2a: Tropius|258/328
+|-status|p2a: Tropius|tox|[from] ability: Toxic Chain|[of] p1a: Fezandipiti
+|
+|-heal|p1a: Fezandipiti|122/278|[from] item: Leftovers
+|-damage|p2a: Tropius|238/328 tox|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1776983620
+|move|p1a: Fezandipiti|Roost|p1a: Fezandipiti
+|-heal|p1a: Fezandipiti|261/278
+|-singleturn|p1a: Fezandipiti|move: Roost
+|move|p2a: Tropius|Dragon Dance|p2a: Tropius
+|-boost|p2a: Tropius|atk|1
+|-boost|p2a: Tropius|spe|1
+|
+|-heal|p1a: Fezandipiti|278/278|[from] item: Leftovers
+|-damage|p2a: Tropius|198/328 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1776983626
+|move|p2a: Tropius|Earthquake|p1a: Fezandipiti
+|-supereffective|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|60/278
+|move|p1a: Fezandipiti|Gunk Shot|p2a: Tropius
+|-supereffective|p2a: Tropius
+|-damage|p2a: Tropius|0 fnt
+|faint|p2a: Tropius
+|
+|-heal|p1a: Fezandipiti|77/278|[from] item: Leftovers
+|upkeep
+|
+|t:|1776983656
+|switch|p2a: Terrakion|Terrakion, L79|273/273
+|turn|15
+|
+|t:|1776983662
+|move|p2a: Terrakion|Earthquake|p1a: Fezandipiti
+|-supereffective|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|0 fnt
+|faint|p1a: Fezandipiti
+|
+|upkeep
+|
+|t:|1776983672
+|switch|p1a: Grimmsnarl|Grimmsnarl, L83, M|293/293
+|-damage|p1a: Grimmsnarl|257/293|[from] Stealth Rock
+|turn|16
+|
+|t:|1776983683
+|switch|p2a: Umbreon|Umbreon, L84, M|122/297
+|move|p1a: Grimmsnarl|Thunder Wave|p2a: Umbreon
+|-hint|Since gen 7, Dark is immune to Prankster moves.
+|-immune|p2a: Umbreon
+|
+|-heal|p2a: Umbreon|140/297|[from] item: Leftovers
+|-heal|p1a: Grimmsnarl|275/293|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1776983687
+|move|p2a: Umbreon|Wish|p2a: Umbreon
+|move|p1a: Grimmsnarl|Spirit Break|p2a: Umbreon
+|-supereffective|p2a: Umbreon
+|-damage|p2a: Umbreon|0 fnt
+|faint|p2a: Umbreon
+|
+|-heal|p1a: Grimmsnarl|293/293|[from] item: Leftovers
+|upkeep
+|
+|t:|1776983692
+|switch|p2a: Krookodile|Krookodile, L79, F|34/280
+|-ability|p2a: Krookodile|Intimidate|boost
+|-unboost|p1a: Grimmsnarl|atk|1
+|turn|18
+|
+|t:|1776983696
+|move|p2a: Krookodile|Gunk Shot|p1a: Grimmsnarl
+|-supereffective|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|20/293
+|-damage|p2a: Krookodile|6/280|[from] item: Life Orb
+|move|p1a: Grimmsnarl|Spirit Break|p2a: Krookodile
+|-supereffective|p2a: Krookodile
+|-damage|p2a: Krookodile|0 fnt
+|faint|p2a: Krookodile
+|
+|-heal|p1a: Grimmsnarl|38/293|[from] item: Leftovers
+|upkeep
+|
+|t:|1776983703
+|switch|p2a: Terrakion|Terrakion, L79|273/273
+|turn|19
+|
+|t:|1776983710
+|move|p2a: Terrakion|Quick Attack|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|0 fnt
+|faint|p1a: Grimmsnarl
+|
+|upkeep
+|
+|t:|1776983721
+|switch|p1a: Rhyperior|Rhyperior, L82, M|323/323
+|-damage|p1a: Rhyperior|303/323|[from] Stealth Rock
+|turn|20
+|
+|t:|1776983727
+|switch|p2a: Chimecho|Chimecho, L93, F|290/290
+|-terastallize|p1a: Rhyperior|Bug
+|move|p1a: Rhyperior|Earthquake|p2a: Chimecho
+|-immune|p2a: Chimecho|[from] ability: Levitate
+|
+|upkeep
+|turn|21
+|
+|t:|1776983734
+|-terastallize|p2a: Chimecho|Steel
+|move|p2a: Chimecho|Cosmic Power|p2a: Chimecho
+|-boost|p2a: Chimecho|def|1
+|-boost|p2a: Chimecho|spd|1
+|move|p1a: Rhyperior|Megahorn|p2a: Chimecho|[miss]
+|-miss|p1a: Rhyperior|p2a: Chimecho
+|
+|upkeep
+|turn|22
+|
+|t:|1776983738
+|move|p2a: Chimecho|Cosmic Power|p2a: Chimecho
+|-boost|p2a: Chimecho|def|1
+|-boost|p2a: Chimecho|spd|1
+|move|p1a: Rhyperior|Dragon Tail|p2a: Chimecho
+|-resisted|p2a: Chimecho
+|-damage|p2a: Chimecho|277/290
+|drag|p2a: Terrakion|Terrakion, L79|273/273
+|
+|upkeep
+|turn|23
+|
+|t:|1776983743
+|move|p2a: Terrakion|Stone Edge|p1a: Rhyperior|[miss]
+|-miss|p2a: Terrakion|p1a: Rhyperior
+|move|p1a: Rhyperior|Earthquake|p2a: Terrakion
+|-supereffective|p2a: Terrakion
+|-damage|p2a: Terrakion|0 fnt
+|faint|p2a: Terrakion
+|
+|upkeep
+|
+|t:|1776983745
+|switch|p2a: Chimecho|Chimecho, L93, F, tera:Steel|277/290
+|turn|24
+|
+|t:|1776983750
+|switch|p1a: Raging Bolt|Raging Bolt, L78|323/323
+|-damage|p1a: Raging Bolt|283/323|[from] Stealth Rock
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|move|p2a: Chimecho|Cosmic Power|p2a: Chimecho
+|-boost|p2a: Chimecho|def|1
+|-boost|p2a: Chimecho|spd|1
+|
+|-heal|p2a: Chimecho|290/290|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1776983770
+|move|p2a: Chimecho|Cosmic Power|p2a: Chimecho
+|-boost|p2a: Chimecho|def|1
+|-boost|p2a: Chimecho|spd|1
+|move|p1a: Raging Bolt|Calm Mind|p1a: Raging Bolt
+|-boost|p1a: Raging Bolt|spa|1
+|-boost|p1a: Raging Bolt|spd|1
+|
+|upkeep
+|turn|26
+|
+|t:|1776983773
+|move|p2a: Chimecho|Cosmic Power|p2a: Chimecho
+|-boost|p2a: Chimecho|def|1
+|-boost|p2a: Chimecho|spd|1
+|move|p1a: Raging Bolt|Calm Mind|p1a: Raging Bolt
+|-boost|p1a: Raging Bolt|spa|1
+|-boost|p1a: Raging Bolt|spd|1
+|
+|upkeep
+|turn|27
+|
+|t:|1776983776
+|move|p2a: Chimecho|Cosmic Power|p2a: Chimecho
+|-boost|p2a: Chimecho|def|1
+|-boost|p2a: Chimecho|spd|1
+|move|p1a: Raging Bolt|Calm Mind|p1a: Raging Bolt
+|-boost|p1a: Raging Bolt|spa|1
+|-boost|p1a: Raging Bolt|spd|1
+|
+|upkeep
+|turn|28
+|
+|t:|1776983783
+|move|p2a: Chimecho|Cosmic Power|p2a: Chimecho
+|-boost|p2a: Chimecho|def|1
+|-boost|p2a: Chimecho|spd|1
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Chimecho
+|-damage|p2a: Chimecho|206/290
+|
+|-heal|p2a: Chimecho|224/290|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1776983787
+|move|p2a: Chimecho|Cosmic Power|p2a: Chimecho
+|-boost|p2a: Chimecho|def|1
+|-boost|p2a: Chimecho|spd|1
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Chimecho
+|-damage|p2a: Chimecho|149/290
+|
+|-heal|p2a: Chimecho|167/290|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1776983789
+|move|p2a: Chimecho|Recover|p2a: Chimecho
+|-heal|p2a: Chimecho|290/290
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Chimecho
+|-damage|p2a: Chimecho|212/290
+|
+|-heal|p2a: Chimecho|230/290|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1776983791
+|move|p2a: Chimecho|Stored Power|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|138/323
+|move|p1a: Raging Bolt|Calm Mind|p1a: Raging Bolt
+|-boost|p1a: Raging Bolt|spa|1
+|-boost|p1a: Raging Bolt|spd|1
+|
+|-heal|p2a: Chimecho|248/290|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1776983796
+|move|p2a: Chimecho|Dazzling Gleam|p1a: Raging Bolt
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|90/323
+|move|p1a: Raging Bolt|Thunderbolt|p2a: Chimecho
+|-damage|p2a: Chimecho|152/290
+|
+|-heal|p2a: Chimecho|170/290|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1776983803
+|move|p1a: Raging Bolt|Thunderclap||[still]
+|-fail|p1a: Raging Bolt
+|move|p2a: Chimecho|Recover|p2a: Chimecho
+|-heal|p2a: Chimecho|290/290
+|
+|upkeep
+|turn|34
+|
+|t:|1776983806
+|move|p1a: Raging Bolt|Thunderclap|p2a: Chimecho
+|-damage|p2a: Chimecho|214/290
+|move|p2a: Chimecho|Stored Power|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|-heal|p2a: Chimecho|232/290|[from] item: Leftovers
+|upkeep
+|
+|t:|1776983808
+|switch|p1a: Rhyperior|Rhyperior, L82, M, tera:Bug|303/323
+|-damage|p1a: Rhyperior|223/323|[from] Stealth Rock
+|turn|35
+|c|☆Neferlian Frant|GGWP
+|
+|t:|1776983821
+|move|p2a: Chimecho|Stored Power|p1a: Rhyperior
+|-damage|p1a: Rhyperior|0 fnt
+|faint|p1a: Rhyperior
+|
+|win|Uziboii
+|raw|Neferlian Frant's rating: 1470 &rarr; <strong>1451</strong><br />(-19 for losing)
+|raw|Uziboii's rating: 1486 &rarr; <strong>1505</strong><br />(+19 for winning)

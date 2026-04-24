@@ -1,0 +1,206 @@
+|j|☆ethan bengivenga
+|j|☆Zachyyyb
+|t:|1776970597
+|gametype|singles
+|player|p1|ethan bengivenga|clerkf|
+|player|p2|Zachyyyb|cyrus|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776970597
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Hippowdon|Hippowdon, L82, M|311/311
+|switch|p2a: Veluza|Veluza, L85, F|292/292
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|turn|1
+|
+|t:|1776970608
+|move|p2a: Veluza|Flip Turn|p1a: Hippowdon
+|-supereffective|p1a: Hippowdon
+|-damage|p1a: Hippowdon|201/311
+|-damage|p2a: Veluza|244/292|[from] item: Rocky Helmet|[of] p1a: Hippowdon
+|
+|t:|1776970613
+|switch|p2a: Groudon|Groudon, L72|263/263|[from] Flip Turn
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Groudon
+|move|p1a: Hippowdon|Stone Edge|p2a: Groudon
+|-resisted|p2a: Groudon
+|-crit|p2a: Groudon
+|-damage|p2a: Groudon|216/263
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Groudon|232/263|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776970635
+|-terastallize|p1a: Hippowdon|Dragon
+|move|p2a: Groudon|Precipice Blades|p1a: Hippowdon
+|-damage|p1a: Hippowdon|83/311
+|move|p1a: Hippowdon|Whirlwind|p2a: Groudon
+|drag|p2a: Dudunsparce|Dudunsparce-Three-Segment, L83, M|343/343
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1776970654
+|move|p2a: Dudunsparce|Calm Mind|p2a: Dudunsparce
+|-boost|p2a: Dudunsparce|spa|1
+|-boost|p2a: Dudunsparce|spd|1
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|239/311
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1776970684
+|switch|p1a: Toxicroak|Toxicroak, L84, M|277/277
+|move|p2a: Dudunsparce|Boomburst|p1a: Toxicroak
+|-damage|p1a: Toxicroak|33/277
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Toxicroak|0 fnt|[from] ability: Dry Skin|[of] p1a: Toxicroak
+|faint|p1a: Toxicroak
+|upkeep
+|
+|t:|1776970712
+|switch|p1a: Pelipper|Pelipper, L86, F|243/243
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|5
+|
+|t:|1776970726
+|move|p1a: Pelipper|U-turn|p2a: Dudunsparce
+|-damage|p2a: Dudunsparce|308/343
+|-ability|p2a: Dudunsparce|Rattled|boost
+|-boost|p2a: Dudunsparce|spe|1
+|
+|t:|1776970737
+|switch|p1a: Grafaiai|Grafaiai, L86, F|249/249|[from] U-turn
+|move|p2a: Dudunsparce|Boomburst|p1a: Grafaiai
+|-damage|p1a: Grafaiai|12/249
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Dudunsparce|329/343|[from] item: Leftovers
+|upkeep
+|turn|6
+|c|☆ethan bengivenga|stop r*ping me
+|
+|t:|1776970768
+|move|p1a: Grafaiai|Knock Off|p2a: Dudunsparce
+|-damage|p2a: Dudunsparce|247/343
+|-ability|p2a: Dudunsparce|Rattled|boost
+|-boost|p2a: Dudunsparce|spe|1
+|-enditem|p2a: Dudunsparce|Leftovers|[from] move: Knock Off|[of] p1a: Grafaiai
+|move|p2a: Dudunsparce|Earth Power|p1a: Grafaiai
+|-supereffective|p1a: Grafaiai
+|-damage|p1a: Grafaiai|0 fnt
+|faint|p1a: Grafaiai
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1776970777
+|switch|p1a: Hippowdon|Hippowdon, L82, M, tera:Dragon|239/311
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|turn|7
+|
+|t:|1776970793
+|move|p2a: Dudunsparce|Boomburst|p1a: Hippowdon
+|-damage|p1a: Hippowdon|5/311
+|move|p1a: Hippowdon|Stone Edge|p2a: Dudunsparce
+|-damage|p2a: Dudunsparce|171/343
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Dudunsparce|150/343|[from] Sandstorm
+|-damage|p1a: Hippowdon|0 fnt|[from] Sandstorm
+|faint|p1a: Hippowdon
+|upkeep
+|c|☆ethan bengivenga|so fucking unfair
+|
+|t:|1776970813
+|switch|p1a: Whimsicott|Whimsicott, L84, M|238/238
+|turn|8
+|
+|t:|1776970832
+|move|p1a: Whimsicott|Stun Spore|p2a: Dudunsparce
+|-status|p2a: Dudunsparce|par
+|move|p2a: Dudunsparce|Boomburst|p1a: Whimsicott
+|-damage|p1a: Whimsicott|7/238
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Whimsicott|0 fnt|[from] Sandstorm
+|-damage|p2a: Dudunsparce|129/343 par|[from] Sandstorm
+|faint|p1a: Whimsicott
+|upkeep
+|
+|t:|1776970845
+|switch|p1a: Golurk|Golurk, L87|297/297
+|turn|9
+|
+|t:|1776970851
+|move|p1a: Golurk|Poltergeist||[still]
+|-fail|p1a: Golurk
+|cant|p2a: Dudunsparce|par
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Dudunsparce|108/343 par|[from] Sandstorm
+|upkeep
+|turn|10
+|
+|t:|1776970861
+|move|p1a: Golurk|Earthquake|p2a: Dudunsparce
+|-damage|p2a: Dudunsparce|0 fnt
+|faint|p2a: Dudunsparce
+|-damage|p1a: Golurk|268/297|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1776970868
+|switch|p2a: Ditto|Ditto, L87|225/225
+|-transform|p2a: Ditto|p1a: Golurk|[from] ability: Imposter
+|turn|11
+|
+|t:|1776970876
+|move|p2a: Ditto|Poltergeist|p1a: Golurk
+|-activate|p1a: Golurk|move: Poltergeist|Life Orb
+|-supereffective|p1a: Golurk
+|-damage|p1a: Golurk|0 fnt
+|faint|p1a: Golurk
+|
+|-weather|none
+|upkeep
+|
+|t:|1776970884
+|switch|p1a: Pelipper|Pelipper, L86, F|243/243
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|12
+|c|☆ethan bengivenga|of fucking course bro
+|
+|t:|1776970907
+|move|p2a: Ditto|Poltergeist|p1a: Pelipper
+|-activate|p1a: Pelipper|move: Poltergeist|Choice Specs
+|-damage|p1a: Pelipper|101/243
+|move|p1a: Pelipper|Hurricane|p2a: Ditto
+|-damage|p2a: Ditto|27/225
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1776970916
+|-terastallize|p2a: Ditto|Steel
+|move|p2a: Ditto|Poltergeist|p1a: Pelipper
+|-activate|p1a: Pelipper|move: Poltergeist|Choice Specs
+|-damage|p1a: Pelipper|0 fnt
+|faint|p1a: Pelipper
+|
+|win|Zachyyyb

@@ -1,0 +1,493 @@
+|j|☆tayandres13
+|j|☆verspatten
+|t:|1776970072
+|gametype|singles
+|player|p1|tayandres13|170|1779
+|player|p2|verspatten|swimmer-gen7|1724
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776970072
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Arcanine|Arcanine, L84, M|288/288
+|switch|p2a: Ambipom|Ambipom, L84, M|263/263
+|-ability|p1a: Arcanine|Intimidate|boost
+|-unboost|p2a: Ambipom|atk|1
+|turn|1
+|
+|t:|1776970085
+|move|p2a: Ambipom|U-turn|p1a: Arcanine
+|-resisted|p1a: Arcanine
+|-damage|p1a: Arcanine|261/288
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by verspatten)
+|
+|t:|1776970100
+|switch|p2a: Snorlax|Snorlax, L82, F|397/397|[from] U-turn
+|move|p1a: Arcanine|Will-O-Wisp|p2a: Snorlax
+|-status|p2a: Snorlax|brn
+|
+|-damage|p2a: Snorlax|373/397 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1776970111
+|move|p1a: Arcanine|Close Combat|p2a: Snorlax
+|-supereffective|p2a: Snorlax
+|-damage|p2a: Snorlax|121/397 brn
+|-unboost|p1a: Arcanine|def|1
+|-unboost|p1a: Arcanine|spd|1
+|move|p2a: Snorlax|Body Slam|p1a: Arcanine
+|-damage|p1a: Arcanine|186/288
+|-status|p1a: Arcanine|par
+|
+|-heal|p2a: Snorlax|145/397 brn|[from] item: Leftovers
+|-damage|p2a: Snorlax|121/397 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1776970125
+|switch|p1a: Cramorant|Cramorant, L86, M|261/261
+|move|p2a: Snorlax|Rest|p2a: Snorlax
+|-status|p2a: Snorlax|slp|[from] move: Rest
+|-heal|p2a: Snorlax|397/397 slp|[silent]
+|
+|upkeep
+|turn|4
+|
+|t:|1776970134
+|move|p1a: Cramorant|Surf|p2a: Snorlax
+|-formechange|p1a: Cramorant|Cramorant-Gulping|
+|-damage|p2a: Snorlax|319/397 slp
+|cant|p2a: Snorlax|slp
+|move|p2a: Snorlax|Sleep Talk|p2a: Snorlax
+|move|p2a: Snorlax|Body Slam|p1a: Cramorant|[from] move: Sleep Talk
+|-damage|p1a: Cramorant|137/261
+|-damage|p2a: Snorlax|220/397 slp|[from] ability: Gulp Missile|[of] p1a: Cramorant
+|-unboost|p2a: Snorlax|def|1
+|-formechange|p1a: Cramorant|Cramorant|
+|
+|-heal|p2a: Snorlax|244/397 slp|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776970149
+|move|p1a: Cramorant|Brave Bird|p2a: Snorlax
+|-damage|p2a: Snorlax|19/397 slp
+|-damage|p1a: Cramorant|63/261|[from] Recoil
+|cant|p2a: Snorlax|slp
+|move|p2a: Snorlax|Sleep Talk|p2a: Snorlax
+|move|p2a: Snorlax|Curse|p2a: Snorlax|[from] move: Sleep Talk
+|-unboost|p2a: Snorlax|spe|1
+|-boost|p2a: Snorlax|atk|1
+|-boost|p2a: Snorlax|def|1
+|
+|-heal|p2a: Snorlax|43/397 slp|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776970159
+|move|p1a: Cramorant|Surf|p2a: Snorlax
+|-formechange|p1a: Cramorant|Cramorant-Gorging|
+|-damage|p2a: Snorlax|0 fnt
+|faint|p2a: Snorlax
+|
+|upkeep
+|
+|t:|1776970170
+|switch|p2a: Uxie|Uxie, L83|260/260
+|turn|7
+|
+|t:|1776970177
+|move|p2a: Uxie|Psychic Noise|p1a: Cramorant
+|-damage|p1a: Cramorant|5/261
+|-start|p1a: Cramorant|move: Heal Block
+|-damage|p2a: Uxie|195/260|[from] ability: Gulp Missile|[of] p1a: Cramorant
+|-status|p2a: Uxie|par
+|-formechange|p1a: Cramorant|Cramorant|
+|move|p1a: Cramorant|Surf|p2a: Uxie
+|-formechange|p1a: Cramorant|Cramorant-Gorging|
+|-damage|p2a: Uxie|122/260 par
+|
+|-heal|p2a: Uxie|138/260 par|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776970189
+|switch|p1a: Gothitelle|Gothitelle, L90, M|272/272
+|move|p2a: Uxie|U-turn|p1a: Gothitelle
+|-supereffective|p1a: Gothitelle
+|-crit|p1a: Gothitelle
+|-damage|p1a: Gothitelle|158/272
+|
+|t:|1776970197
+|switch|p2a: Ambipom|Ambipom, L84, M|263/263|[from] U-turn
+|
+|-heal|p1a: Gothitelle|175/272|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776970202
+|switch|p1a: Arcanine|Arcanine, L84, M|186/288 par
+|-ability|p1a: Arcanine|Intimidate|boost
+|-unboost|p2a: Ambipom|atk|1
+|move|p2a: Ambipom|Knock Off|p1a: Arcanine
+|-damage|p1a: Arcanine|104/288 par
+|-enditem|p1a: Arcanine|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Ambipom
+|
+|upkeep
+|turn|10
+|
+|t:|1776970215
+|switch|p2a: Uxie|Uxie, L83|138/260 par
+|cant|p1a: Arcanine|par
+|
+|-heal|p2a: Uxie|154/260 par|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776970227
+|move|p1a: Arcanine|Morning Sun|p1a: Arcanine
+|-heal|p1a: Arcanine|248/288 par
+|move|p2a: Uxie|U-turn|p1a: Arcanine
+|-resisted|p1a: Arcanine
+|-damage|p1a: Arcanine|227/288 par
+|
+|t:|1776970236
+|switch|p2a: Deoxys|Deoxys-Defense, L84|221/221|[from] U-turn
+|-ability|p2a: Deoxys|Pressure
+|
+|upkeep
+|turn|12
+|inactive|tayandres13 has 120 seconds left.
+|
+|t:|1776970272
+|switch|p1a: Minun|Minun, L95, F|268/268
+|move|p2a: Deoxys|Stealth Rock|p1a: Minun
+|-sidestart|p1: tayandres13|move: Stealth Rock
+|
+|upkeep
+|turn|13
+|
+|t:|1776970298
+|move|p1a: Minun|Nasty Plot|p1a: Minun
+|-boost|p1a: Minun|spa|2
+|move|p2a: Deoxys|Knock Off|p1a: Minun
+|-damage|p1a: Minun|195/268
+|-enditem|p1a: Minun|Life Orb|[from] move: Knock Off|[of] p2a: Deoxys
+|
+|upkeep
+|turn|14
+|
+|t:|1776970307
+|move|p1a: Minun|Thunderbolt|p2a: Deoxys
+|-damage|p2a: Deoxys|92/221
+|move|p2a: Deoxys|Psychic Noise|p1a: Minun
+|-damage|p1a: Minun|132/268
+|-start|p1a: Minun|move: Heal Block
+|
+|upkeep
+|turn|15
+|
+|t:|1776970320
+|move|p1a: Minun|Thunderbolt|p2a: Deoxys
+|-damage|p2a: Deoxys|0 fnt
+|faint|p2a: Deoxys
+|
+|-end|p1a: Minun|move: Heal Block
+|upkeep
+|
+|t:|1776970324
+|switch|p2a: Ambipom|Ambipom, L84, M|263/263
+|turn|16
+|
+|t:|1776970336
+|move|p2a: Ambipom|Double-Edge|p1a: Minun
+|-damage|p1a: Minun|0 fnt
+|faint|p1a: Minun
+|-damage|p2a: Ambipom|219/263|[from] Recoil
+|
+|upkeep
+|
+|t:|1776970352
+|switch|p1a: Gothitelle|Gothitelle, L90, M|175/272
+|-damage|p1a: Gothitelle|141/272|[from] Stealth Rock
+|turn|17
+|
+|t:|1776970357
+|move|p2a: Ambipom|Double-Edge|p1a: Gothitelle
+|-damage|p1a: Gothitelle|0 fnt
+|faint|p1a: Gothitelle
+|-damage|p2a: Ambipom|172/263|[from] Recoil
+|
+|upkeep
+|inactive|tayandres13 has 120 seconds left.
+|
+|t:|1776970389
+|switch|p1a: Probopass|Probopass, L91, M|257/257
+|-damage|p1a: Probopass|241/257|[from] Stealth Rock
+|turn|18
+|
+|t:|1776970404
+|switch|p2a: Hitmonchan|Hitmonchan, L87, M|229/229
+|move|p1a: Probopass|Body Press|p2a: Hitmonchan
+|-damage|p2a: Hitmonchan|129/229
+|
+|-heal|p2a: Hitmonchan|143/229|[from] item: Leftovers
+|-heal|p1a: Probopass|257/257|[from] item: Leftovers
+|upkeep
+|turn|19
+|inactive|tayandres13 has 120 seconds left.
+|
+|t:|1776970415
+|switch|p1a: Arcanine|Arcanine, L84, M|227/288 par
+|-damage|p1a: Arcanine|155/288 par|[from] Stealth Rock
+|-ability|p1a: Arcanine|Intimidate|boost
+|-unboost|p2a: Hitmonchan|atk|1
+|move|p2a: Hitmonchan|Drain Punch|p1a: Arcanine
+|-damage|p1a: Arcanine|80/288 par
+|-heal|p2a: Hitmonchan|181/229|[from] drain|[of] p1a: Arcanine
+|
+|-heal|p2a: Hitmonchan|195/229|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1776970429
+|move|p2a: Hitmonchan|Drain Punch|p1a: Arcanine
+|-damage|p1a: Arcanine|1/288 par
+|-heal|p2a: Hitmonchan|229/229|[from] drain|[of] p1a: Arcanine
+|move|p1a: Arcanine|Will-O-Wisp|p2a: Hitmonchan
+|-status|p2a: Hitmonchan|brn
+|
+|-damage|p2a: Hitmonchan|215/229 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1776970441
+|move|p2a: Hitmonchan|Knock Off|p1a: Arcanine
+|-damage|p1a: Arcanine|0 fnt
+|faint|p1a: Arcanine
+|
+|-heal|p2a: Hitmonchan|229/229 brn|[from] item: Leftovers
+|-damage|p2a: Hitmonchan|215/229 brn|[from] brn
+|upkeep
+|inactive|tayandres13 has 120 seconds left.
+|
+|t:|1776970468
+|switch|p1a: Cramorant|Cramorant, L86, M|5/261
+|turn|22
+|
+|t:|1776970476
+|move|p1a: Cramorant|Roost|p1a: Cramorant
+|-heal|p1a: Cramorant|136/261
+|-singleturn|p1a: Cramorant|move: Roost
+|move|p2a: Hitmonchan|Knock Off|p1a: Cramorant
+|-damage|p1a: Cramorant|101/261
+|-enditem|p1a: Cramorant|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Hitmonchan
+|
+|-heal|p2a: Hitmonchan|229/229 brn|[from] item: Leftovers
+|-damage|p2a: Hitmonchan|215/229 brn|[from] brn
+|upkeep
+|turn|23
+|inactive|tayandres13 has 120 seconds left.
+|
+|t:|1776970491
+|switch|p2a: Uxie|Uxie, L83|154/260 par
+|move|p1a: Cramorant|Roost|p1a: Cramorant
+|-heal|p1a: Cramorant|232/261
+|-singleturn|p1a: Cramorant|move: Roost
+|
+|-heal|p2a: Uxie|170/260 par|[from] item: Leftovers
+|upkeep
+|turn|24
+|inactive|tayandres13 has 120 seconds left.
+|
+|t:|1776970505
+|move|p1a: Cramorant|Surf|p2a: Uxie
+|-formechange|p1a: Cramorant|Cramorant-Gulping|
+|-damage|p2a: Uxie|106/260 par
+|move|p2a: Uxie|Yawn|p1a: Cramorant
+|-start|p1a: Cramorant|move: Yawn|[of] p2a: Uxie
+|
+|-heal|p2a: Uxie|122/260 par|[from] item: Leftovers
+|upkeep
+|turn|25
+|inactive|tayandres13 has 120 seconds left.
+|
+|t:|1776970519
+|switch|p1a: Crawdaunt|Crawdaunt, L84, F|243/243
+|-damage|p1a: Crawdaunt|213/243|[from] Stealth Rock
+|move|p2a: Uxie|Knock Off|p1a: Crawdaunt
+|-resisted|p1a: Crawdaunt
+|-damage|p1a: Crawdaunt|186/243
+|-enditem|p1a: Crawdaunt|Choice Band|[from] move: Knock Off|[of] p2a: Uxie
+|
+|-heal|p2a: Uxie|138/260 par|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1776970531
+|move|p1a: Crawdaunt|Knock Off|p2a: Uxie
+|-supereffective|p2a: Uxie
+|-damage|p2a: Uxie|0 fnt
+|-enditem|p2a: Uxie|Leftovers|[from] move: Knock Off|[of] p1a: Crawdaunt
+|faint|p2a: Uxie
+|
+|upkeep
+|
+|t:|1776970544
+|switch|p2a: Ambipom|Ambipom, L84, M|172/263
+|turn|27
+|
+|t:|1776970551
+|move|p2a: Ambipom|U-turn|p1a: Crawdaunt
+|-supereffective|p1a: Crawdaunt
+|-damage|p1a: Crawdaunt|40/243
+|
+|t:|1776970555
+|switch|p2a: Hitmonchan|Hitmonchan, L87, M|215/229 brn|[from] U-turn
+|move|p1a: Crawdaunt|Knock Off|p2a: Hitmonchan
+|-resisted|p2a: Hitmonchan
+|-damage|p2a: Hitmonchan|134/229 brn
+|-enditem|p2a: Hitmonchan|Leftovers|[from] move: Knock Off|[of] p1a: Crawdaunt
+|
+|-damage|p2a: Hitmonchan|120/229 brn|[from] brn
+|upkeep
+|turn|28
+|
+|t:|1776970562
+|switch|p1a: Cramorant|Cramorant, L86, M|232/261
+|-damage|p1a: Cramorant|167/261|[from] Stealth Rock
+|move|p2a: Hitmonchan|Drain Punch|p1a: Cramorant
+|-resisted|p1a: Cramorant
+|-damage|p1a: Cramorant|132/261
+|-heal|p2a: Hitmonchan|138/229 brn|[from] drain|[of] p1a: Cramorant
+|
+|-damage|p2a: Hitmonchan|124/229 brn|[from] brn
+|upkeep
+|turn|29
+|
+|t:|1776970571
+|move|p1a: Cramorant|Brave Bird|p2a: Hitmonchan
+|-supereffective|p2a: Hitmonchan
+|-damage|p2a: Hitmonchan|0 fnt
+|faint|p2a: Hitmonchan
+|-damage|p1a: Cramorant|91/261|[from] Recoil
+|
+|upkeep
+|
+|t:|1776970583
+|switch|p2a: Ambipom|Ambipom, L84, M|172/263
+|turn|30
+|
+|t:|1776970593
+|move|p2a: Ambipom|Knock Off|p1a: Cramorant
+|-damage|p1a: Cramorant|0 fnt
+|faint|p1a: Cramorant
+|
+|upkeep
+|
+|t:|1776970601
+|switch|p1a: Probopass|Probopass, L91, M|257/257
+|-damage|p1a: Probopass|241/257|[from] Stealth Rock
+|turn|31
+|
+|t:|1776970611
+|move|p2a: Ambipom|Knock Off|p1a: Probopass
+|-damage|p1a: Probopass|175/257
+|-enditem|p1a: Probopass|Leftovers|[from] move: Knock Off|[of] p2a: Ambipom
+|move|p1a: Probopass|Iron Defense|p1a: Probopass
+|-boost|p1a: Probopass|def|2
+|
+|upkeep
+|turn|32
+|
+|t:|1776970632
+|switch|p2a: Kricketune|Kricketune, L99, M|312/312
+|move|p1a: Probopass|Body Press|p2a: Kricketune
+|-resisted|p2a: Kricketune
+|-damage|p2a: Kricketune|207/312
+|
+|upkeep
+|turn|33
+|inactive|tayandres13 has 120 seconds left.
+|
+|t:|1776970656
+|-terastallize|p2a: Kricketune|Ghost
+|move|p2a: Kricketune|Taunt|p1a: Probopass
+|-start|p1a: Probopass|move: Taunt
+|cant|p1a: Probopass|move: Taunt|Thunder Wave
+|
+|upkeep
+|turn|34
+|inactive|tayandres13 has 120 seconds left.
+|
+|t:|1776970678
+|-terastallize|p1a: Probopass|Fighting
+|move|p2a: Kricketune|Pounce|p1a: Probopass
+|-resisted|p1a: Probopass
+|-damage|p1a: Probopass|160/257
+|-unboost|p1a: Probopass|spe|1
+|move|p1a: Probopass|Flash Cannon|p2a: Kricketune
+|-damage|p2a: Kricketune|110/312
+|
+|upkeep
+|turn|35
+|
+|t:|1776970699
+|switch|p2a: Ambipom|Ambipom, L84, M|172/263
+|move|p1a: Probopass|Flash Cannon|p2a: Ambipom
+|-damage|p2a: Ambipom|76/263
+|
+|-end|p1a: Probopass|move: Taunt
+|upkeep
+|turn|36
+|inactive|tayandres13 has 120 seconds left.
+|
+|t:|1776970712
+|move|p2a: Ambipom|Triple Axel|p1a: Probopass
+|-damage|p1a: Probopass|150/257
+|-crit|p1a: Probopass
+|-damage|p1a: Probopass|83/257
+|-damage|p1a: Probopass|54/257
+|-hitcount|p1a: Probopass|3
+|move|p1a: Probopass|Flash Cannon|p2a: Ambipom
+|-crit|p2a: Ambipom
+|-damage|p2a: Ambipom|0 fnt
+|faint|p2a: Ambipom
+|
+|upkeep
+|
+|t:|1776970721
+|switch|p2a: Kricketune|Kricketune, L99, M, tera:Ghost|110/312
+|turn|37
+|
+|t:|1776970732
+|move|p2a: Kricketune|Taunt|p1a: Probopass
+|-start|p1a: Probopass|move: Taunt
+|move|p1a: Probopass|Flash Cannon|p2a: Kricketune
+|-damage|p2a: Kricketune|1/312
+|
+|upkeep
+|turn|38
+|
+|t:|1776970748
+|move|p2a: Kricketune|Pounce|p1a: Probopass
+|-resisted|p1a: Probopass
+|-damage|p1a: Probopass|39/257
+|-unboost|p1a: Probopass|spe|1
+|move|p1a: Probopass|Flash Cannon|p2a: Kricketune
+|-damage|p2a: Kricketune|0 fnt
+|faint|p2a: Kricketune
+|
+|win|tayandres13
+|raw|tayandres13's rating: 1779 &rarr; <strong>1796</strong><br />(+17 for winning)
+|raw|verspatten's rating: 1724 &rarr; <strong>1707</strong><br />(-17 for losing)
+|l|☆tayandres13
+|player|p1|

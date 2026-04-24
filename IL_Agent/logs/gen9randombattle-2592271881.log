@@ -1,0 +1,264 @@
+|j|☆Dany_93
+|j|☆gtnds
+|t:|1776974913
+|gametype|singles
+|player|p1|Dany_93|169|1076
+|player|p2|gtnds|hiker-gen4|1101
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776974913
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Blaziken|Blaziken, L76, M|247/247
+|switch|p2a: Vileplume|Vileplume, L85, M|266/266
+|turn|1
+|
+|t:|1776974934
+|switch|p2a: Rhyperior|Rhyperior, L82, F|323/323
+|move|p1a: Blaziken|Flare Blitz|p2a: Rhyperior
+|-resisted|p2a: Rhyperior
+|-damage|p2a: Rhyperior|258/323
+|-damage|p1a: Blaziken|226/247|[from] Recoil
+|-damage|p1a: Blaziken|202/247|[from] item: Life Orb
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|2
+|
+|t:|1776974948
+|move|p1a: Blaziken|Close Combat|p2a: Rhyperior
+|-supereffective|p2a: Rhyperior
+|-damage|p2a: Rhyperior|59/323
+|-unboost|p1a: Blaziken|def|1
+|-unboost|p1a: Blaziken|spd|1
+|-enditem|p2a: Rhyperior|Weakness Policy
+|-boost|p2a: Rhyperior|atk|2|[from] item: Weakness Policy
+|-boost|p2a: Rhyperior|spa|2|[from] item: Weakness Policy
+|-damage|p1a: Blaziken|178/247|[from] item: Life Orb
+|move|p2a: Rhyperior|Earthquake|p1a: Blaziken
+|-supereffective|p1a: Blaziken
+|-damage|p1a: Blaziken|0 fnt
+|faint|p1a: Blaziken
+|
+|upkeep
+|
+|t:|1776974975
+|switch|p1a: Victreebel|Victreebel, L90, M|290/290
+|turn|3
+|
+|t:|1776974985
+|move|p1a: Victreebel|Power Whip|p2a: Rhyperior
+|-supereffective|p2a: Rhyperior
+|-damage|p2a: Rhyperior|0 fnt
+|faint|p2a: Rhyperior
+|-damage|p1a: Victreebel|261/290|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776974991
+|switch|p2a: Vileplume|Vileplume, L85, M|266/266
+|turn|4
+|
+|t:|1776975009
+|move|p1a: Victreebel|Swords Dance|p1a: Victreebel
+|-boost|p1a: Victreebel|atk|2
+|move|p2a: Vileplume|Strength Sap|p1a: Victreebel
+|-unboost|p1a: Victreebel|atk|1
+|
+|upkeep
+|turn|5
+|
+|t:|1776975018
+|switch|p2a: Landorus|Landorus, L75, M|257/257
+|move|p1a: Victreebel|Sucker Punch||[still]
+|-fail|p1a: Victreebel
+|
+|upkeep
+|turn|6
+|
+|t:|1776975028
+|move|p2a: Landorus|Psychic|p1a: Victreebel
+|-supereffective|p1a: Victreebel
+|-damage|p1a: Victreebel|56/290
+|move|p1a: Victreebel|Power Whip|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|-damage|p1a: Victreebel|27/290|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776975037
+|switch|p2a: Mesprit|Mesprit, L85|275/275
+|turn|7
+|
+|t:|1776975041
+|move|p1a: Victreebel|Sucker Punch|p2a: Mesprit
+|-supereffective|p2a: Mesprit
+|-damage|p2a: Mesprit|70/275
+|-damage|p1a: Victreebel|0 fnt|[from] item: Life Orb
+|faint|p1a: Victreebel
+|move|p2a: Mesprit|Psychic|p1: Victreebel|[notarget]
+|-fail|p2a: Mesprit
+|
+|upkeep
+|
+|t:|1776975058
+|switch|p1a: Leavanny|Leavanny, L86, F|269/269
+|turn|8
+|
+|t:|1776975068
+|move|p2a: Mesprit|Psychic|p1a: Leavanny
+|-damage|p1a: Leavanny|164/269
+|move|p1a: Leavanny|Knock Off|p2a: Mesprit
+|-supereffective|p2a: Mesprit
+|-damage|p2a: Mesprit|0 fnt
+|-enditem|p2a: Mesprit|Choice Scarf|[from] move: Knock Off|[of] p1a: Leavanny
+|faint|p2a: Mesprit
+|
+|upkeep
+|
+|t:|1776975074
+|switch|p2a: Cobalion|Cobalion, L80|277/277
+|turn|9
+|
+|t:|1776975095
+|move|p2a: Cobalion|Iron Head|p1a: Leavanny
+|-damage|p1a: Leavanny|88/269
+|cant|p1a: Leavanny|flinch
+|
+|upkeep
+|turn|10
+|
+|t:|1776975103
+|move|p2a: Cobalion|Iron Head|p1a: Leavanny
+|-damage|p1a: Leavanny|16/269
+|move|p1a: Leavanny|Sticky Web|p2a: Cobalion
+|-sidestart|p2: gtnds|move: Sticky Web
+|
+|upkeep
+|turn|11
+|
+|t:|1776975109
+|move|p2a: Cobalion|Iron Head|p1a: Leavanny
+|-damage|p1a: Leavanny|0 fnt
+|faint|p1a: Leavanny
+|
+|upkeep
+|
+|t:|1776975115
+|switch|p1a: Excadrill|Excadrill, L79, M|303/303
+|-ability|p1a: Excadrill|Mold Breaker
+|turn|12
+|
+|t:|1776975121
+|move|p2a: Cobalion|Body Press|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|3/303
+|move|p1a: Excadrill|Earthquake|p2a: Cobalion
+|-supereffective|p2a: Cobalion
+|-crit|p2a: Cobalion
+|-damage|p2a: Cobalion|0 fnt
+|faint|p2a: Cobalion
+|
+|upkeep
+|
+|t:|1776975132
+|switch|p2a: Vileplume|Vileplume, L85, M|266/266
+|-activate|p2a: Vileplume|move: Sticky Web
+|-unboost|p2a: Vileplume|spe|1
+|turn|13
+|
+|t:|1776975144
+|move|p1a: Excadrill|Iron Head|p2a: Vileplume
+|-damage|p2a: Vileplume|163/266
+|cant|p2a: Vileplume|flinch
+|
+|-heal|p2a: Vileplume|179/266|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1776975152
+|move|p1a: Excadrill|Iron Head|p2a: Vileplume
+|-damage|p2a: Vileplume|80/266
+|move|p2a: Vileplume|Giga Drain|p1a: Excadrill
+|-damage|p1a: Excadrill|0 fnt
+|-heal|p2a: Vileplume|82/266|[from] drain|[of] p1a: Excadrill
+|faint|p1a: Excadrill
+|
+|-heal|p2a: Vileplume|98/266|[from] item: Leftovers
+|upkeep
+|
+|t:|1776975167
+|switch|p1a: Volcanion|Volcanion, L79|255/255
+|turn|15
+|
+|t:|1776975173
+|move|p1a: Volcanion|Flamethrower|p2a: Vileplume
+|-supereffective|p2a: Vileplume
+|-damage|p2a: Vileplume|0 fnt
+|faint|p2a: Vileplume
+|
+|upkeep
+|
+|t:|1776975178
+|switch|p2a: Dewgong|Dewgong, L94, M|322/322
+|-activate|p2a: Dewgong|move: Sticky Web
+|-unboost|p2a: Dewgong|spe|1
+|turn|16
+|
+|t:|1776975190
+|-terastallize|p2a: Dewgong|Poison
+|move|p1a: Volcanion|Earth Power|p2a: Dewgong
+|-supereffective|p2a: Dewgong
+|-damage|p2a: Dewgong|242/322
+|move|p2a: Dewgong|Surf|p1a: Volcanion
+|-immune|p1a: Volcanion|[from] ability: Water Absorb
+|
+|upkeep
+|turn|17
+|
+|t:|1776975200
+|move|p1a: Volcanion|Earth Power|p2a: Dewgong
+|-supereffective|p2a: Dewgong
+|-damage|p2a: Dewgong|160/322
+|move|p2a: Dewgong|Knock Off|p1a: Volcanion
+|-damage|p1a: Volcanion|202/255
+|-enditem|p1a: Volcanion|Assault Vest|[from] move: Knock Off|[of] p2a: Dewgong
+|
+|upkeep
+|turn|18
+|
+|t:|1776975208
+|move|p1a: Volcanion|Earth Power|p2a: Dewgong
+|-supereffective|p2a: Dewgong
+|-damage|p2a: Dewgong|84/322
+|move|p2a: Dewgong|Knock Off|p1a: Volcanion
+|-damage|p1a: Volcanion|163/255
+|
+|upkeep
+|turn|19
+|
+|t:|1776975216
+|move|p1a: Volcanion|Earth Power|p2a: Dewgong
+|-supereffective|p2a: Dewgong
+|-damage|p2a: Dewgong|10/322
+|move|p2a: Dewgong|Knock Off|p1a: Volcanion
+|-damage|p1a: Volcanion|123/255
+|
+|upkeep
+|turn|20
+|-message|gtnds forfeited.
+|
+|win|Dany_93
+|raw|Dany_93's rating: 1076 &rarr; <strong>1107</strong><br />(+31 for winning)
+|raw|gtnds's rating: 1101 &rarr; <strong>1074</strong><br />(-27 for losing)
+|l|☆gtnds
+|player|p2|

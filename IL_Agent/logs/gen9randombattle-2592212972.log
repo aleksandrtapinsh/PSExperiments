@@ -1,0 +1,179 @@
+|j|‽gabzin10122
+|j|☆Inzanety
+|t:|1776970781
+|gametype|singles
+|player|p1|gabzin10122|burglar|1117
+|player|p2|Inzanety|shadowtriad|1161
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776970781
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Illumise|Illumise, L91, F|266/266
+|switch|p2a: Bastiodon|Bastiodon, L89, F|252/252
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by gabzin10122)
+|
+|t:|1776970794
+|move|p1a: Illumise|Thunder Wave|p2a: Bastiodon
+|-status|p2a: Bastiodon|par
+|move|p2a: Bastiodon|Foul Play|p1a: Illumise
+|-damage|p1a: Illumise|234/266
+|
+|upkeep
+|turn|2
+|
+|t:|1776970806
+|switch|p2a: Flareon|Flareon, L90, M|263/263
+|move|p1a: Illumise|Encore||[still]
+|-fail|p1a: Illumise
+|
+|-status|p2a: Flareon|tox|[from] item: Toxic Orb
+|upkeep
+|turn|3
+|
+|t:|1776970821
+|move|p1a: Illumise|Encore||[still]
+|-fail|p1a: Illumise
+|move|p2a: Flareon|Trailblaze|p1a: Illumise
+|-resisted|p1a: Illumise
+|-damage|p1a: Illumise|191/266
+|-boost|p2a: Flareon|spe|1
+|
+|-damage|p2a: Flareon|247/263 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1776970830
+|switch|p1a: Conkeldurr|Conkeldurr, L80, F|299/299
+|move|p2a: Flareon|Facade|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|73/299
+|
+|-damage|p2a: Flareon|215/263 tox|[from] psn
+|-status|p1a: Conkeldurr|brn|[from] item: Flame Orb
+|upkeep
+|turn|5
+|
+|t:|1776970841
+|move|p2a: Flareon|Facade|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|0 fnt
+|faint|p1a: Conkeldurr
+|
+|-damage|p2a: Flareon|167/263 tox|[from] psn
+|upkeep
+|
+|t:|1776970847
+|switch|p1a: Crawdaunt|Crawdaunt, L84, F|243/243
+|turn|6
+|
+|t:|1776970854
+|move|p2a: Flareon|Will-O-Wisp|p1a: Crawdaunt
+|-status|p1a: Crawdaunt|brn
+|move|p1a: Crawdaunt|Dragon Dance|p1a: Crawdaunt
+|-boost|p1a: Crawdaunt|atk|1
+|-boost|p1a: Crawdaunt|spe|1
+|
+|-damage|p2a: Flareon|103/263 tox|[from] psn
+|-damage|p1a: Crawdaunt|228/243 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1776970860
+|move|p2a: Flareon|Trailblaze|p1a: Crawdaunt
+|-supereffective|p1a: Crawdaunt
+|-damage|p1a: Crawdaunt|78/243 brn
+|-boost|p2a: Flareon|spe|1
+|move|p1a: Crawdaunt|Crabhammer|p2a: Flareon
+|-supereffective|p2a: Flareon
+|-damage|p2a: Flareon|0 fnt
+|faint|p2a: Flareon
+|-damage|p1a: Crawdaunt|54/243 brn|[from] item: Life Orb
+|
+|-damage|p1a: Crawdaunt|39/243 brn|[from] brn
+|upkeep
+|
+|t:|1776970869
+|switch|p2a: Bastiodon|Bastiodon, L89, F|252/252 par
+|turn|8
+|
+|t:|1776970878
+|move|p1a: Crawdaunt|Crabhammer|p2a: Bastiodon
+|-supereffective|p2a: Bastiodon
+|-damage|p2a: Bastiodon|57/252 par
+|-damage|p1a: Crawdaunt|15/243 brn|[from] item: Life Orb
+|move|p2a: Bastiodon|Body Press|p1a: Crawdaunt
+|-supereffective|p1a: Crawdaunt
+|-damage|p1a: Crawdaunt|0 fnt
+|faint|p1a: Crawdaunt
+|
+|upkeep
+|
+|t:|1776970885
+|switch|p1a: Dedenne|Dedenne, L88, M|261/261
+|turn|9
+|
+|t:|1776970889
+|move|p1a: Dedenne|Thunderbolt|p2a: Bastiodon
+|-damage|p2a: Bastiodon|0 fnt
+|faint|p2a: Bastiodon
+|
+|upkeep
+|
+|t:|1776970899
+|switch|p2a: Terrakion|Terrakion, L79|273/273
+|turn|10
+|
+|t:|1776970907
+|move|p1a: Dedenne|Super Fang|p2a: Terrakion
+|-damage|p2a: Terrakion|137/273
+|move|p2a: Terrakion|Swords Dance|p2a: Terrakion
+|-boost|p2a: Terrakion|atk|2
+|
+|upkeep
+|turn|11
+|
+|t:|1776970914
+|move|p1a: Dedenne|Dazzling Gleam|p2a: Terrakion
+|-supereffective|p2a: Terrakion
+|-damage|p2a: Terrakion|0 fnt
+|faint|p2a: Terrakion
+|
+|upkeep
+|
+|t:|1776970920
+|switch|p2a: Cetitan|Cetitan, L82, M|412/412
+|turn|12
+|
+|t:|1776970926
+|move|p1a: Dedenne|Super Fang|p2a: Cetitan
+|-damage|p2a: Cetitan|206/412
+|-enditem|p2a: Cetitan|Sitrus Berry|[eat]
+|-heal|p2a: Cetitan|309/412|[from] item: Sitrus Berry
+|move|p2a: Cetitan|Belly Drum|p2a: Cetitan
+|-damage|p2a: Cetitan|103/412
+|-setboost|p2a: Cetitan|atk|6|[from] move: Belly Drum
+|
+|upkeep
+|turn|13
+|
+|t:|1776970937
+|-terastallize|p2a: Cetitan|Ice
+|move|p1a: Dedenne|Thunderbolt|p2a: Cetitan
+|-damage|p2a: Cetitan|0 fnt
+|faint|p2a: Cetitan
+|
+|upkeep
+|-message|Inzanety forfeited.
+|
+|win|gabzin10122
+|raw|gabzin10122's rating: 1117 &rarr; <strong>1145</strong><br />(+28 for winning)
+|raw|Inzanety's rating: 1161 &rarr; <strong>1133</strong><br />(-28 for losing)
+|l|☆Inzanety
+|player|p2|

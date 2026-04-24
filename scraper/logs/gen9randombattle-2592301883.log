@@ -1,0 +1,269 @@
+|j|☆m0untaineer
+|j|☆Lenho
+|t:|1776977144
+|gametype|singles
+|player|p1|m0untaineer|266|1808
+|player|p2|Lenho|170|1842
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776977144
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kommo-o|Kommo-o, L78, M|245/245
+|switch|p2a: Ogerpon|Ogerpon-Cornerstone, L76, F|247/247
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Lenho)
+|
+|t:|1776977151
+|switch|p2a: Grumpig|Grumpig, L92, M|297/297
+|move|p1a: Kommo-o|Swords Dance|p1a: Kommo-o
+|-boost|p1a: Kommo-o|atk|2
+|
+|upkeep
+|turn|2
+|
+|t:|1776977169
+|move|p2a: Grumpig|Trick|p1a: Kommo-o
+|-activate|p2a: Grumpig|move: Trick|[of] p1a: Kommo-o
+|-item|p1a: Kommo-o|Choice Scarf|[from] move: Trick
+|-item|p2a: Grumpig|Loaded Dice|[from] move: Trick
+|move|p1a: Kommo-o|Scale Shot|p2a: Grumpig
+|-damage|p2a: Grumpig|243/297
+|-damage|p2a: Grumpig|179/297
+|-damage|p2a: Grumpig|119/297
+|-hitcount|p2a: Grumpig|3
+|-unboost|p1a: Kommo-o|def|1
+|-boost|p1a: Kommo-o|spe|1
+|
+|upkeep
+|turn|3
+|
+|t:|1776977179
+|move|p1a: Kommo-o|Scale Shot|p2a: Grumpig
+|-crit|p2a: Grumpig
+|-damage|p2a: Grumpig|29/297
+|-damage|p2a: Grumpig|0 fnt
+|faint|p2a: Grumpig
+|-hitcount|p2: Grumpig|2
+|-unboost|p1a: Kommo-o|def|1
+|-boost|p1a: Kommo-o|spe|1
+|
+|upkeep
+|
+|t:|1776977195
+|switch|p2a: Bruxish|Bruxish, L85, F|254/254
+|turn|4
+|
+|t:|1776977206
+|move|p1a: Kommo-o|Scale Shot|p2a: Bruxish
+|-crit|p2a: Bruxish
+|-damage|p2a: Bruxish|163/254
+|-damage|p2a: Bruxish|102/254
+|-hitcount|p2a: Bruxish|2
+|-unboost|p1a: Kommo-o|def|1
+|-boost|p1a: Kommo-o|spe|1
+|move|p2a: Bruxish|Psychic Fangs|p1a: Kommo-o
+|-supereffective|p1a: Kommo-o
+|-damage|p1a: Kommo-o|0 fnt
+|faint|p1a: Kommo-o
+|
+|upkeep
+|inactive|m0untaineer has 120 seconds left.
+|
+|t:|1776977237
+|switch|p1a: Zacian|Zacian-Crowned, L64|225/225
+|-ability|p1a: Zacian|Intrepid Sword|boost
+|-boost|p1a: Zacian|atk|1
+|turn|5
+|inactive|m0untaineer has 120 seconds left.
+|
+|t:|1776977244
+|switch|p2a: Ho-Oh|Ho-Oh, L71|268/268
+|move|p1a: Zacian|Swords Dance|p1a: Zacian
+|-boost|p1a: Zacian|atk|2
+|
+|upkeep
+|turn|6
+|
+|t:|1776977251
+|switch|p1a: Politoed|Politoed, L88, M|302/302
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Politoed
+|move|p2a: Ho-Oh|Sacred Fire|p1a: Politoed
+|-resisted|p1a: Politoed
+|-damage|p1a: Politoed|276/302
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1776977257
+|switch|p2a: Walking Wake|Walking Wake, L79|286/286
+|move|p1a: Politoed|Weather Ball|p2a: Walking Wake
+|-resisted|p2a: Walking Wake
+|-damage|p2a: Walking Wake|215/286
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1776977263
+|move|p2a: Walking Wake|Hydro Steam|p1a: Politoed
+|-resisted|p1a: Politoed
+|-damage|p1a: Politoed|199/302
+|-damage|p2a: Walking Wake|187/286|[from] item: Life Orb
+|move|p1a: Politoed|Weather Ball|p2a: Walking Wake
+|-resisted|p2a: Walking Wake
+|-damage|p2a: Walking Wake|121/286
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1776977266
+|move|p2a: Walking Wake|Hydro Steam|p1a: Politoed
+|-resisted|p1a: Politoed
+|-damage|p1a: Politoed|125/302
+|-damage|p2a: Walking Wake|93/286|[from] item: Life Orb
+|move|p1a: Politoed|Weather Ball|p2a: Walking Wake
+|-resisted|p2a: Walking Wake
+|-damage|p2a: Walking Wake|30/286
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1776977270
+|move|p2a: Walking Wake|Draco Meteor|p1a: Politoed
+|-damage|p1a: Politoed|0 fnt
+|-unboost|p2a: Walking Wake|spa|2
+|faint|p1a: Politoed
+|-damage|p2a: Walking Wake|2/286|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|inactive|m0untaineer has 120 seconds left.
+|
+|t:|1776977303
+|switch|p1a: Eternatus|Eternatus, L69|308/308
+|-ability|p1a: Eternatus|Pressure
+|turn|11
+|
+|t:|1776977309
+|switch|p1a: Emboar|Emboar, L84, F|322/322
+|move|p2a: Walking Wake|Draco Meteor|p1a: Emboar
+|-damage|p1a: Emboar|208/322
+|-unboost|p2a: Walking Wake|spa|2
+|-damage|p2a: Walking Wake|0 fnt|[from] item: Life Orb
+|faint|p2a: Walking Wake
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|
+|-heal|p1a: Emboar|228/322|[from] item: Leftovers
+|upkeep
+|
+|t:|1776977314
+|switch|p2a: Bruxish|Bruxish, L85, F|102/254
+|turn|12
+|
+|t:|1776977325
+|move|p2a: Bruxish|Psychic Fangs|p1a: Emboar
+|-supereffective|p1a: Emboar
+|-damage|p1a: Emboar|0 fnt
+|faint|p1a: Emboar
+|
+|upkeep
+|
+|t:|1776977329
+|switch|p1a: Cloyster|Cloyster, L80, F|211/211
+|turn|13
+|
+|t:|1776977340
+|move|p2a: Bruxish|Psychic Fangs|p1a: Cloyster
+|-damage|p1a: Cloyster|70/211
+|move|p1a: Cloyster|Shell Smash|p1a: Cloyster
+|-unboost|p1a: Cloyster|def|1
+|-unboost|p1a: Cloyster|spd|1
+|-boost|p1a: Cloyster|atk|2
+|-boost|p1a: Cloyster|spa|2
+|-boost|p1a: Cloyster|spe|2
+|-enditem|p1a: Cloyster|White Herb
+|-clearnegativeboost|p1a: Cloyster|[silent]
+|
+|upkeep
+|turn|14
+|
+|t:|1776977345
+|move|p1a: Cloyster|Rock Blast|p2a: Bruxish
+|-damage|p2a: Bruxish|62/254
+|-damage|p2a: Bruxish|26/254
+|-damage|p2a: Bruxish|0 fnt
+|faint|p2a: Bruxish
+|-hitcount|p2: Bruxish|3
+|
+|upkeep
+|
+|t:|1776977348
+|switch|p2a: Ogerpon|Ogerpon-Cornerstone, L76, F|247/247
+|turn|15
+|
+|t:|1776977356
+|-terastallize|p1a: Cloyster|Ground
+|-terastallize|p2a: Ogerpon|Rock
+|detailschange|p2a: Ogerpon|Ogerpon-Cornerstone-Tera, L76, F, tera:Rock
+|-ability|p2a: Ogerpon|Embody Aspect (Cornerstone)|boost
+|-boost|p2a: Ogerpon|def|1
+|move|p1a: Cloyster|Drill Run|p2a: Ogerpon
+|-supereffective|p2a: Ogerpon
+|-damage|p2a: Ogerpon|19/247
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Cloyster|[anim] Ivy Cudgel Rock
+|-resisted|p1a: Cloyster
+|-damage|p1a: Cloyster|23/211
+|
+|upkeep
+|turn|16
+|
+|t:|1776977361
+|move|p1a: Cloyster|Icicle Spear|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|detailschange|p2: Ogerpon|Ogerpon-Cornerstone, L76, F|[silent]
+|-hitcount|p2: Ogerpon|1
+|
+|upkeep
+|
+|t:|1776977365
+|switch|p2a: Ho-Oh|Ho-Oh, L71|268/268
+|turn|17
+|
+|t:|1776977369
+|move|p1a: Cloyster|Rock Blast|p2a: Ho-Oh
+|-supereffective|p2a: Ho-Oh
+|-damage|p2a: Ho-Oh|108/268
+|-supereffective|p2a: Ho-Oh
+|-damage|p2a: Ho-Oh|0 fnt
+|faint|p2a: Ho-Oh
+|-hitcount|p2: Ho-Oh|2
+|
+|upkeep
+|
+|t:|1776977370
+|switch|p2a: Blaziken|Blaziken, L76, M|247/247
+|turn|18
+|
+|t:|1776977379
+|move|p1a: Cloyster|Drill Run|p2a: Blaziken
+|-supereffective|p2a: Blaziken
+|-damage|p2a: Blaziken|0 fnt
+|faint|p2a: Blaziken
+|
+|win|m0untaineer
+|raw|m0untaineer's rating: 1808 &rarr; <strong>1830</strong><br />(+22 for winning)
+|raw|Lenho's rating: 1842 &rarr; <strong>1820</strong><br />(-22 for losing)
+|l|☆Lenho
+|player|p2|

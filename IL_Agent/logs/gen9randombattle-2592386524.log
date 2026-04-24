@@ -1,0 +1,211 @@
+|j|☆Kjthegoat43
+|j|☆dghkmstry
+|t:|1776984473
+|gametype|singles
+|player|p1|Kjthegoat43|101|1038
+|player|p2|dghkmstry|lucas|1040
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776984473
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Slowbro|Slowbro-Galar, L87, F|307/307
+|switch|p2a: Medicham|Medicham, L86, F|243/243
+|turn|1
+|
+|t:|1776984497
+|move|p2a: Medicham|Zen Headbutt|p1a: Slowbro
+|-crit|p1a: Slowbro
+|-damage|p1a: Slowbro|70/307
+|move|p1a: Slowbro|Earthquake|p2a: Medicham
+|-damage|p2a: Medicham|151/243
+|
+|upkeep
+|turn|2
+|
+|t:|1776984509
+|move|p2a: Medicham|Zen Headbutt|p1a: Slowbro
+|-damage|p1a: Slowbro|0 fnt
+|faint|p1a: Slowbro
+|
+|upkeep
+|
+|t:|1776984517
+|switch|p1a: Great Tusk|Great Tusk, L77|304/304
+|-enditem|p1a: Great Tusk|Booster Energy
+|-activate|p1a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p1a: Great Tusk|protosynthesisatk
+|turn|3
+|
+|t:|1776984526
+|move|p2a: Medicham|Zen Headbutt|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|4/304
+|cant|p1a: Great Tusk|flinch
+|
+|upkeep
+|turn|4
+|
+|t:|1776984548
+|move|p2a: Medicham|Zen Headbutt|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1776984556
+|switch|p1a: Ogerpon|Ogerpon-Hearthflame, L74, F|239/239
+|-ability|p1a: Ogerpon|Mold Breaker
+|turn|5
+|
+|t:|1776984587
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Medicham|[anim] Ivy Cudgel Fire
+|-damage|p2a: Medicham|21/243
+|move|p2a: Medicham|Zen Headbutt|p1a: Ogerpon
+|-damage|p1a: Ogerpon|4/239
+|
+|upkeep
+|turn|6
+|
+|t:|1776984598
+|switch|p2a: Mightyena|Mightyena, L96, M|290/290
+|-ability|p2a: Mightyena|Intimidate|boost
+|-unboost|p1a: Ogerpon|atk|1
+|move|p1a: Ogerpon|Trailblaze|p2a: Mightyena
+|-damage|p2a: Mightyena|253/290
+|-boost|p1a: Ogerpon|spe|1
+|
+|upkeep
+|turn|7
+|
+|t:|1776984610
+|move|p2a: Mightyena|Sucker Punch|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|
+|upkeep
+|
+|t:|1776984621
+|switch|p1a: Metagross|Metagross, L79|256/256
+|turn|8
+|
+|t:|1776984629
+|move|p2a: Mightyena|Throat Chop|p1a: Metagross
+|-supereffective|p1a: Metagross
+|-damage|p1a: Metagross|94/256
+|-start|p1a: Metagross|Throat Chop|[silent]
+|move|p1a: Metagross|Psychic Fangs|p2a: Mightyena
+|-immune|p2a: Mightyena
+|
+|-heal|p1a: Metagross|110/256|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776984645
+|move|p2a: Mightyena|Throat Chop|p1a: Metagross
+|-supereffective|p1a: Metagross
+|-damage|p1a: Metagross|0 fnt
+|faint|p1a: Metagross
+|
+|upkeep
+|
+|t:|1776984657
+|switch|p1a: Emboar|Emboar, L84, M|322/322
+|turn|10
+|
+|t:|1776984666
+|move|p2a: Mightyena|Super Fang|p1a: Emboar
+|-damage|p1a: Emboar|161/322
+|move|p1a: Emboar|Flare Blitz|p2a: Mightyena
+|-damage|p2a: Mightyena|70/290
+|-damage|p1a: Emboar|101/322|[from] Recoil
+|
+|upkeep
+|turn|11
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by dghkmstry)
+|
+|t:|1776984729
+|move|p2a: Mightyena|Play Rough|p1a: Emboar
+|-damage|p1a: Emboar|0 fnt
+|faint|p1a: Emboar
+|
+|upkeep
+|
+|t:|1776984741
+|switch|p1a: Smeargle|Smeargle, L95, M|258/258
+|turn|12
+|
+|t:|1776984756
+|switch|p2a: Tinkaton|Tinkaton, L82, F|274/274
+|-ability|p2a: Tinkaton|Mold Breaker
+|move|p1a: Smeargle|Spore|p2a: Tinkaton
+|-status|p2a: Tinkaton|slp|[from] move: Spore
+|
+|upkeep
+|turn|13
+|
+|t:|1776984775
+|switch|p2a: Diancie|Diancie, L82|216/216
+|move|p1a: Smeargle|Population Bomb|p2a: Diancie
+|-resisted|p2a: Diancie
+|-damage|p2a: Diancie|210/216
+|-resisted|p2a: Diancie
+|-damage|p2a: Diancie|205/216
+|-resisted|p2a: Diancie
+|-damage|p2a: Diancie|200/216
+|-resisted|p2a: Diancie
+|-damage|p2a: Diancie|195/216
+|-resisted|p2a: Diancie
+|-damage|p2a: Diancie|189/216
+|-resisted|p2a: Diancie
+|-damage|p2a: Diancie|183/216
+|-resisted|p2a: Diancie
+|-damage|p2a: Diancie|177/216
+|-resisted|p2a: Diancie
+|-damage|p2a: Diancie|172/216
+|-resisted|p2a: Diancie
+|-damage|p2a: Diancie|166/216
+|-resisted|p2a: Diancie
+|-crit|p2a: Diancie
+|-damage|p2a: Diancie|158/216
+|-hitcount|p2a: Diancie|10
+|
+|upkeep
+|turn|14
+|inactive|Kjthegoat43 has 120 seconds left.
+|
+|t:|1776984800
+|move|p1a: Smeargle|Spore|p2a: Diancie
+|-message|Sleep Clause Mod activated.
+|-hint|Sleep Clause Mod prevents players from putting more than one of their opponent's Pokémon to sleep at a time
+|move|p2a: Diancie|Diamond Storm|p1a: Smeargle
+|-damage|p1a: Smeargle|99/258
+|
+|upkeep
+|turn|15
+|inactive|Kjthegoat43 has 120 seconds left.
+|
+|t:|1776984813
+|move|p1a: Smeargle|Shell Smash|p1a: Smeargle
+|-unboost|p1a: Smeargle|def|1
+|-unboost|p1a: Smeargle|spd|1
+|-boost|p1a: Smeargle|atk|2
+|-boost|p1a: Smeargle|spa|2
+|-boost|p1a: Smeargle|spe|2
+|move|p2a: Diancie|Diamond Storm|p1a: Smeargle
+|-damage|p1a: Smeargle|0 fnt
+|-boost|p2a: Diancie|def|2
+|faint|p1a: Smeargle
+|
+|win|dghkmstry
+|raw|Kjthegoat43's rating: 1038 &rarr; <strong>1022</strong><br />(-16 for losing)
+|raw|dghkmstry's rating: 1040 &rarr; <strong>1074</strong><br />(+34 for winning)

@@ -1,0 +1,319 @@
+|j|☆gokumuifullpower
+|j|☆ProtoSniper
+|t:|1776972954
+|gametype|singles
+|player|p1|gokumuifullpower|veteran|1303
+|player|p2|ProtoSniper|2|1285
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776972954
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Dialga|Dialga-Origin, L73|266/266
+|switch|p2a: Passimian|Passimian, L83, M|302/302
+|-ability|p1a: Dialga|Pressure
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by gokumuifullpower)
+|
+|t:|1776972978
+|move|p2a: Passimian|Close Combat|p1a: Dialga
+|-supereffective|p1a: Dialga
+|-damage|p1a: Dialga|0 fnt
+|-unboost|p2a: Passimian|def|1
+|-unboost|p2a: Passimian|spd|1
+|faint|p1a: Dialga
+|
+|upkeep
+|
+|t:|1776972986
+|switch|p1a: Gallade|Gallade, L80, M|240/240
+|turn|2
+|
+|t:|1776973008
+|switch|p2a: Oricorio|Oricorio-Sensu, L85, M|266/266
+|move|p1a: Gallade|Psycho Cut|p2a: Oricorio
+|-damage|p2a: Oricorio|128/266
+|
+|upkeep
+|turn|3
+|
+|t:|1776973019
+|move|p1a: Gallade|Psycho Cut|p2a: Oricorio
+|-damage|p2a: Oricorio|0 fnt
+|faint|p2a: Oricorio
+|
+|upkeep
+|
+|t:|1776973030
+|switch|p2a: Veluza|Veluza, L85, M|292/292
+|turn|4
+|
+|t:|1776973038
+|switch|p1a: Kilowattrel|Kilowattrel, L83, F|252/252
+|-terastallize|p2a: Veluza|Dark
+|move|p2a: Veluza|Night Slash|p1a: Kilowattrel
+|-crit|p1a: Kilowattrel
+|-damage|p1a: Kilowattrel|0 fnt
+|faint|p1a: Kilowattrel
+|
+|upkeep
+|
+|t:|1776973056
+|switch|p1a: Gallade|Gallade, L80, M|240/240
+|turn|5
+|
+|t:|1776973069
+|switch|p2a: Miraidon|Miraidon, L65|238/238
+|-fieldstart|move: Electric Terrain|[from] ability: Hadron Engine|[of] p2a: Miraidon
+|move|p1a: Gallade|Sacred Sword|p2a: Miraidon
+|-damage|p2a: Miraidon|51/238
+|
+|upkeep
+|turn|6
+|
+|t:|1776973082
+|switch|p1a: Sandslash|Sandslash, L89, M|278/278
+|move|p2a: Miraidon|Volt Switch|p1a: Sandslash
+|-immune|p1a: Sandslash
+|
+|upkeep
+|turn|7
+|
+|t:|1776973092
+|switch|p2a: Comfey|Comfey, L85, M|225/225
+|move|p1a: Sandslash|Knock Off|p2a: Comfey
+|-resisted|p2a: Comfey
+|-damage|p2a: Comfey|186/225
+|-enditem|p2a: Comfey|Leftovers|[from] move: Knock Off|[of] p1a: Sandslash
+|
+|upkeep
+|turn|8
+|
+|t:|1776973101
+|move|p2a: Comfey|Draining Kiss|p1a: Sandslash
+|-damage|p1a: Sandslash|218/278
+|-heal|p2a: Comfey|225/225|[from] drain|[of] p1a: Sandslash
+|move|p1a: Sandslash|Spikes|p2a: Comfey
+|-sidestart|p2: ProtoSniper|Spikes
+|
+|-heal|p1a: Sandslash|235/278|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776973110
+|move|p2a: Comfey|Tera Blast|p1a: Sandslash
+|-damage|p1a: Sandslash|164/278
+|move|p1a: Sandslash|Spikes|p2a: Comfey
+|-sidestart|p2: ProtoSniper|Spikes
+|
+|-heal|p1a: Sandslash|181/278|[from] item: Leftovers
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|10
+|
+|t:|1776973119
+|move|p2a: Comfey|Calm Mind|p2a: Comfey
+|-boost|p2a: Comfey|spa|1
+|-boost|p2a: Comfey|spd|1
+|move|p1a: Sandslash|Earthquake|p2a: Comfey
+|-damage|p2a: Comfey|102/225
+|
+|-heal|p1a: Sandslash|198/278|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776973129
+|move|p2a: Comfey|Draining Kiss|p1a: Sandslash
+|-damage|p1a: Sandslash|99/278
+|-heal|p2a: Comfey|176/225|[from] drain|[of] p1a: Sandslash
+|move|p1a: Sandslash|Rapid Spin|p2a: Comfey
+|-damage|p2a: Comfey|134/225
+|-boost|p1a: Sandslash|spe|1
+|
+|-heal|p1a: Sandslash|116/278|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776973138
+|move|p2a: Comfey|Draining Kiss|p1a: Sandslash
+|-damage|p1a: Sandslash|19/278
+|-heal|p2a: Comfey|207/225|[from] drain|[of] p1a: Sandslash
+|move|p1a: Sandslash|Earthquake|p2a: Comfey
+|-damage|p2a: Comfey|89/225
+|
+|-heal|p1a: Sandslash|36/278|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776973154
+|move|p2a: Comfey|Draining Kiss|p1a: Sandslash
+|-damage|p1a: Sandslash|0 fnt
+|-heal|p2a: Comfey|116/225|[from] drain|[of] p1a: Sandslash
+|faint|p1a: Sandslash
+|
+|upkeep
+|c|☆ProtoSniper|!dt triage
+|c|☆ProtoSniper|/raw <ul class="utilichart"><li class="result"><span class="col namecol"><a href="https://dex.pokemonshowdown.com/abilities/triage">Triage</a></span> <span class="col abilitydesccol">This Pokemon's healing moves have their priority increased by 3.</span> </li><li style="clear:both"></li></ul>
+|c|☆ProtoSniper|/raw <font size="1"><font color="#686868">Gen:</font> 7</font>
+
+|
+|t:|1776973159
+|switch|p1a: Heatran|Heatran, L79, M|273/273
+|turn|14
+|
+|t:|1776973180
+|switch|p2a: Crabominable|Crabominable, L90, M|321/321
+|-damage|p2a: Crabominable|268/321|[from] Spikes
+|move|p1a: Heatran|Heavy Slam|p2a: Crabominable
+|-supereffective|p2a: Crabominable
+|-damage|p2a: Crabominable|160/321
+|
+|upkeep
+|turn|15
+|
+|t:|1776973191
+|move|p1a: Heatran|Lava Plume|p2a: Crabominable
+|-supereffective|p2a: Crabominable
+|-damage|p2a: Crabominable|0 fnt
+|faint|p2a: Crabominable
+|
+|upkeep
+|
+|t:|1776973198
+|switch|p2a: Miraidon|Miraidon, L65|51/238
+|-damage|p2a: Miraidon|12/238|[from] Spikes
+|-fieldstart|move: Electric Terrain|[from] ability: Hadron Engine|[of] p2a: Miraidon
+|turn|16
+|
+|t:|1776973212
+|move|p2a: Miraidon|Electro Drift|p1a: Heatran
+|-damage|p1a: Heatran|126/273
+|move|p1a: Heatran|Earth Power|p2a: Miraidon
+|-supereffective|p2a: Miraidon
+|-damage|p2a: Miraidon|0 fnt
+|faint|p2a: Miraidon
+|
+|upkeep
+|
+|t:|1776973232
+|switch|p2a: Veluza|Veluza, L85, M, tera:Dark|292/292
+|-damage|p2a: Veluza|244/292|[from] Spikes
+|turn|17
+|
+|t:|1776973242
+|move|p2a: Veluza|Aqua Cutter|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|upkeep
+|
+|t:|1776973246
+|switch|p1a: Gallade|Gallade, L80, M|240/240
+|turn|18
+|
+|t:|1776973252
+|switch|p2a: Comfey|Comfey, L85, M|116/225
+|-damage|p2a: Comfey|79/225|[from] Spikes
+|move|p1a: Gallade|Sacred Sword|p2a: Comfey
+|-resisted|p2a: Comfey
+|-damage|p2a: Comfey|0 fnt
+|faint|p2a: Comfey
+|
+|upkeep
+|
+|t:|1776973259
+|switch|p2a: Passimian|Passimian, L83, M|302/302
+|-damage|p2a: Passimian|252/302|[from] Spikes
+|turn|19
+|
+|t:|1776973268
+|-terastallize|p1a: Gallade|Grass
+|move|p1a: Gallade|Sacred Sword|p2a: Passimian
+|-damage|p2a: Passimian|86/302
+|move|p2a: Passimian|Gunk Shot|p1a: Gallade
+|-supereffective|p1a: Gallade
+|-damage|p1a: Gallade|0 fnt
+|faint|p1a: Gallade
+|
+|upkeep
+|
+|t:|1776973276
+|switch|p1a: Dunsparce|Dunsparce, L86, M|312/312
+|turn|20
+|
+|t:|1776973288
+|move|p2a: Passimian|Gunk Shot|p1a: Dunsparce
+|-damage|p1a: Dunsparce|197/312
+|move|p1a: Dunsparce|Coil|p1a: Dunsparce
+|-boost|p1a: Dunsparce|atk|1
+|-boost|p1a: Dunsparce|def|1
+|-boost|p1a: Dunsparce|accuracy|1
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|21
+|
+|t:|1776973298
+|move|p2a: Passimian|Gunk Shot|p1a: Dunsparce
+|-damage|p1a: Dunsparce|124/312
+|move|p1a: Dunsparce|Body Slam|p2a: Passimian
+|-damage|p2a: Passimian|0 fnt
+|faint|p2a: Passimian
+|
+|upkeep
+|
+|t:|1776973304
+|switch|p2a: Veluza|Veluza, L85, M, tera:Dark|244/292
+|-damage|p2a: Veluza|196/292|[from] Spikes
+|turn|22
+|
+|t:|1776973311
+|move|p2a: Veluza|Night Slash|p1a: Dunsparce
+|-damage|p1a: Dunsparce|34/312
+|move|p1a: Dunsparce|Roost|p1a: Dunsparce
+|-heal|p1a: Dunsparce|190/312
+|-singleturn|p1a: Dunsparce|move: Roost
+|
+|upkeep
+|turn|23
+|
+|t:|1776973321
+|move|p2a: Veluza|Night Slash|p1a: Dunsparce
+|-damage|p1a: Dunsparce|102/312
+|move|p1a: Dunsparce|Roost|p1a: Dunsparce
+|-heal|p1a: Dunsparce|258/312
+|-singleturn|p1a: Dunsparce|move: Roost
+|
+|upkeep
+|turn|24
+|
+|t:|1776973326
+|move|p2a: Veluza|Night Slash|p1a: Dunsparce
+|-damage|p1a: Dunsparce|171/312
+|move|p1a: Dunsparce|Coil|p1a: Dunsparce
+|-boost|p1a: Dunsparce|atk|1
+|-boost|p1a: Dunsparce|def|1
+|-boost|p1a: Dunsparce|accuracy|1
+|
+|upkeep
+|turn|25
+|
+|t:|1776973336
+|move|p2a: Veluza|Night Slash|p1a: Dunsparce
+|-crit|p1a: Dunsparce
+|-damage|p1a: Dunsparce|0 fnt
+|faint|p1a: Dunsparce
+|
+|win|ProtoSniper
+|raw|gokumuifullpower's rating: 1303 &rarr; <strong>1282</strong><br />(-21 for losing)
+|raw|ProtoSniper's rating: 1285 &rarr; <strong>1311</strong><br />(+26 for winning)
+|l|☆gokumuifullpower
+|player|p1|

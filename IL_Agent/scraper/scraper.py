@@ -13,7 +13,7 @@ options.add_argument("--headless")  # runs without opening browser
 driver = webdriver.Chrome(options=options)
 driver.get(url)
 
-pages = 5
+pages = 10
 
 while pages > 0:
     time.sleep(2)  # wait for page to load
@@ -30,10 +30,9 @@ while pages > 0:
             download_url = f"{base_url}/{log}"
             data = requests.get(download_url).text
             # Get the directory where scraper.py is located
-            BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-
-            # Create path to logs folder
+            BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
             log_dir = os.path.join(BASE_DIR, "logs")
+            os.makedirs(log_dir, exist_ok=True)
 
             # Create a log file path
             log_file = os.path.join(log_dir, log)

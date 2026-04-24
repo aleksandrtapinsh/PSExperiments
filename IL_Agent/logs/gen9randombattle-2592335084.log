@@ -1,0 +1,294 @@
+|j|☆doogshenti
+|j|☆vfbdfbvcgfnvbngn
+|t:|1776979815
+|gametype|singles
+|player|p1|doogshenti|1|1214
+|player|p2|vfbdfbvcgfnvbngn|102|1220
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776979815
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Tornadus|Tornadus-Therian, L79, M|254/254
+|switch|p2a: Scyther|Scyther, L82, M|249/249
+|turn|1
+|
+|t:|1776979826
+|switch|p2a: Torkoal|Torkoal, L88, M|266/266
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|move|p1a: Tornadus|U-turn|p2a: Torkoal
+|-resisted|p2a: Torkoal
+|-damage|p2a: Torkoal|250/266
+|
+|t:|1776979836
+|switch|p1a: Entei|Entei, L78|307/307|[from] U-turn
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1776979842
+|move|p1a: Entei|Stomping Tantrum|p2a: Torkoal
+|-supereffective|p2a: Torkoal
+|-damage|p2a: Torkoal|150/266
+|move|p2a: Torkoal|Stealth Rock|p1a: Entei
+|-sidestart|p1: doogshenti|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1776979861
+|move|p1a: Entei|Stomping Tantrum|p2a: Torkoal
+|-supereffective|p2a: Torkoal
+|-damage|p2a: Torkoal|34/266
+|move|p2a: Torkoal|Yawn|p1a: Entei
+|-start|p1a: Entei|move: Yawn|[of] p2a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1776979873
+|switch|p1a: Umbreon|Umbreon, L84, F|297/297
+|-damage|p1a: Umbreon|260/297|[from] Stealth Rock
+|move|p2a: Torkoal|Lava Plume|p1a: Umbreon
+|-damage|p1a: Umbreon|170/297
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Umbreon|188/297|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776979887
+|move|p1a: Umbreon|Foul Play|p2a: Torkoal
+|-damage|p2a: Torkoal|0 fnt
+|faint|p2a: Torkoal
+|
+|-weather|none
+|-heal|p1a: Umbreon|206/297|[from] item: Leftovers
+|upkeep
+|
+|t:|1776979891
+|switch|p2a: Scyther|Scyther, L82, M|249/249
+|turn|6
+|
+|t:|1776979901
+|-terastallize|p1a: Umbreon|Poison
+|move|p2a: Scyther|Close Combat|p1a: Umbreon
+|-resisted|p1a: Umbreon
+|-damage|p1a: Umbreon|170/297
+|-unboost|p2a: Scyther|def|1
+|-unboost|p2a: Scyther|spd|1
+|move|p1a: Umbreon|Toxic|p2a: Scyther
+|-status|p2a: Scyther|tox
+|
+|-heal|p1a: Umbreon|188/297|[from] item: Leftovers
+|-damage|p2a: Scyther|234/249 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1776979911
+|move|p2a: Scyther|U-turn|p1a: Umbreon
+|-resisted|p1a: Umbreon
+|-damage|p1a: Umbreon|156/297
+|
+|t:|1776979912
+|switch|p2a: Camerupt|Camerupt, L91, M|275/275|[from] U-turn
+|move|p1a: Umbreon|Wish|p1a: Umbreon
+|
+|-heal|p1a: Umbreon|174/297|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776979920
+|move|p1a: Umbreon|Protect|p1a: Umbreon
+|-singleturn|p1a: Umbreon|Protect
+|move|p2a: Camerupt|Earthquake|p1a: Umbreon
+|-activate|p1a: Umbreon|move: Protect
+|
+|-heal|p1a: Umbreon|297/297|[from] move: Wish|[wisher] Umbreon
+|upkeep
+|turn|9
+|
+|t:|1776979932
+|switch|p1a: Floatzel|Floatzel, L86, M|286/286
+|-damage|p1a: Floatzel|251/286|[from] Stealth Rock
+|move|p2a: Camerupt|Earthquake|p1a: Floatzel
+|-damage|p1a: Floatzel|71/286
+|
+|upkeep
+|turn|10
+|l|☆doogshenti
+|player|p1|
+|j|☆doogshenti
+|player|p1|doogshenti|1|
+|
+|t:|1776979964
+|switch|p2a: Scyther|Scyther, L82, M|234/249 tox
+|move|p1a: Floatzel|Flip Turn|p2a: Scyther
+|-damage|p2a: Scyther|113/249 tox
+|
+|t:|1776979969
+|switch|p1a: Entei|Entei, L78|307/307|[from] Flip Turn
+|-damage|p1a: Entei|231/307|[from] Stealth Rock
+|
+|-damage|p2a: Scyther|98/249 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1776979977
+|move|p1a: Entei|Extreme Speed|p2a: Scyther
+|-damage|p2a: Scyther|8/249 tox
+|move|p2a: Scyther|Dual Wingbeat|p1a: Entei|[miss]
+|-miss|p2a: Scyther|p1a: Entei
+|
+|-damage|p2a: Scyther|0 fnt|[from] psn
+|faint|p2a: Scyther
+|upkeep
+|
+|t:|1776979979
+|switch|p2a: Polteageist|Polteageist-Antique, L78|222/222
+|turn|12
+|
+|t:|1776979989
+|switch|p1a: Umbreon|Umbreon, L84, F, tera:Poison|297/297
+|-damage|p1a: Umbreon|260/297|[from] Stealth Rock
+|move|p2a: Polteageist|Shell Smash|p2a: Polteageist
+|-unboost|p2a: Polteageist|def|1
+|-unboost|p2a: Polteageist|spd|1
+|-boost|p2a: Polteageist|atk|2
+|-boost|p2a: Polteageist|spa|2
+|-boost|p2a: Polteageist|spe|2
+|-enditem|p2a: Polteageist|White Herb
+|-clearnegativeboost|p2a: Polteageist|[silent]
+|
+|-heal|p1a: Umbreon|278/297|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776979996
+|-terastallize|p2a: Polteageist|Psychic
+|move|p2a: Polteageist|Stored Power|p1a: Umbreon
+|-supereffective|p1a: Umbreon
+|-damage|p1a: Umbreon|0 fnt
+|faint|p1a: Umbreon
+|
+|upkeep
+|
+|t:|1776980015
+|switch|p1a: Avalugg|Avalugg-Hisui, L90, M|317/317
+|turn|14
+|
+|t:|1776980025
+|move|p2a: Polteageist|Strength Sap|p1a: Avalugg
+|-unboost|p1a: Avalugg|atk|1
+|move|p1a: Avalugg|Avalanche|p2a: Polteageist
+|-damage|p2a: Polteageist|144/222
+|
+|upkeep
+|turn|15
+|
+|t:|1776980037
+|move|p2a: Polteageist|Strength Sap|p1a: Avalugg
+|-unboost|p1a: Avalugg|atk|1
+|-heal|p2a: Polteageist|222/222
+|move|p1a: Avalugg|Body Press|p2a: Polteageist
+|-resisted|p2a: Polteageist
+|-damage|p2a: Polteageist|144/222
+|
+|upkeep
+|turn|16
+|
+|t:|1776980045
+|move|p2a: Polteageist|Shadow Ball|p1a: Avalugg
+|-ability|p1a: Avalugg|Sturdy
+|-damage|p1a: Avalugg|1/317
+|move|p1a: Avalugg|Body Press|p2a: Polteageist
+|-resisted|p2a: Polteageist
+|-damage|p2a: Polteageist|73/222
+|
+|upkeep
+|turn|17
+|
+|t:|1776980053
+|move|p2a: Polteageist|Strength Sap|p1a: Avalugg
+|-unboost|p1a: Avalugg|atk|1
+|-heal|p2a: Polteageist|213/222
+|move|p1a: Avalugg|Body Press|p2a: Polteageist
+|-resisted|p2a: Polteageist
+|-damage|p2a: Polteageist|133/222
+|-start|p1a: Avalugg|Disable|Body Press|[from] ability: Cursed Body|[of] p2a: Polteageist
+|
+|upkeep
+|turn|18
+|
+|t:|1776980059
+|switch|p1a: Entei|Entei, L78|231/307
+|-damage|p1a: Entei|155/307|[from] Stealth Rock
+|move|p2a: Polteageist|Shadow Ball|p1a: Entei
+|-damage|p1a: Entei|0 fnt
+|faint|p1a: Entei
+|
+|upkeep
+|c|☆doogshenti|I'm confused I just swapped in from a death ?
+|
+|t:|1776980100
+|switch|p1a: Avalugg|Avalugg-Hisui, L90, M|1/317
+|turn|19
+|c|☆doogshenti|Did I swap 😂
+|c|☆doogshenti|Oops
+|
+|t:|1776980116
+|move|p2a: Polteageist|Shadow Ball|p1a: Avalugg
+|-crit|p1a: Avalugg
+|-damage|p1a: Avalugg|0 fnt
+|faint|p1a: Avalugg
+|
+|upkeep
+|
+|t:|1776980124
+|switch|p1a: Metagross|Metagross, L79|256/256
+|-damage|p1a: Metagross|240/256|[from] Stealth Rock
+|turn|20
+|
+|t:|1776980128
+|move|p2a: Polteageist|Shadow Ball|p1a: Metagross
+|-supereffective|p1a: Metagross
+|-damage|p1a: Metagross|0 fnt
+|faint|p1a: Metagross
+|
+|upkeep
+|
+|t:|1776980131
+|switch|p1a: Floatzel|Floatzel, L86, M|71/286
+|-damage|p1a: Floatzel|36/286|[from] Stealth Rock
+|turn|21
+|
+|t:|1776980133
+|move|p2a: Polteageist|Shadow Ball|p1a: Floatzel
+|-damage|p1a: Floatzel|0 fnt
+|faint|p1a: Floatzel
+|
+|upkeep
+|
+|t:|1776980135
+|switch|p1a: Tornadus|Tornadus-Therian, L79, M|254/254
+|-damage|p1a: Tornadus|191/254|[from] Stealth Rock
+|turn|22
+|
+|t:|1776980140
+|move|p2a: Polteageist|Stored Power|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|
+|win|vfbdfbvcgfnvbngn
+|raw|doogshenti's rating: 1214 &rarr; <strong>1189</strong><br />(-25 for losing)
+|raw|vfbdfbvcgfnvbngn's rating: 1220 &rarr; <strong>1245</strong><br />(+25 for winning)

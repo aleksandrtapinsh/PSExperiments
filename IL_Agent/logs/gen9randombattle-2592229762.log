@@ -1,0 +1,134 @@
+|j|☆Lemongrab23
+|j|☆chi_chihuahuadog
+|t:|1776971945
+|gametype|singles
+|player|p1|Lemongrab23|265|1622
+|player|p2|chi_chihuahuadog|2|1637
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776971945
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Morpeko|Morpeko, L88, F|245/245
+|switch|p2a: Whimsicott|Whimsicott, L84, M|238/238
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by chi_chihuahuadog)
+|
+|t:|1776971962
+|move|p2a: Whimsicott|Substitute|p2a: Whimsicott
+|-start|p2a: Whimsicott|Substitute
+|-damage|p2a: Whimsicott|179/238
+|move|p1a: Morpeko|Parting Shot|p2a: Whimsicott
+|-unboost|p2a: Whimsicott|atk|1
+|-unboost|p2a: Whimsicott|spa|1
+|
+|t:|1776971970
+|switch|p1a: Smeargle|Smeargle, L95, M|258/258|[from] Parting Shot
+|
+|-heal|p2a: Whimsicott|193/238|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776971989
+|move|p2a: Whimsicott|Leech Seed|p1a: Smeargle
+|-start|p1a: Smeargle|move: Leech Seed
+|move|p1a: Smeargle|Shell Smash|p1a: Smeargle
+|-unboost|p1a: Smeargle|def|1
+|-unboost|p1a: Smeargle|spd|1
+|-boost|p1a: Smeargle|atk|2
+|-boost|p1a: Smeargle|spa|2
+|-boost|p1a: Smeargle|spe|2
+|
+|-heal|p2a: Whimsicott|207/238|[from] item: Leftovers
+|-damage|p1a: Smeargle|226/258|[from] Leech Seed|[of] p2a: Whimsicott
+|-heal|p2a: Whimsicott|238/238|[silent]
+|upkeep
+|turn|3
+|
+|t:|1776971996
+|move|p2a: Whimsicott|Encore|p1a: Smeargle
+|-start|p1a: Smeargle|Encore
+|move|p1a: Smeargle|Shell Smash|p1a: Smeargle
+|-unboost|p1a: Smeargle|def|1
+|-unboost|p1a: Smeargle|spd|1
+|-boost|p1a: Smeargle|atk|2
+|-boost|p1a: Smeargle|spa|2
+|-boost|p1a: Smeargle|spe|2
+|
+|-damage|p1a: Smeargle|194/258|[from] Leech Seed|[of] p2a: Whimsicott
+|upkeep
+|turn|4
+|
+|t:|1776972011
+|switch|p1a: Lugia|Lugia, L73|275/275
+|move|p2a: Whimsicott|Moonblast|p1a: Lugia
+|-damage|p1a: Lugia|254/275
+|-unboost|p1a: Lugia|spa|1
+|
+|upkeep
+|turn|5
+|
+|t:|1776972014
+|move|p2a: Whimsicott|Leech Seed|p1a: Lugia
+|-start|p1a: Lugia|move: Leech Seed
+|move|p1a: Lugia|Aeroblast|p2a: Whimsicott
+|-supereffective|p2a: Whimsicott
+|-crit|p2a: Whimsicott
+|-end|p2a: Whimsicott|Substitute
+|
+|-damage|p1a: Lugia|220/275|[from] Leech Seed|[of] p2a: Whimsicott
+|upkeep
+|turn|6
+|
+|t:|1776972024
+|switch|p2a: Raichu|Raichu-Alola, L87, M|246/246
+|move|p1a: Lugia|Aeroblast|p2a: Raichu
+|-resisted|p2a: Raichu
+|-damage|p2a: Raichu|222/246
+|
+|-damage|p1a: Lugia|186/275|[from] Leech Seed|[of] p2a: Raichu
+|-heal|p2a: Raichu|246/246|[silent]
+|upkeep
+|turn|7
+|
+|t:|1776972041
+|switch|p1a: Morpeko|Morpeko, L88, F|245/245
+|move|p2a: Raichu|Focus Blast|p1a: Morpeko
+|-supereffective|p1a: Morpeko
+|-damage|p1a: Morpeko|0 fnt
+|faint|p1a: Morpeko
+|-damage|p2a: Raichu|222/246|[from] item: Life Orb
+|
+|upkeep
+|inactive|Lemongrab23 has 120 seconds left.
+|n|!Lemongrab23|lemongrab23
+|
+|t:|1776972082
+|switch|p1a: Moltres|Moltres-Galar, L79|271/271
+|turn|8
+|
+|t:|1776972093
+|move|p2a: Raichu|Thunderbolt|p1a: Moltres
+|-supereffective|p1a: Moltres
+|-damage|p1a: Moltres|50/271
+|-status|p1a: Moltres|par
+|-enditem|p1a: Moltres|Weakness Policy
+|-boost|p1a: Moltres|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Moltres|spa|2|[from] item: Weakness Policy
+|-ability|p1a: Moltres|Berserk|boost
+|-boost|p1a: Moltres|spa|1
+|-damage|p2a: Raichu|198/246|[from] item: Life Orb
+|cant|p1a: Moltres|par
+|
+|upkeep
+|turn|9
+|-message|Lemongrab23 forfeited.
+|
+|win|chi_chihuahuadog

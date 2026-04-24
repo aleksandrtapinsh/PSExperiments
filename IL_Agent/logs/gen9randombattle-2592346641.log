@@ -1,0 +1,196 @@
+|j|☆RussTheBuss
+|j|☆vfbdfbvcgfnvbngn
+|t:|1776980807
+|gametype|singles
+|player|p1|RussTheBuss|dancer|1327
+|player|p2|vfbdfbvcgfnvbngn|102|1316
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776980807
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Conkeldurr|Conkeldurr, L80, M|299/299
+|switch|p2a: Ampharos|Ampharos, L88, M|302/302
+|turn|1
+|
+|t:|1776980817
+|move|p2a: Ampharos|Dazzling Gleam|p1a: Conkeldurr
+|-supereffective|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|109/299
+|move|p1a: Conkeldurr|Knock Off|p2a: Ampharos
+|-damage|p2a: Ampharos|224/302
+|-status|p1a: Conkeldurr|par|[from] ability: Static|[of] p2a: Ampharos
+|-enditem|p2a: Ampharos|Assault Vest|[from] move: Knock Off|[of] p1a: Conkeldurr
+|
+|upkeep
+|turn|2
+|
+|t:|1776980831
+|move|p1a: Conkeldurr|Mach Punch|p2a: Ampharos
+|-damage|p2a: Ampharos|152/302
+|move|p2a: Ampharos|Dazzling Gleam|p1a: Conkeldurr
+|-supereffective|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|0 fnt
+|faint|p1a: Conkeldurr
+|
+|upkeep
+|
+|t:|1776980853
+|switch|p1a: Sudowoodo|Sudowoodo, L94, F|284/284
+|turn|3
+|
+|t:|1776980858
+|move|p2a: Ampharos|Volt Switch|p1a: Sudowoodo
+|-damage|p1a: Sudowoodo|175/284
+|
+|t:|1776980861
+|switch|p2a: Glalie|Glalie, L96, F|309/309|[from] Volt Switch
+|move|p1a: Sudowoodo|Earthquake|p2a: Glalie
+|-damage|p2a: Glalie|179/309
+|
+|upkeep
+|turn|4
+|
+|t:|1776980876
+|switch|p1a: Zangoose|Zangoose, L85, M|263/263
+|move|p2a: Glalie|Earthquake|p1a: Zangoose
+|-damage|p1a: Zangoose|154/263
+|
+|-status|p1a: Zangoose|tox|[from] item: Toxic Orb
+|upkeep
+|turn|5
+|
+|t:|1776980892
+|move|p2a: Glalie|Freeze-Dry|p1a: Zangoose
+|-damage|p1a: Zangoose|42/263 tox
+|move|p1a: Zangoose|Close Combat|p2a: Glalie
+|-supereffective|p2a: Glalie
+|-damage|p2a: Glalie|0 fnt
+|-unboost|p1a: Zangoose|def|1
+|-unboost|p1a: Zangoose|spd|1
+|faint|p2a: Glalie
+|
+|-damage|p1a: Zangoose|26/263 tox|[from] psn
+|upkeep
+|
+|t:|1776980899
+|switch|p2a: Rillaboom|Rillaboom, L79, F|288/288
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|6
+|
+|t:|1776980905
+|move|p2a: Rillaboom|Grassy Glide|p1a: Zangoose
+|-damage|p1a: Zangoose|0 fnt
+|faint|p1a: Zangoose
+|
+|upkeep
+|
+|t:|1776980912
+|switch|p1a: Medicham|Medicham, L86, M|243/243
+|turn|7
+|
+|t:|1776980917
+|move|p2a: Rillaboom|Grassy Glide|p1a: Medicham
+|-damage|p1a: Medicham|114/243
+|move|p1a: Medicham|Ice Punch|p2a: Rillaboom
+|-supereffective|p2a: Rillaboom
+|-damage|p2a: Rillaboom|32/288
+|
+|-heal|p1a: Medicham|129/243|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|50/288|[from] Grassy Terrain
+|upkeep
+|turn|8
+|
+|t:|1776980924
+|move|p2a: Rillaboom|Grassy Glide|p1a: Medicham
+|-damage|p1a: Medicham|0 fnt
+|faint|p1a: Medicham
+|
+|-heal|p2a: Rillaboom|68/288|[from] Grassy Terrain
+|upkeep
+|
+|t:|1776980937
+|switch|p1a: Iron Boulder|Iron Boulder, L77|265/265
+|-enditem|p1a: Iron Boulder|Booster Energy
+|-activate|p1a: Iron Boulder|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Boulder|quarkdrivespe
+|turn|9
+|
+|t:|1776980955
+|move|p2a: Rillaboom|Grassy Glide|p1a: Iron Boulder
+|-supereffective|p1a: Iron Boulder
+|-damage|p1a: Iron Boulder|0 fnt
+|faint|p1a: Iron Boulder
+|-end|p1a: Iron Boulder|Quark Drive|[silent]
+|
+|-heal|p2a: Rillaboom|86/288|[from] Grassy Terrain
+|upkeep
+|
+|t:|1776980960
+|switch|p1a: Milotic|Milotic, L83, F|293/293
+|turn|10
+|
+|t:|1776980971
+|move|p2a: Rillaboom|Grassy Glide|p1a: Milotic
+|-supereffective|p1a: Milotic
+|-damage|p1a: Milotic|41/293
+|move|p1a: Milotic|Ice Beam|p2a: Rillaboom
+|-supereffective|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|
+|-heal|p1a: Milotic|59/293|[from] Grassy Terrain
+|-heal|p1a: Milotic|77/293|[from] item: Leftovers
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1776980977
+|switch|p2a: Terrakion|Terrakion, L79|273/273
+|turn|11
+|
+|t:|1776980984
+|move|p2a: Terrakion|Close Combat|p1a: Milotic
+|-damage|p1a: Milotic|0 fnt
+|-unboost|p2a: Terrakion|def|1
+|-unboost|p2a: Terrakion|spd|1
+|faint|p1a: Milotic
+|-damage|p2a: Terrakion|246/273|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776980987
+|switch|p1a: Sudowoodo|Sudowoodo, L94, F|175/284
+|turn|12
+|
+|t:|1776980991
+|switch|p2a: Ampharos|Ampharos, L88, M|152/302
+|-terastallize|p1a: Sudowoodo|Grass
+|move|p1a: Sudowoodo|Wood Hammer|p2a: Ampharos
+|-damage|p2a: Ampharos|0 fnt
+|faint|p2a: Ampharos
+|
+|upkeep
+|
+|t:|1776980993
+|switch|p2a: Dialga|Dialga-Origin, L73|266/266
+|-ability|p2a: Dialga|Pressure
+|turn|13
+|
+|t:|1776980999
+|move|p2a: Dialga|Fire Blast|p1a: Sudowoodo
+|-supereffective|p1a: Sudowoodo
+|-damage|p1a: Sudowoodo|0 fnt
+|faint|p1a: Sudowoodo
+|
+|win|vfbdfbvcgfnvbngn
+|raw|RussTheBuss's rating: 1327 &rarr; <strong>1306</strong><br />(-21 for losing)
+|raw|vfbdfbvcgfnvbngn's rating: 1316 &rarr; <strong>1337</strong><br />(+21 for winning)
+|l|☆RussTheBuss
+|player|p1|

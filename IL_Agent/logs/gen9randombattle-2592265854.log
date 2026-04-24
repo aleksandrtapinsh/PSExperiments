@@ -1,0 +1,171 @@
+|j|☆Adirdoor
+|j|☆notengoideas
+|t:|1776974478
+|gametype|singles
+|player|p1|Adirdoor|265|1090
+|player|p2|notengoideas|101|1052
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776974478
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Gliscor|Gliscor, L76, F|239/239
+|switch|p2a: Solgaleo|Solgaleo, L74|325/325
+|turn|1
+|
+|t:|1776974516
+|switch|p1a: Meowscarada|Meowscarada, L78, M|247/247
+|switch|p2a: Dunsparce|Dunsparce, L86, F|312/312
+|
+|upkeep
+|turn|2
+|
+|t:|1776974548
+|move|p1a: Meowscarada|Toxic Spikes|p2a: Dunsparce
+|-start|p1a: Meowscarada|typechange|Poison|[from] ability: Protean
+|-sidestart|p2: notengoideas|move: Toxic Spikes
+|move|p2a: Dunsparce|Coil|p2a: Dunsparce
+|-boost|p2a: Dunsparce|atk|1
+|-boost|p2a: Dunsparce|def|1
+|-boost|p2a: Dunsparce|accuracy|1
+|
+|upkeep
+|turn|3
+|
+|t:|1776974576
+|move|p1a: Meowscarada|Toxic Spikes|p2a: Dunsparce
+|-sidestart|p2: notengoideas|move: Toxic Spikes
+|move|p2a: Dunsparce|Coil|p2a: Dunsparce
+|-boost|p2a: Dunsparce|atk|1
+|-boost|p2a: Dunsparce|def|1
+|-boost|p2a: Dunsparce|accuracy|1
+|
+|upkeep
+|turn|4
+|
+|t:|1776974584
+|move|p1a: Meowscarada|Triple Axel|p2a: Dunsparce
+|-damage|p2a: Dunsparce|304/312
+|-damage|p2a: Dunsparce|288/312
+|-damage|p2a: Dunsparce|267/312
+|-hitcount|p2a: Dunsparce|3
+|-damage|p1a: Meowscarada|223/247|[from] item: Life Orb
+|move|p2a: Dunsparce|Coil|p2a: Dunsparce
+|-boost|p2a: Dunsparce|atk|1
+|-boost|p2a: Dunsparce|def|1
+|-boost|p2a: Dunsparce|accuracy|1
+|
+|upkeep
+|turn|5
+|
+|t:|1776974596
+|move|p1a: Meowscarada|Flower Trick|p2a: Dunsparce
+|-crit|p2a: Dunsparce
+|-damage|p2a: Dunsparce|188/312
+|-damage|p1a: Meowscarada|199/247|[from] item: Life Orb
+|move|p2a: Dunsparce|Coil|p2a: Dunsparce
+|-boost|p2a: Dunsparce|atk|1
+|-boost|p2a: Dunsparce|def|1
+|-boost|p2a: Dunsparce|accuracy|1
+|
+|upkeep
+|turn|6
+|
+|t:|1776974605
+|move|p1a: Meowscarada|Knock Off|p2a: Dunsparce
+|-damage|p2a: Dunsparce|165/312
+|-enditem|p2a: Dunsparce|Eviolite|[from] move: Knock Off|[of] p1a: Meowscarada
+|-damage|p1a: Meowscarada|175/247|[from] item: Life Orb
+|move|p2a: Dunsparce|Roost|p2a: Dunsparce
+|-heal|p2a: Dunsparce|312/312
+|-singleturn|p2a: Dunsparce|move: Roost
+|
+|upkeep
+|turn|7
+|
+|t:|1776974618
+|move|p1a: Meowscarada|Flower Trick|p2a: Dunsparce
+|-crit|p2a: Dunsparce
+|-damage|p2a: Dunsparce|205/312
+|-damage|p1a: Meowscarada|151/247|[from] item: Life Orb
+|move|p2a: Dunsparce|Earthquake|p1a: Meowscarada
+|-supereffective|p1a: Meowscarada
+|-damage|p1a: Meowscarada|0 fnt
+|faint|p1a: Meowscarada
+|
+|upkeep
+|
+|t:|1776974641
+|switch|p1a: Thundurus|Thundurus, L80, M|258/258
+|turn|8
+|
+|t:|1776974654
+|move|p1a: Thundurus|Focus Blast|p2a: Dunsparce|[miss]
+|-miss|p1a: Thundurus|p2a: Dunsparce
+|move|p2a: Dunsparce|Body Slam|p1a: Thundurus
+|-damage|p1a: Thundurus|0 fnt
+|faint|p1a: Thundurus
+|
+|upkeep
+|
+|t:|1776974669
+|switch|p1a: Gliscor|Gliscor, L76, F|239/239
+|turn|9
+|
+|t:|1776974703
+|move|p1a: Gliscor|Earthquake|p2a: Dunsparce
+|-damage|p2a: Dunsparce|168/312
+|move|p2a: Dunsparce|Body Slam|p1a: Gliscor
+|-damage|p1a: Gliscor|68/239
+|
+|-status|p1a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|10
+|
+|t:|1776974710
+|move|p1a: Gliscor|Protect|p1a: Gliscor
+|-singleturn|p1a: Gliscor|Protect
+|move|p2a: Dunsparce|Roost|p2a: Dunsparce
+|-heal|p2a: Dunsparce|312/312
+|-singleturn|p2a: Dunsparce|move: Roost
+|
+|-heal|p1a: Gliscor|97/239 tox|[from] ability: Poison Heal
+|upkeep
+|turn|11
+|
+|t:|1776974724
+|switch|p1a: Hypno|Hypno, L95, M|315/315
+|move|p2a: Dunsparce|Body Slam|p1a: Hypno
+|-damage|p1a: Hypno|63/315
+|-status|p1a: Hypno|par
+|
+|-heal|p1a: Hypno|82/315 par|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776974732
+|move|p2a: Dunsparce|Body Slam|p1a: Hypno
+|-damage|p1a: Hypno|0 fnt
+|faint|p1a: Hypno
+|
+|upkeep
+|
+|t:|1776974737
+|switch|p1a: Torkoal|Torkoal, L88, M|266/266
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|turn|13
+|-message|Adirdoor forfeited.
+|
+|win|notengoideas
+|raw|Adirdoor's rating: 1090 &rarr; <strong>1064</strong><br />(-26 for losing)
+|raw|notengoideas's rating: 1052 &rarr; <strong>1088</strong><br />(+36 for winning)
+|l|☆Adirdoor
+|player|p1|
+|c|☆notengoideas|gg wp

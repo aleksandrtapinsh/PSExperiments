@@ -1,0 +1,334 @@
+|j|☆BrutalBjoern
+|j|☆good pork
+|t:|1776980882
+|gametype|singles
+|player|p1|BrutalBjoern|lady-gen4|2007
+|player|p2|good pork|170|1950
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776980882
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Toedscruel|Toedscruel, L87, F|281/281
+|switch|p2a: Vigoroth|Vigoroth, L85, M|275/275
+|turn|1
+|
+|t:|1776980929
+|move|p1a: Toedscruel|Knock Off|p2a: Vigoroth
+|-damage|p2a: Vigoroth|237/275
+|-enditem|p2a: Vigoroth|Eviolite|[from] move: Knock Off|[of] p1a: Toedscruel
+|move|p2a: Vigoroth|Body Slam|p1a: Toedscruel
+|-damage|p1a: Toedscruel|187/281
+|
+|upkeep
+|turn|2
+|
+|t:|1776980939
+|move|p1a: Toedscruel|Giga Drain|p2a: Vigoroth
+|-damage|p2a: Vigoroth|132/275
+|-heal|p1a: Toedscruel|240/281|[from] drain|[of] p2a: Vigoroth
+|move|p2a: Vigoroth|Body Slam|p1a: Toedscruel
+|-damage|p1a: Toedscruel|137/281
+|
+|upkeep
+|turn|3
+|
+|t:|1776980948
+|move|p1a: Toedscruel|Earth Power|p2a: Vigoroth
+|-damage|p2a: Vigoroth|15/275
+|move|p2a: Vigoroth|Body Slam|p1a: Toedscruel
+|-damage|p1a: Toedscruel|44/281
+|
+|upkeep
+|turn|4
+|
+|t:|1776980958
+|switch|p2a: Corviknight|Corviknight, L80, M|288/288
+|move|p1a: Toedscruel|Rapid Spin|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|275/288
+|-boost|p1a: Toedscruel|spe|1
+|-damage|p1a: Toedscruel|0 fnt|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|faint|p1a: Toedscruel
+|
+|upkeep
+|
+|t:|1776980976
+|switch|p1a: Cyclizar|Cyclizar, L83, F|252/252
+|turn|5
+|
+|t:|1776980979
+|move|p1a: Cyclizar|Knock Off|p2a: Corviknight
+|-damage|p2a: Corviknight|210/288
+|-damage|p1a: Cyclizar|210/252|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|-enditem|p2a: Corviknight|Rocky Helmet|[from] move: Knock Off|[of] p1a: Cyclizar
+|move|p2a: Corviknight|Brave Bird|p1a: Cyclizar
+|-damage|p1a: Cyclizar|63/252
+|-damage|p2a: Corviknight|161/288|[from] Recoil
+|
+|upkeep
+|turn|6
+|
+|t:|1776980989
+|switch|p1a: Komala|Komala, L88, M|258/258
+|-ability|p1a: Komala|Comatose
+|move|p2a: Corviknight|Body Press|p1a: Komala
+|-supereffective|p1a: Komala
+|-damage|p1a: Komala|134/258
+|
+|upkeep
+|turn|7
+|
+|t:|1776980997
+|move|p1a: Komala|U-turn|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-crit|p2a: Corviknight
+|-damage|p2a: Corviknight|127/288
+|
+|t:|1776981001
+|switch|p1a: Cyclizar|Cyclizar, L83, F|147/252|[from] U-turn
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|271/288
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|upkeep
+|turn|8
+|
+|t:|1776981025
+|move|p1a: Cyclizar|Shed Tail|p1a: Cyclizar
+|-start|p1a: Cyclizar|Substitute|[from] move: Shed Tail
+|-damage|p1a: Cyclizar|21/252
+|
+|t:|1776981028
+|switch|p1a: Koraidon|Koraidon, L64|235/235|[from] Shed Tail
+|-weather|SunnyDay|[from] ability: Orichalcum Pulse|[of] p1a: Koraidon
+|-activate|p1a: Koraidon|Orichalcum Pulse|[source]
+|move|p2a: Corviknight|Brave Bird|p1a: Koraidon
+|-supereffective|p1a: Koraidon
+|-end|p1a: Koraidon|Substitute
+|-damage|p2a: Corviknight|250/288|[from] Recoil|[of] p1a: Koraidon
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1776981050
+|switch|p2a: Vigoroth|Vigoroth, L85, M|15/275
+|move|p1a: Koraidon|Flare Blitz|p2a: Vigoroth
+|-damage|p2a: Vigoroth|0 fnt
+|faint|p2a: Vigoroth
+|-damage|p1a: Koraidon|230/235|[from] Recoil
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1776981059
+|switch|p2a: Mandibuzz|Mandibuzz, L85, F|326/326
+|turn|10
+|
+|t:|1776981089
+|move|p1a: Koraidon|Swords Dance|p1a: Koraidon
+|-boost|p1a: Koraidon|atk|2
+|move|p2a: Mandibuzz|Brave Bird|p1a: Koraidon
+|-supereffective|p1a: Koraidon
+|-damage|p1a: Koraidon|30/235
+|-damage|p2a: Mandibuzz|260/326|[from] Recoil
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|11
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by good pork)
+|
+|t:|1776981097
+|move|p1a: Koraidon|Flare Blitz|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|54/326
+|-damage|p1a: Koraidon|0 fnt|[from] Recoil
+|faint|p1a: Koraidon
+|move|p2a: Mandibuzz|Foul Play|p1: Koraidon|[notarget]
+|-fail|p2a: Mandibuzz
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1776981107
+|switch|p1a: Terrakion|Terrakion, L79|273/273
+|turn|12
+|
+|t:|1776981117
+|move|p1a: Terrakion|Close Combat|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|0 fnt
+|-unboost|p1a: Terrakion|def|1
+|-unboost|p1a: Terrakion|spd|1
+|faint|p2a: Mandibuzz
+|
+|-weather|none
+|upkeep
+|
+|t:|1776981119
+|switch|p2a: Cinccino|Cinccino, L83, M|260/260
+|turn|13
+|
+|t:|1776981127
+|-terastallize|p1a: Terrakion|Fighting
+|move|p2a: Cinccino|Bullet Seed|p1a: Terrakion
+|-damage|p1a: Terrakion|229/273
+|-damage|p1a: Terrakion|188/273
+|-damage|p1a: Terrakion|145/273
+|-damage|p1a: Terrakion|104/273
+|-hitcount|p1a: Terrakion|4
+|move|p1a: Terrakion|Close Combat|p2a: Cinccino
+|-supereffective|p2a: Cinccino
+|-damage|p2a: Cinccino|0 fnt
+|-unboost|p1a: Terrakion|def|1
+|-unboost|p1a: Terrakion|spd|1
+|faint|p2a: Cinccino
+|
+|upkeep
+|
+|t:|1776981140
+|switch|p2a: Bellibolt|Bellibolt, L84, M|320/320
+|turn|14
+|
+|t:|1776981145
+|switch|p1a: Komala|Komala, L88, M|134/258
+|-ability|p1a: Komala|Comatose
+|move|p2a: Bellibolt|Thunderbolt|p1a: Komala
+|-damage|p1a: Komala|41/258
+|
+|upkeep
+|turn|15
+|
+|t:|1776981150
+|switch|p2a: Corviknight|Corviknight, L80, M|250/288
+|move|p1a: Komala|Knock Off|p2a: Corviknight
+|-damage|p2a: Corviknight|177/288
+|
+|upkeep
+|turn|16
+|
+|t:|1776981157
+|switch|p1a: Cyclizar|Cyclizar, L83, F|105/252
+|move|p2a: Corviknight|Body Press|p1a: Cyclizar
+|-supereffective|p1a: Cyclizar
+|-damage|p1a: Cyclizar|0 fnt
+|faint|p1a: Cyclizar
+|
+|upkeep
+|
+|t:|1776981163
+|switch|p1a: Terrakion|Terrakion, L79, tera:Fighting|104/273
+|turn|17
+|
+|t:|1776981165
+|move|p1a: Terrakion|Close Combat|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|-unboost|p1a: Terrakion|def|1
+|-unboost|p1a: Terrakion|spd|1
+|faint|p2a: Corviknight
+|
+|upkeep
+|
+|t:|1776981167
+|switch|p2a: Bellibolt|Bellibolt, L84, M|320/320
+|turn|18
+|
+|t:|1776981170
+|switch|p1a: Komala|Komala, L88, M|41/258
+|-ability|p1a: Komala|Comatose
+|move|p2a: Bellibolt|Thunderbolt|p1a: Komala
+|-damage|p1a: Komala|0 fnt
+|faint|p1a: Komala
+|
+|upkeep
+|
+|t:|1776981172
+|switch|p1a: Arceus|Arceus-Bug, L73|295/295
+|turn|19
+|
+|t:|1776981174
+|move|p1a: Arceus|Calm Mind|p1a: Arceus
+|-boost|p1a: Arceus|spa|1
+|-boost|p1a: Arceus|spd|1
+|move|p2a: Bellibolt|Toxic|p1a: Arceus
+|-status|p1a: Arceus|tox
+|
+|-damage|p1a: Arceus|277/295 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1776981184
+|switch|p2a: Glaceon|Glaceon, L94, M|275/275
+|move|p1a: Arceus|Earth Power|p2a: Glaceon
+|-damage|p2a: Glaceon|199/275
+|
+|-damage|p1a: Arceus|241/295 tox|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1776981202
+|move|p1a: Arceus|Judgment|p2a: Glaceon
+|-damage|p2a: Glaceon|45/275
+|move|p2a: Glaceon|Wish|p2a: Glaceon
+|
+|-damage|p1a: Arceus|187/295 tox|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1776981208
+|move|p2a: Glaceon|Protect|p2a: Glaceon
+|-singleturn|p2a: Glaceon|Protect
+|move|p1a: Arceus|Calm Mind|p1a: Arceus
+|-boost|p1a: Arceus|spa|1
+|-boost|p1a: Arceus|spd|1
+|
+|-heal|p2a: Glaceon|182/275|[from] move: Wish|[wisher] Glaceon
+|-damage|p1a: Arceus|115/295 tox|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1776981211
+|move|p1a: Arceus|Judgment|p2a: Glaceon
+|-damage|p2a: Glaceon|0 fnt
+|faint|p2a: Glaceon
+|
+|-damage|p1a: Arceus|25/295 tox|[from] psn
+|upkeep
+|
+|t:|1776981214
+|switch|p2a: Bellibolt|Bellibolt, L84, M|320/320
+|turn|24
+|
+|t:|1776981220
+|-terastallize|p2a: Bellibolt|Water
+|move|p1a: Arceus|Judgment|p2a: Bellibolt
+|-damage|p2a: Bellibolt|73/320
+|-start|p2a: Bellibolt|Charge|Judgment|[from] ability: Electromorphosis
+|move|p2a: Bellibolt|Slack Off|p2a: Bellibolt
+|-heal|p2a: Bellibolt|233/320
+|
+|-heal|p2a: Bellibolt|253/320|[from] item: Leftovers
+|-damage|p1a: Arceus|0 fnt|[from] psn
+|faint|p1a: Arceus
+|upkeep
+|
+|t:|1776981225
+|switch|p1a: Terrakion|Terrakion, L79, tera:Fighting|104/273
+|turn|25
+|
+|t:|1776981226
+|move|p1a: Terrakion|Close Combat|p2a: Bellibolt
+|-damage|p2a: Bellibolt|0 fnt
+|-unboost|p1a: Terrakion|def|1
+|-unboost|p1a: Terrakion|spd|1
+|faint|p2a: Bellibolt
+|
+|win|BrutalBjoern
+|raw|BrutalBjoern's rating: 2029 &rarr; <strong>2045</strong><br />(+16 for winning)
+|raw|good pork's rating: 1950 &rarr; <strong>1934</strong><br />(-16 for losing)

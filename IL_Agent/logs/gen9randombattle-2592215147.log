@@ -1,0 +1,324 @@
+|j|‽aHoodie
+|j|☆gatonegro3
+|t:|1776970933
+|gametype|singles
+|player|p1|aHoodie|unknown|1240
+|player|p2|gatonegro3|1|1251
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776970933
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Zapdos|Zapdos-Galar, L77|265/265
+|switch|p2a: Crabominable|Crabominable, L90, M|321/321
+|turn|1
+|
+|t:|1776970944
+|move|p1a: Zapdos|Close Combat|p2a: Crabominable
+|-supereffective|p2a: Crabominable
+|-damage|p2a: Crabominable|33/321
+|-unboost|p1a: Zapdos|def|1
+|-unboost|p1a: Zapdos|spd|1
+|move|p2a: Crabominable|Gunk Shot|p1a: Zapdos|[miss]
+|-miss|p2a: Crabominable|p1a: Zapdos
+|
+|upkeep
+|turn|2
+|
+|t:|1776970957
+|move|p1a: Zapdos|Close Combat|p2a: Crabominable
+|-supereffective|p2a: Crabominable
+|-damage|p2a: Crabominable|0 fnt
+|-unboost|p1a: Zapdos|def|1
+|-unboost|p1a: Zapdos|spd|1
+|faint|p2a: Crabominable
+|
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by aHoodie)
+|
+|t:|1776970969
+|switch|p2a: Zapdos|Zapdos, L78|268/268
+|turn|3
+|
+|t:|1776970979
+|switch|p1a: Iron Thorns|Iron Thorns, L83|302/302
+|move|p2a: Zapdos|Discharge|p1a: Iron Thorns
+|-resisted|p1a: Iron Thorns
+|-damage|p1a: Iron Thorns|257/302
+|
+|upkeep
+|turn|4
+|
+|t:|1776970991
+|switch|p2a: Dudunsparce|Dudunsparce, L83, F|343/343
+|move|p1a: Iron Thorns|Ice Punch|p2a: Dudunsparce
+|-damage|p2a: Dudunsparce|264/343
+|
+|-heal|p2a: Dudunsparce|285/343|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776971006
+|-end|p1a: Iron Thorns|Quark Drive|[silent]
+|switch|p1a: Hariyama|Hariyama, L87, M|392/392
+|move|p2a: Dudunsparce|Calm Mind|p2a: Dudunsparce
+|-boost|p2a: Dudunsparce|spa|1
+|-boost|p2a: Dudunsparce|spd|1
+|
+|-heal|p2a: Dudunsparce|306/343|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776971021
+|move|p2a: Dudunsparce|Boomburst|p1a: Hariyama
+|-damage|p1a: Hariyama|215/392
+|move|p1a: Hariyama|Close Combat|p2a: Dudunsparce
+|-supereffective|p2a: Dudunsparce
+|-crit|p2a: Dudunsparce
+|-damage|p2a: Dudunsparce|0 fnt
+|-unboost|p1a: Hariyama|def|1
+|-unboost|p1a: Hariyama|spd|1
+|faint|p2a: Dudunsparce
+|
+|upkeep
+|
+|t:|1776971033
+|switch|p2a: Zapdos|Zapdos, L78|268/268
+|turn|7
+|
+|t:|1776971041
+|switch|p2a: Tsareena|Tsareena, L87, F|267/267
+|switch|p1a: Iron Thorns|Iron Thorns, L83|257/302
+|
+|upkeep
+|turn|8
+|
+|t:|1776971054
+|-end|p1a: Iron Thorns|Quark Drive|[silent]
+|switch|p1a: Scyther|Scyther, L82, F|249/249
+|move|p2a: Tsareena|High Jump Kick|p1a: Scyther
+|-resisted|p1a: Scyther
+|-damage|p1a: Scyther|219/249
+|
+|upkeep
+|turn|9
+|
+|t:|1776971072
+|move|p1a: Scyther|Dual Wingbeat|p2a: Tsareena
+|-supereffective|p2a: Tsareena
+|-damage|p2a: Tsareena|141/267
+|-supereffective|p2a: Tsareena
+|-damage|p2a: Tsareena|13/267
+|-hitcount|p2a: Tsareena|2
+|move|p2a: Tsareena|U-turn|p1a: Scyther
+|-resisted|p1a: Scyther
+|-damage|p1a: Scyther|182/249
+|
+|t:|1776971081
+|switch|p2a: Eternatus|Eternatus, L69|308/308|[from] U-turn
+|-ability|p2a: Eternatus|Pressure
+|
+|upkeep
+|turn|10
+|inactive|aHoodie has 120 seconds left.
+|
+|t:|1776971115
+|switch|p1a: Iron Thorns|Iron Thorns, L83|257/302
+|move|p2a: Eternatus|Toxic Spikes|p1a: Iron Thorns
+|-sidestart|p1: aHoodie|move: Toxic Spikes
+|
+|upkeep
+|turn|11
+|
+|t:|1776971123
+|move|p1a: Iron Thorns|Earthquake|p2a: Eternatus
+|-supereffective|p2a: Eternatus
+|-damage|p2a: Eternatus|96/308
+|move|p2a: Eternatus|Dynamax Cannon|p1a: Iron Thorns
+|-damage|p1a: Iron Thorns|149/302
+|
+|upkeep
+|turn|12
+|
+|t:|1776971131
+|switch|p2a: Zapdos|Zapdos, L78|268/268
+|move|p1a: Iron Thorns|Earthquake|p2a: Zapdos
+|-immune|p2a: Zapdos
+|
+|upkeep
+|turn|13
+|
+|t:|1776971144
+|-end|p1a: Iron Thorns|Quark Drive|[silent]
+|switch|p1a: Vikavolt|Vikavolt, L83, M|263/263
+|move|p2a: Zapdos|Discharge|p1a: Vikavolt
+|-resisted|p1a: Vikavolt
+|-damage|p1a: Vikavolt|214/263
+|
+|upkeep
+|turn|14
+|
+|t:|1776971151
+|move|p2a: Zapdos|Heat Wave|p1a: Vikavolt
+|-supereffective|p1a: Vikavolt
+|-damage|p1a: Vikavolt|54/263
+|move|p1a: Vikavolt|Sticky Web|p2a: Zapdos
+|-sidestart|p2: gatonegro3|move: Sticky Web
+|
+|upkeep
+|turn|15
+|
+|t:|1776971161
+|move|p2a: Zapdos|Heat Wave|p1a: Vikavolt
+|-supereffective|p1a: Vikavolt
+|-damage|p1a: Vikavolt|0 fnt
+|faint|p1a: Vikavolt
+|
+|upkeep
+|
+|t:|1776971168
+|switch|p1a: Snorlax|Snorlax, L82, F|397/397
+|-status|p1a: Snorlax|psn
+|turn|16
+|
+|t:|1776971179
+|move|p2a: Zapdos|Hurricane|p1a: Snorlax|[miss]
+|-miss|p2a: Zapdos|p1a: Snorlax
+|move|p1a: Snorlax|Curse|p1a: Snorlax
+|-unboost|p1a: Snorlax|spe|1
+|-boost|p1a: Snorlax|atk|1
+|-boost|p1a: Snorlax|def|1
+|
+|-damage|p1a: Snorlax|348/397 psn|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1776971188
+|switch|p2a: Tsareena|Tsareena, L87, F|13/267
+|-activate|p2a: Tsareena|move: Sticky Web
+|-unboost|p2a: Tsareena|spe|1
+|move|p1a: Snorlax|Rest|p1a: Snorlax
+|-status|p1a: Snorlax|slp|[from] move: Rest
+|-heal|p1a: Snorlax|397/397 slp|[silent]
+|
+|upkeep
+|turn|18
+|
+|t:|1776971199
+|-terastallize|p1a: Snorlax|Poison
+|move|p2a: Tsareena|Rapid Spin|p1a: Snorlax
+|-damage|p1a: Snorlax|358/397 slp
+|-boost|p2a: Tsareena|spe|1
+|-sideend|p2: gatonegro3|Sticky Web|[from] move: Rapid Spin|[of] p2a: Tsareena
+|cant|p1a: Snorlax|slp
+|move|p1a: Snorlax|Sleep Talk|p1a: Snorlax
+|move|p1a: Snorlax|Body Slam|p2a: Tsareena|[from] move: Sleep Talk
+|-damage|p2a: Tsareena|0 fnt
+|faint|p2a: Tsareena
+|
+|-heal|p1a: Snorlax|382/397 slp|[from] item: Leftovers
+|upkeep
+|
+|t:|1776971217
+|switch|p2a: Eternatus|Eternatus, L69|96/308
+|-ability|p2a: Eternatus|Pressure
+|turn|19
+|
+|t:|1776971223
+|move|p2a: Eternatus|Recover|p2a: Eternatus
+|-heal|p2a: Eternatus|250/308
+|cant|p1a: Snorlax|slp
+|move|p1a: Snorlax|Sleep Talk|p1a: Snorlax
+|move|p1a: Snorlax|Body Slam|p2a: Eternatus|[from] move: Sleep Talk
+|-damage|p2a: Eternatus|87/308
+|-status|p2a: Eternatus|par
+|-damage|p1a: Snorlax|316/397 slp|[from] item: Rocky Helmet|[of] p2a: Eternatus
+|
+|-heal|p1a: Snorlax|340/397 slp|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1776971235
+|cant|p2a: Eternatus|par
+|-curestatus|p1a: Snorlax|slp|[msg]
+|move|p1a: Snorlax|Body Slam|p2a: Eternatus
+|-damage|p2a: Eternatus|0 fnt
+|-damage|p1a: Snorlax|274/397|[from] item: Rocky Helmet|[of] p2a: Eternatus
+|faint|p2a: Eternatus
+|
+|-heal|p1a: Snorlax|298/397|[from] item: Leftovers
+|upkeep
+|
+|t:|1776971247
+|switch|p2a: Zapdos|Zapdos, L78|268/268
+|turn|21
+|
+|t:|1776971253
+|move|p2a: Zapdos|Discharge|p1a: Snorlax
+|-damage|p1a: Snorlax|223/397
+|-status|p1a: Snorlax|par
+|cant|p1a: Snorlax|par
+|
+|-heal|p1a: Snorlax|247/397 par|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1776971264
+|move|p2a: Zapdos|Hurricane|p1a: Snorlax|[miss]
+|-miss|p2a: Zapdos|p1a: Snorlax
+|move|p1a: Snorlax|Rest|p1a: Snorlax
+|-status|p1a: Snorlax|slp|[from] move: Rest
+|-heal|p1a: Snorlax|397/397 slp|[silent]
+|
+|upkeep
+|turn|23
+|
+|t:|1776971273
+|switch|p2a: Chien-Pao|Chien-Pao, L72|234/234
+|-ability|p2a: Chien-Pao|Sword of Ruin
+|cant|p1a: Snorlax|slp
+|move|p1a: Snorlax|Sleep Talk|p1a: Snorlax
+|move|p1a: Snorlax|Curse|p1a: Snorlax|[from] move: Sleep Talk
+|-unboost|p1a: Snorlax|spe|1
+|-boost|p1a: Snorlax|atk|1
+|-boost|p1a: Snorlax|def|1
+|
+|upkeep
+|turn|24
+|
+|t:|1776971286
+|move|p2a: Chien-Pao|Swords Dance|p2a: Chien-Pao
+|-boost|p2a: Chien-Pao|atk|2
+|cant|p1a: Snorlax|slp
+|move|p1a: Snorlax|Sleep Talk|p1a: Snorlax
+|move|p1a: Snorlax|Curse|p1a: Snorlax|[from] move: Sleep Talk
+|-unboost|p1a: Snorlax|spe|1
+|-boost|p1a: Snorlax|atk|1
+|-boost|p1a: Snorlax|def|1
+|
+|upkeep
+|turn|25
+|
+|t:|1776971295
+|move|p2a: Chien-Pao|Swords Dance|p2a: Chien-Pao
+|-boost|p2a: Chien-Pao|atk|2
+|-curestatus|p1a: Snorlax|slp|[msg]
+|move|p1a: Snorlax|Body Slam|p2a: Chien-Pao
+|-damage|p2a: Chien-Pao|0 fnt
+|faint|p2a: Chien-Pao
+|
+|upkeep
+|-message|gatonegro3 forfeited.
+|
+|win|aHoodie
+|raw|aHoodie's rating: 1240 &rarr; <strong>1266</strong><br />(+26 for winning)
+|raw|gatonegro3's rating: 1251 &rarr; <strong>1225</strong><br />(-26 for losing)
+|l|☆gatonegro3
+|player|p2|

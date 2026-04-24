@@ -1,0 +1,323 @@
+|j|☆Bxbjdjsnd
+|j|☆Hdjjsjisiaio
+|t:|1776973270
+|gametype|singles
+|player|p1|Bxbjdjsnd|265|1043
+|player|p2|Hdjjsjisiaio|1|1000
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776973270
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Swanna|Swanna, L89, F|278/278
+|switch|p2a: Gallade|Gallade, L80, M|240/240
+|turn|1
+|
+|t:|1776973286
+|move|p1a: Swanna|Brave Bird|p2a: Gallade
+|-supereffective|p2a: Gallade
+|-damage|p2a: Gallade|0 fnt
+|faint|p2a: Gallade
+|-damage|p1a: Swanna|199/278|[from] Recoil
+|
+|upkeep
+|
+|t:|1776973295
+|switch|p2a: Alomomola|Alomomola, L87, M|429/429
+|turn|2
+|
+|t:|1776973313
+|move|p1a: Swanna|Brave Bird|p2a: Alomomola
+|-damage|p2a: Alomomola|302/429
+|-damage|p1a: Swanna|157/278|[from] Recoil
+|move|p2a: Alomomola|Scald|p1a: Swanna
+|-resisted|p1a: Swanna
+|-damage|p1a: Swanna|128/278
+|
+|-heal|p2a: Alomomola|328/429|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776973335
+|move|p1a: Swanna|Brave Bird|p2a: Alomomola
+|-damage|p2a: Alomomola|181/429
+|-damage|p1a: Swanna|79/278|[from] Recoil
+|move|p2a: Alomomola|Scald|p1a: Swanna
+|-resisted|p1a: Swanna
+|-damage|p1a: Swanna|49/278
+|
+|-heal|p2a: Alomomola|207/429|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776973347
+|move|p1a: Swanna|Brave Bird|p2a: Alomomola
+|-damage|p2a: Alomomola|69/429
+|-damage|p1a: Swanna|3/278|[from] Recoil
+|move|p2a: Alomomola|Flip Turn|p1a: Swanna
+|-resisted|p1a: Swanna
+|-damage|p1a: Swanna|0 fnt
+|faint|p1a: Swanna
+|
+|t:|1776973358
+|switch|p2a: Pelipper|Pelipper, L86, F|243/243|[from] Flip Turn
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1776973367
+|switch|p1a: Crawdaunt|Crawdaunt, L84, M|243/243
+|turn|5
+|
+|t:|1776973372
+|move|p2a: Pelipper|Hurricane|p1a: Crawdaunt
+|-damage|p1a: Crawdaunt|69/243
+|move|p1a: Crawdaunt|Dragon Dance|p1a: Crawdaunt
+|-boost|p1a: Crawdaunt|atk|1
+|-boost|p1a: Crawdaunt|spe|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1776973390
+|move|p1a: Crawdaunt|Aqua Jet|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|162/243
+|-damage|p1a: Crawdaunt|45/243|[from] item: Life Orb
+|move|p2a: Pelipper|Hurricane|p1a: Crawdaunt
+|-damage|p1a: Crawdaunt|0 fnt
+|faint|p1a: Crawdaunt
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1776973402
+|switch|p1a: Regice|Regice, L88|284/284
+|turn|7
+|
+|t:|1776973408
+|move|p2a: Pelipper|U-turn|p1a: Regice
+|-damage|p1a: Regice|257/284
+|
+|t:|1776973410
+|switch|p2a: Iron Crown|Iron Crown, L78|268/268|[from] U-turn
+|move|p1a: Regice|Ice Beam|p2a: Iron Crown
+|-resisted|p2a: Iron Crown
+|-damage|p2a: Iron Crown|223/268
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Iron Crown|239/268|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776973431
+|switch|p1a: Wyrdeer|Wyrdeer, L87, M|321/321
+|-ability|p1a: Wyrdeer|Intimidate|boost
+|-unboost|p2a: Iron Crown|atk|1
+|move|p2a: Iron Crown|Calm Mind|p2a: Iron Crown
+|-boost|p2a: Iron Crown|spa|1
+|-boost|p2a: Iron Crown|spd|1
+|
+|-weather|none
+|-heal|p2a: Iron Crown|255/268|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776973443
+|move|p2a: Iron Crown|Tachyon Cutter|p1a: Wyrdeer
+|-damage|p1a: Wyrdeer|230/321
+|-damage|p1a: Wyrdeer|133/321
+|-hitcount|p1a: Wyrdeer|2
+|move|p1a: Wyrdeer|Thunder Wave|p2a: Iron Crown
+|-status|p2a: Iron Crown|par
+|
+|-heal|p1a: Wyrdeer|153/321|[from] item: Leftovers
+|-heal|p2a: Iron Crown|268/268 par|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1776973455
+|move|p1a: Wyrdeer|Earthquake|p2a: Iron Crown
+|-supereffective|p2a: Iron Crown
+|-damage|p2a: Iron Crown|116/268 par
+|move|p2a: Iron Crown|Tachyon Cutter|p1a: Wyrdeer
+|-damage|p1a: Wyrdeer|69/321
+|-damage|p1a: Wyrdeer|0 fnt
+|faint|p1a: Wyrdeer
+|-hitcount|p1: Wyrdeer|2
+|
+|-heal|p2a: Iron Crown|132/268 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1776973475
+|switch|p1a: Maushold|Maushold, L76|238/238
+|turn|11
+|
+|t:|1776973490
+|move|p1a: Maushold|Bite|p2a: Iron Crown
+|-supereffective|p2a: Iron Crown
+|-damage|p2a: Iron Crown|46/268 par
+|move|p2a: Iron Crown|Tachyon Cutter|p1a: Maushold
+|-damage|p1a: Maushold|133/238
+|-damage|p1a: Maushold|21/238
+|-hitcount|p1a: Maushold|2
+|
+|-heal|p2a: Iron Crown|62/268 par|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776973502
+|move|p1a: Maushold|Bite|p2a: Iron Crown
+|-supereffective|p2a: Iron Crown
+|-damage|p2a: Iron Crown|0 fnt
+|faint|p2a: Iron Crown
+|-end|p2a: Iron Crown|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1776973512
+|switch|p2a: Alomomola|Alomomola, L87, M|212/429
+|turn|13
+|
+|t:|1776973521
+|move|p1a: Maushold|Bite|p2a: Alomomola
+|-damage|p2a: Alomomola|167/429
+|cant|p2a: Alomomola|flinch
+|
+|-heal|p2a: Alomomola|193/429|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1776973528
+|switch|p1a: Regice|Regice, L88|257/284
+|move|p2a: Alomomola|Flip Turn|p1a: Regice
+|-crit|p1a: Regice
+|-damage|p1a: Regice|182/284
+|
+|t:|1776973536
+|switch|p2a: Brute Bonnet|Brute Bonnet, L80|309/309|[from] Flip Turn
+|
+|upkeep
+|turn|15
+|
+|t:|1776973546
+|-terastallize|p1a: Regice|Electric
+|move|p1a: Regice|Ice Beam|p2a: Brute Bonnet
+|-supereffective|p2a: Brute Bonnet
+|-crit|p2a: Brute Bonnet
+|-damage|p2a: Brute Bonnet|1/309
+|move|p2a: Brute Bonnet|Spore|p1a: Regice
+|-status|p1a: Regice|slp|[from] move: Spore
+|
+|-heal|p2a: Brute Bonnet|20/309|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776973560
+|cant|p1a: Regice|slp
+|move|p1a: Regice|Sleep Talk|p1a: Regice
+|move|p1a: Regice|Ice Beam|p2a: Brute Bonnet|[from] move: Sleep Talk
+|-supereffective|p2a: Brute Bonnet
+|-damage|p2a: Brute Bonnet|0 fnt
+|faint|p2a: Brute Bonnet
+|-end|p2a: Brute Bonnet|Protosynthesis|[silent]
+|
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Bxbjdjsnd)
+|
+|t:|1776973570
+|switch|p2a: Bellossom|Bellossom, L84, F|263/263
+|turn|17
+|
+|t:|1776973577
+|-terastallize|p2a: Bellossom|Poison
+|cant|p1a: Regice|slp
+|move|p1a: Regice|Sleep Talk|p1a: Regice
+|move|p1a: Regice|Thunderbolt|p2a: Bellossom|[from] move: Sleep Talk
+|-damage|p2a: Bellossom|166/263
+|move|p2a: Bellossom|Quiver Dance|p2a: Bellossom
+|-boost|p2a: Bellossom|spa|1
+|-boost|p2a: Bellossom|spd|1
+|-boost|p2a: Bellossom|spe|1
+|
+|-heal|p2a: Bellossom|182/263|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1776973591
+|move|p2a: Bellossom|Quiver Dance|p2a: Bellossom
+|-boost|p2a: Bellossom|spa|1
+|-boost|p2a: Bellossom|spd|1
+|-boost|p2a: Bellossom|spe|1
+|cant|p1a: Regice|slp
+|move|p1a: Regice|Sleep Talk|p1a: Regice
+|move|p1a: Regice|Ice Beam|p2a: Bellossom|[from] move: Sleep Talk
+|-damage|p2a: Bellossom|131/263
+|
+|-heal|p2a: Bellossom|147/263|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1776973611
+|move|p2a: Bellossom|Quiver Dance|p2a: Bellossom
+|-boost|p2a: Bellossom|spa|1
+|-boost|p2a: Bellossom|spd|1
+|-boost|p2a: Bellossom|spe|1
+|-curestatus|p1a: Regice|slp|[msg]
+|move|p1a: Regice|Thunderbolt|p2a: Bellossom
+|-damage|p2a: Bellossom|108/263
+|
+|-heal|p2a: Bellossom|124/263|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1776973624
+|move|p2a: Bellossom|Strength Sap|p1a: Regice
+|-fail|p1a: Regice|unboost|[from] ability: Clear Body|[of] p1a: Regice
+|-heal|p2a: Bellossom|217/263
+|move|p1a: Regice|Ice Beam|p2a: Bellossom
+|-damage|p2a: Bellossom|177/263
+|
+|-heal|p2a: Bellossom|193/263|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1776973635
+|switch|p1a: Iron Boulder|Iron Boulder, L77|265/265
+|-enditem|p1a: Iron Boulder|Booster Energy
+|-activate|p1a: Iron Boulder|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Boulder|quarkdrivespe
+|move|p2a: Bellossom|Quiver Dance|p2a: Bellossom
+|-boost|p2a: Bellossom|spa|1
+|-boost|p2a: Bellossom|spd|1
+|-boost|p2a: Bellossom|spe|1
+|
+|-heal|p2a: Bellossom|209/263|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1776973648
+|move|p2a: Bellossom|Giga Drain|p1a: Iron Boulder
+|-supereffective|p1a: Iron Boulder
+|-damage|p1a: Iron Boulder|0 fnt
+|-heal|p2a: Bellossom|263/263|[from] drain|[of] p1a: Iron Boulder
+|faint|p1a: Iron Boulder
+|-end|p1a: Iron Boulder|Quark Drive|[silent]
+|
+|upkeep
+|-message|Bxbjdjsnd forfeited.
+|
+|win|Hdjjsjisiaio
+|raw|Bxbjdjsnd's rating: 1043 &rarr; <strong>1025</strong><br />(-18 for losing)
+|raw|Hdjjsjisiaio's rating: 1000 &rarr; <strong>1045</strong><br />(+45 for winning)
+|l|☆Bxbjdjsnd
+|player|p1|

@@ -1,0 +1,86 @@
+|j|☆wwaaaaa
+|j|☆Jimmypham2323
+|t:|1776975209
+|gametype|singles
+|player|p1|wwaaaaa|265|1338
+|player|p2|Jimmypham2323|266|1356
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776975209
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Dodrio|Dodrio, L85, F|241/241
+|switch|p2a: Sceptile|Sceptile, L87, M|264/264
+|turn|1
+|
+|t:|1776975221
+|-terastallize|p2a: Sceptile|Rock
+|move|p2a: Sceptile|Rock Slide|p1a: Dodrio
+|-supereffective|p1a: Dodrio
+|-damage|p1a: Dodrio|20/241
+|-damage|p2a: Sceptile|238/264|[from] item: Life Orb
+|move|p1a: Dodrio|Brave Bird|p2a: Sceptile
+|-resisted|p2a: Sceptile
+|-damage|p2a: Sceptile|107/264
+|-damage|p1a: Dodrio|0 fnt|[from] Recoil
+|faint|p1a: Dodrio
+|
+|upkeep
+|
+|t:|1776975234
+|switch|p1a: Mienshao|Mienshao, L83, M|244/244
+|turn|2
+|
+|t:|1776975243
+|switch|p2a: Mewtwo|Mewtwo, L72|272/272
+|-ability|p2a: Mewtwo|Unnerve
+|move|p1a: Mienshao|Fake Out|p2a: Mewtwo
+|-damage|p2a: Mewtwo|234/272
+|
+|upkeep
+|turn|3
+|
+|t:|1776975257
+|switch|p1a: Ogerpon|Ogerpon-Cornerstone, L76, F|247/247
+|move|p2a: Mewtwo|Psystrike|p1a: Ogerpon
+|-damage|p1a: Ogerpon|90/247
+|-damage|p2a: Mewtwo|207/272|[from] item: Life Orb
+|
+|upkeep
+|turn|4
+|
+|t:|1776975269
+|move|p2a: Mewtwo|Aura Sphere|p1a: Ogerpon
+|-supereffective|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|-damage|p2a: Mewtwo|180/272|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776975274
+|switch|p1a: Hitmonlee|Hitmonlee, L85, M|223/223
+|turn|5
+|
+|t:|1776975278
+|move|p2a: Mewtwo|Psystrike|p1a: Hitmonlee
+|-supereffective|p1a: Hitmonlee
+|-damage|p1a: Hitmonlee|0 fnt
+|faint|p1a: Hitmonlee
+|-damage|p2a: Mewtwo|153/272|[from] item: Life Orb
+|
+|upkeep
+|-message|wwaaaaa forfeited.
+|
+|win|Jimmypham2323
+|raw|wwaaaaa's rating: 1338 &rarr; <strong>1319</strong><br />(-19 for losing)
+|raw|Jimmypham2323's rating: 1356 &rarr; <strong>1375</strong><br />(+19 for winning)
+|l|☆wwaaaaa
+|player|p1|

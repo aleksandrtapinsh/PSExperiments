@@ -1,0 +1,353 @@
+|j|☆asgore's car
+|j|☆webjf
+|t:|1776982002
+|gametype|singles
+|player|p1|asgore's car|guitarist|1077
+|player|p2|webjf|roxie|1130
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776982002
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Dewgong|Dewgong, L94, M|322/322
+|switch|p2a: Galvantula|Galvantula, L82, M|249/249
+|turn|1
+|
+|t:|1776982024
+|switch|p1a: Toxapex|Toxapex, L82, M|216/216
+|move|p2a: Galvantula|Sticky Web|p1a: Toxapex
+|-sidestart|p1: asgore's car|move: Sticky Web
+|
+|upkeep
+|turn|2
+|
+|t:|1776982037
+|-terastallize|p1a: Toxapex|Steel
+|move|p2a: Galvantula|Thunder|p1a: Toxapex
+|-damage|p1a: Toxapex|131/216
+|move|p1a: Toxapex|Toxic Spikes|p2a: Galvantula
+|-sidestart|p2: webjf|move: Toxic Spikes
+|
+|upkeep
+|turn|3
+|
+|t:|1776982053
+|move|p2a: Galvantula|Thunder|p1a: Toxapex
+|-damage|p1a: Toxapex|49/216
+|move|p1a: Toxapex|Toxic Spikes|p2a: Galvantula
+|-sidestart|p2: webjf|move: Toxic Spikes
+|
+|upkeep
+|turn|4
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by webjf)
+|
+|t:|1776982078
+|switch|p1a: Abomasnow|Abomasnow, L84, F|287/287
+|-activate|p1a: Abomasnow|move: Sticky Web
+|-unboost|p1a: Abomasnow|spe|1
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p1a: Abomasnow
+|move|p2a: Galvantula|Thunder|p1a: Abomasnow
+|-resisted|p1a: Abomasnow
+|-damage|p1a: Abomasnow|231/287
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1776982088
+|move|p2a: Galvantula|Bug Buzz|p1a: Abomasnow
+|-supereffective|p1a: Abomasnow
+|-damage|p1a: Abomasnow|27/287
+|-unboost|p1a: Abomasnow|spd|1
+|move|p1a: Abomasnow|Aurora Veil|p1a: Abomasnow
+|-sidestart|p1: asgore's car|move: Aurora Veil
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1776982096
+|move|p2a: Galvantula|Bug Buzz|p1a: Abomasnow
+|-supereffective|p1a: Abomasnow
+|-damage|p1a: Abomasnow|0 fnt
+|faint|p1a: Abomasnow
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1776982101
+|switch|p1a: Iron Boulder|Iron Boulder, L77|265/265
+|-activate|p1a: Iron Boulder|move: Sticky Web
+|-unboost|p1a: Iron Boulder|spe|1
+|-enditem|p1a: Iron Boulder|Booster Energy
+|-activate|p1a: Iron Boulder|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Boulder|quarkdriveatk
+|turn|7
+|
+|t:|1776982115
+|move|p2a: Galvantula|Volt Switch|p1a: Iron Boulder
+|-crit|p1a: Iron Boulder
+|-damage|p1a: Iron Boulder|163/265
+|
+|t:|1776982118
+|switch|p2a: Wugtrio|Wugtrio, L91, M|212/212|[from] Volt Switch
+|-status|p2a: Wugtrio|tox
+|move|p1a: Iron Boulder|Swords Dance|p1a: Iron Boulder
+|-boost|p1a: Iron Boulder|atk|2
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p2a: Wugtrio|199/212 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1776982137
+|move|p2a: Wugtrio|Liquidation|p1a: Iron Boulder
+|-supereffective|p1a: Iron Boulder
+|-damage|p1a: Iron Boulder|0 fnt
+|faint|p1a: Iron Boulder
+|-end|p1a: Iron Boulder|Quark Drive|[silent]
+|
+|-weather|none
+|-damage|p2a: Wugtrio|173/212 tox|[from] psn
+|upkeep
+|
+|t:|1776982149
+|switch|p1a: Chesnaught|Chesnaught, L84, M|285/285
+|-activate|p1a: Chesnaught|move: Sticky Web
+|-unboost|p1a: Chesnaught|spe|1
+|turn|9
+|
+|t:|1776982159
+|switch|p2a: Galvantula|Galvantula, L82, M|249/249
+|-status|p2a: Galvantula|tox
+|move|p1a: Chesnaught|Knock Off|p2a: Galvantula
+|-damage|p2a: Galvantula|148/249 tox
+|-enditem|p2a: Galvantula|Focus Sash|[from] move: Knock Off|[of] p1a: Chesnaught
+|
+|-damage|p2a: Galvantula|133/249 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1776982172
+|move|p2a: Galvantula|Bug Buzz|p1a: Chesnaught
+|-damage|p1a: Chesnaught|234/285
+|move|p1a: Chesnaught|Synthesis|p1a: Chesnaught
+|-heal|p1a: Chesnaught|285/285
+|
+|-damage|p2a: Galvantula|103/249 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1776982180
+|move|p2a: Galvantula|Bug Buzz|p1a: Chesnaught
+|-damage|p1a: Chesnaught|237/285
+|move|p1a: Chesnaught|Knock Off|p2a: Galvantula
+|-damage|p2a: Galvantula|40/249 tox
+|
+|-damage|p2a: Galvantula|0 fnt|[from] psn
+|faint|p2a: Galvantula
+|upkeep
+|
+|t:|1776982203
+|switch|p2a: Klefki|Klefki, L84, M|233/233
+|turn|12
+|
+|t:|1776982213
+|move|p2a: Klefki|Play Rough|p1a: Chesnaught
+|-supereffective|p1a: Chesnaught
+|-damage|p1a: Chesnaught|176/285
+|-damage|p2a: Klefki|195/233|[from] item: Rocky Helmet|[of] p1a: Chesnaught
+|move|p1a: Chesnaught|Synthesis|p1a: Chesnaught
+|-heal|p1a: Chesnaught|285/285
+|
+|-heal|p2a: Klefki|209/233|[from] item: Leftovers
+|-sideend|p1: asgore's car|move: Aurora Veil
+|upkeep
+|turn|13
+|
+|t:|1776982222
+|move|p2a: Klefki|Spikes|p1a: Chesnaught
+|-sidestart|p1: asgore's car|Spikes
+|move|p1a: Chesnaught|Knock Off|p2a: Klefki
+|-resisted|p2a: Klefki
+|-damage|p2a: Klefki|172/233
+|-enditem|p2a: Klefki|Leftovers|[from] move: Knock Off|[of] p1a: Chesnaught
+|
+|upkeep
+|turn|14
+|
+|t:|1776982232
+|move|p2a: Klefki|Spikes|p1a: Chesnaught
+|-sidestart|p1: asgore's car|Spikes
+|move|p1a: Chesnaught|Body Press|p2a: Klefki
+|-damage|p2a: Klefki|81/233
+|
+|upkeep
+|turn|15
+|
+|t:|1776982240
+|move|p2a: Klefki|Play Rough|p1a: Chesnaught
+|-supereffective|p1a: Chesnaught
+|-damage|p1a: Chesnaught|157/285
+|-damage|p2a: Klefki|43/233|[from] item: Rocky Helmet|[of] p1a: Chesnaught
+|move|p1a: Chesnaught|Body Press|p2a: Klefki
+|-damage|p2a: Klefki|0 fnt
+|faint|p2a: Klefki
+|
+|upkeep
+|
+|t:|1776982252
+|switch|p2a: Avalugg|Avalugg-Hisui, L90, F|317/317
+|turn|16
+|
+|t:|1776982262
+|-terastallize|p2a: Avalugg|Ghost
+|move|p1a: Chesnaught|Synthesis|p1a: Chesnaught
+|-heal|p1a: Chesnaught|285/285
+|move|p2a: Avalugg|Avalanche|p1a: Chesnaught
+|-supereffective|p1a: Chesnaught
+|-damage|p1a: Chesnaught|145/285
+|-damage|p2a: Avalugg|265/317|[from] item: Rocky Helmet|[of] p1a: Chesnaught
+|
+|upkeep
+|turn|17
+|
+|t:|1776982273
+|move|p2a: Avalugg|Rapid Spin|p1a: Chesnaught
+|-damage|p1a: Chesnaught|106/285
+|-boost|p2a: Avalugg|spe|1
+|-damage|p2a: Avalugg|213/317|[from] item: Rocky Helmet|[of] p1a: Chesnaught
+|-sideend|p2: webjf|Toxic Spikes|[from] move: Rapid Spin|[of] p2a: Avalugg
+|move|p1a: Chesnaught|Synthesis|p1a: Chesnaught
+|-heal|p1a: Chesnaught|248/285
+|
+|upkeep
+|turn|18
+|
+|t:|1776982281
+|move|p2a: Avalugg|Rapid Spin|p1a: Chesnaught
+|-damage|p1a: Chesnaught|210/285
+|-boost|p2a: Avalugg|spe|1
+|-damage|p2a: Avalugg|161/317|[from] item: Rocky Helmet|[of] p1a: Chesnaught
+|move|p1a: Chesnaught|Knock Off|p2a: Avalugg
+|-supereffective|p2a: Avalugg
+|-damage|p2a: Avalugg|89/317
+|-enditem|p2a: Avalugg|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Chesnaught
+|
+|upkeep
+|turn|19
+|
+|t:|1776982295
+|move|p2a: Avalugg|Recover|p2a: Avalugg
+|-heal|p2a: Avalugg|248/317
+|move|p1a: Chesnaught|Synthesis|p1a: Chesnaught
+|-heal|p1a: Chesnaught|285/285
+|
+|upkeep
+|turn|20
+|
+|t:|1776982302
+|move|p1a: Chesnaught|Wood Hammer|p2a: Avalugg
+|-damage|p2a: Avalugg|182/317
+|-damage|p1a: Chesnaught|263/285|[from] Recoil
+|move|p2a: Avalugg|Avalanche|p1a: Chesnaught
+|-supereffective|p1a: Chesnaught
+|-damage|p1a: Chesnaught|0 fnt
+|-damage|p2a: Avalugg|130/317|[from] item: Rocky Helmet|[of] p1a: Chesnaught
+|faint|p1a: Chesnaught
+|
+|upkeep
+|
+|t:|1776982315
+|switch|p1a: Dewgong|Dewgong, L94, M|322/322
+|turn|21
+|
+|t:|1776982322
+|move|p2a: Avalugg|Stone Edge|p1a: Dewgong
+|-supereffective|p1a: Dewgong
+|-damage|p1a: Dewgong|14/322
+|move|p1a: Dewgong|Ice Beam|p2a: Avalugg
+|-damage|p2a: Avalugg|0 fnt
+|faint|p2a: Avalugg
+|
+|upkeep
+|
+|t:|1776982329
+|switch|p2a: Wugtrio|Wugtrio, L91, M|173/212 tox
+|turn|22
+|
+|t:|1776982334
+|switch|p1a: Toxapex|Toxapex, L82, M, tera:Steel|121/216
+|-activate|p1a: Toxapex|move: Sticky Web
+|-unboost|p1a: Toxapex|spe|1
+|-damage|p1a: Toxapex|85/216|[from] Spikes
+|move|p2a: Wugtrio|Aqua Jet|p1a: Toxapex
+|-damage|p1a: Toxapex|28/216
+|-damage|p2a: Wugtrio|138/212 tox|[from] item: Rocky Helmet|[of] p1a: Toxapex
+|
+|-damage|p2a: Wugtrio|125/212 tox|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1776982348
+|move|p2a: Wugtrio|Aqua Jet|p1a: Toxapex
+|-damage|p1a: Toxapex|0 fnt
+|-damage|p2a: Wugtrio|90/212 tox|[from] item: Rocky Helmet|[of] p1a: Toxapex
+|faint|p1a: Toxapex
+|
+|-damage|p2a: Wugtrio|64/212 tox|[from] psn
+|upkeep
+|
+|t:|1776982353
+|switch|p1a: Vigoroth|Vigoroth, L85, M|275/275
+|-activate|p1a: Vigoroth|move: Sticky Web
+|-unboost|p1a: Vigoroth|spe|1
+|-damage|p1a: Vigoroth|230/275|[from] Spikes
+|turn|24
+|
+|t:|1776982361
+|move|p2a: Wugtrio|Aqua Jet|p1a: Vigoroth
+|-damage|p1a: Vigoroth|172/275
+|move|p1a: Vigoroth|Slack Off|p1a: Vigoroth
+|-heal|p1a: Vigoroth|275/275
+|
+|-damage|p2a: Wugtrio|25/212 tox|[from] psn
+|upkeep
+|turn|25
+|
+|t:|1776982369
+|move|p2a: Wugtrio|Aqua Jet|p1a: Vigoroth
+|-damage|p1a: Vigoroth|221/275
+|move|p1a: Vigoroth|Bulk Up|p1a: Vigoroth
+|-boost|p1a: Vigoroth|atk|1
+|-boost|p1a: Vigoroth|def|1
+|
+|-damage|p2a: Wugtrio|0 fnt|[from] psn
+|faint|p2a: Wugtrio
+|upkeep
+|
+|t:|1776982374
+|switch|p2a: Vigoroth|Vigoroth, L85, M|275/275
+|turn|26
+|
+|t:|1776982382
+|move|p2a: Vigoroth|Earthquake|p1a: Vigoroth
+|-damage|p1a: Vigoroth|187/275
+|move|p1a: Vigoroth|Knock Off|p2a: Vigoroth
+|-damage|p2a: Vigoroth|210/275
+|-enditem|p2a: Vigoroth|Eviolite|[from] move: Knock Off|[of] p1a: Vigoroth
+|
+|upkeep
+|turn|27
+|-message|webjf forfeited.
+|
+|win|asgore's car
+|raw|asgore&apos;s car's rating: 1077 &rarr; <strong>1110</strong><br />(+33 for winning)
+|raw|webjf's rating: 1130 &rarr; <strong>1101</strong><br />(-29 for losing)

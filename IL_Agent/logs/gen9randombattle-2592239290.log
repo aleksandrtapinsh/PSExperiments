@@ -1,0 +1,337 @@
+|j|☆ethan bengivenga
+|j|☆Zachyyyb
+|t:|1776972601
+|gametype|singles
+|player|p1|ethan bengivenga|clerkf|
+|player|p2|Zachyyyb|cyrus|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776972601
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Raging Bolt|Raging Bolt, L78|323/323
+|switch|p2a: Indeedee|Indeedee, L84, M|238/238
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Indeedee
+|turn|1
+|c|☆ethan bengivenga|cope
+|
+|t:|1776972628
+|move|p2a: Indeedee|Expanding Force|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|140/323
+|move|p1a: Raging Bolt|Calm Mind|p1a: Raging Bolt
+|-boost|p1a: Raging Bolt|spa|1
+|-boost|p1a: Raging Bolt|spd|1
+|
+|-heal|p1a: Raging Bolt|160/323|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776972637
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Mimikyu|Mimikyu, L79, M|216/216
+|move|p2a: Indeedee|Expanding Force|p1a: Mimikyu
+|-activate|p1a: Mimikyu|ability: Disguise
+|-damage|p1a: Mimikyu|216/216
+|detailschange|p1a: Mimikyu|Mimikyu-Busted, L79, M
+|-damage|p1a: Mimikyu|189/216|[from] pokemon: Mimikyu-Busted
+|
+|upkeep
+|turn|3
+|
+|t:|1776972661
+|move|p2a: Indeedee|Expanding Force|p1a: Mimikyu
+|-damage|p1a: Mimikyu|18/216
+|move|p1a: Mimikyu|Swords Dance|p1a: Mimikyu
+|-boost|p1a: Mimikyu|atk|2
+|
+|upkeep
+|turn|4
+|
+|t:|1776972671
+|-terastallize|p2a: Indeedee|Psychic
+|move|p1a: Mimikyu|Shadow Sneak|p2a: Indeedee
+|-activate|p2a: Indeedee|move: Psychic Terrain
+|move|p2a: Indeedee|Expanding Force|p1a: Mimikyu
+|-damage|p1a: Mimikyu|0 fnt
+|faint|p1a: Mimikyu
+|
+|upkeep
+|c|☆ethan bengivenga|im done with this jackassery
+|
+|t:|1776972696
+|switch|p1a: Noctowl|Noctowl, L95, F|344/344
+|turn|5
+|
+|t:|1776972704
+|move|p2a: Indeedee|Expanding Force|p1a: Noctowl
+|-damage|p1a: Noctowl|144/344
+|move|p1a: Noctowl|Hyper Voice|p2a: Indeedee
+|-damage|p2a: Indeedee|124/238
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|6
+|
+|t:|1776972711
+|move|p2a: Indeedee|Expanding Force|p1a: Noctowl
+|-damage|p1a: Noctowl|50/344
+|move|p1a: Noctowl|Nasty Plot|p1a: Noctowl
+|-boost|p1a: Noctowl|spa|2
+|
+|upkeep
+|turn|7
+|
+|t:|1776972717
+|move|p2a: Indeedee|Expanding Force|p1a: Noctowl
+|-damage|p1a: Noctowl|0 fnt
+|faint|p1a: Noctowl
+|
+|upkeep
+|c|☆ethan bengivenga|keys
+|c|☆ethan bengivenga|keys
+|c|☆ethan bengivenga|keys
+|c|☆ethan bengivenga|keys
+|c|☆ethan bengivenga|keys
+|c|☆ethan bengivenga|keys
+|c|☆ethan bengivenga|keys
+|c|☆ethan bengivenga|keys
+|c|☆ethan bengivenga|keys
+|c|☆ethan bengivenga|keys
+|c|☆ethan bengivenga|keys
+|c|☆ethan bengivenga|keys
+|c|☆ethan bengivenga|keys
+|c|☆ethan bengivenga|keys
+|c|☆ethan bengivenga|keys
+|c|☆ethan bengivenga|keys
+|c|☆ethan bengivenga|keys
+|c|☆ethan bengivenga|keys
+|c|☆ethan bengivenga|keys
+|c|☆ethan bengivenga|keyskeyskeyskeyskeys
+|c|☆ethan bengivenga|keys
+|c|☆ethan bengivenga|vkeyskeyskeyskeys
+|c|☆ethan bengivenga|keyskeyskeys
+|c|☆ethan bengivenga|keys
+|c|☆ethan bengivenga|keys
+|c|☆ethan bengivenga|keys
+|c|☆ethan bengivenga|keys
+|c|☆ethan bengivenga|keys
+|
+|t:|1776972742
+|switch|p1a: Dudunsparce|Dudunsparce-Three-Segment, L83, M|343/343
+|turn|8
+|
+|t:|1776972756
+|-terastallize|p1a: Dudunsparce|Ghost
+|move|p2a: Indeedee|Expanding Force|p1a: Dudunsparce
+|-damage|p1a: Dudunsparce|211/343
+|move|p1a: Dudunsparce|Shadow Ball|p2a: Indeedee
+|-supereffective|p2a: Indeedee
+|-damage|p2a: Indeedee|0 fnt
+|faint|p2a: Indeedee
+|
+|-heal|p1a: Dudunsparce|232/343|[from] item: Leftovers
+|upkeep
+|c|☆ethan bengivenga|after ts round im donde
+|
+|t:|1776972789
+|switch|p2a: Bellossom|Bellossom, L84, M|263/263
+|turn|9
+|c|☆ethan bengivenga|lossened enough for today
+|
+|t:|1776972798
+|move|p1a: Dudunsparce|Calm Mind|p1a: Dudunsparce
+|-boost|p1a: Dudunsparce|spa|1
+|-boost|p1a: Dudunsparce|spd|1
+|move|p2a: Bellossom|Quiver Dance|p2a: Bellossom
+|-boost|p2a: Bellossom|spa|1
+|-boost|p2a: Bellossom|spd|1
+|-boost|p2a: Bellossom|spe|1
+|
+|-heal|p1a: Dudunsparce|253/343|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1776972809
+|move|p2a: Bellossom|Giga Drain|p1a: Dudunsparce
+|-damage|p1a: Dudunsparce|171/343
+|move|p1a: Dudunsparce|Boomburst|p2a: Bellossom
+|-damage|p2a: Bellossom|145/263
+|
+|-heal|p2a: Bellossom|161/263|[from] item: Leftovers
+|-heal|p1a: Dudunsparce|192/343|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776972818
+|move|p2a: Bellossom|Giga Drain|p1a: Dudunsparce
+|-damage|p1a: Dudunsparce|114/343
+|-heal|p2a: Bellossom|200/263|[from] drain|[of] p1a: Dudunsparce
+|move|p1a: Dudunsparce|Calm Mind|p1a: Dudunsparce
+|-boost|p1a: Dudunsparce|spa|1
+|-boost|p1a: Dudunsparce|spd|1
+|
+|-heal|p2a: Bellossom|216/263|[from] item: Leftovers
+|-heal|p1a: Dudunsparce|135/343|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776972830
+|switch|p1a: Raging Bolt|Raging Bolt, L78|160/323
+|move|p2a: Bellossom|Strength Sap|p1a: Raging Bolt
+|-unboost|p1a: Raging Bolt|atk|1
+|-heal|p2a: Bellossom|263/263
+|
+|-heal|p1a: Raging Bolt|180/323|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776972843
+|move|p2a: Bellossom|Tera Blast|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|92/323
+|move|p1a: Raging Bolt|Calm Mind|p1a: Raging Bolt
+|-boost|p1a: Raging Bolt|spa|1
+|-boost|p1a: Raging Bolt|spd|1
+|
+|-heal|p1a: Raging Bolt|112/323|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1776972851
+|move|p2a: Bellossom|Tera Blast|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|51/323
+|move|p1a: Raging Bolt|Draco Meteor|p2a: Bellossom
+|-damage|p2a: Bellossom|115/263
+|-unboost|p1a: Raging Bolt|spa|2
+|
+|-heal|p2a: Bellossom|131/263|[from] item: Leftovers
+|-heal|p1a: Raging Bolt|71/323|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1776972870
+|move|p2a: Bellossom|Tera Blast|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|18/323
+|move|p1a: Raging Bolt|Draco Meteor|p2a: Bellossom
+|-damage|p2a: Bellossom|70/263
+|-unboost|p1a: Raging Bolt|spa|2
+|
+|-heal|p2a: Bellossom|86/263|[from] item: Leftovers
+|-heal|p1a: Raging Bolt|38/323|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776972885
+|move|p2a: Bellossom|Tera Blast|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|-heal|p2a: Bellossom|102/263|[from] item: Leftovers
+|upkeep
+|
+|t:|1776972893
+|switch|p1a: Grumpig|Grumpig, L92, F|297/297
+|turn|17
+|
+|t:|1776972901
+|move|p1a: Grumpig|Dazzling Gleam|p2a: Bellossom
+|-damage|p2a: Bellossom|63/263
+|move|p2a: Bellossom|Giga Drain|p1a: Grumpig
+|-damage|p1a: Grumpig|213/297
+|-heal|p2a: Bellossom|105/263|[from] drain|[of] p1a: Grumpig
+|
+|-heal|p1a: Grumpig|231/297|[from] item: Leftovers
+|-heal|p2a: Bellossom|121/263|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1776972914
+|move|p1a: Grumpig|Psychic|p2a: Bellossom
+|-damage|p2a: Bellossom|55/263
+|move|p2a: Bellossom|Giga Drain|p1a: Grumpig
+|-damage|p1a: Grumpig|140/297
+|-heal|p2a: Bellossom|101/263|[from] drain|[of] p1a: Grumpig
+|
+|-heal|p1a: Grumpig|158/297|[from] item: Leftovers
+|-heal|p2a: Bellossom|117/263|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1776972927
+|move|p1a: Grumpig|Dazzling Gleam|p2a: Bellossom
+|-damage|p2a: Bellossom|78/263
+|move|p2a: Bellossom|Giga Drain|p1a: Grumpig
+|-damage|p1a: Grumpig|77/297
+|-heal|p2a: Bellossom|119/263|[from] drain|[of] p1a: Grumpig
+|
+|-heal|p1a: Grumpig|95/297|[from] item: Leftovers
+|-heal|p2a: Bellossom|135/263|[from] item: Leftovers
+|upkeep
+|turn|20
+|c|☆ethan bengivenga|fucking hell
+|
+|t:|1776972937
+|switch|p1a: Azelf|Azelf, L82|257/257
+|move|p2a: Bellossom|Giga Drain|p1a: Azelf
+|-damage|p1a: Azelf|125/257
+|-heal|p2a: Bellossom|201/263|[from] drain|[of] p1a: Azelf
+|
+|-heal|p2a: Bellossom|217/263|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1776972947
+|move|p1a: Azelf|Fire Blast|p2a: Bellossom
+|-supereffective|p2a: Bellossom
+|-damage|p2a: Bellossom|61/263
+|-damage|p1a: Azelf|100/257|[from] item: Life Orb
+|move|p2a: Bellossom|Quiver Dance|p2a: Bellossom
+|-boost|p2a: Bellossom|spa|1
+|-boost|p2a: Bellossom|spd|1
+|-boost|p2a: Bellossom|spe|1
+|
+|-heal|p2a: Bellossom|77/263|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1776972969
+|move|p2a: Bellossom|Giga Drain|p1a: Azelf
+|-damage|p1a: Azelf|0 fnt
+|-heal|p2a: Bellossom|127/263|[from] drain|[of] p1a: Azelf
+|faint|p1a: Azelf
+|
+|-heal|p2a: Bellossom|143/263|[from] item: Leftovers
+|upkeep
+|
+|t:|1776972978
+|switch|p1a: Grumpig|Grumpig, L92, F|95/297
+|turn|23
+|
+|t:|1776972985
+|move|p2a: Bellossom|Giga Drain|p1a: Grumpig
+|-damage|p1a: Grumpig|0 fnt
+|-heal|p2a: Bellossom|191/263|[from] drain|[of] p1a: Grumpig
+|faint|p1a: Grumpig
+|
+|-heal|p2a: Bellossom|207/263|[from] item: Leftovers
+|upkeep
+|c|☆ethan bengivenga|four fucking moves
+|c|☆ethan bengivenga|it only took you four fucking moves to piss me off again
+|
+|t:|1776973007
+|switch|p1a: Dudunsparce|Dudunsparce-Three-Segment, L83, M, tera:Ghost|135/343
+|turn|24
+|
+|t:|1776973010
+|move|p2a: Bellossom|Giga Drain|p1a: Dudunsparce
+|-damage|p1a: Dudunsparce|0 fnt
+|-heal|p2a: Bellossom|263/263|[from] drain|[of] p1a: Dudunsparce
+|faint|p1a: Dudunsparce
+|
+|win|Zachyyyb

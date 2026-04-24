@@ -1,0 +1,341 @@
+|j|☆zachary dane
+|j|☆Fakelord
+|t:|1776984211
+|gametype|singles
+|player|p1|zachary dane|cheryl|1438
+|player|p2|Fakelord|unknown|1413
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776984211
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Heatran|Heatran, L79, F|273/273
+|switch|p2a: Ditto|Ditto, L87|225/225
+|-transform|p2a: Ditto|p1a: Heatran|[from] ability: Imposter
+|-item|p1a: Heatran|Air Balloon
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Fakelord)
+|
+|t:|1776984242
+|move|p2a: Ditto|Stealth Rock|p1a: Heatran
+|-sidestart|p1: zachary dane|move: Stealth Rock
+|move|p1a: Heatran|Earth Power|p2a: Ditto
+|-supereffective|p2a: Ditto
+|-damage|p2a: Ditto|0 fnt
+|faint|p2a: Ditto
+|
+|upkeep
+|
+|t:|1776984266
+|switch|p2a: Slowbro|Slowbro, L85, M|300/300
+|turn|2
+|
+|t:|1776984288
+|switch|p1a: Bellibolt|Bellibolt, L84, M|320/320
+|-damage|p1a: Bellibolt|280/320|[from] Stealth Rock
+|move|p2a: Slowbro|Iron Defense|p2a: Slowbro
+|-boost|p2a: Slowbro|def|2
+|
+|-heal|p1a: Bellibolt|300/320|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776984306
+|-terastallize|p2a: Slowbro|Fighting
+|move|p1a: Bellibolt|Toxic|p2a: Slowbro
+|-status|p2a: Slowbro|tox
+|move|p2a: Slowbro|Body Press|p1a: Bellibolt
+|-crit|p1a: Bellibolt
+|-damage|p1a: Bellibolt|24/320
+|-start|p1a: Bellibolt|Charge|Body Press|[from] ability: Electromorphosis
+|
+|-heal|p1a: Bellibolt|44/320|[from] item: Leftovers
+|-damage|p2a: Slowbro|282/300 tox|[from] psn
+|upkeep
+|turn|4
+|inactive|zachary dane has 120 seconds left.
+|
+|t:|1776984338
+|move|p1a: Bellibolt|Muddy Water|p2a: Slowbro
+|-damage|p2a: Slowbro|215/300 tox
+|move|p2a: Slowbro|Body Press|p1a: Bellibolt
+|-damage|p1a: Bellibolt|0 fnt
+|faint|p1a: Bellibolt
+|
+|-heal|p2a: Slowbro|233/300 tox|[from] item: Leftovers
+|-damage|p2a: Slowbro|197/300 tox|[from] psn
+|upkeep
+|inactive|zachary dane has 90 seconds left.
+|inactive|zachary dane has 60 seconds left.
+|
+|t:|1776984403
+|switch|p1a: Gyarados|Gyarados, L79, F|280/280
+|turn|5
+|
+|t:|1776984411
+|move|p1a: Gyarados|Dragon Dance|p1a: Gyarados
+|-boost|p1a: Gyarados|atk|1
+|-boost|p1a: Gyarados|spe|1
+|move|p2a: Slowbro|Scald|p1a: Gyarados
+|-resisted|p1a: Gyarados
+|-damage|p1a: Gyarados|238/280
+|-status|p1a: Gyarados|brn
+|
+|-heal|p2a: Slowbro|215/300 tox|[from] item: Leftovers
+|-damage|p2a: Slowbro|161/300 tox|[from] psn
+|-damage|p1a: Gyarados|221/280 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1776984425
+|move|p1a: Gyarados|Dragon Dance|p1a: Gyarados
+|-boost|p1a: Gyarados|atk|1
+|-boost|p1a: Gyarados|spe|1
+|move|p2a: Slowbro|Body Press|p1a: Gyarados
+|-resisted|p1a: Gyarados
+|-damage|p1a: Gyarados|104/280 brn
+|
+|-heal|p2a: Slowbro|179/300 tox|[from] item: Leftovers
+|-damage|p2a: Slowbro|107/300 tox|[from] psn
+|-damage|p1a: Gyarados|87/280 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1776984436
+|move|p1a: Gyarados|Waterfall|p2a: Slowbro
+|-damage|p2a: Slowbro|68/300 tox
+|cant|p2a: Slowbro|flinch
+|
+|-heal|p2a: Slowbro|86/300 tox|[from] item: Leftovers
+|-damage|p2a: Slowbro|0 fnt|[from] psn
+|faint|p2a: Slowbro
+|-damage|p1a: Gyarados|70/280 brn|[from] brn
+|upkeep
+|
+|t:|1776984460
+|switch|p2a: Ampharos|Ampharos, L88, M|302/302
+|turn|8
+|
+|t:|1776984470
+|move|p1a: Gyarados|Earthquake|p2a: Ampharos
+|-supereffective|p2a: Ampharos
+|-damage|p2a: Ampharos|147/302
+|move|p2a: Ampharos|Thunderbolt|p1a: Gyarados
+|-supereffective|p1a: Gyarados
+|-damage|p1a: Gyarados|0 fnt
+|faint|p1a: Gyarados
+|
+|upkeep
+|
+|t:|1776984476
+|switch|p1a: Swampert|Swampert, L83, M|302/302
+|-damage|p1a: Swampert|284/302|[from] Stealth Rock
+|turn|9
+|
+|t:|1776984489
+|switch|p2a: Regigigas|Regigigas, L84|322/322
+|-start|p2a: Regigigas|ability: Slow Start
+|move|p1a: Swampert|Earthquake|p2a: Regigigas
+|-damage|p2a: Regigigas|231/322
+|
+|-heal|p2a: Regigigas|251/322|[from] item: Leftovers
+|upkeep
+|turn|10
+|inactive|Fakelord has 120 seconds left.
+|
+|t:|1776984515
+|move|p2a: Regigigas|Protect|p2a: Regigigas
+|-singleturn|p2a: Regigigas|Protect
+|move|p1a: Swampert|Knock Off|p2a: Regigigas
+|-activate|p2a: Regigigas|move: Protect
+|
+|-heal|p2a: Regigigas|271/322|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776984524
+|move|p1a: Swampert|Earthquake|p2a: Regigigas
+|-damage|p2a: Regigigas|169/322
+|move|p2a: Regigigas|Substitute|p2a: Regigigas
+|-start|p2a: Regigigas|Substitute
+|-damage|p2a: Regigigas|89/322
+|
+|-heal|p2a: Regigigas|109/322|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776984534
+|move|p2a: Regigigas|Protect|p2a: Regigigas
+|-singleturn|p2a: Regigigas|Protect
+|move|p1a: Swampert|Earthquake|p2a: Regigigas
+|-activate|p2a: Regigigas|move: Protect
+|
+|-heal|p2a: Regigigas|129/322|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776984547
+|move|p1a: Swampert|Earthquake|p2a: Regigigas
+|-end|p2a: Regigigas|Substitute
+|move|p2a: Regigigas|Knock Off|p1a: Swampert
+|-damage|p1a: Swampert|233/302
+|-enditem|p1a: Swampert|Assault Vest|[from] move: Knock Off|[of] p2a: Regigigas
+|
+|-heal|p2a: Regigigas|149/322|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1776984555
+|switch|p1a: Persian|Persian, L92, M|269/269
+|-damage|p1a: Persian|236/269|[from] Stealth Rock
+|move|p2a: Regigigas|Protect||[still]
+|-fail|p2a: Regigigas
+|
+|-heal|p2a: Regigigas|169/322|[from] item: Leftovers
+|-end|p2a: Regigigas|Slow Start
+|upkeep
+|turn|15
+|inactive|zachary dane has 90 seconds left.
+|
+|t:|1776984567
+|move|p1a: Persian|Knock Off|p2a: Regigigas
+|-damage|p2a: Regigigas|96/322
+|-enditem|p2a: Regigigas|Leftovers|[from] move: Knock Off|[of] p1a: Persian
+|move|p2a: Regigigas|Body Slam|p1a: Persian
+|-damage|p1a: Persian|86/269
+|
+|upkeep
+|turn|16
+|inactive|zachary dane has 90 seconds left.
+|
+|t:|1776984583
+|move|p1a: Persian|Knock Off|p2a: Regigigas
+|-damage|p2a: Regigigas|37/322
+|move|p2a: Regigigas|Body Slam|p1a: Persian
+|-damage|p1a: Persian|0 fnt
+|faint|p1a: Persian
+|
+|upkeep
+|
+|t:|1776984608
+|switch|p1a: Swampert|Swampert, L83, M|233/302
+|-damage|p1a: Swampert|215/302|[from] Stealth Rock
+|turn|17
+|
+|t:|1776984616
+|move|p2a: Regigigas|Body Slam|p1a: Swampert
+|-damage|p1a: Swampert|83/302
+|move|p1a: Swampert|Flip Turn|p2a: Regigigas
+|-damage|p2a: Regigigas|0 fnt
+|faint|p2a: Regigigas
+|-end|p2a: Regigigas|Slow Start|[silent]
+|
+|t:|1776984627
+|switch|p1a: Heatran|Heatran, L79, F|273/273|[from] Flip Turn
+|-damage|p1a: Heatran|239/273|[from] Stealth Rock
+|-item|p1a: Heatran|Air Balloon
+|
+|upkeep
+|
+|t:|1776984650
+|switch|p2a: Gengar|Gengar, L81, M|230/230
+|turn|18
+|
+|t:|1776984665
+|-terastallize|p1a: Heatran|Grass
+|move|p2a: Gengar|Focus Blast|p1a: Heatran
+|-damage|p1a: Heatran|116/273
+|-enditem|p1a: Heatran|Air Balloon
+|-damage|p2a: Gengar|207/230|[from] item: Life Orb
+|move|p1a: Heatran|Earth Power|p2a: Gengar
+|-supereffective|p2a: Gengar
+|-damage|p2a: Gengar|27/230
+|-unboost|p2a: Gengar|spd|1
+|
+|upkeep
+|turn|19
+|
+|t:|1776984678
+|move|p2a: Gengar|Sludge Wave|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|-damage|p2a: Gengar|4/230|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776984684
+|switch|p1a: Eelektross|Eelektross, L87, M|290/290
+|-damage|p1a: Eelektross|254/290|[from] Stealth Rock
+|turn|20
+|
+|t:|1776984695
+|move|p2a: Gengar|Sludge Wave|p1a: Eelektross
+|-damage|p1a: Eelektross|140/290
+|-damage|p2a: Gengar|0 fnt|[from] item: Life Orb
+|faint|p2a: Gengar
+|move|p1a: Eelektross|U-turn|p2: Gengar|[notarget]
+|-fail|p1a: Eelektross
+|
+|upkeep
+|
+|t:|1776984708
+|switch|p2a: Gholdengo|Gholdengo, L77|261/261
+|turn|21
+|
+|t:|1776984716
+|move|p2a: Gholdengo|Shadow Ball|p1a: Eelektross
+|-damage|p1a: Eelektross|71/290
+|move|p1a: Eelektross|Knock Off|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|75/261
+|-enditem|p2a: Gholdengo|Leftovers|[from] move: Knock Off|[of] p1a: Eelektross
+|
+|upkeep
+|turn|22
+|
+|t:|1776984725
+|move|p2a: Gholdengo|Shadow Ball|p1a: Eelektross
+|-damage|p1a: Eelektross|10/290
+|-unboost|p1a: Eelektross|spd|1
+|move|p1a: Eelektross|Knock Off|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|upkeep
+|
+|t:|1776984733
+|switch|p2a: Ampharos|Ampharos, L88, M|147/302
+|turn|23
+|
+|t:|1776984743
+|move|p2a: Ampharos|Dazzling Gleam|p1a: Eelektross
+|-damage|p1a: Eelektross|0 fnt
+|faint|p1a: Eelektross
+|
+|upkeep
+|
+|t:|1776984746
+|switch|p1a: Swampert|Swampert, L83, M|83/302
+|-damage|p1a: Swampert|65/302|[from] Stealth Rock
+|turn|24
+|
+|t:|1776984751
+|move|p1a: Swampert|Earthquake|p2a: Ampharos
+|-supereffective|p2a: Ampharos
+|-damage|p2a: Ampharos|0 fnt
+|faint|p2a: Ampharos
+|
+|win|zachary dane
+|raw|zachary dane's rating: 1438 &rarr; <strong>1457</strong><br />(+19 for winning)
+|raw|Fakelord's rating: 1413 &rarr; <strong>1394</strong><br />(-19 for losing)
+|l|☆Fakelord
+|player|p2|

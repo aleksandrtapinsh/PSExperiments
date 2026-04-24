@@ -1,0 +1,454 @@
+|j|‽piercemywings
+|j|☆Fishtitties420
+|t:|1776970491
+|gametype|singles
+|player|p1|piercemywings|ghetsis-gen5bw|1341
+|player|p2|Fishtitties420|101|1385
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776970491
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Regice|Regice, L88|284/284
+|switch|p2a: Cinderace|Cinderace, L77, F|249/249
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by piercemywings)
+|
+|t:|1776970514
+|switch|p1a: Suicune|Suicune, L82|298/298
+|-ability|p1a: Suicune|Pressure
+|move|p2a: Cinderace|Pyro Ball|p1a: Suicune
+|-resisted|p1a: Suicune
+|-damage|p1a: Suicune|221/298
+|
+|-heal|p1a: Suicune|239/298|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776970543
+|switch|p2a: Calyrex|Calyrex, L93|337/337
+|-ability|p2a: Calyrex|Unnerve
+|move|p1a: Suicune|Substitute|p1a: Suicune
+|-start|p1a: Suicune|Substitute
+|-damage|p1a: Suicune|165/298
+|
+|-heal|p1a: Suicune|183/298|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776970558
+|move|p1a: Suicune|Protect|p1a: Suicune
+|-singleturn|p1a: Suicune|Protect
+|move|p2a: Calyrex|Giga Drain|p1a: Suicune
+|-activate|p1a: Suicune|move: Protect
+|
+|-heal|p1a: Suicune|201/298|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776970564
+|move|p2a: Calyrex|Giga Drain|p1a: Suicune
+|-supereffective|p1a: Suicune
+|-end|p1a: Suicune|Substitute
+|move|p1a: Suicune|Calm Mind|p1a: Suicune
+|-boost|p1a: Suicune|spa|1
+|-boost|p1a: Suicune|spd|1
+|
+|-heal|p1a: Suicune|219/298|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776970571
+|switch|p1a: Registeel|Registeel, L81|262/262
+|move|p2a: Calyrex|Encore||[still]
+|-fail|p2a: Calyrex
+|
+|upkeep
+|turn|6
+|
+|t:|1776970586
+|switch|p2a: Cinderace|Cinderace, L77, F|249/249
+|move|p1a: Registeel|Thunder Wave|p2a: Cinderace
+|-status|p2a: Cinderace|par
+|
+|upkeep
+|turn|7
+|
+|t:|1776970595
+|switch|p1a: Suicune|Suicune, L82|219/298
+|-ability|p1a: Suicune|Pressure
+|move|p2a: Cinderace|Pyro Ball|p1a: Suicune
+|-resisted|p1a: Suicune
+|-damage|p1a: Suicune|144/298
+|
+|-heal|p1a: Suicune|162/298|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776970603
+|switch|p2a: Calyrex|Calyrex, L93|337/337
+|-ability|p2a: Calyrex|Unnerve
+|move|p1a: Suicune|Scald|p2a: Calyrex
+|-resisted|p2a: Calyrex
+|-damage|p2a: Calyrex|300/337
+|
+|-heal|p2a: Calyrex|321/337|[from] item: Leftovers
+|-heal|p1a: Suicune|180/298|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776970633
+|switch|p2a: Cinderace|Cinderace, L77, F|249/249 par
+|switch|p1a: Regice|Regice, L88|284/284
+|
+|upkeep
+|turn|10
+|inactive|Fishtitties420 has 120 seconds left.
+|
+|t:|1776970654
+|switch|p1a: Suicune|Suicune, L82|180/298
+|-ability|p1a: Suicune|Pressure
+|cant|p2a: Cinderace|par
+|
+|-heal|p1a: Suicune|198/298|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776970664
+|switch|p1a: Miraidon|Miraidon, L65|238/238
+|-fieldstart|move: Electric Terrain|[from] ability: Hadron Engine|[of] p1a: Miraidon
+|switch|p2a: Calyrex|Calyrex, L93|321/337
+|-ability|p2a: Calyrex|Unnerve
+|
+|-heal|p2a: Calyrex|337/337|[from] item: Leftovers
+|upkeep
+|turn|12
+|inactive|Fishtitties420 has 120 seconds left.
+|
+|t:|1776970682
+|move|p1a: Miraidon|Overheat|p2a: Calyrex
+|-supereffective|p2a: Calyrex
+|-damage|p2a: Calyrex|41/337
+|-unboost|p1a: Miraidon|spa|2
+|move|p2a: Calyrex|Psyshock|p1a: Miraidon
+|-damage|p1a: Miraidon|139/238
+|
+|-heal|p2a: Calyrex|62/337|[from] item: Leftovers
+|upkeep
+|turn|13
+|inactive|Fishtitties420 has 120 seconds left.
+|
+|t:|1776970695
+|switch|p1a: Registeel|Registeel, L81|262/262
+|switch|p2a: Cinderace|Cinderace, L77, F|249/249 par
+|
+|upkeep
+|turn|14
+|
+|t:|1776970702
+|move|p1a: Registeel|Stealth Rock|p2a: Cinderace
+|-sidestart|p2: Fishtitties420|move: Stealth Rock
+|cant|p2a: Cinderace|par
+|
+|upkeep
+|turn|15
+|
+|t:|1776970705
+|switch|p1a: Suicune|Suicune, L82|198/298
+|-ability|p1a: Suicune|Pressure
+|move|p2a: Cinderace|High Jump Kick|p1a: Suicune
+|-start|p2a: Cinderace|typechange|Fighting|[from] ability: Libero
+|-damage|p1a: Suicune|32/298
+|
+|-heal|p1a: Suicune|50/298|[from] item: Leftovers
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|16
+|
+|t:|1776970715
+|move|p1a: Suicune|Scald|p2a: Cinderace
+|-damage|p2a: Cinderace|152/249 par
+|move|p2a: Cinderace|High Jump Kick|p1a: Suicune|[miss]
+|-miss|p2a: Cinderace|p1a: Suicune
+|-damage|p2a: Cinderace|28/249 par|[from] highjumpkick
+|
+|-heal|p1a: Suicune|68/298|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1776970721
+|move|p1a: Suicune|Protect|p1a: Suicune
+|-singleturn|p1a: Suicune|Protect
+|move|p2a: Cinderace|High Jump Kick|p1a: Suicune
+|-activate|p1a: Suicune|move: Protect
+|-damage|p2a: Cinderace|0 fnt|[from] highjumpkick
+|faint|p2a: Cinderace
+|
+|-heal|p1a: Suicune|86/298|[from] item: Leftovers
+|upkeep
+|
+|t:|1776970749
+|switch|p2a: Calyrex|Calyrex, L93|62/337
+|-ability|p2a: Calyrex|Unnerve
+|-damage|p2a: Calyrex|20/337|[from] Stealth Rock
+|turn|18
+|
+|t:|1776970758
+|switch|p1a: Registeel|Registeel, L81|262/262
+|move|p2a: Calyrex|Giga Drain|p1a: Registeel
+|-resisted|p1a: Registeel
+|-damage|p1a: Registeel|233/262
+|-heal|p2a: Calyrex|35/337|[from] drain|[of] p1a: Registeel
+|
+|-heal|p2a: Calyrex|56/337|[from] item: Leftovers
+|-heal|p1a: Registeel|249/262|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1776970763
+|move|p2a: Calyrex|Psyshock|p1a: Registeel
+|-resisted|p1a: Registeel
+|-damage|p1a: Registeel|219/262
+|move|p1a: Registeel|Thunder Wave|p2a: Calyrex
+|-status|p2a: Calyrex|par
+|
+|-heal|p1a: Registeel|235/262|[from] item: Leftovers
+|-heal|p2a: Calyrex|77/337 par|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1776970771
+|switch|p1a: Miraidon|Miraidon, L65|139/238
+|-fieldstart|move: Electric Terrain|[from] ability: Hadron Engine|[of] p1a: Miraidon
+|move|p2a: Calyrex|Psyshock|p1a: Miraidon
+|-damage|p1a: Miraidon|30/238
+|
+|-heal|p2a: Calyrex|98/337 par|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1776970781
+|move|p1a: Miraidon|Electro Drift|p2a: Calyrex
+|-resisted|p2a: Calyrex
+|-damage|p2a: Calyrex|0 fnt
+|faint|p2a: Calyrex
+|
+|upkeep
+|
+|t:|1776970792
+|switch|p2a: Dusknoir|Dusknoir, L89, M|225/225
+|-damage|p2a: Dusknoir|197/225|[from] Stealth Rock
+|-item|p1a: Miraidon|Choice Specs|[from] ability: Frisk|[of] p2a: Dusknoir
+|turn|22
+|
+|t:|1776970799
+|switch|p1a: Registeel|Registeel, L81|235/262
+|move|p2a: Dusknoir|Shadow Sneak|p1a: Registeel
+|-damage|p1a: Registeel|181/262
+|
+|-heal|p1a: Registeel|197/262|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1776970805
+|switch|p2a: Salamence|Salamence, L77, M|273/273
+|-ability|p2a: Salamence|Intimidate|boost
+|-fail|p1a: Registeel|unboost|[from] ability: Clear Body|[of] p1a: Registeel
+|move|p1a: Registeel|Thunder Wave|p2a: Salamence
+|-status|p2a: Salamence|par
+|
+|-heal|p1a: Registeel|213/262|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1776970815
+|move|p1a: Registeel|Iron Head|p2a: Salamence
+|-damage|p2a: Salamence|200/273 par
+|move|p2a: Salamence|Dragon Dance|p2a: Salamence
+|-boost|p2a: Salamence|atk|1
+|-boost|p2a: Salamence|spe|1
+|
+|-heal|p1a: Registeel|229/262|[from] item: Leftovers
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|25
+|
+|t:|1776970820
+|cant|p2a: Salamence|par
+|move|p1a: Registeel|Iron Head|p2a: Salamence
+|-damage|p2a: Salamence|130/273 par
+|
+|-heal|p1a: Registeel|245/262|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1776970826
+|move|p2a: Salamence|Dragon Dance|p2a: Salamence
+|-boost|p2a: Salamence|atk|1
+|-boost|p2a: Salamence|spe|1
+|move|p1a: Registeel|Iron Head|p2a: Salamence
+|-damage|p2a: Salamence|58/273 par
+|
+|-heal|p1a: Registeel|261/262|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1776970828
+|move|p2a: Salamence|Earthquake|p1a: Registeel
+|-supereffective|p1a: Registeel
+|-damage|p1a: Registeel|67/262
+|move|p1a: Registeel|Iron Head|p2a: Salamence
+|-damage|p2a: Salamence|0 fnt
+|faint|p2a: Salamence
+|
+|-heal|p1a: Registeel|83/262|[from] item: Leftovers
+|upkeep
+|
+|t:|1776970842
+|switch|p2a: Dusknoir|Dusknoir, L89, M|197/225
+|-damage|p2a: Dusknoir|169/225|[from] Stealth Rock
+|-item|p1a: Registeel|Leftovers|[from] ability: Frisk|[of] p2a: Dusknoir
+|turn|28
+|
+|t:|1776970845
+|move|p2a: Dusknoir|Earthquake|p1a: Registeel
+|-supereffective|p1a: Registeel
+|-damage|p1a: Registeel|0 fnt
+|faint|p1a: Registeel
+|
+|upkeep
+|
+|t:|1776970856
+|switch|p1a: Regice|Regice, L88|284/284
+|turn|29
+|
+|t:|1776970866
+|move|p1a: Regice|Thunder Wave|p2a: Dusknoir
+|-status|p2a: Dusknoir|par
+|move|p2a: Dusknoir|Earthquake|p1a: Regice
+|-damage|p1a: Regice|185/284
+|
+|upkeep
+|turn|30
+|
+|t:|1776970873
+|move|p1a: Regice|Ice Beam|p2a: Dusknoir
+|-damage|p2a: Dusknoir|97/225 par
+|move|p2a: Dusknoir|Earthquake|p1a: Regice
+|-damage|p1a: Regice|87/284
+|
+|upkeep
+|turn|31
+|
+|t:|1776970879
+|move|p1a: Regice|Ice Beam|p2a: Dusknoir
+|-damage|p2a: Dusknoir|28/225 par
+|move|p2a: Dusknoir|Earthquake|p1a: Regice
+|-damage|p1a: Regice|0 fnt
+|faint|p1a: Regice
+|
+|upkeep
+|
+|t:|1776970888
+|switch|p1a: Suicune|Suicune, L82|86/298
+|-ability|p1a: Suicune|Pressure
+|turn|32
+|
+|t:|1776970895
+|move|p1a: Suicune|Protect|p1a: Suicune
+|-singleturn|p1a: Suicune|Protect
+|move|p2a: Dusknoir|Earthquake|p1a: Suicune
+|-activate|p1a: Suicune|move: Protect
+|
+|-heal|p1a: Suicune|104/298|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1776970902
+|move|p1a: Suicune|Scald|p2a: Dusknoir
+|-damage|p2a: Dusknoir|0 fnt
+|faint|p2a: Dusknoir
+|
+|-heal|p1a: Suicune|122/298|[from] item: Leftovers
+|upkeep
+|
+|t:|1776970917
+|switch|p2a: Dodrio|Dodrio, L85, F|241/241
+|turn|34
+|
+|t:|1776970922
+|move|p1a: Suicune|Protect|p1a: Suicune
+|-singleturn|p1a: Suicune|Protect
+|move|p2a: Dodrio|Brave Bird|p1a: Suicune
+|-activate|p1a: Suicune|move: Protect
+|
+|-heal|p1a: Suicune|140/298|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1776970929
+|switch|p1a: Miraidon|Miraidon, L65|30/238
+|-fieldstart|move: Electric Terrain|[from] ability: Hadron Engine|[of] p1a: Miraidon
+|move|p2a: Dodrio|Brave Bird|p1a: Miraidon
+|-resisted|p1a: Miraidon
+|-damage|p1a: Miraidon|0 fnt
+|faint|p1a: Miraidon
+|-damage|p2a: Dodrio|231/241|[from] Recoil
+|
+|upkeep
+|
+|t:|1776970934
+|switch|p1a: Iron Hands|Iron Hands, L79|373/373
+|-activate|p1a: Iron Hands|ability: Quark Drive
+|-start|p1a: Iron Hands|quarkdriveatk
+|turn|36
+|
+|t:|1776970954
+|move|p2a: Dodrio|Drill Run|p1a: Iron Hands
+|-supereffective|p1a: Iron Hands
+|-damage|p1a: Iron Hands|261/373
+|move|p1a: Iron Hands|Thunder Punch|p2a: Dodrio
+|-supereffective|p2a: Dodrio
+|-damage|p2a: Dodrio|0 fnt
+|faint|p2a: Dodrio
+|
+|upkeep
+|
+|t:|1776970960
+|switch|p2a: Kingambit|Kingambit, L74, F|270/270
+|-damage|p2a: Kingambit|254/270|[from] Stealth Rock
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen5|[silent]
+|turn|37
+|
+|t:|1776970978
+|-terastallize|p2a: Kingambit|Dark
+|move|p1a: Iron Hands|Drain Punch|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|18/270
+|-heal|p1a: Iron Hands|373/373|[from] drain|[of] p2a: Kingambit
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|
+|-heal|p2a: Kingambit|34/270|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|t:|1776970986
+|move|p1a: Iron Hands|Thunder Punch|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen5|[silent]
+|
+|win|piercemywings
+|raw|piercemywings's rating: 1341 &rarr; <strong>1364</strong><br />(+23 for winning)
+|raw|Fishtitties420's rating: 1385 &rarr; <strong>1362</strong><br />(-23 for losing)
+|l|☆Fishtitties420
+|player|p2|

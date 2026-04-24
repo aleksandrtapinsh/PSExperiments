@@ -1,0 +1,89 @@
+|j|☆Head Pixie 123
+|j|☆g4twdsijoguo
+|t:|1776974639
+|gametype|singles
+|player|p1|Head Pixie 123|rocketgrunt|1044
+|player|p2|g4twdsijoguo|169|1000
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776974639
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Conkeldurr|Conkeldurr, L80, F|299/299
+|switch|p2a: Gengar|Gengar, L81, M|230/230
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Head Pixie 123)
+|inactive|g4twdsijoguo has 120 seconds left.
+|
+|t:|1776974686
+|move|p2a: Gengar|Toxic Spikes|p1a: Conkeldurr
+|-sidestart|p1: Head Pixie 123|move: Toxic Spikes
+|move|p1a: Conkeldurr|Knock Off|p2a: Gengar
+|-supereffective|p2a: Gengar
+|-damage|p2a: Gengar|0 fnt
+|-start|p1a: Conkeldurr|Disable|Knock Off|[from] ability: Cursed Body|[of] p2a: Gengar
+|-enditem|p2a: Gengar|Life Orb|[from] move: Knock Off|[of] p1a: Conkeldurr
+|faint|p2a: Gengar
+|
+|-status|p1a: Conkeldurr|brn|[from] item: Flame Orb
+|upkeep
+|
+|t:|1776974690
+|switch|p2a: Reshiram|Reshiram, L76|277/277
+|-ability|p2a: Reshiram|Turboblaze
+|turn|2
+|
+|t:|1776974700
+|move|p2a: Reshiram|Outrage|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|176/299 brn
+|move|p1a: Conkeldurr|Close Combat|p2a: Reshiram
+|-damage|p2a: Reshiram|58/277
+|-unboost|p1a: Conkeldurr|def|1
+|-unboost|p1a: Conkeldurr|spd|1
+|
+|-damage|p1a: Conkeldurr|158/299 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1776974723
+|move|p2a: Reshiram|Outrage|p1a: Conkeldurr|[from] lockedmove
+|-damage|p1a: Conkeldurr|0 fnt
+|faint|p1a: Conkeldurr
+|-start|p2a: Reshiram|confusion|[fatigue]
+|
+|upkeep
+|
+|t:|1776974729
+|switch|p1a: Avalugg|Avalugg-Hisui, L90, M|317/317
+|turn|4
+|
+|t:|1776974733
+|-activate|p2a: Reshiram|confusion
+|move|p2a: Reshiram|Stone Edge|p1a: Avalugg
+|-supereffective|p1a: Avalugg
+|-damage|p1a: Avalugg|243/317
+|move|p1a: Avalugg|Avalanche|p2a: Reshiram
+|-damage|p2a: Reshiram|0 fnt
+|faint|p2a: Reshiram
+|
+|upkeep
+|l|☆g4twdsijoguo
+|inactive|g4twdsijoguo disconnected and has a minute to reconnect!
+|player|p2|
+|inactive|g4twdsijoguo has 30 seconds to reconnect!
+|inactive|g4twdsijoguo has 20 seconds to reconnect!
+|inactive|g4twdsijoguo has 15 seconds to reconnect!
+|inactive|g4twdsijoguo has 10 seconds to reconnect!
+|inactive|g4twdsijoguo has 5 seconds to reconnect!
+|-message|g4twdsijoguo lost due to inactivity.
+|
+|win|Head Pixie 123
+|raw|Head Pixie 123's rating: 1044 &rarr; <strong>1073</strong><br />(+29 for winning)
+|raw|g4twdsijoguo's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)

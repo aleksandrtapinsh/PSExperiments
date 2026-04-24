@@ -1,0 +1,309 @@
+|j|☆ANOS_MAO
+|j|☆w4schbecken
+|t:|1776969483
+|gametype|singles
+|player|p1|ANOS_MAO|101|1424
+|player|p2|w4schbecken|allister|1466
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776969483
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ursaring|Ursaring, L84, M|288/288
+|switch|p2a: Porygon2|Porygon2, L81|270/270
+|-ability|p2a: Porygon2|Download|boost
+|-boost|p2a: Porygon2|spa|1
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ANOS_MAO)
+|
+|t:|1776969499
+|move|p2a: Porygon2|Tera Blast|p1a: Ursaring
+|-damage|p1a: Ursaring|198/288
+|move|p1a: Ursaring|Body Slam|p2a: Porygon2
+|-damage|p2a: Porygon2|191/270
+|
+|upkeep
+|turn|2
+|
+|t:|1776969506
+|move|p2a: Porygon2|Tera Blast|p1a: Ursaring
+|-damage|p1a: Ursaring|108/288
+|move|p1a: Ursaring|Body Slam|p2a: Porygon2
+|-damage|p2a: Porygon2|112/270
+|-status|p2a: Porygon2|par
+|
+|upkeep
+|turn|3
+|
+|t:|1776969528
+|switch|p2a: Cobalion|Cobalion, L80|277/277
+|move|p1a: Ursaring|Rest|p1a: Ursaring
+|-status|p1a: Ursaring|slp|[from] move: Rest
+|-heal|p1a: Ursaring|288/288 slp|[silent]
+|
+|upkeep
+|turn|4
+|
+|t:|1776969538
+|move|p2a: Cobalion|Calm Mind|p2a: Cobalion
+|-boost|p2a: Cobalion|spa|1
+|-boost|p2a: Cobalion|spd|1
+|cant|p1a: Ursaring|slp
+|move|p1a: Ursaring|Sleep Talk|p1a: Ursaring
+|move|p1a: Ursaring|Body Slam|p2a: Cobalion|[from] move: Sleep Talk
+|-resisted|p2a: Cobalion
+|-damage|p2a: Cobalion|206/277
+|
+|-heal|p2a: Cobalion|223/277|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776969552
+|move|p2a: Cobalion|Calm Mind|p2a: Cobalion
+|-boost|p2a: Cobalion|spa|1
+|-boost|p2a: Cobalion|spd|1
+|cant|p1a: Ursaring|slp
+|move|p1a: Ursaring|Sleep Talk|p1a: Ursaring
+|move|p1a: Ursaring|Body Slam|p2a: Cobalion|[from] move: Sleep Talk
+|-resisted|p2a: Cobalion
+|-damage|p2a: Cobalion|157/277
+|-status|p2a: Cobalion|par
+|
+|-heal|p2a: Cobalion|174/277 par|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776969567
+|-curestatus|p1a: Ursaring|slp|[msg]
+|move|p1a: Ursaring|Earthquake|p2a: Cobalion
+|-supereffective|p2a: Cobalion
+|-damage|p2a: Cobalion|30/277 par
+|move|p2a: Cobalion|Aura Sphere|p1a: Ursaring
+|-supereffective|p1a: Ursaring
+|-damage|p1a: Ursaring|72/288
+|
+|-heal|p2a: Cobalion|47/277 par|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776969577
+|move|p2a: Cobalion|Vacuum Wave|p1a: Ursaring
+|-supereffective|p1a: Ursaring
+|-damage|p1a: Ursaring|0 fnt
+|faint|p1a: Ursaring
+|
+|-heal|p2a: Cobalion|64/277 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1776969591
+|switch|p1a: Banette|Banette, L93, F|270/270
+|turn|8
+|
+|t:|1776969603
+|move|p1a: Banette|Swords Dance|p1a: Banette
+|-boost|p1a: Banette|atk|2
+|cant|p2a: Cobalion|par
+|
+|-heal|p2a: Cobalion|81/277 par|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776969612
+|move|p1a: Banette|Shadow Sneak|p2a: Cobalion
+|-damage|p2a: Cobalion|0 fnt
+|faint|p2a: Cobalion
+|-damage|p1a: Banette|243/270|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776969620
+|switch|p2a: Porygon2|Porygon2, L81|112/270 par
+|-ability|p2a: Porygon2|Download|boost
+|-boost|p2a: Porygon2|spa|1
+|turn|10
+|
+|t:|1776969625
+|move|p1a: Banette|Gunk Shot|p2a: Porygon2
+|-damage|p2a: Porygon2|0 fnt
+|faint|p2a: Porygon2
+|-damage|p1a: Banette|216/270|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776969637
+|switch|p2a: Chi-Yu|Chi-Yu, L77|211/211
+|-ability|p2a: Chi-Yu|Beads of Ruin
+|turn|11
+|
+|t:|1776969642
+|move|p2a: Chi-Yu|Dark Pulse|p1a: Banette
+|-supereffective|p1a: Banette
+|-damage|p1a: Banette|0 fnt
+|faint|p1a: Banette
+|
+|upkeep
+|
+|t:|1776969650
+|switch|p1a: Zamazenta|Zamazenta-Crowned, L68|238/238
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|turn|12
+|
+|t:|1776969660
+|-terastallize|p2a: Chi-Yu|Fire
+|move|p1a: Zamazenta|Body Press|p2a: Chi-Yu
+|-damage|p2a: Chi-Yu|82/211
+|move|p2a: Chi-Yu|Fire Blast|p1a: Zamazenta
+|-supereffective|p1a: Zamazenta
+|-crit|p1a: Zamazenta
+|-damage|p1a: Zamazenta|0 fnt
+|faint|p1a: Zamazenta
+|
+|upkeep
+|
+|t:|1776969669
+|switch|p1a: Conkeldurr|Conkeldurr, L80, M|299/299
+|turn|13
+|
+|t:|1776969675
+|move|p1a: Conkeldurr|Mach Punch|p2a: Chi-Yu
+|-damage|p2a: Chi-Yu|22/211
+|move|p2a: Chi-Yu|Fire Blast|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|15/299
+|
+|-status|p1a: Conkeldurr|brn|[from] item: Flame Orb
+|upkeep
+|turn|14
+|
+|t:|1776969685
+|move|p1a: Conkeldurr|Mach Punch|p2a: Chi-Yu
+|-damage|p2a: Chi-Yu|0 fnt
+|faint|p2a: Chi-Yu
+|
+|-damage|p1a: Conkeldurr|0 fnt|[from] brn
+|faint|p1a: Conkeldurr
+|upkeep
+|
+|t:|1776969697
+|switch|p2a: Necrozma|Necrozma, L80|286/286
+|switch|p1a: Oricorio|Oricorio, L84, M|263/263
+|turn|15
+|
+|t:|1776969707
+|move|p1a: Oricorio|Quiver Dance|p1a: Oricorio
+|-boost|p1a: Oricorio|spa|1
+|-boost|p1a: Oricorio|spd|1
+|-boost|p1a: Oricorio|spe|1
+|move|p2a: Necrozma|Calm Mind|p2a: Necrozma
+|-boost|p2a: Necrozma|spa|1
+|-boost|p2a: Necrozma|spd|1
+|
+|upkeep
+|turn|16
+|
+|t:|1776969715
+|move|p1a: Oricorio|Quiver Dance|p1a: Oricorio
+|-boost|p1a: Oricorio|spa|1
+|-boost|p1a: Oricorio|spd|1
+|-boost|p1a: Oricorio|spe|1
+|move|p2a: Necrozma|Photon Geyser|p1a: Oricorio
+|-damage|p1a: Oricorio|163/263
+|
+|upkeep
+|turn|17
+|
+|t:|1776969728
+|move|p1a: Oricorio|Hurricane|p2a: Necrozma|[miss]
+|-miss|p1a: Oricorio|p2a: Necrozma
+|move|p2a: Necrozma|Photon Geyser|p1a: Oricorio
+|-damage|p1a: Oricorio|52/263
+|
+|upkeep
+|turn|18
+|
+|t:|1776969737
+|move|p1a: Oricorio|Roost|p1a: Oricorio
+|-heal|p1a: Oricorio|184/263
+|-singleturn|p1a: Oricorio|move: Roost
+|move|p2a: Necrozma|Photon Geyser|p1a: Oricorio
+|-damage|p1a: Oricorio|73/263
+|
+|upkeep
+|turn|19
+|
+|t:|1776969758
+|move|p1a: Oricorio|Roost|p1a: Oricorio
+|-heal|p1a: Oricorio|205/263
+|-singleturn|p1a: Oricorio|move: Roost
+|move|p2a: Necrozma|Photon Geyser|p1a: Oricorio
+|-damage|p1a: Oricorio|88/263
+|
+|upkeep
+|turn|20
+|
+|t:|1776969767
+|move|p1a: Oricorio|Roost|p1a: Oricorio
+|-heal|p1a: Oricorio|220/263
+|-singleturn|p1a: Oricorio|move: Roost
+|move|p2a: Necrozma|Calm Mind|p2a: Necrozma
+|-boost|p2a: Necrozma|spa|1
+|-boost|p2a: Necrozma|spd|1
+|
+|upkeep
+|turn|21
+|
+|t:|1776969774
+|move|p1a: Oricorio|Quiver Dance|p1a: Oricorio
+|-boost|p1a: Oricorio|spa|1
+|-boost|p1a: Oricorio|spd|1
+|-boost|p1a: Oricorio|spe|1
+|move|p2a: Necrozma|Photon Geyser|p1a: Oricorio
+|-damage|p1a: Oricorio|108/263
+|
+|upkeep
+|turn|22
+|
+|t:|1776969785
+|move|p1a: Oricorio|Roost|p1a: Oricorio
+|-heal|p1a: Oricorio|240/263
+|-singleturn|p1a: Oricorio|move: Roost
+|move|p2a: Necrozma|Calm Mind|p2a: Necrozma
+|-boost|p2a: Necrozma|spa|1
+|-boost|p2a: Necrozma|spd|1
+|
+|upkeep
+|turn|23
+|
+|t:|1776969792
+|move|p1a: Oricorio|Revelation Dance|p2a: Necrozma
+|-damage|p2a: Necrozma|183/286
+|move|p2a: Necrozma|Photon Geyser|p1a: Oricorio
+|-crit|p1a: Oricorio
+|-damage|p1a: Oricorio|0 fnt
+|faint|p1a: Oricorio
+|
+|-heal|p2a: Necrozma|200/286|[from] item: Leftovers
+|upkeep
+|
+|t:|1776969798
+|switch|p1a: Duraludon|Duraludon, L82, M|249/249
+|turn|24
+|
+|t:|1776969807
+|move|p1a: Duraludon|Stealth Rock|p2a: Necrozma
+|-sidestart|p2: w4schbecken|move: Stealth Rock
+|move|p2a: Necrozma|Earth Power|p1a: Duraludon
+|-supereffective|p1a: Duraludon
+|-damage|p1a: Duraludon|0 fnt
+|faint|p1a: Duraludon
+|
+|win|w4schbecken
+|raw|ANOS_MAO's rating: 1424 &rarr; <strong>1406</strong><br />(-18 for losing)
+|raw|w4schbecken's rating: 1466 &rarr; <strong>1484</strong><br />(+18 for winning)

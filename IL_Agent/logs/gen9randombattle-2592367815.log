@@ -1,0 +1,434 @@
+|j|☆PikaTru
+|j|☆SteelixPrismGX
+|t:|1776982720
+|gametype|singles
+|player|p1|PikaTru|266|1854
+|player|p2|SteelixPrismGX|siebold|1905
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776982720
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Dugtrio|Dugtrio, L84, F|196/196
+|switch|p2a: Dachsbun|Dachsbun, L92, M|254/254
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by PikaTru)
+|
+|t:|1776982737
+|switch|p1a: Fezandipiti|Fezandipiti, L82, M|278/278
+|move|p2a: Dachsbun|Yawn|p1a: Fezandipiti
+|-start|p1a: Fezandipiti|move: Yawn|[of] p2a: Dachsbun
+|
+|upkeep
+|turn|2
+|
+|t:|1776982741
+|switch|p2a: Dialga|Dialga-Origin, L73|266/266
+|-ability|p2a: Dialga|Pressure
+|move|p1a: Fezandipiti|U-turn|p2a: Dialga
+|-resisted|p2a: Dialga
+|-damage|p2a: Dialga|244/266
+|
+|t:|1776982745
+|switch|p1a: Dugtrio|Dugtrio, L84, F|196/196|[from] U-turn
+|
+|upkeep
+|turn|3
+|
+|t:|1776982749
+|-terastallize|p2a: Dialga|Flying
+|move|p1a: Dugtrio|Swords Dance|p1a: Dugtrio
+|-boost|p1a: Dugtrio|atk|2
+|move|p2a: Dialga|Stealth Rock|p1a: Dugtrio
+|-sidestart|p1: PikaTru|move: Stealth Rock
+|
+|upkeep
+|turn|4
+|
+|t:|1776982759
+|switch|p2a: Dachsbun|Dachsbun, L92, M|254/254
+|move|p1a: Dugtrio|Swords Dance|p1a: Dugtrio
+|-boost|p1a: Dugtrio|atk|2
+|
+|upkeep
+|turn|5
+|
+|t:|1776982765
+|move|p1a: Dugtrio|Swords Dance|p1a: Dugtrio
+|-boost|p1a: Dugtrio|atk|2
+|move|p2a: Dachsbun|Yawn|p1a: Dugtrio
+|-start|p1a: Dugtrio|move: Yawn|[of] p2a: Dachsbun
+|
+|upkeep
+|turn|6
+|
+|t:|1776982768
+|move|p2a: Dachsbun|Protect|p2a: Dachsbun
+|-singleturn|p2a: Dachsbun|Protect
+|move|p1a: Dugtrio|Earthquake|p2a: Dachsbun
+|-activate|p2a: Dachsbun|move: Protect
+|
+|-end|p1a: Dugtrio|move: Yawn|[silent]
+|-status|p1a: Dugtrio|slp
+|upkeep
+|turn|7
+|
+|t:|1776982775
+|cant|p1a: Dugtrio|slp
+|move|p2a: Dachsbun|Play Rough|p1a: Dugtrio
+|-damage|p1a: Dugtrio|43/196 slp
+|
+|upkeep
+|turn|8
+|
+|t:|1776982777
+|-curestatus|p1a: Dugtrio|slp|[msg]
+|move|p1a: Dugtrio|Earthquake|p2a: Dachsbun
+|-damage|p2a: Dachsbun|0 fnt
+|faint|p2a: Dachsbun
+|
+|upkeep
+|
+|t:|1776982788
+|switch|p2a: Skeledirge|Skeledirge, L79, M|294/294
+|turn|9
+|
+|t:|1776982793
+|move|p1a: Dugtrio|Earthquake|p2a: Skeledirge
+|-supereffective|p2a: Skeledirge
+|-damage|p2a: Skeledirge|66/294
+|move|p2a: Skeledirge|Torch Song|p1a: Dugtrio
+|-damage|p1a: Dugtrio|0 fnt
+|-boost|p2a: Skeledirge|spa|1
+|faint|p1a: Dugtrio
+|
+|upkeep
+|
+|t:|1776982809
+|switch|p1a: Gyarados|Gyarados, L79, F|280/280
+|turn|10
+|
+|t:|1776982834
+|switch|p2a: Grimmsnarl|Grimmsnarl, L83, M|293/293
+|move|p1a: Gyarados|Waterfall|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|172/293
+|
+|upkeep
+|turn|11
+|
+|t:|1776982843
+|switch|p1a: Fezandipiti|Fezandipiti, L82, M|278/278
+|-damage|p1a: Fezandipiti|244/278|[from] Stealth Rock
+|move|p2a: Grimmsnarl|Reflect|p2a: Grimmsnarl
+|-sidestart|p2: SteelixPrismGX|Reflect
+|
+|-heal|p1a: Fezandipiti|261/278|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776982852
+|move|p2a: Grimmsnarl|Parting Shot|p1a: Fezandipiti
+|-unboost|p1a: Fezandipiti|atk|1
+|-unboost|p1a: Fezandipiti|spa|1
+|
+|t:|1776982855
+|switch|p2a: Skeledirge|Skeledirge, L79, M|66/294|[from] Parting Shot
+|move|p1a: Fezandipiti|Gunk Shot|p2a: Skeledirge
+|-resisted|p2a: Skeledirge
+|-damage|p2a: Skeledirge|37/294
+|
+|-heal|p1a: Fezandipiti|278/278|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776982863
+|move|p1a: Fezandipiti|U-turn|p2a: Skeledirge
+|-resisted|p2a: Skeledirge
+|-damage|p2a: Skeledirge|32/294
+|
+|t:|1776982868
+|switch|p1a: Gyarados|Gyarados, L79, F|280/280|[from] U-turn
+|move|p2a: Skeledirge|Slack Off|p2a: Skeledirge
+|-heal|p2a: Skeledirge|179/294
+|
+|upkeep
+|turn|14
+|
+|t:|1776982885
+|move|p1a: Gyarados|Waterfall|p2a: Skeledirge
+|-supereffective|p2a: Skeledirge
+|-damage|p2a: Skeledirge|95/294
+|move|p2a: Skeledirge|Will-O-Wisp|p1a: Gyarados
+|-status|p1a: Gyarados|brn
+|
+|-damage|p1a: Gyarados|263/280 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1776982891
+|move|p1a: Gyarados|Waterfall|p2a: Skeledirge
+|-supereffective|p2a: Skeledirge
+|-damage|p2a: Skeledirge|53/294
+|move|p2a: Skeledirge|Slack Off|p2a: Skeledirge
+|-heal|p2a: Skeledirge|200/294
+|
+|-damage|p1a: Gyarados|246/280 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1776982903
+|move|p1a: Gyarados|Waterfall|p2a: Skeledirge
+|-supereffective|p2a: Skeledirge
+|-damage|p2a: Skeledirge|158/294
+|cant|p2a: Skeledirge|flinch
+|
+|-damage|p1a: Gyarados|229/280 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1776982911
+|move|p1a: Gyarados|Waterfall|p2a: Skeledirge
+|-supereffective|p2a: Skeledirge
+|-damage|p2a: Skeledirge|110/294
+|cant|p2a: Skeledirge|flinch
+|
+|-damage|p1a: Gyarados|212/280 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1776982914
+|move|p1a: Gyarados|Waterfall|p2a: Skeledirge
+|-supereffective|p2a: Skeledirge
+|-damage|p2a: Skeledirge|68/294
+|move|p2a: Skeledirge|Slack Off|p2a: Skeledirge
+|-heal|p2a: Skeledirge|215/294
+|
+|-damage|p1a: Gyarados|195/280 brn|[from] brn
+|-sideend|p2: SteelixPrismGX|Reflect
+|upkeep
+|turn|19
+|
+|t:|1776982924
+|move|p1a: Gyarados|Waterfall|p2a: Skeledirge
+|-supereffective|p2a: Skeledirge
+|-damage|p2a: Skeledirge|122/294
+|cant|p2a: Skeledirge|flinch
+|
+|-damage|p1a: Gyarados|178/280 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1776982928
+|move|p1a: Gyarados|Waterfall|p2a: Skeledirge
+|-supereffective|p2a: Skeledirge
+|-damage|p2a: Skeledirge|34/294
+|move|p2a: Skeledirge|Slack Off|p2a: Skeledirge
+|-heal|p2a: Skeledirge|181/294
+|
+|-damage|p1a: Gyarados|161/280 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1776982936
+|switch|p2a: Girafarig|Girafarig, L89, F|269/269
+|move|p1a: Gyarados|Waterfall|p2a: Girafarig
+|-damage|p2a: Girafarig|234/269
+|
+|-damage|p1a: Gyarados|144/280 brn|[from] brn
+|upkeep
+|turn|22
+|
+|t:|1776982954
+|move|p2a: Girafarig|Nasty Plot|p2a: Girafarig
+|-boost|p2a: Girafarig|spa|2
+|move|p1a: Gyarados|Dragon Dance|p1a: Gyarados
+|-boost|p1a: Gyarados|atk|1
+|-boost|p1a: Gyarados|spe|1
+|
+|-damage|p1a: Gyarados|127/280 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1776982962
+|move|p1a: Gyarados|Waterfall|p2a: Girafarig
+|-damage|p2a: Girafarig|178/269
+|move|p2a: Girafarig|Psychic|p1a: Gyarados
+|-damage|p1a: Gyarados|0 fnt
+|faint|p1a: Gyarados
+|
+|upkeep
+|
+|t:|1776982966
+|switch|p1a: Scyther|Scyther, L82, M|249/249
+|turn|24
+|
+|t:|1776982972
+|move|p1a: Scyther|U-turn|p2a: Girafarig
+|-supereffective|p2a: Girafarig
+|-damage|p2a: Girafarig|56/269
+|
+|t:|1776982977
+|switch|p1a: Meloetta|Meloetta, L82|298/298|[from] U-turn
+|-damage|p1a: Meloetta|261/298|[from] Stealth Rock
+|move|p2a: Girafarig|Psychic|p1a: Meloetta
+|-resisted|p1a: Meloetta
+|-damage|p1a: Meloetta|189/298
+|
+|upkeep
+|turn|25
+|
+|t:|1776982984
+|move|p2a: Girafarig|Dazzling Gleam|p1a: Meloetta
+|-damage|p1a: Meloetta|100/298
+|move|p1a: Meloetta|U-turn|p2a: Girafarig
+|-supereffective|p2a: Girafarig
+|-damage|p2a: Girafarig|0 fnt
+|faint|p2a: Girafarig
+|
+|t:|1776982996
+|switch|p1a: Fezandipiti|Fezandipiti, L82, M|278/278|[from] U-turn
+|-damage|p1a: Fezandipiti|244/278|[from] Stealth Rock
+|
+|-heal|p1a: Fezandipiti|261/278|[from] item: Leftovers
+|upkeep
+|
+|t:|1776982999
+|switch|p2a: Dialga|Dialga-Origin, L73, tera:Flying|244/266
+|-ability|p2a: Dialga|Pressure
+|turn|26
+|inactive|PikaTru has 120 seconds left.
+|
+|t:|1776983031
+|move|p1a: Fezandipiti|Gunk Shot|p2a: Dialga|[miss]
+|-miss|p1a: Fezandipiti|p2a: Dialga
+|move|p2a: Dialga|Heavy Slam|p1a: Fezandipiti
+|-supereffective|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|7/278
+|
+|-heal|p1a: Fezandipiti|24/278|[from] item: Leftovers
+|upkeep
+|turn|27
+|inactive|PikaTru has 120 seconds left.
+|
+|t:|1776983058
+|move|p1a: Fezandipiti|Gunk Shot|p2a: Dialga|[miss]
+|-miss|p1a: Fezandipiti|p2a: Dialga
+|move|p2a: Dialga|Heavy Slam|p1a: Fezandipiti
+|-supereffective|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|0 fnt
+|faint|p1a: Fezandipiti
+|
+|upkeep
+|
+|t:|1776983060
+|switch|p1a: Scyther|Scyther, L82, M|249/249
+|turn|28
+|
+|t:|1776983070
+|move|p1a: Scyther|Defog|p2a: Dialga
+|-unboost|p2a: Dialga|evasion|1
+|-sideend|p1: PikaTru|Stealth Rock|[from] move: Defog|[of] p1a: Scyther
+|move|p2a: Dialga|Draco Meteor|p1a: Scyther
+|-damage|p1a: Scyther|68/249
+|-unboost|p2a: Dialga|spa|2
+|
+|upkeep
+|turn|29
+|inactive|PikaTru has 120 seconds left.
+|
+|t:|1776983082
+|move|p1a: Scyther|U-turn|p2a: Dialga
+|-resisted|p2a: Dialga
+|-damage|p2a: Dialga|208/266
+|
+|t:|1776983083
+|switch|p1a: Meloetta|Meloetta, L82|100/298|[from] U-turn
+|move|p2a: Dialga|Heavy Slam|p1a: Meloetta
+|-damage|p1a: Meloetta|0 fnt
+|faint|p1a: Meloetta
+|
+|upkeep
+|
+|t:|1776983090
+|switch|p1a: Arceus|Arceus-Ice, L72|291/291
+|turn|30
+|
+|t:|1776983106
+|switch|p2a: Grimmsnarl|Grimmsnarl, L83, M|172/293
+|-terastallize|p1a: Arceus|Ground
+|move|p1a: Arceus|Calm Mind|p1a: Arceus
+|-boost|p1a: Arceus|spa|1
+|-boost|p1a: Arceus|spd|1
+|
+|upkeep
+|turn|31
+|
+|t:|1776983113
+|move|p2a: Grimmsnarl|Light Screen|p2a: Grimmsnarl
+|-sidestart|p2: SteelixPrismGX|move: Light Screen
+|move|p1a: Arceus|Calm Mind|p1a: Arceus
+|-boost|p1a: Arceus|spa|1
+|-boost|p1a: Arceus|spd|1
+|
+|upkeep
+|turn|32
+|
+|t:|1776983116
+|move|p2a: Grimmsnarl|Parting Shot|p1a: Arceus
+|-unboost|p1a: Arceus|atk|1
+|-unboost|p1a: Arceus|spa|1
+|
+|t:|1776983121
+|switch|p2a: Skeledirge|Skeledirge, L79, M|181/294|[from] Parting Shot
+|move|p1a: Arceus|Calm Mind|p1a: Arceus
+|-boost|p1a: Arceus|spa|1
+|-boost|p1a: Arceus|spd|1
+|
+|upkeep
+|turn|33
+|
+|t:|1776983137
+|move|p1a: Arceus|Earth Power|p2a: Skeledirge
+|-supereffective|p2a: Skeledirge
+|-damage|p2a: Skeledirge|75/294
+|move|p2a: Skeledirge|Will-O-Wisp|p1a: Arceus
+|-status|p1a: Arceus|brn
+|
+|-damage|p1a: Arceus|273/291 brn|[from] brn
+|upkeep
+|turn|34
+|
+|t:|1776983141
+|switch|p2a: Dialga|Dialga-Origin, L73, tera:Flying|208/266
+|-ability|p2a: Dialga|Pressure
+|move|p1a: Arceus|Earth Power|p2a: Dialga
+|-immune|p2a: Dialga
+|
+|-damage|p1a: Arceus|255/291 brn|[from] brn
+|upkeep
+|turn|35
+|
+|t:|1776983147
+|move|p1a: Arceus|Calm Mind|p1a: Arceus
+|-boost|p1a: Arceus|spa|1
+|-boost|p1a: Arceus|spd|1
+|move|p2a: Dialga|Dragon Tail|p1a: Arceus
+|-damage|p1a: Arceus|198/291 brn
+|drag|p1a: Scyther|Scyther, L82, M|68/249
+|
+|upkeep
+|turn|36
+|-message|PikaTru forfeited.
+|
+|win|SteelixPrismGX
+|raw|PikaTru's rating: 1854 &rarr; <strong>1837</strong><br />(-17 for losing)
+|raw|SteelixPrismGX's rating: 1905 &rarr; <strong>1922</strong><br />(+17 for winning)
+|l|☆PikaTru
+|player|p1|

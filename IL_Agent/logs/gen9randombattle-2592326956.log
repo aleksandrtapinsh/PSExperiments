@@ -1,0 +1,244 @@
+|j|☆ShadowS3raph
+|j|☆Crimbus_Lord
+|t:|1776979138
+|gametype|singles
+|player|p1|ShadowS3raph|102|1327
+|player|p2|Crimbus_Lord|scientist-gen4dp|1340
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776979138
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kingambit|Kingambit, L74, M|270/270
+|switch|p2a: Wigglytuff|Wigglytuff, L96, F|424/424
+|turn|1
+|
+|t:|1776979157
+|-end|p1a: Kingambit|fallenundefined|[silent]
+|switch|p1a: Oinkologne|Oinkologne-F, L92, F|361/361
+|move|p2a: Wigglytuff|Fire Blast|p1a: Oinkologne
+|-damage|p1a: Oinkologne|277/361
+|
+|-heal|p1a: Oinkologne|299/361|[from] item: Leftovers
+|upkeep
+|turn|2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ShadowS3raph)
+|
+|t:|1776979172
+|switch|p2a: Weezing|Weezing, L88, M|258/258
+|move|p1a: Oinkologne|Body Slam|p2a: Weezing
+|-damage|p2a: Weezing|176/258
+|-status|p2a: Weezing|par
+|
+|-heal|p1a: Oinkologne|321/361|[from] item: Leftovers
+|-heal|p2a: Weezing|192/258 par|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776979175
+|move|p1a: Oinkologne|Curse|p1a: Oinkologne
+|-unboost|p1a: Oinkologne|spe|1
+|-boost|p1a: Oinkologne|atk|1
+|-boost|p1a: Oinkologne|def|1
+|move|p2a: Weezing|Will-O-Wisp|p1a: Oinkologne
+|-status|p1a: Oinkologne|brn
+|
+|-heal|p1a: Oinkologne|343/361 brn|[from] item: Leftovers
+|-heal|p2a: Weezing|208/258 par|[from] item: Leftovers
+|-damage|p1a: Oinkologne|321/361 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1776979181
+|move|p1a: Oinkologne|Curse|p1a: Oinkologne
+|-unboost|p1a: Oinkologne|spe|1
+|-boost|p1a: Oinkologne|atk|1
+|-boost|p1a: Oinkologne|def|1
+|move|p2a: Weezing|Sludge Bomb|p1a: Oinkologne
+|-damage|p1a: Oinkologne|228/361 brn
+|
+|-heal|p1a: Oinkologne|250/361 brn|[from] item: Leftovers
+|-heal|p2a: Weezing|224/258 par|[from] item: Leftovers
+|-damage|p1a: Oinkologne|228/361 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1776979197
+|move|p1a: Oinkologne|Rest|p1a: Oinkologne
+|-status|p1a: Oinkologne|slp|[from] move: Rest
+|-heal|p1a: Oinkologne|361/361 slp|[silent]
+|move|p2a: Weezing|Sludge Bomb|p1a: Oinkologne
+|-damage|p1a: Oinkologne|282/361 slp
+|
+|-heal|p1a: Oinkologne|304/361 slp|[from] item: Leftovers
+|-heal|p2a: Weezing|240/258 par|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776979205
+|cant|p1a: Oinkologne|slp
+|move|p1a: Oinkologne|Sleep Talk|p1a: Oinkologne
+|move|p1a: Oinkologne|Rest||[from] move: Sleep Talk|[still]
+|-fail|p1a: Oinkologne
+|move|p2a: Weezing|Sludge Bomb|p1a: Oinkologne
+|-damage|p1a: Oinkologne|219/361 slp
+|
+|-heal|p1a: Oinkologne|241/361 slp|[from] item: Leftovers
+|-heal|p2a: Weezing|256/258 par|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776979210
+|cant|p1a: Oinkologne|slp
+|move|p1a: Oinkologne|Sleep Talk|p1a: Oinkologne
+|move|p1a: Oinkologne|Curse|p1a: Oinkologne|[from] move: Sleep Talk
+|-unboost|p1a: Oinkologne|spe|1
+|-boost|p1a: Oinkologne|atk|1
+|-boost|p1a: Oinkologne|def|1
+|move|p2a: Weezing|Sludge Bomb|p1a: Oinkologne
+|-damage|p1a: Oinkologne|160/361 slp
+|
+|-heal|p2a: Weezing|258/258 par|[from] item: Leftovers
+|-heal|p1a: Oinkologne|182/361 slp|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776979220
+|cant|p2a: Weezing|par
+|-curestatus|p1a: Oinkologne|slp|[msg]
+|move|p1a: Oinkologne|Body Slam|p2a: Weezing
+|-damage|p2a: Weezing|63/258 par
+|
+|-heal|p2a: Weezing|79/258 par|[from] item: Leftovers
+|-heal|p1a: Oinkologne|204/361|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776979226
+|cant|p2a: Weezing|par
+|move|p1a: Oinkologne|Curse|p1a: Oinkologne
+|-unboost|p1a: Oinkologne|spe|1
+|-boost|p1a: Oinkologne|atk|1
+|-boost|p1a: Oinkologne|def|1
+|
+|-heal|p2a: Weezing|95/258 par|[from] item: Leftovers
+|-heal|p1a: Oinkologne|226/361|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1776979231
+|move|p2a: Weezing|Will-O-Wisp|p1a: Oinkologne
+|-status|p1a: Oinkologne|brn
+|move|p1a: Oinkologne|Curse|p1a: Oinkologne
+|-unboost|p1a: Oinkologne|spe|1
+|-boost|p1a: Oinkologne|atk|1
+|-boost|p1a: Oinkologne|def|1
+|
+|-heal|p2a: Weezing|111/258 par|[from] item: Leftovers
+|-heal|p1a: Oinkologne|248/361 brn|[from] item: Leftovers
+|-damage|p1a: Oinkologne|226/361 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1776979243
+|move|p2a: Weezing|Pain Split|p1a: Oinkologne
+|-sethp|p1a: Oinkologne|168/361 brn|[from] move: Pain Split|[silent]
+|-sethp|p2a: Weezing|168/258 par|[from] move: Pain Split
+|move|p1a: Oinkologne|Rest|p1a: Oinkologne
+|-status|p1a: Oinkologne|slp|[from] move: Rest
+|-heal|p1a: Oinkologne|361/361 slp|[silent]
+|
+|-heal|p2a: Weezing|184/258 par|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776979252
+|move|p2a: Weezing|Pain Split|p1a: Oinkologne
+|-sethp|p1a: Oinkologne|272/361 slp|[from] move: Pain Split|[silent]
+|-sethp|p2a: Weezing|258/258 par|[from] move: Pain Split
+|cant|p1a: Oinkologne|slp
+|move|p1a: Oinkologne|Sleep Talk|p1a: Oinkologne
+|move|p1a: Oinkologne|Body Slam|p2a: Weezing|[from] move: Sleep Talk
+|-damage|p2a: Weezing|0 fnt
+|faint|p2a: Weezing
+|
+|-heal|p1a: Oinkologne|294/361 slp|[from] item: Leftovers
+|upkeep
+|
+|t:|1776979259
+|switch|p2a: Wigglytuff|Wigglytuff, L96, F|424/424
+|turn|13
+|
+|t:|1776979263
+|move|p2a: Wigglytuff|Dazzling Gleam|p1a: Oinkologne
+|-crit|p1a: Oinkologne
+|-damage|p1a: Oinkologne|165/361 slp
+|cant|p1a: Oinkologne|slp
+|move|p1a: Oinkologne|Sleep Talk|p1a: Oinkologne
+|move|p1a: Oinkologne|Body Slam|p2a: Wigglytuff|[from] move: Sleep Talk
+|-damage|p2a: Wigglytuff|0 fnt
+|faint|p2a: Wigglytuff
+|
+|-heal|p1a: Oinkologne|187/361 slp|[from] item: Leftovers
+|upkeep
+|
+|t:|1776979269
+|switch|p2a: Giratina|Giratina, L75|349/349
+|-ability|p2a: Giratina|Pressure
+|turn|14
+|
+|t:|1776979278
+|move|p2a: Giratina|Shadow Ball|p1a: Oinkologne
+|-immune|p1a: Oinkologne
+|-curestatus|p1a: Oinkologne|slp|[msg]
+|move|p1a: Oinkologne|Body Slam|p2a: Giratina
+|-immune|p2a: Giratina
+|
+|-heal|p1a: Oinkologne|209/361|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1776979286
+|move|p2a: Giratina|Defog|p1a: Oinkologne
+|-unboost|p1a: Oinkologne|evasion|1
+|move|p1a: Oinkologne|Curse|p1a: Oinkologne
+|-unboost|p1a: Oinkologne|spe|1
+|-boost|p1a: Oinkologne|atk|1
+|-boost|p1a: Oinkologne|def|1
+|
+|-heal|p1a: Oinkologne|231/361|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776979313
+|switch|p2a: Slowbro|Slowbro-Galar, L87, M|307/307
+|move|p1a: Oinkologne|Curse|p1a: Oinkologne
+|
+|-heal|p1a: Oinkologne|253/361|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1776979318
+|move|p2a: Slowbro|Shell Side Arm|p1a: Oinkologne|[anim] Shell Side Arm Special
+|-damage|p1a: Oinkologne|163/361
+|-hint|Special Shell Side Arm
+|move|p1a: Oinkologne|Body Slam|p2a: Slowbro
+|-damage|p2a: Slowbro|0 fnt
+|faint|p2a: Slowbro
+|
+|-heal|p1a: Oinkologne|185/361|[from] item: Leftovers
+|upkeep
+|-message|Crimbus_Lord forfeited.
+|
+|win|ShadowS3raph
+|raw|ShadowS3raph's rating: 1327 &rarr; <strong>1348</strong><br />(+21 for winning)
+|raw|Crimbus_Lord's rating: 1340 &rarr; <strong>1319</strong><br />(-21 for losing)
+|l|☆Crimbus_Lord
+|player|p2|

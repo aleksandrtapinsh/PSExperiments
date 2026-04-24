@@ -1,0 +1,428 @@
+|j|☆Laritate
+|j|☆disconnectduewifi
+|t:|1776975385
+|gametype|singles
+|player|p1|Laritate|102|1762
+|player|p2|disconnectduewifi|lucas|1780
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776975385
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Chansey|Chansey, L85, F|564/564
+|switch|p2a: Barraskewda|Barraskewda, L81, F|231/231
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Laritate)
+|
+|t:|1776975393
+|switch|p1a: Slowking|Slowking, L88, M|310/310
+|move|p2a: Barraskewda|Close Combat|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|241/310
+|-unboost|p2a: Barraskewda|def|1
+|-unboost|p2a: Barraskewda|spd|1
+|
+|upkeep
+|turn|2
+|
+|t:|1776975413
+|switch|p2a: Moltres|Moltres-Galar, L79|271/271
+|move|p1a: Slowking|Future Sight|p2a: Moltres
+|-start|p1a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|3
+|
+|t:|1776975420
+|move|p2a: Moltres|Agility|p2a: Moltres
+|-boost|p2a: Moltres|spe|2
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snowscape
+|
+|t:|1776975425
+|switch|p1a: Chansey|Chansey, L85, F|564/564|[from] Chilly Reception
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1776975438
+|move|p2a: Moltres|Fiery Wrath|p1a: Chansey
+|-damage|p1a: Chansey|512/564
+|move|p1a: Chansey|Thunder Wave|p2a: Moltres
+|-status|p2a: Moltres|par
+|
+|-weather|Snowscape|[upkeep]
+|-end|p2a: Moltres|move: Future Sight
+|-immune|p2a: Moltres
+|upkeep
+|turn|5
+|
+|t:|1776975450
+|switch|p2a: Barraskewda|Barraskewda, L81, F|231/231
+|move|p1a: Chansey|Stealth Rock|p2a: Barraskewda
+|-sidestart|p2: disconnectduewifi|move: Stealth Rock
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1776975460
+|switch|p1a: Zapdos|Zapdos, L78|268/268
+|move|p2a: Barraskewda|Flip Turn|p1a: Zapdos
+|-damage|p1a: Zapdos|156/268
+|
+|t:|1776975478
+|switch|p2a: Iron Hands|Iron Hands, L79|373/373|[from] Flip Turn
+|-damage|p2a: Iron Hands|350/373|[from] Stealth Rock
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1776975485
+|move|p1a: Zapdos|Hurricane|p2a: Iron Hands
+|-damage|p2a: Iron Hands|235/373
+|move|p2a: Iron Hands|Ice Punch|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|12/268
+|
+|-weather|none
+|upkeep
+|turn|8
+|inactive|disconnectduewifi has 120 seconds left.
+|
+|t:|1776975522
+|-end|p2a: Iron Hands|Quark Drive|[silent]
+|switch|p2a: Carbink|Carbink, L90|236/236
+|-damage|p2a: Carbink|207/236|[from] Stealth Rock
+|move|p1a: Zapdos|Hurricane|p2a: Carbink|[miss]
+|-miss|p1a: Zapdos|p2a: Carbink
+|
+|-heal|p2a: Carbink|221/236|[from] item: Leftovers
+|upkeep
+|turn|9
+|inactive|disconnectduewifi has 120 seconds left.
+|
+|t:|1776975534
+|move|p1a: Zapdos|U-turn|p2a: Carbink
+|-resisted|p2a: Carbink
+|-damage|p2a: Carbink|209/236
+|
+|t:|1776975536
+|switch|p1a: Slowking|Slowking, L88, M|310/310|[from] U-turn
+|move|p2a: Carbink|Rock Polish|p2a: Carbink
+|-boost|p2a: Carbink|spe|2
+|
+|-heal|p2a: Carbink|223/236|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1776975546
+|move|p2a: Carbink|Moonblast|p1a: Slowking
+|-damage|p1a: Slowking|249/310
+|-unboost|p1a: Slowking|spa|1
+|move|p1a: Slowking|Scald|p2a: Carbink
+|-supereffective|p2a: Carbink
+|-damage|p2a: Carbink|143/236
+|
+|-heal|p2a: Carbink|157/236|[from] item: Leftovers
+|upkeep
+|turn|11
+|inactive|disconnectduewifi has 120 seconds left.
+|
+|t:|1776975563
+|switch|p2a: Arboliva|Arboliva, L91, F|290/290
+|-damage|p2a: Arboliva|254/290|[from] Stealth Rock
+|move|p1a: Slowking|Scald|p2a: Arboliva
+|-resisted|p2a: Arboliva
+|-damage|p2a: Arboliva|230/290
+|-fieldstart|move: Grassy Terrain|[from] ability: Seed Sower|[of] p2a: Arboliva
+|
+|-heal|p2a: Arboliva|248/290|[from] Grassy Terrain
+|-heal|p2a: Arboliva|266/290|[from] item: Leftovers
+|-heal|p1a: Slowking|268/310|[from] Grassy Terrain
+|upkeep
+|turn|12
+|inactive|disconnectduewifi has 120 seconds left.
+|
+|t:|1776975579
+|switch|p1a: Chansey|Chansey, L85, F|512/564
+|move|p2a: Arboliva|Energy Ball|p1a: Chansey
+|-damage|p1a: Chansey|415/564
+|
+|-heal|p1a: Chansey|450/564|[from] Grassy Terrain
+|-heal|p2a: Arboliva|284/290|[from] Grassy Terrain
+|-heal|p2a: Arboliva|290/290|[from] item: Leftovers
+|upkeep
+|turn|13
+|inactive|disconnectduewifi has 120 seconds left.
+|
+|t:|1776975590
+|switch|p2a: Iron Hands|Iron Hands, L79|235/373
+|-damage|p2a: Iron Hands|212/373|[from] Stealth Rock
+|move|p1a: Chansey|Seismic Toss|p2a: Iron Hands
+|-damage|p2a: Iron Hands|127/373
+|
+|-heal|p1a: Chansey|485/564|[from] Grassy Terrain
+|-heal|p2a: Iron Hands|150/373|[from] Grassy Terrain
+|upkeep
+|turn|14
+|inactive|disconnectduewifi has 120 seconds left.
+|
+|t:|1776975607
+|switch|p1a: Zapdos|Zapdos, L78|12/268
+|move|p2a: Iron Hands|Wild Charge|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|-damage|p2a: Iron Hands|147/373|[from] Recoil
+|
+|-heal|p2a: Iron Hands|170/373|[from] Grassy Terrain
+|upkeep
+|
+|t:|1776975610
+|switch|p1a: Groudon|Groudon, L72|263/263
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Groudon
+|turn|15
+|inactive|disconnectduewifi has 120 seconds left.
+|
+|t:|1776975628
+|-end|p2a: Iron Hands|Quark Drive|[silent]
+|switch|p2a: Arboliva|Arboliva, L91, F|290/290
+|-damage|p2a: Arboliva|254/290|[from] Stealth Rock
+|-terastallize|p1a: Groudon|Fire
+|move|p1a: Groudon|Heat Crash|p2a: Arboliva
+|-supereffective|p2a: Arboliva
+|-crit|p2a: Arboliva
+|-damage|p2a: Arboliva|0 fnt
+|faint|p2a: Arboliva
+|
+|-weather|SunnyDay|[upkeep]
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1776975646
+|switch|p2a: Carbink|Carbink, L90|157/236
+|-damage|p2a: Carbink|128/236|[from] Stealth Rock
+|turn|16
+|
+|t:|1776975658
+|move|p1a: Groudon|Precipice Blades|p2a: Carbink|[miss]
+|-miss|p1a: Groudon|p2a: Carbink
+|move|p2a: Carbink|Body Press|p1a: Groudon
+|-damage|p1a: Groudon|187/263
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Groudon|203/263|[from] item: Leftovers
+|-heal|p2a: Carbink|142/236|[from] item: Leftovers
+|upkeep
+|turn|17
+|inactive|disconnectduewifi has 90 seconds left.
+|
+|t:|1776975682
+|switch|p2a: Iron Jugulis|Iron Jugulis, L77|271/271
+|-damage|p2a: Iron Jugulis|204/271|[from] Stealth Rock
+|move|p1a: Groudon|Precipice Blades|p2a: Iron Jugulis
+|-immune|p2a: Iron Jugulis
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Groudon|219/263|[from] item: Leftovers
+|upkeep
+|turn|18
+|inactive|disconnectduewifi has 90 seconds left.
+|
+|t:|1776975693
+|move|p2a: Iron Jugulis|Earth Power|p1a: Groudon
+|-supereffective|p1a: Groudon
+|-damage|p1a: Groudon|0 fnt
+|faint|p1a: Groudon
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1776975697
+|switch|p1a: Cryogonal|Cryogonal, L89|287/287
+|turn|19
+|inactive|disconnectduewifi has 90 seconds left.
+|
+|t:|1776975712
+|-end|p2a: Iron Jugulis|Quark Drive|[silent]
+|switch|p2a: Barraskewda|Barraskewda, L81, F|231/231
+|-damage|p2a: Barraskewda|203/231|[from] Stealth Rock
+|move|p1a: Cryogonal|Freeze-Dry|p2a: Barraskewda
+|-supereffective|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|faint|p2a: Barraskewda
+|
+|-weather|none
+|upkeep
+|inactive|disconnectduewifi has 90 seconds left.
+|
+|t:|1776975724
+|switch|p2a: Iron Hands|Iron Hands, L79|170/373
+|-damage|p2a: Iron Hands|147/373|[from] Stealth Rock
+|turn|20
+|
+|t:|1776975729
+|switch|p1a: Slowking|Slowking, L88, M|310/310
+|move|p2a: Iron Hands|Close Combat|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|238/310
+|-unboost|p2a: Iron Hands|def|1
+|-unboost|p2a: Iron Hands|spd|1
+|
+|upkeep
+|turn|21
+|
+|t:|1776975740
+|move|p2a: Iron Hands|Wild Charge|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|14/310
+|-damage|p2a: Iron Hands|91/373|[from] Recoil
+|move|p1a: Slowking|Scald|p2a: Iron Hands
+|-damage|p2a: Iron Hands|0 fnt
+|faint|p2a: Iron Hands
+|-end|p2a: Iron Hands|Quark Drive|[silent]
+|
+|upkeep
+|inactive|disconnectduewifi has 90 seconds left.
+|c|☆disconnectduewifi|Gg
+|
+|t:|1776975760
+|switch|p2a: Iron Jugulis|Iron Jugulis, L77|204/271
+|-damage|p2a: Iron Jugulis|137/271|[from] Stealth Rock
+|turn|22
+|inactive|disconnectduewifi has 90 seconds left.
+|
+|t:|1776975769
+|switch|p1a: Chansey|Chansey, L85, F|485/564
+|move|p2a: Iron Jugulis|Dark Pulse|p1a: Chansey
+|-damage|p1a: Chansey|407/564
+|
+|upkeep
+|turn|23
+|
+|t:|1776975776
+|-end|p2a: Iron Jugulis|Quark Drive|[silent]
+|switch|p2a: Carbink|Carbink, L90|142/236
+|-damage|p2a: Carbink|113/236|[from] Stealth Rock
+|move|p1a: Chansey|Seismic Toss|p2a: Carbink
+|-damage|p2a: Carbink|28/236
+|
+|-heal|p2a: Carbink|42/236|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1776975786
+|switch|p1a: Slowking|Slowking, L88, M|117/310
+|move|p2a: Carbink|Body Press|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|70/310
+|
+|-heal|p2a: Carbink|56/236|[from] item: Leftovers
+|upkeep
+|turn|25
+|inactive|disconnectduewifi has 90 seconds left.
+|
+|t:|1776975811
+|switch|p2a: Moltres|Moltres-Galar, L79|271/271 par
+|-damage|p2a: Moltres|204/271 par|[from] Stealth Rock
+|switch|p1a: Tropius|Tropius, L91, F|328/328
+|
+|upkeep
+|turn|26
+|inactive|disconnectduewifi has 90 seconds left.
+|
+|t:|1776975819
+|move|p1a: Tropius|Substitute|p1a: Tropius
+|-start|p1a: Tropius|Substitute
+|-damage|p1a: Tropius|246/328
+|move|p2a: Moltres|Hurricane|p1a: Tropius
+|-supereffective|p1a: Tropius
+|-end|p1a: Tropius|Substitute
+|
+|upkeep
+|turn|27
+|inactive|disconnectduewifi has 90 seconds left.
+|
+|t:|1776975830
+|move|p1a: Tropius|Leech Seed|p2a: Moltres
+|-start|p2a: Moltres|move: Leech Seed
+|move|p2a: Moltres|Fiery Wrath|p1a: Tropius
+|-damage|p1a: Tropius|162/328
+|-enditem|p1a: Tropius|Sitrus Berry|[eat]
+|-heal|p1a: Tropius|244/328|[from] item: Sitrus Berry
+|
+|-damage|p2a: Moltres|171/271 par|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|277/328|[silent]
+|upkeep
+|turn|28
+|inactive|disconnectduewifi has 90 seconds left.
+|
+|t:|1776975841
+|switch|p1a: Cryogonal|Cryogonal, L89|287/287
+|move|p2a: Moltres|Agility|p2a: Moltres
+|-boost|p2a: Moltres|spe|2
+|
+|-damage|p2a: Moltres|138/271 par|[from] Leech Seed|[of] p1a: Cryogonal
+|upkeep
+|turn|29
+|inactive|disconnectduewifi has 90 seconds left.
+|
+|t:|1776975862
+|-terastallize|p2a: Moltres|Steel
+|move|p1a: Cryogonal|Freeze-Dry|p2a: Moltres
+|-resisted|p2a: Moltres
+|-damage|p2a: Moltres|105/271 par
+|-ability|p2a: Moltres|Berserk|boost
+|-boost|p2a: Moltres|spa|1
+|move|p2a: Moltres|Agility|p2a: Moltres
+|-boost|p2a: Moltres|spe|2
+|
+|-damage|p2a: Moltres|72/271 par|[from] Leech Seed|[of] p1a: Cryogonal
+|upkeep
+|turn|30
+|
+|t:|1776975876
+|move|p2a: Moltres|Fiery Wrath|p1a: Cryogonal
+|-damage|p1a: Cryogonal|205/287
+|cant|p1a: Cryogonal|flinch
+|
+|-damage|p2a: Moltres|39/271 par|[from] Leech Seed|[of] p1a: Cryogonal
+|-heal|p1a: Cryogonal|238/287|[silent]
+|upkeep
+|turn|31
+|
+|t:|1776975884
+|cant|p2a: Moltres|par
+|move|p1a: Cryogonal|Haze|p1a: Cryogonal
+|-clearallboost
+|
+|-damage|p2a: Moltres|6/271 par|[from] Leech Seed|[of] p1a: Cryogonal
+|-heal|p1a: Cryogonal|271/287|[silent]
+|upkeep
+|turn|32
+|inactive|disconnectduewifi has 90 seconds left.
+|
+|t:|1776975893
+|move|p1a: Cryogonal|Rapid Spin|p2a: Moltres
+|-resisted|p2a: Moltres
+|-damage|p2a: Moltres|0 fnt
+|-boost|p1a: Cryogonal|spe|1
+|faint|p2a: Moltres
+|
+|upkeep
+|inactive|disconnectduewifi has 90 seconds left.
+|-message|disconnectduewifi forfeited.
+|
+|win|Laritate
+|raw|Laritate's rating: 1762 &rarr; <strong>1783</strong><br />(+21 for winning)
+|raw|disconnectduewifi's rating: 1780 &rarr; <strong>1759</strong><br />(-21 for losing)

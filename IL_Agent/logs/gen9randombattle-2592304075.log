@@ -1,0 +1,269 @@
+|j|☆eu vou chorar
+|j|☆chickenleg97
+|t:|1776977307
+|gametype|singles
+|player|p1|eu vou chorar|2|1000
+|player|p2|chickenleg97|170|1043
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776977307
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Oricorio|Oricorio-Sensu, L85, M|266/266
+|switch|p2a: Hitmonchan|Hitmonchan, L87, M|229/229
+|turn|1
+|
+|t:|1776977325
+|-terastallize|p2a: Hitmonchan|Steel
+|move|p1a: Oricorio|Quiver Dance|p1a: Oricorio
+|-boost|p1a: Oricorio|spa|1
+|-boost|p1a: Oricorio|spd|1
+|-boost|p1a: Oricorio|spe|1
+|move|p2a: Hitmonchan|Knock Off|p1a: Oricorio
+|-supereffective|p1a: Oricorio
+|-damage|p1a: Oricorio|80/266
+|-enditem|p1a: Oricorio|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Hitmonchan
+|
+|upkeep
+|turn|2
+|
+|t:|1776977336
+|move|p1a: Oricorio|Hurricane|p2a: Hitmonchan
+|-resisted|p2a: Hitmonchan
+|-damage|p2a: Hitmonchan|154/229
+|move|p2a: Hitmonchan|Knock Off|p1a: Oricorio
+|-supereffective|p1a: Oricorio
+|-damage|p1a: Oricorio|0 fnt
+|faint|p1a: Oricorio
+|
+|-heal|p2a: Hitmonchan|168/229|[from] item: Leftovers
+|upkeep
+|
+|t:|1776977358
+|switch|p1a: Swanna|Swanna, L89, F|278/278
+|turn|3
+|
+|t:|1776977381
+|switch|p2a: Chandelure|Chandelure, L83, M|235/235
+|move|p1a: Swanna|Hydro Pump|p2a: Chandelure|[miss]
+|-miss|p1a: Swanna|p2a: Chandelure
+|
+|upkeep
+|turn|4
+|
+|t:|1776977395
+|move|p2a: Chandelure|Energy Ball|p1a: Swanna
+|-damage|p1a: Swanna|168/278
+|move|p1a: Swanna|Hydro Pump|p2a: Chandelure|[miss]
+|-miss|p1a: Swanna|p2a: Chandelure
+|
+|upkeep
+|turn|5
+|
+|t:|1776977404
+|move|p2a: Chandelure|Energy Ball|p1a: Swanna
+|-damage|p1a: Swanna|66/278
+|move|p1a: Swanna|Hydro Pump|p2a: Chandelure
+|-supereffective|p2a: Chandelure
+|-damage|p2a: Chandelure|11/235
+|
+|upkeep
+|turn|6
+|
+|t:|1776977411
+|move|p2a: Chandelure|Energy Ball|p1a: Swanna
+|-damage|p1a: Swanna|0 fnt
+|faint|p1a: Swanna
+|
+|upkeep
+|
+|t:|1776977430
+|switch|p1a: Dragalge|Dragalge, L88, F|258/258
+|turn|7
+|
+|t:|1776977449
+|switch|p2a: Hitmonchan|Hitmonchan, L87, M, tera:Steel|168/229
+|move|p1a: Dragalge|Sludge Wave|p2a: Hitmonchan
+|-immune|p2a: Hitmonchan
+|
+|-heal|p2a: Hitmonchan|182/229|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776977464
+|move|p2a: Hitmonchan|Rapid Spin|p1a: Dragalge
+|-damage|p1a: Dragalge|221/258
+|-boost|p2a: Hitmonchan|spe|1
+|move|p1a: Dragalge|Focus Blast|p2a: Hitmonchan
+|-supereffective|p2a: Hitmonchan
+|-damage|p2a: Hitmonchan|36/229
+|
+|-heal|p2a: Hitmonchan|50/229|[from] item: Leftovers
+|-heal|p1a: Dragalge|237/258|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776977484
+|switch|p2a: Tornadus|Tornadus, L82, M|263/263
+|move|p1a: Dragalge|Focus Blast|p2a: Tornadus
+|-resisted|p2a: Tornadus
+|-damage|p2a: Tornadus|209/263
+|
+|-heal|p1a: Dragalge|253/258|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1776977502
+|move|p2a: Tornadus|Bleakwind Storm|p1a: Dragalge
+|-damage|p1a: Dragalge|121/258
+|move|p1a: Dragalge|Sludge Wave|p2a: Tornadus
+|-damage|p2a: Tornadus|37/263
+|
+|-heal|p1a: Dragalge|137/258|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776977520
+|move|p2a: Tornadus|Bleakwind Storm|p1a: Dragalge
+|-damage|p1a: Dragalge|0 fnt
+|faint|p1a: Dragalge
+|
+|upkeep
+|
+|t:|1776977531
+|switch|p1a: Pikachu|Pikachu-Unova, L93, F|216/216
+|turn|12
+|
+|t:|1776977548
+|switch|p2a: Hitmonchan|Hitmonchan, L87, M, tera:Steel|50/229
+|move|p1a: Pikachu|Volt Switch|p2a: Hitmonchan
+|-damage|p2a: Hitmonchan|0 fnt
+|faint|p2a: Hitmonchan
+|
+|t:|1776977555
+|switch|p1a: Krookodile|Krookodile, L79, M|280/280|[from] Volt Switch
+|
+|upkeep
+|
+|t:|1776977566
+|switch|p2a: Tornadus|Tornadus, L82, M|37/263
+|turn|13
+|
+|t:|1776977578
+|move|p2a: Tornadus|Bleakwind Storm|p1a: Krookodile
+|-damage|p1a: Krookodile|54/280
+|move|p1a: Krookodile|Stealth Rock|p2a: Tornadus
+|-sidestart|p2: chickenleg97|move: Stealth Rock
+|
+|upkeep
+|turn|14
+|
+|t:|1776977588
+|move|p2a: Tornadus|Bleakwind Storm|p1a: Krookodile
+|-damage|p1a: Krookodile|0 fnt
+|faint|p1a: Krookodile
+|
+|upkeep
+|
+|t:|1776977593
+|switch|p1a: Pikachu|Pikachu-Unova, L93, F|216/216
+|turn|15
+|
+|t:|1776977601
+|switch|p2a: Skeledirge|Skeledirge, L79, F|294/294
+|move|p1a: Pikachu|Volt Switch|p2a: Skeledirge
+|-damage|p2a: Skeledirge|150/294
+|
+|t:|1776977607
+|switch|p1a: Cetitan|Cetitan, L82, M|413/413|[from] Volt Switch
+|
+|upkeep
+|turn|16
+|
+|t:|1776977618
+|-terastallize|p1a: Cetitan|Water
+|move|p1a: Cetitan|Liquidation|p2a: Skeledirge
+|-supereffective|p2a: Skeledirge
+|-damage|p2a: Skeledirge|0 fnt
+|faint|p2a: Skeledirge
+|
+|upkeep
+|
+|t:|1776977627
+|switch|p2a: Chandelure|Chandelure, L83, M|11/235
+|-damage|p2a: Chandelure|0 fnt|[from] Stealth Rock
+|faint|p2a: Chandelure
+|
+|t:|1776977632
+|switch|p2a: Tornadus|Tornadus, L82, M|37/263
+|-damage|p2a: Tornadus|0 fnt|[from] Stealth Rock
+|faint|p2a: Tornadus
+|
+|t:|1776977639
+|switch|p2a: Reuniclus|Reuniclus, L88, F|337/337
+|turn|17
+|
+|t:|1776977651
+|move|p1a: Cetitan|Liquidation|p2a: Reuniclus
+|-damage|p2a: Reuniclus|176/337
+|move|p2a: Reuniclus|Psychic|p1a: Cetitan
+|-crit|p1a: Cetitan
+|-damage|p1a: Cetitan|61/413
+|
+|upkeep
+|turn|18
+|
+|t:|1776977658
+|move|p1a: Cetitan|Liquidation|p2a: Reuniclus
+|-damage|p2a: Reuniclus|7/337
+|move|p2a: Reuniclus|Recover|p2a: Reuniclus
+|-heal|p2a: Reuniclus|176/337
+|
+|upkeep
+|turn|19
+|
+|t:|1776977669
+|move|p1a: Cetitan|Ice Shard|p2a: Reuniclus
+|-damage|p2a: Reuniclus|108/337
+|-damage|p1a: Cetitan|20/413|[from] item: Life Orb
+|move|p2a: Reuniclus|Focus Blast|p1a: Cetitan
+|-damage|p1a: Cetitan|0 fnt
+|faint|p1a: Cetitan
+|
+|upkeep
+|
+|t:|1776977677
+|switch|p1a: Pikachu|Pikachu-Unova, L93, F|216/216
+|turn|20
+|
+|t:|1776977690
+|move|p1a: Pikachu|Volt Tackle|p2a: Reuniclus
+|-damage|p2a: Reuniclus|0 fnt
+|faint|p2a: Reuniclus
+|-damage|p1a: Pikachu|180/216|[from] Recoil
+|
+|upkeep
+|
+|t:|1776977697
+|switch|p2a: Meowscarada|Meowscarada, L78, F|247/247
+|-damage|p2a: Meowscarada|217/247|[from] Stealth Rock
+|turn|21
+|
+|t:|1776977717
+|move|p2a: Meowscarada|Flower Trick|p1a: Pikachu
+|-start|p2a: Meowscarada|typechange|Grass|[from] ability: Protean
+|-crit|p1a: Pikachu
+|-damage|p1a: Pikachu|0 fnt
+|faint|p1a: Pikachu
+|-damage|p2a: Meowscarada|193/247|[from] item: Life Orb
+|
+|win|chickenleg97
+|raw|eu vou chorar's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|raw|chickenleg97's rating: 1043 &rarr; <strong>1072</strong><br />(+29 for winning)

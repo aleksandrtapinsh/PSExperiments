@@ -1,0 +1,273 @@
+|j|☆DARK_KARMANINJA
+|j|☆Akram2011
+|t:|1776971996
+|gametype|singles
+|player|p1|DARK_KARMANINJA|gentleman-gen4|
+|player|p2|Akram2011|n|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776971996
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Armarouge|Armarouge, L80, F|267/267
+|switch|p2a: Dodrio|Dodrio, L85, M|241/241
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by DARK_KARMANINJA)
+|
+|t:|1776972009
+|move|p2a: Dodrio|Knock Off|p1a: Armarouge
+|-supereffective|p1a: Armarouge
+|-damage|p1a: Armarouge|53/267
+|-ability|p1a: Armarouge|Weak Armor|boost
+|-unboost|p1a: Armarouge|def|1
+|-boost|p1a: Armarouge|spe|2
+|-enditem|p1a: Armarouge|Power Herb|[from] move: Knock Off|[of] p2a: Dodrio
+|move|p1a: Armarouge|Meteor Beam||[still]
+|-prepare|p1a: Armarouge|Meteor Beam
+|-boost|p1a: Armarouge|spa|1
+|
+|upkeep
+|turn|2
+|j| sdis_elmz
+|
+|t:|1776972021
+|move|p1a: Armarouge|Meteor Beam|p2a: Dodrio|[from] lockedmove
+|-supereffective|p2a: Dodrio
+|-damage|p2a: Dodrio|0 fnt
+|faint|p2a: Dodrio
+|
+|upkeep
+|
+|t:|1776972034
+|switch|p2a: Veluza|Veluza, L85, F|292/292
+|turn|3
+|
+|t:|1776972041
+|move|p2a: Veluza|Aqua Jet|p1a: Armarouge
+|-supereffective|p1a: Armarouge
+|-damage|p1a: Armarouge|0 fnt
+|faint|p1a: Armarouge
+|
+|upkeep
+|inactive|DARK_KARMANINJA has 270 seconds left.
+|l| sdis_elmz
+|inactive|DARK_KARMANINJA has 240 seconds left.
+|
+|t:|1776972103
+|switch|p1a: Pikachu|Pikachu-Sinnoh, L93, F|216/216
+|turn|4
+|j| sdis_elmz
+|
+|t:|1776972114
+|switch|p2a: Breloom|Breloom, L83, F|235/235
+|move|p1a: Pikachu|Fake Out|p2a: Breloom
+|-damage|p2a: Breloom|184/235
+|
+|upkeep
+|turn|5
+|inactive|DARK_KARMANINJA has 240 seconds left.
+|inactive|DARK_KARMANINJA has 210 seconds left.
+|l| sdis_elmz
+|
+|t:|1776972183
+|switch|p1a: Chi-Yu|Chi-Yu, L77|211/211
+|-ability|p1a: Chi-Yu|Beads of Ruin
+|move|p2a: Breloom|Spore|p1a: Chi-Yu
+|-status|p1a: Chi-Yu|slp|[from] move: Spore
+|
+|upkeep
+|turn|6
+|
+|t:|1776972194
+|-terastallize|p1a: Chi-Yu|Fire
+|cant|p1a: Chi-Yu|slp
+|move|p2a: Breloom|Rock Tomb|p1a: Chi-Yu
+|-supereffective|p1a: Chi-Yu
+|-damage|p1a: Chi-Yu|0 fnt
+|faint|p1a: Chi-Yu
+|-damage|p2a: Breloom|161/235|[from] item: Life Orb
+|
+|upkeep
+|j| sdis_elmz
+|inactive|DARK_KARMANINJA has 180 seconds left.
+|
+|t:|1776972218
+|switch|p1a: Darkrai|Darkrai, L77|234/234
+|turn|7
+|
+|t:|1776972243
+|move|p1a: Darkrai|Sludge Bomb|p2a: Breloom
+|-supereffective|p2a: Breloom
+|-damage|p2a: Breloom|0 fnt
+|faint|p2a: Breloom
+|
+|upkeep
+|
+|t:|1776972256
+|switch|p2a: Enamorus|Enamorus, L79, F|247/247
+|turn|8
+|
+|t:|1776972265
+|move|p1a: Darkrai|Substitute|p1a: Darkrai
+|-start|p1a: Darkrai|Substitute
+|-damage|p1a: Darkrai|176/234
+|move|p2a: Enamorus|Moonblast|p1a: Darkrai
+|-supereffective|p1a: Darkrai
+|-end|p1a: Darkrai|Substitute
+|
+|-heal|p1a: Darkrai|190/234|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776972274
+|move|p1a: Darkrai|Sludge Bomb|p2a: Enamorus
+|-supereffective|p2a: Enamorus
+|-damage|p2a: Enamorus|89/247
+|move|p2a: Enamorus|Moonblast|p1a: Darkrai
+|-supereffective|p1a: Darkrai
+|-damage|p1a: Darkrai|0 fnt
+|faint|p1a: Darkrai
+|
+|-heal|p2a: Enamorus|104/247|[from] item: Leftovers
+|upkeep
+|
+|t:|1776972285
+|switch|p1a: Pikachu|Pikachu-Sinnoh, L93, F|216/216
+|turn|10
+|
+|t:|1776972290
+|-terastallize|p2a: Enamorus|Ground
+|move|p1a: Pikachu|Volt Tackle|p2a: Enamorus
+|-immune|p2a: Enamorus
+|move|p2a: Enamorus|Earth Power|p1a: Pikachu
+|-supereffective|p1a: Pikachu
+|-crit|p1a: Pikachu
+|-damage|p1a: Pikachu|0 fnt
+|faint|p1a: Pikachu
+|
+|-heal|p2a: Enamorus|119/247|[from] item: Leftovers
+|upkeep
+|inactive|DARK_KARMANINJA has 210 seconds left.
+|
+|t:|1776972303
+|switch|p1a: Suicune|Suicune, L82|298/298
+|-ability|p1a: Suicune|Pressure
+|turn|11
+|
+|t:|1776972310
+|switch|p2a: Dedenne|Dedenne, L88, F|261/261
+|move|p1a: Suicune|Ice Beam|p2a: Dedenne
+|-damage|p2a: Dedenne|198/261
+|
+|upkeep
+|turn|12
+|
+|t:|1776972318
+|move|p2a: Dedenne|Thunderbolt|p1a: Suicune
+|-supereffective|p1a: Suicune
+|-damage|p1a: Suicune|158/298
+|-status|p1a: Suicune|par
+|cant|p1a: Suicune|par
+|
+|-heal|p1a: Suicune|176/298 par|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776972339
+|move|p2a: Dedenne|Thunderbolt|p1a: Suicune
+|-supereffective|p1a: Suicune
+|-damage|p1a: Suicune|12/298 par
+|move|p1a: Suicune|Ice Beam|p2a: Dedenne
+|-damage|p2a: Dedenne|134/261
+|
+|-heal|p1a: Suicune|30/298 par|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1776972349
+|move|p2a: Dedenne|Thunderbolt|p1a: Suicune
+|-supereffective|p1a: Suicune
+|-damage|p1a: Suicune|0 fnt
+|faint|p1a: Suicune
+|
+|upkeep
+|
+|t:|1776972353
+|switch|p1a: Terapagos|Terapagos, L77, F|265/265
+|-activate|p1a: Terapagos|ability: Tera Shift
+|detailschange|p1a: Terapagos|Terapagos-Terastal, L77, F
+|-heal|p1a: Terapagos|273/273|[silent]
+|turn|15
+|inactive|DARK_KARMANINJA has 240 seconds left.
+|
+|t:|1776972366
+|move|p2a: Dedenne|Nuzzle|p1a: Terapagos
+|-activate|p1a: Terapagos|ability: Tera Shell
+|-resisted|p1a: Terapagos
+|-damage|p1a: Terapagos|264/273
+|-status|p1a: Terapagos|par
+|move|p1a: Terapagos|Calm Mind|p1a: Terapagos
+|-boost|p1a: Terapagos|spa|1
+|-boost|p1a: Terapagos|spd|1
+|
+|upkeep
+|turn|16
+|inactive|DARK_KARMANINJA has 240 seconds left.
+|
+|t:|1776972376
+|move|p2a: Dedenne|Dazzling Gleam|p1a: Terapagos
+|-damage|p1a: Terapagos|213/273 par
+|move|p1a: Terapagos|Earth Power|p2a: Dedenne
+|-supereffective|p2a: Dedenne
+|-damage|p2a: Dedenne|0 fnt
+|faint|p2a: Dedenne
+|
+|upkeep
+|
+|t:|1776972387
+|switch|p2a: Enamorus|Enamorus, L79, F, tera:Ground|119/247
+|turn|17
+|
+|t:|1776972394
+|move|p2a: Enamorus|Moonblast|p1a: Terapagos
+|-damage|p1a: Terapagos|147/273 par
+|-unboost|p1a: Terapagos|spa|1
+|cant|p1a: Terapagos|par
+|
+|-heal|p2a: Enamorus|134/247|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1776972405
+|move|p2a: Enamorus|Earth Power|p1a: Terapagos
+|-damage|p1a: Terapagos|78/273 par
+|cant|p1a: Terapagos|par
+|
+|-heal|p2a: Enamorus|149/247|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1776972413
+|move|p2a: Enamorus|Earth Power|p1a: Terapagos
+|-damage|p1a: Terapagos|6/273 par
+|cant|p1a: Terapagos|par
+|
+|-heal|p2a: Enamorus|164/247|[from] item: Leftovers
+|upkeep
+|turn|20
+|inactive|DARK_KARMANINJA has 270 seconds left.
+|
+|t:|1776972422
+|move|p2a: Enamorus|Earth Power|p1a: Terapagos
+|-damage|p1a: Terapagos|0 fnt
+|faint|p1a: Terapagos
+|
+|win|Akram2011
+|l|☆DARK_KARMANINJA
+|player|p1|

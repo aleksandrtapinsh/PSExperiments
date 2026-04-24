@@ -1,0 +1,184 @@
+|j|☆Loganzhere
+|j|☆gigitysigma
+|t:|1776978792
+|gametype|singles
+|player|p1|Loganzhere|266|
+|player|p2|gigitysigma|veteran|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776978792
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Eternatus|Eternatus, L69|308/308
+|switch|p2a: Appletun|Appletun, L92, M|352/352
+|-ability|p1a: Eternatus|Pressure
+|turn|1
+|
+|t:|1776978807
+|move|p1a: Eternatus|Dynamax Cannon|p2a: Appletun
+|-supereffective|p2a: Appletun
+|-damage|p2a: Appletun|160/352
+|move|p2a: Appletun|Dragon Tail|p1a: Eternatus
+|-supereffective|p1a: Eternatus
+|-crit|p1a: Eternatus
+|-damage|p1a: Eternatus|72/308
+|drag|p1a: Ursaring|Ursaring, L84, M|288/288
+|
+|-heal|p2a: Appletun|182/352|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776978817
+|move|p1a: Ursaring|Body Slam|p2a: Appletun
+|-damage|p2a: Appletun|64/352
+|-status|p2a: Appletun|par
+|move|p2a: Appletun|Apple Acid|p1a: Ursaring
+|-damage|p1a: Ursaring|210/288
+|-unboost|p1a: Ursaring|spd|1
+|
+|-heal|p2a: Appletun|86/352 par|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776978825
+|move|p1a: Ursaring|Body Slam|p2a: Appletun
+|-damage|p2a: Appletun|0 fnt
+|faint|p2a: Appletun
+|
+|upkeep
+|
+|t:|1776978830
+|switch|p2a: Hitmonchan|Hitmonchan, L87, M|229/229
+|turn|4
+|
+|t:|1776978839
+|-terastallize|p1a: Ursaring|Ghost
+|move|p2a: Hitmonchan|Knock Off|p1a: Ursaring
+|-supereffective|p1a: Ursaring
+|-damage|p1a: Ursaring|98/288
+|-enditem|p1a: Ursaring|Eviolite|[from] move: Knock Off|[of] p2a: Hitmonchan
+|move|p1a: Ursaring|Earthquake|p2a: Hitmonchan
+|-damage|p2a: Hitmonchan|132/229
+|
+|-heal|p2a: Hitmonchan|146/229|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776978849
+|move|p2a: Hitmonchan|Knock Off|p1a: Ursaring
+|-supereffective|p1a: Ursaring
+|-damage|p1a: Ursaring|0 fnt
+|faint|p1a: Ursaring
+|
+|-heal|p2a: Hitmonchan|160/229|[from] item: Leftovers
+|upkeep
+|
+|t:|1776978855
+|switch|p1a: Arceus|Arceus-Ghost, L69|280/280
+|turn|6
+|
+|t:|1776978860
+|move|p1a: Arceus|Judgment|p2a: Hitmonchan
+|-damage|p2a: Hitmonchan|72/229
+|move|p2a: Hitmonchan|Knock Off|p1a: Arceus
+|-supereffective|p1a: Arceus
+|-damage|p1a: Arceus|178/280
+|
+|-heal|p2a: Hitmonchan|86/229|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776978870
+|move|p1a: Arceus|Judgment|p2a: Hitmonchan
+|-damage|p2a: Hitmonchan|2/229
+|move|p2a: Hitmonchan|Knock Off|p1a: Arceus
+|-supereffective|p1a: Arceus
+|-damage|p1a: Arceus|82/280
+|
+|-heal|p2a: Hitmonchan|16/229|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776978875
+|move|p1a: Arceus|Judgment|p2a: Hitmonchan
+|-damage|p2a: Hitmonchan|0 fnt
+|faint|p2a: Hitmonchan
+|
+|upkeep
+|
+|t:|1776978881
+|switch|p2a: Sawsbuck|Sawsbuck-Summer, L88, F|284/284
+|turn|9
+|
+|t:|1776978886
+|move|p2a: Sawsbuck|Swords Dance|p2a: Sawsbuck
+|-boost|p2a: Sawsbuck|atk|2
+|move|p1a: Arceus|Focus Blast|p2a: Sawsbuck|[miss]
+|-miss|p1a: Arceus|p2a: Sawsbuck
+|
+|upkeep
+|turn|10
+|
+|t:|1776978892
+|move|p2a: Sawsbuck|High Horsepower|p1a: Arceus
+|-damage|p1a: Arceus|0 fnt
+|faint|p1a: Arceus
+|-damage|p2a: Sawsbuck|256/284|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776978897
+|switch|p1a: Mienshao|Mienshao, L83, M|243/243
+|turn|11
+|
+|t:|1776978904
+|move|p1a: Mienshao|High Jump Kick|p2a: Sawsbuck
+|-supereffective|p2a: Sawsbuck
+|-damage|p2a: Sawsbuck|0 fnt
+|faint|p2a: Sawsbuck
+|
+|upkeep
+|
+|t:|1776978915
+|switch|p2a: Entei|Entei, L78|307/307
+|turn|12
+|
+|t:|1776978921
+|move|p1a: Mienshao|High Jump Kick|p2a: Entei
+|-damage|p2a: Entei|0 fnt
+|faint|p2a: Entei
+|
+|upkeep
+|
+|t:|1776978930
+|switch|p2a: Kyurem|Kyurem-Black, L71|295/295
+|-ability|p2a: Kyurem|Teravolt
+|turn|13
+|
+|t:|1776978939
+|-terastallize|p2a: Kyurem|Ground
+|move|p1a: Mienshao|High Jump Kick|p2a: Kyurem
+|-crit|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|faint|p2a: Kyurem
+|
+|upkeep
+|
+|t:|1776978944
+|switch|p2a: Electivire|Electivire, L84, F|263/263
+|turn|14
+|
+|t:|1776978951
+|move|p1a: Mienshao|High Jump Kick|p2a: Electivire
+|-damage|p2a: Electivire|0 fnt
+|faint|p2a: Electivire
+|
+|win|Loganzhere
+|l|☆gigitysigma
+|player|p2|

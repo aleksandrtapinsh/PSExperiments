@@ -1,0 +1,297 @@
+|j|☆imuseless123
+|j|☆Arxz
+|t:|1776969360
+|gametype|singles
+|player|p1|imuseless123|flannery|1966
+|player|p2|Arxz|hoopster|1910
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776969360
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Lokix|Lokix, L82, M|251/251
+|switch|p2a: Mewtwo|Mewtwo, L72|272/272
+|-ability|p2a: Mewtwo|Pressure
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by imuseless123)
+|
+|t:|1776969373
+|switch|p2a: Diancie|Diancie, L82|216/216
+|move|p1a: Lokix|Leech Life|p2a: Diancie
+|-resisted|p2a: Diancie
+|-damage|p2a: Diancie|143/216
+|-damage|p1a: Lokix|226/251|[from] item: Life Orb
+|
+|-heal|p2a: Diancie|156/216|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776969385
+|switch|p1a: Chimecho|Chimecho, L93, F|290/290
+|move|p2a: Diancie|Diamond Storm|p1a: Chimecho
+|-damage|p1a: Chimecho|194/290
+|-boost|p2a: Diancie|def|2
+|
+|-heal|p1a: Chimecho|212/290|[from] item: Leftovers
+|-heal|p2a: Diancie|169/216|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776969394
+|move|p1a: Chimecho|Psychic Noise|p2a: Diancie
+|-damage|p2a: Diancie|109/216
+|-start|p2a: Diancie|move: Heal Block
+|move|p2a: Diancie|Diamond Storm|p1a: Chimecho
+|-damage|p1a: Chimecho|119/290
+|-boost|p2a: Diancie|def|2
+|
+|-heal|p1a: Chimecho|137/290|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776969409
+|switch|p2a: Regidrago|Regidrago, L77|435/435
+|move|p1a: Chimecho|Recover|p1a: Chimecho
+|-heal|p1a: Chimecho|282/290
+|
+|-heal|p1a: Chimecho|290/290|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776969413
+|move|p1a: Chimecho|Knock Off|p2a: Regidrago
+|-damage|p2a: Regidrago|352/435
+|-enditem|p2a: Regidrago|Life Orb|[from] move: Knock Off|[of] p1a: Chimecho
+|move|p2a: Regidrago|Dragon Claw|p1a: Chimecho
+|-damage|p1a: Chimecho|193/290
+|
+|-heal|p1a: Chimecho|211/290|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776969418
+|move|p1a: Chimecho|Psychic Noise|p2a: Regidrago
+|-damage|p2a: Regidrago|204/435
+|-start|p2a: Regidrago|move: Heal Block
+|move|p2a: Regidrago|Dragon Dance|p2a: Regidrago
+|-boost|p2a: Regidrago|atk|1
+|-boost|p2a: Regidrago|spe|1
+|
+|-heal|p1a: Chimecho|229/290|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776969423
+|move|p2a: Regidrago|Dragon Claw|p1a: Chimecho
+|-damage|p1a: Chimecho|64/290
+|move|p1a: Chimecho|Psychic Noise|p2a: Regidrago
+|-damage|p2a: Regidrago|47/435
+|
+|-heal|p1a: Chimecho|82/290|[from] item: Leftovers
+|-end|p2a: Regidrago|move: Heal Block
+|upkeep
+|turn|8
+|
+|t:|1776969428
+|move|p2a: Regidrago|Dragon Claw|p1a: Chimecho
+|-damage|p1a: Chimecho|0 fnt
+|faint|p1a: Chimecho
+|
+|upkeep
+|
+|t:|1776969433
+|switch|p1a: Hatterene|Hatterene, L85, F|236/236
+|turn|9
+|
+|t:|1776969441
+|move|p2a: Regidrago|Earthquake|p1a: Hatterene
+|-damage|p1a: Hatterene|148/236
+|move|p1a: Hatterene|Draining Kiss|p2a: Regidrago
+|-supereffective|p2a: Regidrago
+|-damage|p2a: Regidrago|0 fnt
+|-heal|p1a: Hatterene|183/236|[from] drain|[of] p2a: Regidrago
+|faint|p2a: Regidrago
+|
+|-heal|p1a: Hatterene|197/236|[from] item: Leftovers
+|upkeep
+|
+|t:|1776969449
+|switch|p2a: Landorus|Landorus, L75, M|257/257
+|turn|10
+|
+|t:|1776969453
+|move|p2a: Landorus|Sludge Wave|p1a: Hatterene
+|-supereffective|p1a: Hatterene
+|-damage|p1a: Hatterene|2/236
+|move|p1a: Hatterene|Calm Mind|p1a: Hatterene
+|-boost|p1a: Hatterene|spa|1
+|-boost|p1a: Hatterene|spd|1
+|
+|-heal|p1a: Hatterene|16/236|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776969457
+|move|p2a: Landorus|Earth Power|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|upkeep
+|
+|t:|1776969467
+|switch|p1a: Venomoth|Venomoth, L84, F|255/255
+|turn|12
+|
+|t:|1776969479
+|move|p1a: Venomoth|Sleep Powder|p2a: Landorus
+|-status|p2a: Landorus|slp|[from] move: Sleep Powder
+|cant|p2a: Landorus|slp
+|
+|upkeep
+|turn|13
+|
+|t:|1776969482
+|switch|p2a: Dugtrio|Dugtrio-Alola, L84, F|196/196
+|move|p1a: Venomoth|Quiver Dance|p1a: Venomoth
+|-boost|p1a: Venomoth|spa|1
+|-boost|p1a: Venomoth|spd|1
+|-boost|p1a: Venomoth|spe|1
+|
+|upkeep
+|turn|14
+|
+|t:|1776969490
+|move|p1a: Venomoth|Bug Buzz|p2a: Dugtrio
+|-resisted|p2a: Dugtrio
+|-damage|p2a: Dugtrio|30/196
+|move|p2a: Dugtrio|Earthquake|p1a: Venomoth
+|-damage|p1a: Venomoth|68/255
+|-damage|p2a: Dugtrio|11/196|[from] item: Life Orb
+|
+|upkeep
+|turn|15
+|
+|t:|1776969496
+|move|p1a: Venomoth|Bug Buzz|p2a: Dugtrio
+|-resisted|p2a: Dugtrio
+|-damage|p2a: Dugtrio|0 fnt
+|faint|p2a: Dugtrio
+|
+|upkeep
+|
+|t:|1776969499
+|switch|p2a: Diancie|Diancie, L82|109/216
+|turn|16
+|
+|t:|1776969509
+|move|p1a: Venomoth|Bug Buzz|p2a: Diancie
+|-resisted|p2a: Diancie
+|-damage|p2a: Diancie|21/216
+|move|p2a: Diancie|Diamond Storm|p1a: Venomoth
+|-supereffective|p1a: Venomoth
+|-damage|p1a: Venomoth|0 fnt
+|faint|p1a: Venomoth
+|
+|-heal|p2a: Diancie|34/216|[from] item: Leftovers
+|upkeep
+|
+|t:|1776969532
+|switch|p1a: Lokix|Lokix, L82, M|226/251
+|turn|17
+|
+|t:|1776969538
+|move|p1a: Lokix|Knock Off|p2a: Diancie
+|-resisted|p2a: Diancie
+|-damage|p2a: Diancie|0 fnt
+|-enditem|p2a: Diancie|Leftovers|[from] move: Knock Off|[of] p1a: Lokix
+|faint|p2a: Diancie
+|-damage|p1a: Lokix|201/251|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776969555
+|switch|p2a: Mewtwo|Mewtwo, L72|272/272
+|-ability|p2a: Mewtwo|Pressure
+|turn|18
+|
+|t:|1776969559
+|move|p1a: Lokix|Sucker Punch|p2a: Mewtwo
+|-supereffective|p2a: Mewtwo
+|-damage|p2a: Mewtwo|43/272
+|-damage|p1a: Lokix|176/251|[from] item: Life Orb
+|move|p2a: Mewtwo|Fire Blast|p1a: Lokix
+|-supereffective|p1a: Lokix
+|-damage|p1a: Lokix|0 fnt
+|faint|p1a: Lokix
+|-damage|p2a: Mewtwo|16/272|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776969566
+|switch|p1a: Hydrapple|Hydrapple, L83, M|312/312
+|turn|19
+|
+|t:|1776969581
+|switch|p1a: Copperajah|Copperajah, L86, F|350/350
+|move|p2a: Mewtwo|Psystrike|p1a: Copperajah
+|-resisted|p1a: Copperajah
+|-damage|p1a: Copperajah|258/350
+|-damage|p2a: Mewtwo|0 fnt|[from] item: Life Orb
+|faint|p2a: Mewtwo
+|
+|upkeep
+|
+|t:|1776969590
+|switch|p2a: Landorus|Landorus, L75, M|257/257 slp
+|turn|20
+|
+|t:|1776969593
+|-curestatus|p2a: Landorus|slp|[msg]
+|move|p2a: Landorus|Earth Power|p1a: Copperajah
+|-supereffective|p1a: Copperajah
+|-damage|p1a: Copperajah|0 fnt
+|faint|p1a: Copperajah
+|
+|upkeep
+|
+|t:|1776969595
+|switch|p1a: Hydrapple|Hydrapple, L83, M|312/312
+|turn|21
+|
+|t:|1776969601
+|-terastallize|p1a: Hydrapple|Dragon
+|move|p2a: Landorus|Sludge Wave|p1a: Hydrapple
+|-damage|p1a: Hydrapple|198/312
+|move|p1a: Hydrapple|Fickle Beam|p2a: Landorus
+|-damage|p2a: Landorus|17/257
+|
+|upkeep
+|turn|22
+|
+|t:|1776969607
+|move|p2a: Landorus|Earth Power|p1a: Hydrapple
+|-damage|p1a: Hydrapple|33/312
+|move|p1a: Hydrapple|Fickle Beam|p2a: Landorus
+|-crit|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|upkeep
+|
+|t:|1776969612
+|switch|p2a: Poliwrath|Poliwrath, L88, M|302/302
+|turn|23
+|-message|imuseless123 forfeited.
+|
+|win|Arxz
+|raw|imuseless123's rating: 1966 &rarr; <strong>1943</strong><br />(-23 for losing)
+|raw|Arxz's rating: 1910 &rarr; <strong>1933</strong><br />(+23 for winning)
+|l|☆imuseless123
+|player|p1|

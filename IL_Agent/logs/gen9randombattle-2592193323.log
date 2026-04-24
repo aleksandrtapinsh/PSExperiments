@@ -1,0 +1,309 @@
+|j|☆Rndomni
+|j|☆Aquo37
+|t:|1776969474
+|gametype|singles
+|player|p1|Rndomni|lucas|
+|player|p2|Aquo37|unknown|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776969474
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Umbreon|Umbreon, L84, M|297/297
+|switch|p2a: Dondozo|Dondozo, L78, F|362/362
+|turn|1
+|
+|t:|1776969492
+|move|p1a: Umbreon|Toxic|p2a: Dondozo
+|-status|p2a: Dondozo|tox
+|move|p2a: Dondozo|Wave Crash|p1a: Umbreon
+|-damage|p1a: Umbreon|200/297
+|-damage|p2a: Dondozo|330/362 tox|[from] Recoil
+|
+|-heal|p1a: Umbreon|218/297|[from] item: Leftovers
+|-heal|p2a: Dondozo|352/362 tox|[from] item: Leftovers
+|-damage|p2a: Dondozo|330/362 tox|[from] psn
+|upkeep
+|turn|2
+|
+|t:|1776969503
+|move|p1a: Umbreon|Wish|p1a: Umbreon
+|move|p2a: Dondozo|Wave Crash|p1a: Umbreon
+|-damage|p1a: Umbreon|125/297
+|-damage|p2a: Dondozo|299/362 tox|[from] Recoil
+|
+|-heal|p1a: Umbreon|143/297|[from] item: Leftovers
+|-heal|p2a: Dondozo|321/362 tox|[from] item: Leftovers
+|-damage|p2a: Dondozo|277/362 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1776969519
+|move|p1a: Umbreon|Foul Play|p2a: Dondozo
+|-damage|p2a: Dondozo|198/362 tox
+|move|p2a: Dondozo|Curse|p2a: Dondozo
+|-unboost|p2a: Dondozo|spe|1
+|-boost|p2a: Dondozo|atk|1
+|-boost|p2a: Dondozo|def|1
+|
+|-heal|p1a: Umbreon|291/297|[from] move: Wish|[wisher] Umbreon
+|-heal|p1a: Umbreon|297/297|[from] item: Leftovers
+|-heal|p2a: Dondozo|220/362 tox|[from] item: Leftovers
+|-damage|p2a: Dondozo|154/362 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1776969534
+|move|p1a: Umbreon|Protect|p1a: Umbreon
+|-singleturn|p1a: Umbreon|Protect
+|move|p2a: Dondozo|Rest|p2a: Dondozo
+|-status|p2a: Dondozo|slp|[from] move: Rest
+|-heal|p2a: Dondozo|362/362 slp|[silent]
+|
+|upkeep
+|turn|5
+|
+|t:|1776969543
+|move|p1a: Umbreon|Foul Play|p2a: Dondozo
+|-damage|p2a: Dondozo|304/362 slp
+|cant|p2a: Dondozo|slp
+|move|p2a: Dondozo|Sleep Talk|p2a: Dondozo
+|move|p2a: Dondozo|Rest||[from] move: Sleep Talk|[still]
+|-fail|p2a: Dondozo
+|
+|-heal|p2a: Dondozo|326/362 slp|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776969559
+|move|p1a: Umbreon|Foul Play|p2a: Dondozo
+|-damage|p2a: Dondozo|272/362 slp
+|cant|p2a: Dondozo|slp
+|move|p2a: Dondozo|Sleep Talk|p2a: Dondozo
+|move|p2a: Dondozo|Wave Crash|p1a: Umbreon|[from] move: Sleep Talk
+|-crit|p1a: Umbreon
+|-damage|p1a: Umbreon|78/297
+|-damage|p2a: Dondozo|200/362 slp|[from] Recoil
+|
+|-heal|p1a: Umbreon|96/297|[from] item: Leftovers
+|-heal|p2a: Dondozo|222/362 slp|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776969574
+|move|p1a: Umbreon|Wish|p1a: Umbreon
+|-curestatus|p2a: Dondozo|slp|[msg]
+|move|p2a: Dondozo|Wave Crash|p1a: Umbreon
+|-damage|p1a: Umbreon|0 fnt
+|faint|p1a: Umbreon
+|-damage|p2a: Dondozo|190/362|[from] Recoil
+|
+|-heal|p2a: Dondozo|212/362|[from] item: Leftovers
+|upkeep
+|
+|t:|1776969590
+|switch|p1a: Hydrapple|Hydrapple, L83, M|312/312
+|turn|8
+|
+|t:|1776969599
+|move|p1a: Hydrapple|Fickle Beam|p2a: Dondozo
+|-damage|p2a: Dondozo|10/362
+|move|p2a: Dondozo|Rest|p2a: Dondozo
+|-status|p2a: Dondozo|slp|[from] move: Rest
+|-heal|p2a: Dondozo|362/362 slp|[silent]
+|
+|upkeep
+|turn|9
+|
+|t:|1776969616
+|switch|p2a: Arceus|Arceus-Fairy, L69|280/280
+|move|p1a: Hydrapple|Fickle Beam|p2a: Arceus
+|-immune|p2a: Arceus
+|
+|upkeep
+|turn|10
+|
+|t:|1776969628
+|switch|p1a: Polteageist|Polteageist, L78|222/222
+|move|p2a: Arceus|Judgment|p1a: Polteageist
+|-damage|p1a: Polteageist|131/222
+|
+|upkeep
+|turn|11
+|
+|t:|1776969642
+|move|p2a: Arceus|Calm Mind|p2a: Arceus
+|-boost|p2a: Arceus|spa|1
+|-boost|p2a: Arceus|spd|1
+|move|p1a: Polteageist|Shadow Ball|p2a: Arceus
+|-damage|p2a: Arceus|220/280
+|
+|upkeep
+|turn|12
+|
+|t:|1776969647
+|move|p2a: Arceus|Calm Mind|p2a: Arceus
+|-boost|p2a: Arceus|spa|1
+|-boost|p2a: Arceus|spd|1
+|move|p1a: Polteageist|Shadow Ball|p2a: Arceus
+|-damage|p2a: Arceus|175/280
+|-unboost|p2a: Arceus|spd|1
+|
+|upkeep
+|turn|13
+|
+|t:|1776969654
+|move|p2a: Arceus|Calm Mind|p2a: Arceus
+|-boost|p2a: Arceus|spa|1
+|-boost|p2a: Arceus|spd|1
+|move|p1a: Polteageist|Shadow Ball|p2a: Arceus
+|-damage|p2a: Arceus|133/280
+|-unboost|p2a: Arceus|spd|1
+|
+|upkeep
+|turn|14
+|
+|t:|1776969661
+|move|p2a: Arceus|Recover|p2a: Arceus
+|-heal|p2a: Arceus|273/280
+|move|p1a: Polteageist|Shadow Ball|p2a: Arceus
+|-damage|p2a: Arceus|210/280
+|
+|upkeep
+|turn|15
+|
+|t:|1776969666
+|move|p2a: Arceus|Calm Mind|p2a: Arceus
+|-boost|p2a: Arceus|spa|1
+|-boost|p2a: Arceus|spd|1
+|move|p1a: Polteageist|Shadow Ball|p2a: Arceus
+|-damage|p2a: Arceus|164/280
+|
+|upkeep
+|turn|16
+|
+|t:|1776969672
+|move|p2a: Arceus|Calm Mind|p2a: Arceus
+|-boost|p2a: Arceus|spa|1
+|-boost|p2a: Arceus|spd|1
+|move|p1a: Polteageist|Shadow Ball|p2a: Arceus
+|-damage|p2a: Arceus|122/280
+|
+|upkeep
+|turn|17
+|
+|t:|1776969678
+|move|p2a: Arceus|Recover|p2a: Arceus
+|-heal|p2a: Arceus|262/280
+|move|p1a: Polteageist|Stored Power|p2a: Arceus
+|-damage|p2a: Arceus|255/280
+|
+|upkeep
+|turn|18
+|
+|t:|1776969687
+|move|p2a: Arceus|Calm Mind|p2a: Arceus
+|-boost|p2a: Arceus|spa|1
+|-boost|p2a: Arceus|spd|1
+|move|p1a: Polteageist|Shell Smash|p1a: Polteageist
+|-unboost|p1a: Polteageist|def|1
+|-unboost|p1a: Polteageist|spd|1
+|-boost|p1a: Polteageist|atk|2
+|-boost|p1a: Polteageist|spa|2
+|-boost|p1a: Polteageist|spe|2
+|-enditem|p1a: Polteageist|White Herb
+|-clearnegativeboost|p1a: Polteageist|[silent]
+|
+|upkeep
+|turn|19
+|
+|t:|1776969696
+|move|p1a: Polteageist|Stored Power|p2a: Arceus
+|-damage|p2a: Arceus|182/280
+|move|p2a: Arceus|Calm Mind|p2a: Arceus
+|-boost|p2a: Arceus|spa|0
+|-boost|p2a: Arceus|spd|1
+|
+|upkeep
+|turn|20
+|
+|t:|1776969707
+|move|p1a: Polteageist|Stored Power|p2a: Arceus
+|-damage|p2a: Arceus|122/280
+|move|p2a: Arceus|Calm Mind|p2a: Arceus
+|-boost|p2a: Arceus|spa|0
+|-boost|p2a: Arceus|spd|1
+|
+|upkeep
+|turn|21
+|
+|t:|1776969713
+|move|p1a: Polteageist|Shadow Ball|p2a: Arceus
+|-damage|p2a: Arceus|77/280
+|move|p2a: Arceus|Recover|p2a: Arceus
+|-heal|p2a: Arceus|217/280
+|
+|upkeep
+|turn|22
+|
+|t:|1776969719
+|move|p1a: Polteageist|Shadow Ball|p2a: Arceus
+|-damage|p2a: Arceus|171/280
+|move|p2a: Arceus|Recover|p2a: Arceus
+|-heal|p2a: Arceus|280/280
+|
+|upkeep
+|turn|23
+|
+|t:|1776969732
+|switch|p1a: Basculin|Basculin, L86, M|261/261
+|move|p2a: Arceus|Earth Power|p1a: Basculin
+|-damage|p1a: Basculin|0 fnt
+|faint|p1a: Basculin
+|
+|upkeep
+|
+|t:|1776969742
+|switch|p1a: Hydrapple|Hydrapple, L83, M|312/312
+|turn|24
+|
+|t:|1776969755
+|-terastallize|p1a: Hydrapple|Steel
+|move|p2a: Arceus|Judgment|p1a: Hydrapple
+|-resisted|p1a: Hydrapple
+|-damage|p1a: Hydrapple|82/312
+|move|p1a: Hydrapple|Earth Power|p2a: Arceus
+|-damage|p2a: Arceus|254/280
+|
+|upkeep
+|turn|25
+|
+|t:|1776969765
+|move|p2a: Arceus|Earth Power|p1a: Hydrapple
+|-supereffective|p1a: Hydrapple
+|-damage|p1a: Hydrapple|0 fnt
+|faint|p1a: Hydrapple
+|
+|upkeep
+|
+|t:|1776969770
+|switch|p1a: Rabsca|Rabsca, L91, F|284/284
+|turn|26
+|
+|t:|1776969774
+|move|p2a: Arceus|Judgment|p1a: Rabsca
+|-damage|p1a: Rabsca|0 fnt
+|faint|p1a: Rabsca
+|
+|upkeep
+|-message|Rndomni forfeited.
+|
+|win|Aquo37
+|l|☆Rndomni
+|player|p1|

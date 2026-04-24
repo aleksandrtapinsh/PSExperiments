@@ -1,0 +1,272 @@
+|j|☆velvestrade
+|j|☆muralito123
+|t:|1776977283
+|gametype|singles
+|player|p1|velvestrade|gwynn|1983
+|player|p2|muralito123|102|1923
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776977283
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Whimsicott|Whimsicott, L84, M|238/238
+|switch|p2a: Darkrai|Darkrai, L77|234/234
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by velvestrade)
+|
+|t:|1776977294
+|move|p1a: Whimsicott|U-turn|p2a: Darkrai
+|-supereffective|p2a: Darkrai
+|-damage|p2a: Darkrai|154/234
+|
+|t:|1776977301
+|switch|p1a: Tyranitar|Tyranitar, L78, M|284/284|[from] U-turn
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Darkrai|Sludge Bomb|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-damage|p1a: Tyranitar|254/284
+|-damage|p2a: Darkrai|131/234|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Darkrai|117/234|[from] Sandstorm
+|upkeep
+|turn|2
+|inactive|muralito123 has 120 seconds left.
+|
+|t:|1776977337
+|switch|p2a: Enamorus|Enamorus, L79, F|247/247
+|-terastallize|p1a: Tyranitar|Rock
+|move|p1a: Tyranitar|Dragon Dance|p1a: Tyranitar
+|-boost|p1a: Tyranitar|atk|1
+|-boost|p1a: Tyranitar|spe|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Enamorus|232/247|[from] Sandstorm
+|upkeep
+|turn|3
+|inactive|muralito123 has 120 seconds left.
+|
+|t:|1776977349
+|-terastallize|p2a: Enamorus|Fighting
+|move|p2a: Enamorus|Superpower|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|18/284
+|-boost|p2a: Enamorus|atk|1
+|-boost|p2a: Enamorus|def|1
+|-enditem|p1a: Tyranitar|Weakness Policy
+|-boost|p1a: Tyranitar|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Tyranitar|spa|2|[from] item: Weakness Policy
+|move|p1a: Tyranitar|Dragon Dance|p1a: Tyranitar
+|-boost|p1a: Tyranitar|atk|1
+|-boost|p1a: Tyranitar|spe|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Enamorus|217/247|[from] Sandstorm
+|upkeep
+|turn|4
+|inactive|muralito123 has 120 seconds left.
+|
+|t:|1776977381
+|move|p1a: Tyranitar|Earthquake|p2a: Enamorus
+|-damage|p2a: Enamorus|34/247
+|move|p2a: Enamorus|Superpower|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|-boost|p2a: Enamorus|atk|1
+|-boost|p2a: Enamorus|def|1
+|faint|p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Enamorus|19/247|[from] Sandstorm
+|upkeep
+|
+|t:|1776977392
+|switch|p1a: Whimsicott|Whimsicott, L84, M|238/238
+|turn|5
+|
+|t:|1776977405
+|switch|p2a: Empoleon|Empoleon, L84, F|278/278
+|move|p1a: Whimsicott|Moonblast|p2a: Empoleon
+|-resisted|p2a: Empoleon
+|-damage|p2a: Empoleon|240/278
+|-unboost|p2a: Empoleon|spa|1
+|-ability|p2a: Empoleon|Competitive|boost
+|-boost|p2a: Empoleon|spa|2
+|
+|-weather|none
+|-heal|p2a: Empoleon|257/278|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776977421
+|move|p1a: Whimsicott|U-turn|p2a: Empoleon
+|-resisted|p2a: Empoleon
+|-damage|p2a: Empoleon|236/278
+|
+|t:|1776977424
+|switch|p1a: Tauros|Tauros-Paldea-Aqua, L81, M|254/254|[from] U-turn
+|-ability|p1a: Tauros|Intimidate|boost
+|-unboost|p2a: Empoleon|atk|1
+|-ability|p2a: Empoleon|Competitive|boost
+|-boost|p2a: Empoleon|spa|2
+|move|p2a: Empoleon|Yawn|p1a: Tauros
+|-start|p1a: Tauros|move: Yawn|[of] p2a: Empoleon
+|
+|-heal|p2a: Empoleon|253/278|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776977446
+|move|p1a: Tauros|Close Combat|p2a: Empoleon
+|-supereffective|p2a: Empoleon
+|-damage|p2a: Empoleon|0 fnt
+|-unboost|p1a: Tauros|def|1
+|-unboost|p1a: Tauros|spd|1
+|faint|p2a: Empoleon
+|
+|-end|p1a: Tauros|move: Yawn|[silent]
+|-status|p1a: Tauros|slp
+|upkeep
+|inactive|muralito123 has 90 seconds left.
+|
+|t:|1776977460
+|switch|p2a: Staraptor|Staraptor, L79, M|263/263
+|turn|8
+|
+|t:|1776977472
+|switch|p1a: Scyther|Scyther, L82, M|249/249
+|move|p2a: Staraptor|Brave Bird|p1a: Scyther
+|-supereffective|p1a: Scyther
+|-damage|p1a: Scyther|0 fnt
+|faint|p1a: Scyther
+|-damage|p2a: Staraptor|181/263|[from] Recoil
+|
+|upkeep
+|
+|t:|1776977487
+|switch|p1a: Galvantula|Galvantula, L82, F|249/249
+|turn|9
+|
+|t:|1776977497
+|move|p1a: Galvantula|Thunder|p2a: Staraptor
+|-supereffective|p2a: Staraptor
+|-damage|p2a: Staraptor|0 fnt
+|faint|p2a: Staraptor
+|
+|upkeep
+|
+|t:|1776977508
+|switch|p2a: Iron Boulder|Iron Boulder, L77|265/265
+|turn|10
+|
+|t:|1776977512
+|switch|p1a: Tauros|Tauros-Paldea-Aqua, L81, M|254/254 slp
+|-ability|p1a: Tauros|Intimidate|boost
+|-unboost|p2a: Iron Boulder|atk|1
+|move|p2a: Iron Boulder|Mighty Cleave|p1a: Tauros
+|-resisted|p1a: Tauros
+|-damage|p1a: Tauros|212/254 slp
+|-damage|p2a: Iron Boulder|239/265|[from] item: Life Orb
+|
+|upkeep
+|turn|11
+|
+|t:|1776977516
+|move|p2a: Iron Boulder|Swords Dance|p2a: Iron Boulder
+|-boost|p2a: Iron Boulder|atk|2
+|cant|p1a: Tauros|slp
+|
+|upkeep
+|turn|12
+|
+|t:|1776977521
+|-curestatus|p1a: Tauros|slp|[msg]
+|move|p1a: Tauros|Aqua Jet|p2a: Iron Boulder
+|-supereffective|p2a: Iron Boulder
+|-damage|p2a: Iron Boulder|93/265
+|move|p2a: Iron Boulder|Zen Headbutt|p1a: Tauros
+|-supereffective|p1a: Tauros
+|-damage|p1a: Tauros|0 fnt
+|faint|p1a: Tauros
+|-damage|p2a: Iron Boulder|67/265|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776977531
+|switch|p1a: Whimsicott|Whimsicott, L84, M|238/238
+|turn|13
+|
+|t:|1776977544
+|move|p1a: Whimsicott|Giga Drain|p2a: Iron Boulder
+|-supereffective|p2a: Iron Boulder
+|-crit|p2a: Iron Boulder
+|-damage|p2a: Iron Boulder|0 fnt
+|faint|p2a: Iron Boulder
+|-end|p2a: Iron Boulder|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1776977554
+|switch|p2a: Hoopa|Hoopa-Unbound, L80|259/259
+|turn|14
+|
+|t:|1776977561
+|move|p1a: Whimsicott|U-turn|p2a: Hoopa
+|-supereffective|p2a: Hoopa
+|-damage|p2a: Hoopa|43/259
+|
+|t:|1776977568
+|switch|p1a: Azelf|Azelf, L82|257/257|[from] U-turn
+|move|p2a: Hoopa|Gunk Shot|p1a: Azelf
+|-damage|p1a: Azelf|53/257
+|
+|upkeep
+|turn|15
+|
+|t:|1776977579
+|move|p1a: Azelf|U-turn|p2a: Hoopa
+|-supereffective|p2a: Hoopa
+|-damage|p2a: Hoopa|0 fnt
+|faint|p2a: Hoopa
+|
+|t:|1776977585
+|switch|p1a: Whimsicott|Whimsicott, L84, M|238/238|[from] U-turn
+|
+|upkeep
+|
+|t:|1776977588
+|switch|p2a: Darkrai|Darkrai, L77|117/234
+|turn|16
+|
+|t:|1776977594
+|move|p1a: Whimsicott|Moonblast|p2a: Darkrai
+|-supereffective|p2a: Darkrai
+|-damage|p2a: Darkrai|0 fnt
+|faint|p2a: Darkrai
+|
+|upkeep
+|
+|t:|1776977595
+|switch|p2a: Enamorus|Enamorus, L79, F, tera:Fighting|19/247
+|turn|17
+|c|☆velvestrade|gg
+|
+|t:|1776977602
+|move|p1a: Whimsicott|Moonblast|p2a: Enamorus
+|-supereffective|p2a: Enamorus
+|-crit|p2a: Enamorus
+|-damage|p2a: Enamorus|0 fnt
+|faint|p2a: Enamorus
+|
+|win|velvestrade
+|raw|velvestrade's rating: 1983 &rarr; <strong>2000</strong><br />(+17 for winning)
+|raw|muralito123's rating: 1923 &rarr; <strong>1906</strong><br />(-17 for losing)
+|l|☆muralito123
+|player|p2|

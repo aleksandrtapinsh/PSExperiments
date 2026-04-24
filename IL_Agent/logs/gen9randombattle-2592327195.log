@@ -1,0 +1,154 @@
+|j|☆gabbex
+|j|☆jdjeissbv
+|t:|1776979157
+|gametype|singles
+|player|p1|gabbex|pokemonbreeder-gen4|1014
+|player|p2|jdjeissbv|2|1000
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776979157
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Chesnaught|Chesnaught, L84, M|285/285
+|switch|p2a: Kingambit|Kingambit, L74, M|270/270
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by gabbex)
+|
+|t:|1776979167
+|-end|p2a: Kingambit|fallenundefined|[silent]
+|switch|p2a: Rotom|Rotom-Wash, L82|216/216
+|move|p1a: Chesnaught|Knock Off|p2a: Rotom
+|-damage|p2a: Rotom|154/216
+|-enditem|p2a: Rotom|Leftovers|[from] move: Knock Off|[of] p1a: Chesnaught
+|
+|upkeep
+|turn|2
+|
+|t:|1776979176
+|move|p2a: Rotom|Volt Switch|p1a: Chesnaught
+|-resisted|p1a: Chesnaught
+|-damage|p1a: Chesnaught|243/285
+|
+|t:|1776979179
+|switch|p2a: Iron Leaves|Iron Leaves, L80|275/275|[from] Volt Switch
+|move|p1a: Chesnaught|Wood Hammer|p2a: Iron Leaves
+|-resisted|p2a: Iron Leaves
+|-damage|p2a: Iron Leaves|197/275
+|-damage|p1a: Chesnaught|217/285|[from] Recoil
+|
+|upkeep
+|turn|3
+|
+|t:|1776979188
+|move|p2a: Iron Leaves|Swords Dance|p2a: Iron Leaves
+|-boost|p2a: Iron Leaves|atk|2
+|move|p1a: Chesnaught|Knock Off|p2a: Iron Leaves
+|-supereffective|p2a: Iron Leaves
+|-damage|p2a: Iron Leaves|35/275
+|-enditem|p2a: Iron Leaves|Life Orb|[from] move: Knock Off|[of] p1a: Chesnaught
+|
+|upkeep
+|turn|4
+|
+|t:|1776979196
+|move|p2a: Iron Leaves|Psyblade|p1a: Chesnaught
+|-supereffective|p1a: Chesnaught
+|-damage|p1a: Chesnaught|0 fnt
+|-damage|p2a: Iron Leaves|0 fnt|[from] item: Rocky Helmet|[of] p1a: Chesnaught
+|faint|p1a: Chesnaught
+|faint|p2a: Iron Leaves
+|-end|p2a: Iron Leaves|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1776979206
+|switch|p2a: Rotom|Rotom-Wash, L82|154/216
+|switch|p1a: Scyther|Scyther, L82, M|249/249
+|turn|5
+|
+|t:|1776979221
+|move|p1a: Scyther|U-turn|p2a: Rotom
+|-damage|p2a: Rotom|88/216
+|
+|t:|1776979224
+|switch|p1a: Slaking|Slaking, L84, M|389/389|[from] U-turn
+|move|p2a: Rotom|Thunderbolt|p1a: Slaking
+|-damage|p1a: Slaking|275/389
+|
+|upkeep
+|turn|6
+|
+|t:|1776979242
+|switch|p2a: Kingambit|Kingambit, L74, M|270/270
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen1|[silent]
+|move|p1a: Slaking|Double-Edge|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|135/270
+|-damage|p1a: Slaking|230/389|[from] Recoil
+|
+|-heal|p2a: Kingambit|151/270|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776979255
+|cant|p1a: Slaking|ability: Truant
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Slaking
+|-damage|p1a: Slaking|146/389
+|
+|-heal|p2a: Kingambit|167/270|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776979263
+|move|p1a: Slaking|Double-Edge|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|42/270
+|-damage|p1a: Slaking|105/389|[from] Recoil
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Slaking
+|-damage|p1a: Slaking|5/389
+|
+|-heal|p2a: Kingambit|58/270|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776979273
+|cant|p1a: Slaking|ability: Truant
+|move|p2a: Kingambit|Iron Head|p1a: Slaking
+|-crit|p1a: Slaking
+|-damage|p1a: Slaking|0 fnt
+|faint|p1a: Slaking
+|
+|-heal|p2a: Kingambit|74/270|[from] item: Leftovers
+|upkeep
+|
+|t:|1776979282
+|switch|p1a: Flareon|Flareon, L90, M|263/263
+|turn|10
+|
+|t:|1776979292
+|move|p2a: Kingambit|Sucker Punch|p1a: Flareon
+|-damage|p1a: Flareon|160/263
+|move|p1a: Flareon|Trailblaze|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|49/270
+|-boost|p1a: Flareon|spe|1
+|
+|-heal|p2a: Kingambit|65/270|[from] item: Leftovers
+|-status|p1a: Flareon|tox|[from] item: Toxic Orb
+|upkeep
+|turn|11
+|-message|gabbex forfeited.
+|
+|win|jdjeissbv
+|raw|gabbex's rating: 1014 &rarr; <strong>1001</strong><br />(-13 for losing)
+|raw|jdjeissbv's rating: 1000 &rarr; <strong>1042</strong><br />(+42 for winning)
+|l|☆gabbex
+|player|p1|

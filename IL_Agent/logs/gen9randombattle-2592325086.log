@@ -1,0 +1,270 @@
+|badge|p2|gold|gen9randombattle|3-9
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/">thread on Smogon.</a></div>
+|j|☆MichaelderBeste2
+|html|<table width="100%"><tr><td align="left">jyusaan雨傘</td><td align="right">MichaelderBeste2</tr><tr><td align="left"><i class="fa fa-circle"></i> <i class="fa fa-circle-o"></i> </td><td align="right"><i class="fa fa-circle-o"></i> <i class="fa fa-circle-o"></i> </tr></table>
+|uhtml|bestof|<h2><strong>Game 2</strong> of <a href="/game-bestof3-gen9randombattle-2592314746">a best-of-3</a></h2>
+|t:|1776978989
+|gametype|singles
+|player|p1|jyusaan雨傘|emma|
+|player|p2|MichaelderBeste2|#splxviisharks|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|raw|<div class="infobox"><details class="readmore" open><summary><strong>1 custom rule:</strong></summary> Best of = 3</details></div>
+|
+|t:|1776978989
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Arbok|Arbok, L87, M|246/246
+|switch|p2a: Typhlosion|Typhlosion-Hisui, L83, F|257/257
+|-ability|p1a: Arbok|Intimidate|boost
+|-unboost|p2a: Typhlosion|atk|1
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by MichaelderBeste2)
+|inactive|jyusaan雨傘 disconnected and has 300 seconds to reconnect!
+|j|☆jyusaan雨傘
+|inactive|jyusaan雨傘 reconnected and has 300 seconds left.
+|player|p1|jyusaan雨傘|emma|
+|c|☆jyusaan雨傘|gg1
+|c|☆jyusaan雨傘|sry slow wifi
+|c|☆jyusaan雨傘|hf
+|inactive|MichaelderBeste2 has 270 seconds left.
+|inactive|jyusaan雨傘 has 270 seconds left.
+|inactive|MichaelderBeste2 has 240 seconds left.
+|inactive|jyusaan雨傘 has 240 seconds left.
+|inactive|MichaelderBeste2 has 210 seconds left.
+|inactive|MichaelderBeste2 has 180 seconds left.
+|
+|t:|1776979112
+|move|p1a: Arbok|Sucker Punch|p2a: Typhlosion
+|-supereffective|p2a: Typhlosion
+|-damage|p2a: Typhlosion|147/257
+|move|p2a: Typhlosion|Fire Blast|p1a: Arbok
+|-damage|p1a: Arbok|114/246
+|
+|-heal|p1a: Arbok|129/246|[from] item: Leftovers
+|upkeep
+|turn|2
+|inactive|jyusaan雨傘 has 270 seconds left.
+|
+|t:|1776979144
+|move|p1a: Arbok|Sucker Punch|p2a: Typhlosion
+|-supereffective|p2a: Typhlosion
+|-damage|p2a: Typhlosion|39/257
+|move|p2a: Typhlosion|Fire Blast|p1a: Arbok|[miss]
+|-miss|p2a: Typhlosion|p1a: Arbok
+|
+|-heal|p1a: Arbok|144/246|[from] item: Leftovers
+|upkeep
+|turn|3
+|c|☆jyusaan雨傘|sry
+|
+|t:|1776979158
+|switch|p2a: Keldeo|Keldeo-Resolute, L79|273/273
+|move|p1a: Arbok|Sucker Punch||[still]
+|-fail|p1a: Arbok
+|
+|-heal|p1a: Arbok|159/246|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776979177
+|switch|p1a: Rayquaza|Rayquaza, L72|270/270
+|-ability|p1a: Rayquaza|Air Lock
+|move|p2a: Keldeo|Hydro Pump|p1a: Rayquaza
+|-resisted|p1a: Rayquaza
+|-damage|p1a: Rayquaza|169/270
+|
+|upkeep
+|turn|5
+|
+|t:|1776979189
+|switch|p2a: Registeel|Registeel, L81|262/262
+|move|p1a: Rayquaza|Dragon Dance|p1a: Rayquaza
+|-boost|p1a: Rayquaza|atk|1
+|-boost|p1a: Rayquaza|spe|1
+|
+|upkeep
+|turn|6
+|inactive|MichaelderBeste2 has 240 seconds left.
+|inactive|MichaelderBeste2 has 210 seconds left.
+|l|☆jyusaan雨傘
+|inactive|jyusaan雨傘 disconnected and has 295 seconds to reconnect!
+|player|p1|
+|
+|t:|1776979261
+|move|p1a: Rayquaza|Earthquake|p2a: Registeel
+|-supereffective|p2a: Registeel
+|-damage|p2a: Registeel|118/262
+|move|p2a: Registeel|Thunder Wave|p1a: Rayquaza
+|-status|p1a: Rayquaza|par
+|
+|-heal|p2a: Registeel|134/262|[from] item: Leftovers
+|upkeep
+|turn|7
+|inactive|jyusaan雨傘 has 270 seconds to reconnect!
+|j|☆jyusaan雨傘
+|inactive|jyusaan雨傘 reconnected and has 265 seconds left.
+|player|p1|jyusaan雨傘|emma|
+|
+|t:|1776979297
+|switch|p2a: Bombirdier|Bombirdier, L85, M|258/258
+|move|p1a: Rayquaza|Earthquake|p2a: Bombirdier
+|-immune|p2a: Bombirdier
+|
+|upkeep
+|turn|8
+|l|☆MichaelderBeste2
+|inactive|MichaelderBeste2 disconnected and has 300 seconds to reconnect!
+|player|p2|
+|j|☆MichaelderBeste2
+|inactive|MichaelderBeste2 reconnected and has 200 seconds left.
+|player|p2|MichaelderBeste2|#splxviisharks|
+|inactive|jyusaan雨傘 has 240 seconds left.
+|
+|t:|1776979324
+|switch|p1a: Arbok|Arbok, L87, M|159/246
+|-ability|p1a: Arbok|Intimidate|boost
+|-unboost|p2a: Bombirdier|atk|1
+|move|p2a: Bombirdier|Knock Off|p1a: Arbok
+|-damage|p1a: Arbok|75/246
+|-enditem|p1a: Arbok|Leftovers|[from] move: Knock Off|[of] p2a: Bombirdier
+|
+|upkeep
+|turn|9
+|inactive|jyusaan雨傘 has 240 seconds left.
+|inactive|MichaelderBeste2 has 180 seconds left.
+|
+|t:|1776979365
+|switch|p2a: Registeel|Registeel, L81|134/262
+|move|p1a: Arbok|Gunk Shot|p2a: Registeel
+|-immune|p2a: Registeel
+|
+|-heal|p2a: Registeel|150/262|[from] item: Leftovers
+|upkeep
+|turn|10
+|inactive|MichaelderBeste2 has 180 seconds left.
+|inactive|MichaelderBeste2 has 150 seconds left.
+|inactive|MichaelderBeste2 has 120 seconds left.
+|
+|t:|1776979433
+|switch|p2a: Keldeo|Keldeo-Resolute, L79|273/273
+|move|p1a: Arbok|Earthquake|p2a: Keldeo
+|-damage|p2a: Keldeo|189/273
+|
+|upkeep
+|turn|11
+|
+|t:|1776979442
+|switch|p1a: Rayquaza|Rayquaza, L72|169/270 par
+|-ability|p1a: Rayquaza|Air Lock
+|move|p2a: Keldeo|Hydro Pump|p1a: Rayquaza
+|-resisted|p1a: Rayquaza
+|-damage|p1a: Rayquaza|61/270 par
+|
+|upkeep
+|turn|12
+|l|☆MichaelderBeste2
+|inactive|MichaelderBeste2 disconnected and has 290 seconds to reconnect!
+|player|p2|
+|j|☆MichaelderBeste2
+|inactive|MichaelderBeste2 reconnected and has 135 seconds left.
+|player|p2|MichaelderBeste2|#splxviisharks|
+|
+|t:|1776979461
+|move|p2a: Keldeo|Hydro Pump|p1a: Rayquaza
+|-resisted|p1a: Rayquaza
+|-damage|p1a: Rayquaza|0 fnt
+|faint|p1a: Rayquaza
+|
+|upkeep
+|
+|t:|1776979463
+|switch|p1a: Jolteon|Jolteon, L84, M|246/246
+|turn|13
+|inactive|jyusaan雨傘 has 240 seconds left.
+|
+|t:|1776979475
+|move|p1a: Jolteon|Volt Switch|p2a: Keldeo
+|-supereffective|p2a: Keldeo
+|-damage|p2a: Keldeo|0 fnt
+|faint|p2a: Keldeo
+|inactive|jyusaan雨傘 has 240 seconds left.
+|
+|t:|1776979483
+|switch|p1a: Bellibolt|Bellibolt, L84, M|320/320|[from] Volt Switch
+|
+|upkeep
+|
+|t:|1776979508
+|switch|p2a: Typhlosion|Typhlosion-Hisui, L83, F|39/257
+|turn|14
+|
+|t:|1776979521
+|switch|p1a: Arbok|Arbok, L87, M|75/246
+|-ability|p1a: Arbok|Intimidate|boost
+|-unboost|p2a: Typhlosion|atk|1
+|move|p2a: Typhlosion|Fire Blast|p1a: Arbok
+|-damage|p1a: Arbok|0 fnt
+|faint|p1a: Arbok
+|
+|upkeep
+|
+|t:|1776979524
+|switch|p1a: Jolteon|Jolteon, L84, M|246/246
+|turn|15
+|
+|t:|1776979528
+|switch|p2a: Registeel|Registeel, L81|150/262
+|move|p1a: Jolteon|Thunderbolt|p2a: Registeel
+|-damage|p2a: Registeel|39/262
+|
+|-heal|p2a: Registeel|55/262|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776979530
+|move|p1a: Jolteon|Thunderbolt|p2a: Registeel
+|-damage|p2a: Registeel|0 fnt
+|faint|p2a: Registeel
+|
+|upkeep
+|
+|t:|1776979532
+|switch|p2a: Dudunsparce|Dudunsparce-Three-Segment, L83, F|343/343
+|turn|17
+|inactive|jyusaan雨傘 has 270 seconds left.
+|
+|t:|1776979561
+|move|p1a: Jolteon|Thunderbolt|p2a: Dudunsparce
+|-crit|p2a: Dudunsparce
+|-damage|p2a: Dudunsparce|69/343
+|move|p2a: Dudunsparce|Calm Mind|p2a: Dudunsparce
+|-boost|p2a: Dudunsparce|spa|1
+|-boost|p2a: Dudunsparce|spd|1
+|
+|-heal|p2a: Dudunsparce|90/343|[from] item: Leftovers
+|upkeep
+|turn|18
+|inactive|MichaelderBeste2 has 180 seconds left.
+|
+|t:|1776979574
+|move|p1a: Jolteon|Thunderbolt|p2a: Dudunsparce
+|-damage|p2a: Dudunsparce|0 fnt
+|faint|p2a: Dudunsparce
+|
+|upkeep
+|inactive|MichaelderBeste2 has 180 seconds left.
+|c|☆MichaelderBeste2|Only got electric weaknesses lmao
+|c|☆MichaelderBeste2|ggs
+|c|☆jyusaan雨傘|sry
+|-message|MichaelderBeste2 forfeited.
+|
+|win|jyusaan雨傘
+|c|☆jyusaan雨傘|ggs
+|l|☆MichaelderBeste2
+|player|p2|

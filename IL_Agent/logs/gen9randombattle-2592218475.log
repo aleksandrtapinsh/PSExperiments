@@ -1,0 +1,363 @@
+|j|☆wrtbrt
+|j|☆Papiloco
+|t:|1776971159
+|gametype|singles
+|player|p1|wrtbrt|pokemaniac|
+|player|p2|Papiloco|#rbtt9moons|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776971159
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Glalie|Glalie, L96, F|309/309
+|switch|p2a: Salazzle|Salazzle, L83, F|249/249
+|turn|1
+|c|☆wrtbrt|gl hf
+|c|☆Papiloco|hf
+|
+|t:|1776971202
+|switch|p2a: Bronzong|Bronzong, L88|261/261
+|move|p1a: Glalie|Spikes|p2a: Bronzong
+|-sidestart|p2: Papiloco|Spikes
+|
+|upkeep
+|turn|2
+|
+|t:|1776971216
+|move|p1a: Glalie|Taunt|p2a: Bronzong
+|-start|p2a: Bronzong|move: Taunt
+|cant|p2a: Bronzong|move: Taunt|Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1776971232
+|move|p1a: Glalie|Spikes|p2a: Bronzong
+|-sidestart|p2: Papiloco|Spikes
+|move|p2a: Bronzong|Iron Head|p1a: Glalie
+|-supereffective|p1a: Glalie
+|-damage|p1a: Glalie|157/309
+|
+|upkeep
+|turn|4
+|
+|t:|1776971238
+|move|p1a: Glalie|Spikes|p2a: Bronzong
+|-sidestart|p2: Papiloco|Spikes
+|move|p2a: Bronzong|Iron Head|p1a: Glalie
+|-supereffective|p1a: Glalie
+|-damage|p1a: Glalie|0 fnt
+|faint|p1a: Glalie
+|
+|-end|p2a: Bronzong|move: Taunt
+|upkeep
+|
+|t:|1776971245
+|switch|p1a: Scrafty|Scrafty, L83, F|244/244
+|turn|5
+|
+|t:|1776971263
+|switch|p2a: Sandaconda|Sandaconda, L84, F|258/258
+|-damage|p2a: Sandaconda|194/258|[from] Spikes
+|move|p1a: Scrafty|Knock Off|p2a: Sandaconda
+|-damage|p2a: Sandaconda|115/258
+|-enditem|p2a: Sandaconda|Leftovers|[from] move: Knock Off|[of] p1a: Scrafty
+|
+|upkeep
+|turn|6
+|
+|t:|1776971272
+|move|p2a: Sandaconda|Coil|p2a: Sandaconda
+|-boost|p2a: Sandaconda|atk|1
+|-boost|p2a: Sandaconda|def|1
+|-boost|p2a: Sandaconda|accuracy|1
+|move|p1a: Scrafty|Drain Punch|p2a: Sandaconda
+|-damage|p2a: Sandaconda|75/258
+|
+|upkeep
+|turn|7
+|
+|t:|1776971279
+|move|p2a: Sandaconda|Coil|p2a: Sandaconda
+|-boost|p2a: Sandaconda|atk|1
+|-boost|p2a: Sandaconda|def|1
+|-boost|p2a: Sandaconda|accuracy|1
+|move|p1a: Scrafty|Bulk Up|p1a: Scrafty
+|-boost|p1a: Scrafty|atk|1
+|-boost|p1a: Scrafty|def|1
+|
+|upkeep
+|turn|8
+|
+|t:|1776971290
+|switch|p1a: Lanturn|Lanturn, L89, M|367/367
+|move|p2a: Sandaconda|Earthquake|p1a: Lanturn
+|-supereffective|p1a: Lanturn
+|-damage|p1a: Lanturn|0 fnt
+|faint|p1a: Lanturn
+|
+|upkeep
+|
+|t:|1776971300
+|switch|p1a: Latias|Latias, L79, F|256/256
+|turn|9
+|
+|t:|1776971307
+|switch|p2a: Bronzong|Bronzong, L88|261/261
+|move|p1a: Latias|Psyshock|p2a: Bronzong
+|-resisted|p2a: Bronzong
+|-damage|p2a: Bronzong|241/261
+|
+|-heal|p2a: Bronzong|257/261|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1776971315
+|move|p1a: Latias|Calm Mind|p1a: Latias
+|-boost|p1a: Latias|spa|1
+|-boost|p1a: Latias|spd|1
+|move|p2a: Bronzong|Hypnosis|p1a: Latias
+|-status|p1a: Latias|slp|[from] move: Hypnosis
+|
+|-heal|p2a: Bronzong|261/261|[from] item: Leftovers
+|upkeep
+|turn|11
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Papiloco)
+|
+|t:|1776971350
+|switch|p1a: Scrafty|Scrafty, L83, F|244/244
+|switch|p2a: Wigglytuff|Wigglytuff, L96, M|424/424
+|-damage|p2a: Wigglytuff|318/424|[from] Spikes
+|
+|-heal|p2a: Wigglytuff|344/424|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776971363
+|switch|p1a: Quagsire|Quagsire, L84, M|297/297
+|move|p2a: Wigglytuff|Knock Off|p1a: Quagsire
+|-damage|p1a: Quagsire|228/297
+|-enditem|p1a: Quagsire|Leftovers|[from] move: Knock Off|[of] p2a: Wigglytuff
+|
+|-heal|p2a: Wigglytuff|370/424|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776971373
+|move|p2a: Wigglytuff|Dazzling Gleam|p1a: Quagsire
+|-damage|p1a: Quagsire|102/297
+|move|p1a: Quagsire|Ice Beam|p2a: Wigglytuff
+|-damage|p2a: Wigglytuff|303/424
+|
+|-heal|p2a: Wigglytuff|329/424|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1776971382
+|move|p2a: Wigglytuff|Dazzling Gleam|p1a: Quagsire
+|-damage|p1a: Quagsire|0 fnt
+|faint|p1a: Quagsire
+|
+|-heal|p2a: Wigglytuff|355/424|[from] item: Leftovers
+|upkeep
+|inactive|wrtbrt has 270 seconds left.
+|
+|t:|1776971415
+|switch|p1a: Scrafty|Scrafty, L83, F|244/244
+|turn|15
+|
+|t:|1776971437
+|-terastallize|p1a: Scrafty|Poison
+|move|p1a: Scrafty|Bulk Up|p1a: Scrafty
+|-boost|p1a: Scrafty|atk|1
+|-boost|p1a: Scrafty|def|1
+|move|p2a: Wigglytuff|Knock Off|p1a: Scrafty
+|-damage|p1a: Scrafty|208/244
+|-enditem|p1a: Scrafty|Leftovers|[from] move: Knock Off|[of] p2a: Wigglytuff
+|
+|-heal|p2a: Wigglytuff|381/424|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776971448
+|move|p1a: Scrafty|Bulk Up|p1a: Scrafty
+|-boost|p1a: Scrafty|atk|1
+|-boost|p1a: Scrafty|def|1
+|move|p2a: Wigglytuff|Thunder Wave|p1a: Scrafty
+|-status|p1a: Scrafty|par
+|
+|-heal|p2a: Wigglytuff|407/424|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1776971465
+|move|p2a: Wigglytuff|Fire Blast|p1a: Scrafty|[miss]
+|-miss|p2a: Wigglytuff|p1a: Scrafty
+|cant|p1a: Scrafty|par
+|
+|-heal|p2a: Wigglytuff|424/424|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1776971482
+|move|p2a: Wigglytuff|Fire Blast|p1a: Scrafty
+|-damage|p1a: Scrafty|131/244 par
+|cant|p1a: Scrafty|par
+|
+|upkeep
+|turn|19
+|
+|t:|1776971491
+|move|p2a: Wigglytuff|Fire Blast|p1a: Scrafty
+|-damage|p1a: Scrafty|54/244 par
+|move|p1a: Scrafty|Drain Punch|p2a: Wigglytuff
+|-damage|p2a: Wigglytuff|211/424
+|-heal|p1a: Scrafty|161/244 par|[from] drain|[of] p2a: Wigglytuff
+|
+|-heal|p2a: Wigglytuff|237/424|[from] item: Leftovers
+|-activate|p1a: Scrafty|ability: Shed Skin
+|-curestatus|p1a: Scrafty|par|[msg]
+|upkeep
+|turn|20
+|
+|t:|1776971504
+|switch|p2a: Sandaconda|Sandaconda, L84, F|75/258
+|-damage|p2a: Sandaconda|11/258|[from] Spikes
+|move|p1a: Scrafty|Drain Punch|p2a: Sandaconda
+|-damage|p2a: Sandaconda|0 fnt
+|-heal|p1a: Scrafty|167/244|[from] drain|[of] p2a: Sandaconda
+|faint|p2a: Sandaconda
+|
+|upkeep
+|
+|t:|1776971520
+|switch|p2a: Bronzong|Bronzong, L88|261/261
+|turn|21
+|
+|t:|1776971533
+|-terastallize|p2a: Bronzong|Electric
+|move|p1a: Scrafty|Knock Off|p2a: Bronzong
+|-damage|p2a: Bronzong|117/261
+|-enditem|p2a: Bronzong|Leftovers|[from] move: Knock Off|[of] p1a: Scrafty
+|move|p2a: Bronzong|Psychic Noise|p1a: Scrafty
+|-supereffective|p1a: Scrafty
+|-damage|p1a: Scrafty|47/244
+|-start|p1a: Scrafty|move: Heal Block
+|
+|upkeep
+|turn|22
+|
+|t:|1776971544
+|move|p1a: Scrafty|Knock Off|p2a: Bronzong
+|-damage|p2a: Bronzong|17/261
+|move|p2a: Bronzong|Psychic Noise|p1a: Scrafty
+|-supereffective|p1a: Scrafty
+|-damage|p1a: Scrafty|0 fnt
+|faint|p1a: Scrafty
+|
+|upkeep
+|
+|t:|1776971551
+|switch|p1a: Pawmot|Pawmot, L80, F|243/243
+|turn|23
+|inactive|Papiloco has 270 seconds left.
+|
+|t:|1776971586
+|move|p1a: Pawmot|Revival Blessing|p1a: Pawmot
+|
+|t:|1776971598
+|-heal|p1: Lanturn|183/367|[from] move: Revival Blessing
+|move|p2a: Bronzong|Psychic Noise|p1a: Pawmot
+|-supereffective|p1a: Pawmot
+|-damage|p1a: Pawmot|45/243
+|-start|p1a: Pawmot|move: Heal Block
+|
+|upkeep
+|turn|24
+|inactive|Papiloco has 270 seconds left.
+|
+|t:|1776971606
+|move|p1a: Pawmot|Double Shock|p2a: Bronzong
+|-resisted|p2a: Bronzong
+|-damage|p2a: Bronzong|0 fnt
+|-start|p1a: Pawmot|typechange|???/Fighting|[from] move: Double Shock
+|faint|p2a: Bronzong
+|-damage|p1a: Pawmot|21/243|[from] item: Life Orb
+|
+|-end|p1a: Pawmot|move: Heal Block
+|upkeep
+|inactive|Papiloco has 270 seconds left.
+|
+|t:|1776971613
+|switch|p2a: Salazzle|Salazzle, L83, F|249/249
+|turn|25
+|
+|t:|1776971618
+|move|p2a: Salazzle|Sludge Wave|p1a: Pawmot
+|-damage|p1a: Pawmot|0 fnt
+|faint|p1a: Pawmot
+|
+|upkeep
+|
+|t:|1776971623
+|switch|p1a: Lanturn|Lanturn, L89, M|183/367
+|turn|26
+|inactive|Papiloco has 270 seconds left.
+|inactive|Papiloco has 240 seconds left.
+|
+|t:|1776971686
+|move|p2a: Salazzle|Nasty Plot|p2a: Salazzle
+|-boost|p2a: Salazzle|spa|2
+|move|p1a: Lanturn|Thunder Wave|p2a: Salazzle
+|-status|p2a: Salazzle|par
+|
+|upkeep
+|turn|27
+|
+|t:|1776971693
+|move|p1a: Lanturn|Scald|p2a: Salazzle
+|-supereffective|p2a: Salazzle
+|-damage|p2a: Salazzle|49/249 par
+|move|p2a: Salazzle|Sludge Wave|p1a: Lanturn
+|-damage|p1a: Lanturn|0 fnt
+|faint|p1a: Lanturn
+|
+|upkeep
+|
+|t:|1776971699
+|switch|p1a: Latias|Latias, L79, F|256/256 slp
+|turn|28
+|
+|t:|1776971719
+|cant|p1a: Latias|slp
+|cant|p2a: Salazzle|par
+|
+|upkeep
+|turn|29
+|inactive|Papiloco has 240 seconds left.
+|
+|t:|1776971740
+|cant|p1a: Latias|slp
+|move|p2a: Salazzle|Sludge Wave|p1a: Latias
+|-damage|p1a: Latias|97/256 slp
+|
+|upkeep
+|turn|30
+|inactive|Papiloco has 240 seconds left.
+|
+|t:|1776971746
+|cant|p1a: Latias|slp
+|move|p2a: Salazzle|Sludge Wave|p1a: Latias
+|-damage|p1a: Latias|0 fnt
+|faint|p1a: Latias
+|
+|win|Papiloco
+|c|☆Papiloco|gg
+|l|☆wrtbrt
+|player|p1|

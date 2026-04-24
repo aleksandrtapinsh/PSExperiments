@@ -1,0 +1,111 @@
+|j|☆bl9738
+|j|☆blast565
+|t:|1776973969
+|gametype|singles
+|player|p1|bl9738|hilbert|1144
+|player|p2|blast565|2|1189
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776973969
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Mienshao|Mienshao, L83, F|243/243
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, L75, M|274/274
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by bl9738)
+|inactive|blast565 has 120 seconds left.
+|
+|t:|1776974010
+|switch|p2a: Spectrier|Spectrier, L75|274/274
+|move|p1a: Mienshao|High Jump Kick|p2a: Spectrier
+|-immune|p2a: Spectrier
+|-damage|p1a: Mienshao|122/243|[from] highjumpkick
+|
+|upkeep
+|turn|2
+|
+|t:|1776974027
+|switch|p1a: Porygon-Z|Porygon-Z, L83|277/277
+|move|p2a: Spectrier|Will-O-Wisp|p1a: Porygon-Z
+|-status|p1a: Porygon-Z|brn
+|
+|-damage|p1a: Porygon-Z|260/277 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1776974041
+|switch|p2a: Noctowl|Noctowl, L95, F|344/344
+|move|p1a: Porygon-Z|Shadow Ball|p2a: Noctowl
+|-immune|p2a: Noctowl
+|
+|-damage|p1a: Porygon-Z|243/277 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1776974057
+|switch|p1a: Torkoal|Torkoal, L88, F|266/266
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|move|p2a: Noctowl|Nasty Plot|p2a: Noctowl
+|-boost|p2a: Noctowl|spa|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1776974065
+|move|p2a: Noctowl|Hyper Voice|p1a: Torkoal
+|-damage|p1a: Torkoal|19/266
+|move|p1a: Torkoal|Yawn|p2a: Noctowl
+|-start|p2a: Noctowl|move: Yawn|[of] p1a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1776974076
+|switch|p2a: Mienshao|Mienshao, L83, M|244/244
+|move|p1a: Torkoal|Solar Beam||[still]
+|-prepare|p1a: Torkoal|Solar Beam
+|-anim|p1a: Torkoal|Solar Beam|p2a: Mienshao
+|-crit|p2a: Mienshao
+|-damage|p2a: Mienshao|137/244
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1776974085
+|switch|p1a: Mienshao|Mienshao, L83, F|122/243
+|move|p2a: Mienshao|Fake Out|p1a: Mienshao
+|-damage|p1a: Mienshao|72/243
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1776974092
+|move|p1a: Mienshao|Stone Edge|p2a: Mienshao
+|-resisted|p2a: Mienshao
+|-damage|p2a: Mienshao|50/244
+|move|p2a: Mienshao|Close Combat|p1a: Mienshao
+|-damage|p1a: Mienshao|0 fnt
+|-unboost|p2a: Mienshao|def|1
+|-unboost|p2a: Mienshao|spd|1
+|faint|p1a: Mienshao
+|
+|-weather|none
+|upkeep
+|-message|bl9738 forfeited.
+|
+|win|blast565
+|raw|bl9738's rating: 1144 &rarr; <strong>1122</strong><br />(-22 for losing)
+|raw|blast565's rating: 1189 &rarr; <strong>1211</strong><br />(+22 for winning)
+|l|☆bl9738
+|player|p1|

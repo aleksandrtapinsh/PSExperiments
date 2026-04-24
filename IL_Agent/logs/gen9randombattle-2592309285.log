@@ -1,0 +1,192 @@
+|j|☆aaaaazsa
+|j|☆flygonfan08
+|t:|1776977713
+|gametype|singles
+|player|p1|aaaaazsa|dragontamer|1098
+|player|p2|flygonfan08|101|1145
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776977713
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Phione|Phione, L91|293/293
+|switch|p2a: Cyclizar|Cyclizar, L83, F|252/252
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by flygonfan08)
+|
+|t:|1776977741
+|move|p2a: Cyclizar|Knock Off|p1a: Phione
+|-damage|p1a: Phione|232/293
+|-enditem|p1a: Phione|Leftovers|[from] move: Knock Off|[of] p2a: Cyclizar
+|move|p1a: Phione|Scald|p2a: Cyclizar
+|-resisted|p2a: Cyclizar
+|-damage|p2a: Cyclizar|198/252
+|-status|p2a: Cyclizar|brn
+|
+|-damage|p2a: Cyclizar|183/252 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1776977752
+|move|p2a: Cyclizar|Shed Tail|p2a: Cyclizar
+|-start|p2a: Cyclizar|Substitute|[from] move: Shed Tail
+|-damage|p2a: Cyclizar|57/252 brn
+|
+|t:|1776977759
+|switch|p2a: Ludicolo|Ludicolo, L90, M|290/290|[from] Shed Tail
+|move|p1a: Phione|Scald|p2a: Ludicolo
+|-resisted|p2a: Ludicolo
+|-activate|p2a: Ludicolo|move: Substitute|[damage]
+|
+|upkeep
+|turn|3
+|
+|t:|1776977771
+|move|p1a: Phione|Scald|p2a: Ludicolo
+|-resisted|p2a: Ludicolo
+|-activate|p2a: Ludicolo|move: Substitute|[damage]
+|move|p2a: Ludicolo|Rain Dance|p2a: Ludicolo
+|-weather|RainDance
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1776977782
+|move|p2a: Ludicolo|Giga Drain|p1a: Phione
+|-supereffective|p1a: Phione
+|-damage|p1a: Phione|0 fnt
+|faint|p1a: Phione
+|-damage|p2a: Ludicolo|261/290|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1776977793
+|switch|p1a: Deoxys|Deoxys-Attack, L72|191/191
+|-ability|p1a: Deoxys|Pressure
+|turn|5
+|
+|t:|1776977802
+|move|p2a: Ludicolo|Hydro Pump|p1a: Deoxys
+|-damage|p1a: Deoxys|0 fnt
+|faint|p1a: Deoxys
+|-damage|p2a: Ludicolo|232/290|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1776977811
+|switch|p1a: Chien-Pao|Chien-Pao, L72|234/234
+|-ability|p1a: Chien-Pao|Sword of Ruin
+|turn|6
+|
+|t:|1776977822
+|move|p2a: Ludicolo|Hydro Pump|p1a: Chien-Pao
+|-damage|p1a: Chien-Pao|0 fnt
+|faint|p1a: Chien-Pao
+|-damage|p2a: Ludicolo|203/290|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1776977829
+|switch|p1a: Lurantis|Lurantis, L87, F|264/264
+|turn|7
+|
+|t:|1776977838
+|move|p2a: Ludicolo|Ice Beam|p1a: Lurantis
+|-supereffective|p1a: Lurantis
+|-damage|p1a: Lurantis|90/264
+|-damage|p2a: Ludicolo|174/290|[from] item: Life Orb
+|move|p1a: Lurantis|Leaf Storm|p2a: Ludicolo
+|-crit|p2a: Ludicolo
+|-end|p2a: Ludicolo|Substitute
+|-boost|p1a: Lurantis|spa|2
+|
+|-weather|none
+|-heal|p1a: Lurantis|106/264|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776977849
+|move|p2a: Ludicolo|Ice Beam|p1a: Lurantis
+|-supereffective|p1a: Lurantis
+|-damage|p1a: Lurantis|0 fnt
+|faint|p1a: Lurantis
+|-damage|p2a: Ludicolo|145/290|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776977856
+|switch|p1a: Garganacl|Garganacl, L80, F|291/291
+|turn|9
+|
+|t:|1776977875
+|move|p1a: Garganacl|Protect|p1a: Garganacl
+|-singleturn|p1a: Garganacl|Protect
+|move|p2a: Ludicolo|Giga Drain|p1a: Garganacl
+|-activate|p1a: Garganacl|move: Protect
+|
+|upkeep
+|turn|10
+|
+|t:|1776977883
+|move|p2a: Ludicolo|Giga Drain|p1a: Garganacl
+|-supereffective|p1a: Garganacl
+|-damage|p1a: Garganacl|70/291
+|-heal|p2a: Ludicolo|256/290|[from] drain|[of] p1a: Garganacl
+|-damage|p2a: Ludicolo|227/290|[from] item: Life Orb
+|move|p1a: Garganacl|Earthquake|p2a: Ludicolo
+|-resisted|p2a: Ludicolo
+|-damage|p2a: Ludicolo|193/290
+|
+|-heal|p1a: Garganacl|88/291|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776977899
+|move|p2a: Ludicolo|Giga Drain|p1a: Garganacl
+|-supereffective|p1a: Garganacl
+|-damage|p1a: Garganacl|0 fnt
+|-heal|p2a: Ludicolo|237/290|[from] drain|[of] p1a: Garganacl
+|faint|p1a: Garganacl
+|-damage|p2a: Ludicolo|208/290|[from] item: Life Orb
+|
+|upkeep
+|inactive|aaaaazsa has 120 seconds left.
+|
+|t:|1776977919
+|switch|p1a: Ceruledge|Ceruledge, L78, M|245/245
+|turn|12
+|
+|t:|1776977930
+|move|p1a: Ceruledge|Shadow Sneak|p2a: Ludicolo
+|-damage|p2a: Ludicolo|160/290
+|move|p2a: Ludicolo|Hydro Pump|p1a: Ceruledge|[miss]
+|-miss|p2a: Ludicolo|p1a: Ceruledge
+|
+|upkeep
+|turn|13
+|
+|t:|1776977936
+|move|p1a: Ceruledge|Shadow Sneak|p2a: Ludicolo
+|-damage|p2a: Ludicolo|114/290
+|move|p2a: Ludicolo|Hydro Pump|p1a: Ceruledge
+|-supereffective|p1a: Ceruledge
+|-damage|p1a: Ceruledge|0 fnt
+|faint|p1a: Ceruledge
+|-damage|p2a: Ludicolo|85/290|[from] item: Life Orb
+|
+|win|flygonfan08
+|raw|aaaaazsa's rating: 1098 &rarr; <strong>1077</strong><br />(-21 for losing)
+|raw|flygonfan08's rating: 1145 &rarr; <strong>1167</strong><br />(+22 for winning)
+|l|☆aaaaazsa
+|player|p1|

@@ -1,0 +1,253 @@
+|j|☆fwMicha
+|j|☆fartsmeller3
+|t:|1776980223
+|gametype|singles
+|player|p1|fwMicha|265|1105
+|player|p2|fartsmeller3|camper|1152
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776980223
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Empoleon|Empoleon, L84, F|278/278
+|switch|p2a: Luxray|Luxray, L88, F|284/284
+|-ability|p2a: Luxray|Intimidate|boost
+|-unboost|p1a: Empoleon|atk|1
+|-ability|p1a: Empoleon|Competitive|boost
+|-boost|p1a: Empoleon|spa|2
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by fartsmeller3)
+|inactive|fwMicha has 120 seconds left.
+|inactive|fwMicha has 90 seconds left.
+|
+|t:|1776980328
+|move|p2a: Luxray|Wild Charge|p1a: Empoleon
+|-supereffective|p1a: Empoleon
+|-damage|p1a: Empoleon|18/278
+|-damage|p2a: Luxray|219/284|[from] Recoil
+|move|p1a: Empoleon|Surf|p2a: Luxray
+|-damage|p2a: Luxray|84/284
+|
+|-heal|p1a: Empoleon|35/278|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776980341
+|move|p2a: Luxray|Volt Switch|p1a: Empoleon
+|-supereffective|p1a: Empoleon
+|-damage|p1a: Empoleon|0 fnt
+|faint|p1a: Empoleon
+|
+|t:|1776980355
+|switch|p2a: Squawkabilly|Squawkabilly-White, L89, F|291/291|[from] Volt Switch
+|
+|upkeep
+|inactive|fwMicha has 120 seconds left.
+|
+|t:|1776980387
+|switch|p1a: Baxcalibur|Baxcalibur, L75, M|296/296
+|turn|3
+|
+|t:|1776980410
+|move|p2a: Squawkabilly|Double-Edge|p1a: Baxcalibur
+|-damage|p1a: Baxcalibur|0 fnt
+|faint|p1a: Baxcalibur
+|-damage|p2a: Squawkabilly|193/291|[from] Recoil
+|
+|upkeep
+|inactive|fwMicha has 90 seconds left.
+|
+|t:|1776980434
+|switch|p1a: Volbeat|Volbeat, L90, M|263/263
+|turn|4
+|inactive|fartsmeller3 has 120 seconds left.
+|
+|t:|1776980462
+|move|p1a: Volbeat|Thunder Wave|p2a: Squawkabilly
+|-status|p2a: Squawkabilly|par
+|cant|p2a: Squawkabilly|par
+|
+|upkeep
+|turn|5
+|inactive|fartsmeller3 has 120 seconds left.
+|inactive|fwMicha has 90 seconds left.
+|
+|t:|1776980497
+|switch|p1a: Trevenant|Trevenant, L89, F|296/296
+|move|p2a: Squawkabilly|Double-Edge|p1a: Trevenant
+|-immune|p1a: Trevenant
+|
+|upkeep
+|turn|6
+|inactive|fwMicha has 90 seconds left.
+|
+|t:|1776980525
+|switch|p2a: Mabosstiff|Mabosstiff, L86, F|278/278
+|move|p1a: Trevenant|Wood Hammer|p2a: Mabosstiff
+|-damage|p2a: Mabosstiff|90/278
+|-damage|p1a: Trevenant|234/296|[from] Recoil
+|-damage|p1a: Trevenant|205/296|[from] item: Life Orb
+|
+|upkeep
+|turn|7
+|inactive|fwMicha has 60 seconds left.
+|
+|t:|1776980550
+|-terastallize|p1a: Trevenant|Fighting
+|move|p2a: Mabosstiff|Crunch|p1a: Trevenant
+|-resisted|p1a: Trevenant
+|-damage|p1a: Trevenant|126/296
+|move|p1a: Trevenant|Drain Punch|p2a: Mabosstiff
+|-supereffective|p2a: Mabosstiff
+|-damage|p2a: Mabosstiff|0 fnt
+|-heal|p1a: Trevenant|171/296|[from] drain|[of] p2a: Mabosstiff
+|faint|p2a: Mabosstiff
+|-damage|p1a: Trevenant|142/296|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776980560
+|switch|p2a: Carbink|Carbink, L90|236/236
+|turn|8
+|
+|t:|1776980569
+|move|p1a: Trevenant|Drain Punch|p2a: Carbink
+|-damage|p2a: Carbink|158/236
+|-heal|p1a: Trevenant|181/296|[from] drain|[of] p2a: Carbink
+|-damage|p1a: Trevenant|152/296|[from] item: Life Orb
+|move|p2a: Carbink|Moonblast|p1a: Trevenant
+|-supereffective|p1a: Trevenant
+|-damage|p1a: Trevenant|18/296
+|
+|upkeep
+|turn|9
+|
+|t:|1776980578
+|move|p1a: Trevenant|Wood Hammer|p2a: Carbink
+|-supereffective|p2a: Carbink
+|-damage|p2a: Carbink|0 fnt
+|faint|p2a: Carbink
+|-damage|p1a: Trevenant|0 fnt|[from] Recoil
+|faint|p1a: Trevenant
+|
+|upkeep
+|inactive|fwMicha has 60 seconds left.
+|
+|t:|1776980599
+|switch|p1a: Munkidori|Munkidori, L79, M|269/269
+|switch|p2a: Barraskewda|Barraskewda, L81, F|231/231
+|turn|10
+|inactive|fartsmeller3 has 120 seconds left.
+|inactive|fwMicha has 60 seconds left.
+|
+|t:|1776980610
+|move|p2a: Barraskewda|Waterfall|p1a: Munkidori
+|-damage|p1a: Munkidori|89/269
+|cant|p1a: Munkidori|flinch
+|
+|upkeep
+|turn|11
+|inactive|fwMicha has 60 seconds left.
+|
+|t:|1776980627
+|move|p2a: Barraskewda|Waterfall|p1a: Munkidori
+|-damage|p1a: Munkidori|0 fnt
+|faint|p1a: Munkidori
+|
+|upkeep
+|
+|t:|1776980629
+|switch|p1a: Volbeat|Volbeat, L90, M|263/263
+|turn|12
+|
+|t:|1776980639
+|move|p1a: Volbeat|Thunder Wave|p2a: Barraskewda|[miss]
+|-miss|p1a: Volbeat|p2a: Barraskewda
+|move|p2a: Barraskewda|Waterfall|p1a: Volbeat
+|-damage|p1a: Volbeat|107/263
+|
+|upkeep
+|turn|13
+|
+|t:|1776980647
+|switch|p2a: Luxray|Luxray, L88, F|84/284
+|-ability|p2a: Luxray|Intimidate|boost
+|-unboost|p1a: Volbeat|atk|1
+|move|p1a: Volbeat|Thunder Wave|p2a: Luxray
+|-immune|p2a: Luxray
+|
+|upkeep
+|turn|14
+|
+|t:|1776980655
+|move|p1a: Volbeat|Lunge|p2a: Luxray
+|-damage|p2a: Luxray|27/284
+|-unboost|p2a: Luxray|atk|1
+|move|p2a: Luxray|Throat Chop|p1a: Volbeat
+|-damage|p1a: Volbeat|54/263
+|-start|p1a: Volbeat|Throat Chop|[silent]
+|
+|upkeep
+|turn|15
+|
+|t:|1776980668
+|move|p1a: Volbeat|Roost|p1a: Volbeat
+|-heal|p1a: Volbeat|186/263
+|-singleturn|p1a: Volbeat|move: Roost
+|move|p2a: Luxray|Volt Switch|p1a: Volbeat
+|-damage|p1a: Volbeat|105/263
+|
+|t:|1776980676
+|switch|p2a: Barraskewda|Barraskewda, L81, F|231/231|[from] Volt Switch
+|
+|-end|p1a: Volbeat|Throat Chop|[silent]
+|upkeep
+|turn|16
+|inactive|fwMicha has 90 seconds left.
+|
+|t:|1776980682
+|move|p1a: Volbeat|Thunder Wave|p2a: Barraskewda
+|-status|p2a: Barraskewda|par
+|move|p2a: Barraskewda|Flip Turn|p1a: Volbeat
+|-damage|p1a: Volbeat|0 fnt
+|faint|p1a: Volbeat
+|
+|t:|1776980689
+|switch|p2a: Hitmonlee|Hitmonlee, L85, M|223/223|[from] Flip Turn
+|
+|upkeep
+|
+|t:|1776980693
+|switch|p1a: Arceus|Arceus-Poison, L70|284/284
+|turn|17
+|c|☆fartsmeller3|oh
+|
+|t:|1776980708
+|move|p1a: Arceus|Swords Dance|p1a: Arceus
+|-boost|p1a: Arceus|atk|2
+|move|p2a: Hitmonlee|Knock Off|p1a: Arceus
+|-damage|p1a: Arceus|211/284
+|
+|upkeep
+|turn|18
+|l|☆fartsmeller3
+|inactive|fartsmeller3 disconnected and has a minute to reconnect!
+|player|p2|
+|inactive|fartsmeller3 has 30 seconds to reconnect!
+|inactive|fartsmeller3 has 20 seconds to reconnect!
+|inactive|fartsmeller3 has 15 seconds to reconnect!
+|c|☆fwMicha|ggs?
+|inactive|fartsmeller3 has 10 seconds to reconnect!
+|inactive|fartsmeller3 has 5 seconds to reconnect!
+|-message|fartsmeller3 lost due to inactivity.
+|
+|win|fwMicha
+|raw|fwMicha's rating: 1105 &rarr; <strong>1133</strong><br />(+28 for winning)
+|raw|fartsmeller3's rating: 1152 &rarr; <strong>1124</strong><br />(-28 for losing)

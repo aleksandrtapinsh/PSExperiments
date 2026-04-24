@@ -1,0 +1,281 @@
+|j|☆Gokuh34567
+|j|☆w4schbecken
+|t:|1776970198
+|gametype|singles
+|player|p1|Gokuh34567|hiker-gen4|
+|player|p2|w4schbecken|allister|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776970198
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Cyclizar|Cyclizar, L83, M|252/252
+|switch|p2a: Venomoth|Venomoth, L84, M|255/255
+|turn|1
+|
+|t:|1776970209
+|move|p1a: Cyclizar|Taunt|p2a: Venomoth
+|-start|p2a: Venomoth|move: Taunt
+|cant|p2a: Venomoth|move: Taunt|Quiver Dance
+|
+|upkeep
+|turn|2
+|
+|t:|1776970219
+|move|p1a: Cyclizar|Shed Tail|p1a: Cyclizar
+|-start|p1a: Cyclizar|Substitute|[from] move: Shed Tail
+|-damage|p1a: Cyclizar|126/252
+|
+|t:|1776970222
+|switch|p1a: Venomoth|Venomoth, L84, M|255/255|[from] Shed Tail
+|move|p2a: Venomoth|Sludge Wave|p1a: Venomoth
+|-resisted|p1a: Venomoth
+|-end|p1a: Venomoth|Substitute
+|
+|upkeep
+|turn|3
+|
+|t:|1776970251
+|move|p2a: Venomoth|Sludge Wave|p1a: Venomoth
+|-resisted|p1a: Venomoth
+|-damage|p1a: Venomoth|149/255
+|move|p1a: Venomoth|Quiver Dance|p1a: Venomoth
+|-boost|p1a: Venomoth|spa|1
+|-boost|p1a: Venomoth|spd|1
+|-boost|p1a: Venomoth|spe|1
+|
+|-end|p2a: Venomoth|move: Taunt
+|upkeep
+|turn|4
+|
+|t:|1776970264
+|move|p1a: Venomoth|Sleep Powder|p2a: Venomoth
+|-status|p2a: Venomoth|slp|[from] move: Sleep Powder
+|cant|p2a: Venomoth|slp
+|
+|upkeep
+|turn|5
+|
+|t:|1776970285
+|switch|p2a: Cetitan|Cetitan, L82, M|413/413
+|move|p1a: Venomoth|Quiver Dance|p1a: Venomoth
+|-boost|p1a: Venomoth|spa|1
+|-boost|p1a: Venomoth|spd|1
+|-boost|p1a: Venomoth|spe|1
+|
+|upkeep
+|turn|6
+|
+|t:|1776970299
+|move|p1a: Venomoth|Sludge Wave|p2a: Cetitan
+|-damage|p2a: Cetitan|130/413
+|move|p2a: Cetitan|Icicle Crash|p1a: Venomoth
+|-damage|p1a: Venomoth|0 fnt
+|faint|p1a: Venomoth
+|
+|upkeep
+|
+|t:|1776970312
+|switch|p1a: Tinkaton|Tinkaton, L82, F|274/274
+|-ability|p1a: Tinkaton|Mold Breaker
+|turn|7
+|
+|t:|1776970326
+|move|p1a: Tinkaton|Stealth Rock|p2a: Cetitan
+|-sidestart|p2: w4schbecken|move: Stealth Rock
+|move|p2a: Cetitan|Superpower|p1a: Tinkaton
+|-damage|p1a: Tinkaton|148/274
+|-unboost|p2a: Cetitan|atk|1
+|-unboost|p2a: Cetitan|def|1
+|-damage|p2a: Cetitan|89/413|[from] item: Life Orb
+|
+|-heal|p1a: Tinkaton|165/274|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776970345
+|move|p2a: Cetitan|Ice Shard|p1a: Tinkaton
+|-resisted|p1a: Tinkaton
+|-damage|p1a: Tinkaton|142/274
+|-damage|p2a: Cetitan|48/413|[from] item: Life Orb
+|move|p1a: Tinkaton|Play Rough|p2a: Cetitan
+|-damage|p2a: Cetitan|0 fnt
+|faint|p2a: Cetitan
+|
+|-heal|p1a: Tinkaton|159/274|[from] item: Leftovers
+|upkeep
+|
+|t:|1776970362
+|switch|p2a: Zacian|Zacian, L69|241/241
+|-damage|p2a: Zacian|211/241|[from] Stealth Rock
+|-ability|p2a: Zacian|Intrepid Sword|boost
+|-boost|p2a: Zacian|atk|1
+|turn|9
+|
+|t:|1776970368
+|move|p2a: Zacian|Close Combat|p1a: Tinkaton
+|-damage|p1a: Tinkaton|0 fnt
+|-unboost|p2a: Zacian|def|1
+|-unboost|p2a: Zacian|spd|1
+|faint|p1a: Tinkaton
+|
+|upkeep
+|
+|t:|1776970376
+|switch|p1a: Volbeat|Volbeat, L90, M|263/263
+|turn|10
+|
+|t:|1776970393
+|switch|p2a: Venomoth|Venomoth, L84, M|255/255 slp
+|move|p1a: Volbeat|Thunder Wave||[still]
+|-fail|p1a: Volbeat
+|
+|upkeep
+|turn|11
+|
+|t:|1776970403
+|switch|p1a: Dugtrio|Dugtrio, L84, F|196/196
+|cant|p2a: Venomoth|slp
+|
+|upkeep
+|turn|12
+|
+|t:|1776970412
+|move|p1a: Dugtrio|Swords Dance|p1a: Dugtrio
+|-boost|p1a: Dugtrio|atk|2
+|cant|p2a: Venomoth|slp
+|
+|upkeep
+|turn|13
+|
+|t:|1776970448
+|-terastallize|p1a: Dugtrio|Ground
+|move|p1a: Dugtrio|Earthquake|p2a: Venomoth
+|-damage|p2a: Venomoth|0 fnt
+|faint|p2a: Venomoth
+|-damage|p1a: Dugtrio|177/196|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776970457
+|switch|p2a: Uxie|Uxie, L83|260/260
+|-damage|p2a: Uxie|228/260|[from] Stealth Rock
+|turn|14
+|
+|t:|1776970463
+|move|p1a: Dugtrio|Sucker Punch||[still]
+|-fail|p1a: Dugtrio
+|move|p2a: Uxie|Encore|p1a: Dugtrio
+|-start|p1a: Dugtrio|Encore
+|
+|-heal|p2a: Uxie|244/260|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1776970472
+|move|p1a: Dugtrio|Sucker Punch||[still]
+|-fail|p1a: Dugtrio
+|move|p2a: Uxie|Stealth Rock|p1a: Dugtrio
+|-sidestart|p1: Gokuh34567|move: Stealth Rock
+|
+|-heal|p2a: Uxie|260/260|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776970506
+|move|p1a: Dugtrio|Sucker Punch||[still]
+|-fail|p1a: Dugtrio
+|move|p2a: Uxie|Stealth Rock||[still]
+|-fail|p2a: Uxie
+|
+|upkeep
+|turn|17
+|
+|t:|1776970515
+|move|p1a: Dugtrio|Sucker Punch||[still]
+|-fail|p1a: Dugtrio
+|move|p2a: Uxie|Encore||[still]
+|-fail|p2a: Uxie
+|
+|-end|p1a: Dugtrio|Encore
+|upkeep
+|turn|18
+|c|☆w4schbecken|dk tf im doin
+|c|☆Gokuh34567|sob
+|c|☆Gokuh34567|Free set up i suppose
+|
+|t:|1776970538
+|switch|p2a: Zacian|Zacian, L69|211/241
+|-damage|p2a: Zacian|181/241|[from] Stealth Rock
+|move|p1a: Dugtrio|Swords Dance|p1a: Dugtrio
+|-boost|p1a: Dugtrio|atk|2
+|
+|upkeep
+|turn|19
+|
+|t:|1776970563
+|-terastallize|p2a: Zacian|Fighting
+|move|p1a: Dugtrio|Earthquake|p2a: Zacian
+|-damage|p2a: Zacian|0 fnt
+|faint|p2a: Zacian
+|-damage|p1a: Dugtrio|158/196|[from] item: Life Orb
+|
+|upkeep
+|c|☆w4schbecken|I did NOT mean to Tera.
+|
+|t:|1776970585
+|switch|p2a: Uxie|Uxie, L83|260/260
+|-damage|p2a: Uxie|228/260|[from] Stealth Rock
+|turn|20
+|
+|t:|1776970592
+|move|p1a: Dugtrio|Stone Edge|p2a: Uxie
+|-damage|p2a: Uxie|11/260
+|-damage|p1a: Dugtrio|139/196|[from] item: Life Orb
+|move|p2a: Uxie|Encore|p1a: Dugtrio
+|-start|p1a: Dugtrio|Encore
+|
+|-heal|p2a: Uxie|27/260|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1776970610
+|move|p1a: Dugtrio|Stone Edge|p2a: Uxie
+|-damage|p2a: Uxie|0 fnt
+|faint|p2a: Uxie
+|-damage|p1a: Dugtrio|120/196|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776970627
+|switch|p2a: Mismagius|Mismagius, L86, M|243/243
+|-damage|p2a: Mismagius|213/243|[from] Stealth Rock
+|turn|22
+|
+|t:|1776970633
+|move|p1a: Dugtrio|Stone Edge|p2a: Mismagius
+|-crit|p2a: Mismagius
+|-damage|p2a: Mismagius|0 fnt
+|faint|p2a: Mismagius
+|-damage|p1a: Dugtrio|101/196|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776970639
+|switch|p2a: Amoonguss|Amoonguss, L82, M|321/321
+|-damage|p2a: Amoonguss|281/321|[from] Stealth Rock
+|turn|23
+|
+|t:|1776970650
+|move|p1a: Dugtrio|Stone Edge|p2a: Amoonguss
+|-damage|p2a: Amoonguss|0 fnt
+|faint|p2a: Amoonguss
+|-damage|p1a: Dugtrio|82/196|[from] item: Life Orb
+|
+|win|Gokuh34567

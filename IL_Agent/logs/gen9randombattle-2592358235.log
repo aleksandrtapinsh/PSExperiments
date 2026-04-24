@@ -1,0 +1,152 @@
+|j|☆MiDash15
+|j|☆Whats a 223
+|t:|1776981837
+|gametype|singles
+|player|p1|MiDash15|jupiter|1162
+|player|p2|Whats a 223|2|1189
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776981837
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Chimecho|Chimecho, L93, F|290/290
+|switch|p2a: Yanmega|Yanmega, L82, F|275/275
+|turn|1
+|
+|t:|1776981853
+|-terastallize|p1a: Chimecho|Poison
+|move|p2a: Yanmega|Bug Buzz|p1a: Chimecho
+|-resisted|p1a: Chimecho
+|-damage|p1a: Chimecho|156/290
+|-unboost|p1a: Chimecho|spd|1
+|move|p1a: Chimecho|Calm Mind|p1a: Chimecho
+|-boost|p1a: Chimecho|spa|1
+|-boost|p1a: Chimecho|spd|1
+|
+|-heal|p1a: Chimecho|174/290|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776981868
+|switch|p2a: Golem|Golem, L87, F|281/281
+|move|p1a: Chimecho|Psychic Noise|p2a: Golem
+|-damage|p2a: Golem|122/281
+|-start|p2a: Golem|move: Heal Block
+|
+|-heal|p1a: Chimecho|192/290|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776981882
+|switch|p1a: Torterra|Torterra, L78, M|276/276
+|move|p2a: Golem|Explosion|p1a: Torterra
+|-damage|p1a: Torterra|65/276
+|faint|p2a: Golem
+|
+|upkeep
+|
+|t:|1776981888
+|switch|p2a: Yanmega|Yanmega, L82, F|275/275
+|turn|4
+|
+|t:|1776981895
+|switch|p1a: Chimecho|Chimecho, L93, F, tera:Poison|192/290
+|move|p2a: Yanmega|Bug Buzz|p1a: Chimecho
+|-resisted|p1a: Chimecho
+|-damage|p1a: Chimecho|62/290
+|
+|-heal|p1a: Chimecho|80/290|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776981903
+|move|p2a: Yanmega|Bug Buzz|p1a: Chimecho
+|-resisted|p1a: Chimecho
+|-damage|p1a: Chimecho|0 fnt
+|faint|p1a: Chimecho
+|
+|upkeep
+|
+|t:|1776981912
+|switch|p1a: Ambipom|Ambipom, L84, M|263/263
+|turn|6
+|
+|t:|1776981922
+|switch|p2a: Lunala|Lunala, L70|308/308
+|move|p1a: Ambipom|Triple Axel|p2a: Lunala
+|-damage|p2a: Lunala|288/308
+|-damage|p2a: Lunala|209/308
+|-damage|p2a: Lunala|104/308
+|-hitcount|p2a: Lunala|3
+|
+|-heal|p2a: Lunala|123/308|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776981935
+|switch|p1a: Torterra|Torterra, L78, M|65/276
+|move|p2a: Lunala|Focus Blast|p1a: Torterra|[miss]
+|-miss|p2a: Lunala|p1a: Torterra
+|
+|-heal|p2a: Lunala|142/308|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776981948
+|move|p2a: Lunala|Moonlight|p2a: Lunala
+|-heal|p2a: Lunala|296/308
+|move|p1a: Torterra|Shell Smash|p1a: Torterra
+|-unboost|p1a: Torterra|def|1
+|-unboost|p1a: Torterra|spd|1
+|-boost|p1a: Torterra|atk|2
+|-boost|p1a: Torterra|spa|2
+|-boost|p1a: Torterra|spe|2
+|
+|-heal|p2a: Lunala|308/308|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776981960
+|move|p1a: Torterra|Bullet Seed|p2a: Lunala
+|-damage|p2a: Lunala|261/308
+|-damage|p2a: Lunala|171/308
+|-damage|p2a: Lunala|81/308
+|-damage|p2a: Lunala|0 fnt
+|faint|p2a: Lunala
+|-hitcount|p2: Lunala|4
+|
+|upkeep
+|
+|t:|1776981968
+|switch|p2a: Yanmega|Yanmega, L82, F|275/275
+|turn|10
+|
+|t:|1776981973
+|-terastallize|p2a: Yanmega|Bug
+|move|p1a: Torterra|Rock Blast|p2a: Yanmega
+|-supereffective|p2a: Yanmega
+|-damage|p2a: Yanmega|201/275
+|-supereffective|p2a: Yanmega
+|-damage|p2a: Yanmega|125/275
+|-supereffective|p2a: Yanmega
+|-damage|p2a: Yanmega|49/275
+|-supereffective|p2a: Yanmega
+|-damage|p2a: Yanmega|0 fnt
+|faint|p2a: Yanmega
+|-hitcount|p2: Yanmega|4
+|
+|upkeep
+|-message|Whats a 223 forfeited.
+|
+|win|MiDash15
+|raw|MiDash15's rating: 1162 &rarr; <strong>1189</strong><br />(+27 for winning)
+|raw|Whats a 223's rating: 1189 &rarr; <strong>1162</strong><br />(-27 for losing)
+|l|☆Whats a 223
+|player|p2|

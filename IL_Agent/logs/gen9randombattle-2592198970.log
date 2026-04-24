@@ -1,0 +1,167 @@
+|j|☆Zachyyyb
+|j|☆Not_Takarin
+|t:|1776969849
+|gametype|singles
+|player|p1|Zachyyyb|cyrus|1040
+|player|p2|Not_Takarin|170|1089
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776969849
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Carbink|Carbink, L90|236/236
+|switch|p2a: Klawf|Klawf, L90, F|272/272
+|turn|1
+|
+|t:|1776969869
+|move|p2a: Klawf|High Horsepower|p1a: Carbink
+|-supereffective|p1a: Carbink
+|-damage|p1a: Carbink|134/236
+|move|p1a: Carbink|Iron Defense|p1a: Carbink
+|-boost|p1a: Carbink|def|2
+|
+|-heal|p1a: Carbink|148/236|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776969885
+|move|p2a: Klawf|Swords Dance|p2a: Klawf
+|-boost|p2a: Klawf|atk|2
+|move|p1a: Carbink|Body Press|p2a: Klawf
+|-supereffective|p2a: Klawf
+|-damage|p2a: Klawf|0 fnt
+|faint|p2a: Klawf
+|
+|-heal|p1a: Carbink|162/236|[from] item: Leftovers
+|upkeep
+|
+|t:|1776969913
+|switch|p2a: Kingdra|Kingdra, L84, F|263/263
+|turn|3
+|
+|t:|1776969918
+|move|p2a: Kingdra|Dragon Dance|p2a: Kingdra
+|-boost|p2a: Kingdra|atk|1
+|-boost|p2a: Kingdra|spe|1
+|move|p1a: Carbink|Moonblast|p2a: Kingdra
+|-supereffective|p2a: Kingdra
+|-damage|p2a: Kingdra|125/263
+|
+|-heal|p1a: Carbink|176/236|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776969931
+|-terastallize|p1a: Carbink|Fighting
+|move|p2a: Kingdra|Iron Head|p1a: Carbink
+|-damage|p1a: Carbink|147/236
+|move|p1a: Carbink|Moonblast|p2a: Kingdra
+|-supereffective|p2a: Kingdra
+|-damage|p2a: Kingdra|0 fnt
+|faint|p2a: Kingdra
+|
+|-heal|p1a: Carbink|161/236|[from] item: Leftovers
+|upkeep
+|
+|t:|1776969935
+|switch|p2a: Scizor|Scizor, L79, F|240/240
+|turn|5
+|
+|t:|1776969951
+|switch|p2a: Toxtricity|Toxtricity, L82, F|257/257
+|move|p1a: Carbink|Body Press|p2a: Toxtricity
+|-resisted|p2a: Toxtricity
+|-damage|p2a: Toxtricity|98/257
+|
+|-heal|p1a: Carbink|175/236|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776969987
+|move|p2a: Toxtricity|Sludge Wave|p1a: Carbink
+|-damage|p1a: Carbink|70/236
+|move|p1a: Carbink|Body Press|p2a: Toxtricity
+|-resisted|p2a: Toxtricity
+|-damage|p2a: Toxtricity|0 fnt
+|faint|p2a: Toxtricity
+|
+|-heal|p1a: Carbink|84/236|[from] item: Leftovers
+|upkeep
+|
+|t:|1776969991
+|switch|p2a: Lapras|Lapras, L87, F|367/367
+|turn|7
+|
+|t:|1776970000
+|move|p2a: Lapras|Earthquake|p1a: Carbink
+|-crit|p1a: Carbink
+|-damage|p1a: Carbink|17/236
+|move|p1a: Carbink|Body Press|p2a: Lapras
+|-supereffective|p2a: Lapras
+|-damage|p2a: Lapras|0 fnt
+|faint|p2a: Lapras
+|
+|-heal|p1a: Carbink|31/236|[from] item: Leftovers
+|upkeep
+|
+|t:|1776970003
+|switch|p2a: Scizor|Scizor, L79, F|240/240
+|turn|8
+|
+|t:|1776970011
+|move|p2a: Scizor|Bullet Punch|p1a: Carbink
+|-crit|p1a: Carbink
+|-damage|p1a: Carbink|0 fnt
+|faint|p1a: Carbink
+|
+|upkeep
+|
+|t:|1776970021
+|switch|p1a: Froslass|Froslass, L87, F|263/263
+|turn|9
+|
+|t:|1776970027
+|-terastallize|p2a: Scizor|Steel
+|move|p2a: Scizor|Bullet Punch|p1a: Froslass
+|-supereffective|p1a: Froslass
+|-damage|p1a: Froslass|0 fnt
+|faint|p1a: Froslass
+|
+|upkeep
+|
+|t:|1776970032
+|switch|p1a: Kyogre|Kyogre, L71|259/259
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Kyogre
+|turn|10
+|
+|t:|1776970045
+|switch|p2a: Spectrier|Spectrier, L75|274/274
+|move|p1a: Kyogre|Water Spout|p2a: Spectrier
+|-damage|p2a: Spectrier|0 fnt
+|faint|p2a: Spectrier
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1776970067
+|switch|p2a: Scizor|Scizor, L79, F, tera:Steel|240/240
+|turn|11
+|
+|t:|1776970075
+|move|p1a: Kyogre|Water Spout|p2a: Scizor
+|-crit|p2a: Scizor
+|-damage|p2a: Scizor|0 fnt
+|faint|p2a: Scizor
+|
+|win|Zachyyyb
+|raw|Zachyyyb's rating: 1040 &rarr; <strong>1077</strong><br />(+37 for winning)
+|raw|Not_Takarin's rating: 1068 &rarr; <strong>1046</strong><br />(-22 for losing)
+|l|☆Not_Takarin
+|player|p2|

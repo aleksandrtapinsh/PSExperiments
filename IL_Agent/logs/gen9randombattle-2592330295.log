@@ -1,0 +1,300 @@
+|j|☆LeNorm
+|j|☆blazar421
+|t:|1776979417
+|gametype|singles
+|player|p1|LeNorm|101|1939
+|player|p2|blazar421|lucas|1938
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776979417
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Thundurus|Thundurus, L80, M|258/258
+|switch|p2a: Rotom|Rotom-Wash, L82|216/216
+|turn|1
+|
+|t:|1776979432
+|move|p1a: Thundurus|Nasty Plot|p1a: Thundurus
+|-boost|p1a: Thundurus|spa|2
+|move|p2a: Rotom|Will-O-Wisp|p1a: Thundurus
+|-status|p1a: Thundurus|brn
+|
+|-damage|p1a: Thundurus|242/258 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1776979440
+|move|p1a: Thundurus|Thunderbolt|p2a: Rotom
+|-damage|p2a: Rotom|27/216
+|move|p2a: Rotom|Pain Split|p1a: Thundurus
+|-sethp|p1a: Thundurus|134/258 brn|[from] move: Pain Split|[silent]
+|-sethp|p2a: Rotom|134/216|[from] move: Pain Split
+|
+|-heal|p2a: Rotom|147/216|[from] item: Leftovers
+|-damage|p1a: Thundurus|118/258 brn|[from] brn
+|upkeep
+|turn|3
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by blazar421)
+|
+|t:|1776979445
+|switch|p2a: Sandslash|Sandslash, L89, M|278/278
+|move|p1a: Thundurus|Thunderbolt|p2a: Sandslash
+|-immune|p2a: Sandslash
+|
+|-damage|p1a: Thundurus|102/258 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1776979456
+|move|p1a: Thundurus|Focus Blast|p2a: Sandslash
+|-damage|p2a: Sandslash|48/278
+|move|p2a: Sandslash|Knock Off|p1a: Thundurus
+|-damage|p1a: Thundurus|0 fnt
+|-enditem|p1a: Thundurus|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Sandslash
+|faint|p1a: Thundurus
+|
+|-heal|p2a: Sandslash|65/278|[from] item: Leftovers
+|upkeep
+|
+|t:|1776979469
+|switch|p1a: Noctowl|Noctowl, L95, F|344/344
+|turn|5
+|
+|t:|1776979476
+|move|p1a: Noctowl|Hyper Voice|p2a: Sandslash
+|-damage|p2a: Sandslash|0 fnt
+|faint|p2a: Sandslash
+|
+|upkeep
+|
+|t:|1776979493
+|switch|p2a: Rotom|Rotom-Wash, L82|147/216
+|turn|6
+|
+|t:|1776979510
+|move|p2a: Rotom|Discharge|p1a: Noctowl
+|-supereffective|p1a: Noctowl
+|-damage|p1a: Noctowl|198/344
+|move|p1a: Noctowl|Hyper Voice|p2a: Rotom
+|-damage|p2a: Rotom|44/216
+|
+|-heal|p2a: Rotom|57/216|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776979521
+|move|p2a: Rotom|Pain Split|p1a: Noctowl
+|-sethp|p1a: Noctowl|127/344|[from] move: Pain Split|[silent]
+|-sethp|p2a: Rotom|127/216|[from] move: Pain Split
+|move|p1a: Noctowl|Hyper Voice|p2a: Rotom
+|-damage|p2a: Rotom|31/216
+|
+|-heal|p2a: Rotom|44/216|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776979529
+|switch|p1a: Dugtrio|Dugtrio-Alola, L84, M|196/196
+|move|p2a: Rotom|Discharge|p1a: Dugtrio
+|-immune|p1a: Dugtrio
+|
+|-heal|p2a: Rotom|57/216|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776979537
+|switch|p2a: Poliwrath|Poliwrath, L88, M|302/302
+|move|p1a: Dugtrio|Sucker Punch||[still]
+|-fail|p1a: Dugtrio
+|
+|upkeep
+|turn|10
+|
+|t:|1776979542
+|switch|p1a: Noctowl|Noctowl, L95, F|127/344
+|move|p2a: Poliwrath|Rain Dance|p2a: Poliwrath
+|-weather|RainDance
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1776979545
+|move|p2a: Poliwrath|Liquidation|p1a: Noctowl
+|-crit|p1a: Noctowl
+|-damage|p1a: Noctowl|0 fnt
+|faint|p1a: Noctowl
+|-damage|p2a: Poliwrath|272/302|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1776979548
+|switch|p1a: Lilligant|Lilligant, L86, F|261/261
+|turn|12
+|
+|t:|1776979553
+|move|p2a: Poliwrath|Close Combat|p1a: Lilligant
+|-damage|p1a: Lilligant|57/261
+|-unboost|p2a: Poliwrath|def|1
+|-unboost|p2a: Poliwrath|spd|1
+|-damage|p2a: Poliwrath|242/302|[from] item: Life Orb
+|move|p1a: Lilligant|Sleep Powder|p2a: Poliwrath
+|-status|p2a: Poliwrath|slp|[from] move: Sleep Powder
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1776979561
+|switch|p2a: Furret|Furret, L94, M|312/312
+|-item|p1a: Lilligant|Life Orb|[from] ability: Frisk|[of] p2a: Furret
+|move|p1a: Lilligant|Quiver Dance|p1a: Lilligant
+|-boost|p1a: Lilligant|spa|1
+|-boost|p1a: Lilligant|spd|1
+|-boost|p1a: Lilligant|spe|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1776979567
+|move|p1a: Lilligant|Petal Dance|p2a: Furret
+|-damage|p2a: Furret|0 fnt
+|faint|p2a: Furret
+|-damage|p1a: Lilligant|31/261|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|
+|t:|1776979578
+|switch|p2a: Cinccino|Cinccino, L83, F|260/260
+|turn|15
+|
+|t:|1776979583
+|switch|p2a: Poliwrath|Poliwrath, L88, M|242/302 slp
+|move|p1a: Lilligant|Petal Dance|p2a: Poliwrath|[from] lockedmove
+|-supereffective|p2a: Poliwrath
+|-damage|p2a: Poliwrath|0 fnt
+|faint|p2a: Poliwrath
+|-damage|p1a: Lilligant|5/261|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776979590
+|switch|p2a: Rotom|Rotom-Wash, L82|57/216
+|turn|16
+|
+|t:|1776979593
+|move|p1a: Lilligant|Petal Dance|p2a: Rotom|[from] lockedmove
+|-supereffective|p2a: Rotom
+|-damage|p2a: Rotom|0 fnt
+|faint|p2a: Rotom
+|-damage|p1a: Lilligant|0 fnt|[from] item: Life Orb
+|faint|p1a: Lilligant
+|
+|upkeep
+|
+|t:|1776979597
+|switch|p1a: Dugtrio|Dugtrio-Alola, L84, M|196/196
+|switch|p2a: Mewtwo|Mewtwo, L72|272/272
+|-ability|p2a: Mewtwo|Unnerve
+|turn|17
+|
+|t:|1776979602
+|move|p1a: Dugtrio|Earthquake|p2a: Mewtwo
+|-damage|p2a: Mewtwo|108/272
+|-damage|p1a: Dugtrio|177/196|[from] item: Life Orb
+|move|p2a: Mewtwo|Fire Blast|p1a: Dugtrio|[miss]
+|-miss|p2a: Mewtwo|p1a: Dugtrio
+|
+|upkeep
+|turn|18
+|
+|t:|1776979605
+|move|p1a: Dugtrio|Earthquake|p2a: Mewtwo
+|-damage|p2a: Mewtwo|0 fnt
+|faint|p2a: Mewtwo
+|-damage|p1a: Dugtrio|158/196|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776979607
+|switch|p2a: Cinccino|Cinccino, L83, F|260/260
+|turn|19
+|
+|t:|1776979612
+|-terastallize|p2a: Cinccino|Grass
+|move|p2a: Cinccino|Bullet Seed|p1a: Dugtrio
+|-damage|p1a: Dugtrio|112/196
+|-damage|p1a: Dugtrio|60/196
+|-damage|p1a: Dugtrio|11/196
+|-damage|p1a: Dugtrio|0 fnt
+|faint|p1a: Dugtrio
+|-hitcount|p1: Dugtrio|4
+|
+|upkeep
+|
+|t:|1776979618
+|switch|p1a: Volcarona|Volcarona, L77, M|257/257
+|turn|20
+|
+|t:|1776979623
+|move|p2a: Cinccino|Tail Slap|p1a: Volcarona
+|-damage|p1a: Volcarona|205/257
+|-damage|p1a: Volcarona|150/257
+|-damage|p1a: Volcarona|95/257
+|-damage|p1a: Volcarona|41/257
+|-hitcount|p1a: Volcarona|4
+|move|p1a: Volcarona|Fiery Dance|p2a: Cinccino
+|-supereffective|p2a: Cinccino
+|-damage|p2a: Cinccino|24/260
+|-boost|p1a: Volcarona|spa|1
+|
+|upkeep
+|turn|21
+|
+|t:|1776979633
+|move|p2a: Cinccino|Bullet Seed|p1a: Volcarona
+|-resisted|p1a: Volcarona
+|-damage|p1a: Volcarona|28/257
+|-resisted|p1a: Volcarona
+|-damage|p1a: Volcarona|15/257
+|-resisted|p1a: Volcarona
+|-damage|p1a: Volcarona|2/257
+|-resisted|p1a: Volcarona
+|-damage|p1a: Volcarona|0 fnt
+|faint|p1a: Volcarona
+|-hitcount|p1: Volcarona|4
+|
+|upkeep
+|
+|t:|1776979639
+|switch|p1a: Excadrill|Excadrill, L79, M|303/303
+|-ability|p1a: Excadrill|Mold Breaker
+|turn|22
+|
+|t:|1776979644
+|move|p2a: Cinccino|Bullet Seed|p1a: Excadrill
+|-damage|p1a: Excadrill|254/303
+|-damage|p1a: Excadrill|197/303
+|-damage|p1a: Excadrill|143/303
+|-crit|p1a: Excadrill
+|-damage|p1a: Excadrill|61/303
+|-hitcount|p1a: Excadrill|4
+|move|p1a: Excadrill|Rapid Spin|p2a: Cinccino
+|-damage|p2a: Cinccino|0 fnt
+|-boost|p1a: Excadrill|spe|1
+|faint|p2a: Cinccino
+|
+|win|LeNorm
+|raw|LeNorm's rating: 1939 &rarr; <strong>1959</strong><br />(+20 for winning)
+|raw|blazar421's rating: 1938 &rarr; <strong>1918</strong><br />(-20 for losing)
+|c|☆LeNorm|gg

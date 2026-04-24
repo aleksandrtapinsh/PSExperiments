@@ -1,0 +1,563 @@
+|j|☆OceanMan 3
+|j|☆Flyamese Cat
+|t:|1776970252
+|gametype|singles
+|player|p1|OceanMan 3|hilda|1534
+|player|p2|Flyamese Cat|iris-gen5bw2|1495
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776970252
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Toxicroak|Toxicroak, L84, M|277/277
+|switch|p2a: Dragapult|Dragapult, L77, F|262/262
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Flyamese Cat)
+|
+|t:|1776970261
+|move|p2a: Dragapult|Fire Blast|p1a: Toxicroak
+|-damage|p1a: Toxicroak|143/277
+|-damage|p2a: Dragapult|236/262|[from] item: Life Orb
+|move|p1a: Toxicroak|Knock Off|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|-enditem|p2a: Dragapult|Life Orb|[from] move: Knock Off|[of] p1a: Toxicroak
+|faint|p2a: Dragapult
+|-damage|p1a: Toxicroak|116/277|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776970282
+|switch|p2a: Exeggutor|Exeggutor, L89, F|312/312
+|turn|2
+|
+|t:|1776970291
+|-terastallize|p2a: Exeggutor|Steel
+|move|p1a: Toxicroak|Gunk Shot|p2a: Exeggutor
+|-immune|p2a: Exeggutor
+|move|p2a: Exeggutor|Substitute|p2a: Exeggutor
+|-start|p2a: Exeggutor|Substitute
+|-damage|p2a: Exeggutor|234/312
+|
+|upkeep
+|turn|3
+|
+|t:|1776970314
+|move|p1a: Toxicroak|Knock Off|p2a: Exeggutor
+|-end|p2a: Exeggutor|Substitute
+|-damage|p1a: Toxicroak|89/277|[from] item: Life Orb
+|move|p2a: Exeggutor|Psychic Noise|p1a: Toxicroak
+|-supereffective|p1a: Toxicroak
+|-damage|p1a: Toxicroak|0 fnt
+|faint|p1a: Toxicroak
+|
+|upkeep
+|
+|t:|1776970323
+|switch|p1a: Toucannon|Toucannon, L88, F|284/284
+|turn|4
+|
+|t:|1776970334
+|move|p1a: Toucannon|Boomburst|p2a: Exeggutor
+|-resisted|p2a: Exeggutor
+|-damage|p2a: Exeggutor|168/312
+|move|p2a: Exeggutor|Leech Seed|p1a: Toucannon|[miss]
+|-miss|p2a: Exeggutor|p1a: Toucannon
+|
+|upkeep
+|turn|5
+|
+|t:|1776970341
+|-singleturn|p1a: Toucannon|move: Beak Blast
+|move|p2a: Exeggutor|Leech Seed|p1a: Toucannon
+|-start|p1a: Toucannon|move: Leech Seed
+|move|p1a: Toucannon|Beak Blast|p2a: Exeggutor
+|-resisted|p2a: Exeggutor
+|-damage|p2a: Exeggutor|97/312
+|-enditem|p2a: Exeggutor|Sitrus Berry|[eat]
+|-heal|p2a: Exeggutor|175/312|[from] item: Sitrus Berry
+|
+|-damage|p1a: Toucannon|249/284|[from] Leech Seed|[of] p2a: Exeggutor
+|-heal|p2a: Exeggutor|210/312|[silent]
+|-item|p2a: Exeggutor|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|turn|6
+|
+|t:|1776970357
+|switch|p1a: Slaking|Slaking, L84, M|389/389
+|move|p2a: Exeggutor|Psychic Noise|p1a: Slaking
+|-damage|p1a: Slaking|247/389
+|-start|p1a: Slaking|move: Heal Block
+|
+|upkeep
+|turn|7
+|
+|t:|1776970367
+|switch|p2a: Spidops|Spidops, L96, M|271/271
+|move|p1a: Slaking|Earthquake|p2a: Spidops
+|-resisted|p2a: Spidops
+|-damage|p2a: Spidops|202/271
+|
+|-end|p1a: Slaking|move: Heal Block
+|upkeep
+|turn|8
+|
+|t:|1776970384
+|switch|p1a: Perrserker|Perrserker, L89, F|269/269
+|move|p2a: Spidops|Sticky Web|p1a: Perrserker
+|-sidestart|p1: OceanMan 3|move: Sticky Web
+|
+|upkeep
+|turn|9
+|
+|t:|1776970391
+|move|p1a: Perrserker|Iron Head|p2a: Spidops
+|-damage|p2a: Spidops|15/271
+|move|p2a: Spidops|Toxic Spikes|p1a: Perrserker
+|-sidestart|p1: OceanMan 3|move: Toxic Spikes
+|
+|upkeep
+|turn|10
+|
+|t:|1776970397
+|move|p1a: Perrserker|Iron Head|p2a: Spidops
+|-damage|p2a: Spidops|0 fnt
+|faint|p2a: Spidops
+|
+|upkeep
+|
+|t:|1776970407
+|switch|p2a: Clawitzer|Clawitzer, L87, M|265/265
+|turn|11
+|
+|t:|1776970416
+|move|p2a: Clawitzer|Aura Sphere|p1a: Perrserker
+|-supereffective|p1a: Perrserker
+|-damage|p1a: Perrserker|0 fnt
+|faint|p1a: Perrserker
+|
+|upkeep
+|
+|t:|1776970429
+|switch|p1a: Slaking|Slaking, L84, M|247/389
+|-activate|p1a: Slaking|move: Sticky Web
+|-unboost|p1a: Slaking|spe|1
+|-status|p1a: Slaking|psn
+|turn|12
+|
+|t:|1776970435
+|move|p2a: Clawitzer|Aura Sphere|p1a: Slaking
+|-supereffective|p1a: Slaking
+|-damage|p1a: Slaking|0 fnt
+|faint|p1a: Slaking
+|
+|upkeep
+|
+|t:|1776970438
+|switch|p1a: Toucannon|Toucannon, L88, F|249/284
+|turn|13
+|
+|t:|1776970443
+|move|p1a: Toucannon|Boomburst|p2a: Clawitzer
+|-damage|p2a: Clawitzer|138/265
+|move|p2a: Clawitzer|Aura Sphere|p1a: Toucannon
+|-damage|p1a: Toucannon|88/284
+|
+|upkeep
+|turn|14
+|
+|t:|1776970458
+|switch|p2a: Exeggutor|Exeggutor, L89, F, tera:Steel|210/312
+|move|p1a: Toucannon|Boomburst|p2a: Exeggutor
+|-resisted|p2a: Exeggutor
+|-damage|p2a: Exeggutor|132/312
+|-enditem|p2a: Exeggutor|Sitrus Berry|[eat]
+|-heal|p2a: Exeggutor|210/312|[from] item: Sitrus Berry
+|
+|upkeep
+|turn|15
+|
+|t:|1776970467
+|move|p1a: Toucannon|Roost|p1a: Toucannon
+|-heal|p1a: Toucannon|230/284
+|-singleturn|p1a: Toucannon|move: Roost
+|move|p2a: Exeggutor|Leech Seed|p1a: Toucannon
+|-start|p1a: Toucannon|move: Leech Seed
+|
+|-damage|p1a: Toucannon|195/284|[from] Leech Seed|[of] p2a: Exeggutor
+|-heal|p2a: Exeggutor|245/312|[silent]
+|-item|p2a: Exeggutor|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|turn|16
+|
+|t:|1776970478
+|switch|p1a: Latias|Latias, L79, F|256/256
+|move|p2a: Exeggutor|Psychic Noise|p1a: Latias
+|-resisted|p1a: Latias
+|-damage|p1a: Latias|211/256
+|-start|p1a: Latias|move: Heal Block
+|
+|upkeep
+|turn|17
+|
+|t:|1776970488
+|move|p1a: Latias|Calm Mind|p1a: Latias
+|-boost|p1a: Latias|spa|1
+|-boost|p1a: Latias|spd|1
+|move|p2a: Exeggutor|Leech Seed|p1a: Latias
+|-start|p1a: Latias|move: Leech Seed
+|
+|-damage|p1a: Latias|179/256|[from] Leech Seed|[of] p2a: Exeggutor
+|-heal|p2a: Exeggutor|277/312|[silent]
+|-end|p1a: Latias|move: Heal Block
+|upkeep
+|turn|18
+|
+|t:|1776970499
+|move|p1a: Latias|Psyshock|p2a: Exeggutor
+|-resisted|p2a: Exeggutor
+|-damage|p2a: Exeggutor|210/312
+|move|p2a: Exeggutor|Substitute|p2a: Exeggutor
+|-start|p2a: Exeggutor|Substitute
+|-damage|p2a: Exeggutor|132/312
+|-enditem|p2a: Exeggutor|Sitrus Berry|[eat]
+|-heal|p2a: Exeggutor|210/312|[from] item: Sitrus Berry
+|
+|-damage|p1a: Latias|147/256|[from] Leech Seed|[of] p2a: Exeggutor
+|-heal|p2a: Exeggutor|242/312|[silent]
+|upkeep
+|turn|19
+|
+|t:|1776970510
+|move|p1a: Latias|Recover|p1a: Latias
+|-heal|p1a: Latias|256/256
+|move|p2a: Exeggutor|Psychic Noise|p1a: Latias
+|-resisted|p1a: Latias
+|-damage|p1a: Latias|226/256
+|-start|p1a: Latias|move: Heal Block
+|
+|-damage|p1a: Latias|194/256|[from] Leech Seed|[of] p2a: Exeggutor
+|-heal|p2a: Exeggutor|274/312|[silent]
+|upkeep
+|turn|20
+|
+|t:|1776970521
+|move|p1a: Latias|Calm Mind|p1a: Latias
+|-boost|p1a: Latias|spa|1
+|-boost|p1a: Latias|spd|1
+|move|p2a: Exeggutor|Sludge Bomb|p1a: Latias
+|-damage|p1a: Latias|161/256
+|
+|-damage|p1a: Latias|129/256|[from] Leech Seed|[of] p2a: Exeggutor
+|-heal|p2a: Exeggutor|306/312|[silent]
+|-end|p1a: Latias|move: Heal Block
+|upkeep
+|turn|21
+|
+|t:|1776970531
+|move|p1a: Latias|Recover|p1a: Latias
+|-heal|p1a: Latias|256/256
+|move|p2a: Exeggutor|Sludge Bomb|p1a: Latias
+|-damage|p1a: Latias|224/256
+|
+|-damage|p1a: Latias|192/256|[from] Leech Seed|[of] p2a: Exeggutor
+|-heal|p2a: Exeggutor|312/312|[silent]
+|-item|p2a: Exeggutor|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|turn|22
+|
+|t:|1776970541
+|move|p1a: Latias|Psyshock|p2a: Exeggutor
+|-resisted|p2a: Exeggutor
+|-end|p2a: Exeggutor|Substitute
+|move|p2a: Exeggutor|Sludge Bomb|p1a: Latias
+|-damage|p1a: Latias|156/256
+|
+|-damage|p1a: Latias|124/256|[from] Leech Seed|[of] p2a: Exeggutor
+|upkeep
+|turn|23
+|
+|t:|1776970551
+|move|p1a: Latias|Psyshock|p2a: Exeggutor
+|-resisted|p2a: Exeggutor
+|-damage|p2a: Exeggutor|216/312
+|move|p2a: Exeggutor|Substitute|p2a: Exeggutor
+|-start|p2a: Exeggutor|Substitute
+|-damage|p2a: Exeggutor|138/312
+|-enditem|p2a: Exeggutor|Sitrus Berry|[eat]
+|-heal|p2a: Exeggutor|216/312|[from] item: Sitrus Berry
+|
+|-damage|p1a: Latias|92/256|[from] Leech Seed|[of] p2a: Exeggutor
+|-heal|p2a: Exeggutor|248/312|[silent]
+|-item|p2a: Exeggutor|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|turn|24
+|
+|t:|1776970563
+|move|p1a: Latias|Recover|p1a: Latias
+|-heal|p1a: Latias|220/256
+|move|p2a: Exeggutor|Sludge Bomb|p1a: Latias
+|-damage|p1a: Latias|186/256
+|
+|-damage|p1a: Latias|154/256|[from] Leech Seed|[of] p2a: Exeggutor
+|-heal|p2a: Exeggutor|280/312|[silent]
+|upkeep
+|turn|25
+|
+|t:|1776970572
+|move|p1a: Latias|Calm Mind|p1a: Latias
+|-boost|p1a: Latias|spa|1
+|-boost|p1a: Latias|spd|1
+|move|p2a: Exeggutor|Sludge Bomb|p1a: Latias
+|-damage|p1a: Latias|126/256
+|
+|-damage|p1a: Latias|94/256|[from] Leech Seed|[of] p2a: Exeggutor
+|-heal|p2a: Exeggutor|312/312|[silent]
+|upkeep
+|turn|26
+|
+|t:|1776970584
+|move|p1a: Latias|Recover|p1a: Latias
+|-heal|p1a: Latias|222/256
+|move|p2a: Exeggutor|Sludge Bomb|p1a: Latias
+|-damage|p1a: Latias|195/256
+|
+|-damage|p1a: Latias|163/256|[from] Leech Seed|[of] p2a: Exeggutor
+|upkeep
+|turn|27
+|
+|t:|1776970592
+|move|p1a: Latias|Calm Mind|p1a: Latias
+|-boost|p1a: Latias|spa|1
+|-boost|p1a: Latias|spd|1
+|move|p2a: Exeggutor|Psychic Noise|p1a: Latias
+|-resisted|p1a: Latias
+|-damage|p1a: Latias|150/256
+|-start|p1a: Latias|move: Heal Block
+|
+|-damage|p1a: Latias|118/256|[from] Leech Seed|[of] p2a: Exeggutor
+|upkeep
+|turn|28
+|
+|t:|1776970604
+|move|p1a: Latias|Psyshock|p2a: Exeggutor
+|-resisted|p2a: Exeggutor
+|-end|p2a: Exeggutor|Substitute
+|move|p2a: Exeggutor|Sludge Bomb|p1a: Latias
+|-damage|p1a: Latias|95/256
+|-status|p1a: Latias|psn
+|
+|-damage|p1a: Latias|63/256 psn|[from] Leech Seed|[of] p2a: Exeggutor
+|-damage|p1a: Latias|31/256 psn|[from] psn
+|-end|p1a: Latias|move: Heal Block
+|upkeep
+|turn|29
+|
+|t:|1776970616
+|move|p1a: Latias|Recover|p1a: Latias
+|-heal|p1a: Latias|159/256 psn
+|move|p2a: Exeggutor|Psychic Noise|p1a: Latias
+|-resisted|p1a: Latias
+|-damage|p1a: Latias|144/256 psn
+|-start|p1a: Latias|move: Heal Block
+|
+|-damage|p1a: Latias|112/256 psn|[from] Leech Seed|[of] p2a: Exeggutor
+|-damage|p1a: Latias|80/256 psn|[from] psn
+|upkeep
+|turn|30
+|
+|t:|1776970630
+|move|p1a: Latias|Psyshock|p2a: Exeggutor
+|-resisted|p2a: Exeggutor
+|-damage|p2a: Exeggutor|171/312
+|move|p2a: Exeggutor|Psychic Noise|p1a: Latias
+|-resisted|p1a: Latias
+|-damage|p1a: Latias|65/256 psn
+|
+|-damage|p1a: Latias|33/256 psn|[from] Leech Seed|[of] p2a: Exeggutor
+|-heal|p2a: Exeggutor|203/312|[silent]
+|-damage|p1a: Latias|1/256 psn|[from] psn
+|-end|p1a: Latias|move: Heal Block
+|upkeep
+|turn|31
+|
+|t:|1776970643
+|move|p1a: Latias|Recover|p1a: Latias
+|-heal|p1a: Latias|129/256 psn
+|move|p2a: Exeggutor|Substitute|p2a: Exeggutor
+|-start|p2a: Exeggutor|Substitute
+|-damage|p2a: Exeggutor|125/312
+|-enditem|p2a: Exeggutor|Sitrus Berry|[eat]
+|-heal|p2a: Exeggutor|203/312|[from] item: Sitrus Berry
+|
+|-damage|p1a: Latias|97/256 psn|[from] Leech Seed|[of] p2a: Exeggutor
+|-heal|p2a: Exeggutor|235/312|[silent]
+|-damage|p1a: Latias|65/256 psn|[from] psn
+|-item|p2a: Exeggutor|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|turn|32
+|
+|t:|1776970656
+|move|p1a: Latias|Recover|p1a: Latias
+|-heal|p1a: Latias|193/256 psn
+|move|p2a: Exeggutor|Psychic Noise|p1a: Latias
+|-resisted|p1a: Latias
+|-damage|p1a: Latias|178/256 psn
+|-start|p1a: Latias|move: Heal Block
+|
+|-damage|p1a: Latias|146/256 psn|[from] Leech Seed|[of] p2a: Exeggutor
+|-heal|p2a: Exeggutor|267/312|[silent]
+|-damage|p1a: Latias|114/256 psn|[from] psn
+|upkeep
+|turn|33
+|
+|t:|1776970669
+|move|p1a: Latias|Psyshock|p2a: Exeggutor
+|-resisted|p2a: Exeggutor
+|-end|p2a: Exeggutor|Substitute
+|move|p2a: Exeggutor|Substitute|p2a: Exeggutor
+|-start|p2a: Exeggutor|Substitute
+|-damage|p2a: Exeggutor|189/312
+|
+|-damage|p1a: Latias|82/256 psn|[from] Leech Seed|[of] p2a: Exeggutor
+|-heal|p2a: Exeggutor|221/312|[silent]
+|-damage|p1a: Latias|50/256 psn|[from] psn
+|-end|p1a: Latias|move: Heal Block
+|upkeep
+|turn|34
+|
+|t:|1776970683
+|move|p1a: Latias|Recover|p1a: Latias
+|-heal|p1a: Latias|178/256 psn
+|move|p2a: Exeggutor|Psychic Noise|p1a: Latias
+|-resisted|p1a: Latias
+|-damage|p1a: Latias|163/256 psn
+|-start|p1a: Latias|move: Heal Block
+|
+|-damage|p1a: Latias|131/256 psn|[from] Leech Seed|[of] p2a: Exeggutor
+|-heal|p2a: Exeggutor|253/312|[silent]
+|-damage|p1a: Latias|99/256 psn|[from] psn
+|upkeep
+|turn|35
+|
+|t:|1776970695
+|move|p1a: Latias|Psyshock|p2a: Exeggutor
+|-resisted|p2a: Exeggutor
+|-end|p2a: Exeggutor|Substitute
+|move|p2a: Exeggutor|Substitute|p2a: Exeggutor
+|-start|p2a: Exeggutor|Substitute
+|-damage|p2a: Exeggutor|175/312
+|
+|-damage|p1a: Latias|67/256 psn|[from] Leech Seed|[of] p2a: Exeggutor
+|-heal|p2a: Exeggutor|207/312|[silent]
+|-damage|p1a: Latias|35/256 psn|[from] psn
+|-end|p1a: Latias|move: Heal Block
+|upkeep
+|turn|36
+|
+|t:|1776970717
+|move|p1a: Latias|Psyshock|p2a: Exeggutor
+|-resisted|p2a: Exeggutor
+|-end|p2a: Exeggutor|Substitute
+|move|p2a: Exeggutor|Substitute|p2a: Exeggutor
+|-start|p2a: Exeggutor|Substitute
+|-damage|p2a: Exeggutor|129/312
+|-enditem|p2a: Exeggutor|Sitrus Berry|[eat]
+|-heal|p2a: Exeggutor|207/312|[from] item: Sitrus Berry
+|
+|-damage|p1a: Latias|3/256 psn|[from] Leech Seed|[of] p2a: Exeggutor
+|-heal|p2a: Exeggutor|239/312|[silent]
+|-damage|p1a: Latias|0 fnt|[from] psn
+|faint|p1a: Latias
+|upkeep
+|
+|t:|1776970726
+|switch|p1a: Toucannon|Toucannon, L88, F|195/284
+|turn|37
+|
+|t:|1776970739
+|move|p1a: Toucannon|Boomburst|p2a: Exeggutor
+|-resisted|p2a: Exeggutor
+|-damage|p2a: Exeggutor|171/312
+|move|p2a: Exeggutor|Leech Seed|p1a: Toucannon
+|-start|p1a: Toucannon|move: Leech Seed
+|
+|-damage|p1a: Toucannon|160/284|[from] Leech Seed|[of] p2a: Exeggutor
+|-heal|p2a: Exeggutor|206/312|[silent]
+|-item|p2a: Exeggutor|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|turn|38
+|
+|t:|1776970750
+|move|p1a: Toucannon|Boomburst|p2a: Exeggutor
+|-resisted|p2a: Exeggutor
+|-damage|p2a: Exeggutor|140/312
+|-enditem|p2a: Exeggutor|Sitrus Berry|[eat]
+|-heal|p2a: Exeggutor|218/312|[from] item: Sitrus Berry
+|move|p2a: Exeggutor|Sludge Bomb|p1a: Toucannon
+|-damage|p1a: Toucannon|64/284
+|-status|p1a: Toucannon|psn
+|
+|-damage|p1a: Toucannon|29/284 psn|[from] Leech Seed|[of] p2a: Exeggutor
+|-heal|p2a: Exeggutor|253/312|[silent]
+|-damage|p1a: Toucannon|0 fnt|[from] psn
+|faint|p1a: Toucannon
+|-item|p2a: Exeggutor|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|
+|t:|1776970766
+|switch|p1a: Arceus|Arceus-Psychic, L69|280/280
+|-activate|p1a: Arceus|move: Sticky Web
+|-unboost|p1a: Arceus|spe|1
+|-status|p1a: Arceus|psn
+|turn|39
+|
+|t:|1776970779
+|move|p2a: Exeggutor|Leech Seed|p1a: Arceus
+|-start|p1a: Arceus|move: Leech Seed
+|move|p1a: Arceus|Cosmic Power|p1a: Arceus
+|-boost|p1a: Arceus|def|1
+|-boost|p1a: Arceus|spd|1
+|
+|-damage|p1a: Arceus|245/280 psn|[from] Leech Seed|[of] p2a: Exeggutor
+|-heal|p2a: Exeggutor|288/312|[silent]
+|-damage|p1a: Arceus|210/280 psn|[from] psn
+|upkeep
+|turn|40
+|
+|t:|1776970790
+|move|p2a: Exeggutor|Psychic Noise|p1a: Arceus
+|-resisted|p1a: Arceus
+|-damage|p1a: Arceus|177/280 psn
+|-start|p1a: Arceus|move: Heal Block
+|move|p1a: Arceus|Cosmic Power|p1a: Arceus
+|-boost|p1a: Arceus|def|1
+|-boost|p1a: Arceus|spd|1
+|
+|-damage|p1a: Arceus|142/280 psn|[from] Leech Seed|[of] p2a: Exeggutor
+|-heal|p2a: Exeggutor|312/312|[silent]
+|-damage|p1a: Arceus|107/280 psn|[from] psn
+|upkeep
+|turn|41
+|
+|t:|1776970805
+|move|p2a: Exeggutor|Sludge Bomb|p1a: Arceus
+|-damage|p1a: Arceus|67/280 psn
+|move|p1a: Arceus|Cosmic Power|p1a: Arceus
+|-boost|p1a: Arceus|def|1
+|-boost|p1a: Arceus|spd|1
+|
+|-damage|p1a: Arceus|32/280 psn|[from] Leech Seed|[of] p2a: Exeggutor
+|-damage|p1a: Arceus|0 fnt|[from] psn
+|faint|p1a: Arceus
+|
+|win|Flyamese Cat
+|raw|OceanMan 3's rating: 1534 &rarr; <strong>1512</strong><br />(-22 for losing)
+|raw|Flyamese Cat's rating: 1495 &rarr; <strong>1517</strong><br />(+22 for winning)

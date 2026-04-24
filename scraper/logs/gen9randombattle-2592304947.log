@@ -1,0 +1,53 @@
+|j|☆pelele19
+|j|☆disconnectduewifi
+|t:|1776977378
+|gametype|singles
+|player|p1|pelele19|265|1829
+|player|p2|disconnectduewifi|lucas|1763
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776977378
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Toxapex|Toxapex, L82, M|216/216
+|switch|p2a: Leafeon|Leafeon, L88, F|258/258
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by pelele19)
+|
+|t:|1776977395
+|switch|p2a: Cobalion|Cobalion, L80|277/277
+|move|p1a: Toxapex|Toxic|p2a: Cobalion
+|-immune|p2a: Cobalion
+|
+|upkeep
+|turn|2
+|
+|t:|1776977405
+|switch|p1a: Oricorio|Oricorio-Pa'u, L87, F|272/272
+|move|p2a: Cobalion|Stealth Rock|p1a: Oricorio
+|-sidestart|p1: pelele19|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1776977413
+|move|p2a: Cobalion|Thunder Wave|p1a: Oricorio
+|-status|p1a: Oricorio|par
+|cant|p1a: Oricorio|par
+|
+|upkeep
+|turn|4
+|-message|pelele19 forfeited.
+|
+|win|disconnectduewifi
+|raw|pelele19's rating: 1829 &rarr; <strong>1805</strong><br />(-24 for losing)
+|raw|disconnectduewifi's rating: 1763 &rarr; <strong>1787</strong><br />(+24 for winning)
+|l|☆pelele19
+|player|p1|

@@ -1,0 +1,196 @@
+|j|☆Mihir1999
+|j|☆carlosaktsuke
+|t:|1776972537
+|gametype|singles
+|player|p1|Mihir1999|1|1463
+|player|p2|carlosaktsuke|n|1466
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776972537
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kricketune|Kricketune, L99, M|311/311
+|switch|p2a: Shiftry|Shiftry, L89, F|305/305
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Mihir1999)
+|
+|t:|1776972565
+|switch|p2a: Iron Treads|Iron Treads, L77|265/265
+|move|p1a: Kricketune|Sticky Web|p2a: Iron Treads
+|-sidestart|p2: carlosaktsuke|move: Sticky Web
+|
+|upkeep
+|turn|2
+|
+|t:|1776972584
+|move|p2a: Iron Treads|Rapid Spin|p1a: Kricketune
+|-damage|p1a: Kricketune|267/311
+|-boost|p2a: Iron Treads|spe|1
+|-sideend|p2: carlosaktsuke|Sticky Web|[from] move: Rapid Spin|[of] p2a: Iron Treads
+|move|p1a: Kricketune|Knock Off|p2a: Iron Treads
+|-damage|p2a: Iron Treads|187/265
+|-enditem|p2a: Iron Treads|Assault Vest|[from] move: Knock Off|[of] p1a: Kricketune
+|
+|upkeep
+|turn|3
+|
+|t:|1776972592
+|-terastallize|p1a: Kricketune|Ghost
+|move|p2a: Iron Treads|Iron Head|p1a: Kricketune
+|-damage|p1a: Kricketune|162/311
+|cant|p1a: Kricketune|flinch
+|
+|upkeep
+|turn|4
+|
+|t:|1776972598
+|move|p2a: Iron Treads|Iron Head|p1a: Kricketune
+|-damage|p1a: Kricketune|71/311
+|move|p1a: Kricketune|Sticky Web|p2a: Iron Treads
+|-sidestart|p2: carlosaktsuke|move: Sticky Web
+|
+|upkeep
+|turn|5
+|
+|t:|1776972613
+|switch|p1a: Cramorant|Cramorant, L86, M|261/261
+|move|p2a: Iron Treads|Earthquake|p1a: Cramorant
+|-immune|p1a: Cramorant
+|
+|upkeep
+|turn|6
+|
+|t:|1776972625
+|move|p2a: Iron Treads|Volt Switch|p1a: Cramorant
+|-supereffective|p1a: Cramorant
+|-damage|p1a: Cramorant|149/261
+|
+|t:|1776972645
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Mismagius|Mismagius, L86, F|243/243|[from] Volt Switch
+|move|p1a: Cramorant|Surf|p2a: Mismagius
+|-formechange|p1a: Cramorant|Cramorant-Gulping|
+|-damage|p2a: Mismagius|165/243
+|
+|upkeep
+|turn|7
+|
+|t:|1776972663
+|switch|p1a: Enamorus|Enamorus-Therian, L83, F|259/259
+|move|p2a: Mismagius|Energy Ball|p1a: Enamorus
+|-resisted|p1a: Enamorus
+|-crit|p1a: Enamorus
+|-damage|p1a: Enamorus|210/259
+|
+|upkeep
+|turn|8
+|
+|t:|1776972681
+|switch|p2a: Tauros|Tauros-Paldea-Aqua, L81, M|254/254
+|-activate|p2a: Tauros|move: Sticky Web
+|-unboost|p2a: Tauros|spe|1
+|-ability|p2a: Tauros|Intimidate|boost
+|-unboost|p1a: Enamorus|atk|1
+|move|p1a: Enamorus|Moonblast|p2a: Tauros
+|-supereffective|p2a: Tauros
+|-damage|p2a: Tauros|0 fnt
+|faint|p2a: Tauros
+|
+|upkeep
+|
+|t:|1776972692
+|switch|p2a: Iron Treads|Iron Treads, L77|187/265
+|-activate|p2a: Iron Treads|move: Sticky Web
+|-unboost|p2a: Iron Treads|spe|1
+|turn|9
+|
+|t:|1776972701
+|move|p2a: Iron Treads|Rapid Spin|p1a: Enamorus
+|-damage|p1a: Enamorus|178/259
+|-boost|p2a: Iron Treads|spe|1
+|-sideend|p2: carlosaktsuke|Sticky Web|[from] move: Rapid Spin|[of] p2a: Iron Treads
+|move|p1a: Enamorus|Earth Power|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|inactive|carlosaktsuke has 120 seconds left.
+|
+|t:|1776972731
+|switch|p2a: Mismagius|Mismagius, L86, F|165/243
+|turn|10
+|
+|t:|1776972738
+|move|p2a: Mismagius|Trick|p1a: Enamorus
+|-activate|p2a: Mismagius|move: Trick|[of] p1a: Enamorus
+|-item|p1a: Enamorus|Choice Specs|[from] move: Trick
+|-item|p2a: Mismagius|Assault Vest|[from] move: Trick
+|move|p1a: Enamorus|Moonblast|p2a: Mismagius
+|-damage|p2a: Mismagius|57/243
+|
+|upkeep
+|turn|11
+|
+|t:|1776972748
+|switch|p2a: Bastiodon|Bastiodon, L89, F|252/252
+|move|p1a: Enamorus|Moonblast|p2a: Bastiodon
+|-resisted|p2a: Bastiodon
+|-damage|p2a: Bastiodon|192/252
+|-unboost|p2a: Bastiodon|spa|1
+|
+|upkeep
+|turn|12
+|
+|t:|1776972758
+|switch|p1a: Flygon|Flygon, L82, F|265/265
+|move|p2a: Bastiodon|Iron Defense|p2a: Bastiodon
+|-boost|p2a: Bastiodon|def|2
+|
+|upkeep
+|turn|13
+|
+|t:|1776972765
+|move|p1a: Flygon|Earthquake|p2a: Bastiodon
+|-supereffective|p2a: Bastiodon
+|-damage|p2a: Bastiodon|20/252
+|move|p2a: Bastiodon|Body Press|p1a: Flygon
+|-damage|p1a: Flygon|46/265
+|
+|upkeep
+|turn|14
+|
+|t:|1776972771
+|move|p1a: Flygon|Earthquake|p2a: Bastiodon
+|-supereffective|p2a: Bastiodon
+|-damage|p2a: Bastiodon|0 fnt
+|faint|p2a: Bastiodon
+|
+|upkeep
+|
+|t:|1776972773
+|switch|p2a: Mismagius|Mismagius, L86, F|57/243
+|turn|15
+|
+|t:|1776972780
+|switch|p1a: Bisharp|Bisharp, L79, F|232/232
+|move|p2a: Mismagius|Dazzling Gleam|p1a: Bisharp
+|-damage|p1a: Bisharp|181/232
+|
+|upkeep
+|turn|16
+|-message|carlosaktsuke forfeited.
+|
+|win|Mihir1999
+|raw|Mihir1999's rating: 1463 &rarr; <strong>1483</strong><br />(+20 for winning)
+|raw|carlosaktsuke's rating: 1466 &rarr; <strong>1446</strong><br />(-20 for losing)
+|l|☆carlosaktsuke
+|player|p2|

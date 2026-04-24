@@ -1,0 +1,150 @@
+|j|☆Anmol4555
+|j|☆Anmol4547
+|t:|1776982536
+|gametype|singles
+|player|p1|Anmol4555|169|
+|player|p2|Anmol4547|hilbert-wonderlauncher|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776982536
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Cacturne|Cacturne, L92, F|278/278
+|switch|p2a: Volcarona|Volcarona, L77, F|257/257
+|turn|1
+|
+|t:|1776982586
+|move|p1a: Cacturne|Sucker Punch||[still]
+|-fail|p1a: Cacturne
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|
+|upkeep
+|turn|2
+|
+|t:|1776982621
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|move|p1a: Cacturne|Drain Punch|p2a: Volcarona
+|-resisted|p2a: Volcarona
+|-damage|p2a: Volcarona|192/257
+|-damage|p1a: Cacturne|251/278|[from] item: Life Orb
+|
+|upkeep
+|turn|3
+|
+|t:|1776982656
+|switch|p1a: Necrozma|Necrozma, L80|286/286
+|move|p2a: Volcarona|Bug Buzz|p1a: Necrozma
+|-supereffective|p1a: Necrozma
+|-damage|p1a: Necrozma|0 fnt
+|faint|p1a: Necrozma
+|
+|upkeep
+|
+|t:|1776982731
+|switch|p1a: Cobalion|Cobalion, L80|277/277
+|turn|4
+|
+|t:|1776982744
+|move|p2a: Volcarona|Fiery Dance|p1a: Cobalion
+|-supereffective|p1a: Cobalion
+|-damage|p1a: Cobalion|0 fnt
+|faint|p1a: Cobalion
+|
+|upkeep
+|
+|t:|1776982775
+|switch|p1a: Squawkabilly|Squawkabilly-Yellow, L89, M|291/291
+|turn|5
+|
+|t:|1776982783
+|move|p2a: Volcarona|Fiery Dance|p1a: Squawkabilly
+|-damage|p1a: Squawkabilly|20/291
+|move|p1a: Squawkabilly|Brave Bird|p2a: Volcarona|[miss]
+|-miss|p1a: Squawkabilly|p2a: Volcarona
+|
+|upkeep
+|turn|6
+|
+|t:|1776982794
+|move|p1a: Squawkabilly|Quick Attack|p2a: Volcarona
+|-damage|p2a: Volcarona|99/257
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|
+|upkeep
+|turn|7
+|
+|t:|1776982803
+|move|p1a: Squawkabilly|Quick Attack|p2a: Volcarona|[miss]
+|-miss|p1a: Squawkabilly|p2a: Volcarona
+|move|p2a: Volcarona|Fiery Dance|p1a: Squawkabilly
+|-damage|p1a: Squawkabilly|0 fnt
+|-boost|p2a: Volcarona|spa|1
+|faint|p1a: Squawkabilly
+|
+|upkeep
+|
+|t:|1776982815
+|switch|p1a: Miraidon|Miraidon, L65|238/238
+|-fieldstart|move: Electric Terrain|[from] ability: Hadron Engine|[of] p1a: Miraidon
+|turn|8
+|
+|t:|1776982832
+|-terastallize|p2a: Volcarona|Ground
+|move|p2a: Volcarona|Tera Blast|p1a: Miraidon|[anim] Tera Blast Ground
+|-supereffective|p1a: Miraidon
+|-crit|p1a: Miraidon
+|-damage|p1a: Miraidon|0 fnt
+|faint|p1a: Miraidon
+|
+|upkeep
+|
+|t:|1776982847
+|switch|p1a: Smeargle|Smeargle, L95, M|258/258
+|turn|9
+|
+|t:|1776982854
+|move|p2a: Volcarona|Bug Buzz|p1a: Smeargle
+|-enditem|p1a: Smeargle|Focus Sash
+|-damage|p1a: Smeargle|1/258
+|move|p1a: Smeargle|Sticky Web|p2a: Volcarona
+|-sidestart|p2: Anmol4547|move: Sticky Web
+|
+|upkeep
+|turn|10
+|
+|t:|1776982863
+|move|p2a: Volcarona|Fiery Dance|p1a: Smeargle
+|-damage|p1a: Smeargle|0 fnt
+|-boost|p2a: Volcarona|spa|1
+|faint|p1a: Smeargle
+|
+|upkeep
+|
+|t:|1776982869
+|switch|p1a: Cacturne|Cacturne, L92, F|251/278
+|turn|11
+|
+|t:|1776982874
+|move|p2a: Volcarona|Bug Buzz|p1a: Cacturne
+|-supereffective|p1a: Cacturne
+|-damage|p1a: Cacturne|0 fnt
+|faint|p1a: Cacturne
+|
+|win|Anmol4547
+|l|☆Anmol4555
+|player|p1|

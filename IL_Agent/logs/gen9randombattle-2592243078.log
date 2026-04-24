@@ -1,0 +1,492 @@
+|j|☆mehzilla04
+|j|☆Dorothyyyy
+|t:|1776972869
+|gametype|singles
+|player|p1|mehzilla04|2|1424
+|player|p2|Dorothyyyy|cheryl|1403
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776972869
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ogerpon|Ogerpon-Hearthflame, L74, F|239/239
+|switch|p2a: Inteleon|Inteleon, L81, M|246/246
+|-ability|p1a: Ogerpon|Mold Breaker
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Dorothyyyy)
+|
+|t:|1776972885
+|switch|p1a: Ludicolo|Ludicolo, L90, M|290/290
+|move|p2a: Inteleon|Hydro Pump|p1a: Ludicolo
+|-resisted|p1a: Ludicolo
+|-damage|p1a: Ludicolo|246/290
+|
+|upkeep
+|turn|2
+|
+|t:|1776972892
+|switch|p2a: Weezing|Weezing-Galar, L86, F|252/252
+|move|p1a: Ludicolo|Rain Dance|p1a: Ludicolo
+|-weather|RainDance
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1776972905
+|switch|p1a: Muk|Muk, L86, M|321/321
+|move|p2a: Weezing|Gunk Shot|p1a: Muk
+|-resisted|p1a: Muk
+|-damage|p1a: Muk|258/321
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1776972913
+|switch|p2a: Corviknight|Corviknight, L80, F|288/288
+|move|p1a: Muk|Knock Off|p2a: Corviknight
+|-damage|p2a: Corviknight|212/288
+|-enditem|p2a: Corviknight|Leftovers|[from] move: Knock Off|[of] p1a: Muk
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1776972926
+|move|p2a: Corviknight|Brave Bird|p1a: Muk
+|-damage|p1a: Muk|149/321
+|-damage|p2a: Corviknight|176/288|[from] Recoil
+|move|p1a: Muk|Drain Punch|p2a: Corviknight
+|-damage|p2a: Corviknight|119/288
+|-heal|p1a: Muk|178/321|[from] drain|[of] p2a: Corviknight
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1776972943
+|switch|p1a: Palossand|Palossand, L89, F|296/296
+|move|p2a: Corviknight|Brave Bird|p1a: Palossand
+|-damage|p1a: Palossand|212/296
+|-damage|p2a: Corviknight|91/288|[from] Recoil
+|
+|-weather|none
+|-heal|p1a: Palossand|230/296|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776972953
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|235/288
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Palossand|Stealth Rock|p2a: Corviknight
+|-sidestart|p2: Dorothyyyy|move: Stealth Rock
+|
+|-heal|p1a: Palossand|248/296|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776972962
+|move|p2a: Corviknight|U-turn|p1a: Palossand
+|-resisted|p1a: Palossand
+|-damage|p1a: Palossand|230/296
+|
+|t:|1776972964
+|switch|p2a: Weezing|Weezing-Galar, L86, F|252/252|[from] U-turn
+|-damage|p2a: Weezing|221/252|[from] Stealth Rock
+|move|p1a: Palossand|Shadow Ball|p2a: Weezing
+|-damage|p2a: Weezing|107/252
+|
+|-heal|p2a: Weezing|122/252|[from] item: Leftovers
+|-heal|p1a: Palossand|248/296|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776972978
+|move|p2a: Weezing|Defog|p1a: Palossand
+|-unboost|p1a: Palossand|evasion|1
+|-sideend|p2: Dorothyyyy|Stealth Rock|[from] move: Defog|[of] p2a: Weezing
+|move|p1a: Palossand|Shadow Ball|p2a: Weezing
+|-damage|p2a: Weezing|13/252
+|
+|-heal|p2a: Weezing|28/252|[from] item: Leftovers
+|-heal|p1a: Palossand|266/296|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1776972987
+|move|p2a: Weezing|Strange Steam|p1a: Palossand
+|-damage|p1a: Palossand|164/296
+|-start|p1a: Palossand|confusion
+|-activate|p1a: Palossand|confusion
+|move|p1a: Palossand|Shadow Ball|p2a: Weezing
+|-damage|p2a: Weezing|0 fnt
+|faint|p2a: Weezing
+|
+|-heal|p1a: Palossand|182/296|[from] item: Leftovers
+|upkeep
+|
+|t:|1776973007
+|switch|p2a: Inteleon|Inteleon, L81, M|246/246
+|turn|11
+|
+|t:|1776973012
+|switch|p1a: Ludicolo|Ludicolo, L90, M|246/290
+|move|p2a: Inteleon|U-turn|p1a: Ludicolo
+|-supereffective|p1a: Ludicolo
+|-damage|p1a: Ludicolo|146/290
+|
+|t:|1776973023
+|switch|p2a: Flygon|Flygon, L82, F|265/265|[from] U-turn
+|
+|upkeep
+|turn|12
+|
+|t:|1776973032
+|move|p2a: Flygon|U-turn|p1a: Ludicolo
+|-supereffective|p1a: Ludicolo
+|-damage|p1a: Ludicolo|0 fnt
+|faint|p1a: Ludicolo
+|
+|t:|1776973041
+|switch|p2a: Inteleon|Inteleon, L81, M|246/246|[from] U-turn
+|
+|upkeep
+|
+|t:|1776973056
+|switch|p1a: Muk|Muk, L86, M|178/321
+|turn|13
+|
+|t:|1776973064
+|move|p2a: Inteleon|Hydro Pump|p1a: Muk
+|-damage|p1a: Muk|60/321
+|move|p1a: Muk|Gunk Shot|p2a: Inteleon
+|-damage|p2a: Inteleon|59/246
+|
+|upkeep
+|turn|14
+|
+|t:|1776973073
+|move|p2a: Inteleon|Hydro Pump|p1a: Muk
+|-damage|p1a: Muk|0 fnt
+|faint|p1a: Muk
+|
+|upkeep
+|
+|t:|1776973077
+|switch|p1a: Lokix|Lokix, L82, F|251/251
+|turn|15
+|
+|t:|1776973081
+|switch|p2a: Corviknight|Corviknight, L80, F|235/288
+|move|p1a: Lokix|First Impression|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|183/288
+|
+|upkeep
+|turn|16
+|
+|t:|1776973094
+|move|p1a: Lokix|U-turn|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|145/288
+|
+|t:|1776973099
+|switch|p1a: Palossand|Palossand, L89, F|182/296|[from] U-turn
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|288/288
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-heal|p1a: Palossand|200/296|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1776973108
+|move|p2a: Corviknight|Brave Bird|p1a: Palossand
+|-damage|p1a: Palossand|107/296
+|-damage|p2a: Corviknight|257/288|[from] Recoil
+|move|p1a: Palossand|Stealth Rock|p2a: Corviknight
+|-sidestart|p2: Dorothyyyy|move: Stealth Rock
+|
+|-heal|p1a: Palossand|125/296|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1776973115
+|move|p2a: Corviknight|Brave Bird|p1a: Palossand
+|-damage|p1a: Palossand|34/296
+|-damage|p2a: Corviknight|227/288|[from] Recoil
+|move|p1a: Palossand|Shore Up|p1a: Palossand
+|-heal|p1a: Palossand|182/296
+|
+|-heal|p1a: Palossand|200/296|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1776973124
+|move|p2a: Corviknight|Brave Bird|p1a: Palossand
+|-damage|p1a: Palossand|121/296
+|-damage|p2a: Corviknight|201/288|[from] Recoil
+|move|p1a: Palossand|Shadow Ball|p2a: Corviknight
+|-damage|p2a: Corviknight|105/288
+|
+|-heal|p1a: Palossand|139/296|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1776973134
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|249/288
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Palossand|Earth Power|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|27/288
+|-ability|p2a: Corviknight|Mirror Armor
+|-unboost|p1a: Palossand|spd|1
+|
+|-heal|p1a: Palossand|157/296|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1776973152
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|171/288
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Palossand|Shadow Ball|p2a: Corviknight
+|-damage|p2a: Corviknight|66/288
+|
+|-heal|p1a: Palossand|175/296|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1776973164
+|move|p2a: Corviknight|Brave Bird|p1a: Palossand
+|-damage|p1a: Palossand|94/296
+|-damage|p2a: Corviknight|39/288|[from] Recoil
+|move|p1a: Palossand|Shadow Ball|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|-heal|p1a: Palossand|112/296|[from] item: Leftovers
+|upkeep
+|
+|t:|1776973180
+|switch|p2a: Sylveon|Sylveon, L85, M|300/300
+|-damage|p2a: Sylveon|263/300|[from] Stealth Rock
+|turn|23
+|
+|t:|1776973188
+|move|p2a: Sylveon|Calm Mind|p2a: Sylveon
+|-boost|p2a: Sylveon|spa|1
+|-boost|p2a: Sylveon|spd|1
+|move|p1a: Palossand|Shore Up|p1a: Palossand
+|-heal|p1a: Palossand|260/296
+|
+|-heal|p2a: Sylveon|281/300|[from] item: Leftovers
+|-heal|p1a: Palossand|278/296|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1776973200
+|switch|p1a: Porygon2|Porygon2, L81|270/270
+|-ability|p1a: Porygon2|Download|boost
+|-boost|p1a: Porygon2|atk|1
+|move|p2a: Sylveon|Calm Mind|p2a: Sylveon
+|-boost|p2a: Sylveon|spa|1
+|-boost|p2a: Sylveon|spd|1
+|
+|-heal|p2a: Sylveon|299/300|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1776973209
+|move|p2a: Sylveon|Protect|p2a: Sylveon
+|-singleturn|p2a: Sylveon|Protect
+|move|p1a: Porygon2|Tri Attack|p2a: Sylveon
+|-activate|p2a: Sylveon|move: Protect
+|
+|-heal|p2a: Sylveon|300/300|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1776973217
+|move|p2a: Sylveon|Hyper Voice|p1a: Porygon2
+|-damage|p1a: Porygon2|99/270
+|move|p1a: Porygon2|Tri Attack|p2a: Sylveon
+|-crit|p2a: Sylveon
+|-damage|p2a: Sylveon|216/300
+|-status|p2a: Sylveon|frz
+|
+|-heal|p2a: Sylveon|234/300 frz|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1776973227
+|-curestatus|p2a: Sylveon|frz|[msg]
+|move|p2a: Sylveon|Hyper Voice|p1a: Porygon2
+|-damage|p1a: Porygon2|0 fnt
+|faint|p1a: Porygon2
+|
+|-heal|p2a: Sylveon|252/300|[from] item: Leftovers
+|upkeep
+|
+|t:|1776973238
+|switch|p1a: Lokix|Lokix, L82, F|251/251
+|turn|28
+|
+|t:|1776973254
+|move|p2a: Sylveon|Protect|p2a: Sylveon
+|-singleturn|p2a: Sylveon|Protect
+|move|p1a: Lokix|First Impression|p2a: Sylveon
+|-activate|p2a: Sylveon|move: Protect
+|
+|-heal|p2a: Sylveon|270/300|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1776973261
+|move|p1a: Lokix|Knock Off|p2a: Sylveon
+|-resisted|p2a: Sylveon
+|-damage|p2a: Sylveon|152/300
+|-enditem|p2a: Sylveon|Leftovers|[from] move: Knock Off|[of] p1a: Lokix
+|move|p2a: Sylveon|Hyper Voice|p1a: Lokix
+|-supereffective|p1a: Lokix
+|-damage|p1a: Lokix|0 fnt
+|faint|p1a: Lokix
+|
+|upkeep
+|
+|t:|1776973269
+|switch|p1a: Ogerpon|Ogerpon-Hearthflame, L74, F|239/239
+|-ability|p1a: Ogerpon|Mold Breaker
+|turn|30
+|
+|t:|1776973278
+|-terastallize|p1a: Ogerpon|Fire
+|detailschange|p1a: Ogerpon|Ogerpon-Hearthflame-Tera, L74, F, tera:Fire
+|-ability|p1a: Ogerpon|Embody Aspect (Hearthflame)|boost
+|-boost|p1a: Ogerpon|atk|1
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Sylveon|[anim] Ivy Cudgel Fire
+|-damage|p2a: Sylveon|0 fnt
+|faint|p2a: Sylveon
+|
+|upkeep
+|
+|t:|1776973289
+|switch|p2a: Inteleon|Inteleon, L81, M|59/246
+|-damage|p2a: Inteleon|29/246|[from] Stealth Rock
+|turn|31
+|
+|t:|1776973298
+|move|p2a: Inteleon|Hydro Pump|p1a: Ogerpon
+|-supereffective|p1a: Ogerpon
+|-crit|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|detailschange|p1: Ogerpon|Ogerpon-Hearthflame, L74, F|[silent]
+|
+|upkeep
+|
+|t:|1776973302
+|switch|p1a: Palossand|Palossand, L89, F|278/296
+|turn|32
+|
+|t:|1776973308
+|move|p2a: Inteleon|Hydro Pump|p1a: Palossand|[miss]
+|-miss|p2a: Inteleon|p1a: Palossand
+|move|p1a: Palossand|Shadow Ball|p2a: Inteleon
+|-damage|p2a: Inteleon|0 fnt
+|faint|p2a: Inteleon
+|
+|-heal|p1a: Palossand|296/296|[from] item: Leftovers
+|upkeep
+|
+|t:|1776973319
+|switch|p2a: Flygon|Flygon, L82, F|265/265
+|-damage|p2a: Flygon|249/265|[from] Stealth Rock
+|turn|33
+|
+|t:|1776973326
+|move|p2a: Flygon|Outrage|p1a: Palossand
+|-damage|p1a: Palossand|148/296
+|move|p1a: Palossand|Shadow Ball|p2a: Flygon
+|-damage|p2a: Flygon|140/265
+|
+|-heal|p1a: Palossand|166/296|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1776973335
+|move|p2a: Flygon|Outrage|p1a: Palossand|[from] lockedmove
+|-damage|p1a: Palossand|22/296
+|move|p1a: Palossand|Shore Up|p1a: Palossand
+|-heal|p1a: Palossand|170/296
+|
+|-heal|p1a: Palossand|188/296|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1776973342
+|move|p2a: Flygon|Outrage|p1a: Palossand|[from] lockedmove
+|-damage|p1a: Palossand|37/296
+|-start|p2a: Flygon|confusion|[fatigue]
+|move|p1a: Palossand|Shore Up|p1a: Palossand
+|-heal|p1a: Palossand|185/296
+|
+|-heal|p1a: Palossand|203/296|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1776973353
+|-activate|p2a: Flygon|confusion
+|move|p2a: Flygon|Outrage|p1a: Palossand
+|-damage|p1a: Palossand|49/296
+|move|p1a: Palossand|Shore Up|p1a: Palossand
+|-heal|p1a: Palossand|197/296
+|
+|-heal|p1a: Palossand|215/296|[from] item: Leftovers
+|upkeep
+|turn|37
+|
+|t:|1776973360
+|-activate|p2a: Flygon|confusion
+|move|p2a: Flygon|Outrage|p1a: Palossand|[from] lockedmove
+|-damage|p1a: Palossand|70/296
+|move|p1a: Palossand|Shore Up|p1a: Palossand
+|-heal|p1a: Palossand|218/296
+|
+|-heal|p1a: Palossand|236/296|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|t:|1776973370
+|-end|p2a: Flygon|confusion
+|move|p2a: Flygon|Outrage|p1a: Palossand|[from] lockedmove
+|-damage|p1a: Palossand|94/296
+|-start|p2a: Flygon|confusion|[fatigue]
+|move|p1a: Palossand|Shadow Ball|p2a: Flygon
+|-damage|p2a: Flygon|28/265
+|
+|-heal|p1a: Palossand|112/296|[from] item: Leftovers
+|upkeep
+|turn|39
+|
+|t:|1776973381
+|-activate|p2a: Flygon|confusion
+|move|p2a: Flygon|Outrage|p1a: Palossand
+|-damage|p1a: Palossand|0 fnt
+|faint|p1a: Palossand
+|
+|win|Dorothyyyy
+|raw|mehzilla04's rating: 1424 &rarr; <strong>1403</strong><br />(-21 for losing)
+|raw|Dorothyyyy's rating: 1403 &rarr; <strong>1424</strong><br />(+21 for winning)
+|l|☆mehzilla04
+|player|p1|

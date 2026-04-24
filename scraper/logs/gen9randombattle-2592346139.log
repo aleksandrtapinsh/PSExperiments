@@ -1,0 +1,272 @@
+|j|☆Bluewtwo
+|j|☆Supernova arceus
+|t:|1776980763
+|gametype|singles
+|player|p1|Bluewtwo|ash-sinnoh|
+|player|p2|Supernova arceus|red-masters3|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776980763
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Garganacl|Garganacl, L80, M|291/291
+|switch|p2a: Pecharunt|Pecharunt, L77|262/262
+|turn|1
+|
+|t:|1776980786
+|move|p2a: Pecharunt|Shadow Ball|p1a: Garganacl
+|-damage|p1a: Garganacl|254/291
+|move|p1a: Garganacl|Salt Cure|p2a: Pecharunt
+|-damage|p2a: Pecharunt|234/262
+|-start|p2a: Pecharunt|Salt Cure
+|
+|-heal|p1a: Garganacl|272/291|[from] item: Leftovers
+|-damage|p2a: Pecharunt|202/262|[from] Salt Cure
+|upkeep
+|turn|2
+|
+|t:|1776980808
+|switch|p1a: Zangoose|Zangoose, L85, F|263/263
+|move|p2a: Pecharunt|Parting Shot|p1a: Zangoose
+|-unboost|p1a: Zangoose|atk|1
+|-unboost|p1a: Zangoose|spa|1
+|
+|t:|1776980825
+|switch|p2a: Florges|Florges-White, L85, F|271/271|[from] Parting Shot
+|
+|-status|p1a: Zangoose|tox|[from] item: Toxic Orb
+|upkeep
+|turn|3
+|
+|t:|1776980838
+|move|p1a: Zangoose|Swords Dance|p1a: Zangoose
+|-boost|p1a: Zangoose|atk|2
+|move|p2a: Florges|Calm Mind|p2a: Florges
+|-boost|p2a: Florges|spa|1
+|-boost|p2a: Florges|spd|1
+|
+|-damage|p1a: Zangoose|247/263 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1776980848
+|move|p1a: Zangoose|Swords Dance|p1a: Zangoose
+|-boost|p1a: Zangoose|atk|2
+|move|p2a: Florges|Calm Mind|p2a: Florges
+|-boost|p2a: Florges|spa|1
+|-boost|p2a: Florges|spd|1
+|
+|-damage|p1a: Zangoose|215/263 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1776980859
+|move|p2a: Florges|Protect|p2a: Florges
+|-singleturn|p2a: Florges|Protect
+|move|p1a: Zangoose|Swords Dance|p1a: Zangoose
+|-boost|p1a: Zangoose|atk|2
+|
+|-damage|p1a: Zangoose|167/263 tox|[from] psn
+|upkeep
+|turn|6
+|l|☆Supernova arceus
+|player|p2|
+|j|☆Supernova arceus
+|player|p2|Supernova arceus|red-masters3|
+|
+|t:|1776980892
+|move|p1a: Zangoose|Facade|p2a: Florges
+|-damage|p2a: Florges|0 fnt
+|faint|p2a: Florges
+|
+|-damage|p1a: Zangoose|103/263 tox|[from] psn
+|upkeep
+|
+|t:|1776980926
+|switch|p2a: Pecharunt|Pecharunt, L77|202/262
+|turn|7
+|
+|t:|1776980936
+|move|p1a: Zangoose|Knock Off|p2a: Pecharunt
+|-supereffective|p2a: Pecharunt
+|-damage|p2a: Pecharunt|0 fnt
+|-damage|p1a: Zangoose|60/263 tox|[from] item: Rocky Helmet|[of] p2a: Pecharunt
+|-enditem|p2a: Pecharunt|Rocky Helmet|[from] move: Knock Off|[of] p1a: Zangoose
+|faint|p2a: Pecharunt
+|
+|-damage|p1a: Zangoose|0 fnt|[from] psn
+|faint|p1a: Zangoose
+|upkeep
+|
+|t:|1776980958
+|switch|p1a: Garganacl|Garganacl, L80, M|272/291
+|switch|p2a: Iron Valiant|Iron Valiant, L78|244/244
+|turn|8
+|
+|t:|1776980982
+|-terastallize|p1a: Garganacl|Dragon
+|move|p2a: Iron Valiant|Swords Dance|p2a: Iron Valiant
+|-boost|p2a: Iron Valiant|atk|2
+|move|p1a: Garganacl|Salt Cure|p2a: Iron Valiant
+|-resisted|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|223/244
+|-start|p2a: Iron Valiant|Salt Cure
+|
+|-heal|p1a: Garganacl|290/291|[from] item: Leftovers
+|-damage|p2a: Iron Valiant|193/244|[from] Salt Cure
+|upkeep
+|turn|9
+|
+|t:|1776981009
+|switch|p1a: Weezing|Weezing-Galar, L86, M|252/252
+|move|p2a: Iron Valiant|Swords Dance|p2a: Iron Valiant
+|-boost|p2a: Iron Valiant|atk|2
+|
+|-damage|p2a: Iron Valiant|163/244|[from] Salt Cure
+|upkeep
+|turn|10
+|
+|t:|1776981052
+|move|p2a: Iron Valiant|Swords Dance|p2a: Iron Valiant
+|-boost|p2a: Iron Valiant|atk|2
+|move|p1a: Weezing|Strange Steam|p2a: Iron Valiant
+|-supereffective|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1776981066
+|switch|p2a: Staraptor|Staraptor, L79, F|263/263
+|turn|11
+|c|☆Bluewtwo|why would I come out if i cannot handle it
+|
+|t:|1776981094
+|move|p2a: Staraptor|Brave Bird|p1a: Weezing
+|-damage|p1a: Weezing|57/252
+|-damage|p2a: Staraptor|199/263|[from] Recoil
+|move|p1a: Weezing|Will-O-Wisp|p2a: Staraptor
+|-status|p2a: Staraptor|brn
+|
+|-heal|p1a: Weezing|72/252|[from] item: Leftovers
+|-damage|p2a: Staraptor|183/263 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1776981115
+|switch|p1a: Mandibuzz|Mandibuzz, L85, F|326/326
+|move|p2a: Staraptor|Brave Bird|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|227/326
+|-damage|p2a: Staraptor|150/263 brn|[from] Recoil
+|
+|-damage|p2a: Staraptor|134/263 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1776981131
+|move|p2a: Staraptor|Brave Bird|p1a: Mandibuzz
+|-crit|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|77/326
+|-damage|p2a: Staraptor|84/263 brn|[from] Recoil
+|move|p1a: Mandibuzz|Foul Play|p2a: Staraptor
+|-damage|p2a: Staraptor|0 fnt
+|faint|p2a: Staraptor
+|
+|upkeep
+|
+|t:|1776981164
+|switch|p2a: Iron Treads|Iron Treads, L77|265/265
+|turn|14
+|
+|t:|1776981187
+|switch|p1a: Swampert|Swampert, L83, F|302/302
+|move|p2a: Iron Treads|Volt Switch|p1a: Swampert
+|-immune|p1a: Swampert
+|
+|upkeep
+|turn|15
+|c|☆Bluewtwo|Predicted
+|
+|t:|1776981206
+|move|p2a: Iron Treads|Volt Switch|p1a: Swampert
+|-immune|p1a: Swampert
+|move|p1a: Swampert|Stealth Rock|p2a: Iron Treads
+|-sidestart|p2: Supernova arceus|move: Stealth Rock
+|
+|upkeep
+|turn|16
+|
+|t:|1776981218
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Luxray|Luxray, L88, M|283/283
+|-damage|p2a: Luxray|248/283|[from] Stealth Rock
+|move|p1a: Swampert|Earthquake|p2a: Luxray
+|-supereffective|p2a: Luxray
+|-damage|p2a: Luxray|8/283
+|
+|-status|p2a: Luxray|brn|[from] item: Flame Orb
+|upkeep
+|turn|17
+|c|☆Bluewtwo|no hope
+|
+|t:|1776981259
+|switch|p1a: Garganacl|Garganacl, L80, M, tera:Dragon|290/291
+|-terastallize|p2a: Luxray|Normal
+|move|p2a: Luxray|Trailblaze|p1a: Garganacl
+|-resisted|p1a: Garganacl
+|-damage|p1a: Garganacl|266/291
+|-boost|p2a: Luxray|spe|1
+|
+|-heal|p1a: Garganacl|284/291|[from] item: Leftovers
+|-damage|p2a: Luxray|0 fnt|[from] brn
+|faint|p2a: Luxray
+|upkeep
+|
+|t:|1776981272
+|switch|p2a: Iron Treads|Iron Treads, L77|265/265
+|-damage|p2a: Iron Treads|257/265|[from] Stealth Rock
+|turn|18
+|c|☆Bluewtwo|not bad trying to kill
+|
+|t:|1776981285
+|move|p2a: Iron Treads|Earthquake|p1a: Garganacl
+|-damage|p1a: Garganacl|214/291
+|move|p1a: Garganacl|Earthquake|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|143/265
+|
+|-heal|p1a: Garganacl|232/291|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1776981296
+|move|p2a: Iron Treads|Rapid Spin|p1a: Garganacl
+|-damage|p1a: Garganacl|208/291
+|-boost|p2a: Iron Treads|spe|1
+|-sideend|p2: Supernova arceus|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Iron Treads
+|move|p1a: Garganacl|Earthquake|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|31/265
+|
+|-heal|p1a: Garganacl|226/291|[from] item: Leftovers
+|upkeep
+|turn|20
+|c|☆Bluewtwo|Gg
+|
+|t:|1776981334
+|move|p2a: Iron Treads|Earthquake|p1a: Garganacl
+|-damage|p1a: Garganacl|145/291
+|move|p1a: Garganacl|Earthquake|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|win|Bluewtwo

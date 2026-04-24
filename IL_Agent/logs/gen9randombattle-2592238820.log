@@ -1,0 +1,83 @@
+|j|☆jjp35
+|j|☆Poscidion
+|t:|1776972570
+|gametype|singles
+|player|p1|jjp35|hilbert|1703
+|player|p2|Poscidion|265|1752
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776972570
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Altaria|Altaria, L89, F|278/278
+|switch|p2a: Jirachi|Jirachi, L80|291/291
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by jjp35)
+|
+|t:|1776972582
+|move|p2a: Jirachi|Iron Head|p1a: Altaria
+|-damage|p1a: Altaria|206/278
+|move|p1a: Altaria|Earthquake|p2a: Jirachi
+|-supereffective|p2a: Jirachi
+|-damage|p2a: Jirachi|173/291
+|
+|-heal|p2a: Jirachi|191/291|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776972588
+|move|p2a: Jirachi|Iron Head|p1a: Altaria
+|-damage|p1a: Altaria|128/278
+|cant|p1a: Altaria|flinch
+|
+|-heal|p2a: Jirachi|209/291|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776972592
+|move|p2a: Jirachi|Iron Head|p1a: Altaria
+|-damage|p1a: Altaria|56/278
+|cant|p1a: Altaria|flinch
+|
+|-heal|p2a: Jirachi|227/291|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776972604
+|switch|p1a: Palkia|Palkia-Origin, L72|249/249
+|-ability|p1a: Palkia|Pressure
+|move|p2a: Jirachi|U-turn|p1a: Palkia
+|-damage|p1a: Palkia|199/249
+|
+|t:|1776972613
+|switch|p2a: Magnezone|Magnezone, L85|258/258|[from] U-turn
+|
+|upkeep
+|turn|5
+|
+|t:|1776972634
+|move|p1a: Palkia|Fire Blast|p2a: Magnezone
+|-supereffective|p2a: Magnezone
+|-damage|p2a: Magnezone|144/258
+|move|p2a: Magnezone|Volt Switch|p1a: Palkia
+|-damage|p1a: Palkia|90/249
+|
+|t:|1776972649
+|switch|p2a: Seviper|Seviper, L93, F|287/287|[from] Volt Switch
+|
+|upkeep
+|turn|6
+|-message|jjp35 forfeited.
+|
+|win|Poscidion
+|raw|jjp35's rating: 1703 &rarr; <strong>1686</strong><br />(-17 for losing)
+|raw|Poscidion's rating: 1752 &rarr; <strong>1769</strong><br />(+17 for winning)
+|l|☆jjp35
+|player|p1|

@@ -1,0 +1,240 @@
+|j|☆blakula22
+|j|☆MharRaizel
+|t:|1776982166
+|gametype|singles
+|player|p1|blakula22|giovanni|1161
+|player|p2|MharRaizel|169|1173
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776982166
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Decidueye|Decidueye, L88, F|281/281
+|switch|p2a: Gothitelle|Gothitelle, L90, F|272/272
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by blakula22)
+|
+|t:|1776982196
+|switch|p2a: Vivillon|Vivillon, L83, M|268/268
+|move|p1a: Decidueye|Poltergeist|p2a: Vivillon
+|-activate|p2a: Vivillon|move: Poltergeist|Heavy-Duty Boots
+|-crit|p2a: Vivillon
+|-damage|p2a: Vivillon|0 fnt
+|faint|p2a: Vivillon
+|-damage|p1a: Decidueye|253/281|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776982207
+|switch|p2a: Seviper|Seviper, L93, M|287/287
+|turn|2
+|
+|t:|1776982213
+|switch|p1a: Basculin|Basculin-Blue-Striped, L86, F|261/261
+|-terastallize|p2a: Seviper|Fire
+|move|p2a: Seviper|Flamethrower|p1a: Basculin
+|-resisted|p1a: Basculin
+|-damage|p1a: Basculin|160/261
+|-damage|p2a: Seviper|259/287|[from] item: Life Orb
+|
+|upkeep
+|turn|3
+|
+|t:|1776982223
+|move|p1a: Basculin|Wave Crash|p2a: Seviper
+|-supereffective|p2a: Seviper
+|-damage|p2a: Seviper|0 fnt
+|faint|p2a: Seviper
+|-damage|p1a: Basculin|75/261|[from] Recoil
+|
+|upkeep
+|
+|t:|1776982230
+|switch|p2a: Electrode|Electrode-Hisui, L87|246/246
+|turn|4
+|
+|t:|1776982237
+|switch|p1a: Cryogonal|Cryogonal, L89|287/287
+|move|p2a: Electrode|Thunderbolt|p1a: Cryogonal
+|-damage|p1a: Cryogonal|212/287
+|-status|p1a: Cryogonal|par
+|-damage|p2a: Electrode|222/246|[from] item: Life Orb
+|
+|upkeep
+|turn|5
+|
+|t:|1776982247
+|move|p2a: Electrode|Volt Switch|p1a: Cryogonal
+|-damage|p1a: Cryogonal|156/287 par
+|-damage|p2a: Electrode|198/246|[from] item: Life Orb
+|
+|t:|1776982254
+|switch|p2a: Hoopa|Hoopa, L85|275/275|[from] Volt Switch
+|cant|p1a: Cryogonal|par
+|
+|upkeep
+|turn|6
+|
+|t:|1776982262
+|move|p2a: Hoopa|Focus Blast|p1a: Cryogonal
+|-supereffective|p1a: Cryogonal
+|-damage|p1a: Cryogonal|0 fnt
+|faint|p1a: Cryogonal
+|
+|upkeep
+|
+|t:|1776982269
+|switch|p1a: Decidueye|Decidueye, L88, F|253/281
+|turn|7
+|
+|t:|1776982293
+|switch|p2a: Gothitelle|Gothitelle, L90, F|272/272
+|move|p1a: Decidueye|Poltergeist|p2a: Gothitelle
+|-activate|p2a: Gothitelle|move: Poltergeist|Leftovers
+|-supereffective|p2a: Gothitelle
+|-damage|p2a: Gothitelle|0 fnt
+|faint|p2a: Gothitelle
+|-damage|p1a: Decidueye|225/281|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776982302
+|switch|p2a: Qwilfish|Qwilfish-Hisui, L83, F|244/244
+|-ability|p2a: Qwilfish|Intimidate|boost
+|-unboost|p1a: Decidueye|atk|1
+|turn|8
+|
+|t:|1776982307
+|switch|p1a: Basculin|Basculin-Blue-Striped, L86, F|75/261
+|move|p2a: Qwilfish|Gunk Shot|p1a: Basculin|[miss]
+|-miss|p2a: Qwilfish|p1a: Basculin
+|
+|upkeep
+|turn|9
+|
+|t:|1776982313
+|move|p1a: Basculin|Double-Edge|p2a: Qwilfish
+|-damage|p2a: Qwilfish|163/244
+|-damage|p1a: Basculin|48/261|[from] Recoil
+|move|p2a: Qwilfish|Crunch|p1a: Basculin
+|-damage|p1a: Basculin|0 fnt
+|faint|p1a: Basculin
+|
+|upkeep
+|
+|t:|1776982321
+|switch|p1a: Flamigo|Flamigo, L82, F|269/269
+|turn|10
+|
+|t:|1776982329
+|move|p1a: Flamigo|Swords Dance|p1a: Flamigo
+|-boost|p1a: Flamigo|atk|2
+|move|p2a: Qwilfish|Gunk Shot|p1a: Flamigo
+|-damage|p1a: Flamigo|121/269
+|
+|upkeep
+|turn|11
+|
+|t:|1776982336
+|move|p1a: Flamigo|Close Combat|p2a: Qwilfish
+|-damage|p2a: Qwilfish|0 fnt
+|-unboost|p1a: Flamigo|def|1
+|-unboost|p1a: Flamigo|spd|1
+|faint|p2a: Qwilfish
+|-damage|p1a: Flamigo|95/269|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776982343
+|switch|p2a: Electrode|Electrode-Hisui, L87|198/246
+|turn|12
+|
+|t:|1776982348
+|move|p2a: Electrode|Thunderbolt|p1a: Flamigo
+|-supereffective|p1a: Flamigo
+|-damage|p1a: Flamigo|0 fnt
+|faint|p1a: Flamigo
+|-damage|p2a: Electrode|174/246|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776982362
+|switch|p1a: Iron Leaves|Iron Leaves, L80|275/275
+|turn|13
+|
+|t:|1776982369
+|move|p2a: Electrode|Thunderbolt|p1a: Iron Leaves
+|-resisted|p1a: Iron Leaves
+|-damage|p1a: Iron Leaves|224/275
+|-damage|p2a: Electrode|150/246|[from] item: Life Orb
+|move|p1a: Iron Leaves|Swords Dance|p1a: Iron Leaves
+|-boost|p1a: Iron Leaves|atk|2
+|
+|upkeep
+|turn|14
+|
+|t:|1776982383
+|move|p2a: Electrode|Taunt|p1a: Iron Leaves
+|-start|p1a: Iron Leaves|move: Taunt
+|cant|p1a: Iron Leaves|move: Taunt|Swords Dance
+|
+|upkeep
+|turn|15
+|
+|t:|1776982388
+|switch|p2a: Hoopa|Hoopa, L85|275/275
+|move|p1a: Iron Leaves|Psyblade|p2a: Hoopa
+|-resisted|p2a: Hoopa
+|-damage|p2a: Hoopa|110/275
+|-damage|p1a: Iron Leaves|197/275|[from] item: Life Orb
+|
+|upkeep
+|turn|16
+|
+|t:|1776982397
+|move|p2a: Hoopa|Shadow Ball|p1a: Iron Leaves
+|-supereffective|p1a: Iron Leaves
+|-damage|p1a: Iron Leaves|0 fnt
+|faint|p1a: Iron Leaves
+|-end|p1a: Iron Leaves|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1776982406
+|switch|p1a: Decidueye|Decidueye, L88, F|225/281
+|turn|17
+|
+|t:|1776982410
+|move|p1a: Decidueye|Shadow Sneak|p2a: Hoopa
+|-supereffective|p2a: Hoopa
+|-damage|p2a: Hoopa|0 fnt
+|faint|p2a: Hoopa
+|-damage|p1a: Decidueye|197/281|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776982415
+|switch|p2a: Electrode|Electrode-Hisui, L87|150/246
+|turn|18
+|
+|t:|1776982420
+|move|p2a: Electrode|Thunderbolt|p1a: Decidueye
+|-resisted|p1a: Decidueye
+|-damage|p1a: Decidueye|149/281
+|-damage|p2a: Electrode|126/246|[from] item: Life Orb
+|move|p1a: Decidueye|Poltergeist|p2a: Electrode
+|-activate|p2a: Electrode|move: Poltergeist|Life Orb
+|-damage|p2a: Electrode|0 fnt
+|faint|p2a: Electrode
+|-damage|p1a: Decidueye|121/281|[from] item: Life Orb
+|
+|win|blakula22
+|raw|blakula22's rating: 1161 &rarr; <strong>1187</strong><br />(+26 for winning)
+|raw|MharRaizel's rating: 1173 &rarr; <strong>1147</strong><br />(-26 for losing)

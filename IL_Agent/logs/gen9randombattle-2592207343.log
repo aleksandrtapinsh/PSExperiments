@@ -1,0 +1,79 @@
+|j|☆theshowdexguy
+|j|☆avhiraj
+|t:|1776970401
+|gametype|singles
+|player|p1|theshowdexguy|1|2116
+|player|p2|avhiraj|169|2100
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776970401
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Slaking|Slaking, L84, M|389/389
+|switch|p2a: Koraidon|Koraidon, L64|235/235
+|-weather|SunnyDay|[from] ability: Orichalcum Pulse|[of] p2a: Koraidon
+|-activate|p2a: Koraidon|Orichalcum Pulse|[source]
+|turn|1
+|
+|t:|1776970416
+|-terastallize|p1a: Slaking|Normal
+|move|p1a: Slaking|Double-Edge|p2a: Koraidon
+|-damage|p2a: Koraidon|0 fnt
+|faint|p2a: Koraidon
+|-damage|p1a: Slaking|311/389|[from] Recoil
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by theshowdexguy)
+|
+|t:|1776970423
+|switch|p2a: Vivillon|Vivillon, L83, M|268/268
+|turn|2
+|
+|t:|1776970435
+|cant|p1a: Slaking|ability: Truant
+|move|p2a: Vivillon|Sleep Powder|p1a: Slaking
+|-status|p1a: Slaking|slp|[from] move: Sleep Powder
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1776970454
+|switch|p1a: Typhlosion|Typhlosion-Hisui, L83, F|257/257
+|move|p2a: Vivillon|Quiver Dance|p2a: Vivillon
+|-boost|p2a: Vivillon|spa|1
+|-boost|p2a: Vivillon|spd|1
+|-boost|p2a: Vivillon|spe|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1776970468
+|-terastallize|p2a: Vivillon|Ground
+|move|p1a: Typhlosion|Eruption|p2a: Vivillon
+|-damage|p2a: Vivillon|0 fnt
+|faint|p2a: Vivillon
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1776970474
+|switch|p2a: Lumineon|Lumineon, L93, M|279/279
+|turn|5
+|c|☆theshowdexguy|insane  offense in my team
+|-message|avhiraj forfeited.
+|
+|win|theshowdexguy
+|raw|theshowdexguy's rating: 2116 &rarr; <strong>2135</strong><br />(+19 for winning)
+|raw|avhiraj's rating: 2100 &rarr; <strong>2081</strong><br />(-19 for losing)
+|l|☆avhiraj
+|player|p2|

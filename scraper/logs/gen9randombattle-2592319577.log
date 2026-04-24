@@ -1,0 +1,277 @@
+|j|☆josedxx
+|j|☆Aihen00
+|t:|1776978543
+|gametype|singles
+|player|p1|josedxx|101|
+|player|p2|Aihen00|dawn|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776978543
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Palossand|Palossand, L89, F|296/296
+|switch|p2a: Cyclizar|Cyclizar, L83, F|252/252
+|turn|1
+|
+|t:|1776978684
+|move|p2a: Cyclizar|Knock Off|p1a: Palossand
+|-supereffective|p1a: Palossand
+|-damage|p1a: Palossand|196/296
+|-enditem|p1a: Palossand|Leftovers|[from] move: Knock Off|[of] p2a: Cyclizar
+|move|p1a: Palossand|Stealth Rock|p2a: Cyclizar
+|-sidestart|p2: Aihen00|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1776978802
+|switch|p1a: Lumineon|Lumineon, L93, F|279/279
+|move|p2a: Cyclizar|Draco Meteor|p1a: Lumineon
+|-damage|p1a: Lumineon|171/279
+|-unboost|p2a: Cyclizar|spa|2
+|
+|upkeep
+|turn|3
+|
+|t:|1776978904
+|move|p2a: Cyclizar|Rapid Spin|p1a: Lumineon
+|-damage|p1a: Lumineon|123/279
+|-boost|p2a: Cyclizar|spe|1
+|-sideend|p2: Aihen00|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Cyclizar
+|move|p1a: Lumineon|Ice Beam|p2a: Cyclizar
+|-supereffective|p2a: Cyclizar
+|-damage|p2a: Cyclizar|96/252
+|
+|upkeep
+|turn|4
+|
+|t:|1776979015
+|switch|p2a: Copperajah|Copperajah, L86, M|350/350
+|move|p1a: Lumineon|Ice Beam|p2a: Copperajah
+|-resisted|p2a: Copperajah
+|-damage|p2a: Copperajah|313/350
+|
+|upkeep
+|turn|5
+|
+|t:|1776979105
+|move|p1a: Lumineon|U-turn|p2a: Copperajah
+|-resisted|p2a: Copperajah
+|-damage|p2a: Copperajah|286/350
+|
+|t:|1776979110
+|switch|p1a: Palossand|Palossand, L89, F|196/296|[from] U-turn
+|move|p2a: Copperajah|Earthquake|p1a: Palossand
+|-damage|p1a: Palossand|77/296
+|
+|upkeep
+|turn|6
+|
+|t:|1776979198
+|switch|p2a: Shaymin|Shaymin-Sky, L73|266/266
+|move|p1a: Palossand|Shore Up|p1a: Palossand
+|-heal|p1a: Palossand|225/296
+|
+|upkeep
+|turn|7
+|
+|t:|1776979254
+|switch|p1a: Lumineon|Lumineon, L93, F|123/279
+|move|p2a: Shaymin|Seed Flare|p1a: Lumineon
+|-supereffective|p1a: Lumineon
+|-damage|p1a: Lumineon|0 fnt
+|faint|p1a: Lumineon
+|
+|upkeep
+|
+|t:|1776979264
+|switch|p1a: Piloswine|Piloswine, L85, F|309/309
+|turn|8
+|
+|t:|1776979412
+|switch|p2a: Rotom|Rotom-Heat, L83|219/219
+|move|p1a: Piloswine|Ice Shard|p2a: Rotom
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|197/219
+|
+|upkeep
+|turn|9
+|
+|t:|1776979446
+|switch|p1a: Palossand|Palossand, L89, F|225/296
+|move|p2a: Rotom|Overheat|p1a: Palossand
+|-damage|p1a: Palossand|68/296
+|-unboost|p2a: Rotom|spa|2
+|
+|upkeep
+|turn|10
+|
+|t:|1776979461
+|move|p2a: Rotom|Overheat|p1a: Palossand
+|-damage|p1a: Palossand|0 fnt
+|-unboost|p2a: Rotom|spa|2
+|faint|p1a: Palossand
+|
+|upkeep
+|
+|t:|1776979465
+|switch|p1a: Piloswine|Piloswine, L85, F|309/309
+|turn|11
+|
+|t:|1776979473
+|move|p2a: Rotom|Overheat|p1a: Piloswine
+|-supereffective|p1a: Piloswine
+|-damage|p1a: Piloswine|271/309
+|-unboost|p2a: Rotom|spa|2
+|move|p1a: Piloswine|Icicle Crash|p2a: Rotom
+|-resisted|p2a: Rotom
+|-crit|p2a: Rotom
+|-damage|p2a: Rotom|129/219
+|
+|upkeep
+|turn|12
+|
+|t:|1776979503
+|move|p2a: Rotom|Overheat|p1a: Piloswine
+|-supereffective|p1a: Piloswine
+|-damage|p1a: Piloswine|241/309
+|move|p1a: Piloswine|Icicle Crash|p2a: Rotom
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|87/219
+|
+|upkeep
+|turn|13
+|
+|t:|1776979516
+|move|p2a: Rotom|Overheat|p1a: Piloswine
+|-supereffective|p1a: Piloswine
+|-damage|p1a: Piloswine|211/309
+|move|p1a: Piloswine|Icicle Crash|p2a: Rotom
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|49/219
+|
+|upkeep
+|turn|14
+|
+|t:|1776979526
+|move|p2a: Rotom|Pain Split|p1a: Piloswine
+|-sethp|p1a: Piloswine|130/309|[from] move: Pain Split|[silent]
+|-sethp|p2a: Rotom|130/219|[from] move: Pain Split
+|move|p1a: Piloswine|Icicle Crash|p2a: Rotom
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|91/219
+|
+|upkeep
+|turn|15
+|
+|t:|1776979764
+|switch|p2a: Archaludon|Archaludon, L78, F|268/268
+|move|p1a: Piloswine|Roar|p2a: Archaludon
+|drag|p2a: Rotom|Rotom-Heat, L83|91/219
+|
+|upkeep
+|turn|16
+|
+|t:|1776979818
+|move|p2a: Rotom|Overheat|p1a: Piloswine
+|-supereffective|p1a: Piloswine
+|-damage|p1a: Piloswine|0 fnt
+|-unboost|p2a: Rotom|spa|2
+|faint|p1a: Piloswine
+|
+|upkeep
+|
+|t:|1776979859
+|switch|p1a: Exeggutor|Exeggutor-Alola, L89, M|314/314
+|turn|17
+|
+|t:|1776979918
+|switch|p2a: Espeon|Espeon, L84, F|246/246
+|move|p1a: Exeggutor|Draco Meteor|p2a: Espeon|[miss]
+|-miss|p1a: Exeggutor|p2a: Espeon
+|
+|upkeep
+|turn|18
+|
+|t:|1776979969
+|-terastallize|p2a: Espeon|Fairy
+|move|p2a: Espeon|Alluring Voice|p1a: Exeggutor
+|-supereffective|p1a: Exeggutor
+|-damage|p1a: Exeggutor|2/314
+|-enditem|p1a: Exeggutor|Sitrus Berry|[eat]
+|-heal|p1a: Exeggutor|80/314|[from] item: Sitrus Berry
+|-damage|p2a: Espeon|222/246|[from] item: Life Orb
+|move|p1a: Exeggutor|Stun Spore|p2a: Espeon
+|move|p2a: Espeon|Stun Spore|p1a: Exeggutor|[from] ability: Magic Bounce
+|-immune|p1a: Exeggutor
+|
+|upkeep
+|turn|19
+|
+|t:|1776980109
+|move|p2a: Espeon|Alluring Voice|p1a: Exeggutor
+|-supereffective|p1a: Exeggutor
+|-damage|p1a: Exeggutor|0 fnt
+|faint|p1a: Exeggutor
+|-damage|p2a: Espeon|198/246|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776980118
+|switch|p1a: Vileplume|Vileplume, L85, F|266/266
+|turn|20
+|
+|t:|1776980440
+|move|p2a: Espeon|Calm Mind|p2a: Espeon
+|-boost|p2a: Espeon|spa|1
+|-boost|p2a: Espeon|spd|1
+|move|p1a: Vileplume|Sleep Powder|p2a: Espeon
+|move|p2a: Espeon|Sleep Powder|p1a: Vileplume|[from] ability: Magic Bounce
+|-immune|p1a: Vileplume
+|
+|upkeep
+|turn|21
+|
+|t:|1776980462
+|move|p2a: Espeon|Psyshock|p1a: Vileplume
+|-supereffective|p1a: Vileplume
+|-damage|p1a: Vileplume|0 fnt
+|faint|p1a: Vileplume
+|-damage|p2a: Espeon|174/246|[from] item: Life Orb
+|
+|upkeep
+|l|☆josedxx
+|player|p1|
+|j|☆josedxx
+|player|p1|josedxx|101|
+|
+|t:|1776980474
+|switch|p1a: Arceus|Arceus-Bug, L73|295/295
+|turn|22
+|
+|t:|1776980516
+|move|p2a: Espeon|Psyshock|p1a: Arceus
+|-damage|p1a: Arceus|112/295
+|-damage|p2a: Espeon|150/246|[from] item: Life Orb
+|move|p1a: Arceus|Calm Mind|p1a: Arceus
+|-boost|p1a: Arceus|spa|1
+|-boost|p1a: Arceus|spd|1
+|
+|upkeep
+|turn|23
+|
+|t:|1776980527
+|move|p2a: Espeon|Psyshock|p1a: Arceus
+|-damage|p1a: Arceus|0 fnt
+|faint|p1a: Arceus
+|-damage|p2a: Espeon|126/246|[from] item: Life Orb
+|
+|win|Aihen00
+|l|☆josedxx
+|player|p1|

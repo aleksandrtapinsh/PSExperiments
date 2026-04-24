@@ -1,0 +1,306 @@
+|j|☆yaqubxyz
+|j|☆Ramypoke
+|t:|1776970134
+|gametype|singles
+|player|p1|yaqubxyz|depotagent|
+|player|p2|Ramypoke|burglar|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776970134
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Rillaboom|Rillaboom, L79, M|288/288
+|switch|p2a: Iron Jugulis|Iron Jugulis, L77|271/271
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Ramypoke)
+|
+|t:|1776970244
+|switch|p1a: Hatterene|Hatterene, L85, F|236/236
+|move|p2a: Iron Jugulis|Hurricane|p1a: Hatterene
+|-damage|p1a: Hatterene|139/236
+|
+|-heal|p1a: Hatterene|153/236|[from] Grassy Terrain
+|-heal|p1a: Hatterene|167/236|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776970252
+|-terastallize|p2a: Iron Jugulis|Ground
+|move|p2a: Iron Jugulis|Dark Pulse|p1a: Hatterene
+|-damage|p1a: Hatterene|92/236
+|move|p1a: Hatterene|Draining Kiss|p2a: Iron Jugulis
+|-damage|p2a: Iron Jugulis|180/271
+|-heal|p1a: Hatterene|160/236|[from] drain|[of] p2a: Iron Jugulis
+|
+|-heal|p2a: Iron Jugulis|196/271|[from] Grassy Terrain
+|-heal|p1a: Hatterene|174/236|[from] Grassy Terrain
+|-heal|p1a: Hatterene|188/236|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776970262
+|move|p2a: Iron Jugulis|Meteor Beam||[still]
+|-prepare|p2a: Iron Jugulis|Meteor Beam
+|-boost|p2a: Iron Jugulis|spa|1
+|-enditem|p2a: Iron Jugulis|Power Herb
+|-anim|p2a: Iron Jugulis|Meteor Beam|p1a: Hatterene
+|-damage|p1a: Hatterene|83/236
+|move|p1a: Hatterene|Psyshock|p2a: Iron Jugulis
+|-crit|p2a: Iron Jugulis
+|-damage|p2a: Iron Jugulis|0 fnt
+|faint|p2a: Iron Jugulis
+|-end|p2a: Iron Jugulis|Quark Drive|[silent]
+|
+|-heal|p1a: Hatterene|97/236|[from] Grassy Terrain
+|-heal|p1a: Hatterene|111/236|[from] item: Leftovers
+|upkeep
+|
+|t:|1776970269
+|switch|p2a: Muk|Muk, L86, F|321/321
+|turn|4
+|
+|t:|1776970280
+|switch|p1a: Rillaboom|Rillaboom, L79, M|288/288
+|move|p2a: Muk|Poison Jab|p1a: Rillaboom
+|-supereffective|p1a: Rillaboom
+|-damage|p1a: Rillaboom|72/288
+|
+|-heal|p1a: Rillaboom|90/288|[from] Grassy Terrain
+|upkeep
+|turn|5
+|inactive|yaqubxyz has 270 seconds left.
+|
+|t:|1776970328
+|switch|p1a: Hatterene|Hatterene, L85, F|111/236
+|move|p2a: Muk|Ice Punch|p1a: Hatterene
+|-damage|p1a: Hatterene|51/236
+|-status|p1a: Hatterene|psn|[from] ability: Poison Touch|[of] p2a: Muk
+|
+|-heal|p1a: Hatterene|65/236 psn|[from] Grassy Terrain
+|-heal|p1a: Hatterene|79/236 psn|[from] item: Leftovers
+|-damage|p1a: Hatterene|50/236 psn|[from] psn
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1776970333
+|move|p2a: Muk|Poison Jab|p1a: Hatterene
+|-supereffective|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|upkeep
+|inactive|yaqubxyz has 240 seconds left.
+|inactive|yaqubxyz has 210 seconds left.
+|inactive|yaqubxyz has 180 seconds left.
+|inactive|yaqubxyz has 150 seconds left.
+|inactive|yaqubxyz has 120 seconds left.
+|inactive|yaqubxyz has 90 seconds left.
+|l|☆Ramypoke
+|inactive|Ramypoke disconnected and has 300 seconds to reconnect!
+|player|p2|
+|j|☆Ramypoke
+|inactive|Ramypoke reconnected.
+|player|p2|Ramypoke|burglar|
+|
+|t:|1776970538
+|switch|p1a: Appletun|Appletun, L92, M|352/352
+|turn|7
+|
+|t:|1776970543
+|move|p2a: Muk|Ice Punch|p1a: Appletun
+|-supereffective|p1a: Appletun
+|-damage|p1a: Appletun|224/352
+|move|p1a: Appletun|Leech Seed|p2a: Muk|[miss]
+|-miss|p1a: Appletun|p2a: Muk
+|
+|-heal|p1a: Appletun|246/352|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776970547
+|move|p2a: Muk|Ice Punch|p1a: Appletun
+|-supereffective|p1a: Appletun
+|-damage|p1a: Appletun|134/352
+|-status|p1a: Appletun|frz
+|cant|p1a: Appletun|frz
+|
+|-heal|p1a: Appletun|156/352 frz|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776970554
+|move|p2a: Muk|Ice Punch|p1a: Appletun
+|-supereffective|p1a: Appletun
+|-damage|p1a: Appletun|40/352 frz
+|cant|p1a: Appletun|frz
+|
+|-heal|p1a: Appletun|62/352 frz|[from] item: Leftovers
+|upkeep
+|turn|10
+|inactive|yaqubxyz has 90 seconds left.
+|
+|t:|1776970565
+|move|p2a: Muk|Ice Punch|p1a: Appletun
+|-supereffective|p1a: Appletun
+|-damage|p1a: Appletun|0 fnt
+|faint|p1a: Appletun
+|
+|upkeep
+|
+|t:|1776970581
+|switch|p1a: Iron Jugulis|Iron Jugulis, L77|271/271
+|turn|11
+|
+|t:|1776970585
+|move|p1a: Iron Jugulis|Earth Power|p2a: Muk
+|-supereffective|p2a: Muk
+|-damage|p2a: Muk|215/321
+|move|p2a: Muk|Ice Punch|p1a: Iron Jugulis
+|-supereffective|p1a: Iron Jugulis
+|-damage|p1a: Iron Jugulis|143/271
+|-status|p1a: Iron Jugulis|psn|[from] ability: Poison Touch|[of] p2a: Muk
+|
+|-damage|p1a: Iron Jugulis|110/271 psn|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1776970590
+|move|p1a: Iron Jugulis|Earth Power|p2a: Muk
+|-supereffective|p2a: Muk
+|-crit|p2a: Muk
+|-damage|p2a: Muk|39/321
+|move|p2a: Muk|Ice Punch|p1a: Iron Jugulis
+|-supereffective|p1a: Iron Jugulis
+|-damage|p1a: Iron Jugulis|0 fnt
+|faint|p1a: Iron Jugulis
+|-end|p1a: Iron Jugulis|Quark Drive|[silent]
+|
+|upkeep
+|inactive|yaqubxyz has 90 seconds left.
+|inactive|yaqubxyz has 60 seconds left.
+|
+|t:|1776970640
+|switch|p1a: Houndstone|Houndstone, L86, M|264/264
+|turn|13
+|inactive|yaqubxyz has 60 seconds left.
+|
+|t:|1776970648
+|move|p1a: Houndstone|Poltergeist|p2a: Muk
+|-activate|p2a: Muk|move: Poltergeist|Assault Vest
+|-damage|p2a: Muk|0 fnt
+|faint|p2a: Muk
+|
+|upkeep
+|
+|t:|1776970668
+|switch|p2a: Flygon|Flygon, L82, F|265/265
+|turn|14
+|inactive|yaqubxyz has 60 seconds left.
+|
+|t:|1776970694
+|switch|p1a: Rillaboom|Rillaboom, L79, M|90/288
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Flygon|Outrage|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p1a: Rillaboom
+|
+|upkeep
+|inactive|yaqubxyz has 30 seconds left.
+|inactive|yaqubxyz has 20 seconds left.
+|
+|t:|1776970730
+|switch|p1a: Houndstone|Houndstone, L86, M|264/264
+|turn|15
+|inactive|yaqubxyz has 30 seconds left this turn.
+|
+|t:|1776970736
+|move|p2a: Flygon|Outrage|p1a: Houndstone|[from] lockedmove
+|-damage|p1a: Houndstone|178/264
+|move|p1a: Houndstone|Poltergeist|p2a: Flygon|[miss]
+|-miss|p1a: Houndstone|p2a: Flygon
+|
+|-heal|p1a: Houndstone|194/264|[from] Grassy Terrain
+|-heal|p1a: Houndstone|210/264|[from] item: Leftovers
+|upkeep
+|turn|16
+|inactive|yaqubxyz has 30 seconds left.
+|
+|t:|1776970744
+|move|p2a: Flygon|Outrage|p1a: Houndstone|[from] lockedmove
+|-damage|p1a: Houndstone|135/264
+|-start|p2a: Flygon|confusion|[fatigue]
+|move|p1a: Houndstone|Body Press|p2a: Flygon
+|-damage|p2a: Flygon|195/265
+|
+|-heal|p1a: Houndstone|151/264|[from] Grassy Terrain
+|-heal|p1a: Houndstone|167/264|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1776970754
+|switch|p2a: Entei|Entei, L78|307/307
+|move|p1a: Houndstone|Body Press|p2a: Entei
+|-damage|p2a: Entei|234/307
+|
+|-heal|p2a: Entei|253/307|[from] Grassy Terrain
+|-heal|p1a: Houndstone|183/264|[from] Grassy Terrain
+|-heal|p1a: Houndstone|199/264|[from] item: Leftovers
+|upkeep
+|turn|18
+|inactive|yaqubxyz has 30 seconds left.
+|inactive|yaqubxyz has 20 seconds left.
+|inactive|yaqubxyz has 15 seconds left.
+|
+|t:|1776970793
+|move|p2a: Entei|Sacred Fire|p1a: Houndstone
+|-crit|p1a: Houndstone
+|-damage|p1a: Houndstone|0 fnt
+|faint|p1a: Houndstone
+|
+|-heal|p2a: Entei|272/307|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|inactive|yaqubxyz has 20 seconds left this turn.
+|
+|t:|1776970796
+|switch|p1a: Salazzle|Salazzle, L83, F|249/249
+|turn|19
+|inactive|yaqubxyz has 30 seconds left this turn.
+|
+|t:|1776970805
+|-terastallize|p1a: Salazzle|Flying
+|move|p1a: Salazzle|Flamethrower|p2a: Entei
+|-resisted|p2a: Entei
+|-damage|p2a: Entei|212/307
+|move|p2a: Entei|Sacred Fire|p1a: Salazzle
+|-damage|p1a: Salazzle|33/249
+|
+|-heal|p1a: Salazzle|48/249|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1776970809
+|move|p1a: Salazzle|Protect|p1a: Salazzle
+|-singleturn|p1a: Salazzle|Protect
+|move|p2a: Entei|Sacred Fire|p1a: Salazzle
+|-activate|p1a: Salazzle|move: Protect
+|
+|-heal|p1a: Salazzle|63/249|[from] item: Leftovers
+|upkeep
+|turn|21
+|inactive|yaqubxyz has 30 seconds left.
+|inactive|yaqubxyz has 20 seconds left.
+|inactive|yaqubxyz has 15 seconds left.
+|inactive|yaqubxyz has 10 seconds left.
+|inactive|yaqubxyz has 5 seconds left.
+|-message|yaqubxyz lost due to inactivity.
+|
+|win|Ramypoke

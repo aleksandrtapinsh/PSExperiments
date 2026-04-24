@@ -1,0 +1,291 @@
+|j|☆bluebetter
+|j|☆IDO NOT LOSE man
+|t:|1776976813
+|gametype|singles
+|player|p1|bluebetter|blue-gen1rb|1164
+|player|p2|IDO NOT LOSE man|101|1172
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776976813
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Tyranitar|Tyranitar, L78, F|284/284
+|switch|p2a: Noctowl|Noctowl, L95, F|344/344
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|1
+|
+|t:|1776976829
+|switch|p2a: Azumarill|Azumarill, L82, F|298/298
+|move|p1a: Tyranitar|Stone Edge|p2a: Azumarill|[miss]
+|-miss|p1a: Tyranitar|p2a: Azumarill
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Azumarill|280/298|[from] Sandstorm
+|upkeep
+|turn|2
+|
+|t:|1776976842
+|switch|p1a: Arboliva|Arboliva, L91, F|288/288
+|move|p2a: Azumarill|Liquidation|p1a: Arboliva
+|-resisted|p1a: Arboliva
+|-damage|p1a: Arboliva|210/288
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Azumarill|262/298|[from] Sandstorm
+|-damage|p1a: Arboliva|192/288|[from] Sandstorm
+|upkeep
+|turn|3
+|
+|t:|1776976870
+|switch|p2a: Torterra|Torterra, L78, F|276/276
+|move|p1a: Arboliva|Leech Seed|p2a: Torterra
+|-immune|p2a: Torterra
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Arboliva|174/288|[from] Sandstorm
+|upkeep
+|turn|4
+|
+|t:|1776976880
+|move|p2a: Torterra|Shell Smash|p2a: Torterra
+|-unboost|p2a: Torterra|def|1
+|-unboost|p2a: Torterra|spd|1
+|-boost|p2a: Torterra|atk|2
+|-boost|p2a: Torterra|spa|2
+|-boost|p2a: Torterra|spe|2
+|move|p1a: Arboliva|Hyper Voice|p2a: Torterra
+|-damage|p2a: Torterra|66/276
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Arboliva|156/288|[from] Sandstorm
+|upkeep
+|turn|5
+|
+|t:|1776976893
+|move|p2a: Torterra|Rock Blast|p1a: Arboliva
+|-damage|p1a: Arboliva|125/288
+|-enditem|p1a: Arboliva|Sitrus Berry|[eat]
+|-heal|p1a: Arboliva|197/288|[from] item: Sitrus Berry
+|-damage|p1a: Arboliva|168/288
+|-damage|p1a: Arboliva|140/288
+|-damage|p1a: Arboliva|107/288
+|-damage|p1a: Arboliva|76/288
+|-hitcount|p1a: Arboliva|5
+|move|p1a: Arboliva|Hyper Voice|p2a: Torterra
+|-damage|p2a: Torterra|0 fnt
+|faint|p2a: Torterra
+|
+|-weather|none
+|-item|p1a: Arboliva|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|-enditem|p1a: Arboliva|Sitrus Berry|[eat]
+|-heal|p1a: Arboliva|148/288|[from] item: Sitrus Berry
+|
+|t:|1776976915
+|switch|p2a: Noctowl|Noctowl, L95, F|344/344
+|turn|6
+|
+|t:|1776976926
+|move|p1a: Arboliva|Protect|p1a: Arboliva
+|-singleturn|p1a: Arboliva|Protect
+|move|p2a: Noctowl|Calm Mind|p2a: Noctowl
+|-boost|p2a: Noctowl|spa|1
+|-boost|p2a: Noctowl|spd|1
+|
+|-item|p1a: Arboliva|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|turn|7
+|
+|t:|1776976949
+|switch|p1a: Luxray|Luxray, L88, M|284/284
+|-ability|p1a: Luxray|Intimidate|boost
+|-unboost|p2a: Noctowl|atk|1
+|move|p2a: Noctowl|Hurricane|p1a: Luxray|[miss]
+|-miss|p2a: Noctowl|p1a: Luxray
+|
+|upkeep
+|turn|8
+|
+|t:|1776976961
+|-terastallize|p2a: Noctowl|Ground
+|move|p2a: Noctowl|Calm Mind|p2a: Noctowl
+|-boost|p2a: Noctowl|spa|1
+|-boost|p2a: Noctowl|spd|1
+|move|p1a: Luxray|Wild Charge|p2a: Noctowl
+|-immune|p2a: Noctowl
+|
+|upkeep
+|turn|9
+|
+|t:|1776976998
+|switch|p1a: Bombirdier|Bombirdier, L85, M|258/258
+|move|p2a: Noctowl|Hyper Voice|p1a: Bombirdier
+|-damage|p1a: Bombirdier|20/258
+|
+|upkeep
+|turn|10
+|
+|t:|1776977014
+|move|p1a: Bombirdier|Brave Bird|p2a: Noctowl
+|-damage|p2a: Noctowl|166/344
+|-damage|p1a: Bombirdier|0 fnt|[from] Recoil
+|faint|p1a: Bombirdier
+|move|p2a: Noctowl|Hyper Voice|p1: Bombirdier|[notarget]
+|-fail|p2a: Noctowl
+|
+|upkeep
+|
+|t:|1776977025
+|switch|p1a: Brambleghast|Brambleghast, L88, M|240/240
+|turn|11
+|
+|t:|1776977049
+|-terastallize|p1a: Brambleghast|Fairy
+|move|p1a: Brambleghast|Power Whip|p2a: Noctowl
+|-supereffective|p2a: Noctowl
+|-damage|p2a: Noctowl|0 fnt
+|faint|p2a: Noctowl
+|
+|upkeep
+|c|☆bluebetter|this guy does not lose
+|c|☆bluebetter|i believe in you
+|c|☆IDO NOT LOSE man|got me worried
+|c|☆IDO NOT LOSE man|might be my first loss ever
+|
+|t:|1776977130
+|switch|p2a: Spiritomb|Spiritomb, L89, M|234/234
+|turn|12
+|
+|t:|1776977141
+|move|p1a: Brambleghast|Spikes|p2a: Spiritomb
+|-sidestart|p2: IDO NOT LOSE man|Spikes
+|move|p2a: Spiritomb|Poltergeist|p1a: Brambleghast
+|-activate|p1a: Brambleghast|move: Poltergeist|Heavy-Duty Boots
+|-damage|p1a: Brambleghast|105/240
+|
+|upkeep
+|turn|13
+|
+|t:|1776977161
+|move|p1a: Brambleghast|Power Whip|p2a: Spiritomb
+|-damage|p2a: Spiritomb|99/234
+|move|p2a: Spiritomb|Poltergeist|p1a: Brambleghast|[miss]
+|-miss|p2a: Spiritomb|p1a: Brambleghast
+|
+|-heal|p2a: Spiritomb|113/234|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1776977171
+|move|p1a: Brambleghast|Power Whip|p2a: Spiritomb
+|-damage|p2a: Spiritomb|0 fnt
+|faint|p2a: Spiritomb
+|
+|upkeep
+|c|☆IDO NOT LOSE man|holy accuracy diff
+|
+|t:|1776977181
+|switch|p2a: Grimmsnarl|Grimmsnarl, L83, M|293/293
+|-damage|p2a: Grimmsnarl|257/293|[from] Spikes
+|turn|15
+|
+|t:|1776977189
+|move|p2a: Grimmsnarl|Thunder Wave|p1a: Brambleghast|[miss]
+|-miss|p2a: Grimmsnarl|p1a: Brambleghast
+|move|p1a: Brambleghast|Power Whip|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|50/293
+|
+|-heal|p2a: Grimmsnarl|68/293|[from] item: Leftovers
+|upkeep
+|turn|16
+|c|☆bluebetter|genuinely insane unluckiness
+|
+|t:|1776977206
+|move|p2a: Grimmsnarl|Thunder Wave|p1a: Brambleghast
+|-status|p1a: Brambleghast|par
+|move|p1a: Brambleghast|Power Whip|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|0 fnt
+|faint|p2a: Grimmsnarl
+|
+|upkeep
+|c|☆IDO NOT LOSE man|im putting the fries in the bag
+|
+|t:|1776977220
+|switch|p2a: Deoxys|Deoxys-Attack, L72|191/191
+|-damage|p2a: Deoxys|168/191|[from] Spikes
+|-ability|p2a: Deoxys|Pressure
+|turn|17
+|c|☆bluebetter|im spreading this curse out of gen 1 ou
+|
+|t:|1776977233
+|move|p2a: Deoxys|Ice Beam|p1a: Brambleghast
+|-damage|p1a: Brambleghast|0 fnt
+|faint|p1a: Brambleghast
+|-damage|p2a: Deoxys|149/191|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776977239
+|switch|p1a: Tyranitar|Tyranitar, L78, F|284/284
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|18
+|
+|t:|1776977244
+|move|p2a: Deoxys|Superpower|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|-unboost|p2a: Deoxys|atk|1
+|-unboost|p2a: Deoxys|def|1
+|faint|p1a: Tyranitar
+|-damage|p2a: Deoxys|130/191|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Deoxys|119/191|[from] Sandstorm
+|upkeep
+|
+|t:|1776977263
+|switch|p1a: Luxray|Luxray, L88, M|284/284
+|-ability|p1a: Luxray|Intimidate|boost
+|-unboost|p2a: Deoxys|atk|1
+|turn|19
+|
+|t:|1776977295
+|move|p2a: Deoxys|Ice Beam|p1a: Luxray
+|-damage|p1a: Luxray|215/284
+|-damage|p2a: Deoxys|100/191|[from] item: Life Orb
+|move|p1a: Luxray|Throat Chop|p2a: Deoxys
+|-supereffective|p2a: Deoxys
+|-damage|p2a: Deoxys|0 fnt
+|faint|p2a: Deoxys
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Luxray|198/284|[from] Sandstorm
+|upkeep
+|c|☆IDO NOT LOSE man|no 10% freeze its so over
+|
+|t:|1776977306
+|switch|p2a: Azumarill|Azumarill, L82, F|262/298
+|-damage|p2a: Azumarill|225/298|[from] Spikes
+|turn|20
+|
+|t:|1776977317
+|move|p1a: Luxray|Wild Charge|p2a: Azumarill
+|-supereffective|p2a: Azumarill
+|-damage|p2a: Azumarill|0 fnt
+|faint|p2a: Azumarill
+|-damage|p1a: Luxray|142/284|[from] Recoil
+|
+|win|bluebetter
+|raw|bluebetter's rating: 1164 &rarr; <strong>1190</strong><br />(+26 for winning)
+|raw|IDO NOT LOSE man's rating: 1172 &rarr; <strong>1146</strong><br />(-26 for losing)
+|c|☆bluebetter|gg lol
+|c|☆IDO NOT LOSE man|gg
+|l|☆IDO NOT LOSE man
+|player|p2|

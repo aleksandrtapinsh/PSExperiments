@@ -1,0 +1,313 @@
+|j|☆wyatt hp
+|j|☆Ic3McSpic3
+|t:|1776975880
+|gametype|singles
+|player|p1|wyatt hp|hiker|1056
+|player|p2|Ic3McSpic3|1|1107
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776975880
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Annihilape|Annihilape, L76, M|292/292
+|switch|p2a: Crabominable|Crabominable, L90, M|321/321
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by wyatt hp)
+|
+|t:|1776975891
+|-terastallize|p2a: Crabominable|Fighting
+|move|p1a: Annihilape|Bulk Up|p1a: Annihilape
+|-boost|p1a: Annihilape|atk|1
+|-boost|p1a: Annihilape|def|1
+|move|p2a: Crabominable|Knock Off|p1a: Annihilape
+|-damage|p1a: Annihilape|207/292
+|-enditem|p1a: Annihilape|Chesto Berry|[from] move: Knock Off|[of] p2a: Crabominable
+|
+|upkeep
+|turn|2
+|
+|t:|1776975910
+|move|p1a: Annihilape|Bulk Up|p1a: Annihilape
+|-boost|p1a: Annihilape|atk|1
+|-boost|p1a: Annihilape|def|1
+|move|p2a: Crabominable|Ice Hammer|p1a: Annihilape|[miss]
+|-miss|p2a: Crabominable|p1a: Annihilape
+|
+|upkeep
+|turn|3
+|
+|t:|1776975931
+|move|p1a: Annihilape|Bulk Up|p1a: Annihilape
+|-boost|p1a: Annihilape|atk|1
+|-boost|p1a: Annihilape|def|1
+|move|p2a: Crabominable|Ice Hammer|p1a: Annihilape
+|-crit|p1a: Annihilape
+|-damage|p1a: Annihilape|0 fnt
+|-unboost|p2a: Crabominable|spe|1
+|faint|p1a: Annihilape
+|
+|upkeep
+|
+|t:|1776975937
+|switch|p1a: Bombirdier|Bombirdier, L85, F|258/258
+|turn|4
+|
+|t:|1776975942
+|move|p1a: Bombirdier|Brave Bird|p2a: Crabominable
+|-supereffective|p2a: Crabominable
+|-damage|p2a: Crabominable|51/321
+|-damage|p1a: Bombirdier|169/258|[from] Recoil
+|move|p2a: Crabominable|Ice Hammer|p1a: Bombirdier
+|-supereffective|p1a: Bombirdier
+|-damage|p1a: Bombirdier|0 fnt
+|-unboost|p2a: Crabominable|spe|1
+|faint|p1a: Bombirdier
+|
+|upkeep
+|
+|t:|1776975959
+|switch|p1a: Reuniclus|Reuniclus, L88, F|337/337
+|turn|5
+|
+|t:|1776975969
+|switch|p2a: Gumshoos|Gumshoos, L95, F|321/321
+|move|p1a: Reuniclus|Psychic|p2a: Gumshoos
+|-damage|p2a: Gumshoos|126/321
+|
+|upkeep
+|turn|6
+|
+|t:|1776975977
+|move|p2a: Gumshoos|Knock Off|p1a: Reuniclus
+|-supereffective|p1a: Reuniclus
+|-damage|p1a: Reuniclus|11/337
+|-enditem|p1a: Reuniclus|Life Orb|[from] move: Knock Off|[of] p2a: Gumshoos
+|move|p1a: Reuniclus|Psychic|p2a: Gumshoos
+|-damage|p2a: Gumshoos|0 fnt
+|faint|p2a: Gumshoos
+|
+|upkeep
+|
+|t:|1776975998
+|switch|p2a: Crabominable|Crabominable, L90, M, tera:Fighting|51/321
+|turn|7
+|
+|t:|1776976010
+|move|p2a: Crabominable|Drain Punch|p1a: Reuniclus
+|-resisted|p1a: Reuniclus
+|-damage|p1a: Reuniclus|0 fnt
+|-heal|p2a: Crabominable|57/321|[from] drain|[of] p1a: Reuniclus
+|faint|p1a: Reuniclus
+|
+|upkeep
+|
+|t:|1776976021
+|switch|p1a: Scizor|Scizor, L79, F|240/240
+|turn|8
+|
+|t:|1776976039
+|move|p1a: Scizor|Bullet Punch|p2a: Crabominable
+|-damage|p2a: Crabominable|0 fnt
+|faint|p2a: Crabominable
+|
+|upkeep
+|
+|t:|1776976051
+|switch|p2a: Oranguru|Oranguru, L92, M|315/315
+|turn|9
+|
+|t:|1776976057
+|move|p2a: Oranguru|Trick|p1a: Scizor
+|-activate|p2a: Oranguru|move: Trick|[of] p1a: Scizor
+|-item|p1a: Scizor|Choice Specs|[from] move: Trick
+|-item|p2a: Oranguru|Leftovers|[from] move: Trick
+|move|p1a: Scizor|U-turn|p2a: Oranguru
+|-supereffective|p2a: Oranguru
+|-damage|p2a: Oranguru|163/315
+|
+|t:|1776976061
+|switch|p1a: Spiritomb|Spiritomb, L89, F|234/234|[from] U-turn
+|
+|-heal|p2a: Oranguru|182/315|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1776976081
+|switch|p2a: Tentacruel|Tentacruel, L84, M|272/272
+|move|p1a: Spiritomb|Foul Play|p2a: Tentacruel
+|-damage|p2a: Tentacruel|164/272
+|
+|-heal|p2a: Tentacruel|181/272|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776976090
+|move|p2a: Tentacruel|Sludge Bomb|p1a: Spiritomb
+|-resisted|p1a: Spiritomb
+|-damage|p1a: Spiritomb|204/234
+|-status|p1a: Spiritomb|psn
+|move|p1a: Spiritomb|Poltergeist|p2a: Tentacruel|[miss]
+|-miss|p1a: Spiritomb|p2a: Tentacruel
+|
+|-heal|p2a: Tentacruel|198/272|[from] item: Leftovers
+|-heal|p1a: Spiritomb|218/234 psn|[from] item: Leftovers
+|-damage|p1a: Spiritomb|189/234 psn|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1776976102
+|move|p2a: Tentacruel|Surf|p1a: Spiritomb
+|-damage|p1a: Spiritomb|123/234 psn
+|move|p1a: Spiritomb|Will-O-Wisp|p2a: Tentacruel
+|-status|p2a: Tentacruel|brn
+|
+|-heal|p2a: Tentacruel|215/272 brn|[from] item: Leftovers
+|-heal|p1a: Spiritomb|137/234 psn|[from] item: Leftovers
+|-damage|p1a: Spiritomb|108/234 psn|[from] psn
+|-damage|p2a: Tentacruel|198/272 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1776976117
+|move|p2a: Tentacruel|Surf|p1a: Spiritomb
+|-damage|p1a: Spiritomb|41/234 psn
+|move|p1a: Spiritomb|Pain Split|p2a: Tentacruel
+|-sethp|p2a: Tentacruel|119/272 brn|[from] move: Pain Split|[silent]
+|-sethp|p1a: Spiritomb|119/234 psn|[from] move: Pain Split
+|
+|-heal|p2a: Tentacruel|136/272 brn|[from] item: Leftovers
+|-heal|p1a: Spiritomb|133/234 psn|[from] item: Leftovers
+|-damage|p1a: Spiritomb|104/234 psn|[from] psn
+|-damage|p2a: Tentacruel|119/272 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1776976130
+|move|p2a: Tentacruel|Surf|p1a: Spiritomb
+|-damage|p1a: Spiritomb|43/234 psn
+|move|p1a: Spiritomb|Poltergeist|p2a: Tentacruel
+|-activate|p2a: Tentacruel|move: Poltergeist|Leftovers
+|-damage|p2a: Tentacruel|0 fnt
+|faint|p2a: Tentacruel
+|
+|-heal|p1a: Spiritomb|57/234 psn|[from] item: Leftovers
+|-damage|p1a: Spiritomb|28/234 psn|[from] psn
+|upkeep
+|inactive|Ic3McSpic3 has 120 seconds left.
+|
+|t:|1776976149
+|switch|p2a: Tauros|Tauros-Paldea-Blaze, L81, M|254/254
+|-ability|p2a: Tauros|Intimidate|boost
+|-unboost|p1a: Spiritomb|atk|1
+|turn|15
+|inactive|wyatt hp has 120 seconds left.
+|
+|t:|1776976180
+|move|p2a: Tauros|Flare Blitz|p1a: Spiritomb
+|-damage|p1a: Spiritomb|0 fnt
+|faint|p1a: Spiritomb
+|-damage|p2a: Tauros|245/254|[from] Recoil
+|
+|upkeep
+|
+|t:|1776976183
+|switch|p1a: Infernape|Infernape, L82, M|259/259
+|turn|16
+|
+|t:|1776976196
+|switch|p2a: Mew|Mew, L82|298/298
+|move|p1a: Infernape|Gunk Shot|p2a: Mew
+|-damage|p2a: Mew|193/298
+|-status|p2a: Mew|psn
+|-activate|p2a: Mew|ability: Synchronize
+|-status|p1a: Infernape|psn
+|-damage|p1a: Infernape|234/259 psn|[from] item: Life Orb
+|
+|-damage|p1a: Infernape|202/259 psn|[from] psn
+|-damage|p2a: Mew|156/298 psn|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1776976208
+|move|p1a: Infernape|Knock Off|p2a: Mew
+|-supereffective|p2a: Mew
+|-damage|p2a: Mew|0 fnt
+|-enditem|p2a: Mew|Life Orb|[from] move: Knock Off|[of] p1a: Infernape
+|faint|p2a: Mew
+|-damage|p1a: Infernape|177/259 psn|[from] item: Life Orb
+|
+|-damage|p1a: Infernape|145/259 psn|[from] psn
+|upkeep
+|
+|t:|1776976221
+|switch|p2a: Oranguru|Oranguru, L92, M|182/315
+|turn|18
+|
+|t:|1776976240
+|move|p1a: Infernape|Knock Off|p2a: Oranguru
+|-supereffective|p2a: Oranguru
+|-damage|p2a: Oranguru|0 fnt
+|-enditem|p2a: Oranguru|Leftovers|[from] move: Knock Off|[of] p1a: Infernape
+|faint|p2a: Oranguru
+|-damage|p1a: Infernape|120/259 psn|[from] item: Life Orb
+|
+|-damage|p1a: Infernape|88/259 psn|[from] psn
+|upkeep
+|
+|t:|1776976250
+|switch|p2a: Tauros|Tauros-Paldea-Blaze, L81, M|245/254
+|-ability|p2a: Tauros|Intimidate|boost
+|-unboost|p1a: Infernape|atk|1
+|turn|19
+|inactive|Ic3McSpic3 has 120 seconds left.
+|
+|t:|1776976276
+|move|p1a: Infernape|Gunk Shot|p2a: Tauros
+|-damage|p2a: Tauros|179/254
+|-damage|p1a: Infernape|63/259 psn|[from] item: Life Orb
+|move|p2a: Tauros|Close Combat|p1a: Infernape
+|-damage|p1a: Infernape|0 fnt
+|-unboost|p2a: Tauros|def|1
+|-unboost|p2a: Tauros|spd|1
+|faint|p1a: Infernape
+|
+|upkeep
+|
+|t:|1776976280
+|switch|p1a: Scizor|Scizor, L79, F|240/240
+|turn|20
+|
+|t:|1776976292
+|-terastallize|p1a: Scizor|Dragon
+|move|p2a: Tauros|Close Combat|p1a: Scizor
+|-damage|p1a: Scizor|63/240
+|-unboost|p2a: Tauros|def|1
+|-unboost|p2a: Tauros|spd|1
+|move|p1a: Scizor|Close Combat|p2a: Tauros
+|-damage|p2a: Tauros|12/254
+|-unboost|p1a: Scizor|def|1
+|-unboost|p1a: Scizor|spd|1
+|
+|upkeep
+|turn|21
+|
+|t:|1776976302
+|move|p2a: Tauros|Close Combat|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|-unboost|p2a: Tauros|def|1
+|-unboost|p2a: Tauros|spd|1
+|faint|p1a: Scizor
+|
+|win|Ic3McSpic3
+|raw|wyatt hp's rating: 1056 &rarr; <strong>1040</strong><br />(-16 for losing)
+|raw|Ic3McSpic3's rating: 1107 &rarr; <strong>1128</strong><br />(+21 for winning)
+|c|☆wyatt hp|gg
+|l|☆wyatt hp
+|player|p1|

@@ -1,0 +1,374 @@
+|j|☆papaille
+|j|☆Larapaviola
+|t:|1776973639
+|gametype|singles
+|player|p1|papaille|ethan|1661
+|player|p2|Larapaviola|mira|1727
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776973639
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Florges|Florges-White, L85, F|271/271
+|switch|p2a: Inteleon|Inteleon, L81, F|246/246
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Larapaviola)
+|l|☆Larapaviola
+|inactive|Larapaviola disconnected and has a minute to reconnect!
+|player|p2|
+|j|☆Larapaviola
+|inactive|Larapaviola reconnected and has 130 seconds left.
+|player|p2|Larapaviola|mira|
+|
+|t:|1776973668
+|move|p2a: Inteleon|U-turn|p1a: Florges
+|-resisted|p1a: Florges
+|-damage|p1a: Florges|246/271
+|
+|t:|1776973680
+|switch|p2a: Volcarona|Volcarona, L77, M|257/257|[from] U-turn
+|move|p1a: Florges|Moonblast|p2a: Volcarona
+|-resisted|p2a: Volcarona
+|-damage|p2a: Volcarona|206/257
+|
+|-heal|p1a: Florges|262/271|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776973702
+|switch|p1a: Iron Moth|Iron Moth, L78|253/253
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|
+|upkeep
+|turn|3
+|
+|t:|1776973708
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|move|p1a: Iron Moth|Fiery Dance|p2a: Volcarona
+|-damage|p2a: Volcarona|160/257
+|-boost|p1a: Iron Moth|spa|1
+|
+|upkeep
+|turn|4
+|inactive|papaille has 120 seconds left.
+|l|☆Larapaviola
+|inactive|Larapaviola disconnected and has a minute to reconnect!
+|player|p2|
+|inactive|papaille has 90 seconds left.
+|
+|t:|1776973777
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|move|p1a: Iron Moth|Fiery Dance|p2a: Volcarona
+|-damage|p2a: Volcarona|106/257
+|-boost|p1a: Iron Moth|spa|1
+|
+|upkeep
+|turn|5
+|inactive|Larapaviola has 30 seconds to reconnect!
+|inactive|Larapaviola has 20 seconds to reconnect!
+|j|☆Larapaviola
+|inactive|Larapaviola reconnected and has 110 seconds left.
+|player|p2|Larapaviola|mira|
+|
+|t:|1776973823
+|-terastallize|p2a: Volcarona|Fire
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|move|p1a: Iron Moth|Fiery Dance|p2a: Volcarona
+|-resisted|p2a: Volcarona
+|-damage|p2a: Volcarona|73/257
+|
+|upkeep
+|turn|6
+|inactive|papaille has 90 seconds left.
+|inactive|papaille has 60 seconds left.
+|inactive|papaille has 30 seconds left.
+|inactive|papaille has 20 seconds left.
+|inactive|papaille has 15 seconds left.
+|inactive|papaille has 10 seconds left.
+|
+|t:|1776973920
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|move|p1a: Iron Moth|Fiery Dance|p2a: Volcarona
+|-resisted|p2a: Volcarona
+|-damage|p2a: Volcarona|46/257
+|
+|upkeep
+|turn|7
+|inactive|papaille has 20 seconds left this turn.
+|
+|t:|1776973925
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|move|p1a: Iron Moth|Sludge Wave|p2a: Volcarona
+|-damage|p2a: Volcarona|0 fnt
+|faint|p2a: Volcarona
+|
+|upkeep
+|c|☆papaille|ajaja
+|n|!Larapaviola|larapaviola
+|l|!Larapaviola
+|inactive|Larapaviola disconnected and has a minute to reconnect!
+|player|p2|
+|j|!Larapaviola
+|inactive|Larapaviola reconnected and has 95 seconds left.
+|player|p2|Larapaviola|mira|
+|inactive|Larapaviola has 90 seconds left.
+|
+|t:|1776973964
+|switch|p2a: Groudon|Groudon, L72|263/263
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Groudon
+|turn|8
+|inactive|papaille has 30 seconds left.
+|
+|t:|1776973971
+|move|p1a: Iron Moth|Energy Ball|p2a: Groudon
+|-supereffective|p2a: Groudon
+|-damage|p2a: Groudon|0 fnt
+|faint|p2a: Groudon
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1776973978
+|switch|p2a: Chansey|Chansey, L85, F|564/564
+|turn|9
+|
+|t:|1776973990
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|switch|p1a: Gardevoir|Gardevoir, L83, F|249/249
+|-ability|p1a: Gardevoir|Natural Cure|Trace|[from] ability: Trace|[of] p2a: Chansey
+|move|p2a: Chansey|Thunder Wave|p1a: Gardevoir
+|-status|p1a: Gardevoir|par
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1776973997
+|cant|p1a: Gardevoir|par
+|move|p2a: Chansey|Seismic Toss|p1a: Gardevoir
+|-damage|p1a: Gardevoir|164/249 par
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1776974002
+|cant|p1a: Gardevoir|par
+|move|p2a: Chansey|Seismic Toss|p1a: Gardevoir
+|-damage|p1a: Gardevoir|79/249 par
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|12
+|inactive|papaille has 60 seconds left.
+|
+|t:|1776974009
+|-curestatus|p1a: Gardevoir|par|[from] ability: Natural Cure
+|switch|p1a: Haxorus|Haxorus, L77, M|244/244
+|-ability|p1a: Haxorus|Mold Breaker
+|move|p2a: Chansey|Seismic Toss|p1a: Haxorus
+|-damage|p1a: Haxorus|159/244
+|
+|-weather|none
+|upkeep
+|turn|13
+|
+|t:|1776974013
+|move|p1a: Haxorus|Close Combat|p2a: Chansey
+|-supereffective|p2a: Chansey
+|-damage|p2a: Chansey|118/564
+|-unboost|p1a: Haxorus|def|1
+|-unboost|p1a: Haxorus|spd|1
+|move|p2a: Chansey|Thunder Wave|p1a: Haxorus
+|-status|p1a: Haxorus|par
+|-enditem|p1a: Haxorus|Lum Berry|[eat]
+|-curestatus|p1a: Haxorus|par|[msg]
+|
+|upkeep
+|turn|14
+|c|☆papaille|bro
+|
+|t:|1776974021
+|move|p1a: Haxorus|Close Combat|p2a: Chansey
+|-supereffective|p2a: Chansey
+|-damage|p2a: Chansey|0 fnt
+|-unboost|p1a: Haxorus|def|1
+|-unboost|p1a: Haxorus|spd|1
+|faint|p2a: Chansey
+|
+|upkeep
+|c|☆papaille|resistio un close comba
+|
+|t:|1776974027
+|switch|p2a: Inteleon|Inteleon, L81, F|246/246
+|turn|15
+|inactive|papaille has 90 seconds left.
+|
+|t:|1776974032
+|switch|p1a: Florges|Florges-White, L85, F|262/271
+|move|p2a: Inteleon|Ice Beam|p1a: Florges
+|-damage|p1a: Florges|199/271
+|
+|-heal|p1a: Florges|215/271|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776974038
+|switch|p2a: Incineroar|Incineroar, L82, F|290/290
+|-ability|p2a: Incineroar|Intimidate|boost
+|-unboost|p1a: Florges|atk|1
+|move|p1a: Florges|Moonblast|p2a: Incineroar
+|-damage|p2a: Incineroar|173/290
+|
+|-heal|p1a: Florges|231/271|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1776974045
+|move|p1a: Florges|Moonblast|p2a: Incineroar
+|-damage|p2a: Incineroar|61/290
+|-unboost|p2a: Incineroar|spa|1
+|move|p2a: Incineroar|Flare Blitz|p1a: Florges
+|-damage|p1a: Florges|62/271
+|-damage|p2a: Incineroar|5/290|[from] Recoil
+|
+|-heal|p1a: Florges|78/271|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1776974051
+|move|p1a: Florges|Moonblast|p2a: Incineroar
+|-damage|p2a: Incineroar|0 fnt
+|faint|p2a: Incineroar
+|
+|-heal|p1a: Florges|94/271|[from] item: Leftovers
+|upkeep
+|
+|t:|1776974054
+|switch|p2a: Inteleon|Inteleon, L81, F|246/246
+|turn|19
+|inactive|papaille has 120 seconds left.
+|
+|t:|1776974059
+|move|p1a: Florges|Protect|p1a: Florges
+|-singleturn|p1a: Florges|Protect
+|move|p2a: Inteleon|Hydro Pump|p1a: Florges
+|-activate|p1a: Florges|move: Protect
+|
+|-heal|p1a: Florges|110/271|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1776974061
+|move|p2a: Inteleon|Hydro Pump|p1a: Florges
+|-damage|p1a: Florges|0 fnt
+|faint|p1a: Florges
+|
+|upkeep
+|
+|t:|1776974069
+|switch|p1a: Gardevoir|Gardevoir, L83, F|79/249
+|-ability|p1a: Gardevoir|Torrent|Trace|[from] ability: Trace|[of] p2a: Inteleon
+|turn|21
+|
+|t:|1776974073
+|move|p1a: Gardevoir|Moonblast|p2a: Inteleon
+|-damage|p2a: Inteleon|86/246
+|move|p2a: Inteleon|Hydro Pump|p1a: Gardevoir
+|-damage|p1a: Gardevoir|0 fnt
+|faint|p1a: Gardevoir
+|
+|upkeep
+|
+|t:|1776974078
+|switch|p1a: Dragapult|Dragapult, L77, M|262/262
+|turn|22
+|
+|t:|1776974082
+|switch|p2a: Pincurchin|Pincurchin, M|258/258
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Pincurchin
+|move|p1a: Dragapult|Dragon Darts|p2a: Pincurchin
+|-damage|p2a: Pincurchin|213/258
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Pincurchin
+|-damage|p2a: Pincurchin|174/258
+|
+|-heal|p2a: Pincurchin|190/258|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1776974089
+|move|p1a: Dragapult|U-turn|p2a: Pincurchin
+|-damage|p2a: Pincurchin|150/258
+|
+|t:|1776974097
+|switch|p1a: Iron Moth|Iron Moth, L78|253/253|[from] U-turn
+|-activate|p1a: Iron Moth|ability: Quark Drive
+|-start|p1a: Iron Moth|quarkdrivespa
+|move|p2a: Pincurchin|Thunderbolt|p1a: Iron Moth
+|-damage|p1a: Iron Moth|91/253
+|
+|-heal|p2a: Pincurchin|166/258|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1776974103
+|move|p1a: Iron Moth|Sludge Wave|p2a: Pincurchin
+|-damage|p2a: Pincurchin|31/258
+|move|p2a: Pincurchin|Thunderbolt|p1a: Iron Moth
+|-damage|p1a: Iron Moth|0 fnt
+|faint|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|
+|-heal|p2a: Pincurchin|47/258|[from] item: Leftovers
+|upkeep
+|
+|t:|1776974114
+|switch|p1a: Dragapult|Dragapult, L77, M|262/262
+|turn|25
+|
+|t:|1776974119
+|move|p1a: Dragapult|Dragon Darts|p2a: Pincurchin
+|-damage|p2a: Pincurchin|1/258
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Pincurchin
+|-damage|p2a: Pincurchin|0 fnt
+|faint|p2a: Pincurchin
+|
+|upkeep
+|
+|t:|1776974121
+|switch|p2a: Inteleon|Inteleon, L81, F|86/246
+|turn|26
+|
+|t:|1776974124
+|move|p1a: Dragapult|Dragon Darts|p2a: Inteleon
+|-damage|p2a: Inteleon|20/246
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Inteleon
+|-damage|p2a: Inteleon|0 fnt
+|faint|p2a: Inteleon
+|
+|win|papaille

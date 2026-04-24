@@ -1,0 +1,203 @@
+|j|☆coopbluep13
+|j|☆Hghv4
+|t:|1776982497
+|gametype|singles
+|player|p1|coopbluep13|unknown|1093
+|player|p2|Hghv4|101|1087
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776982497
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Gallade|Gallade, L80, M|240/240
+|switch|p2a: Volbeat|Volbeat, L90, M|263/263
+|turn|1
+|
+|t:|1776982509
+|switch|p1a: Kleavor|Kleavor, L78, M|237/237
+|move|p2a: Volbeat|U-turn|p1a: Kleavor
+|-damage|p1a: Kleavor|168/237
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by coopbluep13)
+|
+|t:|1776982537
+|switch|p2a: Clodsire|Clodsire, L81, F|343/343|[from] U-turn
+|
+|upkeep
+|turn|2
+|
+|t:|1776982547
+|move|p1a: Kleavor|Defog|p2a: Clodsire
+|-unboost|p2a: Clodsire|evasion|1
+|move|p2a: Clodsire|Earthquake|p1a: Kleavor
+|-damage|p1a: Kleavor|87/237
+|
+|upkeep
+|turn|3
+|
+|t:|1776982560
+|move|p1a: Kleavor|U-turn|p2a: Clodsire
+|-resisted|p2a: Clodsire
+|-damage|p2a: Clodsire|289/343
+|
+|t:|1776982569
+|switch|p1a: Lugia|Lugia, L73|275/275|[from] U-turn
+|move|p2a: Clodsire|Earthquake|p1a: Lugia
+|-immune|p1a: Lugia
+|
+|-heal|p2a: Clodsire|310/343|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776982586
+|move|p1a: Lugia|Earth Power|p2a: Clodsire
+|-supereffective|p2a: Clodsire
+|-damage|p2a: Clodsire|222/343
+|move|p2a: Clodsire|Toxic|p1a: Lugia
+|-status|p1a: Lugia|tox
+|
+|-heal|p2a: Clodsire|243/343|[from] item: Leftovers
+|-damage|p1a: Lugia|258/275 tox|[from] psn
+|upkeep
+|turn|5
+|inactive|Hghv4 has 120 seconds left.
+|
+|t:|1776982612
+|switch|p2a: Rampardos|Rampardos, L90, M|321/321
+|move|p1a: Lugia|Calm Mind|p1a: Lugia
+|-boost|p1a: Lugia|spa|1
+|-boost|p1a: Lugia|spd|1
+|
+|-damage|p1a: Lugia|224/275 tox|[from] psn
+|upkeep
+|turn|6
+|inactive|Hghv4 has 120 seconds left.
+|
+|t:|1776982625
+|move|p2a: Rampardos|Rock Slide|p1a: Lugia
+|-supereffective|p1a: Lugia
+|-damage|p1a: Lugia|0 fnt
+|faint|p1a: Lugia
+|
+|upkeep
+|
+|t:|1776982629
+|switch|p1a: Trevenant|Trevenant, L89, F|296/296
+|turn|7
+|inactive|Hghv4 has 120 seconds left.
+|
+|t:|1776982668
+|switch|p2a: Skuntank|Skuntank, L84, F|310/310
+|move|p1a: Trevenant|Drain Punch|p2a: Skuntank
+|-damage|p2a: Skuntank|227/310
+|
+|upkeep
+|turn|8
+|
+|t:|1776982682
+|move|p1a: Trevenant|Protect|p1a: Trevenant
+|-singleturn|p1a: Trevenant|Protect
+|move|p2a: Skuntank|Fire Blast|p1a: Trevenant
+|-activate|p1a: Trevenant|move: Protect
+|
+|upkeep
+|turn|9
+|
+|t:|1776982691
+|move|p2a: Skuntank|Knock Off|p1a: Trevenant
+|-supereffective|p1a: Trevenant
+|-crit|p1a: Trevenant
+|-damage|p1a: Trevenant|0 fnt
+|-enditem|p1a: Trevenant|Sitrus Berry|[from] move: Knock Off|[of] p2a: Skuntank
+|faint|p1a: Trevenant
+|-damage|p2a: Skuntank|196/310|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776982698
+|switch|p1a: Incineroar|Incineroar, L82, F|290/290
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Skuntank|atk|1
+|turn|10
+|
+|t:|1776982721
+|switch|p2a: Swampert|Swampert, L83, M|302/302
+|move|p1a: Incineroar|Overheat|p2a: Swampert|[miss]
+|-miss|p1a: Incineroar|p2a: Swampert
+|
+|upkeep
+|turn|11
+|
+|t:|1776982730
+|move|p2a: Swampert|Flip Turn|p1a: Incineroar
+|-supereffective|p1a: Incineroar
+|-damage|p1a: Incineroar|162/290
+|
+|t:|1776982738
+|switch|p2a: Clodsire|Clodsire, L81, F|243/343|[from] Flip Turn
+|move|p1a: Incineroar|Knock Off|p2a: Clodsire
+|-damage|p2a: Clodsire|86/343
+|-enditem|p2a: Clodsire|Leftovers|[from] move: Knock Off|[of] p1a: Incineroar
+|
+|upkeep
+|turn|12
+|
+|t:|1776982750
+|move|p1a: Incineroar|Knock Off|p2a: Clodsire
+|-damage|p2a: Clodsire|0 fnt
+|faint|p2a: Clodsire
+|
+|upkeep
+|
+|t:|1776982759
+|switch|p2a: Veluza|Veluza, L85, M|292/292
+|turn|13
+|
+|t:|1776982764
+|move|p2a: Veluza|Aqua Cutter|p1a: Incineroar
+|-supereffective|p1a: Incineroar
+|-damage|p1a: Incineroar|0 fnt
+|faint|p1a: Incineroar
+|
+|upkeep
+|
+|t:|1776982770
+|switch|p1a: Gallade|Gallade, L80, M|240/240
+|turn|14
+|inactive|Hghv4 has 120 seconds left.
+|
+|t:|1776982796
+|switch|p2a: Skuntank|Skuntank, L84, F|196/310
+|move|p1a: Gallade|Night Slash|p2a: Skuntank
+|-resisted|p2a: Skuntank
+|-crit|p2a: Skuntank
+|-damage|p2a: Skuntank|97/310
+|-damage|p1a: Gallade|216/240|[from] item: Life Orb
+|
+|upkeep
+|turn|15
+|
+|t:|1776982808
+|move|p2a: Skuntank|Gunk Shot|p1a: Gallade
+|-damage|p1a: Gallade|0 fnt
+|faint|p1a: Gallade
+|-damage|p2a: Skuntank|66/310|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776982811
+|switch|p1a: Probopass|Probopass, L91, F|257/257
+|turn|16
+|-message|coopbluep13 forfeited.
+|
+|win|Hghv4
+|raw|coopbluep13's rating: 1093 &rarr; <strong>1069</strong><br />(-24 for losing)
+|raw|Hghv4's rating: 1087 &rarr; <strong>1114</strong><br />(+27 for winning)
+|l|☆coopbluep13
+|player|p1|

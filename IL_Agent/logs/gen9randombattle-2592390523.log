@@ -1,0 +1,299 @@
+|j|☆Marvelous Thursday
+|j|☆mdrp
+|t:|1776984849
+|gametype|singles
+|player|p1|Marvelous Thursday|iris|1440
+|player|p2|mdrp|1|1416
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776984849
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Decidueye|Decidueye-Hisui, L87, M|295/295
+|switch|p2a: Alcremie|Alcremie-Lemon-Cream, L90, F|263/263
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Marvelous Thursday)
+|
+|t:|1776984878
+|switch|p1a: Sudowoodo|Sudowoodo, L94, F|284/284
+|move|p2a: Alcremie|Calm Mind|p2a: Alcremie
+|-boost|p2a: Alcremie|spa|1
+|-boost|p2a: Alcremie|spd|1
+|
+|upkeep
+|turn|2
+|
+|t:|1776984891
+|move|p2a: Alcremie|Alluring Voice|p1a: Sudowoodo
+|-damage|p1a: Sudowoodo|92/284
+|move|p1a: Sudowoodo|Stealth Rock|p2a: Alcremie
+|-sidestart|p2: mdrp|move: Stealth Rock
+|
+|-heal|p1a: Sudowoodo|109/284|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776984908
+|switch|p1a: Kingdra|Kingdra, L84, M|263/263
+|move|p2a: Alcremie|Alluring Voice|p1a: Kingdra
+|-supereffective|p1a: Kingdra
+|-damage|p1a: Kingdra|0 fnt
+|faint|p1a: Kingdra
+|
+|upkeep
+|inactive|Marvelous Thursday has 120 seconds left.
+|inactive|Marvelous Thursday has 90 seconds left.
+|c|☆Marvelous Thursday|Shout out to the minuscule drop of water on my screen making brilliant plays such as switching kingdra in on the +1 fairy type
+|
+|t:|1776984980
+|switch|p1a: Seviper|Seviper, L93, M|287/287
+|turn|4
+|
+|t:|1776984987
+|-terastallize|p2a: Alcremie|Steel
+|move|p1a: Seviper|Gunk Shot|p2a: Alcremie
+|-immune|p2a: Alcremie
+|move|p2a: Alcremie|Psyshock|p1a: Seviper
+|-supereffective|p1a: Seviper
+|-crit|p1a: Seviper
+|-damage|p1a: Seviper|0 fnt
+|faint|p1a: Seviper
+|
+|upkeep
+|
+|t:|1776984996
+|switch|p1a: Decidueye|Decidueye-Hisui, L87, M|295/295
+|turn|5
+|
+|t:|1776985005
+|-terastallize|p1a: Decidueye|Steel
+|move|p2a: Alcremie|Alluring Voice|p1a: Decidueye
+|-resisted|p1a: Decidueye
+|-damage|p1a: Decidueye|217/295
+|move|p1a: Decidueye|Triple Arrows|p2a: Alcremie
+|-supereffective|p2a: Alcremie
+|-damage|p2a: Alcremie|9/263
+|-unboost|p2a: Alcremie|def|1
+|
+|-heal|p2a: Alcremie|25/263|[from] item: Leftovers
+|-heal|p1a: Decidueye|235/295|[from] item: Leftovers
+|upkeep
+|turn|6
+|inactive|Marvelous Thursday has 90 seconds left.
+|
+|t:|1776985018
+|move|p1a: Decidueye|Sucker Punch|p2a: Alcremie
+|-damage|p2a: Alcremie|0 fnt
+|faint|p2a: Alcremie
+|
+|-heal|p1a: Decidueye|253/295|[from] item: Leftovers
+|upkeep
+|
+|t:|1776985040
+|switch|p2a: Toxapex|Toxapex, L82, F|216/216
+|-damage|p2a: Toxapex|189/216|[from] Stealth Rock
+|turn|7
+|inactive|Marvelous Thursday has 90 seconds left.
+|
+|t:|1776985055
+|switch|p1a: Sudowoodo|Sudowoodo, L94, F|109/284
+|move|p2a: Toxapex|Liquidation|p1a: Sudowoodo
+|-supereffective|p1a: Sudowoodo
+|-damage|p1a: Sudowoodo|19/284
+|
+|-heal|p1a: Sudowoodo|36/284|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776985065
+|move|p1a: Sudowoodo|Head Smash|p2a: Toxapex
+|-damage|p2a: Toxapex|44/216
+|-damage|p1a: Sudowoodo|0 fnt|[from] item: Rocky Helmet|[of] p2a: Toxapex
+|faint|p1a: Sudowoodo
+|move|p2a: Toxapex|Liquidation|p1: Sudowoodo|[notarget]
+|-fail|p2a: Toxapex
+|
+|upkeep
+|
+|t:|1776985075
+|switch|p1a: Necrozma|Necrozma-Dusk-Mane, L69|248/248
+|turn|9
+|
+|t:|1776985098
+|switch|p2a: Garchomp|Garchomp, L74, M|282/282
+|-damage|p2a: Garchomp|265/282|[from] Stealth Rock
+|move|p1a: Necrozma|Dragon Dance|p1a: Necrozma
+|-boost|p1a: Necrozma|atk|1
+|-boost|p1a: Necrozma|spe|1
+|
+|upkeep
+|turn|10
+|
+|t:|1776985111
+|move|p1a: Necrozma|Photon Geyser|p2a: Garchomp
+|-damage|p2a: Garchomp|100/282
+|move|p2a: Garchomp|Earthquake|p1a: Necrozma
+|-supereffective|p1a: Necrozma
+|-damage|p1a: Necrozma|104/248
+|-enditem|p1a: Necrozma|Weakness Policy
+|-boost|p1a: Necrozma|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Necrozma|spa|2|[from] item: Weakness Policy
+|
+|upkeep
+|turn|11
+|
+|t:|1776985124
+|move|p1a: Necrozma|Photon Geyser|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|faint|p2a: Garchomp
+|
+|upkeep
+|inactive|mdrp has 120 seconds left.
+|
+|t:|1776985142
+|switch|p2a: Pikachu|Pikachu-Sinnoh, L93, M|216/216
+|-damage|p2a: Pikachu|189/216|[from] Stealth Rock
+|turn|12
+|inactive|Marvelous Thursday has 120 seconds left.
+|
+|t:|1776985160
+|move|p2a: Pikachu|Fake Out|p1a: Necrozma
+|-resisted|p1a: Necrozma
+|-damage|p1a: Necrozma|82/248
+|cant|p1a: Necrozma|flinch
+|
+|upkeep
+|turn|13
+|
+|t:|1776985179
+|move|p2a: Pikachu|Surf|p1a: Necrozma
+|-damage|p1a: Necrozma|0 fnt
+|faint|p1a: Necrozma
+|
+|upkeep
+|inactive|Marvelous Thursday has 120 seconds left.
+|
+|t:|1776985189
+|switch|p1a: Decidueye|Decidueye-Hisui, L87, M, tera:Steel|253/295
+|turn|14
+|
+|t:|1776985195
+|move|p2a: Pikachu|Surf|p1a: Decidueye
+|-damage|p1a: Decidueye|163/295
+|move|p1a: Decidueye|Triple Arrows|p2a: Pikachu
+|-damage|p2a: Pikachu|9/216
+|-unboost|p2a: Pikachu|def|1
+|
+|-heal|p1a: Decidueye|181/295|[from] item: Leftovers
+|upkeep
+|turn|15
+|inactive|Marvelous Thursday has 120 seconds left.
+|
+|t:|1776985210
+|move|p1a: Decidueye|Sucker Punch|p2a: Pikachu
+|-damage|p2a: Pikachu|0 fnt
+|faint|p2a: Pikachu
+|
+|-heal|p1a: Decidueye|199/295|[from] item: Leftovers
+|upkeep
+|
+|t:|1776985226
+|switch|p2a: Toxapex|Toxapex, L82, F|116/216
+|-damage|p2a: Toxapex|89/216|[from] Stealth Rock
+|turn|16
+|
+|t:|1776985235
+|move|p1a: Decidueye|Leaf Blade|p2a: Toxapex
+|-damage|p2a: Toxapex|13/216
+|-damage|p1a: Decidueye|150/295|[from] item: Rocky Helmet|[of] p2a: Toxapex
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|121/216
+|
+|-heal|p1a: Decidueye|168/295|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1776985253
+|move|p1a: Decidueye|Triple Arrows|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|86/216
+|cant|p2a: Toxapex|flinch
+|
+|-heal|p1a: Decidueye|186/295|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1776985262
+|switch|p2a: Golduck|Golduck, L90, F|290/290
+|-damage|p2a: Golduck|254/290|[from] Stealth Rock
+|-ability|p2a: Golduck|Cloud Nine
+|move|p1a: Decidueye|Triple Arrows|p2a: Golduck
+|-damage|p2a: Golduck|137/290
+|
+|-heal|p1a: Decidueye|204/295|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1776985278
+|move|p2a: Golduck|Hydro Pump|p1a: Decidueye
+|-damage|p1a: Decidueye|38/295
+|move|p1a: Decidueye|Leaf Blade|p2a: Golduck
+|-supereffective|p2a: Golduck
+|-damage|p2a: Golduck|0 fnt
+|faint|p2a: Golduck
+|
+|-heal|p1a: Decidueye|56/295|[from] item: Leftovers
+|upkeep
+|
+|t:|1776985289
+|switch|p2a: Toxapex|Toxapex, L82, F|158/216
+|-damage|p2a: Toxapex|131/216|[from] Stealth Rock
+|turn|20
+|
+|t:|1776985293
+|move|p1a: Decidueye|Roost|p1a: Decidueye
+|-heal|p1a: Decidueye|204/295
+|move|p2a: Toxapex|Liquidation|p1a: Decidueye
+|-damage|p1a: Decidueye|138/295
+|
+|-heal|p1a: Decidueye|156/295|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1776985309
+|switch|p2a: Magnezone|Magnezone, L85|258/258
+|-damage|p2a: Magnezone|242/258|[from] Stealth Rock
+|move|p1a: Decidueye|Roost|p1a: Decidueye
+|-heal|p1a: Decidueye|295/295
+|
+|-heal|p2a: Magnezone|258/258|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1776985320
+|move|p1a: Decidueye|Triple Arrows|p2a: Magnezone
+|-supereffective|p2a: Magnezone
+|-crit|p2a: Magnezone
+|-damage|p2a: Magnezone|0 fnt
+|faint|p2a: Magnezone
+|
+|upkeep
+|-message|mdrp forfeited.
+|
+|win|Marvelous Thursday
+|raw|Marvelous Thursday's rating: 1440 &rarr; <strong>1459</strong><br />(+19 for winning)
+|raw|mdrp's rating: 1416 &rarr; <strong>1397</strong><br />(-19 for losing)
+|l|☆mdrp
+|player|p2|
+|c|☆Marvelous Thursday|Thank you, minuscule drop of water, that play really won me the game
+|c|☆Marvelous Thursday|fr fr
+|c|☆Marvelous Thursday|on g
+|c|☆Marvelous Thursday|fr fr
+|c|☆Marvelous Thursday|🔥

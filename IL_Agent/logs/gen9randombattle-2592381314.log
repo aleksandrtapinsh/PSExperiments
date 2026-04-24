@@ -1,0 +1,224 @@
+|j|☆ez9va
+|j|‽hivykyi7
+|t:|1776983984
+|gametype|singles
+|player|p1|ez9va|1|1144
+|player|p2|hivykyi7|2|1127
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776983984
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ampharos|Ampharos, L88, M|302/302
+|switch|p2a: Greninja|Greninja, L80, M|246/246
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by hivykyi7)
+|
+|t:|1776984012
+|move|p2a: Greninja|Spikes|p1a: Ampharos
+|-start|p2a: Greninja|typechange|Ground|[from] ability: Protean
+|-sidestart|p1: ez9va|Spikes
+|move|p1a: Ampharos|Dazzling Gleam|p2a: Greninja
+|-damage|p2a: Greninja|125/246
+|-damage|p1a: Ampharos|272/302|[from] item: Life Orb
+|
+|upkeep
+|turn|2
+|
+|t:|1776984031
+|move|p2a: Greninja|Spikes|p1a: Ampharos
+|-sidestart|p1: ez9va|Spikes
+|move|p1a: Ampharos|Dazzling Gleam|p2a: Greninja
+|-damage|p2a: Greninja|3/246
+|-damage|p1a: Ampharos|242/302|[from] item: Life Orb
+|
+|upkeep
+|turn|3
+|
+|t:|1776984037
+|move|p2a: Greninja|Spikes|p1a: Ampharos
+|-sidestart|p1: ez9va|Spikes
+|move|p1a: Ampharos|Dazzling Gleam|p2a: Greninja
+|-damage|p2a: Greninja|0 fnt
+|faint|p2a: Greninja
+|-damage|p1a: Ampharos|212/302|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776984043
+|switch|p2a: Sandaconda|Sandaconda, L84, M|258/258
+|turn|4
+|inactive|ez9va has 120 seconds left.
+|
+|t:|1776984075
+|switch|p1a: Charizard|Charizard, L85, F|271/271
+|move|p2a: Sandaconda|Earthquake|p1a: Charizard
+|-immune|p1a: Charizard
+|
+|upkeep
+|turn|5
+|inactive|ez9va has 120 seconds left.
+|
+|t:|1776984098
+|switch|p1a: Quagsire|Quagsire, L84, F|297/297
+|-damage|p1a: Quagsire|223/297|[from] Spikes
+|move|p2a: Sandaconda|Glare|p1a: Quagsire
+|-status|p1a: Quagsire|par
+|
+|-heal|p1a: Quagsire|241/297 par|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776984112
+|move|p2a: Sandaconda|Earthquake|p1a: Quagsire
+|-damage|p1a: Quagsire|118/297 par
+|move|p1a: Quagsire|Toxic|p2a: Sandaconda
+|-status|p2a: Sandaconda|tox
+|
+|-activate|p2a: Sandaconda|ability: Shed Skin
+|-curestatus|p2a: Sandaconda|tox|[msg]
+|-heal|p1a: Quagsire|136/297 par|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776984130
+|move|p2a: Sandaconda|Earthquake|p1a: Quagsire
+|-damage|p1a: Quagsire|18/297 par
+|move|p1a: Quagsire|Recover|p1a: Quagsire
+|-heal|p1a: Quagsire|167/297 par
+|
+|-heal|p1a: Quagsire|185/297 par|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776984137
+|move|p2a: Sandaconda|Earthquake|p1a: Quagsire
+|-damage|p1a: Quagsire|68/297 par
+|move|p1a: Quagsire|Recover|p1a: Quagsire
+|-heal|p1a: Quagsire|217/297 par
+|
+|-heal|p1a: Quagsire|235/297 par|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776984143
+|move|p2a: Sandaconda|Earthquake|p1a: Quagsire
+|-damage|p1a: Quagsire|112/297 par
+|move|p1a: Quagsire|Recover|p1a: Quagsire
+|-heal|p1a: Quagsire|261/297 par
+|
+|-heal|p1a: Quagsire|279/297 par|[from] item: Leftovers
+|upkeep
+|turn|10
+|inactive|ez9va has 120 seconds left.
+|
+|t:|1776984159
+|move|p2a: Sandaconda|Earthquake|p1a: Quagsire
+|-damage|p1a: Quagsire|156/297 par
+|move|p1a: Quagsire|Spikes|p2a: Sandaconda
+|-sidestart|p2: hivykyi7|Spikes
+|
+|-heal|p1a: Quagsire|174/297 par|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776984168
+|move|p2a: Sandaconda|Earthquake|p1a: Quagsire
+|-damage|p1a: Quagsire|56/297 par
+|cant|p1a: Quagsire|par
+|
+|-heal|p1a: Quagsire|74/297 par|[from] item: Leftovers
+|upkeep
+|turn|12
+|inactive|ez9va has 120 seconds left.
+|
+|t:|1776984189
+|move|p2a: Sandaconda|Earthquake|p1a: Quagsire
+|-damage|p1a: Quagsire|0 fnt
+|faint|p1a: Quagsire
+|
+|upkeep
+|
+|t:|1776984194
+|switch|p1a: Veluza|Veluza, L85, F|292/292
+|-damage|p1a: Veluza|219/292|[from] Spikes
+|turn|13
+|
+|t:|1776984201
+|switch|p2a: Lumineon|Lumineon, L93, F|279/279
+|-damage|p2a: Lumineon|245/279|[from] Spikes
+|move|p1a: Veluza|Aqua Cutter|p2a: Lumineon
+|-ability|p2a: Lumineon|Storm Drain|boost
+|-boost|p2a: Lumineon|spa|1
+|
+|upkeep
+|turn|14
+|
+|t:|1776984215
+|switch|p1a: Ampharos|Ampharos, L88, M|212/302
+|-damage|p1a: Ampharos|137/302|[from] Spikes
+|move|p2a: Lumineon|Encore||[still]
+|-fail|p2a: Lumineon
+|
+|upkeep
+|turn|15
+|
+|t:|1776984229
+|move|p2a: Lumineon|Hydro Pump|p1a: Ampharos
+|-damage|p1a: Ampharos|0 fnt
+|faint|p1a: Ampharos
+|-damage|p2a: Lumineon|218/279|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776984245
+|switch|p1a: Crabominable|Crabominable, L90, F|321/321
+|-damage|p1a: Crabominable|241/321|[from] Spikes
+|turn|16
+|
+|t:|1776984251
+|move|p2a: Lumineon|Alluring Voice|p1a: Crabominable
+|-supereffective|p1a: Crabominable
+|-damage|p1a: Crabominable|88/321
+|-damage|p2a: Lumineon|191/279|[from] item: Life Orb
+|move|p1a: Crabominable|Knock Off|p2a: Lumineon
+|-damage|p2a: Lumineon|82/279
+|-enditem|p2a: Lumineon|Life Orb|[from] move: Knock Off|[of] p1a: Crabominable
+|
+|upkeep
+|turn|17
+|
+|t:|1776984260
+|move|p2a: Lumineon|Hydro Pump|p1a: Crabominable
+|-damage|p1a: Crabominable|0 fnt
+|faint|p1a: Crabominable
+|
+|upkeep
+|
+|t:|1776984265
+|switch|p1a: Veluza|Veluza, L85, F|219/292
+|-damage|p1a: Veluza|146/292|[from] Spikes
+|turn|18
+|
+|t:|1776984270
+|move|p2a: Lumineon|Alluring Voice|p1a: Veluza
+|-damage|p1a: Veluza|49/292
+|move|p1a: Veluza|Psycho Cut|p2a: Lumineon
+|-damage|p2a: Lumineon|0 fnt
+|faint|p2a: Lumineon
+|
+|upkeep
+|-message|ez9va forfeited.
+|
+|win|hivykyi7
+|raw|ez9va's rating: 1144 &rarr; <strong>1118</strong><br />(-26 for losing)
+|raw|hivykyi7's rating: 1127 &rarr; <strong>1153</strong><br />(+26 for winning)
+|l|☆ez9va
+|player|p1|

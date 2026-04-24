@@ -1,0 +1,249 @@
+|j|☆hiyfzhh
+|j|☆Slimeallurfriens
+|t:|1776974215
+|gametype|singles
+|player|p1|hiyfzhh|170|1000
+|player|p2|Slimeallurfriens|roxie|1000
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776974215
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Solgaleo|Solgaleo, L74|325/325
+|switch|p2a: Dewgong|Dewgong, L94, M|322/322
+|turn|1
+|
+|t:|1776974235
+|switch|p2a: Arboliva|Arboliva, L91, M|288/288
+|move|p1a: Solgaleo|Flame Charge|p2a: Arboliva
+|-supereffective|p2a: Arboliva
+|-damage|p2a: Arboliva|222/288
+|-boost|p1a: Solgaleo|spe|1
+|
+|upkeep
+|turn|2
+|
+|t:|1776974257
+|switch|p2a: Dewgong|Dewgong, L94, M|322/322
+|move|p1a: Solgaleo|Knock Off|p2a: Dewgong
+|-damage|p2a: Dewgong|254/322
+|-enditem|p2a: Dewgong|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Solgaleo
+|
+|upkeep
+|turn|3
+|
+|t:|1776974265
+|move|p1a: Solgaleo|Sunsteel Strike|p2a: Dewgong
+|-damage|p2a: Dewgong|149/322
+|move|p2a: Dewgong|Hydro Pump|p1a: Solgaleo
+|-damage|p1a: Solgaleo|204/325
+|
+|upkeep
+|turn|4
+|
+|t:|1776974276
+|move|p1a: Solgaleo|Sunsteel Strike|p2a: Dewgong
+|-damage|p2a: Dewgong|41/322
+|move|p2a: Dewgong|Knock Off|p1a: Solgaleo
+|-supereffective|p1a: Solgaleo
+|-damage|p1a: Solgaleo|76/325
+|-enditem|p1a: Solgaleo|Weakness Policy
+|-boost|p1a: Solgaleo|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Solgaleo|spa|2|[from] item: Weakness Policy
+|
+|upkeep
+|turn|5
+|
+|t:|1776974290
+|switch|p2a: Palkia|Palkia-Origin, L72|249/249
+|-ability|p2a: Palkia|Pressure
+|move|p1a: Solgaleo|Flame Charge|p2a: Palkia
+|-resisted|p2a: Palkia
+|-damage|p2a: Palkia|231/249
+|-boost|p1a: Solgaleo|spe|1
+|
+|upkeep
+|turn|6
+|
+|t:|1776974302
+|-terastallize|p2a: Palkia|Water
+|move|p1a: Solgaleo|Earthquake|p2a: Palkia
+|-damage|p2a: Palkia|85/249
+|move|p2a: Palkia|Hydro Pump|p1a: Solgaleo|[miss]
+|-miss|p2a: Palkia|p1a: Solgaleo
+|
+|upkeep
+|turn|7
+|
+|t:|1776974326
+|switch|p2a: Arboliva|Arboliva, L91, M|222/288
+|move|p1a: Solgaleo|Earthquake|p2a: Arboliva
+|-resisted|p2a: Arboliva
+|-damage|p2a: Arboliva|158/288
+|
+|upkeep
+|turn|8
+|
+|t:|1776974339
+|move|p1a: Solgaleo|Sunsteel Strike|p2a: Arboliva
+|-damage|p2a: Arboliva|0 fnt
+|faint|p2a: Arboliva
+|
+|upkeep
+|
+|t:|1776974347
+|switch|p2a: Dewgong|Dewgong, L94, M|41/322
+|turn|9
+|
+|t:|1776974350
+|move|p1a: Solgaleo|Flame Charge|p2a: Dewgong
+|-damage|p2a: Dewgong|6/322
+|-boost|p1a: Solgaleo|spe|1
+|move|p2a: Dewgong|Hydro Pump|p1a: Solgaleo
+|-damage|p1a: Solgaleo|0 fnt
+|faint|p1a: Solgaleo
+|
+|upkeep
+|
+|t:|1776974363
+|switch|p1a: Drifblim|Drifblim, L86, F|396/396
+|turn|10
+|
+|t:|1776974398
+|switch|p2a: Palkia|Palkia-Origin, L72, tera:Water|85/249
+|-ability|p2a: Palkia|Pressure
+|move|p1a: Drifblim|Shadow Ball|p2a: Palkia
+|-damage|p2a: Palkia|3/249
+|
+|upkeep
+|turn|11
+|
+|t:|1776974407
+|move|p2a: Palkia|Thunder Wave|p1a: Drifblim
+|-status|p1a: Drifblim|par
+|move|p1a: Drifblim|Calm Mind|p1a: Drifblim
+|-boost|p1a: Drifblim|spa|1
+|-boost|p1a: Drifblim|spd|1
+|
+|upkeep
+|turn|12
+|
+|t:|1776974416
+|switch|p2a: Rhyperior|Rhyperior, L82, M|323/323
+|move|p1a: Drifblim|Shadow Ball|p2a: Rhyperior
+|-damage|p2a: Rhyperior|194/323
+|
+|upkeep
+|turn|13
+|
+|t:|1776974424
+|move|p1a: Drifblim|Shadow Ball|p2a: Rhyperior
+|-damage|p2a: Rhyperior|64/323
+|move|p2a: Rhyperior|Dragon Tail|p1a: Drifblim|[miss]
+|-miss|p2a: Rhyperior|p1a: Drifblim
+|
+|upkeep
+|turn|14
+|
+|t:|1776974438
+|move|p2a: Rhyperior|Earthquake|p1a: Drifblim
+|-immune|p1a: Drifblim
+|move|p1a: Drifblim|Shadow Ball|p2a: Rhyperior
+|-damage|p2a: Rhyperior|0 fnt
+|faint|p2a: Rhyperior
+|
+|upkeep
+|
+|t:|1776974444
+|switch|p2a: Charizard|Charizard, L85, M|271/271
+|turn|15
+|
+|t:|1776974449
+|move|p2a: Charizard|Earthquake|p1a: Drifblim
+|-immune|p1a: Drifblim
+|move|p1a: Drifblim|Shadow Ball|p2a: Charizard
+|-damage|p2a: Charizard|153/271
+|-unboost|p2a: Charizard|spd|1
+|
+|upkeep
+|turn|16
+|
+|t:|1776974453
+|move|p2a: Charizard|Outrage|p1a: Drifblim
+|-damage|p1a: Drifblim|271/396 par
+|move|p1a: Drifblim|Shadow Ball|p2a: Charizard
+|-damage|p2a: Charizard|0 fnt
+|faint|p2a: Charizard
+|
+|upkeep
+|
+|t:|1776974466
+|switch|p2a: Gurdurr|Gurdurr, L85, F|283/283
+|turn|17
+|
+|t:|1776974475
+|move|p2a: Gurdurr|Mach Punch|p1a: Drifblim
+|-immune|p1a: Drifblim
+|cant|p1a: Drifblim|par
+|
+|upkeep
+|turn|18
+|
+|t:|1776974482
+|move|p2a: Gurdurr|Knock Off|p1a: Drifblim
+|-supereffective|p1a: Drifblim
+|-damage|p1a: Drifblim|21/396 par
+|-enditem|p1a: Drifblim|Sitrus Berry|[from] move: Knock Off|[of] p2a: Gurdurr
+|cant|p1a: Drifblim|par
+|
+|upkeep
+|turn|19
+|
+|t:|1776974489
+|move|p1a: Drifblim|Strength Sap|p2a: Gurdurr
+|-unboost|p2a: Gurdurr|atk|1
+|-heal|p1a: Drifblim|248/396 par
+|move|p2a: Gurdurr|Knock Off|p1a: Drifblim
+|-supereffective|p1a: Drifblim
+|-damage|p1a: Drifblim|142/396 par
+|
+|upkeep
+|turn|20
+|
+|t:|1776974498
+|cant|p1a: Drifblim|par
+|move|p2a: Gurdurr|Drain Punch|p1a: Drifblim
+|-immune|p1a: Drifblim
+|
+|upkeep
+|turn|21
+|
+|t:|1776974501
+|move|p1a: Drifblim|Air Slash|p2a: Gurdurr
+|-supereffective|p2a: Gurdurr
+|-damage|p2a: Gurdurr|41/283
+|cant|p2a: Gurdurr|flinch
+|
+|upkeep
+|turn|22
+|
+|t:|1776974505
+|move|p1a: Drifblim|Shadow Ball|p2a: Gurdurr
+|-damage|p2a: Gurdurr|0 fnt
+|faint|p2a: Gurdurr
+|
+|upkeep
+|-message|Slimeallurfriens forfeited.
+|
+|win|hiyfzhh
+|raw|hiyfzhh's rating: 1000 &rarr; <strong>1040</strong><br />(+40 for winning)
+|raw|Slimeallurfriens's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|l|☆Slimeallurfriens
+|player|p2|

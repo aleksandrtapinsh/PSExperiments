@@ -1,0 +1,459 @@
+|j|☆UziBoii
+|j|☆ProfessorFortnite
+|t:|1776969453
+|gametype|singles
+|player|p1|UziBoii|steven|1522
+|player|p2|ProfessorFortnite|juggler|1554
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776969453
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Cryogonal|Cryogonal, L89|287/287
+|switch|p2a: Rhyperior|Rhyperior, L82, F|323/323
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by UziBoii)
+|inactive|UziBoii has 120 seconds left.
+|
+|t:|1776969508
+|move|p1a: Cryogonal|Ice Beam|p2a: Rhyperior
+|-supereffective|p2a: Rhyperior
+|-damage|p2a: Rhyperior|115/323
+|-enditem|p2a: Rhyperior|Weakness Policy
+|-boost|p2a: Rhyperior|atk|2|[from] item: Weakness Policy
+|-boost|p2a: Rhyperior|spa|2|[from] item: Weakness Policy
+|move|p2a: Rhyperior|Rock Polish|p2a: Rhyperior
+|-boost|p2a: Rhyperior|spe|2
+|
+|upkeep
+|turn|2
+|
+|t:|1776969519
+|move|p1a: Cryogonal|Ice Beam|p2a: Rhyperior
+|-supereffective|p2a: Rhyperior
+|-damage|p2a: Rhyperior|0 fnt
+|faint|p2a: Rhyperior
+|
+|upkeep
+|c|☆ProfessorFortnite|damn </3
+|
+|t:|1776969537
+|switch|p2a: Cloyster|Cloyster, L80, F|211/211
+|turn|3
+|inactive|UziBoii has 120 seconds left.
+|
+|t:|1776969583
+|move|p1a: Cryogonal|Rapid Spin|p2a: Cloyster
+|-crit|p2a: Cloyster
+|-damage|p2a: Cloyster|186/211
+|-boost|p1a: Cryogonal|spe|1
+|move|p2a: Cloyster|Shell Smash|p2a: Cloyster
+|-unboost|p2a: Cloyster|def|1
+|-unboost|p2a: Cloyster|spd|1
+|-boost|p2a: Cloyster|atk|2
+|-boost|p2a: Cloyster|spa|2
+|-boost|p2a: Cloyster|spe|2
+|-enditem|p2a: Cloyster|White Herb
+|-clearnegativeboost|p2a: Cloyster|[silent]
+|
+|upkeep
+|turn|4
+|
+|t:|1776969599
+|-terastallize|p1a: Cryogonal|Electric
+|move|p1a: Cryogonal|Tera Blast|p2a: Cloyster|[anim] Tera Blast Electric
+|-supereffective|p2a: Cloyster
+|-damage|p2a: Cloyster|0 fnt
+|faint|p2a: Cloyster
+|
+|upkeep
+|
+|t:|1776969610
+|switch|p2a: Seviper|Seviper, L93, M|287/287
+|turn|5
+|
+|t:|1776969623
+|move|p1a: Cryogonal|Tera Blast|p2a: Seviper|[anim] Tera Blast Electric
+|-damage|p2a: Seviper|173/287
+|move|p2a: Seviper|Gunk Shot|p1a: Cryogonal
+|-damage|p1a: Cryogonal|53/287
+|
+|-heal|p2a: Seviper|190/287|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776969632
+|switch|p1a: Glalie|Glalie, L96, F|309/309
+|move|p2a: Seviper|Trailblaze|p1a: Glalie
+|-damage|p1a: Glalie|264/309
+|-boost|p2a: Seviper|spe|1
+|
+|-heal|p2a: Seviper|207/287|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776969660
+|-terastallize|p2a: Seviper|Grass
+|move|p2a: Seviper|Swords Dance|p2a: Seviper
+|-boost|p2a: Seviper|atk|2
+|move|p1a: Glalie|Earthquake|p2a: Seviper
+|-resisted|p2a: Seviper
+|-damage|p2a: Seviper|158/287
+|
+|-heal|p2a: Seviper|175/287|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776969666
+|move|p2a: Seviper|Gunk Shot|p1a: Glalie
+|-damage|p1a: Glalie|0 fnt
+|faint|p1a: Glalie
+|
+|-heal|p2a: Seviper|192/287|[from] item: Leftovers
+|upkeep
+|
+|t:|1776969669
+|switch|p1a: Persian|Persian, L92, F|269/269
+|turn|9
+|
+|t:|1776969673
+|move|p1a: Persian|Fake Out|p2a: Seviper
+|-damage|p2a: Seviper|99/287
+|cant|p2a: Seviper|flinch
+|
+|-heal|p2a: Seviper|116/287|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1776969688
+|switch|p1a: Cryogonal|Cryogonal, L89, tera:Electric|53/287
+|switch|p2a: Lunala|Lunala, L70|308/308
+|
+|upkeep
+|turn|11
+|
+|t:|1776969699
+|move|p1a: Cryogonal|Recover|p1a: Cryogonal
+|-heal|p1a: Cryogonal|197/287
+|move|p2a: Lunala|Psyshock|p1a: Cryogonal
+|-damage|p1a: Cryogonal|94/287
+|
+|upkeep
+|turn|12
+|
+|t:|1776969708
+|move|p1a: Cryogonal|Recover|p1a: Cryogonal
+|-heal|p1a: Cryogonal|238/287
+|move|p2a: Lunala|Psyshock|p1a: Cryogonal
+|-damage|p1a: Cryogonal|130/287
+|
+|upkeep
+|turn|13
+|
+|t:|1776969719
+|move|p1a: Cryogonal|Recover|p1a: Cryogonal
+|-heal|p1a: Cryogonal|274/287
+|move|p2a: Lunala|Psyshock|p1a: Cryogonal
+|-damage|p1a: Cryogonal|162/287
+|
+|upkeep
+|turn|14
+|
+|t:|1776969723
+|move|p1a: Cryogonal|Tera Blast|p2a: Lunala|[anim] Tera Blast Electric
+|-damage|p2a: Lunala|261/308
+|move|p2a: Lunala|Calm Mind|p2a: Lunala
+|-boost|p2a: Lunala|spa|1
+|-boost|p2a: Lunala|spd|1
+|
+|-heal|p2a: Lunala|280/308|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1776969731
+|switch|p1a: Kricketune|Kricketune, L99, M|312/312
+|move|p2a: Lunala|Psyshock|p1a: Kricketune
+|-damage|p1a: Kricketune|165/312
+|
+|-heal|p2a: Lunala|299/308|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776969752
+|switch|p2a: Seviper|Seviper, L93, M, tera:Grass|116/287
+|move|p1a: Kricketune|Knock Off|p2a: Seviper
+|-damage|p2a: Seviper|22/287
+|-enditem|p2a: Seviper|Leftovers|[from] move: Knock Off|[of] p1a: Kricketune
+|
+|upkeep
+|turn|17
+|
+|t:|1776969762
+|move|p1a: Kricketune|Knock Off|p2a: Seviper
+|-damage|p2a: Seviper|0 fnt
+|faint|p2a: Seviper
+|
+|upkeep
+|
+|t:|1776969767
+|switch|p2a: Iron Bundle|Iron Bundle, L78|215/215
+|turn|18
+|
+|t:|1776969773
+|switch|p1a: Persian|Persian, L92, F|269/269
+|move|p2a: Iron Bundle|Hydro Pump|p1a: Persian
+|-damage|p1a: Persian|127/269
+|
+|upkeep
+|turn|19
+|
+|t:|1776969779
+|-end|p2a: Iron Bundle|Quark Drive|[silent]
+|switch|p2a: Lunala|Lunala, L70|299/308
+|move|p1a: Persian|U-turn|p2a: Lunala
+|-damage|p2a: Lunala|240/308
+|
+|t:|1776969781
+|switch|p1a: Kricketune|Kricketune, L99, M|165/312|[from] U-turn
+|
+|-heal|p2a: Lunala|259/308|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1776969786
+|move|p1a: Kricketune|Sticky Web|p2a: Lunala
+|-sidestart|p2: ProfessorFortnite|move: Sticky Web
+|move|p2a: Lunala|Moongeist Beam|p1a: Kricketune
+|-damage|p1a: Kricketune|29/312
+|
+|-heal|p2a: Lunala|278/308|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1776969793
+|switch|p2a: Iron Bundle|Iron Bundle, L78|215/215
+|move|p1a: Kricketune|Knock Off|p2a: Iron Bundle
+|-damage|p2a: Iron Bundle|135/215
+|-enditem|p2a: Iron Bundle|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Kricketune
+|
+|upkeep
+|turn|22
+|
+|t:|1776969799
+|move|p2a: Iron Bundle|Freeze-Dry|p1a: Kricketune
+|-crit|p1a: Kricketune
+|-damage|p1a: Kricketune|0 fnt
+|faint|p1a: Kricketune
+|
+|upkeep
+|
+|t:|1776969801
+|switch|p1a: Persian|Persian, L92, F|127/269
+|turn|23
+|
+|t:|1776969805
+|move|p1a: Persian|Fake Out|p2a: Iron Bundle
+|-damage|p2a: Iron Bundle|74/215
+|cant|p2a: Iron Bundle|flinch
+|
+|upkeep
+|turn|24
+|inactive|ProfessorFortnite has 120 seconds left.
+|
+|t:|1776969849
+|-end|p2a: Iron Bundle|Quark Drive|[silent]
+|switch|p2a: Ho-Oh|Ho-Oh, L71|268/268
+|move|p1a: Persian|Double-Edge|p2a: Ho-Oh
+|-damage|p2a: Ho-Oh|108/268
+|-damage|p1a: Persian|74/269|[from] Recoil
+|
+|upkeep
+|turn|25
+|
+|t:|1776969861
+|switch|p2a: Iron Bundle|Iron Bundle, L78|74/215
+|-activate|p2a: Iron Bundle|move: Sticky Web
+|-unboost|p2a: Iron Bundle|spe|1
+|move|p1a: Persian|U-turn|p2a: Iron Bundle
+|-damage|p2a: Iron Bundle|34/215
+|
+|t:|1776969864
+|switch|p1a: Cryogonal|Cryogonal, L89, tera:Electric|162/287|[from] U-turn
+|
+|upkeep
+|turn|26
+|
+|t:|1776969868
+|move|p1a: Cryogonal|Tera Blast|p2a: Iron Bundle|[anim] Tera Blast Electric
+|-supereffective|p2a: Iron Bundle
+|-damage|p2a: Iron Bundle|0 fnt
+|faint|p2a: Iron Bundle
+|-end|p2a: Iron Bundle|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1776969873
+|switch|p2a: Lunala|Lunala, L70|278/308
+|-activate|p2a: Lunala|move: Sticky Web
+|-unboost|p2a: Lunala|spe|1
+|turn|27
+|
+|t:|1776969880
+|move|p1a: Cryogonal|Ice Beam|p2a: Lunala
+|-damage|p2a: Lunala|172/308
+|move|p2a: Lunala|Calm Mind|p2a: Lunala
+|-boost|p2a: Lunala|spa|1
+|-boost|p2a: Lunala|spd|1
+|
+|-heal|p2a: Lunala|191/308|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1776969887
+|switch|p1a: Latias|Latias, L79, F|256/256
+|move|p2a: Lunala|Moonlight|p2a: Lunala
+|-heal|p2a: Lunala|308/308
+|
+|upkeep
+|turn|29
+|
+|t:|1776969893
+|move|p1a: Latias|Psyshock|p2a: Lunala
+|-resisted|p2a: Lunala
+|-damage|p2a: Lunala|277/308
+|move|p2a: Lunala|Calm Mind|p2a: Lunala
+|-boost|p2a: Lunala|spa|1
+|-boost|p2a: Lunala|spd|1
+|
+|-heal|p2a: Lunala|296/308|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1776969899
+|move|p1a: Latias|Calm Mind|p1a: Latias
+|-boost|p1a: Latias|spa|1
+|-boost|p1a: Latias|spd|1
+|move|p2a: Lunala|Moongeist Beam|p1a: Latias
+|-supereffective|p1a: Latias
+|-damage|p1a: Latias|32/256
+|
+|-heal|p2a: Lunala|308/308|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1776969905
+|move|p1a: Latias|Psyshock|p2a: Lunala
+|-resisted|p2a: Lunala
+|-damage|p2a: Lunala|268/308
+|move|p2a: Lunala|Calm Mind|p2a: Lunala
+|-boost|p2a: Lunala|spa|1
+|-boost|p2a: Lunala|spd|1
+|
+|-heal|p2a: Lunala|287/308|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1776969918
+|move|p1a: Latias|Draco Meteor|p2a: Lunala
+|-damage|p2a: Lunala|182/308
+|-unboost|p1a: Latias|spa|2
+|move|p2a: Lunala|Moonlight|p2a: Lunala
+|-heal|p2a: Lunala|308/308
+|
+|upkeep
+|turn|33
+|
+|t:|1776969929
+|move|p1a: Latias|Psyshock|p2a: Lunala
+|-resisted|p2a: Lunala
+|-damage|p2a: Lunala|288/308
+|move|p2a: Lunala|Moongeist Beam|p1a: Latias
+|-supereffective|p1a: Latias
+|-damage|p1a: Latias|0 fnt
+|faint|p1a: Latias
+|
+|-heal|p2a: Lunala|307/308|[from] item: Leftovers
+|upkeep
+|
+|t:|1776969931
+|switch|p1a: Persian|Persian, L92, F|74/269
+|turn|34
+|
+|t:|1776969948
+|move|p1a: Persian|Knock Off|p2a: Lunala
+|-supereffective|p2a: Lunala
+|-damage|p2a: Lunala|7/308
+|-enditem|p2a: Lunala|Leftovers|[from] move: Knock Off|[of] p1a: Persian
+|move|p2a: Lunala|Psyshock|p1a: Persian
+|-damage|p1a: Persian|0 fnt
+|faint|p1a: Persian
+|
+|upkeep
+|
+|t:|1776969952
+|switch|p1a: Cryogonal|Cryogonal, L89, tera:Electric|162/287
+|turn|35
+|
+|t:|1776969956
+|move|p1a: Cryogonal|Ice Beam|p2a: Lunala
+|-crit|p2a: Lunala
+|-damage|p2a: Lunala|0 fnt
+|faint|p2a: Lunala
+|
+|upkeep
+|
+|t:|1776969959
+|switch|p2a: Ho-Oh|Ho-Oh, L71|197/268
+|turn|36
+|
+|t:|1776969981
+|move|p1a: Cryogonal|Tera Blast|p2a: Ho-Oh|[anim] Tera Blast Electric
+|-supereffective|p2a: Ho-Oh
+|-damage|p2a: Ho-Oh|63/268
+|move|p2a: Ho-Oh|Recover|p2a: Ho-Oh
+|-heal|p2a: Ho-Oh|197/268
+|
+|upkeep
+|turn|37
+|
+|t:|1776969989
+|move|p1a: Cryogonal|Tera Blast|p2a: Ho-Oh|[anim] Tera Blast Electric
+|-supereffective|p2a: Ho-Oh
+|-damage|p2a: Ho-Oh|57/268
+|move|p2a: Ho-Oh|Recover|p2a: Ho-Oh
+|-heal|p2a: Ho-Oh|191/268
+|
+|upkeep
+|turn|38
+|
+|t:|1776969992
+|move|p1a: Cryogonal|Tera Blast|p2a: Ho-Oh|[anim] Tera Blast Electric
+|-supereffective|p2a: Ho-Oh
+|-damage|p2a: Ho-Oh|45/268
+|move|p2a: Ho-Oh|Recover|p2a: Ho-Oh
+|-heal|p2a: Ho-Oh|179/268
+|
+|upkeep
+|turn|39
+|
+|t:|1776970002
+|move|p1a: Cryogonal|Tera Blast|p2a: Ho-Oh|[anim] Tera Blast Electric
+|-supereffective|p2a: Ho-Oh
+|-damage|p2a: Ho-Oh|27/268
+|move|p2a: Ho-Oh|Sacred Fire|p1a: Cryogonal
+|-damage|p1a: Cryogonal|15/287
+|
+|upkeep
+|turn|40
+|-message|ProfessorFortnite forfeited.
+|
+|win|UziBoii
+|raw|UziBoii's rating: 1522 &rarr; <strong>1544</strong><br />(+22 for winning)
+|raw|ProfessorFortnite's rating: 1554 &rarr; <strong>1532</strong><br />(-22 for losing)

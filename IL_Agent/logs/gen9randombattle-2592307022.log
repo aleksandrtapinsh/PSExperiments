@@ -1,0 +1,272 @@
+|j|☆valkeinen
+|j|☆iluvtorchicc
+|t:|1776977539
+|gametype|singles
+|player|p1|valkeinen|unknownf|
+|player|p2|iluvtorchicc|janitor|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776977539
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Slaking|Slaking, L84, M|389/389
+|switch|p2a: Galvantula|Galvantula, L82, M|249/249
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by valkeinen)
+|inactive|iluvtorchicc also wants the timer to be on.
+|
+|t:|1776977545
+|move|p2a: Galvantula|Sticky Web|p1a: Slaking
+|-sidestart|p1: valkeinen|move: Sticky Web
+|move|p1a: Slaking|Giga Impact|p2a: Galvantula
+|-enditem|p2a: Galvantula|Focus Sash
+|-damage|p2a: Galvantula|1/249
+|-mustrecharge|p1a: Slaking
+|
+|upkeep
+|turn|2
+|
+|t:|1776977567
+|switch|p2a: Iron Valiant|Iron Valiant, L78|244/244
+|cant|p1a: Slaking|recharge
+|
+|upkeep
+|turn|3
+|
+|t:|1776977573
+|-terastallize|p1a: Slaking|Ground
+|move|p2a: Iron Valiant|Close Combat|p1a: Slaking
+|-damage|p1a: Slaking|224/389
+|-unboost|p2a: Iron Valiant|def|1
+|-unboost|p2a: Iron Valiant|spd|1
+|-damage|p2a: Iron Valiant|220/244|[from] item: Life Orb
+|move|p1a: Slaking|Giga Impact|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|-mustrecharge|p1a: Slaking
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1776977580
+|switch|p2a: Shiftry|Shiftry, L89, M|305/305
+|turn|4
+|c|☆valkeinen|folkadrilo cocodrilo
+|
+|t:|1776977591
+|cant|p1a: Slaking|recharge
+|move|p2a: Shiftry|Leaf Storm|p1a: Slaking
+|-supereffective|p1a: Slaking
+|-damage|p1a: Slaking|0 fnt
+|-unboost|p2a: Shiftry|spa|2
+|faint|p1a: Slaking
+|
+|upkeep
+|
+|t:|1776977594
+|switch|p1a: Flutter Mane|Flutter Mane, L74|203/203
+|-activate|p1a: Flutter Mane|move: Sticky Web
+|-unboost|p1a: Flutter Mane|spe|1
+|turn|5
+|
+|t:|1776977621
+|switch|p2a: Galvantula|Galvantula, L82, M|1/249
+|move|p1a: Flutter Mane|Moonblast|p2a: Galvantula
+|-damage|p2a: Galvantula|0 fnt
+|faint|p2a: Galvantula
+|
+|upkeep
+|c|☆iluvtorchicc|tung
+|c|☆valkeinen|ttt
+|
+|t:|1776977628
+|switch|p2a: Clefable|Clefable, L83, M|293/293
+|turn|6
+|
+|t:|1776977635
+|-end|p1a: Flutter Mane|Protosynthesis|[silent]
+|switch|p1a: Camerupt|Camerupt, L91, F|275/275
+|-activate|p1a: Camerupt|move: Sticky Web
+|-unboost|p1a: Camerupt|spe|1
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|
+|upkeep
+|turn|7
+|c|☆valkeinen|larping ahh diddy foid
+|inactive|iluvtorchicc has 270 seconds left.
+|inactive|iluvtorchicc has 240 seconds left.
+|c|☆iluvtorchicc|diddy + blud + chud + foid + ahh + sus + dih + puh + pih + vih ahh chud
+|inactive|iluvtorchicc has 210 seconds left.
+|
+|t:|1776977733
+|move|p2a: Clefable|Moonblast|p1a: Camerupt
+|-resisted|p1a: Camerupt
+|-damage|p1a: Camerupt|203/275
+|move|p1a: Camerupt|Stealth Rock|p2a: Clefable
+|-sidestart|p2: iluvtorchicc|move: Stealth Rock
+|
+|-heal|p1a: Camerupt|220/275|[from] item: Leftovers
+|upkeep
+|turn|8
+|c|☆valkeinen|packgod
+|
+|t:|1776977747
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|move|p1a: Camerupt|Earthquake|p2a: Clefable
+|-damage|p2a: Clefable|149/293
+|
+|-heal|p2a: Clefable|167/293|[from] item: Leftovers
+|-heal|p1a: Camerupt|237/275|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776977753
+|move|p2a: Clefable|Moonblast|p1a: Camerupt
+|-resisted|p1a: Camerupt
+|-damage|p1a: Camerupt|132/275
+|move|p1a: Camerupt|Earthquake|p2a: Clefable
+|-damage|p2a: Clefable|25/293
+|
+|-heal|p2a: Clefable|43/293|[from] item: Leftovers
+|-heal|p1a: Camerupt|149/275|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1776977757
+|move|p2a: Clefable|Moonblast|p1a: Camerupt
+|-resisted|p1a: Camerupt
+|-damage|p1a: Camerupt|50/275
+|move|p1a: Camerupt|Earthquake|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|-heal|p1a: Camerupt|67/275|[from] item: Leftovers
+|upkeep
+|
+|t:|1776977765
+|switch|p2a: Toxtricity|Toxtricity, L82, F|257/257
+|-damage|p2a: Toxtricity|225/257|[from] Stealth Rock
+|turn|11
+|
+|t:|1776977772
+|move|p2a: Toxtricity|Boomburst|p1a: Camerupt
+|-damage|p1a: Camerupt|0 fnt
+|faint|p1a: Camerupt
+|
+|upkeep
+|
+|t:|1776977776
+|switch|p1a: Honchkrow|Honchkrow, L86, M|312/312
+|turn|12
+|
+|t:|1776977791
+|move|p1a: Honchkrow|Lash Out|p2a: Toxtricity
+|-damage|p2a: Toxtricity|111/257
+|move|p2a: Toxtricity|Boomburst|p1a: Honchkrow
+|-damage|p1a: Honchkrow|2/312
+|
+|upkeep
+|turn|13
+|
+|t:|1776977797
+|move|p1a: Honchkrow|Lash Out|p2a: Toxtricity
+|-damage|p2a: Toxtricity|0 fnt
+|faint|p2a: Toxtricity
+|-ability|p1a: Honchkrow|Moxie|boost
+|-boost|p1a: Honchkrow|atk|1
+|
+|upkeep
+|
+|t:|1776977802
+|switch|p2a: Shiftry|Shiftry, L89, M|305/305
+|turn|14
+|c|☆valkeinen|shut your diddy ahh off boiiii
+|
+|t:|1776977819
+|move|p2a: Shiftry|Sucker Punch|p1a: Honchkrow
+|-resisted|p1a: Honchkrow
+|-damage|p1a: Honchkrow|0 fnt
+|faint|p1a: Honchkrow
+|
+|upkeep
+|c|☆iluvtorchicc|wallahi
+|
+|t:|1776977827
+|switch|p1a: Flutter Mane|Flutter Mane, L74|203/203
+|-activate|p1a: Flutter Mane|move: Sticky Web
+|-unboost|p1a: Flutter Mane|spe|1
+|turn|15
+|
+|t:|1776977837
+|-terastallize|p2a: Shiftry|Dark
+|move|p2a: Shiftry|Knock Off|p1a: Flutter Mane
+|-damage|p1a: Flutter Mane|0 fnt
+|-enditem|p1a: Flutter Mane|Choice Specs|[from] move: Knock Off|[of] p2a: Shiftry
+|faint|p1a: Flutter Mane
+|-end|p1a: Flutter Mane|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1776977841
+|switch|p1a: Bombirdier|Bombirdier, L85, F|258/258
+|turn|16
+|c|☆iluvtorchicc|say wallahi
+|
+|t:|1776977847
+|move|p2a: Shiftry|Knock Off|p1a: Bombirdier
+|-resisted|p1a: Bombirdier
+|-damage|p1a: Bombirdier|180/258
+|-enditem|p1a: Bombirdier|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Shiftry
+|move|p1a: Bombirdier|Brave Bird|p2a: Shiftry
+|-damage|p2a: Shiftry|122/305
+|-damage|p1a: Bombirdier|120/258|[from] Recoil
+|
+|upkeep
+|turn|17
+|c|☆valkeinen|yap yap yap sahur
+|
+|t:|1776977859
+|move|p2a: Shiftry|Knock Off|p1a: Bombirdier
+|-resisted|p1a: Bombirdier
+|-damage|p1a: Bombirdier|67/258
+|move|p1a: Bombirdier|Roost|p1a: Bombirdier
+|-heal|p1a: Bombirdier|196/258
+|-singleturn|p1a: Bombirdier|move: Roost
+|
+|upkeep
+|turn|18
+|
+|t:|1776977863
+|move|p2a: Shiftry|Knock Off|p1a: Bombirdier
+|-resisted|p1a: Bombirdier
+|-damage|p1a: Bombirdier|137/258
+|move|p1a: Bombirdier|Brave Bird|p2a: Shiftry
+|-damage|p2a: Shiftry|0 fnt
+|faint|p2a: Shiftry
+|-damage|p1a: Bombirdier|97/258|[from] Recoil
+|
+|upkeep
+|
+|t:|1776977866
+|switch|p2a: Heracross|Heracross, L80, F|259/259
+|-damage|p2a: Heracross|227/259|[from] Stealth Rock
+|turn|19
+|
+|t:|1776977870
+|move|p1a: Bombirdier|Brave Bird|p2a: Heracross
+|-supereffective|p2a: Heracross
+|-damage|p2a: Heracross|0 fnt
+|faint|p2a: Heracross
+|-damage|p1a: Bombirdier|22/258|[from] Recoil
+|
+|win|valkeinen

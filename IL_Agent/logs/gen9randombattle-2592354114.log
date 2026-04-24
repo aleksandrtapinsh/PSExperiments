@@ -1,0 +1,340 @@
+|j|☆arthuraudrome
+|j|☆kgnygkuyg
+|t:|1776981461
+|gametype|singles
+|player|p1|arthuraudrome|alder|1394
+|player|p2|kgnygkuyg|lucas|1388
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776981461
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Slither Wing|Slither Wing, L81|270/270
+|switch|p2a: Veluza|Veluza, L85, M|292/292
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by arthuraudrome)
+|
+|t:|1776981492
+|switch|p2a: Okidogi|Okidogi, L77, M|262/262
+|move|p1a: Slither Wing|Wild Charge|p2a: Okidogi
+|-damage|p2a: Okidogi|166/262
+|-damage|p1a: Slither Wing|246/270|[from] Recoil
+|
+|upkeep
+|turn|2
+|
+|t:|1776981503
+|-end|p1a: Slither Wing|Protosynthesis|[silent]
+|switch|p1a: Fezandipiti|Fezandipiti, L82, M|278/278
+|move|p2a: Okidogi|Psychic Fangs|p1a: Fezandipiti
+|-supereffective|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|144/278
+|
+|-heal|p1a: Fezandipiti|161/278|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776981511
+|move|p1a: Fezandipiti|Moonblast|p2a: Okidogi
+|-damage|p2a: Okidogi|106/262
+|move|p2a: Okidogi|Psychic Fangs|p1a: Fezandipiti
+|-supereffective|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|23/278
+|
+|-heal|p1a: Fezandipiti|40/278|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776981515
+|move|p1a: Fezandipiti|Roost|p1a: Fezandipiti
+|-heal|p1a: Fezandipiti|179/278
+|-singleturn|p1a: Fezandipiti|move: Roost
+|move|p2a: Okidogi|Psychic Fangs|p1a: Fezandipiti
+|-supereffective|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|53/278
+|
+|-heal|p1a: Fezandipiti|70/278|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776981521
+|move|p1a: Fezandipiti|Roost|p1a: Fezandipiti
+|-heal|p1a: Fezandipiti|209/278
+|-singleturn|p1a: Fezandipiti|move: Roost
+|move|p2a: Okidogi|Psychic Fangs|p1a: Fezandipiti
+|-supereffective|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|85/278
+|
+|-heal|p1a: Fezandipiti|102/278|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776981527
+|move|p1a: Fezandipiti|Moonblast|p2a: Okidogi
+|-damage|p2a: Okidogi|55/262
+|-unboost|p2a: Okidogi|spa|1
+|move|p2a: Okidogi|Psychic Fangs|p1a: Fezandipiti
+|-supereffective|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|0 fnt
+|faint|p1a: Fezandipiti
+|
+|upkeep
+|
+|t:|1776981532
+|switch|p1a: Slither Wing|Slither Wing, L81|246/270
+|turn|7
+|
+|t:|1776981561
+|move|p1a: Slither Wing|Earthquake|p2a: Okidogi
+|-supereffective|p2a: Okidogi
+|-damage|p2a: Okidogi|0 fnt
+|faint|p2a: Okidogi
+|
+|upkeep
+|
+|t:|1776981569
+|switch|p2a: Veluza|Veluza, L85, M|292/292
+|turn|8
+|
+|t:|1776981574
+|move|p1a: Slither Wing|Earthquake|p2a: Veluza
+|-damage|p2a: Veluza|153/292
+|move|p2a: Veluza|Fillet Away|p2a: Veluza
+|-boost|p2a: Veluza|atk|2
+|-boost|p2a: Veluza|spa|2
+|-boost|p2a: Veluza|spe|2
+|-damage|p2a: Veluza|7/292
+|-enditem|p2a: Veluza|Sitrus Berry|[eat]
+|-heal|p2a: Veluza|80/292|[from] item: Sitrus Berry
+|
+|upkeep
+|turn|9
+|
+|t:|1776981581
+|move|p2a: Veluza|Psycho Cut|p1a: Slither Wing
+|-supereffective|p1a: Slither Wing
+|-damage|p1a: Slither Wing|0 fnt
+|faint|p1a: Slither Wing
+|-end|p1a: Slither Wing|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1776981586
+|switch|p1a: Samurott|Samurott-Hisui, L77, M|265/265
+|turn|10
+|
+|t:|1776981599
+|move|p1a: Samurott|Sucker Punch|p2a: Veluza
+|-supereffective|p2a: Veluza
+|-damage|p2a: Veluza|0 fnt
+|faint|p2a: Veluza
+|
+|upkeep
+|
+|t:|1776981608
+|switch|p2a: Koraidon|Koraidon, L64|235/235
+|-weather|SunnyDay|[from] ability: Orichalcum Pulse|[of] p2a: Koraidon
+|-activate|p2a: Koraidon|Orichalcum Pulse|[source]
+|turn|11
+|
+|t:|1776981617
+|switch|p1a: Pecharunt|Pecharunt, L77|262/262
+|move|p2a: Koraidon|Swords Dance|p2a: Koraidon
+|-boost|p2a: Koraidon|atk|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1776981631
+|move|p2a: Koraidon|Swords Dance|p2a: Koraidon
+|-boost|p2a: Koraidon|atk|2
+|move|p1a: Pecharunt|Malignant Chain|p2a: Koraidon
+|-damage|p2a: Koraidon|141/235
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1776981646
+|move|p2a: Koraidon|Scale Shot|p1a: Pecharunt
+|-damage|p1a: Pecharunt|210/262
+|-damage|p1a: Pecharunt|150/262
+|-damage|p1a: Pecharunt|90/262
+|-damage|p1a: Pecharunt|35/262
+|-hitcount|p1a: Pecharunt|4
+|-unboost|p2a: Koraidon|def|1
+|-boost|p2a: Koraidon|spe|1
+|move|p1a: Pecharunt|Malignant Chain|p2a: Koraidon
+|-damage|p2a: Koraidon|42/235
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Pecharunt|51/262|[from] item: Leftovers
+|upkeep
+|turn|14
+|inactive|arthuraudrome has 120 seconds left.
+|
+|t:|1776981676
+|move|p2a: Koraidon|Scale Shot|p1a: Pecharunt
+|-damage|p1a: Pecharunt|0 fnt
+|faint|p1a: Pecharunt
+|-hitcount|p1: Pecharunt|1
+|-unboost|p2a: Koraidon|def|1
+|-boost|p2a: Koraidon|spe|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1776981679
+|switch|p1a: Samurott|Samurott-Hisui, L77, M|265/265
+|turn|15
+|
+|t:|1776981685
+|move|p1a: Samurott|Sucker Punch||[still]
+|-fail|p1a: Samurott
+|move|p2a: Koraidon|Swords Dance|p2a: Koraidon
+|-boost|p2a: Koraidon|atk|2
+|
+|-weather|none
+|upkeep
+|turn|16
+|
+|t:|1776981689
+|move|p1a: Samurott|Sucker Punch||[still]
+|-fail|p1a: Samurott
+|move|p2a: Koraidon|Swords Dance|p2a: Koraidon
+|-boost|p2a: Koraidon|atk|0
+|
+|upkeep
+|turn|17
+|
+|t:|1776981692
+|move|p1a: Samurott|Sucker Punch||[still]
+|-fail|p1a: Samurott
+|move|p2a: Koraidon|Swords Dance|p2a: Koraidon
+|-boost|p2a: Koraidon|atk|0
+|
+|upkeep
+|turn|18
+|
+|t:|1776981696
+|move|p1a: Samurott|Sucker Punch||[still]
+|-fail|p1a: Samurott
+|move|p2a: Koraidon|Swords Dance|p2a: Koraidon
+|-boost|p2a: Koraidon|atk|0
+|
+|upkeep
+|turn|19
+|
+|t:|1776981711
+|move|p1a: Samurott|Sucker Punch||[still]
+|-fail|p1a: Samurott
+|move|p2a: Koraidon|Swords Dance|p2a: Koraidon
+|-boost|p2a: Koraidon|atk|0
+|
+|upkeep
+|turn|20
+|
+|t:|1776981715
+|switch|p1a: Dewgong|Dewgong, L94, F|322/322
+|move|p2a: Koraidon|Swords Dance|p2a: Koraidon
+|-boost|p2a: Koraidon|atk|0
+|
+|upkeep
+|turn|21
+|
+|t:|1776981721
+|move|p2a: Koraidon|Collision Course|p1a: Dewgong
+|-supereffective|p1a: Dewgong
+|-damage|p1a: Dewgong|0 fnt
+|faint|p1a: Dewgong
+|
+|upkeep
+|
+|t:|1776981724
+|switch|p1a: Abomasnow|Abomasnow, L84, F|287/287
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p1a: Abomasnow
+|turn|22
+|
+|t:|1776981733
+|move|p2a: Koraidon|Collision Course|p1a: Abomasnow
+|-supereffective|p1a: Abomasnow
+|-damage|p1a: Abomasnow|0 fnt
+|faint|p1a: Abomasnow
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1776981737
+|switch|p1a: Samurott|Samurott-Hisui, L77, M|265/265
+|turn|23
+|
+|t:|1776981744
+|move|p2a: Koraidon|Swords Dance|p2a: Koraidon
+|-boost|p2a: Koraidon|atk|0
+|move|p1a: Samurott|Ceaseless Edge|p2a: Koraidon
+|-resisted|p2a: Koraidon
+|-damage|p2a: Koraidon|0 fnt
+|-sidestart|p2: kgnygkuyg|Spikes
+|faint|p2a: Koraidon
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1776981754
+|switch|p2a: Kleavor|Kleavor, L78, M|237/237
+|-damage|p2a: Kleavor|208/237|[from] Spikes
+|turn|24
+|
+|t:|1776981765
+|-terastallize|p2a: Kleavor|Fighting
+|-terastallize|p1a: Samurott|Dark
+|move|p2a: Kleavor|U-turn|p1a: Samurott
+|-supereffective|p1a: Samurott
+|-damage|p1a: Samurott|61/265
+|
+|t:|1776981770
+|switch|p2a: Sudowoodo|Sudowoodo, L94, F|284/284|[from] U-turn
+|-damage|p2a: Sudowoodo|249/284|[from] Spikes
+|move|p1a: Samurott|Ceaseless Edge|p2a: Sudowoodo
+|-damage|p2a: Sudowoodo|105/284
+|-sidestart|p2: kgnygkuyg|Spikes
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Sudowoodo|122/284|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1776981779
+|move|p1a: Samurott|Ceaseless Edge|p2a: Sudowoodo
+|-crit|p2a: Sudowoodo
+|-damage|p2a: Sudowoodo|0 fnt
+|-sidestart|p2: kgnygkuyg|Spikes
+|faint|p2a: Sudowoodo
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1776981782
+|switch|p2a: Kleavor|Kleavor, L78, M, tera:Fighting|208/237
+|-damage|p2a: Kleavor|149/237|[from] Spikes
+|turn|26
+|
+|t:|1776981785
+|move|p2a: Kleavor|U-turn|p1a: Samurott
+|-supereffective|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|faint|p1a: Samurott
+|
+|win|kgnygkuyg
+|raw|arthuraudrome's rating: 1394 &rarr; <strong>1374</strong><br />(-20 for losing)
+|raw|kgnygkuyg's rating: 1388 &rarr; <strong>1408</strong><br />(+20 for winning)
+|l|☆arthuraudrome
+|player|p1|

@@ -1,0 +1,245 @@
+|j|☆disconnectduewifi
+|j|☆2bad2game
+|t:|1776973871
+|gametype|singles
+|player|p1|disconnectduewifi|lucas|1720
+|player|p2|2bad2game|169|1755
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776973871
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Arbok|Arbok, L87, F|246/246
+|switch|p2a: Kilowattrel|Kilowattrel, L83, F|252/252
+|-ability|p1a: Arbok|Intimidate|boost
+|-unboost|p2a: Kilowattrel|atk|1
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by 2bad2game)
+|
+|t:|1776973894
+|move|p2a: Kilowattrel|Thunderbolt|p1a: Arbok
+|-damage|p1a: Arbok|137/246
+|move|p1a: Arbok|Gunk Shot|p2a: Kilowattrel
+|-damage|p2a: Kilowattrel|60/252
+|
+|-heal|p1a: Arbok|152/246|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776973905
+|move|p1a: Arbok|Sucker Punch|p2a: Kilowattrel
+|-damage|p2a: Kilowattrel|0 fnt
+|faint|p2a: Kilowattrel
+|
+|-heal|p1a: Arbok|167/246|[from] item: Leftovers
+|upkeep
+|
+|t:|1776973911
+|switch|p2a: Phione|Phione, L91|293/293
+|turn|3
+|
+|t:|1776973917
+|move|p2a: Phione|Scald|p1a: Arbok
+|-damage|p1a: Arbok|74/246
+|move|p1a: Arbok|Gunk Shot|p2a: Phione
+|-damage|p2a: Phione|164/293
+|-status|p2a: Phione|psn
+|
+|-heal|p2a: Phione|182/293 psn|[from] item: Leftovers
+|-heal|p1a: Arbok|89/246|[from] item: Leftovers
+|-damage|p2a: Phione|146/293 psn|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1776973930
+|move|p2a: Phione|Take Heart|p2a: Phione
+|-boost|p2a: Phione|spa|1
+|-boost|p2a: Phione|spd|1
+|-curestatus|p2a: Phione|psn|[msg]
+|move|p1a: Arbok|Gunk Shot|p2a: Phione
+|-damage|p2a: Phione|16/293
+|
+|-heal|p2a: Phione|34/293|[from] item: Leftovers
+|-heal|p1a: Arbok|104/246|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776973941
+|move|p1a: Arbok|Sucker Punch|p2a: Phione
+|-damage|p2a: Phione|0 fnt
+|faint|p2a: Phione
+|
+|-heal|p1a: Arbok|119/246|[from] item: Leftovers
+|upkeep
+|
+|t:|1776973943
+|switch|p2a: Zacian|Zacian-Crowned, L64|225/225
+|-ability|p2a: Zacian|Intrepid Sword|boost
+|-boost|p2a: Zacian|atk|1
+|turn|6
+|
+|t:|1776973952
+|move|p2a: Zacian|Behemoth Blade|p1a: Arbok
+|-damage|p1a: Arbok|0 fnt
+|faint|p1a: Arbok
+|
+|upkeep
+|
+|t:|1776973963
+|switch|p1a: Banette|Banette, L93, M|270/270
+|turn|7
+|
+|t:|1776973978
+|move|p2a: Zacian|Behemoth Blade|p1a: Banette
+|-damage|p1a: Banette|123/270
+|move|p1a: Banette|Thunder Wave|p2a: Zacian
+|-status|p2a: Zacian|par
+|
+|upkeep
+|turn|8
+|
+|t:|1776973992
+|move|p1a: Banette|Poltergeist|p2a: Zacian
+|-activate|p2a: Zacian|move: Poltergeist|Rusted Sword
+|-damage|p2a: Zacian|0 fnt
+|faint|p2a: Zacian
+|-damage|p1a: Banette|96/270|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776973999
+|switch|p2a: Moltres|Moltres-Galar, L79|271/271
+|turn|9
+|c|☆disconnectduewifi|Dang
+|
+|t:|1776974022
+|move|p2a: Moltres|Fiery Wrath|p1a: Banette
+|-supereffective|p1a: Banette
+|-damage|p1a: Banette|0 fnt
+|-start|p2a: Moltres|Disable|Fiery Wrath|[from] ability: Cursed Body|[of] p1a: Banette
+|faint|p1a: Banette
+|
+|upkeep
+|inactive|disconnectduewifi has 120 seconds left.
+|
+|t:|1776974039
+|switch|p1a: Maushold|Maushold, L76|238/238
+|turn|10
+|
+|t:|1776974054
+|move|p1a: Maushold|Encore|p2a: Moltres
+|-start|p2a: Moltres|Encore
+|cant|p2a: Moltres|Disable|Fiery Wrath
+|
+|upkeep
+|turn|11
+|c|☆2bad2game|DAMN
+|
+|t:|1776974060
+|switch|p2a: Lycanroc|Lycanroc-Midnight, L89, M|296/296
+|move|p1a: Maushold|Tidy Up|p1a: Maushold
+|-boost|p1a: Maushold|atk|1
+|-boost|p1a: Maushold|spe|1
+|
+|upkeep
+|turn|12
+|c|☆2bad2game|did not mean for all caps lol
+|
+|t:|1776974089
+|move|p2a: Lycanroc|Sucker Punch|p1a: Maushold
+|-damage|p1a: Maushold|138/238
+|-damage|p2a: Lycanroc|267/296|[from] item: Life Orb
+|move|p1a: Maushold|Bite|p2a: Lycanroc
+|-damage|p2a: Lycanroc|201/296
+|
+|upkeep
+|turn|13
+|
+|t:|1776974103
+|switch|p2a: Moltres|Moltres-Galar, L79|271/271
+|move|p1a: Maushold|Encore||[still]
+|-fail|p1a: Maushold
+|
+|upkeep
+|turn|14
+|
+|t:|1776974109
+|move|p1a: Maushold|Population Bomb|p2a: Moltres
+|-damage|p2a: Moltres|232/271
+|-damage|p2a: Moltres|198/271
+|-damage|p2a: Moltres|164/271
+|-damage|p2a: Moltres|130/271
+|-damage|p2a: Moltres|96/271
+|-damage|p2a: Moltres|60/271
+|-damage|p2a: Moltres|23/271
+|-damage|p2a: Moltres|0 fnt
+|faint|p2a: Moltres
+|-hitcount|p2: Moltres|8
+|
+|upkeep
+|
+|t:|1776974121
+|switch|p2a: Golduck|Golduck, L90, F|290/290
+|-ability|p2a: Golduck|Cloud Nine
+|turn|15
+|c|☆disconnectduewifi|Gg
+|c|☆2bad2game|rel
+|c|☆2bad2game|real
+|c|☆2bad2game|gg
+|
+|t:|1776974141
+|move|p1a: Maushold|Population Bomb|p2a: Golduck
+|-damage|p2a: Golduck|256/290
+|-damage|p2a: Golduck|220/290
+|-damage|p2a: Golduck|186/290
+|-damage|p2a: Golduck|153/290
+|-damage|p2a: Golduck|120/290
+|-damage|p2a: Golduck|84/290
+|-damage|p2a: Golduck|48/290
+|-damage|p2a: Golduck|15/290
+|-damage|p2a: Golduck|0 fnt
+|faint|p2a: Golduck
+|-hitcount|p2: Golduck|9
+|
+|upkeep
+|
+|t:|1776974152
+|switch|p2a: Lycanroc|Lycanroc-Midnight, L89, M|201/296
+|turn|16
+|
+|t:|1776974159
+|move|p1a: Maushold|Tidy Up|p1a: Maushold
+|-boost|p1a: Maushold|atk|1
+|-boost|p1a: Maushold|spe|1
+|move|p2a: Lycanroc|Stone Edge|p1a: Maushold
+|-damage|p1a: Maushold|0 fnt
+|faint|p1a: Maushold
+|-damage|p2a: Lycanroc|172/296|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776974170
+|switch|p1a: Zapdos|Zapdos-Galar, L77|265/265
+|turn|17
+|
+|t:|1776974189
+|-terastallize|p2a: Lycanroc|Fighting
+|move|p1a: Zapdos|Close Combat|p2a: Lycanroc
+|-damage|p2a: Lycanroc|0 fnt
+|-unboost|p1a: Zapdos|def|1
+|-unboost|p1a: Zapdos|spd|1
+|faint|p2a: Lycanroc
+|-damage|p1a: Zapdos|239/265|[from] item: Life Orb
+|
+|win|disconnectduewifi
+|raw|disconnectduewifi's rating: 1720 &rarr; <strong>1742</strong><br />(+22 for winning)
+|raw|2bad2game's rating: 1755 &rarr; <strong>1733</strong><br />(-22 for losing)
+|l|☆2bad2game
+|player|p2|

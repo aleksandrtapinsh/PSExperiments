@@ -1,0 +1,173 @@
+|j|☆Williamblueyea
+|j|☆lilst1ngray
+|html|<table width="100%"><tr><td align="left">Williamblueyea</td><td align="right">lilst1ngray</tr><tr><td align="left"><i class="fa fa-circle-o"></i> <i class="fa fa-circle-o"></i> </td><td align="right"><i class="fa fa-circle-o"></i> <i class="fa fa-circle-o"></i> </tr></table>
+|uhtml|bestof|<h2><strong>Game 1</strong> of <a href="/game-bestof3-gen9randombattle-2592320285">a best-of-3</a></h2>
+|t:|1776978600
+|gametype|singles
+|player|p1|Williamblueyea|marlon|
+|player|p2|lilst1ngray|ingo|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|raw|<div class="infobox"><details class="readmore" open><summary><strong>1 custom rule:</strong></summary> Best of = 3</details></div>
+|
+|t:|1776978600
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ariados|Ariados, L95, F|287/287
+|switch|p2a: Sylveon|Sylveon, L85, F|300/300
+|turn|1
+|
+|t:|1776978624
+|switch|p2a: Eternatus|Eternatus, L69|308/308
+|-ability|p2a: Eternatus|Pressure
+|move|p1a: Ariados|Poison Jab|p2a: Eternatus
+|-resisted|p2a: Eternatus
+|-damage|p2a: Eternatus|245/308
+|
+|upkeep
+|turn|2
+|
+|t:|1776978638
+|switch|p1a: Ogerpon|Ogerpon-Cornerstone, L76, F|247/247
+|move|p2a: Eternatus|Meteor Beam||[still]
+|-prepare|p2a: Eternatus|Meteor Beam
+|-boost|p2a: Eternatus|spa|1
+|-enditem|p2a: Eternatus|Power Herb
+|-anim|p2a: Eternatus|Meteor Beam|p1a: Ogerpon
+|-damage|p1a: Ogerpon|130/247
+|
+|upkeep
+|turn|3
+|
+|t:|1776978669
+|switch|p2a: Eiscue|Eiscue, L88, F|274/274
+|move|p1a: Ogerpon|Superpower|p2a: Eiscue
+|-activate|p2a: Eiscue|ability: Ice Face
+|-damage|p2a: Eiscue|274/274
+|-unboost|p1a: Ogerpon|atk|1
+|-unboost|p1a: Ogerpon|def|1
+|detailschange|p2a: Eiscue|Eiscue-Noice, L88, F
+|
+|upkeep
+|turn|4
+|
+|t:|1776978687
+|move|p2a: Eiscue|Liquidation|p1a: Ogerpon
+|-damage|p1a: Ogerpon|25/247
+|move|p1a: Ogerpon|Power Whip|p2a: Eiscue|[miss]
+|-miss|p1a: Ogerpon|p2a: Eiscue
+|
+|upkeep
+|turn|5
+|
+|t:|1776978695
+|switch|p1a: Iron Moth|Iron Moth, L78|253/253
+|move|p2a: Eiscue|Liquidation|p1a: Iron Moth
+|-supereffective|p1a: Iron Moth
+|-damage|p1a: Iron Moth|79/253
+|-unboost|p1a: Iron Moth|def|1
+|
+|upkeep
+|turn|6
+|
+|t:|1776978706
+|move|p2a: Eiscue|Liquidation|p1a: Iron Moth
+|-supereffective|p1a: Iron Moth
+|-damage|p1a: Iron Moth|0 fnt
+|faint|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1776978714
+|switch|p1a: Ariados|Ariados, L95, F|287/287
+|turn|7
+|
+|t:|1776978718
+|move|p2a: Eiscue|Belly Drum|p2a: Eiscue
+|-damage|p2a: Eiscue|137/274
+|-setboost|p2a: Eiscue|atk|6|[from] move: Belly Drum
+|-enditem|p2a: Eiscue|Sitrus Berry|[eat]
+|-heal|p2a: Eiscue|205/274|[from] item: Sitrus Berry
+|move|p1a: Ariados|Toxic Spikes|p2a: Eiscue
+|-sidestart|p2: lilst1ngray|move: Toxic Spikes
+|
+|upkeep
+|turn|8
+|
+|t:|1776978729
+|move|p2a: Eiscue|Ice Spinner|p1a: Ariados
+|-enditem|p1a: Ariados|Focus Sash
+|-damage|p1a: Ariados|1/287
+|move|p1a: Ariados|Sticky Web|p2a: Eiscue
+|-sidestart|p2: lilst1ngray|move: Sticky Web
+|
+|upkeep
+|turn|9
+|
+|t:|1776978736
+|move|p2a: Eiscue|Ice Spinner|p1a: Ariados
+|-damage|p1a: Ariados|0 fnt
+|faint|p1a: Ariados
+|
+|upkeep
+|
+|t:|1776978741
+|switch|p1a: Volbeat|Volbeat, L90, M|263/263
+|turn|10
+|
+|t:|1776978748
+|move|p1a: Volbeat|Thunder Wave|p2a: Eiscue
+|-status|p2a: Eiscue|par
+|move|p2a: Eiscue|Ice Spinner|p1a: Volbeat
+|-damage|p1a: Volbeat|0 fnt
+|faint|p1a: Volbeat
+|
+|upkeep
+|
+|t:|1776978757
+|switch|p1a: Ogerpon|Ogerpon-Cornerstone, L76, F|25/247
+|turn|11
+|
+|t:|1776978764
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|2
+|move|p2a: Eiscue|Liquidation|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|
+|upkeep
+|
+|t:|1776978772
+|switch|p1a: Arboliva|Arboliva, L91, F|288/288
+|turn|12
+|
+|t:|1776978777
+|move|p2a: Eiscue|Ice Spinner|p1a: Arboliva
+|-supereffective|p1a: Arboliva
+|-damage|p1a: Arboliva|0 fnt
+|faint|p1a: Arboliva
+|
+|upkeep
+|
+|t:|1776978782
+|switch|p1a: Espeon|Espeon, L84, M|246/246
+|turn|13
+|
+|t:|1776978787
+|-terastallize|p1a: Espeon|Fairy
+|move|p1a: Espeon|Alluring Voice|p2a: Eiscue
+|-damage|p2a: Eiscue|5/274 par
+|-damage|p1a: Espeon|222/246|[from] item: Life Orb
+|move|p2a: Eiscue|Liquidation|p1a: Espeon
+|-damage|p1a: Espeon|0 fnt
+|faint|p1a: Espeon
+|
+|win|lilst1ngray
+|inactive|Williamblueyea has 30 seconds to confirm battle start!
+|inactive|lilst1ngray has 30 seconds to confirm battle start!

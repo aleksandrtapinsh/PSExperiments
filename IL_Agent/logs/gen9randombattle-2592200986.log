@@ -1,0 +1,326 @@
+|j|☆SheinG
+|j|☆gargargargargar
+|t:|1776969983
+|gametype|singles
+|player|p1|SheinG|skyla|1436
+|player|p2|gargargargargar|102|1409
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776969983
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Spiritomb|Spiritomb, L89, F|234/234
+|switch|p2a: Rhydon|Rhydon, L85, M|317/317
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by gargargargargar)
+|
+|t:|1776970004
+|move|p2a: Rhydon|Swords Dance|p2a: Rhydon
+|-boost|p2a: Rhydon|atk|2
+|move|p1a: Spiritomb|Poltergeist|p2a: Rhydon
+|-activate|p2a: Rhydon|move: Poltergeist|Eviolite
+|-damage|p2a: Rhydon|253/317
+|
+|upkeep
+|turn|2
+|
+|t:|1776970012
+|move|p2a: Rhydon|Stone Edge|p1a: Spiritomb
+|-damage|p1a: Spiritomb|2/234
+|move|p1a: Spiritomb|Foul Play|p2a: Rhydon
+|-damage|p2a: Rhydon|100/317
+|
+|-heal|p1a: Spiritomb|16/234|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776970026
+|move|p1a: Spiritomb|Shadow Sneak|p2a: Rhydon
+|-damage|p2a: Rhydon|75/317
+|move|p2a: Rhydon|Earthquake|p1a: Spiritomb
+|-damage|p1a: Spiritomb|0 fnt
+|faint|p1a: Spiritomb
+|
+|upkeep
+|inactive|SheinG has 120 seconds left.
+|
+|t:|1776970073
+|switch|p1a: Regidrago|Regidrago, L77|435/435
+|turn|4
+|
+|t:|1776970084
+|move|p1a: Regidrago|Dragon Energy|p2a: Rhydon
+|-damage|p2a: Rhydon|0 fnt
+|faint|p2a: Rhydon
+|
+|upkeep
+|
+|t:|1776970094
+|switch|p2a: Veluza|Veluza, L85, F|292/292
+|turn|5
+|
+|t:|1776970109
+|move|p1a: Regidrago|Dragon Energy|p2a: Veluza
+|-damage|p2a: Veluza|37/292
+|move|p2a: Veluza|Psycho Cut|p1a: Regidrago
+|-damage|p1a: Regidrago|171/435
+|
+|upkeep
+|turn|6
+|
+|t:|1776970119
+|switch|p2a: Probopass|Probopass, L91, M|257/257
+|move|p1a: Regidrago|Dragon Energy|p2a: Probopass
+|-resisted|p2a: Probopass
+|-damage|p2a: Probopass|230/257
+|
+|upkeep
+|turn|7
+|
+|t:|1776970140
+|switch|p1a: Lunala|Lunala, L70|308/308
+|move|p2a: Probopass|Iron Defense|p2a: Probopass
+|-boost|p2a: Probopass|def|2
+|
+|upkeep
+|turn|8
+|
+|t:|1776970150
+|move|p1a: Lunala|Calm Mind|p1a: Lunala
+|-boost|p1a: Lunala|spa|1
+|-boost|p1a: Lunala|spd|1
+|move|p2a: Probopass|Power Gem|p1a: Lunala
+|-damage|p1a: Lunala|279/308
+|
+|-heal|p1a: Lunala|298/308|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776970172
+|switch|p2a: Arceus|Arceus-Dark, L71|288/288
+|move|p1a: Lunala|Moongeist Beam|p2a: Arceus
+|-resisted|p2a: Arceus
+|-damage|p2a: Arceus|224/288
+|
+|-heal|p1a: Lunala|308/308|[from] item: Leftovers
+|upkeep
+|turn|10
+|inactive|SheinG has 90 seconds left.
+|
+|t:|1776970189
+|switch|p1a: Dedenne|Dedenne, L88, M|261/261
+|move|p2a: Arceus|Calm Mind|p2a: Arceus
+|-boost|p2a: Arceus|spa|1
+|-boost|p2a: Arceus|spd|1
+|
+|upkeep
+|turn|11
+|
+|t:|1776970198
+|move|p1a: Dedenne|Nuzzle|p2a: Arceus
+|-damage|p2a: Arceus|209/288
+|-status|p2a: Arceus|par
+|cant|p2a: Arceus|par
+|
+|upkeep
+|turn|12
+|
+|t:|1776970207
+|move|p1a: Dedenne|U-turn|p2a: Arceus
+|-supereffective|p2a: Arceus
+|-damage|p2a: Arceus|135/288 par
+|
+|t:|1776970209
+|switch|p1a: Munkidori|Munkidori, L79, M|269/269|[from] U-turn
+|move|p2a: Arceus|Dazzling Gleam|p1a: Munkidori
+|-resisted|p1a: Munkidori
+|-damage|p1a: Munkidori|243/269
+|
+|upkeep
+|turn|13
+|
+|t:|1776970217
+|move|p1a: Munkidori|Fake Out|p2a: Arceus
+|-damage|p2a: Arceus|115/288 par
+|cant|p2a: Arceus|flinch
+|
+|upkeep
+|turn|14
+|
+|t:|1776970222
+|move|p1a: Munkidori|U-turn|p2a: Arceus
+|-supereffective|p2a: Arceus
+|-damage|p2a: Arceus|53/288 par
+|
+|t:|1776970226
+|switch|p1a: Dedenne|Dedenne, L88, M|261/261|[from] U-turn
+|move|p2a: Arceus|Judgment|p1a: Dedenne
+|-resisted|p1a: Dedenne
+|-damage|p1a: Dedenne|171/261
+|
+|upkeep
+|turn|15
+|inactive|SheinG has 120 seconds left.
+|
+|t:|1776970257
+|switch|p2a: Probopass|Probopass, L91, M|230/257
+|move|p1a: Dedenne|U-turn|p2a: Probopass
+|-resisted|p2a: Probopass
+|-damage|p2a: Probopass|218/257
+|
+|t:|1776970265
+|switch|p1a: Lunala|Lunala, L70|308/308|[from] U-turn
+|
+|upkeep
+|turn|16
+|
+|t:|1776970282
+|switch|p2a: Kingdra|Kingdra, L84, M|263/263
+|move|p1a: Lunala|Calm Mind|p1a: Lunala
+|-boost|p1a: Lunala|spa|1
+|-boost|p1a: Lunala|spd|1
+|
+|upkeep
+|turn|17
+|
+|t:|1776970296
+|move|p2a: Kingdra|Dragon Dance|p2a: Kingdra
+|-boost|p2a: Kingdra|atk|1
+|-boost|p2a: Kingdra|spe|1
+|move|p1a: Lunala|Moongeist Beam|p2a: Kingdra
+|-damage|p2a: Kingdra|113/263
+|
+|upkeep
+|turn|18
+|
+|t:|1776970303
+|move|p2a: Kingdra|Wave Crash|p1a: Lunala
+|-damage|p1a: Lunala|197/308
+|-damage|p2a: Kingdra|76/263|[from] Recoil
+|move|p1a: Lunala|Moongeist Beam|p2a: Kingdra
+|-damage|p2a: Kingdra|0 fnt
+|faint|p2a: Kingdra
+|
+|-heal|p1a: Lunala|216/308|[from] item: Leftovers
+|upkeep
+|
+|t:|1776970318
+|switch|p2a: Pecharunt|Pecharunt, L77|262/262
+|turn|19
+|inactive|SheinG has 120 seconds left.
+|inactive|SheinG has 90 seconds left.
+|
+|t:|1776970366
+|-terastallize|p1a: Lunala|Dark
+|move|p2a: Pecharunt|Malignant Chain|p1a: Lunala
+|-damage|p1a: Lunala|153/308
+|-status|p1a: Lunala|tox
+|-start|p1a: Lunala|confusion|[from] ability: Poison Puppeteer|[of] p2a: Pecharunt
+|-activate|p1a: Lunala|confusion
+|move|p1a: Lunala|Moongeist Beam|p2a: Pecharunt
+|-supereffective|p2a: Pecharunt
+|-damage|p2a: Pecharunt|0 fnt
+|faint|p2a: Pecharunt
+|
+|-heal|p1a: Lunala|172/308 tox|[from] item: Leftovers
+|-damage|p1a: Lunala|153/308 tox|[from] psn
+|upkeep
+|inactive|gargargargargar has 120 seconds left.
+|
+|t:|1776970386
+|switch|p2a: Probopass|Probopass, L91, M|218/257
+|turn|20
+|
+|t:|1776970399
+|-activate|p1a: Lunala|confusion
+|move|p1a: Lunala|Moonlight|p1a: Lunala
+|-heal|p1a: Lunala|307/308 tox
+|move|p2a: Probopass|Iron Defense|p2a: Probopass
+|-boost|p2a: Probopass|def|2
+|
+|-heal|p1a: Lunala|308/308 tox|[from] item: Leftovers
+|-damage|p1a: Lunala|270/308 tox|[from] psn
+|upkeep
+|turn|21
+|inactive|SheinG has 90 seconds left.
+|
+|t:|1776970427
+|switch|p1a: Magmortar|Magmortar, L88, M|275/275
+|move|p2a: Probopass|Body Press|p1a: Magmortar
+|-damage|p1a: Magmortar|62/275
+|-status|p2a: Probopass|brn|[from] ability: Flame Body|[of] p1a: Magmortar
+|
+|-damage|p2a: Probopass|202/257 brn|[from] brn
+|upkeep
+|turn|22
+|
+|t:|1776970438
+|move|p1a: Magmortar|Focus Blast|p2a: Probopass
+|-supereffective|p2a: Probopass
+|-damage|p2a: Probopass|0 fnt
+|faint|p2a: Probopass
+|
+|upkeep
+|
+|t:|1776970444
+|switch|p2a: Veluza|Veluza, L85, F|37/292
+|turn|23
+|inactive|SheinG has 90 seconds left.
+|
+|t:|1776970451
+|move|p2a: Veluza|Aqua Jet|p1a: Magmortar
+|-supereffective|p1a: Magmortar
+|-damage|p1a: Magmortar|0 fnt
+|faint|p1a: Magmortar
+|
+|upkeep
+|inactive|SheinG has 90 seconds left.
+|
+|t:|1776970467
+|switch|p1a: Munkidori|Munkidori, L79, M|243/269
+|turn|24
+|
+|t:|1776970473
+|move|p1a: Munkidori|Fake Out|p2a: Veluza
+|-damage|p2a: Veluza|11/292
+|cant|p2a: Veluza|flinch
+|
+|upkeep
+|turn|25
+|
+|t:|1776970478
+|move|p2a: Veluza|Aqua Jet|p1a: Munkidori
+|-crit|p1a: Munkidori
+|-damage|p1a: Munkidori|105/269
+|move|p1a: Munkidori|U-turn|p2a: Veluza
+|-supereffective|p2a: Veluza
+|-damage|p2a: Veluza|0 fnt
+|faint|p2a: Veluza
+|
+|t:|1776970482
+|switch|p1a: Dedenne|Dedenne, L88, M|171/261|[from] U-turn
+|
+|upkeep
+|
+|t:|1776970486
+|switch|p2a: Arceus|Arceus-Dark, L71|53/288 par
+|turn|26
+|
+|t:|1776970490
+|-terastallize|p2a: Arceus|Fairy
+|move|p1a: Dedenne|Dazzling Gleam|p2a: Arceus
+|-damage|p2a: Arceus|0 fnt
+|faint|p2a: Arceus
+|
+|win|SheinG
+|raw|SheinG's rating: 1436 &rarr; <strong>1454</strong><br />(+18 for winning)
+|raw|gargargargargar's rating: 1409 &rarr; <strong>1391</strong><br />(-18 for losing)
+|l|☆gargargargargar
+|player|p2|

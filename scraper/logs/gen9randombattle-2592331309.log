@@ -1,0 +1,84 @@
+|j|☆itachinemo
+|j|☆bobopoes
+|t:|1776979499
+|gametype|singles
+|player|p1|itachinemo|169|1360
+|player|p2|bobopoes|lady|1408
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776979499
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Blaziken|Blaziken, L76, M|247/247
+|switch|p2a: Kyurem|Kyurem, L77|319/319
+|-ability|p2a: Kyurem|Pressure
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by itachinemo)
+|
+|t:|1776979518
+|switch|p2a: Tauros|Tauros-Paldea-Aqua, L81, M|254/254
+|-ability|p2a: Tauros|Intimidate|boost
+|-unboost|p1a: Blaziken|atk|1
+|move|p1a: Blaziken|Knock Off|p2a: Tauros
+|-resisted|p2a: Tauros
+|-damage|p2a: Tauros|227/254
+|-enditem|p2a: Tauros|Choice Band|[from] move: Knock Off|[of] p1a: Blaziken
+|-damage|p1a: Blaziken|223/247|[from] item: Life Orb
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|2
+|
+|t:|1776979539
+|switch|p1a: Meowstic|Meowstic-F, L89, F|277/277
+|move|p2a: Tauros|Wave Crash|p1a: Meowstic
+|-damage|p1a: Meowstic|147/277
+|-damage|p2a: Tauros|184/254|[from] Recoil
+|
+|upkeep
+|turn|3
+|
+|t:|1776979568
+|move|p1a: Meowstic|Psychic|p2a: Tauros
+|-supereffective|p2a: Tauros
+|-damage|p2a: Tauros|0 fnt
+|faint|p2a: Tauros
+|-damage|p1a: Meowstic|120/277|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776979571
+|switch|p2a: Grumpig|Grumpig, L92, F|297/297
+|turn|4
+|
+|t:|1776979592
+|switch|p1a: Chien-Pao|Chien-Pao, L72|234/234
+|-ability|p1a: Chien-Pao|Sword of Ruin
+|move|p2a: Grumpig|Nasty Plot|p2a: Grumpig
+|-boost|p2a: Grumpig|spa|2
+|
+|upkeep
+|turn|5
+|
+|t:|1776979600
+|move|p1a: Chien-Pao|Throat Chop|p2a: Grumpig
+|-supereffective|p2a: Grumpig
+|-damage|p2a: Grumpig|0 fnt
+|faint|p2a: Grumpig
+|
+|upkeep
+|-message|bobopoes forfeited.
+|
+|win|itachinemo
+|raw|itachinemo's rating: 1360 &rarr; <strong>1383</strong><br />(+23 for winning)
+|raw|bobopoes's rating: 1408 &rarr; <strong>1385</strong><br />(-23 for losing)
+|l|☆bobopoes
+|player|p2|

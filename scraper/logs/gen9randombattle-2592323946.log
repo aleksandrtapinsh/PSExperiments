@@ -1,0 +1,61 @@
+|j|‽YEAEAYyeaaey
+|j|☆jenwisxisb
+|t:|1776978897
+|gametype|singles
+|player|p1|YEAEAYyeaaey|266|1085
+|player|p2|jenwisxisb|101|1070
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776978897
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Valiant|Iron Valiant, L78, shiny|244/244
+|switch|p2a: Azumarill|Azumarill, L82, M|298/298
+|turn|1
+|
+|t:|1776978911
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Okidogi|Okidogi, L77, M|262/262
+|move|p2a: Azumarill|Play Rough|p1a: Okidogi
+|-damage|p1a: Okidogi|123/262
+|
+|upkeep
+|turn|2
+|
+|t:|1776978934
+|switch|p2a: Duraludon|Duraludon, L82, F|249/249
+|move|p1a: Okidogi|Gunk Shot|p2a: Duraludon
+|-immune|p2a: Duraludon
+|
+|upkeep
+|turn|3
+|
+|t:|1776978947
+|switch|p2a: Kilowattrel|Kilowattrel, L83, M|252/252
+|switch|p1a: Vivillon|Vivillon-Savanna, L83, F|268/268
+|
+|upkeep
+|turn|4
+|
+|t:|1776978962
+|switch|p1a: Haxorus|Haxorus, L77, F|244/244
+|-ability|p1a: Haxorus|Mold Breaker
+|move|p2a: Kilowattrel|Hurricane|p1a: Haxorus
+|-damage|p1a: Haxorus|90/244
+|
+|upkeep
+|turn|5
+|-message|YEAEAYyeaaey forfeited.
+|
+|win|jenwisxisb
+|raw|YEAEAYyeaaey's rating: 1085 &rarr; <strong>1061</strong><br />(-24 for losing)
+|raw|jenwisxisb's rating: 1070 &rarr; <strong>1101</strong><br />(+31 for winning)
+|l|‽YEAEAYyeaaey
+|player|p1|

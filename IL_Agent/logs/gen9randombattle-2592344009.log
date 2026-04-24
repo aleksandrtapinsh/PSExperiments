@@ -1,0 +1,384 @@
+|j|☆SpazzyShip
+|j|☆kamiquerrrr
+|t:|1776980578
+|gametype|singles
+|player|p1|SpazzyShip|ingo|1117
+|player|p2|kamiquerrrr|101|1101
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776980578
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Lycanroc|Lycanroc-Dusk, L81, M|254/254
+|switch|p2a: Passimian|Passimian, L83, M|302/302
+|turn|1
+|
+|t:|1776980613
+|switch|p1a: Tropius|Tropius, L91, F|328/328
+|move|p2a: Passimian|Knock Off|p1a: Tropius
+|-damage|p1a: Tropius|217/328
+|-enditem|p1a: Tropius|Sitrus Berry|[from] move: Knock Off|[of] p2a: Passimian
+|
+|upkeep
+|turn|2
+|
+|t:|1776980638
+|switch|p2a: Garganacl|Garganacl, L80, F|291/291
+|move|p1a: Tropius|Dragon Dance|p1a: Tropius
+|-boost|p1a: Tropius|atk|1
+|-boost|p1a: Tropius|spe|1
+|
+|upkeep
+|turn|3
+|
+|t:|1776980651
+|move|p1a: Tropius|Earthquake|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|151/291
+|move|p2a: Garganacl|Salt Cure|p1a: Tropius
+|-supereffective|p1a: Tropius
+|-damage|p1a: Tropius|133/328
+|-start|p1a: Tropius|Salt Cure
+|
+|-heal|p2a: Garganacl|169/291|[from] item: Leftovers
+|-damage|p1a: Tropius|92/328|[from] Salt Cure
+|upkeep
+|turn|4
+|
+|t:|1776980664
+|move|p1a: Tropius|Synthesis|p1a: Tropius
+|-heal|p1a: Tropius|256/328
+|move|p2a: Garganacl|Salt Cure|p1a: Tropius
+|-supereffective|p1a: Tropius
+|-damage|p1a: Tropius|184/328
+|
+|-heal|p2a: Garganacl|187/291|[from] item: Leftovers
+|-damage|p1a: Tropius|143/328|[from] Salt Cure
+|upkeep
+|turn|5
+|
+|t:|1776980674
+|move|p1a: Tropius|Synthesis|p1a: Tropius
+|-heal|p1a: Tropius|307/328
+|move|p2a: Garganacl|Recover|p2a: Garganacl
+|-heal|p2a: Garganacl|291/291
+|
+|-damage|p1a: Tropius|266/328|[from] Salt Cure
+|upkeep
+|turn|6
+|
+|t:|1776980682
+|move|p1a: Tropius|Dragon Dance|p1a: Tropius
+|-boost|p1a: Tropius|atk|1
+|-boost|p1a: Tropius|spe|1
+|move|p2a: Garganacl|Salt Cure|p1a: Tropius
+|-supereffective|p1a: Tropius
+|-damage|p1a: Tropius|182/328
+|
+|-damage|p1a: Tropius|141/328|[from] Salt Cure
+|upkeep
+|turn|7
+|
+|t:|1776980691
+|move|p1a: Tropius|Synthesis|p1a: Tropius
+|-heal|p1a: Tropius|305/328
+|move|p2a: Garganacl|Salt Cure|p1a: Tropius
+|-supereffective|p1a: Tropius
+|-damage|p1a: Tropius|225/328
+|
+|-damage|p1a: Tropius|184/328|[from] Salt Cure
+|upkeep
+|turn|8
+|
+|t:|1776980701
+|move|p1a: Tropius|Earthquake|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|89/291
+|move|p2a: Garganacl|Salt Cure|p1a: Tropius
+|-supereffective|p1a: Tropius
+|-damage|p1a: Tropius|100/328
+|
+|-heal|p2a: Garganacl|107/291|[from] item: Leftovers
+|-damage|p1a: Tropius|59/328|[from] Salt Cure
+|upkeep
+|turn|9
+|
+|t:|1776980712
+|move|p1a: Tropius|Synthesis|p1a: Tropius
+|-heal|p1a: Tropius|223/328
+|move|p2a: Garganacl|Salt Cure|p1a: Tropius
+|-supereffective|p1a: Tropius
+|-damage|p1a: Tropius|145/328
+|
+|-heal|p2a: Garganacl|125/291|[from] item: Leftovers
+|-damage|p1a: Tropius|104/328|[from] Salt Cure
+|upkeep
+|turn|10
+|
+|t:|1776980724
+|move|p2a: Garganacl|Protect|p2a: Garganacl
+|-singleturn|p2a: Garganacl|Protect
+|move|p1a: Tropius|Earthquake|p2a: Garganacl
+|-activate|p2a: Garganacl|move: Protect
+|
+|-heal|p2a: Garganacl|143/291|[from] item: Leftovers
+|-damage|p1a: Tropius|63/328|[from] Salt Cure
+|upkeep
+|turn|11
+|
+|t:|1776980735
+|move|p1a: Tropius|Synthesis|p1a: Tropius
+|-heal|p1a: Tropius|227/328
+|move|p2a: Garganacl|Recover|p2a: Garganacl
+|-heal|p2a: Garganacl|289/291
+|
+|-heal|p2a: Garganacl|291/291|[from] item: Leftovers
+|-damage|p1a: Tropius|186/328|[from] Salt Cure
+|upkeep
+|turn|12
+|
+|t:|1776980744
+|move|p1a: Tropius|Dragon Dance|p1a: Tropius
+|-boost|p1a: Tropius|atk|1
+|-boost|p1a: Tropius|spe|1
+|move|p2a: Garganacl|Salt Cure|p1a: Tropius
+|-supereffective|p1a: Tropius
+|-damage|p1a: Tropius|112/328
+|
+|-damage|p1a: Tropius|71/328|[from] Salt Cure
+|upkeep
+|turn|13
+|
+|t:|1776980754
+|move|p2a: Garganacl|Protect|p2a: Garganacl
+|-singleturn|p2a: Garganacl|Protect
+|move|p1a: Tropius|Synthesis|p1a: Tropius
+|-heal|p1a: Tropius|235/328
+|
+|-damage|p1a: Tropius|194/328|[from] Salt Cure
+|upkeep
+|turn|14
+|
+|t:|1776980762
+|move|p1a: Tropius|Earthquake|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|41/291
+|move|p2a: Garganacl|Salt Cure|p1a: Tropius
+|-supereffective|p1a: Tropius
+|-damage|p1a: Tropius|122/328
+|
+|-heal|p2a: Garganacl|59/291|[from] item: Leftovers
+|-damage|p1a: Tropius|81/328|[from] Salt Cure
+|upkeep
+|turn|15
+|
+|t:|1776980773
+|move|p1a: Tropius|Synthesis|p1a: Tropius
+|-heal|p1a: Tropius|245/328
+|move|p2a: Garganacl|Recover|p2a: Garganacl
+|-heal|p2a: Garganacl|205/291
+|
+|-heal|p2a: Garganacl|223/291|[from] item: Leftovers
+|-damage|p1a: Tropius|204/328|[from] Salt Cure
+|upkeep
+|turn|16
+|
+|t:|1776980782
+|move|p2a: Garganacl|Protect|p2a: Garganacl
+|-singleturn|p2a: Garganacl|Protect
+|move|p1a: Tropius|Dragon Dance|p1a: Tropius
+|-boost|p1a: Tropius|atk|1
+|-boost|p1a: Tropius|spe|1
+|
+|-heal|p2a: Garganacl|241/291|[from] item: Leftovers
+|-damage|p1a: Tropius|163/328|[from] Salt Cure
+|upkeep
+|turn|17
+|
+|t:|1776980792
+|move|p1a: Tropius|Earthquake|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|0 fnt
+|faint|p2a: Garganacl
+|
+|-damage|p1a: Tropius|122/328|[from] Salt Cure
+|upkeep
+|
+|t:|1776980797
+|switch|p2a: Mightyena|Mightyena, L96, F|290/290
+|-ability|p2a: Mightyena|Intimidate|boost
+|-unboost|p1a: Tropius|atk|1
+|turn|18
+|
+|t:|1776980808
+|move|p1a: Tropius|Dual Wingbeat|p2a: Mightyena
+|-damage|p2a: Mightyena|187/290
+|-crit|p2a: Mightyena
+|-damage|p2a: Mightyena|42/290
+|-hitcount|p2a: Mightyena|2
+|move|p2a: Mightyena|Crunch|p1a: Tropius
+|-damage|p1a: Tropius|23/328
+|
+|-damage|p1a: Tropius|0 fnt|[from] Salt Cure
+|faint|p1a: Tropius
+|upkeep
+|
+|t:|1776980821
+|switch|p1a: Lycanroc|Lycanroc-Dusk, L81, M|254/254
+|turn|19
+|
+|t:|1776980827
+|move|p1a: Lycanroc|Accelerock|p2a: Mightyena
+|-damage|p2a: Mightyena|0 fnt
+|faint|p2a: Mightyena
+|
+|upkeep
+|
+|t:|1776980830
+|switch|p2a: Passimian|Passimian, L83, M|302/302
+|turn|20
+|
+|t:|1776980838
+|move|p1a: Lycanroc|Accelerock|p2a: Passimian
+|-resisted|p2a: Passimian
+|-damage|p2a: Passimian|258/302
+|move|p2a: Passimian|Close Combat|p1a: Lycanroc
+|-supereffective|p1a: Lycanroc
+|-damage|p1a: Lycanroc|0 fnt
+|-unboost|p2a: Passimian|def|1
+|-unboost|p2a: Passimian|spd|1
+|faint|p1a: Lycanroc
+|
+|upkeep
+|
+|t:|1776980848
+|switch|p1a: Latios|Latios, L78, M|253/253
+|turn|21
+|
+|t:|1776980872
+|switch|p2a: Noctowl|Noctowl, L95, F|344/344
+|move|p1a: Latios|Luster Purge|p2a: Noctowl
+|-damage|p2a: Noctowl|227/344
+|-unboost|p2a: Noctowl|spd|1
+|
+|upkeep
+|turn|22
+|
+|t:|1776980884
+|move|p1a: Latios|Draco Meteor|p2a: Noctowl
+|-damage|p2a: Noctowl|14/344
+|-unboost|p1a: Latios|spa|2
+|move|p2a: Noctowl|Hurricane|p1a: Latios|[miss]
+|-miss|p2a: Noctowl|p1a: Latios
+|
+|upkeep
+|turn|23
+|
+|t:|1776980893
+|move|p1a: Latios|Luster Purge|p2a: Noctowl
+|-damage|p2a: Noctowl|0 fnt
+|faint|p2a: Noctowl
+|
+|upkeep
+|
+|t:|1776980901
+|switch|p2a: Passimian|Passimian, L83, M|258/302
+|turn|24
+|
+|t:|1776980913
+|switch|p1a: Raichu|Raichu, L88, M|249/249
+|move|p2a: Passimian|Knock Off|p1a: Raichu
+|-damage|p1a: Raichu|81/249
+|-enditem|p1a: Raichu|Assault Vest|[from] move: Knock Off|[of] p2a: Passimian
+|
+|upkeep
+|turn|25
+|
+|t:|1776980924
+|switch|p2a: Sawsbuck|Sawsbuck, L88, F|284/284
+|move|p1a: Raichu|Alluring Voice|p2a: Sawsbuck
+|-damage|p2a: Sawsbuck|219/284
+|
+|upkeep
+|turn|26
+|
+|t:|1776980933
+|move|p1a: Raichu|Nuzzle|p2a: Sawsbuck
+|-resisted|p2a: Sawsbuck
+|-damage|p2a: Sawsbuck|207/284
+|-status|p2a: Sawsbuck|par
+|move|p2a: Sawsbuck|Double-Edge|p1a: Raichu
+|-damage|p1a: Raichu|0 fnt
+|faint|p1a: Raichu
+|-damage|p2a: Sawsbuck|180/284 par|[from] Recoil
+|-damage|p2a: Sawsbuck|152/284 par|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776980951
+|switch|p1a: Latios|Latios, L78, M|253/253
+|turn|27
+|
+|t:|1776980956
+|move|p1a: Latios|Aura Sphere|p2a: Sawsbuck
+|-supereffective|p2a: Sawsbuck
+|-damage|p2a: Sawsbuck|16/284 par
+|move|p2a: Sawsbuck|Double-Edge|p1a: Latios
+|-damage|p1a: Latios|39/253
+|-damage|p2a: Sawsbuck|0 fnt|[from] Recoil
+|faint|p2a: Sawsbuck
+|
+|upkeep
+|
+|t:|1776980966
+|switch|p2a: Passimian|Passimian, L83, M|258/302
+|turn|28
+|
+|t:|1776980972
+|move|p1a: Latios|Luster Purge|p2a: Passimian
+|-supereffective|p2a: Passimian
+|-damage|p2a: Passimian|0 fnt
+|faint|p2a: Passimian
+|
+|upkeep
+|
+|t:|1776980975
+|switch|p2a: Dragalge|Dragalge, L88, F|258/258
+|turn|29
+|
+|t:|1776980987
+|move|p1a: Latios|Draco Meteor|p2a: Dragalge
+|-supereffective|p2a: Dragalge
+|-damage|p2a: Dragalge|76/258
+|-unboost|p1a: Latios|spa|2
+|move|p2a: Dragalge|Dragon Tail|p1a: Latios
+|-supereffective|p1a: Latios
+|-damage|p1a: Latios|0 fnt
+|faint|p1a: Latios
+|
+|upkeep
+|
+|t:|1776980997
+|switch|p1a: Ursaluna|Ursaluna-Bloodmoon, L79, M|308/308
+|turn|30
+|
+|t:|1776981009
+|move|p2a: Dragalge|Focus Blast|p1a: Ursaluna
+|-supereffective|p1a: Ursaluna
+|-damage|p1a: Ursaluna|58/308
+|move|p1a: Ursaluna|Blood Moon|p2a: Dragalge
+|-damage|p2a: Dragalge|0 fnt
+|faint|p2a: Dragalge
+|
+|win|SpazzyShip
+|raw|SpazzyShip's rating: 1117 &rarr; <strong>1141</strong><br />(+24 for winning)
+|raw|kamiquerrrr's rating: 1101 &rarr; <strong>1077</strong><br />(-24 for losing)
+|l|☆kamiquerrrr
+|player|p2|

@@ -1,0 +1,301 @@
+|j|☆chickenleg97
+|j|☆likebrolikebrobro
+|t:|1776976668
+|gametype|singles
+|player|p1|chickenleg97|170|1000
+|player|p2|likebrolikebrobro|170|1024
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776976668
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Rhyperior|Rhyperior, L82, F|323/323
+|switch|p2a: Enamorus|Enamorus, L79, F|247/247
+|turn|1
+|
+|t:|1776976701
+|move|p2a: Enamorus|Superpower|p1a: Rhyperior
+|-supereffective|p1a: Rhyperior
+|-damage|p1a: Rhyperior|229/323
+|-boost|p2a: Enamorus|atk|1
+|-boost|p2a: Enamorus|def|1
+|move|p1a: Rhyperior|Stone Edge|p2a: Enamorus
+|-supereffective|p2a: Enamorus
+|-damage|p2a: Enamorus|31/247
+|
+|-heal|p2a: Enamorus|46/247|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776976713
+|switch|p2a: Cobalion|Cobalion, L80|277/277
+|move|p1a: Rhyperior|Ice Punch|p2a: Cobalion
+|-resisted|p2a: Cobalion
+|-damage|p2a: Cobalion|251/277
+|
+|-heal|p2a: Cobalion|268/277|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776976730
+|move|p2a: Cobalion|Aura Sphere|p1a: Rhyperior
+|-supereffective|p1a: Rhyperior
+|-damage|p1a: Rhyperior|115/323
+|move|p1a: Rhyperior|Earthquake|p2a: Cobalion
+|-supereffective|p2a: Cobalion
+|-damage|p2a: Cobalion|76/277
+|
+|-heal|p2a: Cobalion|93/277|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776976747
+|move|p2a: Cobalion|Vacuum Wave|p1a: Rhyperior
+|-supereffective|p1a: Rhyperior
+|-damage|p1a: Rhyperior|55/323
+|move|p1a: Rhyperior|Earthquake|p2a: Cobalion
+|-supereffective|p2a: Cobalion
+|-damage|p2a: Cobalion|0 fnt
+|faint|p2a: Cobalion
+|
+|upkeep
+|
+|t:|1776976751
+|switch|p2a: Carbink|Carbink, L90|236/236
+|turn|5
+|
+|t:|1776976775
+|move|p2a: Carbink|Body Press|p1a: Rhyperior
+|-supereffective|p1a: Rhyperior
+|-damage|p1a: Rhyperior|0 fnt
+|faint|p1a: Rhyperior
+|
+|upkeep
+|
+|t:|1776976782
+|switch|p1a: Serperior|Serperior, L79, F|248/248
+|turn|6
+|
+|t:|1776976794
+|switch|p2a: Conkeldurr|Conkeldurr, L80, F|299/299
+|move|p1a: Serperior|Glare|p2a: Conkeldurr
+|-status|p2a: Conkeldurr|par
+|
+|upkeep
+|turn|7
+|
+|t:|1776976810
+|switch|p1a: Spiritomb|Spiritomb, L89, M|234/234
+|cant|p2a: Conkeldurr|par
+|
+|upkeep
+|turn|8
+|
+|t:|1776976829
+|switch|p2a: Zebstrika|Zebstrika, L87, M|272/272
+|-terastallize|p1a: Spiritomb|Steel
+|move|p1a: Spiritomb|Poltergeist|p2a: Zebstrika|[miss]
+|-miss|p1a: Spiritomb|p2a: Zebstrika
+|
+|upkeep
+|turn|9
+|
+|t:|1776976841
+|move|p2a: Zebstrika|Overheat|p1a: Spiritomb|[miss]
+|-miss|p2a: Zebstrika|p1a: Spiritomb
+|move|p1a: Spiritomb|Will-O-Wisp|p2a: Zebstrika
+|-status|p2a: Zebstrika|brn
+|
+|-damage|p2a: Zebstrika|255/272 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1776976861
+|move|p2a: Zebstrika|Overheat|p1a: Spiritomb
+|-supereffective|p1a: Spiritomb
+|-damage|p1a: Spiritomb|68/234
+|-unboost|p2a: Zebstrika|spa|2
+|-damage|p2a: Zebstrika|228/272 brn|[from] item: Life Orb
+|move|p1a: Spiritomb|Poltergeist|p2a: Zebstrika
+|-activate|p2a: Zebstrika|move: Poltergeist|Life Orb
+|-damage|p2a: Zebstrika|74/272 brn
+|
+|-heal|p1a: Spiritomb|82/234|[from] item: Leftovers
+|-damage|p2a: Zebstrika|57/272 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1776976876
+|move|p2a: Zebstrika|High Horsepower|p1a: Spiritomb
+|-supereffective|p1a: Spiritomb
+|-damage|p1a: Spiritomb|11/234
+|-damage|p2a: Zebstrika|30/272 brn|[from] item: Life Orb
+|move|p1a: Spiritomb|Poltergeist|p2a: Zebstrika
+|-activate|p2a: Zebstrika|move: Poltergeist|Life Orb
+|-damage|p2a: Zebstrika|0 fnt
+|faint|p2a: Zebstrika
+|
+|-heal|p1a: Spiritomb|25/234|[from] item: Leftovers
+|upkeep
+|
+|t:|1776976881
+|switch|p2a: Carbink|Carbink, L90|236/236
+|turn|12
+|
+|t:|1776976896
+|switch|p1a: Serperior|Serperior, L79, F|248/248
+|move|p2a: Carbink|Iron Defense|p2a: Carbink
+|-boost|p2a: Carbink|def|2
+|
+|upkeep
+|turn|13
+|
+|t:|1776976909
+|switch|p2a: Wyrdeer|Wyrdeer, L87, F|321/321
+|-ability|p2a: Wyrdeer|Intimidate|boost
+|-boost|p1a: Serperior|atk|1
+|move|p1a: Serperior|Leaf Storm|p2a: Wyrdeer
+|-damage|p2a: Wyrdeer|224/321
+|-boost|p1a: Serperior|spa|2
+|-damage|p1a: Serperior|224/248|[from] item: Life Orb
+|
+|upkeep
+|turn|14
+|
+|t:|1776976920
+|move|p1a: Serperior|Glare|p2a: Wyrdeer
+|-status|p2a: Wyrdeer|par
+|cant|p2a: Wyrdeer|par
+|
+|upkeep
+|turn|15
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by likebrolikebrobro)
+|
+|t:|1776976931
+|move|p1a: Serperior|Leaf Storm|p2a: Wyrdeer
+|-damage|p2a: Wyrdeer|49/321 par
+|-boost|p1a: Serperior|spa|2
+|-damage|p1a: Serperior|200/248|[from] item: Life Orb
+|cant|p2a: Wyrdeer|par
+|
+|upkeep
+|turn|16
+|
+|t:|1776976939
+|switch|p2a: Conkeldurr|Conkeldurr, L80, F|299/299 par
+|move|p1a: Serperior|Leaf Storm|p2a: Conkeldurr
+|-damage|p2a: Conkeldurr|0 fnt
+|-boost|p1a: Serperior|spa|2
+|faint|p2a: Conkeldurr
+|-damage|p1a: Serperior|176/248|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776976943
+|switch|p2a: Enamorus|Enamorus, L79, F|46/247
+|turn|17
+|
+|t:|1776976956
+|move|p1a: Serperior|Dragon Pulse|p2a: Enamorus
+|-immune|p2a: Enamorus
+|move|p2a: Enamorus|Play Rough|p1a: Serperior|[miss]
+|-miss|p2a: Enamorus|p1a: Serperior
+|
+|-heal|p2a: Enamorus|61/247|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1776976966
+|move|p1a: Serperior|Glare|p2a: Enamorus
+|-status|p2a: Enamorus|par
+|move|p2a: Enamorus|Play Rough|p1a: Serperior
+|-damage|p1a: Serperior|86/248
+|
+|-heal|p2a: Enamorus|76/247 par|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1776976977
+|switch|p1a: Spiritomb|Spiritomb, L89, M, tera:Steel|25/234
+|move|p2a: Enamorus|Play Rough|p1a: Spiritomb
+|-resisted|p1a: Spiritomb
+|-damage|p1a: Spiritomb|0 fnt
+|faint|p1a: Spiritomb
+|
+|-heal|p2a: Enamorus|91/247 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1776976991
+|switch|p1a: Magnezone|Magnezone, L85|258/258
+|turn|20
+|
+|t:|1776977002
+|move|p1a: Magnezone|Thunderbolt|p2a: Enamorus
+|-supereffective|p2a: Enamorus
+|-damage|p2a: Enamorus|0 fnt
+|faint|p2a: Enamorus
+|
+|upkeep
+|
+|t:|1776977009
+|switch|p2a: Wyrdeer|Wyrdeer, L87, F|49/321 par
+|-ability|p2a: Wyrdeer|Intimidate|boost
+|-unboost|p1a: Magnezone|atk|1
+|turn|21
+|inactive|chickenleg97 has 120 seconds left.
+|c|☆likebrolikebrobro|goooo!
+|
+|t:|1776977047
+|move|p1a: Magnezone|Iron Defense|p1a: Magnezone
+|-boost|p1a: Magnezone|def|2
+|cant|p2a: Wyrdeer|par
+|
+|upkeep
+|turn|22
+|inactive|chickenleg97 has 120 seconds left.
+|
+|t:|1776977064
+|-terastallize|p2a: Wyrdeer|Ground
+|move|p1a: Magnezone|Body Press|p2a: Wyrdeer
+|-damage|p2a: Wyrdeer|0 fnt
+|faint|p2a: Wyrdeer
+|
+|upkeep
+|
+|t:|1776977070
+|switch|p2a: Carbink|Carbink, L90|236/236
+|turn|23
+|
+|t:|1776977078
+|move|p1a: Magnezone|Flash Cannon|p2a: Carbink
+|-supereffective|p2a: Carbink
+|-ability|p2a: Carbink|Sturdy
+|-damage|p2a: Carbink|1/236
+|move|p2a: Carbink|Body Press|p1a: Magnezone
+|-supereffective|p1a: Magnezone
+|-crit|p1a: Magnezone
+|-damage|p1a: Magnezone|54/258
+|
+|-heal|p1a: Magnezone|70/258|[from] item: Leftovers
+|-heal|p2a: Carbink|15/236|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1776977090
+|move|p1a: Magnezone|Flash Cannon|p2a: Carbink
+|-supereffective|p2a: Carbink
+|-damage|p2a: Carbink|0 fnt
+|faint|p2a: Carbink
+|
+|win|chickenleg97
+|raw|chickenleg97's rating: 1000 &rarr; <strong>1043</strong><br />(+43 for winning)
+|raw|likebrolikebrobro's rating: 1024 &rarr; <strong>1009</strong><br />(-15 for losing)
+|l|☆likebrolikebrobro
+|player|p2|

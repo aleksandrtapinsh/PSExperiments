@@ -1,0 +1,506 @@
+|j|☆pakillico
+|j|☆naregm
+|t:|1776979351
+|gametype|singles
+|player|p1|pakillico|101|1552
+|player|p2|naregm|schoolkidf|1507
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776979351
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Forretress|Forretress, L84, F|263/263
+|switch|p2a: Gurdurr|Gurdurr, L85, M|283/283
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by pakillico)
+|
+|t:|1776979367
+|move|p2a: Gurdurr|Knock Off|p1a: Forretress
+|-damage|p1a: Forretress|208/263
+|-enditem|p1a: Forretress|Leftovers|[from] move: Knock Off|[of] p2a: Gurdurr
+|move|p1a: Forretress|Volt Switch|p2a: Gurdurr
+|-damage|p2a: Gurdurr|251/283
+|
+|t:|1776979377
+|switch|p1a: Sylveon|Sylveon, L85, F|300/300|[from] Volt Switch
+|
+|upkeep
+|turn|2
+|
+|t:|1776979389
+|switch|p2a: Metagross|Metagross, L79|256/256
+|move|p1a: Sylveon|Hyper Voice|p2a: Metagross
+|-resisted|p2a: Metagross
+|-damage|p2a: Metagross|184/256
+|
+|upkeep
+|turn|3
+|
+|t:|1776979412
+|switch|p1a: Milotic|Milotic, L83, M|293/293
+|move|p2a: Metagross|Heavy Slam|p1a: Milotic
+|-resisted|p1a: Milotic
+|-damage|p1a: Milotic|217/293
+|
+|-heal|p1a: Milotic|235/293|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776979429
+|switch|p2a: Reuniclus|Reuniclus, L88, F|337/337
+|move|p1a: Milotic|Scald|p2a: Reuniclus
+|-damage|p2a: Reuniclus|252/337
+|
+|-heal|p1a: Milotic|253/293|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776979439
+|switch|p1a: Azumarill|Azumarill, L82, M|298/298
+|move|p2a: Reuniclus|Psyshock|p1a: Azumarill
+|-damage|p1a: Azumarill|146/298
+|
+|upkeep
+|turn|6
+|
+|t:|1776979452
+|move|p1a: Azumarill|Play Rough|p2a: Reuniclus
+|-damage|p2a: Reuniclus|54/337
+|move|p2a: Reuniclus|Psyshock|p1a: Azumarill
+|-damage|p1a: Azumarill|0 fnt
+|faint|p1a: Azumarill
+|
+|upkeep
+|
+|t:|1776979466
+|switch|p1a: Milotic|Milotic, L83, M|253/293
+|turn|7
+|
+|t:|1776979477
+|move|p1a: Milotic|Scald|p2a: Reuniclus
+|-damage|p2a: Reuniclus|0 fnt
+|faint|p2a: Reuniclus
+|
+|-heal|p1a: Milotic|271/293|[from] item: Leftovers
+|upkeep
+|inactive|naregm has 120 seconds left.
+|
+|t:|1776979530
+|switch|p2a: Gurdurr|Gurdurr, L85, M|251/283
+|turn|8
+|
+|t:|1776979557
+|move|p1a: Milotic|Scald|p2a: Gurdurr
+|-damage|p2a: Gurdurr|167/283
+|move|p2a: Gurdurr|Knock Off|p1a: Milotic
+|-damage|p1a: Milotic|189/293
+|-enditem|p1a: Milotic|Leftovers|[from] move: Knock Off|[of] p2a: Gurdurr
+|
+|upkeep
+|turn|9
+|
+|t:|1776979571
+|move|p1a: Milotic|Scald|p2a: Gurdurr
+|-damage|p2a: Gurdurr|76/283
+|move|p2a: Gurdurr|Drain Punch|p1a: Milotic
+|-damage|p1a: Milotic|92/293
+|-heal|p2a: Gurdurr|125/283|[from] drain|[of] p1a: Milotic
+|
+|upkeep
+|turn|10
+|
+|t:|1776979583
+|move|p1a: Milotic|Scald|p2a: Gurdurr
+|-damage|p2a: Gurdurr|40/283
+|move|p2a: Gurdurr|Drain Punch|p1a: Milotic
+|-damage|p1a: Milotic|0 fnt
+|-heal|p2a: Gurdurr|86/283|[from] drain|[of] p1a: Milotic
+|faint|p1a: Milotic
+|
+|upkeep
+|
+|t:|1776979590
+|switch|p1a: Sylveon|Sylveon, L85, F|300/300
+|turn|11
+|inactive|naregm has 120 seconds left.
+|
+|t:|1776979620
+|switch|p2a: Metagross|Metagross, L79|184/256
+|move|p1a: Sylveon|Hyper Voice|p2a: Metagross
+|-resisted|p2a: Metagross
+|-damage|p2a: Metagross|112/256
+|
+|upkeep
+|turn|12
+|
+|t:|1776979629
+|switch|p1a: Forretress|Forretress, L84, F|208/263
+|move|p2a: Metagross|Heavy Slam|p1a: Forretress
+|-resisted|p1a: Forretress
+|-damage|p1a: Forretress|145/263
+|
+|upkeep
+|turn|13
+|
+|t:|1776979638
+|move|p2a: Metagross|Heavy Slam|p1a: Forretress
+|-resisted|p1a: Forretress
+|-damage|p1a: Forretress|87/263
+|move|p1a: Forretress|Volt Switch|p2a: Metagross
+|-damage|p2a: Metagross|74/256
+|
+|t:|1776979650
+|switch|p1a: Venusaur|Venusaur, L84, F|272/272|[from] Volt Switch
+|
+|upkeep
+|turn|14
+|
+|t:|1776979658
+|switch|p2a: Gurdurr|Gurdurr, L85, M|86/283
+|move|p1a: Venusaur|Knock Off|p2a: Gurdurr
+|-resisted|p2a: Gurdurr
+|-damage|p2a: Gurdurr|67/283
+|-enditem|p2a: Gurdurr|Eviolite|[from] move: Knock Off|[of] p1a: Venusaur
+|
+|upkeep
+|turn|15
+|
+|t:|1776979676
+|move|p2a: Gurdurr|Mach Punch|p1a: Venusaur
+|-resisted|p1a: Venusaur
+|-damage|p1a: Venusaur|247/272
+|move|p1a: Venusaur|Sludge Bomb|p2a: Gurdurr
+|-damage|p2a: Gurdurr|0 fnt
+|faint|p2a: Gurdurr
+|
+|-heal|p1a: Venusaur|264/272|[from] item: Leftovers
+|upkeep
+|
+|t:|1776979692
+|switch|p2a: Magcargo|Magcargo, L95, F|268/268
+|turn|16
+|inactive|naregm has 120 seconds left.
+|inactive|pakillico has 120 seconds left.
+|
+|t:|1776979735
+|switch|p1a: Forretress|Forretress, L84, F|87/263
+|move|p2a: Magcargo|Lava Plume|p1a: Forretress
+|-supereffective|p1a: Forretress
+|-damage|p1a: Forretress|0 fnt
+|faint|p1a: Forretress
+|
+|upkeep
+|
+|t:|1776979737
+|switch|p1a: Toedscruel|Toedscruel, L87, M|281/281
+|turn|17
+|
+|t:|1776979744
+|switch|p2a: Noctowl|Noctowl, L95, M|344/344
+|move|p1a: Toedscruel|Spore|p2a: Noctowl
+|-status|p2a: Noctowl|slp|[from] move: Spore
+|
+|upkeep
+|turn|18
+|inactive|pakillico has 120 seconds left.
+|
+|t:|1776979759
+|switch|p1a: Sylveon|Sylveon, L85, F|300/300
+|switch|p2a: Pecharunt|Pecharunt, L77|262/262
+|
+|upkeep
+|turn|19
+|inactive|pakillico has 120 seconds left.
+|inactive|naregm has 120 seconds left.
+|
+|t:|1776979788
+|switch|p1a: Venusaur|Venusaur, L84, F|264/272
+|move|p2a: Pecharunt|Malignant Chain|p1a: Venusaur
+|-damage|p1a: Venusaur|191/272
+|
+|-heal|p1a: Venusaur|208/272|[from] item: Leftovers
+|upkeep
+|turn|20
+|inactive|naregm has 120 seconds left.
+|inactive|pakillico has 120 seconds left.
+|inactive|pakillico has 90 seconds left.
+|
+|t:|1776979837
+|switch|p2a: Magcargo|Magcargo, L95, F|268/268
+|move|p1a: Venusaur|Knock Off|p2a: Magcargo
+|-damage|p2a: Magcargo|224/268
+|-status|p1a: Venusaur|brn|[from] ability: Flame Body|[of] p2a: Magcargo
+|-enditem|p2a: Magcargo|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Venusaur
+|
+|-heal|p1a: Venusaur|225/272 brn|[from] item: Leftovers
+|-damage|p1a: Venusaur|208/272 brn|[from] brn
+|upkeep
+|turn|21
+|inactive|pakillico has 90 seconds left.
+|inactive|naregm has 120 seconds left.
+|
+|t:|1776979865
+|move|p1a: Venusaur|Sludge Bomb|p2a: Magcargo
+|-resisted|p2a: Magcargo
+|-damage|p2a: Magcargo|177/268
+|-status|p2a: Magcargo|psn
+|move|p2a: Magcargo|Lava Plume|p1a: Venusaur
+|-supereffective|p1a: Venusaur
+|-damage|p1a: Venusaur|22/272 brn
+|
+|-heal|p1a: Venusaur|39/272 brn|[from] item: Leftovers
+|-damage|p2a: Magcargo|144/268 psn|[from] psn
+|-damage|p1a: Venusaur|22/272 brn|[from] brn
+|upkeep
+|turn|22
+|
+|t:|1776979875
+|move|p1a: Venusaur|Sludge Bomb|p2a: Magcargo
+|-resisted|p2a: Magcargo
+|-damage|p2a: Magcargo|99/268 psn
+|move|p2a: Magcargo|Recover|p2a: Magcargo
+|-heal|p2a: Magcargo|233/268 psn
+|
+|-heal|p1a: Venusaur|39/272 brn|[from] item: Leftovers
+|-damage|p2a: Magcargo|200/268 psn|[from] psn
+|-damage|p1a: Venusaur|22/272 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1776979887
+|move|p1a: Venusaur|Sludge Bomb|p2a: Magcargo
+|-resisted|p2a: Magcargo
+|-damage|p2a: Magcargo|154/268 psn
+|move|p2a: Magcargo|Recover|p2a: Magcargo
+|-heal|p2a: Magcargo|268/268 psn
+|
+|-heal|p1a: Venusaur|39/272 brn|[from] item: Leftovers
+|-damage|p2a: Magcargo|235/268 psn|[from] psn
+|-damage|p1a: Venusaur|22/272 brn|[from] brn
+|upkeep
+|turn|24
+|
+|t:|1776979900
+|move|p1a: Venusaur|Sludge Bomb|p2a: Magcargo
+|-resisted|p2a: Magcargo
+|-damage|p2a: Magcargo|184/268 psn
+|move|p2a: Magcargo|Recover|p2a: Magcargo
+|-heal|p2a: Magcargo|268/268 psn
+|
+|-heal|p1a: Venusaur|39/272 brn|[from] item: Leftovers
+|-damage|p2a: Magcargo|235/268 psn|[from] psn
+|-damage|p1a: Venusaur|22/272 brn|[from] brn
+|upkeep
+|turn|25
+|
+|t:|1776979908
+|switch|p2a: Pecharunt|Pecharunt, L77|262/262
+|move|p1a: Venusaur|Sludge Bomb|p2a: Pecharunt
+|-resisted|p2a: Pecharunt
+|-damage|p2a: Pecharunt|237/262
+|
+|-heal|p1a: Venusaur|39/272 brn|[from] item: Leftovers
+|-heal|p2a: Pecharunt|253/262|[from] item: Leftovers
+|-damage|p1a: Venusaur|22/272 brn|[from] brn
+|upkeep
+|turn|26
+|inactive|pakillico has 120 seconds left.
+|
+|t:|1776979917
+|switch|p2a: Magcargo|Magcargo, L95, F|235/268 psn
+|move|p1a: Venusaur|Synthesis|p1a: Venusaur
+|-heal|p1a: Venusaur|158/272 brn
+|
+|-heal|p1a: Venusaur|175/272 brn|[from] item: Leftovers
+|-damage|p2a: Magcargo|202/268 psn|[from] psn
+|-damage|p1a: Venusaur|158/272 brn|[from] brn
+|upkeep
+|turn|27
+|
+|t:|1776979923
+|move|p1a: Venusaur|Sludge Bomb|p2a: Magcargo
+|-resisted|p2a: Magcargo
+|-damage|p2a: Magcargo|157/268 psn
+|move|p2a: Magcargo|Lava Plume|p1a: Venusaur
+|-supereffective|p1a: Venusaur
+|-damage|p1a: Venusaur|0 fnt
+|faint|p1a: Venusaur
+|
+|-damage|p2a: Magcargo|124/268 psn|[from] psn
+|upkeep
+|
+|t:|1776979926
+|switch|p1a: Toedscruel|Toedscruel, L87, M|281/281
+|turn|28
+|
+|t:|1776979934
+|switch|p1a: Sylveon|Sylveon, L85, F|300/300
+|switch|p2a: Noctowl|Noctowl, L95, M|344/344 slp
+|
+|upkeep
+|turn|29
+|
+|t:|1776979942
+|switch|p2a: Metagross|Metagross, L79|74/256
+|move|p1a: Sylveon|Calm Mind|p1a: Sylveon
+|-boost|p1a: Sylveon|spa|1
+|-boost|p1a: Sylveon|spd|1
+|
+|upkeep
+|turn|30
+|
+|t:|1776979958
+|move|p1a: Sylveon|Protect|p1a: Sylveon
+|-singleturn|p1a: Sylveon|Protect
+|move|p2a: Metagross|Heavy Slam|p1a: Sylveon
+|-activate|p1a: Sylveon|move: Protect
+|
+|upkeep
+|turn|31
+|
+|t:|1776979962
+|-terastallize|p1a: Sylveon|Steel
+|move|p2a: Metagross|Heavy Slam|p1a: Sylveon
+|-resisted|p1a: Sylveon
+|-damage|p1a: Sylveon|157/300
+|move|p1a: Sylveon|Hyper Voice|p2a: Metagross
+|-resisted|p2a: Metagross
+|-damage|p2a: Metagross|0 fnt
+|faint|p2a: Metagross
+|
+|-heal|p1a: Sylveon|175/300|[from] item: Leftovers
+|upkeep
+|
+|t:|1776979985
+|switch|p2a: Magcargo|Magcargo, L95, F|124/268 psn
+|turn|32
+|
+|t:|1776979988
+|move|p1a: Sylveon|Hyper Voice|p2a: Magcargo
+|-resisted|p2a: Magcargo
+|-damage|p2a: Magcargo|39/268 psn
+|move|p2a: Magcargo|Yawn|p1a: Sylveon
+|-start|p1a: Sylveon|move: Yawn|[of] p2a: Magcargo
+|
+|-heal|p1a: Sylveon|193/300|[from] item: Leftovers
+|-damage|p2a: Magcargo|6/268 psn|[from] psn
+|upkeep
+|turn|33
+|
+|t:|1776979996
+|switch|p2a: Pecharunt|Pecharunt, L77|253/262
+|move|p1a: Sylveon|Hyper Voice|p2a: Pecharunt
+|-resisted|p2a: Pecharunt
+|-damage|p2a: Pecharunt|141/262
+|
+|-heal|p2a: Pecharunt|157/262|[from] item: Leftovers
+|-heal|p1a: Sylveon|211/300|[from] item: Leftovers
+|-end|p1a: Sylveon|move: Yawn|[silent]
+|-status|p1a: Sylveon|slp
+|upkeep
+|turn|34
+|
+|t:|1776980003
+|cant|p1a: Sylveon|slp
+|move|p2a: Pecharunt|Parting Shot|p1a: Sylveon
+|-unboost|p1a: Sylveon|atk|1
+|-unboost|p1a: Sylveon|spa|1
+|
+|t:|1776980006
+|switch|p2a: Noctowl|Noctowl, L95, M|344/344 slp|[from] Parting Shot
+|
+|-heal|p1a: Sylveon|229/300 slp|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1776980011
+|cant|p2a: Noctowl|slp
+|cant|p1a: Sylveon|slp
+|
+|-heal|p1a: Sylveon|247/300 slp|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1776980014
+|-terastallize|p2a: Noctowl|Steel
+|cant|p2a: Noctowl|slp
+|-curestatus|p1a: Sylveon|slp|[msg]
+|move|p1a: Sylveon|Calm Mind|p1a: Sylveon
+|-boost|p1a: Sylveon|spa|1
+|-boost|p1a: Sylveon|spd|1
+|
+|-heal|p1a: Sylveon|265/300|[from] item: Leftovers
+|upkeep
+|turn|37
+|
+|t:|1776980020
+|cant|p2a: Noctowl|slp
+|move|p1a: Sylveon|Calm Mind|p1a: Sylveon
+|-boost|p1a: Sylveon|spa|1
+|-boost|p1a: Sylveon|spd|1
+|
+|-heal|p1a: Sylveon|283/300|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|t:|1776980023
+|-curestatus|p2a: Noctowl|slp|[msg]
+|move|p2a: Noctowl|Calm Mind|p2a: Noctowl
+|-boost|p2a: Noctowl|spa|1
+|-boost|p2a: Noctowl|spd|1
+|move|p1a: Sylveon|Hyper Voice|p2a: Noctowl
+|-resisted|p2a: Noctowl
+|-damage|p2a: Noctowl|277/344
+|
+|-heal|p1a: Sylveon|300/300|[from] item: Leftovers
+|upkeep
+|turn|39
+|
+|t:|1776980027
+|switch|p1a: Toedscruel|Toedscruel, L87, M|281/281
+|move|p2a: Noctowl|Calm Mind|p2a: Noctowl
+|-boost|p2a: Noctowl|spa|1
+|-boost|p2a: Noctowl|spd|1
+|
+|upkeep
+|turn|40
+|
+|t:|1776980032
+|move|p2a: Noctowl|Hurricane|p1a: Toedscruel|[miss]
+|-miss|p2a: Noctowl|p1a: Toedscruel
+|move|p1a: Toedscruel|Spore|p2a: Noctowl
+|-status|p2a: Noctowl|slp|[from] move: Spore
+|
+|upkeep
+|turn|41
+|
+|t:|1776980037
+|switch|p1a: Sylveon|Sylveon, L85, F, tera:Steel|300/300
+|cant|p2a: Noctowl|slp
+|
+|upkeep
+|turn|42
+|
+|t:|1776980040
+|cant|p2a: Noctowl|slp
+|move|p1a: Sylveon|Calm Mind|p1a: Sylveon
+|-boost|p1a: Sylveon|spa|1
+|-boost|p1a: Sylveon|spd|1
+|
+|upkeep
+|turn|43
+|c|☆pakillico|nah
+|c|☆pakillico|its gg
+|c|☆pakillico|that steel tera fucked me
+|inactive|pakillico has 120 seconds left.
+|c|☆naregm|:c
+|-message|pakillico forfeited.
+|
+|win|naregm

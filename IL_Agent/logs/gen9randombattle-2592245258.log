@@ -1,0 +1,271 @@
+|j|☆Tsuippadui
+|j|☆aci2nn
+|t:|1776973021
+|gametype|singles
+|player|p1|Tsuippadui|2|1829
+|player|p2|aci2nn|266|1808
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776973021
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Minun|Minun, L95, F|268/268
+|switch|p2a: Ditto|Ditto, L87|225/225
+|-transform|p2a: Ditto|p1a: Minun|[from] ability: Imposter
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by aci2nn)
+|inactive|Tsuippadui also wants the timer to be on.
+|inactive|aci2nn has 120 seconds left.
+|
+|t:|1776973053
+|switch|p2a: Gumshoos|Gumshoos, L95, F|321/321
+|switch|p1a: Bronzong|Bronzong, L88|261/261
+|
+|upkeep
+|turn|2
+|
+|t:|1776973060
+|move|p2a: Gumshoos|Knock Off|p1a: Bronzong
+|-supereffective|p1a: Bronzong
+|-damage|p1a: Bronzong|39/261
+|-enditem|p1a: Bronzong|Leftovers|[from] move: Knock Off|[of] p2a: Gumshoos
+|move|p1a: Bronzong|Stealth Rock|p2a: Gumshoos
+|-sidestart|p2: aci2nn|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1776973065
+|move|p2a: Gumshoos|Knock Off|p1a: Bronzong
+|-supereffective|p1a: Bronzong
+|-damage|p1a: Bronzong|0 fnt
+|faint|p1a: Bronzong
+|
+|upkeep
+|
+|t:|1776973082
+|switch|p1a: Wugtrio|Wugtrio, L91, F|212/212
+|turn|4
+|
+|t:|1776973090
+|switch|p2a: Volcanion|Volcanion, L79|255/255
+|-damage|p2a: Volcanion|192/255|[from] Stealth Rock
+|move|p1a: Wugtrio|Liquidation|p2a: Volcanion
+|-heal|p2a: Volcanion|255/255|[from] ability: Water Absorb|[of] p1a: Wugtrio
+|
+|upkeep
+|turn|5
+|
+|t:|1776973101
+|switch|p1a: Regieleki|Regieleki, L79|256/256
+|move|p2a: Volcanion|Steam Eruption|p1a: Regieleki
+|-damage|p1a: Regieleki|49/256
+|
+|upkeep
+|turn|6
+|
+|t:|1776973109
+|switch|p2a: Ditto|Ditto, L87|225/225
+|-damage|p2a: Ditto|197/225|[from] Stealth Rock
+|-transform|p2a: Ditto|p1a: Regieleki|[from] ability: Imposter
+|move|p1a: Regieleki|Thunderbolt|p2a: Ditto
+|-resisted|p2a: Ditto
+|-damage|p2a: Ditto|99/225
+|
+|upkeep
+|turn|7
+|
+|t:|1776973115
+|switch|p1a: Minun|Minun, L95, F|268/268
+|move|p2a: Ditto|Rapid Spin|p1a: Minun
+|-damage|p1a: Minun|221/268
+|-boost|p2a: Ditto|spe|1
+|-sideend|p2: aci2nn|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Ditto
+|
+|upkeep
+|turn|8
+|
+|t:|1776973129
+|switch|p2a: Gumshoos|Gumshoos, L95, F|321/321
+|move|p1a: Minun|Thunderbolt|p2a: Gumshoos
+|-damage|p2a: Gumshoos|179/321
+|-damage|p1a: Minun|195/268|[from] item: Life Orb
+|
+|upkeep
+|turn|9
+|
+|t:|1776973149
+|move|p1a: Minun|Thunderbolt|p2a: Gumshoos
+|-damage|p2a: Gumshoos|26/321
+|-damage|p1a: Minun|169/268|[from] item: Life Orb
+|move|p2a: Gumshoos|Double-Edge|p1a: Minun
+|-damage|p1a: Minun|0 fnt
+|faint|p1a: Minun
+|-damage|p2a: Gumshoos|0 fnt|[from] Recoil
+|faint|p2a: Gumshoos
+|
+|upkeep
+|inactive|Tsuippadui has 120 seconds left.
+|
+|t:|1776973170
+|switch|p1a: Wugtrio|Wugtrio, L91, F|212/212
+|switch|p2a: Ditto|Ditto, L87|99/225
+|-transform|p2a: Ditto|p1a: Wugtrio|[from] ability: Imposter
+|turn|10
+|
+|t:|1776973180
+|switch|p2a: Rotom|Rotom, L88|231/231
+|move|p1a: Wugtrio|Stomping Tantrum|p2a: Rotom
+|-immune|p2a: Rotom|[from] ability: Levitate
+|
+|upkeep
+|turn|11
+|
+|t:|1776973188
+|switch|p1a: Terapagos|Terapagos, L77, F|265/265
+|-activate|p1a: Terapagos|ability: Tera Shift
+|detailschange|p1a: Terapagos|Terapagos-Terastal, L77, F
+|-heal|p1a: Terapagos|273/273|[silent]
+|move|p2a: Rotom|Thunderbolt|p1a: Terapagos
+|-activate|p1a: Terapagos|ability: Tera Shell
+|-resisted|p1a: Terapagos
+|-damage|p1a: Terapagos|216/273
+|-damage|p2a: Rotom|208/231|[from] item: Life Orb
+|
+|upkeep
+|turn|12
+|
+|t:|1776973200
+|move|p2a: Rotom|Nasty Plot|p2a: Rotom
+|-boost|p2a: Rotom|spa|2
+|move|p1a: Terapagos|Calm Mind|p1a: Terapagos
+|-boost|p1a: Terapagos|spa|1
+|-boost|p1a: Terapagos|spd|1
+|
+|upkeep
+|turn|13
+|
+|t:|1776973206
+|move|p2a: Rotom|Nasty Plot|p2a: Rotom
+|-boost|p2a: Rotom|spa|2
+|move|p1a: Terapagos|Tera Starstorm|p2a: Rotom
+|-immune|p2a: Rotom
+|
+|upkeep
+|turn|14
+|
+|t:|1776973218
+|switch|p1a: Regieleki|Regieleki, L79|49/256
+|move|p2a: Rotom|Thunderbolt|p1a: Regieleki
+|-resisted|p1a: Regieleki
+|-damage|p1a: Regieleki|0 fnt
+|faint|p1a: Regieleki
+|-damage|p2a: Rotom|185/231|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776973227
+|switch|p1a: Wugtrio|Wugtrio, L91, F|212/212
+|turn|15
+|
+|t:|1776973232
+|switch|p2a: Chi-Yu|Chi-Yu, L77|211/211
+|-ability|p2a: Chi-Yu|Beads of Ruin
+|move|p1a: Wugtrio|Throat Chop|p2a: Chi-Yu
+|-resisted|p2a: Chi-Yu
+|-damage|p2a: Chi-Yu|153/211
+|-start|p2a: Chi-Yu|Throat Chop|[silent]
+|
+|upkeep
+|turn|16
+|
+|t:|1776973242
+|switch|p1a: Terapagos|Terapagos-Terastal, L77, F|216/273
+|move|p2a: Chi-Yu|Dark Pulse|p1a: Terapagos
+|-crit|p1a: Terapagos
+|-damage|p1a: Terapagos|0 fnt
+|faint|p1a: Terapagos
+|
+|-end|p2a: Chi-Yu|Throat Chop|[silent]
+|upkeep
+|
+|t:|1776973252
+|switch|p1a: Zarude|Zarude-Dada, L77|288/288
+|turn|17
+|inactive|aci2nn has 120 seconds left.
+|inactive|Tsuippadui has 120 seconds left.
+|
+|t:|1776973296
+|move|p1a: Zarude|U-turn|p2a: Chi-Yu
+|-damage|p2a: Chi-Yu|61/211
+|
+|t:|1776973298
+|switch|p1a: Wugtrio|Wugtrio, L91, F|212/212|[from] U-turn
+|move|p2a: Chi-Yu|Dark Pulse|p1a: Wugtrio
+|-damage|p1a: Wugtrio|0 fnt
+|faint|p1a: Wugtrio
+|
+|upkeep
+|
+|t:|1776973299
+|switch|p1a: Zarude|Zarude-Dada, L77|288/288
+|turn|18
+|
+|t:|1776973311
+|move|p1a: Zarude|Power Whip|p2a: Chi-Yu
+|-resisted|p2a: Chi-Yu
+|-damage|p2a: Chi-Yu|0 fnt
+|faint|p2a: Chi-Yu
+|
+|upkeep
+|inactive|aci2nn has 120 seconds left.
+|
+|t:|1776973335
+|switch|p2a: Rotom|Rotom, L88|185/231
+|turn|19
+|
+|t:|1776973342
+|move|p2a: Rotom|Will-O-Wisp|p1a: Zarude
+|-status|p1a: Zarude|brn
+|move|p1a: Zarude|Power Whip|p2a: Rotom
+|-damage|p2a: Rotom|80/231
+|
+|-damage|p1a: Zarude|270/288 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1776973350
+|move|p2a: Rotom|Thunderbolt|p1a: Zarude
+|-resisted|p1a: Zarude
+|-damage|p1a: Zarude|202/288 brn
+|-damage|p2a: Rotom|57/231|[from] item: Life Orb
+|move|p1a: Zarude|Power Whip|p2a: Rotom
+|-damage|p2a: Rotom|0 fnt
+|faint|p2a: Rotom
+|
+|-damage|p1a: Zarude|184/288 brn|[from] brn
+|upkeep
+|
+|t:|1776973353
+|switch|p2a: Volcanion|Volcanion, L79|255/255
+|turn|21
+|
+|t:|1776973356
+|-terastallize|p1a: Zarude|Grass
+|move|p2a: Volcanion|Flamethrower|p1a: Zarude
+|-supereffective|p1a: Zarude
+|-damage|p1a: Zarude|0 fnt
+|faint|p1a: Zarude
+|
+|win|aci2nn
+|raw|Tsuippadui's rating: 1829 &rarr; <strong>1808</strong><br />(-21 for losing)
+|raw|aci2nn's rating: 1808 &rarr; <strong>1829</strong><br />(+21 for winning)
+|l|☆Tsuippadui
+|player|p1|

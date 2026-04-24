@@ -1,0 +1,355 @@
+|j|☆iizag2
+|j|☆Alfredope
+|t:|1776973664
+|gametype|singles
+|player|p1|iizag2|170|1538
+|player|p2|Alfredope|n|1479
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776973664
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Banette|Banette, L93, M|270/270
+|switch|p2a: Scizor|Scizor, L79, M|240/240
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by iizag2)
+|
+|t:|1776973671
+|move|p1a: Banette|Poltergeist|p2a: Scizor|[miss]
+|-miss|p1a: Banette|p2a: Scizor
+|move|p2a: Scizor|Knock Off|p1a: Banette
+|-supereffective|p1a: Banette
+|-damage|p1a: Banette|32/270
+|-enditem|p1a: Banette|Life Orb|[from] move: Knock Off|[of] p2a: Scizor
+|
+|upkeep
+|turn|2
+|
+|t:|1776973683
+|move|p1a: Banette|Thunder Wave|p2a: Scizor
+|-status|p2a: Scizor|par
+|move|p2a: Scizor|Knock Off|p1a: Banette
+|-supereffective|p1a: Banette
+|-damage|p1a: Banette|0 fnt
+|faint|p1a: Banette
+|
+|upkeep
+|
+|t:|1776973692
+|switch|p1a: Skeledirge|Skeledirge, L79, F|294/294
+|turn|3
+|
+|t:|1776973701
+|switch|p2a: Raikou|Raikou, L81|278/278
+|-ability|p2a: Raikou|Pressure
+|move|p1a: Skeledirge|Flame Charge|p2a: Raikou
+|-damage|p2a: Raikou|233/278
+|-boost|p1a: Skeledirge|spe|1
+|
+|-heal|p2a: Raikou|250/278|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776973711
+|move|p2a: Raikou|Calm Mind|p2a: Raikou
+|-boost|p2a: Raikou|spa|1
+|-boost|p2a: Raikou|spd|1
+|move|p1a: Skeledirge|Flame Charge|p2a: Raikou
+|-damage|p2a: Raikou|208/278
+|-boost|p1a: Skeledirge|spe|1
+|
+|-heal|p2a: Raikou|225/278|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776973725
+|move|p1a: Skeledirge|Torch Song|p2a: Raikou
+|-damage|p2a: Raikou|146/278
+|-boost|p1a: Skeledirge|spa|1
+|move|p2a: Raikou|Scald|p1a: Skeledirge
+|-supereffective|p1a: Skeledirge
+|-damage|p1a: Skeledirge|142/294
+|
+|-heal|p2a: Raikou|163/278|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776973736
+|-terastallize|p1a: Skeledirge|Fairy
+|move|p1a: Skeledirge|Torch Song|p2a: Raikou
+|-damage|p2a: Raikou|54/278
+|-boost|p1a: Skeledirge|spa|1
+|move|p2a: Raikou|Scald|p1a: Skeledirge
+|-damage|p1a: Skeledirge|74/294
+|
+|-heal|p2a: Raikou|71/278|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776973763
+|switch|p2a: Wigglytuff|Wigglytuff, L96, F|424/424
+|move|p1a: Skeledirge|Torch Song|p2a: Wigglytuff
+|-damage|p2a: Wigglytuff|198/424
+|-boost|p1a: Skeledirge|spa|1
+|
+|-heal|p2a: Wigglytuff|224/424|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776973771
+|move|p1a: Skeledirge|Slack Off|p1a: Skeledirge
+|-heal|p1a: Skeledirge|221/294
+|move|p2a: Wigglytuff|Dazzling Gleam|p1a: Skeledirge
+|-damage|p1a: Skeledirge|112/294
+|
+|-heal|p2a: Wigglytuff|250/424|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776973782
+|move|p1a: Skeledirge|Torch Song|p2a: Wigglytuff
+|-damage|p2a: Wigglytuff|0 fnt
+|-boost|p1a: Skeledirge|spa|1
+|faint|p2a: Wigglytuff
+|
+|upkeep
+|
+|t:|1776973795
+|switch|p2a: Scizor|Scizor, L79, M|240/240 par
+|turn|10
+|
+|t:|1776973798
+|move|p2a: Scizor|Bullet Punch|p1a: Skeledirge
+|-supereffective|p1a: Skeledirge
+|-damage|p1a: Skeledirge|0 fnt
+|faint|p1a: Skeledirge
+|
+|upkeep
+|
+|t:|1776973809
+|switch|p1a: Orthworm|Orthworm, L88, M|266/266
+|turn|11
+|
+|t:|1776973818
+|switch|p2a: Raging Bolt|Raging Bolt, L78|323/323
+|move|p1a: Orthworm|Spikes|p2a: Raging Bolt
+|-sidestart|p2: Alfredope|Spikes
+|
+|upkeep
+|turn|12
+|
+|t:|1776973825
+|move|p1a: Orthworm|Spikes|p2a: Raging Bolt
+|-sidestart|p2: Alfredope|Spikes
+|move|p2a: Raging Bolt|Calm Mind|p2a: Raging Bolt
+|-boost|p2a: Raging Bolt|spa|1
+|-boost|p2a: Raging Bolt|spd|1
+|
+|upkeep
+|turn|13
+|
+|t:|1776973839
+|-terastallize|p2a: Raging Bolt|Electric
+|move|p1a: Orthworm|Shed Tail|p1a: Orthworm
+|-start|p1a: Orthworm|Substitute|[from] move: Shed Tail
+|-damage|p1a: Orthworm|133/266
+|
+|t:|1776973847
+|switch|p1a: Eelektross|Eelektross, L87, M|290/290|[from] Shed Tail
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Eelektross
+|-resisted|p1a: Eelektross
+|-end|p1a: Eelektross|Substitute
+|
+|upkeep
+|turn|14
+|
+|t:|1776973856
+|move|p2a: Raging Bolt|Draco Meteor|p1a: Eelektross
+|-damage|p1a: Eelektross|112/290
+|-unboost|p2a: Raging Bolt|spa|2
+|move|p1a: Eelektross|Dragon Tail|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|269/323
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|drag|p2a: Lugia|Lugia, L73|275/275
+|
+|upkeep
+|turn|15
+|
+|t:|1776973867
+|move|p2a: Lugia|Calm Mind|p2a: Lugia
+|-boost|p2a: Lugia|spa|1
+|-boost|p2a: Lugia|spd|1
+|move|p1a: Eelektross|Discharge|p2a: Lugia
+|-supereffective|p2a: Lugia
+|-damage|p2a: Lugia|226/275
+|
+|upkeep
+|turn|16
+|
+|t:|1776973873
+|move|p2a: Lugia|Earth Power|p1a: Eelektross
+|-immune|p1a: Eelektross|[from] ability: Levitate
+|move|p1a: Eelektross|Discharge|p2a: Lugia
+|-supereffective|p2a: Lugia
+|-damage|p2a: Lugia|134/275
+|
+|upkeep
+|turn|17
+|
+|t:|1776973881
+|move|p2a: Lugia|Recover|p2a: Lugia
+|-heal|p2a: Lugia|272/275
+|move|p1a: Eelektross|Discharge|p2a: Lugia
+|-supereffective|p2a: Lugia
+|-damage|p2a: Lugia|176/275
+|
+|upkeep
+|turn|18
+|
+|t:|1776973888
+|move|p2a: Lugia|Aeroblast|p1a: Eelektross
+|-resisted|p1a: Eelektross
+|-damage|p1a: Eelektross|73/290
+|move|p1a: Eelektross|Discharge|p2a: Lugia
+|-supereffective|p2a: Lugia
+|-damage|p2a: Lugia|86/275
+|
+|upkeep
+|turn|19
+|
+|t:|1776973894
+|move|p2a: Lugia|Recover|p2a: Lugia
+|-heal|p2a: Lugia|224/275
+|move|p1a: Eelektross|Discharge|p2a: Lugia
+|-supereffective|p2a: Lugia
+|-damage|p2a: Lugia|132/275
+|
+|upkeep
+|turn|20
+|
+|t:|1776973904
+|switch|p2a: Scizor|Scizor, L79, M|240/240 par
+|-damage|p2a: Scizor|200/240 par|[from] Spikes
+|move|p1a: Eelektross|Discharge|p2a: Scizor
+|-crit|p2a: Scizor
+|-damage|p2a: Scizor|46/240 par
+|
+|upkeep
+|turn|21
+|
+|t:|1776973920
+|move|p1a: Eelektross|Discharge|p2a: Scizor
+|-damage|p2a: Scizor|0 fnt
+|faint|p2a: Scizor
+|
+|upkeep
+|
+|t:|1776973935
+|switch|p2a: Victreebel|Victreebel, L90, F|290/290
+|-damage|p2a: Victreebel|242/290|[from] Spikes
+|turn|22
+|
+|t:|1776973946
+|move|p2a: Victreebel|Poison Jab|p1a: Eelektross
+|-damage|p1a: Eelektross|0 fnt
+|faint|p1a: Eelektross
+|-damage|p2a: Victreebel|213/290|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776973953
+|switch|p1a: Orthworm|Orthworm, L88, M|133/266
+|turn|23
+|
+|t:|1776973965
+|move|p2a: Victreebel|Swords Dance|p2a: Victreebel
+|-boost|p2a: Victreebel|atk|2
+|move|p1a: Orthworm|Spikes|p2a: Victreebel
+|-sidestart|p2: Alfredope|Spikes
+|
+|-heal|p1a: Orthworm|149/266|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1776973972
+|move|p2a: Victreebel|Power Whip|p1a: Orthworm
+|-resisted|p1a: Orthworm
+|-damage|p1a: Orthworm|11/266
+|-damage|p2a: Victreebel|184/290|[from] item: Life Orb
+|move|p1a: Orthworm|Shed Tail|p1a: Orthworm
+|-fail|p1a: Orthworm|move: Shed Tail|[weak]
+|
+|-heal|p1a: Orthworm|27/266|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1776973980
+|move|p2a: Victreebel|Power Whip|p1a: Orthworm|[miss]
+|-miss|p2a: Victreebel|p1a: Orthworm
+|move|p1a: Orthworm|Body Press|p2a: Victreebel
+|-resisted|p2a: Victreebel
+|-damage|p2a: Victreebel|135/290
+|
+|-heal|p1a: Orthworm|43/266|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1776973988
+|move|p2a: Victreebel|Sucker Punch|p1a: Orthworm
+|-damage|p1a: Orthworm|0 fnt
+|faint|p1a: Orthworm
+|-damage|p2a: Victreebel|106/290|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776973994
+|switch|p1a: Flapple|Flapple, L88, M|266/266
+|turn|27
+|
+|t:|1776974007
+|move|p2a: Victreebel|Poison Jab|p1a: Flapple
+|-supereffective|p1a: Flapple
+|-damage|p1a: Flapple|0 fnt
+|faint|p1a: Flapple
+|-damage|p2a: Victreebel|77/290|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776974012
+|switch|p1a: Mesprit|Mesprit, L85|275/275
+|turn|28
+|
+|t:|1776974023
+|move|p2a: Victreebel|Sucker Punch|p1a: Mesprit
+|-supereffective|p1a: Mesprit
+|-damage|p1a: Mesprit|18/275
+|-damage|p2a: Victreebel|48/290|[from] item: Life Orb
+|move|p1a: Mesprit|Psychic|p2a: Victreebel
+|-supereffective|p2a: Victreebel
+|-damage|p2a: Victreebel|0 fnt
+|faint|p2a: Victreebel
+|
+|upkeep
+|
+|t:|1776974034
+|switch|p2a: Raging Bolt|Raging Bolt, L78, tera:Electric|269/323
+|-damage|p2a: Raging Bolt|189/323|[from] Spikes
+|turn|29
+|
+|t:|1776974038
+|move|p2a: Raging Bolt|Thunderclap|p1a: Mesprit
+|-damage|p1a: Mesprit|0 fnt
+|faint|p1a: Mesprit
+|
+|win|Alfredope
+|raw|iizag2's rating: 1538 &rarr; <strong>1515</strong><br />(-23 for losing)
+|raw|Alfredope's rating: 1479 &rarr; <strong>1502</strong><br />(+23 for winning)
+|l|☆iizag2
+|player|p1|

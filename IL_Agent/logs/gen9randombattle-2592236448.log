@@ -1,0 +1,259 @@
+|j|☆LykenV
+|j|☆rootofx
+|t:|1776972406
+|gametype|singles
+|player|p1|LykenV|hilbert|1170
+|player|p2|rootofx|red|1185
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776972406
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Mismagius|Mismagius, L86, F|243/243
+|switch|p2a: Avalugg|Avalugg, L88, M|310/310
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by rootofx)
+|
+|t:|1776972417
+|switch|p2a: Swalot|Swalot, L90, M|326/326
+|move|p1a: Mismagius|Nasty Plot|p1a: Mismagius
+|-boost|p1a: Mismagius|spa|2
+|
+|upkeep
+|turn|2
+|
+|t:|1776972428
+|move|p1a: Mismagius|Substitute|p1a: Mismagius
+|-start|p1a: Mismagius|Substitute
+|-damage|p1a: Mismagius|183/243
+|move|p2a: Swalot|Knock Off|p1a: Mismagius
+|-supereffective|p1a: Mismagius
+|-end|p1a: Mismagius|Substitute
+|
+|-heal|p1a: Mismagius|198/243|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776972445
+|move|p1a: Mismagius|Shadow Ball|p2a: Swalot
+|-damage|p2a: Swalot|205/326
+|-unboost|p2a: Swalot|spd|1
+|move|p2a: Swalot|Knock Off|p1a: Mismagius
+|-supereffective|p1a: Mismagius
+|-damage|p1a: Mismagius|40/243
+|-enditem|p1a: Mismagius|Leftovers|[from] move: Knock Off|[of] p2a: Swalot
+|
+|upkeep
+|turn|4
+|
+|t:|1776972470
+|switch|p2a: Toxapex|Toxapex, L82, M|216/216
+|move|p1a: Mismagius|Shadow Ball|p2a: Toxapex
+|-damage|p2a: Toxapex|95/216
+|-unboost|p2a: Toxapex|spd|1
+|
+|upkeep
+|turn|5
+|
+|t:|1776972483
+|switch|p2a: Swalot|Swalot, L90, M|205/326
+|move|p1a: Mismagius|Shadow Ball|p2a: Swalot
+|-crit|p2a: Swalot
+|-damage|p2a: Swalot|16/326
+|
+|upkeep
+|turn|6
+|
+|t:|1776972494
+|move|p1a: Mismagius|Shadow Ball|p2a: Swalot
+|-damage|p2a: Swalot|0 fnt
+|faint|p2a: Swalot
+|
+|upkeep
+|
+|t:|1776972500
+|switch|p2a: Toxapex|Toxapex, L82, M|167/216
+|turn|7
+|
+|t:|1776972507
+|move|p1a: Mismagius|Shadow Ball|p2a: Toxapex
+|-damage|p2a: Toxapex|40/216
+|move|p2a: Toxapex|Liquidation|p1a: Mismagius
+|-crit|p1a: Mismagius
+|-damage|p1a: Mismagius|0 fnt
+|faint|p1a: Mismagius
+|
+|upkeep
+|
+|t:|1776972524
+|switch|p1a: Delibird|Delibird, M|252/252
+|turn|8
+|
+|t:|1776972536
+|switch|p2a: Avalugg|Avalugg, L88, M|310/310
+|move|p1a: Delibird|Drill Run|p2a: Avalugg
+|-crit|p2a: Avalugg
+|-damage|p2a: Avalugg|247/310
+|
+|upkeep
+|turn|9
+|
+|t:|1776972547
+|switch|p1a: Gallade|Gallade, L80, M|240/240
+|move|p2a: Avalugg|Body Press|p1a: Gallade
+|-resisted|p1a: Gallade
+|-damage|p1a: Gallade|173/240
+|
+|upkeep
+|turn|10
+|
+|t:|1776972558
+|switch|p2a: Zapdos|Zapdos-Galar, L77|265/265
+|move|p1a: Gallade|Sacred Sword|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|131/265
+|
+|upkeep
+|turn|11
+|
+|t:|1776972568
+|move|p2a: Zapdos|Brave Bird|p1a: Gallade
+|-supereffective|p1a: Gallade
+|-damage|p1a: Gallade|0 fnt
+|faint|p1a: Gallade
+|-damage|p2a: Zapdos|74/265|[from] Recoil
+|-damage|p2a: Zapdos|48/265|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776972584
+|switch|p1a: Delibird|Delibird, M|252/252
+|turn|12
+|
+|t:|1776972588
+|switch|p2a: Avalugg|Avalugg, L88, M|247/310
+|move|p1a: Delibird|Ice Shard|p2a: Avalugg
+|-resisted|p2a: Avalugg
+|-damage|p2a: Avalugg|231/310
+|
+|upkeep
+|turn|13
+|
+|t:|1776972599
+|switch|p1a: Incineroar|Incineroar, L82, F|290/290
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Avalugg|atk|1
+|move|p2a: Avalugg|Rapid Spin|p1a: Incineroar
+|-damage|p1a: Incineroar|260/290
+|-boost|p2a: Avalugg|spe|1
+|
+|upkeep
+|turn|14
+|
+|t:|1776972611
+|-terastallize|p2a: Avalugg|Fighting
+|move|p1a: Incineroar|Fake Out|p2a: Avalugg
+|-damage|p2a: Avalugg|214/310
+|cant|p2a: Avalugg|flinch
+|
+|upkeep
+|turn|15
+|
+|t:|1776972622
+|move|p2a: Avalugg|Body Press|p1a: Incineroar
+|-supereffective|p1a: Incineroar
+|-damage|p1a: Incineroar|0 fnt
+|faint|p1a: Incineroar
+|
+|upkeep
+|
+|t:|1776972628
+|switch|p1a: Tropius|Tropius, L91, F|328/328
+|turn|16
+|
+|t:|1776972640
+|move|p1a: Tropius|Dual Wingbeat|p2a: Avalugg
+|-supereffective|p2a: Avalugg
+|-damage|p2a: Avalugg|170/310
+|-supereffective|p2a: Avalugg
+|-damage|p2a: Avalugg|128/310
+|-hitcount|p2a: Avalugg|2
+|move|p2a: Avalugg|Avalanche|p1a: Tropius
+|-supereffective|p1a: Tropius
+|-damage|p1a: Tropius|0 fnt
+|faint|p1a: Tropius
+|
+|upkeep
+|
+|t:|1776972649
+|switch|p1a: Kyogre|Kyogre, L71|259/259
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Kyogre
+|turn|17
+|
+|t:|1776972656
+|move|p1a: Kyogre|Calm Mind|p1a: Kyogre
+|-boost|p1a: Kyogre|spa|1
+|-boost|p1a: Kyogre|spd|1
+|move|p2a: Avalugg|Recover|p2a: Avalugg
+|-heal|p2a: Avalugg|283/310
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1776972666
+|move|p1a: Kyogre|Calm Mind|p1a: Kyogre
+|-boost|p1a: Kyogre|spa|1
+|-boost|p1a: Kyogre|spd|1
+|move|p2a: Avalugg|Rapid Spin|p1a: Kyogre
+|-damage|p1a: Kyogre|222/259
+|-boost|p2a: Avalugg|spe|1
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Kyogre|238/259|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1776972674
+|move|p2a: Avalugg|Body Press|p1a: Kyogre
+|-damage|p1a: Kyogre|66/259
+|move|p1a: Kyogre|Origin Pulse|p2a: Avalugg|[miss]
+|-miss|p1a: Kyogre|p2a: Avalugg
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Kyogre|82/259|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1776972684
+|move|p2a: Avalugg|Body Press|p1a: Kyogre
+|-damage|p1a: Kyogre|0 fnt
+|faint|p1a: Kyogre
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|c|☆LykenV|gg
+|
+|t:|1776972692
+|switch|p1a: Delibird|Delibird, M|252/252
+|turn|21
+|
+|t:|1776972699
+|move|p1a: Delibird|Brave Bird|p2a: Avalugg
+|-supereffective|p2a: Avalugg
+|-damage|p2a: Avalugg|79/310
+|-damage|p1a: Delibird|185/252|[from] Recoil
+|move|p2a: Avalugg|Body Press|p1a: Delibird
+|-damage|p1a: Delibird|0 fnt
+|faint|p1a: Delibird
+|
+|win|rootofx
+|raw|LykenV's rating: 1170 &rarr; <strong>1146</strong><br />(-24 for losing)
+|raw|rootofx's rating: 1185 &rarr; <strong>1209</strong><br />(+24 for winning)

@@ -1,0 +1,151 @@
+|j|☆glorbius_prime
+|j|☆notengoideas
+|t:|1776973516
+|gametype|singles
+|player|p1|glorbius_prime|2|1054
+|player|p2|notengoideas|101|1038
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776973516
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Lycanroc|Lycanroc, L86, F|269/269
+|switch|p2a: Roaring Moon|Roaring Moon, L72|270/270
+|turn|1
+|
+|t:|1776973545
+|-end|p2a: Roaring Moon|Protosynthesis|[silent]
+|switch|p2a: Ludicolo|Ludicolo, L90, M|290/290
+|move|p1a: Lycanroc|Stealth Rock|p2a: Ludicolo
+|-sidestart|p2: notengoideas|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1776973560
+|move|p1a: Lycanroc|Crunch|p2a: Ludicolo
+|-damage|p2a: Ludicolo|186/290
+|-damage|p1a: Lycanroc|243/269|[from] item: Life Orb
+|move|p2a: Ludicolo|Rain Dance|p2a: Ludicolo
+|-weather|RainDance
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1776973576
+|move|p2a: Ludicolo|Giga Drain|p1a: Lycanroc
+|-supereffective|p1a: Lycanroc
+|-damage|p1a: Lycanroc|0 fnt
+|-heal|p2a: Ludicolo|290/290|[from] drain|[of] p1a: Lycanroc
+|faint|p1a: Lycanroc
+|-damage|p2a: Ludicolo|261/290|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1776973583
+|switch|p1a: Tropius|Tropius, L91, M|328/328
+|turn|4
+|
+|t:|1776973590
+|move|p2a: Ludicolo|Ice Beam|p1a: Tropius
+|-supereffective|p1a: Tropius
+|-damage|p1a: Tropius|0 fnt
+|faint|p1a: Tropius
+|-damage|p2a: Ludicolo|232/290|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1776973597
+|switch|p1a: Moltres|Moltres, L81|278/278
+|turn|5
+|
+|t:|1776973605
+|move|p2a: Ludicolo|Hydro Pump|p1a: Moltres
+|-supereffective|p1a: Moltres
+|-damage|p1a: Moltres|0 fnt
+|faint|p1a: Moltres
+|-damage|p2a: Ludicolo|203/290|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1776973611
+|switch|p1a: Barraskewda|Barraskewda, L81, F|231/231
+|turn|6
+|
+|t:|1776973618
+|move|p1a: Barraskewda|Waterfall|p2a: Ludicolo
+|-resisted|p2a: Ludicolo
+|-damage|p2a: Ludicolo|148/290
+|move|p2a: Ludicolo|Giga Drain|p1a: Barraskewda
+|-supereffective|p1a: Barraskewda
+|-damage|p1a: Barraskewda|0 fnt
+|-heal|p2a: Ludicolo|264/290|[from] drain|[of] p1a: Barraskewda
+|faint|p1a: Barraskewda
+|-damage|p2a: Ludicolo|235/290|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|
+|t:|1776973628
+|switch|p1a: Leavanny|Leavanny, L86, F|269/269
+|turn|7
+|c|☆notengoideas|holy macarena sweep
+|c|☆notengoideas|wont underestimate ludicolo ever again
+|
+|t:|1776973659
+|move|p1a: Leavanny|Sticky Web|p2a: Ludicolo
+|-sidestart|p2: notengoideas|move: Sticky Web
+|move|p2a: Ludicolo|Rain Dance|p2a: Ludicolo
+|-weather|RainDance
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1776973670
+|move|p2a: Ludicolo|Ice Beam|p1a: Leavanny
+|-supereffective|p1a: Leavanny
+|-damage|p1a: Leavanny|95/269
+|-damage|p2a: Ludicolo|206/290|[from] item: Life Orb
+|move|p1a: Leavanny|Leaf Blade|p2a: Ludicolo
+|-damage|p2a: Ludicolo|92/290
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1776973682
+|move|p2a: Ludicolo|Ice Beam|p1a: Leavanny
+|-supereffective|p1a: Leavanny
+|-damage|p1a: Leavanny|0 fnt
+|faint|p1a: Leavanny
+|-damage|p2a: Ludicolo|63/290|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1776973689
+|switch|p1a: Revavroom|Revavroom, L79, F|256/256
+|turn|10
+|
+|t:|1776973699
+|move|p2a: Ludicolo|Hydro Pump|p1a: Revavroom
+|-damage|p1a: Revavroom|0 fnt
+|faint|p1a: Revavroom
+|-damage|p2a: Ludicolo|34/290|[from] item: Life Orb
+|
+|win|notengoideas
+|raw|glorbius_prime's rating: 1054 &rarr; <strong>1035</strong><br />(-19 for losing)
+|raw|notengoideas's rating: 1038 &rarr; <strong>1074</strong><br />(+36 for winning)
+|c|☆notengoideas|ggs

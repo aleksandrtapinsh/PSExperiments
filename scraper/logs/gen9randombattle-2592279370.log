@@ -1,0 +1,245 @@
+|j|☆Euzebio98
+|j|☆zsxl
+|t:|1776975460
+|gametype|singles
+|player|p1|Euzebio98|170|1395
+|player|p2|zsxl|preschooler|1354
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776975460
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Chansey|Chansey, L85, F|564/564
+|switch|p2a: Magmortar|Magmortar, L88, M|275/275
+|turn|1
+|
+|t:|1776975466
+|move|p2a: Magmortar|Knock Off|p1a: Chansey
+|-damage|p1a: Chansey|391/564
+|-enditem|p1a: Chansey|Eviolite|[from] move: Knock Off|[of] p2a: Magmortar
+|move|p1a: Chansey|Thunder Wave|p2a: Magmortar|[miss]
+|-miss|p1a: Chansey|p2a: Magmortar
+|
+|upkeep
+|turn|2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Euzebio98)
+|inactive|zsxl has 120 seconds left.
+|
+|t:|1776975524
+|switch|p2a: Flapple|Flapple, L88, F|266/266
+|move|p1a: Chansey|Thunder Wave|p2a: Flapple
+|-status|p2a: Flapple|par
+|-enditem|p2a: Flapple|Lum Berry|[eat]
+|-curestatus|p2a: Flapple|par|[msg]
+|
+|upkeep
+|turn|3
+|
+|t:|1776975552
+|move|p2a: Flapple|Grav Apple|p1a: Chansey
+|-damage|p1a: Chansey|0 fnt
+|faint|p1a: Chansey
+|
+|upkeep
+|
+|t:|1776975561
+|switch|p1a: Flygon|Flygon, L82, M|265/265
+|turn|4
+|inactive|zsxl has 120 seconds left.
+|
+|t:|1776975589
+|switch|p2a: Cetitan|Cetitan, L82, F|412/412
+|move|p1a: Flygon|U-turn|p2a: Cetitan
+|-damage|p2a: Cetitan|354/412
+|
+|t:|1776975597
+|switch|p1a: Typhlosion|Typhlosion-Hisui, L83, M|257/257|[from] U-turn
+|
+|upkeep
+|turn|5
+|inactive|zsxl has 120 seconds left.
+|
+|t:|1776975622
+|switch|p2a: Magmortar|Magmortar, L88, M|275/275
+|move|p1a: Typhlosion|Eruption|p2a: Magmortar
+|-resisted|p2a: Magmortar
+|-damage|p2a: Magmortar|141/275
+|
+|upkeep
+|turn|6
+|
+|t:|1776975645
+|switch|p1a: Primarina|Primarina, L83, F|268/268
+|move|p2a: Magmortar|Knock Off|p1a: Primarina
+|-resisted|p1a: Primarina
+|-damage|p1a: Primarina|228/268
+|-enditem|p1a: Primarina|Leftovers|[from] move: Knock Off|[of] p2a: Magmortar
+|
+|upkeep
+|turn|7
+|
+|t:|1776975663
+|switch|p2a: Flapple|Flapple, L88, F|266/266
+|move|p1a: Primarina|Psychic Noise|p2a: Flapple
+|-resisted|p2a: Flapple
+|-damage|p2a: Flapple|237/266
+|-start|p2a: Flapple|move: Heal Block
+|
+|upkeep
+|turn|8
+|inactive|zsxl has 90 seconds left.
+|
+|t:|1776975680
+|move|p2a: Flapple|Grav Apple|p1a: Primarina
+|-supereffective|p1a: Primarina
+|-damage|p1a: Primarina|0 fnt
+|faint|p1a: Primarina
+|
+|-end|p2a: Flapple|move: Heal Block
+|upkeep
+|
+|t:|1776975687
+|switch|p1a: Typhlosion|Typhlosion-Hisui, L83, M|257/257
+|turn|9
+|inactive|zsxl has 90 seconds left.
+|
+|t:|1776975714
+|-terastallize|p2a: Flapple|Fire
+|move|p1a: Typhlosion|Eruption|p2a: Flapple
+|-resisted|p2a: Flapple
+|-damage|p2a: Flapple|64/266
+|move|p2a: Flapple|Outrage|p1a: Typhlosion
+|-damage|p1a: Typhlosion|0 fnt
+|faint|p1a: Typhlosion
+|
+|upkeep
+|inactive|Euzebio98 has 120 seconds left.
+|
+|t:|1776975753
+|switch|p1a: Flygon|Flygon, L82, M|265/265
+|turn|10
+|
+|t:|1776975757
+|move|p1a: Flygon|Earthquake|p2a: Flapple
+|-supereffective|p2a: Flapple
+|-damage|p2a: Flapple|0 fnt
+|faint|p2a: Flapple
+|
+|upkeep
+|
+|t:|1776975762
+|switch|p2a: Cetitan|Cetitan, L82, F|354/412
+|turn|11
+|
+|t:|1776975774
+|switch|p1a: Empoleon|Empoleon, L84, M|278/278
+|move|p2a: Cetitan|Ice Spinner|p1a: Empoleon
+|-resisted|p1a: Empoleon
+|-damage|p1a: Empoleon|254/278
+|
+|-heal|p1a: Empoleon|271/278|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776975791
+|switch|p2a: Jirachi|Jirachi, L80|291/291
+|switch|p1a: Ceruledge|Ceruledge, L78, M|245/245
+|
+|upkeep
+|turn|13
+|
+|t:|1776975798
+|move|p2a: Jirachi|Protect|p2a: Jirachi
+|-singleturn|p2a: Jirachi|Protect
+|move|p1a: Ceruledge|Swords Dance|p1a: Ceruledge
+|-boost|p1a: Ceruledge|atk|2
+|
+|upkeep
+|turn|14
+|
+|t:|1776975818
+|switch|p2a: Avalugg|Avalugg-Hisui, L90, F|317/317
+|move|p1a: Ceruledge|Bitter Blade|p2a: Avalugg
+|-damage|p2a: Avalugg|218/317
+|
+|upkeep
+|turn|15
+|
+|t:|1776975828
+|move|p1a: Ceruledge|Close Combat|p2a: Avalugg
+|-supereffective|p2a: Avalugg
+|-damage|p2a: Avalugg|0 fnt
+|-unboost|p1a: Ceruledge|def|1
+|-unboost|p1a: Ceruledge|spd|1
+|faint|p2a: Avalugg
+|
+|upkeep
+|inactive|zsxl has 90 seconds left.
+|
+|t:|1776975847
+|switch|p2a: Magmortar|Magmortar, L88, M|141/275
+|turn|16
+|
+|t:|1776975866
+|move|p2a: Magmortar|Knock Off|p1a: Ceruledge
+|-supereffective|p1a: Ceruledge
+|-damage|p1a: Ceruledge|0 fnt
+|-enditem|p1a: Ceruledge|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Magmortar
+|faint|p1a: Ceruledge
+|
+|upkeep
+|
+|t:|1776975874
+|switch|p1a: Flygon|Flygon, L82, M|265/265
+|turn|17
+|
+|t:|1776975881
+|switch|p2a: Cetitan|Cetitan, L82, F|354/412
+|move|p1a: Flygon|Earthquake|p2a: Cetitan
+|-damage|p2a: Cetitan|228/412
+|
+|upkeep
+|turn|18
+|
+|t:|1776975904
+|switch|p1a: Empoleon|Empoleon, L84, M|271/278
+|move|p2a: Cetitan|Belly Drum|p2a: Cetitan
+|-damage|p2a: Cetitan|22/412
+|-setboost|p2a: Cetitan|atk|6|[from] move: Belly Drum
+|-enditem|p2a: Cetitan|Sitrus Berry|[eat]
+|-heal|p2a: Cetitan|125/412|[from] item: Sitrus Berry
+|
+|-heal|p1a: Empoleon|278/278|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1776975917
+|move|p2a: Cetitan|Earthquake|p1a: Empoleon
+|-supereffective|p1a: Empoleon
+|-damage|p1a: Empoleon|0 fnt
+|faint|p1a: Empoleon
+|
+|upkeep
+|
+|t:|1776975922
+|switch|p1a: Flygon|Flygon, L82, M|265/265
+|turn|20
+|
+|t:|1776975925
+|move|p2a: Cetitan|Ice Shard|p1a: Flygon
+|-supereffective|p1a: Flygon
+|-damage|p1a: Flygon|0 fnt
+|faint|p1a: Flygon
+|
+|win|zsxl
+|raw|Euzebio98's rating: 1395 &rarr; <strong>1373</strong><br />(-22 for losing)
+|raw|zsxl's rating: 1354 &rarr; <strong>1376</strong><br />(+22 for winning)
+|l|☆Euzebio98
+|player|p1|

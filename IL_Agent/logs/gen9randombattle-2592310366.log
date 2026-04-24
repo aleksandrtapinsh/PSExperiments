@@ -1,0 +1,196 @@
+|j|☆Valkyrie_Val
+|j|☆CaptainMoule-bite
+|t:|1776977795
+|gametype|singles
+|player|p1|Valkyrie_Val|lida|1674
+|player|p2|CaptainMoule-bite|swimmer|1704
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776977795
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Bellossom|Bellossom, L84, M|263/263
+|switch|p2a: Regidrago|Regidrago, L77|435/435
+|turn|1
+|
+|t:|1776977817
+|switch|p2a: Goodra|Goodra, L85, F|292/292
+|move|p1a: Bellossom|Strength Sap|p2a: Goodra
+|-ability|p2a: Goodra|Sap Sipper|boost
+|-boost|p2a: Goodra|atk|1
+|
+|upkeep
+|turn|2
+|
+|t:|1776977830
+|switch|p1a: Sandaconda|Sandaconda, L84, F|258/258
+|move|p2a: Goodra|Fire Blast|p1a: Sandaconda
+|-damage|p1a: Sandaconda|158/258
+|
+|-heal|p1a: Sandaconda|174/258|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776977839
+|move|p2a: Goodra|Power Whip|p1a: Sandaconda|[miss]
+|-miss|p2a: Goodra|p1a: Sandaconda
+|move|p1a: Sandaconda|Coil|p1a: Sandaconda
+|-boost|p1a: Sandaconda|atk|1
+|-boost|p1a: Sandaconda|def|1
+|-boost|p1a: Sandaconda|accuracy|1
+|
+|-heal|p1a: Sandaconda|190/258|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776977845
+|move|p2a: Goodra|Power Whip|p1a: Sandaconda
+|-supereffective|p1a: Sandaconda
+|-damage|p1a: Sandaconda|64/258
+|move|p1a: Sandaconda|Earthquake|p2a: Goodra
+|-damage|p2a: Goodra|94/292
+|
+|-heal|p1a: Sandaconda|80/258|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776977855
+|switch|p1a: Arbok|Arbok, L87, F|246/246
+|-ability|p1a: Arbok|Intimidate|boost
+|-unboost|p2a: Goodra|atk|1
+|move|p2a: Goodra|Power Whip|p1a: Arbok
+|-resisted|p1a: Arbok
+|-damage|p1a: Arbok|192/246
+|
+|-heal|p1a: Arbok|207/246|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776977865
+|switch|p2a: Bastiodon|Bastiodon, L89, M|252/252
+|move|p1a: Arbok|Coil|p1a: Arbok
+|-boost|p1a: Arbok|atk|1
+|-boost|p1a: Arbok|def|1
+|-boost|p1a: Arbok|accuracy|1
+|
+|-heal|p1a: Arbok|222/246|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776977870
+|move|p1a: Arbok|Earthquake|p2a: Bastiodon
+|-supereffective|p2a: Bastiodon
+|-damage|p2a: Bastiodon|16/252
+|move|p2a: Bastiodon|Iron Defense|p2a: Bastiodon
+|-boost|p2a: Bastiodon|def|2
+|
+|-heal|p1a: Arbok|237/246|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776977876
+|move|p1a: Arbok|Earthquake|p2a: Bastiodon
+|-supereffective|p2a: Bastiodon
+|-damage|p2a: Bastiodon|0 fnt
+|faint|p2a: Bastiodon
+|
+|-heal|p1a: Arbok|246/246|[from] item: Leftovers
+|upkeep
+|
+|t:|1776977887
+|switch|p2a: Goodra|Goodra, L85, F|94/292
+|turn|9
+|
+|t:|1776977893
+|move|p1a: Arbok|Earthquake|p2a: Goodra
+|-damage|p2a: Goodra|0 fnt
+|faint|p2a: Goodra
+|
+|upkeep
+|
+|t:|1776977901
+|switch|p2a: Zangoose|Zangoose, L85, M|263/263
+|turn|10
+|
+|t:|1776977907
+|move|p2a: Zangoose|Knock Off|p1a: Arbok
+|-damage|p1a: Arbok|183/246
+|-enditem|p1a: Arbok|Leftovers|[from] move: Knock Off|[of] p2a: Zangoose
+|move|p1a: Arbok|Gunk Shot|p2a: Zangoose
+|-damage|p2a: Zangoose|10/263
+|-status|p2a: Zangoose|psn
+|
+|-damage|p2a: Zangoose|0 fnt|[from] psn
+|faint|p2a: Zangoose
+|upkeep
+|
+|t:|1776977914
+|switch|p2a: Azumarill|Azumarill, L82, F|298/298
+|turn|11
+|
+|t:|1776977921
+|-terastallize|p1a: Arbok|Grass
+|-terastallize|p2a: Azumarill|Water
+|move|p1a: Arbok|Trailblaze|p2a: Azumarill
+|-supereffective|p2a: Azumarill
+|-damage|p2a: Azumarill|94/298
+|-boost|p1a: Arbok|spe|1
+|-enditem|p2a: Azumarill|Sitrus Berry|[eat]
+|-heal|p2a: Azumarill|168/298|[from] item: Sitrus Berry
+|move|p2a: Azumarill|Liquidation|p1a: Arbok
+|-resisted|p1a: Arbok
+|-damage|p1a: Arbok|132/246
+|
+|upkeep
+|turn|12
+|
+|t:|1776977937
+|move|p1a: Arbok|Trailblaze|p2a: Azumarill
+|-supereffective|p2a: Azumarill
+|-damage|p2a: Azumarill|0 fnt
+|-boost|p1a: Arbok|spe|1
+|faint|p2a: Azumarill
+|
+|upkeep
+|
+|t:|1776977940
+|switch|p2a: Regidrago|Regidrago, L77|435/435
+|turn|13
+|
+|t:|1776977944
+|move|p1a: Arbok|Gunk Shot|p2a: Regidrago
+|-damage|p2a: Regidrago|135/435
+|move|p2a: Regidrago|Dragon Dance|p2a: Regidrago
+|-boost|p2a: Regidrago|atk|1
+|-boost|p2a: Regidrago|spe|1
+|
+|upkeep
+|turn|14
+|
+|t:|1776977951
+|move|p1a: Arbok|Gunk Shot|p2a: Regidrago
+|-damage|p2a: Regidrago|0 fnt
+|faint|p2a: Regidrago
+|
+|upkeep
+|
+|t:|1776977953
+|switch|p2a: Leafeon|Leafeon, L88, M|258/258
+|turn|15
+|
+|t:|1776977957
+|move|p1a: Arbok|Gunk Shot|p2a: Leafeon
+|-supereffective|p2a: Leafeon
+|-damage|p2a: Leafeon|0 fnt
+|faint|p2a: Leafeon
+|
+|win|Valkyrie_Val
+|raw|Valkyrie_Val's rating: 1674 &rarr; <strong>1696</strong><br />(+22 for winning)
+|raw|CaptainMoule-bite's rating: 1704 &rarr; <strong>1682</strong><br />(-22 for losing)

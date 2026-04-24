@@ -1,0 +1,267 @@
+|j|☆Damarcuus
+|j|☆etyuteru
+|t:|1776979412
+|gametype|singles
+|player|p1|Damarcuus|266|1017
+|player|p2|etyuteru|169|1000
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776979412
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Salazzle|Salazzle, L83, F|249/249
+|switch|p2a: Bisharp|Bisharp, L79, M|232/232
+|turn|1
+|
+|t:|1776979431
+|switch|p2a: Basculin|Basculin-Blue-Striped, L86, F|261/261
+|move|p1a: Salazzle|Fire Blast|p2a: Basculin
+|-resisted|p2a: Basculin
+|-damage|p2a: Basculin|180/261
+|
+|upkeep
+|turn|2
+|
+|t:|1776979443
+|move|p2a: Basculin|Aqua Jet|p1a: Salazzle
+|-supereffective|p1a: Salazzle
+|-damage|p1a: Salazzle|21/249
+|move|p1a: Salazzle|Sludge Wave|p2a: Basculin
+|-damage|p2a: Basculin|32/261
+|
+|upkeep
+|turn|3
+|
+|t:|1776979456
+|switch|p1a: Vikavolt|Vikavolt, L83, F|263/263
+|move|p2a: Basculin|Aqua Jet|p1a: Vikavolt
+|-damage|p1a: Vikavolt|179/263
+|
+|upkeep
+|turn|4
+|
+|t:|1776979466
+|move|p2a: Basculin|Aqua Jet|p1a: Vikavolt
+|-damage|p1a: Vikavolt|85/263
+|move|p1a: Vikavolt|Thunderbolt|p2a: Basculin
+|-supereffective|p2a: Basculin
+|-damage|p2a: Basculin|0 fnt
+|faint|p2a: Basculin
+|
+|upkeep
+|
+|t:|1776979491
+|switch|p2a: Mudsdale|Mudsdale, L83, M|302/302
+|turn|5
+|
+|t:|1776979506
+|switch|p1a: Flygon|Flygon, L82, F|265/265
+|move|p2a: Mudsdale|Stone Edge|p1a: Flygon
+|-resisted|p1a: Flygon
+|-crit|p1a: Flygon
+|-damage|p1a: Flygon|191/265
+|
+|upkeep
+|turn|6
+|
+|t:|1776979535
+|switch|p2a: Gyarados|Gyarados, L79, M|280/280
+|-ability|p2a: Gyarados|Intimidate|boost
+|-unboost|p1a: Flygon|atk|1
+|move|p1a: Flygon|Outrage|p2a: Gyarados
+|-damage|p2a: Gyarados|189/280
+|
+|upkeep
+|turn|7
+|
+|t:|1776979563
+|move|p1a: Flygon|Outrage|p2a: Gyarados|[from] lockedmove
+|-damage|p2a: Gyarados|101/280
+|-start|p1a: Flygon|confusion|[fatigue]
+|-enditem|p1a: Flygon|Lum Berry|[eat]
+|-end|p1a: Flygon|confusion
+|move|p2a: Gyarados|Waterfall|p1a: Flygon
+|-damage|p1a: Flygon|94/265
+|
+|upkeep
+|turn|8
+|
+|t:|1776979579
+|switch|p1a: Grumpig|Grumpig, L92, F|297/297
+|move|p2a: Gyarados|Waterfall|p1a: Grumpig
+|-damage|p1a: Grumpig|194/297
+|
+|-heal|p1a: Grumpig|212/297|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776979596
+|switch|p2a: Bisharp|Bisharp, L79, M|232/232
+|move|p1a: Grumpig|Shadow Ball|p2a: Bisharp
+|-resisted|p2a: Bisharp
+|-damage|p2a: Bisharp|204/232
+|
+|-heal|p1a: Grumpig|230/297|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1776979606
+|move|p1a: Grumpig|Focus Blast|p2a: Bisharp|[miss]
+|-miss|p1a: Grumpig|p2a: Bisharp
+|move|p2a: Bisharp|Stealth Rock|p1a: Grumpig
+|-sidestart|p1: Damarcuus|move: Stealth Rock
+|
+|-heal|p1a: Grumpig|248/297|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776979622
+|-terastallize|p2a: Bisharp|Ghost
+|move|p2a: Bisharp|Sucker Punch|p1a: Grumpig
+|-supereffective|p1a: Grumpig
+|-damage|p1a: Grumpig|72/297
+|move|p1a: Grumpig|Focus Blast|p2a: Bisharp
+|-immune|p2a: Bisharp
+|
+|-heal|p1a: Grumpig|90/297|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776979636
+|move|p1a: Grumpig|Shadow Ball|p2a: Bisharp
+|-supereffective|p2a: Bisharp
+|-damage|p2a: Bisharp|88/232
+|move|p2a: Bisharp|Throat Chop|p1a: Grumpig
+|-supereffective|p1a: Grumpig
+|-damage|p1a: Grumpig|0 fnt
+|faint|p1a: Grumpig
+|
+|upkeep
+|
+|t:|1776979645
+|switch|p1a: Drednaw|Drednaw, L81, F|278/278
+|-damage|p1a: Drednaw|244/278|[from] Stealth Rock
+|turn|13
+|
+|t:|1776979654
+|move|p2a: Bisharp|Sucker Punch|p1a: Drednaw
+|-damage|p1a: Drednaw|162/278
+|move|p1a: Drednaw|Crunch|p2a: Bisharp
+|-supereffective|p2a: Bisharp
+|-damage|p2a: Bisharp|0 fnt
+|faint|p2a: Bisharp
+|
+|upkeep
+|
+|t:|1776979663
+|switch|p2a: Mudsdale|Mudsdale, L83, M|302/302
+|turn|14
+|
+|t:|1776979669
+|move|p1a: Drednaw|Liquidation|p2a: Mudsdale
+|-supereffective|p2a: Mudsdale
+|-damage|p2a: Mudsdale|120/302
+|-ability|p2a: Mudsdale|Stamina|boost
+|-boost|p2a: Mudsdale|def|1
+|move|p2a: Mudsdale|Roar|p1a: Drednaw
+|drag|p1a: Salazzle|Salazzle, L83, F|21/249
+|
+|-heal|p2a: Mudsdale|138/302|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1776979692
+|move|p1a: Salazzle|Fire Blast|p2a: Mudsdale
+|-damage|p2a: Mudsdale|0 fnt
+|faint|p2a: Mudsdale
+|
+|upkeep
+|
+|t:|1776979699
+|switch|p2a: Iron Boulder|Iron Boulder, L77|265/265
+|-enditem|p2a: Iron Boulder|Booster Energy
+|-activate|p2a: Iron Boulder|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Boulder|quarkdrivespe
+|turn|16
+|
+|t:|1776979714
+|switch|p1a: Bisharp|Bisharp, L79, M|232/232
+|-damage|p1a: Bisharp|218/232|[from] Stealth Rock
+|move|p2a: Iron Boulder|Mighty Cleave|p1a: Bisharp
+|-resisted|p1a: Bisharp
+|-damage|p1a: Bisharp|186/232
+|
+|upkeep
+|turn|17
+|
+|t:|1776979726
+|move|p2a: Iron Boulder|Close Combat|p1a: Bisharp
+|-supereffective|p1a: Bisharp
+|-damage|p1a: Bisharp|0 fnt
+|-unboost|p2a: Iron Boulder|def|1
+|-unboost|p2a: Iron Boulder|spd|1
+|faint|p1a: Bisharp
+|
+|upkeep
+|
+|t:|1776979738
+|switch|p1a: Flygon|Flygon, L82, F|94/265
+|-damage|p1a: Flygon|78/265|[from] Stealth Rock
+|turn|18
+|
+|t:|1776979753
+|move|p2a: Iron Boulder|Zen Headbutt|p1a: Flygon
+|-damage|p1a: Flygon|0 fnt
+|faint|p1a: Flygon
+|
+|upkeep
+|
+|t:|1776979760
+|switch|p1a: Drednaw|Drednaw, L81, F|162/278
+|-damage|p1a: Drednaw|128/278|[from] Stealth Rock
+|turn|19
+|
+|t:|1776979773
+|move|p2a: Iron Boulder|Close Combat|p1a: Drednaw
+|-supereffective|p1a: Drednaw
+|-damage|p1a: Drednaw|0 fnt
+|-unboost|p2a: Iron Boulder|def|1
+|-unboost|p2a: Iron Boulder|spd|1
+|faint|p1a: Drednaw
+|
+|upkeep
+|
+|t:|1776979780
+|switch|p1a: Vikavolt|Vikavolt, L83, F|85/263
+|turn|20
+|
+|t:|1776979791
+|move|p2a: Iron Boulder|Mighty Cleave|p1a: Vikavolt
+|-supereffective|p1a: Vikavolt
+|-damage|p1a: Vikavolt|0 fnt
+|faint|p1a: Vikavolt
+|
+|upkeep
+|
+|t:|1776979797
+|switch|p1a: Salazzle|Salazzle, L83, F|21/249
+|turn|21
+|
+|t:|1776979813
+|-terastallize|p1a: Salazzle|Grass
+|move|p2a: Iron Boulder|Mighty Cleave|p1a: Salazzle
+|-damage|p1a: Salazzle|0 fnt
+|faint|p1a: Salazzle
+|
+|win|etyuteru
+|raw|Damarcuus's rating: 1017 &rarr; <strong>1004</strong><br />(-13 for losing)
+|raw|etyuteru's rating: 1000 &rarr; <strong>1042</strong><br />(+42 for winning)
+|l|☆Damarcuus
+|player|p1|

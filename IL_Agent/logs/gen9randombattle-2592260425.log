@@ -1,0 +1,262 @@
+|j|☆krabsolfurretisme
+|j|☆blakeizcool
+|t:|1776974085
+|gametype|singles
+|player|p1|krabsolfurretisme|may-contest|1386
+|player|p2|blakeizcool|mira|1409
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776974085
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Gastrodon|Gastrodon-East, L86, M|331/331
+|switch|p2a: Iron Hands|Iron Hands, L79|373/373
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by krabsolfurretisme)
+|c|☆krabsolfurretisme|glhf
+|
+|t:|1776974094
+|move|p2a: Iron Hands|Fake Out|p1a: Gastrodon
+|-damage|p1a: Gastrodon|290/331
+|cant|p1a: Gastrodon|flinch
+|
+|-heal|p1a: Gastrodon|310/331|[from] item: Leftovers
+|upkeep
+|turn|2
+|c|☆blakeizcool|hf!
+|
+|t:|1776974112
+|-end|p2a: Iron Hands|Quark Drive|[silent]
+|switch|p2a: Braviary|Braviary-Hisui, L85, M|326/326
+|move|p1a: Gastrodon|Earthquake|p2a: Braviary
+|-immune|p2a: Braviary
+|
+|-heal|p1a: Gastrodon|330/331|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776974121
+|move|p2a: Braviary|Agility|p2a: Braviary
+|-boost|p2a: Braviary|spe|2
+|move|p1a: Gastrodon|Stealth Rock|p2a: Braviary
+|-sidestart|p2: blakeizcool|move: Stealth Rock
+|
+|-heal|p1a: Gastrodon|331/331|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776974128
+|move|p2a: Braviary|Psychic|p1a: Gastrodon
+|-damage|p1a: Gastrodon|140/331
+|move|p1a: Gastrodon|Surf|p2a: Braviary
+|-damage|p2a: Braviary|212/326
+|
+|-heal|p1a: Gastrodon|160/331|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776974136
+|move|p2a: Braviary|Psychic|p1a: Gastrodon
+|-damage|p1a: Gastrodon|0 fnt
+|faint|p1a: Gastrodon
+|
+|upkeep
+|
+|t:|1776974149
+|switch|p1a: Mesprit|Mesprit, L85|275/275
+|turn|6
+|
+|t:|1776974154
+|move|p2a: Braviary|Hurricane|p1a: Mesprit
+|-damage|p1a: Mesprit|68/275
+|move|p1a: Mesprit|Shadow Ball|p2a: Braviary
+|-supereffective|p2a: Braviary
+|-damage|p2a: Braviary|0 fnt
+|faint|p2a: Braviary
+|
+|upkeep
+|
+|t:|1776974166
+|switch|p2a: Noivern|Noivern, L82, M|274/274
+|turn|7
+|
+|t:|1776974171
+|move|p2a: Noivern|Hurricane|p1a: Mesprit
+|-damage|p1a: Mesprit|0 fnt
+|faint|p1a: Mesprit
+|
+|upkeep
+|
+|t:|1776974177
+|switch|p1a: Terrakion|Terrakion, L79|273/273
+|turn|8
+|
+|t:|1776974183
+|move|p2a: Noivern|Draco Meteor|p1a: Terrakion
+|-damage|p1a: Terrakion|144/273
+|-unboost|p2a: Noivern|spa|2
+|move|p1a: Terrakion|Stone Edge|p2a: Noivern
+|-supereffective|p2a: Noivern
+|-damage|p2a: Noivern|0 fnt
+|faint|p2a: Noivern
+|-damage|p1a: Terrakion|117/273|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776974196
+|switch|p2a: Iron Hands|Iron Hands, L79|373/373
+|-damage|p2a: Iron Hands|350/373|[from] Stealth Rock
+|turn|9
+|inactive|blakeizcool has 120 seconds left.
+|inactive|blakeizcool has 90 seconds left.
+|
+|t:|1776974266
+|move|p2a: Iron Hands|Fake Out|p1a: Terrakion
+|-resisted|p1a: Terrakion
+|-damage|p1a: Terrakion|99/273
+|cant|p1a: Terrakion|flinch
+|
+|upkeep
+|turn|10
+|
+|t:|1776974271
+|move|p1a: Terrakion|Earthquake|p2a: Iron Hands
+|-supereffective|p2a: Iron Hands
+|-damage|p2a: Iron Hands|147/373
+|-damage|p1a: Terrakion|72/273|[from] item: Life Orb
+|move|p2a: Iron Hands|Drain Punch|p1a: Terrakion
+|-supereffective|p1a: Terrakion
+|-damage|p1a: Terrakion|0 fnt
+|-heal|p2a: Iron Hands|183/373|[from] drain|[of] p1a: Terrakion
+|faint|p1a: Terrakion
+|
+|upkeep
+|
+|t:|1776974282
+|switch|p1a: Brambleghast|Brambleghast, L88, F|240/240
+|turn|11
+|
+|t:|1776974285
+|move|p1a: Brambleghast|Strength Sap|p2a: Iron Hands
+|-unboost|p2a: Iron Hands|atk|1
+|move|p2a: Iron Hands|Volt Switch|p1a: Brambleghast
+|-resisted|p1a: Brambleghast
+|-damage|p1a: Brambleghast|216/240
+|
+|t:|1776974296
+|-end|p2a: Iron Hands|Quark Drive|[silent]
+|switch|p2a: Zekrom|Zekrom, L71|259/259|[from] Volt Switch
+|-damage|p2a: Zekrom|227/259|[from] Stealth Rock
+|-ability|p2a: Zekrom|Teravolt
+|
+|-heal|p2a: Zekrom|243/259|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776974312
+|move|p1a: Brambleghast|Strength Sap|p2a: Zekrom
+|-unboost|p2a: Zekrom|atk|1
+|-heal|p1a: Brambleghast|240/240
+|move|p2a: Zekrom|Dragon Dance|p2a: Zekrom
+|-boost|p2a: Zekrom|atk|1
+|-boost|p2a: Zekrom|spe|1
+|
+|-heal|p2a: Zekrom|259/259|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776974320
+|move|p2a: Zekrom|Dragon Dance|p2a: Zekrom
+|-boost|p2a: Zekrom|atk|1
+|-boost|p2a: Zekrom|spe|1
+|move|p1a: Brambleghast|Strength Sap|p2a: Zekrom
+|-unboost|p2a: Zekrom|atk|1
+|
+|upkeep
+|turn|14
+|
+|t:|1776974326
+|move|p2a: Zekrom|Dragon Dance|p2a: Zekrom
+|-boost|p2a: Zekrom|atk|1
+|-boost|p2a: Zekrom|spe|1
+|move|p1a: Brambleghast|Poltergeist|p2a: Zekrom
+|-activate|p2a: Zekrom|move: Poltergeist|Leftovers
+|-damage|p2a: Zekrom|127/259
+|
+|-heal|p2a: Zekrom|143/259|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1776974343
+|move|p2a: Zekrom|Substitute|p2a: Zekrom
+|-start|p2a: Zekrom|Substitute
+|-damage|p2a: Zekrom|79/259
+|move|p1a: Brambleghast|Strength Sap||[still]
+|-fail|p1a: Brambleghast
+|
+|-heal|p2a: Zekrom|95/259|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776974351
+|move|p2a: Zekrom|Dragon Dance|p2a: Zekrom
+|-boost|p2a: Zekrom|atk|1
+|-boost|p2a: Zekrom|spe|1
+|move|p1a: Brambleghast|Poltergeist|p2a: Zekrom
+|-activate|p2a: Zekrom|move: Poltergeist|Leftovers
+|-end|p2a: Zekrom|Substitute
+|
+|-heal|p2a: Zekrom|111/259|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1776974359
+|move|p2a: Zekrom|Outrage|p1a: Brambleghast
+|-damage|p1a: Brambleghast|0 fnt
+|faint|p1a: Brambleghast
+|
+|-heal|p2a: Zekrom|127/259|[from] item: Leftovers
+|upkeep
+|
+|t:|1776974364
+|switch|p1a: Malamar|Malamar, L82, F|275/275
+|turn|18
+|
+|t:|1776974385
+|move|p2a: Zekrom|Outrage|p1a: Malamar|[from] lockedmove
+|-damage|p1a: Malamar|0 fnt
+|faint|p1a: Malamar
+|
+|-heal|p2a: Zekrom|143/259|[from] item: Leftovers
+|upkeep
+|
+|t:|1776974387
+|switch|p1a: Hitmonchan|Hitmonchan, L87, M|229/229
+|turn|19
+|
+|t:|1776974392
+|-terastallize|p1a: Hitmonchan|Fighting
+|move|p1a: Hitmonchan|Mach Punch|p2a: Zekrom
+|-damage|p2a: Zekrom|47/259
+|-damage|p1a: Hitmonchan|207/229|[from] item: Life Orb
+|move|p2a: Zekrom|Outrage|p1a: Hitmonchan|[from] lockedmove
+|-damage|p1a: Hitmonchan|0 fnt
+|faint|p1a: Hitmonchan
+|-start|p2a: Zekrom|confusion|[fatigue]
+|
+|win|blakeizcool
+|raw|krabsolfurretisme's rating: 1386 &rarr; <strong>1367</strong><br />(-19 for losing)
+|raw|blakeizcool's rating: 1409 &rarr; <strong>1428</strong><br />(+19 for winning)
+|c|☆blakeizcool|gg
+|c|☆krabsolfurretisme|gg
+|c|☆blakeizcool|run it back?
+|l|☆blakeizcool
+|player|p2|
+|c|☆krabsolfurretisme|sure

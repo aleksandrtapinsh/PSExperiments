@@ -1,0 +1,185 @@
+|j|☆plabomile
+|j|☆heehehaaha
+|t:|1776982604
+|gametype|singles
+|player|p1|plabomile|266|1504
+|player|p2|heehehaaha|ethan|1523
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776982604
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Regirock|Regirock, L83|268/268
+|switch|p2a: Iron Boulder|Iron Boulder, L77|265/265
+|turn|1
+|
+|t:|1776982615
+|-end|p2a: Iron Boulder|Quark Drive|[silent]
+|switch|p2a: Iron Thorns|Iron Thorns, L83|302/302
+|-item|p2a: Iron Thorns|Air Balloon
+|move|p1a: Regirock|Thunder Wave|p2a: Iron Thorns
+|-immune|p2a: Iron Thorns
+|
+|upkeep
+|turn|2
+|
+|t:|1776982626
+|-end|p2a: Iron Thorns|Quark Drive|[silent]
+|switch|p2a: Typhlosion|Typhlosion-Hisui, L83, F|257/257
+|move|p1a: Regirock|Body Press|p2a: Typhlosion
+|-immune|p2a: Typhlosion
+|
+|upkeep
+|turn|3
+|
+|t:|1776982629
+|move|p2a: Typhlosion|Substitute|p2a: Typhlosion
+|-start|p2a: Typhlosion|Substitute
+|-damage|p2a: Typhlosion|193/257
+|move|p1a: Regirock|Thunder Wave||[still]
+|-fail|p1a: Regirock
+|
+|-heal|p2a: Typhlosion|209/257|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776982635
+|move|p2a: Typhlosion|Calm Mind|p2a: Typhlosion
+|-boost|p2a: Typhlosion|spa|1
+|-boost|p2a: Typhlosion|spd|1
+|move|p1a: Regirock|Stone Edge|p2a: Typhlosion|[miss]
+|-miss|p1a: Regirock|p2a: Typhlosion
+|
+|-heal|p2a: Typhlosion|225/257|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776982639
+|move|p2a: Typhlosion|Shadow Ball|p1a: Regirock
+|-damage|p1a: Regirock|123/268
+|move|p1a: Regirock|Stone Edge|p2a: Typhlosion
+|-supereffective|p2a: Typhlosion
+|-end|p2a: Typhlosion|Substitute
+|
+|-heal|p2a: Typhlosion|241/257|[from] item: Leftovers
+|-heal|p1a: Regirock|139/268|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776982655
+|switch|p1a: Regigigas|Regigigas, L84|322/322
+|-start|p1a: Regigigas|ability: Slow Start
+|move|p2a: Typhlosion|Shadow Ball|p1a: Regigigas
+|-immune|p1a: Regigigas
+|
+|-heal|p2a: Typhlosion|257/257|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776982664
+|move|p2a: Typhlosion|Fire Blast|p1a: Regigigas
+|-damage|p1a: Regigigas|166/322
+|move|p1a: Regigigas|Knock Off|p2a: Typhlosion
+|-supereffective|p2a: Typhlosion
+|-damage|p2a: Typhlosion|141/257
+|-enditem|p2a: Typhlosion|Leftovers|[from] move: Knock Off|[of] p1a: Regigigas
+|
+|-heal|p1a: Regigigas|186/322|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776982671
+|move|p2a: Typhlosion|Substitute|p2a: Typhlosion
+|-start|p2a: Typhlosion|Substitute
+|-damage|p2a: Typhlosion|77/257
+|move|p1a: Regigigas|Knock Off|p2a: Typhlosion
+|-supereffective|p2a: Typhlosion
+|-end|p2a: Typhlosion|Substitute
+|
+|-heal|p1a: Regigigas|206/322|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776982676
+|move|p2a: Typhlosion|Fire Blast|p1a: Regigigas
+|-damage|p1a: Regigigas|0 fnt
+|faint|p1a: Regigigas
+|-end|p1a: Regigigas|Slow Start|[silent]
+|
+|upkeep
+|
+|t:|1776982687
+|switch|p1a: Primarina|Primarina, L83, M|268/268
+|turn|10
+|
+|t:|1776982695
+|switch|p2a: Swanna|Swanna, L89, F|278/278
+|move|p1a: Primarina|Flip Turn|p2a: Swanna
+|-resisted|p2a: Swanna
+|-damage|p2a: Swanna|248/278
+|
+|t:|1776982698
+|switch|p1a: Misdreavus|Misdreavus, L90, F|254/254|[from] Flip Turn
+|
+|upkeep
+|turn|11
+|
+|t:|1776982705
+|switch|p2a: Zangoose|Zangoose, L85, M|263/263
+|move|p1a: Misdreavus|Calm Mind|p1a: Misdreavus
+|-boost|p1a: Misdreavus|spa|1
+|-boost|p1a: Misdreavus|spd|1
+|
+|-status|p2a: Zangoose|tox|[from] item: Toxic Orb
+|upkeep
+|turn|12
+|
+|t:|1776982711
+|move|p1a: Misdreavus|Draining Kiss|p2a: Zangoose
+|-damage|p2a: Zangoose|194/263 tox
+|move|p2a: Zangoose|Knock Off|p1a: Misdreavus
+|-supereffective|p1a: Misdreavus
+|-damage|p1a: Misdreavus|48/254
+|-enditem|p1a: Misdreavus|Eviolite|[from] move: Knock Off|[of] p2a: Zangoose
+|
+|-damage|p2a: Zangoose|178/263 tox|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1776982719
+|move|p1a: Misdreavus|Draining Kiss|p2a: Zangoose
+|-damage|p2a: Zangoose|104/263 tox
+|-heal|p1a: Misdreavus|104/254|[from] drain|[of] p2a: Zangoose
+|move|p2a: Zangoose|Knock Off|p1a: Misdreavus
+|-supereffective|p1a: Misdreavus
+|-damage|p1a: Misdreavus|0 fnt
+|faint|p1a: Misdreavus
+|
+|-damage|p2a: Zangoose|72/263 tox|[from] psn
+|upkeep
+|
+|t:|1776982724
+|switch|p1a: Primarina|Primarina, L83, M|268/268
+|turn|14
+|
+|t:|1776982729
+|move|p2a: Zangoose|Facade|p1a: Primarina
+|-damage|p1a: Primarina|0 fnt
+|faint|p1a: Primarina
+|
+|-damage|p2a: Zangoose|24/263 tox|[from] psn
+|upkeep
+|-message|plabomile forfeited.
+|
+|win|heehehaaha
+|raw|plabomile's rating: 1504 &rarr; <strong>1485</strong><br />(-19 for losing)
+|raw|heehehaaha's rating: 1523 &rarr; <strong>1542</strong><br />(+19 for winning)
+|l|☆plabomile
+|player|p1|

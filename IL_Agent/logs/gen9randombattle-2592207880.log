@@ -1,0 +1,377 @@
+|j|☆Pr_phets
+|j|☆ChrisLongnos3
+|t:|1776970438
+|gametype|singles
+|player|p1|Pr_phets|cynthia|
+|player|p2|ChrisLongnos3|marshal|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776970438
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Hydreigon|Hydreigon, L79, M|275/275
+|switch|p2a: Kilowattrel|Kilowattrel, L83, F|252/252
+|turn|1
+|
+|t:|1776970475
+|move|p2a: Kilowattrel|U-turn|p1a: Hydreigon
+|-supereffective|p1a: Hydreigon
+|-damage|p1a: Hydreigon|195/275
+|
+|t:|1776970478
+|switch|p2a: Snorlax|Snorlax, L82, F|397/397|[from] U-turn
+|move|p1a: Hydreigon|Dark Pulse|p2a: Snorlax
+|-damage|p2a: Snorlax|271/397
+|
+|-heal|p2a: Snorlax|295/397|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776970534
+|switch|p1a: Calyrex|Calyrex-Shadow, L64|235/235
+|-ability|p1a: Calyrex|As One
+|-ability|p1a: Calyrex|Unnerve
+|move|p2a: Snorlax|Body Slam|p1a: Calyrex
+|-immune|p1a: Calyrex
+|
+|-heal|p2a: Snorlax|319/397|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776970573
+|switch|p2a: Vigoroth|Vigoroth, L85, M|275/275
+|move|p1a: Calyrex|Trick|p2a: Vigoroth
+|-activate|p1a: Calyrex|move: Trick|[of] p2a: Vigoroth
+|-item|p2a: Vigoroth|Choice Specs|[from] move: Trick
+|-item|p1a: Calyrex|Eviolite|[from] move: Trick
+|
+|upkeep
+|turn|4
+|
+|t:|1776970593
+|move|p1a: Calyrex|Pollen Puff|p2a: Vigoroth
+|-damage|p2a: Vigoroth|190/275
+|move|p2a: Vigoroth|Knock Off|p1a: Calyrex
+|-supereffective|p1a: Calyrex
+|-damage|p1a: Calyrex|0 fnt
+|-enditem|p1a: Calyrex|Eviolite|[from] move: Knock Off|[of] p2a: Vigoroth
+|faint|p1a: Calyrex
+|
+|upkeep
+|
+|t:|1776970604
+|switch|p1a: Tinkaton|Tinkaton, L82, F|274/274
+|-ability|p1a: Tinkaton|Mold Breaker
+|turn|5
+|
+|t:|1776970612
+|move|p2a: Vigoroth|Knock Off|p1a: Tinkaton
+|-resisted|p1a: Tinkaton
+|-damage|p1a: Tinkaton|237/274
+|-enditem|p1a: Tinkaton|Leftovers|[from] move: Knock Off|[of] p2a: Vigoroth
+|move|p1a: Tinkaton|Stealth Rock|p2a: Vigoroth
+|-sidestart|p2: ChrisLongnos3|move: Stealth Rock
+|
+|upkeep
+|turn|6
+|
+|t:|1776970645
+|switch|p2a: Mudsdale|Mudsdale, L83, F|302/302
+|-damage|p2a: Mudsdale|284/302|[from] Stealth Rock
+|move|p1a: Tinkaton|Play Rough|p2a: Mudsdale
+|-damage|p2a: Mudsdale|218/302
+|-ability|p2a: Mudsdale|Stamina|boost
+|-boost|p2a: Mudsdale|def|1
+|
+|-heal|p2a: Mudsdale|236/302|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776970661
+|move|p1a: Tinkaton|Knock Off|p2a: Mudsdale
+|-damage|p2a: Mudsdale|200/302
+|-ability|p2a: Mudsdale|Stamina|boost
+|-boost|p2a: Mudsdale|def|1
+|-enditem|p2a: Mudsdale|Leftovers|[from] move: Knock Off|[of] p1a: Tinkaton
+|move|p2a: Mudsdale|Earthquake|p1a: Tinkaton
+|-supereffective|p1a: Tinkaton
+|-damage|p1a: Tinkaton|0 fnt
+|faint|p1a: Tinkaton
+|
+|upkeep
+|
+|t:|1776970682
+|switch|p1a: Eiscue|Eiscue, L88, F|274/274
+|turn|8
+|
+|t:|1776970719
+|-terastallize|p1a: Eiscue|Water
+|-terastallize|p2a: Mudsdale|Steel
+|move|p1a: Eiscue|Belly Drum|p1a: Eiscue
+|-damage|p1a: Eiscue|137/274
+|-setboost|p1a: Eiscue|atk|6|[from] move: Belly Drum
+|-enditem|p1a: Eiscue|Sitrus Berry|[eat]
+|-heal|p1a: Eiscue|205/274|[from] item: Sitrus Berry
+|move|p2a: Mudsdale|Roar|p1a: Eiscue
+|drag|p1a: Pawmot|Pawmot, L80, F|243/243
+|
+|upkeep
+|turn|9
+|
+|t:|1776970733
+|move|p1a: Pawmot|Close Combat|p2a: Mudsdale
+|-supereffective|p2a: Mudsdale
+|-damage|p2a: Mudsdale|66/302
+|-unboost|p1a: Pawmot|def|1
+|-unboost|p1a: Pawmot|spd|1
+|-ability|p2a: Mudsdale|Stamina|boost
+|-boost|p2a: Mudsdale|def|1
+|move|p2a: Mudsdale|Earthquake|p1a: Pawmot
+|-supereffective|p1a: Pawmot
+|-damage|p1a: Pawmot|0 fnt
+|faint|p1a: Pawmot
+|
+|upkeep
+|
+|t:|1776970744
+|switch|p1a: Eiscue|Eiscue, L88, F, tera:Water|205/274
+|turn|10
+|
+|t:|1776970753
+|move|p1a: Eiscue|Liquidation|p2a: Mudsdale
+|-damage|p2a: Mudsdale|33/302
+|-ability|p2a: Mudsdale|Stamina|boost
+|-boost|p2a: Mudsdale|def|1
+|move|p2a: Mudsdale|Roar|p1a: Eiscue
+|drag|p1a: Hydreigon|Hydreigon, L79, M|195/275
+|
+|upkeep
+|turn|11
+|
+|t:|1776970763
+|move|p1a: Hydreigon|Fire Blast|p2a: Mudsdale
+|-supereffective|p2a: Mudsdale
+|-damage|p2a: Mudsdale|0 fnt
+|faint|p2a: Mudsdale
+|
+|upkeep
+|
+|t:|1776970796
+|switch|p2a: Registeel|Registeel, L81|262/262
+|-damage|p2a: Registeel|246/262|[from] Stealth Rock
+|turn|12
+|
+|t:|1776970807
+|switch|p2a: Moltres|Moltres, L81|278/278
+|move|p1a: Hydreigon|Fire Blast|p2a: Moltres
+|-resisted|p2a: Moltres
+|-damage|p2a: Moltres|206/278
+|
+|upkeep
+|turn|13
+|
+|t:|1776970823
+|switch|p1a: Eiscue|Eiscue, L88, F, tera:Water|205/274
+|move|p2a: Moltres|Brave Bird|p1a: Eiscue
+|-activate|p1a: Eiscue|ability: Ice Face
+|-damage|p1a: Eiscue|205/274
+|detailschange|p1a: Eiscue|Eiscue-Noice, L88, F, tera:Water
+|
+|upkeep
+|turn|14
+|
+|t:|1776970844
+|switch|p2a: Snorlax|Snorlax, L82, F|319/397
+|-damage|p2a: Snorlax|270/397|[from] Stealth Rock
+|move|p1a: Eiscue|Liquidation|p2a: Snorlax
+|-damage|p2a: Snorlax|150/397
+|-unboost|p2a: Snorlax|def|1
+|
+|-heal|p2a: Snorlax|174/397|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1776970862
+|move|p1a: Eiscue|Zen Headbutt|p2a: Snorlax
+|-damage|p2a: Snorlax|62/397
+|move|p2a: Snorlax|Curse|p2a: Snorlax
+|-unboost|p2a: Snorlax|spe|1
+|-boost|p2a: Snorlax|atk|1
+|-boost|p2a: Snorlax|def|1
+|
+|-heal|p2a: Snorlax|86/397|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776970871
+|move|p1a: Eiscue|Zen Headbutt|p2a: Snorlax
+|-damage|p2a: Snorlax|14/397
+|move|p2a: Snorlax|Rest|p2a: Snorlax
+|-status|p2a: Snorlax|slp|[from] move: Rest
+|-heal|p2a: Snorlax|397/397 slp|[silent]
+|
+|upkeep
+|turn|17
+|
+|t:|1776970882
+|move|p1a: Eiscue|Belly Drum|p1a: Eiscue
+|-damage|p1a: Eiscue|68/274
+|-setboost|p1a: Eiscue|atk|6|[from] move: Belly Drum
+|cant|p2a: Snorlax|slp
+|move|p2a: Snorlax|Sleep Talk|p2a: Snorlax
+|move|p2a: Snorlax|Body Slam|p1a: Eiscue|[from] move: Sleep Talk
+|-damage|p1a: Eiscue|0 fnt
+|faint|p1a: Eiscue
+|
+|upkeep
+|
+|t:|1776970906
+|switch|p1a: Sudowoodo|Sudowoodo, L94, F|284/284
+|turn|18
+|
+|t:|1776970918
+|move|p1a: Sudowoodo|Earthquake|p2a: Snorlax
+|-crit|p2a: Snorlax
+|-damage|p2a: Snorlax|144/397 slp
+|cant|p2a: Snorlax|slp
+|move|p2a: Snorlax|Sleep Talk|p2a: Snorlax
+|move|p2a: Snorlax|Curse|p2a: Snorlax|[from] move: Sleep Talk
+|-unboost|p2a: Snorlax|spe|1
+|-boost|p2a: Snorlax|atk|1
+|-boost|p2a: Snorlax|def|1
+|
+|-heal|p2a: Snorlax|168/397 slp|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1776970929
+|move|p1a: Sudowoodo|Earthquake|p2a: Snorlax
+|-damage|p2a: Snorlax|63/397 slp
+|-curestatus|p2a: Snorlax|slp|[msg]
+|move|p2a: Snorlax|Sleep Talk||[still]
+|-fail|p2a: Snorlax
+|
+|-heal|p2a: Snorlax|87/397|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1776970937
+|move|p1a: Sudowoodo|Earthquake|p2a: Snorlax
+|-damage|p2a: Snorlax|0 fnt
+|faint|p2a: Snorlax
+|
+|upkeep
+|
+|t:|1776970947
+|switch|p2a: Vigoroth|Vigoroth, L85, M|190/275
+|-damage|p2a: Vigoroth|156/275|[from] Stealth Rock
+|turn|21
+|j| Ayano_aiashi
+|
+|t:|1776970956
+|move|p2a: Vigoroth|Knock Off|p1a: Sudowoodo
+|-damage|p1a: Sudowoodo|238/284
+|-enditem|p1a: Sudowoodo|Choice Band|[from] move: Knock Off|[of] p2a: Vigoroth
+|move|p1a: Sudowoodo|Earthquake|p2a: Vigoroth
+|-damage|p2a: Vigoroth|59/275
+|
+|upkeep
+|turn|22
+|
+|t:|1776970963
+|move|p1a: Sudowoodo|Sucker Punch|p2a: Vigoroth
+|-damage|p2a: Vigoroth|0 fnt
+|faint|p2a: Vigoroth
+|
+|upkeep
+|
+|t:|1776970970
+|switch|p2a: Moltres|Moltres, L81|206/278
+|turn|23
+|
+|t:|1776970976
+|move|p1a: Sudowoodo|Sucker Punch|p2a: Moltres
+|-damage|p2a: Moltres|143/278
+|-status|p1a: Sudowoodo|brn|[from] ability: Flame Body|[of] p2a: Moltres
+|move|p2a: Moltres|Scorching Sands|p1a: Sudowoodo
+|-supereffective|p1a: Sudowoodo
+|-damage|p1a: Sudowoodo|102/284 brn
+|
+|-damage|p1a: Sudowoodo|85/284 brn|[from] brn
+|upkeep
+|turn|24
+|
+|t:|1776970985
+|move|p1a: Sudowoodo|Sucker Punch||[still]
+|-fail|p1a: Sudowoodo
+|move|p2a: Moltres|Roost|p2a: Moltres
+|-heal|p2a: Moltres|278/278
+|-singleturn|p2a: Moltres|move: Roost
+|
+|-damage|p1a: Sudowoodo|68/284 brn|[from] brn
+|upkeep
+|turn|25
+|
+|t:|1776970998
+|move|p2a: Moltres|Scorching Sands|p1a: Sudowoodo
+|-supereffective|p1a: Sudowoodo
+|-damage|p1a: Sudowoodo|0 fnt
+|faint|p1a: Sudowoodo
+|
+|upkeep
+|
+|t:|1776971002
+|switch|p1a: Hydreigon|Hydreigon, L79, M|195/275
+|turn|26
+|
+|t:|1776971012
+|move|p1a: Hydreigon|Dark Pulse|p2a: Moltres
+|-crit|p2a: Moltres
+|-damage|p2a: Moltres|40/278
+|cant|p2a: Moltres|flinch
+|
+|upkeep
+|turn|27
+|
+|t:|1776971019
+|move|p1a: Hydreigon|Dark Pulse|p2a: Moltres
+|-damage|p2a: Moltres|0 fnt
+|faint|p2a: Moltres
+|
+|upkeep
+|
+|t:|1776971029
+|switch|p2a: Kilowattrel|Kilowattrel, L83, F|252/252
+|turn|28
+|
+|t:|1776971036
+|move|p2a: Kilowattrel|U-turn|p1a: Hydreigon
+|-supereffective|p1a: Hydreigon
+|-damage|p1a: Hydreigon|117/275
+|
+|t:|1776971039
+|switch|p2a: Registeel|Registeel, L81|246/262|[from] U-turn
+|-damage|p2a: Registeel|230/262|[from] Stealth Rock
+|move|p1a: Hydreigon|Dark Pulse|p2a: Registeel
+|-damage|p2a: Registeel|142/262
+|
+|upkeep
+|turn|29
+|
+|t:|1776971047
+|move|p1a: Hydreigon|Dark Pulse|p2a: Registeel
+|-damage|p2a: Registeel|46/262
+|move|p2a: Registeel|Body Press|p1a: Hydreigon
+|-supereffective|p1a: Hydreigon
+|-damage|p1a: Hydreigon|0 fnt
+|faint|p1a: Hydreigon
+|
+|win|ChrisLongnos3
+|l|☆Pr_phets
+|player|p1|

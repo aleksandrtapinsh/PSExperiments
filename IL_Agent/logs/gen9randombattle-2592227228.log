@@ -1,0 +1,276 @@
+|j|☆Papiloco
+|j|☆wrtbrt
+|t:|1776971771
+|gametype|singles
+|player|p1|Papiloco|#rbtt9moons|
+|player|p2|wrtbrt|pokemaniac|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776971771
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Diancie|Diancie, L82|216/216
+|switch|p2a: Iron Leaves|Iron Leaves, L80|275/275
+|turn|1
+|c|☆wrtbrt|glhf
+|c|☆Papiloco|u2
+|
+|t:|1776971850
+|-end|p2a: Iron Leaves|Quark Drive|[silent]
+|switch|p2a: Electivire|Electivire, L84, M|263/263
+|switch|p1a: Breloom|Breloom, L83, F|235/235
+|
+|upkeep
+|turn|2
+|
+|t:|1776971894
+|switch|p1a: Sableye|Sableye, L88, M|231/231
+|move|p2a: Electivire|Ice Punch|p1a: Sableye
+|-damage|p1a: Sableye|137/231
+|-damage|p2a: Electivire|237/263|[from] item: Life Orb
+|
+|-heal|p1a: Sableye|151/231|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776971907
+|switch|p2a: Milotic|Milotic, L83, M|293/293
+|move|p1a: Sableye|Will-O-Wisp|p2a: Milotic
+|-status|p2a: Milotic|brn
+|
+|-heal|p1a: Sableye|165/231|[from] item: Leftovers
+|-damage|p2a: Milotic|275/293 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1776971953
+|move|p2a: Milotic|Scald|p1a: Sableye
+|-damage|p1a: Sableye|72/231
+|-status|p1a: Sableye|brn
+|move|p1a: Sableye|Knock Off|p2a: Milotic
+|-damage|p2a: Milotic|220/293 brn
+|-enditem|p2a: Milotic|Leftovers|[from] move: Knock Off|[of] p1a: Sableye
+|
+|-heal|p1a: Sableye|86/231 brn|[from] item: Leftovers
+|-damage|p2a: Milotic|202/293 brn|[from] brn
+|-damage|p1a: Sableye|72/231 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1776971970
+|move|p1a: Sableye|Recover|p1a: Sableye
+|-heal|p1a: Sableye|188/231 brn
+|move|p2a: Milotic|Scald|p1a: Sableye
+|-damage|p1a: Sableye|82/231 brn
+|
+|-heal|p1a: Sableye|96/231 brn|[from] item: Leftovers
+|-damage|p2a: Milotic|184/293 brn|[from] brn
+|-damage|p1a: Sableye|82/231 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1776972013
+|switch|p1a: Breloom|Breloom, L83, F|235/235
+|move|p2a: Milotic|Dragon Tail|p1a: Breloom
+|-damage|p1a: Breloom|219/235
+|drag|p1a: Diancie|Diancie, L82|216/216
+|
+|-damage|p2a: Milotic|166/293 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1776972042
+|switch|p1a: Sableye|Sableye, L88, M|82/231 brn
+|move|p2a: Milotic|Scald|p1a: Sableye
+|-damage|p1a: Sableye|0 fnt
+|faint|p1a: Sableye
+|
+|-damage|p2a: Milotic|148/293 brn|[from] brn
+|upkeep
+|
+|t:|1776972047
+|switch|p1a: Breloom|Breloom, L83, F|219/235
+|turn|8
+|
+|t:|1776972064
+|move|p2a: Milotic|Ice Beam|p1a: Breloom
+|-supereffective|p1a: Breloom
+|-damage|p1a: Breloom|51/235
+|move|p1a: Breloom|Bullet Seed|p2a: Milotic
+|-supereffective|p2a: Milotic
+|-crit|p2a: Milotic
+|-damage|p2a: Milotic|0 fnt
+|faint|p2a: Milotic
+|-hitcount|p2: Milotic|1
+|-damage|p1a: Breloom|28/235|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776972074
+|switch|p2a: Serperior|Serperior, L79, F|248/248
+|turn|9
+|
+|t:|1776972090
+|move|p1a: Breloom|Mach Punch|p2a: Serperior
+|-damage|p2a: Serperior|138/248
+|-damage|p1a: Breloom|5/235|[from] item: Life Orb
+|move|p2a: Serperior|Leaf Storm|p1a: Breloom
+|-resisted|p1a: Breloom
+|-damage|p1a: Breloom|0 fnt
+|-boost|p2a: Serperior|spa|2
+|faint|p1a: Breloom
+|-damage|p2a: Serperior|114/248|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776972105
+|switch|p1a: Raichu|Raichu, L88, F|249/249
+|turn|10
+|
+|t:|1776972118
+|switch|p2a: Ursaluna|Ursaluna, L79, M|335/335
+|-terastallize|p1a: Raichu|Ice
+|move|p1a: Raichu|Tera Blast|p2a: Ursaluna|[anim] Tera Blast Ice
+|-supereffective|p2a: Ursaluna
+|-damage|p2a: Ursaluna|93/335
+|-damage|p1a: Raichu|225/249|[from] item: Life Orb
+|
+|-status|p2a: Ursaluna|brn|[from] item: Flame Orb
+|upkeep
+|turn|11
+|
+|t:|1776972130
+|switch|p2a: Electivire|Electivire, L84, M|237/263
+|move|p1a: Raichu|Surf|p2a: Electivire
+|-damage|p2a: Electivire|145/263
+|-damage|p1a: Raichu|201/249|[from] item: Life Orb
+|
+|upkeep
+|turn|12
+|
+|t:|1776972145
+|switch|p1a: Gliscor|Gliscor, L76, M|239/239
+|move|p2a: Electivire|Earthquake|p1a: Gliscor
+|-immune|p1a: Gliscor
+|
+|-status|p1a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|13
+|
+|t:|1776972173
+|switch|p2a: Ursaluna|Ursaluna, L79, M|93/335 brn
+|switch|p1a: Rotom|Rotom-Frost, L87|229/229
+|
+|-damage|p2a: Ursaluna|73/335 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1776972182
+|move|p1a: Rotom|Blizzard|p2a: Ursaluna|[miss]
+|-miss|p1a: Rotom|p2a: Ursaluna
+|move|p2a: Ursaluna|Facade|p1a: Rotom
+|-damage|p1a: Rotom|15/229
+|
+|-damage|p2a: Ursaluna|53/335 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1776972193
+|move|p1a: Rotom|Blizzard|p2a: Ursaluna|[miss]
+|-miss|p1a: Rotom|p2a: Ursaluna
+|move|p2a: Ursaluna|Crunch|p1a: Rotom
+|-damage|p1a: Rotom|0 fnt
+|faint|p1a: Rotom
+|
+|-damage|p2a: Ursaluna|33/335 brn|[from] brn
+|upkeep
+|
+|t:|1776972208
+|switch|p1a: Raichu|Raichu, L88, F, tera:Ice|201/249
+|turn|16
+|
+|t:|1776972215
+|move|p1a: Raichu|Tera Blast|p2a: Ursaluna|[anim] Tera Blast Ice
+|-supereffective|p2a: Ursaluna
+|-damage|p2a: Ursaluna|0 fnt
+|faint|p2a: Ursaluna
+|-damage|p1a: Raichu|177/249|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776972218
+|switch|p2a: Mewtwo|Mewtwo, L72|272/272
+|-ability|p2a: Mewtwo|Pressure
+|turn|17
+|
+|t:|1776972233
+|switch|p1a: Diancie|Diancie, L82|216/216
+|move|p2a: Mewtwo|Psystrike|p1a: Diancie
+|-damage|p1a: Diancie|92/216
+|
+|-heal|p1a: Diancie|105/216|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1776972244
+|move|p2a: Mewtwo|Psystrike|p1a: Diancie
+|-damage|p1a: Diancie|0 fnt
+|faint|p1a: Diancie
+|
+|upkeep
+|
+|t:|1776972247
+|switch|p1a: Gliscor|Gliscor, L76, M|239/239 tox
+|turn|19
+|
+|t:|1776972254
+|move|p2a: Mewtwo|Psystrike|p1a: Gliscor
+|-damage|p1a: Gliscor|95/239 tox
+|move|p1a: Gliscor|Toxic|p2a: Mewtwo
+|-status|p2a: Mewtwo|tox
+|
+|-damage|p2a: Mewtwo|255/272 tox|[from] psn
+|-heal|p1a: Gliscor|124/239 tox|[from] ability: Poison Heal
+|upkeep
+|turn|20
+|
+|t:|1776972260
+|switch|p2a: Serperior|Serperior, L79, F|114/248
+|move|p1a: Gliscor|Protect||[still]
+|-fail|p1a: Gliscor
+|
+|-heal|p1a: Gliscor|153/239 tox|[from] ability: Poison Heal
+|upkeep
+|turn|21
+|
+|t:|1776972267
+|move|p1a: Gliscor|Protect|p1a: Gliscor
+|-singleturn|p1a: Gliscor|Protect
+|move|p2a: Serperior|Leaf Storm|p1a: Gliscor
+|-activate|p1a: Gliscor|move: Protect
+|
+|-heal|p1a: Gliscor|182/239 tox|[from] ability: Poison Heal
+|upkeep
+|turn|22
+|
+|t:|1776972278
+|move|p2a: Serperior|Leaf Storm|p1a: Gliscor
+|-crit|p1a: Gliscor
+|-damage|p1a: Gliscor|0 fnt
+|-boost|p2a: Serperior|spa|2
+|faint|p1a: Gliscor
+|-damage|p2a: Serperior|90/248|[from] item: Life Orb
+|
+|upkeep
+|-message|Papiloco forfeited.
+|
+|win|wrtbrt
+|c|☆Papiloco|gg
+|l|☆wrtbrt
+|player|p2|

@@ -1,0 +1,162 @@
+|j|☆shnoozel
+|j|☆Unknownfilec23
+|t:|1776969596
+|gametype|singles
+|player|p1|shnoozel|dragontamer|1272
+|player|p2|Unknownfilec23|unknown|1240
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776969596
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Terapagos|Terapagos, L77, M|265/265
+|switch|p2a: Keldeo|Keldeo-Resolute, L79|273/273
+|-activate|p1a: Terapagos|ability: Tera Shift
+|detailschange|p1a: Terapagos|Terapagos-Terastal, L77, M
+|-heal|p1a: Terapagos|273/273|[silent]
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by shnoozel)
+|
+|t:|1776969611
+|switch|p1a: Froslass|Froslass, L87, F|263/263
+|move|p2a: Keldeo|Secret Sword|p1a: Froslass
+|-immune|p1a: Froslass
+|
+|upkeep
+|turn|2
+|c|☆Unknownfilec23|every fucking pokemon i have
+|c|☆Unknownfilec23|has choice band or specs
+|c|☆shnoozel|lmao
+|c|☆Unknownfilec23|holy fuck devs
+|c|☆Unknownfilec23|they shove anal beads up my ass
+|c|☆shnoozel|i got a really stacked team as well
+|inactive|Unknownfilec23 has 120 seconds left.
+|c|☆shnoozel|woah
+|c|☆Unknownfilec23|MAN
+|c|☆Unknownfilec23|FUCK THIS
+|c|☆Unknownfilec23|IMA SUMMON ARCEUS
+|
+|t:|1776969655
+|switch|p2a: Clefable|Clefable, L83, F|293/293
+|move|p1a: Froslass|Spikes|p2a: Clefable
+|-sidestart|p2: Unknownfilec23|Spikes
+|
+|upkeep
+|turn|3
+|
+|t:|1776969672
+|move|p1a: Froslass|Triple Axel|p2a: Clefable
+|-damage|p2a: Clefable|268/293
+|-crit|p2a: Clefable
+|-damage|p2a: Clefable|201/293
+|-damage|p2a: Clefable|135/293
+|-hitcount|p2a: Clefable|3
+|move|p2a: Clefable|Knock Off|p1a: Froslass
+|-supereffective|p1a: Froslass
+|-damage|p1a: Froslass|94/263
+|-enditem|p1a: Froslass|Wide Lens|[from] move: Knock Off|[of] p2a: Clefable
+|
+|upkeep
+|turn|4
+|
+|t:|1776969690
+|-terastallize|p2a: Clefable|Steel
+|move|p1a: Froslass|Poltergeist|p2a: Clefable
+|-activate|p2a: Clefable|move: Poltergeist|Life Orb
+|-damage|p2a: Clefable|9/293
+|move|p2a: Clefable|Knock Off|p1a: Froslass
+|-supereffective|p1a: Froslass
+|-damage|p1a: Froslass|0 fnt
+|-start|p2a: Clefable|Disable|Knock Off|[from] ability: Cursed Body|[of] p1a: Froslass
+|faint|p1a: Froslass
+|
+|upkeep
+|c|☆Unknownfilec23|die
+|c|☆Unknownfilec23|boi
+|inactive|shnoozel has 120 seconds left.
+|
+|t:|1776969704
+|switch|p1a: Zebstrika|Zebstrika, L87, M|272/272
+|turn|5
+|
+|t:|1776969709
+|move|p1a: Zebstrika|Volt Switch|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|-damage|p1a: Zebstrika|245/272|[from] item: Life Orb
+|c|☆Unknownfilec23|bro
+|c|☆Unknownfilec23|answer me mf now
+|c|☆Unknownfilec23|do u
+|inactive|shnoozel has 120 seconds left.
+|c|☆Unknownfilec23|have a legendary
+|
+|t:|1776969732
+|switch|p1a: Smeargle|Smeargle, L95, M|258/258|[from] Volt Switch
+|
+|upkeep
+|
+|t:|1776969738
+|switch|p2a: Keldeo|Keldeo-Resolute, L79|273/273
+|-damage|p2a: Keldeo|239/273|[from] Spikes
+|turn|6
+|c|☆shnoozel|my first mon was a legendary
+|c|☆Unknownfilec23|tera isnt legendary
+|inactive|shnoozel has 120 seconds left.
+|c|☆shnoozel|it is
+|inactive|Unknownfilec23 has 120 seconds left.
+|c|☆Unknownfilec23|maybe U should get the anal beads
+|c|☆shnoozel|:o
+|
+|t:|1776969758
+|-terastallize|p1a: Smeargle|Ghost
+|move|p2a: Keldeo|Secret Sword|p1a: Smeargle
+|-immune|p1a: Smeargle
+|move|p1a: Smeargle|Shell Smash|p1a: Smeargle
+|-unboost|p1a: Smeargle|def|1
+|-unboost|p1a: Smeargle|spd|1
+|-boost|p1a: Smeargle|atk|2
+|-boost|p1a: Smeargle|spa|2
+|-boost|p1a: Smeargle|spe|2
+|
+|upkeep
+|turn|7
+|inactive|Unknownfilec23 has 120 seconds left.
+|n|!Unknownfilec23|unknownfilec23
+|inactive|shnoozel has 120 seconds left.
+|
+|t:|1776969778
+|switch|p2a: Iron Valiant|Iron Valiant, L78|244/244
+|-damage|p2a: Iron Valiant|214/244|[from] Spikes
+|move|p1a: Smeargle|Spore|p2a: Iron Valiant
+|-status|p2a: Iron Valiant|slp|[from] move: Spore
+|
+|upkeep
+|turn|8
+|inactive|shnoozel has 120 seconds left.
+|inactive|Unknownfilec23 has 120 seconds left.
+|
+|t:|1776969794
+|move|p1a: Smeargle|Shell Smash|p1a: Smeargle
+|-unboost|p1a: Smeargle|def|1
+|-unboost|p1a: Smeargle|spd|1
+|-boost|p1a: Smeargle|atk|2
+|-boost|p1a: Smeargle|spa|2
+|-boost|p1a: Smeargle|spe|2
+|cant|p2a: Iron Valiant|slp
+|
+|upkeep
+|turn|9
+|-message|Unknownfilec23 forfeited.
+|
+|win|shnoozel
+|raw|shnoozel's rating: 1272 &rarr; <strong>1295</strong><br />(+23 for winning)
+|raw|Unknownfilec23's rating: 1240 &rarr; <strong>1217</strong><br />(-23 for losing)
+|l|!Unknownfilec23
+|player|p2|

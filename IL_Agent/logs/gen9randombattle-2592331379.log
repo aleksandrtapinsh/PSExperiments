@@ -1,0 +1,209 @@
+|j|☆darajahmaksura
+|j|☆Uziboii
+|t:|1776979505
+|gametype|singles
+|player|p1|darajahmaksura|266|1496
+|player|p2|Uziboii|steven|1484
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776979505
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Illumise|Illumise, L91, F|266/266
+|switch|p2a: Lokix|Lokix, L82, M|251/251
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Uziboii)
+|
+|t:|1776979516
+|switch|p2a: Seviper|Seviper, L93, F|287/287
+|move|p1a: Illumise|Bug Buzz|p2a: Seviper
+|-resisted|p2a: Seviper
+|-crit|p2a: Seviper
+|-damage|p2a: Seviper|205/287
+|
+|upkeep
+|turn|2
+|
+|t:|1776979523
+|switch|p1a: Piloswine|Piloswine, L85, F|309/309
+|move|p2a: Seviper|Glare|p1a: Piloswine
+|-status|p1a: Piloswine|par
+|
+|upkeep
+|turn|3
+|
+|t:|1776979531
+|move|p2a: Seviper|Knock Off|p1a: Piloswine
+|-damage|p1a: Piloswine|223/309 par
+|-enditem|p1a: Piloswine|Eviolite|[from] move: Knock Off|[of] p2a: Seviper
+|-damage|p2a: Seviper|177/287|[from] item: Life Orb
+|move|p1a: Piloswine|Stealth Rock|p2a: Seviper
+|-sidestart|p2: Uziboii|move: Stealth Rock
+|
+|upkeep
+|turn|4
+|
+|t:|1776979536
+|switch|p2a: Breloom|Breloom, L83, M|235/235
+|-damage|p2a: Breloom|221/235|[from] Stealth Rock
+|move|p1a: Piloswine|Earthquake|p2a: Breloom
+|-resisted|p2a: Breloom
+|-damage|p2a: Breloom|155/235
+|
+|upkeep
+|turn|5
+|
+|t:|1776979540
+|move|p1a: Piloswine|Ice Shard|p2a: Breloom
+|-supereffective|p2a: Breloom
+|-damage|p2a: Breloom|63/235
+|move|p2a: Breloom|Bullet Seed|p1a: Piloswine
+|-supereffective|p1a: Piloswine
+|-damage|p1a: Piloswine|90/309 par
+|-supereffective|p1a: Piloswine
+|-damage|p1a: Piloswine|0 fnt
+|faint|p1a: Piloswine
+|-hitcount|p1: Piloswine|2
+|-damage|p2a: Breloom|40/235|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776979550
+|switch|p1a: Illumise|Illumise, L91, F|266/266
+|turn|6
+|
+|t:|1776979553
+|move|p1a: Illumise|Bug Buzz|p2a: Breloom
+|-damage|p2a: Breloom|0 fnt
+|faint|p2a: Breloom
+|
+|upkeep
+|
+|t:|1776979555
+|switch|p2a: Cyclizar|Cyclizar, L83, F|252/252
+|turn|7
+|
+|t:|1776979558
+|move|p1a: Illumise|Thunder Wave|p2a: Cyclizar
+|-status|p2a: Cyclizar|par
+|move|p2a: Cyclizar|Rapid Spin|p1a: Illumise
+|-damage|p1a: Illumise|212/266
+|-boost|p2a: Cyclizar|spe|1
+|-sideend|p2: Uziboii|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Cyclizar
+|
+|upkeep
+|turn|8
+|
+|t:|1776979573
+|move|p1a: Illumise|Encore|p2a: Cyclizar
+|-start|p2a: Cyclizar|Encore
+|move|p2a: Cyclizar|Rapid Spin|p1a: Illumise
+|-damage|p1a: Illumise|155/266
+|-boost|p2a: Cyclizar|spe|1
+|
+|upkeep
+|turn|9
+|
+|t:|1776979580
+|switch|p2a: Seviper|Seviper, L93, F|177/287
+|move|p1a: Illumise|Roost|p1a: Illumise
+|-heal|p1a: Illumise|266/266
+|-singleturn|p1a: Illumise|move: Roost
+|
+|upkeep
+|turn|10
+|
+|t:|1776979590
+|switch|p1a: Oricorio|Oricorio-Pa'u, L87, F|272/272
+|move|p2a: Seviper|Glare|p1a: Oricorio
+|-status|p1a: Oricorio|par
+|
+|upkeep
+|turn|11
+|
+|t:|1776979595
+|switch|p2a: Cyclizar|Cyclizar, L83, F|252/252 par
+|cant|p1a: Oricorio|par
+|
+|upkeep
+|turn|12
+|
+|t:|1776979599
+|move|p2a: Cyclizar|Shed Tail|p2a: Cyclizar
+|-start|p2a: Cyclizar|Substitute|[from] move: Shed Tail
+|-damage|p2a: Cyclizar|126/252 par
+|
+|t:|1776979601
+|switch|p2a: Tinkaton|Tinkaton, L82, F|274/274|[from] Shed Tail
+|-ability|p2a: Tinkaton|Mold Breaker
+|move|p1a: Oricorio|Quiver Dance|p1a: Oricorio
+|-boost|p1a: Oricorio|spa|1
+|-boost|p1a: Oricorio|spd|1
+|-boost|p1a: Oricorio|spe|1
+|
+|upkeep
+|turn|13
+|
+|t:|1776979612
+|-terastallize|p1a: Oricorio|Ground
+|move|p2a: Tinkaton|Encore|p1a: Oricorio
+|-start|p1a: Oricorio|Encore
+|move|p1a: Oricorio|Quiver Dance|p1a: Oricorio
+|-boost|p1a: Oricorio|spa|1
+|-boost|p1a: Oricorio|spd|1
+|-boost|p1a: Oricorio|spe|1
+|
+|upkeep
+|turn|14
+|
+|t:|1776979618
+|move|p1a: Oricorio|Quiver Dance|p1a: Oricorio
+|-boost|p1a: Oricorio|spa|1
+|-boost|p1a: Oricorio|spd|1
+|-boost|p1a: Oricorio|spe|1
+|move|p2a: Tinkaton|Knock Off|p1a: Oricorio
+|-damage|p1a: Oricorio|205/272 par
+|-enditem|p1a: Oricorio|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Tinkaton
+|
+|upkeep
+|turn|15
+|
+|t:|1776979621
+|move|p1a: Oricorio|Quiver Dance|p1a: Oricorio
+|-boost|p1a: Oricorio|spa|1
+|-boost|p1a: Oricorio|spd|1
+|-boost|p1a: Oricorio|spe|1
+|move|p2a: Tinkaton|Gigaton Hammer|p1a: Oricorio
+|-damage|p1a: Oricorio|45/272 par
+|
+|-end|p1a: Oricorio|Encore
+|upkeep
+|turn|16
+|
+|t:|1776979630
+|cant|p1a: Oricorio|par
+|move|p2a: Tinkaton|Play Rough|p1a: Oricorio
+|-damage|p1a: Oricorio|0 fnt
+|faint|p1a: Oricorio
+|
+|upkeep
+|l|☆darajahmaksura
+|inactive|darajahmaksura disconnected and has a minute to reconnect!
+|player|p1|
+|inactive|darajahmaksura has 30 seconds to reconnect!
+|inactive|darajahmaksura has 20 seconds to reconnect!
+|inactive|darajahmaksura has 15 seconds to reconnect!
+|inactive|darajahmaksura has 10 seconds to reconnect!
+|inactive|darajahmaksura has 5 seconds to reconnect!
+|-message|darajahmaksura lost due to inactivity.
+|
+|win|Uziboii
+|raw|darajahmaksura's rating: 1496 &rarr; <strong>1475</strong><br />(-21 for losing)
+|raw|Uziboii's rating: 1484 &rarr; <strong>1505</strong><br />(+21 for winning)

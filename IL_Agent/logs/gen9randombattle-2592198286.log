@@ -1,0 +1,904 @@
+|j|☆howard15a
+|j|☆Judgts
+|t:|1776969804
+|gametype|singles
+|player|p1|howard15a|pokemaniac|1280
+|player|p2|Judgts|265|1274
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776969804
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Hippowdon|Hippowdon, L82, M|311/311
+|switch|p2a: Landorus|Landorus-Therian, L76, M|260/260
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Hippowdon|atk|1
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Judgts)
+|
+|t:|1776969832
+|move|p2a: Landorus|Stealth Rock|p1a: Hippowdon
+|-sidestart|p1: howard15a|move: Stealth Rock
+|move|p1a: Hippowdon|Stone Edge|p2a: Landorus
+|-damage|p2a: Landorus|203/260
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Landorus|219/260|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776969847
+|move|p2a: Landorus|Earthquake|p1a: Hippowdon
+|-damage|p1a: Hippowdon|220/311
+|move|p1a: Hippowdon|Stone Edge|p2a: Landorus|[miss]
+|-miss|p1a: Hippowdon|p2a: Landorus
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Landorus|235/260|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776969858
+|move|p2a: Landorus|Earthquake|p1a: Hippowdon
+|-damage|p1a: Hippowdon|127/311
+|move|p1a: Hippowdon|Stone Edge|p2a: Landorus
+|-damage|p2a: Landorus|182/260
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Landorus|198/260|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776969876
+|move|p2a: Landorus|Earthquake|p1a: Hippowdon
+|-damage|p1a: Hippowdon|30/311
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|186/311
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Landorus|214/260|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776969886
+|move|p2a: Landorus|U-turn|p1a: Hippowdon
+|-damage|p1a: Hippowdon|140/311
+|-damage|p2a: Landorus|171/260|[from] item: Rocky Helmet|[of] p1a: Hippowdon
+|
+|t:|1776969901
+|switch|p2a: Serperior|Serperior, L79, M|248/248|[from] U-turn
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|296/311
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1776969914
+|switch|p1a: Weezing|Weezing, L88, M|258/258
+|-damage|p1a: Weezing|226/258|[from] Stealth Rock
+|move|p2a: Serperior|Leech Seed|p1a: Weezing
+|-start|p1a: Weezing|move: Leech Seed
+|
+|-heal|p1a: Weezing|242/258|[from] item: Leftovers
+|-damage|p1a: Weezing|210/258|[from] Leech Seed|[of] p2a: Serperior
+|upkeep
+|turn|7
+|inactive|Judgts has 120 seconds left.
+|
+|t:|1776969941
+|move|p2a: Serperior|Substitute|p2a: Serperior
+|-start|p2a: Serperior|Substitute
+|-damage|p2a: Serperior|186/248
+|move|p1a: Weezing|Sludge Bomb|p2a: Serperior
+|-supereffective|p2a: Serperior
+|-end|p2a: Serperior|Substitute
+|
+|-heal|p2a: Serperior|201/248|[from] item: Leftovers
+|-heal|p1a: Weezing|226/258|[from] item: Leftovers
+|-damage|p1a: Weezing|194/258|[from] Leech Seed|[of] p2a: Serperior
+|-heal|p2a: Serperior|233/248|[silent]
+|upkeep
+|turn|8
+|inactive|Judgts has 120 seconds left.
+|
+|t:|1776969960
+|move|p2a: Serperior|Substitute|p2a: Serperior
+|-start|p2a: Serperior|Substitute
+|-damage|p2a: Serperior|171/248
+|move|p1a: Weezing|Sludge Bomb|p2a: Serperior
+|-supereffective|p2a: Serperior
+|-end|p2a: Serperior|Substitute
+|
+|-heal|p2a: Serperior|186/248|[from] item: Leftovers
+|-heal|p1a: Weezing|210/258|[from] item: Leftovers
+|-damage|p1a: Weezing|178/258|[from] Leech Seed|[of] p2a: Serperior
+|-heal|p2a: Serperior|218/248|[silent]
+|upkeep
+|turn|9
+|
+|t:|1776969981
+|move|p2a: Serperior|Substitute|p2a: Serperior
+|-start|p2a: Serperior|Substitute
+|-damage|p2a: Serperior|156/248
+|move|p1a: Weezing|Sludge Bomb|p2a: Serperior
+|-supereffective|p2a: Serperior
+|-end|p2a: Serperior|Substitute
+|
+|-heal|p2a: Serperior|171/248|[from] item: Leftovers
+|-heal|p1a: Weezing|194/258|[from] item: Leftovers
+|-damage|p1a: Weezing|162/258|[from] Leech Seed|[of] p2a: Serperior
+|-heal|p2a: Serperior|203/248|[silent]
+|upkeep
+|turn|10
+|inactive|Judgts has 120 seconds left.
+|
+|t:|1776970004
+|move|p2a: Serperior|Substitute|p2a: Serperior
+|-start|p2a: Serperior|Substitute
+|-damage|p2a: Serperior|141/248
+|move|p1a: Weezing|Sludge Bomb|p2a: Serperior
+|-supereffective|p2a: Serperior
+|-end|p2a: Serperior|Substitute
+|
+|-heal|p2a: Serperior|156/248|[from] item: Leftovers
+|-heal|p1a: Weezing|178/258|[from] item: Leftovers
+|-damage|p1a: Weezing|146/258|[from] Leech Seed|[of] p2a: Serperior
+|-heal|p2a: Serperior|188/248|[silent]
+|upkeep
+|turn|11
+|inactive|Judgts has 120 seconds left.
+|inactive|howard15a has 120 seconds left.
+|
+|t:|1776970033
+|switch|p2a: Chimecho|Chimecho, L93, F|290/290
+|switch|p1a: Hippowdon|Hippowdon, L82, M|296/311
+|-damage|p1a: Hippowdon|277/311|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Chimecho|272/290|[from] Sandstorm
+|-heal|p2a: Chimecho|290/290|[from] item: Leftovers
+|upkeep
+|turn|12
+|inactive|howard15a has 120 seconds left.
+|
+|t:|1776970050
+|switch|p2a: Landorus|Landorus-Therian, L76, M|171/260
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Hippowdon|atk|1
+|move|p1a: Hippowdon|Stone Edge|p2a: Landorus
+|-damage|p2a: Landorus|121/260
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Landorus|137/260|[from] item: Leftovers
+|upkeep
+|turn|13
+|inactive|howard15a has 120 seconds left.
+|
+|t:|1776970076
+|switch|p1a: Weezing|Weezing, L88, M|146/258
+|-damage|p1a: Weezing|114/258|[from] Stealth Rock
+|move|p2a: Landorus|U-turn|p1a: Weezing
+|-resisted|p1a: Weezing
+|-damage|p1a: Weezing|91/258
+|
+|t:|1776970079
+|switch|p2a: Chimecho|Chimecho, L93, F|290/290|[from] U-turn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Chimecho|272/290|[from] Sandstorm
+|-damage|p1a: Weezing|75/258|[from] Sandstorm
+|-heal|p2a: Chimecho|290/290|[from] item: Leftovers
+|-heal|p1a: Weezing|91/258|[from] item: Leftovers
+|upkeep
+|turn|14
+|inactive|Judgts has 120 seconds left.
+|
+|t:|1776970094
+|switch|p1a: Urshifu|Urshifu, L74, F|270/270
+|-damage|p1a: Urshifu|254/270|[from] Stealth Rock
+|move|p2a: Chimecho|Psychic Noise|p1a: Urshifu
+|-immune|p1a: Urshifu
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Urshifu|238/270|[from] Sandstorm
+|-damage|p2a: Chimecho|272/290|[from] Sandstorm
+|-heal|p2a: Chimecho|290/290|[from] item: Leftovers
+|upkeep
+|turn|15
+|inactive|Judgts has 120 seconds left.
+|
+|t:|1776970124
+|switch|p2a: Landorus|Landorus-Therian, L76, M|137/260
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Urshifu|atk|1
+|move|p1a: Urshifu|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|121/260
+|
+|t:|1776970134
+|switch|p1a: Hippowdon|Hippowdon, L82, M|277/311|[from] U-turn
+|-damage|p1a: Hippowdon|258/311|[from] Stealth Rock
+|
+|-weather|none
+|-heal|p2a: Landorus|137/260|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776970146
+|move|p2a: Landorus|U-turn|p1a: Hippowdon
+|-damage|p1a: Hippowdon|209/311
+|-damage|p2a: Landorus|94/260|[from] item: Rocky Helmet|[of] p1a: Hippowdon
+|
+|t:|1776970151
+|switch|p2a: Serperior|Serperior, L79, M|188/248|[from] U-turn
+|move|p1a: Hippowdon|Stone Edge|p2a: Serperior
+|-damage|p2a: Serperior|116/248
+|
+|-heal|p2a: Serperior|131/248|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1776970166
+|switch|p1a: Weezing|Weezing, L88, M|91/258
+|-damage|p1a: Weezing|59/258|[from] Stealth Rock
+|move|p2a: Serperior|Leech Seed|p1a: Weezing
+|-start|p1a: Weezing|move: Leech Seed
+|
+|-heal|p2a: Serperior|146/248|[from] item: Leftovers
+|-heal|p1a: Weezing|75/258|[from] item: Leftovers
+|-damage|p1a: Weezing|43/258|[from] Leech Seed|[of] p2a: Serperior
+|-heal|p2a: Serperior|178/248|[silent]
+|upkeep
+|turn|18
+|inactive|Judgts has 120 seconds left.
+|
+|t:|1776970178
+|move|p2a: Serperior|Leaf Storm|p1a: Weezing|[miss]
+|-miss|p2a: Serperior|p1a: Weezing
+|move|p1a: Weezing|Pain Split|p2a: Serperior
+|-sethp|p2a: Serperior|110/248|[from] move: Pain Split|[silent]
+|-sethp|p1a: Weezing|110/258|[from] move: Pain Split
+|
+|-heal|p2a: Serperior|125/248|[from] item: Leftovers
+|-heal|p1a: Weezing|126/258|[from] item: Leftovers
+|-damage|p1a: Weezing|94/258|[from] Leech Seed|[of] p2a: Serperior
+|-heal|p2a: Serperior|157/248|[silent]
+|upkeep
+|turn|19
+|inactive|Judgts has 120 seconds left.
+|
+|t:|1776970204
+|move|p2a: Serperior|Substitute|p2a: Serperior
+|-start|p2a: Serperior|Substitute
+|-damage|p2a: Serperior|95/248
+|move|p1a: Weezing|Sludge Bomb|p2a: Serperior
+|-supereffective|p2a: Serperior
+|-end|p2a: Serperior|Substitute
+|
+|-heal|p2a: Serperior|110/248|[from] item: Leftovers
+|-heal|p1a: Weezing|110/258|[from] item: Leftovers
+|-damage|p1a: Weezing|78/258|[from] Leech Seed|[of] p2a: Serperior
+|-heal|p2a: Serperior|142/248|[silent]
+|upkeep
+|turn|20
+|
+|t:|1776970225
+|switch|p2a: Chimecho|Chimecho, L93, F|290/290
+|switch|p1a: Sylveon|Sylveon, L85, M|300/300
+|-damage|p1a: Sylveon|263/300|[from] Stealth Rock
+|
+|-heal|p1a: Sylveon|281/300|[from] item: Leftovers
+|upkeep
+|turn|21
+|inactive|Judgts has 90 seconds left.
+|
+|t:|1776970243
+|move|p2a: Chimecho|Psychic Noise|p1a: Sylveon
+|-damage|p1a: Sylveon|214/300
+|-start|p1a: Sylveon|move: Heal Block
+|move|p1a: Sylveon|Calm Mind|p1a: Sylveon
+|-boost|p1a: Sylveon|spa|1
+|-boost|p1a: Sylveon|spd|1
+|
+|upkeep
+|turn|22
+|
+|t:|1776970252
+|move|p2a: Chimecho|Encore|p1a: Sylveon
+|-start|p1a: Sylveon|Encore
+|move|p1a: Sylveon|Calm Mind|p1a: Sylveon
+|-boost|p1a: Sylveon|spa|1
+|-boost|p1a: Sylveon|spd|1
+|
+|-end|p1a: Sylveon|move: Heal Block
+|upkeep
+|turn|23
+|inactive|Judgts has 90 seconds left.
+|
+|t:|1776970270
+|switch|p2a: Milotic|Milotic, L83, F|293/293
+|move|p1a: Sylveon|Calm Mind|p1a: Sylveon
+|-boost|p1a: Sylveon|spa|1
+|-boost|p1a: Sylveon|spd|1
+|
+|-heal|p1a: Sylveon|232/300|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1776970279
+|move|p2a: Milotic|Haze|p2a: Milotic
+|-clearallboost
+|move|p1a: Sylveon|Calm Mind|p1a: Sylveon
+|-boost|p1a: Sylveon|spa|1
+|-boost|p1a: Sylveon|spd|1
+|
+|-heal|p1a: Sylveon|250/300|[from] item: Leftovers
+|-end|p1a: Sylveon|Encore
+|upkeep
+|turn|25
+|inactive|howard15a has 120 seconds left.
+|
+|t:|1776970290
+|move|p2a: Milotic|Scald|p1a: Sylveon
+|-damage|p1a: Sylveon|208/300
+|move|p1a: Sylveon|Hyper Voice|p2a: Milotic
+|-damage|p2a: Milotic|139/293
+|
+|-heal|p2a: Milotic|157/293|[from] item: Leftovers
+|-heal|p1a: Sylveon|226/300|[from] item: Leftovers
+|upkeep
+|turn|26
+|inactive|howard15a has 120 seconds left.
+|
+|t:|1776970299
+|move|p2a: Milotic|Haze|p2a: Milotic
+|-clearallboost
+|move|p1a: Sylveon|Hyper Voice|p2a: Milotic
+|-crit|p2a: Milotic
+|-damage|p2a: Milotic|18/293
+|
+|-heal|p2a: Milotic|36/293|[from] item: Leftovers
+|-heal|p1a: Sylveon|244/300|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1776970308
+|move|p2a: Milotic|Recover|p2a: Milotic
+|-heal|p2a: Milotic|183/293
+|move|p1a: Sylveon|Hyper Voice|p2a: Milotic
+|-damage|p2a: Milotic|87/293
+|
+|-heal|p2a: Milotic|105/293|[from] item: Leftovers
+|-heal|p1a: Sylveon|262/300|[from] item: Leftovers
+|upkeep
+|turn|28
+|inactive|Judgts has 120 seconds left.
+|
+|t:|1776970321
+|move|p2a: Milotic|Recover|p2a: Milotic
+|-heal|p2a: Milotic|252/293
+|move|p1a: Sylveon|Hyper Voice|p2a: Milotic
+|-damage|p2a: Milotic|156/293
+|
+|-heal|p2a: Milotic|174/293|[from] item: Leftovers
+|-heal|p1a: Sylveon|280/300|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1776970330
+|move|p2a: Milotic|Scald|p1a: Sylveon
+|-damage|p1a: Sylveon|222/300
+|move|p1a: Sylveon|Calm Mind|p1a: Sylveon
+|-boost|p1a: Sylveon|spa|1
+|-boost|p1a: Sylveon|spd|1
+|
+|-heal|p2a: Milotic|192/293|[from] item: Leftovers
+|-heal|p1a: Sylveon|240/300|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1776970339
+|move|p2a: Milotic|Haze|p2a: Milotic
+|-clearallboost
+|move|p1a: Sylveon|Calm Mind|p1a: Sylveon
+|-boost|p1a: Sylveon|spa|1
+|-boost|p1a: Sylveon|spd|1
+|
+|-heal|p2a: Milotic|210/293|[from] item: Leftovers
+|-heal|p1a: Sylveon|258/300|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1776970347
+|move|p2a: Milotic|Haze|p2a: Milotic
+|-clearallboost
+|move|p1a: Sylveon|Hyper Voice|p2a: Milotic
+|-damage|p2a: Milotic|114/293
+|
+|-heal|p2a: Milotic|132/293|[from] item: Leftovers
+|-heal|p1a: Sylveon|276/300|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1776970358
+|move|p2a: Milotic|Recover|p2a: Milotic
+|-heal|p2a: Milotic|279/293
+|move|p1a: Sylveon|Calm Mind|p1a: Sylveon
+|-boost|p1a: Sylveon|spa|1
+|-boost|p1a: Sylveon|spd|1
+|
+|-heal|p2a: Milotic|293/293|[from] item: Leftovers
+|-heal|p1a: Sylveon|294/300|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1776970367
+|move|p1a: Sylveon|Protect|p1a: Sylveon
+|-singleturn|p1a: Sylveon|Protect
+|move|p2a: Milotic|Haze|p2a: Milotic
+|-clearallboost
+|
+|-heal|p1a: Sylveon|300/300|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1776970382
+|move|p2a: Milotic|Scald|p1a: Sylveon
+|-damage|p1a: Sylveon|239/300
+|-status|p1a: Sylveon|brn
+|move|p1a: Sylveon|Hyper Voice|p2a: Milotic
+|-damage|p2a: Milotic|184/293
+|
+|-heal|p2a: Milotic|202/293|[from] item: Leftovers
+|-heal|p1a: Sylveon|257/300 brn|[from] item: Leftovers
+|-damage|p1a: Sylveon|239/300 brn|[from] brn
+|upkeep
+|turn|35
+|
+|t:|1776970399
+|move|p2a: Milotic|Scald|p1a: Sylveon
+|-damage|p1a: Sylveon|181/300 brn
+|move|p1a: Sylveon|Calm Mind|p1a: Sylveon
+|-boost|p1a: Sylveon|spa|1
+|-boost|p1a: Sylveon|spd|1
+|
+|-heal|p2a: Milotic|220/293|[from] item: Leftovers
+|-heal|p1a: Sylveon|199/300 brn|[from] item: Leftovers
+|-damage|p1a: Sylveon|181/300 brn|[from] brn
+|upkeep
+|turn|36
+|
+|t:|1776970410
+|move|p2a: Milotic|Haze|p2a: Milotic
+|-clearallboost
+|move|p1a: Sylveon|Hyper Voice|p2a: Milotic
+|-damage|p2a: Milotic|115/293
+|
+|-heal|p2a: Milotic|133/293|[from] item: Leftovers
+|-heal|p1a: Sylveon|199/300 brn|[from] item: Leftovers
+|-damage|p1a: Sylveon|181/300 brn|[from] brn
+|upkeep
+|turn|37
+|
+|t:|1776970422
+|move|p2a: Milotic|Recover|p2a: Milotic
+|-heal|p2a: Milotic|280/293
+|move|p1a: Sylveon|Hyper Voice|p2a: Milotic
+|-damage|p2a: Milotic|183/293
+|
+|-heal|p2a: Milotic|201/293|[from] item: Leftovers
+|-heal|p1a: Sylveon|199/300 brn|[from] item: Leftovers
+|-damage|p1a: Sylveon|181/300 brn|[from] brn
+|upkeep
+|turn|38
+|
+|t:|1776970437
+|move|p2a: Milotic|Scald|p1a: Sylveon
+|-damage|p1a: Sylveon|120/300 brn
+|move|p1a: Sylveon|Wish|p1a: Sylveon
+|
+|-heal|p2a: Milotic|219/293|[from] item: Leftovers
+|-heal|p1a: Sylveon|138/300 brn|[from] item: Leftovers
+|-damage|p1a: Sylveon|120/300 brn|[from] brn
+|upkeep
+|turn|39
+|
+|t:|1776970452
+|switch|p2a: Serperior|Serperior, L79, M|142/248
+|move|p1a: Sylveon|Hyper Voice|p2a: Serperior
+|-damage|p2a: Serperior|0 fnt
+|faint|p2a: Serperior
+|
+|-heal|p1a: Sylveon|270/300 brn|[from] move: Wish|[wisher] Sylveon
+|-heal|p1a: Sylveon|288/300 brn|[from] item: Leftovers
+|-damage|p1a: Sylveon|270/300 brn|[from] brn
+|upkeep
+|inactive|Judgts has 120 seconds left.
+|
+|t:|1776970483
+|switch|p2a: Floatzel|Floatzel, L86, F|286/286
+|turn|40
+|
+|t:|1776970495
+|switch|p1a: Hippowdon|Hippowdon, L82, M|209/311
+|-damage|p1a: Hippowdon|190/311|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|move|p2a: Floatzel|Taunt|p1a: Hippowdon
+|-start|p1a: Hippowdon|move: Taunt
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Floatzel|269/286|[from] Sandstorm
+|-heal|p2a: Floatzel|286/286|[from] item: Leftovers
+|upkeep
+|turn|41
+|inactive|Judgts has 120 seconds left.
+|
+|t:|1776970507
+|switch|p2a: Landorus|Landorus-Therian, L76, M|94/260
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Hippowdon|atk|1
+|move|p1a: Hippowdon|Earthquake|p2a: Landorus
+|-immune|p2a: Landorus
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Landorus|110/260|[from] item: Leftovers
+|upkeep
+|turn|42
+|inactive|Judgts has 120 seconds left.
+|
+|t:|1776970527
+|switch|p1a: Weezing|Weezing, L88, M|78/258
+|-damage|p1a: Weezing|46/258|[from] Stealth Rock
+|move|p2a: Landorus|Earthquake|p1a: Weezing
+|-immune|p1a: Weezing|[from] ability: Levitate
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Weezing|30/258|[from] Sandstorm
+|-heal|p2a: Landorus|126/260|[from] item: Leftovers
+|-heal|p1a: Weezing|46/258|[from] item: Leftovers
+|upkeep
+|turn|43
+|inactive|Judgts has 120 seconds left.
+|
+|t:|1776970538
+|move|p2a: Landorus|Stone Edge|p1a: Weezing|[miss]
+|-miss|p2a: Landorus|p1a: Weezing
+|move|p1a: Weezing|Will-O-Wisp|p2a: Landorus
+|-status|p2a: Landorus|brn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Weezing|30/258|[from] Sandstorm
+|-heal|p2a: Landorus|142/260 brn|[from] item: Leftovers
+|-heal|p1a: Weezing|46/258|[from] item: Leftovers
+|-damage|p2a: Landorus|126/260 brn|[from] brn
+|upkeep
+|turn|44
+|inactive|Judgts has 120 seconds left.
+|
+|t:|1776970554
+|switch|p1a: Hippowdon|Hippowdon, L82, M|190/311
+|-damage|p1a: Hippowdon|171/311|[from] Stealth Rock
+|move|p2a: Landorus|Stone Edge|p1a: Hippowdon
+|-resisted|p1a: Hippowdon
+|-crit|p1a: Hippowdon
+|-damage|p1a: Hippowdon|147/311
+|
+|-weather|none
+|-heal|p2a: Landorus|142/260 brn|[from] item: Leftovers
+|-damage|p2a: Landorus|126/260 brn|[from] brn
+|upkeep
+|turn|45
+|inactive|Judgts has 120 seconds left.
+|
+|t:|1776970566
+|move|p2a: Landorus|U-turn|p1a: Hippowdon
+|-damage|p1a: Hippowdon|126/311
+|-damage|p2a: Landorus|83/260 brn|[from] item: Rocky Helmet|[of] p1a: Hippowdon
+|inactive|Judgts has 120 seconds left.
+|
+|t:|1776970592
+|switch|p2a: Chimecho|Chimecho, L93, F|290/290|[from] U-turn
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|282/311
+|
+|upkeep
+|turn|46
+|
+|t:|1776970603
+|switch|p1a: Sylveon|Sylveon, L85, M|270/300 brn
+|-damage|p1a: Sylveon|233/300 brn|[from] Stealth Rock
+|move|p2a: Chimecho|Heal Bell|p2a: Chimecho
+|-activate|p2a: Chimecho|move: Heal Bell
+|-curestatus|p2: Landorus|brn|[msg]
+|
+|-heal|p1a: Sylveon|251/300 brn|[from] item: Leftovers
+|-damage|p1a: Sylveon|233/300 brn|[from] brn
+|upkeep
+|turn|47
+|
+|t:|1776970618
+|move|p2a: Chimecho|Psychic Noise|p1a: Sylveon
+|-damage|p1a: Sylveon|163/300 brn
+|-start|p1a: Sylveon|move: Heal Block
+|move|p1a: Sylveon|Calm Mind|p1a: Sylveon
+|-boost|p1a: Sylveon|spa|1
+|-boost|p1a: Sylveon|spd|1
+|
+|-damage|p1a: Sylveon|145/300 brn|[from] brn
+|upkeep
+|turn|48
+|
+|t:|1776970632
+|move|p2a: Chimecho|Encore|p1a: Sylveon
+|-start|p1a: Sylveon|Encore
+|move|p1a: Sylveon|Calm Mind|p1a: Sylveon
+|-boost|p1a: Sylveon|spa|1
+|-boost|p1a: Sylveon|spd|1
+|
+|-damage|p1a: Sylveon|127/300 brn|[from] brn
+|-end|p1a: Sylveon|move: Heal Block
+|upkeep
+|turn|49
+|
+|t:|1776970641
+|move|p2a: Chimecho|Psychic Noise|p1a: Sylveon
+|-damage|p1a: Sylveon|94/300 brn
+|-start|p1a: Sylveon|move: Heal Block
+|move|p1a: Sylveon|Calm Mind|p1a: Sylveon
+|-boost|p1a: Sylveon|spa|1
+|-boost|p1a: Sylveon|spd|1
+|
+|-damage|p1a: Sylveon|76/300 brn|[from] brn
+|upkeep
+|turn|50
+|inactive|Judgts has 120 seconds left.
+|
+|t:|1776970651
+|move|p2a: Chimecho|Psychic Noise|p1a: Sylveon
+|-damage|p1a: Sylveon|49/300 brn
+|move|p1a: Sylveon|Calm Mind|p1a: Sylveon
+|-boost|p1a: Sylveon|spa|1
+|-boost|p1a: Sylveon|spd|1
+|
+|-damage|p1a: Sylveon|31/300 brn|[from] brn
+|-end|p1a: Sylveon|Encore
+|-end|p1a: Sylveon|move: Heal Block
+|upkeep
+|turn|51
+|
+|t:|1776970662
+|move|p1a: Sylveon|Protect|p1a: Sylveon
+|-singleturn|p1a: Sylveon|Protect
+|move|p2a: Chimecho|Encore|p1a: Sylveon
+|-activate|p1a: Sylveon|move: Protect
+|
+|-heal|p1a: Sylveon|49/300 brn|[from] item: Leftovers
+|-damage|p1a: Sylveon|31/300 brn|[from] brn
+|upkeep
+|turn|52
+|
+|t:|1776970673
+|move|p2a: Chimecho|Encore|p1a: Sylveon
+|-start|p1a: Sylveon|Encore
+|move|p1a: Sylveon|Protect||[still]
+|-fail|p1a: Sylveon
+|
+|-heal|p1a: Sylveon|49/300 brn|[from] item: Leftovers
+|-damage|p1a: Sylveon|31/300 brn|[from] brn
+|upkeep
+|turn|53
+|
+|t:|1776970683
+|switch|p1a: Hippowdon|Hippowdon, L82, M|282/311
+|-damage|p1a: Hippowdon|263/311|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|move|p2a: Chimecho|Psychic Noise|p1a: Hippowdon
+|-damage|p1a: Hippowdon|140/311
+|-start|p1a: Hippowdon|move: Heal Block
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Chimecho|272/290|[from] Sandstorm
+|-heal|p2a: Chimecho|290/290|[from] item: Leftovers
+|upkeep
+|turn|54
+|
+|t:|1776970698
+|switch|p2a: Landorus|Landorus-Therian, L76, M|83/260
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Hippowdon|atk|1
+|switch|p1a: Urshifu|Urshifu, L74, F|238/270
+|-damage|p1a: Urshifu|222/270|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Urshifu|206/270|[from] Sandstorm
+|-heal|p2a: Landorus|99/260|[from] item: Leftovers
+|upkeep
+|turn|55
+|
+|t:|1776970712
+|move|p1a: Urshifu|Wicked Blow|p2a: Landorus
+|-crit|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Urshifu|190/270|[from] Sandstorm
+|upkeep
+|inactive|Judgts has 120 seconds left.
+|
+|t:|1776970747
+|switch|p2a: Mimikyu|Mimikyu, L79, M|216/216
+|turn|56
+|
+|t:|1776970756
+|switch|p1a: Sylveon|Sylveon, L85, M|31/300 brn
+|-damage|p1a: Sylveon|0 fnt|[from] Stealth Rock
+|faint|p1a: Sylveon
+|move|p2a: Mimikyu|Swords Dance|p2a: Mimikyu
+|-boost|p2a: Mimikyu|atk|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Mimikyu|203/216|[from] Sandstorm
+|upkeep
+|
+|t:|1776970766
+|switch|p1a: Weezing|Weezing, L88, M|46/258
+|-damage|p1a: Weezing|14/258|[from] Stealth Rock
+|turn|57
+|
+|t:|1776970773
+|move|p2a: Mimikyu|Shadow Sneak|p1a: Weezing
+|-damage|p1a: Weezing|0 fnt
+|faint|p1a: Weezing
+|-damage|p2a: Mimikyu|182/216|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|
+|t:|1776970785
+|switch|p1a: Hippowdon|Hippowdon, L82, M|140/311
+|-damage|p1a: Hippowdon|121/311|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|turn|58
+|
+|t:|1776970794
+|move|p2a: Mimikyu|Swords Dance|p2a: Mimikyu
+|-boost|p2a: Mimikyu|atk|2
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|277/311
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Mimikyu|169/216|[from] Sandstorm
+|upkeep
+|turn|59
+|
+|t:|1776970804
+|move|p2a: Mimikyu|Drain Punch|p1a: Hippowdon
+|-damage|p1a: Hippowdon|125/311
+|-heal|p2a: Mimikyu|216/216|[from] drain|[of] p1a: Hippowdon
+|-damage|p2a: Mimikyu|180/216|[from] item: Rocky Helmet|[of] p1a: Hippowdon
+|-damage|p2a: Mimikyu|159/216|[from] item: Life Orb
+|move|p1a: Hippowdon|Earthquake|p2a: Mimikyu
+|-activate|p2a: Mimikyu|ability: Disguise
+|-damage|p2a: Mimikyu|159/216
+|detailschange|p2a: Mimikyu|Mimikyu-Busted, L79, M
+|-damage|p2a: Mimikyu|132/216|[from] pokemon: Mimikyu-Busted
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Mimikyu|119/216|[from] Sandstorm
+|upkeep
+|turn|60
+|
+|t:|1776970819
+|move|p2a: Mimikyu|Drain Punch|p1a: Hippowdon
+|-damage|p1a: Hippowdon|0 fnt
+|-heal|p2a: Mimikyu|182/216|[from] drain|[of] p1a: Hippowdon
+|-damage|p2a: Mimikyu|146/216|[from] item: Rocky Helmet|[of] p1a: Hippowdon
+|faint|p1a: Hippowdon
+|-damage|p2a: Mimikyu|125/216|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Mimikyu|112/216|[from] Sandstorm
+|upkeep
+|
+|t:|1776970833
+|switch|p1a: Urshifu|Urshifu, L74, F|190/270
+|-damage|p1a: Urshifu|174/270|[from] Stealth Rock
+|turn|61
+|
+|t:|1776970851
+|-terastallize|p2a: Mimikyu|Fairy
+|move|p1a: Urshifu|Wicked Blow|p2a: Mimikyu
+|-resisted|p2a: Mimikyu
+|-crit|p2a: Mimikyu
+|-damage|p2a: Mimikyu|44/216
+|move|p2a: Mimikyu|Drain Punch|p1a: Urshifu
+|-supereffective|p1a: Urshifu
+|-damage|p1a: Urshifu|0 fnt
+|-heal|p2a: Mimikyu|131/216|[from] drain|[of] p1a: Urshifu
+|faint|p1a: Urshifu
+|-damage|p2a: Mimikyu|110/216|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Mimikyu|97/216|[from] Sandstorm
+|upkeep
+|
+|t:|1776970866
+|switch|p1a: Regirock|Regirock, L83|268/268
+|-damage|p1a: Regirock|235/268|[from] Stealth Rock
+|turn|62
+|
+|t:|1776970878
+|-terastallize|p1a: Regirock|Fighting
+|move|p2a: Mimikyu|Play Rough|p1a: Regirock|[miss]
+|-miss|p2a: Mimikyu|p1a: Regirock
+|move|p1a: Regirock|Iron Defense|p1a: Regirock
+|-boost|p1a: Regirock|def|2
+|
+|-weather|none
+|upkeep
+|turn|63
+|
+|t:|1776970892
+|move|p2a: Mimikyu|Play Rough|p1a: Regirock
+|-supereffective|p1a: Regirock
+|-damage|p1a: Regirock|32/268
+|-damage|p2a: Mimikyu|76/216|[from] item: Life Orb
+|move|p1a: Regirock|Body Press|p2a: Mimikyu
+|-resisted|p2a: Mimikyu
+|-damage|p2a: Mimikyu|0 fnt
+|faint|p2a: Mimikyu
+|
+|upkeep
+|
+|t:|1776970902
+|switch|p2a: Milotic|Milotic, L83, F|219/293
+|turn|64
+|
+|t:|1776970908
+|move|p2a: Milotic|Scald|p1a: Regirock
+|-damage|p1a: Regirock|0 fnt
+|faint|p1a: Regirock
+|
+|-heal|p2a: Milotic|237/293|[from] item: Leftovers
+|upkeep
+|
+|t:|1776970915
+|switch|p1a: Emboar|Emboar, L84, M|322/322
+|-damage|p1a: Emboar|282/322|[from] Stealth Rock
+|turn|65
+|
+|t:|1776970921
+|move|p2a: Milotic|Scald|p1a: Emboar
+|-supereffective|p1a: Emboar
+|-damage|p1a: Emboar|130/322
+|move|p1a: Emboar|Knock Off|p2a: Milotic
+|-damage|p2a: Milotic|151/293
+|-enditem|p2a: Milotic|Leftovers|[from] move: Knock Off|[of] p1a: Emboar
+|
+|upkeep
+|turn|66
+|
+|t:|1776970928
+|move|p1a: Emboar|Sucker Punch|p2a: Milotic
+|-damage|p2a: Milotic|80/293
+|move|p2a: Milotic|Scald|p1a: Emboar
+|-supereffective|p1a: Emboar
+|-damage|p1a: Emboar|0 fnt
+|faint|p1a: Emboar
+|
+|win|Judgts
+|raw|howard15a's rating: 1280 &rarr; <strong>1255</strong><br />(-25 for losing)
+|raw|Judgts's rating: 1274 &rarr; <strong>1299</strong><br />(+25 for winning)
+|l|☆howard15a
+|player|p1|

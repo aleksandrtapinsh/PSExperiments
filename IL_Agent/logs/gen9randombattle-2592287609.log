@@ -1,0 +1,241 @@
+|j|‽wwuecec
+|j|☆zxndg
+|t:|1776976067
+|gametype|singles
+|player|p1|wwuecec|266|1000
+|player|p2|zxndg|169|1040
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776976067
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Electrode|Electrode-Hisui, L87|246/246
+|switch|p2a: Tropius|Tropius, L91, F|328/328
+|turn|1
+|
+|t:|1776976075
+|move|p1a: Electrode|Thunder Wave|p2a: Tropius
+|-status|p2a: Tropius|par
+|move|p2a: Tropius|Air Slash|p1a: Electrode
+|-damage|p1a: Electrode|161/246
+|
+|upkeep
+|turn|2
+|
+|t:|1776976086
+|move|p1a: Electrode|Volt Switch|p2a: Tropius
+|-damage|p2a: Tropius|245/328 par
+|-damage|p1a: Electrode|137/246|[from] item: Life Orb
+|
+|t:|1776976087
+|switch|p1a: Honchkrow|Honchkrow, L86, M|312/312|[from] Volt Switch
+|move|p2a: Tropius|Air Slash|p1a: Honchkrow
+|-damage|p1a: Honchkrow|204/312
+|
+|upkeep
+|turn|3
+|
+|t:|1776976091
+|move|p1a: Honchkrow|Brave Bird|p2a: Tropius
+|-supereffective|p2a: Tropius
+|-damage|p2a: Tropius|0 fnt
+|faint|p2a: Tropius
+|-ability|p1a: Honchkrow|Moxie|boost
+|-boost|p1a: Honchkrow|atk|1
+|-damage|p1a: Honchkrow|123/312|[from] Recoil
+|
+|upkeep
+|
+|t:|1776976100
+|switch|p2a: Heracross|Heracross, L80, F|259/259
+|turn|4
+|
+|t:|1776976106
+|move|p2a: Heracross|Close Combat|p1a: Honchkrow
+|-damage|p1a: Honchkrow|0 fnt
+|-unboost|p2a: Heracross|def|1
+|-unboost|p2a: Heracross|spd|1
+|faint|p1a: Honchkrow
+|-ability|p2a: Heracross|Moxie|boost
+|-boost|p2a: Heracross|atk|1
+|
+|upkeep
+|
+|t:|1776976113
+|switch|p1a: Electrode|Electrode-Hisui, L87|137/246
+|turn|5
+|
+|t:|1776976118
+|switch|p2a: Great Tusk|Great Tusk, L77|304/304
+|move|p1a: Electrode|Thunder Wave|p2a: Great Tusk
+|-immune|p2a: Great Tusk
+|
+|upkeep
+|turn|6
+|
+|t:|1776976123
+|move|p1a: Electrode|Leaf Storm|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|-unboost|p1a: Electrode|spa|2
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|-damage|p1a: Electrode|113/246|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776976128
+|switch|p2a: Seviper|Seviper, L93, M|287/287
+|turn|7
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by wwuecec)
+|
+|t:|1776976135
+|switch|p1a: Vigoroth|Vigoroth, L85, M|275/275
+|-terastallize|p2a: Seviper|Ground
+|move|p2a: Seviper|Flamethrower|p1a: Vigoroth
+|-damage|p1a: Vigoroth|180/275
+|-damage|p2a: Seviper|259/287|[from] item: Life Orb
+|
+|upkeep
+|turn|8
+|
+|t:|1776976138
+|move|p1a: Vigoroth|Body Slam|p2a: Seviper
+|-damage|p2a: Seviper|163/287
+|move|p2a: Seviper|Gunk Shot|p1a: Vigoroth|[miss]
+|-miss|p2a: Seviper|p1a: Vigoroth
+|
+|upkeep
+|turn|9
+|
+|t:|1776976143
+|move|p1a: Vigoroth|Body Slam|p2a: Seviper
+|-damage|p2a: Seviper|72/287
+|move|p2a: Seviper|Gunk Shot|p1a: Vigoroth|[miss]
+|-miss|p2a: Seviper|p1a: Vigoroth
+|
+|upkeep
+|turn|10
+|
+|t:|1776976150
+|move|p1a: Vigoroth|Body Slam|p2a: Seviper
+|-damage|p2a: Seviper|0 fnt
+|faint|p2a: Seviper
+|
+|upkeep
+|
+|t:|1776976157
+|switch|p2a: Heracross|Heracross, L80, F|259/259
+|turn|11
+|
+|t:|1776976160
+|move|p1a: Vigoroth|Body Slam|p2a: Heracross
+|-damage|p2a: Heracross|159/259
+|move|p2a: Heracross|Close Combat|p1a: Vigoroth
+|-supereffective|p1a: Vigoroth
+|-damage|p1a: Vigoroth|0 fnt
+|-unboost|p2a: Heracross|def|1
+|-unboost|p2a: Heracross|spd|1
+|faint|p1a: Vigoroth
+|-ability|p2a: Heracross|Moxie|boost
+|-boost|p2a: Heracross|atk|1
+|
+|upkeep
+|
+|t:|1776976163
+|switch|p1a: Typhlosion|Typhlosion, L84, M|267/267
+|turn|12
+|
+|t:|1776976165
+|move|p1a: Typhlosion|Eruption|p2a: Heracross
+|-supereffective|p2a: Heracross
+|-damage|p2a: Heracross|0 fnt
+|faint|p2a: Heracross
+|
+|upkeep
+|
+|t:|1776976168
+|switch|p2a: Greninja|Greninja, L80, M|246/246
+|turn|13
+|
+|t:|1776976172
+|switch|p1a: Torkoal|Torkoal, L88, F|266/266
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|move|p2a: Greninja|Ice Beam|p1a: Torkoal
+|-resisted|p1a: Torkoal
+|-damage|p1a: Torkoal|222/266
+|-damage|p2a: Greninja|222/246|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1776976181
+|move|p2a: Greninja|Dark Pulse|p1a: Torkoal
+|-damage|p1a: Torkoal|89/266
+|-damage|p2a: Greninja|198/246|[from] item: Life Orb
+|move|p1a: Torkoal|Solar Beam||[still]
+|-prepare|p1a: Torkoal|Solar Beam
+|-anim|p1a: Torkoal|Solar Beam|p2a: Greninja
+|-supereffective|p2a: Greninja
+|-damage|p2a: Greninja|0 fnt
+|faint|p2a: Greninja
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1776976187
+|switch|p2a: Volcanion|Volcanion, L79|256/256
+|turn|15
+|
+|t:|1776976190
+|move|p2a: Volcanion|Steam Eruption|p1a: Torkoal
+|-supereffective|p1a: Torkoal
+|-damage|p1a: Torkoal|0 fnt
+|faint|p1a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1776976197
+|switch|p1a: Electrode|Electrode-Hisui, L87|113/246
+|turn|16
+|
+|t:|1776976203
+|move|p1a: Electrode|Thunder Wave|p2a: Volcanion
+|-status|p2a: Volcanion|par
+|move|p2a: Volcanion|Flamethrower|p1a: Electrode
+|-supereffective|p1a: Electrode
+|-damage|p1a: Electrode|0 fnt
+|faint|p1a: Electrode
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1776976210
+|switch|p1a: Typhlosion|Typhlosion, L84, M|267/267
+|turn|17
+|
+|t:|1776976213
+|move|p1a: Typhlosion|Scorching Sands|p2a: Volcanion
+|-supereffective|p2a: Volcanion
+|-damage|p2a: Volcanion|76/256 par
+|cant|p2a: Volcanion|par
+|
+|-weather|none
+|upkeep
+|turn|18
+|-message|zxndg forfeited.
+|
+|win|wwuecec
+|raw|wwuecec's rating: 1000 &rarr; <strong>1045</strong><br />(+45 for winning)
+|raw|zxndg's rating: 1040 &rarr; <strong>1022</strong><br />(-18 for losing)
+|l|☆zxndg
+|player|p2|

@@ -1,0 +1,137 @@
+|j|☆mythicalmewsery
+|j|☆Carapace44
+|t:|1776981338
+|gametype|singles
+|player|p1|mythicalmewsery|roxie-masters|1545
+|player|p2|Carapace44|265|1560
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776981338
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Vileplume|Vileplume, L85, F|266/266
+|switch|p2a: Gouging Fire|Gouging Fire, L74|277/277
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by mythicalmewsery)
+|
+|t:|1776981345
+|move|p2a: Gouging Fire|Heat Crash|p1a: Vileplume
+|-supereffective|p1a: Vileplume
+|-damage|p1a: Vileplume|30/266
+|move|p1a: Vileplume|Sleep Powder|p2a: Gouging Fire
+|-status|p2a: Gouging Fire|slp|[from] move: Sleep Powder
+|
+|-heal|p1a: Vileplume|46/266|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776981349
+|-end|p2a: Gouging Fire|Protosynthesis|[silent]
+|switch|p2a: Charizard|Charizard, L85, M|271/271
+|move|p1a: Vileplume|Strength Sap|p2a: Charizard
+|-unboost|p2a: Charizard|atk|1
+|-heal|p1a: Vileplume|238/266
+|
+|-heal|p1a: Vileplume|254/266|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776981366
+|switch|p1a: Rampardos|Rampardos, L90, M|321/321
+|move|p2a: Charizard|Swords Dance|p2a: Charizard
+|-boost|p2a: Charizard|atk|2
+|
+|upkeep
+|turn|4
+|
+|t:|1776981374
+|move|p1a: Rampardos|Head Smash|p2a: Charizard
+|-supereffective|p2a: Charizard
+|-damage|p2a: Charizard|0 fnt
+|faint|p2a: Charizard
+|-damage|p1a: Rampardos|185/321|[from] Recoil
+|
+|upkeep
+|
+|t:|1776981384
+|switch|p2a: Slither Wing|Slither Wing, L81|270/270
+|-enditem|p2a: Slither Wing|Booster Energy
+|-activate|p2a: Slither Wing|ability: Protosynthesis|[fromitem]
+|-start|p2a: Slither Wing|protosynthesisatk
+|turn|5
+|
+|t:|1776981389
+|move|p1a: Rampardos|Head Smash|p2a: Slither Wing
+|-damage|p2a: Slither Wing|0 fnt
+|faint|p2a: Slither Wing
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|-damage|p1a: Rampardos|50/321|[from] Recoil
+|
+|upkeep
+|
+|t:|1776981396
+|switch|p2a: Gouging Fire|Gouging Fire, L74|277/277 slp
+|turn|6
+|
+|t:|1776981399
+|move|p1a: Rampardos|Head Smash|p2a: Gouging Fire
+|-supereffective|p2a: Gouging Fire
+|-damage|p2a: Gouging Fire|0 fnt
+|faint|p2a: Gouging Fire
+|-end|p2a: Gouging Fire|Protosynthesis|[silent]
+|-damage|p1a: Rampardos|0 fnt|[from] Recoil
+|faint|p1a: Rampardos
+|
+|upkeep
+|c|☆Carapace44|Bro outspend and one shot my entire team with tera
+|
+|t:|1776981426
+|switch|p2a: Miraidon|Miraidon, L65|238/238
+|switch|p1a: Poliwrath|Poliwrath, L88, F|302/302
+|-fieldstart|move: Electric Terrain|[from] ability: Hadron Engine|[of] p2a: Miraidon
+|turn|7
+|
+|t:|1776981435
+|switch|p1a: Ditto|Ditto, L87|225/225
+|-transform|p1a: Ditto|p2a: Miraidon|[from] ability: Imposter
+|-activate|p1a: Ditto|ability: Hadron Engine
+|-terastallize|p2a: Miraidon|Electric
+|move|p2a: Miraidon|Electro Drift|p1a: Ditto
+|-resisted|p1a: Ditto
+|-damage|p1a: Ditto|164/225
+|-damage|p2a: Miraidon|215/238|[from] item: Life Orb
+|
+|upkeep
+|turn|8
+|
+|t:|1776981446
+|switch|p2a: Regice|Regice, L88|284/284
+|move|p1a: Ditto|Draco Meteor|p2a: Regice
+|-damage|p2a: Regice|191/284
+|-unboost|p1a: Ditto|spa|2
+|
+|upkeep
+|turn|9
+|
+|t:|1776981453
+|switch|p1a: Excadrill|Excadrill, L79, F|303/303
+|-ability|p1a: Excadrill|Mold Breaker
+|switch|p2a: Miraidon|Miraidon, L65, tera:Electric|215/238
+|-activate|p2a: Miraidon|ability: Hadron Engine
+|
+|upkeep
+|turn|10
+|-message|Carapace44 forfeited.
+|
+|win|mythicalmewsery
+|raw|mythicalmewsery's rating: 1545 &rarr; <strong>1566</strong><br />(+21 for winning)
+|raw|Carapace44's rating: 1560 &rarr; <strong>1539</strong><br />(-21 for losing)
+|l|☆Carapace44
+|player|p2|

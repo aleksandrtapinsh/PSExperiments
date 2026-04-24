@@ -1,0 +1,535 @@
+|j|☆inaholll
+|j|☆PinoRadiata
+|t:|1776971343
+|gametype|singles
+|player|p1|inaholll|1|1040
+|player|p2|PinoRadiata|wattson|1073
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776971343
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Illumise|Illumise, L91, F|266/266
+|switch|p2a: Samurott|Samurott, L88, M|310/310
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by inaholll)
+|
+|t:|1776971351
+|move|p1a: Illumise|Bug Buzz|p2a: Samurott
+|-damage|p2a: Samurott|207/310
+|move|p2a: Samurott|Knock Off|p1a: Illumise
+|-damage|p1a: Illumise|153/266
+|-enditem|p1a: Illumise|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Samurott
+|-damage|p2a: Samurott|176/310|[from] item: Life Orb
+|
+|upkeep
+|turn|2
+|
+|t:|1776971364
+|switch|p2a: Toucannon|Toucannon, L88, F|284/284
+|move|p1a: Illumise|Bug Buzz|p2a: Toucannon
+|-resisted|p2a: Toucannon
+|-damage|p2a: Toucannon|237/284
+|
+|upkeep
+|turn|3
+|
+|t:|1776971374
+|switch|p1a: Ampharos|Ampharos, L88, F|302/302
+|-singleturn|p2a: Toucannon|move: Beak Blast
+|move|p2a: Toucannon|Beak Blast|p1a: Ampharos
+|-resisted|p1a: Ampharos
+|-damage|p1a: Ampharos|240/302
+|
+|upkeep
+|turn|4
+|
+|t:|1776971384
+|move|p2a: Toucannon|U-turn|p1a: Ampharos
+|-damage|p1a: Ampharos|178/302
+|-status|p2a: Toucannon|par|[from] ability: Static|[of] p1a: Ampharos
+|
+|t:|1776971406
+|switch|p2a: Hoopa|Hoopa-Unbound, L80|259/259|[from] U-turn
+|move|p1a: Ampharos|Volt Switch|p2a: Hoopa
+|-damage|p2a: Hoopa|181/259
+|
+|t:|1776971413
+|switch|p1a: Illumise|Illumise, L91, F|153/266|[from] Volt Switch
+|
+|upkeep
+|turn|5
+|
+|t:|1776971424
+|switch|p2a: Toucannon|Toucannon, L88, F|237/284 par
+|move|p1a: Illumise|Bug Buzz|p2a: Toucannon
+|-resisted|p2a: Toucannon
+|-damage|p2a: Toucannon|189/284 par
+|
+|upkeep
+|turn|6
+|
+|t:|1776971431
+|switch|p1a: Ampharos|Ampharos, L88, F|178/302
+|cant|p2a: Toucannon|par
+|
+|upkeep
+|turn|7
+|
+|t:|1776971439
+|switch|p2a: Shaymin|Shaymin, L82|298/298
+|move|p1a: Ampharos|Volt Switch|p2a: Shaymin
+|-resisted|p2a: Shaymin
+|-damage|p2a: Shaymin|252/298
+|
+|t:|1776971445
+|switch|p1a: Incineroar|Incineroar, L82, M|290/290|[from] Volt Switch
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Shaymin|atk|1
+|
+|-heal|p2a: Shaymin|270/298|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776971470
+|switch|p2a: Pyroar|Pyroar, L88, M|295/295
+|-ability|p2a: Pyroar|Unnerve
+|move|p1a: Incineroar|Knock Off|p2a: Pyroar
+|-damage|p2a: Pyroar|174/295
+|-enditem|p2a: Pyroar|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Incineroar
+|
+|upkeep
+|turn|9
+|
+|t:|1776971481
+|move|p2a: Pyroar|Work Up|p2a: Pyroar
+|-boost|p2a: Pyroar|atk|1
+|-boost|p2a: Pyroar|spa|1
+|move|p1a: Incineroar|Earthquake|p2a: Pyroar
+|-supereffective|p2a: Pyroar
+|-damage|p2a: Pyroar|4/295
+|
+|upkeep
+|turn|10
+|
+|t:|1776971499
+|move|p2a: Pyroar|Hyper Voice|p1a: Incineroar
+|-damage|p1a: Incineroar|131/290
+|move|p1a: Incineroar|Knock Off|p2a: Pyroar
+|-damage|p2a: Pyroar|0 fnt
+|faint|p2a: Pyroar
+|
+|upkeep
+|
+|t:|1776971506
+|switch|p2a: Samurott|Samurott, L88, M|176/310
+|turn|11
+|
+|t:|1776971520
+|switch|p2a: Shaymin|Shaymin, L82|270/298
+|switch|p1a: Wugtrio|Wugtrio, L91, M|212/212
+|
+|-heal|p2a: Shaymin|288/298|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776971529
+|switch|p1a: Incineroar|Incineroar, L82, M|131/290
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Shaymin|atk|1
+|move|p2a: Shaymin|Earth Power|p1a: Incineroar
+|-supereffective|p1a: Incineroar
+|-damage|p1a: Incineroar|13/290
+|
+|-heal|p2a: Shaymin|298/298|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776971538
+|move|p2a: Shaymin|Earth Power|p1a: Incineroar
+|-supereffective|p1a: Incineroar
+|-damage|p1a: Incineroar|0 fnt
+|faint|p1a: Incineroar
+|
+|upkeep
+|
+|t:|1776971543
+|switch|p1a: Piloswine|Piloswine, L85, F|309/309
+|turn|14
+|
+|t:|1776971551
+|-terastallize|p2a: Shaymin|Steel
+|move|p2a: Shaymin|Seed Flare|p1a: Piloswine
+|-supereffective|p1a: Piloswine
+|-damage|p1a: Piloswine|103/309
+|move|p1a: Piloswine|Icicle Crash|p2a: Shaymin|[miss]
+|-miss|p1a: Piloswine|p2a: Shaymin
+|
+|upkeep
+|turn|15
+|
+|t:|1776971561
+|move|p1a: Piloswine|Ice Shard|p2a: Shaymin
+|-resisted|p2a: Shaymin
+|-damage|p2a: Shaymin|278/298
+|move|p2a: Shaymin|Seed Flare|p1a: Piloswine
+|-supereffective|p1a: Piloswine
+|-damage|p1a: Piloswine|0 fnt
+|faint|p1a: Piloswine
+|
+|-heal|p2a: Shaymin|296/298|[from] item: Leftovers
+|upkeep
+|
+|t:|1776971569
+|switch|p1a: Ting-Lu|Ting-Lu, L78|370/370
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|turn|16
+|
+|t:|1776971581
+|switch|p2a: Samurott|Samurott, L88, M|176/310
+|move|p1a: Ting-Lu|Earthquake|p2a: Samurott
+|-damage|p2a: Samurott|83/310
+|
+|upkeep
+|turn|17
+|
+|t:|1776971591
+|switch|p1a: Ampharos|Ampharos, L88, F|178/302
+|move|p2a: Samurott|Liquidation|p1a: Ampharos
+|-damage|p1a: Ampharos|0 fnt
+|-status|p2a: Samurott|par|[from] ability: Static|[of] p1a: Ampharos
+|faint|p1a: Ampharos
+|-damage|p2a: Samurott|52/310 par|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776971598
+|switch|p1a: Ting-Lu|Ting-Lu, L78|370/370
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|turn|18
+|
+|t:|1776971602
+|move|p1a: Ting-Lu|Throat Chop|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|faint|p2a: Samurott
+|
+|upkeep
+|
+|t:|1776971607
+|switch|p2a: Swanna|Swanna, L89, M|278/278
+|turn|19
+|
+|t:|1776971615
+|move|p2a: Swanna|Hydro Pump|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|164/370
+|move|p1a: Ting-Lu|Throat Chop|p2a: Swanna
+|-damage|p2a: Swanna|175/278
+|-start|p2a: Swanna|Throat Chop|[silent]
+|
+|-heal|p1a: Ting-Lu|187/370|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1776971623
+|switch|p1a: Wugtrio|Wugtrio, L91, M|212/212
+|move|p2a: Swanna|Hydro Pump|p1a: Wugtrio
+|-resisted|p1a: Wugtrio
+|-damage|p1a: Wugtrio|145/212
+|
+|-end|p2a: Swanna|Throat Chop|[silent]
+|upkeep
+|turn|21
+|
+|t:|1776971630
+|switch|p2a: Shaymin|Shaymin, L82, tera:Steel|296/298
+|move|p1a: Wugtrio|Liquidation|p2a: Shaymin
+|-damage|p2a: Shaymin|139/298
+|-unboost|p2a: Shaymin|def|1
+|
+|-heal|p2a: Shaymin|157/298|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1776971640
+|move|p1a: Wugtrio|Liquidation|p2a: Shaymin
+|-damage|p2a: Shaymin|0 fnt
+|faint|p2a: Shaymin
+|
+|upkeep
+|
+|t:|1776971644
+|switch|p2a: Hoopa|Hoopa-Unbound, L80|181/259
+|turn|23
+|
+|t:|1776971652
+|switch|p1a: Ting-Lu|Ting-Lu, L78|187/370
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Hoopa|Hyperspace Fury|p1a: Ting-Lu
+|-resisted|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|102/370
+|-unboost|p2a: Hoopa|def|1
+|
+|-heal|p1a: Ting-Lu|125/370|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1776971665
+|switch|p2a: Swanna|Swanna, L89, M|175/278
+|switch|p1a: Wugtrio|Wugtrio, L91, M|145/212
+|
+|upkeep
+|turn|25
+|
+|t:|1776971676
+|switch|p2a: Toucannon|Toucannon, L88, F|189/284 par
+|move|p1a: Wugtrio|Liquidation|p2a: Toucannon
+|-damage|p2a: Toucannon|11/284 par
+|
+|upkeep
+|turn|26
+|
+|t:|1776971682
+|switch|p1a: Ting-Lu|Ting-Lu, L78|125/370
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Toucannon|Roost|p2a: Toucannon
+|-heal|p2a: Toucannon|153/284 par
+|-singleturn|p2a: Toucannon|move: Roost
+|
+|-heal|p1a: Ting-Lu|148/370|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1776971692
+|move|p1a: Ting-Lu|Throat Chop|p2a: Toucannon
+|-damage|p2a: Toucannon|72/284 par
+|-start|p2a: Toucannon|Throat Chop|[silent]
+|move|p2a: Toucannon|U-turn|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|36/370
+|
+|t:|1776971698
+|switch|p2a: Hoopa|Hoopa-Unbound, L80|181/259|[from] U-turn
+|
+|-heal|p1a: Ting-Lu|59/370|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1776971707
+|move|p2a: Hoopa|Drain Punch|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|0 fnt
+|-heal|p2a: Hoopa|211/259|[from] drain|[of] p1a: Ting-Lu
+|faint|p1a: Ting-Lu
+|
+|upkeep
+|
+|t:|1776971712
+|switch|p1a: Illumise|Illumise, L91, F|153/266
+|turn|29
+|
+|t:|1776971718
+|switch|p2a: Swanna|Swanna, L89, M|175/278
+|move|p1a: Illumise|Bug Buzz|p2a: Swanna
+|-resisted|p2a: Swanna
+|-damage|p2a: Swanna|117/278
+|
+|upkeep
+|turn|30
+|
+|t:|1776971725
+|move|p1a: Illumise|Thunder Wave|p2a: Swanna
+|-status|p2a: Swanna|par
+|cant|p2a: Swanna|par
+|
+|upkeep
+|turn|31
+|
+|t:|1776971730
+|-terastallize|p1a: Illumise|Steel
+|move|p1a: Illumise|Bug Buzz|p2a: Swanna
+|-resisted|p2a: Swanna
+|-damage|p2a: Swanna|60/278 par
+|move|p2a: Swanna|Roost|p2a: Swanna
+|-heal|p2a: Swanna|199/278 par
+|-singleturn|p2a: Swanna|move: Roost
+|
+|upkeep
+|turn|32
+|
+|t:|1776971738
+|move|p1a: Illumise|Encore|p2a: Swanna
+|-start|p2a: Swanna|Encore
+|move|p2a: Swanna|Roost|p2a: Swanna
+|-heal|p2a: Swanna|278/278 par
+|-singleturn|p2a: Swanna|move: Roost
+|
+|upkeep
+|turn|33
+|
+|t:|1776971745
+|switch|p1a: Wugtrio|Wugtrio, L91, M|145/212
+|switch|p2a: Toucannon|Toucannon, L88, F|72/284 par
+|
+|upkeep
+|turn|34
+|
+|t:|1776971752
+|move|p1a: Wugtrio|Liquidation|p2a: Toucannon
+|-damage|p2a: Toucannon|0 fnt
+|faint|p2a: Toucannon
+|
+|upkeep
+|
+|t:|1776971757
+|switch|p2a: Hoopa|Hoopa-Unbound, L80|211/259
+|turn|35
+|
+|t:|1776971764
+|move|p1a: Wugtrio|Liquidation|p2a: Hoopa
+|-damage|p2a: Hoopa|7/259
+|move|p2a: Hoopa|Zen Headbutt|p1a: Wugtrio
+|-damage|p1a: Wugtrio|0 fnt
+|-ability|p1a: Wugtrio|Gooey
+|-unboost|p2a: Hoopa|spe|1
+|faint|p1a: Wugtrio
+|
+|upkeep
+|
+|t:|1776971766
+|switch|p1a: Illumise|Illumise, L91, F, tera:Steel|153/266
+|turn|36
+|
+|t:|1776971775
+|move|p1a: Illumise|Bug Buzz|p2a: Hoopa
+|-supereffective|p2a: Hoopa
+|-damage|p2a: Hoopa|0 fnt
+|faint|p2a: Hoopa
+|
+|upkeep
+|
+|t:|1776971779
+|switch|p2a: Swanna|Swanna, L89, M|278/278 par
+|turn|37
+|
+|t:|1776971787
+|move|p1a: Illumise|Roost|p1a: Illumise
+|-heal|p1a: Illumise|266/266
+|move|p2a: Swanna|Hydro Pump|p1a: Illumise
+|-crit|p1a: Illumise
+|-damage|p1a: Illumise|88/266
+|
+|upkeep
+|turn|38
+|
+|t:|1776971793
+|move|p1a: Illumise|Roost|p1a: Illumise
+|-heal|p1a: Illumise|221/266
+|move|p2a: Swanna|Hydro Pump|p1a: Illumise
+|-damage|p1a: Illumise|109/266
+|
+|upkeep
+|turn|39
+|
+|t:|1776971798
+|move|p1a: Illumise|Roost|p1a: Illumise
+|-heal|p1a: Illumise|242/266
+|move|p2a: Swanna|Hydro Pump|p1a: Illumise
+|-damage|p1a: Illumise|124/266
+|
+|upkeep
+|turn|40
+|
+|t:|1776971804
+|move|p1a: Illumise|Roost|p1a: Illumise
+|-heal|p1a: Illumise|257/266
+|move|p2a: Swanna|Hydro Pump|p1a: Illumise|[miss]
+|-miss|p2a: Swanna|p1a: Illumise
+|
+|upkeep
+|turn|41
+|
+|t:|1776971810
+|move|p1a: Illumise|Bug Buzz|p2a: Swanna
+|-resisted|p2a: Swanna
+|-damage|p2a: Swanna|228/278 par
+|move|p2a: Swanna|Brave Bird|p1a: Illumise
+|-resisted|p1a: Illumise
+|-damage|p1a: Illumise|184/266
+|-damage|p2a: Swanna|204/278 par|[from] Recoil
+|
+|upkeep
+|turn|42
+|
+|t:|1776971818
+|move|p1a: Illumise|Encore|p2a: Swanna
+|-start|p2a: Swanna|Encore
+|move|p2a: Swanna|Brave Bird|p1a: Illumise
+|-resisted|p1a: Illumise
+|-damage|p1a: Illumise|111/266
+|-damage|p2a: Swanna|180/278 par|[from] Recoil
+|
+|upkeep
+|turn|43
+|
+|t:|1776971826
+|move|p1a: Illumise|Roost|p1a: Illumise
+|-heal|p1a: Illumise|244/266
+|move|p2a: Swanna|Brave Bird|p1a: Illumise
+|-resisted|p1a: Illumise
+|-damage|p1a: Illumise|181/266
+|-damage|p2a: Swanna|159/278 par|[from] Recoil
+|
+|upkeep
+|turn|44
+|c|☆PinoRadiata|are u woman?
+|
+|t:|1776971839
+|move|p1a: Illumise|Bug Buzz|p2a: Swanna
+|-resisted|p2a: Swanna
+|-damage|p2a: Swanna|103/278 par
+|move|p2a: Swanna|Brave Bird|p1a: Illumise
+|-resisted|p1a: Illumise
+|-damage|p1a: Illumise|117/266
+|-damage|p2a: Swanna|82/278 par|[from] Recoil
+|
+|-end|p2a: Swanna|Encore
+|upkeep
+|turn|45
+|
+|t:|1776971850
+|move|p1a: Illumise|Encore|p2a: Swanna
+|-start|p2a: Swanna|Encore
+|move|p2a: Swanna|Brave Bird|p1a: Illumise
+|-resisted|p1a: Illumise
+|-damage|p1a: Illumise|53/266
+|-damage|p2a: Swanna|61/278 par|[from] Recoil
+|
+|upkeep
+|turn|46
+|
+|t:|1776971857
+|move|p1a: Illumise|Roost|p1a: Illumise
+|-heal|p1a: Illumise|186/266
+|move|p2a: Swanna|Brave Bird|p1a: Illumise
+|-resisted|p1a: Illumise
+|-damage|p1a: Illumise|120/266
+|-damage|p2a: Swanna|39/278 par|[from] Recoil
+|
+|upkeep
+|turn|47
+|c|☆PinoRadiata|little rat
+|-message|PinoRadiata forfeited.
+|
+|win|inaholll
+|raw|inaholll's rating: 1076 &rarr; <strong>1104</strong><br />(+28 for winning)
+|raw|PinoRadiata's rating: 1073 &rarr; <strong>1052</strong><br />(-21 for losing)
+|l|☆PinoRadiata
+|player|p2|

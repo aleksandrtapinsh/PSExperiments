@@ -1,0 +1,284 @@
+|j|☆Veggie Holes
+|j|☆Gaviston
+|t:|1776984772
+|gametype|singles
+|player|p1|Veggie Holes|lass-gen4dp|1400
+|player|p2|Gaviston|102|1366
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776984772
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Arbok|Arbok, L87, F|246/246
+|switch|p2a: Talonflame|Talonflame, L83, M|265/265
+|-ability|p1a: Arbok|Intimidate|boost
+|-unboost|p2a: Talonflame|atk|1
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Veggie Holes)
+|inactive|Gaviston has 120 seconds left.
+|inactive|Gaviston has 90 seconds left.
+|
+|t:|1776984854
+|move|p2a: Talonflame|Swords Dance|p2a: Talonflame
+|-boost|p2a: Talonflame|atk|2
+|move|p1a: Arbok|Trailblaze|p2a: Talonflame
+|-resisted|p2a: Talonflame
+|-damage|p2a: Talonflame|254/265
+|-boost|p1a: Arbok|spe|1
+|
+|upkeep
+|turn|2
+|
+|t:|1776984868
+|-terastallize|p2a: Talonflame|Ground
+|move|p1a: Arbok|Coil|p1a: Arbok
+|-boost|p1a: Arbok|atk|1
+|-boost|p1a: Arbok|def|1
+|-boost|p1a: Arbok|accuracy|1
+|move|p2a: Talonflame|Tera Blast|p1a: Arbok|[anim] Tera Blast Ground
+|-supereffective|p1a: Arbok
+|-crit|p1a: Arbok
+|-damage|p1a: Arbok|0 fnt
+|faint|p1a: Arbok
+|
+|upkeep
+|
+|t:|1776984879
+|switch|p1a: Meowstic|Meowstic, L89, M|277/277
+|turn|3
+|
+|t:|1776984892
+|move|p1a: Meowstic|Reflect|p1a: Meowstic
+|-sidestart|p1: Veggie Holes|Reflect
+|move|p2a: Talonflame|Tera Blast|p1a: Meowstic|[anim] Tera Blast Ground
+|-damage|p1a: Meowstic|217/277
+|
+|upkeep
+|turn|4
+|
+|t:|1776984897
+|move|p2a: Talonflame|Swords Dance|p2a: Talonflame
+|-boost|p2a: Talonflame|atk|2
+|move|p1a: Meowstic|Psychic Noise|p2a: Talonflame
+|-crit|p2a: Talonflame
+|-damage|p2a: Talonflame|116/265
+|-start|p2a: Talonflame|move: Heal Block
+|
+|upkeep
+|turn|5
+|
+|t:|1776984901
+|move|p2a: Talonflame|Tera Blast|p1a: Meowstic|[anim] Tera Blast Ground
+|-damage|p1a: Meowstic|114/277
+|move|p1a: Meowstic|Psychic Noise|p2a: Talonflame
+|-damage|p2a: Talonflame|11/265
+|
+|-end|p2a: Talonflame|move: Heal Block
+|upkeep
+|turn|6
+|
+|t:|1776984909
+|move|p2a: Talonflame|Flare Blitz|p1a: Meowstic
+|-damage|p1a: Meowstic|0 fnt
+|faint|p1a: Meowstic
+|-damage|p2a: Talonflame|0 fnt|[from] Recoil
+|faint|p2a: Talonflame
+|
+|upkeep
+|
+|t:|1776984913
+|switch|p2a: Eiscue|Eiscue, L88, M|274/274
+|switch|p1a: Klefki|Klefki, L84, M|233/233
+|turn|7
+|
+|t:|1776984917
+|switch|p2a: Magnezone|Magnezone, L85|258/258
+|move|p1a: Klefki|Thunder Wave|p2a: Magnezone
+|-immune|p2a: Magnezone
+|
+|upkeep
+|turn|8
+|
+|t:|1776984924
+|move|p1a: Klefki|Spikes|p2a: Magnezone
+|-sidestart|p2: Gaviston|Spikes
+|move|p2a: Magnezone|Discharge|p1a: Klefki
+|-damage|p1a: Klefki|95/233
+|-status|p1a: Klefki|par
+|
+|-heal|p1a: Klefki|109/233 par|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776984927
+|move|p1a: Klefki|Spikes|p2a: Magnezone
+|-sidestart|p2: Gaviston|Spikes
+|move|p2a: Magnezone|Discharge|p1a: Klefki
+|-damage|p1a: Klefki|0 fnt
+|faint|p1a: Klefki
+|
+|upkeep
+|
+|t:|1776984934
+|switch|p1a: Zapdos|Zapdos-Galar, L77|265/265
+|turn|10
+|
+|t:|1776984939
+|move|p1a: Zapdos|Close Combat|p2a: Magnezone
+|-supereffective|p2a: Magnezone
+|-crit|p2a: Magnezone
+|-damage|p2a: Magnezone|0 fnt
+|-unboost|p1a: Zapdos|def|1
+|-unboost|p1a: Zapdos|spd|1
+|faint|p2a: Magnezone
+|
+|-sideend|p1: Veggie Holes|Reflect
+|upkeep
+|
+|t:|1776984953
+|switch|p2a: Houndstone|Houndstone, L86, M|264/264
+|-damage|p2a: Houndstone|220/264|[from] Spikes
+|turn|11
+|
+|t:|1776984957
+|switch|p1a: Mandibuzz|Mandibuzz, L85, F|326/326
+|move|p2a: Houndstone|Poltergeist|p1a: Mandibuzz
+|-activate|p1a: Mandibuzz|move: Poltergeist|Heavy-Duty Boots
+|-resisted|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|273/326
+|
+|-heal|p2a: Houndstone|236/264|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776984977
+|move|p1a: Mandibuzz|Foul Play|p2a: Houndstone
+|-supereffective|p2a: Houndstone
+|-damage|p2a: Houndstone|130/264
+|move|p2a: Houndstone|Body Press|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|224/326
+|
+|-heal|p2a: Houndstone|146/264|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776984988
+|switch|p2a: Palkia|Palkia-Origin, L72|249/249
+|-damage|p2a: Palkia|208/249|[from] Spikes
+|-ability|p2a: Palkia|Pressure
+|move|p1a: Mandibuzz|Foul Play|p2a: Palkia
+|-damage|p2a: Palkia|133/249
+|
+|upkeep
+|turn|14
+|
+|t:|1776985004
+|move|p2a: Palkia|Thunder Wave|p1a: Mandibuzz
+|-status|p1a: Mandibuzz|par
+|cant|p1a: Mandibuzz|par
+|
+|upkeep
+|turn|15
+|
+|t:|1776985025
+|move|p2a: Palkia|Hydro Pump|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|79/326 par
+|move|p1a: Mandibuzz|Foul Play|p2a: Palkia
+|-damage|p2a: Palkia|58/249
+|
+|upkeep
+|turn|16
+|
+|t:|1776985042
+|move|p2a: Palkia|Hydro Pump|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|0 fnt
+|faint|p1a: Mandibuzz
+|
+|upkeep
+|
+|t:|1776985052
+|switch|p1a: Zapdos|Zapdos-Galar, L77|265/265
+|turn|17
+|
+|t:|1776985058
+|move|p1a: Zapdos|Knock Off|p2a: Palkia
+|-damage|p2a: Palkia|12/249
+|move|p2a: Palkia|Thunder Wave|p1a: Zapdos
+|-status|p1a: Zapdos|par
+|
+|upkeep
+|turn|18
+|
+|t:|1776985063
+|move|p2a: Palkia|Draco Meteor|p1a: Zapdos
+|-damage|p1a: Zapdos|76/265 par
+|-unboost|p2a: Palkia|spa|2
+|move|p1a: Zapdos|Knock Off|p2a: Palkia
+|-damage|p2a: Palkia|0 fnt
+|faint|p2a: Palkia
+|
+|upkeep
+|
+|t:|1776985070
+|switch|p2a: Eiscue|Eiscue, L88, M|274/274
+|-damage|p2a: Eiscue|229/274|[from] Spikes
+|turn|19
+|
+|t:|1776985073
+|move|p1a: Zapdos|Knock Off|p2a: Eiscue
+|-activate|p2a: Eiscue|ability: Ice Face
+|-damage|p2a: Eiscue|229/274
+|-enditem|p2a: Eiscue|Sitrus Berry|[from] move: Knock Off|[of] p1a: Zapdos
+|detailschange|p2a: Eiscue|Eiscue-Noice, L88, M
+|move|p2a: Eiscue|Belly Drum|p2a: Eiscue
+|-damage|p2a: Eiscue|92/274
+|-setboost|p2a: Eiscue|atk|6|[from] move: Belly Drum
+|
+|upkeep
+|turn|20
+|
+|t:|1776985081
+|move|p2a: Eiscue|Ice Spinner|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|upkeep
+|
+|t:|1776985083
+|switch|p1a: Vigoroth|Vigoroth, L85, F|275/275
+|turn|21
+|
+|t:|1776985086
+|move|p2a: Eiscue|Ice Spinner|p1a: Vigoroth
+|-damage|p1a: Vigoroth|56/275
+|move|p1a: Vigoroth|Body Slam|p2a: Eiscue
+|-damage|p2a: Eiscue|0 fnt
+|faint|p2a: Eiscue
+|
+|upkeep
+|
+|t:|1776985089
+|switch|p2a: Bruxish|Bruxish, L85, F|254/254
+|-damage|p2a: Bruxish|212/254|[from] Spikes
+|turn|22
+|
+|t:|1776985092
+|move|p2a: Bruxish|Wave Crash|p1a: Vigoroth
+|-damage|p1a: Vigoroth|0 fnt
+|faint|p1a: Vigoroth
+|-damage|p2a: Bruxish|194/254|[from] Recoil
+|-damage|p2a: Bruxish|169/254|[from] item: Life Orb
+|
+|win|Gaviston
+|raw|Veggie Holes's rating: 1400 &rarr; <strong>1378</strong><br />(-22 for losing)
+|raw|Gaviston's rating: 1366 &rarr; <strong>1388</strong><br />(+22 for winning)
+|l|☆Veggie Holes
+|player|p1|

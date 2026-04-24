@@ -1,0 +1,162 @@
+|j|☆fgdfgfgbaghath
+|j|☆xelam
+|t:|1776981854
+|gametype|singles
+|player|p1|fgdfgfgbaghath|266|1343
+|player|p2|xelam|265|1353
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776981854
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Hitmonchan|Hitmonchan, L87, M|229/229
+|switch|p2a: Wo-Chien|Wo-Chien, L83|277/277
+|-ability|p2a: Wo-Chien|Tablets of Ruin
+|turn|1
+|
+|t:|1776981882
+|move|p1a: Hitmonchan|Drain Punch|p2a: Wo-Chien
+|-supereffective|p2a: Wo-Chien
+|-damage|p2a: Wo-Chien|139/277
+|move|p2a: Wo-Chien|Knock Off|p1a: Hitmonchan
+|-resisted|p1a: Hitmonchan
+|-damage|p1a: Hitmonchan|184/229
+|-enditem|p1a: Hitmonchan|Leftovers|[from] move: Knock Off|[of] p2a: Wo-Chien
+|
+|-heal|p2a: Wo-Chien|156/277|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776981903
+|move|p2a: Wo-Chien|Protect|p2a: Wo-Chien
+|-singleturn|p2a: Wo-Chien|Protect
+|move|p1a: Hitmonchan|Knock Off|p2a: Wo-Chien
+|-activate|p2a: Wo-Chien|move: Protect
+|
+|-heal|p2a: Wo-Chien|173/277|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776981917
+|move|p1a: Hitmonchan|Knock Off|p2a: Wo-Chien
+|-resisted|p2a: Wo-Chien
+|-damage|p2a: Wo-Chien|145/277
+|-enditem|p2a: Wo-Chien|Leftovers|[from] move: Knock Off|[of] p1a: Hitmonchan
+|move|p2a: Wo-Chien|Leech Seed|p1a: Hitmonchan
+|-start|p1a: Hitmonchan|move: Leech Seed
+|
+|-damage|p1a: Hitmonchan|156/229|[from] Leech Seed|[of] p2a: Wo-Chien
+|-heal|p2a: Wo-Chien|173/277|[silent]
+|upkeep
+|turn|4
+|
+|t:|1776981935
+|switch|p1a: Zangoose|Zangoose, L85, F|263/263
+|move|p2a: Wo-Chien|Knock Off|p1a: Zangoose
+|-damage|p1a: Zangoose|143/263
+|-enditem|p1a: Zangoose|Toxic Orb|[from] move: Knock Off|[of] p2a: Wo-Chien
+|
+|upkeep
+|turn|5
+|
+|t:|1776981959
+|switch|p1a: Hitmonchan|Hitmonchan, L87, M|156/229
+|move|p2a: Wo-Chien|Leech Seed|p1a: Hitmonchan
+|-start|p1a: Hitmonchan|move: Leech Seed
+|
+|-damage|p1a: Hitmonchan|128/229|[from] Leech Seed|[of] p2a: Wo-Chien
+|-heal|p2a: Wo-Chien|201/277|[silent]
+|upkeep
+|turn|6
+|
+|t:|1776981973
+|move|p1a: Hitmonchan|Encore|p2a: Wo-Chien
+|-start|p2a: Wo-Chien|Encore
+|move|p2a: Wo-Chien|Leech Seed||[still]
+|-fail|p2a: Wo-Chien
+|
+|-damage|p1a: Hitmonchan|100/229|[from] Leech Seed|[of] p2a: Wo-Chien
+|-heal|p2a: Wo-Chien|229/277|[silent]
+|upkeep
+|turn|7
+|
+|t:|1776981982
+|switch|p1a: Arboliva|Arboliva, L91, M|288/288
+|move|p2a: Wo-Chien|Leech Seed|p1a: Arboliva
+|-immune|p1a: Arboliva
+|
+|upkeep
+|turn|8
+|
+|t:|1776981995
+|switch|p2a: Oricorio|Oricorio-Sensu, L85, M|266/266
+|move|p1a: Arboliva|Substitute|p1a: Arboliva
+|-start|p1a: Arboliva|Substitute
+|-damage|p1a: Arboliva|216/288
+|
+|upkeep
+|turn|9
+|
+|t:|1776982006
+|move|p2a: Oricorio|Hurricane|p1a: Arboliva
+|-supereffective|p1a: Arboliva
+|-end|p1a: Arboliva|Substitute
+|move|p1a: Arboliva|Leech Seed|p2a: Oricorio|[miss]
+|-miss|p1a: Arboliva|p2a: Oricorio
+|
+|upkeep
+|turn|10
+|
+|t:|1776982014
+|switch|p1a: Sylveon|Sylveon, L85, M|300/300
+|move|p2a: Oricorio|Hurricane|p1a: Sylveon|[miss]
+|-miss|p2a: Oricorio|p1a: Sylveon
+|
+|upkeep
+|turn|11
+|
+|t:|1776982030
+|switch|p2a: Magearna|Magearna-Original, L77|250/250
+|move|p1a: Sylveon|Calm Mind|p1a: Sylveon
+|-boost|p1a: Sylveon|spa|1
+|-boost|p1a: Sylveon|spd|1
+|
+|upkeep
+|turn|12
+|
+|t:|1776982042
+|move|p1a: Sylveon|Calm Mind|p1a: Sylveon
+|-boost|p1a: Sylveon|spa|1
+|-boost|p1a: Sylveon|spd|1
+|move|p2a: Magearna|Shift Gear|p2a: Magearna
+|-boost|p2a: Magearna|spe|2
+|-boost|p2a: Magearna|atk|1
+|
+|upkeep
+|turn|13
+|
+|t:|1776982059
+|move|p2a: Magearna|Iron Head|p1a: Sylveon
+|-supereffective|p1a: Sylveon
+|-damage|p1a: Sylveon|40/300
+|move|p1a: Sylveon|Calm Mind|p1a: Sylveon
+|-boost|p1a: Sylveon|spa|1
+|-boost|p1a: Sylveon|spd|1
+|
+|-heal|p1a: Sylveon|58/300|[from] item: Leftovers
+|upkeep
+|turn|14
+|-message|fgdfgfgbaghath forfeited.
+|
+|win|xelam
+|raw|fgdfgfgbaghath's rating: 1343 &rarr; <strong>1324</strong><br />(-19 for losing)
+|raw|xelam's rating: 1353 &rarr; <strong>1372</strong><br />(+19 for winning)
+|l|☆fgdfgfgbaghath
+|player|p1|

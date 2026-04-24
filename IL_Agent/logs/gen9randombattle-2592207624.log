@@ -1,0 +1,167 @@
+|j|☆narinda
+|j|☆Hdhhdgjfhdhdhdd
+|t:|1776970421
+|gametype|singles
+|player|p1|narinda|alder|1149
+|player|p2|Hdhhdgjfhdhdhdd|169|1106
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776970421
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Toxtricity|Toxtricity, L82, M|257/257
+|switch|p2a: Mewtwo|Mewtwo, L72|272/272
+|-ability|p2a: Mewtwo|Pressure
+|turn|1
+|
+|t:|1776970438
+|move|p1a: Toxtricity|Boomburst|p2a: Mewtwo
+|-damage|p2a: Mewtwo|102/272
+|move|p2a: Mewtwo|Psystrike|p1a: Toxtricity
+|-supereffective|p1a: Toxtricity
+|-damage|p1a: Toxtricity|0 fnt
+|faint|p1a: Toxtricity
+|
+|upkeep
+|
+|t:|1776970446
+|switch|p1a: Umbreon|Umbreon, L84, F|297/297
+|turn|2
+|
+|t:|1776970454
+|switch|p2a: Seviper|Seviper, L93, F|287/287
+|move|p1a: Umbreon|Foul Play|p2a: Seviper
+|-damage|p2a: Seviper|158/287
+|
+|upkeep
+|turn|3
+|
+|t:|1776970461
+|switch|p1a: Chimecho|Chimecho, L93, F|290/290
+|move|p2a: Seviper|Switcheroo|p1a: Chimecho
+|-activate|p2a: Seviper|move: Trick|[of] p1a: Chimecho
+|-item|p1a: Chimecho|Choice Scarf|[from] move: Switcheroo
+|-item|p2a: Seviper|Leftovers|[from] move: Switcheroo
+|
+|-heal|p2a: Seviper|175/287|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776970469
+|switch|p2a: Weavile|Weavile, L79, F|240/240
+|move|p1a: Chimecho|Encore||[still]
+|-fail|p1a: Chimecho
+|
+|upkeep
+|turn|5
+|
+|t:|1776970479
+|switch|p1a: Umbreon|Umbreon, L84, F|297/297
+|move|p2a: Weavile|Triple Axel|p1a: Umbreon
+|-damage|p1a: Umbreon|279/297
+|-damage|p1a: Umbreon|245/297
+|-damage|p1a: Umbreon|188/297
+|-hitcount|p1a: Umbreon|3
+|
+|-heal|p1a: Umbreon|206/297|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776970483
+|switch|p2a: Seviper|Seviper, L93, F|175/287
+|move|p1a: Umbreon|Toxic|p2a: Seviper
+|-immune|p2a: Seviper
+|
+|-heal|p2a: Seviper|192/287|[from] item: Leftovers
+|-heal|p1a: Umbreon|224/297|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776970489
+|move|p1a: Umbreon|Protect|p1a: Umbreon
+|-singleturn|p1a: Umbreon|Protect
+|move|p2a: Seviper|Gunk Shot|p1a: Umbreon
+|-activate|p1a: Umbreon|move: Protect
+|
+|-heal|p2a: Seviper|209/287|[from] item: Leftovers
+|-heal|p1a: Umbreon|242/297|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776970497
+|switch|p1a: Chimecho|Chimecho, L93, F|290/290
+|move|p2a: Seviper|Gunk Shot|p1a: Chimecho
+|-damage|p1a: Chimecho|148/290
+|-status|p1a: Chimecho|psn
+|
+|-heal|p2a: Seviper|226/287|[from] item: Leftovers
+|-damage|p1a: Chimecho|112/290 psn|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1776970504
+|switch|p2a: Weavile|Weavile, L79, F|240/240
+|move|p1a: Chimecho|Knock Off|p2a: Weavile
+|-resisted|p2a: Weavile
+|-damage|p2a: Weavile|206/240
+|-enditem|p2a: Weavile|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Chimecho
+|-enditem|p1a: Chimecho|Choice Scarf|[silent]|[from] ability: Pickpocket|[of] p1a: Chimecho
+|-item|p2a: Weavile|Choice Scarf|[from] ability: Pickpocket|[of] p1a: Chimecho
+|
+|-damage|p1a: Chimecho|76/290 psn|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1776970514
+|switch|p1a: Umbreon|Umbreon, L84, F|242/297
+|move|p2a: Weavile|Knock Off|p1a: Umbreon
+|-resisted|p1a: Umbreon
+|-damage|p1a: Umbreon|196/297
+|-enditem|p1a: Umbreon|Leftovers|[from] move: Knock Off|[of] p2a: Weavile
+|
+|upkeep
+|turn|11
+|
+|t:|1776970522
+|switch|p2a: Seviper|Seviper, L93, F|226/287
+|move|p1a: Umbreon|Wish|p1a: Umbreon
+|
+|-heal|p2a: Seviper|243/287|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776970531
+|switch|p2a: Sudowoodo|Sudowoodo, L94, F|284/284
+|switch|p1a: Lycanroc|Lycanroc, L86, F|269/269
+|
+|upkeep
+|turn|13
+|
+|t:|1776970542
+|move|p1a: Lycanroc|Close Combat|p2a: Sudowoodo
+|-supereffective|p2a: Sudowoodo
+|-damage|p2a: Sudowoodo|107/284
+|-unboost|p1a: Lycanroc|def|1
+|-unboost|p1a: Lycanroc|spd|1
+|-damage|p1a: Lycanroc|243/269|[from] item: Life Orb
+|move|p2a: Sudowoodo|Earthquake|p1a: Lycanroc
+|-supereffective|p1a: Lycanroc
+|-damage|p1a: Lycanroc|0 fnt
+|faint|p1a: Lycanroc
+|
+|-heal|p2a: Sudowoodo|124/284|[from] item: Leftovers
+|upkeep
+|-message|narinda forfeited.
+|
+|win|Hdhhdgjfhdhdhdd
+|raw|narinda's rating: 1149 &rarr; <strong>1121</strong><br />(-28 for losing)
+|raw|Hdhhdgjfhdhdhdd's rating: 1106 &rarr; <strong>1134</strong><br />(+28 for winning)
+|l|☆narinda
+|player|p1|

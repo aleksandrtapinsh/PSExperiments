@@ -1,0 +1,386 @@
+|j|☆LoscarGD
+|j|☆warlin1919
+|t:|1776972699
+|gametype|singles
+|player|p1|LoscarGD|benga|
+|player|p2|warlin1919|2|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776972699
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Politoed|Politoed, L88, M|302/302
+|switch|p2a: Muk|Muk-Alola, L82, F|306/306
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Politoed
+|turn|1
+|
+|t:|1776972740
+|move|p1a: Politoed|Surf|p2a: Muk
+|-damage|p2a: Muk|203/306
+|move|p2a: Muk|Poison Jab|p1a: Politoed
+|-damage|p1a: Politoed|209/302
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Politoed|227/302|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776972749
+|move|p1a: Politoed|Encore|p2a: Muk
+|-start|p2a: Muk|Encore
+|move|p2a: Muk|Poison Jab|p1a: Politoed
+|-damage|p1a: Politoed|134/302
+|-status|p1a: Politoed|psn|[from] ability: Poison Touch|[of] p2a: Muk
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Politoed|152/302 psn|[from] item: Leftovers
+|-damage|p1a: Politoed|115/302 psn|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1776972763
+|switch|p1a: Dudunsparce|Dudunsparce-Three-Segment, L83, M|343/343
+|move|p2a: Muk|Poison Jab|p1a: Dudunsparce
+|-damage|p1a: Dudunsparce|247/343
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Dudunsparce|268/343|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776972772
+|move|p1a: Dudunsparce|Earthquake|p2a: Muk
+|-supereffective|p2a: Muk
+|-damage|p2a: Muk|39/306
+|move|p2a: Muk|Poison Jab|p1a: Dudunsparce
+|-damage|p1a: Dudunsparce|169/343
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Dudunsparce|190/343|[from] item: Leftovers
+|-end|p2a: Muk|Encore
+|upkeep
+|turn|5
+|
+|t:|1776972815
+|move|p1a: Dudunsparce|Earthquake|p2a: Muk
+|-supereffective|p2a: Muk
+|-damage|p2a: Muk|0 fnt
+|faint|p2a: Muk
+|
+|-weather|none
+|-heal|p1a: Dudunsparce|211/343|[from] item: Leftovers
+|upkeep
+|
+|t:|1776972854
+|switch|p2a: Exeggutor|Exeggutor, L89, F|314/314
+|turn|6
+|
+|t:|1776972872
+|switch|p1a: Vespiquen|Vespiquen, L99, F|299/299
+|-ability|p1a: Vespiquen|Pressure
+|move|p2a: Exeggutor|Sleep Powder|p1a: Vespiquen
+|-status|p1a: Vespiquen|slp|[from] move: Sleep Powder
+|
+|upkeep
+|turn|7
+|
+|t:|1776972911
+|move|p2a: Exeggutor|Psyshock|p1a: Vespiquen
+|-damage|p1a: Vespiquen|211/299 slp
+|cant|p1a: Vespiquen|slp
+|
+|upkeep
+|turn|8
+|
+|t:|1776972937
+|-terastallize|p2a: Exeggutor|Steel
+|move|p2a: Exeggutor|Calm Mind|p2a: Exeggutor
+|-boost|p2a: Exeggutor|spa|1
+|-boost|p2a: Exeggutor|spd|1
+|cant|p1a: Vespiquen|slp
+|
+|upkeep
+|turn|9
+|
+|t:|1776972950
+|move|p2a: Exeggutor|Calm Mind|p2a: Exeggutor
+|-boost|p2a: Exeggutor|spa|1
+|-boost|p2a: Exeggutor|spd|1
+|-curestatus|p1a: Vespiquen|slp|[msg]
+|move|p1a: Vespiquen|U-turn|p2a: Exeggutor
+|-resisted|p2a: Exeggutor
+|-damage|p2a: Exeggutor|269/314
+|
+|t:|1776972957
+|switch|p1a: Dudunsparce|Dudunsparce-Three-Segment, L83, M|211/343|[from] U-turn
+|
+|-heal|p1a: Dudunsparce|232/343|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1776972979
+|move|p2a: Exeggutor|Psyshock|p1a: Dudunsparce
+|-damage|p1a: Dudunsparce|0 fnt
+|faint|p1a: Dudunsparce
+|
+|upkeep
+|
+|t:|1776972988
+|switch|p1a: Slaking|Slaking, L84, M|389/389
+|turn|11
+|
+|t:|1776972996
+|move|p1a: Slaking|Earthquake|p2a: Exeggutor
+|-supereffective|p2a: Exeggutor
+|-damage|p2a: Exeggutor|0 fnt
+|faint|p2a: Exeggutor
+|
+|upkeep
+|
+|t:|1776973007
+|switch|p2a: Sawsbuck|Sawsbuck-Summer, L88, M|284/284
+|turn|12
+|
+|t:|1776973014
+|switch|p1a: Vespiquen|Vespiquen, L99, F|211/299
+|-ability|p1a: Vespiquen|Pressure
+|move|p2a: Sawsbuck|Swords Dance|p2a: Sawsbuck
+|-boost|p2a: Sawsbuck|atk|2
+|
+|upkeep
+|turn|13
+|
+|t:|1776973029
+|move|p2a: Sawsbuck|Headbutt|p1a: Vespiquen
+|-damage|p1a: Vespiquen|58/299
+|-damage|p2a: Sawsbuck|256/284|[from] item: Life Orb
+|move|p1a: Vespiquen|Toxic|p2a: Sawsbuck
+|-status|p2a: Sawsbuck|tox
+|
+|-damage|p2a: Sawsbuck|239/284 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1776973056
+|move|p2a: Sawsbuck|Headbutt|p1a: Vespiquen
+|-damage|p1a: Vespiquen|0 fnt
+|faint|p1a: Vespiquen
+|-damage|p2a: Sawsbuck|211/284 tox|[from] item: Life Orb
+|
+|-damage|p2a: Sawsbuck|177/284 tox|[from] psn
+|upkeep
+|
+|t:|1776973063
+|switch|p1a: Politoed|Politoed, L88, M|115/302 psn
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Politoed
+|turn|15
+|
+|t:|1776973075
+|move|p2a: Sawsbuck|Horn Leech|p1a: Politoed
+|-supereffective|p1a: Politoed
+|-damage|p1a: Politoed|0 fnt
+|-heal|p2a: Sawsbuck|235/284 tox|[from] drain|[of] p1a: Politoed
+|faint|p1a: Politoed
+|-damage|p2a: Sawsbuck|207/284 tox|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Sawsbuck|156/284 tox|[from] psn
+|upkeep
+|
+|t:|1776973088
+|switch|p1a: Slaking|Slaking, L84, M|389/389
+|turn|16
+|
+|t:|1776973098
+|move|p2a: Sawsbuck|Horn Leech|p1a: Slaking
+|-damage|p1a: Slaking|193/389
+|-heal|p2a: Sawsbuck|254/284 tox|[from] drain|[of] p1a: Slaking
+|-damage|p2a: Sawsbuck|226/284 tox|[from] item: Life Orb
+|move|p1a: Slaking|Giga Impact|p2a: Sawsbuck
+|-damage|p2a: Sawsbuck|0 fnt
+|-mustrecharge|p1a: Slaking
+|faint|p2a: Sawsbuck
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1776973123
+|switch|p2a: Iron Hands|Iron Hands, L79|373/373
+|turn|17
+|
+|t:|1776973160
+|cant|p1a: Slaking|recharge
+|move|p2a: Iron Hands|Thunder Punch|p1a: Slaking
+|-damage|p1a: Slaking|106/389
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1776973224
+|-terastallize|p1a: Slaking|Ground
+|move|p1a: Slaking|Giga Impact|p2a: Iron Hands
+|-damage|p2a: Iron Hands|67/373
+|-mustrecharge|p1a: Slaking
+|move|p2a: Iron Hands|Close Combat|p1a: Slaking
+|-damage|p1a: Slaking|0 fnt
+|-unboost|p2a: Iron Hands|def|1
+|-unboost|p2a: Iron Hands|spd|1
+|faint|p1a: Slaking
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1776973278
+|switch|p1a: Primarina|Primarina, L83, F|268/268
+|turn|19
+|
+|t:|1776973295
+|move|p1a: Primarina|Moonblast|p2a: Iron Hands
+|-supereffective|p2a: Iron Hands
+|-damage|p2a: Iron Hands|0 fnt
+|faint|p2a: Iron Hands
+|-end|p2a: Iron Hands|Quark Drive|[silent]
+|
+|-weather|none
+|upkeep
+|
+|t:|1776973303
+|switch|p2a: Kilowattrel|Kilowattrel, L83, F|252/252
+|turn|20
+|
+|t:|1776973310
+|switch|p1a: Uxie|Uxie, L83|260/260
+|move|p2a: Kilowattrel|Thunderbolt|p1a: Uxie
+|-damage|p1a: Uxie|184/260
+|
+|-heal|p1a: Uxie|200/260|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1776973323
+|move|p2a: Kilowattrel|Hurricane|p1a: Uxie
+|-damage|p1a: Uxie|101/260
+|-start|p1a: Uxie|confusion
+|-activate|p1a: Uxie|confusion
+|move|p1a: Uxie|Encore|p2a: Kilowattrel
+|-start|p2a: Kilowattrel|Encore
+|
+|-heal|p1a: Uxie|117/260|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1776973357
+|move|p2a: Kilowattrel|Hurricane|p1a: Uxie
+|-damage|p1a: Uxie|24/260
+|-end|p1a: Uxie|confusion
+|move|p1a: Uxie|U-turn|p2a: Kilowattrel
+|-resisted|p2a: Kilowattrel
+|-damage|p2a: Kilowattrel|226/252
+|
+|t:|1776973363
+|switch|p1a: Primarina|Primarina, L83, F|268/268|[from] U-turn
+|
+|upkeep
+|turn|23
+|
+|t:|1776973374
+|move|p2a: Kilowattrel|Hurricane|p1a: Primarina
+|-damage|p1a: Primarina|174/268
+|move|p1a: Primarina|Calm Mind|p1a: Primarina
+|-boost|p1a: Primarina|spa|1
+|-boost|p1a: Primarina|spd|1
+|
+|-heal|p1a: Primarina|190/268|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1776973385
+|move|p2a: Kilowattrel|Hurricane|p1a: Primarina
+|-damage|p1a: Primarina|126/268
+|move|p1a: Primarina|Draining Kiss|p2a: Kilowattrel
+|-damage|p2a: Kilowattrel|88/252
+|-heal|p1a: Primarina|230/268|[from] drain|[of] p2a: Kilowattrel
+|
+|-heal|p1a: Primarina|246/268|[from] item: Leftovers
+|-end|p2a: Kilowattrel|Encore
+|upkeep
+|turn|25
+|
+|t:|1776973407
+|move|p2a: Kilowattrel|U-turn|p1a: Primarina
+|-resisted|p1a: Primarina
+|-damage|p1a: Primarina|223/268
+|
+|t:|1776973410
+|switch|p2a: Sylveon|Sylveon, L85, M|300/300|[from] U-turn
+|move|p1a: Primarina|Draining Kiss|p2a: Sylveon
+|-damage|p2a: Sylveon|224/300
+|-heal|p1a: Primarina|268/268|[from] drain|[of] p2a: Sylveon
+|
+|-heal|p2a: Sylveon|242/300|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1776973432
+|move|p2a: Sylveon|Wish|p2a: Sylveon
+|move|p1a: Primarina|Psychic Noise|p2a: Sylveon
+|-damage|p2a: Sylveon|139/300
+|-start|p2a: Sylveon|move: Heal Block
+|
+|upkeep
+|turn|27
+|
+|t:|1776973456
+|move|p2a: Sylveon|Calm Mind|p2a: Sylveon
+|-boost|p2a: Sylveon|spa|1
+|-boost|p2a: Sylveon|spd|1
+|move|p1a: Primarina|Calm Mind|p1a: Primarina
+|-boost|p1a: Primarina|spa|1
+|-boost|p1a: Primarina|spd|1
+|
+|-end|p2a: Sylveon|move: Heal Block
+|upkeep
+|turn|28
+|
+|t:|1776973498
+|move|p2a: Sylveon|Hyper Voice|p1a: Primarina
+|-damage|p1a: Primarina|187/268
+|move|p1a: Primarina|Psychic Noise|p2a: Sylveon
+|-damage|p2a: Sylveon|42/300
+|-start|p2a: Sylveon|move: Heal Block
+|
+|-heal|p1a: Primarina|203/268|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1776973512
+|move|p2a: Sylveon|Hyper Voice|p1a: Primarina
+|-damage|p1a: Primarina|122/268
+|move|p1a: Primarina|Draining Kiss|p2a: Sylveon
+|-damage|p2a: Sylveon|0 fnt
+|-heal|p1a: Primarina|154/268|[from] drain|[of] p2a: Sylveon
+|faint|p2a: Sylveon
+|
+|-heal|p1a: Primarina|170/268|[from] item: Leftovers
+|upkeep
+|
+|t:|1776973523
+|switch|p2a: Kilowattrel|Kilowattrel, L83, F|88/252
+|turn|30
+|
+|t:|1776973529
+|move|p2a: Kilowattrel|Thunderbolt|p1a: Primarina
+|-supereffective|p1a: Primarina
+|-damage|p1a: Primarina|92/268
+|move|p1a: Primarina|Moonblast|p2a: Kilowattrel
+|-damage|p2a: Kilowattrel|0 fnt
+|faint|p2a: Kilowattrel
+|
+|win|LoscarGD

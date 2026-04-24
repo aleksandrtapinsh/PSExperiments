@@ -1,0 +1,250 @@
+|j|☆animejat
+|j|☆Shdow89
+|t:|1776982596
+|gametype|singles
+|player|p1|animejat|lucian|1496
+|player|p2|Shdow89|102|1499
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776982596
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Grumpig|Grumpig, L92, F|297/297
+|switch|p2a: Whiscash|Whiscash, L88, M|337/337
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by animejat)
+|
+|t:|1776982622
+|move|p1a: Grumpig|Psychic|p2a: Whiscash
+|-damage|p2a: Whiscash|214/337
+|move|p2a: Whiscash|Stealth Rock|p1a: Grumpig
+|-sidestart|p1: animejat|move: Stealth Rock
+|
+|-heal|p2a: Whiscash|235/337|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776982632
+|move|p1a: Grumpig|Nasty Plot|p1a: Grumpig
+|-boost|p1a: Grumpig|spa|2
+|move|p2a: Whiscash|Spikes|p1a: Grumpig
+|-sidestart|p1: animejat|Spikes
+|
+|-heal|p2a: Whiscash|256/337|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776982643
+|move|p1a: Grumpig|Nasty Plot|p1a: Grumpig
+|-boost|p1a: Grumpig|spa|2
+|move|p2a: Whiscash|Spikes|p1a: Grumpig
+|-sidestart|p1: animejat|Spikes
+|
+|-heal|p2a: Whiscash|277/337|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776982653
+|move|p1a: Grumpig|Nasty Plot|p1a: Grumpig
+|-boost|p1a: Grumpig|spa|2
+|move|p2a: Whiscash|Spikes|p1a: Grumpig
+|-sidestart|p1: animejat|Spikes
+|
+|-heal|p2a: Whiscash|298/337|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776982671
+|switch|p2a: Muk|Muk-Alola, L82, F|306/306
+|move|p1a: Grumpig|Psychic|p2a: Muk
+|-immune|p2a: Muk
+|
+|upkeep
+|turn|6
+|
+|t:|1776982682
+|-terastallize|p1a: Grumpig|Fighting
+|move|p1a: Grumpig|Focus Blast|p2a: Muk
+|-damage|p2a: Muk|0 fnt
+|faint|p2a: Muk
+|
+|upkeep
+|
+|t:|1776982696
+|switch|p2a: Salazzle|Salazzle, L83, F|249/249
+|turn|7
+|
+|t:|1776982703
+|move|p2a: Salazzle|Toxic|p1a: Grumpig
+|-status|p1a: Grumpig|tox
+|move|p1a: Grumpig|Psychic|p2a: Salazzle
+|-supereffective|p2a: Salazzle
+|-damage|p2a: Salazzle|0 fnt
+|faint|p2a: Salazzle
+|
+|-damage|p1a: Grumpig|279/297 tox|[from] psn
+|upkeep
+|inactive|Shdow89 has 120 seconds left.
+|
+|t:|1776982730
+|switch|p2a: Tsareena|Tsareena, L87, F|267/267
+|turn|8
+|
+|t:|1776982736
+|move|p1a: Grumpig|Psychic|p2a: Tsareena
+|-damage|p2a: Tsareena|36/267
+|move|p2a: Tsareena|Knock Off|p1a: Grumpig
+|-resisted|p1a: Grumpig
+|-damage|p1a: Grumpig|229/297 tox
+|-enditem|p1a: Grumpig|Leftovers|[from] move: Knock Off|[of] p2a: Tsareena
+|
+|-damage|p1a: Grumpig|193/297 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1776982753
+|move|p1a: Grumpig|Psychic|p2a: Tsareena
+|-damage|p2a: Tsareena|0 fnt
+|faint|p2a: Tsareena
+|
+|-damage|p1a: Grumpig|139/297 tox|[from] psn
+|upkeep
+|inactive|Shdow89 has 120 seconds left.
+|
+|t:|1776982778
+|switch|p2a: Whiscash|Whiscash, L88, M|298/337
+|turn|10
+|
+|t:|1776982784
+|move|p1a: Grumpig|Psychic|p2a: Whiscash
+|-damage|p2a: Whiscash|0 fnt
+|faint|p2a: Whiscash
+|
+|-damage|p1a: Grumpig|67/297 tox|[from] psn
+|upkeep
+|
+|t:|1776982793
+|switch|p2a: Ogerpon|Ogerpon-Cornerstone, L76, F|247/247
+|turn|11
+|inactive|Shdow89 has 120 seconds left.
+|
+|t:|1776982802
+|move|p2a: Ogerpon|Power Whip|p1a: Grumpig
+|-damage|p1a: Grumpig|0 fnt
+|faint|p1a: Grumpig
+|
+|upkeep
+|
+|t:|1776982829
+|switch|p1a: Chien-Pao|Chien-Pao, L72|234/234
+|-damage|p1a: Chien-Pao|176/234|[from] Stealth Rock
+|-damage|p1a: Chien-Pao|118/234|[from] Spikes
+|-ability|p1a: Chien-Pao|Sword of Ruin
+|turn|12
+|
+|t:|1776982838
+|move|p1a: Chien-Pao|Icicle Crash|p2a: Ogerpon
+|-supereffective|p2a: Ogerpon
+|-ability|p2a: Ogerpon|Sturdy
+|-damage|p2a: Ogerpon|1/247
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Chien-Pao|[anim] Ivy Cudgel Rock
+|-supereffective|p1a: Chien-Pao
+|-crit|p1a: Chien-Pao
+|-damage|p1a: Chien-Pao|0 fnt
+|faint|p1a: Chien-Pao
+|
+|upkeep
+|inactive|animejat has 120 seconds left.
+|
+|t:|1776982862
+|switch|p1a: Ninetales|Ninetales-Alola, L78, M|242/242
+|-damage|p1a: Ninetales|182/242|[from] Stealth Rock
+|-damage|p1a: Ninetales|122/242|[from] Spikes
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p1a: Ninetales
+|turn|13
+|inactive|animejat has 120 seconds left.
+|
+|t:|1776982895
+|move|p1a: Ninetales|Blizzard|p2a: Ogerpon
+|-supereffective|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1776982902
+|switch|p2a: Giratina|Giratina-Origin, L72|335/335
+|turn|14
+|
+|t:|1776982924
+|-terastallize|p2a: Giratina|Fairy
+|move|p1a: Ninetales|Aurora Veil|p1a: Ninetales
+|-sidestart|p1: animejat|move: Aurora Veil
+|move|p2a: Giratina|Poltergeist|p1a: Ninetales
+|-activate|p1a: Ninetales|move: Poltergeist|Light Clay
+|-damage|p1a: Ninetales|74/242
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1776982942
+|move|p1a: Ninetales|Blizzard|p2a: Giratina
+|-damage|p2a: Giratina|241/335
+|move|p2a: Giratina|Will-O-Wisp|p1a: Ninetales
+|-status|p1a: Ninetales|brn
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p1a: Ninetales|59/242 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1776982953
+|move|p2a: Giratina|Shadow Sneak|p1a: Ninetales
+|-damage|p1a: Ninetales|40/242 brn
+|move|p1a: Ninetales|Blizzard|p2a: Giratina
+|-damage|p2a: Giratina|156/335
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p1a: Ninetales|25/242 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1776982962
+|move|p2a: Giratina|Shadow Sneak|p1a: Ninetales
+|-damage|p1a: Ninetales|7/242 brn
+|move|p1a: Ninetales|Blizzard|p2a: Giratina
+|-damage|p2a: Giratina|57/335
+|
+|-weather|none
+|-damage|p1a: Ninetales|0 fnt|[from] brn
+|faint|p1a: Ninetales
+|upkeep
+|inactive|animejat has 120 seconds left.
+|
+|t:|1776982973
+|switch|p1a: Basculegion|Basculegion, L80, M|323/323
+|-damage|p1a: Basculegion|283/323|[from] Stealth Rock
+|-damage|p1a: Basculegion|203/323|[from] Spikes
+|turn|18
+|inactive|animejat has 120 seconds left.
+|
+|t:|1776982980
+|move|p1a: Basculegion|Aqua Jet|p2a: Giratina
+|-damage|p2a: Giratina|0 fnt
+|faint|p2a: Giratina
+|
+|win|animejat
+|raw|animejat's rating: 1496 &rarr; <strong>1516</strong><br />(+20 for winning)
+|raw|Shdow89's rating: 1499 &rarr; <strong>1479</strong><br />(-20 for losing)
+|c|☆animejat|ggwp
+|l|☆Shdow89
+|player|p2|

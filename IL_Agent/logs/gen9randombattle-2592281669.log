@@ -1,0 +1,190 @@
+|j|☆L.Chrollo
+|j|☆vernoss
+|t:|1776975624
+|gametype|singles
+|player|p1|L.Chrollo|101|
+|player|p2|vernoss|1|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776975624
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Minun|Minun, L95, M|268/268
+|switch|p2a: Iron Bundle|Iron Bundle, L78|215/215
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by vernoss)
+|
+|t:|1776975635
+|-end|p2a: Iron Bundle|Quark Drive|[silent]
+|switch|p2a: Swampert|Swampert, L83, M|302/302
+|move|p1a: Minun|Nasty Plot|p1a: Minun
+|-boost|p1a: Minun|spa|2
+|
+|upkeep
+|turn|2
+|
+|t:|1776975645
+|move|p1a: Minun|Grass Knot|p2a: Swampert
+|-supereffective|p2a: Swampert
+|-damage|p2a: Swampert|0 fnt
+|faint|p2a: Swampert
+|-damage|p1a: Minun|242/268|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776975656
+|switch|p2a: Mesprit|Mesprit, L85|275/275
+|turn|3
+|
+|t:|1776975683
+|move|p1a: Minun|Thunderbolt|p2a: Mesprit
+|-damage|p2a: Mesprit|115/275
+|-damage|p1a: Minun|216/268|[from] item: Life Orb
+|move|p2a: Mesprit|Knock Off|p1a: Minun
+|-damage|p1a: Minun|115/268
+|-enditem|p1a: Minun|Life Orb|[from] move: Knock Off|[of] p2a: Mesprit
+|
+|upkeep
+|turn|4
+|
+|t:|1776975692
+|move|p1a: Minun|Thunderbolt|p2a: Mesprit
+|-damage|p2a: Mesprit|6/275
+|-status|p2a: Mesprit|par
+|move|p2a: Mesprit|Drain Punch|p1a: Minun
+|-damage|p1a: Minun|40/268
+|-heal|p2a: Mesprit|44/275 par|[from] drain|[of] p1a: Minun
+|
+|upkeep
+|turn|5
+|
+|t:|1776975707
+|move|p1a: Minun|Thunderbolt|p2a: Mesprit
+|-damage|p2a: Mesprit|0 fnt
+|faint|p2a: Mesprit
+|
+|upkeep
+|
+|t:|1776975726
+|switch|p2a: Iron Bundle|Iron Bundle, L78|215/215
+|turn|6
+|
+|t:|1776975741
+|switch|p1a: Frosmoth|Frosmoth, L82, F|249/249
+|move|p2a: Iron Bundle|Ice Beam|p1a: Frosmoth
+|-resisted|p1a: Frosmoth
+|-damage|p1a: Frosmoth|223/249
+|
+|upkeep
+|turn|7
+|
+|t:|1776975756
+|move|p2a: Iron Bundle|Hydro Pump|p1a: Frosmoth|[miss]
+|-miss|p2a: Iron Bundle|p1a: Frosmoth
+|move|p1a: Frosmoth|Quiver Dance|p1a: Frosmoth
+|-boost|p1a: Frosmoth|spa|1
+|-boost|p1a: Frosmoth|spd|1
+|-boost|p1a: Frosmoth|spe|1
+|
+|upkeep
+|turn|8
+|
+|t:|1776975765
+|move|p2a: Iron Bundle|Encore|p1a: Frosmoth
+|-start|p1a: Frosmoth|Encore
+|move|p1a: Frosmoth|Quiver Dance|p1a: Frosmoth
+|-boost|p1a: Frosmoth|spa|1
+|-boost|p1a: Frosmoth|spd|1
+|-boost|p1a: Frosmoth|spe|1
+|
+|upkeep
+|turn|9
+|
+|t:|1776975777
+|-end|p2a: Iron Bundle|Quark Drive|[silent]
+|switch|p2a: Armarouge|Armarouge, L80, F|267/267
+|move|p1a: Frosmoth|Quiver Dance|p1a: Frosmoth
+|-boost|p1a: Frosmoth|spa|1
+|-boost|p1a: Frosmoth|spd|1
+|-boost|p1a: Frosmoth|spe|1
+|
+|upkeep
+|turn|10
+|
+|t:|1776975802
+|-terastallize|p2a: Armarouge|Fire
+|move|p1a: Frosmoth|Quiver Dance|p1a: Frosmoth
+|-boost|p1a: Frosmoth|spa|1
+|-boost|p1a: Frosmoth|spd|1
+|-boost|p1a: Frosmoth|spe|1
+|move|p2a: Armarouge|Armor Cannon|p1a: Frosmoth
+|-supereffective|p1a: Frosmoth
+|-damage|p1a: Frosmoth|87/249
+|-unboost|p2a: Armarouge|def|1
+|-unboost|p2a: Armarouge|spd|1
+|
+|-end|p1a: Frosmoth|Encore
+|upkeep
+|turn|11
+|inactive|L.Chrollo has 270 seconds left.
+|
+|t:|1776975819
+|-terastallize|p1a: Frosmoth|Ground
+|move|p1a: Frosmoth|Tera Blast|p2a: Armarouge|[anim] Tera Blast Ground
+|-supereffective|p2a: Armarouge
+|-damage|p2a: Armarouge|0 fnt
+|faint|p2a: Armarouge
+|
+|upkeep
+|inactive|vernoss has 270 seconds left.
+|
+|t:|1776975837
+|switch|p2a: Iron Bundle|Iron Bundle, L78|215/215
+|turn|12
+|inactive|vernoss has 270 seconds left.
+|
+|t:|1776975846
+|move|p1a: Frosmoth|Giga Drain|p2a: Iron Bundle
+|-supereffective|p2a: Iron Bundle
+|-damage|p2a: Iron Bundle|0 fnt
+|-heal|p1a: Frosmoth|195/249|[from] drain|[of] p2a: Iron Bundle
+|faint|p2a: Iron Bundle
+|-end|p2a: Iron Bundle|Quark Drive|[silent]
+|
+|upkeep
+|inactive|vernoss has 270 seconds left.
+|
+|t:|1776975857
+|switch|p2a: Sceptile|Sceptile, L87, F|264/264
+|turn|13
+|inactive|vernoss has 270 seconds left.
+|
+|t:|1776975866
+|move|p1a: Frosmoth|Ice Beam|p2a: Sceptile
+|-supereffective|p2a: Sceptile
+|-damage|p2a: Sceptile|0 fnt
+|faint|p2a: Sceptile
+|
+|upkeep
+|inactive|vernoss has 270 seconds left.
+|inactive|vernoss has 240 seconds left.
+|inactive|vernoss has 210 seconds left.
+|inactive|vernoss has 180 seconds left.
+|
+|t:|1776975972
+|switch|p2a: Swalot|Swalot, L90, F|326/326
+|turn|14
+|
+|t:|1776975980
+|move|p1a: Frosmoth|Tera Blast|p2a: Swalot|[anim] Tera Blast Ground
+|-supereffective|p2a: Swalot
+|-damage|p2a: Swalot|0 fnt
+|faint|p2a: Swalot
+|
+|win|L.Chrollo

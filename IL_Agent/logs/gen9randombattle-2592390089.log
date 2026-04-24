@@ -1,0 +1,246 @@
+|j|☆gnoelnavi
+|j|☆tapchus
+|t:|1776984809
+|gametype|singles
+|player|p1|gnoelnavi|170|1370
+|player|p2|tapchus|266|1374
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776984809
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Sableye|Sableye, L88, F|231/231
+|switch|p2a: Staraptor|Staraptor, L79, F|263/263
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by tapchus)
+|
+|t:|1776984816
+|switch|p2a: Iron Treads|Iron Treads, L77|265/265
+|move|p1a: Sableye|Thunder Wave|p2a: Iron Treads
+|-immune|p2a: Iron Treads
+|
+|upkeep
+|turn|2
+|
+|t:|1776984822
+|switch|p1a: Rillaboom|Rillaboom, L79, F|288/288
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Iron Treads|Stealth Rock|p1a: Rillaboom
+|-sidestart|p1: gnoelnavi|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1776984829
+|move|p1a: Rillaboom|Grassy Glide|p2a: Iron Treads
+|-damage|p2a: Iron Treads|162/265
+|move|p2a: Iron Treads|Volt Switch|p1a: Rillaboom
+|-resisted|p1a: Rillaboom
+|-damage|p1a: Rillaboom|265/288
+|
+|t:|1776984836
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Arceus|Arceus-Poison, L70|284/284|[from] Volt Switch
+|
+|-heal|p1a: Rillaboom|283/288|[from] Grassy Terrain
+|upkeep
+|turn|4
+|
+|t:|1776984844
+|switch|p1a: Seviper|Seviper, L93, F|287/287
+|-damage|p1a: Seviper|252/287|[from] Stealth Rock
+|move|p2a: Arceus|Swords Dance|p2a: Arceus
+|-boost|p2a: Arceus|atk|2
+|
+|-heal|p1a: Seviper|269/287|[from] Grassy Terrain
+|upkeep
+|turn|5
+|
+|t:|1776984853
+|move|p2a: Arceus|Earthquake|p1a: Seviper
+|-supereffective|p1a: Seviper
+|-damage|p1a: Seviper|135/287
+|move|p1a: Seviper|Earthquake|p2a: Arceus
+|-supereffective|p2a: Arceus
+|-damage|p2a: Arceus|170/284
+|-damage|p1a: Seviper|107/287|[from] item: Life Orb
+|
+|-heal|p2a: Arceus|187/284|[from] Grassy Terrain
+|-heal|p1a: Seviper|124/287|[from] Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1776984862
+|move|p2a: Arceus|Earthquake|p1a: Seviper
+|-supereffective|p1a: Seviper
+|-damage|p1a: Seviper|0 fnt
+|faint|p1a: Seviper
+|
+|-heal|p2a: Arceus|204/284|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1776984869
+|switch|p1a: Sableye|Sableye, L88, F|231/231
+|-damage|p1a: Sableye|203/231|[from] Stealth Rock
+|turn|7
+|
+|t:|1776984872
+|-terastallize|p2a: Arceus|Ground
+|move|p1a: Sableye|Thunder Wave|p2a: Arceus
+|-immune|p2a: Arceus
+|move|p2a: Arceus|Earthquake|p1a: Sableye
+|-damage|p1a: Sableye|0 fnt
+|faint|p1a: Sableye
+|
+|upkeep
+|
+|t:|1776984877
+|switch|p1a: Rillaboom|Rillaboom, L79, F|283/288
+|-damage|p1a: Rillaboom|247/288|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|8
+|
+|t:|1776984881
+|move|p1a: Rillaboom|Grassy Glide|p2a: Arceus
+|-supereffective|p2a: Arceus
+|-damage|p2a: Arceus|0 fnt
+|faint|p2a: Arceus
+|
+|-heal|p1a: Rillaboom|265/288|[from] Grassy Terrain
+|upkeep
+|
+|t:|1776984887
+|switch|p2a: Scizor|Scizor, L79, M|240/240
+|turn|9
+|
+|t:|1776984897
+|switch|p1a: Dodrio|Dodrio, L85, M|241/241
+|-damage|p1a: Dodrio|181/241|[from] Stealth Rock
+|move|p2a: Scizor|Knock Off|p1a: Dodrio
+|-damage|p1a: Dodrio|92/241
+|-enditem|p1a: Dodrio|Choice Band|[from] move: Knock Off|[of] p2a: Scizor
+|
+|upkeep
+|turn|10
+|
+|t:|1776984905
+|move|p2a: Scizor|Bullet Punch|p1a: Dodrio
+|-damage|p1a: Dodrio|5/241
+|move|p1a: Dodrio|Brave Bird|p2a: Scizor
+|-damage|p2a: Scizor|95/240
+|-damage|p1a: Dodrio|0 fnt|[from] Recoil
+|faint|p1a: Dodrio
+|
+|-heal|p2a: Scizor|110/240|[from] Grassy Terrain
+|-heal|p2a: Scizor|125/240|[from] item: Leftovers
+|upkeep
+|
+|t:|1776984911
+|switch|p1a: Lumineon|Lumineon, L93, F|279/279
+|-damage|p1a: Lumineon|245/279|[from] Stealth Rock
+|turn|11
+|
+|t:|1776984919
+|move|p1a: Lumineon|Hydro Pump|p2a: Scizor
+|-damage|p2a: Scizor|0 fnt
+|faint|p2a: Scizor
+|-damage|p1a: Lumineon|218/279|[from] item: Life Orb
+|
+|-heal|p1a: Lumineon|235/279|[from] Grassy Terrain
+|upkeep
+|
+|t:|1776984930
+|switch|p2a: Dragalge|Dragalge, L88, M|258/258
+|turn|12
+|
+|t:|1776984940
+|move|p1a: Lumineon|Ice Beam|p2a: Dragalge
+|-supereffective|p2a: Dragalge
+|-damage|p2a: Dragalge|136/258
+|-damage|p1a: Lumineon|208/279|[from] item: Life Orb
+|move|p2a: Dragalge|Draco Meteor|p1a: Lumineon|[miss]
+|-miss|p2a: Dragalge|p1a: Lumineon
+|
+|-heal|p1a: Lumineon|225/279|[from] Grassy Terrain
+|-heal|p2a: Dragalge|152/258|[from] Grassy Terrain
+|-heal|p2a: Dragalge|168/258|[from] item: Leftovers
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|13
+|
+|t:|1776984950
+|-terastallize|p1a: Lumineon|Fairy
+|move|p1a: Lumineon|Ice Beam|p2a: Dragalge
+|-supereffective|p2a: Dragalge
+|-damage|p2a: Dragalge|54/258
+|-damage|p1a: Lumineon|198/279|[from] item: Life Orb
+|move|p2a: Dragalge|Draco Meteor|p1a: Lumineon
+|-immune|p1a: Lumineon
+|
+|-heal|p2a: Dragalge|70/258|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1776984955
+|move|p1a: Lumineon|Ice Beam|p2a: Dragalge
+|-supereffective|p2a: Dragalge
+|-damage|p2a: Dragalge|0 fnt
+|faint|p2a: Dragalge
+|-damage|p1a: Lumineon|171/279|[from] item: Life Orb
+|
+|upkeep
+|c|☆tapchus|fuck this shit mn
+|
+|t:|1776984971
+|switch|p2a: Jumpluff|Jumpluff, L87, F|271/271
+|turn|15
+|
+|t:|1776984975
+|move|p2a: Jumpluff|Acrobatics|p1a: Lumineon
+|-damage|p1a: Lumineon|83/279
+|move|p1a: Lumineon|Ice Beam|p2a: Jumpluff
+|-supereffective|p2a: Jumpluff
+|-damage|p2a: Jumpluff|0 fnt
+|faint|p2a: Jumpluff
+|-damage|p1a: Lumineon|56/279|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776984980
+|switch|p2a: Staraptor|Staraptor, L79, F|263/263
+|turn|16
+|
+|t:|1776984988
+|move|p1a: Lumineon|Ice Beam|p2a: Staraptor
+|-supereffective|p2a: Staraptor
+|-damage|p2a: Staraptor|39/263
+|-damage|p1a: Lumineon|29/279|[from] item: Life Orb
+|move|p2a: Staraptor|Brave Bird|p1a: Lumineon
+|-damage|p1a: Lumineon|0 fnt
+|faint|p1a: Lumineon
+|-damage|p2a: Staraptor|29/263|[from] Recoil
+|
+|upkeep
+|
+|t:|1776984991
+|switch|p1a: Chien-Pao|Chien-Pao, L72|234/234
+|-ability|p1a: Chien-Pao|Sword of Ruin
+|turn|17
+|
+|t:|1776984999
+|move|p1a: Chien-Pao|Sucker Punch|p2a: Staraptor
+|-damage|p2a: Staraptor|0 fnt
+|faint|p2a: Staraptor
+|
+|upkeep
+|-message|tapchus forfeited.
+|
+|win|gnoelnavi

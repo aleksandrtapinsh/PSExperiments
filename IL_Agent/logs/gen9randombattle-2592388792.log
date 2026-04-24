@@ -1,0 +1,469 @@
+|j|☆z3r0spl4y
+|j|☆dozzy619
+|t:|1776984684
+|gametype|singles
+|player|p1|z3r0spl4y|roxie|1356
+|player|p2|dozzy619|blue|1389
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776984684
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Solgaleo|Solgaleo, L74|325/325
+|switch|p2a: Grafaiai|Grafaiai, L86, F|249/249
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by dozzy619)
+|inactive|z3r0spl4y also wants the timer to be on.
+|
+|t:|1776984703
+|move|p2a: Grafaiai|Knock Off|p1a: Solgaleo
+|-supereffective|p1a: Solgaleo
+|-damage|p1a: Solgaleo|143/325
+|-damage|p2a: Grafaiai|208/249|[from] item: Rocky Helmet|[of] p1a: Solgaleo
+|-enditem|p1a: Solgaleo|Rocky Helmet|[from] move: Knock Off|[of] p2a: Grafaiai
+|-damage|p2a: Grafaiai|184/249|[from] item: Life Orb
+|move|p1a: Solgaleo|Earthquake|p2a: Grafaiai
+|-supereffective|p2a: Grafaiai
+|-damage|p2a: Grafaiai|4/249
+|
+|upkeep
+|turn|2
+|
+|t:|1776984713
+|move|p2a: Grafaiai|Low Kick|p1a: Solgaleo
+|-crit|p1a: Solgaleo
+|-damage|p1a: Solgaleo|0 fnt
+|faint|p1a: Solgaleo
+|-damage|p2a: Grafaiai|0 fnt|[from] item: Life Orb
+|faint|p2a: Grafaiai
+|
+|upkeep
+|
+|t:|1776984727
+|switch|p2a: Gliscor|Gliscor, L76, F|239/239
+|switch|p1a: Gyarados|Gyarados, L79, M|280/280
+|turn|3
+|
+|t:|1776984733
+|move|p2a: Gliscor|Toxic|p1a: Gyarados|[miss]
+|-miss|p2a: Gliscor|p1a: Gyarados
+|move|p1a: Gyarados|Dragon Dance|p1a: Gyarados
+|-boost|p1a: Gyarados|atk|1
+|-boost|p1a: Gyarados|spe|1
+|
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|4
+|
+|t:|1776984743
+|move|p1a: Gyarados|Waterfall|p2a: Gliscor
+|-supereffective|p2a: Gliscor
+|-damage|p2a: Gliscor|11/239 tox
+|move|p2a: Gliscor|Toxic|p1a: Gyarados
+|-status|p1a: Gyarados|tox
+|
+|-damage|p1a: Gyarados|263/280 tox|[from] psn
+|-heal|p2a: Gliscor|40/239 tox|[from] ability: Poison Heal
+|upkeep
+|turn|5
+|
+|t:|1776984754
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Gyarados|Dragon Dance|p1a: Gyarados
+|-boost|p1a: Gyarados|atk|1
+|-boost|p1a: Gyarados|spe|1
+|
+|-damage|p1a: Gyarados|229/280 tox|[from] psn
+|-heal|p2a: Gliscor|69/239 tox|[from] ability: Poison Heal
+|upkeep
+|turn|6
+|
+|t:|1776984778
+|switch|p2a: Scream Tail|Scream Tail, L84|330/330
+|move|p1a: Gyarados|Waterfall|p2a: Scream Tail
+|-damage|p2a: Scream Tail|174/330
+|
+|-heal|p2a: Scream Tail|194/330|[from] item: Leftovers
+|-damage|p1a: Gyarados|178/280 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1776984795
+|move|p1a: Gyarados|Earthquake|p2a: Scream Tail
+|-damage|p2a: Scream Tail|50/330
+|move|p2a: Scream Tail|Wish|p2a: Scream Tail
+|
+|-heal|p2a: Scream Tail|70/330|[from] item: Leftovers
+|-damage|p1a: Gyarados|110/280 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1776984803
+|move|p2a: Scream Tail|Protect|p2a: Scream Tail
+|-singleturn|p2a: Scream Tail|Protect
+|move|p1a: Gyarados|Waterfall|p2a: Scream Tail
+|-activate|p2a: Scream Tail|move: Protect
+|
+|-heal|p2a: Scream Tail|235/330|[from] move: Wish|[wisher] Scream Tail
+|-heal|p2a: Scream Tail|255/330|[from] item: Leftovers
+|-damage|p1a: Gyarados|25/280 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1776984814
+|move|p1a: Gyarados|Waterfall|p2a: Scream Tail
+|-damage|p2a: Scream Tail|81/330
+|move|p2a: Scream Tail|Wish|p2a: Scream Tail
+|
+|-heal|p2a: Scream Tail|101/330|[from] item: Leftovers
+|-damage|p1a: Gyarados|0 fnt|[from] psn
+|faint|p1a: Gyarados
+|upkeep
+|
+|t:|1776984827
+|switch|p1a: Delibird|Delibird, M|252/252
+|turn|10
+|
+|t:|1776984835
+|move|p2a: Scream Tail|Protect|p2a: Scream Tail
+|-singleturn|p2a: Scream Tail|Protect
+|move|p1a: Delibird|Spikes|p2a: Scream Tail
+|-sidestart|p2: dozzy619|Spikes
+|
+|-heal|p2a: Scream Tail|266/330|[from] move: Wish|[wisher] Scream Tail
+|-heal|p2a: Scream Tail|286/330|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776984846
+|move|p2a: Scream Tail|Dazzling Gleam|p1a: Delibird
+|-damage|p1a: Delibird|168/252
+|move|p1a: Delibird|Rapid Spin|p2a: Scream Tail
+|-damage|p2a: Scream Tail|258/330
+|-boost|p1a: Delibird|spe|1
+|
+|-heal|p2a: Scream Tail|278/330|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776984857
+|move|p1a: Delibird|Freeze-Dry|p2a: Scream Tail
+|-damage|p2a: Scream Tail|208/330
+|-status|p2a: Scream Tail|frz
+|cant|p2a: Scream Tail|frz
+|
+|-heal|p2a: Scream Tail|228/330 frz|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776984871
+|move|p1a: Delibird|Spikes|p2a: Scream Tail
+|-sidestart|p2: dozzy619|Spikes
+|-curestatus|p2a: Scream Tail|frz|[msg]
+|move|p2a: Scream Tail|Dazzling Gleam|p1a: Delibird
+|-damage|p1a: Delibird|81/252
+|
+|-heal|p2a: Scream Tail|248/330|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1776984880
+|move|p1a: Delibird|Freeze-Dry|p2a: Scream Tail
+|-damage|p2a: Scream Tail|179/330
+|move|p2a: Scream Tail|Dazzling Gleam|p1a: Delibird
+|-damage|p1a: Delibird|0 fnt
+|faint|p1a: Delibird
+|
+|-heal|p2a: Scream Tail|199/330|[from] item: Leftovers
+|upkeep
+|
+|t:|1776984887
+|switch|p1a: Misdreavus|Misdreavus, L90, M|254/254
+|turn|15
+|
+|t:|1776984900
+|-terastallize|p1a: Misdreavus|Fairy
+|move|p2a: Scream Tail|Dazzling Gleam|p1a: Misdreavus
+|-damage|p1a: Misdreavus|214/254
+|move|p1a: Misdreavus|Will-O-Wisp|p2a: Scream Tail
+|-status|p2a: Scream Tail|brn
+|
+|-heal|p2a: Scream Tail|219/330 brn|[from] item: Leftovers
+|-damage|p2a: Scream Tail|199/330 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1776984911
+|move|p2a: Scream Tail|Encore|p1a: Misdreavus
+|-start|p1a: Misdreavus|Encore
+|move|p1a: Misdreavus|Will-O-Wisp|p2a: Scream Tail|[miss]
+|-miss|p1a: Misdreavus|p2a: Scream Tail
+|
+|-heal|p2a: Scream Tail|219/330 brn|[from] item: Leftovers
+|-damage|p2a: Scream Tail|199/330 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1776984921
+|switch|p1a: Mew|Mew, L82|298/298
+|move|p2a: Scream Tail|Wish|p2a: Scream Tail
+|
+|-heal|p2a: Scream Tail|219/330 brn|[from] item: Leftovers
+|-damage|p2a: Scream Tail|199/330 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1776984941
+|move|p2a: Scream Tail|Dazzling Gleam|p1a: Mew
+|-damage|p1a: Mew|237/298
+|move|p1a: Mew|Knock Off|p2a: Scream Tail
+|-damage|p2a: Scream Tail|126/330 brn
+|-enditem|p2a: Scream Tail|Leftovers|[from] move: Knock Off|[of] p1a: Mew
+|-damage|p1a: Mew|208/298|[from] item: Life Orb
+|
+|-heal|p2a: Scream Tail|291/330 brn|[from] move: Wish|[wisher] Scream Tail
+|-damage|p2a: Scream Tail|271/330 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1776984954
+|move|p2a: Scream Tail|Dazzling Gleam|p1a: Mew
+|-damage|p1a: Mew|154/298
+|move|p1a: Mew|Swords Dance|p1a: Mew
+|-boost|p1a: Mew|atk|2
+|
+|-damage|p2a: Scream Tail|251/330 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1776984964
+|switch|p1a: Misdreavus|Misdreavus, L90, M, tera:Fairy|214/254
+|move|p2a: Scream Tail|Encore||[still]
+|-fail|p2a: Scream Tail
+|
+|-damage|p2a: Scream Tail|231/330 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1776984979
+|-end|p2a: Scream Tail|Protosynthesis|[silent]
+|switch|p2a: Mudsdale|Mudsdale, L83, M|302/302
+|-damage|p2a: Mudsdale|252/302|[from] Spikes
+|move|p1a: Misdreavus|Shadow Ball|p2a: Mudsdale
+|-damage|p2a: Mudsdale|158/302
+|-ability|p2a: Mudsdale|Stamina|boost
+|-boost|p2a: Mudsdale|def|1
+|
+|-heal|p2a: Mudsdale|176/302|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1776984991
+|move|p1a: Misdreavus|Will-O-Wisp|p2a: Mudsdale
+|-status|p2a: Mudsdale|brn
+|move|p2a: Mudsdale|Heavy Slam|p1a: Misdreavus
+|-supereffective|p1a: Misdreavus
+|-crit|p1a: Misdreavus
+|-damage|p1a: Misdreavus|92/254
+|
+|-heal|p2a: Mudsdale|194/302 brn|[from] item: Leftovers
+|-damage|p2a: Mudsdale|176/302 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1776985002
+|move|p1a: Misdreavus|Draining Kiss|p2a: Mudsdale
+|-crit|p2a: Mudsdale
+|-damage|p2a: Mudsdale|73/302 brn
+|-heal|p1a: Misdreavus|169/254|[from] drain|[of] p2a: Mudsdale
+|-ability|p2a: Mudsdale|Stamina|boost
+|-boost|p2a: Mudsdale|def|1
+|move|p2a: Mudsdale|Heavy Slam|p1a: Misdreavus
+|-supereffective|p1a: Misdreavus
+|-damage|p1a: Misdreavus|78/254
+|
+|-heal|p2a: Mudsdale|91/302 brn|[from] item: Leftovers
+|-damage|p2a: Mudsdale|73/302 brn|[from] brn
+|upkeep
+|turn|24
+|
+|t:|1776985015
+|move|p1a: Misdreavus|Draining Kiss|p2a: Mudsdale
+|-damage|p2a: Mudsdale|0 fnt
+|-heal|p1a: Misdreavus|133/254|[from] drain|[of] p2a: Mudsdale
+|faint|p2a: Mudsdale
+|
+|upkeep
+|
+|t:|1776985029
+|switch|p2a: Haxorus|Haxorus, L77, F|244/244
+|-damage|p2a: Haxorus|204/244|[from] Spikes
+|-ability|p2a: Haxorus|Mold Breaker
+|turn|25
+|
+|t:|1776985039
+|move|p1a: Misdreavus|Will-O-Wisp|p2a: Haxorus
+|-status|p2a: Haxorus|brn
+|move|p2a: Haxorus|Iron Head|p1a: Misdreavus
+|-supereffective|p1a: Misdreavus
+|-damage|p1a: Misdreavus|76/254
+|
+|-damage|p2a: Haxorus|189/244 brn|[from] brn
+|upkeep
+|turn|26
+|
+|t:|1776985048
+|-terastallize|p2a: Haxorus|Steel
+|move|p1a: Misdreavus|Draining Kiss|p2a: Haxorus
+|-resisted|p2a: Haxorus
+|-damage|p2a: Haxorus|145/244 brn
+|-heal|p1a: Misdreavus|109/254|[from] drain|[of] p2a: Haxorus
+|move|p2a: Haxorus|Iron Head|p1a: Misdreavus
+|-supereffective|p1a: Misdreavus
+|-damage|p1a: Misdreavus|22/254
+|
+|-damage|p2a: Haxorus|130/244 brn|[from] brn
+|upkeep
+|turn|27
+|
+|t:|1776985060
+|switch|p1a: Mew|Mew, L82|154/298
+|move|p2a: Haxorus|Iron Head|p1a: Mew
+|-crit|p1a: Mew
+|-damage|p1a: Mew|85/298
+|
+|-damage|p2a: Haxorus|115/244 brn|[from] brn
+|upkeep
+|turn|28
+|
+|t:|1776985077
+|move|p1a: Mew|Swords Dance|p1a: Mew
+|-boost|p1a: Mew|atk|2
+|move|p2a: Haxorus|Scale Shot|p1a: Mew
+|-damage|p1a: Mew|70/298
+|-damage|p1a: Mew|57/298
+|-damage|p1a: Mew|42/298
+|-damage|p1a: Mew|27/298
+|-damage|p1a: Mew|13/298
+|-hitcount|p1a: Mew|5
+|-unboost|p2a: Haxorus|def|1
+|-boost|p2a: Haxorus|spe|1
+|
+|-damage|p2a: Haxorus|100/244 brn|[from] brn
+|upkeep
+|turn|29
+|
+|t:|1776985092
+|move|p2a: Haxorus|Iron Head|p1a: Mew
+|-damage|p1a: Mew|0 fnt
+|faint|p1a: Mew
+|
+|-damage|p2a: Haxorus|85/244 brn|[from] brn
+|upkeep
+|
+|t:|1776985095
+|switch|p1a: Cetitan|Cetitan, L82, M|413/413
+|turn|30
+|
+|t:|1776985112
+|move|p2a: Haxorus|Close Combat|p1a: Cetitan
+|-supereffective|p1a: Cetitan
+|-damage|p1a: Cetitan|286/413
+|-unboost|p2a: Haxorus|def|1
+|-unboost|p2a: Haxorus|spd|1
+|move|p1a: Cetitan|Liquidation|p2a: Haxorus
+|-crit|p2a: Haxorus
+|-damage|p2a: Haxorus|0 fnt
+|faint|p2a: Haxorus
+|
+|upkeep
+|
+|t:|1776985131
+|switch|p2a: Primarina|Primarina, L83, M|268/268
+|-damage|p2a: Primarina|224/268|[from] Spikes
+|turn|31
+|
+|t:|1776985144
+|move|p1a: Cetitan|Icicle Crash|p2a: Primarina
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|130/268
+|move|p2a: Primarina|Moonblast|p1a: Cetitan
+|-damage|p1a: Cetitan|39/413
+|
+|upkeep
+|turn|32
+|
+|t:|1776985151
+|move|p1a: Cetitan|Icicle Crash|p2a: Primarina
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|36/268
+|move|p2a: Primarina|Moonblast|p1a: Cetitan
+|-damage|p1a: Cetitan|0 fnt
+|faint|p1a: Cetitan
+|
+|upkeep
+|
+|t:|1776985157
+|switch|p1a: Misdreavus|Misdreavus, L90, M, tera:Fairy|22/254
+|turn|33
+|
+|t:|1776985164
+|move|p1a: Misdreavus|Draining Kiss|p2a: Primarina
+|-damage|p2a: Primarina|0 fnt
+|-heal|p1a: Misdreavus|49/254|[from] drain|[of] p2a: Primarina
+|faint|p2a: Primarina
+|
+|upkeep
+|
+|t:|1776985174
+|switch|p2a: Scream Tail|Scream Tail, L84|231/330 brn
+|-damage|p2a: Scream Tail|176/330 brn|[from] Spikes
+|turn|34
+|
+|t:|1776985184
+|move|p2a: Scream Tail|Wish|p2a: Scream Tail
+|move|p1a: Misdreavus|Draining Kiss|p2a: Scream Tail
+|-damage|p2a: Scream Tail|122/330 brn
+|-heal|p1a: Misdreavus|90/254|[from] drain|[of] p2a: Scream Tail
+|
+|-damage|p2a: Scream Tail|102/330 brn|[from] brn
+|upkeep
+|turn|35
+|
+|t:|1776985193
+|move|p2a: Scream Tail|Dazzling Gleam|p1a: Misdreavus
+|-damage|p1a: Misdreavus|45/254
+|move|p1a: Misdreavus|Shadow Ball|p2a: Scream Tail
+|-supereffective|p2a: Scream Tail
+|-damage|p2a: Scream Tail|0 fnt
+|faint|p2a: Scream Tail
+|-end|p2a: Scream Tail|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1776985201
+|switch|p2a: Gliscor|Gliscor, L76, F|69/239 tox
+|turn|36
+|
+|t:|1776985209
+|move|p1a: Misdreavus|Draining Kiss|p2a: Gliscor
+|-damage|p2a: Gliscor|0 fnt
+|-heal|p1a: Misdreavus|97/254|[from] drain|[of] p2a: Gliscor
+|faint|p2a: Gliscor
+|
+|win|z3r0spl4y
+|raw|z3r0spl4y's rating: 1356 &rarr; <strong>1378</strong><br />(+22 for winning)
+|raw|dozzy619's rating: 1389 &rarr; <strong>1367</strong><br />(-22 for losing)
+|c|☆z3r0spl4y|Gg
+|c|☆dozzy619|Wp
+|l|☆dozzy619
+|player|p2|
+|c|☆z3r0spl4y|U2

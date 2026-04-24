@@ -1,0 +1,532 @@
+|j|☆rassermus
+|j|☆michaelreallycool
+|t:|1776973685
+|gametype|singles
+|player|p1|rassermus|265|1644
+|player|p2|michaelreallycool|chili|1606
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776973685
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Cramorant|Cramorant, L86, F|261/261
+|switch|p2a: Cramorant|Cramorant, L86, F|261/261
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by michaelreallycool)
+|c|☆michaelreallycool|wow
+|c|☆michaelreallycool|look at that
+|c|☆rassermus|nice opening
+|
+|t:|1776973707
+|move|p2a: Cramorant|Surf|p1a: Cramorant
+|-formechange|p2a: Cramorant|Cramorant-Gulping|
+|-resisted|p1a: Cramorant
+|-damage|p1a: Cramorant|219/261
+|move|p1a: Cramorant|Surf|p2a: Cramorant
+|-formechange|p1a: Cramorant|Cramorant-Gulping|
+|-resisted|p2a: Cramorant
+|-damage|p2a: Cramorant|221/261
+|-damage|p1a: Cramorant|154/261|[from] ability: Gulp Missile|[of] p2a: Cramorant
+|-unboost|p1a: Cramorant|def|1
+|-formechange|p2a: Cramorant|Cramorant|
+|
+|upkeep
+|turn|2
+|
+|t:|1776973723
+|move|p2a: Cramorant|Brave Bird|p1a: Cramorant
+|-damage|p1a: Cramorant|0 fnt
+|-damage|p2a: Cramorant|156/261|[from] ability: Gulp Missile|[of] p1a: Cramorant
+|-unboost|p2a: Cramorant|def|1
+|-formechange|p1a: Cramorant|Cramorant|
+|faint|p1a: Cramorant
+|-damage|p2a: Cramorant|105/261|[from] Recoil
+|
+|upkeep
+|
+|t:|1776973729
+|switch|p1a: Toxtricity|Toxtricity, L82, M|257/257
+|turn|3
+|
+|t:|1776973741
+|switch|p2a: Arboliva|Arboliva, L91, M|288/288
+|move|p1a: Toxtricity|Volt Switch|p2a: Arboliva
+|-resisted|p2a: Arboliva
+|-damage|p2a: Arboliva|256/288
+|
+|t:|1776973749
+|switch|p1a: Noctowl|Noctowl, L95, F|344/344|[from] Volt Switch
+|
+|upkeep
+|turn|4
+|
+|t:|1776973767
+|move|p1a: Noctowl|Nasty Plot|p1a: Noctowl
+|-boost|p1a: Noctowl|spa|2
+|move|p2a: Arboliva|Leech Seed|p1a: Noctowl
+|-start|p1a: Noctowl|move: Leech Seed
+|
+|-damage|p1a: Noctowl|301/344|[from] Leech Seed|[of] p2a: Arboliva
+|-heal|p2a: Arboliva|288/288|[silent]
+|upkeep
+|turn|5
+|
+|t:|1776973773
+|move|p2a: Arboliva|Protect|p2a: Arboliva
+|-singleturn|p2a: Arboliva|Protect
+|move|p1a: Noctowl|Hurricane|p2a: Arboliva
+|-activate|p2a: Arboliva|move: Protect
+|
+|-damage|p1a: Noctowl|258/344|[from] Leech Seed|[of] p2a: Arboliva
+|upkeep
+|turn|6
+|
+|t:|1776973780
+|move|p1a: Noctowl|Hurricane|p2a: Arboliva|[miss]
+|-miss|p1a: Noctowl|p2a: Arboliva
+|move|p2a: Arboliva|Substitute|p2a: Arboliva
+|-start|p2a: Arboliva|Substitute
+|-damage|p2a: Arboliva|216/288
+|
+|-damage|p1a: Noctowl|215/344|[from] Leech Seed|[of] p2a: Arboliva
+|-heal|p2a: Arboliva|259/288|[silent]
+|upkeep
+|turn|7
+|
+|t:|1776973788
+|move|p2a: Arboliva|Protect|p2a: Arboliva
+|-singleturn|p2a: Arboliva|Protect
+|move|p1a: Noctowl|Hyper Voice|p2a: Arboliva
+|-activate|p2a: Arboliva|move: Protect
+|
+|-damage|p1a: Noctowl|172/344|[from] Leech Seed|[of] p2a: Arboliva
+|-heal|p2a: Arboliva|288/288|[silent]
+|upkeep
+|turn|8
+|
+|t:|1776973799
+|move|p1a: Noctowl|Hyper Voice|p2a: Arboliva
+|-damage|p2a: Arboliva|111/288
+|-enditem|p2a: Arboliva|Sitrus Berry|[eat]
+|-heal|p2a: Arboliva|183/288|[from] item: Sitrus Berry
+|move|p2a: Arboliva|Hyper Voice|p1a: Noctowl
+|-damage|p1a: Noctowl|63/344
+|
+|-damage|p1a: Noctowl|20/344|[from] Leech Seed|[of] p2a: Arboliva
+|-heal|p2a: Arboliva|226/288|[silent]
+|upkeep
+|turn|9
+|
+|t:|1776973808
+|move|p2a: Arboliva|Protect|p2a: Arboliva
+|-singleturn|p2a: Arboliva|Protect
+|move|p1a: Noctowl|Roost|p1a: Noctowl
+|-heal|p1a: Noctowl|192/344
+|-singleturn|p1a: Noctowl|move: Roost
+|
+|-damage|p1a: Noctowl|149/344|[from] Leech Seed|[of] p2a: Arboliva
+|-heal|p2a: Arboliva|269/288|[silent]
+|-item|p2a: Arboliva|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|turn|10
+|
+|t:|1776973819
+|move|p1a: Noctowl|Hyper Voice|p2a: Arboliva
+|-damage|p2a: Arboliva|98/288
+|-enditem|p2a: Arboliva|Sitrus Berry|[eat]
+|-heal|p2a: Arboliva|170/288|[from] item: Sitrus Berry
+|move|p2a: Arboliva|Hyper Voice|p1a: Noctowl
+|-damage|p1a: Noctowl|31/344
+|
+|-damage|p1a: Noctowl|0 fnt|[from] Leech Seed|[of] p2a: Arboliva
+|-heal|p2a: Arboliva|201/288|[silent]
+|faint|p1a: Noctowl
+|-item|p2a: Arboliva|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|
+|t:|1776973833
+|switch|p1a: Lapras|Lapras, L87, F|367/367
+|turn|11
+|
+|t:|1776973838
+|move|p1a: Lapras|Dragon Dance|p1a: Lapras
+|-boost|p1a: Lapras|atk|1
+|-boost|p1a: Lapras|spe|1
+|move|p2a: Arboliva|Leech Seed|p1a: Lapras
+|-start|p1a: Lapras|move: Leech Seed
+|
+|-damage|p1a: Lapras|322/367|[from] Leech Seed|[of] p2a: Arboliva
+|-heal|p2a: Arboliva|246/288|[silent]
+|upkeep
+|turn|12
+|
+|t:|1776973847
+|move|p1a: Lapras|Icicle Spear|p2a: Arboliva
+|-supereffective|p2a: Arboliva
+|-end|p2a: Arboliva|Substitute
+|-supereffective|p2a: Arboliva
+|-damage|p2a: Arboliva|174/288
+|-supereffective|p2a: Arboliva
+|-damage|p2a: Arboliva|106/288
+|-enditem|p2a: Arboliva|Sitrus Berry|[eat]
+|-heal|p2a: Arboliva|178/288|[from] item: Sitrus Berry
+|-supereffective|p2a: Arboliva
+|-crit|p2a: Arboliva
+|-damage|p2a: Arboliva|70/288
+|-supereffective|p2a: Arboliva
+|-damage|p2a: Arboliva|0 fnt
+|faint|p2a: Arboliva
+|-hitcount|p2: Arboliva|5
+|
+|upkeep
+|
+|t:|1776973862
+|switch|p2a: Vigoroth|Vigoroth, L85, F|275/275
+|turn|13
+|inactive|rassermus has 120 seconds left.
+|
+|t:|1776973902
+|move|p1a: Lapras|Icicle Spear|p2a: Vigoroth
+|-damage|p2a: Vigoroth|244/275
+|-damage|p2a: Vigoroth|214/275
+|-damage|p2a: Vigoroth|189/275
+|-damage|p2a: Vigoroth|159/275
+|-hitcount|p2a: Vigoroth|4
+|move|p2a: Vigoroth|Knock Off|p1a: Lapras
+|-damage|p1a: Lapras|253/367
+|-enditem|p1a: Lapras|Loaded Dice|[from] move: Knock Off|[of] p2a: Vigoroth
+|
+|-damage|p1a: Lapras|208/367|[from] Leech Seed|[of] p2a: Vigoroth
+|-heal|p2a: Vigoroth|204/275|[silent]
+|upkeep
+|turn|14
+|inactive|rassermus has 120 seconds left.
+|
+|t:|1776973918
+|move|p1a: Lapras|Dragon Dance|p1a: Lapras
+|-boost|p1a: Lapras|atk|1
+|-boost|p1a: Lapras|spe|1
+|move|p2a: Vigoroth|Slack Off|p2a: Vigoroth
+|-heal|p2a: Vigoroth|275/275
+|
+|-damage|p1a: Lapras|163/367|[from] Leech Seed|[of] p2a: Vigoroth
+|upkeep
+|turn|15
+|
+|t:|1776973931
+|move|p1a: Lapras|Waterfall|p2a: Vigoroth
+|-damage|p2a: Vigoroth|155/275
+|move|p2a: Vigoroth|Slack Off|p2a: Vigoroth
+|-heal|p2a: Vigoroth|275/275
+|
+|-damage|p1a: Lapras|118/367|[from] Leech Seed|[of] p2a: Vigoroth
+|upkeep
+|turn|16
+|
+|t:|1776973940
+|move|p1a: Lapras|Dragon Dance|p1a: Lapras
+|-boost|p1a: Lapras|atk|1
+|-boost|p1a: Lapras|spe|1
+|move|p2a: Vigoroth|Slack Off||[still]
+|-fail|p2a: Vigoroth|heal
+|
+|-damage|p1a: Lapras|73/367|[from] Leech Seed|[of] p2a: Vigoroth
+|upkeep
+|turn|17
+|
+|t:|1776973948
+|move|p1a: Lapras|Waterfall|p2a: Vigoroth
+|-damage|p2a: Vigoroth|130/275
+|move|p2a: Vigoroth|Slack Off|p2a: Vigoroth
+|-heal|p2a: Vigoroth|268/275
+|
+|-damage|p1a: Lapras|28/367|[from] Leech Seed|[of] p2a: Vigoroth
+|-heal|p2a: Vigoroth|275/275|[silent]
+|upkeep
+|turn|18
+|c|☆rassermus|ofc
+|
+|t:|1776973958
+|switch|p2a: Cramorant|Cramorant, L86, F|105/261
+|move|p1a: Lapras|Waterfall|p2a: Cramorant
+|-resisted|p2a: Cramorant
+|-damage|p2a: Cramorant|0 fnt
+|faint|p2a: Cramorant
+|
+|upkeep
+|
+|t:|1776973970
+|switch|p2a: Vigoroth|Vigoroth, L85, F|275/275
+|turn|19
+|
+|t:|1776973976
+|move|p1a: Lapras|Waterfall|p2a: Vigoroth
+|-damage|p2a: Vigoroth|131/275
+|move|p2a: Vigoroth|Slack Off|p2a: Vigoroth
+|-heal|p2a: Vigoroth|269/275
+|
+|-damage|p1a: Lapras|0 fnt|[from] Leech Seed|[of] p2a: Vigoroth
+|-heal|p2a: Vigoroth|275/275|[silent]
+|faint|p1a: Lapras
+|upkeep
+|
+|t:|1776973995
+|switch|p1a: Cresselia|Cresselia, L80, F|323/323
+|turn|20
+|
+|t:|1776973999
+|-terastallize|p1a: Cresselia|Poison
+|move|p2a: Vigoroth|Knock Off|p1a: Cresselia
+|-damage|p1a: Cresselia|268/323
+|-enditem|p1a: Cresselia|Leftovers|[from] move: Knock Off|[of] p2a: Vigoroth
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|
+|upkeep
+|turn|21
+|
+|t:|1776974008
+|move|p2a: Vigoroth|Body Slam|p1a: Cresselia
+|-damage|p1a: Cresselia|196/323
+|-status|p1a: Cresselia|par
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|
+|upkeep
+|turn|22
+|
+|t:|1776974015
+|move|p2a: Vigoroth|Body Slam|p1a: Cresselia
+|-damage|p1a: Cresselia|117/323 par
+|cant|p1a: Cresselia|par
+|
+|upkeep
+|turn|23
+|
+|t:|1776974019
+|move|p2a: Vigoroth|Body Slam|p1a: Cresselia
+|-damage|p1a: Cresselia|47/323 par
+|move|p1a: Cresselia|Moonlight|p1a: Cresselia
+|-heal|p1a: Cresselia|208/323 par
+|
+|upkeep
+|turn|24
+|c|☆michaelreallycool|lol
+|
+|t:|1776974027
+|move|p2a: Vigoroth|Body Slam|p1a: Cresselia
+|-damage|p1a: Cresselia|132/323 par
+|move|p1a: Cresselia|Moonlight|p1a: Cresselia
+|-heal|p1a: Cresselia|293/323 par
+|
+|upkeep
+|turn|25
+|c|☆rassermus|this is shit
+|
+|t:|1776974032
+|move|p2a: Vigoroth|Body Slam|p1a: Cresselia
+|-damage|p1a: Cresselia|220/323 par
+|move|p1a: Cresselia|Thunderbolt|p2a: Vigoroth
+|-damage|p2a: Vigoroth|186/275
+|
+|upkeep
+|turn|26
+|
+|t:|1776974038
+|move|p2a: Vigoroth|Body Slam|p1a: Cresselia
+|-damage|p1a: Cresselia|144/323 par
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|
+|upkeep
+|turn|27
+|
+|t:|1776974043
+|move|p2a: Vigoroth|Body Slam|p1a: Cresselia
+|-damage|p1a: Cresselia|65/323 par
+|move|p1a: Cresselia|Moonlight|p1a: Cresselia
+|-heal|p1a: Cresselia|226/323 par
+|
+|upkeep
+|turn|28
+|
+|t:|1776974049
+|move|p2a: Vigoroth|Body Slam|p1a: Cresselia
+|-damage|p1a: Cresselia|156/323 par
+|move|p1a: Cresselia|Moonlight|p1a: Cresselia
+|-heal|p1a: Cresselia|317/323 par
+|
+|upkeep
+|turn|29
+|
+|t:|1776974055
+|move|p2a: Vigoroth|Body Slam|p1a: Cresselia
+|-damage|p1a: Cresselia|245/323 par
+|move|p1a: Cresselia|Thunderbolt|p2a: Vigoroth
+|-damage|p2a: Vigoroth|65/275
+|
+|upkeep
+|turn|30
+|
+|t:|1776974060
+|move|p2a: Vigoroth|Slack Off|p2a: Vigoroth
+|-heal|p2a: Vigoroth|203/275
+|move|p1a: Cresselia|Thunderbolt|p2a: Vigoroth
+|-damage|p2a: Vigoroth|98/275
+|
+|upkeep
+|turn|31
+|
+|t:|1776974065
+|move|p2a: Vigoroth|Slack Off|p2a: Vigoroth
+|-heal|p2a: Vigoroth|236/275
+|cant|p1a: Cresselia|par
+|
+|upkeep
+|turn|32
+|
+|t:|1776974069
+|move|p2a: Vigoroth|Body Slam|p1a: Cresselia
+|-damage|p1a: Cresselia|172/323 par
+|move|p1a: Cresselia|Thunderbolt|p2a: Vigoroth
+|-damage|p2a: Vigoroth|124/275
+|
+|upkeep
+|turn|33
+|
+|t:|1776974075
+|move|p2a: Vigoroth|Body Slam|p1a: Cresselia
+|-crit|p1a: Cresselia
+|-damage|p1a: Cresselia|72/323 par
+|cant|p1a: Cresselia|par
+|
+|upkeep
+|turn|34
+|
+|t:|1776974080
+|move|p2a: Vigoroth|Body Slam|p1a: Cresselia
+|-damage|p1a: Cresselia|0 fnt
+|faint|p1a: Cresselia
+|
+|upkeep
+|c|☆rassermus|wtf
+|c|☆michaelreallycool|you broke through a ton
+|c|☆michaelreallycool|lowkey
+|c|☆rassermus|havent got a single hax
+|inactive|rassermus has 120 seconds left.
+|
+|t:|1776974113
+|switch|p1a: Toxtricity|Toxtricity, L82, M|257/257
+|turn|35
+|c|☆michaelreallycool|got that lapras crit
+|c|☆michaelreallycool|on arboliva
+|c|☆michaelreallycool|not hax but lucky
+|
+|t:|1776974136
+|move|p1a: Toxtricity|Overdrive|p2a: Vigoroth
+|-damage|p2a: Vigoroth|12/275
+|move|p2a: Vigoroth|Slack Off|p2a: Vigoroth
+|-heal|p2a: Vigoroth|150/275
+|
+|upkeep
+|turn|36
+|c|☆rassermus|you won both speed ties
+|c|☆rassermus|got a para on me
+|c|☆michaelreallycool|true
+|c|☆rassermus|crits
+|
+|t:|1776974154
+|move|p1a: Toxtricity|Overdrive|p2a: Vigoroth
+|-damage|p2a: Vigoroth|41/275
+|move|p2a: Vigoroth|Knock Off|p1a: Toxtricity
+|-crit|p1a: Toxtricity
+|-damage|p1a: Toxtricity|136/257
+|-enditem|p1a: Toxtricity|Choice Scarf|[from] move: Knock Off|[of] p2a: Vigoroth
+|
+|upkeep
+|turn|37
+|c|☆michaelreallycool|skill issue ig
+|
+|t:|1776974162
+|move|p2a: Vigoroth|Body Slam|p1a: Toxtricity
+|-damage|p1a: Toxtricity|34/257
+|move|p1a: Toxtricity|Overdrive|p2a: Vigoroth
+|-damage|p2a: Vigoroth|0 fnt
+|faint|p2a: Vigoroth
+|
+|upkeep
+|n|!rassermus|rassermus
+|
+|t:|1776974172
+|switch|p2a: Bombirdier|Bombirdier, L85, F|258/258
+|turn|38
+|
+|t:|1776974178
+|move|p2a: Bombirdier|U-turn|p1a: Toxtricity
+|-resisted|p1a: Toxtricity
+|-damage|p1a: Toxtricity|0 fnt
+|faint|p1a: Toxtricity
+|
+|t:|1776974186
+|switch|p2a: Brute Bonnet|Brute Bonnet, L80|309/309|[from] U-turn
+|
+|upkeep
+|
+|t:|1776974189
+|switch|p1a: Mew|Mew, L82|298/298
+|turn|39
+|
+|t:|1776974196
+|move|p1a: Mew|Nasty Plot|p1a: Mew
+|-boost|p1a: Mew|spa|2
+|move|p2a: Brute Bonnet|Spore|p1a: Mew
+|-status|p1a: Mew|slp|[from] move: Spore
+|
+|upkeep
+|turn|40
+|
+|t:|1776974203
+|cant|p1a: Mew|slp
+|move|p2a: Brute Bonnet|Crunch|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|110/298 slp
+|
+|upkeep
+|turn|41
+|
+|t:|1776974208
+|-curestatus|p1a: Mew|slp|[msg]
+|move|p1a: Mew|Bug Buzz|p2a: Brute Bonnet
+|-supereffective|p2a: Brute Bonnet
+|-damage|p2a: Brute Bonnet|0 fnt
+|faint|p2a: Brute Bonnet
+|-end|p2a: Brute Bonnet|Protosynthesis|[silent]
+|-damage|p1a: Mew|81/298|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776974220
+|switch|p2a: Bombirdier|Bombirdier, L85, F|258/258
+|turn|42
+|
+|t:|1776974224
+|-terastallize|p2a: Bombirdier|Rock
+|move|p1a: Mew|Bug Buzz|p2a: Bombirdier
+|-damage|p2a: Bombirdier|90/258
+|-damage|p1a: Mew|52/298|[from] item: Life Orb
+|move|p2a: Bombirdier|U-turn|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|0 fnt
+|faint|p1a: Mew
+|
+|win|michaelreallycool

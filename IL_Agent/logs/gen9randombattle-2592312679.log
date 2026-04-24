@@ -1,0 +1,242 @@
+|j|☆Brewer Fox
+|j|☆LMMMMR
+|t:|1776977979
+|gametype|singles
+|player|p1|Brewer Fox|blue|1133
+|player|p2|LMMMMR|102|1183
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776977979
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Beartic|Beartic, L91, F|321/321
+|switch|p2a: Blaziken|Blaziken, L76, M|247/247
+|turn|1
+|
+|t:|1776978000
+|switch|p1a: Spiritomb|Spiritomb, L89, F|234/234
+|move|p2a: Blaziken|Close Combat|p1a: Spiritomb
+|-immune|p1a: Spiritomb
+|
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Brewer Fox)
+|
+|t:|1776978047
+|move|p2a: Blaziken|Knock Off|p1a: Spiritomb
+|-damage|p1a: Spiritomb|165/234
+|-enditem|p1a: Spiritomb|Leftovers|[from] move: Knock Off|[of] p2a: Blaziken
+|-damage|p2a: Blaziken|223/247|[from] item: Life Orb
+|move|p1a: Spiritomb|Poltergeist|p2a: Blaziken
+|-activate|p2a: Blaziken|move: Poltergeist|Life Orb
+|-damage|p2a: Blaziken|61/247
+|
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|3
+|
+|t:|1776978063
+|-terastallize|p2a: Blaziken|Dark
+|move|p2a: Blaziken|Knock Off|p1a: Spiritomb
+|-damage|p1a: Spiritomb|99/234
+|-damage|p2a: Blaziken|37/247|[from] item: Life Orb
+|move|p1a: Spiritomb|Poltergeist|p2a: Blaziken
+|-activate|p2a: Blaziken|move: Poltergeist|Life Orb
+|-resisted|p2a: Blaziken
+|-damage|p2a: Blaziken|0 fnt
+|faint|p2a: Blaziken
+|
+|upkeep
+|
+|t:|1776978079
+|switch|p2a: Goodra|Goodra-Hisui, L82, F|265/265
+|turn|4
+|
+|t:|1776978088
+|move|p2a: Goodra|Earthquake|p1a: Spiritomb
+|-damage|p1a: Spiritomb|45/234
+|move|p1a: Spiritomb|Pain Split|p2a: Goodra
+|-sethp|p2a: Goodra|155/265|[from] move: Pain Split|[silent]
+|-sethp|p1a: Spiritomb|155/234|[from] move: Pain Split
+|
+|upkeep
+|turn|5
+|
+|t:|1776978104
+|move|p2a: Goodra|Draco Meteor|p1a: Spiritomb
+|-crit|p1a: Spiritomb
+|-damage|p1a: Spiritomb|0 fnt
+|-unboost|p2a: Goodra|spa|2
+|faint|p1a: Spiritomb
+|
+|upkeep
+|inactive|Brewer Fox has 120 seconds left.
+|
+|t:|1776978124
+|switch|p1a: Virizion|Virizion, L82|283/283
+|turn|6
+|
+|t:|1776978151
+|switch|p2a: Cresselia|Cresselia, L80, F|323/323
+|move|p1a: Virizion|Close Combat|p2a: Cresselia
+|-resisted|p2a: Cresselia
+|-damage|p2a: Cresselia|255/323
+|-unboost|p1a: Virizion|def|1
+|-unboost|p1a: Virizion|spd|1
+|-damage|p1a: Virizion|255/283|[from] item: Life Orb
+|
+|-heal|p2a: Cresselia|275/323|[from] item: Leftovers
+|upkeep
+|turn|7
+|inactive|Brewer Fox has 120 seconds left.
+|
+|t:|1776978168
+|move|p1a: Virizion|Stone Edge|p2a: Cresselia|[miss]
+|-miss|p1a: Virizion|p2a: Cresselia
+|move|p2a: Cresselia|Moonlight|p2a: Cresselia
+|-heal|p2a: Cresselia|323/323
+|
+|upkeep
+|turn|8
+|
+|t:|1776978187
+|move|p1a: Virizion|Stone Edge|p2a: Cresselia
+|-damage|p2a: Cresselia|250/323
+|-damage|p1a: Virizion|227/283|[from] item: Life Orb
+|move|p2a: Cresselia|Psyshock|p1a: Virizion
+|-supereffective|p1a: Virizion
+|-damage|p1a: Virizion|11/283
+|
+|-heal|p2a: Cresselia|270/323|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776978198
+|move|p1a: Virizion|Stone Edge|p2a: Cresselia
+|-damage|p2a: Cresselia|196/323
+|-damage|p1a: Virizion|0 fnt|[from] item: Life Orb
+|faint|p1a: Virizion
+|move|p2a: Cresselia|Psyshock|p1: Virizion|[notarget]
+|-fail|p2a: Cresselia
+|
+|-heal|p2a: Cresselia|216/323|[from] item: Leftovers
+|upkeep
+|inactive|Brewer Fox has 120 seconds left.
+|
+|t:|1776978217
+|switch|p1a: Beartic|Beartic, L91, F|321/321
+|turn|10
+|inactive|Brewer Fox has 120 seconds left.
+|
+|t:|1776978236
+|switch|p2a: Gyarados|Gyarados, L79, F|280/280
+|move|p1a: Beartic|Swords Dance|p1a: Beartic
+|-boost|p1a: Beartic|atk|2
+|
+|upkeep
+|turn|11
+|
+|t:|1776978248
+|move|p2a: Gyarados|Waterfall|p1a: Beartic
+|-damage|p1a: Beartic|227/321
+|move|p1a: Beartic|Icicle Crash|p2a: Gyarados
+|-damage|p2a: Gyarados|0 fnt
+|faint|p2a: Gyarados
+|
+|upkeep
+|
+|t:|1776978253
+|switch|p2a: Golem|Golem-Alola, L93, M|300/300
+|turn|12
+|
+|t:|1776978261
+|move|p1a: Beartic|Earthquake|p2a: Golem
+|-supereffective|p2a: Golem
+|-damage|p2a: Golem|0 fnt
+|faint|p2a: Golem
+|
+|upkeep
+|
+|t:|1776978268
+|switch|p2a: Lurantis|Lurantis, L87, F|264/264
+|turn|13
+|
+|t:|1776978272
+|move|p1a: Beartic|Icicle Crash|p2a: Lurantis|[miss]
+|-miss|p1a: Beartic|p2a: Lurantis
+|move|p2a: Lurantis|Superpower|p1a: Beartic
+|-supereffective|p1a: Beartic
+|-damage|p1a: Beartic|49/321
+|-boost|p2a: Lurantis|atk|1
+|-boost|p2a: Lurantis|def|1
+|
+|upkeep
+|turn|14
+|
+|t:|1776978282
+|move|p1a: Beartic|Icicle Crash|p2a: Lurantis
+|-supereffective|p2a: Lurantis
+|-damage|p2a: Lurantis|0 fnt
+|faint|p2a: Lurantis
+|
+|upkeep
+|
+|t:|1776978288
+|switch|p2a: Cresselia|Cresselia, L80, F|216/323
+|turn|15
+|
+|t:|1776978298
+|move|p2a: Cresselia|Thunderbolt|p1a: Beartic
+|-crit|p1a: Beartic
+|-damage|p1a: Beartic|0 fnt
+|faint|p1a: Beartic
+|
+|-heal|p2a: Cresselia|236/323|[from] item: Leftovers
+|upkeep
+|
+|t:|1776978311
+|switch|p1a: Chi-Yu|Chi-Yu, L77|211/211
+|-ability|p1a: Chi-Yu|Beads of Ruin
+|turn|16
+|
+|t:|1776978329
+|switch|p2a: Goodra|Goodra-Hisui, L82, F|155/265
+|-terastallize|p1a: Chi-Yu|Dark
+|move|p1a: Chi-Yu|Dark Pulse|p2a: Goodra
+|-damage|p2a: Goodra|43/265
+|
+|upkeep
+|turn|17
+|
+|t:|1776978341
+|move|p1a: Chi-Yu|Dark Pulse|p2a: Goodra
+|-damage|p2a: Goodra|0 fnt
+|faint|p2a: Goodra
+|
+|upkeep
+|
+|t:|1776978345
+|switch|p2a: Cresselia|Cresselia, L80, F|236/323
+|turn|18
+|
+|t:|1776978347
+|move|p1a: Chi-Yu|Dark Pulse|p2a: Cresselia
+|-supereffective|p2a: Cresselia
+|-damage|p2a: Cresselia|0 fnt
+|faint|p2a: Cresselia
+|
+|win|Brewer Fox
+|raw|Brewer Fox's rating: 1133 &rarr; <strong>1163</strong><br />(+30 for winning)
+|raw|LMMMMR's rating: 1206 &rarr; <strong>1176</strong><br />(-30 for losing)
+|l|☆LMMMMR
+|player|p2|

@@ -1,0 +1,334 @@
+|j|☆telee.04maro
+|j|☆bady43
+|t:|1776970489
+|gametype|singles
+|player|p1|telee.04maro|266|1383
+|player|p2|bady43|will|1426
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776970489
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Diancie|Diancie, L82|216/216
+|switch|p2a: Donphan|Donphan, L84, F|288/288
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by telee.04maro)
+|
+|t:|1776970499
+|switch|p1a: Rayquaza|Rayquaza, L72|270/270
+|-ability|p1a: Rayquaza|Air Lock
+|move|p2a: Donphan|Stealth Rock|p1a: Rayquaza
+|-sidestart|p1: telee.04maro|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1776970512
+|-terastallize|p1a: Rayquaza|Steel
+|move|p1a: Rayquaza|Swords Dance|p1a: Rayquaza
+|-boost|p1a: Rayquaza|atk|2
+|move|p2a: Donphan|Knock Off|p1a: Rayquaza
+|-damage|p1a: Rayquaza|175/270
+|-enditem|p1a: Rayquaza|Loaded Dice|[from] move: Knock Off|[of] p2a: Donphan
+|
+|upkeep
+|turn|3
+|
+|t:|1776970534
+|move|p1a: Rayquaza|Dragon Ascent|p2a: Donphan
+|-damage|p2a: Donphan|98/288
+|-unboost|p1a: Rayquaza|def|1
+|-unboost|p1a: Rayquaza|spd|1
+|move|p2a: Donphan|Earthquake|p1a: Rayquaza
+|-supereffective|p1a: Rayquaza
+|-damage|p1a: Rayquaza|0 fnt
+|faint|p1a: Rayquaza
+|
+|-heal|p2a: Donphan|116/288|[from] item: Leftovers
+|upkeep
+|inactive|telee.04maro has 120 seconds left.
+|
+|t:|1776970552
+|switch|p1a: Palkia|Palkia-Origin, L72|249/249
+|-damage|p1a: Palkia|218/249|[from] Stealth Rock
+|-ability|p1a: Palkia|Pressure
+|turn|4
+|inactive|telee.04maro has 120 seconds left.
+|
+|t:|1776970577
+|switch|p2a: Alcremie|Alcremie-Ruby-Cream, L90, F|263/263
+|move|p1a: Palkia|Hydro Pump|p2a: Alcremie
+|-damage|p2a: Alcremie|154/263
+|
+|-heal|p2a: Alcremie|170/263|[from] item: Leftovers
+|upkeep
+|turn|5
+|inactive|telee.04maro has 120 seconds left.
+|
+|t:|1776970594
+|switch|p1a: Forretress|Forretress, L84, M|263/263
+|-damage|p1a: Forretress|231/263|[from] Stealth Rock
+|move|p2a: Alcremie|Recover|p2a: Alcremie
+|-heal|p2a: Alcremie|263/263
+|
+|-heal|p1a: Forretress|247/263|[from] item: Leftovers
+|upkeep
+|turn|6
+|inactive|bady43 has 120 seconds left.
+|
+|t:|1776970610
+|switch|p2a: Donphan|Donphan, L84, F|116/288
+|move|p1a: Forretress|Rapid Spin|p2a: Donphan
+|-damage|p2a: Donphan|88/288
+|-boost|p1a: Forretress|spe|1
+|-sideend|p1: telee.04maro|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Forretress
+|
+|-heal|p1a: Forretress|263/263|[from] item: Leftovers
+|-heal|p2a: Donphan|106/288|[from] item: Leftovers
+|upkeep
+|turn|7
+|inactive|bady43 has 120 seconds left.
+|
+|t:|1776970621
+|move|p1a: Forretress|Iron Head|p2a: Donphan
+|-damage|p2a: Donphan|42/288
+|cant|p2a: Donphan|flinch
+|
+|-heal|p2a: Donphan|60/288|[from] item: Leftovers
+|upkeep
+|turn|8
+|inactive|bady43 has 120 seconds left.
+|
+|t:|1776970634
+|move|p1a: Forretress|Iron Head|p2a: Donphan
+|-damage|p2a: Donphan|0 fnt
+|faint|p2a: Donphan
+|
+|upkeep
+|
+|t:|1776970636
+|switch|p2a: Dragapult|Dragapult, L77, M|262/262
+|turn|9
+|
+|t:|1776970645
+|move|p2a: Dragapult|Dragon Dance|p2a: Dragapult
+|-boost|p2a: Dragapult|atk|1
+|-boost|p2a: Dragapult|spe|1
+|move|p1a: Forretress|Stealth Rock|p2a: Dragapult
+|-sidestart|p2: bady43|move: Stealth Rock
+|
+|upkeep
+|turn|10
+|
+|t:|1776970657
+|switch|p1a: Diancie|Diancie, L82|216/216
+|move|p2a: Dragapult|Fire Blast|p1a: Diancie
+|-resisted|p1a: Diancie
+|-damage|p1a: Diancie|189/216
+|-damage|p2a: Dragapult|236/262|[from] item: Life Orb
+|
+|-heal|p1a: Diancie|202/216|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776970672
+|-terastallize|p2a: Dragapult|Ghost
+|move|p2a: Dragapult|Tera Blast|p1a: Diancie|[anim] Tera Blast Ghost
+|-damage|p1a: Diancie|59/216
+|-damage|p2a: Dragapult|210/262|[from] item: Life Orb
+|move|p1a: Diancie|Draining Kiss|p2a: Dragapult
+|-damage|p2a: Dragapult|146/262
+|-heal|p1a: Diancie|107/216|[from] drain|[of] p2a: Dragapult
+|
+|-heal|p1a: Diancie|120/216|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776970689
+|switch|p1a: Ting-Lu|Ting-Lu, L78|370/370
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Dragapult|Tera Blast|p1a: Ting-Lu|[anim] Tera Blast Ghost
+|-resisted|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|284/370
+|-damage|p2a: Dragapult|120/262|[from] item: Life Orb
+|
+|-heal|p1a: Ting-Lu|307/370|[from] item: Leftovers
+|upkeep
+|turn|13
+|inactive|bady43 has 120 seconds left.
+|inactive|bady43 has 90 seconds left.
+|
+|t:|1776970745
+|switch|p2a: Glalie|Glalie, L96, F|309/309
+|move|p1a: Ting-Lu|Heavy Slam|p2a: Glalie
+|-supereffective|p2a: Glalie
+|-damage|p2a: Glalie|235/309
+|
+|-heal|p1a: Ting-Lu|330/370|[from] item: Leftovers
+|upkeep
+|turn|14
+|inactive|bady43 has 90 seconds left.
+|
+|t:|1776970756
+|switch|p1a: Diancie|Diancie, L82|120/216
+|move|p2a: Glalie|Freeze-Dry|p1a: Diancie
+|-damage|p1a: Diancie|65/216
+|
+|-heal|p1a: Diancie|78/216|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1776970768
+|move|p2a: Glalie|Earthquake|p1a: Diancie
+|-supereffective|p1a: Diancie
+|-damage|p1a: Diancie|0 fnt
+|faint|p1a: Diancie
+|
+|upkeep
+|
+|t:|1776970772
+|switch|p1a: Forretress|Forretress, L84, M|263/263
+|turn|16
+|
+|t:|1776970778
+|move|p2a: Glalie|Taunt|p1a: Forretress
+|-start|p1a: Forretress|move: Taunt
+|move|p1a: Forretress|Iron Head|p2a: Glalie
+|-supereffective|p2a: Glalie
+|-damage|p2a: Glalie|77/309
+|
+|upkeep
+|turn|17
+|inactive|bady43 has 90 seconds left.
+|
+|t:|1776970816
+|move|p2a: Glalie|Spikes|p1a: Forretress
+|-sidestart|p1: telee.04maro|Spikes
+|move|p1a: Forretress|Iron Head|p2a: Glalie
+|-supereffective|p2a: Glalie
+|-damage|p2a: Glalie|0 fnt
+|faint|p2a: Glalie
+|
+|upkeep
+|
+|t:|1776970832
+|switch|p2a: Gallade|Gallade, L80, M|240/240
+|-damage|p2a: Gallade|225/240|[from] Stealth Rock
+|turn|18
+|
+|t:|1776970842
+|switch|p1a: Polteageist|Polteageist, L78|222/222
+|-damage|p1a: Polteageist|195/222|[from] Spikes
+|move|p2a: Gallade|Sacred Sword|p1a: Polteageist
+|-immune|p1a: Polteageist
+|
+|upkeep
+|turn|19
+|
+|t:|1776970851
+|switch|p2a: Shiftry|Shiftry, L89, F|305/305
+|-damage|p2a: Shiftry|267/305|[from] Stealth Rock
+|move|p1a: Polteageist|Shell Smash|p1a: Polteageist
+|-unboost|p1a: Polteageist|def|1
+|-unboost|p1a: Polteageist|spd|1
+|-boost|p1a: Polteageist|atk|2
+|-boost|p1a: Polteageist|spa|2
+|-boost|p1a: Polteageist|spe|2
+|-enditem|p1a: Polteageist|White Herb
+|-clearnegativeboost|p1a: Polteageist|[silent]
+|
+|upkeep
+|turn|20
+|inactive|bady43 has 90 seconds left.
+|inactive|telee.04maro has 120 seconds left.
+|inactive|bady43 has 60 seconds left.
+|
+|t:|1776970897
+|move|p1a: Polteageist|Shadow Ball|p2a: Shiftry
+|-resisted|p2a: Shiftry
+|-damage|p2a: Shiftry|147/305
+|move|p2a: Shiftry|Knock Off|p1a: Polteageist
+|-supereffective|p1a: Polteageist
+|-damage|p1a: Polteageist|0 fnt
+|faint|p1a: Polteageist
+|-damage|p2a: Shiftry|117/305|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776970905
+|switch|p1a: Forretress|Forretress, L84, M|263/263
+|-damage|p1a: Forretress|231/263|[from] Spikes
+|turn|21
+|inactive|telee.04maro has 120 seconds left.
+|
+|t:|1776970913
+|switch|p2a: Dragapult|Dragapult, L77, M, tera:Ghost|120/262
+|-damage|p2a: Dragapult|88/262|[from] Stealth Rock
+|move|p1a: Forretress|Iron Head|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|-heal|p1a: Forretress|247/263|[from] item: Leftovers
+|upkeep
+|
+|t:|1776970921
+|switch|p2a: Gallade|Gallade, L80, M|225/240
+|-damage|p2a: Gallade|210/240|[from] Stealth Rock
+|turn|22
+|
+|t:|1776970935
+|switch|p1a: Palkia|Palkia-Origin, L72|218/249
+|-damage|p1a: Palkia|187/249|[from] Spikes
+|-ability|p1a: Palkia|Pressure
+|move|p2a: Gallade|Sacred Sword|p1a: Palkia
+|-damage|p1a: Palkia|0 fnt
+|faint|p1a: Palkia
+|
+|upkeep
+|
+|t:|1776970944
+|switch|p1a: Forretress|Forretress, L84, M|247/263
+|-damage|p1a: Forretress|215/263|[from] Spikes
+|turn|23
+|inactive|bady43 has 90 seconds left.
+|
+|t:|1776970961
+|move|p2a: Gallade|Sacred Sword|p1a: Forretress
+|-damage|p1a: Forretress|53/263
+|move|p1a: Forretress|Rapid Spin|p2a: Gallade
+|-damage|p2a: Gallade|168/240
+|-boost|p1a: Forretress|spe|1
+|-sideend|p1: telee.04maro|Spikes|[from] move: Rapid Spin|[of] p1a: Forretress
+|
+|-heal|p1a: Forretress|69/263|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1776970976
+|move|p2a: Gallade|Sacred Sword|p1a: Forretress
+|-damage|p1a: Forretress|0 fnt
+|faint|p1a: Forretress
+|
+|upkeep
+|
+|t:|1776970980
+|switch|p1a: Ting-Lu|Ting-Lu, L78|330/370
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|turn|25
+|
+|t:|1776970989
+|move|p2a: Gallade|Sacred Sword|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|0 fnt
+|faint|p1a: Ting-Lu
+|
+|win|bady43
+|raw|telee.04maro's rating: 1383 &rarr; <strong>1365</strong><br />(-18 for losing)
+|raw|bady43's rating: 1426 &rarr; <strong>1444</strong><br />(+18 for winning)

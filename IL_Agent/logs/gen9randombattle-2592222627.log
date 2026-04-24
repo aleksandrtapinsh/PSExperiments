@@ -1,0 +1,268 @@
+|j|‽Sunnytzu04isaloser
+|j|☆Izion
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1776971452
+|gametype|singles
+|player|p1|Sunnytzu04isaloser|266|
+|player|p2|Izion|rei|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|Tournament battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776971452
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Abomasnow|Abomasnow, L84, F|287/287
+|switch|p2a: Miraidon|Miraidon, L65|238/238
+|-fieldstart|move: Electric Terrain|[from] ability: Hadron Engine|[of] p2a: Miraidon
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p1a: Abomasnow
+|turn|1
+|j| aeonseye
+|j| vortexaxolotl
+|
+|t:|1776971483
+|switch|p2a: Dewgong|Dewgong, L94, M|322/322
+|switch|p1a: Hariyama|Hariyama, L87, F|392/392
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1776971498
+|move|p2a: Dewgong|Knock Off|p1a: Hariyama
+|-resisted|p1a: Hariyama
+|-damage|p1a: Hariyama|351/392
+|-enditem|p1a: Hariyama|Assault Vest|[from] move: Knock Off|[of] p2a: Dewgong
+|move|p1a: Hariyama|Close Combat|p2a: Dewgong
+|-supereffective|p2a: Dewgong
+|-damage|p2a: Dewgong|104/322
+|-unboost|p1a: Hariyama|def|1
+|-unboost|p1a: Hariyama|spd|1
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1776971511
+|switch|p2a: Bronzong|Bronzong, L88|261/261
+|move|p1a: Hariyama|Close Combat|p2a: Bronzong
+|-damage|p2a: Bronzong|143/261
+|-unboost|p1a: Hariyama|def|1
+|-unboost|p1a: Hariyama|spd|1
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1776971536
+|switch|p1a: Urshifu|Urshifu, L74, M|270/270
+|move|p2a: Bronzong|Psychic Noise|p1a: Urshifu
+|-immune|p1a: Urshifu
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|5
+|inactive|Izion has 120 seconds left.
+|inactive|Sunnytzu04isaloser has 120 seconds left.
+|inactive|Izion has 90 seconds left.
+|
+|t:|1776971597
+|-terastallize|p2a: Bronzong|Fighting
+|move|p1a: Urshifu|Swords Dance|p1a: Urshifu
+|-boost|p1a: Urshifu|atk|2
+|move|p2a: Bronzong|Body Press|p1a: Urshifu
+|-supereffective|p1a: Urshifu
+|-damage|p1a: Urshifu|58/270
+|
+|-weather|none
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|6
+|
+|t:|1776971600
+|move|p1a: Urshifu|Close Combat|p2a: Bronzong
+|-damage|p2a: Bronzong|0 fnt
+|-unboost|p1a: Urshifu|def|1
+|-unboost|p1a: Urshifu|spd|1
+|faint|p2a: Bronzong
+|-damage|p1a: Urshifu|31/270|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776971608
+|switch|p2a: Miraidon|Miraidon, L65|238/238
+|-fieldstart|move: Electric Terrain|[from] ability: Hadron Engine|[of] p2a: Miraidon
+|turn|7
+|
+|t:|1776971612
+|switch|p1a: Abomasnow|Abomasnow, L84, F|287/287
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p1a: Abomasnow
+|move|p2a: Miraidon|Electro Drift|p1a: Abomasnow
+|-resisted|p1a: Abomasnow
+|-damage|p1a: Abomasnow|193/287
+|-damage|p2a: Miraidon|215/238|[from] item: Life Orb
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|8
+|inactive|Sunnytzu04isaloser has 120 seconds left.
+|inactive|Izion has 90 seconds left.
+|
+|t:|1776971667
+|switch|p2a: Dewgong|Dewgong, L94, M|104/322
+|move|p1a: Abomasnow|Aurora Veil|p1a: Abomasnow
+|-sidestart|p1: Sunnytzu04isaloser|move: Aurora Veil
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|9
+|inactive|Izion has 60 seconds left.
+|inactive|Izion has 30 seconds left.
+|inactive|Izion has 20 seconds left.
+|
+|t:|1776971733
+|switch|p1a: Hariyama|Hariyama, L87, F|351/392
+|move|p2a: Dewgong|Encore||[still]
+|-fail|p2a: Dewgong
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|10
+|inactive|Izion has 30 seconds left this turn.
+|
+|t:|1776971737
+|move|p2a: Dewgong|Surf|p1a: Hariyama
+|-damage|p1a: Hariyama|297/392
+|move|p1a: Hariyama|Close Combat|p2a: Dewgong
+|-supereffective|p2a: Dewgong
+|-damage|p2a: Dewgong|0 fnt
+|-unboost|p1a: Hariyama|def|1
+|-unboost|p1a: Hariyama|spd|1
+|faint|p2a: Dewgong
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|inactive|Izion has 30 seconds left.
+|
+|t:|1776971743
+|switch|p2a: Miraidon|Miraidon, L65|215/238
+|-activate|p2a: Miraidon|ability: Hadron Engine
+|turn|11
+|
+|t:|1776971750
+|switch|p1a: Urshifu|Urshifu, L74, M|31/270
+|move|p2a: Miraidon|Calm Mind|p2a: Miraidon
+|-boost|p2a: Miraidon|spa|1
+|-boost|p2a: Miraidon|spd|1
+|
+|-weather|none
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|12
+|inactive|Izion has 30 seconds left.
+|
+|t:|1776971770
+|move|p2a: Miraidon|Dragon Pulse|p1a: Urshifu
+|-damage|p1a: Urshifu|0 fnt
+|faint|p1a: Urshifu
+|-damage|p2a: Miraidon|192/238|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776971776
+|switch|p1a: Zacian|Zacian, L69|241/241
+|-ability|p1a: Zacian|Intrepid Sword|boost
+|-boost|p1a: Zacian|atk|1
+|turn|13
+|
+|t:|1776971786
+|switch|p2a: Regirock|Regirock, L83|268/268
+|move|p1a: Zacian|Swords Dance|p1a: Zacian
+|-boost|p1a: Zacian|atk|2
+|
+|upkeep
+|turn|14
+|
+|t:|1776971792
+|-terastallize|p1a: Zacian|Fighting
+|move|p1a: Zacian|Close Combat|p2a: Regirock
+|-supereffective|p2a: Regirock
+|-damage|p2a: Regirock|0 fnt
+|-unboost|p1a: Zacian|def|1
+|-unboost|p1a: Zacian|spd|1
+|faint|p2a: Regirock
+|-damage|p1a: Zacian|217/241|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776971807
+|switch|p2a: Arceus|Arceus-Grass, L73|296/296
+|turn|15
+|
+|t:|1776971812
+|move|p1a: Zacian|Close Combat|p2a: Arceus
+|-damage|p2a: Arceus|2/296
+|-unboost|p1a: Zacian|def|1
+|-unboost|p1a: Zacian|spd|1
+|-damage|p1a: Zacian|193/241|[from] item: Life Orb
+|move|p2a: Arceus|Earth Power|p1a: Zacian
+|-damage|p1a: Zacian|132/241
+|
+|-sideend|p1: Sunnytzu04isaloser|move: Aurora Veil
+|upkeep
+|turn|16
+|c|☆Izion|of all the arcues they couldve given me
+|c| vortexaxolotl|is this a sweep?
+|c|☆Izion|I got grass
+|c|☆Izion|it is, I have no out for that
+|
+|t:|1776971840
+|move|p1a: Zacian|Wild Charge|p2a: Arceus
+|-resisted|p2a: Arceus
+|-crit|p2a: Arceus
+|-damage|p2a: Arceus|0 fnt
+|faint|p2a: Arceus
+|-damage|p1a: Zacian|131/241|[from] Recoil
+|-damage|p1a: Zacian|107/241|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776971843
+|switch|p2a: Araquanid|Araquanid, L82, F|246/246
+|turn|17
+|
+|t:|1776971848
+|move|p1a: Zacian|Wild Charge|p2a: Araquanid
+|-supereffective|p2a: Araquanid
+|-damage|p2a: Araquanid|0 fnt
+|faint|p2a: Araquanid
+|-damage|p1a: Zacian|45/241|[from] Recoil
+|-damage|p1a: Zacian|21/241|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776971851
+|switch|p2a: Miraidon|Miraidon, L65|192/238
+|-fieldstart|move: Electric Terrain|[from] ability: Hadron Engine|[of] p2a: Miraidon
+|turn|18
+|
+|t:|1776971854
+|move|p1a: Zacian|Close Combat|p2a: Miraidon
+|-crit|p2a: Miraidon
+|-damage|p2a: Miraidon|0 fnt
+|-unboost|p1a: Zacian|def|1
+|-unboost|p1a: Zacian|spd|1
+|faint|p2a: Miraidon
+|-damage|p1a: Zacian|0 fnt|[from] item: Life Orb
+|faint|p1a: Zacian
+|
+|win|Sunnytzu04isaloser
+|n|‽Sunnytzu04isaloser|sunnytzu04isaloser
+|n|☆Izion|izion
+|n| aeonseye|aeonseye
+|n| vortexaxolotl|vortexaxolotl

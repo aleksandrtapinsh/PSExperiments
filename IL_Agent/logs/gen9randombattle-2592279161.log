@@ -1,0 +1,262 @@
+|j|☆Head Pixie 123
+|j|☆7250nbl
+|t:|1776975445
+|gametype|singles
+|player|p1|Head Pixie 123|rocketgrunt|1069
+|player|p2|7250nbl|265|1094
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776975445
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Zekrom|Zekrom, L71|259/259
+|switch|p2a: Palossand|Palossand, L89, F|296/296
+|-ability|p1a: Zekrom|Teravolt
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Head Pixie 123)
+|
+|t:|1776975457
+|move|p1a: Zekrom|Outrage|p2a: Palossand
+|-damage|p2a: Palossand|182/296
+|move|p2a: Palossand|Earth Power|p1a: Zekrom
+|-supereffective|p1a: Zekrom
+|-damage|p1a: Zekrom|37/259
+|
+|-heal|p1a: Zekrom|53/259|[from] item: Leftovers
+|-heal|p2a: Palossand|200/296|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776975478
+|move|p1a: Zekrom|Outrage|p2a: Palossand|[from] lockedmove
+|-damage|p2a: Palossand|100/296
+|-start|p1a: Zekrom|confusion|[fatigue]
+|move|p2a: Palossand|Sludge Bomb|p1a: Zekrom
+|-damage|p1a: Zekrom|0 fnt
+|faint|p1a: Zekrom
+|
+|-heal|p2a: Palossand|118/296|[from] item: Leftovers
+|upkeep
+|
+|t:|1776975487
+|switch|p1a: Iron Jugulis|Iron Jugulis, L77|271/271
+|turn|3
+|
+|t:|1776975497
+|move|p1a: Iron Jugulis|Hurricane|p2a: Palossand|[miss]
+|-miss|p1a: Iron Jugulis|p2a: Palossand
+|move|p2a: Palossand|Shore Up|p2a: Palossand
+|-heal|p2a: Palossand|266/296
+|
+|-heal|p2a: Palossand|284/296|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776975506
+|move|p1a: Iron Jugulis|Dark Pulse|p2a: Palossand
+|-supereffective|p2a: Palossand
+|-damage|p2a: Palossand|90/296
+|cant|p2a: Palossand|flinch
+|
+|-heal|p2a: Palossand|108/296|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776975515
+|move|p1a: Iron Jugulis|Dark Pulse|p2a: Palossand
+|-supereffective|p2a: Palossand
+|-damage|p2a: Palossand|0 fnt
+|faint|p2a: Palossand
+|
+|upkeep
+|
+|t:|1776975530
+|switch|p2a: Thundurus|Thundurus-Therian, L80, M|258/258
+|turn|6
+|
+|t:|1776975536
+|move|p2a: Thundurus|Thunderbolt|p1a: Iron Jugulis
+|-supereffective|p1a: Iron Jugulis
+|-damage|p1a: Iron Jugulis|1/271
+|move|p1a: Iron Jugulis|Meteor Beam||[still]
+|-prepare|p1a: Iron Jugulis|Meteor Beam
+|-boost|p1a: Iron Jugulis|spa|1
+|-enditem|p1a: Iron Jugulis|Power Herb
+|-anim|p1a: Iron Jugulis|Meteor Beam|p2a: Thundurus
+|-supereffective|p2a: Thundurus
+|-damage|p2a: Thundurus|0 fnt
+|faint|p2a: Thundurus
+|
+|upkeep
+|
+|t:|1776975555
+|switch|p2a: Greninja|Greninja, L80, M|246/246
+|turn|7
+|
+|t:|1776975567
+|move|p2a: Greninja|Gunk Shot|p1a: Iron Jugulis
+|-start|p2a: Greninja|typechange|Poison|[from] ability: Protean
+|-damage|p1a: Iron Jugulis|0 fnt
+|faint|p1a: Iron Jugulis
+|-end|p1a: Iron Jugulis|Quark Drive|[silent]
+|-damage|p2a: Greninja|222/246|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776975574
+|switch|p1a: Electrode|Electrode, L92|260/260
+|turn|8
+|
+|t:|1776975584
+|move|p1a: Electrode|Thunderbolt|p2a: Greninja
+|-damage|p2a: Greninja|53/246
+|-damage|p1a: Electrode|234/260|[from] item: Life Orb
+|move|p2a: Greninja|U-turn|p1a: Electrode
+|-damage|p1a: Electrode|169/260
+|-damage|p2a: Greninja|29/246|[from] item: Life Orb
+|
+|t:|1776975599
+|switch|p2a: Vigoroth|Vigoroth, L85, F|275/275|[from] U-turn
+|
+|upkeep
+|turn|9
+|
+|t:|1776975612
+|move|p1a: Electrode|Thunderbolt|p2a: Vigoroth
+|-crit|p2a: Vigoroth
+|-damage|p2a: Vigoroth|110/275
+|-damage|p1a: Electrode|143/260|[from] item: Life Orb
+|move|p2a: Vigoroth|Body Slam|p1a: Electrode
+|-damage|p1a: Electrode|62/260
+|
+|upkeep
+|turn|10
+|
+|t:|1776975622
+|move|p1a: Electrode|Thunderbolt|p2a: Vigoroth
+|-damage|p2a: Vigoroth|0 fnt
+|faint|p2a: Vigoroth
+|-damage|p1a: Electrode|36/260|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776975631
+|switch|p2a: Drifblim|Drifblim, L86, F|396/396
+|turn|11
+|
+|t:|1776975641
+|move|p1a: Electrode|Thunderbolt|p2a: Drifblim
+|-supereffective|p2a: Drifblim
+|-damage|p2a: Drifblim|58/396
+|-enditem|p2a: Drifblim|Sitrus Berry|[eat]
+|-heal|p2a: Drifblim|157/396|[from] item: Sitrus Berry
+|-damage|p1a: Electrode|10/260|[from] item: Life Orb
+|move|p2a: Drifblim|Shadow Ball|p1a: Electrode
+|-damage|p1a: Electrode|0 fnt
+|faint|p1a: Electrode
+|
+|upkeep
+|
+|t:|1776975658
+|switch|p1a: Glaceon|Glaceon, L94, M|275/275
+|turn|12
+|
+|t:|1776975674
+|move|p2a: Drifblim|Strength Sap|p1a: Glaceon
+|-unboost|p1a: Glaceon|atk|1
+|-heal|p2a: Drifblim|274/396
+|move|p1a: Glaceon|Freeze-Dry|p2a: Drifblim
+|-supereffective|p2a: Drifblim
+|-damage|p2a: Drifblim|0 fnt
+|faint|p2a: Drifblim
+|
+|upkeep
+|
+|t:|1776975682
+|switch|p2a: Greninja|Greninja, L80, M|29/246
+|turn|13
+|
+|t:|1776975687
+|move|p2a: Greninja|Gunk Shot|p1a: Glaceon
+|-start|p2a: Greninja|typechange|Poison|[from] ability: Protean
+|-damage|p1a: Glaceon|157/275
+|-damage|p2a: Greninja|5/246|[from] item: Life Orb
+|move|p1a: Glaceon|Freeze-Dry|p2a: Greninja
+|-damage|p2a: Greninja|0 fnt
+|faint|p2a: Greninja
+|
+|upkeep
+|
+|t:|1776975697
+|switch|p2a: Hitmonlee|Hitmonlee, L85, M|223/223
+|turn|14
+|
+|t:|1776975702
+|move|p1a: Glaceon|Protect|p1a: Glaceon
+|-singleturn|p1a: Glaceon|Protect
+|move|p2a: Hitmonlee|Mach Punch|p1a: Glaceon
+|-activate|p1a: Glaceon|move: Protect
+|
+|upkeep
+|turn|15
+|
+|t:|1776975709
+|move|p2a: Hitmonlee|Mach Punch|p1a: Glaceon
+|-supereffective|p1a: Glaceon
+|-damage|p1a: Glaceon|37/275
+|move|p1a: Glaceon|Freeze-Dry|p2a: Hitmonlee
+|-damage|p2a: Hitmonlee|121/223
+|
+|upkeep
+|turn|16
+|
+|t:|1776975716
+|move|p1a: Glaceon|Protect|p1a: Glaceon
+|-singleturn|p1a: Glaceon|Protect
+|move|p2a: Hitmonlee|Mach Punch|p1a: Glaceon
+|-activate|p1a: Glaceon|move: Protect
+|
+|upkeep
+|turn|17
+|
+|t:|1776975721
+|move|p2a: Hitmonlee|Mach Punch|p1a: Glaceon
+|-supereffective|p1a: Glaceon
+|-damage|p1a: Glaceon|0 fnt
+|faint|p1a: Glaceon
+|
+|upkeep
+|
+|t:|1776975726
+|switch|p1a: Walking Wake|Walking Wake, L79|286/286
+|turn|18
+|
+|t:|1776975734
+|move|p2a: Hitmonlee|Mach Punch|p1a: Walking Wake
+|-damage|p1a: Walking Wake|202/286
+|move|p1a: Walking Wake|Flamethrower|p2a: Hitmonlee
+|-damage|p2a: Hitmonlee|30/223
+|
+|upkeep
+|turn|19
+|
+|t:|1776975743
+|-terastallize|p2a: Hitmonlee|Fighting
+|move|p2a: Hitmonlee|Mach Punch|p1a: Walking Wake
+|-damage|p1a: Walking Wake|90/286
+|move|p1a: Walking Wake|Flamethrower|p2a: Hitmonlee
+|-damage|p2a: Hitmonlee|0 fnt
+|faint|p2a: Hitmonlee
+|
+|win|Head Pixie 123
+|raw|Head Pixie 123's rating: 1069 &rarr; <strong>1101</strong><br />(+32 for winning)
+|raw|7250nbl's rating: 1094 &rarr; <strong>1068</strong><br />(-26 for losing)
+|l|☆7250nbl
+|player|p2|

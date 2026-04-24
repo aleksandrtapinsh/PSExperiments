@@ -1,0 +1,273 @@
+|j|☆lilst1ngray
+|j|☆Williamblueyea
+|html|<table width="100%"><tr><td align="left">lilst1ngray</td><td align="right">Williamblueyea</tr><tr><td align="left"><i class="fa fa-circle-o"></i> <i class="fa fa-circle-o"></i> </td><td align="right"><i class="fa fa-circle-o"></i> <i class="fa fa-circle-o"></i> </tr></table>
+|uhtml|bestof|<h2><strong>Game 1</strong> of <a href="/game-bestof3-gen9randombattle-2592311510">a best-of-3</a></h2>
+|t:|1776977884
+|gametype|singles
+|player|p1|lilst1ngray|ingo|
+|player|p2|Williamblueyea|marlon|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|raw|<div class="infobox"><details class="readmore" open><summary><strong>1 custom rule:</strong></summary> Best of = 3</details></div>
+|
+|t:|1776977884
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Dachsbun|Dachsbun, L92, M|254/254
+|switch|p2a: Glimmora|Glimmora, L75, M|248/248
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Williamblueyea)
+|
+|t:|1776977913
+|move|p1a: Dachsbun|Body Press|p2a: Glimmora
+|-damage|p2a: Glimmora|165/248
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: lilst1ngray|move: Toxic Spikes
+|move|p2a: Glimmora|Sludge Wave|p1a: Dachsbun
+|-supereffective|p1a: Dachsbun
+|-damage|p1a: Dachsbun|62/254
+|
+|-heal|p1a: Dachsbun|77/254|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776977930
+|move|p1a: Dachsbun|Play Rough|p2a: Glimmora
+|-resisted|p2a: Glimmora
+|-damage|p2a: Glimmora|108/248
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: lilst1ngray|move: Toxic Spikes
+|move|p2a: Glimmora|Mortal Spin|p1a: Dachsbun
+|-supereffective|p1a: Dachsbun
+|-damage|p1a: Dachsbun|47/254
+|-status|p1a: Dachsbun|psn
+|
+|-heal|p1a: Dachsbun|62/254 psn|[from] item: Leftovers
+|-damage|p1a: Dachsbun|31/254 psn|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1776977948
+|move|p1a: Dachsbun|Wish|p1a: Dachsbun
+|move|p2a: Glimmora|Power Gem|p1a: Dachsbun
+|-damage|p1a: Dachsbun|0 fnt
+|faint|p1a: Dachsbun
+|
+|upkeep
+|inactive|lilst1ngray has 270 seconds left.
+|
+|t:|1776977964
+|switch|p1a: Sandslash|Sandslash, L89, F|278/278
+|-status|p1a: Sandslash|tox
+|turn|4
+|
+|t:|1776977970
+|move|p2a: Glimmora|Sludge Wave|p1a: Sandslash
+|-resisted|p1a: Sandslash
+|-damage|p1a: Sandslash|229/278 tox
+|move|p1a: Sandslash|Earthquake|p2a: Glimmora
+|-supereffective|p2a: Glimmora
+|-damage|p2a: Glimmora|0 fnt
+|faint|p2a: Glimmora
+|
+|-heal|p1a: Sandslash|278/278 tox|[from] move: Wish|[wisher] Dachsbun
+|-damage|p1a: Sandslash|261/278 tox|[from] psn
+|upkeep
+|
+|t:|1776977985
+|switch|p2a: Entei|Entei, L78|307/307
+|turn|5
+|
+|t:|1776977990
+|move|p2a: Entei|Stomping Tantrum|p1a: Sandslash
+|-damage|p1a: Sandslash|203/278 tox
+|move|p1a: Sandslash|Earthquake|p2a: Entei
+|-supereffective|p2a: Entei
+|-damage|p2a: Entei|59/307
+|
+|-damage|p1a: Sandslash|169/278 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1776978002
+|switch|p2a: Hydreigon|Hydreigon, L79, F|275/275
+|move|p1a: Sandslash|Rapid Spin|p2a: Hydreigon
+|-damage|p2a: Hydreigon|231/275
+|-boost|p1a: Sandslash|spe|1
+|-sideend|p1: lilst1ngray|Toxic Spikes|[from] move: Rapid Spin|[of] p1a: Sandslash
+|
+|-damage|p1a: Sandslash|118/278 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1776978012
+|move|p2a: Hydreigon|Draco Meteor|p1a: Sandslash
+|-damage|p1a: Sandslash|0 fnt
+|-unboost|p2a: Hydreigon|spa|2
+|faint|p1a: Sandslash
+|
+|upkeep
+|
+|t:|1776978022
+|switch|p1a: Maushold|Maushold-Four, L76|238/238
+|turn|8
+|
+|t:|1776978030
+|switch|p2a: Flamigo|Flamigo, L82, M|269/269
+|move|p1a: Maushold|Encore||[still]
+|-fail|p1a: Maushold
+|
+|upkeep
+|turn|9
+|
+|t:|1776978038
+|move|p1a: Maushold|Population Bomb|p2a: Flamigo
+|-damage|p2a: Flamigo|244/269
+|-damage|p2a: Flamigo|220/269
+|-damage|p2a: Flamigo|196/269
+|-damage|p2a: Flamigo|172/269
+|-damage|p2a: Flamigo|147/269
+|-damage|p2a: Flamigo|122/269
+|-damage|p2a: Flamigo|97/269
+|-damage|p2a: Flamigo|73/269
+|-damage|p2a: Flamigo|46/269
+|-damage|p2a: Flamigo|22/269
+|-hitcount|p2a: Flamigo|10
+|move|p2a: Flamigo|Swords Dance|p2a: Flamigo
+|-boost|p2a: Flamigo|atk|2
+|
+|upkeep
+|turn|10
+|
+|t:|1776978055
+|move|p1a: Maushold|Encore|p2a: Flamigo
+|-start|p2a: Flamigo|Encore
+|move|p2a: Flamigo|Swords Dance|p2a: Flamigo
+|-boost|p2a: Flamigo|atk|2
+|
+|upkeep
+|turn|11
+|
+|t:|1776978062
+|switch|p2a: Eternatus|Eternatus, L69|308/308
+|-ability|p2a: Eternatus|Pressure
+|move|p1a: Maushold|Tidy Up|p1a: Maushold
+|-boost|p1a: Maushold|atk|1
+|-boost|p1a: Maushold|spe|1
+|
+|upkeep
+|turn|12
+|
+|t:|1776978071
+|move|p1a: Maushold|Population Bomb|p2a: Eternatus
+|-damage|p2a: Eternatus|271/308
+|-damage|p2a: Eternatus|237/308
+|-damage|p2a: Eternatus|198/308
+|-damage|p2a: Eternatus|162/308
+|-damage|p2a: Eternatus|122/308
+|-crit|p2a: Eternatus
+|-damage|p2a: Eternatus|65/308
+|-damage|p2a: Eternatus|29/308
+|-damage|p2a: Eternatus|0 fnt
+|faint|p2a: Eternatus
+|-hitcount|p2: Eternatus|8
+|
+|upkeep
+|
+|t:|1776978086
+|switch|p2a: Clefable|Clefable, L83, M|293/293
+|turn|13
+|
+|t:|1776978090
+|move|p1a: Maushold|Tidy Up|p1a: Maushold
+|-boost|p1a: Maushold|atk|1
+|-boost|p1a: Maushold|spe|1
+|move|p2a: Clefable|Moonblast|p1a: Maushold
+|-damage|p1a: Maushold|117/238
+|
+|upkeep
+|turn|14
+|
+|t:|1776978098
+|move|p1a: Maushold|Population Bomb|p2a: Clefable
+|-damage|p2a: Clefable|266/293
+|-damage|p2a: Clefable|241/293
+|-damage|p2a: Clefable|214/293
+|-damage|p2a: Clefable|190/293
+|-damage|p2a: Clefable|163/293
+|-damage|p2a: Clefable|139/293
+|-damage|p2a: Clefable|115/293
+|-damage|p2a: Clefable|88/293
+|-damage|p2a: Clefable|61/293
+|-crit|p2a: Clefable
+|-damage|p2a: Clefable|22/293
+|-hitcount|p2a: Clefable|10
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|168/293
+|
+|-heal|p2a: Clefable|186/293|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1776978117
+|move|p1a: Maushold|Population Bomb|p2a: Clefable
+|-damage|p2a: Clefable|159/293
+|-damage|p2a: Clefable|132/293
+|-damage|p2a: Clefable|107/293
+|-damage|p2a: Clefable|82/293
+|-damage|p2a: Clefable|55/293
+|-damage|p2a: Clefable|30/293
+|-damage|p2a: Clefable|2/293
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|-hitcount|p2: Clefable|8
+|
+|upkeep
+|
+|t:|1776978132
+|switch|p2a: Hydreigon|Hydreigon, L79, F|231/275
+|turn|16
+|
+|t:|1776978135
+|move|p1a: Maushold|Population Bomb|p2a: Hydreigon
+|-damage|p2a: Hydreigon|186/275
+|-damage|p2a: Hydreigon|140/275
+|-damage|p2a: Hydreigon|95/275
+|-damage|p2a: Hydreigon|44/275
+|-damage|p2a: Hydreigon|0 fnt
+|faint|p2a: Hydreigon
+|-hitcount|p2: Hydreigon|5
+|
+|upkeep
+|
+|t:|1776978147
+|switch|p2a: Entei|Entei, L78|59/307
+|turn|17
+|
+|t:|1776978157
+|move|p1a: Maushold|Population Bomb|p2a: Entei
+|-damage|p2a: Entei|10/307
+|-damage|p2a: Entei|0 fnt
+|faint|p2a: Entei
+|-hitcount|p2: Entei|2
+|
+|upkeep
+|
+|t:|1776978166
+|switch|p2a: Flamigo|Flamigo, L82, M|22/269
+|turn|18
+|
+|t:|1776978171
+|move|p1a: Maushold|Population Bomb|p2a: Flamigo
+|-damage|p2a: Flamigo|0 fnt
+|faint|p2a: Flamigo
+|-hitcount|p2: Flamigo|1
+|
+|win|lilst1ngray
+|inactive|lilst1ngray has 30 seconds to confirm battle start!
+|inactive|Williamblueyea has 30 seconds to confirm battle start!

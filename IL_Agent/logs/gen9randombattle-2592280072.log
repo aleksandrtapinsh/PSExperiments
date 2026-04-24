@@ -1,0 +1,229 @@
+|j|☆briankalos1
+|j|☆ksnwisxv
+|t:|1776975510
+|gametype|singles
+|player|p1|briankalos1|lance|1056
+|player|p2|ksnwisxv|102|1076
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776975510
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Araquanid|Araquanid, L82, F|246/246
+|switch|p2a: Oinkologne|Oinkologne-F, L92, F|361/361
+|turn|1
+|
+|t:|1776975532
+|move|p2a: Oinkologne|Body Slam|p1a: Araquanid
+|-damage|p1a: Araquanid|144/246
+|move|p1a: Araquanid|Mirror Coat||[still]
+|-fail|p1a: Araquanid
+|
+|upkeep
+|turn|2
+|
+|t:|1776975544
+|move|p2a: Oinkologne|Body Slam|p1a: Araquanid
+|-damage|p1a: Araquanid|47/246
+|-status|p1a: Araquanid|par
+|move|p1a: Araquanid|Sticky Web|p2a: Oinkologne
+|-sidestart|p2: ksnwisxv|move: Sticky Web
+|
+|upkeep
+|turn|3
+|
+|t:|1776975574
+|move|p2a: Oinkologne|Body Slam|p1a: Araquanid
+|-damage|p1a: Araquanid|0 fnt
+|faint|p1a: Araquanid
+|
+|upkeep
+|
+|t:|1776975583
+|switch|p1a: Lokix|Lokix, L82, M|251/251
+|turn|4
+|
+|t:|1776975590
+|move|p1a: Lokix|Swords Dance|p1a: Lokix
+|-boost|p1a: Lokix|atk|2
+|move|p2a: Oinkologne|Body Slam|p1a: Lokix
+|-damage|p1a: Lokix|131/251
+|-status|p1a: Lokix|par
+|
+|upkeep
+|turn|5
+|
+|t:|1776975607
+|move|p2a: Oinkologne|Body Slam|p1a: Lokix
+|-damage|p1a: Lokix|28/251 par
+|cant|p1a: Lokix|par
+|
+|upkeep
+|turn|6
+|
+|t:|1776975612
+|move|p2a: Oinkologne|Body Slam|p1a: Lokix
+|-damage|p1a: Lokix|0 fnt
+|faint|p1a: Lokix
+|
+|upkeep
+|
+|t:|1776975623
+|switch|p1a: Barraskewda|Barraskewda, L81, F|231/231
+|turn|7
+|
+|t:|1776975628
+|move|p1a: Barraskewda|Close Combat|p2a: Oinkologne
+|-supereffective|p2a: Oinkologne
+|-damage|p2a: Oinkologne|77/361
+|-unboost|p1a: Barraskewda|def|1
+|-unboost|p1a: Barraskewda|spd|1
+|move|p2a: Oinkologne|Body Slam|p1a: Barraskewda
+|-damage|p1a: Barraskewda|17/231
+|
+|-heal|p2a: Oinkologne|99/361|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776975638
+|move|p1a: Barraskewda|Close Combat|p2a: Oinkologne
+|-supereffective|p2a: Oinkologne
+|-damage|p2a: Oinkologne|0 fnt
+|-unboost|p1a: Barraskewda|def|1
+|-unboost|p1a: Barraskewda|spd|1
+|faint|p2a: Oinkologne
+|
+|upkeep
+|
+|t:|1776975645
+|switch|p2a: Landorus|Landorus, L75, M|257/257
+|turn|9
+|
+|t:|1776975652
+|switch|p1a: Golem|Golem-Alola, L93, M|300/300
+|move|p2a: Landorus|Sludge Wave|p1a: Golem
+|-resisted|p1a: Golem
+|-damage|p1a: Golem|238/300
+|
+|upkeep
+|turn|10
+|
+|t:|1776975661
+|move|p2a: Landorus|Earth Power|p1a: Golem
+|-supereffective|p1a: Golem
+|-damage|p1a: Golem|0 fnt
+|faint|p1a: Golem
+|
+|upkeep
+|
+|t:|1776975668
+|switch|p1a: Gothitelle|Gothitelle, L90, F|272/272
+|turn|11
+|
+|t:|1776975678
+|move|p1a: Gothitelle|Psychic|p2a: Landorus
+|-damage|p2a: Landorus|119/257
+|move|p2a: Landorus|Earth Power|p1a: Gothitelle
+|-damage|p1a: Gothitelle|151/272
+|
+|upkeep
+|turn|12
+|
+|t:|1776975683
+|move|p1a: Gothitelle|Psychic|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|upkeep
+|
+|t:|1776975687
+|switch|p2a: Shiftry|Shiftry, L89, M|305/305
+|turn|13
+|
+|t:|1776975694
+|switch|p1a: Sceptile|Sceptile, L87, F|264/264
+|move|p2a: Shiftry|Defog|p1a: Sceptile
+|-unboost|p1a: Sceptile|evasion|1
+|-sideend|p2: ksnwisxv|Sticky Web|[from] move: Defog|[of] p2a: Shiftry
+|
+|upkeep
+|turn|14
+|
+|t:|1776975713
+|-terastallize|p1a: Sceptile|Ground
+|move|p1a: Sceptile|Focus Blast|p2a: Shiftry|[miss]
+|-miss|p1a: Sceptile|p2a: Shiftry
+|move|p2a: Shiftry|Knock Off|p1a: Sceptile
+|-damage|p1a: Sceptile|117/264
+|-enditem|p1a: Sceptile|Life Orb|[from] move: Knock Off|[of] p2a: Shiftry
+|
+|upkeep
+|turn|15
+|
+|t:|1776975725
+|switch|p2a: Annihilape|Annihilape, L76, M|292/292
+|move|p1a: Sceptile|Focus Blast|p2a: Annihilape
+|-immune|p2a: Annihilape
+|
+|upkeep
+|turn|16
+|
+|t:|1776975757
+|move|p1a: Sceptile|Leaf Storm|p2a: Annihilape
+|-damage|p2a: Annihilape|139/292
+|-unboost|p1a: Sceptile|spa|2
+|move|p2a: Annihilape|Rage Fist|p1a: Sceptile
+|-damage|p1a: Sceptile|3/264
+|
+|upkeep
+|turn|17
+|
+|t:|1776975764
+|move|p1a: Sceptile|Leaf Storm|p2a: Annihilape
+|-damage|p2a: Annihilape|4/292
+|-unboost|p1a: Sceptile|spa|2
+|move|p2a: Annihilape|Rage Fist|p1a: Sceptile
+|-damage|p1a: Sceptile|0 fnt
+|faint|p1a: Sceptile
+|
+|upkeep
+|
+|t:|1776975773
+|switch|p1a: Barraskewda|Barraskewda, L81, F|17/231
+|turn|18
+|
+|t:|1776975778
+|move|p1a: Barraskewda|Psychic Fangs|p2a: Annihilape
+|-supereffective|p2a: Annihilape
+|-damage|p2a: Annihilape|0 fnt
+|faint|p2a: Annihilape
+|
+|upkeep
+|
+|t:|1776975780
+|switch|p2a: Shiftry|Shiftry, L89, M|305/305
+|turn|19
+|
+|t:|1776975785
+|switch|p1a: Gothitelle|Gothitelle, L90, F|151/272
+|move|p2a: Shiftry|Knock Off|p1a: Gothitelle
+|-supereffective|p1a: Gothitelle
+|-damage|p1a: Gothitelle|0 fnt
+|-enditem|p1a: Gothitelle|Choice Scarf|[from] move: Knock Off|[of] p2a: Shiftry
+|faint|p1a: Gothitelle
+|
+|upkeep
+|-message|briankalos1 forfeited.
+|
+|win|ksnwisxv
+|raw|briankalos1's rating: 1056 &rarr; <strong>1039</strong><br />(-17 for losing)
+|raw|ksnwisxv's rating: 1076 &rarr; <strong>1103</strong><br />(+27 for winning)
+|l|☆briankalos1
+|player|p1|
