@@ -1,0 +1,54 @@
+|j|☆Hehdhdhdgghedhdhdd
+|j|☆LPWDIHJREYGH
+|t:|1776972017
+|gametype|singles
+|player|p1|Hehdhdhdgghedhdhdd|102|1137
+|player|p2|LPWDIHJREYGH|265|1151
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776972017
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Cinderace|Cinderace, L77, M|235/235
+|switch|p2a: Bombirdier|Bombirdier, L85, F|258/258
+|turn|1
+|
+|t:|1776972036
+|switch|p2a: Kingdra|Kingdra, L84, F|263/263
+|move|p1a: Cinderace|Nasty Plot|p1a: Cinderace
+|-boost|p1a: Cinderace|spa|2
+|
+|upkeep
+|turn|2
+|
+|t:|1776972047
+|move|p1a: Cinderace|Dark Pulse|p2a: Kingdra
+|-damage|p2a: Kingdra|36/263
+|-damage|p1a: Cinderace|212/235|[from] item: Life Orb
+|cant|p2a: Kingdra|flinch
+|
+|upkeep
+|turn|3
+|
+|t:|1776972069
+|switch|p2a: Gurdurr|Gurdurr, L85, M|283/283
+|move|p1a: Cinderace|Sludge Bomb|p2a: Gurdurr
+|-damage|p2a: Gurdurr|101/283
+|-damage|p1a: Cinderace|189/235|[from] item: Life Orb
+|
+|upkeep
+|turn|4
+|-message|LPWDIHJREYGH forfeited.
+|
+|win|Hehdhdhdgghedhdhdd
+|raw|Hehdhdhdgghedhdhdd's rating: 1137 &rarr; <strong>1163</strong><br />(+26 for winning)
+|raw|LPWDIHJREYGH's rating: 1151 &rarr; <strong>1125</strong><br />(-26 for losing)
+|l|☆LPWDIHJREYGH
+|player|p2|

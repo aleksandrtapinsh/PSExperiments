@@ -1,0 +1,143 @@
+|j|☆DARK_KARMANINJA
+|j|☆sdis_elmz
+|t:|1776969483
+|gametype|singles
+|player|p1|DARK_KARMANINJA|gentleman-gen4|
+|player|p2|sdis_elmz|red|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776969483
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Salamence|Salamence, L77, F|273/273
+|switch|p2a: Scrafty|Scrafty, L83, F|244/244
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by DARK_KARMANINJA)
+|
+|t:|1776969494
+|switch|p2a: Toxtricity|Toxtricity, L82, M|257/257
+|move|p1a: Salamence|Dragon Dance|p1a: Salamence
+|-boost|p1a: Salamence|atk|1
+|-boost|p1a: Salamence|spe|1
+|
+|upkeep
+|turn|2
+|
+|t:|1776969499
+|-terastallize|p2a: Toxtricity|Normal
+|move|p1a: Salamence|Earthquake|p2a: Toxtricity
+|-damage|p2a: Toxtricity|113/257
+|move|p2a: Toxtricity|Boomburst|p1a: Salamence
+|-damage|p1a: Salamence|26/273
+|
+|upkeep
+|turn|3
+|
+|t:|1776969506
+|move|p1a: Salamence|Earthquake|p2a: Toxtricity
+|-damage|p2a: Toxtricity|0 fnt
+|faint|p2a: Toxtricity
+|-ability|p1a: Salamence|Moxie|boost
+|-boost|p1a: Salamence|atk|1
+|
+|upkeep
+|inactive|sdis_elmz has 270 seconds left.
+|
+|t:|1776969538
+|switch|p2a: Latias|Latias, L79, F|256/256
+|turn|4
+|
+|t:|1776969542
+|move|p1a: Salamence|Outrage|p2a: Latias
+|-supereffective|p2a: Latias
+|-damage|p2a: Latias|0 fnt
+|faint|p2a: Latias
+|-ability|p1a: Salamence|Moxie|boost
+|-boost|p1a: Salamence|atk|1
+|
+|upkeep
+|
+|t:|1776969552
+|switch|p2a: Sneasler|Sneasler, L74, F|240/240
+|turn|5
+|
+|t:|1776969559
+|move|p1a: Salamence|Outrage|p2a: Sneasler|[from] lockedmove
+|-damage|p2a: Sneasler|0 fnt
+|faint|p2a: Sneasler
+|-ability|p1a: Salamence|Moxie|boost
+|-boost|p1a: Salamence|atk|1
+|-start|p1a: Salamence|confusion|[fatigue]
+|
+|upkeep
+|
+|t:|1776969564
+|switch|p2a: Dodrio|Dodrio, L85, F|241/241
+|turn|6
+|
+|t:|1776969573
+|-activate|p1a: Salamence|confusion
+|move|p1a: Salamence|Outrage|p2a: Dodrio
+|-damage|p2a: Dodrio|0 fnt
+|faint|p2a: Dodrio
+|-ability|p1a: Salamence|Moxie|boost
+|-boost|p1a: Salamence|atk|1
+|
+|upkeep
+|
+|t:|1776969577
+|switch|p2a: Scream Tail|Scream Tail, L84|330/330
+|turn|7
+|
+|t:|1776969583
+|-activate|p1a: Salamence|confusion
+|-damage|p1a: Salamence|0 fnt|[from] confusion
+|faint|p1a: Salamence
+|move|p2a: Scream Tail|Play Rough|p1: Salamence|[notarget]
+|-fail|p2a: Scream Tail
+|
+|upkeep
+|
+|t:|1776969592
+|switch|p1a: Bronzong|Bronzong, L88|261/261
+|turn|8
+|
+|t:|1776969597
+|move|p2a: Scream Tail|Wish|p2a: Scream Tail
+|move|p1a: Bronzong|Iron Defense|p1a: Bronzong
+|-boost|p1a: Bronzong|def|2
+|
+|upkeep
+|turn|9
+|
+|t:|1776969605
+|-end|p2a: Scream Tail|Protosynthesis|[silent]
+|switch|p2a: Scrafty|Scrafty, L83, F|244/244
+|move|p1a: Bronzong|Iron Defense|p1a: Bronzong
+|-boost|p1a: Bronzong|def|2
+|
+|upkeep
+|turn|10
+|
+|t:|1776969613
+|move|p2a: Scrafty|Knock Off|p1a: Bronzong
+|-supereffective|p1a: Bronzong
+|-damage|p1a: Bronzong|213/261
+|-enditem|p1a: Bronzong|Chesto Berry|[from] move: Knock Off|[of] p2a: Scrafty
+|move|p1a: Bronzong|Body Press|p2a: Scrafty
+|-supereffective|p2a: Scrafty
+|-damage|p2a: Scrafty|0 fnt
+|faint|p2a: Scrafty
+|
+|upkeep
+|-message|sdis_elmz forfeited.
+|
+|win|DARK_KARMANINJA
+|l|☆sdis_elmz
+|player|p2|

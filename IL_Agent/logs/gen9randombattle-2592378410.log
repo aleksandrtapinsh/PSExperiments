@@ -1,0 +1,225 @@
+|j|☆blakula22
+|j|☆Lallalalla
+|t:|1776983712
+|gametype|singles
+|player|p1|blakula22|giovanni|1260
+|player|p2|Lallalalla|cynthia|1216
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776983712
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Regirock|Regirock, L83|268/268
+|switch|p2a: Farigiraf|Farigiraf, L90, M|362/362
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by blakula22)
+|inactive|Lallalalla has 120 seconds left.
+|
+|t:|1776983746
+|move|p2a: Farigiraf|Body Slam|p1a: Regirock
+|-resisted|p1a: Regirock
+|-damage|p1a: Regirock|242/268
+|move|p1a: Regirock|Thunder Wave|p2a: Farigiraf
+|-status|p2a: Farigiraf|par
+|
+|-heal|p1a: Regirock|258/268|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776983754
+|move|p1a: Regirock|Iron Defense|p1a: Regirock
+|-boost|p1a: Regirock|def|2
+|move|p2a: Farigiraf|Psychic Noise|p1a: Regirock
+|-damage|p1a: Regirock|164/268
+|-start|p1a: Regirock|move: Heal Block
+|
+|upkeep
+|turn|3
+|inactive|Lallalalla has 120 seconds left.
+|
+|t:|1776983793
+|move|p1a: Regirock|Body Press|p2a: Farigiraf
+|-damage|p2a: Farigiraf|133/362 par
+|move|p2a: Farigiraf|Body Slam|p1a: Regirock
+|-resisted|p1a: Regirock
+|-damage|p1a: Regirock|150/268
+|
+|-heal|p2a: Farigiraf|155/362 par|[from] item: Leftovers
+|-end|p1a: Regirock|move: Heal Block
+|upkeep
+|turn|4
+|
+|t:|1776983799
+|move|p1a: Regirock|Body Press|p2a: Farigiraf
+|-damage|p2a: Farigiraf|0 fnt
+|faint|p2a: Farigiraf
+|
+|-heal|p1a: Regirock|166/268|[from] item: Leftovers
+|upkeep
+|
+|t:|1776983804
+|switch|p2a: Iron Hands|Iron Hands, L79|373/373
+|turn|5
+|
+|t:|1776983825
+|-terastallize|p1a: Regirock|Fighting
+|move|p1a: Regirock|Body Press|p2a: Iron Hands
+|-damage|p2a: Iron Hands|84/373
+|move|p2a: Iron Hands|Drain Punch|p1a: Regirock
+|-damage|p1a: Regirock|141/268
+|-heal|p2a: Iron Hands|97/373|[from] drain|[of] p1a: Regirock
+|
+|-heal|p1a: Regirock|157/268|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776983835
+|move|p1a: Regirock|Body Press|p2a: Iron Hands
+|-damage|p2a: Iron Hands|0 fnt
+|faint|p2a: Iron Hands
+|-end|p2a: Iron Hands|Quark Drive|[silent]
+|
+|-heal|p1a: Regirock|173/268|[from] item: Leftovers
+|upkeep
+|
+|t:|1776983839
+|switch|p2a: Dachsbun|Dachsbun, L92, F|254/254
+|turn|7
+|c|☆blakula22|>:D
+|
+|t:|1776983848
+|switch|p1a: Toxapex|Toxapex, L82, F|216/216
+|move|p2a: Dachsbun|Play Rough|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|186/216
+|-damage|p2a: Dachsbun|212/254|[from] item: Rocky Helmet|[of] p1a: Toxapex
+|
+|-heal|p2a: Dachsbun|227/254|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776983859
+|-terastallize|p2a: Dachsbun|Steel
+|move|p2a: Dachsbun|Body Press|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|160/216
+|-damage|p2a: Dachsbun|185/254|[from] item: Rocky Helmet|[of] p1a: Toxapex
+|move|p1a: Toxapex|Toxic|p2a: Dachsbun
+|-immune|p2a: Dachsbun
+|
+|-heal|p2a: Dachsbun|200/254|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776983874
+|switch|p1a: Regirock|Regirock, L83, tera:Fighting|173/268
+|move|p2a: Dachsbun|Body Press|p1a: Regirock
+|-damage|p1a: Regirock|132/268
+|
+|-heal|p2a: Dachsbun|215/254|[from] item: Leftovers
+|-heal|p1a: Regirock|148/268|[from] item: Leftovers
+|upkeep
+|turn|10
+|inactive|Lallalalla has 120 seconds left.
+|
+|t:|1776983905
+|move|p2a: Dachsbun|Play Rough|p1a: Regirock
+|-supereffective|p1a: Regirock
+|-damage|p1a: Regirock|34/268
+|move|p1a: Regirock|Body Press|p2a: Dachsbun
+|-supereffective|p2a: Dachsbun
+|-damage|p2a: Dachsbun|0 fnt
+|faint|p2a: Dachsbun
+|
+|-heal|p1a: Regirock|50/268|[from] item: Leftovers
+|upkeep
+|
+|t:|1776983908
+|switch|p2a: Ursaring|Ursaring, L84, M|288/288
+|turn|11
+|
+|t:|1776983929
+|move|p2a: Ursaring|Facade|p1a: Regirock
+|-damage|p1a: Regirock|5/268
+|move|p1a: Regirock|Thunder Wave|p2a: Ursaring
+|-status|p2a: Ursaring|par
+|
+|-heal|p1a: Regirock|21/268|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776983935
+|move|p2a: Ursaring|Facade|p1a: Regirock
+|-damage|p1a: Regirock|0 fnt
+|faint|p1a: Regirock
+|
+|upkeep
+|
+|t:|1776983945
+|switch|p1a: Poliwrath|Poliwrath, L88, M|302/302
+|turn|13
+|
+|t:|1776983951
+|move|p2a: Ursaring|Close Combat|p1a: Poliwrath
+|-damage|p1a: Poliwrath|213/302
+|-unboost|p2a: Ursaring|def|1
+|-unboost|p2a: Ursaring|spd|1
+|move|p1a: Poliwrath|Bulk Up|p1a: Poliwrath
+|-boost|p1a: Poliwrath|atk|1
+|-boost|p1a: Poliwrath|def|1
+|
+|-heal|p1a: Poliwrath|231/302|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1776983956
+|cant|p2a: Ursaring|par
+|move|p1a: Poliwrath|Bulk Up|p1a: Poliwrath
+|-boost|p1a: Poliwrath|atk|1
+|-boost|p1a: Poliwrath|def|1
+|
+|-heal|p1a: Poliwrath|249/302|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1776983961
+|cant|p2a: Ursaring|par
+|move|p1a: Poliwrath|Drain Punch|p2a: Ursaring
+|-supereffective|p2a: Ursaring
+|-damage|p2a: Ursaring|0 fnt
+|-heal|p1a: Poliwrath|302/302|[from] drain|[of] p2a: Ursaring
+|faint|p2a: Ursaring
+|
+|upkeep
+|
+|t:|1776983964
+|switch|p2a: Rabsca|Rabsca, L91, M|284/284
+|turn|16
+|
+|t:|1776983969
+|move|p1a: Poliwrath|Knock Off|p2a: Rabsca
+|-supereffective|p2a: Rabsca
+|-damage|p2a: Rabsca|0 fnt
+|-enditem|p2a: Rabsca|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Poliwrath
+|faint|p2a: Rabsca
+|
+|upkeep
+|
+|t:|1776983970
+|switch|p2a: Skeledirge|Skeledirge, L79, M|294/294
+|turn|17
+|-message|Lallalalla forfeited.
+|
+|win|blakula22
+|raw|blakula22's rating: 1260 &rarr; <strong>1282</strong><br />(+22 for winning)
+|raw|Lallalalla's rating: 1216 &rarr; <strong>1194</strong><br />(-22 for losing)
+|l|☆Lallalalla
+|player|p2|
+|c|☆blakula22|gg

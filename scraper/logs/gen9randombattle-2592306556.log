@@ -1,0 +1,291 @@
+|j|☆Khcitditud
+|j|☆vfbdfbvcgfnvbngn
+|t:|1776977504
+|gametype|singles
+|player|p1|Khcitditud|101|1000
+|player|p2|vfbdfbvcgfnvbngn|102|1000
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776977504
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Gumshoos|Gumshoos, L95, F|321/321
+|switch|p2a: Zarude|Zarude-Dada, L77|288/288
+|turn|1
+|
+|t:|1776977514
+|-terastallize|p2a: Zarude|Fighting
+|move|p2a: Zarude|Swords Dance|p2a: Zarude
+|-boost|p2a: Zarude|atk|2
+|move|p1a: Gumshoos|U-turn|p2a: Zarude
+|-resisted|p2a: Zarude
+|-damage|p2a: Zarude|237/288
+|
+|t:|1776977525
+|switch|p1a: Squawkabilly|Squawkabilly-Yellow, L89, M|291/291|[from] U-turn
+|
+|upkeep
+|turn|2
+|
+|t:|1776977531
+|switch|p2a: Qwilfish|Qwilfish-Hisui, L83, M|244/244
+|-ability|p2a: Qwilfish|Intimidate|boost
+|-unboost|p1a: Squawkabilly|atk|1
+|move|p1a: Squawkabilly|Brave Bird|p2a: Qwilfish
+|-damage|p2a: Qwilfish|138/244
+|-damage|p1a: Squawkabilly|256/291|[from] Recoil
+|
+|upkeep
+|turn|3
+|
+|t:|1776977535
+|move|p1a: Squawkabilly|Parting Shot|p2a: Qwilfish
+|-unboost|p2a: Qwilfish|atk|1
+|-unboost|p2a: Qwilfish|spa|1
+|
+|t:|1776977560
+|switch|p1a: Hydreigon|Hydreigon, L79, M|275/275|[from] Parting Shot
+|move|p2a: Qwilfish|Gunk Shot|p1a: Hydreigon
+|-damage|p1a: Hydreigon|187/275
+|
+|upkeep
+|turn|4
+|
+|t:|1776977566
+|move|p1a: Hydreigon|Draco Meteor|p2a: Qwilfish
+|-damage|p2a: Qwilfish|0 fnt
+|-unboost|p1a: Hydreigon|spa|2
+|faint|p2a: Qwilfish
+|-damage|p1a: Hydreigon|160/275|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776977572
+|switch|p2a: Hitmonlee|Hitmonlee, L85, M|224/224
+|turn|5
+|
+|t:|1776977584
+|switch|p1a: Golurk|Golurk, L87|297/297
+|move|p2a: Hitmonlee|Swords Dance|p2a: Hitmonlee
+|-boost|p2a: Hitmonlee|atk|2
+|
+|upkeep
+|turn|6
+|
+|t:|1776977593
+|-terastallize|p1a: Golurk|Fighting
+|move|p2a: Hitmonlee|Knock Off|p1a: Golurk
+|-resisted|p1a: Golurk
+|-damage|p1a: Golurk|216/297
+|-enditem|p1a: Golurk|Choice Band|[from] move: Knock Off|[of] p2a: Hitmonlee
+|move|p1a: Golurk|Dynamic Punch|p2a: Hitmonlee
+|-damage|p2a: Hitmonlee|19/224
+|-start|p2a: Hitmonlee|confusion
+|
+|upkeep
+|turn|7
+|
+|t:|1776977602
+|switch|p1a: Banette|Banette, L93, M|270/270
+|-activate|p2a: Hitmonlee|confusion
+|move|p2a: Hitmonlee|Close Combat|p1a: Banette
+|-immune|p1a: Banette
+|
+|upkeep
+|turn|8
+|
+|t:|1776977607
+|switch|p2a: Empoleon|Empoleon, L84, F|278/278
+|move|p1a: Banette|Shadow Sneak|p2a: Empoleon
+|-damage|p2a: Empoleon|192/278
+|-damage|p1a: Banette|243/270|[from] item: Life Orb
+|
+|-heal|p2a: Empoleon|209/278|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776977632
+|switch|p1a: Gumshoos|Gumshoos, L95, F|321/321
+|move|p2a: Empoleon|Knock Off|p1a: Gumshoos
+|-damage|p1a: Gumshoos|244/321
+|-enditem|p1a: Gumshoos|Choice Band|[from] move: Knock Off|[of] p2a: Empoleon
+|
+|-heal|p2a: Empoleon|226/278|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1776977638
+|move|p2a: Empoleon|Yawn|p1a: Gumshoos
+|-start|p1a: Gumshoos|move: Yawn|[of] p2a: Empoleon
+|move|p1a: Gumshoos|Earthquake|p2a: Empoleon
+|-supereffective|p2a: Empoleon
+|-damage|p2a: Empoleon|14/278
+|
+|-heal|p2a: Empoleon|31/278|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776977646
+|move|p2a: Empoleon|Roost|p2a: Empoleon
+|-heal|p2a: Empoleon|170/278
+|-singleturn|p2a: Empoleon|move: Roost
+|move|p1a: Gumshoos|U-turn|p2a: Empoleon
+|-resisted|p2a: Empoleon
+|-damage|p2a: Empoleon|136/278
+|
+|t:|1776977654
+|switch|p1a: Banette|Banette, L93, M|243/270|[from] U-turn
+|
+|-heal|p2a: Empoleon|153/278|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776977657
+|move|p1a: Banette|Poltergeist|p2a: Empoleon
+|-activate|p2a: Empoleon|move: Poltergeist|Leftovers
+|-damage|p2a: Empoleon|0 fnt
+|faint|p2a: Empoleon
+|-damage|p1a: Banette|216/270|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776977665
+|switch|p2a: Zarude|Zarude-Dada, L77, tera:Fighting|237/288
+|turn|13
+|
+|t:|1776977695
+|switch|p1a: Gumshoos|Gumshoos, L95, F|244/321
+|move|p2a: Zarude|Knock Off|p1a: Gumshoos
+|-damage|p1a: Gumshoos|139/321
+|-damage|p2a: Zarude|209/288|[from] item: Life Orb
+|
+|upkeep
+|turn|14
+|
+|t:|1776977700
+|move|p2a: Zarude|Power Whip|p1a: Gumshoos
+|-damage|p1a: Gumshoos|0 fnt
+|faint|p1a: Gumshoos
+|-damage|p2a: Zarude|181/288|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776977703
+|switch|p1a: Squawkabilly|Squawkabilly-Yellow, L89, M|256/291
+|turn|15
+|
+|t:|1776977705
+|switch|p2a: Hitmonlee|Hitmonlee, L85, M|19/224
+|move|p1a: Squawkabilly|Brave Bird|p2a: Hitmonlee
+|-supereffective|p2a: Hitmonlee
+|-damage|p2a: Hitmonlee|0 fnt
+|faint|p2a: Hitmonlee
+|-damage|p1a: Squawkabilly|250/291|[from] Recoil
+|
+|upkeep
+|
+|t:|1776977708
+|switch|p2a: Zacian|Zacian, L69|241/241
+|-ability|p2a: Zacian|Intrepid Sword|boost
+|-boost|p2a: Zacian|atk|1
+|turn|16
+|
+|t:|1776977713
+|move|p2a: Zacian|Play Rough|p1a: Squawkabilly
+|-damage|p1a: Squawkabilly|0 fnt
+|faint|p1a: Squawkabilly
+|
+|upkeep
+|
+|t:|1776977725
+|switch|p1a: Banette|Banette, L93, M|216/270
+|turn|17
+|
+|t:|1776977727
+|move|p2a: Zacian|Play Rough|p1a: Banette
+|-damage|p1a: Banette|6/270
+|move|p1a: Banette|Poltergeist|p2a: Zacian
+|-activate|p2a: Zacian|move: Poltergeist|Choice Band
+|-damage|p2a: Zacian|34/241
+|-damage|p1a: Banette|0 fnt|[from] item: Life Orb
+|faint|p1a: Banette
+|
+|upkeep
+|
+|t:|1776977731
+|switch|p1a: Lycanroc|Lycanroc, L86, M|269/269
+|turn|18
+|
+|t:|1776977737
+|move|p1a: Lycanroc|Psychic Fangs|p2a: Zacian
+|-damage|p2a: Zacian|0 fnt
+|faint|p2a: Zacian
+|-damage|p1a: Lycanroc|243/269|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776977739
+|switch|p2a: Palkia|Palkia-Origin, L72|249/249
+|-ability|p2a: Palkia|Pressure
+|turn|19
+|
+|t:|1776977753
+|switch|p1a: Hydreigon|Hydreigon, L79, M|160/275
+|move|p2a: Palkia|Hydro Pump|p1a: Hydreigon|[miss]
+|-miss|p2a: Palkia|p1a: Hydreigon
+|
+|upkeep
+|turn|20
+|
+|t:|1776977761
+|switch|p1a: Golurk|Golurk, L87, tera:Fighting|216/297
+|move|p2a: Palkia|Spacial Rend|p1a: Golurk
+|-damage|p1a: Golurk|84/297
+|
+|upkeep
+|turn|21
+|
+|t:|1776977769
+|move|p2a: Palkia|Spacial Rend|p1a: Golurk
+|-damage|p1a: Golurk|0 fnt
+|faint|p1a: Golurk
+|
+|upkeep
+|
+|t:|1776977774
+|switch|p1a: Lycanroc|Lycanroc, L86, M|243/269
+|turn|22
+|
+|t:|1776977776
+|move|p1a: Lycanroc|Stone Edge|p2a: Palkia
+|-damage|p2a: Palkia|68/249
+|-damage|p1a: Lycanroc|217/269|[from] item: Life Orb
+|move|p2a: Palkia|Hydro Pump|p1a: Lycanroc
+|-supereffective|p1a: Lycanroc
+|-damage|p1a: Lycanroc|0 fnt
+|faint|p1a: Lycanroc
+|
+|upkeep
+|
+|t:|1776977778
+|switch|p1a: Hydreigon|Hydreigon, L79, M|160/275
+|turn|23
+|
+|t:|1776977781
+|move|p2a: Palkia|Spacial Rend|p1a: Hydreigon
+|-supereffective|p1a: Hydreigon
+|-damage|p1a: Hydreigon|0 fnt
+|faint|p1a: Hydreigon
+|
+|win|vfbdfbvcgfnvbngn
+|raw|Khcitditud's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|raw|vfbdfbvcgfnvbngn's rating: 1000 &rarr; <strong>1040</strong><br />(+40 for winning)
+|l|☆Khcitditud
+|player|p1|

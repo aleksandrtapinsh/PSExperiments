@@ -1,0 +1,353 @@
+|j|☆blakeizcool
+|j|☆krabsolfurretisme
+|t:|1776974421
+|gametype|singles
+|player|p1|blakeizcool|mira|
+|player|p2|krabsolfurretisme|may-contest|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776974421
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Mimikyu|Mimikyu, L79, M|216/216
+|switch|p2a: Palossand|Palossand, L89, M|296/296
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by krabsolfurretisme)
+|c|☆krabsolfurretisme|glhf
+|
+|t:|1776974427
+|move|p1a: Mimikyu|Swords Dance|p1a: Mimikyu
+|-boost|p1a: Mimikyu|atk|2
+|move|p2a: Palossand|Shadow Ball|p1a: Mimikyu
+|-activate|p1a: Mimikyu|ability: Disguise
+|-damage|p1a: Mimikyu|216/216
+|detailschange|p1a: Mimikyu|Mimikyu-Busted, L79, M
+|-damage|p1a: Mimikyu|189/216|[from] pokemon: Mimikyu-Busted
+|
+|upkeep
+|turn|2
+|c|☆blakeizcool|hf
+|
+|t:|1776974439
+|move|p1a: Mimikyu|Shadow Claw|p2a: Palossand
+|-supereffective|p2a: Palossand
+|-damage|p2a: Palossand|15/296
+|-damage|p1a: Mimikyu|168/216|[from] item: Life Orb
+|move|p2a: Palossand|Shadow Ball|p1a: Mimikyu
+|-supereffective|p1a: Mimikyu
+|-damage|p1a: Mimikyu|0 fnt
+|faint|p1a: Mimikyu
+|
+|-heal|p2a: Palossand|33/296|[from] item: Leftovers
+|upkeep
+|c|☆blakeizcool|wow mimikyu kinda sucks
+|
+|t:|1776974457
+|switch|p1a: Persian|Persian-Alola, L86, M|252/252
+|turn|3
+|c|☆krabsolfurretisme|Nah im just fat
+|c|☆krabsolfurretisme|!dt pallosand
+'pallosand' has no exact match. Approximate match:
+|c|☆krabsolfurretisme|/raw <div class="message"><ul class="utilichart"><li class="result"><span class="col numcol">PU</span> <span class="col iconcol"><psicon pokemon="palossand"/></span> <span class="col pokemonnamecol" style="white-space:nowrap"><a href="https://dex.pokemonshowdown.com/pokemon/palossand" target="_blank">Palossand</a></span> <span class="col typecol"><img src="https://play.pokemonshowdown.com/sprites/types/Ghost.png" alt="Ghost" height="14" width="32"><img src="https://play.pokemonshowdown.com/sprites/types/Ground.png" alt="Ground" height="14" width="32"></span> <span style="float:left;min-height:26px"><span class="col abilitycol">Water Compaction</span><span class="col abilitycol"><em>Sand Veil</em></span></span><span style="float:left;min-height:26px"><span class="col statcol"><em>HP</em><br />85</span> <span class="col statcol"><em>Atk</em><br />75</span> <span class="col statcol"><em>Def</em><br />110</span> <span class="col statcol"><em>SpA</em><br />100</span> <span class="col statcol"><em>SpD</em><br />75</span> <span class="col statcol"><em>Spe</em><br />35</span> <span class="col bstcol"><em>BST<br />480</em></span> </span></li><li style="clear:both"></li></ul></div>
+|c|☆krabsolfurretisme|/raw <font size="1"><font color="#686868">Dex#:</font> 770&nbsp;|&ThickSpace;<font color="#686868">Gen:</font> 7&nbsp;|&ThickSpace;<font color="#686868">Height:</font> 1.3 m&nbsp;|&ThickSpace;<font color="#686868">Weight:</font> 250 kg <em>(120 BP)</em>&nbsp;|&ThickSpace;<font color="#686868">Dex Colour:</font> Brown&nbsp;|&ThickSpace;<font color="#686868">Egg Group(s):</font> Amorphous&nbsp;|&ThickSpace;<font color="#686868">Pre-Evolution:</font> Sandygast&nbsp;|&ThickSpace;<font color="#686868">Does Not Evolve</font></font>
+
+|
+|t:|1776974479
+|move|p1a: Persian|Dark Pulse|p2a: Palossand
+|-supereffective|p2a: Palossand
+|-crit|p2a: Palossand
+|-damage|p2a: Palossand|0 fnt
+|faint|p2a: Palossand
+|-damage|p1a: Persian|227/252|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776974482
+|switch|p2a: Fezandipiti|Fezandipiti, L82, M|278/278
+|turn|4
+|c|☆blakeizcool|110 def aint even that crazy
+|c|☆blakeizcool|plus 2 stab super effective not killing is wild
+|inactive|blakeizcool has 270 seconds left.
+|
+|t:|1776974508
+|switch|p1a: Gothitelle|Gothitelle, L90, F|272/272
+|move|p2a: Fezandipiti|Moonblast|p1a: Gothitelle
+|-damage|p1a: Gothitelle|211/272
+|
+|upkeep
+|turn|5
+|inactive|blakeizcool has 270 seconds left.
+|c|☆krabsolfurretisme|true but also lvl 89 vs 79
+|
+|t:|1776974518
+|move|p1a: Gothitelle|Psychic|p2a: Fezandipiti
+|-supereffective|p2a: Fezandipiti
+|-damage|p2a: Fezandipiti|158/278
+|move|p2a: Fezandipiti|U-turn|p1a: Gothitelle
+|-supereffective|p1a: Gothitelle
+|-damage|p1a: Gothitelle|127/272
+|-status|p1a: Gothitelle|tox|[from] ability: Toxic Chain|[of] p2a: Fezandipiti
+|c|☆blakeizcool|ig thats true too
+|
+|t:|1776974523
+|switch|p2a: Weavile|Weavile, L79, F|239/239|[from] U-turn
+|
+|-damage|p1a: Gothitelle|110/272 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1776974529
+|switch|p1a: Persian|Persian-Alola, L86, M|227/252
+|move|p2a: Weavile|Knock Off|p1a: Persian
+|-resisted|p1a: Persian
+|-damage|p1a: Persian|173/252
+|-enditem|p1a: Persian|Life Orb|[from] move: Knock Off|[of] p2a: Weavile
+|
+|upkeep
+|turn|7
+|
+|t:|1776974536
+|switch|p2a: Hatterene|Hatterene, L85, F|236/236
+|move|p1a: Persian|Nasty Plot|p1a: Persian
+|-boost|p1a: Persian|spa|2
+|
+|upkeep
+|turn|8
+|
+|t:|1776974542
+|-terastallize|p1a: Persian|Poison
+|move|p1a: Persian|Tera Blast|p2a: Hatterene|[anim] Tera Blast Poison
+|-supereffective|p2a: Hatterene
+|-damage|p2a: Hatterene|62/236
+|move|p2a: Hatterene|Nuzzle|p1a: Persian
+|-damage|p1a: Persian|163/252
+|-status|p1a: Persian|par
+|
+|upkeep
+|turn|9
+|
+|t:|1776974551
+|move|p1a: Persian|Tera Blast|p2a: Hatterene|[anim] Tera Blast Poison
+|-supereffective|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|
+|upkeep
+|
+|t:|1776974553
+|switch|p2a: Fezandipiti|Fezandipiti, L82, M|158/278
+|turn|10
+|
+|t:|1776974558
+|move|p2a: Fezandipiti|Gunk Shot|p1a: Persian
+|-resisted|p1a: Persian
+|-damage|p1a: Persian|127/252 par
+|move|p1a: Persian|Tera Blast|p2a: Fezandipiti|[anim] Tera Blast Poison
+|-damage|p2a: Fezandipiti|86/278
+|
+|upkeep
+|turn|11
+|
+|t:|1776974563
+|move|p2a: Fezandipiti|Heat Wave|p1a: Persian
+|-damage|p1a: Persian|71/252 par
+|cant|p1a: Persian|par
+|
+|upkeep
+|turn|12
+|c|☆krabsolfurretisme|oop
+|
+|t:|1776974570
+|move|p2a: Fezandipiti|Heat Wave|p1a: Persian
+|-damage|p1a: Persian|9/252 par
+|cant|p1a: Persian|par
+|
+|upkeep
+|turn|13
+|
+|t:|1776974575
+|move|p2a: Fezandipiti|Heat Wave|p1a: Persian
+|-damage|p1a: Persian|0 fnt
+|faint|p1a: Persian
+|
+|upkeep
+|
+|t:|1776974580
+|switch|p1a: Gothitelle|Gothitelle, L90, F|110/272 tox
+|turn|14
+|
+|t:|1776974585
+|move|p1a: Gothitelle|Psychic|p2a: Fezandipiti
+|-supereffective|p2a: Fezandipiti
+|-damage|p2a: Fezandipiti|0 fnt
+|faint|p2a: Fezandipiti
+|
+|-damage|p1a: Gothitelle|93/272 tox|[from] psn
+|upkeep
+|
+|t:|1776974589
+|switch|p2a: Weavile|Weavile, L79, F|239/239
+|turn|15
+|
+|t:|1776974595
+|switch|p1a: Conkeldurr|Conkeldurr, L80, F|299/299
+|move|p2a: Weavile|Knock Off|p1a: Conkeldurr
+|-resisted|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|216/299
+|-enditem|p1a: Conkeldurr|Flame Orb|[from] move: Knock Off|[of] p2a: Weavile
+|
+|upkeep
+|turn|16
+|
+|t:|1776974602
+|switch|p2a: Weezing|Weezing, L88, F|258/258
+|move|p1a: Conkeldurr|Mach Punch|p2a: Weezing
+|-resisted|p2a: Weezing
+|-damage|p2a: Weezing|237/258
+|
+|-heal|p2a: Weezing|253/258|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1776974610
+|move|p2a: Weezing|Fire Blast|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|122/299
+|move|p1a: Conkeldurr|Knock Off|p2a: Weezing
+|-damage|p2a: Weezing|192/258
+|-enditem|p2a: Weezing|Leftovers|[from] move: Knock Off|[of] p1a: Conkeldurr
+|
+|upkeep
+|turn|18
+|
+|t:|1776974618
+|switch|p1a: Gothitelle|Gothitelle, L90, F|93/272 tox
+|move|p2a: Weezing|Fire Blast|p1a: Gothitelle|[miss]
+|-miss|p2a: Weezing|p1a: Gothitelle
+|
+|-damage|p1a: Gothitelle|76/272 tox|[from] psn
+|upkeep
+|turn|19
+|inactive|krabsolfurretisme has 270 seconds left.
+|inactive|blakeizcool has 270 seconds left.
+|
+|t:|1776974673
+|move|p1a: Gothitelle|Focus Blast|p2a: Weezing
+|-resisted|p2a: Weezing
+|-damage|p2a: Weezing|142/258
+|move|p2a: Weezing|Fire Blast|p1a: Gothitelle
+|-damage|p1a: Gothitelle|13/272 tox
+|
+|-damage|p1a: Gothitelle|0 fnt|[from] psn
+|faint|p1a: Gothitelle
+|upkeep
+|c|☆blakeizcool|were you trapped by tag?
+|inactive|blakeizcool has 240 seconds left.
+|c|☆blakeizcool|i thought levitate blocked but that might inly be arena trap
+|
+|t:|1776974712
+|switch|p1a: Meowstic|Meowstic-F, L89, F|277/277
+|turn|20
+|inactive|blakeizcool has 240 seconds left.
+|c|☆krabsolfurretisme|I wasn't trapped just didnt feel like pivoting tbh
+|c|☆krabsolfurretisme|fuck it i ball
+|inactive|blakeizcool has 210 seconds left.
+|
+|t:|1776974761
+|move|p1a: Meowstic|Psyshock|p2a: Weezing
+|-supereffective|p2a: Weezing
+|-damage|p2a: Weezing|0 fnt
+|faint|p2a: Weezing
+|-damage|p1a: Meowstic|250/277|[from] item: Life Orb
+|
+|upkeep
+|inactive|krabsolfurretisme has 240 seconds left.
+|inactive|krabsolfurretisme has 210 seconds left.
+|
+|t:|1776974804
+|switch|p2a: Weavile|Weavile, L79, F|239/239
+|turn|21
+|inactive|blakeizcool has 210 seconds left.
+|inactive|krabsolfurretisme has 210 seconds left.
+|inactive|blakeizcool has 180 seconds left.
+|inactive|blakeizcool has 150 seconds left.
+|
+|t:|1776974878
+|switch|p1a: Conkeldurr|Conkeldurr, L80, F|122/299
+|move|p2a: Weavile|Triple Axel|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|86/299
+|-damage|p1a: Conkeldurr|20/299
+|-damage|p1a: Conkeldurr|0 fnt
+|faint|p1a: Conkeldurr
+|-hitcount|p1: Conkeldurr|3
+|
+|upkeep
+|
+|t:|1776974890
+|switch|p1a: Kilowattrel|Kilowattrel, L83, M|252/252
+|turn|22
+|inactive|krabsolfurretisme has 210 seconds left.
+|
+|t:|1776974918
+|move|p1a: Kilowattrel|Discharge|p2a: Weavile
+|-damage|p2a: Weavile|142/239
+|-status|p2a: Weavile|par
+|move|p2a: Weavile|Triple Axel|p1a: Kilowattrel
+|-supereffective|p1a: Kilowattrel
+|-damage|p1a: Kilowattrel|154/252
+|-supereffective|p1a: Kilowattrel
+|-damage|p1a: Kilowattrel|0 fnt
+|faint|p1a: Kilowattrel
+|-hitcount|p1: Kilowattrel|2
+|
+|upkeep
+|
+|t:|1776974928
+|switch|p1a: Meowstic|Meowstic-F, L89, F|250/277
+|turn|23
+|inactive|krabsolfurretisme has 210 seconds left.
+|
+|t:|1776974942
+|move|p1a: Meowstic|Alluring Voice|p2a: Weavile
+|-supereffective|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|faint|p2a: Weavile
+|-damage|p1a: Meowstic|223/277|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776974948
+|switch|p2a: Palkia|Palkia, L75|259/259
+|-ability|p2a: Palkia|Pressure
+|turn|24
+|
+|t:|1776974956
+|-terastallize|p2a: Palkia|Fire
+|move|p1a: Meowstic|Nasty Plot|p1a: Meowstic
+|-boost|p1a: Meowstic|spa|2
+|move|p2a: Palkia|Fire Blast|p1a: Meowstic
+|-damage|p1a: Meowstic|78/277
+|
+|upkeep
+|turn|25
+|c|☆krabsolfurretisme|gulp
+|
+|t:|1776974967
+|move|p1a: Meowstic|Psyshock|p2a: Palkia
+|-damage|p2a: Palkia|25/259
+|-damage|p1a: Meowstic|51/277|[from] item: Life Orb
+|move|p2a: Palkia|Fire Blast|p1a: Meowstic
+|-damage|p1a: Meowstic|0 fnt
+|faint|p1a: Meowstic
+|
+|win|krabsolfurretisme
+|c|☆blakeizcool|gg
+|c|☆krabsolfurretisme|way too close
+|c|☆krabsolfurretisme|ggwp
+|l|☆blakeizcool
+|player|p1|

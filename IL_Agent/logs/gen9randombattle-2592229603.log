@@ -1,0 +1,208 @@
+|j|☆disconnectduewifi
+|j|☆Frostb0rne
+|t:|1776971933
+|gametype|singles
+|player|p1|disconnectduewifi|lucas|1622
+|player|p2|Frostb0rne|2|1567
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776971933
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Hitmonlee|Hitmonlee, L85, M|223/223
+|switch|p2a: Garganacl|Garganacl, L80, F|291/291
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Frostb0rne)
+|
+|t:|1776971946
+|switch|p2a: Jumpluff|Jumpluff, L87, F|271/271
+|move|p1a: Hitmonlee|Knock Off|p2a: Jumpluff
+|-damage|p2a: Jumpluff|176/271
+|
+|upkeep
+|turn|2
+|
+|t:|1776971972
+|switch|p1a: Pelipper|Pelipper, L86, F|243/243
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Jumpluff|Strength Sap|p1a: Pelipper
+|-unboost|p1a: Pelipper|atk|1
+|-heal|p2a: Jumpluff|271/271
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1776971983
+|switch|p2a: Garganacl|Garganacl, L80, F|291/291
+|move|p1a: Pelipper|Hurricane|p2a: Garganacl
+|-resisted|p2a: Garganacl
+|-damage|p2a: Garganacl|231/291
+|-start|p2a: Garganacl|confusion
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Garganacl|249/291|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776971997
+|move|p1a: Pelipper|Hydro Pump|p2a: Garganacl|[miss]
+|-miss|p1a: Pelipper|p2a: Garganacl
+|-activate|p2a: Garganacl|confusion
+|-damage|p2a: Garganacl|225/291|[from] confusion
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Garganacl|243/291|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776972006
+|switch|p2a: Frosmoth|Frosmoth, L82, F|249/249
+|move|p1a: Pelipper|Hydro Pump|p2a: Frosmoth|[miss]
+|-miss|p1a: Pelipper|p2a: Frosmoth
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1776972014
+|move|p1a: Pelipper|Hurricane|p2a: Frosmoth
+|-supereffective|p2a: Frosmoth
+|-damage|p2a: Frosmoth|125/249
+|move|p2a: Frosmoth|Quiver Dance|p2a: Frosmoth
+|-boost|p2a: Frosmoth|spa|1
+|-boost|p2a: Frosmoth|spd|1
+|-boost|p2a: Frosmoth|spe|1
+|
+|-weather|none
+|upkeep
+|turn|7
+|
+|t:|1776972024
+|move|p2a: Frosmoth|Giga Drain|p1a: Pelipper
+|-damage|p1a: Pelipper|145/243
+|-heal|p2a: Frosmoth|174/249|[from] drain|[of] p1a: Pelipper
+|move|p1a: Pelipper|U-turn|p2a: Frosmoth
+|-crit|p2a: Frosmoth
+|-damage|p2a: Frosmoth|104/249
+|
+|t:|1776972035
+|switch|p1a: Pyroar|Pyroar, L88, F|295/295|[from] U-turn
+|-ability|p1a: Pyroar|Unnerve
+|
+|upkeep
+|turn|8
+|
+|t:|1776972044
+|switch|p2a: Garganacl|Garganacl, L80, F|243/291
+|move|p1a: Pyroar|Fire Blast|p2a: Garganacl|[miss]
+|-miss|p1a: Pyroar|p2a: Garganacl
+|
+|-heal|p2a: Garganacl|261/291|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776972058
+|switch|p1a: Hitmonlee|Hitmonlee, L85, M|223/223
+|move|p2a: Garganacl|Salt Cure|p1a: Hitmonlee
+|-resisted|p1a: Hitmonlee
+|-damage|p1a: Hitmonlee|195/223
+|-start|p1a: Hitmonlee|Salt Cure
+|
+|-heal|p2a: Garganacl|279/291|[from] item: Leftovers
+|-damage|p1a: Hitmonlee|168/223|[from] Salt Cure
+|upkeep
+|turn|10
+|
+|t:|1776972070
+|switch|p2a: Jumpluff|Jumpluff, L87, F|271/271
+|move|p1a: Hitmonlee|High Jump Kick|p2a: Jumpluff
+|-resisted|p2a: Jumpluff
+|-damage|p2a: Jumpluff|91/271
+|
+|-damage|p1a: Hitmonlee|141/223|[from] Salt Cure
+|upkeep
+|turn|11
+|inactive|disconnectduewifi has 120 seconds left.
+|
+|t:|1776972102
+|switch|p1a: Pyroar|Pyroar, L88, F|295/295
+|-ability|p1a: Pyroar|Unnerve
+|move|p2a: Jumpluff|Strength Sap|p1a: Pyroar
+|-unboost|p1a: Pyroar|atk|1
+|-heal|p2a: Jumpluff|215/271
+|
+|upkeep
+|turn|12
+|inactive|disconnectduewifi has 120 seconds left.
+|
+|t:|1776972130
+|switch|p2a: Garganacl|Garganacl, L80, F|279/291
+|move|p1a: Pyroar|Dark Pulse|p2a: Garganacl
+|-damage|p2a: Garganacl|209/291
+|
+|-heal|p2a: Garganacl|227/291|[from] item: Leftovers
+|upkeep
+|turn|13
+|inactive|disconnectduewifi has 120 seconds left.
+|
+|t:|1776972147
+|switch|p1a: Shaymin|Shaymin, L82|298/298
+|move|p2a: Garganacl|Salt Cure|p1a: Shaymin
+|-damage|p1a: Shaymin|262/298
+|-start|p1a: Shaymin|Salt Cure
+|
+|-heal|p1a: Shaymin|280/298|[from] item: Leftovers
+|-heal|p2a: Garganacl|245/291|[from] item: Leftovers
+|-damage|p1a: Shaymin|243/298|[from] Salt Cure
+|upkeep
+|turn|14
+|inactive|disconnectduewifi has 120 seconds left.
+|
+|t:|1776972158
+|switch|p2a: Jumpluff|Jumpluff, L87, F|215/271
+|move|p1a: Shaymin|Seed Flare|p2a: Jumpluff
+|-resisted|p2a: Jumpluff
+|-damage|p2a: Jumpluff|189/271
+|-unboost|p2a: Jumpluff|spd|2
+|
+|-heal|p1a: Shaymin|261/298|[from] item: Leftovers
+|-damage|p1a: Shaymin|224/298|[from] Salt Cure
+|upkeep
+|turn|15
+|inactive|disconnectduewifi has 120 seconds left.
+|
+|t:|1776972180
+|switch|p1a: Gliscor|Gliscor, L76, F|239/239
+|move|p2a: Jumpluff|Acrobatics|p1a: Gliscor
+|-damage|p1a: Gliscor|173/239
+|
+|-status|p1a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|16
+|
+|t:|1776972199
+|move|p2a: Jumpluff|Strength Sap|p1a: Gliscor
+|-unboost|p1a: Gliscor|atk|1
+|-heal|p2a: Jumpluff|271/271
+|move|p1a: Gliscor|Toxic|p2a: Jumpluff
+|-status|p2a: Jumpluff|tox
+|
+|-damage|p2a: Jumpluff|255/271 tox|[from] psn
+|-heal|p1a: Gliscor|202/239 tox|[from] ability: Poison Heal
+|upkeep
+|turn|17
+|-message|Frostb0rne forfeited.
+|
+|win|disconnectduewifi
+|raw|disconnectduewifi's rating: 1622 &rarr; <strong>1639</strong><br />(+17 for winning)
+|raw|Frostb0rne's rating: 1567 &rarr; <strong>1550</strong><br />(-17 for losing)
+|l|☆Frostb0rne
+|player|p2|

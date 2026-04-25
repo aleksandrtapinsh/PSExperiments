@@ -1,0 +1,372 @@
+|j|☆legolas06
+|j|☆fun isnt fun
+|t:|1776973692
+|gametype|singles
+|player|p1|legolas06|1|1665
+|player|p2|fun isnt fun|102|1697
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776973692
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Tornadus|Tornadus-Therian, L79, M|254/254
+|switch|p2a: Banette|Banette, L93, F|270/270
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by legolas06)
+|
+|t:|1776973702
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Banette
+|-damage|p2a: Banette|143/270
+|move|p2a: Banette|Thunder Wave|p1a: Tornadus
+|-status|p1a: Tornadus|par
+|
+|upkeep
+|turn|2
+|
+|t:|1776973720
+|move|p2a: Banette|Poltergeist|p1a: Tornadus|[miss]
+|-miss|p2a: Banette|p1a: Tornadus
+|cant|p1a: Tornadus|par
+|
+|upkeep
+|turn|3
+|
+|t:|1776973730
+|move|p2a: Banette|Poltergeist|p1a: Tornadus|[miss]
+|-miss|p2a: Banette|p1a: Tornadus
+|cant|p1a: Tornadus|par
+|
+|upkeep
+|turn|4
+|
+|t:|1776973733
+|move|p2a: Banette|Poltergeist|p1a: Tornadus
+|-activate|p1a: Tornadus|move: Poltergeist|Heavy-Duty Boots
+|-damage|p1a: Tornadus|27/254 par
+|-damage|p2a: Banette|116/270|[from] item: Life Orb
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Banette
+|-damage|p2a: Banette|0 fnt
+|faint|p2a: Banette
+|
+|upkeep
+|
+|t:|1776973743
+|switch|p2a: Wyrdeer|Wyrdeer, L87, F|321/321
+|-ability|p2a: Wyrdeer|Intimidate|boost
+|-unboost|p1a: Tornadus|atk|1
+|turn|5
+|
+|t:|1776973747
+|switch|p1a: Metagross|Metagross, L79|256/256
+|move|p2a: Wyrdeer|Body Slam|p1a: Metagross
+|-resisted|p1a: Metagross
+|-damage|p1a: Metagross|214/256
+|
+|-heal|p1a: Metagross|230/256|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776973750
+|move|p2a: Wyrdeer|Thunder Wave|p1a: Metagross
+|-status|p1a: Metagross|par
+|move|p1a: Metagross|Stealth Rock|p2a: Wyrdeer
+|-sidestart|p2: fun isnt fun|move: Stealth Rock
+|
+|-heal|p1a: Metagross|246/256 par|[from] item: Leftovers
+|upkeep
+|turn|7
+|inactive|legolas06 has 120 seconds left.
+|
+|t:|1776973782
+|move|p2a: Wyrdeer|Earthquake|p1a: Metagross
+|-supereffective|p1a: Metagross
+|-damage|p1a: Metagross|120/256 par
+|move|p1a: Metagross|Heavy Slam|p2a: Wyrdeer
+|-damage|p2a: Wyrdeer|149/321
+|
+|-heal|p2a: Wyrdeer|169/321|[from] item: Leftovers
+|-heal|p1a: Metagross|136/256 par|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776973790
+|switch|p1a: Tornadus|Tornadus-Therian, L79, M|111/254 par
+|move|p2a: Wyrdeer|Earthquake|p1a: Tornadus
+|-immune|p1a: Tornadus
+|
+|-heal|p2a: Wyrdeer|189/321|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776973793
+|switch|p1a: Metagross|Metagross, L79|136/256 par
+|move|p2a: Wyrdeer|Body Slam|p1a: Metagross
+|-resisted|p1a: Metagross
+|-damage|p1a: Metagross|97/256 par
+|
+|-heal|p2a: Wyrdeer|209/321|[from] item: Leftovers
+|-heal|p1a: Metagross|113/256 par|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1776973798
+|move|p2a: Wyrdeer|Earthquake|p1a: Metagross
+|-supereffective|p1a: Metagross
+|-damage|p1a: Metagross|0 fnt
+|faint|p1a: Metagross
+|
+|-heal|p2a: Wyrdeer|229/321|[from] item: Leftovers
+|upkeep
+|
+|t:|1776973803
+|switch|p1a: Tornadus|Tornadus-Therian, L79, M|195/254 par
+|turn|11
+|
+|t:|1776973808
+|move|p2a: Wyrdeer|Body Slam|p1a: Tornadus
+|-damage|p1a: Tornadus|89/254 par
+|cant|p1a: Tornadus|par
+|
+|-heal|p2a: Wyrdeer|249/321|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776973826
+|switch|p1a: Chi-Yu|Chi-Yu, L77|211/211
+|-ability|p1a: Chi-Yu|Beads of Ruin
+|move|p2a: Wyrdeer|Body Slam|p1a: Chi-Yu
+|-damage|p1a: Chi-Yu|102/211
+|
+|-heal|p2a: Wyrdeer|269/321|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776973831
+|switch|p2a: Okidogi|Okidogi, L77, M|262/262
+|-damage|p2a: Okidogi|246/262|[from] Stealth Rock
+|move|p1a: Chi-Yu|Dark Pulse|p2a: Okidogi
+|-resisted|p2a: Okidogi
+|-damage|p2a: Okidogi|203/262
+|
+|upkeep
+|turn|14
+|
+|t:|1776973842
+|switch|p1a: Uxie|Uxie, L83|260/260
+|move|p2a: Okidogi|Gunk Shot|p1a: Uxie
+|-damage|p1a: Uxie|169/260
+|-status|p1a: Uxie|tox|[from] ability: Toxic Chain|[of] p2a: Okidogi
+|
+|-heal|p1a: Uxie|185/260 tox|[from] item: Leftovers
+|-damage|p1a: Uxie|169/260 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1776973847
+|switch|p2a: Wyrdeer|Wyrdeer, L87, F|269/321
+|-damage|p2a: Wyrdeer|229/321|[from] Stealth Rock
+|-ability|p2a: Wyrdeer|Intimidate|boost
+|-unboost|p1a: Uxie|atk|1
+|move|p1a: Uxie|U-turn|p2a: Wyrdeer
+|-supereffective|p2a: Wyrdeer
+|-damage|p2a: Wyrdeer|165/321
+|
+|t:|1776973856
+|switch|p1a: Chi-Yu|Chi-Yu, L77|102/211|[from] U-turn
+|-ability|p1a: Chi-Yu|Beads of Ruin
+|
+|-heal|p2a: Wyrdeer|185/321|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776973860
+|switch|p2a: Okidogi|Okidogi, L77, M|203/262
+|-damage|p2a: Okidogi|187/262|[from] Stealth Rock
+|move|p1a: Chi-Yu|Overheat|p2a: Okidogi
+|-damage|p2a: Okidogi|52/262
+|-unboost|p1a: Chi-Yu|spa|2
+|
+|upkeep
+|turn|17
+|
+|t:|1776973863
+|switch|p2a: Chandelure|Chandelure, L83, F|235/235
+|-damage|p2a: Chandelure|177/235|[from] Stealth Rock
+|move|p1a: Chi-Yu|Overheat|p2a: Chandelure
+|-start|p2a: Chandelure|ability: Flash Fire
+|
+|upkeep
+|turn|18
+|
+|t:|1776973868
+|switch|p1a: Muk|Muk, L86, F|321/321
+|move|p2a: Chandelure|Fire Blast|p1a: Muk
+|-damage|p1a: Muk|179/321
+|
+|upkeep
+|turn|19
+|
+|t:|1776973877
+|-terastallize|p2a: Chandelure|Fire
+|move|p2a: Chandelure|Fire Blast|p1a: Muk
+|-damage|p1a: Muk|0 fnt
+|faint|p1a: Muk
+|
+|upkeep
+|inactive|legolas06 has 120 seconds left.
+|
+|t:|1776973909
+|switch|p1a: Chi-Yu|Chi-Yu, L77|102/211
+|-ability|p1a: Chi-Yu|Beads of Ruin
+|turn|20
+|inactive|legolas06 has 120 seconds left.
+|
+|t:|1776973930
+|-end|p2a: Chandelure|ability: Flash Fire|[silent]
+|switch|p2a: Okidogi|Okidogi, L77, M|52/262
+|-damage|p2a: Okidogi|36/262|[from] Stealth Rock
+|move|p1a: Chi-Yu|Dark Pulse|p2a: Okidogi
+|-resisted|p2a: Okidogi
+|-damage|p2a: Okidogi|0 fnt
+|faint|p2a: Okidogi
+|
+|upkeep
+|
+|t:|1776973937
+|switch|p2a: Minun|Minun, L95, M|268/268
+|-damage|p2a: Minun|235/268|[from] Stealth Rock
+|turn|21
+|
+|t:|1776973942
+|switch|p1a: Uxie|Uxie, L83|169/260 tox
+|move|p2a: Minun|Thunderbolt|p1a: Uxie
+|-damage|p1a: Uxie|68/260 tox
+|-damage|p2a: Minun|209/268|[from] item: Life Orb
+|
+|-heal|p1a: Uxie|84/260 tox|[from] item: Leftovers
+|-damage|p1a: Uxie|68/260 tox|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1776973949
+|move|p2a: Minun|Thunderbolt|p1a: Uxie
+|-damage|p1a: Uxie|0 fnt
+|faint|p1a: Uxie
+|-damage|p2a: Minun|183/268|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776973960
+|switch|p1a: Chi-Yu|Chi-Yu, L77|102/211
+|-ability|p1a: Chi-Yu|Beads of Ruin
+|turn|23
+|
+|t:|1776973962
+|-terastallize|p1a: Chi-Yu|Dark
+|move|p1a: Chi-Yu|Dark Pulse|p2a: Minun
+|-damage|p2a: Minun|41/268
+|move|p2a: Minun|Thunderbolt|p1a: Chi-Yu
+|-damage|p1a: Chi-Yu|0 fnt
+|faint|p1a: Chi-Yu
+|-damage|p2a: Minun|15/268|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776973972
+|switch|p1a: Tornadus|Tornadus-Therian, L79, M|173/254 par
+|turn|24
+|
+|t:|1776973975
+|move|p2a: Minun|Thunderbolt|p1a: Tornadus
+|-supereffective|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|-damage|p2a: Minun|0 fnt|[from] item: Life Orb
+|faint|p2a: Minun
+|
+|upkeep
+|
+|t:|1776973977
+|switch|p1a: Toucannon|Toucannon, L88, M|284/284
+|switch|p2a: Dunsparce|Dunsparce, L86, M|312/312
+|-damage|p2a: Dunsparce|273/312|[from] Stealth Rock
+|turn|25
+|
+|t:|1776974003
+|-singleturn|p1a: Toucannon|move: Beak Blast
+|move|p2a: Dunsparce|Coil|p2a: Dunsparce
+|-boost|p2a: Dunsparce|atk|1
+|-boost|p2a: Dunsparce|def|1
+|-boost|p2a: Dunsparce|accuracy|1
+|move|p1a: Toucannon|Beak Blast|p2a: Dunsparce
+|-damage|p2a: Dunsparce|198/312
+|
+|upkeep
+|turn|26
+|
+|t:|1776974008
+|move|p1a: Toucannon|Boomburst|p2a: Dunsparce
+|-damage|p2a: Dunsparce|80/312
+|move|p2a: Dunsparce|Coil|p2a: Dunsparce
+|-boost|p2a: Dunsparce|atk|1
+|-boost|p2a: Dunsparce|def|1
+|-boost|p2a: Dunsparce|accuracy|1
+|
+|upkeep
+|turn|27
+|
+|t:|1776974011
+|move|p1a: Toucannon|Boomburst|p2a: Dunsparce
+|-damage|p2a: Dunsparce|0 fnt
+|faint|p2a: Dunsparce
+|
+|upkeep
+|
+|t:|1776974013
+|switch|p2a: Wyrdeer|Wyrdeer, L87, F|185/321
+|-damage|p2a: Wyrdeer|145/321|[from] Stealth Rock
+|-ability|p2a: Wyrdeer|Intimidate|boost
+|-unboost|p1a: Toucannon|atk|1
+|turn|28
+|
+|t:|1776974021
+|-singleturn|p1a: Toucannon|move: Beak Blast
+|move|p2a: Wyrdeer|Body Slam|p1a: Toucannon
+|-damage|p1a: Toucannon|176/284
+|-status|p2a: Wyrdeer|brn
+|move|p1a: Toucannon|Beak Blast|p2a: Wyrdeer
+|-damage|p2a: Wyrdeer|33/321 brn
+|
+|-heal|p2a: Wyrdeer|53/321 brn|[from] item: Leftovers
+|-damage|p2a: Wyrdeer|33/321 brn|[from] brn
+|upkeep
+|turn|29
+|
+|t:|1776974026
+|move|p2a: Wyrdeer|Psychic Noise|p1a: Toucannon
+|-damage|p1a: Toucannon|83/284
+|-start|p1a: Toucannon|move: Heal Block
+|cant|p1a: Toucannon|move: Heal Block|Roost
+|
+|-heal|p2a: Wyrdeer|53/321 brn|[from] item: Leftovers
+|-damage|p2a: Wyrdeer|33/321 brn|[from] brn
+|upkeep
+|turn|30
+|
+|t:|1776974029
+|move|p2a: Wyrdeer|Psychic Noise|p1a: Toucannon
+|-damage|p1a: Toucannon|0 fnt
+|faint|p1a: Toucannon
+|
+|win|fun isnt fun
+|raw|legolas06's rating: 1665 &rarr; <strong>1647</strong><br />(-18 for losing)
+|raw|fun isnt fun's rating: 1697 &rarr; <strong>1715</strong><br />(+18 for winning)
+|l|☆legolas06
+|player|p1|

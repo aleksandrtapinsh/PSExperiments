@@ -1,0 +1,776 @@
+|j|☆disconnectduewifi
+|j|☆Arkbuildr
+|t:|1776975912
+|gametype|singles
+|player|p1|disconnectduewifi|lucas|1759
+|player|p2|Arkbuildr|170|1773
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776975912
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Sudowoodo|Sudowoodo, L94, M|284/284
+|switch|p2a: Palkia|Palkia, L75|259/259
+|-ability|p2a: Palkia|Pressure
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Arkbuildr)
+|
+|t:|1776975929
+|switch|p1a: Scream Tail|Scream Tail, L84|330/330
+|move|p2a: Palkia|Hydro Pump|p1a: Scream Tail
+|-damage|p1a: Scream Tail|168/330
+|
+|-heal|p1a: Scream Tail|188/330|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776975947
+|switch|p2a: Bellossom|Bellossom, L84, F|263/263
+|move|p1a: Scream Tail|Wish|p1a: Scream Tail
+|
+|-heal|p1a: Scream Tail|208/330|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776975954
+|move|p1a: Scream Tail|Dazzling Gleam|p2a: Bellossom
+|-damage|p2a: Bellossom|206/263
+|move|p2a: Bellossom|Quiver Dance|p2a: Bellossom
+|-boost|p2a: Bellossom|spa|1
+|-boost|p2a: Bellossom|spd|1
+|-boost|p2a: Bellossom|spe|1
+|
+|-heal|p1a: Scream Tail|330/330|[from] move: Wish|[wisher] Scream Tail
+|-heal|p2a: Bellossom|222/263|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776975965
+|move|p1a: Scream Tail|Encore|p2a: Bellossom
+|-start|p2a: Bellossom|Encore
+|move|p2a: Bellossom|Quiver Dance|p2a: Bellossom
+|-boost|p2a: Bellossom|spa|1
+|-boost|p2a: Bellossom|spd|1
+|-boost|p2a: Bellossom|spe|1
+|
+|-heal|p2a: Bellossom|238/263|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776975993
+|-end|p1a: Scream Tail|Protosynthesis|[silent]
+|switch|p1a: Floatzel|Floatzel, L86, M|286/286
+|move|p2a: Bellossom|Quiver Dance|p2a: Bellossom
+|-boost|p2a: Bellossom|spa|1
+|-boost|p2a: Bellossom|spd|1
+|-boost|p2a: Bellossom|spe|1
+|
+|-heal|p2a: Bellossom|254/263|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776976003
+|-terastallize|p2a: Bellossom|Rock
+|move|p2a: Bellossom|Quiver Dance|p2a: Bellossom
+|-boost|p2a: Bellossom|spa|1
+|-boost|p2a: Bellossom|spd|1
+|-boost|p2a: Bellossom|spe|1
+|move|p1a: Floatzel|Ice Spinner|p2a: Bellossom
+|-damage|p2a: Bellossom|162/263
+|
+|-heal|p2a: Bellossom|178/263|[from] item: Leftovers
+|-end|p2a: Bellossom|Encore
+|upkeep
+|turn|7
+|inactive|disconnectduewifi has 120 seconds left.
+|
+|t:|1776976031
+|switch|p1a: Copperajah|Copperajah, L86, M|350/350
+|move|p2a: Bellossom|Giga Drain|p1a: Copperajah
+|-resisted|p1a: Copperajah
+|-damage|p1a: Copperajah|228/350
+|-heal|p2a: Bellossom|239/263|[from] drain|[of] p1a: Copperajah
+|
+|-heal|p2a: Bellossom|255/263|[from] item: Leftovers
+|upkeep
+|turn|8
+|inactive|disconnectduewifi has 120 seconds left.
+|
+|t:|1776976042
+|move|p2a: Bellossom|Giga Drain|p1a: Copperajah
+|-resisted|p1a: Copperajah
+|-damage|p1a: Copperajah|108/350
+|-heal|p2a: Bellossom|263/263|[from] drain|[of] p1a: Copperajah
+|move|p1a: Copperajah|Earthquake|p2a: Bellossom
+|-supereffective|p2a: Bellossom
+|-damage|p2a: Bellossom|47/263
+|-damage|p1a: Copperajah|73/350|[from] item: Life Orb
+|
+|-heal|p2a: Bellossom|63/263|[from] item: Leftovers
+|upkeep
+|turn|9
+|inactive|disconnectduewifi has 120 seconds left.
+|
+|t:|1776976054
+|move|p2a: Bellossom|Strength Sap|p1a: Copperajah
+|-unboost|p1a: Copperajah|atk|1
+|-heal|p2a: Bellossom|263/263
+|move|p1a: Copperajah|Earthquake|p2a: Bellossom
+|-supereffective|p2a: Bellossom
+|-damage|p2a: Bellossom|115/263
+|-damage|p1a: Copperajah|38/350|[from] item: Life Orb
+|
+|-heal|p2a: Bellossom|131/263|[from] item: Leftovers
+|upkeep
+|turn|10
+|inactive|disconnectduewifi has 120 seconds left.
+|
+|t:|1776976065
+|move|p2a: Bellossom|Giga Drain|p1a: Copperajah
+|-resisted|p1a: Copperajah
+|-damage|p1a: Copperajah|0 fnt
+|-heal|p2a: Bellossom|150/263|[from] drain|[of] p1a: Copperajah
+|faint|p1a: Copperajah
+|
+|-heal|p2a: Bellossom|166/263|[from] item: Leftovers
+|upkeep
+|
+|t:|1776976085
+|switch|p1a: Annihilape|Annihilape, L76, M|292/292
+|turn|11
+|
+|t:|1776976093
+|-terastallize|p1a: Annihilape|Steel
+|move|p2a: Bellossom|Giga Drain|p1a: Annihilape
+|-resisted|p1a: Annihilape
+|-damage|p1a: Annihilape|168/292
+|-heal|p2a: Bellossom|228/263|[from] drain|[of] p1a: Annihilape
+|move|p1a: Annihilape|Drain Punch|p2a: Bellossom
+|-supereffective|p2a: Bellossom
+|-damage|p2a: Bellossom|94/263
+|-heal|p1a: Annihilape|235/292|[from] drain|[of] p2a: Bellossom
+|
+|-heal|p2a: Bellossom|110/263|[from] item: Leftovers
+|-heal|p1a: Annihilape|253/292|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776976111
+|move|p2a: Bellossom|Strength Sap|p1a: Annihilape
+|-unboost|p1a: Annihilape|atk|1
+|-ability|p1a: Annihilape|Defiant|boost
+|-boost|p1a: Annihilape|atk|2
+|-heal|p2a: Bellossom|263/263
+|move|p1a: Annihilape|Taunt|p2a: Bellossom
+|-start|p2a: Bellossom|move: Taunt
+|
+|-heal|p1a: Annihilape|271/292|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776976124
+|move|p2a: Bellossom|Giga Drain|p1a: Annihilape
+|-resisted|p1a: Annihilape
+|-damage|p1a: Annihilape|140/292
+|move|p1a: Annihilape|Drain Punch|p2a: Bellossom
+|-supereffective|p2a: Bellossom
+|-damage|p2a: Bellossom|35/263
+|-heal|p1a: Annihilape|254/292|[from] drain|[of] p2a: Bellossom
+|
+|-heal|p2a: Bellossom|51/263|[from] item: Leftovers
+|-heal|p1a: Annihilape|272/292|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1776976135
+|move|p2a: Bellossom|Tera Blast|p1a: Annihilape|[anim] Tera Blast Rock
+|-resisted|p1a: Annihilape
+|-damage|p1a: Annihilape|134/292
+|move|p1a: Annihilape|Drain Punch|p2a: Bellossom
+|-supereffective|p2a: Bellossom
+|-damage|p2a: Bellossom|0 fnt
+|-heal|p1a: Annihilape|160/292|[from] drain|[of] p2a: Bellossom
+|faint|p2a: Bellossom
+|
+|-heal|p1a: Annihilape|178/292|[from] item: Leftovers
+|upkeep
+|
+|t:|1776976141
+|switch|p2a: Landorus|Landorus-Therian, L76, M|260/260
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Annihilape|atk|1
+|-ability|p1a: Annihilape|Defiant|boost
+|-boost|p1a: Annihilape|atk|2
+|turn|15
+|
+|t:|1776976161
+|switch|p1a: Scream Tail|Scream Tail, L84|330/330
+|move|p2a: Landorus|Earthquake|p1a: Scream Tail
+|-damage|p1a: Scream Tail|213/330
+|
+|-heal|p1a: Scream Tail|233/330|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776976175
+|move|p1a: Scream Tail|Wish|p1a: Scream Tail
+|move|p2a: Landorus|Earthquake|p1a: Scream Tail
+|-damage|p1a: Scream Tail|119/330
+|
+|-heal|p1a: Scream Tail|139/330|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1776976187
+|move|p1a: Scream Tail|Protect|p1a: Scream Tail
+|-singleturn|p1a: Scream Tail|Protect
+|move|p2a: Landorus|Stealth Rock|p1a: Scream Tail
+|-sidestart|p1: disconnectduewifi|move: Stealth Rock
+|
+|-heal|p1a: Scream Tail|304/330|[from] move: Wish|[wisher] Scream Tail
+|-heal|p1a: Scream Tail|324/330|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1776976196
+|move|p1a: Scream Tail|Encore|p2a: Landorus
+|-start|p2a: Landorus|Encore
+|move|p2a: Landorus|Stealth Rock||[still]
+|-fail|p2a: Landorus
+|
+|-heal|p1a: Scream Tail|330/330|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1776976213
+|-end|p1a: Scream Tail|Protosynthesis|[silent]
+|switch|p1a: Floatzel|Floatzel, L86, M|286/286
+|-damage|p1a: Floatzel|251/286|[from] Stealth Rock
+|switch|p2a: Rotom|Rotom-Heat, L83|219/219
+|
+|upkeep
+|turn|20
+|inactive|disconnectduewifi has 120 seconds left.
+|
+|t:|1776976231
+|switch|p2a: Palkia|Palkia, L75|259/259
+|-ability|p2a: Palkia|Pressure
+|move|p1a: Floatzel|Flip Turn|p2a: Palkia
+|-resisted|p2a: Palkia
+|-damage|p2a: Palkia|232/259
+|
+|t:|1776976245
+|switch|p1a: Scream Tail|Scream Tail, L84|330/330|[from] Flip Turn
+|-damage|p1a: Scream Tail|289/330|[from] Stealth Rock
+|
+|-heal|p1a: Scream Tail|309/330|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1776976269
+|switch|p2a: Rotom|Rotom-Heat, L83|219/219
+|move|p1a: Scream Tail|Dazzling Gleam|p2a: Rotom
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|190/219
+|
+|-heal|p1a: Scream Tail|329/330|[from] item: Leftovers
+|upkeep
+|turn|22
+|inactive|Arkbuildr has 120 seconds left.
+|
+|t:|1776976293
+|move|p1a: Scream Tail|Protect|p1a: Scream Tail
+|-singleturn|p1a: Scream Tail|Protect
+|move|p2a: Rotom|Discharge|p1a: Scream Tail
+|-activate|p1a: Scream Tail|move: Protect
+|
+|-heal|p1a: Scream Tail|330/330|[from] item: Leftovers
+|upkeep
+|turn|23
+|inactive|Arkbuildr has 120 seconds left.
+|
+|t:|1776976328
+|-end|p1a: Scream Tail|Protosynthesis|[silent]
+|switch|p1a: Sudowoodo|Sudowoodo, L94, M|284/284
+|-damage|p1a: Sudowoodo|249/284|[from] Stealth Rock
+|move|p2a: Rotom|Discharge|p1a: Sudowoodo
+|-damage|p1a: Sudowoodo|146/284
+|
+|upkeep
+|turn|24
+|inactive|Arkbuildr has 90 seconds left.
+|
+|t:|1776976354
+|move|p2a: Rotom|Volt Switch|p1a: Sudowoodo
+|-damage|p1a: Sudowoodo|58/284
+|
+|t:|1776976359
+|switch|p2a: Landorus|Landorus-Therian, L76, M|260/260|[from] Volt Switch
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Sudowoodo|atk|1
+|move|p1a: Sudowoodo|Head Smash|p2a: Landorus
+|-damage|p2a: Landorus|58/260
+|
+|-heal|p2a: Landorus|74/260|[from] item: Leftovers
+|upkeep
+|turn|25
+|inactive|Arkbuildr has 90 seconds left.
+|
+|t:|1776976386
+|switch|p1a: Scream Tail|Scream Tail, L84|330/330
+|-damage|p1a: Scream Tail|289/330|[from] Stealth Rock
+|move|p2a: Landorus|Earthquake|p1a: Scream Tail
+|-damage|p1a: Scream Tail|181/330
+|
+|-heal|p1a: Scream Tail|201/330|[from] item: Leftovers
+|-heal|p2a: Landorus|90/260|[from] item: Leftovers
+|upkeep
+|turn|26
+|inactive|Arkbuildr has 90 seconds left.
+|
+|t:|1776976401
+|switch|p2a: Spectrier|Spectrier, L75|274/274
+|move|p1a: Scream Tail|Wish|p1a: Scream Tail
+|
+|-heal|p1a: Scream Tail|221/330|[from] item: Leftovers
+|upkeep
+|turn|27
+|inactive|Arkbuildr has 90 seconds left.
+|inactive|disconnectduewifi has 90 seconds left.
+|
+|t:|1776976421
+|move|p1a: Scream Tail|Protect|p1a: Scream Tail
+|-singleturn|p1a: Scream Tail|Protect
+|move|p2a: Spectrier|Will-O-Wisp|p1a: Scream Tail
+|-activate|p1a: Scream Tail|move: Protect
+|
+|-heal|p1a: Scream Tail|330/330|[from] move: Wish|[wisher] Scream Tail
+|upkeep
+|turn|28
+|inactive|Arkbuildr has 90 seconds left.
+|
+|t:|1776976431
+|move|p2a: Spectrier|Will-O-Wisp|p1a: Scream Tail
+|-status|p1a: Scream Tail|brn
+|move|p1a: Scream Tail|Encore|p2a: Spectrier
+|-start|p2a: Spectrier|Encore
+|
+|-damage|p1a: Scream Tail|310/330 brn|[from] brn
+|upkeep
+|turn|29
+|inactive|Arkbuildr has 90 seconds left.
+|
+|t:|1776976443
+|switch|p2a: Landorus|Landorus-Therian, L76, M|90/260
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Scream Tail|atk|1
+|-end|p1a: Scream Tail|Protosynthesis|[silent]
+|switch|p1a: Armarouge|Armarouge, L80, M|267/267
+|-damage|p1a: Armarouge|201/267|[from] Stealth Rock
+|
+|-heal|p2a: Landorus|106/260|[from] item: Leftovers
+|upkeep
+|turn|30
+|inactive|Arkbuildr has 90 seconds left.
+|inactive|disconnectduewifi has 90 seconds left.
+|
+|t:|1776976460
+|move|p2a: Landorus|Earthquake|p1a: Armarouge
+|-supereffective|p1a: Armarouge
+|-damage|p1a: Armarouge|0 fnt
+|faint|p1a: Armarouge
+|
+|-heal|p2a: Landorus|122/260|[from] item: Leftovers
+|upkeep
+|inactive|disconnectduewifi has 90 seconds left.
+|
+|t:|1776976470
+|switch|p1a: Floatzel|Floatzel, L86, M|251/286
+|-damage|p1a: Floatzel|216/286|[from] Stealth Rock
+|turn|31
+|inactive|disconnectduewifi has 90 seconds left.
+|
+|t:|1776976483
+|switch|p2a: Palkia|Palkia, L75|232/259
+|-ability|p2a: Palkia|Pressure
+|move|p1a: Floatzel|Flip Turn|p2a: Palkia
+|-resisted|p2a: Palkia
+|-damage|p2a: Palkia|204/259
+|inactive|disconnectduewifi has 90 seconds left.
+|
+|t:|1776976492
+|switch|p1a: Sudowoodo|Sudowoodo, L94, M|58/284|[from] Flip Turn
+|-damage|p1a: Sudowoodo|23/284|[from] Stealth Rock
+|
+|upkeep
+|turn|32
+|
+|t:|1776976502
+|move|p1a: Sudowoodo|Sucker Punch|p2a: Palkia
+|-damage|p2a: Palkia|115/259
+|move|p2a: Palkia|Spacial Rend|p1a: Sudowoodo
+|-crit|p1a: Sudowoodo
+|-damage|p1a: Sudowoodo|0 fnt
+|faint|p1a: Sudowoodo
+|
+|upkeep
+|inactive|disconnectduewifi has 90 seconds left.
+|
+|t:|1776976513
+|switch|p1a: Scream Tail|Scream Tail, L84|310/330 brn
+|-damage|p1a: Scream Tail|269/330 brn|[from] Stealth Rock
+|turn|33
+|
+|t:|1776976542
+|switch|p2a: Rotom|Rotom-Heat, L83|190/219
+|move|p1a: Scream Tail|Dazzling Gleam|p2a: Rotom
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|162/219
+|
+|-heal|p1a: Scream Tail|289/330 brn|[from] item: Leftovers
+|-damage|p1a: Scream Tail|269/330 brn|[from] brn
+|upkeep
+|turn|34
+|
+|t:|1776976556
+|move|p1a: Scream Tail|Wish|p1a: Scream Tail
+|move|p2a: Rotom|Discharge|p1a: Scream Tail
+|-damage|p1a: Scream Tail|196/330 brn
+|
+|-heal|p1a: Scream Tail|216/330 brn|[from] item: Leftovers
+|-damage|p1a: Scream Tail|196/330 brn|[from] brn
+|upkeep
+|turn|35
+|
+|t:|1776976565
+|-end|p1a: Scream Tail|Protosynthesis|[silent]
+|switch|p1a: Annihilape|Annihilape, L76, M, tera:Steel|178/292
+|-damage|p1a: Annihilape|160/292|[from] Stealth Rock
+|move|p2a: Rotom|Volt Switch|p1a: Annihilape
+|-damage|p1a: Annihilape|78/292
+|inactive|Arkbuildr has 90 seconds left.
+|
+|t:|1776976597
+|switch|p2a: Spectrier|Spectrier, L75|274/274|[from] Volt Switch
+|
+|-heal|p1a: Annihilape|243/292|[from] move: Wish|[wisher] Scream Tail
+|-heal|p1a: Annihilape|261/292|[from] item: Leftovers
+|upkeep
+|turn|36
+|inactive|disconnectduewifi has 120 seconds left.
+|
+|t:|1776976621
+|move|p2a: Spectrier|Will-O-Wisp|p1a: Annihilape
+|-status|p1a: Annihilape|brn
+|move|p1a: Annihilape|Rage Fist|p2a: Spectrier
+|-supereffective|p2a: Spectrier
+|-damage|p2a: Spectrier|0 fnt
+|faint|p2a: Spectrier
+|
+|-heal|p1a: Annihilape|279/292 brn|[from] item: Leftovers
+|-damage|p1a: Annihilape|261/292 brn|[from] brn
+|upkeep
+|inactive|Arkbuildr has 60 seconds left.
+|
+|t:|1776976652
+|switch|p2a: Palkia|Palkia, L75|115/259
+|-ability|p2a: Palkia|Pressure
+|turn|37
+|inactive|disconnectduewifi has 120 seconds left.
+|
+|t:|1776976667
+|move|p2a: Palkia|Draco Meteor|p1a: Annihilape|[miss]
+|-miss|p2a: Palkia|p1a: Annihilape
+|move|p1a: Annihilape|Rage Fist|p2a: Palkia
+|-damage|p2a: Palkia|0 fnt
+|faint|p2a: Palkia
+|
+|-heal|p1a: Annihilape|279/292 brn|[from] item: Leftovers
+|-damage|p1a: Annihilape|261/292 brn|[from] brn
+|upkeep
+|
+|t:|1776976681
+|switch|p2a: Landorus|Landorus-Therian, L76, M|122/260
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Annihilape|atk|1
+|-ability|p1a: Annihilape|Defiant|boost
+|-boost|p1a: Annihilape|atk|2
+|turn|38
+|
+|t:|1776976694
+|move|p2a: Landorus|Earthquake|p1a: Annihilape
+|-supereffective|p1a: Annihilape
+|-damage|p1a: Annihilape|0 fnt
+|faint|p1a: Annihilape
+|
+|-heal|p2a: Landorus|138/260|[from] item: Leftovers
+|upkeep
+|
+|t:|1776976701
+|switch|p1a: Floatzel|Floatzel, L86, M|216/286
+|-damage|p1a: Floatzel|181/286|[from] Stealth Rock
+|turn|39
+|inactive|Arkbuildr has 60 seconds left.
+|inactive|Arkbuildr has 30 seconds left.
+|inactive|Arkbuildr has 20 seconds left.
+|inactive|Arkbuildr has 15 seconds left.
+|inactive|Arkbuildr has 10 seconds left.
+|inactive|Arkbuildr has 5 seconds left.
+|
+|t:|1776976762
+|switch|p2a: Rotom|Rotom-Heat, L83|162/219
+|move|p1a: Floatzel|Flip Turn|p2a: Rotom
+|-supereffective|p2a: Rotom
+|-damage|p2a: Rotom|0 fnt
+|faint|p2a: Rotom
+|c|☆disconnectduewifi|You can turn the timer off
+|
+|t:|1776976773
+|switch|p1a: Scream Tail|Scream Tail, L84|196/330 brn|[from] Flip Turn
+|-damage|p1a: Scream Tail|155/330 brn|[from] Stealth Rock
+|
+|-heal|p1a: Scream Tail|175/330 brn|[from] item: Leftovers
+|-damage|p1a: Scream Tail|155/330 brn|[from] brn
+|upkeep
+|inactive|Arkbuildr has 15 seconds left this turn.
+|inactive|Arkbuildr has 10 seconds left.
+|
+|t:|1776976782
+|switch|p2a: Clefable|Clefable, L83, M|293/293
+|turn|40
+|inactive|Arkbuildr has 20 seconds left this turn.
+|inactive|Arkbuildr has 15 seconds left.
+|inactive|Arkbuildr has 10 seconds left.
+|inactive|Arkbuildr has 5 seconds left.
+|
+|t:|1776976800
+|move|p1a: Scream Tail|Wish|p1a: Scream Tail
+|move|p2a: Clefable|Moonblast|p1a: Scream Tail
+|-damage|p1a: Scream Tail|46/330 brn
+|
+|-heal|p1a: Scream Tail|66/330 brn|[from] item: Leftovers
+|-damage|p1a: Scream Tail|46/330 brn|[from] brn
+|upkeep
+|turn|41
+|inactive|Arkbuildr has 15 seconds left this turn.
+|inactive|Arkbuildr has 10 seconds left.
+|
+|t:|1776976810
+|switch|p2a: Landorus|Landorus-Therian, L76, M|138/260
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Scream Tail|atk|1
+|move|p1a: Scream Tail|Protect||[still]
+|-fail|p1a: Scream Tail
+|
+|-heal|p1a: Scream Tail|211/330 brn|[from] move: Wish|[wisher] Scream Tail
+|-heal|p1a: Scream Tail|231/330 brn|[from] item: Leftovers
+|-heal|p2a: Landorus|154/260|[from] item: Leftovers
+|-damage|p1a: Scream Tail|211/330 brn|[from] brn
+|upkeep
+|turn|42
+|inactive|Arkbuildr has 20 seconds left this turn.
+|inactive|Arkbuildr has 15 seconds left.
+|inactive|Arkbuildr has 10 seconds left.
+|
+|t:|1776976823
+|move|p1a: Scream Tail|Dazzling Gleam|p2a: Landorus
+|-damage|p2a: Landorus|75/260
+|move|p2a: Landorus|U-turn|p1a: Scream Tail
+|-damage|p1a: Scream Tail|157/330 brn
+|inactive|Arkbuildr has 15 seconds left this turn.
+|
+|t:|1776976828
+|switch|p2a: Clefable|Clefable, L83, M|293/293|[from] U-turn
+|
+|-heal|p1a: Scream Tail|177/330 brn|[from] item: Leftovers
+|-damage|p1a: Scream Tail|157/330 brn|[from] brn
+|upkeep
+|turn|43
+|inactive|Arkbuildr has 25 seconds left this turn.
+|inactive|Arkbuildr has 20 seconds left.
+|inactive|Arkbuildr has 15 seconds left.
+|inactive|Arkbuildr has 10 seconds left.
+|
+|t:|1776976845
+|move|p1a: Scream Tail|Wish|p1a: Scream Tail
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|
+|-heal|p1a: Scream Tail|177/330 brn|[from] item: Leftovers
+|-damage|p1a: Scream Tail|157/330 brn|[from] brn
+|upkeep
+|turn|44
+|inactive|Arkbuildr has 20 seconds left this turn.
+|inactive|Arkbuildr has 15 seconds left.
+|
+|t:|1776976854
+|switch|p2a: Landorus|Landorus-Therian, L76, M|75/260
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Scream Tail|atk|1
+|move|p1a: Scream Tail|Encore||[still]
+|-fail|p1a: Scream Tail
+|
+|-heal|p1a: Scream Tail|322/330 brn|[from] move: Wish|[wisher] Scream Tail
+|-heal|p1a: Scream Tail|330/330 brn|[from] item: Leftovers
+|-heal|p2a: Landorus|91/260|[from] item: Leftovers
+|-damage|p1a: Scream Tail|310/330 brn|[from] brn
+|upkeep
+|turn|45
+|inactive|Arkbuildr has 25 seconds left this turn.
+|inactive|Arkbuildr has 20 seconds left.
+|
+|t:|1776976866
+|switch|p2a: Clefable|Clefable, L83, M|293/293
+|move|p1a: Scream Tail|Dazzling Gleam|p2a: Clefable
+|-damage|p2a: Clefable|232/293
+|
+|-heal|p1a: Scream Tail|330/330 brn|[from] item: Leftovers
+|-damage|p1a: Scream Tail|310/330 brn|[from] brn
+|upkeep
+|turn|46
+|inactive|Arkbuildr has 30 seconds left this turn.
+|inactive|Arkbuildr has 20 seconds left.
+|
+|t:|1776976880
+|move|p1a: Scream Tail|Dazzling Gleam|p2a: Clefable
+|-damage|p2a: Clefable|171/293
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|
+|-heal|p1a: Scream Tail|330/330 brn|[from] item: Leftovers
+|-damage|p1a: Scream Tail|310/330 brn|[from] brn
+|upkeep
+|turn|47
+|inactive|Arkbuildr has 30 seconds left this turn.
+|
+|t:|1776976891
+|switch|p2a: Landorus|Landorus-Therian, L76, M|91/260
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Scream Tail|atk|1
+|move|p1a: Scream Tail|Encore||[still]
+|-fail|p1a: Scream Tail
+|
+|-heal|p1a: Scream Tail|330/330 brn|[from] item: Leftovers
+|-heal|p2a: Landorus|107/260|[from] item: Leftovers
+|-damage|p1a: Scream Tail|310/330 brn|[from] brn
+|upkeep
+|turn|48
+|inactive|Arkbuildr has 30 seconds left.
+|
+|t:|1776976901
+|-end|p1a: Scream Tail|Protosynthesis|[silent]
+|switch|p1a: Floatzel|Floatzel, L86, M|181/286
+|-damage|p1a: Floatzel|146/286|[from] Stealth Rock
+|switch|p2a: Clefable|Clefable, L83, M|171/293
+|
+|upkeep
+|turn|49
+|inactive|Arkbuildr has 30 seconds left.
+|
+|t:|1776976911
+|switch|p2a: Landorus|Landorus-Therian, L76, M|107/260
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Floatzel|atk|1
+|move|p1a: Floatzel|Flip Turn|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|c|☆Arkbuildr|Fark
+|c|☆Arkbuildr|Gg
+|c|☆disconnectduewifi|Gg
+|
+|t:|1776976926
+|switch|p1a: Scream Tail|Scream Tail, L84|310/330 brn|[from] Flip Turn
+|-damage|p1a: Scream Tail|269/330 brn|[from] Stealth Rock
+|
+|-heal|p1a: Scream Tail|289/330 brn|[from] item: Leftovers
+|-damage|p1a: Scream Tail|269/330 brn|[from] brn
+|upkeep
+|c|☆Arkbuildr|Thought you'd go for the ko
+|
+|t:|1776976934
+|switch|p2a: Clefable|Clefable, L83, M|171/293
+|turn|50
+|
+|t:|1776976942
+|move|p1a: Scream Tail|Dazzling Gleam|p2a: Clefable
+|-damage|p2a: Clefable|110/293
+|move|p2a: Clefable|Moonblast|p1a: Scream Tail
+|-damage|p1a: Scream Tail|170/330 brn
+|-unboost|p1a: Scream Tail|spa|1
+|
+|-heal|p1a: Scream Tail|190/330 brn|[from] item: Leftovers
+|-damage|p1a: Scream Tail|170/330 brn|[from] brn
+|upkeep
+|turn|51
+|
+|t:|1776976953
+|move|p1a: Scream Tail|Wish|p1a: Scream Tail
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|256/293
+|
+|-heal|p1a: Scream Tail|190/330 brn|[from] item: Leftovers
+|-damage|p1a: Scream Tail|170/330 brn|[from] brn
+|upkeep
+|turn|52
+|
+|t:|1776976961
+|move|p1a: Scream Tail|Encore|p2a: Clefable
+|-start|p2a: Clefable|Encore
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|293/293
+|
+|-heal|p1a: Scream Tail|330/330 brn|[from] move: Wish|[wisher] Scream Tail
+|-damage|p1a: Scream Tail|310/330 brn|[from] brn
+|upkeep
+|turn|53
+|inactive|Arkbuildr has 60 seconds left.
+|
+|t:|1776976981
+|move|p1a: Scream Tail|Wish|p1a: Scream Tail
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-fail|p2a: Clefable|heal
+|
+|-heal|p1a: Scream Tail|330/330 brn|[from] item: Leftovers
+|-damage|p1a: Scream Tail|310/330 brn|[from] brn
+|upkeep
+|turn|54
+|
+|t:|1776976990
+|-end|p1a: Scream Tail|Protosynthesis|[silent]
+|switch|p1a: Floatzel|Floatzel, L86, M|146/286
+|-damage|p1a: Floatzel|111/286|[from] Stealth Rock
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-fail|p2a: Clefable|heal
+|
+|-heal|p1a: Floatzel|276/286|[from] move: Wish|[wisher] Scream Tail
+|-end|p2a: Clefable|Encore
+|upkeep
+|turn|55
+|inactive|Arkbuildr has 60 seconds left.
+|
+|t:|1776977011
+|move|p1a: Floatzel|Wave Crash|p2a: Clefable
+|-damage|p2a: Clefable|38/293
+|-damage|p1a: Floatzel|192/286|[from] Recoil
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|184/293
+|
+|upkeep
+|turn|56
+|-message|Arkbuildr forfeited.
+|
+|win|disconnectduewifi
+|raw|disconnectduewifi's rating: 1759 &rarr; <strong>1780</strong><br />(+21 for winning)
+|raw|Arkbuildr's rating: 1773 &rarr; <strong>1752</strong><br />(-21 for losing)
+|l|☆Arkbuildr
+|player|p2|

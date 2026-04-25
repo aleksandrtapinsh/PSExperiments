@@ -1,0 +1,111 @@
+|j|☆Hehdhdhdgghedhdhdd
+|j|☆lolololxddd
+|t:|1776971124
+|gametype|singles
+|player|p1|Hehdhdhdgghedhdhdd|102|1043
+|player|p2|lolololxddd|102|1087
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776971124
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Charizard|Charizard, L85, M|271/271
+|switch|p2a: Arceus|Arceus-Dark, L71|288/288
+|turn|1
+|
+|t:|1776971169
+|switch|p1a: Regigigas|Regigigas, L84|322/322
+|-start|p1a: Regigigas|ability: Slow Start
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, L76, F|247/247
+|
+|upkeep
+|turn|2
+|
+|t:|1776971187
+|switch|p2a: Talonflame|Talonflame, L83, F|265/265
+|move|p1a: Regigigas|Body Slam|p2a: Talonflame
+|-damage|p2a: Talonflame|189/265
+|-status|p2a: Talonflame|par
+|
+|upkeep
+|turn|3
+|
+|t:|1776971202
+|cant|p2a: Talonflame|par
+|move|p1a: Regigigas|Substitute|p1a: Regigigas
+|-start|p1a: Regigigas|Substitute
+|-damage|p1a: Regigigas|242/322
+|
+|-heal|p1a: Regigigas|262/322|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776971208
+|move|p1a: Regigigas|Protect|p1a: Regigigas
+|-singleturn|p1a: Regigigas|Protect
+|move|p2a: Talonflame|Overheat|p1a: Regigigas
+|-activate|p1a: Regigigas|move: Protect
+|
+|-heal|p1a: Regigigas|282/322|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776971216
+|move|p2a: Talonflame|Overheat|p1a: Regigigas
+|-end|p1a: Regigigas|Substitute
+|-unboost|p2a: Talonflame|spa|2
+|move|p1a: Regigigas|Substitute|p1a: Regigigas
+|-start|p1a: Regigigas|Substitute
+|-damage|p1a: Regigigas|202/322
+|
+|-heal|p1a: Regigigas|222/322|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776971224
+|move|p1a: Regigigas|Protect|p1a: Regigigas
+|-singleturn|p1a: Regigigas|Protect
+|move|p2a: Talonflame|Overheat|p1a: Regigigas
+|-activate|p1a: Regigigas|move: Protect
+|
+|-heal|p1a: Regigigas|242/322|[from] item: Leftovers
+|-end|p1a: Regigigas|Slow Start
+|upkeep
+|turn|7
+|
+|t:|1776971231
+|move|p1a: Regigigas|Body Slam|p2a: Talonflame
+|-damage|p2a: Talonflame|39/265 par
+|-status|p1a: Regigigas|brn|[from] ability: Flame Body|[of] p2a: Talonflame
+|move|p2a: Talonflame|Overheat|p1a: Regigigas
+|-activate|p1a: Regigigas|move: Substitute|[damage]
+|-unboost|p2a: Talonflame|spa|2
+|
+|-heal|p1a: Regigigas|262/322 brn|[from] item: Leftovers
+|-damage|p1a: Regigigas|242/322 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1776971242
+|move|p1a: Regigigas|Knock Off|p2a: Talonflame
+|-damage|p2a: Talonflame|0 fnt
+|-enditem|p2a: Talonflame|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Regigigas
+|faint|p2a: Talonflame
+|
+|-heal|p1a: Regigigas|262/322 brn|[from] item: Leftovers
+|-damage|p1a: Regigigas|242/322 brn|[from] brn
+|upkeep
+|-message|lolololxddd forfeited.
+|
+|win|Hehdhdhdgghedhdhdd
+|raw|Hehdhdhdgghedhdhdd's rating: 1043 &rarr; <strong>1081</strong><br />(+38 for winning)
+|raw|lolololxddd's rating: 1087 &rarr; <strong>1061</strong><br />(-26 for losing)
+|l|☆lolololxddd
+|player|p2|

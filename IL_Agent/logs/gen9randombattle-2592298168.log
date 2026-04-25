@@ -1,0 +1,320 @@
+|j|☆ENGR 11
+|j|☆Basic-Burger
+|t:|1776976855
+|gametype|singles
+|player|p1|ENGR 11|169|1203
+|player|p2|Basic-Burger|artist|1237
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776976855
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Reuniclus|Reuniclus, L88, M|337/337
+|switch|p2a: Chansey|Chansey, L85, F|564/564
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Basic-Burger)
+|
+|t:|1776976860
+|move|p2a: Chansey|Thunder Wave|p1a: Reuniclus
+|-status|p1a: Reuniclus|par
+|move|p1a: Reuniclus|Calm Mind|p1a: Reuniclus
+|-boost|p1a: Reuniclus|spa|1
+|-boost|p1a: Reuniclus|spd|1
+|
+|upkeep
+|turn|2
+|
+|t:|1776976863
+|move|p2a: Chansey|Seismic Toss|p1a: Reuniclus
+|-damage|p1a: Reuniclus|252/337 par
+|move|p1a: Reuniclus|Calm Mind|p1a: Reuniclus
+|-boost|p1a: Reuniclus|spa|1
+|-boost|p1a: Reuniclus|spd|1
+|
+|upkeep
+|turn|3
+|
+|t:|1776976868
+|move|p2a: Chansey|Seismic Toss|p1a: Reuniclus
+|-damage|p1a: Reuniclus|167/337 par
+|move|p1a: Reuniclus|Focus Blast|p2a: Chansey
+|-supereffective|p2a: Chansey
+|-damage|p2a: Chansey|247/564
+|
+|upkeep
+|turn|4
+|
+|t:|1776976875
+|move|p2a: Chansey|Seismic Toss|p1a: Reuniclus
+|-damage|p1a: Reuniclus|82/337 par
+|move|p1a: Reuniclus|Focus Blast|p2a: Chansey|[miss]
+|-miss|p1a: Reuniclus|p2a: Chansey
+|
+|upkeep
+|turn|5
+|
+|t:|1776976878
+|move|p2a: Chansey|Seismic Toss|p1a: Reuniclus
+|-damage|p1a: Reuniclus|0 fnt
+|faint|p1a: Reuniclus
+|
+|upkeep
+|
+|t:|1776976884
+|switch|p1a: Tsareena|Tsareena, L87, F|267/267
+|turn|6
+|
+|t:|1776976888
+|switch|p2a: Spidops|Spidops, L96, F|271/271
+|move|p1a: Tsareena|High Jump Kick|p2a: Spidops
+|-resisted|p2a: Spidops
+|-damage|p2a: Spidops|205/271
+|-damage|p1a: Tsareena|241/267|[from] item: Life Orb
+|
+|upkeep
+|turn|7
+|
+|t:|1776976898
+|switch|p1a: Arcanine|Arcanine-Hisui, L79, F|280/280
+|move|p2a: Spidops|U-turn|p1a: Arcanine
+|-resisted|p1a: Arcanine
+|-damage|p1a: Arcanine|183/280
+|
+|t:|1776976917
+|switch|p2a: Chansey|Chansey, L85, F|247/564|[from] U-turn
+|
+|upkeep
+|turn|8
+|
+|t:|1776976928
+|move|p1a: Arcanine|Flare Blitz|p2a: Chansey
+|-damage|p2a: Chansey|0 fnt
+|faint|p2a: Chansey
+|
+|upkeep
+|
+|t:|1776976933
+|switch|p2a: Staraptor|Staraptor, L79, M|263/263
+|turn|9
+|
+|t:|1776976936
+|move|p2a: Staraptor|Close Combat|p1a: Arcanine
+|-supereffective|p1a: Arcanine
+|-damage|p1a: Arcanine|0 fnt
+|-unboost|p2a: Staraptor|def|1
+|-unboost|p2a: Staraptor|spd|1
+|faint|p1a: Arcanine
+|
+|upkeep
+|
+|t:|1776976940
+|switch|p1a: Tsareena|Tsareena, L87, F|241/267
+|turn|10
+|
+|t:|1776976953
+|switch|p2a: Florges|Florges-White, L85, F|271/271
+|move|p1a: Tsareena|Triple Axel|p2a: Florges
+|-damage|p2a: Florges|242/271
+|-damage|p2a: Florges|189/271
+|-damage|p2a: Florges|102/271
+|-hitcount|p2a: Florges|3
+|-damage|p1a: Tsareena|215/267|[from] item: Life Orb
+|
+|-heal|p2a: Florges|118/271|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776976966
+|move|p2a: Florges|Synthesis|p2a: Florges
+|-heal|p2a: Florges|253/271
+|move|p1a: Tsareena|Power Whip|p2a: Florges
+|-damage|p2a: Florges|18/271
+|-damage|p1a: Tsareena|189/267|[from] item: Life Orb
+|
+|-heal|p2a: Florges|34/271|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776976970
+|move|p2a: Florges|Synthesis|p2a: Florges
+|-heal|p2a: Florges|169/271
+|move|p1a: Tsareena|Power Whip|p2a: Florges
+|-damage|p2a: Florges|0 fnt
+|faint|p2a: Florges
+|-damage|p1a: Tsareena|163/267|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776976976
+|switch|p2a: Volbeat|Volbeat, L90, M|263/263
+|turn|13
+|
+|t:|1776976994
+|move|p2a: Volbeat|Lunge|p1a: Tsareena
+|-supereffective|p1a: Tsareena
+|-damage|p1a: Tsareena|19/267
+|-unboost|p1a: Tsareena|atk|1
+|move|p1a: Tsareena|Triple Axel|p2a: Volbeat
+|-damage|p2a: Volbeat|245/263
+|-crit|p2a: Volbeat
+|-damage|p2a: Volbeat|175/263
+|-damage|p2a: Volbeat|130/263
+|-hitcount|p2a: Volbeat|3
+|-damage|p1a: Tsareena|0 fnt|[from] item: Life Orb
+|faint|p1a: Tsareena
+|
+|upkeep
+|
+|t:|1776977003
+|switch|p1a: Landorus|Landorus-Therian, L76, M|260/260
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Volbeat|atk|1
+|turn|14
+|
+|t:|1776977009
+|move|p2a: Volbeat|Lunge|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|230/260
+|-unboost|p1a: Landorus|atk|1
+|move|p1a: Landorus|Stealth Rock|p2a: Volbeat
+|-sidestart|p2: Basic-Burger|move: Stealth Rock
+|
+|-heal|p1a: Landorus|246/260|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1776977016
+|move|p2a: Volbeat|Encore|p1a: Landorus
+|-start|p1a: Landorus|Encore
+|move|p1a: Landorus|Stealth Rock||[still]
+|-fail|p1a: Landorus
+|
+|-heal|p1a: Landorus|260/260|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776977023
+|switch|p1a: Wugtrio|Wugtrio, L91, M|212/212
+|move|p2a: Volbeat|Roost|p2a: Volbeat
+|-heal|p2a: Volbeat|262/263
+|-singleturn|p2a: Volbeat|move: Roost
+|
+|upkeep
+|turn|17
+|
+|t:|1776977029
+|move|p2a: Volbeat|Thunder Wave|p1a: Wugtrio
+|-status|p1a: Wugtrio|par
+|move|p1a: Wugtrio|Throat Chop|p2a: Volbeat
+|-damage|p2a: Volbeat|149/263
+|-start|p2a: Volbeat|Throat Chop|[silent]
+|
+|upkeep
+|turn|18
+|
+|t:|1776977033
+|move|p2a: Volbeat|Lunge|p1a: Wugtrio
+|-damage|p1a: Wugtrio|134/212 par
+|-unboost|p1a: Wugtrio|atk|1
+|-ability|p1a: Wugtrio|Gooey
+|-unboost|p2a: Volbeat|spe|1
+|cant|p1a: Wugtrio|par
+|
+|-end|p2a: Volbeat|Throat Chop|[silent]
+|upkeep
+|turn|19
+|
+|t:|1776977040
+|switch|p1a: Landorus|Landorus-Therian, L76, M|260/260
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Volbeat|atk|1
+|move|p2a: Volbeat|Lunge|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|239/260
+|-unboost|p1a: Landorus|atk|1
+|
+|-heal|p1a: Landorus|255/260|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1776977043
+|move|p1a: Landorus|Stone Edge|p2a: Volbeat|[miss]
+|-miss|p1a: Landorus|p2a: Volbeat
+|move|p2a: Volbeat|Lunge|p1a: Landorus
+|-resisted|p1a: Landorus
+|-crit|p1a: Landorus
+|-damage|p1a: Landorus|193/260
+|-unboost|p1a: Landorus|atk|1
+|
+|-heal|p1a: Landorus|209/260|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1776977050
+|switch|p2a: Falinks|Falinks, L84|246/246
+|-damage|p2a: Falinks|231/246|[from] Stealth Rock
+|move|p1a: Landorus|Stone Edge|p2a: Falinks
+|-resisted|p2a: Falinks
+|-damage|p2a: Falinks|211/246
+|
+|-heal|p1a: Landorus|225/260|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1776977059
+|move|p1a: Landorus|Earthquake|p2a: Falinks
+|-damage|p2a: Falinks|153/246
+|move|p2a: Falinks|No Retreat|p2a: Falinks
+|-boost|p2a: Falinks|atk|1
+|-boost|p2a: Falinks|def|1
+|-boost|p2a: Falinks|spa|1
+|-boost|p2a: Falinks|spd|1
+|-boost|p2a: Falinks|spe|1
+|-start|p2a: Falinks|move: No Retreat
+|
+|-heal|p1a: Landorus|241/260|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1776977063
+|move|p2a: Falinks|Iron Head|p1a: Landorus
+|-damage|p1a: Landorus|108/260
+|-damage|p2a: Falinks|129/246|[from] item: Life Orb
+|cant|p1a: Landorus|flinch
+|
+|-heal|p1a: Landorus|124/260|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1776977065
+|move|p2a: Falinks|Iron Head|p1a: Landorus
+|-damage|p1a: Landorus|7/260
+|-damage|p2a: Falinks|105/246|[from] item: Life Orb
+|cant|p1a: Landorus|flinch
+|
+|-heal|p1a: Landorus|23/260|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1776977071
+|move|p2a: Falinks|Iron Head|p1a: Landorus
+|-crit|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|-damage|p2a: Falinks|81/246|[from] item: Life Orb
+|
+|upkeep
+|-message|ENGR 11 forfeited.
+|
+|win|Basic-Burger
+|raw|ENGR 11's rating: 1203 &rarr; <strong>1180</strong><br />(-23 for losing)
+|raw|Basic-Burger's rating: 1237 &rarr; <strong>1260</strong><br />(+23 for winning)
+|l|☆ENGR 11
+|player|p1|

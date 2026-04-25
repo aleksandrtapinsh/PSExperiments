@@ -1,0 +1,166 @@
+|j|☆SteelixPrismGX
+|j|‽mrongey10
+|t:|1776984598
+|gametype|singles
+|player|p1|SteelixPrismGX|siebold|1909
+|player|p2|mrongey10|2|1890
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776984598
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Heatran|Heatran, L79, F|273/273
+|switch|p2a: Registeel|Registeel, L81|262/262
+|-item|p1a: Heatran|Air Balloon
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by mrongey10)
+|
+|t:|1776984605
+|switch|p2a: Cyclizar|Cyclizar, L83, M|252/252
+|move|p1a: Heatran|Stealth Rock|p2a: Cyclizar
+|-sidestart|p2: mrongey10|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1776984609
+|move|p2a: Cyclizar|Rapid Spin|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|249/273
+|-boost|p2a: Cyclizar|spe|1
+|-enditem|p1a: Heatran|Air Balloon
+|-sideend|p2: mrongey10|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Cyclizar
+|move|p1a: Heatran|Heavy Slam|p2a: Cyclizar
+|-damage|p2a: Cyclizar|126/252
+|
+|upkeep
+|turn|3
+|
+|t:|1776984615
+|move|p2a: Cyclizar|Taunt|p1a: Heatran
+|-start|p1a: Heatran|move: Taunt
+|cant|p1a: Heatran|move: Taunt|Stealth Rock
+|
+|upkeep
+|turn|4
+|
+|t:|1776984624
+|switch|p2a: Ampharos|Ampharos, L88, F|302/302
+|move|p1a: Heatran|Magma Storm|p2a: Ampharos
+|-damage|p2a: Ampharos|232/302
+|-activate|p2a: Ampharos|move: Magma Storm|[of] p1a: Heatran
+|
+|-damage|p2a: Ampharos|195/302|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|5
+|
+|t:|1776984634
+|switch|p1a: Clodsire|Clodsire, L81, F|343/343
+|move|p2a: Ampharos|Volt Switch|p1a: Clodsire
+|-immune|p1a: Clodsire
+|
+|-end|p2a: Ampharos|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|turn|6
+|
+|t:|1776984639
+|switch|p2a: Gliscor|Gliscor, L76, F|239/239
+|move|p1a: Clodsire|Earthquake|p2a: Gliscor
+|-immune|p2a: Gliscor
+|
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|7
+|
+|t:|1776984657
+|move|p2a: Gliscor|Substitute|p2a: Gliscor
+|-start|p2a: Gliscor|Substitute
+|-damage|p2a: Gliscor|180/239 tox
+|move|p1a: Clodsire|Toxic Spikes|p2a: Gliscor
+|-sidestart|p2: mrongey10|move: Toxic Spikes
+|
+|-heal|p2a: Gliscor|209/239 tox|[from] ability: Poison Heal
+|upkeep
+|turn|8
+|l|‽mrongey10
+|inactive|mrongey10 disconnected and has a minute to reconnect!
+|player|p2|
+|j|‽mrongey10
+|inactive|mrongey10 reconnected and has 130 seconds left.
+|player|p2|mrongey10|2|
+|n|‽mrongey10|mrongey10
+|n|‽mrongey10|mrongey10
+|
+|t:|1776984680
+|move|p2a: Gliscor|Earthquake|p1a: Clodsire
+|-supereffective|p1a: Clodsire
+|-damage|p1a: Clodsire|115/343
+|move|p1a: Clodsire|Toxic Spikes|p2a: Gliscor
+|-sidestart|p2: mrongey10|move: Toxic Spikes
+|
+|-heal|p1a: Clodsire|136/343|[from] item: Leftovers
+|-heal|p2a: Gliscor|238/239 tox|[from] ability: Poison Heal
+|upkeep
+|turn|9
+|
+|t:|1776984705
+|move|p2a: Gliscor|Earthquake|p1a: Clodsire
+|-supereffective|p1a: Clodsire
+|-damage|p1a: Clodsire|0 fnt
+|faint|p1a: Clodsire
+|
+|-heal|p2a: Gliscor|239/239 tox|[from] ability: Poison Heal
+|upkeep
+|
+|t:|1776984708
+|switch|p1a: Brute Bonnet|Brute Bonnet, L80|309/309
+|turn|10
+|
+|t:|1776984711
+|move|p2a: Gliscor|Toxic|p1a: Brute Bonnet
+|-status|p1a: Brute Bonnet|tox
+|move|p1a: Brute Bonnet|Crunch|p2a: Gliscor
+|-end|p2a: Gliscor|Substitute
+|
+|-damage|p1a: Brute Bonnet|290/309 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1776984720
+|-end|p1a: Brute Bonnet|Protosynthesis|[silent]
+|switch|p1a: Rabsca|Rabsca, L91, F|284/284
+|move|p2a: Gliscor|Protect||[still]
+|-fail|p2a: Gliscor
+|
+|upkeep
+|turn|12
+|
+|t:|1776984739
+|move|p2a: Gliscor|Toxic|p1a: Rabsca|[miss]
+|-miss|p2a: Gliscor|p1a: Rabsca
+|move|p1a: Rabsca|Psychic|p2a: Gliscor
+|-damage|p2a: Gliscor|89/239 tox
+|
+|-heal|p2a: Gliscor|118/239 tox|[from] ability: Poison Heal
+|upkeep
+|turn|13
+|l|‽mrongey10
+|inactive|mrongey10 disconnected and has a minute to reconnect!
+|player|p2|
+|inactive|mrongey10 has 30 seconds to reconnect!
+|inactive|mrongey10 has 20 seconds to reconnect!
+|inactive|mrongey10 has 15 seconds to reconnect!
+|inactive|mrongey10 has 10 seconds to reconnect!
+|inactive|mrongey10 has 5 seconds to reconnect!
+|-message|mrongey10 lost due to inactivity.
+|
+|win|SteelixPrismGX
+|raw|SteelixPrismGX's rating: 1909 &rarr; <strong>1928</strong><br />(+19 for winning)
+|raw|mrongey10's rating: 1890 &rarr; <strong>1871</strong><br />(-19 for losing)

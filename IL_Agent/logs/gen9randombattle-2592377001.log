@@ -1,0 +1,657 @@
+|j|☆hi uwvejak
+|j|☆LADDERDRAIN
+|t:|1776983580
+|gametype|singles
+|player|p1|hi uwvejak|266|1721
+|player|p2|LADDERDRAIN|265|1732
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776983580
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Rayquaza|Rayquaza, L72|270/270
+|switch|p2a: Bellibolt|Bellibolt, L84, M|320/320
+|-ability|p1a: Rayquaza|Air Lock
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by hi uwvejak)
+|
+|t:|1776983598
+|switch|p1a: Eelektross|Eelektross, L87, M|290/290
+|move|p2a: Bellibolt|Volt Switch|p1a: Eelektross
+|-resisted|p1a: Eelektross
+|-damage|p1a: Eelektross|264/290
+|inactive|LADDERDRAIN has 120 seconds left.
+|
+|t:|1776983628
+|switch|p2a: Qwilfish|Qwilfish, L86, F|252/252|[from] Volt Switch
+|-ability|p2a: Qwilfish|Intimidate|boost
+|-unboost|p1a: Eelektross|atk|1
+|
+|upkeep
+|turn|2
+|
+|t:|1776983637
+|move|p2a: Qwilfish|Toxic|p1a: Eelektross
+|-status|p1a: Eelektross|tox
+|move|p1a: Eelektross|Discharge|p2a: Qwilfish
+|-supereffective|p2a: Qwilfish
+|-damage|p2a: Qwilfish|4/252
+|-status|p2a: Qwilfish|par
+|
+|-damage|p1a: Eelektross|246/290 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1776983647
+|switch|p2a: Bellibolt|Bellibolt, L84, M|320/320
+|move|p1a: Eelektross|Knock Off|p2a: Bellibolt
+|-damage|p2a: Bellibolt|267/320
+|-start|p2a: Bellibolt|Charge|Knock Off|[from] ability: Electromorphosis
+|-enditem|p2a: Bellibolt|Leftovers|[from] move: Knock Off|[of] p1a: Eelektross
+|
+|-damage|p1a: Eelektross|210/290 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1776983661
+|move|p2a: Bellibolt|Muddy Water|p1a: Eelektross|[miss]
+|-miss|p2a: Bellibolt|p1a: Eelektross
+|move|p1a: Eelektross|Dragon Tail|p2a: Bellibolt
+|-damage|p2a: Bellibolt|235/320
+|-start|p2a: Bellibolt|Charge|Dragon Tail|[from] ability: Electromorphosis
+|drag|p2a: Lugia|Lugia, L73|275/275
+|
+|-damage|p1a: Eelektross|156/290 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1776983680
+|move|p2a: Lugia|Calm Mind|p2a: Lugia
+|-boost|p2a: Lugia|spa|1
+|-boost|p2a: Lugia|spd|1
+|move|p1a: Eelektross|U-turn|p2a: Lugia
+|-damage|p2a: Lugia|258/275
+|
+|t:|1776983688
+|switch|p1a: Clefable|Clefable, L83, F|293/293|[from] U-turn
+|
+|upkeep
+|turn|6
+|inactive|LADDERDRAIN has 120 seconds left.
+|
+|t:|1776983723
+|-terastallize|p2a: Lugia|Ground
+|move|p2a: Lugia|Calm Mind|p2a: Lugia
+|-boost|p2a: Lugia|spa|1
+|-boost|p2a: Lugia|spd|1
+|move|p1a: Clefable|Thunder Wave|p2a: Lugia
+|-immune|p2a: Lugia
+|
+|upkeep
+|turn|7
+|inactive|LADDERDRAIN has 120 seconds left.
+|
+|t:|1776983740
+|move|p2a: Lugia|Calm Mind|p2a: Lugia
+|-boost|p2a: Lugia|spa|1
+|-boost|p2a: Lugia|spd|1
+|move|p1a: Clefable|Moonblast|p2a: Lugia
+|-damage|p2a: Lugia|183/275
+|
+|upkeep
+|turn|8
+|
+|t:|1776983746
+|move|p2a: Lugia|Earth Power|p1a: Clefable
+|-damage|p1a: Clefable|218/293
+|move|p1a: Clefable|Moonblast|p2a: Lugia
+|-damage|p2a: Lugia|111/275
+|
+|-heal|p1a: Clefable|236/293|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776983751
+|move|p2a: Lugia|Recover|p2a: Lugia
+|-heal|p2a: Lugia|249/275
+|move|p1a: Clefable|Moonblast|p2a: Lugia
+|-damage|p2a: Lugia|170/275
+|
+|-heal|p1a: Clefable|254/293|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1776983756
+|move|p2a: Lugia|Recover|p2a: Lugia
+|-heal|p2a: Lugia|275/275
+|move|p1a: Clefable|Moonblast|p2a: Lugia
+|-damage|p2a: Lugia|239/275
+|
+|-heal|p1a: Clefable|272/293|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776983761
+|move|p2a: Lugia|Earth Power|p1a: Clefable
+|-damage|p1a: Clefable|199/293
+|move|p1a: Clefable|Moonblast|p2a: Lugia
+|-damage|p2a: Lugia|160/275
+|
+|-heal|p1a: Clefable|217/293|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776983772
+|move|p2a: Lugia|Earth Power|p1a: Clefable
+|-crit|p1a: Clefable
+|-damage|p1a: Clefable|111/293
+|move|p1a: Clefable|Moonblast|p2a: Lugia
+|-damage|p2a: Lugia|87/275
+|-unboost|p2a: Lugia|spa|1
+|
+|-heal|p1a: Clefable|129/293|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776983782
+|move|p2a: Lugia|Earth Power|p1a: Clefable
+|-damage|p1a: Clefable|53/293
+|move|p1a: Clefable|Moonlight|p1a: Clefable
+|-heal|p1a: Clefable|199/293
+|
+|-heal|p1a: Clefable|217/293|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1776983787
+|move|p2a: Lugia|Recover|p2a: Lugia
+|-heal|p2a: Lugia|225/275
+|move|p1a: Clefable|Moonblast|p2a: Lugia
+|-damage|p2a: Lugia|150/275
+|-unboost|p2a: Lugia|spa|1
+|
+|-heal|p1a: Clefable|235/293|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1776983794
+|move|p2a: Lugia|Earth Power|p1a: Clefable
+|-damage|p1a: Clefable|165/293
+|move|p1a: Clefable|Moonblast|p2a: Lugia
+|-damage|p2a: Lugia|74/275
+|
+|-heal|p1a: Clefable|183/293|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776983804
+|move|p2a: Lugia|Recover|p2a: Lugia
+|-heal|p2a: Lugia|212/275
+|move|p1a: Clefable|Moonblast|p2a: Lugia
+|-damage|p2a: Lugia|136/275
+|
+|-heal|p1a: Clefable|201/293|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1776983810
+|move|p2a: Lugia|Recover|p2a: Lugia
+|-heal|p2a: Lugia|274/275
+|move|p1a: Clefable|Fire Blast|p2a: Lugia|[miss]
+|-miss|p1a: Clefable|p2a: Lugia
+|
+|-heal|p1a: Clefable|219/293|[from] item: Leftovers
+|upkeep
+|turn|18
+|inactive|LADDERDRAIN has 120 seconds left.
+|
+|t:|1776983855
+|switch|p2a: Duraludon|Duraludon, L82, F|249/249
+|move|p1a: Clefable|Fire Blast|p2a: Duraludon
+|-damage|p2a: Duraludon|168/249
+|
+|-heal|p1a: Clefable|237/293|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1776983864
+|switch|p1a: Eelektross|Eelektross, L87, M|156/290 tox
+|move|p2a: Duraludon|Flash Cannon|p1a: Eelektross
+|-resisted|p1a: Eelektross
+|-damage|p1a: Eelektross|126/290 tox
+|
+|-damage|p1a: Eelektross|108/290 tox|[from] psn
+|upkeep
+|turn|20
+|inactive|LADDERDRAIN has 120 seconds left.
+|
+|t:|1776983874
+|switch|p2a: Qwilfish|Qwilfish, L86, F|4/252 par
+|-ability|p2a: Qwilfish|Intimidate|boost
+|-unboost|p1a: Eelektross|atk|1
+|move|p1a: Eelektross|Knock Off|p2a: Qwilfish
+|-damage|p2a: Qwilfish|0 fnt
+|-enditem|p2a: Qwilfish|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Eelektross
+|faint|p2a: Qwilfish
+|
+|-damage|p1a: Eelektross|72/290 tox|[from] psn
+|upkeep
+|inactive|LADDERDRAIN has 90 seconds left.
+|
+|t:|1776983906
+|switch|p2a: Regigigas|Regigigas, L84|322/322
+|-start|p2a: Regigigas|ability: Slow Start
+|turn|21
+|
+|t:|1776983912
+|move|p1a: Eelektross|Discharge|p2a: Regigigas
+|-damage|p2a: Regigigas|247/322
+|move|p2a: Regigigas|Knock Off|p1a: Eelektross
+|-damage|p1a: Eelektross|18/290 tox
+|-enditem|p1a: Eelektross|Assault Vest|[from] move: Knock Off|[of] p2a: Regigigas
+|
+|-heal|p2a: Regigigas|267/322|[from] item: Leftovers
+|-damage|p1a: Eelektross|0 fnt|[from] psn
+|faint|p1a: Eelektross
+|upkeep
+|
+|t:|1776983930
+|switch|p1a: Wigglytuff|Wigglytuff, L96, M|424/424
+|turn|22
+|
+|t:|1776983941
+|move|p1a: Wigglytuff|Thunder Wave|p2a: Regigigas
+|-status|p2a: Regigigas|par
+|move|p2a: Regigigas|Knock Off|p1a: Wigglytuff
+|-resisted|p1a: Wigglytuff
+|-damage|p1a: Wigglytuff|389/424
+|-enditem|p1a: Wigglytuff|Leftovers|[from] move: Knock Off|[of] p2a: Regigigas
+|
+|-heal|p2a: Regigigas|287/322 par|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1776983948
+|move|p1a: Wigglytuff|Alluring Voice|p2a: Regigigas
+|-crit|p2a: Regigigas
+|-damage|p2a: Regigigas|160/322 par
+|move|p2a: Regigigas|Body Slam|p1a: Wigglytuff
+|-damage|p1a: Wigglytuff|298/424
+|-status|p1a: Wigglytuff|par
+|
+|-heal|p2a: Regigigas|180/322 par|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1776983963
+|move|p1a: Wigglytuff|Alluring Voice|p2a: Regigigas
+|-damage|p2a: Regigigas|101/322 par
+|cant|p2a: Regigigas|par
+|
+|-heal|p2a: Regigigas|121/322 par|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1776983969
+|move|p1a: Wigglytuff|Wish|p1a: Wigglytuff
+|move|p2a: Regigigas|Rest|p2a: Regigigas
+|-status|p2a: Regigigas|slp|[from] move: Rest
+|-heal|p2a: Regigigas|322/322 slp|[silent]
+|
+|-end|p2a: Regigigas|Slow Start
+|upkeep
+|turn|26
+|
+|t:|1776983973
+|switch|p1a: Zamazenta|Zamazenta-Crowned, L68|238/238
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|cant|p2a: Regigigas|slp
+|move|p2a: Regigigas|Sleep Talk|p2a: Regigigas
+|move|p2a: Regigigas|Knock Off|p1a: Zamazenta|[from] move: Sleep Talk
+|-resisted|p1a: Zamazenta
+|-damage|p1a: Zamazenta|217/238
+|
+|-heal|p1a: Zamazenta|238/238|[from] move: Wish|[wisher] Wigglytuff
+|upkeep
+|turn|27
+|inactive|LADDERDRAIN has 120 seconds left.
+|
+|t:|1776983993
+|switch|p2a: Lugia|Lugia, L73, tera:Ground|274/275
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|2
+|
+|upkeep
+|turn|28
+|inactive|LADDERDRAIN has 120 seconds left.
+|l|☆hi uwvejak
+|inactive|hi uwvejak disconnected and has a minute to reconnect!
+|player|p1|
+|j|☆hi uwvejak
+|inactive|hi uwvejak reconnected and has 120 seconds left.
+|player|p1|hi uwvejak|266|
+|
+|t:|1776984026
+|move|p1a: Zamazenta|Body Press|p2a: Lugia
+|-damage|p2a: Lugia|124/275
+|move|p2a: Lugia|Earth Power|p1a: Zamazenta
+|-supereffective|p1a: Zamazenta
+|-damage|p1a: Zamazenta|118/238
+|
+|upkeep
+|turn|29
+|
+|t:|1776984054
+|move|p1a: Zamazenta|Body Press|p2a: Lugia
+|-damage|p2a: Lugia|0 fnt
+|faint|p2a: Lugia
+|
+|upkeep
+|inactive|LADDERDRAIN has 90 seconds left.
+|
+|t:|1776984067
+|switch|p2a: Bellibolt|Bellibolt, L84, M|235/320
+|turn|30
+|
+|t:|1776984077
+|move|p1a: Zamazenta|Body Press|p2a: Bellibolt
+|-damage|p2a: Bellibolt|34/320
+|-start|p2a: Bellibolt|Charge|Body Press|[from] ability: Electromorphosis
+|move|p2a: Bellibolt|Thunderbolt|p1a: Zamazenta
+|-damage|p1a: Zamazenta|0 fnt
+|faint|p1a: Zamazenta
+|-end|p2a: Bellibolt|Charge|[silent]
+|
+|upkeep
+|
+|t:|1776984091
+|switch|p1a: Clefable|Clefable, L83, F|237/293
+|turn|31
+|
+|t:|1776984095
+|switch|p2a: Regigigas|Regigigas, L84|322/322 slp
+|-start|p2a: Regigigas|ability: Slow Start
+|move|p1a: Clefable|Moonblast|p2a: Regigigas
+|-damage|p2a: Regigigas|237/322 slp
+|
+|-heal|p1a: Clefable|255/293|[from] item: Leftovers
+|-heal|p2a: Regigigas|257/322 slp|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1776984105
+|move|p1a: Clefable|Moonblast|p2a: Regigigas
+|-damage|p2a: Regigigas|179/322 slp
+|cant|p2a: Regigigas|slp
+|move|p2a: Regigigas|Sleep Talk|p2a: Regigigas
+|move|p2a: Regigigas|Body Slam|p1a: Clefable|[from] move: Sleep Talk
+|-damage|p1a: Clefable|182/293
+|
+|-heal|p1a: Clefable|200/293|[from] item: Leftovers
+|-heal|p2a: Regigigas|199/322 slp|[from] item: Leftovers
+|upkeep
+|turn|33
+|inactive|LADDERDRAIN has 120 seconds left.
+|
+|t:|1776984127
+|move|p1a: Clefable|Moonblast|p2a: Regigigas
+|-damage|p2a: Regigigas|117/322 slp
+|-unboost|p2a: Regigigas|spa|1
+|-curestatus|p2a: Regigigas|slp|[msg]
+|move|p2a: Regigigas|Body Slam|p1a: Clefable
+|-damage|p1a: Clefable|124/293
+|
+|-heal|p1a: Clefable|142/293|[from] item: Leftovers
+|-heal|p2a: Regigigas|137/322|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1776984140
+|move|p1a: Clefable|Moonblast|p2a: Regigigas
+|-damage|p2a: Regigigas|58/322
+|move|p2a: Regigigas|Rest|p2a: Regigigas
+|-status|p2a: Regigigas|slp|[from] move: Rest
+|-heal|p2a: Regigigas|322/322 slp|[silent]
+|
+|-heal|p1a: Clefable|160/293|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1776984146
+|switch|p1a: Rayquaza|Rayquaza, L72|270/270
+|-ability|p1a: Rayquaza|Air Lock
+|cant|p2a: Regigigas|slp
+|
+|upkeep
+|turn|36
+|
+|t:|1776984153
+|move|p1a: Rayquaza|Swords Dance|p1a: Rayquaza
+|-boost|p1a: Rayquaza|atk|2
+|cant|p2a: Regigigas|slp
+|move|p2a: Regigigas|Sleep Talk|p2a: Regigigas
+|move|p2a: Regigigas|Knock Off|p1a: Rayquaza|[from] move: Sleep Talk
+|-damage|p1a: Rayquaza|208/270
+|-enditem|p1a: Rayquaza|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Regigigas
+|
+|-end|p2a: Regigigas|Slow Start
+|upkeep
+|turn|37
+|
+|t:|1776984165
+|-curestatus|p2a: Regigigas|slp|[msg]
+|move|p2a: Regigigas|Body Slam|p1a: Rayquaza
+|-damage|p1a: Rayquaza|61/270
+|-status|p1a: Rayquaza|par
+|move|p1a: Rayquaza|Swords Dance|p1a: Rayquaza
+|-boost|p1a: Rayquaza|atk|2
+|
+|upkeep
+|turn|38
+|
+|t:|1776984173
+|-terastallize|p1a: Rayquaza|Normal
+|move|p1a: Rayquaza|Extreme Speed|p2a: Regigigas
+|-crit|p2a: Regigigas
+|-damage|p2a: Regigigas|9/322
+|move|p2a: Regigigas|Body Slam|p1a: Rayquaza
+|-damage|p1a: Rayquaza|0 fnt
+|faint|p1a: Rayquaza
+|
+|-heal|p2a: Regigigas|29/322|[from] item: Leftovers
+|upkeep
+|
+|t:|1776984183
+|switch|p1a: Clefable|Clefable, L83, F|160/293
+|turn|39
+|
+|t:|1776984186
+|move|p2a: Regigigas|Rest|p2a: Regigigas
+|-status|p2a: Regigigas|slp|[from] move: Rest
+|-heal|p2a: Regigigas|322/322 slp|[silent]
+|move|p1a: Clefable|Moonblast|p2a: Regigigas
+|-damage|p2a: Regigigas|240/322 slp
+|
+|-heal|p2a: Regigigas|260/322 slp|[from] item: Leftovers
+|-heal|p1a: Clefable|178/293|[from] item: Leftovers
+|upkeep
+|turn|40
+|
+|t:|1776984196
+|switch|p1a: Glaceon|Glaceon, L94, F|275/275
+|cant|p2a: Regigigas|slp
+|move|p2a: Regigigas|Sleep Talk|p2a: Regigigas
+|move|p2a: Regigigas|Body Slam|p1a: Glaceon|[from] move: Sleep Talk
+|-damage|p1a: Glaceon|173/275
+|-status|p1a: Glaceon|par
+|
+|-heal|p2a: Regigigas|280/322 slp|[from] item: Leftovers
+|upkeep
+|turn|41
+|c|☆LADDERDRAIN|clef no longer walls this slow start is over
+|c|☆LADDERDRAIN|gg
+|
+|t:|1776984210
+|cant|p2a: Regigigas|slp
+|move|p2a: Regigigas|Sleep Talk|p2a: Regigigas
+|move|p2a: Regigigas|Rest||[from] move: Sleep Talk|[still]
+|-fail|p2a: Regigigas
+|move|p1a: Glaceon|Mud Shot|p2a: Regigigas
+|-damage|p2a: Regigigas|229/322 slp
+|-unboost|p2a: Regigigas|spe|1
+|
+|-heal|p2a: Regigigas|249/322 slp|[from] item: Leftovers
+|upkeep
+|turn|42
+|
+|t:|1776984221
+|-curestatus|p2a: Regigigas|slp|[msg]
+|move|p2a: Regigigas|Knock Off|p1a: Glaceon
+|-damage|p1a: Glaceon|100/275 par
+|-enditem|p1a: Glaceon|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Regigigas
+|cant|p1a: Glaceon|par
+|
+|-heal|p2a: Regigigas|269/322|[from] item: Leftovers
+|upkeep
+|turn|43
+|
+|t:|1776984229
+|cant|p1a: Glaceon|par
+|move|p2a: Regigigas|Body Slam|p1a: Glaceon
+|-damage|p1a: Glaceon|0 fnt
+|faint|p1a: Glaceon
+|
+|-heal|p2a: Regigigas|289/322|[from] item: Leftovers
+|upkeep
+|
+|t:|1776984235
+|switch|p1a: Wigglytuff|Wigglytuff, L96, M|298/424 par
+|turn|44
+|
+|t:|1776984237
+|move|p2a: Regigigas|Body Slam|p1a: Wigglytuff
+|-damage|p1a: Wigglytuff|106/424 par
+|move|p1a: Wigglytuff|Thunder Wave|p2a: Regigigas|[miss]
+|-miss|p1a: Wigglytuff|p2a: Regigigas
+|
+|-heal|p2a: Regigigas|309/322|[from] item: Leftovers
+|upkeep
+|turn|45
+|
+|t:|1776984244
+|move|p2a: Regigigas|Body Slam|p1a: Wigglytuff
+|-damage|p1a: Wigglytuff|0 fnt
+|faint|p1a: Wigglytuff
+|
+|-heal|p2a: Regigigas|322/322|[from] item: Leftovers
+|upkeep
+|
+|t:|1776984246
+|switch|p1a: Clefable|Clefable, L83, F|178/293
+|turn|46
+|
+|t:|1776984252
+|move|p1a: Clefable|Thunder Wave|p2a: Regigigas
+|-status|p2a: Regigigas|par
+|move|p2a: Regigigas|Body Slam|p1a: Clefable
+|-damage|p1a: Clefable|15/293
+|
+|-heal|p1a: Clefable|33/293|[from] item: Leftovers
+|upkeep
+|turn|47
+|
+|t:|1776984260
+|move|p1a: Clefable|Moonlight|p1a: Clefable
+|-heal|p1a: Clefable|179/293
+|move|p2a: Regigigas|Body Slam|p1a: Clefable
+|-damage|p1a: Clefable|28/293
+|-status|p1a: Clefable|par
+|
+|-heal|p1a: Clefable|46/293 par|[from] item: Leftovers
+|upkeep
+|turn|48
+|
+|t:|1776984268
+|move|p1a: Clefable|Moonlight|p1a: Clefable
+|-heal|p1a: Clefable|192/293 par
+|move|p2a: Regigigas|Body Slam|p1a: Clefable
+|-damage|p1a: Clefable|48/293 par
+|
+|-heal|p1a: Clefable|66/293 par|[from] item: Leftovers
+|upkeep
+|turn|49
+|
+|t:|1776984276
+|move|p1a: Clefable|Moonlight|p1a: Clefable
+|-heal|p1a: Clefable|212/293 par
+|move|p2a: Regigigas|Body Slam|p1a: Clefable
+|-damage|p1a: Clefable|49/293 par
+|
+|-heal|p1a: Clefable|67/293 par|[from] item: Leftovers
+|upkeep
+|turn|50
+|c|☆LADDERDRAIN|I can rest and get rid of this para anytime
+|
+|t:|1776984291
+|move|p1a: Clefable|Moonlight|p1a: Clefable
+|-heal|p1a: Clefable|213/293 par
+|move|p2a: Regigigas|Body Slam|p1a: Clefable
+|-damage|p1a: Clefable|44/293 par
+|
+|-heal|p1a: Clefable|62/293 par|[from] item: Leftovers
+|upkeep
+|turn|51
+|
+|t:|1776984299
+|move|p1a: Clefable|Moonlight|p1a: Clefable
+|-heal|p1a: Clefable|208/293 par
+|move|p2a: Regigigas|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|147/293 par
+|-enditem|p1a: Clefable|Leftovers|[from] move: Knock Off|[of] p2a: Regigigas
+|
+|upkeep
+|turn|52
+|
+|t:|1776984309
+|move|p1a: Clefable|Moonlight|p1a: Clefable
+|-heal|p1a: Clefable|293/293 par
+|cant|p2a: Regigigas|par
+|
+|upkeep
+|turn|53
+|
+|t:|1776984314
+|move|p1a: Clefable|Moonblast|p2a: Regigigas
+|-damage|p2a: Regigigas|235/322 par
+|move|p2a: Regigigas|Body Slam|p1a: Clefable
+|-damage|p1a: Clefable|124/293 par
+|
+|-heal|p2a: Regigigas|255/322 par|[from] item: Leftovers
+|upkeep
+|turn|54
+|
+|t:|1776984321
+|move|p1a: Clefable|Moonblast|p2a: Regigigas
+|-damage|p2a: Regigigas|174/322 par
+|move|p2a: Regigigas|Rest|p2a: Regigigas
+|-status|p2a: Regigigas|slp|[from] move: Rest
+|-heal|p2a: Regigigas|322/322 slp|[silent]
+|
+|upkeep
+|turn|55
+|-message|hi uwvejak forfeited.
+|
+|win|LADDERDRAIN
+|raw|hi uwvejak's rating: 1721 &rarr; <strong>1702</strong><br />(-19 for losing)
+|raw|LADDERDRAIN's rating: 1732 &rarr; <strong>1751</strong><br />(+19 for winning)
+|l|☆hi uwvejak
+|player|p1|

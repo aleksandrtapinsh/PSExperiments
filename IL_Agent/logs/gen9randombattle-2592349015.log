@@ -1,0 +1,417 @@
+|j|☆kahfo
+|j|☆HaveFuuuunBro!!!
+|t:|1776981016
+|gametype|singles
+|player|p1|kahfo|blackbelt-gen4|1137
+|player|p2|HaveFuuuunBro!!!|1|1144
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776981016
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Empoleon|Empoleon, L84, M|278/278
+|switch|p2a: Primarina|Primarina, L83, M|268/268
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by HaveFuuuunBro!!!)
+|
+|t:|1776981034
+|switch|p2a: Hitmonlee|Hitmonlee, L85, M|223/223
+|move|p1a: Empoleon|Stealth Rock|p2a: Hitmonlee
+|-sidestart|p2: HaveFuuuunBro!!!|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1776981045
+|switch|p1a: Altaria|Altaria, L89, M|278/278
+|move|p2a: Hitmonlee|High Jump Kick|p1a: Altaria
+|-resisted|p1a: Altaria
+|-damage|p1a: Altaria|188/278
+|
+|upkeep
+|turn|3
+|
+|t:|1776981057
+|switch|p2a: Primarina|Primarina, L83, M|268/268
+|-damage|p2a: Primarina|235/268|[from] Stealth Rock
+|move|p1a: Altaria|Brave Bird|p2a: Primarina
+|-damage|p2a: Primarina|115/268
+|-damage|p1a: Altaria|148/278|[from] Recoil
+|
+|-heal|p2a: Primarina|131/268|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776981075
+|move|p1a: Altaria|Roost|p1a: Altaria
+|-heal|p1a: Altaria|278/278
+|-singleturn|p1a: Altaria|move: Roost
+|move|p2a: Primarina|Moonblast|p1a: Altaria
+|-supereffective|p1a: Altaria
+|-damage|p1a: Altaria|68/278
+|-unboost|p1a: Altaria|spa|1
+|
+|-heal|p2a: Primarina|147/268|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776981087
+|move|p1a: Altaria|Roost|p1a: Altaria
+|-heal|p1a: Altaria|207/278
+|-singleturn|p1a: Altaria|move: Roost
+|move|p2a: Primarina|Draining Kiss|p1a: Altaria
+|-supereffective|p1a: Altaria
+|-damage|p1a: Altaria|97/278
+|-heal|p2a: Primarina|230/268|[from] drain|[of] p1a: Altaria
+|
+|-heal|p2a: Primarina|246/268|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776981101
+|move|p1a: Altaria|Roost|p1a: Altaria
+|-heal|p1a: Altaria|236/278
+|-singleturn|p1a: Altaria|move: Roost
+|move|p2a: Primarina|Draining Kiss|p1a: Altaria
+|-supereffective|p1a: Altaria
+|-damage|p1a: Altaria|122/278
+|-heal|p2a: Primarina|268/268|[from] drain|[of] p1a: Altaria
+|
+|upkeep
+|turn|7
+|
+|t:|1776981112
+|move|p1a: Altaria|Brave Bird|p2a: Primarina
+|-damage|p2a: Primarina|136/268
+|-damage|p1a: Altaria|78/278|[from] Recoil
+|move|p2a: Primarina|Psychic Noise|p1a: Altaria
+|-resisted|p1a: Altaria
+|-damage|p1a: Altaria|38/278
+|-start|p1a: Altaria|move: Heal Block
+|
+|-heal|p2a: Primarina|152/268|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776981128
+|move|p1a: Altaria|Dragon Dance|p1a: Altaria
+|-boost|p1a: Altaria|atk|1
+|-boost|p1a: Altaria|spe|1
+|move|p2a: Primarina|Draining Kiss|p1a: Altaria
+|-supereffective|p1a: Altaria
+|-damage|p1a: Altaria|0 fnt
+|-heal|p2a: Primarina|181/268|[from] drain|[of] p1a: Altaria
+|faint|p1a: Altaria
+|
+|-heal|p2a: Primarina|197/268|[from] item: Leftovers
+|upkeep
+|
+|t:|1776981136
+|switch|p1a: Venusaur|Venusaur, L84, M|272/272
+|turn|9
+|
+|t:|1776981156
+|move|p1a: Venusaur|Sludge Bomb|p2a: Primarina
+|-supereffective|p2a: Primarina
+|-damage|p2a: Primarina|35/268
+|move|p2a: Primarina|Psychic Noise|p1a: Venusaur
+|-resisted|p1a: Venusaur
+|-damage|p1a: Venusaur|225/272
+|-start|p1a: Venusaur|move: Heal Block
+|
+|-heal|p2a: Primarina|51/268|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1776981170
+|move|p1a: Venusaur|Sludge Bomb|p2a: Primarina
+|-supereffective|p2a: Primarina
+|-damage|p2a: Primarina|0 fnt
+|faint|p2a: Primarina
+|
+|-end|p1a: Venusaur|move: Heal Block
+|upkeep
+|inactive|HaveFuuuunBro!!! has 120 seconds left.
+|
+|t:|1776981191
+|switch|p2a: Tornadus|Tornadus, L82, M|264/264
+|turn|11
+|
+|t:|1776981199
+|switch|p1a: Jolteon|Jolteon, L84, F|246/246
+|move|p2a: Tornadus|Nasty Plot|p2a: Tornadus
+|-boost|p2a: Tornadus|spa|2
+|
+|upkeep
+|turn|12
+|inactive|HaveFuuuunBro!!! has 120 seconds left.
+|
+|t:|1776981227
+|move|p1a: Jolteon|Thunderbolt|p2a: Tornadus
+|-supereffective|p2a: Tornadus
+|-damage|p2a: Tornadus|0 fnt
+|faint|p2a: Tornadus
+|-damage|p1a: Jolteon|222/246|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776981243
+|switch|p2a: Reshiram|Reshiram, L76|277/277
+|-ability|p2a: Reshiram|Turboblaze
+|turn|13
+|
+|t:|1776981261
+|move|p1a: Jolteon|Alluring Voice|p2a: Reshiram
+|-damage|p2a: Reshiram|206/277
+|-damage|p1a: Jolteon|198/246|[from] item: Life Orb
+|move|p2a: Reshiram|Dragon Dance|p2a: Reshiram
+|-boost|p2a: Reshiram|atk|1
+|-boost|p2a: Reshiram|spe|1
+|
+|upkeep
+|turn|14
+|
+|t:|1776981281
+|move|p2a: Reshiram|Stone Edge|p1a: Jolteon
+|-damage|p1a: Jolteon|51/246
+|move|p1a: Jolteon|Alluring Voice|p2a: Reshiram
+|-damage|p2a: Reshiram|135/277
+|-damage|p1a: Jolteon|27/246|[from] item: Life Orb
+|
+|upkeep
+|turn|15
+|
+|t:|1776981300
+|move|p2a: Reshiram|Flare Blitz|p1a: Jolteon
+|-damage|p1a: Jolteon|0 fnt
+|faint|p1a: Jolteon
+|-damage|p2a: Reshiram|126/277|[from] Recoil
+|
+|upkeep
+|inactive|kahfo has 120 seconds left.
+|
+|t:|1776981321
+|switch|p1a: Empoleon|Empoleon, L84, M|278/278
+|turn|16
+|inactive|kahfo has 120 seconds left.
+|
+|t:|1776981331
+|move|p2a: Reshiram|Flare Blitz|p1a: Empoleon
+|-damage|p1a: Empoleon|80/278
+|-damage|p2a: Reshiram|61/277|[from] Recoil
+|move|p1a: Empoleon|Roar|p2a: Reshiram
+|drag|p2a: Hoopa|Hoopa-Unbound, L80|259/259
+|-damage|p2a: Hoopa|227/259|[from] Stealth Rock
+|
+|-heal|p1a: Empoleon|97/278|[from] item: Leftovers
+|upkeep
+|turn|17
+|inactive|kahfo has 120 seconds left.
+|
+|t:|1776981354
+|move|p2a: Hoopa|Drain Punch|p1a: Empoleon
+|-supereffective|p1a: Empoleon
+|-crit|p1a: Empoleon
+|-damage|p1a: Empoleon|0 fnt
+|-heal|p2a: Hoopa|259/259|[from] drain|[of] p1a: Empoleon
+|faint|p1a: Empoleon
+|
+|upkeep
+|c|☆kahfo|.weak Hoopa
+|
+|t:|1776981383
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, L76, F|247/247
+|turn|18
+|
+|t:|1776981401
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Hoopa|[anim] Ivy Cudgel Water
+|-damage|p2a: Hoopa|84/259
+|move|p2a: Hoopa|Drain Punch|p1a: Ogerpon
+|-damage|p1a: Ogerpon|129/247
+|-heal|p2a: Hoopa|143/259|[from] drain|[of] p1a: Ogerpon
+|
+|upkeep
+|turn|19
+|
+|t:|1776981415
+|move|p1a: Ogerpon|Synthesis|p1a: Ogerpon
+|-heal|p1a: Ogerpon|247/247
+|move|p2a: Hoopa|Drain Punch|p1a: Ogerpon
+|-crit|p1a: Ogerpon
+|-damage|p1a: Ogerpon|68/247
+|-heal|p2a: Hoopa|233/259|[from] drain|[of] p1a: Ogerpon
+|
+|upkeep
+|turn|20
+|
+|t:|1776981424
+|move|p1a: Ogerpon|Synthesis|p1a: Ogerpon
+|-heal|p1a: Ogerpon|191/247
+|move|p2a: Hoopa|Drain Punch|p1a: Ogerpon
+|-damage|p1a: Ogerpon|62/247
+|-heal|p2a: Hoopa|259/259|[from] drain|[of] p1a: Ogerpon
+|
+|upkeep
+|turn|21
+|
+|t:|1776981433
+|move|p1a: Ogerpon|Wood Hammer|p2a: Hoopa
+|-damage|p2a: Hoopa|72/259
+|-damage|p1a: Ogerpon|0 fnt|[from] Recoil
+|faint|p1a: Ogerpon
+|move|p2a: Hoopa|Drain Punch|p1: Ogerpon|[notarget]
+|-fail|p2a: Hoopa
+|
+|upkeep
+|
+|t:|1776981445
+|switch|p1a: Venusaur|Venusaur, L84, M|225/272
+|turn|22
+|inactive|HaveFuuuunBro!!! has 120 seconds left.
+|
+|t:|1776981463
+|move|p1a: Venusaur|Sleep Powder|p2a: Hoopa|[miss]
+|-miss|p1a: Venusaur|p2a: Hoopa
+|move|p2a: Hoopa|Drain Punch|p1a: Venusaur
+|-resisted|p1a: Venusaur
+|-damage|p1a: Venusaur|173/272
+|-heal|p2a: Hoopa|98/259|[from] drain|[of] p1a: Venusaur
+|
+|-heal|p1a: Venusaur|190/272|[from] item: Leftovers
+|upkeep
+|turn|23
+|inactive|HaveFuuuunBro!!! has 120 seconds left.
+|
+|t:|1776981476
+|switch|p1a: Lucario|Lucario, L84, M|255/255
+|switch|p2a: Oinkologne|Oinkologne-F, L92, F|361/361
+|-damage|p2a: Oinkologne|316/361|[from] Stealth Rock
+|
+|-heal|p2a: Oinkologne|338/361|[from] item: Leftovers
+|upkeep
+|turn|24
+|inactive|HaveFuuuunBro!!! has 120 seconds left.
+|
+|t:|1776981496
+|-terastallize|p2a: Oinkologne|Poison
+|move|p1a: Lucario|Swords Dance|p1a: Lucario
+|-boost|p1a: Lucario|atk|2
+|move|p2a: Oinkologne|Body Slam|p1a: Lucario
+|-resisted|p1a: Lucario
+|-damage|p1a: Lucario|194/255
+|-status|p1a: Lucario|par
+|
+|-heal|p2a: Oinkologne|360/361|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1776981525
+|move|p2a: Oinkologne|Curse|p2a: Oinkologne
+|-unboost|p2a: Oinkologne|spe|1
+|-boost|p2a: Oinkologne|atk|1
+|-boost|p2a: Oinkologne|def|1
+|move|p1a: Lucario|Meteor Mash|p2a: Oinkologne
+|-damage|p2a: Oinkologne|173/361
+|-damage|p1a: Lucario|169/255 par|[from] item: Life Orb
+|
+|-heal|p2a: Oinkologne|195/361|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1776981539
+|move|p2a: Oinkologne|Curse|p2a: Oinkologne
+|-unboost|p2a: Oinkologne|spe|1
+|-boost|p2a: Oinkologne|atk|1
+|-boost|p2a: Oinkologne|def|1
+|cant|p1a: Lucario|par
+|
+|-heal|p2a: Oinkologne|217/361|[from] item: Leftovers
+|upkeep
+|turn|27
+|inactive|kahfo has 90 seconds left.
+|
+|t:|1776981558
+|move|p1a: Lucario|Extreme Speed|p2a: Oinkologne
+|-damage|p2a: Oinkologne|123/361
+|-damage|p1a: Lucario|144/255 par|[from] item: Life Orb
+|move|p2a: Oinkologne|Curse|p2a: Oinkologne
+|-unboost|p2a: Oinkologne|spe|1
+|-boost|p2a: Oinkologne|atk|1
+|-boost|p2a: Oinkologne|def|1
+|
+|-heal|p2a: Oinkologne|145/361|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1776981569
+|move|p1a: Lucario|Swords Dance|p1a: Lucario
+|-boost|p1a: Lucario|atk|2
+|move|p2a: Oinkologne|Rest|p2a: Oinkologne
+|-status|p2a: Oinkologne|slp|[from] move: Rest
+|-heal|p2a: Oinkologne|361/361 slp|[silent]
+|
+|upkeep
+|turn|29
+|
+|t:|1776981578
+|cant|p1a: Lucario|par
+|cant|p2a: Oinkologne|slp
+|move|p2a: Oinkologne|Sleep Talk|p2a: Oinkologne
+|move|p2a: Oinkologne|Curse|p2a: Oinkologne|[from] move: Sleep Talk
+|-unboost|p2a: Oinkologne|spe|1
+|-boost|p2a: Oinkologne|atk|1
+|-boost|p2a: Oinkologne|def|1
+|
+|upkeep
+|turn|30
+|inactive|HaveFuuuunBro!!! has 120 seconds left.
+|
+|t:|1776981588
+|move|p1a: Lucario|Swords Dance|p1a: Lucario
+|-boost|p1a: Lucario|atk|2
+|cant|p2a: Oinkologne|slp
+|move|p2a: Oinkologne|Sleep Talk|p2a: Oinkologne
+|move|p2a: Oinkologne|Rest||[from] move: Sleep Talk|[still]
+|-fail|p2a: Oinkologne
+|
+|upkeep
+|turn|31
+|inactive|HaveFuuuunBro!!! has 120 seconds left.
+|
+|t:|1776981600
+|move|p1a: Lucario|Meteor Mash|p2a: Oinkologne
+|-damage|p2a: Oinkologne|166/361 slp
+|-damage|p1a: Lucario|119/255 par|[from] item: Life Orb
+|-curestatus|p2a: Oinkologne|slp|[msg]
+|move|p2a: Oinkologne|Body Slam|p1a: Lucario
+|-resisted|p1a: Lucario
+|-damage|p1a: Lucario|0 fnt
+|faint|p1a: Lucario
+|
+|-heal|p2a: Oinkologne|188/361|[from] item: Leftovers
+|upkeep
+|
+|t:|1776981608
+|switch|p1a: Venusaur|Venusaur, L84, M|190/272
+|turn|32
+|
+|t:|1776981617
+|move|p1a: Venusaur|Knock Off|p2a: Oinkologne
+|-damage|p2a: Oinkologne|167/361
+|-enditem|p2a: Oinkologne|Leftovers|[from] move: Knock Off|[of] p1a: Venusaur
+|move|p2a: Oinkologne|Body Slam|p1a: Venusaur
+|-damage|p1a: Venusaur|0 fnt
+|faint|p1a: Venusaur
+|
+|win|HaveFuuuunBro!!!
+|raw|kahfo's rating: 1137 &rarr; <strong>1113</strong><br />(-24 for losing)
+|raw|HaveFuuuunBro!!!'s rating: 1144 &rarr; <strong>1168</strong><br />(+24 for winning)
+|l|☆kahfo
+|player|p1|

@@ -1,0 +1,335 @@
+|j|☆ethan bengivenga
+|j|☆Zachyyyb
+|t:|1776970944
+|gametype|singles
+|player|p1|ethan bengivenga|clerkf|
+|player|p2|Zachyyyb|cyrus|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776970944
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ting-Lu|Ting-Lu, L78|370/370
+|switch|p2a: Garganacl|Garganacl, L80, M|291/291
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|turn|1
+|
+|t:|1776970970
+|-terastallize|p1a: Ting-Lu|Steel
+|move|p1a: Ting-Lu|Heavy Slam|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|201/291
+|move|p2a: Garganacl|Body Press|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|266/370
+|
+|-heal|p1a: Ting-Lu|289/370|[from] item: Leftovers
+|-heal|p2a: Garganacl|219/291|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776970996
+|-terastallize|p2a: Garganacl|Ghost
+|move|p1a: Ting-Lu|Payback|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|139/291
+|move|p2a: Garganacl|Salt Cure|p1a: Ting-Lu
+|-resisted|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|272/370
+|-start|p1a: Ting-Lu|Salt Cure
+|
+|-heal|p1a: Ting-Lu|295/370|[from] item: Leftovers
+|-heal|p2a: Garganacl|157/291|[from] item: Leftovers
+|-damage|p1a: Ting-Lu|203/370|[from] Salt Cure
+|upkeep
+|turn|3
+|
+|t:|1776971028
+|move|p1a: Ting-Lu|Stealth Rock|p2a: Garganacl
+|-sidestart|p2: Zachyyyb|move: Stealth Rock
+|move|p2a: Garganacl|Recover|p2a: Garganacl
+|-heal|p2a: Garganacl|291/291
+|
+|-heal|p1a: Ting-Lu|226/370|[from] item: Leftovers
+|-damage|p1a: Ting-Lu|134/370|[from] Salt Cure
+|upkeep
+|turn|4
+|
+|t:|1776971038
+|move|p1a: Ting-Lu|Payback|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|213/291
+|move|p2a: Garganacl|Body Press|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|28/370
+|
+|-heal|p1a: Ting-Lu|51/370|[from] item: Leftovers
+|-heal|p2a: Garganacl|231/291|[from] item: Leftovers
+|-damage|p1a: Ting-Lu|0 fnt|[from] Salt Cure
+|faint|p1a: Ting-Lu
+|upkeep
+|
+|t:|1776971053
+|switch|p1a: Chandelure|Chandelure, L83, F|235/235
+|turn|5
+|
+|t:|1776971065
+|move|p1a: Chandelure|Shadow Ball|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|115/291
+|move|p2a: Garganacl|Salt Cure|p1a: Chandelure
+|-supereffective|p1a: Chandelure
+|-damage|p1a: Chandelure|155/235
+|-start|p1a: Chandelure|Salt Cure
+|
+|-heal|p2a: Garganacl|133/291|[from] item: Leftovers
+|-damage|p1a: Chandelure|126/235|[from] Salt Cure
+|upkeep
+|turn|6
+|
+|t:|1776971076
+|move|p1a: Chandelure|Shadow Ball|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|13/291
+|move|p2a: Garganacl|Recover|p2a: Garganacl
+|-heal|p2a: Garganacl|159/291
+|
+|-heal|p2a: Garganacl|177/291|[from] item: Leftovers
+|-damage|p1a: Chandelure|97/235|[from] Salt Cure
+|upkeep
+|turn|7
+|
+|t:|1776971088
+|move|p1a: Chandelure|Energy Ball|p2a: Garganacl
+|-damage|p2a: Garganacl|82/291
+|-unboost|p2a: Garganacl|spd|1
+|move|p2a: Garganacl|Recover|p2a: Garganacl
+|-heal|p2a: Garganacl|228/291
+|
+|-heal|p2a: Garganacl|246/291|[from] item: Leftovers
+|-damage|p1a: Chandelure|68/235|[from] Salt Cure
+|upkeep
+|turn|8
+|
+|t:|1776971133
+|move|p1a: Chandelure|Calm Mind|p1a: Chandelure
+|-boost|p1a: Chandelure|spa|1
+|-boost|p1a: Chandelure|spd|1
+|move|p2a: Garganacl|Salt Cure|p1a: Chandelure
+|-supereffective|p1a: Chandelure
+|-damage|p1a: Chandelure|0 fnt
+|faint|p1a: Chandelure
+|
+|-heal|p2a: Garganacl|264/291|[from] item: Leftovers
+|upkeep
+|
+|t:|1776971165
+|switch|p1a: Alcremie|Alcremie-Caramel-Swirl, L90, F|263/263
+|turn|9
+|
+|t:|1776971175
+|move|p1a: Alcremie|Alluring Voice|p2a: Garganacl
+|-damage|p2a: Garganacl|84/291
+|move|p2a: Garganacl|Salt Cure|p1a: Alcremie
+|-damage|p1a: Alcremie|217/263
+|-start|p1a: Alcremie|Salt Cure
+|
+|-heal|p1a: Alcremie|233/263|[from] item: Leftovers
+|-heal|p2a: Garganacl|102/291|[from] item: Leftovers
+|-damage|p1a: Alcremie|201/263|[from] Salt Cure
+|upkeep
+|turn|10
+|
+|t:|1776971194
+|switch|p2a: Muk|Muk, L86, M|321/321
+|-damage|p2a: Muk|281/321|[from] Stealth Rock
+|move|p1a: Alcremie|Recover|p1a: Alcremie
+|-heal|p1a: Alcremie|263/263
+|
+|-damage|p1a: Alcremie|231/263|[from] Salt Cure
+|upkeep
+|turn|11
+|
+|t:|1776971214
+|move|p1a: Alcremie|Calm Mind|p1a: Alcremie
+|-boost|p1a: Alcremie|spa|1
+|-boost|p1a: Alcremie|spd|1
+|move|p2a: Muk|Gunk Shot|p1a: Alcremie|[miss]
+|-miss|p2a: Muk|p1a: Alcremie
+|
+|-heal|p1a: Alcremie|247/263|[from] item: Leftovers
+|-damage|p1a: Alcremie|215/263|[from] Salt Cure
+|upkeep
+|turn|12
+|
+|t:|1776971227
+|move|p1a: Alcremie|Calm Mind|p1a: Alcremie
+|-boost|p1a: Alcremie|spa|1
+|-boost|p1a: Alcremie|spd|1
+|move|p2a: Muk|Gunk Shot|p1a: Alcremie
+|-supereffective|p1a: Alcremie
+|-damage|p1a: Alcremie|0 fnt
+|faint|p1a: Alcremie
+|
+|upkeep
+|c|☆ethan bengivenga|what the actual fuck
+|
+|t:|1776971243
+|switch|p1a: Sudowoodo|Sudowoodo, L94, F|284/284
+|turn|13
+|c|☆ethan bengivenga|is israel on ur side bro
+|
+|t:|1776971266
+|move|p1a: Sudowoodo|Sucker Punch|p2a: Muk
+|-damage|p2a: Muk|184/321
+|move|p2a: Muk|Drain Punch|p1a: Sudowoodo
+|-supereffective|p1a: Sudowoodo
+|-damage|p1a: Sudowoodo|196/284
+|-heal|p2a: Muk|228/321|[from] drain|[of] p1a: Sudowoodo
+|
+|upkeep
+|turn|14
+|
+|t:|1776971283
+|switch|p1a: Quaquaval|Quaquaval, L79, M|264/264
+|move|p2a: Muk|Drain Punch|p1a: Quaquaval
+|-damage|p1a: Quaquaval|194/264
+|-heal|p2a: Muk|263/321|[from] drain|[of] p1a: Quaquaval
+|-status|p1a: Quaquaval|psn|[from] ability: Poison Touch|[of] p2a: Muk
+|
+|-damage|p1a: Quaquaval|161/264 psn|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1776971305
+|move|p1a: Quaquaval|Triple Axel|p2a: Muk
+|-damage|p2a: Muk|241/321
+|-damage|p2a: Muk|202/321
+|-damage|p2a: Muk|140/321
+|-hitcount|p2a: Muk|3
+|-damage|p1a: Quaquaval|135/264 psn|[from] item: Life Orb
+|move|p2a: Muk|Gunk Shot|p1a: Quaquaval
+|-damage|p1a: Quaquaval|0 fnt
+|faint|p1a: Quaquaval
+|
+|upkeep
+|
+|t:|1776971320
+|switch|p1a: Sudowoodo|Sudowoodo, L94, F|196/284
+|turn|16
+|
+|t:|1776971326
+|move|p1a: Sudowoodo|Sucker Punch|p2a: Muk
+|-damage|p2a: Muk|40/321
+|move|p2a: Muk|Drain Punch|p1a: Sudowoodo
+|-supereffective|p1a: Sudowoodo
+|-damage|p1a: Sudowoodo|104/284
+|-heal|p2a: Muk|86/321|[from] drain|[of] p1a: Sudowoodo
+|-status|p1a: Sudowoodo|psn|[from] ability: Poison Touch|[of] p2a: Muk
+|
+|-damage|p1a: Sudowoodo|69/284 psn|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1776971340
+|switch|p2a: Garganacl|Garganacl, L80, M, tera:Ghost|102/291
+|-damage|p2a: Garganacl|66/291|[from] Stealth Rock
+|move|p1a: Sudowoodo|Sucker Punch||[still]
+|-fail|p1a: Sudowoodo
+|
+|-heal|p2a: Garganacl|84/291|[from] item: Leftovers
+|-damage|p1a: Sudowoodo|34/284 psn|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1776971353
+|switch|p1a: Mienshao|Mienshao, L83, F|243/243
+|move|p2a: Garganacl|Recover|p2a: Garganacl
+|-heal|p2a: Garganacl|230/291
+|
+|-heal|p2a: Garganacl|248/291|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1776971367
+|switch|p1a: Sudowoodo|Sudowoodo, L94, F|34/284 psn
+|move|p2a: Garganacl|Body Press|p1a: Sudowoodo
+|-supereffective|p1a: Sudowoodo
+|-crit|p1a: Sudowoodo
+|-damage|p1a: Sudowoodo|0 fnt
+|faint|p1a: Sudowoodo
+|
+|-heal|p2a: Garganacl|266/291|[from] item: Leftovers
+|upkeep
+|
+|t:|1776971379
+|switch|p1a: Mienshao|Mienshao, L83, F|243/243
+|turn|20
+|
+|t:|1776971386
+|move|p1a: Mienshao|Knock Off|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|70/291
+|-enditem|p2a: Garganacl|Leftovers|[from] move: Knock Off|[of] p1a: Mienshao
+|move|p2a: Garganacl|Body Press|p1a: Mienshao
+|-damage|p1a: Mienshao|162/243
+|
+|upkeep
+|turn|21
+|
+|t:|1776971398
+|switch|p2a: Raichu|Raichu-Alola, L87, F|246/246
+|-damage|p2a: Raichu|216/246|[from] Stealth Rock
+|move|p1a: Mienshao|Knock Off|p2a: Raichu
+|-supereffective|p2a: Raichu
+|-damage|p2a: Raichu|0 fnt
+|-enditem|p2a: Raichu|Choice Specs|[from] move: Knock Off|[of] p1a: Mienshao
+|faint|p2a: Raichu
+|
+|upkeep
+|
+|t:|1776971411
+|switch|p2a: Vaporeon|Vaporeon, L86, M|364/364
+|-damage|p2a: Vaporeon|319/364|[from] Stealth Rock
+|turn|22
+|
+|t:|1776971421
+|move|p1a: Mienshao|Knock Off|p2a: Vaporeon
+|-damage|p2a: Vaporeon|166/364
+|-enditem|p2a: Vaporeon|Leftovers|[from] move: Knock Off|[of] p1a: Mienshao
+|move|p2a: Vaporeon|Scald|p1a: Mienshao
+|-damage|p1a: Mienshao|32/243
+|-status|p1a: Mienshao|brn
+|
+|-damage|p1a: Mienshao|17/243 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1776971432
+|move|p2a: Vaporeon|Protect|p2a: Vaporeon
+|-singleturn|p2a: Vaporeon|Protect
+|move|p1a: Mienshao|Knock Off|p2a: Vaporeon
+|-activate|p2a: Vaporeon|move: Protect
+|
+|-damage|p1a: Mienshao|2/243 brn|[from] brn
+|upkeep
+|turn|24
+|c|☆ethan bengivenga|rest in peaaaace
+|c|☆ethan bengivenga|stalemate
+|
+|t:|1776971460
+|move|p2a: Vaporeon|Protect||[still]
+|-fail|p2a: Vaporeon
+|move|p1a: Mienshao|Knock Off|p2a: Vaporeon
+|-damage|p2a: Vaporeon|110/364
+|
+|-damage|p1a: Mienshao|0 fnt|[from] brn
+|faint|p1a: Mienshao
+|
+|win|Zachyyyb

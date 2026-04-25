@@ -1,0 +1,136 @@
+|j|‽Leruto
+|j|☆Fatorangecat
+|t:|1776972527
+|gametype|singles
+|player|p1|Leruto|2|1066
+|player|p2|Fatorangecat|swimmer-gen4|1073
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776972527
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Skarmory|Skarmory, L80, M|235/235
+|switch|p2a: Bastiodon|Bastiodon, L89, F|252/252
+|turn|1
+|
+|t:|1776972548
+|switch|p1a: Whimsicott|Whimsicott, L84, M|238/238
+|move|p2a: Bastiodon|Iron Defense|p2a: Bastiodon
+|-boost|p2a: Bastiodon|def|2
+|
+|upkeep
+|turn|2
+|
+|t:|1776972564
+|-terastallize|p1a: Whimsicott|Steel
+|move|p1a: Whimsicott|Giga Drain|p2a: Bastiodon
+|-damage|p2a: Bastiodon|206/252
+|move|p2a: Bastiodon|Body Press|p1a: Whimsicott
+|-supereffective|p1a: Whimsicott
+|-damage|p1a: Whimsicott|0 fnt
+|faint|p1a: Whimsicott
+|
+|upkeep
+|
+|t:|1776972578
+|switch|p1a: Scrafty|Scrafty, L83, F|244/244
+|turn|3
+|
+|t:|1776972593
+|-terastallize|p2a: Bastiodon|Fighting
+|move|p1a: Scrafty|Knock Off|p2a: Bastiodon
+|-resisted|p2a: Bastiodon
+|-damage|p2a: Bastiodon|192/252
+|-enditem|p2a: Bastiodon|Chesto Berry|[from] move: Knock Off|[of] p1a: Scrafty
+|move|p2a: Bastiodon|Body Press|p1a: Scrafty
+|-supereffective|p1a: Scrafty
+|-damage|p1a: Scrafty|0 fnt
+|faint|p1a: Scrafty
+|
+|upkeep
+|
+|t:|1776972606
+|switch|p1a: Hitmontop|Hitmontop, L88, M|231/231
+|-ability|p1a: Hitmontop|Intimidate|boost
+|-unboost|p2a: Bastiodon|atk|1
+|turn|4
+|
+|t:|1776972615
+|move|p1a: Hitmontop|Close Combat|p2a: Bastiodon
+|-damage|p2a: Bastiodon|155/252
+|-unboost|p1a: Hitmontop|def|1
+|-unboost|p1a: Hitmontop|spd|1
+|move|p2a: Bastiodon|Body Press|p1a: Hitmontop
+|-damage|p1a: Hitmontop|0 fnt
+|faint|p1a: Hitmontop
+|
+|upkeep
+|
+|t:|1776972628
+|switch|p1a: Samurott|Samurott-Hisui, L77, F|265/265
+|turn|5
+|
+|t:|1776972635
+|move|p1a: Samurott|Ceaseless Edge|p2a: Bastiodon
+|-resisted|p2a: Bastiodon
+|-damage|p2a: Bastiodon|138/252
+|-sidestart|p2: Fatorangecat|Spikes
+|-damage|p1a: Samurott|239/265|[from] item: Life Orb
+|move|p2a: Bastiodon|Body Press|p1a: Samurott
+|-supereffective|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|faint|p1a: Samurott
+|
+|upkeep
+|
+|t:|1776972647
+|switch|p1a: Toucannon|Toucannon, L88, M|284/284
+|turn|6
+|
+|t:|1776972655
+|-singleturn|p1a: Toucannon|move: Beak Blast
+|move|p2a: Bastiodon|Iron Defense|p2a: Bastiodon
+|-boost|p2a: Bastiodon|def|2
+|move|p1a: Toucannon|Beak Blast|p2a: Bastiodon
+|-supereffective|p2a: Bastiodon
+|-damage|p2a: Bastiodon|84/252
+|
+|upkeep
+|turn|7
+|
+|t:|1776972667
+|move|p1a: Toucannon|Boomburst|p2a: Bastiodon
+|-immune|p2a: Bastiodon|[from] ability: Soundproof
+|move|p2a: Bastiodon|Body Press|p1a: Toucannon
+|-damage|p1a: Toucannon|0 fnt
+|faint|p1a: Toucannon
+|
+|upkeep
+|
+|t:|1776972675
+|switch|p1a: Skarmory|Skarmory, L80, M|235/235
+|turn|8
+|
+|t:|1776972680
+|move|p1a: Skarmory|Brave Bird|p2a: Bastiodon
+|-supereffective|p2a: Bastiodon
+|-damage|p2a: Bastiodon|46/252
+|-damage|p1a: Skarmory|222/235|[from] Recoil
+|move|p2a: Bastiodon|Body Press|p1a: Skarmory
+|-damage|p1a: Skarmory|0 fnt
+|-damage|p2a: Bastiodon|4/252|[from] item: Rocky Helmet|[of] p1a: Skarmory
+|faint|p1a: Skarmory
+|
+|win|Fatorangecat
+|raw|Leruto's rating: 1066 &rarr; <strong>1047</strong><br />(-19 for losing)
+|raw|Fatorangecat's rating: 1073 &rarr; <strong>1101</strong><br />(+28 for winning)
+|c|☆Fatorangecat|lol gg
+|l|‽Leruto
+|player|p1|

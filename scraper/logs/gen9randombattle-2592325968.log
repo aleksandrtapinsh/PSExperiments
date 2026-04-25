@@ -1,0 +1,254 @@
+|j|☆big_booty_boy
+|j|☆sundyx
+|t:|1776979058
+|gametype|singles
+|player|p1|big_booty_boy|102|1396
+|player|p2|sundyx|266|1424
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776979058
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Cetitan|Cetitan, L82, M|412/412
+|switch|p2a: Gogoat|Gogoat, L88, F|360/360
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by sundyx)
+|
+|t:|1776979084
+|switch|p2a: Carbink|Carbink, L90|236/236
+|move|p1a: Cetitan|Belly Drum|p1a: Cetitan
+|-damage|p1a: Cetitan|206/412
+|-setboost|p1a: Cetitan|atk|6|[from] move: Belly Drum
+|-enditem|p1a: Cetitan|Sitrus Berry|[eat]
+|-heal|p1a: Cetitan|309/412|[from] item: Sitrus Berry
+|
+|upkeep
+|turn|2
+|
+|t:|1776979113
+|-terastallize|p2a: Carbink|Fighting
+|move|p1a: Cetitan|Earthquake|p2a: Carbink
+|-damage|p2a: Carbink|60/236
+|move|p2a: Carbink|Body Press|p1a: Cetitan
+|-supereffective|p1a: Cetitan
+|-damage|p1a: Cetitan|0 fnt
+|faint|p1a: Cetitan
+|
+|-heal|p2a: Carbink|74/236|[from] item: Leftovers
+|upkeep
+|inactive|big_booty_boy has 120 seconds left.
+|
+|t:|1776979151
+|switch|p1a: Eternatus|Eternatus, L69|308/308
+|-ability|p1a: Eternatus|Pressure
+|turn|3
+|
+|t:|1776979161
+|move|p1a: Eternatus|Sludge Bomb|p2a: Carbink
+|-damage|p2a: Carbink|19/236
+|move|p2a: Carbink|Moonblast|p1a: Eternatus
+|-damage|p1a: Eternatus|220/308
+|-unboost|p1a: Eternatus|spa|1
+|
+|-heal|p1a: Eternatus|239/308|[from] item: Leftovers
+|-heal|p2a: Carbink|33/236|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776979173
+|move|p1a: Eternatus|Sludge Bomb|p2a: Carbink
+|-damage|p2a: Carbink|0 fnt
+|faint|p2a: Carbink
+|
+|-heal|p1a: Eternatus|258/308|[from] item: Leftovers
+|upkeep
+|
+|t:|1776979181
+|switch|p2a: Seviper|Seviper, L93, F|287/287
+|turn|5
+|inactive|big_booty_boy has 90 seconds left.
+|
+|t:|1776979229
+|move|p2a: Seviper|Switcheroo|p1a: Eternatus
+|-activate|p2a: Seviper|move: Trick|[of] p1a: Eternatus
+|-item|p1a: Eternatus|Choice Scarf|[from] move: Switcheroo
+|-item|p2a: Seviper|Leftovers|[from] move: Switcheroo
+|move|p1a: Eternatus|Dynamax Cannon|p2a: Seviper
+|-damage|p2a: Seviper|200/287
+|
+|-heal|p2a: Seviper|217/287|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776979243
+|move|p1a: Eternatus|Dynamax Cannon|p2a: Seviper
+|-damage|p2a: Seviper|136/287
+|move|p2a: Seviper|Earthquake|p1a: Eternatus
+|-supereffective|p1a: Eternatus
+|-damage|p1a: Eternatus|62/308
+|
+|-heal|p2a: Seviper|153/287|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776979257
+|switch|p2a: Wigglytuff|Wigglytuff, L96, M|424/424
+|move|p1a: Eternatus|Dynamax Cannon|p2a: Wigglytuff
+|-immune|p2a: Wigglytuff
+|
+|upkeep
+|turn|8
+|inactive|big_booty_boy has 90 seconds left.
+|
+|t:|1776979273
+|switch|p1a: Bellossom|Bellossom, L84, M|263/263
+|move|p2a: Wigglytuff|Thunder Wave|p1a: Bellossom
+|-status|p1a: Bellossom|par
+|
+|upkeep
+|turn|9
+|
+|t:|1776979281
+|move|p2a: Wigglytuff|Fire Blast|p1a: Bellossom
+|-supereffective|p1a: Bellossom
+|-damage|p1a: Bellossom|89/263 par
+|move|p1a: Bellossom|Strength Sap|p2a: Wigglytuff
+|-unboost|p2a: Wigglytuff|atk|1
+|-ability|p2a: Wigglytuff|Competitive|boost
+|-boost|p2a: Wigglytuff|spa|2
+|-heal|p1a: Bellossom|263/263 par
+|
+|upkeep
+|turn|10
+|inactive|big_booty_boy has 90 seconds left.
+|inactive|big_booty_boy has 60 seconds left.
+|c|☆sundyx|zz
+|inactive|big_booty_boy has 30 seconds left.
+|inactive|big_booty_boy has 20 seconds left.
+|inactive|big_booty_boy has 15 seconds left.
+|inactive|big_booty_boy has 10 seconds left.
+|n|!sundyx|sundyx
+|
+|t:|1776979370
+|move|p2a: Wigglytuff|Fire Blast|p1a: Bellossom
+|-supereffective|p1a: Bellossom
+|-damage|p1a: Bellossom|0 fnt
+|faint|p1a: Bellossom
+|
+|upkeep
+|inactive|big_booty_boy has 15 seconds left this turn.
+|
+|t:|1776979374
+|switch|p1a: Crawdaunt|Crawdaunt, L84, F|243/243
+|turn|11
+|inactive|big_booty_boy has 25 seconds left this turn.
+|inactive|big_booty_boy has 20 seconds left.
+|
+|t:|1776979383
+|move|p2a: Wigglytuff|Alluring Voice|p1a: Crawdaunt
+|-supereffective|p1a: Crawdaunt
+|-damage|p1a: Crawdaunt|0 fnt
+|faint|p1a: Crawdaunt
+|
+|upkeep
+|inactive|big_booty_boy has 25 seconds left this turn.
+|inactive|big_booty_boy has 20 seconds left.
+|
+|t:|1776979388
+|switch|p1a: Haxorus|Haxorus, L77, F|244/244
+|-ability|p1a: Haxorus|Mold Breaker
+|turn|12
+|inactive|big_booty_boy has 30 seconds left this turn.
+|
+|t:|1776979395
+|-terastallize|p1a: Haxorus|Steel
+|move|p1a: Haxorus|Dragon Dance|p1a: Haxorus
+|-boost|p1a: Haxorus|atk|1
+|-boost|p1a: Haxorus|spe|1
+|move|p2a: Wigglytuff|Alluring Voice|p1a: Haxorus
+|-resisted|p1a: Haxorus
+|-damage|p1a: Haxorus|117/244
+|-start|p1a: Haxorus|confusion
+|-enditem|p1a: Haxorus|Lum Berry|[eat]
+|-end|p1a: Haxorus|confusion
+|
+|upkeep
+|turn|13
+|
+|t:|1776979406
+|move|p1a: Haxorus|Iron Head|p2a: Wigglytuff
+|-supereffective|p2a: Wigglytuff
+|-damage|p2a: Wigglytuff|32/424
+|move|p2a: Wigglytuff|Fire Blast|p1a: Haxorus
+|-supereffective|p1a: Haxorus
+|-damage|p1a: Haxorus|0 fnt
+|faint|p1a: Haxorus
+|
+|-heal|p2a: Wigglytuff|58/424|[from] item: Leftovers
+|upkeep
+|inactive|big_booty_boy has 30 seconds left.
+|inactive|big_booty_boy has 20 seconds left.
+|
+|t:|1776979430
+|switch|p1a: Eternatus|Eternatus, L69|62/308
+|-ability|p1a: Eternatus|Pressure
+|turn|14
+|inactive|big_booty_boy has 30 seconds left this turn.
+|
+|t:|1776979435
+|move|p1a: Eternatus|Dynamax Cannon|p2a: Wigglytuff
+|-immune|p2a: Wigglytuff
+|move|p2a: Wigglytuff|Alluring Voice|p1a: Eternatus
+|-damage|p1a: Eternatus|0 fnt
+|faint|p1a: Eternatus
+|
+|-heal|p2a: Wigglytuff|84/424|[from] item: Leftovers
+|upkeep
+|inactive|big_booty_boy has 30 seconds left this turn.
+|
+|t:|1776979438
+|switch|p1a: Morpeko|Morpeko, L88, F|245/245
+|turn|15
+|
+|t:|1776979447
+|move|p1a: Morpeko|Aura Wheel|p2a: Wigglytuff
+|-damage|p2a: Wigglytuff|0 fnt
+|-boost|p1a: Morpeko|spe|1
+|faint|p2a: Wigglytuff
+|
+|-formechange|p1a: Morpeko|Morpeko-Hangry||[from] ability: Hunger Switch
+|upkeep
+|
+|t:|1776979464
+|switch|p2a: Rampardos|Rampardos, L90, F|321/321
+|turn|16
+|
+|t:|1776979478
+|move|p1a: Morpeko|Parting Shot|p2a: Rampardos
+|-unboost|p2a: Rampardos|atk|1
+|-unboost|p2a: Rampardos|spa|1
+|move|p2a: Rampardos|Earthquake|p1a: Morpeko
+|-supereffective|p1a: Morpeko
+|-damage|p1a: Morpeko|19/245
+|
+|-formechange|p1a: Morpeko|Morpeko||[from] ability: Hunger Switch
+|upkeep
+|turn|17
+|
+|t:|1776979487
+|move|p1a: Morpeko|Aura Wheel|p2a: Rampardos
+|-damage|p2a: Rampardos|152/321
+|-boost|p1a: Morpeko|spe|1
+|move|p2a: Rampardos|Earthquake|p1a: Morpeko
+|-supereffective|p1a: Morpeko
+|-damage|p1a: Morpeko|0 fnt
+|faint|p1a: Morpeko
+|
+|win|sundyx

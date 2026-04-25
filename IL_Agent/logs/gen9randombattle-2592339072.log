@@ -1,0 +1,190 @@
+|j|☆vfbdfbvcgfnvbngn
+|j|☆Spondooli jones
+|t:|1776980157
+|gametype|singles
+|player|p1|vfbdfbvcgfnvbngn|102|1245
+|player|p2|Spondooli jones|169|1225
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776980157
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Pawmot|Pawmot, L80, M|243/243
+|switch|p2a: Porygon-Z|Porygon-Z, L83|277/277
+|-ability|p2a: Porygon-Z|Download|boost
+|-boost|p2a: Porygon-Z|spa|1
+|turn|1
+|
+|t:|1776980173
+|move|p2a: Porygon-Z|Tri Attack|p1a: Pawmot
+|-damage|p1a: Pawmot|14/243
+|move|p1a: Pawmot|Close Combat|p2a: Porygon-Z
+|-supereffective|p2a: Porygon-Z
+|-damage|p2a: Porygon-Z|0 fnt
+|-unboost|p1a: Pawmot|def|1
+|-unboost|p1a: Pawmot|spd|1
+|faint|p2a: Porygon-Z
+|-damage|p1a: Pawmot|0 fnt|[from] item: Life Orb
+|faint|p1a: Pawmot
+|
+|upkeep
+|
+|t:|1776980182
+|switch|p1a: Grumpig|Grumpig, L92, M|297/297
+|switch|p2a: Volcarona|Volcarona, L77, F|257/257
+|turn|2
+|
+|t:|1776980188
+|move|p1a: Grumpig|Trick|p2a: Volcarona
+|-activate|p1a: Grumpig|move: Trick|[of] p2a: Volcarona
+|-item|p2a: Volcarona|Choice Scarf|[from] move: Trick
+|-item|p1a: Grumpig|Heavy-Duty Boots|[from] move: Trick
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|
+|upkeep
+|turn|3
+|
+|t:|1776980193
+|switch|p2a: Bronzong|Bronzong, L88|261/261
+|move|p1a: Grumpig|Psychic|p2a: Bronzong
+|-resisted|p2a: Bronzong
+|-damage|p2a: Bronzong|241/261
+|
+|-heal|p2a: Bronzong|257/261|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776980201
+|switch|p1a: Drifblim|Drifblim, L86, M|396/396
+|move|p2a: Bronzong|Stealth Rock|p1a: Drifblim
+|-sidestart|p1: vfbdfbvcgfnvbngn|move: Stealth Rock
+|
+|-heal|p2a: Bronzong|261/261|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776980210
+|move|p1a: Drifblim|Calm Mind|p1a: Drifblim
+|-boost|p1a: Drifblim|spa|1
+|-boost|p1a: Drifblim|spd|1
+|move|p2a: Bronzong|Hypnosis|p1a: Drifblim
+|-status|p1a: Drifblim|slp|[from] move: Hypnosis
+|
+|upkeep
+|turn|6
+|
+|t:|1776980214
+|cant|p1a: Drifblim|slp
+|move|p2a: Bronzong|Psychic Noise|p1a: Drifblim
+|-damage|p1a: Drifblim|329/396 slp
+|-start|p1a: Drifblim|move: Heal Block
+|
+|upkeep
+|turn|7
+|
+|t:|1776980226
+|switch|p2a: Magcargo|Magcargo, L95, M|268/268
+|cant|p1a: Drifblim|slp
+|
+|-end|p1a: Drifblim|move: Heal Block
+|upkeep
+|turn|8
+|
+|t:|1776980233
+|-terastallize|p1a: Drifblim|Ghost
+|cant|p1a: Drifblim|slp
+|move|p2a: Magcargo|Power Gem|p1a: Drifblim
+|-damage|p1a: Drifblim|235/396 slp
+|
+|upkeep
+|turn|9
+|
+|t:|1776980241
+|-curestatus|p1a: Drifblim|slp|[msg]
+|move|p1a: Drifblim|Shadow Ball|p2a: Magcargo
+|-damage|p2a: Magcargo|106/268
+|move|p2a: Magcargo|Yawn|p1a: Drifblim
+|-start|p1a: Drifblim|move: Yawn|[of] p2a: Magcargo
+|
+|upkeep
+|turn|10
+|
+|t:|1776980244
+|move|p1a: Drifblim|Shadow Ball|p2a: Magcargo
+|-damage|p2a: Magcargo|0 fnt
+|faint|p2a: Magcargo
+|
+|-end|p1a: Drifblim|move: Yawn|[silent]
+|-status|p1a: Drifblim|slp
+|upkeep
+|
+|t:|1776980249
+|switch|p2a: Jolteon|Jolteon, L84, M|246/246
+|turn|11
+|
+|t:|1776980256
+|move|p2a: Jolteon|Shadow Ball|p1a: Drifblim
+|-supereffective|p1a: Drifblim
+|-damage|p1a: Drifblim|77/396 slp
+|-enditem|p1a: Drifblim|Sitrus Berry|[eat]
+|-heal|p1a: Drifblim|176/396 slp|[from] item: Sitrus Berry
+|cant|p1a: Drifblim|slp
+|
+|upkeep
+|turn|12
+|
+|t:|1776980262
+|-curestatus|p1a: Drifblim|slp|[msg]
+|move|p1a: Drifblim|Shadow Ball|p2a: Jolteon
+|-damage|p2a: Jolteon|90/246
+|move|p2a: Jolteon|Shadow Ball|p1a: Drifblim
+|-supereffective|p1a: Drifblim
+|-damage|p1a: Drifblim|2/396
+|
+|upkeep
+|turn|13
+|
+|t:|1776980264
+|move|p1a: Drifblim|Shadow Ball|p2a: Jolteon
+|-damage|p2a: Jolteon|0 fnt
+|faint|p2a: Jolteon
+|
+|upkeep
+|
+|t:|1776980267
+|switch|p2a: Volcarona|Volcarona, L77, F|257/257
+|turn|14
+|
+|t:|1776980272
+|move|p1a: Drifblim|Air Slash|p2a: Volcarona
+|-supereffective|p2a: Volcarona
+|-damage|p2a: Volcarona|27/257
+|move|p2a: Volcarona|Fire Blast|p1a: Drifblim|[miss]
+|-miss|p2a: Volcarona|p1a: Drifblim
+|
+|upkeep
+|turn|15
+|
+|t:|1776980275
+|move|p1a: Drifblim|Shadow Ball|p2a: Volcarona
+|-damage|p2a: Volcarona|0 fnt
+|faint|p2a: Volcarona
+|
+|upkeep
+|-message|Spondooli jones forfeited.
+|
+|win|vfbdfbvcgfnvbngn
+|raw|vfbdfbvcgfnvbngn's rating: 1245 &rarr; <strong>1269</strong><br />(+24 for winning)
+|raw|Spondooli jones's rating: 1225 &rarr; <strong>1201</strong><br />(-24 for losing)
+|l|☆Spondooli jones
+|player|p2|

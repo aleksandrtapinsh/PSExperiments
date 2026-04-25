@@ -1,0 +1,240 @@
+|j|☆TinyQoq
+|j|☆Acetrainerliam89
+|t:|1776978383
+|gametype|singles
+|player|p1|TinyQoq|266|1355
+|player|p2|Acetrainerliam89|169|1316
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776978383
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Banette|Banette, L93, M|270/270
+|switch|p2a: Ludicolo|Ludicolo, L90, M|290/290
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Acetrainerliam89)
+|
+|t:|1776978398
+|move|p2a: Ludicolo|Leaf Storm|p1a: Banette
+|-damage|p1a: Banette|21/270
+|-unboost|p2a: Ludicolo|spa|2
+|-start|p2a: Ludicolo|Disable|Leaf Storm|[from] ability: Cursed Body|[of] p1a: Banette
+|move|p1a: Banette|Swords Dance|p1a: Banette
+|-boost|p1a: Banette|atk|2
+|
+|upkeep
+|turn|2
+|
+|t:|1776978410
+|-activate|p2a: Ludicolo|move: Struggle
+|move|p2a: Ludicolo|Struggle|p1a: Banette
+|-damage|p1a: Banette|0 fnt
+|faint|p1a: Banette
+|-damage|p2a: Ludicolo|217/290|[from] recoil
+|
+|upkeep
+|
+|t:|1776978428
+|switch|p1a: Falinks|Falinks, L84|246/246
+|turn|3
+|
+|t:|1776978444
+|switch|p2a: Latios|Latios, L78, M|253/253
+|move|p1a: Falinks|No Retreat|p1a: Falinks
+|-boost|p1a: Falinks|atk|1
+|-boost|p1a: Falinks|def|1
+|-boost|p1a: Falinks|spa|1
+|-boost|p1a: Falinks|spd|1
+|-boost|p1a: Falinks|spe|1
+|-start|p1a: Falinks|move: No Retreat
+|
+|upkeep
+|turn|4
+|
+|t:|1776978454
+|move|p1a: Falinks|Knock Off|p2a: Latios
+|-supereffective|p2a: Latios
+|-damage|p2a: Latios|0 fnt
+|-enditem|p2a: Latios|Soul Dew|[from] move: Knock Off|[of] p1a: Falinks
+|faint|p2a: Latios
+|-damage|p1a: Falinks|222/246|[from] item: Life Orb
+|
+|upkeep
+|inactive|Acetrainerliam89 has 120 seconds left.
+|
+|t:|1776978479
+|switch|p2a: Iron Hands|Iron Hands, L79|373/373
+|turn|5
+|
+|t:|1776978493
+|move|p1a: Falinks|Knock Off|p2a: Iron Hands
+|-resisted|p2a: Iron Hands
+|-crit|p2a: Iron Hands
+|-damage|p2a: Iron Hands|274/373
+|-enditem|p2a: Iron Hands|Leftovers|[from] move: Knock Off|[of] p1a: Falinks
+|-damage|p1a: Falinks|198/246|[from] item: Life Orb
+|move|p2a: Iron Hands|Wild Charge|p1a: Falinks
+|-damage|p1a: Falinks|126/246
+|-damage|p2a: Iron Hands|256/373|[from] Recoil
+|
+|upkeep
+|turn|6
+|
+|t:|1776978509
+|move|p1a: Falinks|Close Combat|p2a: Iron Hands
+|-damage|p2a: Iron Hands|25/373
+|-unboost|p1a: Falinks|def|1
+|-unboost|p1a: Falinks|spd|1
+|-damage|p1a: Falinks|102/246|[from] item: Life Orb
+|move|p2a: Iron Hands|Wild Charge|p1a: Falinks
+|-damage|p1a: Falinks|0 fnt
+|faint|p1a: Falinks
+|-damage|p2a: Iron Hands|0 fnt|[from] Recoil
+|faint|p2a: Iron Hands
+|-end|p2a: Iron Hands|Quark Drive|[silent]
+|
+|upkeep
+|inactive|Acetrainerliam89 has 120 seconds left.
+|
+|t:|1776978527
+|switch|p1a: Copperajah|Copperajah, L86, M|350/350
+|switch|p2a: Ludicolo|Ludicolo, L90, M|217/290
+|turn|7
+|inactive|Acetrainerliam89 has 120 seconds left.
+|
+|t:|1776978537
+|move|p2a: Ludicolo|Hydro Pump|p1a: Copperajah
+|-damage|p1a: Copperajah|140/350
+|move|p1a: Copperajah|Stealth Rock|p2a: Ludicolo
+|-sidestart|p2: Acetrainerliam89|move: Stealth Rock
+|
+|upkeep
+|turn|8
+|inactive|TinyQoq has 120 seconds left.
+|
+|t:|1776978585
+|switch|p1a: Qwilfish|Qwilfish, L86, F|252/252
+|-ability|p1a: Qwilfish|Intimidate|boost
+|-unboost|p2a: Ludicolo|atk|1
+|move|p2a: Ludicolo|Hydro Pump|p1a: Qwilfish
+|-resisted|p1a: Qwilfish
+|-damage|p1a: Qwilfish|118/252
+|
+|upkeep
+|turn|9
+|
+|t:|1776978598
+|move|p1a: Qwilfish|Pain Split|p2a: Ludicolo
+|-sethp|p2a: Ludicolo|167/290|[from] move: Pain Split|[silent]
+|-sethp|p1a: Qwilfish|167/252|[from] move: Pain Split
+|move|p2a: Ludicolo|Hydro Pump|p1a: Qwilfish|[miss]
+|-miss|p2a: Ludicolo|p1a: Qwilfish
+|
+|upkeep
+|turn|10
+|
+|t:|1776978609
+|switch|p2a: Eelektross|Eelektross, L87, F|290/290
+|-damage|p2a: Eelektross|254/290|[from] Stealth Rock
+|move|p1a: Qwilfish|Toxic Spikes|p2a: Eelektross
+|-sidestart|p2: Acetrainerliam89|move: Toxic Spikes
+|
+|upkeep
+|turn|11
+|
+|t:|1776978624
+|move|p1a: Qwilfish|Pain Split|p2a: Eelektross
+|-sethp|p2a: Eelektross|210/290|[from] move: Pain Split|[silent]
+|-sethp|p1a: Qwilfish|210/252|[from] move: Pain Split
+|move|p2a: Eelektross|Discharge|p1a: Qwilfish
+|-supereffective|p1a: Qwilfish
+|-damage|p1a: Qwilfish|0 fnt
+|faint|p1a: Qwilfish
+|
+|upkeep
+|
+|t:|1776978636
+|switch|p1a: Copperajah|Copperajah, L86, M|140/350
+|turn|12
+|
+|t:|1776978647
+|move|p2a: Eelektross|Flamethrower|p1a: Copperajah
+|-supereffective|p1a: Copperajah
+|-damage|p1a: Copperajah|0 fnt
+|faint|p1a: Copperajah
+|
+|upkeep
+|inactive|TinyQoq has 90 seconds left.
+|
+|t:|1776978675
+|switch|p1a: Lugia|Lugia, L73|275/275
+|turn|13
+|inactive|TinyQoq has 90 seconds left.
+|
+|t:|1776978685
+|move|p1a: Lugia|Calm Mind|p1a: Lugia
+|-boost|p1a: Lugia|spa|1
+|-boost|p1a: Lugia|spd|1
+|move|p2a: Eelektross|Discharge|p1a: Lugia
+|-supereffective|p1a: Lugia
+|-damage|p1a: Lugia|227/275
+|-status|p1a: Lugia|par
+|
+|upkeep
+|turn|14
+|
+|t:|1776978694
+|move|p1a: Lugia|Calm Mind|p1a: Lugia
+|-boost|p1a: Lugia|spa|1
+|-boost|p1a: Lugia|spd|1
+|move|p2a: Eelektross|Dragon Tail|p1a: Lugia
+|-damage|p1a: Lugia|182/275 par
+|drag|p1a: Arbok|Arbok, L87, F|246/246
+|-ability|p1a: Arbok|Intimidate|boost
+|-unboost|p2a: Eelektross|atk|1
+|
+|upkeep
+|turn|15
+|
+|t:|1776978711
+|move|p1a: Arbok|Coil|p1a: Arbok
+|-boost|p1a: Arbok|atk|1
+|-boost|p1a: Arbok|def|1
+|-boost|p1a: Arbok|accuracy|1
+|move|p2a: Eelektross|Dragon Tail|p1a: Arbok
+|-damage|p1a: Arbok|219/246
+|drag|p1a: Lugia|Lugia, L73|182/275 par
+|
+|upkeep
+|turn|16
+|
+|t:|1776978720
+|move|p2a: Eelektross|Discharge|p1a: Lugia
+|-supereffective|p1a: Lugia
+|-damage|p1a: Lugia|32/275 par
+|move|p1a: Lugia|Psychic Noise|p2a: Eelektross
+|-damage|p2a: Eelektross|167/290
+|-start|p2a: Eelektross|move: Heal Block
+|
+|upkeep
+|turn|17
+|l|☆TinyQoq
+|inactive|TinyQoq disconnected and has a minute to reconnect!
+|player|p1|
+|inactive|TinyQoq has 30 seconds to reconnect!
+|inactive|TinyQoq has 20 seconds to reconnect!
+|inactive|TinyQoq has 15 seconds to reconnect!
+|inactive|TinyQoq has 10 seconds to reconnect!
+|inactive|TinyQoq has 5 seconds to reconnect!
+|-message|TinyQoq lost due to inactivity.
+|
+|win|Acetrainerliam89
+|raw|TinyQoq's rating: 1355 &rarr; <strong>1333</strong><br />(-22 for losing)
+|raw|Acetrainerliam89's rating: 1316 &rarr; <strong>1338</strong><br />(+22 for winning)

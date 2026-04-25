@@ -1,0 +1,294 @@
+|j|☆fend09
+|j|☆mr1123
+|t:|1776970093
+|gametype|singles
+|player|p1|fend09|crasherwake|1180
+|player|p2|mr1123|veteran|1213
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776970093
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Hatterene|Hatterene, L85, F|236/236
+|switch|p2a: Reshiram|Reshiram, L76|277/277
+|-ability|p2a: Reshiram|Turboblaze
+|turn|1
+|c|☆mr1123|I did not know I hit battle
+|c|☆fend09|what
+|
+|t:|1776970125
+|switch|p2a: Bastiodon|Bastiodon, L89, M|252/252
+|move|p1a: Hatterene|Calm Mind|p1a: Hatterene
+|-boost|p1a: Hatterene|spa|1
+|-boost|p1a: Hatterene|spd|1
+|
+|upkeep
+|turn|2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by fend09)
+|c|☆mr1123|Was trying to type out something different know I fat fingered and started a random battle
+|
+|t:|1776970175
+|switch|p1a: Electrode|Electrode-Hisui, L87|246/246
+|move|p2a: Bastiodon|Iron Defense|p2a: Bastiodon
+|-boost|p2a: Bastiodon|def|2
+|
+|upkeep
+|turn|3
+|c|☆fend09|hahahahahahaa
+|
+|t:|1776970187
+|move|p1a: Electrode|Substitute|p1a: Electrode
+|-start|p1a: Electrode|Substitute
+|-damage|p1a: Electrode|185/246
+|move|p2a: Bastiodon|Body Press|p1a: Electrode
+|-crit|p1a: Electrode
+|-end|p1a: Electrode|Substitute
+|
+|-heal|p1a: Electrode|200/246|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776970197
+|move|p1a: Electrode|Substitute|p1a: Electrode
+|-start|p1a: Electrode|Substitute
+|-damage|p1a: Electrode|139/246
+|move|p2a: Bastiodon|Body Press|p1a: Electrode
+|-end|p1a: Electrode|Substitute
+|
+|-heal|p1a: Electrode|154/246|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776970204
+|move|p1a: Electrode|Giga Drain|p2a: Bastiodon
+|-damage|p2a: Bastiodon|207/252
+|-heal|p1a: Electrode|177/246|[from] drain|[of] p2a: Bastiodon
+|move|p2a: Bastiodon|Body Press|p1a: Electrode
+|-damage|p1a: Electrode|0 fnt
+|faint|p1a: Electrode
+|
+|upkeep
+|
+|t:|1776970215
+|switch|p1a: Iron Valiant|Iron Valiant, L78|244/244
+|turn|6
+|
+|t:|1776970223
+|move|p1a: Iron Valiant|Close Combat|p2a: Bastiodon
+|-supereffective|p2a: Bastiodon
+|-damage|p2a: Bastiodon|15/252
+|-unboost|p1a: Iron Valiant|def|1
+|-unboost|p1a: Iron Valiant|spd|1
+|-damage|p1a: Iron Valiant|220/244|[from] item: Life Orb
+|move|p2a: Bastiodon|Body Press|p1a: Iron Valiant
+|-resisted|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|51/244
+|
+|upkeep
+|turn|7
+|c|☆fend09|dumb ahh plauy by me
+|
+|t:|1776970235
+|move|p1a: Iron Valiant|Knock Off|p2a: Bastiodon
+|-damage|p2a: Bastiodon|0 fnt
+|-enditem|p2a: Bastiodon|Chesto Berry|[from] move: Knock Off|[of] p1a: Iron Valiant
+|faint|p2a: Bastiodon
+|-damage|p1a: Iron Valiant|27/244|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776970254
+|switch|p2a: Ariados|Ariados, L95, M|287/287
+|turn|8
+|
+|t:|1776970274
+|move|p1a: Iron Valiant|Knock Off|p2a: Ariados
+|-damage|p2a: Ariados|186/287
+|-enditem|p2a: Ariados|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|3/244|[from] item: Life Orb
+|move|p2a: Ariados|Poison Jab|p1a: Iron Valiant
+|-supereffective|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1776970283
+|switch|p1a: Golem|Golem, L87, F|281/281
+|turn|9
+|c|☆mr1123|I've down worse
+|inactive|mr1123 has 120 seconds left.
+|c|☆fend09|pls move tho
+|c|☆mr1123|Used equipment on a levitate Mon twice in the same battle
+|c|☆mr1123|My fault I yap alot
+|
+|t:|1776970331
+|move|p2a: Ariados|Knock Off|p1a: Golem
+|-damage|p1a: Golem|225/281
+|-enditem|p1a: Golem|Custap Berry|[from] move: Knock Off|[of] p2a: Ariados
+|move|p1a: Golem|Stealth Rock|p2a: Ariados
+|-sidestart|p2: mr1123|move: Stealth Rock
+|
+|upkeep
+|turn|10
+|c|☆fend09|nahh all good
+|
+|t:|1776970341
+|move|p2a: Ariados|Sticky Web|p1a: Golem
+|-sidestart|p1: fend09|move: Sticky Web
+|move|p1a: Golem|Stone Edge|p2a: Ariados
+|-supereffective|p2a: Ariados
+|-damage|p2a: Ariados|0 fnt
+|faint|p2a: Ariados
+|
+|upkeep
+|
+|t:|1776970357
+|switch|p2a: Gumshoos|Gumshoos, L95, M|321/321
+|-damage|p2a: Gumshoos|281/321|[from] Stealth Rock
+|turn|11
+|
+|t:|1776970372
+|move|p2a: Gumshoos|Earthquake|p1a: Golem
+|-supereffective|p1a: Golem
+|-damage|p1a: Golem|19/281
+|move|p1a: Golem|Earthquake|p2a: Gumshoos
+|-damage|p2a: Gumshoos|134/321
+|
+|upkeep
+|turn|12
+|
+|t:|1776970391
+|move|p2a: Gumshoos|Earthquake|p1a: Golem
+|-supereffective|p1a: Golem
+|-damage|p1a: Golem|0 fnt
+|faint|p1a: Golem
+|
+|upkeep
+|
+|t:|1776970401
+|switch|p1a: Hoopa|Hoopa, L85|275/275
+|-activate|p1a: Hoopa|move: Sticky Web
+|-unboost|p1a: Hoopa|spe|1
+|turn|13
+|
+|t:|1776970420
+|move|p1a: Hoopa|Focus Blast|p2a: Gumshoos
+|-supereffective|p2a: Gumshoos
+|-damage|p2a: Gumshoos|0 fnt
+|faint|p2a: Gumshoos
+|
+|upkeep
+|
+|t:|1776970427
+|switch|p2a: Dragapult|Dragapult, L77, F|262/262
+|-damage|p2a: Dragapult|230/262|[from] Stealth Rock
+|turn|14
+|
+|t:|1776970447
+|switch|p1a: Hatterene|Hatterene, L85, F|236/236
+|-activate|p1a: Hatterene|move: Sticky Web
+|-unboost|p1a: Hatterene|spe|1
+|move|p2a: Dragapult|Dragon Dance|p2a: Dragapult
+|-boost|p2a: Dragapult|atk|1
+|-boost|p2a: Dragapult|spe|1
+|
+|upkeep
+|turn|15
+|
+|t:|1776970464
+|-terastallize|p2a: Dragapult|Ghost
+|move|p2a: Dragapult|Tera Blast|p1a: Hatterene|[anim] Tera Blast Ghost
+|-supereffective|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|-damage|p2a: Dragapult|204/262|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776970473
+|switch|p1a: Komala|Komala, L88, F|258/258
+|-activate|p1a: Komala|move: Sticky Web
+|-unboost|p1a: Komala|spe|1
+|-ability|p1a: Komala|Comatose
+|turn|16
+|
+|t:|1776970480
+|move|p2a: Dragapult|Dragon Darts|p1a: Komala
+|-damage|p1a: Komala|140/258
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Komala
+|-damage|p1a: Komala|19/258
+|-damage|p2a: Dragapult|178/262|[from] item: Life Orb
+|move|p1a: Komala|Knock Off|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|-enditem|p2a: Dragapult|Life Orb|[from] move: Knock Off|[of] p1a: Komala
+|faint|p2a: Dragapult
+|
+|upkeep
+|j| Oochillyo
+|
+|t:|1776970489
+|switch|p2a: Cramorant|Cramorant, L86, M|261/261
+|turn|17
+|
+|t:|1776970499
+|switch|p1a: Hoopa|Hoopa, L85|275/275
+|-activate|p1a: Hoopa|move: Sticky Web
+|-unboost|p1a: Hoopa|spe|1
+|move|p2a: Cramorant|Surf|p1a: Hoopa
+|-formechange|p2a: Cramorant|Cramorant-Gulping|
+|-damage|p1a: Hoopa|211/275
+|
+|upkeep
+|turn|18
+|
+|t:|1776970509
+|move|p2a: Cramorant|Brave Bird|p1a: Hoopa
+|-damage|p1a: Hoopa|51/275
+|-damage|p2a: Cramorant|208/261|[from] Recoil
+|move|p1a: Hoopa|Trick|p2a: Cramorant
+|-activate|p1a: Hoopa|move: Trick|[of] p2a: Cramorant
+|-item|p2a: Cramorant|Choice Scarf|[from] move: Trick
+|-item|p1a: Hoopa|Heavy-Duty Boots|[from] move: Trick
+|
+|upkeep
+|turn|19
+|
+|t:|1776970528
+|move|p2a: Cramorant|Brave Bird|p1a: Hoopa
+|-damage|p1a: Hoopa|0 fnt
+|faint|p1a: Hoopa
+|-damage|p2a: Cramorant|191/261|[from] Recoil
+|
+|upkeep
+|
+|t:|1776970533
+|switch|p1a: Komala|Komala, L88, F|19/258
+|-activate|p1a: Komala|move: Sticky Web
+|-unboost|p1a: Komala|spe|1
+|-ability|p1a: Komala|Comatose
+|turn|20
+|
+|t:|1776970540
+|move|p2a: Cramorant|Brave Bird|p1a: Komala
+|-damage|p1a: Komala|0 fnt
+|faint|p1a: Komala
+|-damage|p2a: Cramorant|185/261|[from] Recoil
+|
+|win|mr1123
+|raw|fend09's rating: 1180 &rarr; <strong>1157</strong><br />(-23 for losing)
+|raw|mr1123's rating: 1213 &rarr; <strong>1236</strong><br />(+23 for winning)
+|c|☆mr1123|Ggs
+|l|☆fend09
+|player|p1|
+|c|☆mr1123|Dang no gg
+|c|☆mr1123|Anywho

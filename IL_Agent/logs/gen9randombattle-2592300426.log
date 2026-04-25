@@ -1,0 +1,241 @@
+|j|☆angrybadger96
+|j|☆disconnectduewifi
+|t:|1776977033
+|gametype|singles
+|player|p1|angrybadger96|wattson|1834
+|player|p2|disconnectduewifi|lucas|1780
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776977033
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Carbink|Carbink, L90|236/236
+|switch|p2a: Garchomp|Garchomp, L74, M|282/282
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by angrybadger96)
+|
+|t:|1776977055
+|switch|p2a: Sandaconda|Sandaconda, L84, M|258/258
+|switch|p1a: Glalie|Glalie, L96, M|309/309
+|
+|upkeep
+|turn|2
+|
+|t:|1776977083
+|move|p1a: Glalie|Spikes|p2a: Sandaconda
+|-sidestart|p2: disconnectduewifi|Spikes
+|move|p2a: Sandaconda|Glare|p1a: Glalie
+|-status|p1a: Glalie|par
+|
+|upkeep
+|turn|3
+|inactive|disconnectduewifi has 120 seconds left.
+|
+|t:|1776977105
+|move|p2a: Sandaconda|Stone Edge|p1a: Glalie
+|-supereffective|p1a: Glalie
+|-damage|p1a: Glalie|165/309 par
+|move|p1a: Glalie|Freeze-Dry|p2a: Sandaconda
+|-supereffective|p2a: Sandaconda
+|-damage|p2a: Sandaconda|52/258
+|
+|-heal|p2a: Sandaconda|68/258|[from] item: Leftovers
+|upkeep
+|turn|4
+|inactive|disconnectduewifi has 120 seconds left.
+|
+|t:|1776977113
+|move|p2a: Sandaconda|Stone Edge|p1a: Glalie
+|-supereffective|p1a: Glalie
+|-damage|p1a: Glalie|25/309 par
+|move|p1a: Glalie|Freeze-Dry|p2a: Sandaconda
+|-supereffective|p2a: Sandaconda
+|-damage|p2a: Sandaconda|0 fnt
+|faint|p2a: Sandaconda
+|
+|upkeep
+|inactive|disconnectduewifi has 120 seconds left.
+|
+|t:|1776977135
+|switch|p2a: Alomomola|Alomomola, L87, M|429/429
+|turn|5
+|
+|t:|1776977139
+|move|p2a: Alomomola|Flip Turn|p1a: Glalie
+|-damage|p1a: Glalie|0 fnt
+|faint|p1a: Glalie
+|
+|t:|1776977144
+|switch|p2a: Garchomp|Garchomp, L74, M|282/282|[from] Flip Turn
+|-damage|p2a: Garchomp|247/282|[from] Spikes
+|
+|upkeep
+|
+|t:|1776977152
+|switch|p1a: Gyarados|Gyarados, L79, F|280/280
+|turn|6
+|inactive|disconnectduewifi has 120 seconds left.
+|
+|t:|1776977172
+|move|p2a: Garchomp|Stealth Rock|p1a: Gyarados
+|-sidestart|p1: angrybadger96|move: Stealth Rock
+|move|p1a: Gyarados|Dragon Dance|p1a: Gyarados
+|-boost|p1a: Gyarados|atk|1
+|-boost|p1a: Gyarados|spe|1
+|
+|upkeep
+|turn|7
+|inactive|disconnectduewifi has 120 seconds left.
+|
+|t:|1776977179
+|move|p1a: Gyarados|Waterfall|p2a: Garchomp
+|-damage|p2a: Garchomp|109/282
+|-damage|p1a: Gyarados|245/280|[from] ability: Rough Skin|[of] p2a: Garchomp
+|-damage|p1a: Gyarados|199/280|[from] item: Rocky Helmet|[of] p2a: Garchomp
+|move|p2a: Garchomp|Dragon Tail|p1a: Gyarados|[miss]
+|-miss|p2a: Garchomp|p1a: Gyarados
+|
+|upkeep
+|turn|8
+|
+|t:|1776977189
+|move|p1a: Gyarados|Earthquake|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|faint|p2a: Garchomp
+|-ability|p1a: Gyarados|Moxie|boost
+|-boost|p1a: Gyarados|atk|1
+|
+|upkeep
+|inactive|disconnectduewifi has 120 seconds left.
+|
+|t:|1776977202
+|switch|p2a: Alomomola|Alomomola, L87, M|429/429
+|turn|9
+|
+|t:|1776977208
+|move|p1a: Gyarados|Dragon Dance|p1a: Gyarados
+|-boost|p1a: Gyarados|atk|1
+|-boost|p1a: Gyarados|spe|1
+|move|p2a: Alomomola|Scald|p1a: Gyarados
+|-resisted|p1a: Gyarados
+|-damage|p1a: Gyarados|177/280
+|
+|upkeep
+|turn|10
+|
+|t:|1776977216
+|move|p1a: Gyarados|Earthquake|p2a: Alomomola
+|-damage|p2a: Alomomola|223/429
+|move|p2a: Alomomola|Scald|p1a: Gyarados
+|-resisted|p1a: Gyarados
+|-damage|p1a: Gyarados|154/280
+|
+|upkeep
+|turn|11
+|
+|t:|1776977223
+|-terastallize|p1a: Gyarados|Ground
+|move|p1a: Gyarados|Earthquake|p2a: Alomomola
+|-damage|p2a: Alomomola|0 fnt
+|faint|p2a: Alomomola
+|-ability|p1a: Gyarados|Moxie|boost
+|-boost|p1a: Gyarados|atk|1
+|
+|upkeep
+|inactive|disconnectduewifi has 120 seconds left.
+|
+|t:|1776977243
+|switch|p2a: Cacturne|Cacturne, L92, F|278/278
+|-damage|p2a: Cacturne|244/278|[from] Spikes
+|turn|12
+|inactive|disconnectduewifi has 120 seconds left.
+|
+|t:|1776977255
+|-terastallize|p2a: Cacturne|Poison
+|move|p1a: Gyarados|Temper Flare|p2a: Cacturne
+|-damage|p2a: Cacturne|44/278
+|move|p2a: Cacturne|Seed Bomb|p1a: Gyarados
+|-supereffective|p1a: Gyarados
+|-damage|p1a: Gyarados|0 fnt
+|faint|p1a: Gyarados
+|-damage|p2a: Cacturne|17/278|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776977266
+|switch|p1a: Darkrai|Darkrai, L77|234/234
+|-damage|p1a: Darkrai|205/234|[from] Stealth Rock
+|turn|13
+|
+|t:|1776977273
+|move|p1a: Darkrai|Nasty Plot|p1a: Darkrai
+|-boost|p1a: Darkrai|spa|2
+|move|p2a: Cacturne|Knock Off|p1a: Darkrai
+|-resisted|p1a: Darkrai
+|-damage|p1a: Darkrai|105/234
+|-enditem|p1a: Darkrai|Leftovers|[from] move: Knock Off|[of] p2a: Cacturne
+|-damage|p2a: Cacturne|0 fnt|[from] item: Life Orb
+|faint|p2a: Cacturne
+|
+|upkeep
+|inactive|disconnectduewifi has 120 seconds left.
+|
+|t:|1776977299
+|switch|p2a: Banette|Banette, L93, F|270/270
+|-damage|p2a: Banette|237/270|[from] Spikes
+|turn|14
+|c|☆disconnectduewifi|Gg
+|c|☆angrybadger96|gg
+|
+|t:|1776977314
+|move|p1a: Darkrai|Dark Pulse|p2a: Banette
+|-supereffective|p2a: Banette
+|-damage|p2a: Banette|0 fnt
+|faint|p2a: Banette
+|
+|upkeep
+|
+|t:|1776977319
+|switch|p2a: Kingambit|Kingambit, L74, M|270/270
+|-damage|p2a: Kingambit|237/270|[from] Spikes
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen5|[silent]
+|turn|15
+|
+|t:|1776977337
+|move|p1a: Darkrai|Dark Pulse|p2a: Kingambit
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|129/270
+|move|p2a: Kingambit|Iron Head|p1a: Darkrai
+|-crit|p1a: Darkrai
+|-damage|p1a: Darkrai|0 fnt
+|faint|p1a: Darkrai
+|
+|-heal|p2a: Kingambit|145/270|[from] item: Leftovers
+|upkeep
+|
+|t:|1776977339
+|switch|p1a: Great Tusk|Great Tusk, L77|304/304
+|-damage|p1a: Great Tusk|295/304|[from] Stealth Rock
+|turn|16
+|inactive|disconnectduewifi has 120 seconds left.
+|
+|t:|1776977356
+|move|p1a: Great Tusk|Close Combat|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen5|[silent]
+|
+|win|angrybadger96
+|raw|angrybadger96's rating: 1834 &rarr; <strong>1851</strong><br />(+17 for winning)
+|raw|disconnectduewifi's rating: 1780 &rarr; <strong>1763</strong><br />(-17 for losing)

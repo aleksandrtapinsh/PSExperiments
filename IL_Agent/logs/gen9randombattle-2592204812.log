@@ -1,0 +1,191 @@
+|j|☆abeebeedabadoo
+|j|☆Hdhhdgjfhdhdhdd
+|t:|1776970232
+|gametype|singles
+|player|p1|abeebeedabadoo|265|1080
+|player|p2|Hdhhdgjfhdhdhdd|169|1077
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776970232
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Rhydon|Rhydon, L85, F|317/317
+|switch|p2a: Okidogi|Okidogi, L77, M|262/262
+|turn|1
+|
+|t:|1776970243
+|switch|p2a: Gastrodon|Gastrodon, L86, M|331/331
+|move|p1a: Rhydon|Earthquake|p2a: Gastrodon
+|-damage|p2a: Gastrodon|160/331
+|
+|-heal|p2a: Gastrodon|180/331|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776970256
+|switch|p1a: Oricorio|Oricorio-Sensu, L85, M|266/266
+|move|p2a: Gastrodon|Recover|p2a: Gastrodon
+|-heal|p2a: Gastrodon|331/331
+|
+|upkeep
+|turn|3
+|
+|t:|1776970282
+|switch|p2a: Electrode|Electrode-Hisui, L87|246/246
+|move|p1a: Oricorio|Quiver Dance|p1a: Oricorio
+|-boost|p1a: Oricorio|spa|1
+|-boost|p1a: Oricorio|spd|1
+|-boost|p1a: Oricorio|spe|1
+|
+|upkeep
+|turn|4
+|
+|t:|1776970288
+|move|p2a: Electrode|Substitute|p2a: Electrode
+|-start|p2a: Electrode|Substitute
+|-damage|p2a: Electrode|185/246
+|move|p1a: Oricorio|Hurricane|p2a: Electrode
+|-end|p2a: Electrode|Substitute
+|
+|-heal|p2a: Electrode|200/246|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776970295
+|move|p2a: Electrode|Leech Seed|p1a: Oricorio
+|-start|p1a: Oricorio|move: Leech Seed
+|move|p1a: Oricorio|Revelation Dance|p2a: Electrode
+|-damage|p2a: Electrode|43/246
+|
+|-heal|p2a: Electrode|58/246|[from] item: Leftovers
+|-damage|p1a: Oricorio|233/266|[from] Leech Seed|[of] p2a: Electrode
+|-heal|p2a: Electrode|91/246|[silent]
+|upkeep
+|turn|6
+|
+|t:|1776970304
+|move|p2a: Electrode|Substitute|p2a: Electrode
+|-start|p2a: Electrode|Substitute
+|-damage|p2a: Electrode|30/246
+|move|p1a: Oricorio|Quiver Dance|p1a: Oricorio
+|-boost|p1a: Oricorio|spa|1
+|-boost|p1a: Oricorio|spd|1
+|-boost|p1a: Oricorio|spe|1
+|
+|-heal|p2a: Electrode|45/246|[from] item: Leftovers
+|-damage|p1a: Oricorio|200/266|[from] Leech Seed|[of] p2a: Electrode
+|-heal|p2a: Electrode|78/246|[silent]
+|upkeep
+|turn|7
+|
+|t:|1776970311
+|move|p1a: Oricorio|Revelation Dance|p2a: Electrode
+|-end|p2a: Electrode|Substitute
+|move|p2a: Electrode|Thunderbolt|p1a: Oricorio
+|-supereffective|p1a: Oricorio
+|-damage|p1a: Oricorio|104/266
+|
+|-heal|p2a: Electrode|93/246|[from] item: Leftovers
+|-damage|p1a: Oricorio|71/266|[from] Leech Seed|[of] p2a: Electrode
+|-heal|p2a: Electrode|126/246|[silent]
+|upkeep
+|turn|8
+|
+|t:|1776970325
+|switch|p2a: Gastrodon|Gastrodon, L86, M|331/331
+|move|p1a: Oricorio|Revelation Dance|p2a: Gastrodon
+|-damage|p2a: Gastrodon|136/331
+|
+|-heal|p2a: Gastrodon|156/331|[from] item: Leftovers
+|-damage|p1a: Oricorio|38/266|[from] Leech Seed|[of] p2a: Gastrodon
+|-heal|p2a: Gastrodon|189/331|[silent]
+|upkeep
+|turn|9
+|
+|t:|1776970334
+|move|p1a: Oricorio|Roost|p1a: Oricorio
+|-heal|p1a: Oricorio|171/266
+|-singleturn|p1a: Oricorio|move: Roost
+|move|p2a: Gastrodon|Earthquake|p1a: Oricorio
+|-damage|p1a: Oricorio|62/266
+|
+|-heal|p2a: Gastrodon|209/331|[from] item: Leftovers
+|-damage|p1a: Oricorio|29/266|[from] Leech Seed|[of] p2a: Gastrodon
+|-heal|p2a: Gastrodon|242/331|[silent]
+|upkeep
+|turn|10
+|
+|t:|1776970345
+|move|p1a: Oricorio|Hurricane|p2a: Gastrodon
+|-damage|p2a: Gastrodon|0 fnt
+|faint|p2a: Gastrodon
+|
+|upkeep
+|
+|t:|1776970348
+|switch|p2a: Veluza|Veluza, L85, M|292/292
+|turn|11
+|
+|t:|1776970355
+|move|p2a: Veluza|Aqua Jet|p1a: Oricorio
+|-damage|p1a: Oricorio|0 fnt
+|faint|p1a: Oricorio
+|
+|upkeep
+|
+|t:|1776970365
+|switch|p1a: Lanturn|Lanturn, L89, M|367/367
+|turn|12
+|
+|t:|1776970375
+|switch|p2a: Venusaur|Venusaur, L84, M|272/272
+|move|p1a: Lanturn|Volt Switch|p2a: Venusaur
+|-resisted|p2a: Venusaur
+|-damage|p2a: Venusaur|239/272
+|
+|t:|1776970382
+|switch|p1a: Delphox|Delphox, L84, F|263/263|[from] Volt Switch
+|
+|-heal|p2a: Venusaur|256/272|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776970391
+|switch|p2a: Veluza|Veluza, L85, M|292/292
+|move|p1a: Delphox|Psyshock|p2a: Veluza
+|-resisted|p2a: Veluza
+|-damage|p2a: Veluza|238/292
+|
+|upkeep
+|turn|14
+|
+|t:|1776970398
+|switch|p1a: Lanturn|Lanturn, L89, M|367/367
+|move|p2a: Veluza|Night Slash|p1a: Lanturn
+|-damage|p1a: Lanturn|214/367
+|
+|upkeep
+|turn|15
+|
+|t:|1776970405
+|switch|p2a: Okidogi|Okidogi, L77, M|262/262
+|move|p1a: Lanturn|Thunderbolt|p2a: Okidogi
+|-damage|p2a: Okidogi|172/262
+|
+|-heal|p2a: Okidogi|188/262|[from] item: Leftovers
+|upkeep
+|turn|16
+|-message|abeebeedabadoo forfeited.
+|
+|win|Hdhhdgjfhdhdhdd
+|raw|abeebeedabadoo's rating: 1080 &rarr; <strong>1058</strong><br />(-22 for losing)
+|raw|Hdhhdgjfhdhdhdd's rating: 1077 &rarr; <strong>1106</strong><br />(+29 for winning)
+|l|☆abeebeedabadoo
+|player|p1|

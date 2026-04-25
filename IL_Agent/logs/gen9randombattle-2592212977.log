@@ -1,0 +1,353 @@
+|j|☆Gokuh34567
+|j|☆w4schbecken
+|t:|1776970781
+|gametype|singles
+|player|p1|Gokuh34567|hiker-gen4|
+|player|p2|w4schbecken|allister|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776970781
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Hitmonchan|Hitmonchan, L87, M|229/229
+|switch|p2a: Palafin|Palafin, L77, M|281/281
+|turn|1
+|
+|t:|1776970808
+|detailschange|p2a: Palafin|Palafin-Hero, L77, M
+|switch|p2a: Lunala|Lunala, L70|308/308
+|move|p1a: Hitmonchan|Knock Off|p2a: Lunala
+|-supereffective|p2a: Lunala
+|-damage|p2a: Lunala|114/308
+|-enditem|p2a: Lunala|Leftovers|[from] move: Knock Off|[of] p1a: Hitmonchan
+|
+|upkeep
+|turn|2
+|
+|t:|1776970833
+|-terastallize|p2a: Lunala|Fairy
+|move|p1a: Hitmonchan|Knock Off|p2a: Lunala
+|-resisted|p2a: Lunala
+|-damage|p2a: Lunala|83/308
+|move|p2a: Lunala|Moonlight|p2a: Lunala
+|-heal|p2a: Lunala|237/308
+|
+|upkeep
+|turn|3
+|
+|t:|1776970845
+|move|p1a: Hitmonchan|Encore|p2a: Lunala
+|-start|p2a: Lunala|Encore
+|move|p2a: Lunala|Moonlight|p2a: Lunala
+|-heal|p2a: Lunala|308/308
+|
+|upkeep
+|turn|4
+|
+|t:|1776970867
+|switch|p1a: Gyarados|Gyarados, L79, F|280/280
+|-ability|p1a: Gyarados|Intimidate|boost
+|-unboost|p2a: Lunala|atk|1
+|switch|p2a: Typhlosion|Typhlosion-Hisui, L83, F|257/257
+|
+|upkeep
+|turn|5
+|c|☆w4schbecken|Ain't that perfect.
+|
+|t:|1776970892
+|switch|p2a: Rillaboom|Rillaboom, L79, F|288/288
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Gyarados|Dragon Dance|p1a: Gyarados
+|-boost|p1a: Gyarados|atk|1
+|-boost|p1a: Gyarados|spe|1
+|
+|upkeep
+|turn|6
+|c|☆Gokuh34567|tung
+|c|☆Gokuh34567|Does he know?
+|
+|t:|1776970909
+|-terastallize|p1a: Gyarados|Flying
+|move|p1a: Gyarados|Tera Blast|p2a: Rillaboom|[anim] Tera Blast Flying
+|-supereffective|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|
+|upkeep
+|c|☆w4schbecken|I love Pokemon Showdown.
+|
+|t:|1776970954
+|switch|p2a: Palafin|Palafin-Hero, L77, M|281/281
+|-activate|p2a: Palafin|ability: Zero to Hero
+|turn|7
+|
+|t:|1776970970
+|move|p1a: Gyarados|Tera Blast|p2a: Palafin|[anim] Tera Blast Flying
+|-damage|p2a: Palafin|99/281
+|move|p2a: Palafin|Bulk Up|p2a: Palafin
+|-boost|p2a: Palafin|atk|1
+|-boost|p2a: Palafin|def|1
+|
+|-heal|p2a: Palafin|116/281|[from] Grassy Terrain
+|-heal|p2a: Palafin|133/281|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776970981
+|move|p1a: Gyarados|Tera Blast|p2a: Palafin|[anim] Tera Blast Flying
+|-damage|p2a: Palafin|15/281
+|move|p2a: Palafin|Ice Punch|p1a: Gyarados
+|-supereffective|p1a: Gyarados
+|-damage|p1a: Gyarados|30/280
+|
+|-heal|p2a: Palafin|32/281|[from] Grassy Terrain
+|-heal|p2a: Palafin|49/281|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776970991
+|move|p2a: Palafin|Jet Punch|p1a: Gyarados
+|-damage|p1a: Gyarados|0 fnt
+|faint|p1a: Gyarados
+|
+|-heal|p2a: Palafin|66/281|[from] Grassy Terrain
+|-heal|p2a: Palafin|83/281|[from] item: Leftovers
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1776970993
+|switch|p1a: Raikou|Raikou, L81|278/278
+|-ability|p1a: Raikou|Pressure
+|turn|10
+|
+|t:|1776971008
+|switch|p2a: Lunala|Lunala, L70, tera:Fairy|308/308
+|move|p1a: Raikou|Thunderbolt|p2a: Lunala
+|-damage|p2a: Lunala|256/308
+|
+|upkeep
+|turn|11
+|
+|t:|1776971015
+|move|p1a: Raikou|Thunderbolt|p2a: Lunala
+|-damage|p2a: Lunala|142/308
+|move|p2a: Lunala|Calm Mind|p2a: Lunala
+|-boost|p2a: Lunala|spa|1
+|-boost|p2a: Lunala|spd|1
+|
+|upkeep
+|turn|12
+|
+|t:|1776971023
+|move|p1a: Raikou|Calm Mind|p1a: Raikou
+|-boost|p1a: Raikou|spa|1
+|-boost|p1a: Raikou|spd|1
+|move|p2a: Lunala|Moonlight|p2a: Lunala
+|-heal|p2a: Lunala|296/308
+|
+|upkeep
+|turn|13
+|
+|t:|1776971054
+|move|p1a: Raikou|Scald|p2a: Lunala
+|-damage|p2a: Lunala|233/308
+|move|p2a: Lunala|Moongeist Beam|p1a: Raikou
+|-crit|p1a: Raikou
+|-damage|p1a: Raikou|68/278
+|
+|-heal|p1a: Raikou|85/278|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1776971064
+|move|p1a: Raikou|Thunderbolt|p2a: Lunala
+|-damage|p2a: Lunala|125/308
+|-status|p2a: Lunala|par
+|move|p2a: Lunala|Moongeist Beam|p1a: Raikou
+|-damage|p1a: Raikou|0 fnt
+|faint|p1a: Raikou
+|
+|upkeep
+|
+|t:|1776971070
+|switch|p1a: Sylveon|Sylveon, L85, M|300/300
+|turn|15
+|
+|t:|1776971075
+|move|p1a: Sylveon|Calm Mind|p1a: Sylveon
+|-boost|p1a: Sylveon|spa|1
+|-boost|p1a: Sylveon|spd|1
+|move|p2a: Lunala|Moonlight|p2a: Lunala
+|-heal|p2a: Lunala|279/308 par
+|
+|upkeep
+|turn|16
+|
+|t:|1776971082
+|move|p1a: Sylveon|Calm Mind|p1a: Sylveon
+|-boost|p1a: Sylveon|spa|1
+|-boost|p1a: Sylveon|spd|1
+|move|p2a: Lunala|Calm Mind|p2a: Lunala
+|-boost|p2a: Lunala|spa|1
+|-boost|p2a: Lunala|spd|1
+|
+|upkeep
+|turn|17
+|
+|t:|1776971113
+|switch|p2a: Salazzle|Salazzle, L83, F|249/249
+|move|p1a: Sylveon|Calm Mind|p1a: Sylveon
+|-boost|p1a: Sylveon|spa|1
+|-boost|p1a: Sylveon|spd|1
+|
+|upkeep
+|turn|18
+|
+|t:|1776971120
+|move|p2a: Salazzle|Nasty Plot|p2a: Salazzle
+|-boost|p2a: Salazzle|spa|2
+|move|p1a: Sylveon|Hyper Voice|p2a: Salazzle
+|-resisted|p2a: Salazzle
+|-damage|p2a: Salazzle|139/249
+|
+|upkeep
+|turn|19
+|
+|t:|1776971135
+|move|p2a: Salazzle|Sludge Wave|p1a: Sylveon
+|-supereffective|p1a: Sylveon
+|-damage|p1a: Sylveon|178/300
+|move|p1a: Sylveon|Hyper Voice|p2a: Salazzle
+|-resisted|p2a: Salazzle
+|-damage|p2a: Salazzle|30/249
+|
+|-heal|p1a: Sylveon|196/300|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1776971143
+|move|p2a: Salazzle|Sludge Wave|p1a: Sylveon
+|-supereffective|p1a: Sylveon
+|-damage|p1a: Sylveon|74/300
+|move|p1a: Sylveon|Hyper Voice|p2a: Salazzle
+|-resisted|p2a: Salazzle
+|-damage|p2a: Salazzle|0 fnt
+|faint|p2a: Salazzle
+|
+|-heal|p1a: Sylveon|92/300|[from] item: Leftovers
+|upkeep
+|
+|t:|1776971156
+|switch|p2a: Palafin|Palafin-Hero, L77, M|83/281
+|turn|21
+|
+|t:|1776971160
+|move|p2a: Palafin|Jet Punch|p1a: Sylveon
+|-damage|p1a: Sylveon|0 fnt
+|faint|p1a: Sylveon
+|
+|-heal|p2a: Palafin|100/281|[from] item: Leftovers
+|upkeep
+|
+|t:|1776971167
+|switch|p1a: Virizion|Virizion, L82|283/283
+|turn|22
+|
+|t:|1776971194
+|switch|p2a: Typhlosion|Typhlosion-Hisui, L83, F|257/257
+|move|p1a: Virizion|Swords Dance|p1a: Virizion
+|-boost|p1a: Virizion|atk|2
+|
+|upkeep
+|turn|23
+|
+|t:|1776971202
+|move|p1a: Virizion|Stone Edge|p2a: Typhlosion
+|-supereffective|p2a: Typhlosion
+|-damage|p2a: Typhlosion|0 fnt
+|faint|p2a: Typhlosion
+|-damage|p1a: Virizion|255/283|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776971218
+|switch|p2a: Lunala|Lunala, L70, tera:Fairy|279/308 par
+|turn|24
+|
+|t:|1776971223
+|move|p1a: Virizion|Leaf Blade|p2a: Lunala
+|-damage|p2a: Lunala|18/308 par
+|-damage|p1a: Virizion|227/283|[from] item: Life Orb
+|move|p2a: Lunala|Moonblast|p1a: Virizion
+|-supereffective|p1a: Virizion
+|-damage|p1a: Virizion|83/283
+|
+|upkeep
+|turn|25
+|
+|t:|1776971232
+|move|p1a: Virizion|Leaf Blade|p2a: Lunala
+|-damage|p2a: Lunala|0 fnt
+|faint|p2a: Lunala
+|-damage|p1a: Virizion|55/283|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776971244
+|switch|p2a: Sylveon|Sylveon, L85, F|300/300
+|turn|26
+|
+|t:|1776971259
+|move|p1a: Virizion|Leaf Blade|p2a: Sylveon
+|-damage|p2a: Sylveon|37/300
+|-damage|p1a: Virizion|27/283|[from] item: Life Orb
+|move|p2a: Sylveon|Calm Mind|p2a: Sylveon
+|-boost|p2a: Sylveon|spa|1
+|-boost|p2a: Sylveon|spd|1
+|
+|-heal|p2a: Sylveon|55/300|[from] item: Leftovers
+|upkeep
+|turn|27
+|c|☆w4schbecken|SHIT.
+|
+|t:|1776971272
+|move|p2a: Sylveon|Protect|p2a: Sylveon
+|-singleturn|p2a: Sylveon|Protect
+|move|p1a: Virizion|Leaf Blade|p2a: Sylveon
+|-activate|p2a: Sylveon|move: Protect
+|
+|-heal|p2a: Sylveon|73/300|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1776971308
+|switch|p2a: Palafin|Palafin-Hero, L77, M|100/281
+|move|p1a: Virizion|Leaf Blade|p2a: Palafin
+|-supereffective|p2a: Palafin
+|-damage|p2a: Palafin|0 fnt
+|faint|p2a: Palafin
+|-damage|p1a: Virizion|0 fnt|[from] item: Life Orb
+|faint|p1a: Virizion
+|
+|upkeep
+|
+|t:|1776971317
+|switch|p1a: Clodsire|Clodsire, L81, F|343/343
+|switch|p2a: Sylveon|Sylveon, L85, F|73/300
+|turn|29
+|c|☆w4schbecken|He has a Poison-type that's awesome.
+|
+|t:|1776971336
+|move|p2a: Sylveon|Wish|p2a: Sylveon
+|move|p1a: Clodsire|Gunk Shot|p2a: Sylveon
+|-supereffective|p2a: Sylveon
+|-damage|p2a: Sylveon|0 fnt
+|faint|p2a: Sylveon
+|
+|win|Gokuh34567

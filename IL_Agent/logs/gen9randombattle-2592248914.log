@@ -1,0 +1,531 @@
+|j|☆AmokomA
+|j|☆AngryD0nut1
+|t:|1776973279
+|gametype|singles
+|player|p1|AmokomA|170|
+|player|p2|AngryD0nut1|hiker-gen4|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776973279
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Dusknoir|Dusknoir, L89, M|225/225
+|switch|p2a: Mamoswine|Mamoswine, L81, M|311/311
+|-item|p2a: Mamoswine|Choice Band|[from] ability: Frisk|[of] p1a: Dusknoir
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by AngryD0nut1)
+|
+|t:|1776973307
+|-singleturn|p1a: Dusknoir|move: Focus Punch
+|move|p2a: Mamoswine|Knock Off|p1a: Dusknoir
+|-supereffective|p1a: Dusknoir
+|-damage|p1a: Dusknoir|57/225
+|-enditem|p1a: Dusknoir|Leftovers|[from] move: Knock Off|[of] p2a: Mamoswine
+|cant|p1a: Dusknoir|Focus Punch|Focus Punch
+|
+|upkeep
+|turn|2
+|
+|t:|1776973319
+|switch|p1a: Incineroar|Incineroar, L82, F|290/290
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Mamoswine|atk|1
+|move|p2a: Mamoswine|Knock Off|p1a: Incineroar
+|-resisted|p1a: Incineroar
+|-damage|p1a: Incineroar|246/290
+|-enditem|p1a: Incineroar|Assault Vest|[from] move: Knock Off|[of] p2a: Mamoswine
+|
+|upkeep
+|turn|3
+|
+|t:|1776973343
+|switch|p2a: Walking Wake|Walking Wake, L79|286/286
+|switch|p1a: Alomomola|Alomomola, L87, F|429/429
+|
+|upkeep
+|turn|4
+|inactive|AngryD0nut1 has 270 seconds left.
+|
+|t:|1776973377
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Mamoswine|Mamoswine, L81, M|311/311
+|move|p1a: Alomomola|Flip Turn|p2a: Mamoswine
+|-supereffective|p2a: Mamoswine
+|-damage|p2a: Mamoswine|185/311
+|
+|t:|1776973390
+|switch|p1a: Espathra|Espathra, L80, M|283/283|[from] Flip Turn
+|
+|upkeep
+|turn|5
+|
+|t:|1776973396
+|move|p1a: Espathra|Lumina Crash|p2a: Mamoswine
+|-damage|p2a: Mamoswine|29/311
+|-unboost|p2a: Mamoswine|spd|2
+|move|p2a: Mamoswine|Knock Off|p1a: Espathra
+|-supereffective|p1a: Espathra
+|-damage|p1a: Espathra|0 fnt
+|-enditem|p1a: Espathra|Choice Specs|[from] move: Knock Off|[of] p2a: Mamoswine
+|faint|p1a: Espathra
+|
+|upkeep
+|
+|t:|1776973403
+|switch|p1a: Alomomola|Alomomola, L87, F|429/429
+|turn|6
+|
+|t:|1776973427
+|switch|p2a: Leafeon|Leafeon, L88, M|258/258
+|move|p1a: Alomomola|Flip Turn|p2a: Leafeon
+|-resisted|p2a: Leafeon
+|-damage|p2a: Leafeon|237/258
+|
+|t:|1776973431
+|switch|p1a: Incineroar|Incineroar, L82, F|246/290|[from] Flip Turn
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Leafeon|atk|1
+|
+|-heal|p2a: Leafeon|253/258|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776973439
+|switch|p2a: Walking Wake|Walking Wake, L79|286/286
+|move|p1a: Incineroar|U-turn|p2a: Walking Wake
+|-damage|p2a: Walking Wake|226/286
+|c|☆AngryD0nut1|Volt switch auch noch? xD
+|
+|t:|1776973457
+|switch|p1a: Brambleghast|Brambleghast, L88, F|240/240|[from] U-turn
+|
+|upkeep
+|turn|8
+|
+|t:|1776973471
+|-terastallize|p2a: Walking Wake|Fire
+|move|p2a: Walking Wake|Flamethrower|p1a: Brambleghast
+|-supereffective|p1a: Brambleghast
+|-damage|p1a: Brambleghast|0 fnt
+|faint|p1a: Brambleghast
+|
+|upkeep
+|
+|t:|1776973478
+|switch|p1a: Garchomp|Garchomp, L74, M|282/282
+|turn|9
+|
+|t:|1776973496
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Mamoswine|Mamoswine, L81, M|29/311
+|-terastallize|p1a: Garchomp|Steel
+|move|p1a: Garchomp|Earthquake|p2a: Mamoswine
+|-damage|p2a: Mamoswine|0 fnt
+|faint|p2a: Mamoswine
+|
+|upkeep
+|
+|t:|1776973511
+|switch|p2a: Golurk|Golurk, L87|297/297
+|turn|10
+|
+|t:|1776973522
+|switch|p1a: Dusknoir|Dusknoir, L89, M|57/225
+|-item|p2a: Golurk|Choice Band|[from] ability: Frisk|[of] p1a: Dusknoir
+|move|p2a: Golurk|Earthquake|p1a: Dusknoir
+|-damage|p1a: Dusknoir|0 fnt
+|faint|p1a: Dusknoir
+|
+|upkeep
+|
+|t:|1776973527
+|switch|p1a: Alomomola|Alomomola, L87, F|429/429
+|turn|11
+|
+|t:|1776973534
+|switch|p2a: Leafeon|Leafeon, L88, M|253/258
+|move|p1a: Alomomola|Scald|p2a: Leafeon
+|-resisted|p2a: Leafeon
+|-damage|p2a: Leafeon|223/258
+|
+|-heal|p2a: Leafeon|239/258|[from] item: Leftovers
+|upkeep
+|turn|12
+|inactive|AngryD0nut1 has 270 seconds left.
+|
+|t:|1776973561
+|switch|p2a: Terapagos|Terapagos, L77, M|265/265
+|-activate|p2a: Terapagos|ability: Tera Shift
+|detailschange|p2a: Terapagos|Terapagos-Terastal, L77, M
+|-heal|p2a: Terapagos|273/273|[silent]
+|move|p1a: Alomomola|Scald|p2a: Terapagos
+|-activate|p2a: Terapagos|ability: Tera Shell
+|-resisted|p2a: Terapagos
+|-damage|p2a: Terapagos|251/273
+|
+|upkeep
+|turn|13
+|inactive|AngryD0nut1 has 270 seconds left.
+|
+|t:|1776973579
+|move|p2a: Terapagos|Calm Mind|p2a: Terapagos
+|-boost|p2a: Terapagos|spa|1
+|-boost|p2a: Terapagos|spd|1
+|move|p1a: Alomomola|Flip Turn|p2a: Terapagos
+|-damage|p2a: Terapagos|202/273
+|
+|t:|1776973585
+|switch|p1a: Garchomp|Garchomp, L74, M, tera:Steel|282/282|[from] Flip Turn
+|
+|upkeep
+|turn|14
+|inactive|AngryD0nut1 has 270 seconds left.
+|
+|t:|1776973625
+|move|p1a: Garchomp|Earthquake|p2a: Terapagos
+|-damage|p2a: Terapagos|109/273
+|move|p2a: Terapagos|Calm Mind|p2a: Terapagos
+|-boost|p2a: Terapagos|spa|1
+|-boost|p2a: Terapagos|spd|1
+|
+|upkeep
+|turn|15
+|
+|t:|1776973640
+|move|p1a: Garchomp|Outrage|p2a: Terapagos
+|-crit|p2a: Terapagos
+|-damage|p2a: Terapagos|0 fnt
+|faint|p2a: Terapagos
+|
+|upkeep
+|inactive|AngryD0nut1 has 240 seconds left.
+|
+|t:|1776973661
+|switch|p2a: Golurk|Golurk, L87|297/297
+|turn|16
+|
+|t:|1776973665
+|move|p1a: Garchomp|Outrage|p2a: Golurk|[from] lockedmove
+|-damage|p2a: Golurk|170/297
+|-start|p1a: Garchomp|confusion|[fatigue]
+|move|p2a: Golurk|Earthquake|p1a: Garchomp
+|-supereffective|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|upkeep
+|
+|t:|1776973670
+|switch|p1a: Alomomola|Alomomola, L87, F|429/429
+|turn|17
+|
+|t:|1776973675
+|switch|p2a: Leafeon|Leafeon, L88, M|239/258
+|move|p1a: Alomomola|Scald|p2a: Leafeon
+|-resisted|p2a: Leafeon
+|-damage|p2a: Leafeon|212/258
+|
+|-heal|p2a: Leafeon|228/258|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1776973686
+|switch|p1a: Incineroar|Incineroar, L82, F|246/290
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Leafeon|atk|1
+|move|p2a: Leafeon|Substitute|p2a: Leafeon
+|-start|p2a: Leafeon|Substitute
+|-damage|p2a: Leafeon|164/258
+|
+|-heal|p2a: Leafeon|180/258|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1776973712
+|switch|p2a: Golurk|Golurk, L87|170/297
+|move|p1a: Incineroar|Knock Off|p2a: Golurk
+|-supereffective|p2a: Golurk
+|-damage|p2a: Golurk|0 fnt
+|-enditem|p2a: Golurk|Choice Band|[from] move: Knock Off|[of] p1a: Incineroar
+|faint|p2a: Golurk
+|
+|upkeep
+|
+|t:|1776973720
+|switch|p2a: Walking Wake|Walking Wake, L79, tera:Fire|226/286
+|turn|20
+|
+|t:|1776973725
+|switch|p1a: Alomomola|Alomomola, L87, F|429/429
+|move|p2a: Walking Wake|Hydro Pump|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|286/429
+|
+|upkeep
+|turn|21
+|
+|t:|1776973732
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Leafeon|Leafeon, L88, M|180/258
+|move|p1a: Alomomola|Wish|p1a: Alomomola
+|
+|-heal|p2a: Leafeon|196/258|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1776973742
+|switch|p1a: Incineroar|Incineroar, L82, F|246/290
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Leafeon|atk|1
+|move|p2a: Leafeon|Leaf Blade|p1a: Incineroar
+|-resisted|p1a: Incineroar
+|-damage|p1a: Incineroar|210/290
+|
+|-heal|p1a: Incineroar|290/290|[from] move: Wish|[wisher] Alomomola
+|-heal|p2a: Leafeon|212/258|[from] item: Leftovers
+|upkeep
+|turn|23
+|inactive|AngryD0nut1 has 270 seconds left.
+|
+|t:|1776973755
+|switch|p2a: Walking Wake|Walking Wake, L79, tera:Fire|226/286
+|move|p1a: Incineroar|Knock Off|p2a: Walking Wake
+|-damage|p2a: Walking Wake|115/286
+|-enditem|p2a: Walking Wake|Choice Specs|[from] move: Knock Off|[of] p1a: Incineroar
+|
+|upkeep
+|turn|24
+|inactive|AngryD0nut1 has 270 seconds left.
+|
+|t:|1776973770
+|switch|p1a: Alomomola|Alomomola, L87, F|429/429
+|move|p2a: Walking Wake|Flip Turn|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-crit|p1a: Alomomola
+|-damage|p1a: Alomomola|387/429
+|
+|t:|1776973780
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Kyurem|Kyurem-Black, L71|295/295|[from] Flip Turn
+|-ability|p2a: Kyurem|Teravolt
+|
+|upkeep
+|turn|25
+|
+|t:|1776973790
+|move|p1a: Alomomola|Protect|p1a: Alomomola
+|-singleturn|p1a: Alomomola|Protect
+|move|p2a: Kyurem|Fusion Bolt|p1a: Alomomola
+|-activate|p1a: Alomomola|move: Protect
+|
+|upkeep
+|turn|26
+|inactive|AngryD0nut1 has 270 seconds left.
+|
+|t:|1776973800
+|switch|p1a: Incineroar|Incineroar, L82, F|290/290
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Kyurem|atk|1
+|move|p2a: Kyurem|Fusion Bolt|p1a: Incineroar
+|-damage|p1a: Incineroar|234/290
+|
+|upkeep
+|turn|27
+|inactive|AngryD0nut1 has 270 seconds left.
+|
+|t:|1776973822
+|move|p2a: Kyurem|Scale Shot|p1a: Incineroar
+|-damage|p1a: Incineroar|215/290
+|-damage|p1a: Incineroar|193/290
+|-crit|p1a: Incineroar
+|-damage|p1a: Incineroar|147/290
+|-damage|p1a: Incineroar|125/290
+|-hitcount|p1a: Incineroar|4
+|-unboost|p2a: Kyurem|def|1
+|-boost|p2a: Kyurem|spe|1
+|move|p1a: Incineroar|Overheat|p2a: Kyurem
+|-damage|p2a: Kyurem|169/295
+|-unboost|p1a: Incineroar|spa|2
+|
+|upkeep
+|turn|28
+|
+|t:|1776973836
+|switch|p1a: Alomomola|Alomomola, L87, F|429/429
+|move|p2a: Kyurem|Scale Shot|p1a: Alomomola
+|-damage|p1a: Alomomola|407/429
+|-damage|p1a: Alomomola|388/429
+|-damage|p1a: Alomomola|369/429
+|-crit|p1a: Alomomola
+|-damage|p1a: Alomomola|318/429
+|-damage|p1a: Alomomola|297/429
+|-hitcount|p1a: Alomomola|5
+|-unboost|p2a: Kyurem|def|1
+|-boost|p2a: Kyurem|spe|1
+|
+|upkeep
+|turn|29
+|
+|t:|1776973851
+|move|p2a: Kyurem|Dragon Dance|p2a: Kyurem
+|-boost|p2a: Kyurem|atk|1
+|-boost|p2a: Kyurem|spe|1
+|move|p1a: Alomomola|Wish|p1a: Alomomola
+|
+|upkeep
+|turn|30
+|
+|t:|1776973856
+|switch|p1a: Incineroar|Incineroar, L82, F|125/290
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Kyurem|atk|1
+|move|p2a: Kyurem|Dragon Dance|p2a: Kyurem
+|-boost|p2a: Kyurem|atk|1
+|-boost|p2a: Kyurem|spe|1
+|
+|-heal|p1a: Incineroar|290/290|[from] move: Wish|[wisher] Alomomola
+|upkeep
+|turn|31
+|inactive|AngryD0nut1 has 270 seconds left.
+|
+|t:|1776973873
+|move|p2a: Kyurem|Scale Shot|p1a: Incineroar
+|-damage|p1a: Incineroar|259/290
+|-damage|p1a: Incineroar|229/290
+|-damage|p1a: Incineroar|199/290
+|-damage|p1a: Incineroar|166/290
+|-damage|p1a: Incineroar|136/290
+|-hitcount|p1a: Incineroar|5
+|-unboost|p2a: Kyurem|def|1
+|-boost|p2a: Kyurem|spe|1
+|move|p1a: Incineroar|Close Combat|p2a: Kyurem
+|-supereffective|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|-unboost|p1a: Incineroar|def|1
+|-unboost|p1a: Incineroar|spd|1
+|faint|p2a: Kyurem
+|
+|upkeep
+|
+|t:|1776973888
+|switch|p2a: Walking Wake|Walking Wake, L79, tera:Fire|115/286
+|turn|32
+|
+|t:|1776973893
+|switch|p1a: Alomomola|Alomomola, L87, F|429/429
+|move|p2a: Walking Wake|Hydro Pump|p1a: Alomomola
+|-resisted|p1a: Alomomola
+|-damage|p1a: Alomomola|339/429
+|
+|upkeep
+|turn|33
+|
+|t:|1776973900
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Leafeon|Leafeon, L88, M|212/258
+|move|p1a: Alomomola|Wish|p1a: Alomomola
+|
+|-heal|p2a: Leafeon|228/258|[from] item: Leftovers
+|upkeep
+|turn|34
+|inactive|AngryD0nut1 has 270 seconds left.
+|
+|t:|1776973923
+|switch|p1a: Incineroar|Incineroar, L82, F|136/290
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Leafeon|atk|1
+|move|p2a: Leafeon|Swords Dance|p2a: Leafeon
+|-boost|p2a: Leafeon|atk|2
+|
+|-heal|p1a: Incineroar|290/290|[from] move: Wish|[wisher] Alomomola
+|-heal|p2a: Leafeon|244/258|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1776973941
+|switch|p2a: Walking Wake|Walking Wake, L79, tera:Fire|115/286
+|move|p1a: Incineroar|Overheat|p2a: Walking Wake
+|-resisted|p2a: Walking Wake
+|-damage|p2a: Walking Wake|55/286
+|-unboost|p1a: Incineroar|spa|2
+|
+|upkeep
+|turn|36
+|
+|t:|1776973952
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Leafeon|Leafeon, L88, M|244/258
+|switch|p1a: Alomomola|Alomomola, L87, F|429/429
+|
+|-heal|p2a: Leafeon|258/258|[from] item: Leftovers
+|upkeep
+|turn|37
+|
+|t:|1776973961
+|switch|p1a: Incineroar|Incineroar, L82, F|290/290
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Leafeon|atk|1
+|move|p2a: Leafeon|Leaf Blade|p1a: Incineroar
+|-resisted|p1a: Incineroar
+|-crit|p1a: Incineroar
+|-damage|p1a: Incineroar|200/290
+|
+|upkeep
+|turn|38
+|
+|t:|1776973969
+|move|p2a: Leafeon|Substitute|p2a: Leafeon
+|-start|p2a: Leafeon|Substitute
+|-damage|p2a: Leafeon|194/258
+|move|p1a: Incineroar|Knock Off|p2a: Leafeon
+|-end|p2a: Leafeon|Substitute
+|
+|-heal|p2a: Leafeon|210/258|[from] item: Leftovers
+|upkeep
+|turn|39
+|inactive|AngryD0nut1 has 270 seconds left.
+|
+|t:|1776973980
+|move|p2a: Leafeon|Double-Edge|p1a: Incineroar
+|-damage|p1a: Incineroar|135/290
+|-damage|p2a: Leafeon|189/258|[from] Recoil
+|move|p1a: Incineroar|Knock Off|p2a: Leafeon
+|-crit|p2a: Leafeon
+|-damage|p2a: Leafeon|74/258
+|-enditem|p2a: Leafeon|Leftovers|[from] move: Knock Off|[of] p1a: Incineroar
+|
+|upkeep
+|turn|40
+|inactive|AngryD0nut1 has 270 seconds left.
+|
+|t:|1776973996
+|switch|p2a: Walking Wake|Walking Wake, L79, tera:Fire|55/286
+|move|p1a: Incineroar|Knock Off|p2a: Walking Wake
+|-crit|p2a: Walking Wake
+|-damage|p2a: Walking Wake|0 fnt
+|faint|p2a: Walking Wake
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1776974002
+|switch|p2a: Leafeon|Leafeon, L88, M|74/258
+|turn|41
+|
+|t:|1776974014
+|move|p2a: Leafeon|Double-Edge|p1a: Incineroar
+|-damage|p1a: Incineroar|22/290
+|-damage|p2a: Leafeon|37/258|[from] Recoil
+|move|p1a: Incineroar|Close Combat|p2a: Leafeon
+|-damage|p2a: Leafeon|0 fnt
+|-unboost|p1a: Incineroar|def|1
+|-unboost|p1a: Incineroar|spd|1
+|faint|p2a: Leafeon
+|
+|win|AmokomA

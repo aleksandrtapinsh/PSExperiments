@@ -1,0 +1,433 @@
+|j|☆LilWheenus
+|j|☆strauzi
+|t:|1776976282
+|gametype|singles
+|player|p1|LilWheenus|hiker-gen4|1000
+|player|p2|strauzi|101|1000
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776976282
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Umbreon|Umbreon, L84, M|297/297
+|switch|p2a: Iron Jugulis|Iron Jugulis, L77|271/271
+|turn|1
+|
+|t:|1776976299
+|move|p2a: Iron Jugulis|Dark Pulse|p1a: Umbreon
+|-resisted|p1a: Umbreon
+|-damage|p1a: Umbreon|249/297
+|move|p1a: Umbreon|Toxic|p2a: Iron Jugulis
+|-status|p2a: Iron Jugulis|tox
+|
+|-heal|p1a: Umbreon|267/297|[from] item: Leftovers
+|-damage|p2a: Iron Jugulis|255/271 tox|[from] psn
+|upkeep
+|turn|2
+|
+|t:|1776976314
+|-end|p2a: Iron Jugulis|Quark Drive|[silent]
+|switch|p2a: Houndstone|Houndstone, L86, F|264/264
+|move|p1a: Umbreon|Wish|p1a: Umbreon
+|
+|-heal|p1a: Umbreon|285/297|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776976327
+|move|p2a: Houndstone|Body Press|p1a: Umbreon
+|-supereffective|p1a: Umbreon
+|-damage|p1a: Umbreon|179/297
+|move|p1a: Umbreon|Toxic|p2a: Houndstone
+|-status|p2a: Houndstone|tox
+|
+|-heal|p1a: Umbreon|297/297|[from] move: Wish|[wisher] Umbreon
+|-damage|p2a: Houndstone|248/264 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1776976345
+|move|p2a: Houndstone|Poltergeist|p1a: Umbreon|[miss]
+|-miss|p2a: Houndstone|p1a: Umbreon
+|move|p1a: Umbreon|Wish|p1a: Umbreon
+|
+|-damage|p2a: Houndstone|216/264 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1776976354
+|move|p2a: Houndstone|Poltergeist|p1a: Umbreon|[miss]
+|-miss|p2a: Houndstone|p1a: Umbreon
+|move|p1a: Umbreon|Foul Play|p2a: Houndstone
+|-supereffective|p2a: Houndstone
+|-damage|p2a: Houndstone|126/264 tox
+|
+|-damage|p2a: Houndstone|78/264 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1776976364
+|move|p2a: Houndstone|Shadow Sneak|p1a: Umbreon
+|-resisted|p1a: Umbreon
+|-damage|p1a: Umbreon|279/297
+|move|p1a: Umbreon|Wish|p1a: Umbreon
+|
+|-heal|p1a: Umbreon|297/297|[from] item: Leftovers
+|-damage|p2a: Houndstone|14/264 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1776976374
+|move|p1a: Umbreon|Protect|p1a: Umbreon
+|-singleturn|p1a: Umbreon|Protect
+|move|p2a: Houndstone|Body Press|p1a: Umbreon
+|-activate|p1a: Umbreon|move: Protect
+|
+|-damage|p2a: Houndstone|0 fnt|[from] psn
+|faint|p2a: Houndstone
+|upkeep
+|
+|t:|1776976382
+|switch|p2a: Incineroar|Incineroar, L82, M|290/290
+|-ability|p2a: Incineroar|Intimidate|boost
+|-unboost|p1a: Umbreon|atk|1
+|turn|8
+|
+|t:|1776976389
+|move|p1a: Umbreon|Toxic|p2a: Incineroar
+|-status|p2a: Incineroar|tox
+|move|p2a: Incineroar|Knock Off|p1a: Umbreon
+|-resisted|p1a: Umbreon
+|-damage|p1a: Umbreon|226/297
+|-enditem|p1a: Umbreon|Leftovers|[from] move: Knock Off|[of] p2a: Incineroar
+|
+|-damage|p2a: Incineroar|272/290 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1776976406
+|move|p1a: Umbreon|Protect|p1a: Umbreon
+|-singleturn|p1a: Umbreon|Protect
+|move|p2a: Incineroar|Knock Off|p1a: Umbreon
+|-activate|p1a: Umbreon|move: Protect
+|
+|-damage|p2a: Incineroar|236/290 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1776976414
+|move|p1a: Umbreon|Wish|p1a: Umbreon
+|move|p2a: Incineroar|Knock Off|p1a: Umbreon
+|-resisted|p1a: Umbreon
+|-damage|p1a: Umbreon|179/297
+|
+|-damage|p2a: Incineroar|182/290 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1776976421
+|switch|p2a: Salamence|Salamence, L77, F|273/273
+|move|p1a: Umbreon|Foul Play|p2a: Salamence
+|-damage|p2a: Salamence|146/273
+|
+|-heal|p1a: Umbreon|297/297|[from] move: Wish|[wisher] Umbreon
+|upkeep
+|turn|12
+|
+|t:|1776976429
+|move|p2a: Salamence|Outrage|p1a: Umbreon
+|-damage|p1a: Umbreon|179/297
+|move|p1a: Umbreon|Toxic|p2a: Salamence
+|-status|p2a: Salamence|tox
+|
+|-damage|p2a: Salamence|129/273 tox|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1776976440
+|move|p1a: Umbreon|Protect|p1a: Umbreon
+|-singleturn|p1a: Umbreon|Protect
+|move|p2a: Salamence|Outrage|p1a: Umbreon|[from] lockedmove
+|-activate|p1a: Umbreon|move: Protect
+|
+|-damage|p2a: Salamence|95/273 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1776976449
+|move|p2a: Salamence|Outrage|p1a: Umbreon
+|-damage|p1a: Umbreon|59/297
+|move|p1a: Umbreon|Wish|p1a: Umbreon
+|
+|-damage|p2a: Salamence|44/273 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1776976457
+|move|p1a: Umbreon|Protect|p1a: Umbreon
+|-singleturn|p1a: Umbreon|Protect
+|move|p2a: Salamence|Outrage|p1a: Umbreon|[from] lockedmove
+|-activate|p1a: Umbreon|move: Protect
+|
+|-heal|p1a: Umbreon|207/297|[from] move: Wish|[wisher] Umbreon
+|-damage|p2a: Salamence|0 fnt|[from] psn
+|faint|p2a: Salamence
+|upkeep
+|
+|t:|1776976466
+|switch|p2a: Iron Jugulis|Iron Jugulis, L77|255/271 tox
+|turn|16
+|
+|t:|1776976471
+|move|p2a: Iron Jugulis|Hurricane|p1a: Umbreon
+|-damage|p1a: Umbreon|83/297
+|move|p1a: Umbreon|Wish|p1a: Umbreon
+|
+|-damage|p2a: Iron Jugulis|239/271 tox|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1776976478
+|move|p1a: Umbreon|Protect|p1a: Umbreon
+|-singleturn|p1a: Umbreon|Protect
+|move|p2a: Iron Jugulis|Hurricane|p1a: Umbreon
+|-activate|p1a: Umbreon|move: Protect
+|
+|-heal|p1a: Umbreon|231/297|[from] move: Wish|[wisher] Umbreon
+|-damage|p2a: Iron Jugulis|207/271 tox|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1776976488
+|move|p2a: Iron Jugulis|Hurricane|p1a: Umbreon|[miss]
+|-miss|p2a: Iron Jugulis|p1a: Umbreon
+|move|p1a: Umbreon|Wish|p1a: Umbreon
+|
+|-damage|p2a: Iron Jugulis|159/271 tox|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1776976496
+|move|p2a: Iron Jugulis|Hurricane|p1a: Umbreon
+|-damage|p1a: Umbreon|95/297
+|move|p1a: Umbreon|Foul Play|p2a: Iron Jugulis
+|-resisted|p2a: Iron Jugulis
+|-damage|p2a: Iron Jugulis|114/271 tox
+|
+|-heal|p1a: Umbreon|243/297|[from] move: Wish|[wisher] Umbreon
+|-damage|p2a: Iron Jugulis|50/271 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1776976507
+|move|p1a: Umbreon|Protect|p1a: Umbreon
+|-singleturn|p1a: Umbreon|Protect
+|move|p2a: Iron Jugulis|Hurricane|p1a: Umbreon
+|-activate|p1a: Umbreon|move: Protect
+|
+|-damage|p2a: Iron Jugulis|0 fnt|[from] psn
+|faint|p2a: Iron Jugulis
+|-end|p2a: Iron Jugulis|Quark Drive|[silent]
+|upkeep
+|
+|t:|1776976514
+|switch|p2a: Incineroar|Incineroar, L82, M|182/290 tox
+|-ability|p2a: Incineroar|Intimidate|boost
+|-unboost|p1a: Umbreon|atk|1
+|turn|21
+|
+|t:|1776976520
+|move|p1a: Umbreon|Wish|p1a: Umbreon
+|move|p2a: Incineroar|Flare Blitz||[still]
+|-damage|p1a: Umbreon|68/297
+|-status|p1a: Umbreon|brn
+|-activate|p1a: Umbreon|ability: Synchronize
+|-fail|p1a: Umbreon
+|-damage|p2a: Incineroar|124/290 tox|[from] Recoil
+|
+|-damage|p2a: Incineroar|106/290 tox|[from] psn
+|-damage|p1a: Umbreon|50/297 brn|[from] brn
+|upkeep
+|turn|22
+|
+|t:|1776976532
+|move|p1a: Umbreon|Protect|p1a: Umbreon
+|-singleturn|p1a: Umbreon|Protect
+|move|p2a: Incineroar|Flare Blitz|p1a: Umbreon
+|-activate|p1a: Umbreon|move: Protect
+|
+|-heal|p1a: Umbreon|198/297 brn|[from] move: Wish|[wisher] Umbreon
+|-damage|p2a: Incineroar|70/290 tox|[from] psn
+|-damage|p1a: Umbreon|180/297 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1776976543
+|move|p1a: Umbreon|Foul Play|p2a: Incineroar
+|-resisted|p2a: Incineroar
+|-damage|p2a: Incineroar|41/290 tox
+|move|p2a: Incineroar|Flare Blitz|p1a: Umbreon
+|-damage|p1a: Umbreon|12/297 brn
+|-damage|p2a: Incineroar|0 fnt|[from] Recoil
+|faint|p2a: Incineroar
+|
+|-damage|p1a: Umbreon|0 fnt|[from] brn
+|faint|p1a: Umbreon
+|upkeep
+|
+|t:|1776976557
+|switch|p1a: Amoonguss|Amoonguss, L82, F|321/321
+|switch|p2a: Komala|Komala, L88, M|258/258
+|-ability|p2a: Komala|Comatose
+|turn|24
+|
+|t:|1776976571
+|move|p2a: Komala|Knock Off|p1a: Amoonguss
+|-damage|p1a: Amoonguss|209/321
+|-damage|p2a: Komala|215/258|[from] item: Rocky Helmet|[of] p1a: Amoonguss
+|-enditem|p1a: Amoonguss|Rocky Helmet|[from] move: Knock Off|[of] p2a: Komala
+|move|p1a: Amoonguss|Sludge Bomb|p2a: Komala
+|-damage|p2a: Komala|166/258
+|
+|upkeep
+|turn|25
+|
+|t:|1776976599
+|switch|p2a: Golduck|Golduck, L90, M|290/290
+|-ability|p2a: Golduck|Cloud Nine
+|move|p1a: Amoonguss|Giga Drain|p2a: Golduck
+|-supereffective|p2a: Golduck
+|-damage|p2a: Golduck|150/290
+|-heal|p1a: Amoonguss|279/321|[from] drain|[of] p2a: Golduck
+|
+|upkeep
+|turn|26
+|
+|t:|1776976609
+|move|p2a: Golduck|Ice Beam|p1a: Amoonguss
+|-supereffective|p1a: Amoonguss
+|-damage|p1a: Amoonguss|66/321
+|-damage|p2a: Golduck|121/290|[from] item: Life Orb
+|move|p1a: Amoonguss|Toxic|p2a: Golduck
+|-status|p2a: Golduck|tox
+|
+|-damage|p2a: Golduck|103/290 tox|[from] psn
+|upkeep
+|turn|27
+|
+|t:|1776976627
+|move|p2a: Golduck|Ice Beam|p1a: Amoonguss
+|-supereffective|p1a: Amoonguss
+|-crit|p1a: Amoonguss
+|-damage|p1a: Amoonguss|0 fnt
+|faint|p1a: Amoonguss
+|-damage|p2a: Golduck|74/290 tox|[from] item: Life Orb
+|
+|-damage|p2a: Golduck|38/290 tox|[from] psn
+|upkeep
+|
+|t:|1776976637
+|switch|p1a: Wo-Chien|Wo-Chien, L83|277/277
+|-ability|p1a: Wo-Chien|Tablets of Ruin
+|turn|28
+|
+|t:|1776976643
+|move|p1a: Wo-Chien|Protect|p1a: Wo-Chien
+|-singleturn|p1a: Wo-Chien|Protect
+|move|p2a: Golduck|Hydro Pump|p1a: Wo-Chien
+|-activate|p1a: Wo-Chien|move: Protect
+|
+|-damage|p2a: Golduck|0 fnt|[from] psn
+|faint|p2a: Golduck
+|upkeep
+|
+|t:|1776976653
+|switch|p2a: Komala|Komala, L88, M|166/258
+|-ability|p2a: Komala|Comatose
+|turn|29
+|
+|t:|1776976661
+|move|p2a: Komala|Body Slam|p1a: Wo-Chien
+|-damage|p1a: Wo-Chien|196/277
+|-status|p1a: Wo-Chien|par
+|move|p1a: Wo-Chien|Leech Seed|p2a: Komala
+|-start|p2a: Komala|move: Leech Seed
+|
+|-heal|p1a: Wo-Chien|213/277 par|[from] item: Leftovers
+|-damage|p2a: Komala|134/258|[from] Leech Seed|[of] p1a: Wo-Chien
+|-heal|p1a: Wo-Chien|245/277 par|[silent]
+|upkeep
+|turn|30
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by LilWheenus)
+|
+|t:|1776976716
+|move|p1a: Wo-Chien|Protect|p1a: Wo-Chien
+|-singleturn|p1a: Wo-Chien|Protect
+|move|p2a: Komala|Knock Off|p1a: Wo-Chien
+|-activate|p1a: Wo-Chien|move: Protect
+|
+|-heal|p1a: Wo-Chien|262/277 par|[from] item: Leftovers
+|-damage|p2a: Komala|102/258|[from] Leech Seed|[of] p1a: Wo-Chien
+|-heal|p1a: Wo-Chien|277/277 par|[silent]
+|upkeep
+|turn|31
+|
+|t:|1776976729
+|move|p2a: Komala|U-turn|p1a: Wo-Chien
+|-supereffective|p1a: Wo-Chien
+|-damage|p1a: Wo-Chien|121/277 par
+|cant|p1a: Wo-Chien|par
+|
+|-heal|p1a: Wo-Chien|138/277 par|[from] item: Leftovers
+|-damage|p2a: Komala|70/258|[from] Leech Seed|[of] p1a: Wo-Chien
+|-heal|p1a: Wo-Chien|170/277 par|[silent]
+|upkeep
+|turn|32
+|
+|t:|1776976739
+|move|p1a: Wo-Chien|Protect|p1a: Wo-Chien
+|-singleturn|p1a: Wo-Chien|Protect
+|move|p2a: Komala|Rapid Spin|p1a: Wo-Chien
+|-activate|p1a: Wo-Chien|move: Protect
+|
+|-heal|p1a: Wo-Chien|187/277 par|[from] item: Leftovers
+|-damage|p2a: Komala|38/258|[from] Leech Seed|[of] p1a: Wo-Chien
+|-heal|p1a: Wo-Chien|219/277 par|[silent]
+|upkeep
+|turn|33
+|
+|t:|1776976759
+|move|p2a: Komala|Body Slam|p1a: Wo-Chien
+|-damage|p1a: Wo-Chien|134/277 par
+|cant|p1a: Wo-Chien|par
+|
+|-heal|p1a: Wo-Chien|151/277 par|[from] item: Leftovers
+|-damage|p2a: Komala|6/258|[from] Leech Seed|[of] p1a: Wo-Chien
+|-heal|p1a: Wo-Chien|183/277 par|[silent]
+|upkeep
+|turn|34
+|
+|t:|1776976771
+|-terastallize|p2a: Komala|Ghost
+|move|p1a: Wo-Chien|Protect|p1a: Wo-Chien
+|-singleturn|p1a: Wo-Chien|Protect
+|move|p2a: Komala|Knock Off|p1a: Wo-Chien
+|-activate|p1a: Wo-Chien|move: Protect
+|
+|-heal|p1a: Wo-Chien|200/277 par|[from] item: Leftovers
+|-damage|p2a: Komala|0 fnt|[from] Leech Seed|[of] p1a: Wo-Chien
+|-heal|p1a: Wo-Chien|206/277 par|[silent]
+|faint|p2a: Komala
+|
+|win|LilWheenus
+|raw|LilWheenus's rating: 1000 &rarr; <strong>1040</strong><br />(+40 for winning)
+|raw|strauzi's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|l|☆strauzi
+|player|p2|

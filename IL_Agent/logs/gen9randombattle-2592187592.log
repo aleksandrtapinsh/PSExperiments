@@ -1,0 +1,290 @@
+|j|☆DJ Identity Fraud
+|j|☆Goldnkinder
+|t:|1776969095
+|gametype|singles
+|player|p1|DJ Identity Fraud|1|1113
+|player|p2|Goldnkinder|swimmer-gen4|1133
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776969095
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Salazzle|Salazzle, L83, F|249/249
+|switch|p2a: Golurk|Golurk, L87|297/297
+|turn|1
+|
+|t:|1776969124
+|switch|p1a: Victreebel|Victreebel, L90, M|290/290
+|move|p2a: Golurk|Earthquake|p1a: Victreebel
+|-damage|p1a: Victreebel|44/290
+|
+|upkeep
+|turn|2
+|
+|t:|1776969143
+|move|p1a: Victreebel|Power Whip|p2a: Golurk
+|-supereffective|p2a: Golurk
+|-damage|p2a: Golurk|0 fnt
+|faint|p2a: Golurk
+|-damage|p1a: Victreebel|15/290|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776969169
+|switch|p2a: Yanmega|Yanmega, L82, F|275/275
+|turn|3
+|
+|t:|1776969178
+|move|p1a: Victreebel|Sucker Punch|p2a: Yanmega
+|-damage|p2a: Yanmega|185/275
+|-damage|p1a: Victreebel|0 fnt|[from] item: Life Orb
+|faint|p1a: Victreebel
+|move|p2a: Yanmega|U-turn|p1: Victreebel|[notarget]
+|-fail|p2a: Yanmega
+|
+|upkeep
+|
+|t:|1776969187
+|switch|p1a: Salazzle|Salazzle, L83, F|249/249
+|turn|4
+|
+|t:|1776969192
+|move|p1a: Salazzle|Sludge Wave|p2a: Yanmega
+|-damage|p2a: Yanmega|34/275
+|move|p2a: Yanmega|U-turn|p1a: Salazzle
+|-resisted|p1a: Salazzle
+|-damage|p1a: Salazzle|213/249
+|
+|t:|1776969203
+|switch|p2a: Great Tusk|Great Tusk, L77|304/304|[from] U-turn
+|
+|upkeep
+|turn|5
+|
+|t:|1776969216
+|-terastallize|p1a: Salazzle|Grass
+|move|p1a: Salazzle|Tera Blast|p2a: Great Tusk|[anim] Tera Blast Grass
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|98/304
+|move|p2a: Great Tusk|Rapid Spin|p1a: Salazzle
+|-damage|p1a: Salazzle|159/249
+|-boost|p2a: Great Tusk|spe|1
+|
+|upkeep
+|turn|6
+|
+|t:|1776969237
+|move|p2a: Great Tusk|Knock Off|p1a: Salazzle
+|-damage|p1a: Salazzle|59/249
+|-enditem|p1a: Salazzle|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Great Tusk
+|move|p1a: Salazzle|Tera Blast|p2a: Great Tusk|[anim] Tera Blast Grass
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1776969243
+|switch|p2a: Yanmega|Yanmega, L82, F|34/275
+|turn|7
+|
+|t:|1776969251
+|move|p1a: Salazzle|Sludge Wave|p2a: Yanmega
+|-crit|p2a: Yanmega
+|-damage|p2a: Yanmega|0 fnt
+|faint|p2a: Yanmega
+|
+|upkeep
+|c|☆Goldnkinder|thats it imma kms
+|c|☆Goldnkinder|im SO slow
+|
+|t:|1776969275
+|switch|p2a: Bisharp|Bisharp, L79, F|232/232
+|turn|8
+|
+|t:|1776969286
+|move|p1a: Salazzle|Fire Blast|p2a: Bisharp|[miss]
+|-miss|p1a: Salazzle|p2a: Bisharp
+|move|p2a: Bisharp|Stealth Rock|p1a: Salazzle
+|-sidestart|p1: DJ Identity Fraud|move: Stealth Rock
+|
+|upkeep
+|turn|9
+|
+|t:|1776969297
+|move|p2a: Bisharp|Sucker Punch|p1a: Salazzle
+|-crit|p1a: Salazzle
+|-damage|p1a: Salazzle|0 fnt
+|faint|p1a: Salazzle
+|
+|upkeep
+|
+|t:|1776969305
+|switch|p1a: Chimecho|Chimecho, L93, F|290/290
+|-damage|p1a: Chimecho|254/290|[from] Stealth Rock
+|turn|10
+|
+|t:|1776969315
+|switch|p1a: Cinccino|Cinccino, L83, F|260/260
+|-damage|p1a: Cinccino|228/260|[from] Stealth Rock
+|move|p2a: Bisharp|Throat Chop|p1a: Cinccino
+|-damage|p1a: Cinccino|102/260
+|-start|p1a: Cinccino|Throat Chop|[silent]
+|
+|upkeep
+|turn|11
+|
+|t:|1776969328
+|move|p2a: Bisharp|Sucker Punch|p1a: Cinccino
+|-damage|p1a: Cinccino|0 fnt
+|faint|p1a: Cinccino
+|
+|upkeep
+|
+|t:|1776969337
+|switch|p1a: Tropius|Tropius, L91, F|328/328
+|-damage|p1a: Tropius|246/328|[from] Stealth Rock
+|turn|12
+|
+|t:|1776969344
+|move|p2a: Bisharp|Throat Chop|p1a: Tropius
+|-damage|p1a: Tropius|152/328
+|-start|p1a: Tropius|Throat Chop|[silent]
+|-enditem|p1a: Tropius|Sitrus Berry|[eat]
+|-heal|p1a: Tropius|234/328|[from] item: Sitrus Berry
+|move|p1a: Tropius|Earthquake|p2a: Bisharp
+|-supereffective|p2a: Bisharp
+|-damage|p2a: Bisharp|156/232
+|
+|-item|p1a: Tropius|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|turn|13
+|
+|t:|1776969359
+|move|p2a: Bisharp|Sucker Punch||[still]
+|-fail|p2a: Bisharp
+|move|p1a: Tropius|Dragon Dance|p1a: Tropius
+|-boost|p1a: Tropius|atk|1
+|-boost|p1a: Tropius|spe|1
+|
+|-end|p1a: Tropius|Throat Chop|[silent]
+|upkeep
+|turn|14
+|
+|t:|1776969378
+|move|p1a: Tropius|Dragon Dance|p1a: Tropius
+|-boost|p1a: Tropius|atk|1
+|-boost|p1a: Tropius|spe|1
+|move|p2a: Bisharp|Iron Head|p1a: Tropius
+|-damage|p1a: Tropius|149/328
+|-enditem|p1a: Tropius|Sitrus Berry|[eat]
+|-heal|p1a: Tropius|231/328|[from] item: Sitrus Berry
+|
+|-item|p1a: Tropius|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|turn|15
+|
+|t:|1776969391
+|move|p1a: Tropius|Earthquake|p2a: Bisharp
+|-supereffective|p2a: Bisharp
+|-damage|p2a: Bisharp|6/232
+|move|p2a: Bisharp|Iron Head|p1a: Tropius
+|-damage|p1a: Tropius|134/328
+|-enditem|p1a: Tropius|Sitrus Berry|[eat]
+|-heal|p1a: Tropius|216/328|[from] item: Sitrus Berry
+|
+|-item|p1a: Tropius|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|turn|16
+|
+|t:|1776969403
+|move|p1a: Tropius|Synthesis|p1a: Tropius
+|-heal|p1a: Tropius|328/328
+|move|p2a: Bisharp|Throat Chop|p1a: Tropius
+|-damage|p1a: Tropius|234/328
+|-start|p1a: Tropius|Throat Chop|[silent]
+|
+|upkeep
+|turn|17
+|
+|t:|1776969413
+|move|p2a: Bisharp|Sucker Punch|p1a: Tropius
+|-damage|p1a: Tropius|158/328
+|-enditem|p1a: Tropius|Sitrus Berry|[eat]
+|-heal|p1a: Tropius|240/328|[from] item: Sitrus Berry
+|move|p1a: Tropius|Dual Wingbeat|p2a: Bisharp
+|-resisted|p2a: Bisharp
+|-damage|p2a: Bisharp|0 fnt
+|faint|p2a: Bisharp
+|-hitcount|p2: Bisharp|1
+|
+|-end|p1a: Tropius|Throat Chop|[silent]
+|upkeep
+|
+|t:|1776969424
+|switch|p2a: Deoxys|Deoxys, L74|196/196
+|-ability|p2a: Deoxys|Pressure
+|turn|18
+|c|☆DJ Identity Fraud|yummy berries
+|c|☆Goldnkinder|grrrr :'(
+|
+|t:|1776969461
+|move|p1a: Tropius|Dual Wingbeat|p2a: Deoxys
+|-damage|p2a: Deoxys|78/196
+|-damage|p2a: Deoxys|0 fnt
+|faint|p2a: Deoxys
+|-hitcount|p2: Deoxys|2
+|
+|-item|p1a: Tropius|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|
+|t:|1776969468
+|switch|p2a: Carbink|Carbink, L90|236/236
+|turn|19
+|
+|t:|1776969485
+|move|p1a: Tropius|Earthquake|p2a: Carbink
+|-supereffective|p2a: Carbink
+|-damage|p2a: Carbink|88/236
+|move|p2a: Carbink|Moonblast|p1a: Tropius
+|-damage|p1a: Tropius|167/328
+|-unboost|p1a: Tropius|spa|1
+|
+|upkeep
+|turn|20
+|
+|t:|1776969498
+|-terastallize|p2a: Carbink|Fighting
+|move|p1a: Tropius|Synthesis|p1a: Tropius
+|-heal|p1a: Tropius|328/328
+|move|p2a: Carbink|Moonblast|p1a: Tropius
+|-crit|p1a: Tropius
+|-damage|p1a: Tropius|222/328
+|-unboost|p1a: Tropius|spa|1
+|
+|upkeep
+|turn|21
+|c|☆DJ Identity Fraud|dude
+|c|☆Goldnkinder|JUST END IT BRO
+|
+|t:|1776969513
+|move|p1a: Tropius|Dual Wingbeat|p2a: Carbink
+|-supereffective|p2a: Carbink
+|-damage|p2a: Carbink|0 fnt
+|faint|p2a: Carbink
+|-hitcount|p2: Carbink|1
+|
+|win|DJ Identity Fraud
+|raw|DJ Identity Fraud's rating: 1113 &rarr; <strong>1139</strong><br />(+26 for winning)
+|raw|Goldnkinder's rating: 1133 &rarr; <strong>1107</strong><br />(-26 for losing)
+|c|☆DJ Identity Fraud|gg
+|l|☆Goldnkinder
+|player|p2|

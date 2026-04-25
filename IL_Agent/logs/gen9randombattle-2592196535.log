@@ -1,0 +1,179 @@
+|j|☆Apfelzinho
+|j|☆ak_the_gr8
+|t:|1776969686
+|gametype|singles
+|player|p1|Apfelzinho|266|1141
+|player|p2|ak_the_gr8|pokemonrangerf-gen4|1191
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776969686
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Bronzong|Bronzong, L88|261/261
+|switch|p2a: Ursaring|Ursaring, L84, M|288/288
+|turn|1
+|
+|t:|1776969707
+|-terastallize|p2a: Ursaring|Ground
+|move|p2a: Ursaring|Earthquake|p1a: Bronzong
+|-immune|p1a: Bronzong|[from] ability: Levitate
+|move|p1a: Bronzong|Body Press|p2a: Ursaring
+|-damage|p2a: Ursaring|232/288
+|
+|upkeep
+|turn|2
+|
+|t:|1776969743
+|switch|p2a: Tatsugiri|Tatsugiri, L87, M|260/260
+|move|p1a: Bronzong|Iron Defense|p1a: Bronzong
+|-boost|p1a: Bronzong|def|2
+|
+|upkeep
+|turn|3
+|
+|t:|1776969756
+|-terastallize|p1a: Bronzong|Fighting
+|move|p2a: Tatsugiri|Nasty Plot|p2a: Tatsugiri
+|-boost|p2a: Tatsugiri|spa|2
+|move|p1a: Bronzong|Iron Defense|p1a: Bronzong
+|-boost|p1a: Bronzong|def|2
+|
+|upkeep
+|turn|4
+|
+|t:|1776969764
+|move|p2a: Tatsugiri|Nasty Plot|p2a: Tatsugiri
+|-boost|p2a: Tatsugiri|spa|2
+|move|p1a: Bronzong|Body Press|p2a: Tatsugiri
+|-damage|p2a: Tatsugiri|0 fnt
+|faint|p2a: Tatsugiri
+|
+|upkeep
+|
+|t:|1776969772
+|switch|p2a: Chesnaught|Chesnaught, L84, F|285/285
+|turn|5
+|
+|t:|1776969781
+|move|p2a: Chesnaught|Trailblaze|p1a: Bronzong
+|-damage|p1a: Bronzong|245/261
+|-boost|p2a: Chesnaught|spe|1
+|move|p1a: Bronzong|Psychic Noise|p2a: Chesnaught
+|-supereffective|p2a: Chesnaught
+|-damage|p2a: Chesnaught|105/285
+|-start|p2a: Chesnaught|move: Heal Block
+|
+|-heal|p1a: Bronzong|261/261|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776969802
+|move|p2a: Chesnaught|Body Press|p1a: Bronzong
+|-damage|p1a: Bronzong|233/261
+|move|p1a: Bronzong|Body Press|p2a: Chesnaught
+|-damage|p2a: Chesnaught|0 fnt
+|faint|p2a: Chesnaught
+|
+|-heal|p1a: Bronzong|249/261|[from] item: Leftovers
+|upkeep
+|
+|t:|1776969815
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, L76, F|247/247
+|turn|7
+|
+|t:|1776969825
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Bronzong|[anim] Ivy Cudgel Water
+|-damage|p1a: Bronzong|215/261
+|move|p1a: Bronzong|Body Press|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|-heal|p1a: Bronzong|231/261|[from] item: Leftovers
+|upkeep
+|
+|t:|1776969835
+|switch|p2a: Illumise|Illumise, L91, F|266/266
+|turn|8
+|
+|t:|1776969845
+|move|p2a: Illumise|Thunder Wave|p1a: Bronzong|[miss]
+|-miss|p2a: Illumise|p1a: Bronzong
+|move|p1a: Bronzong|Body Press|p2a: Illumise
+|-resisted|p2a: Illumise
+|-damage|p2a: Illumise|106/266
+|
+|-heal|p1a: Bronzong|247/261|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776969854
+|move|p2a: Illumise|Thunder Wave|p1a: Bronzong
+|-status|p1a: Bronzong|par
+|move|p1a: Bronzong|Body Press|p2a: Illumise
+|-resisted|p2a: Illumise
+|-damage|p2a: Illumise|0 fnt
+|faint|p2a: Illumise
+|
+|-heal|p1a: Bronzong|261/261 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1776969862
+|switch|p2a: Ursaring|Ursaring, L84, M, tera:Ground|232/288
+|turn|10
+|
+|t:|1776969870
+|move|p2a: Ursaring|Rest|p2a: Ursaring
+|-status|p2a: Ursaring|slp|[from] move: Rest
+|-heal|p2a: Ursaring|288/288 slp|[silent]
+|move|p1a: Bronzong|Body Press|p2a: Ursaring
+|-damage|p2a: Ursaring|30/288 slp
+|
+|upkeep
+|turn|11
+|
+|t:|1776969882
+|cant|p2a: Ursaring|slp
+|move|p2a: Ursaring|Sleep Talk|p2a: Ursaring
+|move|p2a: Ursaring|Earthquake|p1a: Bronzong|[from] move: Sleep Talk
+|-immune|p1a: Bronzong|[from] ability: Levitate
+|move|p1a: Bronzong|Body Press|p2a: Ursaring
+|-damage|p2a: Ursaring|0 fnt
+|faint|p2a: Ursaring
+|
+|upkeep
+|
+|t:|1776969891
+|switch|p2a: Bellibolt|Bellibolt, L84, M|320/320
+|turn|12
+|
+|t:|1776969901
+|move|p2a: Bellibolt|Toxic||[still]
+|-fail|p2a: Bellibolt
+|move|p1a: Bronzong|Body Press|p2a: Bellibolt
+|-damage|p2a: Bellibolt|13/320
+|-start|p2a: Bellibolt|Charge|Body Press|[from] ability: Electromorphosis
+|
+|-heal|p2a: Bellibolt|33/320|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776969918
+|move|p2a: Bellibolt|Thunderbolt|p1a: Bronzong
+|-damage|p1a: Bronzong|113/261 par
+|-end|p2a: Bellibolt|Charge|[silent]
+|move|p1a: Bronzong|Body Press|p2a: Bellibolt
+|-damage|p2a: Bellibolt|0 fnt
+|faint|p2a: Bellibolt
+|
+|win|Apfelzinho
+|raw|Apfelzinho's rating: 1141 &rarr; <strong>1170</strong><br />(+29 for winning)
+|raw|ak_the_gr8's rating: 1191 &rarr; <strong>1162</strong><br />(-29 for losing)
+|l|☆ak_the_gr8
+|player|p2|

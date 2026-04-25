@@ -1,0 +1,403 @@
+|j|☆jex b
+|j|☆vfbdfbvcgfnvbngn
+|t:|1776980294
+|gametype|singles
+|player|p1|jex b|dragontamer|1239
+|player|p2|vfbdfbvcgfnvbngn|102|1269
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776980294
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Lokix|Lokix, L82, M|251/251
+|switch|p2a: Slowbro|Slowbro-Galar, L87, M|307/307
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by jex b)
+|
+|t:|1776980311
+|switch|p2a: Noivern|Noivern, L82, M|274/274
+|-terastallize|p1a: Lokix|Dark
+|move|p1a: Lokix|Sucker Punch||[still]
+|-fail|p1a: Lokix
+|
+|upkeep
+|turn|2
+|
+|t:|1776980325
+|move|p2a: Noivern|Hurricane|p1a: Lokix|[miss]
+|-miss|p2a: Noivern|p1a: Lokix
+|move|p1a: Lokix|Swords Dance|p1a: Lokix
+|-boost|p1a: Lokix|atk|2
+|
+|upkeep
+|turn|3
+|
+|t:|1776980339
+|move|p1a: Lokix|Sucker Punch|p2a: Noivern
+|-damage|p2a: Noivern|0 fnt
+|faint|p2a: Noivern
+|-damage|p1a: Lokix|226/251|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776980342
+|switch|p2a: Luvdisc|Luvdisc, F|247/247
+|turn|4
+|
+|t:|1776980347
+|move|p1a: Lokix|Sucker Punch||[still]
+|-fail|p1a: Lokix
+|move|p2a: Luvdisc|Substitute|p2a: Luvdisc
+|-start|p2a: Luvdisc|Substitute
+|-damage|p2a: Luvdisc|186/247
+|
+|upkeep
+|turn|5
+|
+|t:|1776980352
+|move|p2a: Luvdisc|Whirlpool|p1a: Lokix
+|-damage|p1a: Lokix|181/251
+|-activate|p1a: Lokix|move: Whirlpool|[of] p2a: Luvdisc
+|move|p1a: Lokix|Knock Off|p2a: Luvdisc
+|-end|p2a: Luvdisc|Substitute
+|-damage|p1a: Lokix|156/251|[from] item: Life Orb
+|
+|-damage|p1a: Lokix|125/251|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|6
+|
+|t:|1776980361
+|move|p2a: Luvdisc|Substitute|p2a: Luvdisc
+|-start|p2a: Luvdisc|Substitute
+|-damage|p2a: Luvdisc|125/247
+|move|p1a: Lokix|Leech Life|p2a: Luvdisc
+|-end|p2a: Luvdisc|Substitute
+|-heal|p1a: Lokix|156/251|[from] drain|[of] p2a: Luvdisc
+|-damage|p1a: Lokix|131/251|[from] item: Life Orb
+|
+|-damage|p1a: Lokix|100/251|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|7
+|
+|t:|1776980370
+|move|p2a: Luvdisc|Substitute|p2a: Luvdisc
+|-start|p2a: Luvdisc|Substitute
+|-damage|p2a: Luvdisc|64/247
+|move|p1a: Lokix|Leech Life|p2a: Luvdisc
+|-end|p2a: Luvdisc|Substitute
+|-heal|p1a: Lokix|131/251|[from] drain|[of] p2a: Luvdisc
+|-damage|p1a: Lokix|106/251|[from] item: Life Orb
+|
+|-damage|p1a: Lokix|75/251|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|8
+|
+|t:|1776980379
+|move|p2a: Luvdisc|Surf|p1a: Lokix
+|-damage|p1a: Lokix|0 fnt
+|faint|p1a: Lokix
+|
+|upkeep
+|
+|t:|1776980389
+|switch|p1a: Minun|Minun, L95, F|268/268
+|turn|9
+|
+|t:|1776980394
+|move|p2a: Luvdisc|Substitute|p2a: Luvdisc
+|-start|p2a: Luvdisc|Substitute
+|-damage|p2a: Luvdisc|3/247
+|move|p1a: Minun|Nasty Plot|p1a: Minun
+|-boost|p1a: Minun|spa|2
+|
+|upkeep
+|turn|10
+|
+|t:|1776980407
+|move|p2a: Luvdisc|Endeavor|p1a: Minun
+|-damage|p1a: Minun|3/268
+|move|p1a: Minun|Alluring Voice|p2a: Luvdisc
+|-damage|p2a: Luvdisc|0 fnt
+|faint|p2a: Luvdisc
+|-damage|p1a: Minun|0 fnt|[from] item: Life Orb
+|faint|p1a: Minun
+|
+|upkeep
+|
+|t:|1776980421
+|switch|p2a: Slowbro|Slowbro-Galar, L87, M|307/307
+|switch|p1a: Kilowattrel|Kilowattrel, L83, M|252/252
+|turn|11
+|
+|t:|1776980435
+|move|p1a: Kilowattrel|Thunderbolt|p2a: Slowbro
+|-damage|p2a: Slowbro|202/307
+|-status|p2a: Slowbro|par
+|move|p2a: Slowbro|Shell Side Arm|p1a: Kilowattrel|[anim] Shell Side Arm Special
+|-damage|p1a: Kilowattrel|111/252
+|-hint|Special Shell Side Arm
+|
+|-heal|p2a: Slowbro|221/307 par|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776980445
+|move|p1a: Kilowattrel|Roost|p1a: Kilowattrel
+|-heal|p1a: Kilowattrel|237/252
+|-singleturn|p1a: Kilowattrel|move: Roost
+|move|p2a: Slowbro|Shell Side Arm|p1a: Kilowattrel|[anim] Shell Side Arm Special
+|-damage|p1a: Kilowattrel|98/252
+|-hint|Special Shell Side Arm
+|
+|-heal|p2a: Slowbro|240/307 par|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776980453
+|move|p1a: Kilowattrel|Roost|p1a: Kilowattrel
+|-heal|p1a: Kilowattrel|224/252
+|-singleturn|p1a: Kilowattrel|move: Roost
+|move|p2a: Slowbro|Shell Side Arm|p1a: Kilowattrel|[anim] Shell Side Arm Special
+|-damage|p1a: Kilowattrel|94/252
+|-hint|Special Shell Side Arm
+|
+|-heal|p2a: Slowbro|259/307 par|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1776980461
+|move|p1a: Kilowattrel|Roost|p1a: Kilowattrel
+|-heal|p1a: Kilowattrel|220/252
+|-singleturn|p1a: Kilowattrel|move: Roost
+|cant|p2a: Slowbro|par
+|
+|-heal|p2a: Slowbro|278/307 par|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1776980474
+|move|p1a: Kilowattrel|Hurricane|p2a: Slowbro
+|-damage|p2a: Slowbro|130/307 par
+|move|p2a: Slowbro|Shell Side Arm|p1a: Kilowattrel|[anim] Shell Side Arm Special
+|-damage|p1a: Kilowattrel|79/252
+|-hint|Special Shell Side Arm
+|
+|-heal|p2a: Slowbro|149/307 par|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776980485
+|move|p1a: Kilowattrel|Hurricane|p2a: Slowbro
+|-crit|p2a: Slowbro
+|-damage|p2a: Slowbro|0 fnt
+|faint|p2a: Slowbro
+|
+|upkeep
+|
+|t:|1776980490
+|switch|p2a: Houndoom|Houndoom, L87, F|272/272
+|turn|17
+|
+|t:|1776980505
+|move|p1a: Kilowattrel|Hurricane|p2a: Houndoom|[miss]
+|-miss|p1a: Kilowattrel|p2a: Houndoom
+|move|p2a: Houndoom|Fire Blast|p1a: Kilowattrel
+|-damage|p1a: Kilowattrel|0 fnt
+|faint|p1a: Kilowattrel
+|
+|upkeep
+|
+|t:|1776980516
+|switch|p1a: Urshifu|Urshifu, L74, M|270/270
+|turn|18
+|
+|t:|1776980521
+|move|p2a: Houndoom|Fire Blast|p1a: Urshifu|[miss]
+|-miss|p2a: Houndoom|p1a: Urshifu
+|move|p1a: Urshifu|Close Combat|p2a: Houndoom
+|-supereffective|p2a: Houndoom
+|-damage|p2a: Houndoom|0 fnt
+|-unboost|p1a: Urshifu|def|1
+|-unboost|p1a: Urshifu|spd|1
+|faint|p2a: Houndoom
+|
+|upkeep
+|
+|t:|1776980523
+|switch|p2a: Cramorant|Cramorant, L86, M|261/261
+|turn|19
+|
+|t:|1776980534
+|switch|p1a: Lucario|Lucario, L84, F|255/255
+|move|p2a: Cramorant|Brave Bird|p1a: Lucario
+|-damage|p1a: Lucario|125/255
+|-damage|p2a: Cramorant|218/261|[from] Recoil
+|
+|upkeep
+|turn|20
+|
+|t:|1776980549
+|switch|p2a: Exeggutor|Exeggutor, L89, M|312/312
+|move|p1a: Lucario|Vacuum Wave|p2a: Exeggutor
+|-resisted|p2a: Exeggutor
+|-damage|p2a: Exeggutor|281/312
+|-damage|p1a: Lucario|100/255|[from] item: Life Orb
+|
+|upkeep
+|turn|21
+|
+|t:|1776980558
+|move|p1a: Lucario|Flash Cannon|p2a: Exeggutor
+|-damage|p2a: Exeggutor|139/312
+|-enditem|p2a: Exeggutor|Sitrus Berry|[eat]
+|-heal|p2a: Exeggutor|217/312|[from] item: Sitrus Berry
+|-damage|p1a: Lucario|75/255|[from] item: Life Orb
+|move|p2a: Exeggutor|Substitute|p2a: Exeggutor
+|-start|p2a: Exeggutor|Substitute
+|-damage|p2a: Exeggutor|139/312
+|
+|-item|p2a: Exeggutor|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|-enditem|p2a: Exeggutor|Sitrus Berry|[eat]
+|-heal|p2a: Exeggutor|217/312|[from] item: Sitrus Berry
+|turn|22
+|
+|t:|1776980574
+|move|p1a: Lucario|Flash Cannon|p2a: Exeggutor
+|-end|p2a: Exeggutor|Substitute
+|-damage|p1a: Lucario|50/255|[from] item: Life Orb
+|move|p2a: Exeggutor|Psychic Noise|p1a: Lucario
+|-damage|p1a: Lucario|0 fnt
+|faint|p1a: Lucario
+|
+|upkeep
+|
+|t:|1776980586
+|switch|p1a: Volcarona|Volcarona, L77, F|257/257
+|turn|23
+|
+|t:|1776980591
+|move|p1a: Volcarona|Fiery Dance|p2a: Exeggutor
+|-supereffective|p2a: Exeggutor
+|-damage|p2a: Exeggutor|17/312
+|-boost|p1a: Volcarona|spa|1
+|move|p2a: Exeggutor|Sleep Powder|p1a: Volcarona
+|-status|p1a: Volcarona|slp|[from] move: Sleep Powder
+|
+|upkeep
+|turn|24
+|
+|t:|1776980602
+|switch|p2a: Cramorant|Cramorant, L86, M|218/261
+|cant|p1a: Volcarona|slp
+|
+|upkeep
+|turn|25
+|
+|t:|1776980607
+|switch|p1a: Urshifu|Urshifu, L74, M|270/270
+|move|p2a: Cramorant|Brave Bird|p1a: Urshifu
+|-supereffective|p1a: Urshifu
+|-damage|p1a: Urshifu|42/270
+|-damage|p2a: Cramorant|143/261|[from] Recoil
+|
+|upkeep
+|turn|26
+|
+|t:|1776980623
+|move|p1a: Urshifu|Sucker Punch||[still]
+|-fail|p1a: Urshifu
+|move|p2a: Cramorant|Roost|p2a: Cramorant
+|-heal|p2a: Cramorant|261/261
+|-singleturn|p2a: Cramorant|move: Roost
+|
+|upkeep
+|turn|27
+|
+|t:|1776980630
+|move|p1a: Urshifu|Sucker Punch||[still]
+|-fail|p1a: Urshifu
+|move|p2a: Cramorant|Defog|p1a: Urshifu
+|-unboost|p1a: Urshifu|evasion|1
+|
+|upkeep
+|turn|28
+|
+|t:|1776980635
+|move|p1a: Urshifu|Sucker Punch||[still]
+|-fail|p1a: Urshifu
+|move|p2a: Cramorant|Defog|p1a: Urshifu
+|-unboost|p1a: Urshifu|evasion|1
+|
+|upkeep
+|turn|29
+|
+|t:|1776980640
+|move|p1a: Urshifu|Sucker Punch||[still]
+|-fail|p1a: Urshifu
+|move|p2a: Cramorant|Defog|p1a: Urshifu
+|-unboost|p1a: Urshifu|evasion|1
+|
+|upkeep
+|turn|30
+|
+|t:|1776980645
+|move|p1a: Urshifu|Sucker Punch||[still]
+|-fail|p1a: Urshifu
+|move|p2a: Cramorant|Defog|p1a: Urshifu
+|-unboost|p1a: Urshifu|evasion|1
+|
+|upkeep
+|turn|31
+|
+|t:|1776980650
+|move|p1a: Urshifu|Sucker Punch||[still]
+|-fail|p1a: Urshifu
+|move|p2a: Cramorant|Defog|p1a: Urshifu
+|-unboost|p1a: Urshifu|evasion|1
+|
+|upkeep
+|turn|32
+|
+|t:|1776980655
+|switch|p1a: Volcarona|Volcarona, L77, F|257/257 slp
+|move|p2a: Cramorant|Defog|p1a: Volcarona
+|-unboost|p1a: Volcarona|evasion|1
+|
+|upkeep
+|turn|33
+|
+|t:|1776980663
+|switch|p1a: Urshifu|Urshifu, L74, M|42/270
+|move|p2a: Cramorant|Brave Bird|p1a: Urshifu
+|-supereffective|p1a: Urshifu
+|-damage|p1a: Urshifu|0 fnt
+|faint|p1a: Urshifu
+|-damage|p2a: Cramorant|247/261|[from] Recoil
+|
+|upkeep
+|
+|t:|1776980670
+|switch|p1a: Volcarona|Volcarona, L77, F|257/257 slp
+|turn|34
+|
+|t:|1776980677
+|cant|p1a: Volcarona|slp
+|move|p2a: Cramorant|Brave Bird|p1a: Volcarona
+|-supereffective|p1a: Volcarona
+|-damage|p1a: Volcarona|0 fnt
+|faint|p1a: Volcarona
+|-damage|p2a: Cramorant|162/261|[from] Recoil
+|
+|win|vfbdfbvcgfnvbngn
+|raw|jex b's rating: 1239 &rarr; <strong>1216</strong><br />(-23 for losing)
+|raw|vfbdfbvcgfnvbngn's rating: 1269 &rarr; <strong>1292</strong><br />(+23 for winning)
+|l|☆jex b
+|player|p1|

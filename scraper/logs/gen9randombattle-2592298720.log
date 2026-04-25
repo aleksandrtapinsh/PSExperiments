@@ -1,0 +1,189 @@
+|j|☆tuk101
+|j|☆yurties
+|t:|1776976898
+|gametype|singles
+|player|p1|tuk101|266|
+|player|p2|yurties|102|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776976898
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Scyther|Scyther, L82, F|249/249
+|switch|p2a: Deoxys|Deoxys-Speed, L82|216/216
+|-ability|p2a: Deoxys|Pressure
+|turn|1
+|
+|t:|1776976928
+|switch|p2a: Gumshoos|Gumshoos, L95, M|321/321
+|move|p1a: Scyther|Bug Bite|p2a: Gumshoos
+|-damage|p2a: Gumshoos|212/321
+|
+|upkeep
+|turn|2
+|
+|t:|1776976933
+|move|p1a: Scyther|Swords Dance|p1a: Scyther
+|-boost|p1a: Scyther|atk|2
+|move|p2a: Gumshoos|Knock Off|p1a: Scyther
+|-damage|p1a: Scyther|146/249
+|-enditem|p1a: Scyther|Eviolite|[from] move: Knock Off|[of] p2a: Gumshoos
+|
+|upkeep
+|turn|3
+|
+|t:|1776976939
+|move|p1a: Scyther|Close Combat|p2a: Gumshoos
+|-supereffective|p2a: Gumshoos
+|-damage|p2a: Gumshoos|0 fnt
+|-unboost|p1a: Scyther|def|1
+|-unboost|p1a: Scyther|spd|1
+|faint|p2a: Gumshoos
+|
+|upkeep
+|
+|t:|1776976957
+|switch|p2a: Mewtwo|Mewtwo, L72|272/272
+|-ability|p2a: Mewtwo|Unnerve
+|turn|4
+|
+|t:|1776976964
+|move|p2a: Mewtwo|Fire Blast|p1a: Scyther|[miss]
+|-miss|p2a: Mewtwo|p1a: Scyther
+|move|p1a: Scyther|Bug Bite|p2a: Mewtwo
+|-supereffective|p2a: Mewtwo
+|-crit|p2a: Mewtwo
+|-damage|p2a: Mewtwo|0 fnt
+|faint|p2a: Mewtwo
+|
+|upkeep
+|
+|t:|1776976971
+|switch|p2a: Deoxys|Deoxys-Speed, L82|216/216
+|-ability|p2a: Deoxys|Pressure
+|turn|5
+|
+|t:|1776976978
+|move|p2a: Deoxys|Knock Off|p1a: Scyther
+|-damage|p1a: Scyther|72/249
+|move|p1a: Scyther|Bug Bite|p2a: Deoxys
+|-supereffective|p2a: Deoxys
+|-enditem|p2a: Deoxys|Focus Sash
+|-damage|p2a: Deoxys|1/216
+|
+|upkeep
+|turn|6
+|
+|t:|1776976988
+|move|p2a: Deoxys|Knock Off|p1a: Scyther
+|-damage|p1a: Scyther|0 fnt
+|faint|p1a: Scyther
+|
+|upkeep
+|
+|t:|1776977008
+|switch|p1a: Pelipper|Pelipper, L86, F|243/243
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|7
+|
+|t:|1776977020
+|move|p2a: Deoxys|Psycho Boost|p1a: Pelipper|[miss]
+|-miss|p2a: Deoxys|p1a: Pelipper
+|move|p1a: Pelipper|U-turn|p2a: Deoxys
+|-supereffective|p2a: Deoxys
+|-damage|p2a: Deoxys|0 fnt
+|faint|p2a: Deoxys
+|
+|t:|1776977042
+|switch|p1a: Veluza|Veluza, L85, F|292/292|[from] U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1776977050
+|switch|p2a: Flapple|Flapple, L88, M|266/266
+|turn|8
+|
+|t:|1776977088
+|move|p2a: Flapple|Grav Apple|p1a: Veluza|[miss]
+|-miss|p2a: Flapple|p1a: Veluza
+|move|p1a: Veluza|Psycho Cut|p2a: Flapple
+|-damage|p2a: Flapple|133/266
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1776977120
+|move|p2a: Flapple|Grav Apple|p1a: Veluza
+|-supereffective|p1a: Veluza
+|-damage|p1a: Veluza|0 fnt
+|faint|p1a: Veluza
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1776977132
+|switch|p1a: Tauros|Tauros-Paldea-Blaze, L81, M|252/252
+|turn|10
+|
+|t:|1776977145
+|-terastallize|p2a: Flapple|Dragon
+|move|p1a: Tauros|Bulk Up|p1a: Tauros
+|-boost|p1a: Tauros|atk|1
+|-boost|p1a: Tauros|def|1
+|move|p2a: Flapple|Outrage|p1a: Tauros|[miss]
+|-miss|p2a: Flapple|p1a: Tauros
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1776977157
+|move|p1a: Tauros|Close Combat|p2a: Flapple
+|-damage|p2a: Flapple|0 fnt
+|-unboost|p1a: Tauros|def|1
+|-unboost|p1a: Tauros|spd|1
+|faint|p2a: Flapple
+|
+|-weather|none
+|upkeep
+|
+|t:|1776977161
+|switch|p2a: Venusaur|Venusaur, L84, F|272/272
+|turn|12
+|
+|t:|1776977168
+|move|p1a: Tauros|Raging Bull|p2a: Venusaur
+|-supereffective|p2a: Venusaur
+|-damage|p2a: Venusaur|0 fnt
+|faint|p2a: Venusaur
+|
+|upkeep
+|
+|t:|1776977171
+|switch|p2a: Toxicroak|Toxicroak, L84, F|277/277
+|turn|13
+|
+|t:|1776977184
+|move|p1a: Tauros|Raging Bull|p2a: Toxicroak
+|-damage|p2a: Toxicroak|36/277
+|move|p2a: Toxicroak|Swords Dance|p2a: Toxicroak
+|-boost|p2a: Toxicroak|atk|2
+|
+|upkeep
+|turn|14
+|
+|t:|1776977191
+|move|p1a: Tauros|Raging Bull|p2a: Toxicroak
+|-crit|p2a: Toxicroak
+|-damage|p2a: Toxicroak|0 fnt
+|faint|p2a: Toxicroak
+|
+|win|tuk101

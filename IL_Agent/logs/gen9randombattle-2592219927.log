@@ -1,0 +1,331 @@
+|j|☆teldixxx
+|j|☆ftjhzfjg
+|t:|1776971260
+|gametype|singles
+|player|p1|teldixxx|iris-gen5bw2|1012
+|player|p2|ftjhzfjg|170|1000
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776971260
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Toxtricity|Toxtricity, L82, M|257/257
+|switch|p2a: Eelektross|Eelektross, L87, F|290/290
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ftjhzfjg)
+|
+|t:|1776971270
+|move|p1a: Toxtricity|Sludge Wave|p2a: Eelektross
+|-damage|p2a: Eelektross|211/290
+|move|p2a: Eelektross|U-turn|p1a: Toxtricity
+|-resisted|p1a: Toxtricity
+|-damage|p1a: Toxtricity|224/257
+|inactive|ftjhzfjg has 120 seconds left.
+|
+|t:|1776971308
+|switch|p2a: Landorus|Landorus-Therian, L76, M|260/260|[from] U-turn
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Toxtricity|atk|1
+|
+|upkeep
+|turn|2
+|
+|t:|1776971329
+|switch|p1a: Medicham|Medicham, L86, F|243/243
+|move|p2a: Landorus|Stealth Rock|p1a: Medicham
+|-sidestart|p1: teldixxx|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|inactive|teldixxx has 120 seconds left.
+|inactive|ftjhzfjg has 120 seconds left.
+|
+|t:|1776971365
+|switch|p2a: Skeledirge|Skeledirge, L79, M|294/294
+|move|p1a: Medicham|Zen Headbutt|p2a: Skeledirge
+|-damage|p2a: Skeledirge|111/294
+|
+|upkeep
+|turn|4
+|inactive|ftjhzfjg has 120 seconds left.
+|
+|t:|1776971393
+|switch|p2a: Houndoom|Houndoom, L87, M|272/272
+|move|p1a: Medicham|Zen Headbutt|p2a: Houndoom
+|-immune|p2a: Houndoom
+|
+|upkeep
+|turn|5
+|
+|t:|1776971404
+|switch|p1a: Toedscruel|Toedscruel, L87, F|281/281
+|-damage|p1a: Toedscruel|264/281|[from] Stealth Rock
+|move|p2a: Houndoom|Dark Pulse|p1a: Toedscruel
+|-damage|p1a: Toedscruel|212/281
+|
+|upkeep
+|turn|6
+|inactive|ftjhzfjg has 90 seconds left.
+|
+|t:|1776971446
+|move|p1a: Toedscruel|Earth Power|p2a: Houndoom
+|-supereffective|p2a: Houndoom
+|-damage|p2a: Houndoom|74/272
+|move|p2a: Houndoom|Fire Blast|p1a: Toedscruel
+|-supereffective|p1a: Toedscruel
+|-crit|p1a: Toedscruel
+|-damage|p1a: Toedscruel|0 fnt
+|faint|p1a: Toedscruel
+|
+|upkeep
+|
+|t:|1776971456
+|switch|p1a: Chi-Yu|Chi-Yu, L77|211/211
+|-damage|p1a: Chi-Yu|159/211|[from] Stealth Rock
+|-ability|p1a: Chi-Yu|Beads of Ruin
+|turn|7
+|inactive|ftjhzfjg has 90 seconds left.
+|inactive|ftjhzfjg has 60 seconds left.
+|
+|t:|1776971496
+|switch|p2a: Eelektross|Eelektross, L87, F|211/290
+|move|p1a: Chi-Yu|Dark Pulse|p2a: Eelektross
+|-damage|p2a: Eelektross|133/290
+|
+|upkeep
+|turn|8
+|
+|t:|1776971511
+|switch|p1a: Amoonguss|Amoonguss, L82, F|321/321
+|-damage|p1a: Amoonguss|281/321|[from] Stealth Rock
+|move|p2a: Eelektross|Discharge|p1a: Amoonguss
+|-resisted|p1a: Amoonguss
+|-damage|p1a: Amoonguss|228/321
+|
+|upkeep
+|turn|9
+|
+|t:|1776971526
+|move|p2a: Eelektross|U-turn|p1a: Amoonguss
+|-damage|p1a: Amoonguss|151/321
+|-damage|p2a: Eelektross|85/290|[from] item: Rocky Helmet|[of] p1a: Amoonguss
+|
+|t:|1776971534
+|switch|p2a: Tsareena|Tsareena, L87, F|267/267|[from] U-turn
+|move|p1a: Amoonguss|Stomping Tantrum|p2a: Tsareena
+|-resisted|p2a: Tsareena
+|-damage|p2a: Tsareena|246/267
+|
+|upkeep
+|turn|10
+|
+|t:|1776971544
+|switch|p2a: Skeledirge|Skeledirge, L79, M|111/294
+|move|p1a: Amoonguss|Sludge Bomb|p2a: Skeledirge
+|-resisted|p2a: Skeledirge
+|-damage|p2a: Skeledirge|64/294
+|-status|p2a: Skeledirge|psn
+|
+|-damage|p2a: Skeledirge|28/294 psn|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1776971556
+|switch|p1a: Medicham|Medicham, L86, F|243/243
+|-damage|p1a: Medicham|228/243|[from] Stealth Rock
+|move|p2a: Skeledirge|Slack Off|p2a: Skeledirge
+|-heal|p2a: Skeledirge|175/294 psn
+|
+|-damage|p2a: Skeledirge|139/294 psn|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1776971567
+|switch|p2a: Houndoom|Houndoom, L87, M|74/272
+|move|p1a: Medicham|Zen Headbutt|p2a: Houndoom
+|-immune|p2a: Houndoom
+|
+|upkeep
+|turn|13
+|
+|t:|1776971575
+|switch|p1a: Espeon|Espeon, L84, M|246/246
+|-damage|p1a: Espeon|216/246|[from] Stealth Rock
+|move|p2a: Houndoom|Dark Pulse|p1a: Espeon
+|-supereffective|p1a: Espeon
+|-damage|p1a: Espeon|34/246
+|
+|upkeep
+|turn|14
+|
+|t:|1776971583
+|move|p2a: Houndoom|Sucker Punch|p1a: Espeon
+|-supereffective|p1a: Espeon
+|-damage|p1a: Espeon|0 fnt
+|faint|p1a: Espeon
+|
+|upkeep
+|
+|t:|1776971587
+|switch|p1a: Toxtricity|Toxtricity, L82, M|224/257
+|-damage|p1a: Toxtricity|192/257|[from] Stealth Rock
+|turn|15
+|
+|t:|1776971599
+|switch|p2a: Landorus|Landorus-Therian, L76, M|260/260
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Toxtricity|atk|1
+|move|p1a: Toxtricity|Boomburst|p2a: Landorus
+|-damage|p2a: Landorus|90/260
+|
+|-heal|p2a: Landorus|106/260|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776971607
+|move|p1a: Toxtricity|Boomburst|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|upkeep
+|inactive|ftjhzfjg has 90 seconds left.
+|
+|t:|1776971635
+|switch|p2a: Chien-Pao|Chien-Pao, L72|234/234
+|-ability|p2a: Chien-Pao|Sword of Ruin
+|turn|17
+|inactive|ftjhzfjg has 90 seconds left.
+|
+|t:|1776971647
+|move|p1a: Toxtricity|Boomburst|p2a: Chien-Pao
+|-damage|p2a: Chien-Pao|25/234
+|move|p2a: Chien-Pao|Throat Chop|p1a: Toxtricity
+|-damage|p1a: Toxtricity|0 fnt
+|faint|p1a: Toxtricity
+|
+|upkeep
+|
+|t:|1776971653
+|switch|p1a: Medicham|Medicham, L86, F|228/243
+|-damage|p1a: Medicham|213/243|[from] Stealth Rock
+|turn|18
+|
+|t:|1776971660
+|switch|p2a: Skeledirge|Skeledirge, L79, M|139/294 psn
+|move|p1a: Medicham|Close Combat|p2a: Skeledirge
+|-immune|p2a: Skeledirge
+|
+|-damage|p2a: Skeledirge|103/294 psn|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1776971665
+|switch|p1a: Chi-Yu|Chi-Yu, L77|159/211
+|-damage|p1a: Chi-Yu|107/211|[from] Stealth Rock
+|-ability|p1a: Chi-Yu|Beads of Ruin
+|move|p2a: Skeledirge|Slack Off|p2a: Skeledirge
+|-heal|p2a: Skeledirge|250/294 psn
+|
+|-damage|p2a: Skeledirge|214/294 psn|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1776971671
+|-terastallize|p2a: Skeledirge|Fairy
+|move|p1a: Chi-Yu|Dark Pulse|p2a: Skeledirge
+|-resisted|p2a: Skeledirge
+|-damage|p2a: Skeledirge|139/294 psn
+|move|p2a: Skeledirge|Flame Charge|p1a: Chi-Yu
+|-resisted|p1a: Chi-Yu
+|-damage|p1a: Chi-Yu|86/211
+|-boost|p2a: Skeledirge|spe|1
+|
+|-damage|p2a: Skeledirge|103/294 psn|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1776971681
+|switch|p1a: Medicham|Medicham, L86, F|213/243
+|-damage|p1a: Medicham|198/243|[from] Stealth Rock
+|move|p2a: Skeledirge|Slack Off|p2a: Skeledirge
+|-heal|p2a: Skeledirge|250/294 psn
+|
+|-damage|p2a: Skeledirge|214/294 psn|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1776971688
+|move|p2a: Skeledirge|Shadow Ball|p1a: Medicham
+|-supereffective|p1a: Medicham
+|-damage|p1a: Medicham|30/243
+|move|p1a: Medicham|Poison Jab|p2a: Skeledirge
+|-supereffective|p2a: Skeledirge
+|-damage|p2a: Skeledirge|0 fnt
+|faint|p2a: Skeledirge
+|
+|upkeep
+|
+|t:|1776971697
+|switch|p2a: Chien-Pao|Chien-Pao, L72|25/234
+|-ability|p2a: Chien-Pao|Sword of Ruin
+|turn|23
+|
+|t:|1776971702
+|move|p2a: Chien-Pao|Ice Shard|p1a: Medicham
+|-damage|p1a: Medicham|0 fnt
+|faint|p1a: Medicham
+|
+|upkeep
+|
+|t:|1776971705
+|switch|p1a: Chi-Yu|Chi-Yu, L77|86/211
+|-damage|p1a: Chi-Yu|34/211|[from] Stealth Rock
+|-ability|p1a: Chi-Yu|Beads of Ruin
+|turn|24
+|inactive|ftjhzfjg has 120 seconds left.
+|
+|t:|1776971736
+|switch|p2a: Eelektross|Eelektross, L87, F|85/290
+|move|p1a: Chi-Yu|Flamethrower|p2a: Eelektross
+|-damage|p2a: Eelektross|0 fnt
+|faint|p2a: Eelektross
+|
+|upkeep
+|inactive|ftjhzfjg has 120 seconds left.
+|
+|t:|1776971759
+|switch|p2a: Houndoom|Houndoom, L87, M|74/272
+|turn|25
+|
+|t:|1776971768
+|move|p2a: Houndoom|Sucker Punch|p1a: Chi-Yu
+|-resisted|p1a: Chi-Yu
+|-damage|p1a: Chi-Yu|0 fnt
+|faint|p1a: Chi-Yu
+|
+|upkeep
+|
+|t:|1776971771
+|switch|p1a: Amoonguss|Amoonguss, L82, F|258/321
+|-damage|p1a: Amoonguss|218/321|[from] Stealth Rock
+|turn|26
+|inactive|ftjhzfjg has 120 seconds left.
+|
+|t:|1776971783
+|move|p2a: Houndoom|Fire Blast|p1a: Amoonguss
+|-supereffective|p1a: Amoonguss
+|-damage|p1a: Amoonguss|0 fnt
+|faint|p1a: Amoonguss
+|
+|win|ftjhzfjg
+|raw|teldixxx's rating: 1012 &rarr; <strong>1000</strong><br />(-12 for losing)
+|raw|ftjhzfjg's rating: 1000 &rarr; <strong>1041</strong><br />(+41 for winning)
+|l|☆teldixxx
+|player|p1|

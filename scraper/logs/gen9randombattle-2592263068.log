@@ -1,0 +1,281 @@
+|j|☆SXD2002
+|j|☆alleggs
+|t:|1776974276
+|gametype|singles
+|player|p1|SXD2002|101|1464
+|player|p2|alleggs|bugcatcher-gen4dp|1433
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776974276
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Staraptor|Staraptor, L79, M|235/235
+|switch|p2a: Greninja|Greninja, L80, M|246/246
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SXD2002)
+|
+|t:|1776974294
+|switch|p2a: Arceus|Arceus-Ghost, L69|280/280
+|switch|p1a: Frosmoth|Frosmoth, L82, F|249/249
+|
+|upkeep
+|turn|2
+|
+|t:|1776974306
+|move|p2a: Arceus|Judgment|p1a: Frosmoth
+|-damage|p1a: Frosmoth|197/249
+|move|p1a: Frosmoth|Quiver Dance|p1a: Frosmoth
+|-boost|p1a: Frosmoth|spa|1
+|-boost|p1a: Frosmoth|spd|1
+|-boost|p1a: Frosmoth|spe|1
+|
+|upkeep
+|turn|3
+|
+|t:|1776974331
+|switch|p2a: Seviper|Seviper, L93, M|287/287
+|move|p1a: Frosmoth|Quiver Dance|p1a: Frosmoth
+|-boost|p1a: Frosmoth|spa|1
+|-boost|p1a: Frosmoth|spd|1
+|-boost|p1a: Frosmoth|spe|1
+|
+|upkeep
+|turn|4
+|
+|t:|1776974340
+|-terastallize|p1a: Frosmoth|Water
+|move|p1a: Frosmoth|Ice Beam|p2a: Seviper
+|-damage|p2a: Seviper|11/287
+|move|p2a: Seviper|Gunk Shot|p1a: Frosmoth
+|-damage|p1a: Frosmoth|0 fnt
+|faint|p1a: Frosmoth
+|
+|-heal|p2a: Seviper|28/287|[from] item: Leftovers
+|upkeep
+|
+|t:|1776974354
+|switch|p1a: Staraptor|Staraptor, L79, M|263/263
+|turn|5
+|
+|t:|1776974358
+|move|p1a: Staraptor|Close Combat|p2a: Seviper
+|-resisted|p2a: Seviper
+|-damage|p2a: Seviper|0 fnt
+|-unboost|p1a: Staraptor|def|1
+|-unboost|p1a: Staraptor|spd|1
+|faint|p2a: Seviper
+|
+|upkeep
+|
+|t:|1776974375
+|switch|p2a: Arceus|Arceus-Ghost, L69|280/280
+|turn|6
+|
+|t:|1776974385
+|switch|p1a: Dragapult|Dragapult, L77, F|262/262
+|move|p2a: Arceus|Will-O-Wisp|p1a: Dragapult|[miss]
+|-miss|p2a: Arceus|p1a: Dragapult
+|
+|upkeep
+|turn|7
+|
+|t:|1776974393
+|move|p1a: Dragapult|U-turn|p2a: Arceus
+|-resisted|p2a: Arceus
+|-damage|p2a: Arceus|256/280
+|
+|t:|1776974394
+|switch|p1a: Staraptor|Staraptor, L79, M|263/263|[from] U-turn
+|move|p2a: Arceus|Will-O-Wisp|p1a: Staraptor
+|-status|p1a: Staraptor|brn
+|
+|-damage|p1a: Staraptor|247/263 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1776974405
+|move|p2a: Arceus|Focus Blast|p1a: Staraptor
+|-damage|p1a: Staraptor|148/263 brn
+|move|p1a: Staraptor|Brave Bird|p2a: Arceus
+|-damage|p2a: Arceus|140/280
+|-damage|p1a: Staraptor|110/263 brn|[from] Recoil
+|
+|-damage|p1a: Staraptor|94/263 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1776974416
+|move|p2a: Arceus|Recover|p2a: Arceus
+|-heal|p2a: Arceus|280/280
+|move|p1a: Staraptor|Brave Bird|p2a: Arceus
+|-damage|p2a: Arceus|168/280
+|-damage|p1a: Staraptor|57/263 brn|[from] Recoil
+|
+|-damage|p1a: Staraptor|41/263 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1776974425
+|move|p2a: Arceus|Recover|p2a: Arceus
+|-heal|p2a: Arceus|280/280
+|move|p1a: Staraptor|Brave Bird|p2a: Arceus
+|-damage|p2a: Arceus|172/280
+|-damage|p1a: Staraptor|5/263 brn|[from] Recoil
+|
+|-damage|p1a: Staraptor|0 fnt|[from] brn
+|faint|p1a: Staraptor
+|upkeep
+|
+|t:|1776974428
+|switch|p1a: Brambleghast|Brambleghast, L88, M|235/235
+|turn|11
+|
+|t:|1776974436
+|move|p1a: Brambleghast|Dark Pulse|p2a: Arceus
+|-supereffective|p2a: Arceus
+|-damage|p2a: Arceus|0 fnt
+|faint|p2a: Arceus
+|
+|upkeep
+|
+|t:|1776974446
+|switch|p2a: Articuno|Articuno, L86|295/295
+|-ability|p2a: Articuno|Pressure
+|turn|12
+|
+|t:|1776974453
+|move|p1a: Brambleghast|Dark Pulse|p2a: Articuno
+|-damage|p2a: Articuno|187/295
+|move|p2a: Articuno|Freeze-Dry|p1a: Brambleghast
+|-damage|p1a: Brambleghast|139/235
+|replace|p1a: Zoroark|Zoroark, L83, M
+|-end|p1a: Zoroark|Illusion
+|-hint|Illusion Level Mod is active, so this Pokémon's true level was hidden.
+|
+|upkeep
+|turn|13
+|
+|t:|1776974466
+|move|p1a: Zoroark|Dark Pulse|p2a: Articuno
+|-damage|p2a: Articuno|78/295
+|cant|p2a: Articuno|flinch
+|
+|upkeep
+|turn|14
+|
+|t:|1776974472
+|move|p1a: Zoroark|Dark Pulse|p2a: Articuno
+|-crit|p2a: Articuno
+|-damage|p2a: Articuno|0 fnt
+|faint|p2a: Articuno
+|
+|upkeep
+|
+|t:|1776974482
+|switch|p2a: Greninja|Greninja, L80, M|246/246
+|turn|15
+|
+|t:|1776974491
+|move|p2a: Greninja|Hydro Pump|p1a: Zoroark
+|-start|p2a: Greninja|typechange|Water|[from] ability: Protean
+|-damage|p1a: Zoroark|0 fnt
+|faint|p1a: Zoroark
+|-damage|p2a: Greninja|222/246|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776974497
+|switch|p1a: Brambleghast|Brambleghast, L88, M|240/240
+|turn|16
+|
+|t:|1776974507
+|move|p2a: Greninja|Dark Pulse|p1a: Brambleghast
+|-supereffective|p1a: Brambleghast
+|-damage|p1a: Brambleghast|81/240
+|-damage|p2a: Greninja|198/246|[from] item: Life Orb
+|move|p1a: Brambleghast|Power Whip|p2a: Greninja
+|-supereffective|p2a: Greninja
+|-damage|p2a: Greninja|0 fnt
+|faint|p2a: Greninja
+|
+|-heal|p1a: Brambleghast|96/240|[from] item: Leftovers
+|upkeep
+|
+|t:|1776974528
+|switch|p2a: Walking Wake|Walking Wake, L79|286/286
+|turn|17
+|
+|t:|1776974541
+|move|p2a: Walking Wake|Draco Meteor|p1a: Brambleghast
+|-damage|p1a: Brambleghast|0 fnt
+|-unboost|p2a: Walking Wake|spa|2
+|faint|p1a: Brambleghast
+|
+|upkeep
+|
+|t:|1776974545
+|switch|p1a: Iron Thorns|Iron Thorns, L83|302/302
+|-enditem|p1a: Iron Thorns|Booster Energy
+|-activate|p1a: Iron Thorns|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Thorns|quarkdriveatk
+|turn|18
+|
+|t:|1776974553
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Hoopa|Hoopa-Unbound, L80|259/259
+|move|p1a: Iron Thorns|Dragon Dance|p1a: Iron Thorns
+|-boost|p1a: Iron Thorns|atk|1
+|-boost|p1a: Iron Thorns|spe|1
+|
+|upkeep
+|turn|19
+|
+|t:|1776974564
+|move|p1a: Iron Thorns|Stone Edge|p2a: Hoopa|[miss]
+|-miss|p1a: Iron Thorns|p2a: Hoopa
+|move|p2a: Hoopa|Hyperspace Fury|p1a: Iron Thorns
+|-damage|p1a: Iron Thorns|110/302
+|-unboost|p2a: Hoopa|def|1
+|
+|upkeep
+|turn|20
+|
+|t:|1776974575
+|switch|p2a: Walking Wake|Walking Wake, L79|286/286
+|move|p1a: Iron Thorns|Wild Charge|p2a: Walking Wake
+|-damage|p2a: Walking Wake|24/286
+|-damage|p1a: Iron Thorns|44/302|[from] Recoil
+|
+|upkeep
+|turn|21
+|
+|t:|1776974587
+|move|p1a: Iron Thorns|Ice Punch|p2a: Walking Wake
+|-damage|p2a: Walking Wake|0 fnt
+|faint|p2a: Walking Wake
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1776974592
+|switch|p2a: Hoopa|Hoopa-Unbound, L80|259/259
+|turn|22
+|
+|t:|1776974605
+|move|p1a: Iron Thorns|Wild Charge|p2a: Hoopa
+|-damage|p2a: Hoopa|0 fnt
+|faint|p2a: Hoopa
+|-damage|p1a: Iron Thorns|0 fnt|[from] Recoil
+|faint|p1a: Iron Thorns
+|-end|p1a: Iron Thorns|Quark Drive|[silent]
+|
+|win|SXD2002
+|raw|SXD2002's rating: 1464 &rarr; <strong>1482</strong><br />(+18 for winning)
+|raw|alleggs's rating: 1433 &rarr; <strong>1415</strong><br />(-18 for losing)

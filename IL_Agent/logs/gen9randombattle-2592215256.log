@@ -1,0 +1,319 @@
+|j|☆Bend BGC
+|j|☆h1119
+|t:|1776970941
+|gametype|singles
+|player|p1|Bend BGC|170|
+|player|p2|h1119|1|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776970941
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ariados|Ariados, L95, M|287/287
+|switch|p2a: Iron Thorns|Iron Thorns, L83|302/302
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Bend BGC)
+|
+|t:|1776970948
+|move|p2a: Iron Thorns|Stone Edge|p1a: Ariados
+|-supereffective|p1a: Ariados
+|-damage|p1a: Ariados|5/287
+|move|p1a: Ariados|Sticky Web|p2a: Iron Thorns
+|-sidestart|p2: h1119|move: Sticky Web
+|
+|upkeep
+|turn|2
+|
+|t:|1776970956
+|move|p2a: Iron Thorns|Stone Edge|p1a: Ariados|[miss]
+|-miss|p2a: Iron Thorns|p1a: Ariados
+|move|p1a: Ariados|Megahorn|p2a: Iron Thorns
+|-damage|p2a: Iron Thorns|181/302
+|
+|upkeep
+|turn|3
+|
+|t:|1776970964
+|move|p2a: Iron Thorns|Volt Switch|p1a: Ariados
+|-damage|p1a: Ariados|0 fnt
+|faint|p1a: Ariados
+|
+|t:|1776970966
+|-end|p2a: Iron Thorns|Quark Drive|[silent]
+|switch|p2a: Bombirdier|Bombirdier, L85, M|258/258|[from] Volt Switch
+|
+|upkeep
+|
+|t:|1776970973
+|switch|p1a: Sawsbuck|Sawsbuck, L88, F|284/284
+|turn|4
+|
+|t:|1776970983
+|-terastallize|p2a: Bombirdier|Rock
+|move|p1a: Sawsbuck|Swords Dance|p1a: Sawsbuck
+|-boost|p1a: Sawsbuck|atk|2
+|move|p2a: Bombirdier|U-turn|p1a: Sawsbuck
+|-supereffective|p1a: Sawsbuck
+|-damage|p1a: Sawsbuck|96/284
+|
+|t:|1776970989
+|switch|p2a: Decidueye|Decidueye, L88, F|281/281|[from] U-turn
+|-activate|p2a: Decidueye|move: Sticky Web
+|-unboost|p2a: Decidueye|spe|1
+|
+|upkeep
+|turn|5
+|
+|t:|1776970995
+|move|p1a: Sawsbuck|Horn Leech|p2a: Decidueye
+|-resisted|p2a: Decidueye
+|-damage|p2a: Decidueye|155/281
+|-heal|p1a: Sawsbuck|159/284|[from] drain|[of] p2a: Decidueye
+|-damage|p1a: Sawsbuck|131/284|[from] item: Life Orb
+|move|p2a: Decidueye|U-turn|p1a: Sawsbuck
+|-supereffective|p1a: Sawsbuck
+|-damage|p1a: Sawsbuck|0 fnt
+|faint|p1a: Sawsbuck
+|
+|t:|1776971000
+|switch|p2a: Bombirdier|Bombirdier, L85, M, tera:Rock|258/258|[from] U-turn
+|-activate|p2a: Bombirdier|move: Sticky Web
+|-unboost|p2a: Bombirdier|spe|1
+|
+|upkeep
+|
+|t:|1776971003
+|switch|p1a: Forretress|Forretress, L84, M|263/263
+|turn|6
+|
+|t:|1776971009
+|move|p2a: Bombirdier|Knock Off|p1a: Forretress
+|-damage|p1a: Forretress|145/263
+|-enditem|p1a: Forretress|Leftovers|[from] move: Knock Off|[of] p2a: Bombirdier
+|move|p1a: Forretress|Stealth Rock|p2a: Bombirdier
+|-sidestart|p2: h1119|move: Stealth Rock
+|
+|upkeep
+|turn|7
+|
+|t:|1776971015
+|switch|p2a: Lumineon|Lumineon, L93, F|279/279
+|move|p1a: Forretress|Iron Head|p2a: Lumineon
+|-resisted|p2a: Lumineon
+|-damage|p2a: Lumineon|237/279
+|
+|upkeep
+|turn|8
+|
+|t:|1776971021
+|move|p2a: Lumineon|Hydro Pump|p1a: Forretress
+|-damage|p1a: Forretress|9/263
+|move|p1a: Forretress|Thunder Wave|p2a: Lumineon|[miss]
+|-miss|p1a: Forretress|p2a: Lumineon
+|
+|upkeep
+|turn|9
+|
+|t:|1776971028
+|move|p2a: Lumineon|Hydro Pump|p1a: Forretress|[miss]
+|-miss|p2a: Lumineon|p1a: Forretress
+|move|p1a: Forretress|Thunder Wave|p2a: Lumineon
+|-status|p2a: Lumineon|par
+|
+|upkeep
+|turn|10
+|
+|t:|1776971037
+|move|p1a: Forretress|Rapid Spin|p2a: Lumineon
+|-damage|p2a: Lumineon|206/279 par
+|-boost|p1a: Forretress|spe|1
+|cant|p2a: Lumineon|par
+|
+|upkeep
+|turn|11
+|
+|t:|1776971041
+|move|p1a: Forretress|Rapid Spin|p2a: Lumineon
+|-damage|p2a: Lumineon|171/279 par
+|-boost|p1a: Forretress|spe|1
+|move|p2a: Lumineon|U-turn|p1a: Forretress
+|-resisted|p1a: Forretress
+|-damage|p1a: Forretress|0 fnt
+|faint|p1a: Forretress
+|
+|t:|1776971047
+|switch|p2a: Bombirdier|Bombirdier, L85, M, tera:Rock|258/258|[from] U-turn
+|-activate|p2a: Bombirdier|move: Sticky Web
+|-unboost|p2a: Bombirdier|spe|1
+|-damage|p2a: Bombirdier|226/258|[from] Stealth Rock
+|
+|upkeep
+|
+|t:|1776971052
+|switch|p1a: Clawitzer|Clawitzer, L87, F|265/265
+|turn|12
+|
+|t:|1776971057
+|switch|p2a: Pikachu|Pikachu-Partner, L93, F|216/216
+|-activate|p2a: Pikachu|move: Sticky Web
+|-unboost|p2a: Pikachu|spe|1
+|-damage|p2a: Pikachu|189/216|[from] Stealth Rock
+|move|p1a: Clawitzer|Ice Beam|p2a: Pikachu
+|-damage|p2a: Pikachu|15/216
+|
+|upkeep
+|turn|13
+|
+|t:|1776971060
+|move|p2a: Pikachu|Fake Out|p1a: Clawitzer
+|-damage|p1a: Clawitzer|222/265
+|cant|p1a: Clawitzer|flinch
+|
+|upkeep
+|turn|14
+|
+|t:|1776971063
+|move|p1a: Clawitzer|Ice Beam|p2a: Pikachu
+|-damage|p2a: Pikachu|0 fnt
+|faint|p2a: Pikachu
+|
+|upkeep
+|
+|t:|1776971067
+|switch|p2a: Iron Thorns|Iron Thorns, L83|181/302
+|-activate|p2a: Iron Thorns|move: Sticky Web
+|-unboost|p2a: Iron Thorns|spe|1
+|-damage|p2a: Iron Thorns|144/302|[from] Stealth Rock
+|turn|15
+|
+|t:|1776971072
+|switch|p1a: Hatterene|Hatterene, L85, F|236/236
+|move|p2a: Iron Thorns|Wild Charge|p1a: Hatterene
+|-damage|p1a: Hatterene|121/236
+|-damage|p2a: Iron Thorns|115/302|[from] Recoil
+|
+|-heal|p1a: Hatterene|135/236|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776971076
+|move|p2a: Iron Thorns|Stone Edge|p1a: Hatterene
+|-damage|p1a: Hatterene|15/236
+|move|p1a: Hatterene|Calm Mind|p1a: Hatterene
+|-boost|p1a: Hatterene|spa|1
+|-boost|p1a: Hatterene|spd|1
+|
+|-heal|p1a: Hatterene|29/236|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1776971081
+|move|p2a: Iron Thorns|Volt Switch|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|t:|1776971084
+|-end|p2a: Iron Thorns|Quark Drive|[silent]
+|switch|p2a: Indeedee|Indeedee-F, L90, F|272/272|[from] Volt Switch
+|-activate|p2a: Indeedee|move: Sticky Web
+|-unboost|p2a: Indeedee|spe|1
+|-damage|p2a: Indeedee|238/272|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Indeedee
+|
+|upkeep
+|
+|t:|1776971088
+|switch|p1a: Clawitzer|Clawitzer, L87, F|222/265
+|turn|18
+|
+|t:|1776971092
+|-terastallize|p1a: Clawitzer|Fighting
+|move|p2a: Indeedee|Hyper Voice|p1a: Clawitzer
+|-damage|p1a: Clawitzer|120/265
+|move|p1a: Clawitzer|Aura Sphere|p2a: Indeedee
+|-damage|p2a: Indeedee|52/272
+|
+|upkeep
+|turn|19
+|
+|t:|1776971101
+|move|p2a: Indeedee|Hyper Voice|p1a: Clawitzer
+|-damage|p1a: Clawitzer|11/265
+|move|p1a: Clawitzer|Aura Sphere|p2a: Indeedee
+|-damage|p2a: Indeedee|0 fnt
+|faint|p2a: Indeedee
+|
+|upkeep
+|
+|t:|1776971103
+|switch|p2a: Bombirdier|Bombirdier, L85, M, tera:Rock|226/258
+|-activate|p2a: Bombirdier|move: Sticky Web
+|-unboost|p2a: Bombirdier|spe|1
+|-damage|p2a: Bombirdier|194/258|[from] Stealth Rock
+|turn|20
+|
+|t:|1776971106
+|move|p1a: Clawitzer|Aura Sphere|p2a: Bombirdier
+|-supereffective|p2a: Bombirdier
+|-damage|p2a: Bombirdier|0 fnt
+|faint|p2a: Bombirdier
+|
+|upkeep
+|
+|t:|1776971109
+|switch|p2a: Iron Thorns|Iron Thorns, L83|115/302
+|-activate|p2a: Iron Thorns|move: Sticky Web
+|-unboost|p2a: Iron Thorns|spe|1
+|-damage|p2a: Iron Thorns|78/302|[from] Stealth Rock
+|turn|21
+|
+|t:|1776971112
+|move|p1a: Clawitzer|Aura Sphere|p2a: Iron Thorns
+|-supereffective|p2a: Iron Thorns
+|-damage|p2a: Iron Thorns|0 fnt
+|faint|p2a: Iron Thorns
+|-end|p2a: Iron Thorns|Quark Drive|[silent]
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1776971114
+|switch|p2a: Decidueye|Decidueye, L88, F|155/281
+|-activate|p2a: Decidueye|move: Sticky Web
+|-unboost|p2a: Decidueye|spe|1
+|-damage|p2a: Decidueye|120/281|[from] Stealth Rock
+|turn|22
+|
+|t:|1776971116
+|move|p1a: Clawitzer|Aura Sphere|p2a: Decidueye
+|-immune|p2a: Decidueye
+|move|p2a: Decidueye|U-turn|p1a: Clawitzer
+|-resisted|p1a: Clawitzer
+|-damage|p1a: Clawitzer|0 fnt
+|faint|p1a: Clawitzer
+|
+|t:|1776971119
+|switch|p2a: Lumineon|Lumineon, L93, F|171/279 par|[from] U-turn
+|
+|upkeep
+|
+|t:|1776971121
+|switch|p1a: Armarouge|Armarouge, L80, M|267/267
+|turn|23
+|
+|t:|1776971124
+|move|p1a: Armarouge|Energy Ball|p2a: Lumineon
+|-supereffective|p2a: Lumineon
+|-damage|p2a: Lumineon|43/279 par
+|move|p2a: Lumineon|Hydro Pump|p1a: Armarouge
+|-supereffective|p1a: Armarouge
+|-damage|p1a: Armarouge|0 fnt
+|faint|p1a: Armarouge
+|
+|win|h1119

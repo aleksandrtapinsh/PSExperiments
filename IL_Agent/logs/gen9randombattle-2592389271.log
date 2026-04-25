@@ -1,0 +1,330 @@
+|j|☆Zabdiii101
+|j|☆jeremiahoffff
+|t:|1776984730
+|gametype|singles
+|player|p1|Zabdiii101|266|
+|player|p2|jeremiahoffff|101|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776984730
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Lumineon|Lumineon, L93, M|279/279
+|switch|p2a: Bronzong|Bronzong, L88|261/261
+|turn|1
+|
+|t:|1776984763
+|move|p1a: Lumineon|U-turn|p2a: Bronzong
+|-damage|p2a: Bronzong|226/261
+|
+|t:|1776984811
+|switch|p1a: Salazzle|Salazzle, L83, F|249/249|[from] U-turn
+|move|p2a: Bronzong|Hypnosis|p1a: Salazzle
+|-status|p1a: Salazzle|slp|[from] move: Hypnosis
+|
+|-heal|p2a: Bronzong|242/261|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776984912
+|switch|p1a: Goodra|Goodra, L85, F|292/292
+|move|p2a: Bronzong|Earthquake|p1a: Goodra
+|-damage|p1a: Goodra|199/292
+|
+|-heal|p2a: Bronzong|258/261|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776984965
+|move|p1a: Goodra|Earthquake|p2a: Bronzong
+|-immune|p2a: Bronzong|[from] ability: Levitate
+|move|p2a: Bronzong|Psychic Noise|p1a: Goodra
+|-damage|p1a: Goodra|166/292
+|-start|p1a: Goodra|move: Heal Block
+|
+|-heal|p2a: Bronzong|261/261|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776984985
+|move|p1a: Goodra|Earthquake|p2a: Bronzong
+|-immune|p2a: Bronzong|[from] ability: Levitate
+|move|p2a: Bronzong|Stealth Rock|p1a: Goodra
+|-sidestart|p1: Zabdiii101|move: Stealth Rock
+|
+|-end|p1a: Goodra|move: Heal Block
+|upkeep
+|turn|5
+|
+|t:|1776985014
+|move|p1a: Goodra|Draco Meteor|p2a: Bronzong
+|-resisted|p2a: Bronzong
+|-damage|p2a: Bronzong|198/261
+|-unboost|p1a: Goodra|spa|2
+|move|p2a: Bronzong|Stealth Rock||[still]
+|-fail|p2a: Bronzong
+|
+|-heal|p2a: Bronzong|214/261|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776985038
+|move|p1a: Goodra|Scald|p2a: Bronzong
+|-damage|p2a: Bronzong|190/261
+|-status|p2a: Bronzong|brn
+|move|p2a: Bronzong|Earthquake|p1a: Goodra
+|-damage|p1a: Goodra|127/292
+|
+|-heal|p2a: Bronzong|206/261 brn|[from] item: Leftovers
+|-damage|p2a: Bronzong|190/261 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1776985061
+|move|p1a: Goodra|Draco Meteor|p2a: Bronzong
+|-resisted|p2a: Bronzong
+|-damage|p2a: Bronzong|159/261 brn
+|-unboost|p1a: Goodra|spa|2
+|move|p2a: Bronzong|Earthquake|p1a: Goodra
+|-damage|p1a: Goodra|85/292
+|
+|-heal|p2a: Bronzong|175/261 brn|[from] item: Leftovers
+|-damage|p2a: Bronzong|159/261 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1776985105
+|switch|p1a: Salamence|Salamence, L77, M|273/273
+|-ability|p1a: Salamence|Intimidate|boost
+|-unboost|p2a: Bronzong|atk|1
+|move|p2a: Bronzong|Earthquake|p1a: Salamence
+|-immune|p1a: Salamence
+|
+|-heal|p2a: Bronzong|175/261 brn|[from] item: Leftovers
+|-damage|p2a: Bronzong|159/261 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1776985125
+|switch|p2a: Whimsicott|Whimsicott, L84, F|238/238
+|move|p1a: Salamence|Dragon Dance|p1a: Salamence
+|-boost|p1a: Salamence|atk|1
+|-boost|p1a: Salamence|spe|1
+|
+|upkeep
+|turn|10
+|
+|t:|1776985136
+|move|p1a: Salamence|Dragon Dance|p1a: Salamence
+|-boost|p1a: Salamence|atk|1
+|-boost|p1a: Salamence|spe|1
+|move|p2a: Whimsicott|Moonblast|p1a: Salamence
+|-supereffective|p1a: Salamence
+|-damage|p1a: Salamence|63/273
+|
+|upkeep
+|turn|11
+|
+|t:|1776985144
+|move|p1a: Salamence|Dual Wingbeat|p2a: Whimsicott
+|-supereffective|p2a: Whimsicott
+|-damage|p2a: Whimsicott|32/238
+|-supereffective|p2a: Whimsicott
+|-damage|p2a: Whimsicott|0 fnt
+|faint|p2a: Whimsicott
+|-hitcount|p2: Whimsicott|2
+|
+|upkeep
+|
+|t:|1776985153
+|switch|p2a: Keldeo|Keldeo-Resolute, L79|273/273
+|turn|12
+|
+|t:|1776985164
+|move|p1a: Salamence|Dual Wingbeat|p2a: Keldeo
+|-supereffective|p2a: Keldeo
+|-damage|p2a: Keldeo|75/273
+|-supereffective|p2a: Keldeo
+|-damage|p2a: Keldeo|0 fnt
+|faint|p2a: Keldeo
+|-hitcount|p2: Keldeo|2
+|
+|upkeep
+|
+|t:|1776985175
+|switch|p2a: Revavroom|Revavroom, L79, F|256/256
+|turn|13
+|
+|t:|1776985185
+|move|p1a: Salamence|Earthquake|p2a: Revavroom
+|-supereffective|p2a: Revavroom
+|-damage|p2a: Revavroom|0 fnt
+|faint|p2a: Revavroom
+|
+|upkeep
+|
+|t:|1776985190
+|switch|p2a: Noctowl|Noctowl, L95, M|344/344
+|turn|14
+|
+|t:|1776985284
+|switch|p1a: Bellibolt|Bellibolt, L84, M|320/320
+|-damage|p1a: Bellibolt|280/320|[from] Stealth Rock
+|move|p2a: Noctowl|Hurricane|p1a: Bellibolt|[miss]
+|-miss|p2a: Noctowl|p1a: Bellibolt
+|
+|-heal|p1a: Bellibolt|300/320|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1776985300
+|switch|p2a: Bronzong|Bronzong, L88|159/261 brn
+|move|p1a: Bellibolt|Thunderbolt|p2a: Bronzong
+|-damage|p2a: Bronzong|89/261 brn
+|
+|-heal|p1a: Bellibolt|320/320|[from] item: Leftovers
+|-heal|p2a: Bronzong|105/261 brn|[from] item: Leftovers
+|-damage|p2a: Bronzong|89/261 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1776985353
+|move|p1a: Bellibolt|Thunderbolt|p2a: Bronzong
+|-damage|p2a: Bronzong|10/261 brn
+|move|p2a: Bronzong|Earthquake|p1a: Bellibolt
+|-supereffective|p1a: Bellibolt
+|-damage|p1a: Bellibolt|248/320
+|-start|p1a: Bellibolt|Charge|Earthquake|[from] ability: Electromorphosis
+|
+|-heal|p1a: Bellibolt|268/320|[from] item: Leftovers
+|-heal|p2a: Bronzong|26/261 brn|[from] item: Leftovers
+|-damage|p2a: Bronzong|10/261 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1776985375
+|switch|p2a: Oricorio|Oricorio-Pom-Pom, L82, M|257/257
+|move|p1a: Bellibolt|Thunderbolt|p2a: Oricorio
+|-damage|p2a: Oricorio|22/257
+|-end|p1a: Bellibolt|Charge|[silent]
+|
+|-heal|p1a: Bellibolt|288/320|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1776985386
+|move|p2a: Oricorio|Roost|p2a: Oricorio
+|-heal|p2a: Oricorio|151/257
+|-singleturn|p2a: Oricorio|move: Roost
+|move|p1a: Bellibolt|Slack Off|p1a: Bellibolt
+|-heal|p1a: Bellibolt|320/320
+|
+|upkeep
+|turn|19
+|
+|t:|1776985399
+|move|p2a: Oricorio|Roost|p2a: Oricorio
+|-heal|p2a: Oricorio|257/257
+|-singleturn|p2a: Oricorio|move: Roost
+|move|p1a: Bellibolt|Thunderbolt|p2a: Oricorio
+|-resisted|p2a: Oricorio
+|-damage|p2a: Oricorio|192/257
+|
+|upkeep
+|turn|20
+|
+|t:|1776985416
+|move|p2a: Oricorio|Revelation Dance|p1a: Bellibolt
+|-resisted|p1a: Bellibolt
+|-damage|p1a: Bellibolt|275/320
+|-start|p1a: Bellibolt|Charge|Revelation Dance|[from] ability: Electromorphosis
+|move|p1a: Bellibolt|Muddy Water|p2a: Oricorio
+|-damage|p2a: Oricorio|112/257
+|-unboost|p2a: Oricorio|accuracy|1
+|
+|-heal|p1a: Bellibolt|295/320|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1776985434
+|-terastallize|p2a: Oricorio|Ground
+|move|p2a: Oricorio|Hurricane|p1a: Bellibolt|[miss]
+|-miss|p2a: Oricorio|p1a: Bellibolt
+|move|p1a: Bellibolt|Muddy Water|p2a: Oricorio
+|-supereffective|p2a: Oricorio
+|-damage|p2a: Oricorio|0 fnt
+|faint|p2a: Oricorio
+|
+|-heal|p1a: Bellibolt|315/320|[from] item: Leftovers
+|upkeep
+|
+|t:|1776985445
+|switch|p2a: Noctowl|Noctowl, L95, M|344/344
+|turn|22
+|
+|t:|1776985457
+|move|p2a: Noctowl|Hyper Voice|p1a: Bellibolt
+|-damage|p1a: Bellibolt|195/320
+|-start|p1a: Bellibolt|Charge|Hyper Voice|[from] ability: Electromorphosis
+|move|p1a: Bellibolt|Thunderbolt|p2a: Noctowl
+|-supereffective|p2a: Noctowl
+|-damage|p2a: Noctowl|14/344
+|-end|p1a: Bellibolt|Charge|[silent]
+|
+|-heal|p1a: Bellibolt|215/320|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1776985469
+|move|p2a: Noctowl|Hyper Voice|p1a: Bellibolt
+|-damage|p1a: Bellibolt|92/320
+|-start|p1a: Bellibolt|Charge|Hyper Voice|[from] ability: Electromorphosis
+|move|p1a: Bellibolt|Slack Off|p1a: Bellibolt
+|-heal|p1a: Bellibolt|252/320
+|
+|-heal|p1a: Bellibolt|272/320|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1776985480
+|move|p2a: Noctowl|Hyper Voice|p1a: Bellibolt
+|-damage|p1a: Bellibolt|154/320
+|-start|p1a: Bellibolt|Charge|Hyper Voice|[from] ability: Electromorphosis
+|move|p1a: Bellibolt|Slack Off|p1a: Bellibolt
+|-heal|p1a: Bellibolt|314/320
+|
+|-heal|p1a: Bellibolt|320/320|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1776985490
+|move|p2a: Noctowl|Calm Mind|p2a: Noctowl
+|-boost|p2a: Noctowl|spa|1
+|-boost|p2a: Noctowl|spd|1
+|move|p1a: Bellibolt|Thunderbolt|p2a: Noctowl
+|-supereffective|p2a: Noctowl
+|-damage|p2a: Noctowl|0 fnt
+|faint|p2a: Noctowl
+|-end|p1a: Bellibolt|Charge|[silent]
+|
+|upkeep
+|
+|t:|1776985500
+|switch|p2a: Bronzong|Bronzong, L88|10/261 brn
+|turn|26
+|
+|t:|1776985510
+|-terastallize|p1a: Bellibolt|Water
+|move|p1a: Bellibolt|Muddy Water|p2a: Bronzong
+|-damage|p2a: Bronzong|0 fnt
+|faint|p2a: Bronzong
+|
+|win|Zabdiii101
+|l|☆jeremiahoffff
+|player|p2|

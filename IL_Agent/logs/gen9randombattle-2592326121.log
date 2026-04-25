@@ -1,0 +1,208 @@
+|j|☆sofiadonato
+|j|☆ryuseik
+|t:|1776979070
+|gametype|singles
+|player|p1|sofiadonato|102|1045
+|player|p2|ryuseik|170|1000
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776979070
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kyogre|Kyogre, L71|259/259
+|switch|p2a: Heracross|Heracross, L80, M|259/259
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Kyogre
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by sofiadonato)
+|
+|t:|1776979105
+|move|p2a: Heracross|Stone Edge|p1a: Kyogre
+|-damage|p1a: Kyogre|169/259
+|move|p1a: Kyogre|Calm Mind|p1a: Kyogre
+|-boost|p1a: Kyogre|spa|1
+|-boost|p1a: Kyogre|spd|1
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Kyogre|185/259|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776979113
+|move|p2a: Heracross|Stone Edge|p1a: Kyogre
+|-crit|p1a: Kyogre
+|-damage|p1a: Kyogre|41/259
+|move|p1a: Kyogre|Thunder|p2a: Heracross
+|-damage|p2a: Heracross|141/259
+|-status|p2a: Heracross|par
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Kyogre|57/259|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776979123
+|move|p1a: Kyogre|Origin Pulse|p2a: Heracross
+|-damage|p2a: Heracross|0 fnt
+|faint|p2a: Heracross
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Kyogre|73/259|[from] item: Leftovers
+|upkeep
+|
+|t:|1776979140
+|switch|p2a: Samurott|Samurott-Hisui, L77, F|265/265
+|turn|4
+|
+|t:|1776979148
+|move|p2a: Samurott|Ceaseless Edge|p1a: Kyogre
+|-damage|p1a: Kyogre|0 fnt
+|-sidestart|p1: sofiadonato|Spikes
+|faint|p1a: Kyogre
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1776979157
+|switch|p1a: Quaquaval|Quaquaval, L79, F|264/264
+|-damage|p1a: Quaquaval|231/264|[from] Spikes
+|turn|5
+|
+|t:|1776979173
+|move|p1a: Quaquaval|Close Combat|p2a: Samurott
+|-supereffective|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|-unboost|p1a: Quaquaval|def|1
+|-unboost|p1a: Quaquaval|spd|1
+|faint|p2a: Samurott
+|-ability|p1a: Quaquaval|Moxie|boost
+|-boost|p1a: Quaquaval|atk|1
+|
+|-weather|none
+|-heal|p1a: Quaquaval|247/264|[from] item: Leftovers
+|upkeep
+|
+|t:|1776979191
+|switch|p2a: Rhydon|Rhydon, L85, F|317/317
+|turn|6
+|
+|t:|1776979202
+|move|p1a: Quaquaval|Aqua Step|p2a: Rhydon
+|-supereffective|p2a: Rhydon
+|-damage|p2a: Rhydon|41/317
+|-boost|p1a: Quaquaval|spe|1
+|move|p2a: Rhydon|Swords Dance|p2a: Rhydon
+|-boost|p2a: Rhydon|atk|2
+|
+|-heal|p1a: Quaquaval|263/264|[from] item: Leftovers
+|upkeep
+|turn|7
+|inactive|ryuseik has 120 seconds left.
+|
+|t:|1776979220
+|move|p1a: Quaquaval|Aqua Step|p2a: Rhydon
+|-supereffective|p2a: Rhydon
+|-damage|p2a: Rhydon|0 fnt
+|-boost|p1a: Quaquaval|spe|1
+|faint|p2a: Rhydon
+|-ability|p1a: Quaquaval|Moxie|boost
+|-boost|p1a: Quaquaval|atk|1
+|
+|-heal|p1a: Quaquaval|264/264|[from] item: Leftovers
+|upkeep
+|inactive|ryuseik has 120 seconds left.
+|
+|t:|1776979234
+|switch|p2a: Slowking|Slowking-Galar, L85, F|300/300
+|turn|8
+|inactive|ryuseik has 120 seconds left.
+|
+|t:|1776979249
+|switch|p1a: Mewtwo|Mewtwo, L72|272/272
+|-ability|p1a: Mewtwo|Unnerve
+|-damage|p1a: Mewtwo|238/272|[from] Spikes
+|move|p2a: Slowking|Psyshock|p1a: Mewtwo
+|-resisted|p1a: Mewtwo
+|-damage|p1a: Mewtwo|180/272
+|
+|upkeep
+|turn|9
+|inactive|ryuseik has 120 seconds left.
+|
+|t:|1776979279
+|move|p1a: Mewtwo|Dark Pulse|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|157/300
+|-damage|p1a: Mewtwo|153/272|[from] item: Life Orb
+|cant|p2a: Slowking|flinch
+|
+|upkeep
+|turn|10
+|
+|t:|1776979286
+|move|p1a: Mewtwo|Psystrike|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|-damage|p1a: Mewtwo|126/272|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776979293
+|switch|p2a: Ceruledge|Ceruledge, L78, M|245/245
+|turn|11
+|
+|t:|1776979306
+|move|p1a: Mewtwo|Dark Pulse|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-damage|p2a: Ceruledge|102/245
+|-damage|p1a: Mewtwo|99/272|[from] item: Life Orb
+|move|p2a: Ceruledge|Poltergeist|p1a: Mewtwo
+|-activate|p1a: Mewtwo|move: Poltergeist|Life Orb
+|-supereffective|p1a: Mewtwo
+|-damage|p1a: Mewtwo|0 fnt
+|faint|p1a: Mewtwo
+|
+|upkeep
+|
+|t:|1776979318
+|switch|p1a: Quaquaval|Quaquaval, L79, F|264/264
+|-damage|p1a: Quaquaval|231/264|[from] Spikes
+|turn|12
+|inactive|ryuseik has 120 seconds left.
+|
+|t:|1776979334
+|move|p1a: Quaquaval|Aqua Step|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-damage|p2a: Ceruledge|0 fnt
+|-boost|p1a: Quaquaval|spe|1
+|faint|p2a: Ceruledge
+|-ability|p1a: Quaquaval|Moxie|boost
+|-boost|p1a: Quaquaval|atk|1
+|
+|-heal|p1a: Quaquaval|247/264|[from] item: Leftovers
+|upkeep
+|
+|t:|1776979344
+|switch|p2a: Kyurem|Kyurem-Black, L71|295/295
+|-ability|p2a: Kyurem|Teravolt
+|turn|13
+|
+|t:|1776979350
+|move|p1a: Quaquaval|Close Combat|p2a: Kyurem
+|-supereffective|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|-unboost|p1a: Quaquaval|def|1
+|-unboost|p1a: Quaquaval|spd|1
+|faint|p2a: Kyurem
+|
+|win|sofiadonato
+|raw|sofiadonato's rating: 1045 &rarr; <strong>1074</strong><br />(+29 for winning)
+|raw|ryuseik's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|l|☆ryuseik
+|player|p2|

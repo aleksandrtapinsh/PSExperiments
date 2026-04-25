@@ -1,0 +1,46 @@
+|j|☆LarryBetraitor
+|j|☆Fr0sTy_17
+|t:|1776981306
+|gametype|singles
+|player|p1|LarryBetraitor|shelly|1053
+|player|p2|Fr0sTy_17|hilbert|1013
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776981306
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Swanna|Swanna, L89, M|278/278
+|switch|p2a: Raging Bolt|Raging Bolt, L78|323/323
+|turn|1
+|
+|t:|1776981327
+|switch|p1a: Raichu|Raichu, L88, M|249/249
+|move|p2a: Raging Bolt|Thunderclap||[still]
+|-fail|p2a: Raging Bolt
+|
+|upkeep
+|turn|2
+|
+|t:|1776981335
+|move|p1a: Raichu|Nasty Plot|p1a: Raichu
+|-boost|p1a: Raichu|spa|2
+|move|p2a: Raging Bolt|Volt Switch|p1a: Raichu
+|-ability|p1a: Raichu|Lightning Rod|boost
+|-boost|p1a: Raichu|spa|1
+|
+|upkeep
+|turn|3
+|-message|Fr0sTy_17 forfeited.
+|
+|win|LarryBetraitor
+|raw|LarryBetraitor's rating: 1053 &rarr; <strong>1081</strong><br />(+28 for winning)
+|raw|Fr0sTy_17's rating: 1013 &rarr; <strong>1002</strong><br />(-11 for losing)
+|l|☆Fr0sTy_17
+|player|p2|

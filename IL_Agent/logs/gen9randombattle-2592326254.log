@@ -1,0 +1,215 @@
+|j|☆Ic3McSpic3
+|j|‽Finkamain
+|t:|1776979080
+|gametype|singles
+|player|p1|Ic3McSpic3|1|1108
+|player|p2|Finkamain|backersf|1142
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776979080
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Corviknight|Corviknight, L80, F|288/288
+|switch|p2a: Umbreon|Umbreon, L84, M|297/297
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Finkamain)
+|
+|t:|1776979095
+|move|p2a: Umbreon|Protect|p2a: Umbreon
+|-singleturn|p2a: Umbreon|Protect
+|move|p1a: Corviknight|Body Press|p2a: Umbreon
+|-activate|p2a: Umbreon|move: Protect
+|
+|upkeep
+|turn|2
+|
+|t:|1776979101
+|switch|p2a: Rotom|Rotom, L88|231/231
+|move|p1a: Corviknight|Body Press|p2a: Rotom
+|-immune|p2a: Rotom
+|
+|upkeep
+|turn|3
+|
+|t:|1776979116
+|switch|p1a: Goodra|Goodra-Hisui, L82, F|265/265
+|move|p2a: Rotom|Trick|p1a: Goodra
+|-activate|p2a: Rotom|move: Trick|[of] p1a: Goodra
+|-item|p1a: Goodra|Choice Scarf|[from] move: Trick
+|-item|p2a: Rotom|Assault Vest|[from] move: Trick
+|
+|upkeep
+|turn|4
+|
+|t:|1776979128
+|move|p1a: Goodra|Heavy Slam|p2a: Rotom
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|171/231
+|move|p2a: Rotom|Volt Switch|p1a: Goodra
+|-resisted|p1a: Goodra
+|-damage|p1a: Goodra|240/265
+|
+|t:|1776979136
+|switch|p2a: Torterra|Torterra, L78, M|276/276|[from] Volt Switch
+|
+|upkeep
+|turn|5
+|
+|t:|1776979143
+|switch|p1a: Corviknight|Corviknight, L80, F|288/288
+|move|p2a: Torterra|Shell Smash|p2a: Torterra
+|-unboost|p2a: Torterra|def|1
+|-unboost|p2a: Torterra|spd|1
+|-boost|p2a: Torterra|atk|2
+|-boost|p2a: Torterra|spa|2
+|-boost|p2a: Torterra|spe|2
+|
+|upkeep
+|turn|6
+|
+|t:|1776979153
+|move|p2a: Torterra|Rock Blast|p1a: Corviknight
+|-damage|p1a: Corviknight|257/288
+|-damage|p1a: Corviknight|227/288
+|-damage|p1a: Corviknight|196/288
+|-damage|p1a: Corviknight|166/288
+|-damage|p1a: Corviknight|132/288
+|-hitcount|p1a: Corviknight|5
+|move|p1a: Corviknight|Brave Bird|p2a: Torterra
+|-supereffective|p2a: Torterra
+|-damage|p2a: Torterra|0 fnt
+|faint|p2a: Torterra
+|-damage|p1a: Corviknight|41/288|[from] Recoil
+|
+|upkeep
+|
+|t:|1776979165
+|switch|p2a: Rotom|Rotom, L88|171/231
+|turn|7
+|
+|t:|1776979173
+|switch|p1a: Goodra|Goodra-Hisui, L82, F|240/265
+|move|p2a: Rotom|Shadow Ball|p1a: Goodra
+|-damage|p1a: Goodra|179/265
+|
+|upkeep
+|turn|8
+|
+|t:|1776979190
+|switch|p2a: Umbreon|Umbreon, L84, M|297/297
+|move|p1a: Goodra|Hydro Pump|p2a: Umbreon
+|-damage|p2a: Umbreon|237/297
+|
+|-heal|p2a: Umbreon|255/297|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776979199
+|switch|p1a: Corviknight|Corviknight, L80, F|41/288
+|move|p2a: Umbreon|Foul Play|p1a: Corviknight
+|-damage|p1a: Corviknight|0 fnt
+|-damage|p2a: Umbreon|206/297|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|faint|p1a: Corviknight
+|
+|-heal|p2a: Umbreon|224/297|[from] item: Leftovers
+|upkeep
+|
+|t:|1776979211
+|switch|p1a: Goodra|Goodra-Hisui, L82, F|179/265
+|turn|10
+|
+|t:|1776979216
+|move|p1a: Goodra|Heavy Slam|p2a: Umbreon
+|-damage|p2a: Umbreon|112/297
+|move|p2a: Umbreon|Foul Play|p1a: Goodra
+|-damage|p1a: Goodra|89/265
+|
+|-heal|p2a: Umbreon|130/297|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776979223
+|move|p1a: Goodra|Heavy Slam|p2a: Umbreon
+|-damage|p2a: Umbreon|28/297
+|move|p2a: Umbreon|Wish|p2a: Umbreon
+|
+|-heal|p2a: Umbreon|46/297|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776979237
+|switch|p1a: Alcremie|Alcremie-Rainbow-Swirl, L90, F|263/263
+|move|p2a: Umbreon|Protect||[still]
+|-fail|p2a: Umbreon
+|
+|-heal|p2a: Umbreon|194/297|[from] move: Wish|[wisher] Umbreon
+|-heal|p2a: Umbreon|212/297|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776979250
+|switch|p2a: Toucannon|Toucannon, L88, M|284/284
+|move|p1a: Alcremie|Calm Mind|p1a: Alcremie
+|-boost|p1a: Alcremie|spa|1
+|-boost|p1a: Alcremie|spd|1
+|
+|upkeep
+|turn|14
+|
+|t:|1776979267
+|-singleturn|p2a: Toucannon|move: Beak Blast
+|move|p1a: Alcremie|Alluring Voice|p2a: Toucannon
+|-damage|p2a: Toucannon|104/284
+|move|p2a: Toucannon|Beak Blast|p1a: Alcremie
+|-damage|p1a: Alcremie|127/263
+|
+|-heal|p1a: Alcremie|143/263|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1776979276
+|-singleturn|p2a: Toucannon|move: Beak Blast
+|move|p1a: Alcremie|Alluring Voice|p2a: Toucannon
+|-damage|p2a: Toucannon|0 fnt
+|faint|p2a: Toucannon
+|
+|-heal|p1a: Alcremie|159/263|[from] item: Leftovers
+|upkeep
+|
+|t:|1776979285
+|switch|p2a: Minun|Minun, L95, F|268/268
+|turn|16
+|
+|t:|1776979295
+|-terastallize|p1a: Alcremie|Ground
+|move|p2a: Minun|Nasty Plot|p2a: Minun
+|-boost|p2a: Minun|spa|2
+|move|p1a: Alcremie|Recover|p1a: Alcremie
+|-heal|p1a: Alcremie|263/263
+|
+|upkeep
+|turn|17
+|
+|t:|1776979304
+|move|p2a: Minun|Encore|p1a: Alcremie
+|-block|p1a: Alcremie|ability: Aroma Veil|[of] p1a: Alcremie
+|move|p1a: Alcremie|Tera Blast|p2a: Minun|[anim] Tera Blast Ground
+|-supereffective|p2a: Minun
+|-damage|p2a: Minun|0 fnt
+|faint|p2a: Minun
+|
+|upkeep
+|-message|Finkamain forfeited.
+|
+|win|Ic3McSpic3
+|raw|Ic3McSpic3's rating: 1108 &rarr; <strong>1135</strong><br />(+27 for winning)
+|raw|Finkamain's rating: 1142 &rarr; <strong>1115</strong><br />(-27 for losing)
+|l|‽Finkamain
+|player|p2|

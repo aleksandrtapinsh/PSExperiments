@@ -1,8 +1,9 @@
 import json
 from pathlib import Path
 import numpy as np
-
-# Load data
+import matplotlib.pyplot as plt
+from sklearn.metrics import accuracy_score, confusion_matrix, f1_score
+# Load data 
 BASE = Path(__file__).parent.parent
 file_path = BASE / "parser" / "cleaned_dataset.jsonl"
 
@@ -145,6 +146,22 @@ def switch_mask(turn):
         mask[i] = 1.0
     return mask
 
+def evaluate_model(model, X, masks, y, name="Model"):
+    probs = model.predict([X, masks], verbose=0)
+    preds = np.argmax(probs, axis=1)
+
+    acc = accuracy_score(y, preds)
+    f1_weighted = f1_score(y, preds, average="weighted")
+    f1_macro = f1_score(y, preds, average="macro")
+    cm = confusion_matrix(y, preds)
+
+    print(f"\n{name} Evaluation")
+    print("-" * 40)
+    print(f"Accuracy:      {acc:.4f}")
+    print(f"F1 (weighted): {f1_weighted:.4f}")
+    print(f"F1 (macro):    {f1_macro:.4f}")
+    print("Confusion Matrix:")
+    print(cm)
 # Main vectorization #
 def vectorize_turns(turn_list):
     move_states, move_actions, move_masks     = [], [], []
@@ -239,13 +256,38 @@ move_model.compile(
     loss='sparse_categorical_crossentropy',
     metrics=['accuracy']
 )
-move_model.fit(
+early_stop = tf.keras.callbacks.EarlyStopping(
+    monitor='val_loss',
+    patience=4,
+    restore_best_weights=True
+)
+history = move_model.fit(
     [move_states, move_masks],
     move_actions,
     epochs=12,
     batch_size=64,
     validation_split=0.1,
+    callbacks=[early_stop]
 )
+plt.figure(figsize=(10,4))
+#Plot loss
+plt.subplot(1, 2, 1)
+plt.plot(history.history['loss'], label='train_loss')
+plt.plot(history.history['val_loss'], label='val_loss')
+plt.xlabel('Epoch')
+plt.ylabel('Loss')
+plt.legend()
+plt.title('Move Model Loss')
+# Plot accuracy
+plt.subplot(1, 2, 2)
+plt.plot(history.history['accuracy'], label='train_acc')
+plt.plot(history.history['val_accuracy'], label='val_acc')
+plt.xlabel('Epoch')
+plt.ylabel('Accuracy')
+plt.legend()
+plt.title('Move Model Accuracy')
+plt.show()
+evaluate_model(move_model, move_states, move_masks, move_actions, "Move Model")
 move_model.save(str(MODEL_DIR / "move_model.keras"))
 print(f"Move model saved → {MODEL_DIR / 'move_model.keras'}")
 
@@ -257,13 +299,33 @@ if len(switch_actions) > 0:
         loss='sparse_categorical_crossentropy',
         metrics=['accuracy']
     )
-    switch_model.fit(
+    switch_history = switch_model.fit(
         [switch_states, switch_masks],
         switch_actions,
         epochs=12,
         batch_size=64,
         validation_split=0.1,
+        callbacks=[early_stop]
     )
+    plt.figure(figsize=(10,4))
+    #Plot loss
+    plt.subplot(1, 2, 1)
+    plt.plot(switch_history.history['loss'], label='train_loss')
+    plt.plot(switch_history.history['val_loss'], label='val_loss')
+    plt.xlabel('Epoch')
+    plt.ylabel('Loss')
+    plt.legend()
+    plt.title('Switch Model Loss')
+    #Plot accuracy
+    plt.subplot(1, 2, 2)
+    plt.plot(switch_history.history['accuracy'], label='train_acc')
+    plt.plot(switch_history.history['val_accuracy'], label='val_acc')
+    plt.xlabel('Epoch')
+    plt.ylabel('Accuracy')
+    plt.legend()
+    plt.title('Switch Model Accuracy')
+    plt.show()
+    evaluate_model(switch_model, switch_states, switch_masks, switch_actions, "Switch Model")
     switch_model.save(str(MODEL_DIR / "switch_model.keras"))
     print(f"Switch model saved → {MODEL_DIR / 'switch_model.keras'}")
 else:

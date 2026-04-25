@@ -1,0 +1,357 @@
+|j|☆Master Cambro
+|j|☆UziBoii
+|t:|1776970512
+|gametype|singles
+|player|p1|Master Cambro|101|1499
+|player|p2|UziBoii|steven|1488
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776970512
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Rhyperior|Rhyperior, L82, F|323/323
+|switch|p2a: Dragapult|Dragapult, L77, F|262/262
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by UziBoii)
+|inactive|Master Cambro has 120 seconds left.
+|
+|t:|1776970555
+|move|p2a: Dragapult|Dragon Dance|p2a: Dragapult
+|-boost|p2a: Dragapult|atk|1
+|-boost|p2a: Dragapult|spe|1
+|move|p1a: Rhyperior|Dragon Tail|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|140/262
+|drag|p2a: Tropius|Tropius, L91, F|328/328
+|
+|upkeep
+|turn|2
+|
+|t:|1776970585
+|switch|p2a: Mightyena|Mightyena, L96, F|290/290
+|-ability|p2a: Mightyena|Intimidate|boost
+|-unboost|p1a: Rhyperior|atk|1
+|move|p1a: Rhyperior|Megahorn|p2a: Mightyena
+|-supereffective|p2a: Mightyena
+|-damage|p2a: Mightyena|148/290
+|
+|-heal|p2a: Mightyena|166/290|[from] item: Leftovers
+|upkeep
+|turn|3
+|inactive|Master Cambro has 120 seconds left.
+|
+|t:|1776970611
+|switch|p1a: Scream Tail|Scream Tail, L84|330/330
+|move|p2a: Mightyena|Crunch|p1a: Scream Tail
+|-damage|p1a: Scream Tail|240/330
+|
+|-heal|p1a: Scream Tail|260/330|[from] item: Leftovers
+|-heal|p2a: Mightyena|184/290|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776970629
+|switch|p2a: Swalot|Swalot, L90, F|326/326
+|move|p1a: Scream Tail|Thunder Wave|p2a: Swalot
+|-status|p2a: Swalot|par
+|
+|-heal|p1a: Scream Tail|280/330|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776970640
+|-end|p1a: Scream Tail|Protosynthesis|[silent]
+|switch|p1a: Gliscor|Gliscor, L76, M|239/239
+|cant|p2a: Swalot|par
+|
+|-status|p1a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|6
+|
+|t:|1776970657
+|switch|p1a: Probopass|Probopass, L91, M|257/257
+|move|p2a: Swalot|Knock Off|p1a: Probopass
+|-damage|p1a: Probopass|217/257
+|-enditem|p1a: Probopass|Chesto Berry|[from] move: Knock Off|[of] p2a: Swalot
+|
+|upkeep
+|turn|7
+|
+|t:|1776970667
+|move|p1a: Probopass|Iron Defense|p1a: Probopass
+|-boost|p1a: Probopass|def|2
+|move|p2a: Swalot|Earthquake|p1a: Probopass
+|-supereffective|p1a: Probopass
+|-damage|p1a: Probopass|133/257
+|
+|upkeep
+|turn|8
+|
+|t:|1776970673
+|move|p1a: Probopass|Iron Defense|p1a: Probopass
+|-boost|p1a: Probopass|def|2
+|move|p2a: Swalot|Swords Dance|p2a: Swalot
+|-boost|p2a: Swalot|atk|2
+|
+|upkeep
+|turn|9
+|
+|t:|1776970682
+|move|p1a: Probopass|Power Gem|p2a: Swalot
+|-damage|p2a: Swalot|244/326 par
+|move|p2a: Swalot|Swords Dance|p2a: Swalot
+|-boost|p2a: Swalot|atk|2
+|
+|-heal|p2a: Swalot|264/326 par|[from] item: Leftovers
+|upkeep
+|turn|10
+|inactive|Master Cambro has 120 seconds left.
+|
+|t:|1776970705
+|move|p1a: Probopass|Power Gem|p2a: Swalot
+|-damage|p2a: Swalot|188/326 par
+|move|p2a: Swalot|Earthquake|p1a: Probopass
+|-supereffective|p1a: Probopass
+|-damage|p1a: Probopass|0 fnt
+|faint|p1a: Probopass
+|
+|-heal|p2a: Swalot|208/326 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1776970721
+|switch|p1a: Rhyperior|Rhyperior, L82, F|323/323
+|turn|11
+|
+|t:|1776970727
+|move|p1a: Rhyperior|Earthquake|p2a: Swalot
+|-supereffective|p2a: Swalot
+|-damage|p2a: Swalot|0 fnt
+|faint|p2a: Swalot
+|
+|upkeep
+|
+|t:|1776970734
+|switch|p2a: Mightyena|Mightyena, L96, F|184/290
+|-ability|p2a: Mightyena|Intimidate|boost
+|-unboost|p1a: Rhyperior|atk|1
+|turn|12
+|
+|t:|1776970739
+|switch|p1a: Scream Tail|Scream Tail, L84|280/330
+|move|p2a: Mightyena|Poison Fang|p1a: Scream Tail
+|-supereffective|p1a: Scream Tail
+|-damage|p1a: Scream Tail|196/330
+|
+|-heal|p1a: Scream Tail|216/330|[from] item: Leftovers
+|-heal|p2a: Mightyena|202/290|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776970748
+|move|p1a: Scream Tail|Play Rough|p2a: Mightyena
+|-supereffective|p2a: Mightyena
+|-damage|p2a: Mightyena|50/290
+|move|p2a: Mightyena|Poison Fang|p1a: Scream Tail
+|-supereffective|p1a: Scream Tail
+|-damage|p1a: Scream Tail|142/330
+|-status|p1a: Scream Tail|tox
+|
+|-heal|p1a: Scream Tail|162/330 tox|[from] item: Leftovers
+|-heal|p2a: Mightyena|68/290|[from] item: Leftovers
+|-damage|p1a: Scream Tail|142/330 tox|[from] psn
+|upkeep
+|turn|14
+|inactive|Master Cambro has 120 seconds left.
+|
+|t:|1776970762
+|move|p2a: Mightyena|Sucker Punch|p1a: Scream Tail
+|-damage|p1a: Scream Tail|55/330 tox
+|move|p1a: Scream Tail|Play Rough|p2a: Mightyena
+|-supereffective|p2a: Mightyena
+|-damage|p2a: Mightyena|0 fnt
+|faint|p2a: Mightyena
+|
+|-heal|p1a: Scream Tail|75/330 tox|[from] item: Leftovers
+|-damage|p1a: Scream Tail|35/330 tox|[from] psn
+|upkeep
+|
+|t:|1776970776
+|switch|p2a: Dragapult|Dragapult, L77, F|140/262
+|turn|15
+|
+|t:|1776970785
+|move|p2a: Dragapult|Fire Blast|p1a: Scream Tail
+|-damage|p1a: Scream Tail|0 fnt
+|faint|p1a: Scream Tail
+|-end|p1a: Scream Tail|Protosynthesis|[silent]
+|-damage|p2a: Dragapult|114/262|[from] item: Life Orb
+|
+|upkeep
+|inactive|Master Cambro has 120 seconds left.
+|
+|t:|1776970804
+|switch|p1a: Rhyperior|Rhyperior, L82, F|323/323
+|turn|16
+|
+|t:|1776970809
+|move|p2a: Dragapult|Dragon Darts|p1a: Rhyperior
+|-damage|p1a: Rhyperior|271/323
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Rhyperior
+|-damage|p1a: Rhyperior|220/323
+|-damage|p2a: Dragapult|88/262|[from] item: Life Orb
+|move|p1a: Rhyperior|Dragon Tail|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|upkeep
+|
+|t:|1776970818
+|switch|p2a: Drifblim|Drifblim, L86, F|396/396
+|turn|17
+|
+|t:|1776970826
+|switch|p1a: Zebstrika|Zebstrika, L87, F|272/272
+|move|p2a: Drifblim|Calm Mind|p2a: Drifblim
+|-boost|p2a: Drifblim|spa|1
+|-boost|p2a: Drifblim|spd|1
+|
+|upkeep
+|turn|18
+|
+|t:|1776970836
+|-terastallize|p2a: Drifblim|Fairy
+|move|p1a: Zebstrika|Supercell Slam|p2a: Drifblim
+|-damage|p2a: Drifblim|162/396
+|-enditem|p2a: Drifblim|Sitrus Berry|[eat]
+|-heal|p2a: Drifblim|261/396|[from] item: Sitrus Berry
+|-damage|p1a: Zebstrika|245/272|[from] item: Life Orb
+|move|p2a: Drifblim|Calm Mind|p2a: Drifblim
+|-boost|p2a: Drifblim|spa|1
+|-boost|p2a: Drifblim|spd|1
+|
+|upkeep
+|turn|19
+|
+|t:|1776970849
+|move|p2a: Drifblim|Shadow Ball|p1a: Zebstrika
+|-damage|p1a: Zebstrika|49/272
+|move|p1a: Zebstrika|Supercell Slam|p2a: Drifblim
+|-crit|p2a: Drifblim
+|-damage|p2a: Drifblim|0 fnt
+|faint|p2a: Drifblim
+|-damage|p1a: Zebstrika|22/272|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776970853
+|switch|p2a: Tropius|Tropius, L91, F|328/328
+|turn|20
+|
+|t:|1776970867
+|move|p1a: Zebstrika|Overheat|p2a: Tropius|[miss]
+|-miss|p1a: Zebstrika|p2a: Tropius
+|move|p2a: Tropius|Dragon Dance|p2a: Tropius
+|-boost|p2a: Tropius|atk|1
+|-boost|p2a: Tropius|spe|1
+|
+|upkeep
+|turn|21
+|
+|t:|1776970875
+|move|p1a: Zebstrika|Overheat|p2a: Tropius
+|-supereffective|p2a: Tropius
+|-damage|p2a: Tropius|130/328
+|-unboost|p1a: Zebstrika|spa|2
+|-enditem|p2a: Tropius|Sitrus Berry|[eat]
+|-heal|p2a: Tropius|212/328|[from] item: Sitrus Berry
+|-damage|p1a: Zebstrika|0 fnt|[from] item: Life Orb
+|faint|p1a: Zebstrika
+|move|p2a: Tropius|Dragon Dance|p2a: Tropius
+|-boost|p2a: Tropius|atk|1
+|-boost|p2a: Tropius|spe|1
+|
+|-item|p2a: Tropius|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|
+|t:|1776970890
+|switch|p1a: Rhyperior|Rhyperior, L82, F|220/323
+|turn|22
+|
+|t:|1776970894
+|-terastallize|p1a: Rhyperior|Bug
+|move|p2a: Tropius|Earthquake|p1a: Rhyperior
+|-resisted|p1a: Rhyperior
+|-damage|p1a: Rhyperior|170/323
+|move|p1a: Rhyperior|Dragon Tail|p2a: Tropius
+|-damage|p2a: Tropius|163/328
+|-enditem|p2a: Tropius|Sitrus Berry|[eat]
+|-heal|p2a: Tropius|245/328|[from] item: Sitrus Berry
+|drag|p2a: Chien-Pao|Chien-Pao, L72|234/234
+|-ability|p2a: Chien-Pao|Sword of Ruin
+|
+|upkeep
+|turn|23
+|
+|t:|1776970908
+|switch|p2a: Tropius|Tropius, L91, F|245/328
+|move|p1a: Rhyperior|Stone Edge|p2a: Tropius
+|-supereffective|p2a: Tropius
+|-damage|p2a: Tropius|0 fnt
+|faint|p2a: Tropius
+|
+|upkeep
+|
+|t:|1776970911
+|switch|p2a: Chien-Pao|Chien-Pao, L72|234/234
+|-ability|p2a: Chien-Pao|Sword of Ruin
+|turn|24
+|
+|t:|1776970923
+|move|p2a: Chien-Pao|Icicle Crash|p1a: Rhyperior
+|-damage|p1a: Rhyperior|43/323
+|cant|p1a: Rhyperior|flinch
+|
+|upkeep
+|turn|25
+|
+|t:|1776970930
+|move|p2a: Chien-Pao|Icicle Crash|p1a: Rhyperior
+|-damage|p1a: Rhyperior|0 fnt
+|faint|p1a: Rhyperior
+|
+|upkeep
+|
+|t:|1776970942
+|switch|p1a: Cacturne|Cacturne, L92, M|278/278
+|turn|26
+|
+|t:|1776970950
+|move|p2a: Chien-Pao|Icicle Crash|p1a: Cacturne
+|-supereffective|p1a: Cacturne
+|-damage|p1a: Cacturne|0 fnt
+|faint|p1a: Cacturne
+|
+|upkeep
+|
+|t:|1776970955
+|switch|p1a: Gliscor|Gliscor, L76, M|239/239 tox
+|turn|27
+|
+|t:|1776970961
+|move|p2a: Chien-Pao|Icicle Crash|p1a: Gliscor
+|-supereffective|p1a: Gliscor
+|-damage|p1a: Gliscor|0 fnt
+|faint|p1a: Gliscor
+|
+|win|UziBoii
+|raw|Master Cambro's rating: 1499 &rarr; <strong>1478</strong><br />(-21 for losing)
+|raw|UziBoii's rating: 1488 &rarr; <strong>1509</strong><br />(+21 for winning)
+|c|☆UziBoii|gg

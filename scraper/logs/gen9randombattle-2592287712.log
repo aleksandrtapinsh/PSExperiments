@@ -1,0 +1,215 @@
+|j|☆SteelixPrismGX
+|j|☆Ascent-SG
+|t:|1776976074
+|gametype|singles
+|player|p1|SteelixPrismGX|siebold|1973
+|player|p2|Ascent-SG|lucas|1942
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776976074
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Bisharp|Bisharp, L79, F|232/232
+|switch|p2a: Dialga|Dialga, L73|266/266
+|-ability|p2a: Dialga|Pressure
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SteelixPrismGX)
+|
+|t:|1776976088
+|switch|p1a: Okidogi|Okidogi, L77, M|262/262
+|move|p2a: Dialga|Fire Blast|p1a: Okidogi
+|-damage|p1a: Okidogi|197/262
+|
+|upkeep
+|turn|2
+|
+|t:|1776976102
+|move|p2a: Dialga|Heavy Slam|p1a: Okidogi
+|-damage|p1a: Okidogi|85/262
+|move|p1a: Okidogi|Drain Punch|p2a: Dialga
+|-supereffective|p2a: Dialga
+|-damage|p2a: Dialga|116/266
+|-heal|p1a: Okidogi|160/262|[from] drain|[of] p2a: Dialga
+|
+|-heal|p2a: Dialga|132/266|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776976110
+|move|p2a: Dialga|Heavy Slam|p1a: Okidogi
+|-damage|p1a: Okidogi|51/262
+|move|p1a: Okidogi|Drain Punch|p2a: Dialga
+|-supereffective|p2a: Dialga
+|-damage|p2a: Dialga|0 fnt
+|-heal|p1a: Okidogi|117/262|[from] drain|[of] p2a: Dialga
+|faint|p2a: Dialga
+|
+|upkeep
+|
+|t:|1776976117
+|switch|p2a: Salamence|Salamence, L77, F|273/273
+|turn|4
+|
+|t:|1776976123
+|switch|p1a: Duraludon|Duraludon, L82, M|249/249
+|move|p2a: Salamence|Dragon Dance|p2a: Salamence
+|-boost|p2a: Salamence|atk|1
+|-boost|p2a: Salamence|spe|1
+|
+|upkeep
+|turn|5
+|
+|t:|1776976141
+|move|p2a: Salamence|Earthquake|p1a: Duraludon
+|-supereffective|p1a: Duraludon
+|-damage|p1a: Duraludon|119/249
+|move|p1a: Duraludon|Thunder Wave|p2a: Salamence
+|-status|p2a: Salamence|par
+|
+|upkeep
+|turn|6
+|
+|t:|1776976147
+|move|p1a: Duraludon|Draco Meteor|p2a: Salamence
+|-supereffective|p2a: Salamence
+|-damage|p2a: Salamence|0 fnt
+|-unboost|p1a: Duraludon|spa|2
+|faint|p2a: Salamence
+|
+|upkeep
+|
+|t:|1776976166
+|switch|p2a: Gurdurr|Gurdurr, L85, F|283/283
+|turn|7
+|
+|t:|1776976171
+|switch|p1a: Okidogi|Okidogi, L77, M|117/262
+|move|p2a: Gurdurr|Drain Punch|p1a: Okidogi
+|-resisted|p1a: Okidogi
+|-damage|p1a: Okidogi|80/262
+|
+|upkeep
+|turn|8
+|
+|t:|1776976181
+|move|p1a: Okidogi|Drain Punch|p2a: Gurdurr
+|-crit|p2a: Gurdurr
+|-damage|p2a: Gurdurr|189/283
+|-heal|p1a: Okidogi|127/262|[from] drain|[of] p2a: Gurdurr
+|move|p2a: Gurdurr|Knock Off|p1a: Okidogi
+|-resisted|p1a: Okidogi
+|-damage|p1a: Okidogi|96/262
+|-enditem|p1a: Okidogi|Assault Vest|[from] move: Knock Off|[of] p2a: Gurdurr
+|
+|upkeep
+|turn|9
+|
+|t:|1776976189
+|move|p1a: Okidogi|Knock Off|p2a: Gurdurr
+|-resisted|p2a: Gurdurr
+|-damage|p2a: Gurdurr|163/283
+|-status|p2a: Gurdurr|tox|[from] ability: Toxic Chain|[of] p1a: Okidogi
+|-enditem|p2a: Gurdurr|Eviolite|[from] move: Knock Off|[of] p1a: Okidogi
+|move|p2a: Gurdurr|Drain Punch|p1a: Okidogi
+|-resisted|p1a: Okidogi
+|-damage|p1a: Okidogi|36/262
+|-heal|p2a: Gurdurr|193/283 tox|[from] drain|[of] p1a: Okidogi
+|
+|-damage|p2a: Gurdurr|176/283 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1776976196
+|move|p2a: Gurdurr|Mach Punch|p1a: Okidogi
+|-resisted|p1a: Okidogi
+|-damage|p1a: Okidogi|7/262
+|move|p1a: Okidogi|Drain Punch|p2a: Gurdurr
+|-damage|p2a: Gurdurr|85/283 tox
+|-heal|p1a: Okidogi|53/262|[from] drain|[of] p2a: Gurdurr
+|
+|-damage|p2a: Gurdurr|51/283 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1776976205
+|move|p1a: Okidogi|Drain Punch|p2a: Gurdurr
+|-damage|p2a: Gurdurr|0 fnt
+|-heal|p1a: Okidogi|79/262|[from] drain|[of] p2a: Gurdurr
+|faint|p2a: Gurdurr
+|
+|upkeep
+|
+|t:|1776976209
+|switch|p2a: Houndoom|Houndoom, L87, M|272/272
+|turn|12
+|
+|t:|1776976215
+|move|p2a: Houndoom|Fire Blast|p1a: Okidogi
+|-damage|p1a: Okidogi|0 fnt
+|faint|p1a: Okidogi
+|
+|upkeep
+|
+|t:|1776976220
+|switch|p1a: Medicham|Medicham, L86, M|243/243
+|turn|13
+|
+|t:|1776976235
+|-terastallize|p2a: Houndoom|Dark
+|move|p2a: Houndoom|Dark Pulse|p1a: Medicham
+|-damage|p1a: Medicham|105/243
+|move|p1a: Medicham|Close Combat|p2a: Houndoom
+|-supereffective|p2a: Houndoom
+|-damage|p2a: Houndoom|0 fnt
+|-unboost|p1a: Medicham|def|1
+|-unboost|p1a: Medicham|spd|1
+|faint|p2a: Houndoom
+|
+|upkeep
+|
+|t:|1776976243
+|switch|p2a: Iron Hands|Iron Hands, L79|373/373
+|turn|14
+|
+|t:|1776976249
+|switch|p1a: Pelipper|Pelipper, L86, F|243/243
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Iron Hands|Drain Punch|p1a: Pelipper
+|-resisted|p1a: Pelipper
+|-damage|p1a: Pelipper|199/243
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1776976261
+|-terastallize|p1a: Pelipper|Flying
+|move|p1a: Pelipper|Weather Ball|p2a: Iron Hands
+|-damage|p2a: Iron Hands|63/373
+|move|p2a: Iron Hands|Wild Charge|p1a: Pelipper
+|-supereffective|p1a: Pelipper
+|-damage|p1a: Pelipper|0 fnt
+|faint|p1a: Pelipper
+|-damage|p2a: Iron Hands|13/373|[from] Recoil
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Iron Hands|36/373|[from] item: Leftovers
+|upkeep
+|
+|t:|1776976265
+|switch|p1a: Medicham|Medicham, L86, M|105/243
+|turn|16
+|-message|Ascent-SG forfeited.
+|
+|win|SteelixPrismGX
+|raw|SteelixPrismGX's rating: 1973 &rarr; <strong>1991</strong><br />(+18 for winning)
+|raw|Ascent-SG's rating: 1942 &rarr; <strong>1924</strong><br />(-18 for losing)
+|l|☆Ascent-SG
+|player|p2|

@@ -1,0 +1,305 @@
+|j|☆Jdjsjjdd
+|j|☆Dbdbbdhdrb
+|t:|1776977971
+|gametype|singles
+|player|p1|Jdjsjjdd|266|1128
+|player|p2|Dbdbbdhdrb|169|1121
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776977971
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Metagross|Metagross, L79|256/256
+|switch|p2a: Ursaluna|Ursaluna-Bloodmoon, L79, M|308/308
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Jdjsjjdd)
+|
+|t:|1776977978
+|move|p1a: Metagross|Stealth Rock|p2a: Ursaluna
+|-sidestart|p2: Dbdbbdhdrb|move: Stealth Rock
+|move|p2a: Ursaluna|Calm Mind|p2a: Ursaluna
+|-boost|p2a: Ursaluna|spa|1
+|-boost|p2a: Ursaluna|spd|1
+|
+|upkeep
+|turn|2
+|
+|t:|1776977986
+|switch|p1a: Smeargle|Smeargle, L95, M|258/258
+|move|p2a: Ursaluna|Calm Mind|p2a: Ursaluna
+|-boost|p2a: Ursaluna|spa|1
+|-boost|p2a: Ursaluna|spd|1
+|
+|upkeep
+|turn|3
+|
+|t:|1776977993
+|move|p2a: Ursaluna|Vacuum Wave|p1a: Smeargle
+|-supereffective|p1a: Smeargle
+|-damage|p1a: Smeargle|58/258
+|move|p1a: Smeargle|Spore|p2a: Ursaluna
+|-status|p2a: Ursaluna|slp|[from] move: Spore
+|
+|upkeep
+|turn|4
+|
+|t:|1776978001
+|cant|p2a: Ursaluna|slp
+|move|p1a: Smeargle|Whirlwind|p2a: Ursaluna
+|drag|p2a: Jolteon|Jolteon, L84, M|246/246
+|-damage|p2a: Jolteon|216/246|[from] Stealth Rock
+|
+|upkeep
+|turn|5
+|
+|t:|1776978010
+|switch|p1a: Carbink|Carbink, L90|236/236
+|move|p2a: Jolteon|Thunderbolt|p1a: Carbink
+|-damage|p1a: Carbink|146/236
+|-damage|p2a: Jolteon|192/246|[from] item: Life Orb
+|
+|-heal|p1a: Carbink|160/236|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776978022
+|move|p2a: Jolteon|Calm Mind|p2a: Jolteon
+|-boost|p2a: Jolteon|spa|1
+|-boost|p2a: Jolteon|spd|1
+|move|p1a: Carbink|Rock Polish|p1a: Carbink
+|-boost|p1a: Carbink|spe|2
+|
+|-heal|p1a: Carbink|174/236|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776978033
+|move|p1a: Carbink|Iron Defense|p1a: Carbink
+|-boost|p1a: Carbink|def|2
+|move|p2a: Jolteon|Thunderbolt|p1a: Carbink
+|-damage|p1a: Carbink|60/236
+|-damage|p2a: Jolteon|168/246|[from] item: Life Orb
+|
+|-heal|p1a: Carbink|74/236|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776978042
+|switch|p2a: Lunala|Lunala, L70|308/308
+|-damage|p2a: Lunala|270/308|[from] Stealth Rock
+|move|p1a: Carbink|Body Press|p2a: Lunala
+|-immune|p2a: Lunala
+|
+|-heal|p1a: Carbink|88/236|[from] item: Leftovers
+|-heal|p2a: Lunala|289/308|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776978053
+|move|p1a: Carbink|Moonblast|p2a: Lunala
+|-damage|p2a: Lunala|211/308
+|move|p2a: Lunala|Moongeist Beam|p1a: Carbink
+|-damage|p1a: Carbink|24/236
+|
+|-heal|p1a: Carbink|38/236|[from] item: Leftovers
+|-heal|p2a: Lunala|230/308|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1776978063
+|move|p1a: Carbink|Moonblast|p2a: Lunala
+|-damage|p2a: Lunala|155/308
+|move|p2a: Lunala|Moongeist Beam|p1a: Carbink
+|-damage|p1a: Carbink|0 fnt
+|faint|p1a: Carbink
+|
+|-heal|p2a: Lunala|174/308|[from] item: Leftovers
+|upkeep
+|
+|t:|1776978074
+|switch|p1a: Smeargle|Smeargle, L95, M|58/258
+|turn|11
+|
+|t:|1776978078
+|move|p1a: Smeargle|Sticky Web|p2a: Lunala
+|-sidestart|p2: Dbdbbdhdrb|move: Sticky Web
+|move|p2a: Lunala|Psyshock|p1a: Smeargle
+|-damage|p1a: Smeargle|0 fnt
+|faint|p1a: Smeargle
+|
+|-heal|p2a: Lunala|193/308|[from] item: Leftovers
+|upkeep
+|
+|t:|1776978091
+|switch|p1a: Komala|Komala, L88, F|258/258
+|-ability|p1a: Komala|Comatose
+|turn|12
+|
+|t:|1776978100
+|switch|p2a: Leafeon|Leafeon, L88, F|258/258
+|-damage|p2a: Leafeon|226/258|[from] Stealth Rock
+|-activate|p2a: Leafeon|move: Sticky Web
+|-unboost|p2a: Leafeon|spe|1
+|move|p1a: Komala|Knock Off|p2a: Leafeon
+|-damage|p2a: Leafeon|160/258
+|-enditem|p2a: Leafeon|Life Orb|[from] move: Knock Off|[of] p1a: Komala
+|
+|upkeep
+|turn|13
+|
+|t:|1776978112
+|move|p1a: Komala|Body Slam|p2a: Leafeon
+|-damage|p2a: Leafeon|72/258
+|move|p2a: Leafeon|Knock Off|p1a: Komala
+|-damage|p1a: Komala|152/258
+|-enditem|p1a: Komala|Assault Vest|[from] move: Knock Off|[of] p2a: Leafeon
+|
+|upkeep
+|turn|14
+|
+|t:|1776978122
+|move|p1a: Komala|Body Slam|p2a: Leafeon
+|-crit|p2a: Leafeon
+|-damage|p2a: Leafeon|0 fnt
+|faint|p2a: Leafeon
+|
+|upkeep
+|
+|t:|1776978136
+|switch|p2a: Jolteon|Jolteon, L84, M|168/246
+|-damage|p2a: Jolteon|138/246|[from] Stealth Rock
+|-activate|p2a: Jolteon|move: Sticky Web
+|-unboost|p2a: Jolteon|spe|1
+|turn|15
+|
+|t:|1776978141
+|move|p2a: Jolteon|Thunderbolt|p1a: Komala
+|-damage|p1a: Komala|35/258
+|-damage|p2a: Jolteon|114/246|[from] item: Life Orb
+|move|p1a: Komala|Earthquake|p2a: Jolteon
+|-supereffective|p2a: Jolteon
+|-damage|p2a: Jolteon|0 fnt
+|faint|p2a: Jolteon
+|
+|upkeep
+|
+|t:|1776978150
+|switch|p2a: Wigglytuff|Wigglytuff, L96, M|424/424
+|-damage|p2a: Wigglytuff|371/424|[from] Stealth Rock
+|-activate|p2a: Wigglytuff|move: Sticky Web
+|-unboost|p2a: Wigglytuff|spe|1
+|-ability|p2a: Wigglytuff|Competitive|boost
+|-boost|p2a: Wigglytuff|spa|2
+|turn|16
+|
+|t:|1776978158
+|move|p1a: Komala|Body Slam|p2a: Wigglytuff
+|-damage|p2a: Wigglytuff|221/424
+|move|p2a: Wigglytuff|Knock Off|p1a: Komala
+|-damage|p1a: Komala|0 fnt
+|faint|p1a: Komala
+|
+|-heal|p2a: Wigglytuff|247/424|[from] item: Leftovers
+|upkeep
+|
+|t:|1776978167
+|switch|p1a: Metagross|Metagross, L79|256/256
+|turn|17
+|
+|t:|1776978172
+|-terastallize|p2a: Wigglytuff|Steel
+|move|p1a: Metagross|Heavy Slam|p2a: Wigglytuff
+|-resisted|p2a: Wigglytuff
+|-damage|p2a: Wigglytuff|154/424
+|move|p2a: Wigglytuff|Fire Blast|p1a: Metagross
+|-supereffective|p1a: Metagross
+|-damage|p1a: Metagross|0 fnt
+|faint|p1a: Metagross
+|
+|-heal|p2a: Wigglytuff|180/424|[from] item: Leftovers
+|upkeep
+|
+|t:|1776978185
+|switch|p1a: Delphox|Delphox, L84, F|263/263
+|turn|18
+|
+|t:|1776978190
+|move|p1a: Delphox|Fire Blast|p2a: Wigglytuff
+|-supereffective|p2a: Wigglytuff
+|-damage|p2a: Wigglytuff|0 fnt
+|faint|p2a: Wigglytuff
+|
+|upkeep
+|
+|t:|1776978194
+|switch|p2a: Lunala|Lunala, L70|193/308
+|-damage|p2a: Lunala|155/308|[from] Stealth Rock
+|-activate|p2a: Lunala|move: Sticky Web
+|-unboost|p2a: Lunala|spe|1
+|turn|19
+|
+|t:|1776978200
+|move|p1a: Delphox|Fire Blast|p2a: Lunala
+|-damage|p2a: Lunala|0 fnt
+|faint|p2a: Lunala
+|
+|upkeep
+|
+|t:|1776978204
+|switch|p2a: Ursaluna|Ursaluna-Bloodmoon, L79, M|308/308 slp
+|-damage|p2a: Ursaluna|289/308 slp|[from] Stealth Rock
+|-activate|p2a: Ursaluna|move: Sticky Web
+|-unboost|p2a: Ursaluna|spe|1
+|turn|20
+|
+|t:|1776978210
+|cant|p2a: Ursaluna|slp
+|move|p1a: Delphox|Fire Blast|p2a: Ursaluna|[miss]
+|-miss|p1a: Delphox|p2a: Ursaluna
+|
+|-heal|p2a: Ursaluna|308/308 slp|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1776978219
+|move|p1a: Delphox|Fire Blast|p2a: Ursaluna
+|-damage|p2a: Ursaluna|65/308 slp
+|cant|p2a: Ursaluna|slp
+|
+|-heal|p2a: Ursaluna|84/308 slp|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1776978227
+|move|p1a: Delphox|Fire Blast|p2a: Ursaluna
+|-damage|p2a: Ursaluna|0 fnt
+|faint|p2a: Ursaluna
+|
+|upkeep
+|
+|t:|1776978228
+|switch|p2a: Cloyster|Cloyster, L80, F|211/211
+|-damage|p2a: Cloyster|159/211|[from] Stealth Rock
+|-activate|p2a: Cloyster|move: Sticky Web
+|-unboost|p2a: Cloyster|spe|1
+|-enditem|p2a: Cloyster|White Herb
+|-clearnegativeboost|p2a: Cloyster|[silent]
+|turn|23
+|
+|t:|1776978239
+|move|p1a: Delphox|Fire Blast|p2a: Cloyster
+|-damage|p2a: Cloyster|0 fnt
+|faint|p2a: Cloyster
+|
+|win|Jdjsjjdd
+|raw|Jdjsjjdd's rating: 1128 &rarr; <strong>1152</strong><br />(+24 for winning)
+|raw|Dbdbbdhdrb's rating: 1121 &rarr; <strong>1097</strong><br />(-24 for losing)
+|l|☆Dbdbbdhdrb
+|player|p2|

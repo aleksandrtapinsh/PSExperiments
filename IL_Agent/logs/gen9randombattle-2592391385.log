@@ -1,0 +1,247 @@
+|j|‽rongbipper42069
+|j|☆MATIASMOLINAVRG
+|t:|1776984933
+|gametype|singles
+|player|p1|rongbipper42069|265|1040
+|player|p2|MATIASMOLINAVRG|102|1000
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776984933
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Magmortar|Magmortar, L88, F|275/275
+|switch|p2a: Venomoth|Venomoth, L84, M|255/255
+|turn|1
+|
+|t:|1776984952
+|move|p2a: Venomoth|Sludge Wave|p1a: Magmortar
+|-damage|p1a: Magmortar|185/275
+|-status|p1a: Magmortar|psn
+|move|p1a: Magmortar|Will-O-Wisp|p2a: Venomoth
+|-status|p2a: Venomoth|brn
+|
+|-damage|p1a: Magmortar|151/275 psn|[from] psn
+|-damage|p2a: Venomoth|240/255 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1776984977
+|move|p2a: Venomoth|Sludge Wave|p1a: Magmortar
+|-damage|p1a: Magmortar|61/275 psn
+|move|p1a: Magmortar|Fire Blast|p2a: Venomoth
+|-supereffective|p2a: Venomoth
+|-damage|p2a: Venomoth|0 fnt
+|faint|p2a: Venomoth
+|
+|-damage|p1a: Magmortar|27/275 psn|[from] psn
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by rongbipper42069)
+|
+|t:|1776984990
+|switch|p2a: Volcarona|Volcarona, L77, M|257/257
+|turn|3
+|
+|t:|1776984998
+|-terastallize|p2a: Volcarona|Water
+|move|p2a: Volcarona|Tera Blast|p1a: Magmortar|[anim] Tera Blast Water
+|-supereffective|p1a: Magmortar
+|-damage|p1a: Magmortar|0 fnt
+|faint|p1a: Magmortar
+|
+|upkeep
+|
+|t:|1776985007
+|switch|p1a: Cramorant|Cramorant, L86, F|261/261
+|turn|4
+|
+|t:|1776985013
+|switch|p2a: Electivire|Electivire, L84, F|263/263
+|move|p1a: Cramorant|Brave Bird|p2a: Electivire
+|-resisted|p2a: Electivire
+|-damage|p2a: Electivire|196/263
+|-damage|p1a: Cramorant|239/261|[from] Recoil
+|
+|upkeep
+|turn|5
+|
+|t:|1776985023
+|switch|p1a: Garganacl|Garganacl, L80, M|291/291
+|move|p2a: Electivire|Supercell Slam|p1a: Garganacl
+|-damage|p1a: Garganacl|155/291
+|-damage|p2a: Electivire|170/263|[from] item: Life Orb
+|
+|-heal|p1a: Garganacl|173/291|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776985034
+|switch|p2a: Poliwrath|Poliwrath, L88, M|302/302
+|move|p1a: Garganacl|Earthquake|p2a: Poliwrath
+|-damage|p2a: Poliwrath|238/302
+|
+|-heal|p1a: Garganacl|191/291|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776985041
+|move|p2a: Poliwrath|Rain Dance|p2a: Poliwrath
+|-weather|RainDance
+|move|p1a: Garganacl|Salt Cure|p2a: Poliwrath
+|-resisted|p2a: Poliwrath
+|-damage|p2a: Poliwrath|222/302
+|-start|p2a: Poliwrath|Salt Cure
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Garganacl|209/291|[from] item: Leftovers
+|-damage|p2a: Poliwrath|147/302|[from] Salt Cure
+|upkeep
+|turn|8
+|
+|t:|1776985050
+|move|p2a: Poliwrath|Liquidation|p1a: Garganacl
+|-supereffective|p1a: Garganacl
+|-damage|p1a: Garganacl|0 fnt
+|faint|p1a: Garganacl
+|-damage|p2a: Poliwrath|117/302|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Poliwrath|42/302|[from] Salt Cure
+|upkeep
+|
+|t:|1776985056
+|switch|p1a: Cramorant|Cramorant, L86, F|239/261
+|turn|9
+|
+|t:|1776985071
+|move|p2a: Poliwrath|Close Combat|p1a: Cramorant
+|-resisted|p1a: Cramorant
+|-damage|p1a: Cramorant|108/261
+|-unboost|p2a: Poliwrath|def|1
+|-unboost|p2a: Poliwrath|spd|1
+|-damage|p2a: Poliwrath|12/302|[from] item: Life Orb
+|move|p1a: Cramorant|Surf|p2a: Poliwrath
+|-formechange|p1a: Cramorant|Cramorant-Gorging|
+|-resisted|p2a: Poliwrath
+|-damage|p2a: Poliwrath|0 fnt
+|faint|p2a: Poliwrath
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1776985082
+|switch|p2a: Electivire|Electivire, L84, F|170/263
+|turn|10
+|
+|t:|1776985086
+|move|p2a: Electivire|Supercell Slam|p1a: Cramorant
+|-supereffective|p1a: Cramorant
+|-damage|p1a: Cramorant|0 fnt
+|-damage|p2a: Electivire|105/263|[from] ability: Gulp Missile|[of] p1a: Cramorant
+|-formechange|p1a: Cramorant|Cramorant|
+|faint|p1a: Cramorant
+|-damage|p2a: Electivire|79/263|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1776985090
+|switch|p1a: Basculin|Basculin, L86, M|261/261
+|turn|11
+|
+|t:|1776985103
+|move|p1a: Basculin|Flip Turn|p2a: Electivire
+|-damage|p2a: Electivire|0 fnt
+|faint|p2a: Electivire
+|
+|t:|1776985119
+|switch|p1a: Blaziken|Blaziken, L76, M|247/247|[from] Flip Turn
+|
+|-weather|none
+|upkeep
+|
+|t:|1776985131
+|switch|p2a: Bronzong|Bronzong, L88|261/261
+|turn|12
+|
+|t:|1776985135
+|move|p1a: Blaziken|Flare Blitz|p2a: Bronzong
+|-supereffective|p2a: Bronzong
+|-damage|p2a: Bronzong|4/261
+|-damage|p1a: Blaziken|162/247|[from] Recoil
+|-damage|p1a: Blaziken|138/247|[from] item: Life Orb
+|move|p2a: Bronzong|Psychic Noise|p1a: Blaziken
+|-supereffective|p1a: Blaziken
+|-damage|p1a: Blaziken|0 fnt
+|faint|p1a: Blaziken
+|
+|-heal|p2a: Bronzong|20/261|[from] item: Leftovers
+|upkeep
+|
+|t:|1776985139
+|switch|p1a: Basculin|Basculin, L86, M|261/261
+|turn|13
+|
+|t:|1776985151
+|switch|p2a: Volcarona|Volcarona, L77, M, tera:Water|257/257
+|move|p1a: Basculin|Flip Turn|p2a: Volcarona
+|-resisted|p2a: Volcarona
+|-damage|p2a: Volcarona|173/257
+|
+|t:|1776985158
+|switch|p1a: Beartic|Beartic, L91, F|321/321|[from] Flip Turn
+|
+|upkeep
+|turn|14
+|
+|t:|1776985164
+|move|p2a: Volcarona|Fiery Dance|p1a: Beartic
+|-supereffective|p1a: Beartic
+|-damage|p1a: Beartic|129/321
+|move|p1a: Beartic|Snowscape|p1a: Beartic
+|-weather|Snowscape
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1776985185
+|move|p1a: Beartic|Close Combat|p2a: Volcarona
+|-damage|p2a: Volcarona|9/257
+|-unboost|p1a: Beartic|def|1
+|-unboost|p1a: Beartic|spd|1
+|-status|p1a: Beartic|brn|[from] ability: Flame Body|[of] p2a: Volcarona
+|move|p2a: Volcarona|Fiery Dance|p1a: Beartic
+|-supereffective|p1a: Beartic
+|-damage|p1a: Beartic|0 fnt
+|-boost|p2a: Volcarona|spa|1
+|faint|p1a: Beartic
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1776985189
+|switch|p1a: Basculin|Basculin, L86, M|261/261
+|turn|16
+|
+|t:|1776985199
+|move|p1a: Basculin|Double-Edge|p2a: Volcarona
+|-damage|p2a: Volcarona|0 fnt
+|faint|p2a: Volcarona
+|-damage|p1a: Basculin|258/261|[from] Recoil
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|-message|rongbipper42069 forfeited.
+|
+|win|MATIASMOLINAVRG
+|raw|rongbipper42069's rating: 1040 &rarr; <strong>1022</strong><br />(-18 for losing)
+|raw|MATIASMOLINAVRG's rating: 1000 &rarr; <strong>1045</strong><br />(+45 for winning)
+|l|‽rongbipper42069
+|player|p1|

@@ -1,0 +1,200 @@
+|j|☆JApanBUTBtaa
+|j|☆Scyrence
+|t:|1776977371
+|gametype|singles
+|player|p1|JApanBUTBtaa|101|1045
+|player|p2|Scyrence|2|1076
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776977371
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Breloom|Breloom, L83, F|235/235
+|switch|p2a: Shaymin|Shaymin-Sky, L73|266/266
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Scyrence)
+|
+|t:|1776977383
+|move|p2a: Shaymin|Air Slash|p1a: Breloom
+|-supereffective|p1a: Breloom
+|-damage|p1a: Breloom|0 fnt
+|faint|p1a: Breloom
+|
+|upkeep
+|
+|t:|1776977392
+|switch|p1a: Zamazenta|Zamazenta-Crowned, L68|238/238
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|turn|2
+|
+|t:|1776977401
+|move|p2a: Shaymin|Earth Power|p1a: Zamazenta
+|-supereffective|p1a: Zamazenta
+|-damage|p1a: Zamazenta|142/238
+|move|p1a: Zamazenta|Stone Edge|p2a: Shaymin
+|-supereffective|p2a: Shaymin
+|-damage|p2a: Shaymin|114/266
+|
+|upkeep
+|turn|3
+|
+|t:|1776977410
+|-terastallize|p1a: Zamazenta|Fighting
+|move|p2a: Shaymin|Synthesis|p2a: Shaymin
+|-heal|p2a: Shaymin|247/266
+|move|p1a: Zamazenta|Stone Edge|p2a: Shaymin
+|-supereffective|p2a: Shaymin
+|-damage|p2a: Shaymin|97/266
+|
+|upkeep
+|turn|4
+|
+|t:|1776977416
+|move|p2a: Shaymin|Synthesis|p2a: Shaymin
+|-heal|p2a: Shaymin|230/266
+|move|p1a: Zamazenta|Stone Edge|p2a: Shaymin
+|-supereffective|p2a: Shaymin
+|-damage|p2a: Shaymin|86/266
+|
+|upkeep
+|turn|5
+|
+|t:|1776977423
+|move|p2a: Shaymin|Synthesis|p2a: Shaymin
+|-heal|p2a: Shaymin|219/266
+|move|p1a: Zamazenta|Stone Edge|p2a: Shaymin
+|-supereffective|p2a: Shaymin
+|-damage|p2a: Shaymin|75/266
+|
+|upkeep
+|turn|6
+|
+|t:|1776977428
+|move|p2a: Shaymin|Synthesis|p2a: Shaymin
+|-heal|p2a: Shaymin|208/266
+|move|p1a: Zamazenta|Stone Edge|p2a: Shaymin
+|-supereffective|p2a: Shaymin
+|-damage|p2a: Shaymin|72/266
+|
+|upkeep
+|turn|7
+|
+|t:|1776977436
+|move|p2a: Shaymin|Synthesis|p2a: Shaymin
+|-heal|p2a: Shaymin|205/266
+|move|p1a: Zamazenta|Stone Edge|p2a: Shaymin
+|-supereffective|p2a: Shaymin
+|-damage|p2a: Shaymin|51/266
+|
+|upkeep
+|turn|8
+|
+|t:|1776977442
+|move|p2a: Shaymin|Synthesis|p2a: Shaymin
+|-heal|p2a: Shaymin|184/266
+|move|p1a: Zamazenta|Stone Edge|p2a: Shaymin
+|-supereffective|p2a: Shaymin
+|-crit|p2a: Shaymin
+|-damage|p2a: Shaymin|0 fnt
+|faint|p2a: Shaymin
+|
+|upkeep
+|
+|t:|1776977464
+|switch|p2a: Lunala|Lunala, L70|308/308
+|turn|9
+|
+|t:|1776977472
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|2
+|move|p2a: Lunala|Calm Mind|p2a: Lunala
+|-boost|p2a: Lunala|spa|1
+|-boost|p2a: Lunala|spd|1
+|
+|upkeep
+|turn|10
+|
+|t:|1776977476
+|move|p1a: Zamazenta|Stone Edge|p2a: Lunala
+|-crit|p2a: Lunala
+|-damage|p2a: Lunala|259/308
+|move|p2a: Lunala|Moongeist Beam|p1a: Zamazenta
+|-damage|p1a: Zamazenta|19/238
+|
+|-heal|p2a: Lunala|278/308|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776977482
+|switch|p1a: Landorus|Landorus, L75, M|257/257
+|move|p2a: Lunala|Calm Mind|p2a: Lunala
+|-boost|p2a: Lunala|spa|1
+|-boost|p2a: Lunala|spd|1
+|
+|-heal|p2a: Lunala|297/308|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776977489
+|move|p1a: Landorus|Stealth Rock|p2a: Lunala
+|-sidestart|p2: Scyrence|move: Stealth Rock
+|move|p2a: Lunala|Calm Mind|p2a: Lunala
+|-boost|p2a: Lunala|spa|1
+|-boost|p2a: Lunala|spd|1
+|
+|-heal|p2a: Lunala|308/308|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776977497
+|move|p1a: Landorus|Sludge Wave|p2a: Lunala
+|-resisted|p2a: Lunala
+|-damage|p2a: Lunala|298/308
+|move|p2a: Lunala|Calm Mind|p2a: Lunala
+|-boost|p2a: Lunala|spa|1
+|-boost|p2a: Lunala|spd|1
+|
+|-heal|p2a: Lunala|308/308|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1776977502
+|move|p1a: Landorus|Earth Power|p2a: Lunala
+|-damage|p2a: Lunala|282/308
+|move|p2a: Lunala|Moongeist Beam|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|-heal|p2a: Lunala|301/308|[from] item: Leftovers
+|upkeep
+|
+|t:|1776977509
+|switch|p1a: Goodra|Goodra, L85, F|292/292
+|turn|15
+|
+|t:|1776977516
+|move|p1a: Goodra|Draco Meteor|p2a: Lunala
+|-damage|p2a: Lunala|250/308
+|-unboost|p1a: Goodra|spa|2
+|move|p2a: Lunala|Calm Mind|p2a: Lunala
+|-boost|p2a: Lunala|spa|1
+|-boost|p2a: Lunala|spd|1
+|
+|-heal|p2a: Lunala|269/308|[from] item: Leftovers
+|upkeep
+|turn|16
+|-message|JApanBUTBtaa forfeited.
+|
+|win|Scyrence
+|raw|JApanBUTBtaa's rating: 1045 &rarr; <strong>1030</strong><br />(-15 for losing)
+|raw|Scyrence's rating: 1076 &rarr; <strong>1102</strong><br />(+26 for winning)
+|l|☆JApanBUTBtaa
+|player|p1|

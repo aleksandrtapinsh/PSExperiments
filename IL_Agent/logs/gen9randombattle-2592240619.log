@@ -1,0 +1,675 @@
+|j|☆Nsbs12
+|j|☆UziBoii
+|t:|1776972698
+|gametype|singles
+|player|p1|Nsbs12|n|1432
+|player|p2|UziBoii|steven|1470
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776972698
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Entei|Entei, L78|307/307
+|switch|p2a: Exeggutor|Exeggutor-Alola, L89, M|314/314
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by UziBoii)
+|
+|t:|1776972707
+|move|p1a: Entei|Sacred Fire|p2a: Exeggutor
+|-damage|p2a: Exeggutor|169/314
+|-status|p2a: Exeggutor|brn
+|move|p2a: Exeggutor|Sleep Powder|p1a: Entei
+|-status|p1a: Entei|slp|[from] move: Sleep Powder
+|
+|-damage|p2a: Exeggutor|150/314 brn|[from] brn
+|upkeep
+|-enditem|p2a: Exeggutor|Sitrus Berry|[eat]
+|-heal|p2a: Exeggutor|228/314 brn|[from] item: Sitrus Berry
+|turn|2
+|
+|t:|1776972716
+|switch|p2a: Chansey|Chansey, L85, F|564/564
+|cant|p1a: Entei|slp
+|
+|upkeep
+|turn|3
+|
+|t:|1776972728
+|switch|p1a: Whiscash|Whiscash, L88, F|337/337
+|move|p2a: Chansey|Heal Bell|p2a: Chansey
+|-activate|p2a: Chansey|move: Heal Bell
+|-curestatus|p2: Exeggutor|brn|[msg]
+|
+|upkeep
+|turn|4
+|
+|t:|1776972744
+|switch|p2a: Arboliva|Arboliva, L91, F|290/290
+|move|p1a: Whiscash|Stone Edge|p2a: Arboliva|[miss]
+|-miss|p1a: Whiscash|p2a: Arboliva
+|
+|upkeep
+|turn|5
+|
+|t:|1776972752
+|switch|p1a: Leafeon|Leafeon, L88, M|258/258
+|move|p2a: Arboliva|Earth Power|p1a: Leafeon
+|-resisted|p1a: Leafeon
+|-damage|p1a: Leafeon|201/258
+|
+|-heal|p1a: Leafeon|217/258|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776972757
+|move|p1a: Leafeon|Double-Edge|p2a: Arboliva
+|-damage|p2a: Arboliva|188/290
+|-fieldstart|move: Grassy Terrain|[from] ability: Seed Sower|[of] p2a: Arboliva
+|-damage|p1a: Leafeon|183/258|[from] Recoil
+|move|p2a: Arboliva|Hyper Voice|p1a: Leafeon
+|-damage|p1a: Leafeon|17/258
+|
+|-heal|p1a: Leafeon|33/258|[from] Grassy Terrain
+|-heal|p1a: Leafeon|49/258|[from] item: Leftovers
+|-heal|p2a: Arboliva|206/290|[from] Grassy Terrain
+|-heal|p2a: Arboliva|224/290|[from] item: Leftovers
+|upkeep
+|turn|7
+|inactive|UziBoii has 120 seconds left.
+|
+|t:|1776972799
+|switch|p1a: Fezandipiti|Fezandipiti, L82, M|278/278
+|move|p2a: Arboliva|Strength Sap|p1a: Fezandipiti
+|-unboost|p1a: Fezandipiti|atk|1
+|-heal|p2a: Arboliva|290/290
+|
+|upkeep
+|turn|8
+|
+|t:|1776972813
+|-terastallize|p2a: Arboliva|Poison
+|move|p1a: Fezandipiti|Heat Wave|p2a: Arboliva
+|-damage|p2a: Arboliva|248/290
+|-status|p2a: Arboliva|brn
+|move|p2a: Arboliva|Earth Power|p1a: Fezandipiti
+|-supereffective|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|184/278
+|
+|-heal|p1a: Fezandipiti|201/278|[from] Grassy Terrain
+|-heal|p2a: Arboliva|266/290 brn|[from] Grassy Terrain
+|-heal|p2a: Arboliva|284/290 brn|[from] item: Leftovers
+|-damage|p2a: Arboliva|266/290 brn|[from] brn
+|upkeep
+|turn|9
+|inactive|UziBoii has 120 seconds left.
+|
+|t:|1776972826
+|move|p1a: Fezandipiti|U-turn|p2a: Arboliva
+|-resisted|p2a: Arboliva
+|-damage|p2a: Arboliva|253/290 brn
+|
+|t:|1776972837
+|switch|p1a: Entei|Entei, L78|307/307 slp|[from] U-turn
+|move|p2a: Arboliva|Earth Power|p1a: Entei
+|-supereffective|p1a: Entei
+|-damage|p1a: Entei|103/307 slp
+|
+|-heal|p1a: Entei|122/307 slp|[from] Grassy Terrain
+|-heal|p2a: Arboliva|271/290 brn|[from] Grassy Terrain
+|-heal|p2a: Arboliva|289/290 brn|[from] item: Leftovers
+|-damage|p2a: Arboliva|271/290 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1776972851
+|switch|p1a: Suicune|Suicune, L82|298/298
+|-ability|p1a: Suicune|Pressure
+|move|p2a: Arboliva|Earth Power|p1a: Suicune
+|-damage|p1a: Suicune|218/298
+|
+|-heal|p1a: Suicune|236/298|[from] Grassy Terrain
+|-heal|p1a: Suicune|254/298|[from] item: Leftovers
+|-heal|p2a: Arboliva|289/290 brn|[from] Grassy Terrain
+|-heal|p2a: Arboliva|290/290 brn|[from] item: Leftovers
+|-damage|p2a: Arboliva|272/290 brn|[from] brn
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|11
+|
+|t:|1776972856
+|move|p1a: Suicune|Substitute|p1a: Suicune
+|-start|p1a: Suicune|Substitute
+|-damage|p1a: Suicune|180/298
+|move|p2a: Arboliva|Hyper Voice|p1a: Suicune
+|-damage|p1a: Suicune|74/298
+|
+|-heal|p1a: Suicune|92/298|[from] item: Leftovers
+|-heal|p2a: Arboliva|290/290 brn|[from] item: Leftovers
+|-damage|p2a: Arboliva|272/290 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1776972864
+|move|p1a: Suicune|Protect|p1a: Suicune
+|-singleturn|p1a: Suicune|Protect
+|move|p2a: Arboliva|Hyper Voice|p1a: Suicune
+|-activate|p1a: Suicune|move: Protect
+|
+|-heal|p1a: Suicune|110/298|[from] item: Leftovers
+|-heal|p2a: Arboliva|290/290 brn|[from] item: Leftovers
+|-damage|p2a: Arboliva|272/290 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1776972874
+|-terastallize|p1a: Suicune|Steel
+|move|p1a: Suicune|Calm Mind|p1a: Suicune
+|-boost|p1a: Suicune|spa|1
+|-boost|p1a: Suicune|spd|1
+|move|p2a: Arboliva|Hyper Voice|p1a: Suicune
+|-resisted|p1a: Suicune
+|-damage|p1a: Suicune|74/298
+|
+|-heal|p1a: Suicune|92/298|[from] item: Leftovers
+|-heal|p2a: Arboliva|290/290 brn|[from] item: Leftovers
+|-damage|p2a: Arboliva|272/290 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1776972883
+|switch|p2a: Dachsbun|Dachsbun, L92, M|254/254
+|move|p1a: Suicune|Calm Mind|p1a: Suicune
+|-boost|p1a: Suicune|spa|1
+|-boost|p1a: Suicune|spd|1
+|
+|-heal|p1a: Suicune|110/298|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1776972887
+|move|p2a: Dachsbun|Body Press|p1a: Suicune
+|-supereffective|p1a: Suicune
+|-end|p1a: Suicune|Substitute
+|move|p1a: Suicune|Scald|p2a: Dachsbun
+|-damage|p2a: Dachsbun|109/254
+|
+|-heal|p2a: Dachsbun|124/254|[from] item: Leftovers
+|-heal|p1a: Suicune|128/298|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776972898
+|move|p1a: Suicune|Protect|p1a: Suicune
+|-singleturn|p1a: Suicune|Protect
+|move|p2a: Dachsbun|Body Press|p1a: Suicune
+|-activate|p1a: Suicune|move: Protect
+|
+|-heal|p2a: Dachsbun|139/254|[from] item: Leftovers
+|-heal|p1a: Suicune|146/298|[from] item: Leftovers
+|upkeep
+|turn|17
+|inactive|Nsbs12 has 120 seconds left.
+|
+|t:|1776972928
+|switch|p1a: Leafeon|Leafeon, L88, M|49/258
+|move|p2a: Dachsbun|Protect||[still]
+|-fail|p2a: Dachsbun
+|
+|-heal|p2a: Dachsbun|154/254|[from] item: Leftovers
+|-heal|p1a: Leafeon|65/258|[from] item: Leftovers
+|upkeep
+|turn|18
+|inactive|Nsbs12 has 120 seconds left.
+|
+|t:|1776972954
+|move|p2a: Dachsbun|Wish|p2a: Dachsbun
+|move|p1a: Leafeon|Leaf Blade|p2a: Dachsbun
+|-damage|p2a: Dachsbun|75/254
+|
+|-heal|p2a: Dachsbun|90/254|[from] item: Leftovers
+|-heal|p1a: Leafeon|81/258|[from] item: Leftovers
+|upkeep
+|turn|19
+|inactive|Nsbs12 has 120 seconds left.
+|
+|t:|1776972961
+|move|p2a: Dachsbun|Play Rough|p1a: Leafeon
+|-damage|p1a: Leafeon|9/258
+|move|p1a: Leafeon|Substitute|p1a: Leafeon
+|-fail|p1a: Leafeon|move: Substitute|[weak]
+|
+|-heal|p2a: Dachsbun|217/254|[from] move: Wish|[wisher] Dachsbun
+|-heal|p2a: Dachsbun|232/254|[from] item: Leftovers
+|-heal|p1a: Leafeon|25/258|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1776972966
+|move|p2a: Dachsbun|Play Rough|p1a: Leafeon
+|-damage|p1a: Leafeon|0 fnt
+|faint|p1a: Leafeon
+|
+|-heal|p2a: Dachsbun|247/254|[from] item: Leftovers
+|upkeep
+|inactive|Nsbs12 has 120 seconds left.
+|
+|t:|1776972980
+|switch|p1a: Fezandipiti|Fezandipiti, L82, M|201/278
+|turn|21
+|inactive|UziBoii has 120 seconds left.
+|
+|t:|1776973016
+|move|p2a: Dachsbun|Protect|p2a: Dachsbun
+|-singleturn|p2a: Dachsbun|Protect
+|move|p1a: Fezandipiti|Gunk Shot|p2a: Dachsbun
+|-activate|p2a: Dachsbun|move: Protect
+|
+|-heal|p2a: Dachsbun|254/254|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1776973020
+|switch|p2a: Arboliva|Arboliva, L91, F, tera:Poison|272/290 brn
+|move|p1a: Fezandipiti|U-turn|p2a: Arboliva
+|-resisted|p2a: Arboliva
+|-damage|p2a: Arboliva|251/290 brn
+|-fieldstart|move: Grassy Terrain|[from] ability: Seed Sower|[of] p2a: Arboliva
+|
+|t:|1776973030
+|switch|p1a: Suicune|Suicune, L82, tera:Steel|146/298|[from] U-turn
+|-ability|p1a: Suicune|Pressure
+|
+|-heal|p1a: Suicune|164/298|[from] Grassy Terrain
+|-heal|p1a: Suicune|182/298|[from] item: Leftovers
+|-heal|p2a: Arboliva|269/290 brn|[from] Grassy Terrain
+|-heal|p2a: Arboliva|287/290 brn|[from] item: Leftovers
+|-damage|p2a: Arboliva|269/290 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1776973040
+|move|p1a: Suicune|Substitute|p1a: Suicune
+|-start|p1a: Suicune|Substitute
+|-damage|p1a: Suicune|108/298
+|move|p2a: Arboliva|Earth Power|p1a: Suicune
+|-supereffective|p1a: Suicune
+|-end|p1a: Suicune|Substitute
+|
+|-heal|p1a: Suicune|126/298|[from] Grassy Terrain
+|-heal|p1a: Suicune|144/298|[from] item: Leftovers
+|-heal|p2a: Arboliva|287/290 brn|[from] Grassy Terrain
+|-heal|p2a: Arboliva|290/290 brn|[from] item: Leftovers
+|-damage|p2a: Arboliva|272/290 brn|[from] brn
+|upkeep
+|turn|24
+|
+|t:|1776973047
+|move|p1a: Suicune|Protect|p1a: Suicune
+|-singleturn|p1a: Suicune|Protect
+|move|p2a: Arboliva|Earth Power|p1a: Suicune
+|-activate|p1a: Suicune|move: Protect
+|
+|-heal|p1a: Suicune|162/298|[from] Grassy Terrain
+|-heal|p1a: Suicune|180/298|[from] item: Leftovers
+|-heal|p2a: Arboliva|290/290 brn|[from] Grassy Terrain
+|-damage|p2a: Arboliva|272/290 brn|[from] brn
+|upkeep
+|turn|25
+|inactive|UziBoii has 120 seconds left.
+|
+|t:|1776973099
+|switch|p1a: Whiscash|Whiscash, L88, F|337/337
+|move|p2a: Arboliva|Earth Power|p1a: Whiscash
+|-damage|p1a: Whiscash|235/337
+|
+|-heal|p1a: Whiscash|256/337|[from] Grassy Terrain
+|-heal|p2a: Arboliva|290/290 brn|[from] Grassy Terrain
+|-damage|p2a: Arboliva|272/290 brn|[from] brn
+|upkeep
+|turn|26
+|
+|t:|1776973108
+|move|p1a: Whiscash|Earthquake|p2a: Arboliva
+|-supereffective|p2a: Arboliva
+|-damage|p2a: Arboliva|152/290 brn
+|-damage|p1a: Whiscash|223/337|[from] item: Life Orb
+|move|p2a: Arboliva|Energy Ball|p1a: Whiscash
+|-supereffective|p1a: Whiscash
+|-damage|p1a: Whiscash|0 fnt
+|faint|p1a: Whiscash
+|
+|-heal|p2a: Arboliva|170/290 brn|[from] Grassy Terrain
+|-heal|p2a: Arboliva|188/290 brn|[from] item: Leftovers
+|-damage|p2a: Arboliva|170/290 brn|[from] brn
+|-fieldend|move: Grassy Terrain
+|upkeep
+|inactive|Nsbs12 has 120 seconds left.
+|
+|t:|1776973154
+|switch|p1a: Haxorus|Haxorus, L77, M|244/244
+|-ability|p1a: Haxorus|Mold Breaker
+|turn|27
+|
+|t:|1776973174
+|switch|p2a: Dachsbun|Dachsbun, L92, M|254/254
+|move|p1a: Haxorus|Dragon Dance|p1a: Haxorus
+|-boost|p1a: Haxorus|atk|1
+|-boost|p1a: Haxorus|spe|1
+|
+|upkeep
+|turn|28
+|inactive|UziBoii has 120 seconds left.
+|
+|t:|1776973198
+|move|p1a: Haxorus|Iron Head|p2a: Dachsbun
+|-supereffective|p2a: Dachsbun
+|-damage|p2a: Dachsbun|114/254
+|move|p2a: Dachsbun|Play Rough|p1a: Haxorus
+|-supereffective|p1a: Haxorus
+|-damage|p1a: Haxorus|22/244
+|
+|-heal|p2a: Dachsbun|129/254|[from] item: Leftovers
+|upkeep
+|turn|29
+|inactive|UziBoii has 120 seconds left.
+|
+|t:|1776973210
+|move|p2a: Dachsbun|Protect|p2a: Dachsbun
+|-singleturn|p2a: Dachsbun|Protect
+|move|p1a: Haxorus|Dragon Dance|p1a: Haxorus
+|-boost|p1a: Haxorus|atk|1
+|-boost|p1a: Haxorus|spe|1
+|
+|-heal|p2a: Dachsbun|144/254|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1776973213
+|move|p1a: Haxorus|Iron Head|p2a: Dachsbun
+|-supereffective|p2a: Dachsbun
+|-damage|p2a: Dachsbun|0 fnt
+|faint|p2a: Dachsbun
+|
+|upkeep
+|
+|t:|1776973222
+|switch|p2a: Arboliva|Arboliva, L91, F, tera:Poison|170/290 brn
+|turn|31
+|inactive|Nsbs12 has 120 seconds left.
+|
+|t:|1776973231
+|move|p1a: Haxorus|Outrage|p2a: Arboliva
+|-damage|p2a: Arboliva|0 fnt
+|-fieldstart|move: Grassy Terrain|[from] ability: Seed Sower|[of] p2a: Arboliva
+|faint|p2a: Arboliva
+|
+|-heal|p1a: Haxorus|37/244|[from] Grassy Terrain
+|upkeep
+|
+|t:|1776973251
+|switch|p2a: Urshifu|Urshifu, L74, M|270/270
+|turn|32
+|
+|t:|1776973256
+|move|p2a: Urshifu|Sucker Punch|p1a: Haxorus
+|-damage|p1a: Haxorus|0 fnt
+|faint|p1a: Haxorus
+|
+|upkeep
+|
+|t:|1776973263
+|switch|p1a: Fezandipiti|Fezandipiti, L82, M|201/278
+|turn|33
+|
+|t:|1776973270
+|switch|p2a: Chansey|Chansey, L85, F|564/564
+|move|p1a: Fezandipiti|Moonblast|p2a: Chansey
+|-damage|p2a: Chansey|524/564
+|
+|-heal|p1a: Fezandipiti|218/278|[from] Grassy Terrain
+|-heal|p2a: Chansey|559/564|[from] Grassy Terrain
+|upkeep
+|turn|34
+|
+|t:|1776973278
+|move|p1a: Fezandipiti|U-turn|p2a: Chansey
+|-damage|p2a: Chansey|457/564
+|
+|t:|1776973281
+|switch|p1a: Entei|Entei, L78|122/307 slp|[from] U-turn
+|move|p2a: Chansey|Thunder Wave||[still]
+|-fail|p2a: Chansey
+|
+|-heal|p1a: Entei|141/307 slp|[from] Grassy Terrain
+|-heal|p2a: Chansey|492/564|[from] Grassy Terrain
+|upkeep
+|turn|35
+|
+|t:|1776973286
+|switch|p2a: Exeggutor|Exeggutor-Alola, L89, M|228/314
+|-curestatus|p1a: Entei|slp|[msg]
+|move|p1a: Entei|Sacred Fire|p2a: Exeggutor
+|-damage|p2a: Exeggutor|71/314
+|-status|p2a: Exeggutor|brn
+|
+|-heal|p1a: Entei|160/307|[from] Grassy Terrain
+|-heal|p2a: Exeggutor|90/314 brn|[from] Grassy Terrain
+|-damage|p2a: Exeggutor|71/314 brn|[from] brn
+|-fieldend|move: Grassy Terrain
+|-item|p2a: Exeggutor|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|-enditem|p2a: Exeggutor|Sitrus Berry|[eat]
+|-heal|p2a: Exeggutor|149/314 brn|[from] item: Sitrus Berry
+|turn|36
+|
+|t:|1776973290
+|move|p1a: Entei|Sacred Fire|p2a: Exeggutor
+|-damage|p2a: Exeggutor|0 fnt
+|faint|p2a: Exeggutor
+|
+|upkeep
+|
+|t:|1776973293
+|switch|p2a: Kyogre|Kyogre, L71|259/259
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Kyogre
+|turn|37
+|
+|t:|1776973298
+|move|p1a: Entei|Sacred Fire|p2a: Kyogre
+|-resisted|p2a: Kyogre
+|-damage|p2a: Kyogre|211/259
+|move|p2a: Kyogre|Origin Pulse|p1a: Entei
+|-supereffective|p1a: Entei
+|-damage|p1a: Entei|0 fnt
+|faint|p1a: Entei
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Kyogre|227/259|[from] item: Leftovers
+|upkeep
+|
+|t:|1776973320
+|switch|p1a: Suicune|Suicune, L82, tera:Steel|180/298
+|-ability|p1a: Suicune|Pressure
+|turn|38
+|
+|t:|1776973344
+|move|p1a: Suicune|Substitute|p1a: Suicune
+|-start|p1a: Suicune|Substitute
+|-damage|p1a: Suicune|106/298
+|move|p2a: Kyogre|Origin Pulse|p1a: Suicune|[miss]
+|-miss|p2a: Kyogre|p1a: Suicune
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Suicune|124/298|[from] item: Leftovers
+|-heal|p2a: Kyogre|243/259|[from] item: Leftovers
+|upkeep
+|turn|39
+|
+|t:|1776973356
+|move|p1a: Suicune|Calm Mind|p1a: Suicune
+|-boost|p1a: Suicune|spa|1
+|-boost|p1a: Suicune|spd|1
+|move|p2a: Kyogre|Origin Pulse|p1a: Suicune
+|-end|p1a: Suicune|Substitute
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Suicune|142/298|[from] item: Leftovers
+|-heal|p2a: Kyogre|259/259|[from] item: Leftovers
+|upkeep
+|turn|40
+|
+|t:|1776973360
+|move|p1a: Suicune|Protect|p1a: Suicune
+|-singleturn|p1a: Suicune|Protect
+|move|p2a: Kyogre|Thunder|p1a: Suicune
+|-activate|p1a: Suicune|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Suicune|160/298|[from] item: Leftovers
+|upkeep
+|turn|41
+|
+|t:|1776973364
+|move|p1a: Suicune|Substitute|p1a: Suicune
+|-start|p1a: Suicune|Substitute
+|-damage|p1a: Suicune|86/298
+|move|p2a: Kyogre|Thunder|p1a: Suicune
+|-activate|p1a: Suicune|move: Substitute|[damage]
+|
+|-weather|none
+|-heal|p1a: Suicune|104/298|[from] item: Leftovers
+|upkeep
+|turn|42
+|
+|t:|1776973375
+|switch|p2a: Chansey|Chansey, L85, F|492/564
+|move|p1a: Suicune|Protect||[still]
+|-fail|p1a: Suicune
+|
+|-heal|p1a: Suicune|122/298|[from] item: Leftovers
+|upkeep
+|turn|43
+|
+|t:|1776973388
+|move|p1a: Suicune|Protect|p1a: Suicune
+|-singleturn|p1a: Suicune|Protect
+|move|p2a: Chansey|Seismic Toss|p1a: Suicune
+|-activate|p1a: Suicune|move: Protect
+|
+|-heal|p1a: Suicune|140/298|[from] item: Leftovers
+|upkeep
+|turn|44
+|
+|t:|1776973409
+|move|p1a: Suicune|Calm Mind|p1a: Suicune
+|-boost|p1a: Suicune|spa|1
+|-boost|p1a: Suicune|spd|1
+|move|p2a: Chansey|Seismic Toss|p1a: Suicune
+|-end|p1a: Suicune|Substitute
+|
+|-heal|p1a: Suicune|158/298|[from] item: Leftovers
+|upkeep
+|turn|45
+|
+|t:|1776973411
+|switch|p2a: Urshifu|Urshifu, L74, M|270/270
+|move|p1a: Suicune|Protect||[still]
+|-fail|p1a: Suicune
+|
+|-heal|p1a: Suicune|176/298|[from] item: Leftovers
+|upkeep
+|turn|46
+|
+|t:|1776973418
+|move|p1a: Suicune|Scald|p2a: Urshifu
+|-damage|p2a: Urshifu|54/270
+|move|p2a: Urshifu|Close Combat|p1a: Suicune
+|-supereffective|p1a: Suicune
+|-damage|p1a: Suicune|0 fnt
+|-unboost|p2a: Urshifu|def|1
+|-unboost|p2a: Urshifu|spd|1
+|faint|p1a: Suicune
+|
+|upkeep
+|
+|t:|1776973424
+|switch|p1a: Fezandipiti|Fezandipiti, L82, M|218/278
+|turn|47
+|
+|t:|1776973432
+|move|p1a: Fezandipiti|Gunk Shot|p2a: Urshifu
+|-damage|p2a: Urshifu|0 fnt
+|faint|p2a: Urshifu
+|
+|upkeep
+|
+|t:|1776973435
+|switch|p2a: Chansey|Chansey, L85, F|492/564
+|turn|48
+|
+|t:|1776973438
+|move|p1a: Fezandipiti|Gunk Shot|p2a: Chansey
+|-damage|p2a: Chansey|239/564
+|-status|p2a: Chansey|tox|[from] ability: Toxic Chain|[of] p1a: Fezandipiti
+|move|p2a: Chansey|Thunder Wave|p1a: Fezandipiti
+|-status|p1a: Fezandipiti|par
+|
+|-damage|p2a: Chansey|204/564 tox|[from] psn
+|upkeep
+|turn|49
+|
+|t:|1776973448
+|move|p2a: Chansey|Heal Bell|p2a: Chansey
+|-activate|p2a: Chansey|move: Heal Bell
+|-curestatus|p2a: Chansey|tox|[msg]
+|move|p1a: Fezandipiti|Gunk Shot|p2a: Chansey
+|-damage|p2a: Chansey|0 fnt
+|faint|p2a: Chansey
+|
+|upkeep
+|
+|t:|1776973450
+|switch|p2a: Kyogre|Kyogre, L71|259/259
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Kyogre
+|turn|50
+|
+|t:|1776973453
+|move|p2a: Kyogre|Origin Pulse|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|125/278 par
+|cant|p1a: Fezandipiti|par
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|51
+|
+|t:|1776973458
+|move|p2a: Kyogre|Origin Pulse|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|23/278 par
+|move|p1a: Fezandipiti|Gunk Shot|p2a: Kyogre
+|-damage|p2a: Kyogre|132/259
+|-status|p2a: Kyogre|psn
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Kyogre|148/259 psn|[from] item: Leftovers
+|-damage|p2a: Kyogre|116/259 psn|[from] psn
+|upkeep
+|turn|52
+|c|☆UziBoii|gg
+|
+|t:|1776973466
+|move|p2a: Kyogre|Thunder|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|0 fnt
+|faint|p1a: Fezandipiti
+|
+|win|UziBoii
+|raw|Nsbs12's rating: 1432 &rarr; <strong>1414</strong><br />(-18 for losing)
+|raw|UziBoii's rating: 1470 &rarr; <strong>1488</strong><br />(+18 for winning)
+|l|☆Nsbs12
+|player|p1|

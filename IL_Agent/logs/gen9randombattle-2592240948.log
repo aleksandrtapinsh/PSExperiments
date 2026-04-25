@@ -1,0 +1,159 @@
+|j|☆Nfhdhdhfhhfhdhffd
+|j|☆hola ddddiiiii
+|t:|1776972720
+|gametype|singles
+|player|p1|Nfhdhdhfhhfhdhffd|169|1000
+|player|p2|hola ddddiiiii|265|1043
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776972720
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ogerpon|Ogerpon-Cornerstone, L76, F|247/247
+|switch|p2a: Lokix|Lokix, L82, F|251/251
+|turn|1
+|
+|t:|1776972727
+|move|p2a: Lokix|First Impression|p1a: Ogerpon
+|-supereffective|p1a: Ogerpon
+|-damage|p1a: Ogerpon|1/247
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Lokix|[anim] Ivy Cudgel Rock
+|-supereffective|p2a: Lokix
+|-crit|p2a: Lokix
+|-damage|p2a: Lokix|0 fnt
+|faint|p2a: Lokix
+|
+|upkeep
+|
+|t:|1776972738
+|switch|p2a: Mimikyu|Mimikyu, L79, M|216/216
+|turn|2
+|
+|t:|1776972743
+|switch|p1a: Toucannon|Toucannon, L88, F|284/284
+|move|p2a: Mimikyu|Shadow Sneak|p1a: Toucannon
+|-immune|p1a: Toucannon
+|
+|upkeep
+|turn|3
+|
+|t:|1776972753
+|-singleturn|p1a: Toucannon|move: Beak Blast
+|move|p2a: Mimikyu|Swords Dance|p2a: Mimikyu
+|-boost|p2a: Mimikyu|atk|2
+|move|p1a: Toucannon|Beak Blast|p2a: Mimikyu
+|-activate|p2a: Mimikyu|ability: Disguise
+|-damage|p2a: Mimikyu|216/216
+|detailschange|p2a: Mimikyu|Mimikyu-Busted, L79, M
+|-damage|p2a: Mimikyu|189/216|[from] pokemon: Mimikyu-Busted
+|
+|upkeep
+|turn|4
+|
+|t:|1776972756
+|-singleturn|p1a: Toucannon|move: Beak Blast
+|move|p2a: Mimikyu|Play Rough|p1a: Toucannon|[miss]
+|-miss|p2a: Mimikyu|p1a: Toucannon
+|move|p1a: Toucannon|Beak Blast|p2a: Mimikyu
+|-damage|p2a: Mimikyu|42/216
+|
+|upkeep
+|turn|5
+|
+|t:|1776972763
+|-singleturn|p1a: Toucannon|move: Beak Blast
+|move|p2a: Mimikyu|Drain Punch|p1a: Toucannon
+|-damage|p1a: Toucannon|153/284
+|-heal|p2a: Mimikyu|108/216|[from] drain|[of] p1a: Toucannon
+|-status|p2a: Mimikyu|brn
+|-damage|p2a: Mimikyu|87/216 brn|[from] item: Life Orb
+|move|p1a: Toucannon|Beak Blast|p2a: Mimikyu
+|-damage|p2a: Mimikyu|0 fnt
+|faint|p2a: Mimikyu
+|
+|upkeep
+|
+|t:|1776972779
+|switch|p2a: Incineroar|Incineroar, L82, F|290/290
+|-ability|p2a: Incineroar|Intimidate|boost
+|-unboost|p1a: Toucannon|atk|1
+|turn|6
+|
+|t:|1776972784
+|move|p1a: Toucannon|U-turn|p2a: Incineroar
+|-damage|p2a: Incineroar|246/290
+|
+|t:|1776972786
+|switch|p1a: Ribombee|Ribombee, L83, M|235/235|[from] U-turn
+|move|p2a: Incineroar|Swords Dance|p2a: Incineroar
+|-boost|p2a: Incineroar|atk|2
+|
+|upkeep
+|turn|7
+|
+|t:|1776972791
+|move|p1a: Ribombee|Sticky Web|p2a: Incineroar
+|-sidestart|p2: hola ddddiiiii|move: Sticky Web
+|move|p2a: Incineroar|Flare Blitz|p1a: Ribombee
+|-supereffective|p1a: Ribombee
+|-damage|p1a: Ribombee|0 fnt
+|faint|p1a: Ribombee
+|-damage|p2a: Incineroar|168/290|[from] Recoil
+|
+|upkeep
+|
+|t:|1776972793
+|switch|p1a: Ogerpon|Ogerpon-Cornerstone, L76, F|1/247
+|turn|8
+|
+|t:|1776972807
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Incineroar|[anim] Ivy Cudgel Rock
+|-supereffective|p2a: Incineroar
+|-damage|p2a: Incineroar|0 fnt
+|faint|p2a: Incineroar
+|
+|upkeep
+|
+|t:|1776972820
+|switch|p2a: Kyurem|Kyurem, L77|319/319
+|-activate|p2a: Kyurem|move: Sticky Web
+|-unboost|p2a: Kyurem|spe|1
+|-ability|p2a: Kyurem|Pressure
+|turn|9
+|
+|t:|1776972832
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Kyurem|[anim] Ivy Cudgel Rock
+|-supereffective|p2a: Kyurem
+|-damage|p2a: Kyurem|49/319
+|move|p2a: Kyurem|Icicle Spear|p1a: Ogerpon
+|-supereffective|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|-hitcount|p1: Ogerpon|1
+|
+|upkeep
+|
+|t:|1776972836
+|switch|p1a: Toucannon|Toucannon, L88, F|153/284
+|turn|10
+|
+|t:|1776972852
+|move|p1a: Toucannon|Boomburst|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|faint|p2a: Kyurem
+|
+|upkeep
+|-message|hola ddddiiiii forfeited.
+|
+|win|Nfhdhdhfhhfhdhffd
+|raw|Nfhdhdhfhhfhdhffd's rating: 1000 &rarr; <strong>1045</strong><br />(+45 for winning)
+|raw|hola ddddiiiii's rating: 1043 &rarr; <strong>1025</strong><br />(-18 for losing)
+|l|☆hola ddddiiiii
+|player|p2|

@@ -1,0 +1,99 @@
+|j|☆chawalli
+|j|☆isaaerpollon
+|t:|1776979462
+|gametype|singles
+|player|p1|chawalli|hooligans|1602
+|player|p2|isaaerpollon|266|1644
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776979462
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Drednaw|Drednaw, L81, M|278/278
+|switch|p2a: Raichu|Raichu-Alola, L87, F|246/246
+|turn|1
+|
+|t:|1776979466
+|-terastallize|p1a: Drednaw|Ground
+|move|p2a: Raichu|Thunderbolt|p1a: Drednaw
+|-immune|p1a: Drednaw
+|move|p1a: Drednaw|Shell Smash|p1a: Drednaw
+|-unboost|p1a: Drednaw|def|1
+|-unboost|p1a: Drednaw|spd|1
+|-boost|p1a: Drednaw|atk|2
+|-boost|p1a: Drednaw|spa|2
+|-boost|p1a: Drednaw|spe|2
+|-enditem|p1a: Drednaw|White Herb
+|-clearnegativeboost|p1a: Drednaw|[silent]
+|
+|upkeep
+|turn|2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by isaaerpollon)
+|
+|t:|1776979480
+|-terastallize|p2a: Raichu|Water
+|move|p1a: Drednaw|Earthquake|p2a: Raichu
+|-damage|p2a: Raichu|0 fnt
+|faint|p2a: Raichu
+|
+|upkeep
+|
+|t:|1776979486
+|switch|p2a: Hoopa|Hoopa-Unbound, L80|259/259
+|turn|3
+|
+|t:|1776979490
+|move|p1a: Drednaw|Earthquake|p2a: Hoopa
+|-damage|p2a: Hoopa|0 fnt
+|faint|p2a: Hoopa
+|
+|upkeep
+|
+|t:|1776979494
+|switch|p2a: Noctowl|Noctowl, L95, M|344/344
+|turn|4
+|
+|t:|1776979497
+|move|p1a: Drednaw|Liquidation|p2a: Noctowl
+|-damage|p2a: Noctowl|94/344
+|move|p2a: Noctowl|Hurricane|p1a: Drednaw
+|-damage|p1a: Drednaw|113/278
+|-start|p1a: Drednaw|confusion
+|
+|upkeep
+|turn|5
+|
+|t:|1776979506
+|-activate|p1a: Drednaw|confusion
+|move|p1a: Drednaw|Liquidation|p2a: Noctowl
+|-damage|p2a: Noctowl|0 fnt
+|faint|p2a: Noctowl
+|
+|upkeep
+|
+|t:|1776979510
+|switch|p2a: Arceus|Arceus-Steel, L70|284/284
+|turn|6
+|
+|t:|1776979512
+|-activate|p1a: Drednaw|confusion
+|move|p1a: Drednaw|Earthquake|p2a: Arceus
+|-supereffective|p2a: Arceus
+|-damage|p2a: Arceus|0 fnt
+|faint|p2a: Arceus
+|
+|upkeep
+|-message|isaaerpollon forfeited.
+|
+|win|chawalli
+|raw|chawalli's rating: 1602 &rarr; <strong>1624</strong><br />(+22 for winning)
+|raw|isaaerpollon's rating: 1644 &rarr; <strong>1622</strong><br />(-22 for losing)
+|l|☆isaaerpollon
+|player|p2|

@@ -1,0 +1,358 @@
+|j|☆katakurisx
+|j|☆w4schbecken
+|t:|1776973628
+|gametype|singles
+|player|p1|katakurisx|alder|1431
+|player|p2|w4schbecken|allister|1466
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776973628
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Overqwil|Overqwil, L82, M|274/274
+|switch|p2a: Lokix|Lokix, L82, M|251/251
+|-ability|p1a: Overqwil|Intimidate|boost
+|-unboost|p2a: Lokix|atk|1
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by katakurisx)
+|
+|t:|1776973645
+|switch|p1a: Staraptor|Staraptor, L79, M|263/263
+|move|p2a: Lokix|Knock Off|p1a: Staraptor
+|-damage|p1a: Staraptor|153/263
+|-enditem|p1a: Staraptor|Choice Band|[from] move: Knock Off|[of] p2a: Lokix
+|-damage|p2a: Lokix|226/251|[from] item: Life Orb
+|
+|upkeep
+|turn|2
+|inactive|w4schbecken has 120 seconds left.
+|
+|t:|1776973682
+|switch|p2a: Chien-Pao|Chien-Pao, L72|234/234
+|-ability|p2a: Chien-Pao|Sword of Ruin
+|move|p1a: Staraptor|U-turn|p2a: Chien-Pao
+|-supereffective|p2a: Chien-Pao
+|-damage|p2a: Chien-Pao|92/234
+|
+|t:|1776973687
+|switch|p1a: Overqwil|Overqwil, L82, M|274/274|[from] U-turn
+|-ability|p1a: Overqwil|Intimidate|boost
+|-unboost|p2a: Chien-Pao|atk|1
+|
+|upkeep
+|turn|3
+|inactive|w4schbecken has 120 seconds left.
+|
+|t:|1776973707
+|switch|p2a: Groudon|Groudon, L72|263/263
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Groudon
+|move|p1a: Overqwil|Liquidation|p2a: Groudon
+|-supereffective|p2a: Groudon
+|-damage|p2a: Groudon|179/263
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Groudon|195/263|[from] item: Leftovers
+|upkeep
+|turn|4
+|inactive|w4schbecken has 120 seconds left.
+|
+|t:|1776973722
+|switch|p1a: Staraptor|Staraptor, L79, M|153/263
+|move|p2a: Groudon|Precipice Blades|p1a: Staraptor
+|-immune|p1a: Staraptor
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Groudon|211/263|[from] item: Leftovers
+|upkeep
+|turn|5
+|inactive|w4schbecken has 120 seconds left.
+|
+|t:|1776973731
+|move|p1a: Staraptor|Brave Bird|p2a: Groudon
+|-damage|p2a: Groudon|82/263
+|-damage|p1a: Staraptor|110/263|[from] Recoil
+|move|p2a: Groudon|Heat Crash|p1a: Staraptor
+|-damage|p1a: Staraptor|0 fnt
+|faint|p1a: Staraptor
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Groudon|98/263|[from] item: Leftovers
+|upkeep
+|
+|t:|1776973735
+|switch|p1a: Overqwil|Overqwil, L82, M|274/274
+|-ability|p1a: Overqwil|Intimidate|boost
+|-unboost|p2a: Groudon|atk|1
+|turn|6
+|
+|t:|1776973748
+|move|p1a: Overqwil|Liquidation|p2a: Groudon
+|-supereffective|p2a: Groudon
+|-damage|p2a: Groudon|18/263
+|move|p2a: Groudon|Thunder Wave|p1a: Overqwil
+|-status|p1a: Overqwil|par
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Groudon|34/263|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776973762
+|move|p2a: Groudon|Precipice Blades|p1a: Overqwil|[miss]
+|-miss|p2a: Groudon|p1a: Overqwil
+|cant|p1a: Overqwil|par
+|
+|-weather|none
+|-heal|p2a: Groudon|50/263|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776973771
+|move|p2a: Groudon|Precipice Blades|p1a: Overqwil|[miss]
+|-miss|p2a: Groudon|p1a: Overqwil
+|move|p1a: Overqwil|Liquidation|p2a: Groudon
+|-supereffective|p2a: Groudon
+|-damage|p2a: Groudon|0 fnt
+|faint|p2a: Groudon
+|
+|upkeep
+|inactive|w4schbecken has 120 seconds left.
+|
+|t:|1776973795
+|switch|p2a: Poliwrath|Poliwrath, L88, M|302/302
+|turn|9
+|inactive|w4schbecken has 120 seconds left.
+|
+|t:|1776973809
+|switch|p1a: Toedscruel|Toedscruel, L87, M|281/281
+|move|p2a: Poliwrath|Knock Off|p1a: Toedscruel
+|-damage|p1a: Toedscruel|160/281
+|-enditem|p1a: Toedscruel|Leftovers|[from] move: Knock Off|[of] p2a: Poliwrath
+|-damage|p2a: Poliwrath|272/302|[from] item: Life Orb
+|
+|upkeep
+|turn|10
+|inactive|w4schbecken has 120 seconds left.
+|
+|t:|1776973821
+|move|p1a: Toedscruel|Giga Drain|p2a: Poliwrath
+|-supereffective|p2a: Poliwrath
+|-damage|p2a: Poliwrath|140/302
+|-heal|p1a: Toedscruel|226/281|[from] drain|[of] p2a: Poliwrath
+|move|p2a: Poliwrath|Close Combat|p1a: Toedscruel
+|-damage|p1a: Toedscruel|0 fnt
+|-unboost|p2a: Poliwrath|def|1
+|-unboost|p2a: Poliwrath|spd|1
+|faint|p1a: Toedscruel
+|-damage|p2a: Poliwrath|110/302|[from] item: Life Orb
+|
+|upkeep
+|inactive|katakurisx has 120 seconds left.
+|
+|t:|1776973855
+|switch|p1a: Arceus|Arceus, L68|276/276
+|turn|11
+|inactive|w4schbecken has 120 seconds left.
+|
+|t:|1776973874
+|switch|p2a: Tsareena|Tsareena, L87, F|267/267
+|move|p1a: Arceus|Shadow Claw|p2a: Tsareena
+|-damage|p2a: Tsareena|223/267
+|-damage|p1a: Arceus|249/276|[from] item: Life Orb
+|
+|upkeep
+|turn|12
+|inactive|w4schbecken has 120 seconds left.
+|
+|t:|1776973891
+|-terastallize|p2a: Tsareena|Fighting
+|move|p1a: Arceus|Swords Dance|p1a: Arceus
+|-boost|p1a: Arceus|atk|2
+|move|p2a: Tsareena|High Jump Kick|p1a: Arceus
+|-supereffective|p1a: Arceus
+|-damage|p1a: Arceus|0 fnt
+|faint|p1a: Arceus
+|
+|upkeep
+|inactive|katakurisx has 120 seconds left.
+|
+|t:|1776973901
+|switch|p1a: Overqwil|Overqwil, L82, M|274/274 par
+|-ability|p1a: Overqwil|Intimidate|boost
+|-unboost|p2a: Tsareena|atk|1
+|turn|13
+|inactive|w4schbecken has 120 seconds left.
+|
+|t:|1776973914
+|move|p2a: Tsareena|U-turn|p1a: Overqwil
+|-damage|p1a: Overqwil|234/274 par
+|
+|t:|1776973918
+|switch|p2a: Quagsire|Quagsire, L84, F|297/297|[from] U-turn
+|move|p1a: Overqwil|Gunk Shot|p2a: Quagsire
+|-resisted|p2a: Quagsire
+|-damage|p2a: Quagsire|189/297
+|
+|-heal|p2a: Quagsire|207/297|[from] item: Leftovers
+|upkeep
+|turn|14
+|inactive|w4schbecken has 120 seconds left.
+|
+|t:|1776973930
+|switch|p1a: Hatterene|Hatterene, L85, F|236/236
+|move|p2a: Quagsire|Earthquake|p1a: Hatterene
+|-damage|p1a: Hatterene|154/236
+|
+|-heal|p2a: Quagsire|225/297|[from] item: Leftovers
+|upkeep
+|turn|15
+|inactive|w4schbecken has 120 seconds left.
+|
+|t:|1776973941
+|move|p2a: Quagsire|Toxic|p1a: Hatterene
+|move|p1a: Hatterene|Toxic|p2a: Quagsire|[from] ability: Magic Bounce
+|-status|p2a: Quagsire|tox
+|move|p1a: Hatterene|Mystical Fire|p2a: Quagsire
+|-resisted|p2a: Quagsire
+|-damage|p2a: Quagsire|179/297 tox
+|-unboost|p2a: Quagsire|spa|1
+|
+|-heal|p2a: Quagsire|197/297 tox|[from] item: Leftovers
+|-damage|p2a: Quagsire|179/297 tox|[from] psn
+|upkeep
+|turn|16
+|inactive|w4schbecken has 120 seconds left.
+|
+|t:|1776973953
+|move|p2a: Quagsire|Earthquake|p1a: Hatterene
+|-damage|p1a: Hatterene|63/236
+|move|p1a: Hatterene|Mystical Fire|p2a: Quagsire
+|-resisted|p2a: Quagsire
+|-damage|p2a: Quagsire|132/297 tox
+|-unboost|p2a: Quagsire|spa|1
+|
+|-heal|p2a: Quagsire|150/297 tox|[from] item: Leftovers
+|-damage|p2a: Quagsire|114/297 tox|[from] psn
+|upkeep
+|turn|17
+|inactive|w4schbecken has 120 seconds left.
+|
+|t:|1776973963
+|move|p2a: Quagsire|Earthquake|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|-heal|p2a: Quagsire|132/297 tox|[from] item: Leftovers
+|-damage|p2a: Quagsire|78/297 tox|[from] psn
+|upkeep
+|
+|t:|1776973974
+|switch|p1a: Dewgong|Dewgong, L94, F|322/322
+|turn|18
+|
+|t:|1776973981
+|move|p1a: Dewgong|Ice Beam|p2a: Quagsire
+|-damage|p2a: Quagsire|0 fnt
+|faint|p2a: Quagsire
+|
+|upkeep
+|
+|t:|1776973992
+|switch|p2a: Poliwrath|Poliwrath, L88, M|110/302
+|turn|19
+|
+|t:|1776973996
+|-terastallize|p1a: Dewgong|Grass
+|move|p1a: Dewgong|Ice Beam|p2a: Poliwrath
+|-resisted|p2a: Poliwrath
+|-damage|p2a: Poliwrath|68/302
+|move|p2a: Poliwrath|Close Combat|p1a: Dewgong
+|-damage|p1a: Dewgong|139/322
+|-unboost|p2a: Poliwrath|def|1
+|-unboost|p2a: Poliwrath|spd|1
+|-damage|p2a: Poliwrath|38/302|[from] item: Life Orb
+|
+|upkeep
+|turn|20
+|
+|t:|1776974010
+|move|p1a: Dewgong|Ice Beam|p2a: Poliwrath
+|-resisted|p2a: Poliwrath
+|-damage|p2a: Poliwrath|0 fnt
+|faint|p2a: Poliwrath
+|
+|upkeep
+|
+|t:|1776974030
+|switch|p2a: Lokix|Lokix, L82, M|226/251
+|turn|21
+|
+|t:|1776974034
+|move|p2a: Lokix|Leech Life|p1a: Dewgong
+|-supereffective|p1a: Dewgong
+|-damage|p1a: Dewgong|0 fnt
+|-heal|p2a: Lokix|251/251|[from] drain|[of] p1a: Dewgong
+|faint|p1a: Dewgong
+|-damage|p2a: Lokix|226/251|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776974037
+|switch|p1a: Overqwil|Overqwil, L82, M|234/274 par
+|-ability|p1a: Overqwil|Intimidate|boost
+|-unboost|p2a: Lokix|atk|1
+|turn|22
+|
+|t:|1776974064
+|move|p2a: Lokix|Knock Off|p1a: Overqwil
+|-resisted|p1a: Overqwil
+|-damage|p1a: Overqwil|151/274 par
+|-enditem|p1a: Overqwil|Choice Band|[from] move: Knock Off|[of] p2a: Lokix
+|-damage|p2a: Lokix|201/251|[from] item: Life Orb
+|move|p1a: Overqwil|Liquidation|p2a: Lokix
+|-damage|p2a: Lokix|130/251
+|
+|upkeep
+|turn|23
+|
+|t:|1776974078
+|move|p2a: Lokix|Leech Life|p1a: Overqwil
+|-damage|p1a: Overqwil|85/274 par
+|-heal|p2a: Lokix|163/251|[from] drain|[of] p1a: Overqwil
+|-damage|p2a: Lokix|138/251|[from] item: Life Orb
+|cant|p1a: Overqwil|par
+|
+|upkeep
+|turn|24
+|
+|t:|1776974085
+|move|p2a: Lokix|Leech Life|p1a: Overqwil
+|-damage|p1a: Overqwil|15/274 par
+|-heal|p2a: Lokix|173/251|[from] drain|[of] p1a: Overqwil
+|-damage|p2a: Lokix|148/251|[from] item: Life Orb
+|move|p1a: Overqwil|Liquidation|p2a: Lokix
+|-damage|p2a: Lokix|70/251
+|
+|upkeep
+|turn|25
+|
+|t:|1776974093
+|cant|p1a: Overqwil|par
+|move|p2a: Lokix|Leech Life|p1a: Overqwil
+|-damage|p1a: Overqwil|0 fnt
+|-heal|p2a: Lokix|78/251|[from] drain|[of] p1a: Overqwil
+|faint|p1a: Overqwil
+|-damage|p2a: Lokix|53/251|[from] item: Life Orb
+|
+|win|w4schbecken
+|raw|katakurisx's rating: 1431 &rarr; <strong>1413</strong><br />(-18 for losing)
+|raw|w4schbecken's rating: 1466 &rarr; <strong>1484</strong><br />(+18 for winning)
+|l|☆katakurisx
+|player|p1|

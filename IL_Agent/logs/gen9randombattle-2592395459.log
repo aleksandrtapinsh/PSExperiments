@@ -1,0 +1,202 @@
+|j|☆animejat
+|j|☆Stossa
+|t:|1776985329
+|gametype|singles
+|player|p1|animejat|lucian|1473
+|player|p2|Stossa|1|1474
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776985329
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Veluza|Veluza, L85, M|292/292
+|switch|p2a: Malamar|Malamar, L82, F|275/275
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Stossa)
+|inactive|animejat also wants the timer to be on.
+|inactive|animejat has 120 seconds left.
+|inactive|animejat has 90 seconds left.
+|inactive|animejat has 60 seconds left.
+|inactive|animejat has 30 seconds left.
+|inactive|animejat has 20 seconds left.
+|inactive|animejat has 15 seconds left.
+|inactive|animejat has 10 seconds left.
+|
+|t:|1776985469
+|move|p1a: Veluza|Fillet Away|p1a: Veluza
+|-boost|p1a: Veluza|atk|2
+|-boost|p1a: Veluza|spa|2
+|-boost|p1a: Veluza|spe|2
+|-damage|p1a: Veluza|146/292
+|-enditem|p1a: Veluza|Sitrus Berry|[eat]
+|-heal|p1a: Veluza|219/292|[from] item: Sitrus Berry
+|move|p2a: Malamar|Knock Off|p1a: Veluza
+|-supereffective|p1a: Veluza
+|-damage|p1a: Veluza|87/292
+|
+|upkeep
+|turn|2
+|inactive|animejat has 60 seconds left.
+|
+|t:|1776985490
+|-terastallize|p1a: Veluza|Water
+|move|p1a: Veluza|Aqua Cutter|p2a: Malamar
+|-damage|p2a: Malamar|0 fnt
+|faint|p2a: Malamar
+|
+|upkeep
+|inactive|Stossa has 120 seconds left.
+|
+|t:|1776985524
+|switch|p2a: Comfey|Comfey, L85, M|225/225
+|turn|3
+|
+|t:|1776985529
+|move|p2a: Comfey|Draining Kiss|p1a: Veluza
+|-damage|p1a: Veluza|29/292
+|move|p1a: Veluza|Aqua Cutter|p2a: Comfey
+|-crit|p2a: Comfey
+|-damage|p2a: Comfey|0 fnt
+|faint|p2a: Comfey
+|
+|upkeep
+|
+|t:|1776985535
+|switch|p2a: Palafin|Palafin, L77, M|281/281
+|turn|4
+|
+|t:|1776985544
+|move|p2a: Palafin|Jet Punch|p1a: Veluza
+|-resisted|p1a: Veluza
+|-damage|p1a: Veluza|5/292
+|move|p1a: Veluza|Psycho Cut|p2a: Palafin
+|-damage|p2a: Palafin|4/281
+|
+|-heal|p2a: Palafin|21/281|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776985550
+|move|p2a: Palafin|Jet Punch|p1a: Veluza
+|-resisted|p1a: Veluza
+|-damage|p1a: Veluza|0 fnt
+|faint|p1a: Veluza
+|
+|-heal|p2a: Palafin|38/281|[from] item: Leftovers
+|upkeep
+|
+|t:|1776985574
+|switch|p1a: Dodrio|Dodrio, L85, F|241/241
+|turn|6
+|
+|t:|1776985584
+|move|p1a: Dodrio|Knock Off|p2a: Palafin
+|-damage|p2a: Palafin|0 fnt
+|-enditem|p2a: Palafin|Leftovers|[from] move: Knock Off|[of] p1a: Dodrio
+|faint|p2a: Palafin
+|
+|upkeep
+|
+|t:|1776985587
+|switch|p2a: Raichu|Raichu, L88, M|249/249
+|turn|7
+|inactive|animejat has 60 seconds left.
+|
+|t:|1776985622
+|switch|p1a: Grumpig|Grumpig, L92, M|297/297
+|move|p2a: Raichu|Nasty Plot|p2a: Raichu
+|-boost|p2a: Raichu|spa|2
+|
+|upkeep
+|turn|8
+|inactive|animejat has 60 seconds left.
+|
+|t:|1776985653
+|move|p2a: Raichu|Thunderbolt|p1a: Grumpig
+|-damage|p1a: Grumpig|105/297
+|-damage|p2a: Raichu|225/249|[from] item: Life Orb
+|move|p1a: Grumpig|Earth Power|p2a: Raichu
+|-supereffective|p2a: Raichu
+|-damage|p2a: Raichu|73/249
+|
+|-heal|p1a: Grumpig|123/297|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776985666
+|move|p2a: Raichu|Thunderbolt|p1a: Grumpig
+|-damage|p1a: Grumpig|0 fnt
+|faint|p1a: Grumpig
+|-damage|p2a: Raichu|49/249|[from] item: Life Orb
+|
+|upkeep
+|inactive|animejat has 30 seconds left.
+|
+|t:|1776985680
+|switch|p1a: Zangoose|Zangoose, L85, F|263/263
+|turn|10
+|
+|t:|1776985685
+|move|p1a: Zangoose|Quick Attack|p2a: Raichu
+|-damage|p2a: Raichu|0 fnt
+|faint|p2a: Raichu
+|
+|-status|p1a: Zangoose|tox|[from] item: Toxic Orb
+|upkeep
+|
+|t:|1776985696
+|switch|p2a: Azelf|Azelf, L82|257/257
+|turn|11
+|
+|t:|1776985702
+|move|p2a: Azelf|Psychic|p1a: Zangoose
+|-damage|p1a: Zangoose|67/263 tox
+|-damage|p2a: Azelf|232/257|[from] item: Life Orb
+|move|p1a: Zangoose|Knock Off|p2a: Azelf
+|-supereffective|p2a: Azelf
+|-damage|p2a: Azelf|0 fnt
+|-enditem|p2a: Azelf|Life Orb|[from] move: Knock Off|[of] p1a: Zangoose
+|faint|p2a: Azelf
+|
+|-damage|p1a: Zangoose|51/263 tox|[from] psn
+|upkeep
+|
+|t:|1776985711
+|switch|p2a: Vivillon|Vivillon, L83, M|268/268
+|turn|12
+|
+|t:|1776985721
+|-terastallize|p2a: Vivillon|Steel
+|move|p1a: Zangoose|Facade|p2a: Vivillon
+|-resisted|p2a: Vivillon
+|-damage|p2a: Vivillon|71/268
+|move|p2a: Vivillon|Hurricane|p1a: Zangoose
+|-damage|p1a: Zangoose|0 fnt
+|faint|p1a: Zangoose
+|
+|upkeep
+|inactive|animejat has 60 seconds left.
+|
+|t:|1776985736
+|switch|p1a: Dodrio|Dodrio, L85, F|241/241
+|turn|13
+|inactive|animejat has 60 seconds left.
+|
+|t:|1776985748
+|move|p1a: Dodrio|Brave Bird|p2a: Vivillon
+|-resisted|p2a: Vivillon
+|-damage|p2a: Vivillon|0 fnt
+|faint|p2a: Vivillon
+|-damage|p1a: Dodrio|218/241|[from] Recoil
+|
+|win|animejat
+|raw|animejat's rating: 1473 &rarr; <strong>1493</strong><br />(+20 for winning)
+|raw|Stossa's rating: 1474 &rarr; <strong>1454</strong><br />(-20 for losing)
+|c|☆animejat|ggwp

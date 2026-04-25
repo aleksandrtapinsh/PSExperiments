@@ -1,0 +1,572 @@
+|j|☆DaMassa
+|j|☆ElleLouise
+|t:|1776983758
+|gametype|singles
+|player|p1|DaMassa|roxie|1490
+|player|p2|ElleLouise|gardenia-masters|1466
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776983758
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Flareon|Flareon, L90, F|263/263
+|switch|p2a: Bombirdier|Bombirdier, L85, M|258/258
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ElleLouise)
+|
+|t:|1776983772
+|move|p2a: Bombirdier|Stone Edge|p1a: Flareon
+|-supereffective|p1a: Flareon
+|-damage|p1a: Flareon|0 fnt
+|faint|p1a: Flareon
+|
+|upkeep
+|
+|t:|1776983777
+|switch|p1a: Regirock|Regirock, L83|268/268
+|turn|2
+|inactive|ElleLouise has 120 seconds left.
+|
+|t:|1776983810
+|switch|p2a: Gallade|Gallade, L80, M|240/240
+|move|p1a: Regirock|Thunder Wave|p2a: Gallade
+|-status|p2a: Gallade|par
+|
+|upkeep
+|turn|3
+|inactive|ElleLouise has 120 seconds left.
+|
+|t:|1776983823
+|switch|p1a: Tropius|Tropius, L91, F|328/328
+|cant|p2a: Gallade|par
+|
+|upkeep
+|turn|4
+|inactive|ElleLouise has 120 seconds left.
+|
+|t:|1776983841
+|switch|p2a: Toucannon|Toucannon, L88, M|284/284
+|move|p1a: Tropius|Leech Seed|p2a: Toucannon
+|-start|p2a: Toucannon|move: Leech Seed
+|
+|-damage|p2a: Toucannon|249/284|[from] Leech Seed|[of] p1a: Tropius
+|upkeep
+|turn|5
+|inactive|ElleLouise has 120 seconds left.
+|
+|t:|1776983863
+|move|p1a: Tropius|Protect|p1a: Tropius
+|-singleturn|p1a: Tropius|Protect
+|move|p2a: Toucannon|U-turn|p1a: Tropius
+|-activate|p1a: Tropius|move: Protect
+|
+|-damage|p2a: Toucannon|214/284|[from] Leech Seed|[of] p1a: Tropius
+|upkeep
+|turn|6
+|
+|t:|1776983872
+|switch|p1a: Regirock|Regirock, L83|268/268
+|move|p2a: Toucannon|U-turn|p1a: Regirock
+|-damage|p1a: Regirock|233/268
+|
+|t:|1776983880
+|switch|p2a: Gallade|Gallade, L80, M|240/240 par|[from] U-turn
+|
+|-heal|p1a: Regirock|249/268|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776983890
+|move|p1a: Regirock|Iron Defense|p1a: Regirock
+|-boost|p1a: Regirock|def|2
+|cant|p2a: Gallade|par
+|
+|-heal|p1a: Regirock|265/268|[from] item: Leftovers
+|upkeep
+|turn|8
+|inactive|ElleLouise has 120 seconds left.
+|
+|t:|1776983900
+|move|p1a: Regirock|Iron Defense|p1a: Regirock
+|-boost|p1a: Regirock|def|2
+|move|p2a: Gallade|Sacred Sword|p1a: Regirock
+|-supereffective|p1a: Regirock
+|-damage|p1a: Regirock|28/268
+|-damage|p2a: Gallade|216/240 par|[from] item: Life Orb
+|
+|-heal|p1a: Regirock|44/268|[from] item: Leftovers
+|upkeep
+|turn|9
+|inactive|ElleLouise has 120 seconds left.
+|
+|t:|1776983911
+|move|p1a: Regirock|Body Press|p2a: Gallade
+|-resisted|p2a: Gallade
+|-damage|p2a: Gallade|24/240 par
+|move|p2a: Gallade|Sacred Sword|p1a: Regirock
+|-supereffective|p1a: Regirock
+|-damage|p1a: Regirock|0 fnt
+|faint|p1a: Regirock
+|-damage|p2a: Gallade|0 fnt|[from] item: Life Orb
+|faint|p2a: Gallade
+|
+|upkeep
+|
+|t:|1776983923
+|switch|p2a: Snorlax|Snorlax, L82, M|397/397
+|switch|p1a: Tropius|Tropius, L91, F|328/328
+|turn|10
+|
+|t:|1776983942
+|move|p1a: Tropius|Leech Seed|p2a: Snorlax
+|-start|p2a: Snorlax|move: Leech Seed
+|move|p2a: Snorlax|Curse|p2a: Snorlax
+|-unboost|p2a: Snorlax|spe|1
+|-boost|p2a: Snorlax|atk|1
+|-boost|p2a: Snorlax|def|1
+|
+|-damage|p2a: Snorlax|348/397|[from] Leech Seed|[of] p1a: Tropius
+|upkeep
+|turn|11
+|
+|t:|1776983954
+|move|p1a: Tropius|Substitute|p1a: Tropius
+|-start|p1a: Tropius|Substitute
+|-damage|p1a: Tropius|246/328
+|move|p2a: Snorlax|Curse|p2a: Snorlax
+|-unboost|p2a: Snorlax|spe|1
+|-boost|p2a: Snorlax|atk|1
+|-boost|p2a: Snorlax|def|1
+|
+|-heal|p2a: Snorlax|372/397|[from] item: Leftovers
+|-damage|p2a: Snorlax|323/397|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|295/328|[silent]
+|upkeep
+|turn|12
+|
+|t:|1776983967
+|move|p1a: Tropius|Air Slash|p2a: Snorlax
+|-damage|p2a: Snorlax|259/397
+|move|p2a: Snorlax|Curse|p2a: Snorlax
+|-unboost|p2a: Snorlax|spe|1
+|-boost|p2a: Snorlax|atk|1
+|-boost|p2a: Snorlax|def|1
+|
+|-heal|p2a: Snorlax|283/397|[from] item: Leftovers
+|-damage|p2a: Snorlax|234/397|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|328/328|[silent]
+|upkeep
+|turn|13
+|
+|t:|1776983983
+|move|p1a: Tropius|Air Slash|p2a: Snorlax
+|-damage|p2a: Snorlax|173/397
+|move|p2a: Snorlax|Curse|p2a: Snorlax
+|-unboost|p2a: Snorlax|spe|1
+|-boost|p2a: Snorlax|atk|1
+|-boost|p2a: Snorlax|def|1
+|
+|-heal|p2a: Snorlax|197/397|[from] item: Leftovers
+|-damage|p2a: Snorlax|148/397|[from] Leech Seed|[of] p1a: Tropius
+|upkeep
+|turn|14
+|
+|t:|1776983994
+|move|p1a: Tropius|Air Slash|p2a: Snorlax
+|-damage|p2a: Snorlax|84/397
+|move|p2a: Snorlax|Body Slam|p1a: Tropius
+|-end|p1a: Tropius|Substitute
+|
+|-heal|p2a: Snorlax|108/397|[from] item: Leftovers
+|-damage|p2a: Snorlax|59/397|[from] Leech Seed|[of] p1a: Tropius
+|upkeep
+|turn|15
+|
+|t:|1776984002
+|move|p1a: Tropius|Protect|p1a: Tropius
+|-singleturn|p1a: Tropius|Protect
+|move|p2a: Snorlax|Rest|p2a: Snorlax
+|-status|p2a: Snorlax|slp|[from] move: Rest
+|-heal|p2a: Snorlax|397/397 slp|[silent]
+|
+|-damage|p2a: Snorlax|348/397 slp|[from] Leech Seed|[of] p1a: Tropius
+|upkeep
+|turn|16
+|
+|t:|1776984011
+|move|p1a: Tropius|Substitute|p1a: Tropius
+|-start|p1a: Tropius|Substitute
+|-damage|p1a: Tropius|246/328
+|cant|p2a: Snorlax|slp
+|move|p2a: Snorlax|Sleep Talk|p2a: Snorlax
+|move|p2a: Snorlax|Rest||[from] move: Sleep Talk|[still]
+|-fail|p2a: Snorlax
+|
+|-heal|p2a: Snorlax|372/397 slp|[from] item: Leftovers
+|-damage|p2a: Snorlax|323/397 slp|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|295/328|[silent]
+|upkeep
+|turn|17
+|
+|t:|1776984021
+|move|p1a: Tropius|Air Slash|p2a: Snorlax
+|-damage|p2a: Snorlax|260/397 slp
+|cant|p2a: Snorlax|slp
+|move|p2a: Snorlax|Sleep Talk|p2a: Snorlax
+|move|p2a: Snorlax|Curse|p2a: Snorlax|[from] move: Sleep Talk
+|-unboost|p2a: Snorlax|spe|1
+|-boost|p2a: Snorlax|atk|1
+|-boost|p2a: Snorlax|def|1
+|
+|-heal|p2a: Snorlax|284/397 slp|[from] item: Leftovers
+|-damage|p2a: Snorlax|235/397 slp|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|328/328|[silent]
+|upkeep
+|turn|18
+|
+|t:|1776984033
+|move|p1a: Tropius|Air Slash|p2a: Snorlax
+|-damage|p2a: Snorlax|171/397 slp
+|-curestatus|p2a: Snorlax|slp|[msg]
+|move|p2a: Snorlax|Sleep Talk||[still]
+|-fail|p2a: Snorlax
+|
+|-heal|p2a: Snorlax|195/397|[from] item: Leftovers
+|-damage|p2a: Snorlax|146/397|[from] Leech Seed|[of] p1a: Tropius
+|upkeep
+|turn|19
+|
+|t:|1776984044
+|move|p1a: Tropius|Air Slash|p2a: Snorlax
+|-damage|p2a: Snorlax|85/397
+|move|p2a: Snorlax|Body Slam|p1a: Tropius
+|-end|p1a: Tropius|Substitute
+|
+|-heal|p2a: Snorlax|109/397|[from] item: Leftovers
+|-damage|p2a: Snorlax|60/397|[from] Leech Seed|[of] p1a: Tropius
+|upkeep
+|turn|20
+|
+|t:|1776984054
+|move|p1a: Tropius|Substitute|p1a: Tropius
+|-start|p1a: Tropius|Substitute
+|-damage|p1a: Tropius|246/328
+|move|p2a: Snorlax|Rest|p2a: Snorlax
+|-status|p2a: Snorlax|slp|[from] move: Rest
+|-heal|p2a: Snorlax|397/397 slp|[silent]
+|
+|-damage|p2a: Snorlax|348/397 slp|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|295/328|[silent]
+|upkeep
+|turn|21
+|inactive|ElleLouise has 120 seconds left.
+|
+|t:|1776984069
+|switch|p1a: Charizard|Charizard, L85, F|271/271
+|cant|p2a: Snorlax|slp
+|move|p2a: Snorlax|Sleep Talk|p2a: Snorlax
+|move|p2a: Snorlax|Body Slam|p1a: Charizard|[from] move: Sleep Talk
+|-damage|p1a: Charizard|0 fnt
+|faint|p1a: Charizard
+|
+|-heal|p2a: Snorlax|372/397 slp|[from] item: Leftovers
+|upkeep
+|
+|t:|1776984074
+|switch|p1a: Phione|Phione, L91|293/293
+|turn|22
+|inactive|ElleLouise has 120 seconds left.
+|
+|t:|1776984084
+|move|p1a: Phione|Take Heart|p1a: Phione
+|-boost|p1a: Phione|spa|1
+|-boost|p1a: Phione|spd|1
+|cant|p2a: Snorlax|slp
+|move|p2a: Snorlax|Sleep Talk|p2a: Snorlax
+|move|p2a: Snorlax|Curse|p2a: Snorlax|[from] move: Sleep Talk
+|-unboost|p2a: Snorlax|spe|1
+|-boost|p2a: Snorlax|atk|1
+|-boost|p2a: Snorlax|def|1
+|
+|-heal|p2a: Snorlax|396/397 slp|[from] item: Leftovers
+|-damage|p2a: Snorlax|347/397 slp|[from] Leech Seed|[of] p1a: Phione
+|upkeep
+|turn|23
+|inactive|ElleLouise has 120 seconds left.
+|
+|t:|1776984097
+|move|p1a: Phione|Scald|p2a: Snorlax
+|-damage|p2a: Snorlax|245/397 slp
+|-curestatus|p2a: Snorlax|slp|[msg]
+|move|p2a: Snorlax|Sleep Talk||[still]
+|-fail|p2a: Snorlax
+|
+|-heal|p2a: Snorlax|269/397|[from] item: Leftovers
+|-damage|p2a: Snorlax|220/397|[from] Leech Seed|[of] p1a: Phione
+|upkeep
+|turn|24
+|
+|t:|1776984106
+|move|p1a: Phione|Scald|p2a: Snorlax
+|-damage|p2a: Snorlax|108/397
+|move|p2a: Snorlax|Body Slam|p1a: Phione
+|-damage|p1a: Phione|0 fnt
+|faint|p1a: Phione
+|
+|-heal|p2a: Snorlax|132/397|[from] item: Leftovers
+|upkeep
+|
+|t:|1776984112
+|switch|p1a: Tropius|Tropius, L91, F|295/328
+|turn|25
+|
+|t:|1776984120
+|move|p1a: Tropius|Substitute|p1a: Tropius
+|-start|p1a: Tropius|Substitute
+|-damage|p1a: Tropius|213/328
+|move|p2a: Snorlax|Body Slam|p1a: Tropius
+|-end|p1a: Tropius|Substitute
+|
+|-heal|p2a: Snorlax|156/397|[from] item: Leftovers
+|-damage|p2a: Snorlax|107/397|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|262/328|[silent]
+|upkeep
+|turn|26
+|
+|t:|1776984129
+|move|p1a: Tropius|Substitute|p1a: Tropius
+|-start|p1a: Tropius|Substitute
+|-damage|p1a: Tropius|180/328
+|move|p2a: Snorlax|Body Slam|p1a: Tropius
+|-end|p1a: Tropius|Substitute
+|
+|-heal|p2a: Snorlax|131/397|[from] item: Leftovers
+|-damage|p2a: Snorlax|82/397|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|229/328|[silent]
+|upkeep
+|turn|27
+|
+|t:|1776984138
+|move|p1a: Tropius|Protect|p1a: Tropius
+|-singleturn|p1a: Tropius|Protect
+|move|p2a: Snorlax|Body Slam|p1a: Tropius
+|-activate|p1a: Tropius|move: Protect
+|
+|-heal|p2a: Snorlax|106/397|[from] item: Leftovers
+|-damage|p2a: Snorlax|57/397|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|278/328|[silent]
+|upkeep
+|turn|28
+|
+|t:|1776984150
+|move|p1a: Tropius|Air Slash|p2a: Snorlax
+|-damage|p2a: Snorlax|0 fnt
+|faint|p2a: Snorlax
+|
+|upkeep
+|
+|t:|1776984165
+|switch|p2a: Bombirdier|Bombirdier, L85, M|258/258
+|turn|29
+|
+|t:|1776984175
+|-terastallize|p1a: Tropius|Steel
+|move|p2a: Bombirdier|Brave Bird|p1a: Tropius
+|-resisted|p1a: Tropius
+|-damage|p1a: Tropius|210/328
+|-damage|p2a: Bombirdier|236/258|[from] Recoil
+|move|p1a: Tropius|Leech Seed|p2a: Bombirdier
+|-start|p2a: Bombirdier|move: Leech Seed
+|
+|-damage|p2a: Bombirdier|204/258|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|242/328|[silent]
+|upkeep
+|turn|30
+|
+|t:|1776984199
+|switch|p2a: Toucannon|Toucannon, L88, M|214/284
+|move|p1a: Tropius|Air Slash|p2a: Toucannon
+|-damage|p2a: Toucannon|136/284
+|
+|upkeep
+|turn|31
+|
+|t:|1776984215
+|move|p2a: Toucannon|U-turn|p1a: Tropius
+|-resisted|p1a: Tropius
+|-damage|p1a: Tropius|210/328
+|
+|t:|1776984219
+|switch|p2a: Sneasler|Sneasler, L74, M|240/240|[from] U-turn
+|move|p1a: Tropius|Leech Seed|p2a: Sneasler|[miss]
+|-miss|p1a: Tropius|p2a: Sneasler
+|
+|upkeep
+|turn|32
+|
+|t:|1776984228
+|move|p1a: Tropius|Protect|p1a: Tropius
+|-singleturn|p1a: Tropius|Protect
+|move|p2a: Sneasler|Close Combat|p1a: Tropius
+|-activate|p1a: Tropius|move: Protect
+|
+|upkeep
+|turn|33
+|
+|t:|1776984235
+|switch|p1a: Leafeon|Leafeon, L88, M|258/258
+|move|p2a: Sneasler|Close Combat|p1a: Leafeon
+|-damage|p1a: Leafeon|125/258
+|-unboost|p2a: Sneasler|def|1
+|-unboost|p2a: Sneasler|spd|1
+|
+|-heal|p1a: Leafeon|141/258|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1776984249
+|switch|p2a: Toucannon|Toucannon, L88, M|136/284
+|move|p1a: Leafeon|Double-Edge|p2a: Toucannon
+|-damage|p2a: Toucannon|29/284
+|-damage|p1a: Leafeon|106/258|[from] Recoil
+|
+|-heal|p1a: Leafeon|122/258|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1776984259
+|-singleturn|p2a: Toucannon|move: Beak Blast
+|move|p1a: Leafeon|Substitute|p1a: Leafeon
+|-start|p1a: Leafeon|Substitute
+|-damage|p1a: Leafeon|58/258
+|move|p2a: Toucannon|Beak Blast|p1a: Leafeon
+|-supereffective|p1a: Leafeon
+|-end|p1a: Leafeon|Substitute
+|
+|-heal|p1a: Leafeon|74/258|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1776984272
+|switch|p1a: Tropius|Tropius, L91, F, tera:Steel|210/328
+|-singleturn|p2a: Toucannon|move: Beak Blast
+|move|p2a: Toucannon|Beak Blast|p1a: Tropius
+|-resisted|p1a: Tropius
+|-damage|p1a: Tropius|143/328
+|-enditem|p1a: Tropius|Sitrus Berry|[eat]
+|-heal|p1a: Tropius|225/328|[from] item: Sitrus Berry
+|
+|-item|p1a: Tropius|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|turn|37
+|
+|t:|1776984288
+|move|p2a: Toucannon|Roost|p2a: Toucannon
+|-heal|p2a: Toucannon|171/284
+|-singleturn|p2a: Toucannon|move: Roost
+|move|p1a: Tropius|Substitute|p1a: Tropius
+|-start|p1a: Tropius|Substitute
+|-damage|p1a: Tropius|143/328
+|-enditem|p1a: Tropius|Sitrus Berry|[eat]
+|-heal|p1a: Tropius|225/328|[from] item: Sitrus Berry
+|
+|upkeep
+|turn|38
+|
+|t:|1776984309
+|move|p2a: Toucannon|U-turn|p1a: Tropius
+|-resisted|p1a: Tropius
+|-activate|p1a: Tropius|move: Substitute|[damage]
+|
+|t:|1776984315
+|switch|p2a: Sneasler|Sneasler, L74, M|240/240|[from] U-turn
+|move|p1a: Tropius|Leech Seed|p2a: Sneasler
+|-start|p2a: Sneasler|move: Leech Seed
+|
+|-damage|p2a: Sneasler|210/240|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|255/328|[silent]
+|upkeep
+|turn|39
+|
+|t:|1776984322
+|move|p2a: Sneasler|U-turn|p1a: Tropius
+|-resisted|p1a: Tropius
+|-activate|p1a: Tropius|move: Substitute|[damage]
+|
+|t:|1776984329
+|switch|p2a: Toucannon|Toucannon, L88, M|171/284|[from] U-turn
+|move|p1a: Tropius|Air Slash|p2a: Toucannon
+|-damage|p2a: Toucannon|87/284
+|
+|upkeep
+|turn|40
+|
+|t:|1776984337
+|move|p2a: Toucannon|Roost|p2a: Toucannon
+|-heal|p2a: Toucannon|229/284
+|-singleturn|p2a: Toucannon|move: Roost
+|move|p1a: Tropius|Air Slash|p2a: Toucannon
+|-damage|p2a: Toucannon|141/284
+|
+|upkeep
+|turn|41
+|
+|t:|1776984347
+|move|p2a: Toucannon|Roost|p2a: Toucannon
+|-heal|p2a: Toucannon|283/284
+|-singleturn|p2a: Toucannon|move: Roost
+|move|p1a: Tropius|Leech Seed|p2a: Toucannon
+|-start|p2a: Toucannon|move: Leech Seed
+|
+|-damage|p2a: Toucannon|248/284|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|290/328|[silent]
+|upkeep
+|turn|42
+|
+|t:|1776984355
+|move|p2a: Toucannon|U-turn|p1a: Tropius
+|-resisted|p1a: Tropius
+|-end|p1a: Tropius|Substitute
+|
+|t:|1776984359
+|switch|p2a: Sneasler|Sneasler, L74, M|210/240|[from] U-turn
+|move|p1a: Tropius|Air Slash|p2a: Sneasler
+|-supereffective|p2a: Sneasler
+|-damage|p2a: Sneasler|30/240
+|
+|upkeep
+|turn|43
+|
+|t:|1776984370
+|move|p2a: Sneasler|Close Combat|p1a: Tropius
+|-supereffective|p1a: Tropius
+|-damage|p1a: Tropius|0 fnt
+|-unboost|p2a: Sneasler|def|1
+|-unboost|p2a: Sneasler|spd|1
+|faint|p1a: Tropius
+|
+|upkeep
+|
+|t:|1776984372
+|switch|p1a: Leafeon|Leafeon, L88, M|74/258
+|turn|44
+|
+|t:|1776984378
+|move|p2a: Sneasler|Close Combat|p1a: Leafeon
+|-damage|p1a: Leafeon|0 fnt
+|-unboost|p2a: Sneasler|def|1
+|-unboost|p2a: Sneasler|spd|1
+|faint|p1a: Leafeon
+|
+|win|ElleLouise
+|raw|DaMassa's rating: 1490 &rarr; <strong>1469</strong><br />(-21 for losing)
+|raw|ElleLouise's rating: 1466 &rarr; <strong>1487</strong><br />(+21 for winning)
+|l|☆DaMassa
+|player|p1|

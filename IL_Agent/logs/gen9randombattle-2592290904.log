@@ -1,0 +1,293 @@
+|j|☆huevo_duro405
+|j|☆elpepito6969
+|t:|1776976307
+|gametype|singles
+|player|p1|huevo_duro405|1|
+|player|p2|elpepito6969|linebacker|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776976307
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Mabosstiff|Mabosstiff, L86, M|278/278
+|switch|p2a: Garganacl|Garganacl, L80, M|291/291
+|turn|1
+|
+|t:|1776976335
+|move|p1a: Mabosstiff|Psychic Fangs|p2a: Garganacl
+|-damage|p2a: Garganacl|202/291
+|move|p2a: Garganacl|Body Press|p1a: Mabosstiff
+|-supereffective|p1a: Mabosstiff
+|-damage|p1a: Mabosstiff|142/278
+|
+|-heal|p2a: Garganacl|220/291|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776976365
+|switch|p1a: Snorlax|Snorlax, L82, F|397/397
+|move|p2a: Garganacl|Body Press|p1a: Snorlax
+|-supereffective|p1a: Snorlax
+|-crit|p1a: Snorlax
+|-damage|p1a: Snorlax|145/397
+|
+|-heal|p2a: Garganacl|238/291|[from] item: Leftovers
+|-heal|p1a: Snorlax|169/397|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776976382
+|move|p2a: Garganacl|Body Press|p1a: Snorlax
+|-supereffective|p1a: Snorlax
+|-damage|p1a: Snorlax|0 fnt
+|faint|p1a: Snorlax
+|
+|-heal|p2a: Garganacl|256/291|[from] item: Leftovers
+|upkeep
+|
+|t:|1776976390
+|switch|p1a: Ting-Lu|Ting-Lu, L78|370/370
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|turn|4
+|
+|t:|1776976396
+|move|p1a: Ting-Lu|Stealth Rock|p2a: Garganacl
+|-sidestart|p2: elpepito6969|move: Stealth Rock
+|move|p2a: Garganacl|Body Press|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|256/370
+|
+|-heal|p1a: Ting-Lu|279/370|[from] item: Leftovers
+|-heal|p2a: Garganacl|274/291|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776976417
+|move|p1a: Ting-Lu|Earthquake|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|110/291
+|move|p2a: Garganacl|Body Press|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|161/370
+|
+|-heal|p1a: Ting-Lu|184/370|[from] item: Leftovers
+|-heal|p2a: Garganacl|128/291|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776976441
+|move|p1a: Ting-Lu|Earthquake|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|0 fnt
+|faint|p2a: Garganacl
+|
+|-heal|p1a: Ting-Lu|207/370|[from] item: Leftovers
+|upkeep
+|
+|t:|1776976453
+|switch|p2a: Palkia|Palkia-Origin, L72|249/249
+|-damage|p2a: Palkia|218/249|[from] Stealth Rock
+|-ability|p2a: Palkia|Pressure
+|turn|7
+|
+|t:|1776976476
+|move|p2a: Palkia|Fire Blast|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|143/370
+|move|p1a: Ting-Lu|Earthquake|p2a: Palkia
+|-damage|p2a: Palkia|107/249
+|
+|-heal|p1a: Ting-Lu|166/370|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776976513
+|move|p2a: Palkia|Hydro Pump|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|0 fnt
+|faint|p1a: Ting-Lu
+|
+|upkeep
+|
+|t:|1776976526
+|switch|p1a: Munkidori|Munkidori, L79, M|269/269
+|turn|9
+|
+|t:|1776976560
+|move|p2a: Palkia|Hydro Pump|p1a: Munkidori
+|-damage|p1a: Munkidori|109/269
+|move|p1a: Munkidori|Sludge Wave|p2a: Palkia
+|-crit|p2a: Palkia
+|-damage|p2a: Palkia|0 fnt
+|faint|p2a: Palkia
+|
+|upkeep
+|
+|t:|1776976570
+|switch|p2a: Zapdos|Zapdos-Galar, L77|265/265
+|-damage|p2a: Zapdos|232/265|[from] Stealth Rock
+|turn|10
+|
+|t:|1776976583
+|move|p1a: Munkidori|Sludge Wave|p2a: Zapdos
+|-damage|p2a: Zapdos|66/265
+|move|p2a: Zapdos|Brave Bird|p1a: Munkidori
+|-damage|p1a: Munkidori|0 fnt
+|faint|p1a: Munkidori
+|-damage|p2a: Zapdos|30/265|[from] Recoil
+|-damage|p2a: Zapdos|4/265|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776976597
+|switch|p1a: Mabosstiff|Mabosstiff, L86, M|142/278
+|turn|11
+|
+|t:|1776976602
+|move|p2a: Zapdos|Bulk Up|p2a: Zapdos
+|-boost|p2a: Zapdos|atk|1
+|-boost|p2a: Zapdos|def|1
+|move|p1a: Mabosstiff|Play Rough|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|upkeep
+|
+|t:|1776976611
+|switch|p2a: Necrozma|Necrozma-Dawn-Wings, L76|272/272
+|-damage|p2a: Necrozma|238/272|[from] Stealth Rock
+|turn|12
+|
+|t:|1776976646
+|-terastallize|p1a: Mabosstiff|Fairy
+|move|p1a: Mabosstiff|Play Rough|p2a: Necrozma
+|-damage|p2a: Necrozma|76/272
+|move|p2a: Necrozma|Moongeist Beam|p1a: Mabosstiff
+|-damage|p1a: Mabosstiff|0 fnt
+|faint|p1a: Mabosstiff
+|
+|-heal|p2a: Necrozma|93/272|[from] item: Leftovers
+|upkeep
+|
+|t:|1776976664
+|switch|p1a: Polteageist|Polteageist-Antique, L78|222/222
+|turn|13
+|
+|t:|1776976681
+|move|p2a: Necrozma|Moonlight|p2a: Necrozma
+|-heal|p2a: Necrozma|229/272
+|move|p1a: Polteageist|Shadow Ball|p2a: Necrozma
+|-supereffective|p2a: Necrozma
+|-damage|p2a: Necrozma|1/272
+|
+|-heal|p2a: Necrozma|18/272|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1776976696
+|move|p2a: Necrozma|Moonlight|p2a: Necrozma
+|-heal|p2a: Necrozma|154/272
+|move|p1a: Polteageist|Shell Smash|p1a: Polteageist
+|-unboost|p1a: Polteageist|def|1
+|-unboost|p1a: Polteageist|spd|1
+|-boost|p1a: Polteageist|atk|2
+|-boost|p1a: Polteageist|spa|2
+|-boost|p1a: Polteageist|spe|2
+|-enditem|p1a: Polteageist|White Herb
+|-clearnegativeboost|p1a: Polteageist|[silent]
+|
+|-heal|p2a: Necrozma|171/272|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1776976708
+|move|p1a: Polteageist|Shadow Ball|p2a: Necrozma
+|-supereffective|p2a: Necrozma
+|-damage|p2a: Necrozma|0 fnt
+|faint|p2a: Necrozma
+|
+|upkeep
+|
+|t:|1776976719
+|switch|p2a: Dusknoir|Dusknoir, L89, F|225/225
+|-damage|p2a: Dusknoir|197/225|[from] Stealth Rock
+|turn|16
+|
+|t:|1776976735
+|-singleturn|p2a: Dusknoir|move: Focus Punch
+|move|p1a: Polteageist|Shadow Ball|p2a: Dusknoir
+|-supereffective|p2a: Dusknoir
+|-damage|p2a: Dusknoir|0 fnt
+|faint|p2a: Dusknoir
+|
+|upkeep
+|
+|t:|1776976743
+|switch|p2a: Dunsparce|Dunsparce, L86, F|312/312
+|-damage|p2a: Dunsparce|273/312|[from] Stealth Rock
+|turn|17
+|
+|t:|1776976751
+|move|p1a: Polteageist|Shadow Ball|p2a: Dunsparce
+|-immune|p2a: Dunsparce
+|move|p2a: Dunsparce|Earthquake|p1a: Polteageist
+|-damage|p1a: Polteageist|150/222
+|
+|upkeep
+|turn|18
+|
+|t:|1776976767
+|move|p1a: Polteageist|Giga Drain|p2a: Dunsparce
+|-damage|p2a: Dunsparce|175/312
+|-heal|p1a: Polteageist|199/222|[from] drain|[of] p2a: Dunsparce
+|move|p2a: Dunsparce|Earthquake|p1a: Polteageist
+|-damage|p1a: Polteageist|117/222
+|
+|upkeep
+|turn|19
+|
+|t:|1776976784
+|move|p1a: Polteageist|Shadow Ball|p2a: Dunsparce
+|-immune|p2a: Dunsparce
+|move|p2a: Dunsparce|Body Slam|p1a: Polteageist
+|-immune|p1a: Polteageist
+|
+|upkeep
+|turn|20
+|
+|t:|1776976792
+|switch|p1a: Oranguru|Oranguru, L92, F|315/315
+|move|p2a: Dunsparce|Body Slam|p1a: Oranguru
+|-damage|p1a: Oranguru|240/315
+|-status|p1a: Oranguru|par
+|
+|-heal|p1a: Oranguru|259/315 par|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1776976808
+|move|p2a: Dunsparce|Earthquake|p1a: Oranguru
+|-damage|p1a: Oranguru|196/315 par
+|move|p1a: Oranguru|Focus Blast|p2a: Dunsparce
+|-supereffective|p2a: Dunsparce
+|-damage|p2a: Dunsparce|31/312
+|
+|-heal|p1a: Oranguru|215/315 par|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1776976817
+|move|p2a: Dunsparce|Earthquake|p1a: Oranguru
+|-damage|p1a: Oranguru|159/315 par
+|move|p1a: Oranguru|Focus Blast|p2a: Dunsparce
+|-supereffective|p2a: Dunsparce
+|-damage|p2a: Dunsparce|0 fnt
+|faint|p2a: Dunsparce
+|
+|win|huevo_duro405

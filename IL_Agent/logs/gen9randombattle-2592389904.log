@@ -1,0 +1,272 @@
+|j|☆camprockfan369
+|j|☆ImGowtur
+|t:|1776984789
+|gametype|singles
+|player|p1|camprockfan369|170|1000
+|player|p2|ImGowtur|170|1042
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776984789
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Oranguru|Oranguru, L92, M|315/315
+|switch|p2a: Persian|Persian, L92, F|269/269
+|turn|1
+|
+|t:|1776984807
+|move|p2a: Persian|Knock Off|p1a: Oranguru
+|-supereffective|p1a: Oranguru
+|-damage|p1a: Oranguru|131/315
+|-enditem|p1a: Oranguru|Leftovers|[from] move: Knock Off|[of] p2a: Persian
+|move|p1a: Oranguru|Focus Blast|p2a: Persian
+|-supereffective|p2a: Persian
+|-damage|p2a: Persian|59/269
+|
+|upkeep
+|turn|2
+|
+|t:|1776984817
+|switch|p1a: Altaria|Altaria, L89, M|278/278
+|move|p2a: Persian|Knock Off|p1a: Altaria
+|-damage|p1a: Altaria|193/278
+|-enditem|p1a: Altaria|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Persian
+|
+|upkeep
+|turn|3
+|
+|t:|1776984824
+|move|p2a: Persian|Knock Off|p1a: Altaria
+|-damage|p1a: Altaria|131/278
+|move|p1a: Altaria|Brave Bird|p2a: Persian
+|-damage|p2a: Persian|0 fnt
+|faint|p2a: Persian
+|-damage|p1a: Altaria|112/278|[from] Recoil
+|
+|upkeep
+|
+|t:|1776984827
+|switch|p2a: Slowking|Slowking-Galar, L85, M|300/300
+|turn|4
+|
+|t:|1776984835
+|move|p1a: Altaria|Will-O-Wisp|p2a: Slowking
+|-status|p2a: Slowking|brn
+|move|p2a: Slowking|Psyshock|p1a: Altaria
+|-damage|p1a: Altaria|25/278
+|
+|-damage|p2a: Slowking|282/300 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1776984844
+|move|p1a: Altaria|Roost|p1a: Altaria
+|-heal|p1a: Altaria|164/278
+|-singleturn|p1a: Altaria|move: Roost
+|move|p2a: Slowking|Psyshock|p1a: Altaria
+|-damage|p1a: Altaria|65/278
+|
+|-heal|p2a: Slowking|300/300 brn|[from] item: Leftovers
+|-damage|p2a: Slowking|282/300 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1776984853
+|move|p1a: Altaria|Roost|p1a: Altaria
+|-heal|p1a: Altaria|204/278
+|-singleturn|p1a: Altaria|move: Roost
+|move|p2a: Slowking|Psyshock|p1a: Altaria
+|-damage|p1a: Altaria|117/278
+|
+|-heal|p2a: Slowking|300/300 brn|[from] item: Leftovers
+|-damage|p2a: Slowking|282/300 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1776984862
+|move|p1a: Altaria|Roost|p1a: Altaria
+|-heal|p1a: Altaria|256/278
+|-singleturn|p1a: Altaria|move: Roost
+|move|p2a: Slowking|Sludge Bomb|p1a: Altaria
+|-damage|p1a: Altaria|166/278
+|-status|p1a: Altaria|psn
+|
+|-heal|p2a: Slowking|300/300 brn|[from] item: Leftovers
+|-damage|p1a: Altaria|132/278 psn|[from] psn
+|-damage|p2a: Slowking|282/300 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1776984874
+|-curestatus|p1a: Altaria|psn|[from] ability: Natural Cure
+|switch|p1a: Ampharos|Ampharos, L88, M|302/302
+|move|p2a: Slowking|Toxic Spikes|p1a: Ampharos
+|-sidestart|p1: camprockfan369|move: Toxic Spikes
+|
+|-heal|p2a: Slowking|300/300 brn|[from] item: Leftovers
+|-damage|p2a: Slowking|282/300 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1776984885
+|move|p1a: Ampharos|Discharge|p2a: Slowking
+|-damage|p2a: Slowking|188/300 brn
+|move|p2a: Slowking|Psyshock|p1a: Ampharos
+|-damage|p1a: Ampharos|215/302
+|
+|-heal|p2a: Slowking|206/300 brn|[from] item: Leftovers
+|-damage|p2a: Slowking|188/300 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1776984896
+|move|p1a: Ampharos|Discharge|p2a: Slowking
+|-damage|p2a: Slowking|94/300 brn
+|move|p2a: Slowking|Toxic Spikes|p1a: Ampharos
+|-sidestart|p1: camprockfan369|move: Toxic Spikes
+|
+|-heal|p2a: Slowking|112/300 brn|[from] item: Leftovers
+|-damage|p2a: Slowking|94/300 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1776984905
+|move|p1a: Ampharos|Discharge|p2a: Slowking
+|-damage|p2a: Slowking|12/300 brn
+|move|p2a: Slowking|Toxic Spikes||[still]
+|-fail|p2a: Slowking
+|
+|-heal|p2a: Slowking|30/300 brn|[from] item: Leftovers
+|-damage|p2a: Slowking|12/300 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1776984918
+|move|p1a: Ampharos|Volt Switch|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|
+|t:|1776984929
+|switch|p1a: Vigoroth|Vigoroth, L85, F|275/275|[from] Volt Switch
+|-status|p1a: Vigoroth|tox
+|
+|-damage|p1a: Vigoroth|258/275 tox|[from] psn
+|upkeep
+|
+|t:|1776984953
+|switch|p2a: Hitmontop|Hitmontop, L88, M|231/231
+|turn|13
+|
+|t:|1776984964
+|switch|p1a: Masquerain|Masquerain, L87, M|264/264
+|-ability|p1a: Masquerain|Intimidate|boost
+|-unboost|p2a: Hitmontop|atk|1
+|move|p2a: Hitmontop|Bulk Up|p2a: Hitmontop
+|-boost|p2a: Hitmontop|atk|1
+|-boost|p2a: Hitmontop|def|1
+|
+|upkeep
+|turn|14
+|
+|t:|1776984973
+|move|p1a: Masquerain|Hurricane|p2a: Hitmontop|[miss]
+|-miss|p1a: Masquerain|p2a: Hitmontop
+|move|p2a: Hitmontop|Bulk Up|p2a: Hitmontop
+|-boost|p2a: Hitmontop|atk|1
+|-boost|p2a: Hitmontop|def|1
+|
+|upkeep
+|turn|15
+|
+|t:|1776984982
+|move|p1a: Masquerain|Hurricane|p2a: Hitmontop
+|-supereffective|p2a: Hitmontop
+|-damage|p2a: Hitmontop|19/231
+|move|p2a: Hitmontop|Bulk Up|p2a: Hitmontop
+|-boost|p2a: Hitmontop|atk|1
+|-boost|p2a: Hitmontop|def|1
+|
+|-heal|p2a: Hitmontop|33/231|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776984990
+|move|p1a: Masquerain|Hurricane|p2a: Hitmontop
+|-supereffective|p2a: Hitmontop
+|-damage|p2a: Hitmontop|0 fnt
+|faint|p2a: Hitmontop
+|
+|upkeep
+|
+|t:|1776984996
+|switch|p2a: Lokix|Lokix, L82, M|251/251
+|turn|17
+|
+|t:|1776985007
+|move|p2a: Lokix|Knock Off|p1a: Masquerain
+|-damage|p1a: Masquerain|146/264
+|-enditem|p1a: Masquerain|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Lokix
+|move|p1a: Masquerain|Hurricane|p2a: Lokix
+|-supereffective|p2a: Lokix
+|-damage|p2a: Lokix|0 fnt
+|faint|p2a: Lokix
+|
+|upkeep
+|
+|t:|1776985013
+|switch|p2a: Mandibuzz|Mandibuzz, L85, F|326/326
+|turn|18
+|
+|t:|1776985019
+|-terastallize|p1a: Masquerain|Water
+|move|p1a: Masquerain|Hydro Pump|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|208/326
+|move|p2a: Mandibuzz|Defog|p1a: Masquerain
+|-unboost|p1a: Masquerain|evasion|1
+|-sideend|p1: camprockfan369|Toxic Spikes|[from] move: Defog|[of] p2a: Mandibuzz
+|
+|upkeep
+|turn|19
+|
+|t:|1776985032
+|move|p1a: Masquerain|Hydro Pump|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|94/326
+|move|p2a: Mandibuzz|Defog|p1a: Masquerain
+|-unboost|p1a: Masquerain|evasion|1
+|
+|upkeep
+|turn|20
+|
+|t:|1776985039
+|move|p1a: Masquerain|Hydro Pump|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|0 fnt
+|faint|p2a: Mandibuzz
+|
+|upkeep
+|
+|t:|1776985042
+|switch|p2a: Scream Tail|Scream Tail, L84|330/330
+|turn|21
+|
+|t:|1776985049
+|move|p2a: Scream Tail|Play Rough|p1a: Masquerain
+|-damage|p1a: Masquerain|53/264
+|move|p1a: Masquerain|Hydro Pump|p2a: Scream Tail
+|-damage|p2a: Scream Tail|236/330
+|
+|-heal|p2a: Scream Tail|256/330|[from] item: Leftovers
+|upkeep
+|turn|22
+|-message|ImGowtur forfeited.
+|
+|win|camprockfan369
+|raw|camprockfan369's rating: 1000 &rarr; <strong>1045</strong><br />(+45 for winning)
+|raw|ImGowtur's rating: 1042 &rarr; <strong>1024</strong><br />(-18 for losing)
+|l|☆ImGowtur
+|player|p2|

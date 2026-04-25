@@ -1,0 +1,469 @@
+|j|☆Alexandre195
+|j|☆ma nature
+|t:|1776974786
+|gametype|singles
+|player|p1|Alexandre195|iris-gen5bw2|1431
+|player|p2|ma nature|pokemonbreederf-gen4|1417
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776974786
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Diancie|Diancie, L82|216/216
+|switch|p2a: Dedenne|Dedenne, L88, F|261/261
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ma nature)
+|inactive|Alexandre195 also wants the timer to be on.
+|
+|t:|1776974800
+|switch|p1a: Swampert|Swampert, L83, M|302/302
+|move|p2a: Dedenne|U-turn|p1a: Swampert
+|-damage|p1a: Swampert|267/302
+|
+|t:|1776974807
+|switch|p2a: Whimsicott|Whimsicott, L84, F|238/238|[from] U-turn
+|
+|-heal|p1a: Swampert|285/302|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776974816
+|switch|p1a: Amoonguss|Amoonguss, L82, M|321/321
+|move|p2a: Whimsicott|Substitute|p2a: Whimsicott
+|-start|p2a: Whimsicott|Substitute
+|-damage|p2a: Whimsicott|179/238
+|
+|-heal|p2a: Whimsicott|193/238|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776974837
+|move|p2a: Whimsicott|Moonblast|p1a: Amoonguss
+|-resisted|p1a: Amoonguss
+|-damage|p1a: Amoonguss|273/321
+|-unboost|p1a: Amoonguss|spa|1
+|move|p1a: Amoonguss|Sludge Bomb|p2a: Whimsicott
+|-supereffective|p2a: Whimsicott
+|-end|p2a: Whimsicott|Substitute
+|
+|-heal|p2a: Whimsicott|207/238|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776974857
+|switch|p2a: Heracross|Heracross, L80, F|259/259
+|move|p1a: Amoonguss|Sludge Bomb|p2a: Heracross
+|-damage|p2a: Heracross|208/259
+|-status|p2a: Heracross|psn
+|
+|-damage|p2a: Heracross|176/259 psn|[from] psn
+|upkeep
+|turn|5
+|inactive|ma nature has 120 seconds left.
+|
+|t:|1776974872
+|switch|p1a: Diancie|Diancie, L82|216/216
+|move|p2a: Heracross|Knock Off|p1a: Diancie
+|-resisted|p1a: Diancie
+|-damage|p1a: Diancie|174/216
+|-enditem|p1a: Diancie|Leftovers|[from] move: Knock Off|[of] p2a: Heracross
+|
+|-damage|p2a: Heracross|144/259 psn|[from] psn
+|upkeep
+|turn|6
+|inactive|ma nature has 120 seconds left.
+|
+|t:|1776974894
+|switch|p2a: Whimsicott|Whimsicott, L84, F|207/238
+|move|p1a: Diancie|Stealth Rock|p2a: Whimsicott
+|-sidestart|p2: ma nature|move: Stealth Rock
+|
+|-heal|p2a: Whimsicott|221/238|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776974900
+|switch|p1a: Amoonguss|Amoonguss, L82, M|321/321
+|move|p2a: Whimsicott|Encore||[still]
+|-fail|p2a: Whimsicott
+|
+|-heal|p2a: Whimsicott|235/238|[from] item: Leftovers
+|upkeep
+|turn|8
+|inactive|ma nature has 120 seconds left.
+|
+|t:|1776974908
+|switch|p2a: Heracross|Heracross, L80, F|144/259 psn
+|-damage|p2a: Heracross|112/259 psn|[from] Stealth Rock
+|move|p1a: Amoonguss|Sludge Bomb|p2a: Heracross
+|-damage|p2a: Heracross|37/259 psn
+|
+|-damage|p2a: Heracross|5/259 psn|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1776974914
+|switch|p1a: Diancie|Diancie, L82|174/216
+|move|p2a: Heracross|Facade|p1a: Diancie
+|-resisted|p1a: Diancie
+|-damage|p1a: Diancie|123/216
+|
+|-damage|p2a: Heracross|0 fnt|[from] psn
+|faint|p2a: Heracross
+|upkeep
+|
+|t:|1776974920
+|switch|p2a: Electivire|Electivire, L84, F|263/263
+|-damage|p2a: Electivire|231/263|[from] Stealth Rock
+|turn|10
+|
+|t:|1776974929
+|move|p2a: Electivire|Earthquake|p1a: Diancie
+|-supereffective|p1a: Diancie
+|-damage|p1a: Diancie|0 fnt
+|faint|p1a: Diancie
+|-damage|p2a: Electivire|205/263|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776974954
+|switch|p1a: Wugtrio|Wugtrio, L91, M|212/212
+|turn|11
+|
+|t:|1776974971
+|move|p1a: Wugtrio|Liquidation|p2a: Electivire
+|-damage|p2a: Electivire|0 fnt
+|faint|p2a: Electivire
+|
+|upkeep
+|
+|t:|1776974976
+|switch|p2a: Whimsicott|Whimsicott, L84, F|235/238
+|-damage|p2a: Whimsicott|206/238|[from] Stealth Rock
+|turn|12
+|
+|t:|1776974979
+|switch|p1a: Amoonguss|Amoonguss, L82, M|321/321
+|move|p2a: Whimsicott|Leech Seed|p1a: Amoonguss
+|-immune|p1a: Amoonguss
+|
+|-heal|p2a: Whimsicott|220/238|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776974987
+|-terastallize|p2a: Whimsicott|Steel
+|move|p2a: Whimsicott|Substitute|p2a: Whimsicott
+|-start|p2a: Whimsicott|Substitute
+|-damage|p2a: Whimsicott|161/238
+|move|p1a: Amoonguss|Sludge Bomb|p2a: Whimsicott
+|-immune|p2a: Whimsicott
+|
+|-heal|p2a: Whimsicott|175/238|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1776974998
+|move|p2a: Whimsicott|Encore|p1a: Amoonguss
+|-start|p1a: Amoonguss|Encore
+|move|p1a: Amoonguss|Sludge Bomb|p2a: Whimsicott
+|-immune|p2a: Whimsicott
+|
+|-heal|p2a: Whimsicott|189/238|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1776975003
+|move|p2a: Whimsicott|Leech Seed|p1a: Amoonguss
+|-immune|p1a: Amoonguss
+|move|p1a: Amoonguss|Sludge Bomb|p2a: Whimsicott
+|-immune|p2a: Whimsicott
+|
+|-heal|p2a: Whimsicott|203/238|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776975006
+|move|p2a: Whimsicott|Moonblast|p1a: Amoonguss
+|-resisted|p1a: Amoonguss
+|-damage|p1a: Amoonguss|277/321
+|move|p1a: Amoonguss|Sludge Bomb|p2a: Whimsicott
+|-immune|p2a: Whimsicott
+|
+|-heal|p2a: Whimsicott|217/238|[from] item: Leftovers
+|-end|p1a: Amoonguss|Encore
+|upkeep
+|turn|17
+|
+|t:|1776975010
+|switch|p1a: Wugtrio|Wugtrio, L91, M|212/212
+|move|p2a: Whimsicott|Moonblast|p1a: Wugtrio
+|-damage|p1a: Wugtrio|124/212
+|
+|-heal|p2a: Whimsicott|231/238|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1776975019
+|switch|p1a: Amoonguss|Amoonguss, L82, M|321/321
+|move|p2a: Whimsicott|Leech Seed|p1a: Amoonguss
+|-immune|p1a: Amoonguss
+|
+|-heal|p2a: Whimsicott|238/238|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1776975025
+|move|p2a: Whimsicott|Moonblast|p1a: Amoonguss
+|-resisted|p1a: Amoonguss
+|-damage|p1a: Amoonguss|274/321
+|move|p1a: Amoonguss|Stomping Tantrum|p2a: Whimsicott
+|-supereffective|p2a: Whimsicott
+|-end|p2a: Whimsicott|Substitute
+|
+|upkeep
+|turn|20
+|
+|t:|1776975032
+|switch|p2a: Dragonite|Dragonite, L74, F|257/257
+|move|p1a: Amoonguss|Stomping Tantrum|p2a: Dragonite
+|-immune|p2a: Dragonite
+|
+|upkeep
+|turn|21
+|
+|t:|1776975042
+|switch|p1a: Swampert|Swampert, L83, M|285/302
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|-heal|p1a: Swampert|302/302|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1776975052
+|move|p2a: Dragonite|Outrage|p1a: Swampert
+|-damage|p1a: Swampert|116/302
+|move|p1a: Swampert|Roar|p2a: Dragonite
+|drag|p2a: Whimsicott|Whimsicott, L84, F, tera:Steel|238/238
+|-damage|p2a: Whimsicott|224/238|[from] Stealth Rock
+|
+|-heal|p2a: Whimsicott|238/238|[from] item: Leftovers
+|-heal|p1a: Swampert|134/302|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1776975064
+|move|p2a: Whimsicott|Encore|p1a: Swampert
+|-start|p1a: Swampert|Encore
+|move|p1a: Swampert|Roar|p2a: Whimsicott
+|drag|p2a: Dragonite|Dragonite, L74, F|257/257
+|
+|-heal|p1a: Swampert|152/302|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1776975072
+|switch|p1a: Kommo-o|Kommo-o, L78, M|245/245
+|move|p2a: Dragonite|Outrage|p1a: Kommo-o
+|-supereffective|p1a: Kommo-o
+|-damage|p1a: Kommo-o|45/245
+|
+|upkeep
+|turn|25
+|
+|t:|1776975079
+|switch|p1a: Wugtrio|Wugtrio, L91, M|124/212
+|move|p2a: Dragonite|Outrage|p1a: Wugtrio|[from] lockedmove
+|-damage|p1a: Wugtrio|0 fnt
+|-ability|p1a: Wugtrio|Gooey
+|-unboost|p2a: Dragonite|spe|1
+|faint|p1a: Wugtrio
+|
+|upkeep
+|
+|t:|1776975084
+|switch|p1a: Kommo-o|Kommo-o, L78, M|45/245
+|turn|26
+|
+|t:|1776975091
+|move|p1a: Kommo-o|Scale Shot|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|230/257
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|176/257
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|116/257
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|56/257
+|-hitcount|p2a: Dragonite|4
+|-unboost|p1a: Kommo-o|def|1
+|-boost|p1a: Kommo-o|spe|1
+|move|p2a: Dragonite|Outrage|p1a: Kommo-o|[from] lockedmove
+|-supereffective|p1a: Kommo-o
+|-crit|p1a: Kommo-o
+|-damage|p1a: Kommo-o|0 fnt
+|faint|p1a: Kommo-o
+|-start|p2a: Dragonite|confusion|[fatigue]
+|
+|upkeep
+|
+|t:|1776975095
+|switch|p1a: Vigoroth|Vigoroth, L85, M|275/275
+|turn|27
+|
+|t:|1776975100
+|switch|p2a: Whimsicott|Whimsicott, L84, F, tera:Steel|238/238
+|-damage|p2a: Whimsicott|224/238|[from] Stealth Rock
+|move|p1a: Vigoroth|Bulk Up|p1a: Vigoroth
+|-boost|p1a: Vigoroth|atk|1
+|-boost|p1a: Vigoroth|def|1
+|
+|-heal|p2a: Whimsicott|238/238|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1776975106
+|switch|p1a: Amoonguss|Amoonguss, L82, M|321/321
+|move|p2a: Whimsicott|Encore||[still]
+|-fail|p2a: Whimsicott
+|
+|upkeep
+|turn|29
+|
+|t:|1776975114
+|switch|p2a: Dragonite|Dragonite, L74, F|56/257
+|move|p1a: Amoonguss|Stomping Tantrum|p2a: Dragonite
+|-immune|p2a: Dragonite
+|
+|upkeep
+|turn|30
+|
+|t:|1776975120
+|move|p2a: Dragonite|Iron Head|p1a: Amoonguss
+|-damage|p1a: Amoonguss|246/321
+|-damage|p2a: Dragonite|14/257|[from] item: Rocky Helmet|[of] p1a: Amoonguss
+|cant|p1a: Amoonguss|flinch
+|
+|upkeep
+|turn|31
+|
+|t:|1776975131
+|move|p2a: Dragonite|Outrage|p1a: Amoonguss
+|-damage|p1a: Amoonguss|98/321
+|-damage|p2a: Dragonite|0 fnt|[from] item: Rocky Helmet|[of] p1a: Amoonguss
+|faint|p2a: Dragonite
+|move|p1a: Amoonguss|Sludge Bomb|p2: Dragonite|[notarget]
+|-fail|p1a: Amoonguss
+|
+|upkeep
+|
+|t:|1776975136
+|switch|p2a: Glastrier|Glastrier, L86|312/312
+|turn|32
+|
+|t:|1776975141
+|switch|p1a: Swampert|Swampert, L83, M|152/302
+|move|p2a: Glastrier|Icicle Crash|p1a: Swampert
+|-damage|p1a: Swampert|19/302
+|
+|-heal|p1a: Swampert|37/302|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1776975154
+|move|p1a: Swampert|Knock Off|p2a: Glastrier
+|-damage|p2a: Glastrier|256/312
+|-enditem|p2a: Glastrier|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Swampert
+|move|p2a: Glastrier|Icicle Crash|p1a: Swampert
+|-damage|p1a: Swampert|0 fnt
+|faint|p1a: Swampert
+|-ability|p2a: Glastrier|Chilling Neigh|boost
+|-boost|p2a: Glastrier|atk|1
+|
+|upkeep
+|
+|t:|1776975159
+|switch|p1a: Vigoroth|Vigoroth, L85, M|275/275
+|turn|34
+|
+|t:|1776975168
+|move|p1a: Vigoroth|Bulk Up|p1a: Vigoroth
+|-boost|p1a: Vigoroth|atk|1
+|-boost|p1a: Vigoroth|def|1
+|move|p2a: Glastrier|Close Combat|p1a: Vigoroth
+|-supereffective|p1a: Vigoroth
+|-damage|p1a: Vigoroth|113/275
+|-unboost|p2a: Glastrier|def|1
+|-unboost|p2a: Glastrier|spd|1
+|
+|upkeep
+|turn|35
+|
+|t:|1776975175
+|move|p1a: Vigoroth|Body Slam|p2a: Glastrier
+|-damage|p2a: Glastrier|115/312
+|-status|p2a: Glastrier|par
+|cant|p2a: Glastrier|par
+|
+|upkeep
+|turn|36
+|
+|t:|1776975183
+|-terastallize|p1a: Vigoroth|Ground
+|move|p1a: Vigoroth|Slack Off|p1a: Vigoroth
+|-heal|p1a: Vigoroth|251/275
+|move|p2a: Glastrier|Close Combat|p1a: Vigoroth
+|-damage|p1a: Vigoroth|169/275
+|-unboost|p2a: Glastrier|def|1
+|-unboost|p2a: Glastrier|spd|1
+|
+|upkeep
+|turn|37
+|
+|t:|1776975197
+|move|p1a: Vigoroth|Earthquake|p2a: Glastrier
+|-damage|p2a: Glastrier|0 fnt
+|faint|p2a: Glastrier
+|
+|upkeep
+|
+|t:|1776975210
+|switch|p2a: Dedenne|Dedenne, L88, F|261/261
+|-damage|p2a: Dedenne|229/261|[from] Stealth Rock
+|turn|38
+|
+|t:|1776975214
+|move|p2a: Dedenne|Dazzling Gleam|p1a: Vigoroth
+|-damage|p1a: Vigoroth|97/275
+|move|p1a: Vigoroth|Earthquake|p2a: Dedenne
+|-supereffective|p2a: Dedenne
+|-damage|p2a: Dedenne|0 fnt
+|faint|p2a: Dedenne
+|
+|upkeep
+|
+|t:|1776975217
+|switch|p2a: Whimsicott|Whimsicott, L84, F, tera:Steel|238/238
+|-damage|p2a: Whimsicott|224/238|[from] Stealth Rock
+|turn|39
+|
+|t:|1776975221
+|move|p2a: Whimsicott|Moonblast|p1a: Vigoroth
+|-damage|p1a: Vigoroth|24/275
+|move|p1a: Vigoroth|Earthquake|p2a: Whimsicott
+|-supereffective|p2a: Whimsicott
+|-damage|p2a: Whimsicott|0 fnt
+|faint|p2a: Whimsicott
+|
+|win|Alexandre195
+|raw|Alexandre195's rating: 1431 &rarr; <strong>1450</strong><br />(+19 for winning)
+|raw|ma nature's rating: 1417 &rarr; <strong>1398</strong><br />(-19 for losing)

@@ -1,0 +1,182 @@
+|j|☆RothIAstra
+|j|☆liilo
+|t:|1776981123
+|gametype|singles
+|player|p1|RothIAstra|worker|1452
+|player|p2|liilo|1|1487
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776981123
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Calyrex|Calyrex-Shadow, L64|235/235
+|switch|p2a: Mamoswine|Mamoswine, L81, M|311/311
+|-ability|p1a: Calyrex|As One
+|-ability|p1a: Calyrex|Unnerve
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by RothIAstra)
+|
+|t:|1776981140
+|switch|p1a: Brambleghast|Brambleghast, L88, F|240/240
+|move|p2a: Mamoswine|Stealth Rock|p1a: Brambleghast
+|-sidestart|p1: RothIAstra|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1776981147
+|switch|p2a: Gogoat|Gogoat, L88, F|360/360
+|move|p1a: Brambleghast|Rapid Spin|p2a: Gogoat
+|-damage|p2a: Gogoat|303/360
+|-boost|p1a: Brambleghast|spe|1
+|-sideend|p1: RothIAstra|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Brambleghast
+|
+|-heal|p2a: Gogoat|325/360|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776981153
+|move|p1a: Brambleghast|Spikes|p2a: Gogoat
+|-sidestart|p2: liilo|Spikes
+|move|p2a: Gogoat|Bulk Up|p2a: Gogoat
+|-boost|p2a: Gogoat|atk|1
+|-boost|p2a: Gogoat|def|1
+|
+|-heal|p2a: Gogoat|347/360|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776981157
+|move|p1a: Brambleghast|Spikes|p2a: Gogoat
+|-sidestart|p2: liilo|Spikes
+|move|p2a: Gogoat|Bulk Up|p2a: Gogoat
+|-boost|p2a: Gogoat|atk|1
+|-boost|p2a: Gogoat|def|1
+|
+|-heal|p2a: Gogoat|360/360|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776981160
+|move|p1a: Brambleghast|Spikes|p2a: Gogoat
+|-sidestart|p2: liilo|Spikes
+|move|p2a: Gogoat|Bulk Up|p2a: Gogoat
+|-boost|p2a: Gogoat|atk|1
+|-boost|p2a: Gogoat|def|1
+|
+|upkeep
+|turn|6
+|
+|t:|1776981164
+|move|p1a: Brambleghast|Rapid Spin|p2a: Gogoat
+|-damage|p2a: Gogoat|336/360
+|-boost|p1a: Brambleghast|spe|1
+|move|p2a: Gogoat|Bulk Up|p2a: Gogoat
+|-boost|p2a: Gogoat|atk|1
+|-boost|p2a: Gogoat|def|1
+|
+|-heal|p2a: Gogoat|358/360|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776981167
+|move|p1a: Brambleghast|Rapid Spin|p2a: Gogoat
+|-crit|p2a: Gogoat
+|-damage|p2a: Gogoat|273/360
+|-boost|p1a: Brambleghast|spe|1
+|move|p2a: Gogoat|Bulk Up|p2a: Gogoat
+|-boost|p2a: Gogoat|atk|1
+|-boost|p2a: Gogoat|def|1
+|
+|-heal|p2a: Gogoat|295/360|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776981169
+|move|p1a: Brambleghast|Rapid Spin|p2a: Gogoat
+|-damage|p2a: Gogoat|280/360
+|-boost|p1a: Brambleghast|spe|1
+|move|p2a: Gogoat|Bulk Up|p2a: Gogoat
+|-boost|p2a: Gogoat|atk|1
+|-boost|p2a: Gogoat|def|1
+|
+|-heal|p2a: Gogoat|302/360|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776981173
+|move|p1a: Brambleghast|Rapid Spin|p2a: Gogoat
+|-damage|p2a: Gogoat|288/360
+|-boost|p1a: Brambleghast|spe|1
+|move|p2a: Gogoat|Horn Leech|p1a: Brambleghast
+|-resisted|p1a: Brambleghast
+|-damage|p1a: Brambleghast|39/240
+|-heal|p2a: Gogoat|360/360|[from] drain|[of] p1a: Brambleghast
+|
+|upkeep
+|turn|10
+|
+|t:|1776981176
+|move|p1a: Brambleghast|Rapid Spin|p2a: Gogoat
+|-damage|p2a: Gogoat|347/360
+|-boost|p1a: Brambleghast|spe|1
+|move|p2a: Gogoat|Horn Leech|p1a: Brambleghast
+|-resisted|p1a: Brambleghast
+|-damage|p1a: Brambleghast|0 fnt
+|-heal|p2a: Gogoat|360/360|[from] drain|[of] p1a: Brambleghast
+|faint|p1a: Brambleghast
+|
+|upkeep
+|
+|t:|1776981194
+|switch|p1a: Duraludon|Duraludon, L82, M|249/249
+|turn|11
+|
+|t:|1776981201
+|-terastallize|p1a: Duraludon|Fighting
+|move|p1a: Duraludon|Draco Meteor|p2a: Gogoat
+|-damage|p2a: Gogoat|216/360
+|-unboost|p1a: Duraludon|spa|2
+|move|p2a: Gogoat|Earthquake|p1a: Duraludon
+|-damage|p1a: Duraludon|67/249
+|
+|-heal|p2a: Gogoat|238/360|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776981205
+|move|p1a: Duraludon|Flash Cannon|p2a: Gogoat
+|-damage|p2a: Gogoat|186/360
+|move|p2a: Gogoat|Horn Leech|p1a: Duraludon
+|-damage|p1a: Duraludon|0 fnt
+|-heal|p2a: Gogoat|220/360|[from] drain|[of] p1a: Duraludon
+|faint|p1a: Duraludon
+|
+|-heal|p2a: Gogoat|242/360|[from] item: Leftovers
+|upkeep
+|
+|t:|1776981208
+|switch|p1a: Empoleon|Empoleon, L84, F|278/278
+|turn|13
+|
+|t:|1776981213
+|move|p2a: Gogoat|Horn Leech|p1a: Empoleon
+|-damage|p1a: Empoleon|0 fnt
+|-heal|p2a: Gogoat|360/360|[from] drain|[of] p1a: Empoleon
+|faint|p1a: Empoleon
+|
+|upkeep
+|-message|RothIAstra forfeited.
+|
+|win|liilo
+|raw|RothIAstra's rating: 1452 &rarr; <strong>1434</strong><br />(-18 for losing)
+|raw|liilo's rating: 1487 &rarr; <strong>1505</strong><br />(+18 for winning)
+|l|☆RothIAstra
+|player|p1|

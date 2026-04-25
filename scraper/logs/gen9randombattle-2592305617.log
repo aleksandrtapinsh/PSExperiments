@@ -1,0 +1,443 @@
+|j|☆jherooZzz
+|j|☆Javipe
+|t:|1776977430
+|gametype|singles
+|player|p1|jherooZzz|red|1379
+|player|p2|Javipe|266|1432
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776977430
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Meganium|Meganium, L90, F|290/290
+|switch|p2a: Grimmsnarl|Grimmsnarl, L83, M|293/293
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by jherooZzz)
+|
+|t:|1776977444
+|move|p2a: Grimmsnarl|Thunder Wave|p1a: Meganium|[miss]
+|-miss|p2a: Grimmsnarl|p1a: Meganium
+|move|p1a: Meganium|Knock Off|p2a: Grimmsnarl
+|-resisted|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|273/293
+|-enditem|p2a: Grimmsnarl|Leftovers|[from] move: Knock Off|[of] p1a: Meganium
+|
+|upkeep
+|turn|2
+|
+|t:|1776977459
+|switch|p1a: Iron Thorns|Iron Thorns, L83|302/302
+|-enditem|p1a: Iron Thorns|Booster Energy
+|-activate|p1a: Iron Thorns|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Thorns|quarkdriveatk
+|move|p2a: Grimmsnarl|Thunder Wave|p1a: Iron Thorns|[miss]
+|-miss|p2a: Grimmsnarl|p1a: Iron Thorns
+|
+|upkeep
+|turn|3
+|
+|t:|1776977475
+|move|p2a: Grimmsnarl|Parting Shot|p1a: Iron Thorns
+|-unboost|p1a: Iron Thorns|atk|1
+|-unboost|p1a: Iron Thorns|spa|1
+|
+|t:|1776977487
+|switch|p2a: Swampert|Swampert, L83, F|302/302|[from] Parting Shot
+|move|p1a: Iron Thorns|Dragon Dance|p1a: Iron Thorns
+|-boost|p1a: Iron Thorns|atk|1
+|-boost|p1a: Iron Thorns|spe|1
+|
+|upkeep
+|turn|4
+|
+|t:|1776977508
+|-end|p1a: Iron Thorns|Quark Drive|[silent]
+|switch|p1a: Meganium|Meganium, L90, F|290/290
+|move|p2a: Swampert|Stealth Rock|p1a: Meganium
+|-sidestart|p1: jherooZzz|move: Stealth Rock
+|
+|upkeep
+|turn|5
+|
+|t:|1776977532
+|switch|p2a: Cinderace|Cinderace, L77, M|249/249
+|move|p1a: Meganium|Knock Off|p2a: Cinderace
+|-damage|p2a: Cinderace|170/249
+|-enditem|p2a: Cinderace|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Meganium
+|
+|upkeep
+|turn|6
+|inactive|jherooZzz has 120 seconds left.
+|inactive|Javipe has 120 seconds left.
+|
+|t:|1776977554
+|switch|p1a: Iron Thorns|Iron Thorns, L83|302/302
+|-damage|p1a: Iron Thorns|265/302|[from] Stealth Rock
+|move|p2a: Cinderace|Pyro Ball|p1a: Iron Thorns
+|-resisted|p1a: Iron Thorns
+|-damage|p1a: Iron Thorns|213/302
+|
+|upkeep
+|turn|7
+|inactive|jherooZzz has 120 seconds left.
+|
+|t:|1776977562
+|move|p2a: Cinderace|High Jump Kick|p1a: Iron Thorns
+|-start|p2a: Cinderace|typechange|Fighting|[from] ability: Libero
+|-supereffective|p1a: Iron Thorns
+|-damage|p1a: Iron Thorns|0 fnt
+|faint|p1a: Iron Thorns
+|-end|p1a: Iron Thorns|Quark Drive|[silent]
+|
+|upkeep
+|inactive|jherooZzz has 120 seconds left.
+|
+|t:|1776977580
+|switch|p1a: Giratina|Giratina, L75|349/349
+|-damage|p1a: Giratina|306/349|[from] Stealth Rock
+|-ability|p1a: Giratina|Pressure
+|turn|8
+|inactive|Javipe has 120 seconds left.
+|
+|t:|1776977606
+|move|p2a: Cinderace|U-turn|p1a: Giratina
+|-resisted|p1a: Giratina
+|-damage|p1a: Giratina|286/349
+|
+|t:|1776977608
+|switch|p2a: Grimmsnarl|Grimmsnarl, L83, M|273/293|[from] U-turn
+|move|p1a: Giratina|Calm Mind|p1a: Giratina
+|-boost|p1a: Giratina|spa|1
+|-boost|p1a: Giratina|spd|1
+|
+|-heal|p1a: Giratina|307/349|[from] item: Leftovers
+|upkeep
+|turn|9
+|inactive|jherooZzz has 120 seconds left.
+|inactive|Javipe has 120 seconds left.
+|
+|t:|1776977628
+|switch|p1a: Incineroar|Incineroar, L82, M|290/290
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Grimmsnarl|atk|1
+|move|p2a: Grimmsnarl|Spirit Break|p1a: Incineroar
+|-damage|p1a: Incineroar|232/290
+|-unboost|p1a: Incineroar|spa|1
+|
+|upkeep
+|turn|10
+|inactive|Javipe has 120 seconds left.
+|
+|t:|1776977656
+|switch|p2a: Swampert|Swampert, L83, F|302/302
+|move|p1a: Incineroar|Swords Dance|p1a: Incineroar
+|-boost|p1a: Incineroar|atk|2
+|
+|upkeep
+|turn|11
+|
+|t:|1776977665
+|move|p2a: Swampert|Earthquake|p1a: Incineroar
+|-supereffective|p1a: Incineroar
+|-damage|p1a: Incineroar|0 fnt
+|faint|p1a: Incineroar
+|
+|upkeep
+|
+|t:|1776977676
+|switch|p1a: Lilligant|Lilligant-Hisui, L79, F|240/240
+|-damage|p1a: Lilligant|225/240|[from] Stealth Rock
+|turn|12
+|inactive|Javipe has 120 seconds left.
+|
+|t:|1776977692
+|switch|p2a: Cinderace|Cinderace, L77, M|170/249
+|move|p1a: Lilligant|Victory Dance|p1a: Lilligant
+|-boost|p1a: Lilligant|atk|1
+|-boost|p1a: Lilligant|def|1
+|-boost|p1a: Lilligant|spe|1
+|
+|upkeep
+|turn|13
+|
+|t:|1776977706
+|-terastallize|p1a: Lilligant|Fighting
+|move|p1a: Lilligant|Close Combat|p2a: Cinderace
+|-damage|p2a: Cinderace|0 fnt
+|-unboost|p1a: Lilligant|def|1
+|-unboost|p1a: Lilligant|spd|1
+|faint|p2a: Cinderace
+|-damage|p1a: Lilligant|201/240|[from] item: Life Orb
+|
+|upkeep
+|inactive|Javipe has 90 seconds left.
+|
+|t:|1776977763
+|switch|p2a: Calyrex|Calyrex-Ice, L72|263/263
+|-ability|p2a: Calyrex|As One
+|-ability|p2a: Calyrex|Unnerve
+|turn|14
+|
+|t:|1776977780
+|switch|p1a: Pincurchin|Pincurchin, M|258/258
+|-damage|p1a: Pincurchin|226/258|[from] Stealth Rock
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Pincurchin
+|move|p2a: Calyrex|Agility|p2a: Calyrex
+|-boost|p2a: Calyrex|spe|2
+|
+|-heal|p1a: Pincurchin|242/258|[from] item: Leftovers
+|upkeep
+|turn|15
+|inactive|jherooZzz has 90 seconds left.
+|
+|t:|1776977800
+|move|p2a: Calyrex|High Horsepower|p1a: Pincurchin
+|-supereffective|p1a: Pincurchin
+|-damage|p1a: Pincurchin|118/258
+|move|p1a: Pincurchin|Zing Zap|p2a: Calyrex
+|-damage|p2a: Calyrex|149/263
+|
+|-heal|p1a: Pincurchin|134/258|[from] item: Leftovers
+|upkeep
+|turn|16
+|inactive|jherooZzz has 90 seconds left.
+|
+|t:|1776977816
+|move|p2a: Calyrex|Close Combat|p1a: Pincurchin
+|-damage|p1a: Pincurchin|59/258
+|-unboost|p2a: Calyrex|def|1
+|-unboost|p2a: Calyrex|spd|1
+|move|p1a: Pincurchin|Zing Zap|p2a: Calyrex
+|-damage|p2a: Calyrex|0 fnt
+|faint|p2a: Calyrex
+|
+|-heal|p1a: Pincurchin|75/258|[from] item: Leftovers
+|upkeep
+|inactive|Javipe has 60 seconds left.
+|
+|t:|1776977858
+|switch|p2a: Grimmsnarl|Grimmsnarl, L83, M|273/293
+|turn|17
+|inactive|jherooZzz has 90 seconds left.
+|
+|t:|1776977867
+|move|p2a: Grimmsnarl|Spirit Break|p1a: Pincurchin
+|-damage|p1a: Pincurchin|0 fnt
+|faint|p1a: Pincurchin
+|
+|upkeep
+|inactive|jherooZzz has 90 seconds left.
+|
+|t:|1776977881
+|switch|p1a: Lilligant|Lilligant-Hisui, L79, F, tera:Fighting|201/240
+|-damage|p1a: Lilligant|186/240|[from] Stealth Rock
+|turn|18
+|
+|t:|1776977891
+|move|p1a: Lilligant|Victory Dance|p1a: Lilligant
+|-boost|p1a: Lilligant|atk|1
+|-boost|p1a: Lilligant|def|1
+|-boost|p1a: Lilligant|spe|1
+|move|p2a: Grimmsnarl|Spirit Break|p1a: Lilligant
+|-supereffective|p1a: Lilligant
+|-damage|p1a: Lilligant|34/240
+|-unboost|p1a: Lilligant|spa|1
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|19
+|inactive|jherooZzz has 90 seconds left.
+|
+|t:|1776977919
+|move|p1a: Lilligant|Leaf Blade|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|0 fnt
+|faint|p2a: Grimmsnarl
+|-damage|p1a: Lilligant|10/240|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776977927
+|switch|p2a: Zangoose|Zangoose, L85, F|263/263
+|turn|20
+|inactive|jherooZzz has 90 seconds left.
+|inactive|Javipe has 30 seconds left.
+|inactive|Javipe has 20 seconds left.
+|
+|t:|1776977957
+|switch|p2a: Swampert|Swampert, L83, F|302/302
+|move|p1a: Lilligant|Close Combat|p2a: Swampert
+|-damage|p2a: Swampert|0 fnt
+|-unboost|p1a: Lilligant|def|1
+|-unboost|p1a: Lilligant|spd|1
+|faint|p2a: Swampert
+|-damage|p1a: Lilligant|0 fnt|[from] item: Life Orb
+|faint|p1a: Lilligant
+|
+|upkeep
+|inactive|Javipe has 25 seconds left this turn.
+|inactive|jherooZzz has 90 seconds left.
+|inactive|Javipe has 20 seconds left.
+|inactive|Javipe has 15 seconds left.
+|
+|t:|1776977973
+|switch|p1a: Giratina|Giratina, L75|307/349
+|switch|p2a: Toucannon|Toucannon, L88, F|284/284
+|-damage|p1a: Giratina|264/349|[from] Stealth Rock
+|-ability|p1a: Giratina|Pressure
+|turn|21
+|inactive|Javipe has 25 seconds left this turn.
+|inactive|Javipe has 20 seconds left.
+|
+|t:|1776977986
+|-singleturn|p2a: Toucannon|move: Beak Blast
+|move|p1a: Giratina|Calm Mind|p1a: Giratina
+|-boost|p1a: Giratina|spa|1
+|-boost|p1a: Giratina|spd|1
+|move|p2a: Toucannon|Beak Blast|p1a: Giratina
+|-damage|p1a: Giratina|147/349
+|
+|-heal|p1a: Giratina|168/349|[from] item: Leftovers
+|upkeep
+|turn|22
+|inactive|Javipe has 30 seconds left this turn.
+|inactive|Javipe has 20 seconds left.
+|
+|t:|1776977998
+|-singleturn|p2a: Toucannon|move: Beak Blast
+|move|p1a: Giratina|Rest|p1a: Giratina
+|-status|p1a: Giratina|slp|[from] move: Rest
+|-heal|p1a: Giratina|349/349 slp|[silent]
+|move|p2a: Toucannon|Beak Blast|p1a: Giratina
+|-damage|p1a: Giratina|220/349 slp
+|
+|-heal|p1a: Giratina|241/349 slp|[from] item: Leftovers
+|upkeep
+|turn|23
+|inactive|Javipe has 30 seconds left this turn.
+|inactive|Javipe has 20 seconds left.
+|
+|t:|1776978011
+|-singleturn|p2a: Toucannon|move: Beak Blast
+|cant|p1a: Giratina|slp
+|move|p1a: Giratina|Sleep Talk|p1a: Giratina
+|move|p1a: Giratina|Dragon Pulse|p2a: Toucannon|[from] move: Sleep Talk
+|-damage|p2a: Toucannon|164/284
+|move|p2a: Toucannon|Beak Blast|p1a: Giratina
+|-damage|p1a: Giratina|129/349 slp
+|
+|-heal|p1a: Giratina|150/349 slp|[from] item: Leftovers
+|upkeep
+|turn|24
+|inactive|Javipe has 30 seconds left this turn.
+|
+|t:|1776978027
+|-singleturn|p2a: Toucannon|move: Beak Blast
+|cant|p1a: Giratina|slp
+|move|p2a: Toucannon|Beak Blast|p1a: Giratina
+|-damage|p1a: Giratina|30/349 slp
+|
+|-heal|p1a: Giratina|51/349 slp|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1776978038
+|-singleturn|p2a: Toucannon|move: Beak Blast
+|-curestatus|p1a: Giratina|slp|[msg]
+|move|p1a: Giratina|Rest|p1a: Giratina
+|-status|p1a: Giratina|slp|[from] move: Rest
+|-heal|p1a: Giratina|349/349 slp|[silent]
+|move|p2a: Toucannon|Beak Blast|p1a: Giratina
+|-crit|p1a: Giratina
+|-damage|p1a: Giratina|174/349 slp
+|
+|-heal|p1a: Giratina|195/349 slp|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1776978051
+|-singleturn|p2a: Toucannon|move: Beak Blast
+|cant|p1a: Giratina|slp
+|move|p1a: Giratina|Sleep Talk|p1a: Giratina
+|move|p1a: Giratina|Dragon Pulse|p2a: Toucannon|[from] move: Sleep Talk
+|-damage|p2a: Toucannon|44/284
+|move|p2a: Toucannon|Beak Blast|p1a: Giratina
+|-damage|p1a: Giratina|77/349 slp
+|
+|-heal|p1a: Giratina|98/349 slp|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1776978066
+|-singleturn|p2a: Toucannon|move: Beak Blast
+|cant|p1a: Giratina|slp
+|move|p1a: Giratina|Sleep Talk|p1a: Giratina
+|move|p1a: Giratina|Calm Mind|p1a: Giratina|[from] move: Sleep Talk
+|-boost|p1a: Giratina|spa|1
+|-boost|p1a: Giratina|spd|1
+|move|p2a: Toucannon|Beak Blast|p1a: Giratina
+|-crit|p1a: Giratina
+|-damage|p1a: Giratina|0 fnt
+|faint|p1a: Giratina
+|
+|upkeep
+|
+|t:|1776978079
+|switch|p1a: Meganium|Meganium, L90, F|290/290
+|-damage|p1a: Meganium|254/290|[from] Stealth Rock
+|turn|28
+|
+|t:|1776978088
+|move|p1a: Meganium|Knock Off|p2a: Toucannon
+|-damage|p2a: Toucannon|0 fnt
+|-enditem|p2a: Toucannon|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Meganium
+|faint|p2a: Toucannon
+|
+|-heal|p1a: Meganium|272/290|[from] item: Leftovers
+|upkeep
+|
+|t:|1776978090
+|switch|p2a: Zangoose|Zangoose, L85, F|263/263
+|turn|29
+|inactive|Javipe has 60 seconds left.
+|
+|t:|1776978114
+|-terastallize|p2a: Zangoose|Normal
+|move|p2a: Zangoose|Knock Off|p1a: Meganium
+|-damage|p1a: Meganium|207/290
+|-enditem|p1a: Meganium|Leftovers|[from] move: Knock Off|[of] p2a: Zangoose
+|move|p1a: Meganium|Knock Off|p2a: Zangoose
+|-damage|p2a: Zangoose|167/263
+|-enditem|p2a: Zangoose|Toxic Orb|[from] move: Knock Off|[of] p1a: Meganium
+|
+|upkeep
+|turn|30
+|inactive|Javipe has 60 seconds left.
+|
+|t:|1776978129
+|move|p2a: Zangoose|Swords Dance|p2a: Zangoose
+|-boost|p2a: Zangoose|atk|2
+|move|p1a: Meganium|Energy Ball|p2a: Zangoose
+|-damage|p2a: Zangoose|49/263
+|
+|upkeep
+|turn|31
+|
+|t:|1776978137
+|move|p2a: Zangoose|Close Combat|p1a: Meganium
+|-damage|p1a: Meganium|33/290
+|-unboost|p2a: Zangoose|def|1
+|-unboost|p2a: Zangoose|spd|1
+|move|p1a: Meganium|Energy Ball|p2a: Zangoose
+|-damage|p2a: Zangoose|0 fnt
+|faint|p2a: Zangoose
+|
+|win|jherooZzz
+|raw|jherooZzz's rating: 1379 &rarr; <strong>1402</strong><br />(+23 for winning)
+|raw|Javipe's rating: 1432 &rarr; <strong>1409</strong><br />(-23 for losing)

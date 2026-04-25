@@ -1,0 +1,325 @@
+|j|☆velociblade
+|j|☆Ad3m30w
+|t:|1776974371
+|gametype|singles
+|player|p1|velociblade|266|1347
+|player|p2|Ad3m30w|iono|1339
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776974371
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Incineroar|Incineroar, L82, M|290/290
+|switch|p2a: Gallade|Gallade, L80, M|240/240
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Gallade|atk|1
+|turn|1
+|
+|t:|1776974380
+|move|p1a: Incineroar|Fake Out|p2a: Gallade
+|-damage|p2a: Gallade|198/240
+|cant|p2a: Gallade|flinch
+|
+|upkeep
+|turn|2
+|
+|t:|1776974394
+|switch|p1a: Corviknight|Corviknight, L80, F|288/288
+|move|p2a: Gallade|Sacred Sword|p1a: Corviknight
+|-damage|p1a: Corviknight|154/288
+|-damage|p2a: Gallade|158/240|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|-damage|p2a: Gallade|134/240|[from] item: Life Orb
+|
+|upkeep
+|turn|3
+|
+|t:|1776974403
+|switch|p2a: Alomomola|Alomomola, L87, M|429/429
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|288/288
+|-singleturn|p1a: Corviknight|move: Roost
+|
+|upkeep
+|turn|4
+|
+|t:|1776974420
+|move|p2a: Alomomola|Scald|p1a: Corviknight
+|-damage|p1a: Corviknight|233/288
+|-status|p1a: Corviknight|brn
+|move|p1a: Corviknight|Defog|p2a: Alomomola
+|-unboost|p2a: Alomomola|evasion|1
+|
+|-damage|p1a: Corviknight|215/288 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1776974435
+|switch|p1a: Revavroom|Revavroom, L79, F|256/256
+|move|p2a: Alomomola|Scald|p1a: Revavroom
+|-damage|p1a: Revavroom|190/256
+|
+|upkeep
+|turn|6
+|
+|t:|1776974447
+|move|p1a: Revavroom|Gunk Shot|p2a: Alomomola
+|-damage|p2a: Alomomola|260/429
+|-damage|p1a: Revavroom|165/256|[from] item: Life Orb
+|move|p2a: Alomomola|Scald|p1a: Revavroom
+|-damage|p1a: Revavroom|98/256
+|
+|-heal|p2a: Alomomola|286/429|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776974457
+|move|p1a: Revavroom|Gunk Shot|p2a: Alomomola
+|-damage|p2a: Alomomola|114/429
+|-damage|p1a: Revavroom|73/256|[from] item: Life Orb
+|move|p2a: Alomomola|Wish|p2a: Alomomola
+|
+|-heal|p2a: Alomomola|140/429|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776974466
+|move|p1a: Revavroom|Shift Gear|p1a: Revavroom
+|-boost|p1a: Revavroom|spe|2
+|-boost|p1a: Revavroom|atk|1
+|move|p2a: Alomomola|Scald|p1a: Revavroom
+|-damage|p1a: Revavroom|9/256
+|-status|p1a: Revavroom|brn
+|
+|-heal|p2a: Alomomola|354/429|[from] move: Wish|[wisher] Alomomola
+|-heal|p2a: Alomomola|380/429|[from] item: Leftovers
+|-damage|p1a: Revavroom|0 fnt|[from] brn
+|faint|p1a: Revavroom
+|upkeep
+|
+|t:|1776974481
+|switch|p1a: Umbreon|Umbreon, L84, F|297/297
+|turn|9
+|
+|t:|1776974486
+|move|p2a: Alomomola|Scald|p1a: Umbreon
+|-damage|p1a: Umbreon|261/297
+|-status|p1a: Umbreon|brn
+|-activate|p1a: Umbreon|ability: Synchronize
+|-status|p2a: Alomomola|brn
+|move|p1a: Umbreon|Toxic||[still]
+|-fail|p1a: Umbreon
+|
+|-heal|p2a: Alomomola|406/429 brn|[from] item: Leftovers
+|-heal|p1a: Umbreon|279/297 brn|[from] item: Leftovers
+|-damage|p2a: Alomomola|380/429 brn|[from] brn
+|-damage|p1a: Umbreon|261/297 brn|[from] brn
+|upkeep
+|turn|10
+|c|☆Ad3m30w|PFFFFFT
+|c|☆Ad3m30w|The fish of pain and suffering
+|
+|t:|1776974509
+|move|p2a: Alomomola|Scald|p1a: Umbreon
+|-damage|p1a: Umbreon|224/297 brn
+|move|p1a: Umbreon|Wish|p1a: Umbreon
+|
+|-heal|p2a: Alomomola|406/429 brn|[from] item: Leftovers
+|-heal|p1a: Umbreon|242/297 brn|[from] item: Leftovers
+|-damage|p2a: Alomomola|380/429 brn|[from] brn
+|-damage|p1a: Umbreon|224/297 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1776974521
+|switch|p1a: Incineroar|Incineroar, L82, M|290/290
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Alomomola|atk|1
+|move|p2a: Alomomola|Scald|p1a: Incineroar
+|-supereffective|p1a: Incineroar
+|-damage|p1a: Incineroar|224/290
+|
+|-heal|p1a: Incineroar|290/290|[from] move: Wish|[wisher] Umbreon
+|-heal|p2a: Alomomola|406/429 brn|[from] item: Leftovers
+|-damage|p2a: Alomomola|380/429 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1776974537
+|-terastallize|p1a: Incineroar|Water
+|move|p2a: Alomomola|Protect|p2a: Alomomola
+|-singleturn|p2a: Alomomola|Protect
+|move|p1a: Incineroar|Knock Off|p2a: Alomomola
+|-activate|p2a: Alomomola|move: Protect
+|
+|-heal|p2a: Alomomola|406/429 brn|[from] item: Leftovers
+|-damage|p2a: Alomomola|380/429 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1776974565
+|switch|p2a: Bastiodon|Bastiodon, L89, M|252/252
+|move|p1a: Incineroar|Knock Off|p2a: Bastiodon
+|-damage|p2a: Bastiodon|192/252
+|-enditem|p2a: Bastiodon|Chesto Berry|[from] move: Knock Off|[of] p1a: Incineroar
+|
+|upkeep
+|turn|14
+|
+|t:|1776974576
+|move|p1a: Incineroar|U-turn|p2a: Bastiodon
+|-resisted|p2a: Bastiodon
+|-damage|p2a: Bastiodon|178/252
+|
+|t:|1776974589
+|switch|p1a: Flamigo|Flamigo, L82, F|269/269|[from] U-turn
+|move|p2a: Bastiodon|Iron Defense|p2a: Bastiodon
+|-boost|p2a: Bastiodon|def|2
+|
+|upkeep
+|turn|15
+|
+|t:|1776974604
+|switch|p2a: Latias|Latias, L79, F|256/256
+|move|p1a: Flamigo|Swords Dance|p1a: Flamigo
+|-boost|p1a: Flamigo|atk|2
+|
+|upkeep
+|turn|16
+|
+|t:|1776974612
+|move|p2a: Latias|Psyshock|p1a: Flamigo
+|-supereffective|p1a: Flamigo
+|-damage|p1a: Flamigo|57/269
+|move|p1a: Flamigo|Brave Bird|p2a: Latias
+|-damage|p2a: Latias|0 fnt
+|faint|p2a: Latias
+|-damage|p1a: Flamigo|0 fnt|[from] Recoil
+|faint|p1a: Flamigo
+|
+|upkeep
+|
+|t:|1776974623
+|switch|p2a: Alomomola|Alomomola, L87, M|429/429 brn
+|switch|p1a: Terapagos|Terapagos, L77, M|265/265
+|-activate|p1a: Terapagos|ability: Tera Shift
+|detailschange|p1a: Terapagos|Terapagos-Terastal, L77, M
+|-heal|p1a: Terapagos|273/273|[silent]
+|turn|17
+|
+|t:|1776974636
+|move|p1a: Terapagos|Calm Mind|p1a: Terapagos
+|-boost|p1a: Terapagos|spa|1
+|-boost|p1a: Terapagos|spd|1
+|move|p2a: Alomomola|Flip Turn|p1a: Terapagos
+|-activate|p1a: Terapagos|ability: Tera Shell
+|-resisted|p1a: Terapagos
+|-damage|p1a: Terapagos|261/273
+|
+|t:|1776974638
+|switch|p2a: Gallade|Gallade, L80, M|134/240|[from] Flip Turn
+|
+|upkeep
+|turn|18
+|
+|t:|1776974653
+|move|p1a: Terapagos|Calm Mind|p1a: Terapagos
+|-boost|p1a: Terapagos|spa|1
+|-boost|p1a: Terapagos|spd|1
+|move|p2a: Gallade|Sacred Sword|p1a: Terapagos
+|-supereffective|p1a: Terapagos
+|-damage|p1a: Terapagos|0 fnt
+|faint|p1a: Terapagos
+|-damage|p2a: Gallade|110/240|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776974662
+|switch|p1a: Incineroar|Incineroar, L82, M, tera:Water|290/290
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Gallade|atk|1
+|turn|19
+|c|☆Ad3m30w|Greed 🥀 (sorry)
+|
+|t:|1776974672
+|move|p1a: Incineroar|Fake Out|p2a: Gallade
+|-damage|p2a: Gallade|69/240
+|cant|p2a: Gallade|flinch
+|
+|upkeep
+|turn|20
+|
+|t:|1776974678
+|move|p2a: Gallade|Sacred Sword|p1a: Incineroar
+|-damage|p1a: Incineroar|154/290
+|-damage|p2a: Gallade|45/240|[from] item: Life Orb
+|move|p1a: Incineroar|Knock Off|p2a: Gallade
+|-damage|p2a: Gallade|0 fnt
+|-enditem|p2a: Gallade|Life Orb|[from] move: Knock Off|[of] p1a: Incineroar
+|faint|p2a: Gallade
+|
+|upkeep
+|
+|t:|1776974688
+|switch|p2a: Bastiodon|Bastiodon, L89, M|178/252
+|turn|21
+|
+|t:|1776974695
+|move|p1a: Incineroar|Overheat|p2a: Bastiodon
+|-damage|p2a: Bastiodon|102/252
+|-unboost|p1a: Incineroar|spa|2
+|move|p2a: Bastiodon|Iron Defense|p2a: Bastiodon
+|-boost|p2a: Bastiodon|def|2
+|
+|upkeep
+|turn|22
+|
+|t:|1776974705
+|move|p1a: Incineroar|U-turn|p2a: Bastiodon
+|-resisted|p2a: Bastiodon
+|-damage|p2a: Bastiodon|95/252
+|
+|t:|1776974711
+|switch|p1a: Umbreon|Umbreon, L84, F|224/297 brn|[from] U-turn
+|move|p2a: Bastiodon|Iron Defense|p2a: Bastiodon
+|-boost|p2a: Bastiodon|def|2
+|
+|-heal|p1a: Umbreon|242/297 brn|[from] item: Leftovers
+|-damage|p1a: Umbreon|224/297 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1776974724
+|move|p1a: Umbreon|Wish|p1a: Umbreon
+|move|p2a: Bastiodon|Rest|p2a: Bastiodon
+|-status|p2a: Bastiodon|slp|[from] move: Rest
+|-heal|p2a: Bastiodon|252/252 slp|[silent]
+|
+|-heal|p1a: Umbreon|242/297 brn|[from] item: Leftovers
+|-damage|p1a: Umbreon|224/297 brn|[from] brn
+|upkeep
+|turn|24
+|
+|t:|1776974734
+|move|p1a: Umbreon|Foul Play|p2a: Bastiodon
+|-damage|p2a: Bastiodon|248/252 slp
+|cant|p2a: Bastiodon|slp
+|
+|-heal|p1a: Umbreon|297/297 brn|[from] move: Wish|[wisher] Umbreon
+|-damage|p1a: Umbreon|279/297 brn|[from] brn
+|upkeep
+|turn|25
+|c|☆Ad3m30w|The steel type of pain and suffering
+|-message|velociblade forfeited.
+|
+|win|Ad3m30w
+|raw|velociblade's rating: 1347 &rarr; <strong>1327</strong><br />(-20 for losing)
+|raw|Ad3m30w's rating: 1339 &rarr; <strong>1359</strong><br />(+20 for winning)
+|l|☆velociblade
+|player|p1|

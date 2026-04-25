@@ -1,0 +1,188 @@
+|j|☆What did i do bro
+|j|☆hdjwotncbs
+|t:|1776981661
+|gametype|singles
+|player|p1|What did i do bro|101|1000
+|player|p2|hdjwotncbs|101|1035
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776981661
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Comfey|Comfey, L85, M|225/225
+|switch|p2a: Iron Crown|Iron Crown, L78|268/268
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by hdjwotncbs)
+|
+|t:|1776981681
+|switch|p1a: Arcanine|Arcanine-Hisui, L79, M|280/280
+|-terastallize|p2a: Iron Crown|Steel
+|move|p2a: Iron Crown|Tachyon Cutter|p1a: Arcanine
+|-damage|p1a: Arcanine|148/280
+|-damage|p1a: Arcanine|28/280
+|-hitcount|p1a: Arcanine|2
+|
+|upkeep
+|turn|2
+|
+|t:|1776981693
+|move|p2a: Iron Crown|Tachyon Cutter|p1a: Arcanine
+|-damage|p1a: Arcanine|0 fnt
+|faint|p1a: Arcanine
+|-hitcount|p1: Arcanine|1
+|
+|upkeep
+|
+|t:|1776981701
+|switch|p1a: Comfey|Comfey, L85, M|225/225
+|turn|3
+|
+|t:|1776981705
+|move|p1a: Comfey|Calm Mind|p1a: Comfey
+|-boost|p1a: Comfey|spa|1
+|-boost|p1a: Comfey|spd|1
+|move|p2a: Iron Crown|Tachyon Cutter|p1a: Comfey
+|-supereffective|p1a: Comfey
+|-damage|p1a: Comfey|101/225
+|-supereffective|p1a: Comfey
+|-damage|p1a: Comfey|0 fnt
+|faint|p1a: Comfey
+|-hitcount|p1: Comfey|2
+|
+|upkeep
+|
+|t:|1776981714
+|switch|p1a: Scream Tail|Scream Tail, L84|330/330
+|turn|4
+|
+|t:|1776981720
+|move|p1a: Scream Tail|Protect|p1a: Scream Tail
+|-singleturn|p1a: Scream Tail|Protect
+|move|p2a: Iron Crown|Tachyon Cutter|p1a: Scream Tail
+|-activate|p1a: Scream Tail|move: Protect
+|
+|upkeep
+|turn|5
+|
+|t:|1776981726
+|move|p1a: Scream Tail|Wish|p1a: Scream Tail
+|move|p2a: Iron Crown|Tachyon Cutter|p1a: Scream Tail
+|-supereffective|p1a: Scream Tail
+|-damage|p1a: Scream Tail|142/330
+|-supereffective|p1a: Scream Tail
+|-damage|p1a: Scream Tail|0 fnt
+|faint|p1a: Scream Tail
+|-end|p1a: Scream Tail|Protosynthesis|[silent]
+|-hitcount|p1: Scream Tail|2
+|
+|upkeep
+|
+|t:|1776981734
+|switch|p1a: Crabominable|Crabominable, L90, F|321/321
+|turn|6
+|
+|t:|1776981739
+|move|p2a: Iron Crown|Tachyon Cutter|p1a: Crabominable
+|-supereffective|p1a: Crabominable
+|-damage|p1a: Crabominable|137/321
+|-supereffective|p1a: Crabominable
+|-damage|p1a: Crabominable|0 fnt
+|faint|p1a: Crabominable
+|-hitcount|p1: Crabominable|2
+|
+|upkeep
+|
+|t:|1776981747
+|switch|p1a: Grafaiai|Grafaiai, L86, F|249/249
+|turn|7
+|
+|t:|1776981752
+|move|p1a: Grafaiai|Knock Off|p2a: Iron Crown
+|-damage|p2a: Iron Crown|204/268
+|-enditem|p2a: Iron Crown|Choice Specs|[from] move: Knock Off|[of] p1a: Grafaiai
+|move|p2a: Iron Crown|Tachyon Cutter|p1a: Grafaiai
+|-damage|p1a: Grafaiai|191/249
+|-damage|p1a: Grafaiai|139/249
+|-hitcount|p1a: Grafaiai|2
+|
+|upkeep
+|turn|8
+|
+|t:|1776981766
+|move|p1a: Grafaiai|Super Fang|p2a: Iron Crown
+|-damage|p2a: Iron Crown|102/268
+|move|p2a: Iron Crown|Psyshock|p1a: Grafaiai
+|-supereffective|p1a: Grafaiai
+|-damage|p1a: Grafaiai|0 fnt
+|faint|p1a: Grafaiai
+|
+|upkeep
+|
+|t:|1776981773
+|switch|p1a: Arceus|Arceus-Electric, L70|284/284
+|turn|9
+|
+|t:|1776981782
+|move|p1a: Arceus|Judgment|p2a: Iron Crown
+|-damage|p2a: Iron Crown|0 fnt
+|faint|p2a: Iron Crown
+|-end|p2a: Iron Crown|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1776981789
+|switch|p2a: Indeedee|Indeedee-F, L90, F|272/272
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Indeedee
+|turn|10
+|
+|t:|1776981798
+|move|p1a: Arceus|Judgment|p2a: Indeedee
+|-damage|p2a: Indeedee|190/272
+|move|p2a: Indeedee|Hyper Voice|p1a: Arceus
+|-damage|p1a: Arceus|140/284
+|-damage|p2a: Indeedee|163/272|[from] item: Life Orb
+|
+|upkeep
+|turn|11
+|
+|t:|1776981807
+|-terastallize|p1a: Arceus|Ice
+|move|p1a: Arceus|Recover|p1a: Arceus
+|-heal|p1a: Arceus|282/284
+|move|p2a: Indeedee|Hyper Voice|p1a: Arceus
+|-damage|p1a: Arceus|153/284
+|-damage|p2a: Indeedee|136/272|[from] item: Life Orb
+|
+|upkeep
+|turn|12
+|
+|t:|1776981821
+|move|p1a: Arceus|Ice Beam|p2a: Indeedee
+|-damage|p2a: Indeedee|63/272
+|move|p2a: Indeedee|Psyshock|p1a: Arceus
+|-damage|p1a: Arceus|11/284
+|-damage|p2a: Indeedee|36/272|[from] item: Life Orb
+|
+|upkeep
+|turn|13
+|
+|t:|1776981828
+|move|p1a: Arceus|Recover|p1a: Arceus
+|-heal|p1a: Arceus|153/284
+|move|p2a: Indeedee|Psyshock|p1a: Arceus
+|-damage|p1a: Arceus|0 fnt
+|faint|p1a: Arceus
+|-damage|p2a: Indeedee|9/272|[from] item: Life Orb
+|
+|win|hdjwotncbs
+|raw|What did i do bro's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|raw|hdjwotncbs's rating: 1035 &rarr; <strong>1066</strong><br />(+31 for winning)
+|l|☆What did i do bro
+|player|p1|

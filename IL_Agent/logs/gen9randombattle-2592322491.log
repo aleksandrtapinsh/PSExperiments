@@ -1,0 +1,352 @@
+|j|☆clownron
+|j|☆Cboro
+|t:|1776978780
+|gametype|singles
+|player|p1|clownron|brycenman|
+|player|p2|Cboro|clair|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776978780
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Rhyperior|Rhyperior, L82, F|323/323
+|switch|p2a: Tatsugiri|Tatsugiri, L87, F|260/260
+|turn|1
+|
+|t:|1776978800
+|move|p2a: Tatsugiri|Surf|p1a: Rhyperior
+|-supereffective|p1a: Rhyperior
+|-damage|p1a: Rhyperior|0 fnt
+|faint|p1a: Rhyperior
+|
+|upkeep
+|
+|t:|1776978832
+|switch|p1a: Toxapex|Toxapex, L82, M|216/216
+|turn|2
+|
+|t:|1776978841
+|move|p2a: Tatsugiri|Nasty Plot|p2a: Tatsugiri
+|-boost|p2a: Tatsugiri|spa|2
+|move|p1a: Toxapex|Toxic|p2a: Tatsugiri
+|-status|p2a: Tatsugiri|tox
+|
+|-damage|p2a: Tatsugiri|244/260 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1776978860
+|move|p2a: Tatsugiri|Nasty Plot|p2a: Tatsugiri
+|-boost|p2a: Tatsugiri|spa|2
+|move|p1a: Toxapex|Haze|p1a: Toxapex
+|-clearallboost
+|
+|-damage|p2a: Tatsugiri|212/260 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1776978886
+|switch|p2a: Mudsdale|Mudsdale, L83, F|302/302
+|switch|p1a: Pikachu|Pikachu-Hoenn, L93, F|216/216
+|
+|upkeep
+|turn|5
+|
+|t:|1776978895
+|move|p1a: Pikachu|Surf|p2a: Mudsdale
+|-supereffective|p2a: Mudsdale
+|-damage|p2a: Mudsdale|96/302
+|-ability|p2a: Mudsdale|Stamina|boost
+|-boost|p2a: Mudsdale|def|1
+|move|p2a: Mudsdale|Earthquake|p1a: Pikachu
+|-supereffective|p1a: Pikachu
+|-damage|p1a: Pikachu|0 fnt
+|faint|p1a: Pikachu
+|
+|-heal|p2a: Mudsdale|114/302|[from] item: Leftovers
+|upkeep
+|
+|t:|1776978913
+|switch|p1a: Medicham|Medicham, L86, M|243/243
+|turn|6
+|
+|t:|1776978935
+|switch|p2a: Altaria|Altaria, L89, F|278/278
+|move|p1a: Medicham|Close Combat|p2a: Altaria
+|-resisted|p2a: Altaria
+|-damage|p2a: Altaria|143/278
+|-unboost|p1a: Medicham|def|1
+|-unboost|p1a: Medicham|spd|1
+|
+|upkeep
+|turn|7
+|
+|t:|1776978949
+|switch|p1a: Toxapex|Toxapex, L82, M|216/216
+|move|p2a: Altaria|Will-O-Wisp|p1a: Toxapex
+|-status|p1a: Toxapex|brn
+|
+|-damage|p1a: Toxapex|203/216 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1776978971
+|move|p2a: Altaria|Roost|p2a: Altaria
+|-heal|p2a: Altaria|278/278
+|-singleturn|p2a: Altaria|move: Roost
+|move|p1a: Toxapex|Toxic|p2a: Altaria
+|-status|p2a: Altaria|tox
+|
+|-damage|p2a: Altaria|261/278 tox|[from] psn
+|-damage|p1a: Toxapex|190/216 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1776978996
+|switch|p1a: Crabominable|Crabominable, L90, M|321/321
+|move|p2a: Altaria|Brave Bird|p1a: Crabominable
+|-supereffective|p1a: Crabominable
+|-damage|p1a: Crabominable|111/321
+|-damage|p2a: Altaria|192/278 tox|[from] Recoil
+|
+|-damage|p2a: Altaria|158/278 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1776979012
+|switch|p1a: Toxapex|Toxapex, L82, M|216/216 brn
+|move|p2a: Altaria|Brave Bird|p1a: Toxapex
+|-damage|p1a: Toxapex|143/216 brn
+|-damage|p2a: Altaria|112/278 tox|[from] item: Rocky Helmet|[of] p1a: Toxapex
+|-damage|p2a: Altaria|88/278 tox|[from] Recoil
+|
+|-damage|p2a: Altaria|37/278 tox|[from] psn
+|-damage|p1a: Toxapex|130/216 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1776979027
+|move|p2a: Altaria|Roost|p2a: Altaria
+|-heal|p2a: Altaria|176/278 tox
+|-singleturn|p2a: Altaria|move: Roost
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|216/216 brn
+|
+|-damage|p2a: Altaria|108/278 tox|[from] psn
+|-damage|p1a: Toxapex|203/216 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1776979040
+|-curestatus|p2a: Altaria|tox|[from] ability: Natural Cure
+|switch|p2a: Mudsdale|Mudsdale, L83, F|114/302
+|move|p1a: Toxapex|Toxic|p2a: Mudsdale
+|-status|p2a: Mudsdale|tox
+|
+|-heal|p2a: Mudsdale|132/302 tox|[from] item: Leftovers
+|-damage|p2a: Mudsdale|114/302 tox|[from] psn
+|-damage|p1a: Toxapex|190/216 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1776979082
+|move|p2a: Mudsdale|Earthquake|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|32/216 brn
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|140/216 brn
+|
+|-heal|p2a: Mudsdale|132/302 tox|[from] item: Leftovers
+|-damage|p2a: Mudsdale|96/302 tox|[from] psn
+|-damage|p1a: Toxapex|127/216 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1776979097
+|switch|p1a: Maushold|Maushold-Four, L76|238/238
+|move|p2a: Mudsdale|Earthquake|p1a: Maushold
+|-damage|p1a: Maushold|79/238
+|
+|-heal|p2a: Mudsdale|114/302 tox|[from] item: Leftovers
+|-damage|p2a: Mudsdale|60/302 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1776979120
+|switch|p2a: Farigiraf|Farigiraf, L90, M|362/362
+|move|p1a: Maushold|Population Bomb|p2a: Farigiraf
+|-damage|p2a: Farigiraf|335/362
+|-damage|p2a: Farigiraf|311/362
+|-damage|p2a: Farigiraf|286/362
+|-damage|p2a: Farigiraf|262/362
+|-damage|p2a: Farigiraf|235/362
+|-damage|p2a: Farigiraf|210/362
+|-damage|p2a: Farigiraf|186/362
+|-damage|p2a: Farigiraf|159/362
+|-damage|p2a: Farigiraf|134/362
+|-damage|p2a: Farigiraf|110/362
+|-hitcount|p2a: Farigiraf|10
+|
+|-heal|p2a: Farigiraf|132/362|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776979151
+|move|p1a: Maushold|Population Bomb|p2a: Farigiraf
+|-damage|p2a: Farigiraf|108/362
+|-hitcount|p2a: Farigiraf|1
+|move|p2a: Farigiraf|Psychic Noise|p1a: Maushold
+|-damage|p1a: Maushold|0 fnt
+|faint|p1a: Maushold
+|
+|-heal|p2a: Farigiraf|130/362|[from] item: Leftovers
+|upkeep
+|
+|t:|1776979163
+|switch|p1a: Medicham|Medicham, L86, M|243/243
+|turn|17
+|
+|t:|1776979222
+|switch|p2a: Toucannon|Toucannon, L88, M|284/284
+|move|p1a: Medicham|Close Combat|p2a: Toucannon
+|-damage|p2a: Toucannon|1/284
+|-unboost|p1a: Medicham|def|1
+|-unboost|p1a: Medicham|spd|1
+|
+|upkeep
+|turn|18
+|
+|t:|1776979255
+|-singleturn|p2a: Toucannon|move: Beak Blast
+|move|p1a: Medicham|Close Combat|p2a: Toucannon
+|-damage|p2a: Toucannon|0 fnt
+|-status|p1a: Medicham|brn
+|-unboost|p1a: Medicham|def|1
+|-unboost|p1a: Medicham|spd|1
+|faint|p2a: Toucannon
+|
+|-damage|p1a: Medicham|228/243 brn|[from] brn
+|upkeep
+|
+|t:|1776979287
+|switch|p2a: Altaria|Altaria, L89, F|108/278
+|turn|19
+|
+|t:|1776979294
+|switch|p1a: Crabominable|Crabominable, L90, M|111/321
+|move|p2a: Altaria|Roost|p2a: Altaria
+|-heal|p2a: Altaria|247/278
+|-singleturn|p2a: Altaria|move: Roost
+|
+|upkeep
+|turn|20
+|
+|t:|1776979303
+|move|p2a: Altaria|Brave Bird|p1a: Crabominable
+|-supereffective|p1a: Crabominable
+|-damage|p1a: Crabominable|0 fnt
+|faint|p1a: Crabominable
+|-damage|p2a: Altaria|210/278|[from] Recoil
+|
+|upkeep
+|
+|t:|1776979311
+|switch|p1a: Toxapex|Toxapex, L82, M|199/216 brn
+|turn|21
+|
+|t:|1776979316
+|move|p2a: Altaria|Brave Bird|p1a: Toxapex
+|-damage|p1a: Toxapex|124/216 brn
+|-damage|p2a: Altaria|164/278|[from] item: Rocky Helmet|[of] p1a: Toxapex
+|-damage|p2a: Altaria|139/278|[from] Recoil
+|move|p1a: Toxapex|Toxic|p2a: Altaria
+|-status|p2a: Altaria|tox
+|
+|-damage|p2a: Altaria|122/278 tox|[from] psn
+|-damage|p1a: Toxapex|111/216 brn|[from] brn
+|upkeep
+|turn|22
+|
+|t:|1776979354
+|-curestatus|p2a: Altaria|tox|[from] ability: Natural Cure
+|switch|p2a: Tatsugiri|Tatsugiri, L87, F|212/260 tox
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|216/216 brn
+|
+|-damage|p2a: Tatsugiri|196/260 tox|[from] psn
+|-damage|p1a: Toxapex|203/216 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1776979368
+|switch|p1a: Medicham|Medicham, L86, M|228/243 brn
+|move|p2a: Tatsugiri|Draco Meteor|p1a: Medicham
+|-damage|p1a: Medicham|48/243 brn
+|-unboost|p2a: Tatsugiri|spa|2
+|
+|-damage|p2a: Tatsugiri|164/260 tox|[from] psn
+|-damage|p1a: Medicham|33/243 brn|[from] brn
+|upkeep
+|turn|24
+|
+|t:|1776979382
+|move|p2a: Tatsugiri|Surf|p1a: Medicham
+|-damage|p1a: Medicham|0 fnt
+|faint|p1a: Medicham
+|
+|-damage|p2a: Tatsugiri|116/260 tox|[from] psn
+|upkeep
+|
+|t:|1776979388
+|switch|p1a: Toxapex|Toxapex, L82, M|216/216 brn
+|turn|25
+|
+|t:|1776979397
+|switch|p2a: Farigiraf|Farigiraf, L90, M|130/362
+|move|p1a: Toxapex|Liquidation|p2a: Farigiraf
+|-damage|p2a: Farigiraf|93/362
+|
+|-heal|p2a: Farigiraf|115/362|[from] item: Leftovers
+|-damage|p1a: Toxapex|203/216 brn|[from] brn
+|upkeep
+|turn|26
+|
+|t:|1776979409
+|move|p2a: Farigiraf|Psychic Noise|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|57/216 brn
+|-start|p1a: Toxapex|move: Heal Block
+|move|p1a: Toxapex|Toxic|p2a: Farigiraf
+|-status|p2a: Farigiraf|tox
+|
+|-heal|p2a: Farigiraf|137/362 tox|[from] item: Leftovers
+|-damage|p2a: Farigiraf|115/362 tox|[from] psn
+|-damage|p1a: Toxapex|44/216 brn|[from] brn
+|upkeep
+|turn|27
+|
+|t:|1776979426
+|switch|p2a: Entei|Entei, L78|307/307
+|move|p1a: Toxapex|Liquidation|p2a: Entei
+|-supereffective|p2a: Entei
+|-damage|p2a: Entei|237/307
+|
+|-damage|p1a: Toxapex|31/216 brn|[from] brn
+|-end|p1a: Toxapex|move: Heal Block
+|upkeep
+|turn|28
+|
+|t:|1776979443
+|-terastallize|p2a: Entei|Normal
+|move|p2a: Entei|Extreme Speed|p1a: Toxapex
+|-damage|p1a: Toxapex|0 fnt
+|-damage|p2a: Entei|186/307|[from] item: Rocky Helmet|[of] p1a: Toxapex
+|faint|p1a: Toxapex
+|
+|win|Cboro

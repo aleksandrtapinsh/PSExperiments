@@ -1,0 +1,383 @@
+|j|☆joshua818
+|j|☆disconnectduewifi
+|t:|1776972229
+|gametype|singles
+|player|p1|joshua818|265|1666
+|player|p2|disconnectduewifi|lucas|1639
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776972229
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Swalot|Swalot, L90, M|326/326
+|switch|p2a: Rhydon|Rhydon, L85, M|317/317
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by joshua818)
+|
+|t:|1776972243
+|switch|p1a: Primarina|Primarina, L83, M|268/268
+|move|p2a: Rhydon|Stone Edge|p1a: Primarina
+|-damage|p1a: Primarina|102/268
+|
+|-heal|p1a: Primarina|118/268|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776972261
+|switch|p2a: Noivern|Noivern, L82, M|274/274
+|move|p1a: Primarina|Sparkling Aria|p2a: Noivern
+|-resisted|p2a: Noivern
+|-damage|p2a: Noivern|216/274
+|
+|-heal|p1a: Primarina|134/268|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776972276
+|switch|p1a: Swalot|Swalot, L90, M|326/326
+|move|p2a: Noivern|Boomburst|p1a: Swalot
+|-damage|p1a: Swalot|201/326
+|
+|-heal|p1a: Swalot|221/326|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776972291
+|switch|p2a: Rhydon|Rhydon, L85, M|317/317
+|move|p1a: Swalot|Knock Off|p2a: Rhydon
+|-damage|p2a: Rhydon|281/317
+|-enditem|p2a: Rhydon|Eviolite|[from] move: Knock Off|[of] p1a: Swalot
+|
+|-heal|p1a: Swalot|241/326|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776972300
+|-terastallize|p1a: Swalot|Ground
+|move|p1a: Swalot|Earthquake|p2a: Rhydon
+|-supereffective|p2a: Rhydon
+|-damage|p2a: Rhydon|137/317
+|move|p2a: Rhydon|Earthquake|p1a: Swalot
+|-damage|p1a: Swalot|94/326
+|
+|-heal|p1a: Swalot|114/326|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776972312
+|switch|p2a: Noivern|Noivern, L82, M|216/274
+|move|p1a: Swalot|Earthquake|p2a: Noivern
+|-immune|p2a: Noivern
+|
+|-heal|p1a: Swalot|134/326|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776972328
+|switch|p1a: Houndstone|Houndstone, L86, F|264/264
+|move|p2a: Noivern|Hurricane|p1a: Houndstone
+|-damage|p1a: Houndstone|122/264
+|
+|upkeep
+|turn|8
+|
+|t:|1776972337
+|move|p1a: Houndstone|Shadow Sneak|p2a: Noivern
+|-damage|p2a: Noivern|140/274
+|move|p2a: Noivern|Hurricane|p1a: Houndstone|[miss]
+|-miss|p2a: Noivern|p1a: Houndstone
+|
+|upkeep
+|turn|9
+|
+|t:|1776972351
+|move|p1a: Houndstone|Shadow Sneak|p2a: Noivern
+|-damage|p2a: Noivern|61/274
+|move|p2a: Noivern|Hurricane|p1a: Houndstone
+|-damage|p1a: Houndstone|0 fnt
+|faint|p1a: Houndstone
+|
+|upkeep
+|
+|t:|1776972357
+|switch|p1a: Raikou|Raikou, L81|278/278
+|-ability|p1a: Raikou|Pressure
+|turn|10
+|
+|t:|1776972385
+|switch|p2a: Torkoal|Torkoal, L88, M|266/266
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|move|p1a: Raikou|Calm Mind|p1a: Raikou
+|-boost|p1a: Raikou|spa|1
+|-boost|p1a: Raikou|spd|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1776972395
+|move|p1a: Raikou|Thunderbolt|p2a: Torkoal
+|-damage|p2a: Torkoal|98/266
+|move|p2a: Torkoal|Earthquake|p1a: Raikou
+|-supereffective|p1a: Raikou
+|-damage|p1a: Raikou|114/278
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Raikou|131/278|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776972409
+|switch|p2a: Rhydon|Rhydon, L85, M|137/317
+|move|p1a: Raikou|Thunderbolt|p2a: Rhydon
+|-ability|p2a: Rhydon|Lightning Rod|boost
+|-boost|p2a: Rhydon|spa|1
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Raikou|148/278|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776972418
+|move|p1a: Raikou|Scald|p2a: Rhydon
+|-supereffective|p2a: Rhydon
+|-damage|p2a: Rhydon|0 fnt
+|faint|p2a: Rhydon
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Raikou|165/278|[from] item: Leftovers
+|upkeep
+|inactive|disconnectduewifi has 120 seconds left.
+|
+|t:|1776972437
+|switch|p2a: Magmortar|Magmortar, L88, F|275/275
+|turn|14
+|
+|t:|1776972450
+|move|p1a: Raikou|Thunderbolt|p2a: Magmortar
+|-damage|p2a: Magmortar|137/275
+|move|p2a: Magmortar|Fire Blast|p1a: Raikou
+|-damage|p1a: Raikou|26/278
+|
+|-weather|none
+|-heal|p1a: Raikou|43/278|[from] item: Leftovers
+|upkeep
+|turn|15
+|inactive|disconnectduewifi has 120 seconds left.
+|
+|t:|1776972466
+|move|p1a: Raikou|Scald|p2a: Magmortar
+|-supereffective|p2a: Magmortar
+|-damage|p2a: Magmortar|0 fnt
+|faint|p2a: Magmortar
+|
+|-heal|p1a: Raikou|60/278|[from] item: Leftovers
+|upkeep
+|inactive|disconnectduewifi has 120 seconds left.
+|
+|t:|1776972475
+|switch|p2a: Noivern|Noivern, L82, M|61/274
+|turn|16
+|
+|t:|1776972480
+|move|p2a: Noivern|Boomburst|p1a: Raikou
+|-crit|p1a: Raikou
+|-damage|p1a: Raikou|0 fnt
+|faint|p1a: Raikou
+|
+|upkeep
+|
+|t:|1776972494
+|switch|p1a: Okidogi|Okidogi, L77, M|262/262
+|turn|17
+|
+|t:|1776972503
+|switch|p2a: Torkoal|Torkoal, L88, M|98/266
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|move|p1a: Okidogi|Knock Off|p2a: Torkoal
+|-damage|p2a: Torkoal|51/266
+|-status|p2a: Torkoal|tox|[from] ability: Toxic Chain|[of] p1a: Okidogi
+|-enditem|p2a: Torkoal|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Okidogi
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Torkoal|35/266 tox|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1776972516
+|move|p1a: Okidogi|Drain Punch|p2a: Torkoal
+|-damage|p2a: Torkoal|0 fnt
+|faint|p2a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1776972531
+|switch|p2a: Noivern|Noivern, L82, M|61/274
+|turn|19
+|
+|t:|1776972539
+|move|p2a: Noivern|Hurricane|p1a: Okidogi
+|-supereffective|p1a: Okidogi
+|-damage|p1a: Okidogi|0 fnt
+|faint|p1a: Okidogi
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1776972544
+|switch|p1a: Quagsire|Quagsire, L84, M|297/297
+|turn|20
+|
+|t:|1776972550
+|switch|p2a: Hatterene|Hatterene, L85, F|236/236
+|move|p1a: Quagsire|Ice Beam|p2a: Hatterene
+|-damage|p2a: Hatterene|190/236
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Hatterene|204/236|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1776972565
+|switch|p1a: Primarina|Primarina, L83, M|134/268
+|move|p2a: Hatterene|Psyshock|p1a: Primarina
+|-damage|p1a: Primarina|0 fnt
+|faint|p1a: Primarina
+|
+|-weather|none
+|-heal|p2a: Hatterene|218/236|[from] item: Leftovers
+|upkeep
+|
+|t:|1776972571
+|switch|p1a: Swalot|Swalot, L90, M, tera:Ground|134/326
+|turn|22
+|
+|t:|1776972594
+|switch|p2a: Noivern|Noivern, L82, M|61/274
+|move|p1a: Swalot|Gunk Shot|p2a: Noivern
+|-damage|p2a: Noivern|0 fnt
+|faint|p2a: Noivern
+|
+|-heal|p1a: Swalot|154/326|[from] item: Leftovers
+|upkeep
+|
+|t:|1776972604
+|switch|p2a: Grimmsnarl|Grimmsnarl, L83, M|293/293
+|turn|23
+|inactive|disconnectduewifi has 120 seconds left.
+|
+|t:|1776972620
+|move|p2a: Grimmsnarl|Light Screen|p2a: Grimmsnarl
+|-sidestart|p2: disconnectduewifi|move: Light Screen
+|move|p1a: Swalot|Earthquake|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|158/293
+|
+|-heal|p1a: Swalot|174/326|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1776972627
+|move|p1a: Swalot|Gunk Shot|p2a: Grimmsnarl|[miss]
+|-miss|p1a: Swalot|p2a: Grimmsnarl
+|move|p2a: Grimmsnarl|Spirit Break|p1a: Swalot
+|-damage|p1a: Swalot|84/326
+|-unboost|p1a: Swalot|spa|1
+|
+|-heal|p1a: Swalot|104/326|[from] item: Leftovers
+|upkeep
+|turn|25
+|inactive|disconnectduewifi has 120 seconds left.
+|
+|t:|1776972647
+|move|p2a: Grimmsnarl|Reflect|p2a: Grimmsnarl
+|-sidestart|p2: disconnectduewifi|Reflect
+|move|p1a: Swalot|Gunk Shot|p2a: Grimmsnarl|[miss]
+|-miss|p1a: Swalot|p2a: Grimmsnarl
+|
+|-heal|p1a: Swalot|124/326|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1776972654
+|move|p1a: Swalot|Gunk Shot|p2a: Grimmsnarl
+|-supereffective|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|10/293
+|move|p2a: Grimmsnarl|Spirit Break|p1a: Swalot
+|-damage|p1a: Swalot|34/326
+|-unboost|p1a: Swalot|spa|1
+|
+|-heal|p1a: Swalot|54/326|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1776972665
+|move|p1a: Swalot|Earthquake|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|0 fnt
+|faint|p2a: Grimmsnarl
+|
+|-heal|p1a: Swalot|74/326|[from] item: Leftovers
+|upkeep
+|c|☆disconnectduewifi|Gg
+|
+|t:|1776972672
+|switch|p2a: Hatterene|Hatterene, L85, F|218/236
+|turn|28
+|inactive|disconnectduewifi has 120 seconds left.
+|
+|t:|1776972691
+|move|p1a: Swalot|Gunk Shot|p2a: Hatterene|[miss]
+|-miss|p1a: Swalot|p2a: Hatterene
+|move|p2a: Hatterene|Draining Kiss|p1a: Swalot
+|-damage|p1a: Swalot|1/326
+|-damage|p2a: Hatterene|163/236|[from] ability: Liquid Ooze|[of] p1a: Swalot
+|
+|-heal|p1a: Swalot|21/326|[from] item: Leftovers
+|-heal|p2a: Hatterene|177/236|[from] item: Leftovers
+|upkeep
+|turn|29
+|inactive|disconnectduewifi has 120 seconds left.
+|
+|t:|1776972701
+|move|p1a: Swalot|Gunk Shot|p2a: Hatterene|[miss]
+|-miss|p1a: Swalot|p2a: Hatterene
+|move|p2a: Hatterene|Mystical Fire|p1a: Swalot
+|-damage|p1a: Swalot|0 fnt
+|faint|p1a: Swalot
+|
+|-heal|p2a: Hatterene|191/236|[from] item: Leftovers
+|upkeep
+|
+|t:|1776972709
+|switch|p1a: Quagsire|Quagsire, L84, M|297/297
+|turn|30
+|c|☆disconnectduewifi|Unfortunate
+|c|☆disconnectduewifi|Misses
+|inactive|disconnectduewifi has 120 seconds left.
+|
+|t:|1776972724
+|-terastallize|p2a: Hatterene|Fairy
+|move|p1a: Quagsire|Earthquake|p2a: Hatterene
+|-damage|p2a: Hatterene|144/236
+|move|p2a: Hatterene|Draining Kiss|p1a: Quagsire
+|-damage|p1a: Quagsire|157/297
+|-heal|p2a: Hatterene|236/236|[from] drain|[of] p1a: Quagsire
+|
+|-heal|p1a: Quagsire|175/297|[from] item: Leftovers
+|-sideend|p2: disconnectduewifi|move: Light Screen
+|upkeep
+|turn|31
+|-message|joshua818 forfeited.
+|
+|win|disconnectduewifi
+|raw|joshua818's rating: 1666 &rarr; <strong>1644</strong><br />(-22 for losing)
+|raw|disconnectduewifi's rating: 1639 &rarr; <strong>1661</strong><br />(+22 for winning)
+|l|☆joshua818
+|player|p1|

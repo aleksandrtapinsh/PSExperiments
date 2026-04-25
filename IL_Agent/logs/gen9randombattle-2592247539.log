@@ -1,0 +1,100 @@
+|j|☆Poscidion
+|j|☆ryank14
+|t:|1776973180
+|gametype|singles
+|player|p1|Poscidion|265|1769
+|player|p2|ryank14|rocketgruntf|1744
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776973180
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Lanturn|Lanturn, L89, F|367/367
+|switch|p2a: Slither Wing|Slither Wing, L81|270/270
+|turn|1
+|
+|t:|1776973191
+|move|p2a: Slither Wing|U-turn|p1a: Lanturn
+|-damage|p1a: Lanturn|259/367
+|
+|t:|1776973196
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|switch|p2a: Cramorant|Cramorant, L86, F|261/261|[from] U-turn
+|move|p1a: Lanturn|Thunder Wave|p2a: Cramorant
+|-status|p2a: Cramorant|par
+|
+|-heal|p1a: Lanturn|281/367|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776973206
+|move|p1a: Lanturn|Thunderbolt|p2a: Cramorant
+|-supereffective|p2a: Cramorant
+|-damage|p2a: Cramorant|0 fnt
+|faint|p2a: Cramorant
+|
+|-heal|p1a: Lanturn|303/367|[from] item: Leftovers
+|upkeep
+|
+|t:|1776973215
+|switch|p2a: Regidrago|Regidrago, L77|435/435
+|turn|3
+|
+|t:|1776973220
+|move|p1a: Lanturn|Thunder Wave|p2a: Regidrago
+|-status|p2a: Regidrago|par
+|-enditem|p2a: Regidrago|Lum Berry|[eat]
+|-curestatus|p2a: Regidrago|par|[msg]
+|move|p2a: Regidrago|Dragon Dance|p2a: Regidrago
+|-boost|p2a: Regidrago|atk|1
+|-boost|p2a: Regidrago|spe|1
+|
+|-heal|p1a: Lanturn|325/367|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776973228
+|move|p2a: Regidrago|Earthquake|p1a: Lanturn
+|-supereffective|p1a: Lanturn
+|-damage|p1a: Lanturn|91/367
+|move|p1a: Lanturn|Thunder Wave|p2a: Regidrago
+|-status|p2a: Regidrago|par
+|
+|-heal|p1a: Lanturn|113/367|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776973236
+|switch|p1a: Torterra|Torterra, L78, F|276/276
+|move|p2a: Regidrago|Earthquake|p1a: Torterra
+|-resisted|p1a: Torterra
+|-damage|p1a: Torterra|231/276
+|
+|upkeep
+|turn|6
+|
+|t:|1776973241
+|move|p1a: Torterra|Shell Smash|p1a: Torterra
+|-unboost|p1a: Torterra|def|1
+|-unboost|p1a: Torterra|spd|1
+|-boost|p1a: Torterra|atk|2
+|-boost|p1a: Torterra|spa|2
+|-boost|p1a: Torterra|spe|2
+|cant|p2a: Regidrago|par
+|
+|upkeep
+|turn|7
+|-message|ryank14 forfeited.
+|
+|win|Poscidion
+|raw|Poscidion's rating: 1769 &rarr; <strong>1788</strong><br />(+19 for winning)
+|raw|ryank14's rating: 1744 &rarr; <strong>1725</strong><br />(-19 for losing)
+|l|☆ryank14
+|player|p2|

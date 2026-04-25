@@ -1,0 +1,1231 @@
+|j|☆ShadowS3raph
+|j|☆Overlordchao
+|t:|1776984014
+|gametype|singles
+|player|p1|ShadowS3raph|102|1345
+|player|p2|Overlordchao|hilda-wonderlauncher|1330
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776984014
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Exeggutor|Exeggutor-Alola, L89, F|314/314
+|switch|p2a: Iron Leaves|Iron Leaves, L80|275/275
+|-item|p2a: Iron Leaves|Life Orb|[from] ability: Frisk|[of] p1a: Exeggutor
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Overlordchao)
+|
+|t:|1776984034
+|move|p2a: Iron Leaves|Psyblade|p1a: Exeggutor
+|-damage|p1a: Exeggutor|184/314
+|-damage|p2a: Iron Leaves|248/275|[from] item: Life Orb
+|move|p1a: Exeggutor|Flamethrower|p2a: Iron Leaves
+|-supereffective|p2a: Iron Leaves
+|-damage|p2a: Iron Leaves|0 fnt
+|faint|p2a: Iron Leaves
+|-end|p2a: Iron Leaves|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1776984042
+|switch|p2a: Sableye|Sableye, L88, F|231/231
+|turn|2
+|
+|t:|1776984050
+|switch|p1a: Politoed|Politoed, L88, M|302/302
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Politoed
+|move|p2a: Sableye|Knock Off|p1a: Politoed
+|-damage|p1a: Politoed|202/302
+|-enditem|p1a: Politoed|Chesto Berry|[from] move: Knock Off|[of] p2a: Sableye
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1776984060
+|move|p2a: Sableye|Thunder Wave|p1a: Politoed
+|-status|p1a: Politoed|par
+|move|p1a: Politoed|Encore|p2a: Sableye
+|-start|p2a: Sableye|Encore
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1776984074
+|switch|p2a: Barraskewda|Barraskewda, L81, F|231/231
+|cant|p1a: Politoed|par
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1776984086
+|move|p2a: Barraskewda|Throat Chop|p1a: Politoed
+|-damage|p1a: Politoed|104/302 par
+|-start|p1a: Politoed|Throat Chop|[silent]
+|move|p1a: Politoed|Rest|p1a: Politoed
+|-status|p1a: Politoed|slp|[from] move: Rest
+|-heal|p1a: Politoed|302/302 slp|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1776984099
+|switch|p2a: Altaria|Altaria, L89, F|278/278
+|cant|p1a: Politoed|slp
+|
+|-weather|none
+|-end|p1a: Politoed|Throat Chop|[silent]
+|upkeep
+|turn|7
+|
+|t:|1776984102
+|move|p2a: Altaria|Dragon Dance|p2a: Altaria
+|-boost|p2a: Altaria|atk|1
+|-boost|p2a: Altaria|spe|1
+|cant|p1a: Politoed|slp
+|
+|upkeep
+|turn|8
+|
+|t:|1776984109
+|move|p2a: Altaria|Dragon Dance|p2a: Altaria
+|-boost|p2a: Altaria|atk|1
+|-boost|p2a: Altaria|spe|1
+|-curestatus|p1a: Politoed|slp|[msg]
+|move|p1a: Politoed|Ice Beam|p2a: Altaria
+|-supereffective|p2a: Altaria
+|-damage|p2a: Altaria|66/278
+|-status|p2a: Altaria|frz
+|
+|upkeep
+|turn|9
+|
+|t:|1776984113
+|-curestatus|p2a: Altaria|frz|[msg]
+|move|p2a: Altaria|Brave Bird|p1a: Politoed
+|-damage|p1a: Politoed|82/302
+|-damage|p2a: Altaria|0 fnt|[from] Recoil
+|faint|p2a: Altaria
+|move|p1a: Politoed|Ice Beam|p2: Altaria|[notarget]
+|-fail|p1a: Politoed
+|
+|upkeep
+|
+|t:|1776984123
+|switch|p2a: Sableye|Sableye, L88, F|231/231
+|turn|10
+|
+|t:|1776984127
+|move|p1a: Politoed|Surf|p2a: Sableye
+|-damage|p2a: Sableye|120/231
+|move|p2a: Sableye|Knock Off|p1a: Politoed
+|-damage|p1a: Politoed|10/302
+|
+|-heal|p2a: Sableye|134/231|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776984136
+|move|p1a: Politoed|Rest|p1a: Politoed
+|-status|p1a: Politoed|slp|[from] move: Rest
+|-heal|p1a: Politoed|302/302 slp|[silent]
+|move|p2a: Sableye|Knock Off|p1a: Politoed
+|-damage|p1a: Politoed|235/302 slp
+|
+|-heal|p2a: Sableye|148/231|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776984147
+|move|p2a: Sableye|Encore|p1a: Politoed
+|-start|p1a: Politoed|Encore
+|cant|p1a: Politoed|slp
+|
+|-heal|p2a: Sableye|162/231|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776984155
+|switch|p1a: Exeggutor|Exeggutor-Alola, L89, F|184/314
+|-item|p2a: Sableye|Leftovers|[from] ability: Frisk|[of] p1a: Exeggutor
+|switch|p2a: Krookodile|Krookodile, L79, F|280/280
+|-ability|p2a: Krookodile|Intimidate|boost
+|-unboost|p1a: Exeggutor|atk|1
+|
+|upkeep
+|turn|14
+|
+|t:|1776984167
+|-terastallize|p2a: Krookodile|Poison
+|move|p2a: Krookodile|Gunk Shot|p1a: Exeggutor|[miss]
+|-miss|p2a: Krookodile|p1a: Exeggutor
+|move|p1a: Exeggutor|Giga Drain|p2a: Krookodile
+|-resisted|p2a: Krookodile
+|-damage|p2a: Krookodile|181/280
+|-heal|p1a: Exeggutor|234/314|[from] drain|[of] p2a: Krookodile
+|
+|upkeep
+|turn|15
+|
+|t:|1776984183
+|switch|p1a: Politoed|Politoed, L88, M|235/302 slp
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Politoed
+|move|p2a: Krookodile|Knock Off|p1a: Politoed
+|-damage|p1a: Politoed|132/302 slp
+|-damage|p2a: Krookodile|153/280|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1776984193
+|move|p2a: Krookodile|Gunk Shot|p1a: Politoed
+|-damage|p1a: Politoed|0 fnt
+|faint|p1a: Politoed
+|-damage|p2a: Krookodile|125/280|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1776984199
+|switch|p1a: Porygon2|Porygon2, L81|270/270
+|-ability|p1a: Porygon2|Download|boost
+|-boost|p1a: Porygon2|spa|1
+|turn|17
+|
+|t:|1776984203
+|move|p2a: Krookodile|Knock Off|p1a: Porygon2
+|-damage|p1a: Porygon2|183/270
+|-enditem|p1a: Porygon2|Eviolite|[from] move: Knock Off|[of] p2a: Krookodile
+|-damage|p2a: Krookodile|97/280|[from] item: Life Orb
+|move|p1a: Porygon2|Thunder Wave|p2a: Krookodile
+|-status|p2a: Krookodile|par
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1776984211
+|move|p1a: Porygon2|Shadow Ball|p2a: Krookodile
+|-damage|p2a: Krookodile|0 fnt
+|faint|p2a: Krookodile
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1776984217
+|switch|p2a: Sableye|Sableye, L88, F|162/231
+|turn|19
+|
+|t:|1776984220
+|move|p2a: Sableye|Thunder Wave|p1a: Porygon2|[miss]
+|-miss|p2a: Sableye|p1a: Porygon2
+|move|p1a: Porygon2|Thunder Wave|p2a: Sableye|[miss]
+|-miss|p1a: Porygon2|p2a: Sableye
+|
+|-weather|none
+|-heal|p2a: Sableye|176/231|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1776984229
+|move|p2a: Sableye|Thunder Wave|p1a: Porygon2
+|-status|p1a: Porygon2|par
+|move|p1a: Porygon2|Thunder Wave|p2a: Sableye
+|-status|p2a: Sableye|par
+|
+|-heal|p2a: Sableye|190/231 par|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1776984239
+|switch|p1a: Exeggutor|Exeggutor-Alola, L89, F|234/314
+|-item|p2a: Sableye|Leftovers|[from] ability: Frisk|[of] p1a: Exeggutor
+|move|p2a: Sableye|Encore||[still]
+|-fail|p2a: Sableye
+|
+|-heal|p2a: Sableye|204/231 par|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1776984245
+|move|p1a: Exeggutor|Giga Drain|p2a: Sableye
+|-damage|p2a: Sableye|20/231 par
+|-heal|p1a: Exeggutor|314/314|[from] drain|[of] p2a: Sableye
+|move|p2a: Sableye|Knock Off|p1a: Exeggutor
+|-damage|p1a: Exeggutor|223/314
+|-enditem|p1a: Exeggutor|Choice Specs|[from] move: Knock Off|[of] p2a: Sableye
+|
+|-heal|p2a: Sableye|34/231 par|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1776984254
+|move|p2a: Sableye|Recover|p2a: Sableye
+|-heal|p2a: Sableye|150/231 par
+|move|p1a: Exeggutor|Giga Drain|p2a: Sableye
+|-damage|p2a: Sableye|12/231 par
+|-heal|p1a: Exeggutor|292/314|[from] drain|[of] p2a: Sableye
+|
+|-heal|p2a: Sableye|26/231 par|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1776984263
+|move|p2a: Sableye|Thunder Wave|p1a: Exeggutor
+|-status|p1a: Exeggutor|par
+|move|p1a: Exeggutor|Giga Drain|p2a: Sableye
+|-damage|p2a: Sableye|0 fnt
+|-heal|p1a: Exeggutor|305/314 par|[from] drain|[of] p2a: Sableye
+|faint|p2a: Sableye
+|
+|upkeep
+|
+|t:|1776984268
+|switch|p2a: Jirachi|Jirachi, L80|291/291
+|turn|25
+|
+|t:|1776984272
+|move|p2a: Jirachi|Iron Head|p1a: Exeggutor
+|-damage|p1a: Exeggutor|226/314 par
+|cant|p1a: Exeggutor|par
+|
+|upkeep
+|turn|26
+|
+|t:|1776984277
+|move|p2a: Jirachi|Iron Head|p1a: Exeggutor
+|-damage|p1a: Exeggutor|151/314 par
+|cant|p1a: Exeggutor|flinch
+|
+|upkeep
+|turn|27
+|
+|t:|1776984283
+|move|p2a: Jirachi|Iron Head|p1a: Exeggutor
+|-damage|p1a: Exeggutor|70/314 par
+|cant|p1a: Exeggutor|flinch
+|
+|upkeep
+|turn|28
+|
+|t:|1776984289
+|move|p2a: Jirachi|Iron Head|p1a: Exeggutor
+|-damage|p1a: Exeggutor|0 fnt
+|faint|p1a: Exeggutor
+|
+|upkeep
+|
+|t:|1776984306
+|switch|p1a: Porygon2|Porygon2, L81|183/270 par
+|-ability|p1a: Porygon2|Download|boost
+|-boost|p1a: Porygon2|spa|1
+|turn|29
+|
+|t:|1776984317
+|move|p2a: Jirachi|Iron Head|p1a: Porygon2
+|-damage|p1a: Porygon2|105/270 par
+|cant|p1a: Porygon2|flinch
+|
+|upkeep
+|turn|30
+|
+|t:|1776984330
+|move|p2a: Jirachi|Iron Head|p1a: Porygon2
+|-damage|p1a: Porygon2|27/270 par
+|cant|p1a: Porygon2|flinch
+|
+|upkeep
+|turn|31
+|
+|t:|1776984334
+|move|p2a: Jirachi|Iron Head|p1a: Porygon2
+|-damage|p1a: Porygon2|0 fnt
+|faint|p1a: Porygon2
+|
+|upkeep
+|
+|t:|1776984346
+|switch|p1a: Hitmonchan|Hitmonchan, L87, M|229/229
+|turn|32
+|
+|t:|1776984353
+|move|p2a: Jirachi|Body Slam|p1a: Hitmonchan
+|-damage|p1a: Hitmonchan|166/229
+|move|p1a: Hitmonchan|Knock Off|p2a: Jirachi
+|-supereffective|p2a: Jirachi
+|-damage|p2a: Jirachi|131/291
+|-enditem|p2a: Jirachi|Leftovers|[from] move: Knock Off|[of] p1a: Hitmonchan
+|
+|-heal|p1a: Hitmonchan|180/229|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1776984362
+|move|p2a: Jirachi|Wish|p2a: Jirachi
+|move|p1a: Hitmonchan|Drain Punch|p2a: Jirachi
+|-damage|p2a: Jirachi|31/291
+|-heal|p1a: Hitmonchan|229/229|[from] drain|[of] p2a: Jirachi
+|
+|upkeep
+|turn|34
+|
+|t:|1776984368
+|move|p2a: Jirachi|Protect|p2a: Jirachi
+|-singleturn|p2a: Jirachi|Protect
+|move|p1a: Hitmonchan|Rapid Spin|p2a: Jirachi
+|-activate|p2a: Jirachi|move: Protect
+|
+|-heal|p2a: Jirachi|176/291|[from] move: Wish|[wisher] Jirachi
+|upkeep
+|turn|35
+|
+|t:|1776984376
+|move|p2a: Jirachi|Body Slam|p1a: Hitmonchan
+|-damage|p1a: Hitmonchan|164/229
+|-status|p1a: Hitmonchan|par
+|cant|p1a: Hitmonchan|par
+|
+|-heal|p1a: Hitmonchan|178/229 par|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1776984382
+|move|p2a: Jirachi|Iron Head|p1a: Hitmonchan
+|-damage|p1a: Hitmonchan|94/229 par
+|move|p1a: Hitmonchan|Rapid Spin|p2a: Jirachi
+|-resisted|p2a: Jirachi
+|-damage|p2a: Jirachi|156/291
+|-boost|p1a: Hitmonchan|spe|1
+|
+|-heal|p1a: Hitmonchan|108/229 par|[from] item: Leftovers
+|upkeep
+|turn|37
+|
+|t:|1776984386
+|move|p2a: Jirachi|Iron Head|p1a: Hitmonchan
+|-damage|p1a: Hitmonchan|29/229 par
+|move|p1a: Hitmonchan|Rapid Spin|p2a: Jirachi
+|-resisted|p2a: Jirachi
+|-damage|p2a: Jirachi|136/291
+|-boost|p1a: Hitmonchan|spe|1
+|
+|-heal|p1a: Hitmonchan|43/229 par|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|t:|1776984391
+|move|p2a: Jirachi|Iron Head|p1a: Hitmonchan
+|-damage|p1a: Hitmonchan|0 fnt
+|faint|p1a: Hitmonchan
+|
+|upkeep
+|
+|t:|1776984397
+|switch|p1a: Cresselia|Cresselia, L80, F|323/323
+|turn|39
+|
+|t:|1776984413
+|-terastallize|p1a: Cresselia|Steel
+|move|p2a: Jirachi|Wish|p2a: Jirachi
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|
+|upkeep
+|turn|40
+|
+|t:|1776984421
+|move|p2a: Jirachi|Body Slam|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|299/323
+|-status|p1a: Cresselia|par
+|cant|p1a: Cresselia|par
+|
+|-heal|p2a: Jirachi|281/291|[from] move: Wish|[wisher] Jirachi
+|-heal|p1a: Cresselia|319/323 par|[from] item: Leftovers
+|upkeep
+|turn|41
+|
+|t:|1776984430
+|move|p2a: Jirachi|Iron Head|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|285/323 par
+|cant|p1a: Cresselia|flinch
+|
+|-heal|p1a: Cresselia|305/323 par|[from] item: Leftovers
+|upkeep
+|turn|42
+|
+|t:|1776984434
+|move|p2a: Jirachi|Iron Head|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|272/323 par
+|cant|p1a: Cresselia|flinch
+|
+|-heal|p1a: Cresselia|292/323 par|[from] item: Leftovers
+|upkeep
+|turn|43
+|
+|t:|1776984439
+|move|p2a: Jirachi|Iron Head|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|258/323 par
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|
+|-heal|p1a: Cresselia|278/323 par|[from] item: Leftovers
+|upkeep
+|turn|44
+|
+|t:|1776984447
+|move|p2a: Jirachi|Iron Head|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|244/323 par
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|
+|-heal|p1a: Cresselia|264/323 par|[from] item: Leftovers
+|upkeep
+|turn|45
+|
+|t:|1776984451
+|move|p2a: Jirachi|Iron Head|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|230/323 par
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|
+|-heal|p1a: Cresselia|250/323 par|[from] item: Leftovers
+|upkeep
+|turn|46
+|
+|t:|1776984456
+|move|p2a: Jirachi|Iron Head|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|215/323 par
+|cant|p1a: Cresselia|flinch
+|
+|-heal|p1a: Cresselia|235/323 par|[from] item: Leftovers
+|upkeep
+|turn|47
+|
+|t:|1776984461
+|move|p2a: Jirachi|Iron Head|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|201/323 par
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|
+|-heal|p1a: Cresselia|221/323 par|[from] item: Leftovers
+|upkeep
+|turn|48
+|
+|t:|1776984471
+|move|p2a: Jirachi|Iron Head|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|188/323 par
+|cant|p1a: Cresselia|flinch
+|
+|-heal|p1a: Cresselia|208/323 par|[from] item: Leftovers
+|upkeep
+|turn|49
+|
+|t:|1776984475
+|move|p2a: Jirachi|Iron Head|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|172/323 par
+|move|p1a: Cresselia|Moonblast|p2a: Jirachi
+|-resisted|p2a: Jirachi
+|-damage|p2a: Jirachi|194/291
+|-unboost|p2a: Jirachi|spa|1
+|
+|-heal|p1a: Cresselia|192/323 par|[from] item: Leftovers
+|upkeep
+|turn|50
+|
+|t:|1776984482
+|move|p2a: Jirachi|Iron Head|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|156/323 par
+|cant|p1a: Cresselia|flinch
+|
+|-heal|p1a: Cresselia|176/323 par|[from] item: Leftovers
+|upkeep
+|turn|51
+|
+|t:|1776984491
+|move|p2a: Jirachi|Iron Head|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|143/323 par
+|cant|p1a: Cresselia|par
+|
+|-heal|p1a: Cresselia|163/323 par|[from] item: Leftovers
+|upkeep
+|turn|52
+|
+|t:|1776984495
+|move|p2a: Jirachi|Iron Head|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|126/323 par
+|cant|p1a: Cresselia|flinch
+|
+|-heal|p1a: Cresselia|146/323 par|[from] item: Leftovers
+|upkeep
+|turn|53
+|
+|t:|1776984499
+|move|p2a: Jirachi|Iron Head|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|113/323 par
+|cant|p1a: Cresselia|flinch
+|
+|-heal|p1a: Cresselia|133/323 par|[from] item: Leftovers
+|upkeep
+|turn|54
+|
+|t:|1776984504
+|move|p2a: Jirachi|Iron Head|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|100/323 par
+|move|p1a: Cresselia|Moonlight|p1a: Cresselia
+|-heal|p1a: Cresselia|261/323 par
+|
+|-heal|p1a: Cresselia|281/323 par|[from] item: Leftovers
+|upkeep
+|turn|55
+|
+|t:|1776984509
+|move|p2a: Jirachi|Body Slam|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|256/323 par
+|move|p1a: Cresselia|Moonblast|p2a: Jirachi
+|-resisted|p2a: Jirachi
+|-damage|p2a: Jirachi|116/291
+|
+|-heal|p1a: Cresselia|276/323 par|[from] item: Leftovers
+|upkeep
+|turn|56
+|
+|t:|1776984513
+|move|p2a: Jirachi|Wish|p2a: Jirachi
+|move|p1a: Cresselia|Moonblast|p2a: Jirachi
+|-resisted|p2a: Jirachi
+|-damage|p2a: Jirachi|37/291
+|
+|-heal|p1a: Cresselia|296/323 par|[from] item: Leftovers
+|upkeep
+|turn|57
+|
+|t:|1776984518
+|move|p2a: Jirachi|Protect|p2a: Jirachi
+|-singleturn|p2a: Jirachi|Protect
+|cant|p1a: Cresselia|par
+|
+|-heal|p2a: Jirachi|182/291|[from] move: Wish|[wisher] Jirachi
+|-heal|p1a: Cresselia|316/323 par|[from] item: Leftovers
+|upkeep
+|turn|58
+|
+|t:|1776984524
+|move|p2a: Jirachi|Wish|p2a: Jirachi
+|move|p1a: Cresselia|Moonblast|p2a: Jirachi
+|-resisted|p2a: Jirachi
+|-damage|p2a: Jirachi|102/291
+|
+|-heal|p1a: Cresselia|323/323 par|[from] item: Leftovers
+|upkeep
+|turn|59
+|
+|t:|1776984533
+|move|p2a: Jirachi|Body Slam|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|300/323 par
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|
+|-heal|p2a: Jirachi|247/291|[from] move: Wish|[wisher] Jirachi
+|-heal|p1a: Cresselia|320/323 par|[from] item: Leftovers
+|upkeep
+|turn|60
+|
+|t:|1776984538
+|move|p2a: Jirachi|Wish|p2a: Jirachi
+|move|p1a: Cresselia|Moonblast|p2a: Jirachi
+|-resisted|p2a: Jirachi
+|-damage|p2a: Jirachi|142/291
+|
+|-heal|p1a: Cresselia|323/323 par|[from] item: Leftovers
+|upkeep
+|turn|61
+|
+|t:|1776984546
+|move|p2a: Jirachi|Protect|p2a: Jirachi
+|-singleturn|p2a: Jirachi|Protect
+|cant|p1a: Cresselia|par
+|
+|-heal|p2a: Jirachi|287/291|[from] move: Wish|[wisher] Jirachi
+|upkeep
+|turn|62
+|
+|t:|1776984551
+|move|p2a: Jirachi|Wish|p2a: Jirachi
+|move|p1a: Cresselia|Moonblast|p2a: Jirachi
+|-resisted|p2a: Jirachi
+|-damage|p2a: Jirachi|193/291
+|
+|upkeep
+|turn|63
+|
+|t:|1776984556
+|move|p2a: Jirachi|Body Slam|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|300/323 par
+|move|p1a: Cresselia|Moonblast|p2a: Jirachi
+|-resisted|p2a: Jirachi
+|-damage|p2a: Jirachi|95/291
+|
+|-heal|p2a: Jirachi|240/291|[from] move: Wish|[wisher] Jirachi
+|-heal|p1a: Cresselia|320/323 par|[from] item: Leftovers
+|upkeep
+|turn|64
+|
+|t:|1776984563
+|move|p2a: Jirachi|Wish|p2a: Jirachi
+|move|p1a: Cresselia|Moonblast|p2a: Jirachi
+|-resisted|p2a: Jirachi
+|-damage|p2a: Jirachi|145/291
+|
+|-heal|p1a: Cresselia|323/323 par|[from] item: Leftovers
+|upkeep
+|turn|65
+|
+|t:|1776984571
+|move|p2a: Jirachi|Protect|p2a: Jirachi
+|-singleturn|p2a: Jirachi|Protect
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|0
+|-boost|p1a: Cresselia|spd|0
+|
+|-heal|p2a: Jirachi|290/291|[from] move: Wish|[wisher] Jirachi
+|upkeep
+|turn|66
+|
+|t:|1776984581
+|move|p2a: Jirachi|Body Slam|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|296/323 par
+|move|p1a: Cresselia|Moonblast|p2a: Jirachi
+|-resisted|p2a: Jirachi
+|-damage|p2a: Jirachi|185/291
+|
+|-heal|p1a: Cresselia|316/323 par|[from] item: Leftovers
+|upkeep
+|turn|67
+|
+|t:|1776984588
+|move|p2a: Jirachi|Wish|p2a: Jirachi
+|move|p1a: Cresselia|Moonblast|p2a: Jirachi
+|-resisted|p2a: Jirachi
+|-damage|p2a: Jirachi|86/291
+|
+|-heal|p1a: Cresselia|323/323 par|[from] item: Leftovers
+|upkeep
+|turn|68
+|
+|t:|1776984592
+|move|p2a: Jirachi|Body Slam|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|297/323 par
+|cant|p1a: Cresselia|par
+|
+|-heal|p2a: Jirachi|231/291|[from] move: Wish|[wisher] Jirachi
+|-heal|p1a: Cresselia|317/323 par|[from] item: Leftovers
+|upkeep
+|turn|69
+|
+|t:|1776984598
+|move|p2a: Jirachi|Wish|p2a: Jirachi
+|move|p1a: Cresselia|Moonblast|p2a: Jirachi
+|-resisted|p2a: Jirachi
+|-damage|p2a: Jirachi|135/291
+|
+|-heal|p1a: Cresselia|323/323 par|[from] item: Leftovers
+|upkeep
+|turn|70
+|
+|t:|1776984605
+|move|p2a: Jirachi|Protect|p2a: Jirachi
+|-singleturn|p2a: Jirachi|Protect
+|cant|p1a: Cresselia|par
+|
+|-heal|p2a: Jirachi|280/291|[from] move: Wish|[wisher] Jirachi
+|upkeep
+|turn|71
+|
+|t:|1776984609
+|move|p2a: Jirachi|Wish|p2a: Jirachi
+|move|p1a: Cresselia|Moonblast|p2a: Jirachi
+|-resisted|p2a: Jirachi
+|-damage|p2a: Jirachi|179/291
+|
+|upkeep
+|turn|72
+|
+|t:|1776984614
+|move|p2a: Jirachi|Body Slam|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|296/323 par
+|move|p1a: Cresselia|Moonblast|p2a: Jirachi
+|-resisted|p2a: Jirachi
+|-damage|p2a: Jirachi|85/291
+|
+|-heal|p2a: Jirachi|230/291|[from] move: Wish|[wisher] Jirachi
+|-heal|p1a: Cresselia|316/323 par|[from] item: Leftovers
+|upkeep
+|turn|73
+|
+|t:|1776984621
+|move|p2a: Jirachi|Wish|p2a: Jirachi
+|move|p1a: Cresselia|Moonblast|p2a: Jirachi
+|-resisted|p2a: Jirachi
+|-damage|p2a: Jirachi|141/291
+|
+|-heal|p1a: Cresselia|323/323 par|[from] item: Leftovers
+|upkeep
+|turn|74
+|
+|t:|1776984628
+|move|p2a: Jirachi|Body Slam|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|298/323 par
+|move|p1a: Cresselia|Moonblast|p2a: Jirachi
+|-resisted|p2a: Jirachi
+|-damage|p2a: Jirachi|48/291
+|
+|-heal|p2a: Jirachi|193/291|[from] move: Wish|[wisher] Jirachi
+|-heal|p1a: Cresselia|318/323 par|[from] item: Leftovers
+|upkeep
+|turn|75
+|
+|t:|1776984633
+|move|p2a: Jirachi|Wish|p2a: Jirachi
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|0
+|-boost|p1a: Cresselia|spd|0
+|
+|-heal|p1a: Cresselia|323/323 par|[from] item: Leftovers
+|upkeep
+|turn|76
+|
+|t:|1776984636
+|move|p2a: Jirachi|Body Slam|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|298/323 par
+|move|p1a: Cresselia|Moonblast|p2a: Jirachi
+|-resisted|p2a: Jirachi
+|-damage|p2a: Jirachi|93/291
+|
+|-heal|p2a: Jirachi|238/291|[from] move: Wish|[wisher] Jirachi
+|-heal|p1a: Cresselia|318/323 par|[from] item: Leftovers
+|upkeep
+|turn|77
+|
+|t:|1776984639
+|move|p2a: Jirachi|Wish|p2a: Jirachi
+|cant|p1a: Cresselia|par
+|
+|-heal|p1a: Cresselia|323/323 par|[from] item: Leftovers
+|upkeep
+|turn|78
+|
+|t:|1776984643
+|move|p2a: Jirachi|Body Slam|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|297/323 par
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|0
+|-boost|p1a: Cresselia|spd|0
+|
+|-heal|p2a: Jirachi|291/291|[from] move: Wish|[wisher] Jirachi
+|-heal|p1a: Cresselia|317/323 par|[from] item: Leftovers
+|upkeep
+|turn|79
+|
+|t:|1776984647
+|move|p2a: Jirachi|Body Slam|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-crit|p1a: Cresselia
+|-damage|p1a: Cresselia|280/323 par
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|0
+|-boost|p1a: Cresselia|spd|0
+|
+|-heal|p1a: Cresselia|300/323 par|[from] item: Leftovers
+|upkeep
+|turn|80
+|
+|t:|1776984657
+|move|p2a: Jirachi|Body Slam|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|274/323 par
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|0
+|-boost|p1a: Cresselia|spd|0
+|
+|-heal|p1a: Cresselia|294/323 par|[from] item: Leftovers
+|upkeep
+|turn|81
+|
+|t:|1776984662
+|move|p2a: Jirachi|Body Slam|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|268/323 par
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|0
+|-boost|p1a: Cresselia|spd|0
+|
+|-heal|p1a: Cresselia|288/323 par|[from] item: Leftovers
+|upkeep
+|turn|82
+|
+|t:|1776984665
+|move|p2a: Jirachi|Body Slam|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|265/323 par
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|0
+|-boost|p1a: Cresselia|spd|0
+|
+|-heal|p1a: Cresselia|285/323 par|[from] item: Leftovers
+|upkeep
+|turn|83
+|
+|t:|1776984673
+|switch|p2a: Barraskewda|Barraskewda, L81, F|231/231
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|0
+|-boost|p1a: Cresselia|spd|0
+|
+|-heal|p1a: Cresselia|305/323 par|[from] item: Leftovers
+|upkeep
+|turn|84
+|
+|t:|1776984681
+|move|p2a: Barraskewda|Waterfall|p1a: Cresselia
+|-damage|p1a: Cresselia|182/323 par
+|move|p1a: Cresselia|Moonblast|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|faint|p2a: Barraskewda
+|
+|-heal|p1a: Cresselia|202/323 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1776984686
+|switch|p2a: Jirachi|Jirachi, L80|291/291
+|turn|85
+|
+|t:|1776984690
+|move|p2a: Jirachi|Body Slam|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|177/323 par
+|move|p1a: Cresselia|Moonlight|p1a: Cresselia
+|-heal|p1a: Cresselia|323/323 par
+|
+|upkeep
+|turn|86
+|c|☆ShadowS3raph|Ggez
+|
+|t:|1776984701
+|move|p2a: Jirachi|Protect|p2a: Jirachi
+|-singleturn|p2a: Jirachi|Protect
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|0
+|-boost|p1a: Cresselia|spd|0
+|
+|upkeep
+|turn|87
+|
+|t:|1776984706
+|move|p2a: Jirachi|Protect||[still]
+|-fail|p2a: Jirachi
+|cant|p1a: Cresselia|par
+|
+|upkeep
+|turn|88
+|c|☆ShadowS3raph|Gonna be fun watching you struggle to death
+|
+|t:|1776984722
+|move|p2a: Jirachi|Protect|p2a: Jirachi
+|-singleturn|p2a: Jirachi|Protect
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|0
+|-boost|p1a: Cresselia|spd|0
+|
+|upkeep
+|turn|89
+|
+|t:|1776984725
+|move|p2a: Jirachi|Protect||[still]
+|-fail|p2a: Jirachi
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|0
+|-boost|p1a: Cresselia|spd|0
+|
+|upkeep
+|turn|90
+|
+|t:|1776984730
+|move|p2a: Jirachi|Body Slam|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|300/323 par
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|0
+|-boost|p1a: Cresselia|spd|0
+|
+|-heal|p1a: Cresselia|320/323 par|[from] item: Leftovers
+|upkeep
+|turn|91
+|
+|t:|1776984733
+|move|p2a: Jirachi|Protect|p2a: Jirachi
+|-singleturn|p2a: Jirachi|Protect
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|0
+|-boost|p1a: Cresselia|spd|0
+|
+|-heal|p1a: Cresselia|323/323 par|[from] item: Leftovers
+|upkeep
+|turn|92
+|
+|t:|1776984736
+|move|p2a: Jirachi|Protect||[still]
+|-fail|p2a: Jirachi
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|0
+|-boost|p1a: Cresselia|spd|0
+|
+|upkeep
+|turn|93
+|
+|t:|1776984738
+|move|p2a: Jirachi|Protect|p2a: Jirachi
+|-singleturn|p2a: Jirachi|Protect
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|0
+|-boost|p1a: Cresselia|spd|0
+|
+|upkeep
+|turn|94
+|
+|t:|1776984740
+|move|p2a: Jirachi|Protect|p2a: Jirachi
+|-singleturn|p2a: Jirachi|Protect
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|0
+|-boost|p1a: Cresselia|spd|0
+|
+|upkeep
+|turn|95
+|
+|t:|1776984742
+|move|p2a: Jirachi|Protect||[still]
+|-fail|p2a: Jirachi
+|cant|p1a: Cresselia|par
+|
+|upkeep
+|turn|96
+|
+|t:|1776984745
+|move|p2a: Jirachi|Protect|p2a: Jirachi
+|-singleturn|p2a: Jirachi|Protect
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|0
+|-boost|p1a: Cresselia|spd|0
+|
+|upkeep
+|turn|97
+|
+|t:|1776984747
+|move|p2a: Jirachi|Protect||[still]
+|-fail|p2a: Jirachi
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|0
+|-boost|p1a: Cresselia|spd|0
+|
+|upkeep
+|turn|98
+|
+|t:|1776984751
+|move|p2a: Jirachi|Wish|p2a: Jirachi
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|0
+|-boost|p1a: Cresselia|spd|0
+|
+|upkeep
+|turn|99
+|
+|t:|1776984757
+|move|p2a: Jirachi|Wish||[still]
+|-fail|p2a: Jirachi
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|0
+|-boost|p1a: Cresselia|spd|0
+|
+|upkeep
+|turn|100
+|
+|t:|1776984762
+|move|p2a: Jirachi|Body Slam|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|297/323 par
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|0
+|-boost|p1a: Cresselia|spd|0
+|
+|-heal|p1a: Cresselia|317/323 par|[from] item: Leftovers
+|upkeep
+|turn|101
+|
+|t:|1776984764
+|move|p2a: Jirachi|Body Slam|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|291/323 par
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|0
+|-boost|p1a: Cresselia|spd|0
+|
+|-heal|p1a: Cresselia|311/323 par|[from] item: Leftovers
+|upkeep
+|turn|102
+|
+|t:|1776984767
+|move|p2a: Jirachi|Body Slam|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|285/323 par
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|0
+|-boost|p1a: Cresselia|spd|0
+|
+|-heal|p1a: Cresselia|305/323 par|[from] item: Leftovers
+|upkeep
+|turn|103
+|
+|t:|1776984771
+|move|p2a: Jirachi|Body Slam|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|278/323 par
+|move|p1a: Cresselia|Psyshock|p2a: Jirachi
+|-resisted|p2a: Jirachi
+|-damage|p2a: Jirachi|227/291
+|
+|-heal|p1a: Cresselia|298/323 par|[from] item: Leftovers
+|upkeep
+|turn|104
+|
+|t:|1776984776
+|move|p2a: Jirachi|Body Slam|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|271/323 par
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|0
+|-boost|p1a: Cresselia|spd|0
+|
+|-heal|p1a: Cresselia|291/323 par|[from] item: Leftovers
+|upkeep
+|turn|105
+|
+|t:|1776984795
+|move|p2a: Jirachi|Body Slam|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|264/323 par
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|0
+|-boost|p1a: Cresselia|spd|0
+|
+|-heal|p1a: Cresselia|284/323 par|[from] item: Leftovers
+|upkeep
+|turn|106
+|
+|t:|1776984798
+|move|p2a: Jirachi|Wish|p2a: Jirachi
+|cant|p1a: Cresselia|par
+|
+|-heal|p1a: Cresselia|304/323 par|[from] item: Leftovers
+|upkeep
+|turn|107
+|
+|t:|1776984802
+|-activate|p2a: Jirachi|move: Struggle
+|move|p2a: Jirachi|Struggle|p1a: Cresselia
+|-damage|p1a: Cresselia|272/323 par
+|-damage|p2a: Jirachi|154/291|[from] recoil
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|0
+|-boost|p1a: Cresselia|spd|0
+|
+|-heal|p2a: Jirachi|291/291|[from] move: Wish|[wisher] Jirachi
+|-heal|p1a: Cresselia|292/323 par|[from] item: Leftovers
+|upkeep
+|turn|108
+|
+|t:|1776984806
+|-activate|p2a: Jirachi|move: Struggle
+|move|p2a: Jirachi|Struggle|p1a: Cresselia
+|-damage|p1a: Cresselia|264/323 par
+|-damage|p2a: Jirachi|218/291|[from] recoil
+|cant|p1a: Cresselia|par
+|
+|-heal|p1a: Cresselia|284/323 par|[from] item: Leftovers
+|upkeep
+|turn|109
+|
+|t:|1776984811
+|-activate|p2a: Jirachi|move: Struggle
+|move|p2a: Jirachi|Struggle|p1a: Cresselia
+|-damage|p1a: Cresselia|254/323 par
+|-damage|p2a: Jirachi|145/291|[from] recoil
+|move|p1a: Cresselia|Moonlight|p1a: Cresselia
+|-heal|p1a: Cresselia|323/323 par
+|
+|upkeep
+|turn|110
+|
+|t:|1776984816
+|-activate|p2a: Jirachi|move: Struggle
+|move|p2a: Jirachi|Struggle|p1a: Cresselia
+|-damage|p1a: Cresselia|292/323 par
+|-damage|p2a: Jirachi|72/291|[from] recoil
+|cant|p1a: Cresselia|par
+|
+|-heal|p1a: Cresselia|312/323 par|[from] item: Leftovers
+|upkeep
+|turn|111
+|
+|t:|1776984824
+|-activate|p2a: Jirachi|move: Struggle
+|move|p2a: Jirachi|Struggle|p1a: Cresselia
+|-damage|p1a: Cresselia|280/323 par
+|-damage|p2a: Jirachi|0 fnt|[from] recoil
+|faint|p2a: Jirachi
+|
+|win|ShadowS3raph
+|raw|ShadowS3raph's rating: 1345 &rarr; <strong>1364</strong><br />(+19 for winning)
+|raw|Overlordchao's rating: 1330 &rarr; <strong>1311</strong><br />(-19 for losing)
+|l|☆Overlordchao
+|player|p2|

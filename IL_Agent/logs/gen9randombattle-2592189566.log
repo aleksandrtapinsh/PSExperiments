@@ -1,0 +1,492 @@
+|j|☆angelfcc2
+|j|☆Poscidion
+|t:|1776969227
+|gametype|singles
+|player|p1|angelfcc2|2|1811
+|player|p2|Poscidion|265|1770
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776969227
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Crown|Iron Crown, L78|268/268
+|switch|p2a: Lugia|Lugia, L73|275/275
+|turn|1
+|
+|t:|1776969254
+|switch|p2a: Ninetales|Ninetales, L85, M|263/263
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Ninetales
+|-resisted|p2a: Ninetales
+|-damage|p2a: Ninetales|236/263
+|-resisted|p2a: Ninetales
+|-damage|p2a: Ninetales|209/263
+|-hitcount|p2a: Ninetales|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1776969269
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|switch|p1a: Rayquaza|Rayquaza, L72|270/270
+|-ability|p1a: Rayquaza|Air Lock
+|move|p2a: Ninetales|Solar Beam||[still]
+|-prepare|p2a: Ninetales|Solar Beam
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1776969279
+|move|p2a: Ninetales|Solar Beam|p1a: Rayquaza|[from] lockedmove
+|-resisted|p1a: Rayquaza
+|-damage|p1a: Rayquaza|248/270
+|move|p1a: Rayquaza|Earthquake|p2a: Ninetales
+|-supereffective|p2a: Ninetales
+|-damage|p2a: Ninetales|53/263
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1776969290
+|switch|p2a: Azumarill|Azumarill, L82, M|298/298
+|move|p1a: Rayquaza|Extreme Speed|p2a: Azumarill
+|-damage|p2a: Azumarill|232/298
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1776969299
+|switch|p1a: Iron Crown|Iron Crown, L78|268/268
+|move|p2a: Azumarill|Liquidation|p1a: Iron Crown
+|-damage|p1a: Iron Crown|219/268
+|-unboost|p1a: Iron Crown|def|1
+|
+|-weather|none
+|-heal|p1a: Iron Crown|235/268|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776969309
+|switch|p2a: Ninetales|Ninetales, L85, M|53/263
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Ninetales
+|-resisted|p2a: Ninetales
+|-damage|p2a: Ninetales|30/263
+|-resisted|p2a: Ninetales
+|-damage|p2a: Ninetales|7/263
+|-hitcount|p2a: Ninetales|2
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Iron Crown|251/268|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776969333
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|switch|p1a: Rayquaza|Rayquaza, L72|248/270
+|-ability|p1a: Rayquaza|Air Lock
+|move|p2a: Ninetales|Fire Blast|p1a: Rayquaza
+|-resisted|p1a: Rayquaza
+|-damage|p1a: Rayquaza|188/270
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1776969341
+|move|p1a: Rayquaza|Extreme Speed|p2a: Ninetales
+|-damage|p2a: Ninetales|0 fnt
+|faint|p2a: Ninetales
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1776969345
+|switch|p2a: Azumarill|Azumarill, L82, M|232/298
+|turn|9
+|
+|t:|1776969359
+|switch|p1a: Iron Crown|Iron Crown, L78|251/268
+|move|p2a: Azumarill|Play Rough|p1a: Iron Crown
+|-resisted|p1a: Iron Crown
+|-damage|p1a: Iron Crown|196/268
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Iron Crown|212/268|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1776969368
+|switch|p2a: Chandelure|Chandelure, L83, M|235/235
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Chandelure
+|-resisted|p2a: Chandelure
+|-damage|p2a: Chandelure|208/235
+|-resisted|p2a: Chandelure
+|-damage|p2a: Chandelure|181/235
+|-hitcount|p2a: Chandelure|2
+|
+|-weather|none
+|-heal|p1a: Iron Crown|228/268|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776969378
+|move|p1a: Iron Crown|Psyshock|p2a: Chandelure
+|-damage|p2a: Chandelure|100/235
+|move|p2a: Chandelure|Flame Charge|p1a: Iron Crown
+|-supereffective|p1a: Iron Crown
+|-damage|p1a: Iron Crown|162/268
+|-boost|p2a: Chandelure|spe|1
+|
+|-heal|p1a: Iron Crown|178/268|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776969392
+|move|p2a: Chandelure|Shadow Ball|p1a: Iron Crown
+|-supereffective|p1a: Iron Crown
+|-damage|p1a: Iron Crown|0 fnt
+|faint|p1a: Iron Crown
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1776969399
+|switch|p1a: Jolteon|Jolteon, L84, M|246/246
+|turn|13
+|
+|t:|1776969406
+|move|p2a: Chandelure|Fire Blast|p1a: Jolteon
+|-damage|p1a: Jolteon|107/246
+|move|p1a: Jolteon|Shadow Ball|p2a: Chandelure
+|-supereffective|p2a: Chandelure
+|-damage|p2a: Chandelure|0 fnt
+|faint|p2a: Chandelure
+|-damage|p1a: Jolteon|83/246|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776969422
+|switch|p2a: Landorus|Landorus, L75, M|257/257
+|turn|14
+|
+|t:|1776969459
+|move|p1a: Jolteon|Shadow Ball|p2a: Landorus
+|-damage|p2a: Landorus|154/257
+|-damage|p1a: Jolteon|59/246|[from] item: Life Orb
+|move|p2a: Landorus|Rock Slide|p1a: Jolteon
+|-damage|p1a: Jolteon|0 fnt
+|faint|p1a: Jolteon
+|
+|upkeep
+|
+|t:|1776969470
+|switch|p1a: Mudsdale|Mudsdale, L83, F|219/219
+|turn|15
+|
+|t:|1776969479
+|move|p1a: Mudsdale|Hyper Voice|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|-damage|p1a: Mudsdale|198/219|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776969483
+|switch|p2a: Conkeldurr|Conkeldurr, L80, M|299/299
+|turn|16
+|l|☆angelfcc2
+|player|p1|
+|j|☆angelfcc2
+|player|p1|angelfcc2|2|
+|
+|t:|1776969513
+|move|p1a: Mudsdale|Hyper Voice|p2a: Conkeldurr
+|-damage|p2a: Conkeldurr|124/299
+|-damage|p1a: Mudsdale|177/219|[from] item: Life Orb
+|move|p2a: Conkeldurr|Knock Off|p1a: Mudsdale
+|-supereffective|p1a: Mudsdale
+|-damage|p1a: Mudsdale|0 fnt
+|replace|p1a: Zoroark|Zoroark-Hisui, L80, M
+|-end|p1a: Zoroark|Illusion
+|-hint|Illusion Level Mod is active, so this Pokémon's true level was hidden.
+|-enditem|p1a: Zoroark|Life Orb|[from] move: Knock Off|[of] p2a: Conkeldurr
+|faint|p1a: Zoroark
+|
+|-status|p2a: Conkeldurr|brn|[from] item: Flame Orb
+|upkeep
+|
+|t:|1776969532
+|switch|p1a: Rayquaza|Rayquaza, L72|188/270
+|-ability|p1a: Rayquaza|Air Lock
+|turn|17
+|
+|t:|1776969551
+|-terastallize|p2a: Conkeldurr|Normal
+|move|p1a: Rayquaza|Dragon Ascent|p2a: Conkeldurr
+|-damage|p2a: Conkeldurr|0 fnt
+|-unboost|p1a: Rayquaza|def|1
+|-unboost|p1a: Rayquaza|spd|1
+|faint|p2a: Conkeldurr
+|
+|upkeep
+|
+|t:|1776969559
+|switch|p2a: Azumarill|Azumarill, L82, M|232/298
+|turn|18
+|
+|t:|1776969564
+|move|p1a: Rayquaza|Dragon Ascent|p2a: Azumarill
+|-damage|p2a: Azumarill|88/298
+|-unboost|p1a: Rayquaza|def|1
+|-unboost|p1a: Rayquaza|spd|1
+|-enditem|p2a: Azumarill|Sitrus Berry|[eat]
+|-heal|p2a: Azumarill|162/298|[from] item: Sitrus Berry
+|move|p2a: Azumarill|Belly Drum|p2a: Azumarill
+|-damage|p2a: Azumarill|13/298
+|-setboost|p2a: Azumarill|atk|6|[from] move: Belly Drum
+|
+|upkeep
+|turn|19
+|
+|t:|1776969572
+|move|p1a: Rayquaza|Extreme Speed|p2a: Azumarill
+|-damage|p2a: Azumarill|0 fnt
+|faint|p2a: Azumarill
+|
+|upkeep
+|
+|t:|1776969574
+|switch|p2a: Lugia|Lugia, L73|275/275
+|turn|20
+|
+|t:|1776969584
+|switch|p1a: Lunala|Lunala, L70|308/308
+|move|p2a: Lugia|Calm Mind|p2a: Lugia
+|-boost|p2a: Lugia|spa|1
+|-boost|p2a: Lugia|spd|1
+|
+|upkeep
+|turn|21
+|
+|t:|1776969592
+|move|p2a: Lugia|Psychic Noise|p1a: Lunala
+|-resisted|p1a: Lunala
+|-damage|p1a: Lunala|285/308
+|-start|p1a: Lunala|move: Heal Block
+|move|p1a: Lunala|Calm Mind|p1a: Lunala
+|-boost|p1a: Lunala|spa|1
+|-boost|p1a: Lunala|spd|1
+|
+|upkeep
+|turn|22
+|
+|t:|1776969599
+|move|p2a: Lugia|Calm Mind|p2a: Lugia
+|-boost|p2a: Lugia|spa|1
+|-boost|p2a: Lugia|spd|1
+|move|p1a: Lunala|Calm Mind|p1a: Lunala
+|-boost|p1a: Lunala|spa|1
+|-boost|p1a: Lunala|spd|1
+|
+|-end|p1a: Lunala|move: Heal Block
+|upkeep
+|turn|23
+|
+|t:|1776969604
+|move|p2a: Lugia|Aeroblast|p1a: Lunala
+|-damage|p1a: Lunala|209/308
+|move|p1a: Lunala|Calm Mind|p1a: Lunala
+|-boost|p1a: Lunala|spa|1
+|-boost|p1a: Lunala|spd|1
+|
+|-heal|p1a: Lunala|228/308|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1776969606
+|move|p2a: Lugia|Aeroblast|p1a: Lunala
+|-crit|p1a: Lunala
+|-damage|p1a: Lunala|0 fnt
+|faint|p1a: Lunala
+|
+|upkeep
+|
+|t:|1776969615
+|switch|p1a: Mudsdale|Mudsdale, L83, F|302/302
+|turn|25
+|
+|t:|1776969622
+|-terastallize|p1a: Mudsdale|Steel
+|move|p2a: Lugia|Calm Mind|p2a: Lugia
+|-boost|p2a: Lugia|spa|1
+|-boost|p2a: Lugia|spd|1
+|move|p1a: Mudsdale|Heavy Slam|p2a: Lugia
+|-damage|p2a: Lugia|223/275
+|
+|upkeep
+|turn|26
+|
+|t:|1776969632
+|move|p2a: Lugia|Calm Mind|p2a: Lugia
+|-boost|p2a: Lugia|spa|1
+|-boost|p2a: Lugia|spd|1
+|move|p1a: Mudsdale|Heavy Slam|p2a: Lugia
+|-damage|p2a: Lugia|118/275
+|
+|upkeep
+|turn|27
+|
+|t:|1776969639
+|move|p2a: Lugia|Recover|p2a: Lugia
+|-heal|p2a: Lugia|256/275
+|move|p1a: Mudsdale|Heavy Slam|p2a: Lugia
+|-damage|p2a: Lugia|141/275
+|
+|upkeep
+|turn|28
+|
+|t:|1776969645
+|move|p2a: Lugia|Recover|p2a: Lugia
+|-heal|p2a: Lugia|275/275
+|move|p1a: Mudsdale|Heavy Slam|p2a: Lugia
+|-damage|p2a: Lugia|220/275
+|
+|upkeep
+|turn|29
+|
+|t:|1776969650
+|move|p2a: Lugia|Aeroblast|p1a: Mudsdale
+|-resisted|p1a: Mudsdale
+|-damage|p1a: Mudsdale|186/302
+|-ability|p1a: Mudsdale|Stamina|boost
+|-boost|p1a: Mudsdale|def|1
+|move|p1a: Mudsdale|Heavy Slam|p2a: Lugia
+|-damage|p2a: Lugia|109/275
+|
+|-heal|p1a: Mudsdale|204/302|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1776969656
+|move|p2a: Lugia|Recover|p2a: Lugia
+|-heal|p2a: Lugia|247/275
+|move|p1a: Mudsdale|Heavy Slam|p2a: Lugia
+|-damage|p2a: Lugia|130/275
+|
+|-heal|p1a: Mudsdale|222/302|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1776969658
+|move|p2a: Lugia|Recover|p2a: Lugia
+|-heal|p2a: Lugia|268/275
+|move|p1a: Mudsdale|Heavy Slam|p2a: Lugia
+|-damage|p2a: Lugia|163/275
+|
+|-heal|p1a: Mudsdale|240/302|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1776969666
+|move|p2a: Lugia|Recover|p2a: Lugia
+|-heal|p2a: Lugia|275/275
+|move|p1a: Mudsdale|Heavy Slam|p2a: Lugia
+|-damage|p2a: Lugia|221/275
+|
+|-heal|p1a: Mudsdale|258/302|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1776969671
+|move|p2a: Lugia|Psychic Noise|p1a: Mudsdale
+|-resisted|p1a: Mudsdale
+|-damage|p1a: Mudsdale|173/302
+|-start|p1a: Mudsdale|move: Heal Block
+|-ability|p1a: Mudsdale|Stamina|boost
+|-boost|p1a: Mudsdale|def|1
+|move|p1a: Mudsdale|Heavy Slam|p2a: Lugia
+|-damage|p2a: Lugia|109/275
+|
+|upkeep
+|turn|34
+|
+|t:|1776969676
+|move|p2a: Lugia|Recover|p2a: Lugia
+|-heal|p2a: Lugia|247/275
+|move|p1a: Mudsdale|Heavy Slam|p2a: Lugia
+|-damage|p2a: Lugia|133/275
+|
+|-end|p1a: Mudsdale|move: Heal Block
+|upkeep
+|turn|35
+|
+|t:|1776969679
+|move|p2a: Lugia|Recover|p2a: Lugia
+|-heal|p2a: Lugia|271/275
+|move|p1a: Mudsdale|Heavy Slam|p2a: Lugia
+|-damage|p2a: Lugia|160/275
+|
+|-heal|p1a: Mudsdale|191/302|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1776969690
+|move|p2a: Lugia|Aeroblast|p1a: Mudsdale
+|-resisted|p1a: Mudsdale
+|-damage|p1a: Mudsdale|75/302
+|-ability|p1a: Mudsdale|Stamina|boost
+|-boost|p1a: Mudsdale|def|1
+|move|p1a: Mudsdale|Heavy Slam|p2a: Lugia
+|-damage|p2a: Lugia|52/275
+|
+|-heal|p1a: Mudsdale|93/302|[from] item: Leftovers
+|upkeep
+|turn|37
+|
+|t:|1776969697
+|move|p2a: Lugia|Recover|p2a: Lugia
+|-heal|p2a: Lugia|190/275
+|move|p1a: Mudsdale|Heavy Slam|p2a: Lugia
+|-damage|p2a: Lugia|79/275
+|
+|-heal|p1a: Mudsdale|111/302|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|t:|1776969700
+|move|p2a: Lugia|Aeroblast|p1a: Mudsdale
+|-resisted|p1a: Mudsdale
+|-damage|p1a: Mudsdale|0 fnt
+|faint|p1a: Mudsdale
+|
+|upkeep
+|
+|t:|1776969703
+|switch|p1a: Rayquaza|Rayquaza, L72|188/270
+|-ability|p1a: Rayquaza|Air Lock
+|turn|39
+|
+|t:|1776969709
+|move|p1a: Rayquaza|Extreme Speed|p2a: Lugia
+|-damage|p2a: Lugia|29/275
+|move|p2a: Lugia|Aeroblast|p1a: Rayquaza
+|-damage|p1a: Rayquaza|0 fnt
+|faint|p1a: Rayquaza
+|
+|win|Poscidion
+|raw|angelfcc2's rating: 1811 &rarr; <strong>1789</strong><br />(-22 for losing)
+|raw|Poscidion's rating: 1770 &rarr; <strong>1792</strong><br />(+22 for winning)
+|l|☆angelfcc2
+|player|p1|

@@ -1,0 +1,308 @@
+|j|☆RYTHER
+|j|‽wwuecec
+|t:|1776976535
+|gametype|singles
+|player|p1|RYTHER|pokemaniac|1042
+|player|p2|wwuecec|266|1074
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776976535
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Wigglytuff|Wigglytuff, L96, F|424/424
+|switch|p2a: Palossand|Palossand, L89, F|296/296
+|turn|1
+|
+|t:|1776976543
+|move|p1a: Wigglytuff|Knock Off|p2a: Palossand
+|-supereffective|p2a: Palossand
+|-damage|p2a: Palossand|184/296
+|-enditem|p2a: Palossand|Leftovers|[from] move: Knock Off|[of] p1a: Wigglytuff
+|move|p2a: Palossand|Stealth Rock|p1a: Wigglytuff
+|-sidestart|p1: RYTHER|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1776976551
+|move|p1a: Wigglytuff|Knock Off|p2a: Palossand
+|-supereffective|p2a: Palossand
+|-damage|p2a: Palossand|112/296
+|move|p2a: Palossand|Shore Up|p2a: Palossand
+|-heal|p2a: Palossand|260/296
+|
+|upkeep
+|turn|3
+|
+|t:|1776976560
+|move|p1a: Wigglytuff|Knock Off|p2a: Palossand
+|-supereffective|p2a: Palossand
+|-damage|p2a: Palossand|186/296
+|move|p2a: Palossand|Earth Power|p1a: Wigglytuff
+|-damage|p1a: Wigglytuff|285/424
+|
+|-heal|p1a: Wigglytuff|311/424|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776976569
+|move|p1a: Wigglytuff|Knock Off|p2a: Palossand
+|-supereffective|p2a: Palossand
+|-damage|p2a: Palossand|106/296
+|move|p2a: Palossand|Shore Up|p2a: Palossand
+|-heal|p2a: Palossand|254/296
+|
+|-heal|p1a: Wigglytuff|337/424|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776976576
+|switch|p2a: Skuntank|Skuntank, L84, F|310/310
+|move|p1a: Wigglytuff|Knock Off|p2a: Skuntank
+|-resisted|p2a: Skuntank
+|-damage|p2a: Skuntank|270/310
+|-enditem|p2a: Skuntank|Life Orb|[from] move: Knock Off|[of] p1a: Wigglytuff
+|
+|-heal|p1a: Wigglytuff|363/424|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776976585
+|move|p2a: Skuntank|Toxic Spikes|p1a: Wigglytuff
+|-sidestart|p1: RYTHER|move: Toxic Spikes
+|move|p1a: Wigglytuff|Dazzling Gleam|p2a: Skuntank
+|-damage|p2a: Skuntank|137/310
+|
+|-heal|p1a: Wigglytuff|389/424|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776976591
+|move|p2a: Skuntank|Toxic Spikes|p1a: Wigglytuff
+|-sidestart|p1: RYTHER|move: Toxic Spikes
+|move|p1a: Wigglytuff|Dazzling Gleam|p2a: Skuntank
+|-damage|p2a: Skuntank|11/310
+|
+|-heal|p1a: Wigglytuff|415/424|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776976598
+|move|p2a: Skuntank|Gunk Shot|p1a: Wigglytuff
+|-supereffective|p1a: Wigglytuff
+|-damage|p1a: Wigglytuff|91/424
+|-status|p1a: Wigglytuff|psn
+|move|p1a: Wigglytuff|Knock Off|p2a: Skuntank
+|-resisted|p2a: Skuntank
+|-damage|p2a: Skuntank|0 fnt
+|-damage|p1a: Wigglytuff|0 fnt|[from] ability: Aftermath|[of] p2a: Skuntank
+|faint|p2a: Skuntank
+|faint|p1a: Wigglytuff
+|
+|upkeep
+|
+|t:|1776976612
+|switch|p2a: Delphox|Delphox, L84, F|263/263
+|switch|p1a: Zapdos|Zapdos, L78|268/268
+|turn|9
+|
+|t:|1776976618
+|switch|p2a: Palossand|Palossand, L89, F|254/296
+|move|p1a: Zapdos|Thunderbolt|p2a: Palossand
+|-immune|p2a: Palossand
+|
+|upkeep
+|turn|10
+|
+|t:|1776976626
+|move|p1a: Zapdos|Hurricane|p2a: Palossand
+|-damage|p2a: Palossand|121/296
+|move|p2a: Palossand|Shadow Ball|p1a: Zapdos
+|-damage|p1a: Zapdos|162/268
+|-unboost|p1a: Zapdos|spd|1
+|
+|upkeep
+|turn|11
+|
+|t:|1776976633
+|move|p1a: Zapdos|Hurricane|p2a: Palossand
+|-damage|p2a: Palossand|0 fnt
+|faint|p2a: Palossand
+|
+|upkeep
+|
+|t:|1776976636
+|switch|p2a: Delphox|Delphox, L84, F|263/263
+|turn|12
+|
+|t:|1776976639
+|move|p2a: Delphox|Fire Blast|p1a: Zapdos|[miss]
+|-miss|p2a: Delphox|p1a: Zapdos
+|move|p1a: Zapdos|Hurricane|p2a: Delphox
+|-damage|p2a: Delphox|160/263
+|
+|upkeep
+|turn|13
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by wwuecec)
+|
+|t:|1776976649
+|move|p2a: Delphox|Fire Blast|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|upkeep
+|
+|t:|1776976655
+|switch|p1a: Palafin|Palafin, L77, M|281/281
+|-damage|p1a: Palafin|246/281|[from] Stealth Rock
+|-status|p1a: Palafin|tox
+|turn|14
+|
+|t:|1776976661
+|switch|p2a: Wyrdeer|Wyrdeer, L87, F|321/321
+|-ability|p2a: Wyrdeer|Intimidate|boost
+|-unboost|p1a: Palafin|atk|1
+|move|p1a: Palafin|Jet Punch|p2a: Wyrdeer
+|-damage|p2a: Wyrdeer|288/321
+|
+|-heal|p1a: Palafin|263/281 tox|[from] item: Leftovers
+|-heal|p2a: Wyrdeer|308/321|[from] item: Leftovers
+|-damage|p1a: Palafin|246/281 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1776976675
+|detailschange|p1a: Palafin|Palafin-Hero, L77, M
+|switch|p1a: Kyurem|Kyurem, L77|319/319
+|-damage|p1a: Kyurem|240/319|[from] Stealth Rock
+|-status|p1a: Kyurem|tox
+|-ability|p1a: Kyurem|Pressure
+|move|p2a: Wyrdeer|Psychic Noise|p1a: Kyurem
+|-damage|p1a: Kyurem|138/319 tox
+|-start|p1a: Kyurem|move: Heal Block
+|
+|-heal|p2a: Wyrdeer|321/321|[from] item: Leftovers
+|-damage|p1a: Kyurem|119/319 tox|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1776976691
+|switch|p2a: Snorlax|Snorlax, L82, F|397/397
+|move|p1a: Kyurem|Scale Shot|p2a: Snorlax
+|-damage|p2a: Snorlax|357/397
+|-damage|p2a: Snorlax|321/397
+|-damage|p2a: Snorlax|285/397
+|-damage|p2a: Snorlax|251/397
+|-damage|p2a: Snorlax|214/397
+|-hitcount|p2a: Snorlax|5
+|-unboost|p1a: Kyurem|def|1
+|-boost|p1a: Kyurem|spe|1
+|
+|-heal|p2a: Snorlax|238/397|[from] item: Leftovers
+|-damage|p1a: Kyurem|81/319 tox|[from] psn
+|-end|p1a: Kyurem|move: Heal Block
+|upkeep
+|turn|17
+|
+|t:|1776976708
+|move|p1a: Kyurem|Scale Shot|p2a: Snorlax
+|-damage|p2a: Snorlax|202/397
+|-damage|p2a: Snorlax|168/397
+|-damage|p2a: Snorlax|132/397
+|-damage|p2a: Snorlax|96/397
+|-damage|p2a: Snorlax|56/397
+|-hitcount|p2a: Snorlax|5
+|-unboost|p1a: Kyurem|def|1
+|-boost|p1a: Kyurem|spe|1
+|move|p2a: Snorlax|Rest|p2a: Snorlax
+|-status|p2a: Snorlax|slp|[from] move: Rest
+|-heal|p2a: Snorlax|397/397 slp|[silent]
+|
+|-damage|p1a: Kyurem|24/319 tox|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1776976726
+|switch|p1a: Bruxish|Bruxish, L85, M|254/254
+|-damage|p1a: Bruxish|223/254|[from] Stealth Rock
+|-status|p1a: Bruxish|tox
+|cant|p2a: Snorlax|slp
+|move|p2a: Snorlax|Sleep Talk|p2a: Snorlax
+|move|p2a: Snorlax|Rest||[from] move: Sleep Talk|[still]
+|-fail|p2a: Snorlax
+|
+|-damage|p1a: Bruxish|208/254 tox|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1776976739
+|switch|p2a: Wyrdeer|Wyrdeer, L87, F|321/321
+|-ability|p2a: Wyrdeer|Intimidate|boost
+|-unboost|p1a: Bruxish|atk|1
+|move|p1a: Bruxish|Crunch|p2a: Wyrdeer
+|-supereffective|p2a: Wyrdeer
+|-damage|p2a: Wyrdeer|95/321
+|
+|-heal|p2a: Wyrdeer|115/321|[from] item: Leftovers
+|-damage|p1a: Bruxish|178/254 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1776976748
+|switch|p2a: Roaring Moon|Roaring Moon, L72|270/270
+|-enditem|p2a: Roaring Moon|Booster Energy
+|-activate|p2a: Roaring Moon|ability: Protosynthesis|[fromitem]
+|-start|p2a: Roaring Moon|protosynthesisatk
+|move|p1a: Bruxish|Crunch|p2a: Roaring Moon
+|-resisted|p2a: Roaring Moon
+|-damage|p2a: Roaring Moon|211/270
+|-unboost|p2a: Roaring Moon|def|1
+|
+|-damage|p1a: Bruxish|133/254 tox|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1776976759
+|switch|p1a: Ceruledge|Ceruledge, L78, F|245/245
+|move|p2a: Roaring Moon|Dragon Dance|p2a: Roaring Moon
+|-boost|p2a: Roaring Moon|atk|1
+|-boost|p2a: Roaring Moon|spe|1
+|
+|upkeep
+|turn|22
+|
+|t:|1776976765
+|move|p2a: Roaring Moon|Knock Off|p1a: Ceruledge
+|-supereffective|p1a: Ceruledge
+|-damage|p1a: Ceruledge|0 fnt
+|-enditem|p1a: Ceruledge|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Roaring Moon
+|faint|p1a: Ceruledge
+|
+|upkeep
+|
+|t:|1776976772
+|switch|p1a: Palafin|Palafin-Hero, L77, M|246/281 tox
+|-damage|p1a: Palafin|211/281 tox|[from] Stealth Rock
+|-activate|p1a: Palafin|ability: Zero to Hero
+|turn|23
+|
+|t:|1776976778
+|move|p2a: Roaring Moon|Outrage|p1a: Palafin
+|-damage|p1a: Palafin|0 fnt
+|faint|p1a: Palafin
+|
+|upkeep
+|-message|RYTHER forfeited.
+|
+|win|wwuecec
+|raw|RYTHER's rating: 1042 &rarr; <strong>1027</strong><br />(-15 for losing)
+|raw|wwuecec's rating: 1074 &rarr; <strong>1100</strong><br />(+26 for winning)
+|l|☆RYTHER
+|player|p1|

@@ -1,0 +1,212 @@
+|j|☆MYSTIC_PHNTOM
+|j|☆P3n15inthevagoogoo
+|t:|1776972315
+|gametype|singles
+|player|p1|MYSTIC_PHNTOM|101|1000
+|player|p2|P3n15inthevagoogoo|169|1047
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776972315
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Slither Wing|Slither Wing, L81|270/270
+|switch|p2a: Dudunsparce|Dudunsparce, L83, F|343/343
+|turn|1
+|
+|t:|1776972333
+|-terastallize|p2a: Dudunsparce|Ghost
+|move|p1a: Slither Wing|Flare Blitz|p2a: Dudunsparce
+|-damage|p2a: Dudunsparce|197/343
+|-damage|p1a: Slither Wing|222/270|[from] Recoil
+|-damage|p1a: Slither Wing|195/270|[from] item: Life Orb
+|move|p2a: Dudunsparce|Calm Mind|p2a: Dudunsparce
+|-boost|p2a: Dudunsparce|spa|1
+|-boost|p2a: Dudunsparce|spd|1
+|
+|-heal|p2a: Dudunsparce|218/343|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776972347
+|move|p1a: Slither Wing|Wild Charge|p2a: Dudunsparce
+|-damage|p2a: Dudunsparce|111/343
+|-damage|p1a: Slither Wing|168/270|[from] Recoil
+|-damage|p1a: Slither Wing|141/270|[from] item: Life Orb
+|move|p2a: Dudunsparce|Roost|p2a: Dudunsparce
+|-heal|p2a: Dudunsparce|283/343
+|
+|-heal|p2a: Dudunsparce|304/343|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776972360
+|move|p1a: Slither Wing|Close Combat|p2a: Dudunsparce
+|-immune|p2a: Dudunsparce
+|move|p2a: Dudunsparce|Boomburst|p1a: Slither Wing
+|-damage|p1a: Slither Wing|0 fnt
+|faint|p1a: Slither Wing
+|-end|p1a: Slither Wing|Protosynthesis|[silent]
+|
+|-heal|p2a: Dudunsparce|325/343|[from] item: Leftovers
+|upkeep
+|
+|t:|1776972370
+|switch|p1a: Excadrill|Excadrill, L79, F|303/303
+|-ability|p1a: Excadrill|Mold Breaker
+|turn|4
+|
+|t:|1776972377
+|move|p1a: Excadrill|Earthquake|p2a: Dudunsparce
+|-damage|p2a: Dudunsparce|184/343
+|move|p2a: Dudunsparce|Shadow Ball|p1a: Excadrill
+|-damage|p1a: Excadrill|209/303
+|-unboost|p1a: Excadrill|spd|1
+|
+|-heal|p2a: Dudunsparce|205/343|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776972387
+|move|p1a: Excadrill|Rock Slide|p2a: Dudunsparce
+|-damage|p2a: Dudunsparce|143/343
+|cant|p2a: Dudunsparce|flinch
+|
+|-heal|p2a: Dudunsparce|164/343|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776972395
+|move|p1a: Excadrill|Earthquake|p2a: Dudunsparce
+|-damage|p2a: Dudunsparce|28/343
+|move|p2a: Dudunsparce|Roost|p2a: Dudunsparce
+|-heal|p2a: Dudunsparce|200/343
+|
+|-heal|p2a: Dudunsparce|221/343|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776972404
+|move|p1a: Excadrill|Earthquake|p2a: Dudunsparce
+|-damage|p2a: Dudunsparce|82/343
+|move|p2a: Dudunsparce|Roost|p2a: Dudunsparce
+|-heal|p2a: Dudunsparce|254/343
+|
+|-heal|p2a: Dudunsparce|275/343|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776972413
+|move|p1a: Excadrill|Earthquake|p2a: Dudunsparce
+|-damage|p2a: Dudunsparce|149/343
+|move|p2a: Dudunsparce|Roost|p2a: Dudunsparce
+|-heal|p2a: Dudunsparce|321/343
+|
+|-heal|p2a: Dudunsparce|342/343|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776972422
+|move|p1a: Excadrill|Rapid Spin|p2a: Dudunsparce
+|-immune|p2a: Dudunsparce
+|move|p2a: Dudunsparce|Boomburst|p1a: Excadrill
+|-resisted|p1a: Excadrill
+|-damage|p1a: Excadrill|73/303
+|
+|-heal|p2a: Dudunsparce|343/343|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1776972432
+|move|p1a: Excadrill|Iron Head|p2a: Dudunsparce
+|-damage|p2a: Dudunsparce|229/343
+|cant|p2a: Dudunsparce|flinch
+|
+|-heal|p2a: Dudunsparce|250/343|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776972440
+|move|p1a: Excadrill|Earthquake|p2a: Dudunsparce
+|-damage|p2a: Dudunsparce|126/343
+|move|p2a: Dudunsparce|Calm Mind|p2a: Dudunsparce
+|-boost|p2a: Dudunsparce|spa|1
+|-boost|p2a: Dudunsparce|spd|1
+|
+|-heal|p2a: Dudunsparce|147/343|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776972449
+|move|p1a: Excadrill|Iron Head|p2a: Dudunsparce
+|-damage|p2a: Dudunsparce|36/343
+|move|p2a: Dudunsparce|Boomburst|p1a: Excadrill
+|-resisted|p1a: Excadrill
+|-damage|p1a: Excadrill|0 fnt
+|faint|p1a: Excadrill
+|
+|-heal|p2a: Dudunsparce|57/343|[from] item: Leftovers
+|upkeep
+|
+|t:|1776972457
+|switch|p1a: Vileplume|Vileplume, L85, F|266/266
+|turn|13
+|
+|t:|1776972464
+|move|p2a: Dudunsparce|Roost|p2a: Dudunsparce
+|-heal|p2a: Dudunsparce|229/343
+|move|p1a: Vileplume|Giga Drain|p2a: Dudunsparce
+|-damage|p2a: Dudunsparce|180/343
+|
+|-heal|p2a: Dudunsparce|201/343|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1776972475
+|move|p2a: Dudunsparce|Roost|p2a: Dudunsparce
+|-heal|p2a: Dudunsparce|343/343
+|move|p1a: Vileplume|Leech Seed|p2a: Dudunsparce
+|-start|p2a: Dudunsparce|move: Leech Seed
+|
+|-damage|p2a: Dudunsparce|301/343|[from] Leech Seed|[of] p1a: Vileplume
+|upkeep
+|turn|15
+|
+|t:|1776972484
+|move|p2a: Dudunsparce|Shadow Ball|p1a: Vileplume
+|-damage|p1a: Vileplume|131/266
+|-unboost|p1a: Vileplume|spd|1
+|move|p1a: Vileplume|Sludge Bomb|p2a: Dudunsparce
+|-resisted|p2a: Dudunsparce
+|-damage|p2a: Dudunsparce|269/343
+|
+|-heal|p2a: Dudunsparce|290/343|[from] item: Leftovers
+|-heal|p1a: Vileplume|147/266|[from] item: Leftovers
+|-damage|p2a: Dudunsparce|248/343|[from] Leech Seed|[of] p1a: Vileplume
+|-heal|p1a: Vileplume|189/266|[silent]
+|upkeep
+|turn|16
+|
+|t:|1776972496
+|switch|p1a: Zacian|Zacian, L69|241/241
+|-ability|p1a: Zacian|Intrepid Sword|boost
+|-boost|p1a: Zacian|atk|1
+|move|p2a: Dudunsparce|Boomburst|p1a: Zacian
+|-damage|p1a: Zacian|0 fnt
+|faint|p1a: Zacian
+|
+|-heal|p2a: Dudunsparce|269/343|[from] item: Leftovers
+|upkeep
+|-message|MYSTIC_PHNTOM forfeited.
+|
+|win|P3n15inthevagoogoo
+|raw|MYSTIC_PHNTOM's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|raw|P3n15inthevagoogoo's rating: 1047 &rarr; <strong>1076</strong><br />(+29 for winning)
+|l|☆MYSTIC_PHNTOM
+|player|p1|

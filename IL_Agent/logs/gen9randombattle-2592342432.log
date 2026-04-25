@@ -1,0 +1,589 @@
+|j|☆etrdyfyiu
+|j|☆bady43
+|t:|1776980444
+|gametype|singles
+|player|p1|etrdyfyiu|170|1481
+|player|p2|bady43|will|1448
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776980444
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Appletun|Appletun, L92, M|352/352
+|switch|p2a: Zekrom|Zekrom, L71|259/259
+|-ability|p2a: Zekrom|Teravolt
+|turn|1
+|
+|t:|1776980477
+|switch|p2a: Porygon2|Porygon2, L81|270/270
+|-ability|p2a: Porygon2|Download|boost
+|-boost|p2a: Porygon2|spa|1
+|move|p1a: Appletun|Dragon Tail|p2a: Porygon2
+|-damage|p2a: Porygon2|224/270
+|drag|p2a: Lanturn|Lanturn, L89, F|367/367
+|
+|upkeep
+|turn|2
+|
+|t:|1776980496
+|move|p2a: Lanturn|Thunder Wave|p1a: Appletun
+|-status|p1a: Appletun|par
+|cant|p1a: Appletun|par
+|
+|upkeep
+|turn|3
+|
+|t:|1776980511
+|move|p2a: Lanturn|Thunderbolt|p1a: Appletun
+|-resisted|p1a: Appletun
+|-damage|p1a: Appletun|331/352 par
+|move|p1a: Appletun|Apple Acid|p2a: Lanturn
+|-supereffective|p2a: Lanturn
+|-damage|p2a: Lanturn|155/367
+|-unboost|p2a: Lanturn|spd|1
+|
+|-heal|p1a: Appletun|352/352 par|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776980523
+|move|p2a: Lanturn|Volt Switch|p1a: Appletun
+|-resisted|p1a: Appletun
+|-damage|p1a: Appletun|335/352 par
+|
+|t:|1776980528
+|switch|p2a: Porygon2|Porygon2, L81|224/270|[from] Volt Switch
+|-ability|p2a: Porygon2|Download|boost
+|-boost|p2a: Porygon2|spa|1
+|move|p1a: Appletun|Dragon Pulse|p2a: Porygon2
+|-damage|p2a: Porygon2|158/270
+|
+|-heal|p1a: Appletun|352/352 par|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776980542
+|move|p2a: Porygon2|Ice Beam|p1a: Appletun
+|-supereffective|p1a: Appletun
+|-damage|p1a: Appletun|156/352 par
+|move|p1a: Appletun|Dragon Tail|p2a: Porygon2
+|-damage|p2a: Porygon2|109/270
+|drag|p2a: Lanturn|Lanturn, L89, F|155/367
+|
+|-heal|p1a: Appletun|178/352 par|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776980555
+|move|p2a: Lanturn|Volt Switch|p1a: Appletun
+|-resisted|p1a: Appletun
+|-damage|p1a: Appletun|161/352 par
+|
+|t:|1776980559
+|switch|p2a: Porygon2|Porygon2, L81|109/270|[from] Volt Switch
+|-ability|p2a: Porygon2|Download|boost
+|-boost|p2a: Porygon2|spa|1
+|cant|p1a: Appletun|par
+|
+|-heal|p1a: Appletun|183/352 par|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776980575
+|-terastallize|p1a: Appletun|Steel
+|move|p2a: Porygon2|Ice Beam|p1a: Appletun
+|-resisted|p1a: Appletun
+|-crit|p1a: Appletun
+|-damage|p1a: Appletun|147/352 par
+|move|p1a: Appletun|Recover|p1a: Appletun
+|-heal|p1a: Appletun|323/352 par
+|
+|-heal|p1a: Appletun|345/352 par|[from] item: Leftovers
+|upkeep
+|turn|8
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by bady43)
+|
+|t:|1776980589
+|move|p2a: Porygon2|Recover|p2a: Porygon2
+|-heal|p2a: Porygon2|244/270
+|cant|p1a: Appletun|par
+|
+|-heal|p1a: Appletun|352/352 par|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776980600
+|move|p2a: Porygon2|Tri Attack|p1a: Appletun
+|-resisted|p1a: Appletun
+|-damage|p1a: Appletun|290/352 par
+|move|p1a: Appletun|Apple Acid|p2a: Porygon2
+|-damage|p2a: Porygon2|175/270
+|-unboost|p2a: Porygon2|spd|1
+|
+|-heal|p1a: Appletun|312/352 par|[from] item: Leftovers
+|upkeep
+|turn|10
+|inactive|bady43 has 120 seconds left.
+|
+|t:|1776980633
+|switch|p2a: Lanturn|Lanturn, L89, F|155/367
+|cant|p1a: Appletun|par
+|
+|-heal|p1a: Appletun|334/352 par|[from] item: Leftovers
+|upkeep
+|turn|11
+|inactive|bady43 has 120 seconds left.
+|
+|t:|1776980644
+|move|p2a: Lanturn|Volt Switch|p1a: Appletun
+|-damage|p1a: Appletun|262/352 par
+|
+|t:|1776980648
+|switch|p2a: Tauros|Tauros-Paldea-Combat, L82, M|257/257|[from] Volt Switch
+|-ability|p2a: Tauros|Intimidate|boost
+|-unboost|p1a: Appletun|atk|1
+|move|p1a: Appletun|Apple Acid|p2a: Tauros
+|-damage|p2a: Tauros|143/257
+|-unboost|p2a: Tauros|spd|1
+|
+|-heal|p1a: Appletun|284/352 par|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776980657
+|switch|p1a: Illumise|Illumise, L91, F|266/266
+|move|p2a: Tauros|Close Combat|p1a: Illumise
+|-resisted|p1a: Illumise
+|-damage|p1a: Illumise|171/266
+|-unboost|p2a: Tauros|def|1
+|-unboost|p2a: Tauros|spd|1
+|-damage|p2a: Tauros|118/257|[from] item: Life Orb
+|
+|upkeep
+|turn|13
+|
+|t:|1776980671
+|switch|p2a: Lanturn|Lanturn, L89, F|155/367
+|move|p1a: Illumise|Encore||[still]
+|-fail|p1a: Illumise
+|
+|upkeep
+|turn|14
+|
+|t:|1776980677
+|move|p1a: Illumise|Bug Buzz|p2a: Lanturn
+|-damage|p2a: Lanturn|55/367
+|move|p2a: Lanturn|Thunder Wave|p1a: Illumise
+|-status|p1a: Illumise|par
+|
+|upkeep
+|turn|15
+|
+|t:|1776980689
+|move|p1a: Illumise|Encore|p2a: Lanturn
+|-start|p2a: Lanturn|Encore
+|move|p2a: Lanturn|Thunder Wave|p1a: Illumise
+|-fail|p1a: Illumise|par
+|
+|upkeep
+|turn|16
+|
+|t:|1776980697
+|switch|p2a: Porygon2|Porygon2, L81|175/270
+|-ability|p2a: Porygon2|Download|boost
+|-boost|p2a: Porygon2|atk|1
+|move|p1a: Illumise|Roost|p1a: Illumise
+|-heal|p1a: Illumise|266/266 par
+|-singleturn|p1a: Illumise|move: Roost
+|
+|upkeep
+|turn|17
+|
+|t:|1776980705
+|move|p1a: Illumise|Thunder Wave|p2a: Porygon2
+|-status|p2a: Porygon2|par
+|move|p2a: Porygon2|Tri Attack|p1a: Illumise
+|-damage|p1a: Illumise|185/266 par
+|
+|upkeep
+|turn|18
+|
+|t:|1776980711
+|move|p1a: Illumise|Bug Buzz|p2a: Porygon2
+|-damage|p2a: Porygon2|115/270 par
+|cant|p2a: Porygon2|par
+|
+|upkeep
+|turn|19
+|
+|t:|1776980716
+|move|p1a: Illumise|Bug Buzz|p2a: Porygon2
+|-damage|p2a: Porygon2|52/270 par
+|move|p2a: Porygon2|Tri Attack|p1a: Illumise
+|-damage|p1a: Illumise|103/266 par
+|
+|upkeep
+|turn|20
+|
+|t:|1776980726
+|move|p1a: Illumise|Bug Buzz|p2a: Porygon2
+|-damage|p2a: Porygon2|0 fnt
+|faint|p2a: Porygon2
+|
+|upkeep
+|
+|t:|1776980750
+|switch|p2a: Zekrom|Zekrom, L71|259/259
+|-ability|p2a: Zekrom|Teravolt
+|turn|21
+|
+|t:|1776980756
+|move|p1a: Illumise|Roost|p1a: Illumise
+|-heal|p1a: Illumise|236/266 par
+|-singleturn|p1a: Illumise|move: Roost
+|move|p2a: Zekrom|Dragon Dance|p2a: Zekrom
+|-boost|p2a: Zekrom|atk|1
+|-boost|p2a: Zekrom|spe|1
+|
+|upkeep
+|turn|22
+|
+|t:|1776980775
+|switch|p2a: Lanturn|Lanturn, L89, F|55/367
+|move|p1a: Illumise|Encore||[still]
+|-fail|p1a: Illumise
+|
+|upkeep
+|turn|23
+|
+|t:|1776980780
+|switch|p2a: Zekrom|Zekrom, L71|259/259
+|-ability|p2a: Zekrom|Teravolt
+|move|p1a: Illumise|Bug Buzz|p2a: Zekrom
+|-damage|p2a: Zekrom|159/259
+|-unboost|p2a: Zekrom|spd|1
+|
+|-heal|p2a: Zekrom|175/259|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1776980786
+|move|p2a: Zekrom|Bolt Strike|p1a: Illumise
+|-damage|p1a: Illumise|83/266 par
+|move|p1a: Illumise|Bug Buzz|p2a: Zekrom
+|-damage|p2a: Zekrom|36/259
+|
+|-heal|p2a: Zekrom|52/259|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1776980791
+|move|p1a: Illumise|Roost|p1a: Illumise
+|-heal|p1a: Illumise|216/266 par
+|-singleturn|p1a: Illumise|move: Roost
+|move|p2a: Zekrom|Bolt Strike|p1a: Illumise
+|-damage|p1a: Illumise|63/266 par
+|
+|-heal|p2a: Zekrom|68/259|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1776980798
+|move|p1a: Illumise|Roost|p1a: Illumise
+|-heal|p1a: Illumise|196/266 par
+|-singleturn|p1a: Illumise|move: Roost
+|move|p2a: Zekrom|Bolt Strike|p1a: Illumise
+|-damage|p1a: Illumise|40/266 par
+|
+|-heal|p2a: Zekrom|84/259|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1776980805
+|move|p1a: Illumise|Roost|p1a: Illumise
+|-heal|p1a: Illumise|173/266 par
+|-singleturn|p1a: Illumise|move: Roost
+|move|p2a: Zekrom|Bolt Strike|p1a: Illumise
+|-damage|p1a: Illumise|31/266 par
+|
+|-heal|p2a: Zekrom|100/259|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1776980815
+|move|p1a: Illumise|Roost|p1a: Illumise
+|-heal|p1a: Illumise|164/266 par
+|-singleturn|p1a: Illumise|move: Roost
+|move|p2a: Zekrom|Bolt Strike|p1a: Illumise
+|-damage|p1a: Illumise|29/266 par
+|
+|-heal|p2a: Zekrom|116/259|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1776980828
+|move|p1a: Illumise|Roost|p1a: Illumise
+|-heal|p1a: Illumise|162/266 par
+|-singleturn|p1a: Illumise|move: Roost
+|move|p2a: Zekrom|Bolt Strike|p1a: Illumise
+|-damage|p1a: Illumise|11/266 par
+|
+|-heal|p2a: Zekrom|132/259|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1776980833
+|cant|p1a: Illumise|par
+|move|p2a: Zekrom|Bolt Strike|p1a: Illumise
+|-damage|p1a: Illumise|0 fnt
+|faint|p1a: Illumise
+|
+|-heal|p2a: Zekrom|148/259|[from] item: Leftovers
+|upkeep
+|
+|t:|1776980846
+|switch|p1a: Jolteon|Jolteon, L84, M|246/246
+|turn|31
+|
+|t:|1776980869
+|-terastallize|p2a: Zekrom|Fairy
+|move|p1a: Jolteon|Substitute|p1a: Jolteon
+|-start|p1a: Jolteon|Substitute
+|-damage|p1a: Jolteon|185/246
+|move|p2a: Zekrom|Dragon Dance|p2a: Zekrom
+|-boost|p2a: Zekrom|atk|1
+|-boost|p2a: Zekrom|spe|1
+|
+|-heal|p1a: Jolteon|200/246|[from] item: Leftovers
+|-heal|p2a: Zekrom|164/259|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1776980883
+|move|p1a: Jolteon|Calm Mind|p1a: Jolteon
+|-boost|p1a: Jolteon|spa|1
+|-boost|p1a: Jolteon|spd|1
+|move|p2a: Zekrom|Outrage|p1a: Jolteon
+|-end|p1a: Jolteon|Substitute
+|
+|-heal|p1a: Jolteon|215/246|[from] item: Leftovers
+|-heal|p2a: Zekrom|180/259|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1776980891
+|move|p1a: Jolteon|Thunderbolt|p2a: Zekrom
+|-damage|p2a: Zekrom|0 fnt
+|faint|p2a: Zekrom
+|
+|-heal|p1a: Jolteon|230/246|[from] item: Leftovers
+|upkeep
+|
+|t:|1776980897
+|switch|p2a: Lanturn|Lanturn, L89, F|55/367
+|turn|34
+|
+|t:|1776980904
+|move|p1a: Jolteon|Tera Blast|p2a: Lanturn
+|-damage|p2a: Lanturn|0 fnt
+|faint|p2a: Lanturn
+|
+|-heal|p1a: Jolteon|245/246|[from] item: Leftovers
+|upkeep
+|
+|t:|1776980908
+|switch|p2a: Donphan|Donphan, L84, F|288/288
+|turn|35
+|
+|t:|1776980919
+|switch|p1a: Palafin|Palafin, L77, F|281/281
+|move|p2a: Donphan|Knock Off|p1a: Palafin
+|-damage|p1a: Palafin|184/281
+|-enditem|p1a: Palafin|Choice Band|[from] move: Knock Off|[of] p2a: Donphan
+|
+|upkeep
+|turn|36
+|
+|t:|1776980928
+|move|p1a: Palafin|Flip Turn|p2a: Donphan
+|-supereffective|p2a: Donphan
+|-damage|p2a: Donphan|220/288
+|
+|t:|1776980933
+|detailschange|p1a: Palafin|Palafin-Hero, L77, F
+|switch|p1a: Jolteon|Jolteon, L84, M|245/246|[from] Flip Turn
+|move|p2a: Donphan|Earthquake|p1a: Jolteon
+|-supereffective|p1a: Jolteon
+|-damage|p1a: Jolteon|0 fnt
+|faint|p1a: Jolteon
+|
+|-heal|p2a: Donphan|238/288|[from] item: Leftovers
+|upkeep
+|
+|t:|1776980938
+|switch|p1a: Palafin|Palafin-Hero, L77, F|184/281
+|-activate|p1a: Palafin|ability: Zero to Hero
+|turn|37
+|
+|t:|1776980943
+|switch|p2a: Shiftry|Shiftry, L89, M|305/305
+|move|p1a: Palafin|Wave Crash|p2a: Shiftry
+|-resisted|p2a: Shiftry
+|-damage|p2a: Shiftry|214/305
+|-damage|p1a: Palafin|154/281|[from] Recoil
+|
+|upkeep
+|turn|38
+|
+|t:|1776980955
+|move|p1a: Palafin|Flip Turn|p2a: Shiftry
+|-resisted|p2a: Shiftry
+|-damage|p2a: Shiftry|160/305
+|
+|t:|1776980960
+|switch|p1a: Gouging Fire|Gouging Fire, L74|277/277|[from] Flip Turn
+|move|p2a: Shiftry|Leaf Blade|p1a: Gouging Fire
+|-resisted|p1a: Gouging Fire
+|-damage|p1a: Gouging Fire|248/277
+|-damage|p2a: Shiftry|130/305|[from] item: Life Orb
+|
+|upkeep
+|turn|39
+|
+|t:|1776980974
+|switch|p2a: Donphan|Donphan, L84, F|238/288
+|move|p1a: Gouging Fire|Dragon Dance|p1a: Gouging Fire
+|-boost|p1a: Gouging Fire|atk|1
+|-boost|p1a: Gouging Fire|spe|1
+|
+|-heal|p2a: Donphan|256/288|[from] item: Leftovers
+|upkeep
+|turn|40
+|
+|t:|1776980980
+|move|p1a: Gouging Fire|Dragon Dance|p1a: Gouging Fire
+|-boost|p1a: Gouging Fire|atk|1
+|-boost|p1a: Gouging Fire|spe|1
+|move|p2a: Donphan|Earthquake|p1a: Gouging Fire
+|-supereffective|p1a: Gouging Fire
+|-damage|p1a: Gouging Fire|44/277
+|
+|-heal|p2a: Donphan|274/288|[from] item: Leftovers
+|upkeep
+|turn|41
+|
+|t:|1776980989
+|move|p1a: Gouging Fire|Outrage|p2a: Donphan
+|-damage|p2a: Donphan|87/288
+|move|p2a: Donphan|Earthquake|p1a: Gouging Fire
+|-supereffective|p1a: Gouging Fire
+|-damage|p1a: Gouging Fire|0 fnt
+|faint|p1a: Gouging Fire
+|-end|p1a: Gouging Fire|Protosynthesis|[silent]
+|
+|-heal|p2a: Donphan|105/288|[from] item: Leftovers
+|upkeep
+|
+|t:|1776980994
+|switch|p1a: Palafin|Palafin-Hero, L77, F|154/281
+|turn|42
+|
+|t:|1776981003
+|move|p1a: Palafin|Jet Punch|p2a: Donphan
+|-supereffective|p2a: Donphan
+|-damage|p2a: Donphan|0 fnt
+|faint|p2a: Donphan
+|
+|upkeep
+|
+|t:|1776981006
+|switch|p2a: Shiftry|Shiftry, L89, M|130/305
+|turn|43
+|
+|t:|1776981011
+|move|p1a: Palafin|Close Combat|p2a: Shiftry
+|-supereffective|p2a: Shiftry
+|-damage|p2a: Shiftry|0 fnt
+|-unboost|p1a: Palafin|def|1
+|-unboost|p1a: Palafin|spd|1
+|faint|p2a: Shiftry
+|
+|upkeep
+|
+|t:|1776981014
+|switch|p2a: Tauros|Tauros-Paldea-Combat, L82, M|118/257
+|-ability|p2a: Tauros|Intimidate|boost
+|-unboost|p1a: Palafin|atk|1
+|turn|44
+|inactive|bady43 has 120 seconds left.
+|
+|t:|1776981045
+|switch|p1a: Morpeko|Morpeko, L88, F|245/245
+|move|p2a: Tauros|Bulk Up|p2a: Tauros
+|-boost|p2a: Tauros|atk|1
+|-boost|p2a: Tauros|def|1
+|
+|-formechange|p1a: Morpeko|Morpeko-Hangry||[from] ability: Hunger Switch
+|upkeep
+|turn|45
+|
+|t:|1776981068
+|move|p1a: Morpeko|Protect|p1a: Morpeko
+|-singleturn|p1a: Morpeko|Protect
+|move|p2a: Tauros|Earthquake|p1a: Morpeko
+|-activate|p1a: Morpeko|move: Protect
+|
+|-formechange|p1a: Morpeko|Morpeko||[from] ability: Hunger Switch
+|upkeep
+|turn|46
+|
+|t:|1776981074
+|move|p1a: Morpeko|Parting Shot|p2a: Tauros
+|-unboost|p2a: Tauros|atk|1
+|-unboost|p2a: Tauros|spa|1
+|
+|t:|1776981078
+|switch|p1a: Appletun|Appletun, L92, M, tera:Steel|284/352 par|[from] Parting Shot
+|move|p2a: Tauros|Earthquake|p1a: Appletun
+|-supereffective|p1a: Appletun
+|-damage|p1a: Appletun|89/352 par
+|-damage|p2a: Tauros|93/257|[from] item: Life Orb
+|
+|-heal|p1a: Appletun|111/352 par|[from] item: Leftovers
+|upkeep
+|turn|47
+|
+|t:|1776981085
+|move|p2a: Tauros|Earthquake|p1a: Appletun
+|-supereffective|p1a: Appletun
+|-damage|p1a: Appletun|0 fnt
+|faint|p1a: Appletun
+|-damage|p2a: Tauros|68/257|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776981088
+|switch|p1a: Palafin|Palafin-Hero, L77, F|154/281
+|turn|48
+|
+|t:|1776981103
+|move|p1a: Palafin|Jet Punch|p2a: Tauros
+|-damage|p2a: Tauros|20/257
+|move|p2a: Tauros|Close Combat|p1a: Palafin
+|-damage|p1a: Palafin|0 fnt
+|-unboost|p2a: Tauros|def|1
+|-unboost|p2a: Tauros|spd|1
+|faint|p1a: Palafin
+|-damage|p2a: Tauros|0 fnt|[from] item: Life Orb
+|faint|p2a: Tauros
+|
+|win|etrdyfyiu
+|raw|etrdyfyiu's rating: 1481 &rarr; <strong>1499</strong><br />(+18 for winning)
+|raw|bady43's rating: 1448 &rarr; <strong>1430</strong><br />(-18 for losing)

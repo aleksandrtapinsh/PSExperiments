@@ -1,0 +1,164 @@
+|j|☆Alexandre195
+|j|☆cacajan
+|t:|1776974551
+|gametype|singles
+|player|p1|Alexandre195|iris-gen5bw2|1411
+|player|p2|cacajan|170|1403
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776974552
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Clefable|Clefable, L83, M|293/293
+|switch|p2a: Crabominable|Crabominable, L90, F|321/321
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Alexandre195)
+|
+|t:|1776974574
+|switch|p2a: Meowstic|Meowstic-F, L89, F|277/277
+|move|p1a: Clefable|Thunder Wave|p2a: Meowstic|[miss]
+|-miss|p1a: Clefable|p2a: Meowstic
+|
+|upkeep
+|turn|2
+|
+|t:|1776974602
+|switch|p2a: Rotom|Rotom-Frost, L87|229/229
+|move|p1a: Clefable|Stealth Rock|p2a: Rotom
+|-sidestart|p2: cacajan|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1776974611
+|switch|p1a: Mienshao|Mienshao, L83, M|244/244
+|move|p2a: Rotom|Nasty Plot|p2a: Rotom
+|-boost|p2a: Rotom|spa|2
+|
+|upkeep
+|turn|4
+|
+|t:|1776974622
+|-terastallize|p2a: Rotom|Electric
+|move|p1a: Mienshao|Close Combat|p2a: Rotom
+|-damage|p2a: Rotom|57/229
+|-unboost|p1a: Mienshao|def|1
+|-unboost|p1a: Mienshao|spd|1
+|-damage|p1a: Mienshao|220/244|[from] item: Life Orb
+|move|p2a: Rotom|Thunderbolt|p1a: Mienshao
+|-damage|p1a: Mienshao|0 fnt
+|faint|p1a: Mienshao
+|
+|upkeep
+|
+|t:|1776974630
+|switch|p1a: Pikachu|Pikachu-Unova, L93, F|216/216
+|turn|5
+|
+|t:|1776974648
+|move|p1a: Pikachu|Surf|p2a: Rotom
+|-damage|p2a: Rotom|0 fnt
+|faint|p2a: Rotom
+|
+|upkeep
+|
+|t:|1776974666
+|switch|p2a: Crabominable|Crabominable, L90, F|321/321
+|-damage|p2a: Crabominable|281/321|[from] Stealth Rock
+|turn|6
+|
+|t:|1776974672
+|move|p1a: Pikachu|Volt Switch|p2a: Crabominable
+|-damage|p2a: Crabominable|146/321
+|
+|t:|1776974677
+|switch|p1a: Clefable|Clefable, L83, M|293/293|[from] Volt Switch
+|move|p2a: Crabominable|Ice Hammer|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|-unboost|p2a: Crabominable|spe|1
+|faint|p1a: Clefable
+|
+|upkeep
+|
+|t:|1776974681
+|switch|p1a: Pikachu|Pikachu-Unova, L93, F|216/216
+|turn|7
+|
+|t:|1776974686
+|move|p1a: Pikachu|Volt Switch|p2a: Crabominable
+|-damage|p2a: Crabominable|10/321
+|
+|t:|1776974692
+|switch|p1a: Entei|Entei, L78|307/307|[from] Volt Switch
+|move|p2a: Crabominable|Ice Hammer|p1a: Entei
+|-resisted|p1a: Entei
+|-damage|p1a: Entei|142/307
+|-unboost|p2a: Crabominable|spe|1
+|
+|upkeep
+|turn|8
+|
+|t:|1776974699
+|move|p1a: Entei|Sacred Fire|p2a: Crabominable
+|-supereffective|p2a: Crabominable
+|-damage|p2a: Crabominable|0 fnt
+|faint|p2a: Crabominable
+|
+|upkeep
+|
+|t:|1776974719
+|switch|p2a: Porygon-Z|Porygon-Z, L83|277/277
+|-damage|p2a: Porygon-Z|243/277|[from] Stealth Rock
+|-ability|p2a: Porygon-Z|Download|boost
+|-boost|p2a: Porygon-Z|spa|1
+|turn|9
+|
+|t:|1776974726
+|move|p1a: Entei|Sacred Fire|p2a: Porygon-Z
+|-damage|p2a: Porygon-Z|54/277
+|-status|p2a: Porygon-Z|brn
+|move|p2a: Porygon-Z|Tri Attack|p1a: Entei
+|-damage|p1a: Entei|0 fnt
+|faint|p1a: Entei
+|-damage|p2a: Porygon-Z|27/277 brn|[from] item: Life Orb
+|
+|-damage|p2a: Porygon-Z|10/277 brn|[from] brn
+|upkeep
+|
+|t:|1776974740
+|switch|p1a: Pikachu|Pikachu-Unova, L93, F|216/216
+|turn|10
+|
+|t:|1776974747
+|move|p1a: Pikachu|Surf|p2a: Porygon-Z
+|-damage|p2a: Porygon-Z|0 fnt
+|faint|p2a: Porygon-Z
+|
+|upkeep
+|
+|t:|1776974757
+|switch|p2a: Polteageist|Polteageist, L78|222/222
+|-damage|p2a: Polteageist|195/222|[from] Stealth Rock
+|turn|11
+|
+|t:|1776974761
+|move|p1a: Pikachu|Volt Tackle|p2a: Polteageist
+|-damage|p2a: Polteageist|0 fnt
+|faint|p2a: Polteageist
+|-damage|p1a: Pikachu|152/216|[from] Recoil
+|
+|upkeep
+|-message|cacajan forfeited.
+|
+|win|Alexandre195
+|raw|Alexandre195's rating: 1411 &rarr; <strong>1431</strong><br />(+20 for winning)
+|raw|cacajan's rating: 1403 &rarr; <strong>1383</strong><br />(-20 for losing)
+|l|☆cacajan
+|player|p2|

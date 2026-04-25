@@ -1,0 +1,256 @@
+|j|☆Ayano_aiashi
+|j|☆ChrisLongnos3
+|t:|1776972156
+|gametype|singles
+|player|p1|Ayano_aiashi|swimmerf-gen4|
+|player|p2|ChrisLongnos3|marshal|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776972156
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Squawkabilly|Squawkabilly-Blue, L85, M|278/278
+|switch|p2a: Venomoth|Venomoth, L84, M|255/255
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Ayano_aiashi)
+|
+|t:|1776972167
+|move|p1a: Squawkabilly|Brave Bird|p2a: Venomoth
+|-supereffective|p2a: Venomoth
+|-damage|p2a: Venomoth|0 fnt
+|faint|p2a: Venomoth
+|-damage|p1a: Squawkabilly|194/278|[from] Recoil
+|
+|-status|p1a: Squawkabilly|brn|[from] item: Flame Orb
+|upkeep
+|inactive|ChrisLongnos3 has 270 seconds left.
+|
+|t:|1776972198
+|switch|p2a: Froslass|Froslass, L87, F|263/263
+|turn|2
+|
+|t:|1776972204
+|move|p2a: Froslass|Triple Axel|p1a: Squawkabilly
+|-supereffective|p1a: Squawkabilly
+|-damage|p1a: Squawkabilly|132/278 brn
+|-supereffective|p1a: Squawkabilly
+|-damage|p1a: Squawkabilly|6/278 brn
+|-supereffective|p1a: Squawkabilly
+|-damage|p1a: Squawkabilly|0 fnt
+|faint|p1a: Squawkabilly
+|-hitcount|p1: Squawkabilly|3
+|
+|upkeep
+|
+|t:|1776972210
+|switch|p1a: Alcremie|Alcremie-Ruby-Swirl, L90, F|263/263
+|turn|3
+|inactive|ChrisLongnos3 has 270 seconds left.
+|
+|t:|1776972245
+|switch|p2a: Iron Boulder|Iron Boulder, L77|265/265
+|move|p1a: Alcremie|Alluring Voice|p2a: Iron Boulder
+|-damage|p2a: Iron Boulder|162/265
+|
+|upkeep
+|turn|4
+|
+|t:|1776972255
+|move|p2a: Iron Boulder|Swords Dance|p2a: Iron Boulder
+|-boost|p2a: Iron Boulder|atk|2
+|move|p1a: Alcremie|Alluring Voice|p2a: Iron Boulder
+|-damage|p2a: Iron Boulder|65/265
+|-start|p2a: Iron Boulder|confusion
+|
+|upkeep
+|turn|5
+|
+|t:|1776972269
+|-activate|p2a: Iron Boulder|confusion
+|move|p2a: Iron Boulder|Mighty Cleave|p1a: Alcremie
+|-crit|p1a: Alcremie
+|-damage|p1a: Alcremie|0 fnt
+|faint|p1a: Alcremie
+|-damage|p2a: Iron Boulder|39/265|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776972285
+|switch|p1a: Meowscarada|Meowscarada, L78, F|247/247
+|turn|6
+|
+|t:|1776972290
+|move|p1a: Meowscarada|Flower Trick|p2a: Iron Boulder
+|-start|p1a: Meowscarada|typechange|Grass|[from] ability: Protean
+|-supereffective|p2a: Iron Boulder
+|-crit|p2a: Iron Boulder
+|-damage|p2a: Iron Boulder|0 fnt
+|faint|p2a: Iron Boulder
+|-end|p2a: Iron Boulder|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1776972300
+|switch|p2a: Reshiram|Reshiram, L76|277/277
+|-ability|p2a: Reshiram|Turboblaze
+|turn|7
+|
+|t:|1776972307
+|move|p1a: Meowscarada|Flower Trick|p2a: Reshiram
+|-resisted|p2a: Reshiram
+|-crit|p2a: Reshiram
+|-damage|p2a: Reshiram|240/277
+|move|p2a: Reshiram|Blue Flare|p1a: Meowscarada
+|-supereffective|p1a: Meowscarada
+|-damage|p1a: Meowscarada|0 fnt
+|faint|p1a: Meowscarada
+|
+|upkeep
+|
+|t:|1776972316
+|switch|p1a: Keldeo|Keldeo-Resolute, L79|273/273
+|turn|8
+|
+|t:|1776972334
+|switch|p2a: Slither Wing|Slither Wing, L81|270/270
+|move|p1a: Keldeo|Hydro Pump|p2a: Slither Wing
+|-damage|p2a: Slither Wing|92/270
+|
+|upkeep
+|turn|9
+|
+|t:|1776972343
+|move|p1a: Keldeo|Hydro Pump|p2a: Slither Wing|[miss]
+|-miss|p1a: Keldeo|p2a: Slither Wing
+|move|p2a: Slither Wing|Morning Sun|p2a: Slither Wing
+|-heal|p2a: Slither Wing|227/270
+|
+|upkeep
+|turn|10
+|
+|t:|1776972368
+|-end|p2a: Slither Wing|Protosynthesis|[silent]
+|switch|p2a: Froslass|Froslass, L87, F|263/263
+|move|p1a: Keldeo|Hydro Pump|p2a: Froslass
+|-damage|p2a: Froslass|35/263
+|-start|p1a: Keldeo|Disable|Hydro Pump|[from] ability: Cursed Body|[of] p2a: Froslass
+|
+|upkeep
+|turn|11
+|
+|t:|1776972383
+|switch|p1a: Dedenne|Dedenne, L88, M|261/261
+|move|p2a: Froslass|Will-O-Wisp|p1a: Dedenne
+|-status|p1a: Dedenne|brn
+|
+|-damage|p1a: Dedenne|245/261 brn|[from] brn
+|upkeep
+|turn|12
+|inactive|ChrisLongnos3 has 270 seconds left.
+|
+|t:|1776972415
+|switch|p2a: Reshiram|Reshiram, L76|240/277
+|-ability|p2a: Reshiram|Turboblaze
+|move|p1a: Dedenne|Thunderbolt|p2a: Reshiram
+|-resisted|p2a: Reshiram
+|-damage|p2a: Reshiram|201/277
+|
+|-damage|p1a: Dedenne|229/261 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1776972427
+|-terastallize|p2a: Reshiram|Ground
+|move|p1a: Dedenne|Dazzling Gleam|p2a: Reshiram
+|-damage|p2a: Reshiram|132/277
+|move|p2a: Reshiram|Earth Power|p1a: Dedenne
+|-supereffective|p1a: Dedenne
+|-damage|p1a: Dedenne|0 fnt
+|faint|p1a: Dedenne
+|
+|upkeep
+|
+|t:|1776972432
+|switch|p1a: Keldeo|Keldeo-Resolute, L79|273/273
+|turn|14
+|
+|t:|1776972445
+|switch|p2a: Froslass|Froslass, L87, F|35/263
+|move|p1a: Keldeo|Secret Sword|p2a: Froslass
+|-immune|p2a: Froslass
+|
+|upkeep
+|turn|15
+|inactive|ChrisLongnos3 has 270 seconds left.
+|
+|t:|1776972453
+|switch|p1a: Kommo-o|Kommo-o, L78, F|245/245
+|move|p2a: Froslass|Will-O-Wisp|p1a: Kommo-o
+|-status|p1a: Kommo-o|brn
+|
+|-damage|p1a: Kommo-o|230/245 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1776972462
+|move|p2a: Froslass|Spikes|p1a: Kommo-o
+|-sidestart|p1: Ayano_aiashi|Spikes
+|move|p1a: Kommo-o|Clangorous Soul|p1a: Kommo-o
+|-boost|p1a: Kommo-o|atk|1
+|-boost|p1a: Kommo-o|def|1
+|-boost|p1a: Kommo-o|spa|1
+|-boost|p1a: Kommo-o|spd|1
+|-boost|p1a: Kommo-o|spe|1
+|-damage|p1a: Kommo-o|150/245 brn
+|-enditem|p1a: Kommo-o|Throat Spray
+|-boost|p1a: Kommo-o|spa|1|[from] item: Throat Spray
+|
+|-damage|p1a: Kommo-o|135/245 brn|[from] brn
+|upkeep
+|turn|17
+|inactive|ChrisLongnos3 has 270 seconds left.
+|
+|t:|1776972482
+|move|p1a: Kommo-o|Clanging Scales|p2a: Froslass
+|-damage|p2a: Froslass|0 fnt
+|faint|p2a: Froslass
+|-unboost|p1a: Kommo-o|def|1
+|
+|-damage|p1a: Kommo-o|120/245 brn|[from] brn
+|upkeep
+|inactive|ChrisLongnos3 has 270 seconds left.
+|
+|t:|1776972506
+|switch|p2a: Flamigo|Flamigo, L82, F|269/269
+|turn|18
+|
+|t:|1776972523
+|move|p2a: Flamigo|Brave Bird|p1a: Kommo-o
+|-supereffective|p1a: Kommo-o
+|-damage|p1a: Kommo-o|0 fnt
+|faint|p1a: Kommo-o
+|-damage|p2a: Flamigo|229/269|[from] Recoil
+|
+|upkeep
+|
+|t:|1776972526
+|switch|p1a: Keldeo|Keldeo-Resolute, L79|273/273
+|-damage|p1a: Keldeo|239/273|[from] Spikes
+|turn|19
+|
+|t:|1776972540
+|move|p2a: Flamigo|Brave Bird|p1a: Keldeo
+|-supereffective|p1a: Keldeo
+|-damage|p1a: Keldeo|0 fnt
+|faint|p1a: Keldeo
+|-damage|p2a: Flamigo|150/269|[from] Recoil
+|
+|win|ChrisLongnos3
+|l|☆Ayano_aiashi
+|player|p1|

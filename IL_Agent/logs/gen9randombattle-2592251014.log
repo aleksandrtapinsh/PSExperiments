@@ -1,0 +1,376 @@
+|j|☆whereisthehax
+|j|☆disconnectduewifi
+|t:|1776973424
+|gametype|singles
+|player|p1|whereisthehax|2|1739
+|player|p2|disconnectduewifi|lucas|1698
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776973424
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Swampert|Swampert, L83, M|302/302
+|switch|p2a: Cramorant|Cramorant, L86, M|261/261
+|turn|1
+|
+|t:|1776973432
+|move|p2a: Cramorant|Surf|p1a: Swampert
+|-formechange|p2a: Cramorant|Cramorant-Gulping|
+|-damage|p1a: Swampert|206/302
+|move|p1a: Swampert|Stealth Rock|p2a: Cramorant
+|-sidestart|p2: disconnectduewifi|move: Stealth Rock
+|
+|-heal|p1a: Swampert|224/302|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776973443
+|move|p2a: Cramorant|Defog|p1a: Swampert
+|-unboost|p1a: Swampert|evasion|1
+|-sideend|p2: disconnectduewifi|Stealth Rock|[from] move: Defog|[of] p2a: Cramorant
+|move|p1a: Swampert|Yawn|p2a: Cramorant
+|-start|p2a: Cramorant|move: Yawn|[of] p1a: Swampert
+|
+|-heal|p1a: Swampert|242/302|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776973456
+|switch|p2a: Arboliva|Arboliva, L91, F|290/290
+|move|p1a: Swampert|Stealth Rock|p2a: Arboliva
+|-sidestart|p2: disconnectduewifi|move: Stealth Rock
+|
+|-heal|p1a: Swampert|260/302|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776973472
+|move|p1a: Swampert|Flip Turn|p2a: Arboliva
+|-resisted|p2a: Arboliva
+|-damage|p2a: Arboliva|258/290
+|-fieldstart|move: Grassy Terrain|[from] ability: Seed Sower|[of] p2a: Arboliva
+|
+|t:|1776973478
+|switch|p1a: Sceptile|Sceptile, L87, M|264/264|[from] Flip Turn
+|move|p2a: Arboliva|Energy Ball|p1a: Sceptile
+|-resisted|p1a: Sceptile
+|-damage|p1a: Sceptile|178/264
+|-unboost|p1a: Sceptile|spd|1
+|
+|-heal|p1a: Sceptile|194/264|[from] Grassy Terrain
+|-heal|p2a: Arboliva|276/290|[from] Grassy Terrain
+|-heal|p2a: Arboliva|290/290|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776973491
+|move|p1a: Sceptile|Focus Blast|p2a: Arboliva
+|-supereffective|p2a: Arboliva
+|-damage|p2a: Arboliva|100/290
+|-unboost|p2a: Arboliva|spd|1
+|-damage|p1a: Sceptile|168/264|[from] item: Life Orb
+|move|p2a: Arboliva|Hyper Voice|p1a: Sceptile
+|-damage|p1a: Sceptile|0 fnt
+|faint|p1a: Sceptile
+|
+|-heal|p2a: Arboliva|118/290|[from] Grassy Terrain
+|-heal|p2a: Arboliva|136/290|[from] item: Leftovers
+|upkeep
+|
+|t:|1776973504
+|switch|p1a: Ninetales|Ninetales-Alola, L78, F|242/242
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p1a: Ninetales
+|turn|6
+|
+|t:|1776973520
+|switch|p2a: Froslass|Froslass, L87, F|263/263
+|-damage|p2a: Froslass|198/263|[from] Stealth Rock
+|move|p1a: Ninetales|Freeze-Dry|p2a: Froslass
+|-resisted|p2a: Froslass
+|-damage|p2a: Froslass|168/263
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Froslass|184/263|[from] Grassy Terrain
+|upkeep
+|turn|7
+|
+|t:|1776973531
+|move|p2a: Froslass|Taunt|p1a: Ninetales
+|-start|p1a: Ninetales|move: Taunt
+|cant|p1a: Ninetales|move: Taunt|Aurora Veil
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Froslass|200/263|[from] Grassy Terrain
+|upkeep
+|turn|8
+|
+|t:|1776973541
+|move|p2a: Froslass|Poltergeist|p1a: Ninetales
+|-activate|p1a: Ninetales|move: Poltergeist|Light Clay
+|-damage|p1a: Ninetales|151/242
+|move|p1a: Ninetales|Moonblast|p2a: Froslass
+|-damage|p2a: Froslass|107/263
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Froslass|123/263|[from] Grassy Terrain
+|-heal|p1a: Ninetales|166/242|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|9
+|
+|t:|1776973558
+|switch|p1a: Scovillain|Scovillain, L91, F|266/266
+|move|p2a: Froslass|Poltergeist|p1a: Scovillain
+|-activate|p1a: Scovillain|move: Poltergeist|Leftovers
+|-damage|p1a: Scovillain|140/266
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Scovillain|156/266|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1776973588
+|move|p2a: Froslass|Triple Axel|p1a: Scovillain
+|-damage|p1a: Scovillain|132/266
+|-damage|p1a: Scovillain|89/266
+|-damage|p1a: Scovillain|25/266
+|-hitcount|p1a: Scovillain|3
+|move|p1a: Scovillain|Flamethrower|p2a: Froslass
+|-supereffective|p2a: Froslass
+|-damage|p2a: Froslass|0 fnt
+|-start|p1a: Scovillain|Disable|Flamethrower|[from] ability: Cursed Body|[of] p2a: Froslass
+|faint|p2a: Froslass
+|
+|-weather|none
+|-heal|p1a: Scovillain|41/266|[from] item: Leftovers
+|upkeep
+|
+|t:|1776973602
+|switch|p2a: Cramorant|Cramorant, L86, M|261/261
+|turn|11
+|
+|t:|1776973607
+|move|p2a: Cramorant|Surf|p1a: Scovillain
+|-formechange|p2a: Cramorant|Cramorant-Gulping|
+|-crit|p1a: Scovillain
+|-damage|p1a: Scovillain|0 fnt
+|faint|p1a: Scovillain
+|
+|upkeep
+|
+|t:|1776973612
+|switch|p1a: Ninetales|Ninetales-Alola, L78, F|166/242
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p1a: Ninetales
+|turn|12
+|
+|t:|1776973619
+|move|p1a: Ninetales|Aurora Veil|p1a: Ninetales
+|-sidestart|p1: whereisthehax|move: Aurora Veil
+|move|p2a: Cramorant|Surf|p1a: Ninetales
+|-damage|p1a: Ninetales|120/242
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1776973625
+|move|p1a: Ninetales|Freeze-Dry|p2a: Cramorant
+|-supereffective|p2a: Cramorant
+|-damage|p2a: Cramorant|53/261
+|-damage|p1a: Ninetales|60/242|[from] ability: Gulp Missile|[of] p2a: Cramorant
+|-unboost|p1a: Ninetales|def|1
+|-formechange|p2a: Cramorant|Cramorant|
+|move|p2a: Cramorant|Defog|p1a: Ninetales
+|-unboost|p1a: Ninetales|evasion|1
+|-sideend|p1: whereisthehax|move: Aurora Veil
+|-sideend|p2: disconnectduewifi|Stealth Rock|[from] move: Defog|[of] p2a: Cramorant
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1776973642
+|move|p1a: Ninetales|Freeze-Dry|p2a: Cramorant
+|-supereffective|p2a: Cramorant
+|-damage|p2a: Cramorant|0 fnt
+|faint|p2a: Cramorant
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1776973655
+|switch|p2a: Morpeko|Morpeko, L88, M|245/245
+|turn|15
+|
+|t:|1776973663
+|move|p2a: Morpeko|Aura Wheel|p1a: Ninetales
+|-damage|p1a: Ninetales|0 fnt
+|-boost|p2a: Morpeko|spe|1
+|faint|p1a: Ninetales
+|
+|-weather|Snowscape|[upkeep]
+|-formechange|p2a: Morpeko|Morpeko-Hangry||[from] ability: Hunger Switch
+|upkeep
+|
+|t:|1776973668
+|switch|p1a: Excadrill|Excadrill, L79, M|303/303
+|-ability|p1a: Excadrill|Mold Breaker
+|turn|16
+|
+|t:|1776973679
+|move|p2a: Morpeko|Parting Shot|p1a: Excadrill
+|-unboost|p1a: Excadrill|atk|1
+|-unboost|p1a: Excadrill|spa|1
+|
+|t:|1776973686
+|switch|p2a: Great Tusk|Great Tusk, L77|304/304|[from] Parting Shot
+|move|p1a: Excadrill|Earthquake|p2a: Great Tusk
+|-damage|p2a: Great Tusk|235/304
+|
+|-weather|none
+|-heal|p2a: Great Tusk|254/304|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1776973701
+|switch|p1a: Swampert|Swampert, L83, M|260/302
+|move|p2a: Great Tusk|Bulk Up|p2a: Great Tusk
+|-boost|p2a: Great Tusk|atk|1
+|-boost|p2a: Great Tusk|def|1
+|
+|-heal|p2a: Great Tusk|273/304|[from] item: Leftovers
+|-heal|p1a: Swampert|278/302|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1776973723
+|move|p2a: Great Tusk|Earthquake|p1a: Swampert
+|-damage|p1a: Swampert|113/302
+|move|p1a: Swampert|Yawn|p2a: Great Tusk
+|-start|p2a: Great Tusk|move: Yawn|[of] p1a: Swampert
+|
+|-heal|p2a: Great Tusk|292/304|[from] item: Leftovers
+|-heal|p1a: Swampert|131/302|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1776973734
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Morpeko|Morpeko, L88, M|245/245
+|move|p1a: Swampert|Flip Turn|p2a: Morpeko
+|-damage|p2a: Morpeko|158/245
+|
+|t:|1776973739
+|switch|p1a: Excadrill|Excadrill, L79, M|303/303|[from] Flip Turn
+|-ability|p1a: Excadrill|Mold Breaker
+|
+|-formechange|p2a: Morpeko|Morpeko-Hangry||[from] ability: Hunger Switch
+|upkeep
+|turn|20
+|
+|t:|1776973750
+|move|p2a: Morpeko|Parting Shot|p1a: Excadrill
+|-unboost|p1a: Excadrill|atk|1
+|-unboost|p1a: Excadrill|spa|1
+|
+|t:|1776973754
+|switch|p2a: Great Tusk|Great Tusk, L77|292/304|[from] Parting Shot
+|move|p1a: Excadrill|Earthquake|p2a: Great Tusk
+|-damage|p2a: Great Tusk|226/304
+|
+|-heal|p2a: Great Tusk|245/304|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1776973763
+|switch|p1a: Swampert|Swampert, L83, M|131/302
+|move|p2a: Great Tusk|Close Combat|p1a: Swampert
+|-damage|p1a: Swampert|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Swampert
+|
+|-heal|p2a: Great Tusk|264/304|[from] item: Leftovers
+|upkeep
+|
+|t:|1776973773
+|switch|p1a: Kyurem|Kyurem, L77|319/319
+|-ability|p1a: Kyurem|Pressure
+|turn|22
+|
+|t:|1776973784
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Arboliva|Arboliva, L91, F|136/290
+|-terastallize|p1a: Kyurem|Ground
+|move|p1a: Kyurem|Dragon Dance|p1a: Kyurem
+|-boost|p1a: Kyurem|atk|1
+|-boost|p1a: Kyurem|spe|1
+|
+|-heal|p2a: Arboliva|154/290|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1776973798
+|move|p1a: Kyurem|Icicle Spear|p2a: Arboliva
+|-supereffective|p2a: Arboliva
+|-damage|p2a: Arboliva|74/290
+|-fieldstart|move: Grassy Terrain|[from] ability: Seed Sower|[of] p2a: Arboliva
+|-supereffective|p2a: Arboliva
+|-damage|p2a: Arboliva|2/290
+|-supereffective|p2a: Arboliva
+|-damage|p2a: Arboliva|0 fnt
+|faint|p2a: Arboliva
+|-hitcount|p2: Arboliva|3
+|
+|upkeep
+|
+|t:|1776973810
+|switch|p2a: Ogerpon|Ogerpon-Hearthflame, L74, F|239/239
+|-ability|p2a: Ogerpon|Mold Breaker
+|turn|24
+|
+|t:|1776973831
+|-terastallize|p2a: Ogerpon|Fire
+|detailschange|p2a: Ogerpon|Ogerpon-Hearthflame-Tera, L74, F, tera:Fire
+|-ability|p2a: Ogerpon|Embody Aspect (Hearthflame)|boost
+|-boost|p2a: Ogerpon|atk|1
+|move|p1a: Kyurem|Icicle Spear|p2a: Ogerpon
+|-resisted|p2a: Ogerpon
+|-damage|p2a: Ogerpon|212/239
+|-resisted|p2a: Ogerpon
+|-damage|p2a: Ogerpon|189/239
+|-resisted|p2a: Ogerpon
+|-damage|p2a: Ogerpon|166/239
+|-resisted|p2a: Ogerpon
+|-damage|p2a: Ogerpon|141/239
+|-hitcount|p2a: Ogerpon|4
+|move|p2a: Ogerpon|Horn Leech|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|-heal|p2a: Ogerpon|239/239|[from] drain|[of] p1a: Kyurem
+|faint|p1a: Kyurem
+|
+|upkeep
+|
+|t:|1776973836
+|switch|p1a: Excadrill|Excadrill, L79, M|303/303
+|-ability|p1a: Excadrill|Mold Breaker
+|turn|25
+|c|☆disconnectduewifi|Gg
+|
+|t:|1776973856
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Excadrill|[anim] Ivy Cudgel Fire
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|0 fnt
+|faint|p1a: Excadrill
+|
+|win|disconnectduewifi
+|raw|whereisthehax's rating: 1739 &rarr; <strong>1717</strong><br />(-22 for losing)
+|raw|disconnectduewifi's rating: 1698 &rarr; <strong>1720</strong><br />(+22 for winning)

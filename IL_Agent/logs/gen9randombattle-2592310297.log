@@ -1,0 +1,336 @@
+|j|☆vfbdfbvcgfnvbngn
+|j|☆Uptown10066
+|t:|1776977789
+|gametype|singles
+|player|p1|vfbdfbvcgfnvbngn|102|1040
+|player|p2|Uptown10066|101|1022
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776977789
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Tentacruel|Tentacruel, L84, M|272/272
+|switch|p2a: Sableye|Sableye, L88, M|231/231
+|turn|1
+|
+|t:|1776977802
+|move|p2a: Sableye|Thunder Wave|p1a: Tentacruel
+|-status|p1a: Tentacruel|par
+|move|p1a: Tentacruel|Surf|p2a: Sableye
+|-damage|p2a: Sableye|126/231
+|
+|-heal|p2a: Sableye|140/231|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776977827
+|move|p2a: Sableye|Knock Off|p1a: Tentacruel
+|-damage|p1a: Tentacruel|148/272 par
+|-enditem|p1a: Tentacruel|Assault Vest|[from] move: Knock Off|[of] p2a: Sableye
+|move|p1a: Tentacruel|Flip Turn|p2a: Sableye
+|-damage|p2a: Sableye|83/231
+|
+|t:|1776977830
+|switch|p1a: Banette|Banette, L93, M|270/270|[from] Flip Turn
+|
+|-heal|p2a: Sableye|97/231|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776977840
+|move|p2a: Sableye|Thunder Wave|p1a: Banette
+|-status|p1a: Banette|par
+|cant|p1a: Banette|par
+|
+|-heal|p2a: Sableye|111/231|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776977849
+|move|p2a: Sableye|Recover|p2a: Sableye
+|-heal|p2a: Sableye|227/231
+|move|p1a: Banette|Poltergeist|p2a: Sableye
+|-activate|p2a: Sableye|move: Poltergeist|Leftovers
+|-damage|p2a: Sableye|0 fnt
+|faint|p2a: Sableye
+|-damage|p1a: Banette|243/270 par|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776977871
+|switch|p2a: Granbull|Granbull, L88, M|302/302
+|-ability|p2a: Granbull|Intimidate|boost
+|-unboost|p1a: Banette|atk|1
+|turn|5
+|
+|t:|1776977886
+|move|p2a: Granbull|Play Rough|p1a: Banette|[miss]
+|-miss|p2a: Granbull|p1a: Banette
+|cant|p1a: Banette|par
+|
+|upkeep
+|turn|6
+|
+|t:|1776977893
+|move|p2a: Granbull|Play Rough|p1a: Banette
+|-damage|p1a: Banette|105/270 par
+|move|p1a: Banette|Thunder Wave|p2a: Granbull
+|-status|p2a: Granbull|par
+|
+|upkeep
+|turn|7
+|
+|t:|1776977901
+|switch|p1a: Tentacruel|Tentacruel, L84, M|148/272 par
+|cant|p2a: Granbull|par
+|
+|upkeep
+|turn|8
+|
+|t:|1776977920
+|-terastallize|p2a: Granbull|Ground
+|cant|p1a: Tentacruel|par
+|move|p2a: Granbull|Earthquake|p1a: Tentacruel
+|-supereffective|p1a: Tentacruel
+|-damage|p1a: Tentacruel|0 fnt
+|faint|p1a: Tentacruel
+|
+|upkeep
+|
+|t:|1776977924
+|switch|p1a: Gogoat|Gogoat, L88, M|360/360
+|turn|9
+|
+|t:|1776977942
+|switch|p2a: Entei|Entei, L78|307/307
+|move|p1a: Gogoat|Horn Leech|p2a: Entei
+|-resisted|p2a: Entei
+|-damage|p2a: Entei|258/307
+|
+|upkeep
+|turn|10
+|
+|t:|1776977961
+|switch|p1a: Chandelure|Chandelure, L83, M|235/235
+|move|p2a: Entei|Extreme Speed|p1a: Chandelure
+|-immune|p1a: Chandelure
+|
+|upkeep
+|turn|11
+|
+|t:|1776977983
+|switch|p2a: Volcanion|Volcanion, L79|255/255
+|move|p1a: Chandelure|Substitute|p1a: Chandelure
+|-start|p1a: Chandelure|Substitute
+|-damage|p1a: Chandelure|177/235
+|
+|-heal|p1a: Chandelure|191/235|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776978006
+|move|p1a: Chandelure|Shadow Ball|p2a: Volcanion
+|-damage|p2a: Volcanion|174/255
+|move|p2a: Volcanion|Steam Eruption|p1a: Chandelure
+|-supereffective|p1a: Chandelure
+|-end|p1a: Chandelure|Substitute
+|
+|-heal|p1a: Chandelure|205/235|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776978016
+|switch|p1a: Chansey|Chansey, L85, F|564/564
+|move|p2a: Volcanion|Earth Power|p1a: Chansey
+|-damage|p1a: Chansey|523/564
+|
+|upkeep
+|turn|14
+|
+|t:|1776978032
+|move|p2a: Volcanion|Flame Charge|p1a: Chansey
+|-damage|p1a: Chansey|408/564
+|-boost|p2a: Volcanion|spe|1
+|move|p1a: Chansey|Stealth Rock|p2a: Volcanion
+|-sidestart|p2: Uptown10066|move: Stealth Rock
+|
+|upkeep
+|turn|15
+|
+|t:|1776978039
+|move|p2a: Volcanion|Flame Charge|p1a: Chansey
+|-damage|p1a: Chansey|284/564
+|-boost|p2a: Volcanion|spe|1
+|move|p1a: Chansey|Seismic Toss|p2a: Volcanion
+|-damage|p2a: Volcanion|89/255
+|
+|upkeep
+|turn|16
+|
+|t:|1776978054
+|move|p2a: Volcanion|Steam Eruption|p1a: Chansey
+|-damage|p1a: Chansey|212/564
+|-status|p1a: Chansey|brn
+|move|p1a: Chansey|Soft-Boiled|p1a: Chansey
+|-heal|p1a: Chansey|494/564 brn
+|
+|-damage|p1a: Chansey|459/564 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1776978067
+|switch|p2a: Granbull|Granbull, L88, M, tera:Ground|302/302 par
+|-damage|p2a: Granbull|284/302 par|[from] Stealth Rock
+|-ability|p2a: Granbull|Intimidate|boost
+|-unboost|p1a: Chansey|atk|1
+|move|p1a: Chansey|Seismic Toss|p2a: Granbull
+|-damage|p2a: Granbull|199/302 par
+|
+|-heal|p2a: Granbull|217/302 par|[from] item: Leftovers
+|-damage|p1a: Chansey|424/564 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1776978089
+|-curestatus|p1a: Chansey|brn|[from] ability: Natural Cure
+|switch|p1a: Gogoat|Gogoat, L88, M|360/360
+|move|p2a: Granbull|Earthquake|p1a: Gogoat
+|-resisted|p1a: Gogoat
+|-damage|p1a: Gogoat|268/360
+|
+|-heal|p1a: Gogoat|290/360|[from] item: Leftovers
+|-heal|p2a: Granbull|235/302 par|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1776978099
+|move|p1a: Gogoat|Horn Leech|p2a: Granbull
+|-supereffective|p2a: Granbull
+|-damage|p2a: Granbull|47/302 par
+|-heal|p1a: Gogoat|360/360|[from] drain|[of] p2a: Granbull
+|move|p2a: Granbull|Thunder Wave|p1a: Gogoat
+|-status|p1a: Gogoat|par
+|
+|-heal|p2a: Granbull|65/302 par|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1776978110
+|move|p1a: Gogoat|Earthquake|p2a: Granbull
+|-crit|p2a: Granbull
+|-damage|p2a: Granbull|0 fnt
+|faint|p2a: Granbull
+|
+|upkeep
+|
+|t:|1776978129
+|switch|p2a: Entei|Entei, L78|258/307
+|-damage|p2a: Entei|182/307|[from] Stealth Rock
+|turn|21
+|
+|t:|1776978144
+|switch|p1a: Banette|Banette, L93, M|105/270 par
+|move|p2a: Entei|Sacred Fire|p1a: Banette
+|-damage|p1a: Banette|0 fnt
+|faint|p1a: Banette
+|
+|upkeep
+|
+|t:|1776978146
+|switch|p1a: Chandelure|Chandelure, L83, M|205/235
+|turn|22
+|
+|t:|1776978168
+|move|p2a: Entei|Sacred Fire|p1a: Chandelure
+|-start|p1a: Chandelure|ability: Flash Fire
+|move|p1a: Chandelure|Substitute|p1a: Chandelure
+|-start|p1a: Chandelure|Substitute
+|-damage|p1a: Chandelure|147/235
+|
+|-heal|p1a: Chandelure|161/235|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1776978186
+|switch|p2a: Rabsca|Rabsca, L91, M|284/284
+|move|p1a: Chandelure|Shadow Ball|p2a: Rabsca
+|-supereffective|p2a: Rabsca
+|-damage|p2a: Rabsca|104/284
+|
+|-heal|p1a: Chandelure|175/235|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1776978218
+|move|p1a: Chandelure|Shadow Ball|p2a: Rabsca
+|-supereffective|p2a: Rabsca
+|-damage|p2a: Rabsca|0 fnt
+|faint|p2a: Rabsca
+|
+|-heal|p1a: Chandelure|189/235|[from] item: Leftovers
+|upkeep
+|
+|t:|1776978234
+|switch|p2a: Entei|Entei, L78|182/307
+|-damage|p2a: Entei|106/307|[from] Stealth Rock
+|turn|25
+|
+|t:|1776978238
+|move|p2a: Entei|Stomping Tantrum|p1a: Chandelure
+|-supereffective|p1a: Chandelure
+|-end|p1a: Chandelure|Substitute
+|move|p1a: Chandelure|Shadow Ball|p2a: Entei
+|-crit|p2a: Entei
+|-damage|p2a: Entei|0 fnt
+|faint|p2a: Entei
+|
+|-heal|p1a: Chandelure|203/235|[from] item: Leftovers
+|upkeep
+|
+|t:|1776978255
+|switch|p2a: Volcanion|Volcanion, L79|89/255
+|-damage|p2a: Volcanion|26/255|[from] Stealth Rock
+|turn|26
+|
+|t:|1776978263
+|move|p1a: Chandelure|Shadow Ball|p2a: Volcanion
+|-damage|p2a: Volcanion|0 fnt
+|faint|p2a: Volcanion
+|
+|-heal|p1a: Chandelure|217/235|[from] item: Leftovers
+|upkeep
+|
+|t:|1776978270
+|switch|p2a: Iron Hands|Iron Hands, L79|373/373
+|-damage|p2a: Iron Hands|350/373|[from] Stealth Rock
+|turn|27
+|
+|t:|1776978286
+|move|p1a: Chandelure|Fire Blast|p2a: Iron Hands
+|-damage|p2a: Iron Hands|49/373
+|move|p2a: Iron Hands|Thunder Punch|p1a: Chandelure
+|-damage|p1a: Chandelure|114/235
+|
+|-heal|p1a: Chandelure|128/235|[from] item: Leftovers
+|-heal|p2a: Iron Hands|72/373|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1776978298
+|move|p1a: Chandelure|Shadow Ball|p2a: Iron Hands
+|-damage|p2a: Iron Hands|0 fnt
+|faint|p2a: Iron Hands
+|-end|p2a: Iron Hands|Quark Drive|[silent]
+|
+|win|vfbdfbvcgfnvbngn
+|raw|vfbdfbvcgfnvbngn's rating: 1040 &rarr; <strong>1072</strong><br />(+32 for winning)
+|raw|Uptown10066's rating: 1022 &rarr; <strong>1009</strong><br />(-13 for losing)
+|l|☆Uptown10066
+|player|p2|

@@ -1,0 +1,250 @@
+|j|☆kataritf
+|j|☆ToodalooHarry
+|t:|1776984603
+|gametype|singles
+|player|p1|kataritf|1|1387
+|player|p2|ToodalooHarry|rocketgrunt|1350
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776984603
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Greninja|Greninja, L80, M|246/246
+|switch|p2a: Plusle|Plusle, L95, M|268/268
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ToodalooHarry)
+|
+|t:|1776984624
+|move|p1a: Greninja|Grass Knot|p2a: Plusle
+|-start|p1a: Greninja|typechange|Grass|[from] ability: Protean
+|-damage|p2a: Plusle|239/268
+|-damage|p1a: Greninja|222/246|[from] item: Life Orb
+|move|p2a: Plusle|Thunderbolt|p1a: Greninja
+|-resisted|p1a: Greninja
+|-damage|p1a: Greninja|128/246
+|-status|p1a: Greninja|par
+|-damage|p2a: Plusle|213/268|[from] item: Life Orb
+|
+|upkeep
+|turn|2
+|
+|t:|1776984637
+|move|p2a: Plusle|Encore|p1a: Greninja
+|-start|p1a: Greninja|Encore
+|move|p1a: Greninja|Grass Knot|p2a: Plusle
+|-damage|p2a: Plusle|188/268
+|-damage|p1a: Greninja|104/246 par|[from] item: Life Orb
+|
+|upkeep
+|turn|3
+|
+|t:|1776984656
+|switch|p1a: Chesnaught|Chesnaught, L84, F|285/285
+|move|p2a: Plusle|Nasty Plot|p2a: Plusle
+|-boost|p2a: Plusle|spa|2
+|
+|upkeep
+|turn|4
+|
+|t:|1776984667
+|-terastallize|p2a: Plusle|Fairy
+|move|p2a: Plusle|Alluring Voice|p1a: Chesnaught
+|-supereffective|p1a: Chesnaught
+|-damage|p1a: Chesnaught|0 fnt
+|faint|p1a: Chesnaught
+|-damage|p2a: Plusle|162/268|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776984675
+|switch|p1a: Alcremie|Alcremie-Ruby-Cream, L90, F|263/263
+|turn|5
+|
+|t:|1776984684
+|move|p2a: Plusle|Thunderbolt|p1a: Alcremie
+|-damage|p1a: Alcremie|47/263
+|-damage|p2a: Plusle|136/268|[from] item: Life Orb
+|move|p1a: Alcremie|Calm Mind|p1a: Alcremie
+|-boost|p1a: Alcremie|spa|1
+|-boost|p1a: Alcremie|spd|1
+|
+|-heal|p1a: Alcremie|63/263|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776984692
+|-terastallize|p1a: Alcremie|Ground
+|move|p2a: Plusle|Encore|p1a: Alcremie
+|-block|p1a: Alcremie|ability: Aroma Veil|[of] p1a: Alcremie
+|move|p1a: Alcremie|Calm Mind|p1a: Alcremie
+|-boost|p1a: Alcremie|spa|1
+|-boost|p1a: Alcremie|spd|1
+|
+|-heal|p1a: Alcremie|79/263|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776984701
+|move|p2a: Plusle|Alluring Voice|p1a: Alcremie
+|-damage|p1a: Alcremie|0 fnt
+|faint|p1a: Alcremie
+|-damage|p2a: Plusle|110/268|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776984723
+|switch|p1a: Regieleki|Regieleki, L79|256/256
+|turn|8
+|
+|t:|1776984729
+|move|p1a: Regieleki|Thunderbolt|p2a: Plusle
+|-ability|p2a: Plusle|Lightning Rod|boost
+|-boost|p2a: Plusle|spa|1
+|move|p2a: Plusle|Alluring Voice|p1a: Regieleki
+|-damage|p1a: Regieleki|0 fnt
+|faint|p1a: Regieleki
+|-damage|p2a: Plusle|84/268|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776984740
+|switch|p1a: Deoxys|Deoxys-Attack, L72|191/191
+|-ability|p1a: Deoxys|Pressure
+|turn|9
+|
+|t:|1776984747
+|move|p1a: Deoxys|Knock Off|p2a: Plusle
+|-resisted|p2a: Plusle
+|-damage|p2a: Plusle|0 fnt
+|-enditem|p2a: Plusle|Life Orb|[from] move: Knock Off|[of] p1a: Deoxys
+|faint|p2a: Plusle
+|-damage|p1a: Deoxys|172/191|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776984752
+|switch|p2a: Illumise|Illumise, L91, F|266/266
+|turn|10
+|
+|t:|1776984756
+|move|p2a: Illumise|Thunder Wave|p1a: Deoxys
+|-status|p1a: Deoxys|par
+|cant|p1a: Deoxys|par
+|
+|upkeep
+|turn|11
+|
+|t:|1776984761
+|move|p2a: Illumise|Bug Buzz|p1a: Deoxys
+|-supereffective|p1a: Deoxys
+|-crit|p1a: Deoxys
+|-damage|p1a: Deoxys|0 fnt
+|faint|p1a: Deoxys
+|
+|upkeep
+|
+|t:|1776984769
+|switch|p1a: Greninja|Greninja, L80, M|104/246 par
+|turn|12
+|
+|t:|1776984773
+|move|p2a: Illumise|Bug Buzz|p1a: Greninja
+|-supereffective|p1a: Greninja
+|-damage|p1a: Greninja|0 fnt
+|faint|p1a: Greninja
+|
+|upkeep
+|
+|t:|1776984782
+|switch|p1a: Glaceon|Glaceon, L94, F|275/275
+|turn|13
+|
+|t:|1776984788
+|move|p2a: Illumise|Thunder Wave|p1a: Glaceon
+|-status|p1a: Glaceon|par
+|move|p1a: Glaceon|Freeze-Dry|p2a: Illumise
+|-damage|p2a: Illumise|163/266
+|-status|p2a: Illumise|frz
+|
+|upkeep
+|turn|14
+|
+|t:|1776984797
+|cant|p2a: Illumise|frz
+|cant|p1a: Glaceon|par
+|
+|upkeep
+|turn|15
+|
+|t:|1776984801
+|-curestatus|p2a: Illumise|frz|[msg]
+|move|p2a: Illumise|Roost|p2a: Illumise
+|-heal|p2a: Illumise|266/266
+|-singleturn|p2a: Illumise|move: Roost
+|move|p1a: Glaceon|Calm Mind|p1a: Glaceon
+|-boost|p1a: Glaceon|spa|1
+|-boost|p1a: Glaceon|spd|1
+|
+|upkeep
+|turn|16
+|
+|t:|1776984808
+|move|p2a: Illumise|Encore|p1a: Glaceon
+|-start|p1a: Glaceon|Encore
+|move|p1a: Glaceon|Calm Mind|p1a: Glaceon
+|-boost|p1a: Glaceon|spa|1
+|-boost|p1a: Glaceon|spd|1
+|
+|upkeep
+|turn|17
+|
+|t:|1776984815
+|switch|p2a: Archaludon|Archaludon, L78, F|268/268
+|move|p1a: Glaceon|Calm Mind|p1a: Glaceon
+|-boost|p1a: Glaceon|spa|1
+|-boost|p1a: Glaceon|spd|1
+|
+|upkeep
+|turn|18
+|
+|t:|1776984823
+|move|p2a: Archaludon|Swords Dance|p2a: Archaludon
+|-boost|p2a: Archaludon|atk|2
+|cant|p1a: Glaceon|par
+|
+|-end|p1a: Glaceon|Encore
+|upkeep
+|turn|19
+|
+|t:|1776984830
+|move|p2a: Archaludon|Iron Head|p1a: Glaceon
+|-supereffective|p1a: Glaceon
+|-damage|p1a: Glaceon|39/275 par
+|move|p1a: Glaceon|Freeze-Dry|p2a: Archaludon
+|-damage|p2a: Archaludon|0 fnt
+|faint|p2a: Archaludon
+|
+|upkeep
+|
+|t:|1776984841
+|switch|p2a: Wigglytuff|Wigglytuff, L96, F|424/424
+|turn|20
+|
+|t:|1776984845
+|move|p2a: Wigglytuff|Knock Off|p1a: Glaceon
+|-damage|p1a: Glaceon|0 fnt
+|-enditem|p1a: Glaceon|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Wigglytuff
+|faint|p1a: Glaceon
+|
+|win|ToodalooHarry
+|raw|kataritf's rating: 1387 &rarr; <strong>1365</strong><br />(-22 for losing)
+|raw|ToodalooHarry's rating: 1350 &rarr; <strong>1372</strong><br />(+22 for winning)
+|l|☆kataritf
+|player|p1|

@@ -1,0 +1,322 @@
+|j|☆Yunoiaj
+|j|☆AlephSubZero
+|t:|1776969642
+|gametype|singles
+|player|p1|Yunoiaj|169|
+|player|p2|AlephSubZero|psychic-gen4|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776969642
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Okidogi|Okidogi, L77, M|262/262
+|switch|p2a: Noivern|Noivern, L82, F|274/274
+|turn|1
+|j| Roadto15oo
+|c|☆Yunoiaj|Glhf
+|c|☆AlephSubZero|u2
+|
+|t:|1776969664
+|switch|p1a: Pikachu|Pikachu, L93, M|216/216
+|move|p2a: Noivern|Hurricane|p1a: Pikachu
+|-resisted|p1a: Pikachu
+|-damage|p1a: Pikachu|111/216
+|
+|upkeep
+|turn|2
+|j| LeftoHotdo
+|
+|t:|1776969677
+|switch|p2a: Venusaur|Venusaur, L84, M|272/272
+|move|p1a: Pikachu|Knock Off|p2a: Venusaur
+|-damage|p2a: Venusaur|155/272
+|-enditem|p2a: Venusaur|Leftovers|[from] move: Knock Off|[of] p1a: Pikachu
+|
+|upkeep
+|turn|3
+|j| cherry786
+|
+|t:|1776969685
+|move|p1a: Pikachu|Volt Switch|p2a: Venusaur
+|-resisted|p2a: Venusaur
+|-damage|p2a: Venusaur|107/272
+|
+|t:|1776969702
+|switch|p1a: Trevenant|Trevenant, L89, M|296/296|[from] Volt Switch
+|move|p2a: Venusaur|Sludge Bomb|p1a: Trevenant
+|-damage|p1a: Trevenant|190/296
+|
+|upkeep
+|turn|4
+|
+|t:|1776969713
+|switch|p2a: Corviknight|Corviknight, L80, F|288/288
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Trevenant|Will-O-Wisp|p2a: Corviknight
+|-status|p2a: Corviknight|brn
+|
+|-damage|p2a: Corviknight|270/288 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1776969718
+|switch|p1a: Pikachu|Pikachu, L93, M|111/216
+|move|p2a: Corviknight|Brave Bird|p1a: Pikachu
+|-resisted|p1a: Pikachu
+|-damage|p1a: Pikachu|69/216
+|-damage|p2a: Corviknight|256/288 brn|[from] Recoil
+|
+|-heal|p2a: Corviknight|274/288 brn|[from] item: Leftovers
+|-damage|p2a: Corviknight|256/288 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1776969726
+|switch|p2a: Pikachu|Pikachu-Original, L93, M|216/216
+|move|p1a: Pikachu|Volt Switch|p2a: Pikachu
+|-ability|p2a: Pikachu|Lightning Rod|boost
+|-boost|p2a: Pikachu|spa|1
+|
+|upkeep
+|turn|7
+|
+|t:|1776969739
+|move|p2a: Pikachu|Fake Out|p1a: Pikachu
+|-damage|p1a: Pikachu|0 fnt
+|faint|p1a: Pikachu
+|
+|upkeep
+|j|+Lupla@!
+|
+|t:|1776969777
+|switch|p1a: Trevenant|Trevenant, L89, M|190/296
+|turn|8
+|
+|t:|1776969786
+|move|p2a: Pikachu|Volt Switch|p1a: Trevenant
+|-resisted|p1a: Trevenant
+|-damage|p1a: Trevenant|100/296
+|
+|t:|1776969793
+|switch|p2a: Scrafty|Scrafty, L83, F|244/244|[from] Volt Switch
+|move|p1a: Trevenant|Poltergeist|p2a: Scrafty|[miss]
+|-miss|p1a: Trevenant|p2a: Scrafty
+|
+|upkeep
+|turn|9
+|
+|t:|1776969803
+|move|p1a: Trevenant|Will-O-Wisp|p2a: Scrafty
+|-status|p2a: Scrafty|brn
+|move|p2a: Scrafty|Knock Off|p1a: Trevenant
+|-supereffective|p1a: Trevenant
+|-damage|p1a: Trevenant|3/296
+|-enditem|p1a: Trevenant|Life Orb|[from] move: Knock Off|[of] p2a: Scrafty
+|
+|-damage|p2a: Scrafty|229/244 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1776969813
+|move|p1a: Trevenant|Drain Punch|p2a: Scrafty
+|-supereffective|p2a: Scrafty
+|-damage|p2a: Scrafty|129/244 brn
+|-heal|p1a: Trevenant|53/296|[from] drain|[of] p2a: Scrafty
+|move|p2a: Scrafty|Knock Off|p1a: Trevenant
+|-supereffective|p1a: Trevenant
+|-damage|p1a: Trevenant|0 fnt
+|faint|p1a: Trevenant
+|
+|-heal|p2a: Scrafty|144/244 brn|[from] item: Leftovers
+|-damage|p2a: Scrafty|129/244 brn|[from] brn
+|upkeep
+|c|☆AlephSubZero|yuno I need you to start winning this game
+|c|☆AlephSubZero|I got a tour match in like
+|c|☆AlephSubZero|45 mins
+|
+|t:|1776969837
+|switch|p1a: Kilowattrel|Kilowattrel, L83, F|252/252
+|turn|11
+|j| The Carkol Rider
+|
+|t:|1776969853
+|move|p1a: Kilowattrel|Hurricane|p2a: Scrafty
+|-supereffective|p2a: Scrafty
+|-damage|p2a: Scrafty|0 fnt
+|faint|p2a: Scrafty
+|
+|upkeep
+|c|☆AlephSubZero|ok thank god I have like no answers to this
+|
+|t:|1776969872
+|switch|p2a: Pikachu|Pikachu-Original, L93, M|216/216
+|turn|12
+|
+|t:|1776969877
+|move|p2a: Pikachu|Fake Out|p1a: Kilowattrel
+|-damage|p1a: Kilowattrel|190/252
+|cant|p1a: Kilowattrel|flinch
+|
+|upkeep
+|turn|13
+|
+|t:|1776969879
+|move|p1a: Kilowattrel|U-turn|p2a: Pikachu
+|-damage|p2a: Pikachu|152/216
+|
+|t:|1776969889
+|switch|p1a: Latios|Latios, L78, M|253/253|[from] U-turn
+|move|p2a: Pikachu|Surf|p1a: Latios
+|-resisted|p1a: Latios
+|-damage|p1a: Latios|205/253
+|
+|upkeep
+|turn|14
+|
+|t:|1776969898
+|move|p2a: Pikachu|Volt Switch|p1a: Latios
+|-resisted|p1a: Latios
+|-damage|p1a: Latios|155/253
+|
+|t:|1776969906
+|switch|p2a: Venusaur|Venusaur, L84, M|107/272|[from] Volt Switch
+|move|p1a: Latios|Calm Mind|p1a: Latios
+|-boost|p1a: Latios|spa|1
+|-boost|p1a: Latios|spd|1
+|
+|upkeep
+|turn|15
+|
+|t:|1776969909
+|move|p1a: Latios|Psyshock|p2a: Venusaur
+|-supereffective|p2a: Venusaur
+|-damage|p2a: Venusaur|0 fnt
+|faint|p2a: Venusaur
+|
+|upkeep
+|
+|t:|1776969913
+|switch|p2a: Clawitzer|Clawitzer, L87, F|265/265
+|turn|16
+|
+|t:|1776969920
+|move|p1a: Latios|Draco Meteor|p2a: Clawitzer
+|-damage|p2a: Clawitzer|7/265
+|-unboost|p1a: Latios|spa|2
+|move|p2a: Clawitzer|Dark Pulse|p1a: Latios
+|-supereffective|p1a: Latios
+|-damage|p1a: Latios|0 fnt
+|faint|p1a: Latios
+|
+|upkeep
+|
+|t:|1776969930
+|switch|p1a: Kilowattrel|Kilowattrel, L83, F|190/252
+|turn|17
+|
+|t:|1776969932
+|move|p1a: Kilowattrel|U-turn|p2a: Clawitzer
+|-damage|p2a: Clawitzer|0 fnt
+|faint|p2a: Clawitzer
+|
+|t:|1776969934
+|switch|p1a: Okidogi|Okidogi, L77, M|262/262|[from] U-turn
+|
+|upkeep
+|
+|t:|1776969937
+|switch|p2a: Noivern|Noivern, L82, F|274/274
+|turn|18
+|
+|t:|1776969949
+|move|p2a: Noivern|Hurricane|p1a: Okidogi|[miss]
+|-miss|p2a: Noivern|p1a: Okidogi
+|move|p1a: Okidogi|Knock Off|p2a: Noivern
+|-damage|p2a: Noivern|192/274
+|-enditem|p2a: Noivern|Choice Specs|[from] move: Knock Off|[of] p1a: Okidogi
+|
+|upkeep
+|turn|19
+|
+|t:|1776969965
+|-terastallize|p1a: Okidogi|Dark
+|move|p2a: Noivern|Hurricane|p1a: Okidogi
+|-damage|p1a: Okidogi|150/262
+|move|p1a: Okidogi|Gunk Shot|p2a: Noivern
+|-damage|p2a: Noivern|48/274
+|
+|-heal|p1a: Okidogi|166/262|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1776969978
+|move|p2a: Noivern|Draco Meteor|p1a: Okidogi
+|-damage|p1a: Okidogi|15/262
+|-unboost|p2a: Noivern|spa|2
+|move|p1a: Okidogi|Knock Off|p2a: Noivern
+|-damage|p2a: Noivern|0 fnt
+|faint|p2a: Noivern
+|
+|-heal|p1a: Okidogi|31/262|[from] item: Leftovers
+|upkeep
+|
+|t:|1776969981
+|switch|p2a: Pikachu|Pikachu-Original, L93, M|152/216
+|turn|21
+|
+|t:|1776969984
+|move|p2a: Pikachu|Fake Out|p1a: Okidogi
+|-damage|p1a: Okidogi|0 fnt
+|faint|p1a: Okidogi
+|
+|upkeep
+|
+|t:|1776969987
+|switch|p1a: Zacian|Zacian, L69|241/241
+|-ability|p1a: Zacian|Intrepid Sword|boost
+|-boost|p1a: Zacian|atk|1
+|turn|22
+|
+|t:|1776969992
+|move|p1a: Zacian|Close Combat|p2a: Pikachu
+|-damage|p2a: Pikachu|0 fnt
+|-unboost|p1a: Zacian|def|1
+|-unboost|p1a: Zacian|spd|1
+|faint|p2a: Pikachu
+|
+|upkeep
+|
+|t:|1776969995
+|switch|p2a: Corviknight|Corviknight, L80, F|256/288 brn
+|-ability|p2a: Corviknight|Pressure
+|turn|23
+|c|☆AlephSubZero|gg
+|
+|t:|1776969999
+|move|p1a: Zacian|Close Combat|p2a: Corviknight
+|-damage|p2a: Corviknight|104/288 brn
+|-unboost|p1a: Zacian|def|1
+|-unboost|p1a: Zacian|spd|1
+|move|p2a: Corviknight|Brave Bird|p1a: Zacian
+|-damage|p1a: Zacian|134/241
+|-damage|p2a: Corviknight|69/288 brn|[from] Recoil
+|
+|-heal|p2a: Corviknight|87/288 brn|[from] item: Leftovers
+|-damage|p2a: Corviknight|69/288 brn|[from] brn
+|upkeep
+|turn|24
+|
+|t:|1776970003
+|move|p1a: Zacian|Close Combat|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|-unboost|p1a: Zacian|def|1
+|-unboost|p1a: Zacian|spd|1
+|faint|p2a: Corviknight
+|
+|win|Yunoiaj

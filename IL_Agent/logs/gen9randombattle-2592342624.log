@@ -1,0 +1,646 @@
+|j|☆Poscidion
+|j|☆Corky88
+|t:|1776980461
+|gametype|singles
+|player|p1|Poscidion|265|1702
+|player|p2|Corky88|265|1720
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776980461
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Blissey|Blissey, L85, F|572/572
+|switch|p2a: Jirachi|Jirachi, L80|291/291
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Corky88)
+|
+|t:|1776980467
+|move|p2a: Jirachi|Iron Head|p1a: Blissey
+|-damage|p1a: Blissey|319/572
+|move|p1a: Blissey|Thunder Wave|p2a: Jirachi
+|-status|p2a: Jirachi|par
+|
+|-heal|p1a: Blissey|354/572|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776980477
+|move|p1a: Blissey|Stealth Rock|p2a: Jirachi
+|-sidestart|p2: Corky88|move: Stealth Rock
+|move|p2a: Jirachi|Body Slam|p1a: Blissey
+|-damage|p1a: Blissey|187/572
+|
+|-heal|p1a: Blissey|222/572|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776980485
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|508/572
+|move|p2a: Jirachi|Body Slam|p1a: Blissey
+|-damage|p1a: Blissey|345/572
+|
+|-heal|p1a: Blissey|380/572|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776980492
+|move|p1a: Blissey|Thunder Wave|p2a: Jirachi
+|-fail|p2a: Jirachi|par
+|move|p2a: Jirachi|Body Slam|p1a: Blissey
+|-damage|p1a: Blissey|202/572
+|-status|p1a: Blissey|par
+|
+|-heal|p1a: Blissey|237/572 par|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776980499
+|-curestatus|p1a: Blissey|par|[from] ability: Natural Cure
+|switch|p1a: Luxray|Luxray, L88, M|283/283
+|cant|p2a: Jirachi|par
+|
+|-status|p1a: Luxray|brn|[from] item: Flame Orb
+|upkeep
+|turn|6
+|
+|t:|1776980507
+|move|p2a: Jirachi|Protect|p2a: Jirachi
+|-singleturn|p2a: Jirachi|Protect
+|move|p1a: Luxray|Trailblaze|p2a: Jirachi
+|-activate|p2a: Jirachi|move: Protect
+|
+|-damage|p1a: Luxray|266/283 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1776980515
+|switch|p2a: Tropius|Tropius, L91, M|328/328
+|-damage|p2a: Tropius|246/328|[from] Stealth Rock
+|move|p1a: Luxray|Trailblaze|p2a: Tropius
+|-resisted|p2a: Tropius
+|-damage|p2a: Tropius|230/328
+|-boost|p1a: Luxray|spe|1
+|
+|-damage|p1a: Luxray|249/283 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1776980522
+|-terastallize|p1a: Luxray|Normal
+|move|p1a: Luxray|Facade|p2a: Tropius
+|-damage|p2a: Tropius|0 fnt
+|faint|p2a: Tropius
+|
+|-damage|p1a: Luxray|232/283 brn|[from] brn
+|upkeep
+|
+|t:|1776980531
+|switch|p2a: Passimian|Passimian, L83, M|302/302
+|-damage|p2a: Passimian|284/302|[from] Stealth Rock
+|turn|9
+|
+|t:|1776980537
+|switch|p1a: Amoonguss|Amoonguss, L82, M|321/321
+|move|p2a: Passimian|Drain Punch|p1a: Amoonguss
+|-resisted|p1a: Amoonguss
+|-damage|p1a: Amoonguss|260/321
+|-heal|p2a: Passimian|302/302|[from] drain|[of] p1a: Amoonguss
+|
+|-heal|p1a: Amoonguss|280/321|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1776980547
+|switch|p2a: Jirachi|Jirachi, L80|291/291 par
+|-damage|p2a: Jirachi|273/291 par|[from] Stealth Rock
+|switch|p1a: Blissey|Blissey, L85, F|237/572
+|
+|-heal|p1a: Blissey|272/572|[from] item: Leftovers
+|-heal|p2a: Jirachi|291/291 par|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776980555
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|558/572
+|cant|p2a: Jirachi|par
+|
+|-heal|p1a: Blissey|572/572|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776980563
+|switch|p1a: Luxray|Luxray, L88, M, tera:Normal|232/283 brn
+|move|p2a: Jirachi|Body Slam|p1a: Luxray
+|-damage|p1a: Luxray|172/283 brn
+|
+|-damage|p1a: Luxray|155/283 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1776980569
+|move|p1a: Luxray|Facade|p2a: Jirachi
+|-resisted|p2a: Jirachi
+|-damage|p2a: Jirachi|161/291 par
+|move|p2a: Jirachi|Iron Head|p1a: Luxray
+|-damage|p1a: Luxray|67/283 brn
+|
+|-heal|p2a: Jirachi|179/291 par|[from] item: Leftovers
+|-damage|p1a: Luxray|50/283 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1776980579
+|switch|p2a: Giratina|Giratina, L75|349/349
+|-damage|p2a: Giratina|306/349|[from] Stealth Rock
+|-ability|p2a: Giratina|Pressure
+|move|p1a: Luxray|Throat Chop|p2a: Giratina
+|-supereffective|p2a: Giratina
+|-damage|p2a: Giratina|112/349
+|-start|p2a: Giratina|Throat Chop|[silent]
+|
+|-heal|p2a: Giratina|133/349|[from] item: Leftovers
+|-damage|p1a: Luxray|33/283 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1776980598
+|switch|p1a: Blissey|Blissey, L85, F|572/572
+|move|p2a: Giratina|Rest|p2a: Giratina
+|-status|p2a: Giratina|slp|[from] move: Rest
+|-heal|p2a: Giratina|349/349 slp|[silent]
+|
+|-end|p2a: Giratina|Throat Chop|[silent]
+|upkeep
+|turn|16
+|
+|t:|1776980603
+|move|p1a: Blissey|Stealth Rock||[still]
+|-fail|p1a: Blissey
+|cant|p2a: Giratina|slp
+|
+|upkeep
+|turn|17
+|
+|t:|1776980612
+|switch|p1a: Luxray|Luxray, L88, M, tera:Normal|33/283 brn
+|cant|p2a: Giratina|slp
+|move|p2a: Giratina|Sleep Talk|p2a: Giratina
+|move|p2a: Giratina|Dragon Tail|p1a: Luxray|[from] move: Sleep Talk
+|-damage|p1a: Luxray|0 fnt
+|faint|p1a: Luxray
+|
+|upkeep
+|
+|t:|1776980618
+|switch|p1a: Kingambit|Kingambit, L74, M|270/270
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen1|[silent]
+|turn|18
+|
+|t:|1776980626
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Giratina
+|-supereffective|p2a: Giratina
+|-crit|p2a: Giratina
+|-damage|p2a: Giratina|101/349 slp
+|-curestatus|p2a: Giratina|slp|[msg]
+|move|p2a: Giratina|Dragon Tail|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|247/270
+|-end|p1a: Kingambit|fallen1|[silent]
+|drag|p1a: Blissey|Blissey, L85, F|572/572
+|
+|-heal|p2a: Giratina|122/349|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1776980633
+|move|p1a: Blissey|Thunder Wave|p2a: Giratina
+|-status|p2a: Giratina|par
+|move|p2a: Giratina|Dragon Tail|p1a: Blissey
+|-damage|p1a: Blissey|424/572
+|drag|p1a: Kingambit|Kingambit, L74, M|247/270
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen1|[silent]
+|
+|-heal|p1a: Kingambit|263/270|[from] item: Leftovers
+|-heal|p2a: Giratina|143/349 par|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1776980660
+|switch|p2a: Passimian|Passimian, L83, M|302/302
+|-damage|p2a: Passimian|284/302|[from] Stealth Rock
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|-heal|p2a: Passimian|302/302|[from] item: Leftovers
+|-heal|p1a: Kingambit|270/270|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1776980667
+|-end|p1a: Kingambit|fallen1|[silent]
+|switch|p1a: Amoonguss|Amoonguss, L82, M|321/321
+|move|p2a: Passimian|Gunk Shot|p1a: Amoonguss
+|-damage|p1a: Amoonguss|197/321
+|
+|-heal|p1a: Amoonguss|217/321|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1776980683
+|move|p2a: Passimian|Knock Off|p1a: Amoonguss
+|-damage|p1a: Amoonguss|125/321
+|-enditem|p1a: Amoonguss|Leftovers|[from] move: Knock Off|[of] p2a: Passimian
+|move|p1a: Amoonguss|Spore|p2a: Passimian
+|-status|p2a: Passimian|slp|[from] move: Spore
+|
+|upkeep
+|turn|23
+|
+|t:|1776980695
+|switch|p2a: Giratina|Giratina, L75|143/349 par
+|-damage|p2a: Giratina|100/349 par|[from] Stealth Rock
+|-ability|p2a: Giratina|Pressure
+|move|p1a: Amoonguss|Giga Drain|p2a: Giratina
+|-resisted|p2a: Giratina
+|-damage|p2a: Giratina|70/349 par
+|-heal|p1a: Amoonguss|140/321|[from] drain|[of] p2a: Giratina
+|
+|-heal|p2a: Giratina|91/349 par|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1776980701
+|switch|p1a: Kingambit|Kingambit, L74, M|270/270
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen1|[silent]
+|move|p2a: Giratina|Rest|p2a: Giratina
+|-status|p2a: Giratina|slp|[from] move: Rest
+|-heal|p2a: Giratina|349/349 slp|[silent]
+|
+|upkeep
+|turn|25
+|
+|t:|1776980711
+|switch|p2a: Hariyama|Hariyama, L87, F|392/392
+|-damage|p2a: Hariyama|368/392|[from] Stealth Rock
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|-status|p2a: Hariyama|brn|[from] item: Flame Orb
+|upkeep
+|turn|26
+|
+|t:|1776980730
+|-end|p1a: Kingambit|fallen1|[silent]
+|switch|p1a: Amoonguss|Amoonguss, L82, M|247/321
+|move|p2a: Hariyama|Close Combat|p1a: Amoonguss
+|-resisted|p1a: Amoonguss
+|-damage|p1a: Amoonguss|100/321
+|-unboost|p2a: Hariyama|def|1
+|-unboost|p2a: Hariyama|spd|1
+|
+|-damage|p2a: Hariyama|344/392 brn|[from] brn
+|upkeep
+|turn|27
+|
+|t:|1776980744
+|switch|p1a: Koraidon|Koraidon, L64|235/235
+|-weather|SunnyDay|[from] ability: Orichalcum Pulse|[of] p1a: Koraidon
+|-activate|p1a: Koraidon|Orichalcum Pulse|[source]
+|move|p2a: Hariyama|Facade|p1a: Koraidon
+|-damage|p1a: Koraidon|46/235
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Hariyama|320/392 brn|[from] brn
+|upkeep
+|turn|28
+|
+|t:|1776980760
+|switch|p2a: Jirachi|Jirachi, L80|179/291 par
+|-damage|p2a: Jirachi|161/291 par|[from] Stealth Rock
+|move|p1a: Koraidon|Outrage|p2a: Jirachi
+|-resisted|p2a: Jirachi
+|-damage|p2a: Jirachi|65/291 par
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Jirachi|83/291 par|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1776980763
+|move|p1a: Koraidon|Outrage|p2a: Jirachi|[from] lockedmove
+|-resisted|p2a: Jirachi
+|-damage|p2a: Jirachi|0 fnt
+|faint|p2a: Jirachi
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1776980767
+|switch|p2a: Pachirisu|Pachirisu, L96, F|271/271
+|-damage|p2a: Pachirisu|238/271|[from] Stealth Rock
+|turn|30
+|
+|t:|1776980770
+|move|p2a: Pachirisu|Thunderbolt|p1a: Koraidon
+|-resisted|p1a: Koraidon
+|-damage|p1a: Koraidon|6/235
+|move|p1a: Koraidon|Outrage|p2a: Pachirisu|[from] lockedmove
+|-damage|p2a: Pachirisu|42/271
+|-start|p1a: Koraidon|confusion|[fatigue]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|31
+|
+|t:|1776980782
+|switch|p1a: Blissey|Blissey, L85, F|424/572
+|move|p2a: Pachirisu|Thunderbolt|p1a: Blissey
+|-damage|p1a: Blissey|373/572
+|
+|-weather|none
+|-heal|p1a: Blissey|408/572|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1776980787
+|move|p2a: Pachirisu|Super Fang|p1a: Blissey
+|-damage|p1a: Blissey|204/572
+|move|p1a: Blissey|Seismic Toss|p2a: Pachirisu
+|-damage|p2a: Pachirisu|0 fnt
+|faint|p2a: Pachirisu
+|
+|-heal|p1a: Blissey|239/572|[from] item: Leftovers
+|upkeep
+|
+|t:|1776980796
+|switch|p2a: Hariyama|Hariyama, L87, F|320/392 brn
+|-damage|p2a: Hariyama|296/392 brn|[from] Stealth Rock
+|turn|33
+|
+|t:|1776980802
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|525/572
+|move|p2a: Hariyama|Facade|p1a: Blissey
+|-damage|p1a: Blissey|15/572
+|
+|-heal|p1a: Blissey|50/572|[from] item: Leftovers
+|-damage|p2a: Hariyama|272/392 brn|[from] brn
+|upkeep
+|turn|34
+|
+|t:|1776980810
+|move|p1a: Blissey|Seismic Toss|p2a: Hariyama
+|-damage|p2a: Hariyama|187/392 brn
+|move|p2a: Hariyama|Facade|p1a: Blissey
+|-damage|p1a: Blissey|0 fnt
+|faint|p1a: Blissey
+|
+|-damage|p2a: Hariyama|163/392 brn|[from] brn
+|upkeep
+|
+|t:|1776980825
+|switch|p1a: Koraidon|Koraidon, L64|6/235
+|-weather|SunnyDay|[from] ability: Orichalcum Pulse|[of] p1a: Koraidon
+|-activate|p1a: Koraidon|Orichalcum Pulse|[source]
+|turn|35
+|
+|t:|1776980832
+|move|p1a: Koraidon|Outrage|p2a: Hariyama
+|-damage|p2a: Hariyama|0 fnt
+|faint|p2a: Hariyama
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1776980835
+|switch|p2a: Giratina|Giratina, L75|349/349 slp
+|-damage|p2a: Giratina|306/349 slp|[from] Stealth Rock
+|-ability|p2a: Giratina|Pressure
+|turn|36
+|
+|t:|1776980838
+|-terastallize|p2a: Giratina|Fairy
+|move|p1a: Koraidon|Outrage|p2a: Giratina|[from] lockedmove
+|-immune|p2a: Giratina
+|cant|p2a: Giratina|slp
+|move|p2a: Giratina|Sleep Talk|p2a: Giratina
+|move|p2a: Giratina|Dragon Tail|p1a: Koraidon|[from] move: Sleep Talk
+|-supereffective|p1a: Koraidon
+|-damage|p1a: Koraidon|0 fnt
+|faint|p1a: Koraidon
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Giratina|327/349 slp|[from] item: Leftovers
+|upkeep
+|
+|t:|1776980846
+|switch|p1a: Kingambit|Kingambit, L74, M|270/270
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen3|[silent]
+|turn|37
+|
+|t:|1776980853
+|cant|p2a: Giratina|slp
+|move|p2a: Giratina|Sleep Talk|p2a: Giratina
+|move|p2a: Giratina|Dragon Tail|p1a: Kingambit|[from] move: Sleep Talk
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|247/270
+|-end|p1a: Kingambit|fallen3|[silent]
+|drag|p1a: Salazzle|Salazzle, L83, F|249/249
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Giratina|348/349 slp|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|t:|1776980863
+|move|p1a: Salazzle|Substitute|p1a: Salazzle
+|-start|p1a: Salazzle|Substitute
+|-damage|p1a: Salazzle|187/249
+|-curestatus|p2a: Giratina|slp|[msg]
+|move|p2a: Giratina|Shadow Ball|p1a: Salazzle
+|-end|p1a: Salazzle|Substitute
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Salazzle|202/249|[from] item: Leftovers
+|-heal|p2a: Giratina|349/349|[from] item: Leftovers
+|upkeep
+|turn|39
+|
+|t:|1776980869
+|move|p1a: Salazzle|Toxic|p2a: Giratina
+|-status|p2a: Giratina|tox
+|move|p2a: Giratina|Shadow Ball|p1a: Salazzle
+|-damage|p1a: Salazzle|112/249
+|
+|-weather|none
+|-heal|p1a: Salazzle|127/249|[from] item: Leftovers
+|-damage|p2a: Giratina|328/349 tox|[from] psn
+|upkeep
+|turn|40
+|
+|t:|1776980874
+|switch|p1a: Amoonguss|Amoonguss, L82, M|207/321
+|move|p2a: Giratina|Shadow Ball|p1a: Amoonguss
+|-damage|p1a: Amoonguss|132/321
+|-unboost|p1a: Amoonguss|spd|1
+|
+|-heal|p2a: Giratina|349/349 tox|[from] item: Leftovers
+|-damage|p2a: Giratina|307/349 tox|[from] psn
+|upkeep
+|turn|41
+|
+|t:|1776980880
+|move|p2a: Giratina|Shadow Ball|p1a: Amoonguss
+|-damage|p1a: Amoonguss|21/321
+|move|p1a: Amoonguss|Sludge Bomb|p2a: Giratina
+|-supereffective|p2a: Giratina
+|-damage|p2a: Giratina|163/349 tox
+|
+|-heal|p2a: Giratina|184/349 tox|[from] item: Leftovers
+|-damage|p2a: Giratina|121/349 tox|[from] psn
+|upkeep
+|turn|42
+|
+|t:|1776980887
+|switch|p1a: Kingambit|Kingambit, L74, M|247/270
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen3|[silent]
+|move|p2a: Giratina|Rest|p2a: Giratina
+|-status|p2a: Giratina|slp|[from] move: Rest
+|-heal|p2a: Giratina|349/349 slp|[silent]
+|
+|-heal|p1a: Kingambit|263/270|[from] item: Leftovers
+|upkeep
+|turn|43
+|
+|t:|1776980896
+|cant|p2a: Giratina|slp
+|move|p2a: Giratina|Sleep Talk|p2a: Giratina
+|move|p2a: Giratina|Rest||[from] move: Sleep Talk|[still]
+|-fail|p2a: Giratina
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|-heal|p1a: Kingambit|270/270|[from] item: Leftovers
+|upkeep
+|turn|44
+|
+|t:|1776980902
+|cant|p2a: Giratina|slp
+|move|p2a: Giratina|Sleep Talk|p2a: Giratina
+|move|p2a: Giratina|Dragon Tail|p1a: Kingambit|[from] move: Sleep Talk
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|246/270
+|-end|p1a: Kingambit|fallen3|[silent]
+|drag|p1a: Amoonguss|Amoonguss, L82, M|128/321
+|
+|upkeep
+|turn|45
+|
+|t:|1776980911
+|-curestatus|p2a: Giratina|slp|[msg]
+|move|p2a: Giratina|Shadow Ball|p1a: Amoonguss
+|-damage|p1a: Amoonguss|55/321
+|-unboost|p1a: Amoonguss|spd|1
+|move|p1a: Amoonguss|Sludge Bomb|p2a: Giratina
+|-supereffective|p2a: Giratina
+|-damage|p2a: Giratina|199/349
+|
+|-heal|p2a: Giratina|220/349|[from] item: Leftovers
+|upkeep
+|turn|46
+|
+|t:|1776980922
+|switch|p1a: Kingambit|Kingambit, L74, M|246/270
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen3|[silent]
+|move|p2a: Giratina|Shadow Ball|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-crit|p1a: Kingambit
+|-damage|p1a: Kingambit|188/270
+|
+|-heal|p2a: Giratina|241/349|[from] item: Leftovers
+|-heal|p1a: Kingambit|204/270|[from] item: Leftovers
+|upkeep
+|turn|47
+|
+|t:|1776980930
+|move|p1a: Kingambit|Iron Head|p2a: Giratina
+|-supereffective|p2a: Giratina
+|-damage|p2a: Giratina|53/349
+|move|p2a: Giratina|Dragon Tail|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|182/270
+|-end|p1a: Kingambit|fallen3|[silent]
+|drag|p1a: Salazzle|Salazzle, L83, F|127/249
+|
+|-heal|p1a: Salazzle|142/249|[from] item: Leftovers
+|-heal|p2a: Giratina|74/349|[from] item: Leftovers
+|upkeep
+|turn|48
+|
+|t:|1776980940
+|move|p1a: Salazzle|Flamethrower|p2a: Giratina
+|-damage|p2a: Giratina|0 fnt
+|faint|p2a: Giratina
+|
+|-heal|p1a: Salazzle|157/249|[from] item: Leftovers
+|upkeep
+|
+|t:|1776980943
+|switch|p2a: Passimian|Passimian, L83, M|302/302 slp
+|-damage|p2a: Passimian|284/302 slp|[from] Stealth Rock
+|turn|49
+|
+|t:|1776980950
+|move|p1a: Salazzle|Substitute|p1a: Salazzle
+|-start|p1a: Salazzle|Substitute
+|-damage|p1a: Salazzle|95/249
+|cant|p2a: Passimian|slp
+|
+|-heal|p1a: Salazzle|110/249|[from] item: Leftovers
+|-heal|p2a: Passimian|302/302 slp|[from] item: Leftovers
+|upkeep
+|turn|50
+|
+|t:|1776980958
+|move|p1a: Salazzle|Flamethrower|p2a: Passimian
+|-damage|p2a: Passimian|151/302 slp
+|cant|p2a: Passimian|slp
+|
+|-heal|p1a: Salazzle|125/249|[from] item: Leftovers
+|-heal|p2a: Passimian|169/302 slp|[from] item: Leftovers
+|upkeep
+|turn|51
+|
+|t:|1776980963
+|move|p1a: Salazzle|Flamethrower|p2a: Passimian
+|-damage|p2a: Passimian|27/302 slp
+|-curestatus|p2a: Passimian|slp|[msg]
+|move|p2a: Passimian|Knock Off|p1a: Salazzle
+|-end|p1a: Salazzle|Substitute
+|
+|-heal|p1a: Salazzle|140/249|[from] item: Leftovers
+|-heal|p2a: Passimian|45/302|[from] item: Leftovers
+|upkeep
+|turn|52
+|-message|Corky88 forfeited.
+|
+|win|Poscidion
+|raw|Poscidion's rating: 1702 &rarr; <strong>1723</strong><br />(+21 for winning)
+|raw|Corky88's rating: 1720 &rarr; <strong>1699</strong><br />(-21 for losing)
+|l|☆Corky88
+|player|p2|

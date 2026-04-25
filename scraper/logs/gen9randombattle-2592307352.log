@@ -1,0 +1,383 @@
+|j|☆hernyd
+|j|☆mnbvcxz0987654321
+|t:|1776977565
+|gametype|singles
+|player|p1|hernyd|101|1724
+|player|p2|mnbvcxz0987654321|hiker-gen4|1716
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776977565
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ting-Lu|Ting-Lu, L78|370/370
+|switch|p2a: Bombirdier|Bombirdier, L85, M|258/258
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|turn|1
+|
+|t:|1776977573
+|move|p2a: Bombirdier|Brave Bird|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|210/370
+|-damage|p2a: Bombirdier|205/258|[from] Recoil
+|move|p1a: Ting-Lu|Spikes|p2a: Bombirdier
+|-sidestart|p2: mnbvcxz0987654321|Spikes
+|
+|-heal|p1a: Ting-Lu|233/370|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776977588
+|move|p2a: Bombirdier|Brave Bird|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|53/370
+|-damage|p2a: Bombirdier|146/258|[from] Recoil
+|move|p1a: Ting-Lu|Spikes|p2a: Bombirdier
+|-sidestart|p2: mnbvcxz0987654321|Spikes
+|
+|-heal|p1a: Ting-Lu|76/370|[from] item: Leftovers
+|upkeep
+|turn|3
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by mnbvcxz0987654321)
+|
+|t:|1776977606
+|switch|p1a: Electrode|Electrode, L92|260/260
+|move|p2a: Bombirdier|Brave Bird|p1a: Electrode
+|-resisted|p1a: Electrode
+|-damage|p1a: Electrode|154/260
+|-damage|p2a: Bombirdier|111/258|[from] Recoil
+|
+|upkeep
+|turn|4
+|
+|t:|1776977609
+|switch|p2a: Ting-Lu|Ting-Lu, L78|370/370
+|-damage|p2a: Ting-Lu|309/370|[from] Spikes
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Electrode|Volt Switch|p2a: Ting-Lu
+|-immune|p2a: Ting-Lu
+|
+|-heal|p2a: Ting-Lu|332/370|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776977618
+|switch|p1a: Passimian|Passimian, L83, F|302/302
+|move|p2a: Ting-Lu|Spikes|p1a: Passimian
+|-sidestart|p1: hernyd|Spikes
+|
+|-heal|p2a: Ting-Lu|355/370|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776977625
+|switch|p2a: Bombirdier|Bombirdier, L85, M|111/258
+|move|p1a: Passimian|Bulk Up|p1a: Passimian
+|-boost|p1a: Passimian|atk|1
+|-boost|p1a: Passimian|def|1
+|
+|upkeep
+|turn|7
+|
+|t:|1776977632
+|move|p2a: Bombirdier|Brave Bird|p1a: Passimian
+|-supereffective|p1a: Passimian
+|-damage|p1a: Passimian|20/302
+|-damage|p2a: Bombirdier|18/258|[from] Recoil
+|move|p1a: Passimian|Drain Punch|p2a: Bombirdier
+|-damage|p2a: Bombirdier|0 fnt
+|-heal|p1a: Passimian|29/302|[from] drain|[of] p2a: Bombirdier
+|faint|p2a: Bombirdier
+|
+|-heal|p1a: Passimian|47/302|[from] item: Leftovers
+|upkeep
+|
+|t:|1776977638
+|switch|p2a: Scovillain|Scovillain, L91, F|266/266
+|turn|8
+|
+|t:|1776977644
+|switch|p1a: Ting-Lu|Ting-Lu, L78|76/370
+|-damage|p1a: Ting-Lu|30/370|[from] Spikes
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Scovillain|Energy Ball|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|0 fnt
+|faint|p1a: Ting-Lu
+|
+|upkeep
+|
+|t:|1776977657
+|switch|p1a: Garchomp|Garchomp, L74, F|282/282
+|-damage|p1a: Garchomp|247/282|[from] Spikes
+|turn|9
+|
+|t:|1776977663
+|move|p1a: Garchomp|Scale Shot|p2a: Scovillain
+|-damage|p2a: Scovillain|235/266
+|-damage|p2a: Scovillain|207/266
+|-damage|p2a: Scovillain|173/266
+|-damage|p2a: Scovillain|143/266
+|-hitcount|p2a: Scovillain|4
+|-unboost|p1a: Garchomp|def|1
+|-boost|p1a: Garchomp|spe|1
+|move|p2a: Scovillain|Sunny Day|p2a: Scovillain
+|-weather|SunnyDay
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1776977672
+|move|p2a: Scovillain|Energy Ball|p1a: Garchomp
+|-damage|p1a: Garchomp|109/282
+|move|p1a: Garchomp|Scale Shot|p2a: Scovillain
+|-damage|p2a: Scovillain|113/266
+|-damage|p2a: Scovillain|80/266
+|-damage|p2a: Scovillain|50/266
+|-damage|p2a: Scovillain|17/266
+|-damage|p2a: Scovillain|0 fnt
+|faint|p2a: Scovillain
+|-hitcount|p2: Scovillain|5
+|-unboost|p1a: Garchomp|def|1
+|-boost|p1a: Garchomp|spe|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1776977685
+|switch|p2a: Ting-Lu|Ting-Lu, L78|355/370
+|-damage|p2a: Ting-Lu|294/370|[from] Spikes
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|turn|11
+|
+|t:|1776977694
+|move|p1a: Garchomp|Scale Shot|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|269/370
+|-damage|p2a: Ting-Lu|247/370
+|-damage|p2a: Ting-Lu|226/370
+|-damage|p2a: Ting-Lu|202/370
+|-hitcount|p2a: Ting-Lu|4
+|-unboost|p1a: Garchomp|def|1
+|-boost|p1a: Garchomp|spe|1
+|move|p2a: Ting-Lu|Earthquake|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Ting-Lu|225/370|[from] item: Leftovers
+|upkeep
+|
+|t:|1776977699
+|switch|p1a: Passimian|Passimian, L83, F|47/302
+|-damage|p1a: Passimian|10/302|[from] Spikes
+|turn|12
+|
+|t:|1776977703
+|switch|p2a: Dragalge|Dragalge, L88, M|258/258
+|-damage|p2a: Dragalge|215/258|[from] Spikes
+|move|p1a: Passimian|Drain Punch|p2a: Dragalge
+|-resisted|p2a: Dragalge
+|-damage|p2a: Dragalge|174/258
+|-heal|p1a: Passimian|31/302|[from] drain|[of] p2a: Dragalge
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Passimian|49/302|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776977710
+|move|p1a: Passimian|Knock Off|p2a: Dragalge
+|-damage|p2a: Dragalge|94/258
+|-enditem|p2a: Dragalge|Assault Vest|[from] move: Knock Off|[of] p1a: Passimian
+|move|p2a: Dragalge|Dragon Tail|p1a: Passimian
+|-damage|p1a: Passimian|0 fnt
+|faint|p1a: Passimian
+|
+|-weather|none
+|upkeep
+|
+|t:|1776977715
+|switch|p1a: Palafin|Palafin, L77, M|281/281
+|-damage|p1a: Palafin|246/281|[from] Spikes
+|turn|14
+|
+|t:|1776977719
+|detailschange|p1a: Palafin|Palafin-Hero, L77, M
+|switch|p1a: Electrode|Electrode, L92|154/260
+|-damage|p1a: Electrode|122/260|[from] Spikes
+|move|p2a: Dragalge|Sludge Wave|p1a: Electrode
+|-damage|p1a: Electrode|0 fnt
+|faint|p1a: Electrode
+|
+|upkeep
+|
+|t:|1776977724
+|switch|p1a: Iron Boulder|Iron Boulder, L77|265/265
+|-damage|p1a: Iron Boulder|232/265|[from] Spikes
+|-enditem|p1a: Iron Boulder|Booster Energy
+|-activate|p1a: Iron Boulder|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Boulder|quarkdrivespe
+|turn|15
+|
+|t:|1776977739
+|move|p1a: Iron Boulder|Mighty Cleave|p2a: Dragalge
+|-damage|p2a: Dragalge|3/258
+|move|p2a: Dragalge|Draco Meteor|p1a: Iron Boulder
+|-damage|p1a: Iron Boulder|38/265
+|-unboost|p2a: Dragalge|spa|2
+|
+|upkeep
+|turn|16
+|
+|t:|1776977745
+|move|p1a: Iron Boulder|Mighty Cleave|p2a: Dragalge
+|-damage|p2a: Dragalge|0 fnt
+|faint|p2a: Dragalge
+|
+|upkeep
+|
+|t:|1776977753
+|switch|p2a: Dudunsparce|Dudunsparce, L83, F|343/343
+|-damage|p2a: Dudunsparce|286/343|[from] Spikes
+|turn|17
+|inactive|hernyd has 120 seconds left.
+|c|☆mnbvcxz0987654321|Maderchod
+|
+|t:|1776977801
+|-terastallize|p2a: Dudunsparce|Ghost
+|move|p1a: Iron Boulder|Close Combat|p2a: Dudunsparce
+|-immune|p2a: Dudunsparce
+|move|p2a: Dudunsparce|Earthquake|p1a: Iron Boulder
+|-supereffective|p1a: Iron Boulder
+|-damage|p1a: Iron Boulder|0 fnt
+|faint|p1a: Iron Boulder
+|-end|p1a: Iron Boulder|Quark Drive|[silent]
+|
+|-heal|p2a: Dudunsparce|307/343|[from] item: Leftovers
+|upkeep
+|
+|t:|1776977809
+|switch|p1a: Palafin|Palafin-Hero, L77, M|246/281
+|-damage|p1a: Palafin|211/281|[from] Spikes
+|-activate|p1a: Palafin|ability: Zero to Hero
+|turn|18
+|
+|t:|1776977816
+|move|p1a: Palafin|Bulk Up|p1a: Palafin
+|-boost|p1a: Palafin|atk|1
+|-boost|p1a: Palafin|def|1
+|move|p2a: Dudunsparce|Glare|p1a: Palafin
+|-status|p1a: Palafin|par
+|
+|-heal|p2a: Dudunsparce|328/343|[from] item: Leftovers
+|-heal|p1a: Palafin|228/281 par|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1776977819
+|move|p2a: Dudunsparce|Headbutt|p1a: Palafin
+|-damage|p1a: Palafin|176/281 par
+|cant|p1a: Palafin|flinch
+|
+|-heal|p2a: Dudunsparce|343/343|[from] item: Leftovers
+|-heal|p1a: Palafin|193/281 par|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1776977823
+|move|p2a: Dudunsparce|Headbutt|p1a: Palafin
+|-damage|p1a: Palafin|145/281 par
+|cant|p1a: Palafin|flinch
+|
+|-heal|p1a: Palafin|162/281 par|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1776977826
+|move|p1a: Palafin|Jet Punch|p2a: Dudunsparce
+|-damage|p2a: Dudunsparce|217/343
+|move|p2a: Dudunsparce|Headbutt|p1a: Palafin
+|-damage|p1a: Palafin|111/281 par
+|
+|-heal|p2a: Dudunsparce|238/343|[from] item: Leftovers
+|-heal|p1a: Palafin|128/281 par|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1776977831
+|move|p1a: Palafin|Jet Punch|p2a: Dudunsparce
+|-damage|p2a: Dudunsparce|109/343
+|move|p2a: Dudunsparce|Headbutt|p1a: Palafin
+|-damage|p1a: Palafin|71/281 par
+|
+|-heal|p2a: Dudunsparce|130/343|[from] item: Leftovers
+|-heal|p1a: Palafin|88/281 par|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1776977839
+|move|p1a: Palafin|Jet Punch|p2a: Dudunsparce
+|-damage|p2a: Dudunsparce|0 fnt
+|faint|p2a: Dudunsparce
+|
+|-heal|p1a: Palafin|105/281 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1776977844
+|switch|p2a: Ting-Lu|Ting-Lu, L78|225/370
+|-damage|p2a: Ting-Lu|164/370|[from] Spikes
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|turn|24
+|
+|t:|1776977849
+|move|p1a: Palafin|Jet Punch|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|0 fnt
+|faint|p2a: Ting-Lu
+|
+|-heal|p1a: Palafin|122/281 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1776977851
+|switch|p2a: Drednaw|Drednaw, L81, M|278/278
+|-damage|p2a: Drednaw|232/278|[from] Spikes
+|turn|25
+|
+|t:|1776977857
+|move|p2a: Drednaw|Shell Smash|p2a: Drednaw
+|-unboost|p2a: Drednaw|def|1
+|-unboost|p2a: Drednaw|spd|1
+|-boost|p2a: Drednaw|atk|2
+|-boost|p2a: Drednaw|spa|2
+|-boost|p2a: Drednaw|spe|2
+|-enditem|p2a: Drednaw|White Herb
+|-clearnegativeboost|p2a: Drednaw|[silent]
+|move|p1a: Palafin|Drain Punch|p2a: Drednaw
+|-supereffective|p2a: Drednaw
+|-damage|p2a: Drednaw|18/278
+|-heal|p1a: Palafin|229/281 par|[from] drain|[of] p2a: Drednaw
+|
+|-heal|p1a: Palafin|246/281 par|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1776977862
+|cant|p1a: Palafin|par
+|move|p2a: Drednaw|Crunch|p1a: Palafin
+|-damage|p1a: Palafin|128/281 par
+|
+|-heal|p1a: Palafin|145/281 par|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1776977865
+|move|p1a: Palafin|Jet Punch|p2a: Drednaw
+|-damage|p2a: Drednaw|0 fnt
+|faint|p2a: Drednaw
+|
+|win|hernyd

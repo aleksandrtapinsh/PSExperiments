@@ -1,0 +1,450 @@
+|j|☆IMRosen
+|j|☆tz8920
+|t:|1776977324
+|gametype|singles
+|player|p1|IMRosen|boarder|1722
+|player|p2|tz8920|janitor|1790
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776977324
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Terapagos|Terapagos, L77, F|265/265
+|switch|p2a: Jumpluff|Jumpluff, L87, F|271/271
+|-activate|p1a: Terapagos|ability: Tera Shift
+|detailschange|p1a: Terapagos|Terapagos-Terastal, L77, F
+|-heal|p1a: Terapagos|273/273|[silent]
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by IMRosen)
+|inactive|tz8920 also wants the timer to be on.
+|
+|t:|1776977345
+|switch|p1a: Coalossal|Coalossal, L89, M|341/341
+|move|p2a: Jumpluff|Leech Seed|p1a: Coalossal
+|-start|p1a: Coalossal|move: Leech Seed
+|
+|-damage|p1a: Coalossal|299/341|[from] Leech Seed|[of] p2a: Jumpluff
+|upkeep
+|turn|2
+|
+|t:|1776977354
+|switch|p2a: Luvdisc|Luvdisc, F|247/247
+|move|p1a: Coalossal|Stealth Rock|p2a: Luvdisc
+|-sidestart|p2: tz8920|move: Stealth Rock
+|
+|-damage|p1a: Coalossal|257/341|[from] Leech Seed|[of] p2a: Luvdisc
+|upkeep
+|turn|3
+|
+|t:|1776977363
+|switch|p1a: Vespiquen|Vespiquen, L99, F|299/299
+|-ability|p1a: Vespiquen|Pressure
+|move|p2a: Luvdisc|Substitute|p2a: Luvdisc
+|-start|p2a: Luvdisc|Substitute
+|-damage|p2a: Luvdisc|186/247
+|
+|upkeep
+|turn|4
+|
+|t:|1776977368
+|move|p2a: Luvdisc|Whirlpool|p1a: Vespiquen
+|-damage|p1a: Vespiquen|275/299
+|-activate|p1a: Vespiquen|move: Whirlpool|[of] p2a: Luvdisc
+|move|p1a: Vespiquen|Spikes|p2a: Luvdisc
+|-sidestart|p2: tz8920|Spikes
+|
+|-damage|p1a: Vespiquen|238/299|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|5
+|
+|t:|1776977398
+|move|p2a: Luvdisc|Endeavor|p1a: Vespiquen
+|-damage|p1a: Vespiquen|186/299
+|move|p1a: Vespiquen|Spikes|p2a: Luvdisc
+|-sidestart|p2: tz8920|Spikes
+|
+|-damage|p1a: Vespiquen|149/299|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|6
+|
+|t:|1776977402
+|move|p2a: Luvdisc|Surf|p1a: Vespiquen
+|-damage|p1a: Vespiquen|95/299
+|move|p1a: Vespiquen|Spikes|p2a: Luvdisc
+|-sidestart|p2: tz8920|Spikes
+|
+|-damage|p1a: Vespiquen|58/299|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|7
+|
+|t:|1776977407
+|move|p2a: Luvdisc|Surf|p1a: Vespiquen
+|-damage|p1a: Vespiquen|1/299
+|move|p1a: Vespiquen|U-turn|p2a: Luvdisc
+|-end|p2a: Luvdisc|Substitute
+|
+|t:|1776977417
+|switch|p1a: Tsareena|Tsareena, L87, F|267/267|[from] U-turn
+|
+|upkeep
+|turn|8
+|
+|t:|1776977424
+|move|p2a: Luvdisc|Substitute|p2a: Luvdisc
+|-start|p2a: Luvdisc|Substitute
+|-damage|p2a: Luvdisc|125/247
+|move|p1a: Tsareena|Power Whip|p2a: Luvdisc
+|-supereffective|p2a: Luvdisc
+|-end|p2a: Luvdisc|Substitute
+|-damage|p1a: Tsareena|241/267|[from] item: Life Orb
+|
+|upkeep
+|turn|9
+|
+|t:|1776977430
+|move|p2a: Luvdisc|Substitute|p2a: Luvdisc
+|-start|p2a: Luvdisc|Substitute
+|-damage|p2a: Luvdisc|64/247
+|move|p1a: Tsareena|Triple Axel|p2a: Luvdisc
+|-resisted|p2a: Luvdisc
+|-activate|p2a: Luvdisc|move: Substitute|[damage]
+|-resisted|p2a: Luvdisc
+|-activate|p2a: Luvdisc|move: Substitute|[damage]
+|-resisted|p2a: Luvdisc
+|-end|p2a: Luvdisc|Substitute
+|-hitcount|p2a: Luvdisc|3
+|-damage|p1a: Tsareena|215/267|[from] item: Life Orb
+|
+|upkeep
+|turn|10
+|
+|t:|1776977448
+|move|p2a: Luvdisc|Substitute|p2a: Luvdisc
+|-start|p2a: Luvdisc|Substitute
+|-damage|p2a: Luvdisc|3/247
+|move|p1a: Tsareena|Power Whip|p2a: Luvdisc
+|-supereffective|p2a: Luvdisc
+|-end|p2a: Luvdisc|Substitute
+|-damage|p1a: Tsareena|189/267|[from] item: Life Orb
+|
+|upkeep
+|turn|11
+|
+|t:|1776977456
+|move|p2a: Luvdisc|Endeavor|p1a: Tsareena
+|-damage|p1a: Tsareena|3/267
+|move|p1a: Tsareena|Synthesis|p1a: Tsareena
+|-heal|p1a: Tsareena|136/267
+|
+|upkeep
+|turn|12
+|
+|t:|1776977461
+|move|p2a: Luvdisc|Endeavor|p1a: Tsareena
+|-damage|p1a: Tsareena|3/267
+|move|p1a: Tsareena|Power Whip|p2a: Luvdisc|[miss]
+|-miss|p1a: Tsareena|p2a: Luvdisc
+|
+|upkeep
+|turn|13
+|
+|t:|1776977467
+|move|p2a: Luvdisc|Surf|p1a: Tsareena
+|-resisted|p1a: Tsareena
+|-damage|p1a: Tsareena|0 fnt
+|faint|p1a: Tsareena
+|
+|upkeep
+|
+|t:|1776977475
+|switch|p1a: Walking Wake|Walking Wake, L79|286/286
+|turn|14
+|
+|t:|1776977480
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Vespiquen|Vespiquen, L99, F|1/299
+|-ability|p1a: Vespiquen|Pressure
+|move|p2a: Luvdisc|Endeavor|p1a: Vespiquen
+|-immune|p1a: Vespiquen
+|
+|upkeep
+|turn|15
+|
+|t:|1776977485
+|move|p2a: Luvdisc|Surf|p1a: Vespiquen
+|-damage|p1a: Vespiquen|0 fnt
+|faint|p1a: Vespiquen
+|
+|upkeep
+|
+|t:|1776977498
+|switch|p1a: Coalossal|Coalossal, L89, M|257/341
+|turn|16
+|
+|t:|1776977503
+|-terastallize|p1a: Coalossal|Grass
+|move|p2a: Luvdisc|Endeavor|p1a: Coalossal
+|-damage|p1a: Coalossal|3/341
+|-status|p2a: Luvdisc|brn|[from] ability: Flame Body|[of] p1a: Coalossal
+|move|p1a: Coalossal|Flamethrower|p2a: Luvdisc
+|-resisted|p2a: Luvdisc
+|-damage|p2a: Luvdisc|0 fnt
+|faint|p2a: Luvdisc
+|
+|upkeep
+|
+|t:|1776977523
+|switch|p2a: Jumpluff|Jumpluff, L87, F|271/271
+|-damage|p2a: Jumpluff|204/271|[from] Stealth Rock
+|turn|17
+|
+|t:|1776977527
+|move|p2a: Jumpluff|Acrobatics|p1a: Coalossal
+|-supereffective|p1a: Coalossal
+|-damage|p1a: Coalossal|0 fnt
+|faint|p1a: Coalossal
+|
+|upkeep
+|
+|t:|1776977534
+|switch|p1a: Terapagos|Terapagos-Terastal, L77, F|273/273
+|turn|18
+|
+|t:|1776977539
+|move|p2a: Jumpluff|Leech Seed|p1a: Terapagos|[miss]
+|-miss|p2a: Jumpluff|p1a: Terapagos
+|move|p1a: Terapagos|Calm Mind|p1a: Terapagos
+|-boost|p1a: Terapagos|spa|1
+|-boost|p1a: Terapagos|spd|1
+|
+|upkeep
+|turn|19
+|
+|t:|1776977546
+|move|p2a: Jumpluff|Leech Seed|p1a: Terapagos
+|-start|p1a: Terapagos|move: Leech Seed
+|move|p1a: Terapagos|Rapid Spin|p2a: Jumpluff
+|-damage|p2a: Jumpluff|149/271
+|-boost|p1a: Terapagos|spe|1
+|-end|p1a: Terapagos|Leech Seed|[from] move: Rapid Spin|[of] p1a: Terapagos
+|
+|upkeep
+|turn|20
+|
+|t:|1776977553
+|move|p1a: Terapagos|Calm Mind|p1a: Terapagos
+|-boost|p1a: Terapagos|spa|1
+|-boost|p1a: Terapagos|spd|1
+|move|p2a: Jumpluff|Acrobatics|p1a: Terapagos
+|-activate|p1a: Terapagos|ability: Tera Shell
+|-resisted|p1a: Terapagos
+|-damage|p1a: Terapagos|236/273
+|
+|upkeep
+|turn|21
+|
+|t:|1776977561
+|switch|p2a: Sableye|Sableye, L88, F|231/231
+|-damage|p2a: Sableye|203/231|[from] Stealth Rock
+|-damage|p2a: Sableye|146/231|[from] Spikes
+|move|p1a: Terapagos|Tera Starstorm|p2a: Sableye
+|-immune|p2a: Sableye
+|
+|-heal|p2a: Sableye|160/231|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1776977565
+|move|p2a: Sableye|Encore|p1a: Terapagos
+|-start|p1a: Terapagos|Encore
+|move|p1a: Terapagos|Tera Starstorm|p2a: Sableye
+|-immune|p2a: Sableye
+|
+|-heal|p2a: Sableye|174/231|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1776977572
+|switch|p1a: Hitmonchan|Hitmonchan, L87, M|229/229
+|move|p2a: Sableye|Thunder Wave|p1a: Hitmonchan
+|-status|p1a: Hitmonchan|par
+|
+|-heal|p2a: Sableye|188/231|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1776977586
+|switch|p2a: Jumpluff|Jumpluff, L87, F|149/271
+|-damage|p2a: Jumpluff|82/271|[from] Stealth Rock
+|move|p1a: Hitmonchan|Knock Off|p2a: Jumpluff
+|-damage|p2a: Jumpluff|8/271
+|-damage|p1a: Hitmonchan|207/229 par|[from] item: Life Orb
+|
+|upkeep
+|turn|25
+|
+|t:|1776977603
+|move|p2a: Jumpluff|Strength Sap|p1a: Hitmonchan
+|-unboost|p1a: Hitmonchan|atk|1
+|-heal|p2a: Jumpluff|240/271
+|move|p1a: Hitmonchan|Ice Punch|p2a: Jumpluff
+|-supereffective|p2a: Jumpluff
+|-damage|p2a: Jumpluff|0 fnt
+|faint|p2a: Jumpluff
+|-damage|p1a: Hitmonchan|185/229 par|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776977619
+|switch|p2a: Electrode|Electrode-Hisui, L87|246/246
+|-damage|p2a: Electrode|216/246|[from] Stealth Rock
+|-damage|p2a: Electrode|155/246|[from] Spikes
+|turn|26
+|
+|t:|1776977625
+|move|p2a: Electrode|Leech Seed|p1a: Hitmonchan
+|-start|p1a: Hitmonchan|move: Leech Seed
+|cant|p1a: Hitmonchan|par
+|
+|-heal|p2a: Electrode|170/246|[from] item: Leftovers
+|-damage|p1a: Hitmonchan|157/229 par|[from] Leech Seed|[of] p2a: Electrode
+|-heal|p2a: Electrode|198/246|[silent]
+|upkeep
+|turn|27
+|
+|t:|1776977629
+|move|p2a: Electrode|Substitute|p2a: Electrode
+|-start|p2a: Electrode|Substitute
+|-damage|p2a: Electrode|137/246
+|move|p1a: Hitmonchan|Drain Punch|p2a: Electrode
+|-end|p2a: Electrode|Substitute
+|-heal|p1a: Hitmonchan|188/229 par|[from] drain|[of] p2a: Electrode
+|-damage|p1a: Hitmonchan|166/229 par|[from] item: Life Orb
+|
+|-heal|p2a: Electrode|152/246|[from] item: Leftovers
+|-damage|p1a: Hitmonchan|138/229 par|[from] Leech Seed|[of] p2a: Electrode
+|-heal|p2a: Electrode|180/246|[silent]
+|upkeep
+|turn|28
+|
+|t:|1776977638
+|move|p2a: Electrode|Thunderbolt|p1a: Hitmonchan
+|-damage|p1a: Hitmonchan|66/229 par
+|cant|p1a: Hitmonchan|par
+|
+|-heal|p2a: Electrode|195/246|[from] item: Leftovers
+|-damage|p1a: Hitmonchan|38/229 par|[from] Leech Seed|[of] p2a: Electrode
+|-heal|p2a: Electrode|223/246|[silent]
+|upkeep
+|turn|29
+|
+|t:|1776977643
+|move|p2a: Electrode|Giga Drain|p1a: Hitmonchan
+|-damage|p1a: Hitmonchan|0 fnt
+|-heal|p2a: Electrode|242/246|[from] drain|[of] p1a: Hitmonchan
+|faint|p1a: Hitmonchan
+|
+|-heal|p2a: Electrode|246/246|[from] item: Leftovers
+|upkeep
+|
+|t:|1776977650
+|switch|p1a: Terapagos|Terapagos-Terastal, L77, F|236/273
+|turn|30
+|
+|t:|1776977654
+|move|p2a: Electrode|Leech Seed|p1a: Terapagos|[miss]
+|-miss|p2a: Electrode|p1a: Terapagos
+|move|p1a: Terapagos|Calm Mind|p1a: Terapagos
+|-boost|p1a: Terapagos|spa|1
+|-boost|p1a: Terapagos|spd|1
+|
+|upkeep
+|turn|31
+|
+|t:|1776977660
+|switch|p2a: Sableye|Sableye, L88, F|188/231
+|-damage|p2a: Sableye|160/231|[from] Stealth Rock
+|-damage|p2a: Sableye|103/231|[from] Spikes
+|move|p1a: Terapagos|Rapid Spin|p2a: Sableye
+|-immune|p2a: Sableye
+|
+|-heal|p2a: Sableye|117/231|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1776977671
+|switch|p1a: Walking Wake|Walking Wake, L79|286/286
+|move|p2a: Sableye|Thunder Wave|p1a: Walking Wake
+|-status|p1a: Walking Wake|par
+|
+|-heal|p2a: Sableye|131/231|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1776977685
+|switch|p2a: Electrode|Electrode-Hisui, L87|246/246
+|-damage|p2a: Electrode|216/246|[from] Stealth Rock
+|-damage|p2a: Electrode|155/246|[from] Spikes
+|move|p1a: Walking Wake|Hydro Steam|p2a: Electrode
+|-resisted|p2a: Electrode
+|-damage|p2a: Electrode|98/246
+|-damage|p1a: Walking Wake|258/286 par|[from] item: Life Orb
+|
+|-heal|p2a: Electrode|113/246|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1776977690
+|move|p2a: Electrode|Thunderbolt|p1a: Walking Wake
+|-damage|p1a: Walking Wake|158/286 par
+|move|p1a: Walking Wake|Flamethrower|p2a: Electrode
+|-supereffective|p2a: Electrode
+|-damage|p2a: Electrode|0 fnt
+|faint|p2a: Electrode
+|-damage|p1a: Walking Wake|130/286 par|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776977695
+|switch|p2a: Toxicroak|Toxicroak, L84, M|277/277
+|-damage|p2a: Toxicroak|260/277|[from] Stealth Rock
+|-damage|p2a: Toxicroak|191/277|[from] Spikes
+|turn|35
+|
+|t:|1776977701
+|move|p2a: Toxicroak|Close Combat|p1a: Walking Wake
+|-damage|p1a: Walking Wake|0 fnt
+|-unboost|p2a: Toxicroak|def|1
+|-unboost|p2a: Toxicroak|spd|1
+|faint|p1a: Walking Wake
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|-damage|p2a: Toxicroak|164/277|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776977704
+|switch|p1a: Terapagos|Terapagos-Terastal, L77, F|236/273
+|turn|36
+|
+|t:|1776977708
+|move|p2a: Toxicroak|Close Combat|p1a: Terapagos
+|-supereffective|p1a: Terapagos
+|-damage|p1a: Terapagos|0 fnt
+|-unboost|p2a: Toxicroak|def|1
+|-unboost|p2a: Toxicroak|spd|1
+|faint|p1a: Terapagos
+|-damage|p2a: Toxicroak|137/277|[from] item: Life Orb
+|
+|win|tz8920
+|raw|IMRosen's rating: 1722 &rarr; <strong>1706</strong><br />(-16 for losing)
+|raw|tz8920's rating: 1790 &rarr; <strong>1806</strong><br />(+16 for winning)
+|l|☆IMRosen
+|player|p1|
+|c|☆tz8920|Wp

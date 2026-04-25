@@ -1,0 +1,259 @@
+|j|☆dorkman75
+|j|☆OneTame
+|t:|1776981622
+|gametype|singles
+|player|p1|dorkman75|1|1390
+|player|p2|OneTame|266|1377
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776981622
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Porygon2|Porygon2, L81|270/270
+|switch|p2a: Meganium|Meganium, L90, M|290/290
+|-ability|p1a: Porygon2|Download|boost
+|-boost|p1a: Porygon2|spa|1
+|turn|1
+|
+|t:|1776981634
+|switch|p1a: Kricketune|Kricketune, L99, M|312/312
+|move|p2a: Meganium|Swords Dance|p2a: Meganium
+|-boost|p2a: Meganium|atk|2
+|
+|upkeep
+|turn|2
+|
+|t:|1776981644
+|move|p2a: Meganium|Knock Off|p1a: Kricketune
+|-damage|p1a: Kricketune|124/312
+|-enditem|p1a: Kricketune|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Meganium
+|move|p1a: Kricketune|Sticky Web|p2a: Meganium
+|-sidestart|p2: OneTame|move: Sticky Web
+|
+|upkeep
+|turn|3
+|
+|t:|1776981661
+|move|p2a: Meganium|Knock Off|p1a: Kricketune
+|-damage|p1a: Kricketune|4/312
+|move|p1a: Kricketune|Pounce|p2a: Meganium
+|-supereffective|p2a: Meganium
+|-damage|p2a: Meganium|126/290
+|-unboost|p2a: Meganium|spe|1
+|
+|-heal|p2a: Meganium|144/290|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776981669
+|move|p1a: Kricketune|Pounce|p2a: Meganium
+|-supereffective|p2a: Meganium
+|-damage|p2a: Meganium|0 fnt
+|faint|p2a: Meganium
+|
+|upkeep
+|
+|t:|1776981684
+|switch|p2a: Latias|Latias, L79, F, shiny|256/256
+|turn|5
+|
+|t:|1776981704
+|switch|p1a: Iron Crown|Iron Crown, L78|268/268
+|move|p2a: Latias|Psyshock|p1a: Iron Crown
+|-resisted|p1a: Iron Crown
+|-damage|p1a: Iron Crown|243/268
+|
+|upkeep
+|turn|6
+|
+|t:|1776981730
+|-terastallize|p2a: Latias|Steel
+|move|p2a: Latias|Calm Mind|p2a: Latias
+|-boost|p2a: Latias|spa|1
+|-boost|p2a: Latias|spd|1
+|move|p1a: Iron Crown|Volt Switch|p2a: Latias
+|-damage|p2a: Latias|212/256
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by dorkman75)
+|
+|t:|1776981749
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|switch|p1a: Vaporeon|Vaporeon, L86, F|364/364|[from] Volt Switch
+|
+|upkeep
+|turn|7
+|
+|t:|1776981755
+|move|p2a: Latias|Calm Mind|p2a: Latias
+|-boost|p2a: Latias|spa|1
+|-boost|p2a: Latias|spd|1
+|move|p1a: Vaporeon|Haze|p1a: Vaporeon
+|-clearallboost
+|
+|upkeep
+|turn|8
+|
+|t:|1776981760
+|move|p2a: Latias|Calm Mind|p2a: Latias
+|-boost|p2a: Latias|spa|1
+|-boost|p2a: Latias|spd|1
+|move|p1a: Vaporeon|Scald|p2a: Latias
+|-damage|p2a: Latias|163/256
+|-status|p2a: Latias|brn
+|
+|-damage|p2a: Latias|147/256 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1776981769
+|move|p2a: Latias|Draco Meteor|p1a: Vaporeon
+|-damage|p1a: Vaporeon|130/364
+|-unboost|p2a: Latias|spa|2
+|move|p1a: Vaporeon|Haze|p1a: Vaporeon
+|-clearallboost
+|
+|-heal|p1a: Vaporeon|152/364|[from] item: Leftovers
+|-damage|p2a: Latias|131/256 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1776981779
+|move|p2a: Latias|Calm Mind|p2a: Latias
+|-boost|p2a: Latias|spa|1
+|-boost|p2a: Latias|spd|1
+|move|p1a: Vaporeon|Wish|p1a: Vaporeon
+|
+|-heal|p1a: Vaporeon|174/364|[from] item: Leftovers
+|-damage|p2a: Latias|115/256 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1776981787
+|move|p1a: Vaporeon|Protect|p1a: Vaporeon
+|-singleturn|p1a: Vaporeon|Protect
+|move|p2a: Latias|Calm Mind|p2a: Latias
+|-boost|p2a: Latias|spa|1
+|-boost|p2a: Latias|spd|1
+|
+|-heal|p1a: Vaporeon|356/364|[from] move: Wish|[wisher] Vaporeon
+|-heal|p1a: Vaporeon|364/364|[from] item: Leftovers
+|-damage|p2a: Latias|99/256 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1776981797
+|move|p2a: Latias|Draco Meteor|p1a: Vaporeon
+|-damage|p1a: Vaporeon|64/364
+|-unboost|p2a: Latias|spa|2
+|move|p1a: Vaporeon|Haze|p1a: Vaporeon
+|-clearallboost
+|
+|-heal|p1a: Vaporeon|86/364|[from] item: Leftovers
+|-damage|p2a: Latias|83/256 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1776981815
+|move|p2a: Latias|Recover|p2a: Latias
+|-heal|p2a: Latias|211/256 brn
+|move|p1a: Vaporeon|Wish|p1a: Vaporeon
+|
+|-heal|p1a: Vaporeon|108/364|[from] item: Leftovers
+|-damage|p2a: Latias|195/256 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1776981822
+|move|p1a: Vaporeon|Protect|p1a: Vaporeon
+|-singleturn|p1a: Vaporeon|Protect
+|move|p2a: Latias|Calm Mind|p2a: Latias
+|-boost|p2a: Latias|spa|1
+|-boost|p2a: Latias|spd|1
+|
+|-heal|p1a: Vaporeon|290/364|[from] move: Wish|[wisher] Vaporeon
+|-heal|p1a: Vaporeon|312/364|[from] item: Leftovers
+|-damage|p2a: Latias|179/256 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1776981841
+|move|p2a: Latias|Draco Meteor|p1a: Vaporeon
+|-damage|p1a: Vaporeon|83/364
+|-unboost|p2a: Latias|spa|2
+|move|p1a: Vaporeon|Haze|p1a: Vaporeon
+|-clearallboost
+|
+|-heal|p1a: Vaporeon|105/364|[from] item: Leftovers
+|-damage|p2a: Latias|163/256 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1776981850
+|move|p2a: Latias|Draco Meteor|p1a: Vaporeon
+|-damage|p1a: Vaporeon|0 fnt
+|-unboost|p2a: Latias|spa|2
+|faint|p1a: Vaporeon
+|
+|-damage|p2a: Latias|147/256 brn|[from] brn
+|upkeep
+|inactive|dorkman75 has 120 seconds left.
+|
+|t:|1776981878
+|switch|p1a: Iron Crown|Iron Crown, L78|243/268
+|turn|17
+|
+|t:|1776981884
+|move|p2a: Latias|Calm Mind|p2a: Latias
+|-boost|p2a: Latias|spa|1
+|-boost|p2a: Latias|spd|1
+|move|p1a: Iron Crown|Focus Blast|p2a: Latias|[miss]
+|-miss|p1a: Iron Crown|p2a: Latias
+|
+|-damage|p2a: Latias|131/256 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1776981892
+|move|p2a: Latias|Recover|p2a: Latias
+|-heal|p2a: Latias|256/256 brn
+|move|p1a: Iron Crown|Focus Blast|p2a: Latias|[miss]
+|-miss|p1a: Iron Crown|p2a: Latias
+|
+|-damage|p2a: Latias|240/256 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1776981901
+|move|p2a: Latias|Calm Mind|p2a: Latias
+|-boost|p2a: Latias|spa|1
+|-boost|p2a: Latias|spd|1
+|move|p1a: Iron Crown|Focus Blast|p2a: Latias|[miss]
+|-miss|p1a: Iron Crown|p2a: Latias
+|
+|-damage|p2a: Latias|224/256 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1776981908
+|move|p2a: Latias|Calm Mind|p2a: Latias
+|-boost|p2a: Latias|spa|1
+|-boost|p2a: Latias|spd|1
+|move|p1a: Iron Crown|Focus Blast|p2a: Latias|[miss]
+|-miss|p1a: Iron Crown|p2a: Latias
+|
+|-damage|p2a: Latias|208/256 brn|[from] brn
+|upkeep
+|turn|21
+|-message|dorkman75 forfeited.
+|
+|win|OneTame
+|raw|dorkman75's rating: 1390 &rarr; <strong>1369</strong><br />(-21 for losing)
+|raw|OneTame's rating: 1377 &rarr; <strong>1398</strong><br />(+21 for winning)
+|l|☆dorkman75
+|player|p1|

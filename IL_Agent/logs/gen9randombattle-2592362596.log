@@ -1,0 +1,248 @@
+|j|☆Perofjfkdhgksh
+|j|☆jsushdjdjs
+|t:|1776982239
+|gametype|singles
+|player|p1|Perofjfkdhgksh|102|1000
+|player|p2|jsushdjdjs|102|1000
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776982239
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Breloom|Breloom, L83, F|235/235
+|switch|p2a: Passimian|Passimian, L83, M|302/302
+|turn|1
+|
+|t:|1776982248
+|move|p1a: Breloom|Mach Punch|p2a: Passimian
+|-damage|p2a: Passimian|207/302
+|-damage|p1a: Breloom|212/235|[from] item: Life Orb
+|move|p2a: Passimian|Bulk Up|p2a: Passimian
+|-boost|p2a: Passimian|atk|1
+|-boost|p2a: Passimian|def|1
+|
+|-heal|p2a: Passimian|225/302|[from] item: Leftovers
+|upkeep
+|turn|2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by jsushdjdjs)
+|
+|t:|1776982258
+|move|p2a: Passimian|Bulk Up|p2a: Passimian
+|-boost|p2a: Passimian|atk|1
+|-boost|p2a: Passimian|def|1
+|move|p1a: Breloom|Rock Tomb|p2a: Passimian
+|-resisted|p2a: Passimian
+|-damage|p2a: Passimian|200/302
+|-unboost|p2a: Passimian|spe|1
+|-ability|p2a: Passimian|Defiant|boost
+|-boost|p2a: Passimian|atk|2
+|-damage|p1a: Breloom|189/235|[from] item: Life Orb
+|
+|-heal|p2a: Passimian|218/302|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776982274
+|move|p1a: Breloom|Mach Punch|p2a: Passimian
+|-damage|p2a: Passimian|162/302
+|-damage|p1a: Breloom|166/235|[from] item: Life Orb
+|move|p2a: Passimian|Drain Punch|p1a: Breloom
+|-damage|p1a: Breloom|0 fnt
+|-heal|p2a: Passimian|245/302|[from] drain|[of] p1a: Breloom
+|faint|p1a: Breloom
+|
+|-heal|p2a: Passimian|263/302|[from] item: Leftovers
+|upkeep
+|
+|t:|1776982290
+|switch|p1a: Swalot|Swalot, L90, F|326/326
+|turn|4
+|
+|t:|1776982299
+|move|p1a: Swalot|Encore|p2a: Passimian
+|-start|p2a: Passimian|Encore
+|move|p2a: Passimian|Drain Punch|p1a: Swalot
+|-resisted|p1a: Swalot
+|-damage|p1a: Swalot|191/326
+|-damage|p2a: Passimian|195/302|[from] ability: Liquid Ooze|[of] p1a: Swalot
+|
+|-heal|p1a: Swalot|211/326|[from] item: Leftovers
+|-heal|p2a: Passimian|213/302|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776982311
+|move|p1a: Swalot|Sludge Bomb|p2a: Passimian
+|-damage|p2a: Passimian|95/302
+|move|p2a: Passimian|Drain Punch|p1a: Swalot
+|-resisted|p1a: Swalot
+|-damage|p1a: Swalot|70/326
+|-damage|p2a: Passimian|24/302|[from] ability: Liquid Ooze|[of] p1a: Swalot
+|
+|-heal|p1a: Swalot|90/326|[from] item: Leftovers
+|-heal|p2a: Passimian|42/302|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776982323
+|move|p1a: Swalot|Sludge Bomb|p2a: Passimian
+|-damage|p2a: Passimian|0 fnt
+|faint|p2a: Passimian
+|
+|-heal|p1a: Swalot|110/326|[from] item: Leftovers
+|upkeep
+|
+|t:|1776982326
+|switch|p2a: Girafarig|Girafarig, L89, M|269/269
+|turn|7
+|
+|t:|1776982334
+|move|p2a: Girafarig|Psyshock|p1a: Swalot
+|-supereffective|p1a: Swalot
+|-damage|p1a: Swalot|0 fnt
+|faint|p1a: Swalot
+|
+|upkeep
+|
+|t:|1776982341
+|switch|p1a: Slowking|Slowking-Galar, L85, M|300/300
+|turn|8
+|
+|t:|1776982349
+|move|p2a: Girafarig|Nasty Plot|p2a: Girafarig
+|-boost|p2a: Girafarig|spa|2
+|move|p1a: Slowking|Psychic Noise|p2a: Girafarig
+|-resisted|p2a: Girafarig
+|-damage|p2a: Girafarig|232/269
+|-start|p2a: Girafarig|move: Heal Block
+|
+|upkeep
+|turn|9
+|
+|t:|1776982358
+|move|p2a: Girafarig|Hyper Voice|p1a: Slowking
+|-damage|p1a: Slowking|122/300
+|move|p1a: Slowking|Sludge Bomb|p2a: Girafarig
+|-damage|p2a: Girafarig|148/269
+|
+|-heal|p1a: Slowking|140/300|[from] item: Leftovers
+|-end|p2a: Girafarig|move: Heal Block
+|upkeep
+|turn|10
+|
+|t:|1776982368
+|move|p2a: Girafarig|Hyper Voice|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|
+|upkeep
+|
+|t:|1776982375
+|switch|p1a: Dipplin|Dipplin, L88, F|284/284
+|turn|11
+|
+|t:|1776982380
+|move|p2a: Girafarig|Hyper Voice|p1a: Dipplin
+|-crit|p1a: Dipplin
+|-damage|p1a: Dipplin|73/284
+|move|p1a: Dipplin|Dragon Tail|p2a: Girafarig
+|-damage|p2a: Girafarig|94/269
+|drag|p2a: Pincurchin|Pincurchin, M|258/258
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Pincurchin
+|
+|upkeep
+|turn|12
+|
+|t:|1776982392
+|move|p1a: Dipplin|Giga Drain|p2a: Pincurchin
+|-damage|p2a: Pincurchin|179/258
+|-heal|p1a: Dipplin|113/284|[from] drain|[of] p2a: Pincurchin
+|move|p2a: Pincurchin|Toxic Spikes|p1a: Dipplin
+|-sidestart|p1: Perofjfkdhgksh|move: Toxic Spikes
+|
+|-heal|p2a: Pincurchin|195/258|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776982401
+|move|p1a: Dipplin|Giga Drain|p2a: Pincurchin
+|-damage|p2a: Pincurchin|123/258
+|-heal|p1a: Dipplin|149/284|[from] drain|[of] p2a: Pincurchin
+|move|p2a: Pincurchin|Toxic Spikes|p1a: Dipplin
+|-sidestart|p1: Perofjfkdhgksh|move: Toxic Spikes
+|
+|-heal|p2a: Pincurchin|139/258|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1776982412
+|switch|p2a: Girafarig|Girafarig, L89, M|94/269
+|move|p1a: Dipplin|Dragon Pulse|p2a: Girafarig
+|-crit|p2a: Girafarig
+|-damage|p2a: Girafarig|0 fnt
+|faint|p2a: Girafarig
+|
+|upkeep
+|
+|t:|1776982422
+|switch|p2a: Calyrex|Calyrex-Ice, L72|263/263
+|-ability|p2a: Calyrex|As One
+|-ability|p2a: Calyrex|Unnerve
+|turn|15
+|
+|t:|1776982434
+|move|p1a: Dipplin|Recover|p1a: Dipplin
+|-heal|p1a: Dipplin|284/284
+|move|p2a: Calyrex|Trick Room|p2a: Calyrex
+|-fieldstart|move: Trick Room|[of] p2a: Calyrex
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|16
+|
+|t:|1776982441
+|move|p2a: Calyrex|Glacial Lance|p1a: Dipplin
+|-supereffective|p1a: Dipplin
+|-damage|p1a: Dipplin|0 fnt
+|faint|p1a: Dipplin
+|-ability|p2a: Calyrex|Chilling Neigh|boost
+|-boost|p2a: Calyrex|atk|1
+|
+|upkeep
+|
+|t:|1776982448
+|switch|p1a: Bombirdier|Bombirdier, L85, M|258/258
+|turn|17
+|
+|t:|1776982453
+|move|p2a: Calyrex|Glacial Lance|p1a: Bombirdier
+|-supereffective|p1a: Bombirdier
+|-damage|p1a: Bombirdier|0 fnt
+|faint|p1a: Bombirdier
+|-ability|p2a: Calyrex|Chilling Neigh|boost
+|-boost|p2a: Calyrex|atk|1
+|
+|upkeep
+|
+|t:|1776982461
+|switch|p1a: Necrozma|Necrozma, L80|286/286
+|-status|p1a: Necrozma|tox
+|turn|18
+|
+|t:|1776982468
+|move|p2a: Calyrex|Glacial Lance|p1a: Necrozma
+|-damage|p1a: Necrozma|0 fnt
+|faint|p1a: Necrozma
+|
+|win|jsushdjdjs
+|raw|Perofjfkdhgksh's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|raw|jsushdjdjs's rating: 1000 &rarr; <strong>1040</strong><br />(+40 for winning)
+|l|☆jsushdjdjs
+|player|p2|

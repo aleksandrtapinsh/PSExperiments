@@ -1,0 +1,386 @@
+|j|☆Rafoff11
+|j|☆Bethy0001
+|t:|1776972045
+|gametype|singles
+|player|p1|Rafoff11|red|1322
+|player|p2|Bethy0001|265|1332
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776972045
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Yanmega|Yanmega, L82, F|275/275
+|switch|p2a: Glaceon|Glaceon, L94, M|275/275
+|turn|1
+|
+|t:|1776972062
+|move|p1a: Yanmega|U-turn|p2a: Glaceon
+|-damage|p2a: Glaceon|227/275
+|
+|t:|1776972066
+|switch|p1a: Delphox|Delphox, L84, M|263/263|[from] U-turn
+|move|p2a: Glaceon|Wish|p2a: Glaceon
+|
+|upkeep
+|turn|2
+|
+|t:|1776972073
+|move|p1a: Delphox|Nasty Plot|p1a: Delphox
+|-boost|p1a: Delphox|spa|2
+|move|p2a: Glaceon|Mud Shot|p1a: Delphox
+|-supereffective|p1a: Delphox
+|-damage|p1a: Delphox|151/263
+|-unboost|p1a: Delphox|spe|1
+|
+|-heal|p2a: Glaceon|275/275|[from] move: Wish|[wisher] Glaceon
+|upkeep
+|turn|3
+|
+|t:|1776972087
+|move|p2a: Glaceon|Mud Shot|p1a: Delphox
+|-supereffective|p1a: Delphox
+|-damage|p1a: Delphox|37/263
+|-unboost|p1a: Delphox|spe|1
+|move|p1a: Delphox|Fire Blast|p2a: Glaceon
+|-supereffective|p2a: Glaceon
+|-damage|p2a: Glaceon|0 fnt
+|faint|p2a: Glaceon
+|
+|upkeep
+|
+|t:|1776972112
+|switch|p2a: Hitmonchan|Hitmonchan, L87, M|229/229
+|turn|4
+|
+|t:|1776972122
+|move|p2a: Hitmonchan|Rapid Spin|p1a: Delphox
+|-damage|p1a: Delphox|0 fnt
+|-boost|p2a: Hitmonchan|spe|1
+|faint|p1a: Delphox
+|
+|upkeep
+|
+|t:|1776972141
+|switch|p1a: Yanmega|Yanmega, L82, F|275/275
+|turn|5
+|
+|t:|1776972157
+|switch|p2a: Toxtricity|Toxtricity, L82, F|257/257
+|move|p1a: Yanmega|Air Slash|p2a: Toxtricity
+|-resisted|p2a: Toxtricity
+|-damage|p2a: Toxtricity|99/257
+|
+|upkeep
+|turn|6
+|
+|t:|1776972167
+|move|p2a: Toxtricity|Overdrive|p1a: Yanmega
+|-supereffective|p1a: Yanmega
+|-damage|p1a: Yanmega|0 fnt
+|faint|p1a: Yanmega
+|
+|upkeep
+|
+|t:|1776972200
+|switch|p1a: Furret|Furret, L94, F|312/312
+|-item|p2a: Toxtricity|Choice Scarf|[from] ability: Frisk|[of] p1a: Furret
+|turn|7
+|
+|t:|1776972214
+|move|p2a: Toxtricity|Overdrive|p1a: Furret
+|-damage|p1a: Furret|155/312
+|move|p1a: Furret|Double-Edge|p2a: Toxtricity
+|-crit|p2a: Toxtricity
+|-damage|p2a: Toxtricity|0 fnt
+|faint|p2a: Toxtricity
+|-damage|p1a: Furret|122/312|[from] Recoil
+|-damage|p1a: Furret|91/312|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776972225
+|switch|p2a: Eiscue|Eiscue, L88, F|274/274
+|turn|8
+|
+|t:|1776972233
+|move|p1a: Furret|Knock Off|p2a: Eiscue
+|-activate|p2a: Eiscue|ability: Ice Face
+|-damage|p2a: Eiscue|274/274
+|-enditem|p2a: Eiscue|Sitrus Berry|[from] move: Knock Off|[of] p1a: Furret
+|detailschange|p2a: Eiscue|Eiscue-Noice, L88, F
+|-damage|p1a: Furret|60/312|[from] item: Life Orb
+|move|p2a: Eiscue|Belly Drum|p2a: Eiscue
+|-damage|p2a: Eiscue|137/274
+|-setboost|p2a: Eiscue|atk|6|[from] move: Belly Drum
+|
+|upkeep
+|turn|9
+|
+|t:|1776972249
+|move|p2a: Eiscue|Iron Head|p1a: Furret
+|-damage|p1a: Furret|0 fnt
+|faint|p1a: Furret
+|
+|upkeep
+|
+|t:|1776972267
+|switch|p1a: Conkeldurr|Conkeldurr, L80, F|299/299
+|turn|10
+|
+|t:|1776972275
+|move|p1a: Conkeldurr|Mach Punch|p2a: Eiscue
+|-supereffective|p2a: Eiscue
+|-damage|p2a: Eiscue|15/274
+|move|p2a: Eiscue|Liquidation|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|77/299
+|-unboost|p1a: Conkeldurr|def|1
+|
+|-status|p1a: Conkeldurr|brn|[from] item: Flame Orb
+|upkeep
+|turn|11
+|
+|t:|1776972285
+|move|p1a: Conkeldurr|Mach Punch|p2a: Eiscue
+|-supereffective|p2a: Eiscue
+|-damage|p2a: Eiscue|0 fnt
+|faint|p2a: Eiscue
+|
+|-damage|p1a: Conkeldurr|59/299 brn|[from] brn
+|upkeep
+|
+|t:|1776972314
+|switch|p2a: Hitmonchan|Hitmonchan, L87, M|229/229
+|turn|12
+|
+|t:|1776972325
+|move|p1a: Conkeldurr|Mach Punch|p2a: Hitmonchan
+|-damage|p2a: Hitmonchan|147/229
+|move|p2a: Hitmonchan|Swords Dance|p2a: Hitmonchan
+|-boost|p2a: Hitmonchan|atk|2
+|
+|-heal|p2a: Hitmonchan|161/229|[from] item: Leftovers
+|-damage|p1a: Conkeldurr|41/299 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1776972336
+|move|p2a: Hitmonchan|Rapid Spin|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|0 fnt
+|-boost|p2a: Hitmonchan|spe|1
+|faint|p1a: Conkeldurr
+|
+|-heal|p2a: Hitmonchan|175/229|[from] item: Leftovers
+|upkeep
+|
+|t:|1776972345
+|switch|p1a: Volbeat|Volbeat, L90, M|263/263
+|turn|14
+|
+|t:|1776972356
+|move|p1a: Volbeat|Thunder Wave|p2a: Hitmonchan
+|-status|p2a: Hitmonchan|par
+|cant|p2a: Hitmonchan|par
+|
+|-heal|p2a: Hitmonchan|189/229 par|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1776972371
+|move|p1a: Volbeat|Encore|p2a: Hitmonchan
+|-start|p2a: Hitmonchan|Encore
+|move|p2a: Hitmonchan|Rapid Spin|p1a: Volbeat
+|-damage|p1a: Volbeat|174/263
+|-boost|p2a: Hitmonchan|spe|1
+|
+|-heal|p2a: Hitmonchan|203/229 par|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776972380
+|switch|p1a: Rampardos|Rampardos, L90, F|321/321
+|cant|p2a: Hitmonchan|par
+|
+|-heal|p2a: Hitmonchan|217/229 par|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1776972391
+|move|p2a: Hitmonchan|Rapid Spin|p1a: Rampardos
+|-resisted|p1a: Rampardos
+|-damage|p1a: Rampardos|268/321
+|-boost|p2a: Hitmonchan|spe|1
+|move|p1a: Rampardos|Zen Headbutt|p2a: Hitmonchan
+|-supereffective|p2a: Hitmonchan
+|-damage|p2a: Hitmonchan|0 fnt
+|faint|p2a: Hitmonchan
+|
+|upkeep
+|
+|t:|1776972400
+|switch|p2a: Iron Boulder|Iron Boulder, L77|265/265
+|turn|18
+|
+|t:|1776972417
+|move|p2a: Iron Boulder|Close Combat|p1a: Rampardos
+|-supereffective|p1a: Rampardos
+|-damage|p1a: Rampardos|13/321
+|-unboost|p2a: Iron Boulder|def|1
+|-unboost|p2a: Iron Boulder|spd|1
+|-damage|p2a: Iron Boulder|239/265|[from] item: Life Orb
+|move|p1a: Rampardos|Earthquake|p2a: Iron Boulder
+|-supereffective|p2a: Iron Boulder
+|-damage|p2a: Iron Boulder|0 fnt
+|faint|p2a: Iron Boulder
+|-end|p2a: Iron Boulder|Quark Drive|[silent]
+|-damage|p1a: Rampardos|0 fnt|[from] item: Life Orb
+|faint|p1a: Rampardos
+|
+|upkeep
+|
+|t:|1776972429
+|switch|p2a: Reshiram|Reshiram, L76|277/277
+|switch|p1a: Volbeat|Volbeat, L90, M|174/263
+|-ability|p2a: Reshiram|Turboblaze
+|turn|19
+|
+|t:|1776972440
+|-terastallize|p1a: Volbeat|Water
+|move|p1a: Volbeat|Thunder Wave|p2a: Reshiram
+|-status|p2a: Reshiram|par
+|move|p2a: Reshiram|Flare Blitz|p1a: Volbeat
+|-resisted|p1a: Volbeat
+|-damage|p1a: Volbeat|108/263
+|-damage|p2a: Reshiram|255/277 par|[from] Recoil
+|
+|upkeep
+|turn|20
+|
+|t:|1776972449
+|move|p1a: Volbeat|Encore|p2a: Reshiram
+|-start|p2a: Reshiram|Encore
+|cant|p2a: Reshiram|par
+|
+|upkeep
+|turn|21
+|
+|t:|1776972453
+|move|p1a: Volbeat|Roost|p1a: Volbeat
+|-heal|p1a: Volbeat|240/263
+|move|p2a: Reshiram|Flare Blitz|p1a: Volbeat
+|-resisted|p1a: Volbeat
+|-damage|p1a: Volbeat|171/263
+|-damage|p2a: Reshiram|232/277 par|[from] Recoil
+|
+|upkeep
+|turn|22
+|
+|t:|1776972461
+|move|p1a: Volbeat|U-turn|p2a: Reshiram
+|-resisted|p2a: Reshiram
+|-damage|p2a: Reshiram|196/277 par
+|move|p2a: Reshiram|Flare Blitz|p1a: Volbeat
+|-resisted|p1a: Volbeat
+|-damage|p1a: Volbeat|104/263
+|-damage|p2a: Reshiram|174/277 par|[from] Recoil
+|
+|-end|p2a: Reshiram|Encore
+|upkeep
+|turn|23
+|
+|t:|1776972475
+|move|p1a: Volbeat|Encore|p2a: Reshiram
+|-start|p2a: Reshiram|Encore
+|move|p2a: Reshiram|Flare Blitz|p1a: Volbeat
+|-resisted|p1a: Volbeat
+|-damage|p1a: Volbeat|34/263
+|-damage|p2a: Reshiram|151/277 par|[from] Recoil
+|
+|upkeep
+|turn|24
+|
+|t:|1776972482
+|move|p1a: Volbeat|Roost|p1a: Volbeat
+|-heal|p1a: Volbeat|166/263
+|move|p2a: Reshiram|Flare Blitz|p1a: Volbeat
+|-resisted|p1a: Volbeat
+|-damage|p1a: Volbeat|99/263
+|-damage|p2a: Reshiram|129/277 par|[from] Recoil
+|
+|upkeep
+|turn|25
+|
+|t:|1776972488
+|move|p1a: Volbeat|Roost|p1a: Volbeat
+|-heal|p1a: Volbeat|231/263
+|move|p2a: Reshiram|Flare Blitz|p1a: Volbeat
+|-resisted|p1a: Volbeat
+|-damage|p1a: Volbeat|161/263
+|-damage|p2a: Reshiram|106/277 par|[from] Recoil
+|
+|-end|p2a: Reshiram|Encore
+|upkeep
+|turn|26
+|
+|t:|1776972497
+|move|p1a: Volbeat|Encore|p2a: Reshiram
+|-start|p2a: Reshiram|Encore
+|move|p2a: Reshiram|Flare Blitz|p1a: Volbeat
+|-resisted|p1a: Volbeat
+|-damage|p1a: Volbeat|96/263
+|-damage|p2a: Reshiram|85/277 par|[from] Recoil
+|
+|upkeep
+|turn|27
+|c|☆Bethy0001|Dishonour on you
+|c|☆Rafoff11|sorry for that
+|c|☆Bethy0001|dishonour on your cow
+|
+|t:|1776972519
+|move|p1a: Volbeat|Roost|p1a: Volbeat
+|-heal|p1a: Volbeat|228/263
+|move|p2a: Reshiram|Flare Blitz|p1a: Volbeat
+|-resisted|p1a: Volbeat
+|-damage|p1a: Volbeat|165/263
+|-damage|p2a: Reshiram|64/277 par|[from] Recoil
+|
+|upkeep
+|turn|28
+|c|☆Bethy0001|Dishonour to the fridge
+|
+|t:|1776972547
+|move|p1a: Volbeat|U-turn|p2a: Reshiram
+|-resisted|p2a: Reshiram
+|-damage|p2a: Reshiram|28/277 par
+|move|p2a: Reshiram|Flare Blitz|p1a: Volbeat
+|-resisted|p1a: Volbeat
+|-damage|p1a: Volbeat|104/263
+|-damage|p2a: Reshiram|8/277 par|[from] Recoil
+|
+|-end|p2a: Reshiram|Encore
+|upkeep
+|turn|29
+|c|☆Bethy0001|dishonour to miku on your desk
+|
+|t:|1776972556
+|move|p1a: Volbeat|Encore|p2a: Reshiram
+|-start|p2a: Reshiram|Encore
+|move|p2a: Reshiram|Flare Blitz|p1a: Volbeat
+|-resisted|p1a: Volbeat
+|-damage|p1a: Volbeat|39/263
+|-damage|p2a: Reshiram|0 fnt|[from] Recoil
+|faint|p2a: Reshiram
+|
+|win|Rafoff11
+|raw|Rafoff11's rating: 1322 &rarr; <strong>1343</strong><br />(+21 for winning)
+|raw|Bethy0001's rating: 1332 &rarr; <strong>1311</strong><br />(-21 for losing)
+|c|☆Rafoff11|gg
+|c|☆Bethy0001|Gg
+|l|☆Bethy0001
+|player|p2|

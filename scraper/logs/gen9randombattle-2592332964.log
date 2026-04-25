@@ -1,0 +1,128 @@
+|j|☆BeaconJinsei
+|j|☆millan22gengar
+|t:|1776979638
+|gametype|singles
+|player|p1|BeaconJinsei|red|1212
+|player|p2|millan22gengar|1|1240
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776979638
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Glalie|Glalie, L96, F|309/309
+|switch|p2a: Polteageist|Polteageist, L78|222/222
+|turn|1
+|
+|t:|1776979668
+|switch|p2a: Luvdisc|Luvdisc, F|247/247
+|move|p1a: Glalie|Spikes|p2a: Luvdisc
+|-sidestart|p2: millan22gengar|Spikes
+|
+|upkeep
+|turn|2
+|
+|t:|1776979685
+|move|p2a: Luvdisc|Substitute|p2a: Luvdisc
+|-start|p2a: Luvdisc|Substitute
+|-damage|p2a: Luvdisc|186/247
+|move|p1a: Glalie|Taunt|p2a: Luvdisc
+|-start|p2a: Luvdisc|move: Taunt
+|
+|upkeep
+|turn|3
+|
+|t:|1776979697
+|move|p2a: Luvdisc|Whirlpool|p1a: Glalie
+|-damage|p1a: Glalie|281/309
+|-activate|p1a: Glalie|move: Whirlpool|[of] p2a: Luvdisc
+|move|p1a: Glalie|Freeze-Dry|p2a: Luvdisc
+|-supereffective|p2a: Luvdisc
+|-end|p2a: Luvdisc|Substitute
+|
+|-damage|p1a: Glalie|243/309|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|4
+|
+|t:|1776979702
+|move|p2a: Luvdisc|Surf|p1a: Glalie
+|-damage|p1a: Glalie|171/309
+|move|p1a: Glalie|Freeze-Dry|p2a: Luvdisc
+|-supereffective|p2a: Luvdisc
+|-damage|p2a: Luvdisc|18/247
+|-status|p2a: Luvdisc|frz
+|
+|-damage|p1a: Glalie|133/309|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|5
+|
+|t:|1776979706
+|cant|p2a: Luvdisc|frz
+|move|p1a: Glalie|Freeze-Dry|p2a: Luvdisc
+|-supereffective|p2a: Luvdisc
+|-damage|p2a: Luvdisc|0 fnt
+|faint|p2a: Luvdisc
+|
+|-end|p1a: Glalie|Whirlpool|[partiallytrapped]|[silent]
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by BeaconJinsei)
+|
+|t:|1776979742
+|switch|p2a: Revavroom|Revavroom, L79, M|256/256
+|-damage|p2a: Revavroom|224/256|[from] Spikes
+|turn|6
+|
+|t:|1776979749
+|move|p1a: Glalie|Earthquake|p2a: Revavroom
+|-supereffective|p2a: Revavroom
+|-damage|p2a: Revavroom|0 fnt
+|faint|p2a: Revavroom
+|
+|upkeep
+|
+|t:|1776979755
+|switch|p2a: Polteageist|Polteageist, L78|222/222
+|-damage|p2a: Polteageist|195/222|[from] Spikes
+|turn|7
+|
+|t:|1776979763
+|move|p1a: Glalie|Freeze-Dry|p2a: Polteageist
+|-damage|p2a: Polteageist|120/222
+|move|p2a: Polteageist|Shell Smash|p2a: Polteageist
+|-unboost|p2a: Polteageist|def|1
+|-unboost|p2a: Polteageist|spd|1
+|-boost|p2a: Polteageist|atk|2
+|-boost|p2a: Polteageist|spa|2
+|-boost|p2a: Polteageist|spe|2
+|-enditem|p2a: Polteageist|White Herb
+|-clearnegativeboost|p2a: Polteageist|[silent]
+|
+|upkeep
+|turn|8
+|
+|t:|1776979772
+|-terastallize|p2a: Polteageist|Fighting
+|move|p2a: Polteageist|Shell Smash|p2a: Polteageist
+|-unboost|p2a: Polteageist|def|1
+|-unboost|p2a: Polteageist|spd|1
+|-boost|p2a: Polteageist|atk|2
+|-boost|p2a: Polteageist|spa|2
+|-boost|p2a: Polteageist|spe|2
+|move|p1a: Glalie|Earthquake|p2a: Polteageist
+|-damage|p2a: Polteageist|0 fnt
+|faint|p2a: Polteageist
+|
+|upkeep
+|c|☆millan22gengar|ME CAGO EN TU MADRE
+|n|‽millan22gengar|millan22gengar
+|c|~|/log millan22gengar was locked from talking by Artemis for a week. (☆millan22gengar: ME CAGO EN TU MADRE)
+|c|~|/raw <small>This action was done automatically. Want to learn more about the AI? <a href="https://www.smogon.com/forums/threads/3570628/#post-9056769">Visit the information thread</a>.</small>
+|-message|millan22gengar forfeited.
+|
+|win|BeaconJinsei

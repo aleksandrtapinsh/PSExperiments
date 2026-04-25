@@ -1,0 +1,245 @@
+|j|☆Jonttu06020
+|j|☆BA_Reptile
+|t:|1776972051
+|gametype|singles
+|player|p1|Jonttu06020|170|1172
+|player|p2|BA_Reptile|brycenman|1128
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776972051
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Dondozo|Dondozo, L78, M|362/362
+|switch|p2a: Zapdos|Zapdos, L78|268/268
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Jonttu06020)
+|
+|t:|1776972075
+|move|p2a: Zapdos|Thunderbolt|p1a: Dondozo
+|-supereffective|p1a: Dondozo
+|-damage|p1a: Dondozo|98/362
+|move|p1a: Dondozo|Wave Crash|p2a: Zapdos
+|-damage|p2a: Zapdos|139/268
+|-status|p1a: Dondozo|par|[from] ability: Static|[of] p2a: Zapdos
+|-damage|p1a: Dondozo|55/362 par|[from] Recoil
+|
+|-heal|p1a: Dondozo|77/362 par|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776972089
+|move|p2a: Zapdos|Thunderbolt|p1a: Dondozo
+|-supereffective|p1a: Dondozo
+|-damage|p1a: Dondozo|0 fnt
+|faint|p1a: Dondozo
+|
+|upkeep
+|
+|t:|1776972093
+|switch|p1a: Piloswine|Piloswine, L85, F|309/309
+|turn|3
+|
+|t:|1776972107
+|switch|p2a: Hitmonchan|Hitmonchan, L87, M|229/229
+|move|p1a: Piloswine|Icicle Crash|p2a: Hitmonchan
+|-damage|p2a: Hitmonchan|133/229
+|
+|-heal|p2a: Hitmonchan|147/229|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776972118
+|move|p2a: Hitmonchan|Drain Punch|p1a: Piloswine
+|-supereffective|p1a: Piloswine
+|-damage|p1a: Piloswine|159/309
+|-heal|p2a: Hitmonchan|222/229|[from] drain|[of] p1a: Piloswine
+|move|p1a: Piloswine|Earthquake|p2a: Hitmonchan
+|-crit|p2a: Hitmonchan
+|-damage|p2a: Hitmonchan|53/229
+|
+|-heal|p2a: Hitmonchan|67/229|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776972129
+|move|p1a: Piloswine|Ice Shard|p2a: Hitmonchan
+|-damage|p2a: Hitmonchan|16/229
+|move|p2a: Hitmonchan|Drain Punch|p1a: Piloswine
+|-supereffective|p1a: Piloswine
+|-damage|p1a: Piloswine|1/309
+|-heal|p2a: Hitmonchan|95/229|[from] drain|[of] p1a: Piloswine
+|
+|-heal|p2a: Hitmonchan|109/229|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776972138
+|move|p1a: Piloswine|Ice Shard|p2a: Hitmonchan
+|-damage|p2a: Hitmonchan|61/229
+|move|p2a: Hitmonchan|Drain Punch|p1a: Piloswine
+|-supereffective|p1a: Piloswine
+|-damage|p1a: Piloswine|0 fnt
+|-heal|p2a: Hitmonchan|62/229|[from] drain|[of] p1a: Piloswine
+|faint|p1a: Piloswine
+|
+|-heal|p2a: Hitmonchan|76/229|[from] item: Leftovers
+|upkeep
+|
+|t:|1776972141
+|switch|p1a: Flutter Mane|Flutter Mane, L74|203/203
+|turn|7
+|
+|t:|1776972163
+|switch|p2a: Illumise|Illumise, L91, F|266/266
+|move|p1a: Flutter Mane|Psyshock|p2a: Illumise
+|-damage|p2a: Illumise|180/266
+|-damage|p1a: Flutter Mane|183/203|[from] item: Life Orb
+|
+|upkeep
+|turn|8
+|
+|t:|1776972175
+|-terastallize|p1a: Flutter Mane|Ghost
+|move|p2a: Illumise|Thunder Wave|p1a: Flutter Mane
+|-status|p1a: Flutter Mane|par
+|move|p1a: Flutter Mane|Calm Mind|p1a: Flutter Mane
+|-boost|p1a: Flutter Mane|spa|1
+|-boost|p1a: Flutter Mane|spd|1
+|
+|upkeep
+|turn|9
+|
+|t:|1776972184
+|move|p2a: Illumise|Encore|p1a: Flutter Mane
+|-start|p1a: Flutter Mane|Encore
+|move|p1a: Flutter Mane|Calm Mind|p1a: Flutter Mane
+|-boost|p1a: Flutter Mane|spa|1
+|-boost|p1a: Flutter Mane|spd|1
+|
+|upkeep
+|turn|10
+|
+|t:|1776972191
+|move|p2a: Illumise|Roost|p2a: Illumise
+|-heal|p2a: Illumise|266/266
+|-singleturn|p2a: Illumise|move: Roost
+|cant|p1a: Flutter Mane|par
+|
+|upkeep
+|turn|11
+|
+|t:|1776972197
+|move|p2a: Illumise|Bug Buzz|p1a: Flutter Mane
+|-resisted|p1a: Flutter Mane
+|-damage|p1a: Flutter Mane|163/203 par
+|move|p1a: Flutter Mane|Calm Mind|p1a: Flutter Mane
+|-boost|p1a: Flutter Mane|spa|1
+|-boost|p1a: Flutter Mane|spd|1
+|
+|-end|p1a: Flutter Mane|Encore
+|upkeep
+|turn|12
+|
+|t:|1776972206
+|move|p2a: Illumise|Encore|p1a: Flutter Mane
+|-start|p1a: Flutter Mane|Encore
+|cant|p1a: Flutter Mane|par
+|
+|upkeep
+|turn|13
+|c|☆Jonttu06020|gay
+|
+|t:|1776972224
+|-end|p1a: Flutter Mane|Protosynthesis|[silent]
+|switch|p1a: Duraludon|Duraludon, L82, F|249/249
+|move|p2a: Illumise|Bug Buzz|p1a: Duraludon
+|-resisted|p1a: Duraludon
+|-damage|p1a: Duraludon|201/249
+|
+|upkeep
+|turn|14
+|
+|t:|1776972238
+|move|p2a: Illumise|Thunder Wave|p1a: Duraludon
+|-status|p1a: Duraludon|par
+|move|p1a: Duraludon|Flash Cannon|p2a: Illumise
+|-damage|p2a: Illumise|173/266
+|
+|upkeep
+|turn|15
+|
+|t:|1776972258
+|switch|p2a: Chandelure|Chandelure, L83, M|235/235
+|move|p1a: Duraludon|Flash Cannon|p2a: Chandelure
+|-resisted|p2a: Chandelure
+|-damage|p2a: Chandelure|187/235
+|
+|upkeep
+|turn|16
+|
+|t:|1776972270
+|move|p2a: Chandelure|Fire Blast|p1a: Duraludon
+|-damage|p1a: Duraludon|32/249 par
+|cant|p1a: Duraludon|par
+|
+|upkeep
+|turn|17
+|
+|t:|1776972277
+|move|p2a: Chandelure|Fire Blast|p1a: Duraludon
+|-damage|p1a: Duraludon|0 fnt
+|faint|p1a: Duraludon
+|
+|upkeep
+|
+|t:|1776972279
+|switch|p1a: Flutter Mane|Flutter Mane, L74, tera:Ghost|163/203 par
+|turn|18
+|
+|t:|1776972286
+|switch|p2a: Illumise|Illumise, L91, F|173/266
+|cant|p1a: Flutter Mane|par
+|
+|upkeep
+|turn|19
+|
+|t:|1776972293
+|move|p2a: Illumise|Roost|p2a: Illumise
+|-heal|p2a: Illumise|266/266
+|-singleturn|p2a: Illumise|move: Roost
+|move|p1a: Flutter Mane|Shadow Ball|p2a: Illumise
+|-damage|p2a: Illumise|110/266
+|-damage|p1a: Flutter Mane|143/203 par|[from] item: Life Orb
+|
+|upkeep
+|turn|20
+|
+|t:|1776972302
+|move|p2a: Illumise|Encore|p1a: Flutter Mane
+|-start|p1a: Flutter Mane|Encore
+|cant|p1a: Flutter Mane|par
+|
+|upkeep
+|turn|21
+|
+|t:|1776972308
+|switch|p2a: Wigglytuff|Wigglytuff, L96, F|424/424
+|move|p1a: Flutter Mane|Shadow Ball|p2a: Wigglytuff
+|-immune|p2a: Wigglytuff
+|
+|upkeep
+|turn|22
+|-message|Jonttu06020 forfeited.
+|
+|win|BA_Reptile
+|raw|Jonttu06020's rating: 1172 &rarr; <strong>1144</strong><br />(-28 for losing)
+|raw|BA_Reptile's rating: 1128 &rarr; <strong>1156</strong><br />(+28 for winning)
+|l|☆Jonttu06020
+|player|p1|

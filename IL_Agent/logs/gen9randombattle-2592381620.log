@@ -1,0 +1,374 @@
+|j|☆Smoshua2
+|j|☆Tony’smeatball
+|t:|1776984013
+|gametype|singles
+|player|p1|Smoshua2|dahlia|1464
+|player|p2|Tony’smeatball|265|1474
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776984013
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Hands|Iron Hands, L79|373/373
+|switch|p2a: Arceus|Arceus-Psychic, L69|280/280
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Smoshua2)
+|
+|t:|1776984033
+|move|p1a: Iron Hands|Fake Out|p2a: Arceus
+|-damage|p2a: Arceus|244/280
+|cant|p2a: Arceus|flinch
+|
+|upkeep
+|turn|2
+|
+|t:|1776984052
+|-end|p1a: Iron Hands|Quark Drive|[silent]
+|switch|p1a: Abomasnow|Abomasnow, L84, F|287/287
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p1a: Abomasnow
+|move|p2a: Arceus|Cosmic Power|p2a: Arceus
+|-boost|p2a: Arceus|def|1
+|-boost|p2a: Arceus|spd|1
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1776984061
+|move|p2a: Arceus|Cosmic Power|p2a: Arceus
+|-boost|p2a: Arceus|def|1
+|-boost|p2a: Arceus|spd|1
+|move|p1a: Abomasnow|Aurora Veil|p1a: Abomasnow
+|-sidestart|p1: Smoshua2|move: Aurora Veil
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1776984080
+|switch|p1a: Clodsire|Clodsire, L81, F|343/343
+|move|p2a: Arceus|Cosmic Power|p2a: Arceus
+|-boost|p2a: Arceus|def|1
+|-boost|p2a: Arceus|spd|1
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|5
+|c|☆Tony’smeatball|Oopsie woopsie
+|
+|t:|1776984094
+|move|p2a: Arceus|Cosmic Power|p2a: Arceus
+|-boost|p2a: Arceus|def|1
+|-boost|p2a: Arceus|spd|1
+|move|p1a: Clodsire|Toxic|p2a: Arceus
+|-status|p2a: Arceus|tox
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p2a: Arceus|227/280 tox|[from] psn
+|upkeep
+|turn|6
+|c|☆Tony’smeatball|Bing bong
+|inactive|Smoshua2 has 120 seconds left.
+|
+|t:|1776984133
+|switch|p1a: Abomasnow|Abomasnow, L84, F|287/287
+|move|p2a: Arceus|Stored Power|p1a: Abomasnow
+|-damage|p1a: Abomasnow|191/287
+|
+|-weather|none
+|-damage|p2a: Arceus|193/280 tox|[from] psn
+|upkeep
+|turn|7
+|inactive|Smoshua2 has 120 seconds left.
+|
+|t:|1776984156
+|move|p2a: Arceus|Body Press|p1a: Abomasnow
+|-supereffective|p1a: Abomasnow
+|-damage|p1a: Abomasnow|34/287
+|move|p1a: Abomasnow|Blizzard|p2a: Arceus|[miss]
+|-miss|p1a: Abomasnow|p2a: Arceus
+|
+|-damage|p2a: Arceus|142/280 tox|[from] psn
+|upkeep
+|turn|8
+|c|☆Tony’smeatball|!data aroura veil
+'aroura veil' has no exact match. Approximate match:
+|c|☆Tony’smeatball|/raw <ul class="utilichart"><li class="result"><span class="col namecol"><a href="https://dex.pokemonshowdown.com/abilities/aromaveil">Aroma Veil</a></span> <span class="col abilitydesccol">Protects user/allies from Attract, Disable, Encore, Heal Block, Taunt, and Torment.</span> </li><li style="clear:both"></li></ul>
+
+|c|☆Smoshua2|lmao
+|inactive|Tony’smeatball has 120 seconds left.
+|c|☆Tony’smeatball|!data aurora veil
+|c|☆Tony’smeatball|/raw <ul class="utilichart"><li class="result"><span class="col movenamecol"><a href="https://dex.pokemonshowdown.com/moves/auroraveil">Aurora Veil</a></span> <span class="col typecol"><img src="//play.pokemonshowdown.com/sprites/types/Ice.png" alt="Ice" width="32" height="14"><img src="//play.pokemonshowdown.com/sprites/categories/Status.png" alt="Status" width="32" height="14"></span> <span class="col widelabelcol"><em>Accuracy</em><br>—</span> <span class="col pplabelcol"><em>PP</em><br>32</span> <span class="col movedesccol">For 5 turns, damage to allies halved. Snow only.</span> </li><li style="clear:both"></li></ul>
+
+|
+|t:|1776984202
+|move|p2a: Arceus|Body Press|p1a: Abomasnow
+|-supereffective|p1a: Abomasnow
+|-damage|p1a: Abomasnow|0 fnt
+|faint|p1a: Abomasnow
+|
+|-damage|p2a: Arceus|74/280 tox|[from] psn
+|upkeep
+|c|☆Tony’smeatball|Thats crazy good
+|c|☆Tony’smeatball|dang
+|
+|t:|1776984215
+|switch|p1a: Iron Hands|Iron Hands, L79|373/373
+|turn|9
+|
+|t:|1776984219
+|move|p1a: Iron Hands|Fake Out|p2a: Arceus
+|-damage|p2a: Arceus|61/280 tox
+|cant|p2a: Arceus|flinch
+|
+|-damage|p2a: Arceus|0 fnt|[from] psn
+|faint|p2a: Arceus
+|upkeep
+|inactive|Tony’smeatball has 120 seconds left.
+|c|☆Tony’smeatball|Well olayed
+|c|☆Smoshua2|oopsie poopsie
+|
+|t:|1776984240
+|switch|p2a: Slowking|Slowking-Galar, L85, M|300/300
+|turn|10
+|inactive|Smoshua2 has 120 seconds left.
+|
+|t:|1776984254
+|move|p1a: Iron Hands|Volt Switch|p2a: Slowking
+|-damage|p2a: Slowking|264/300
+|
+|t:|1776984257
+|-end|p1a: Iron Hands|Quark Drive|[silent]
+|switch|p1a: Landorus|Landorus, L75, M|257/257|[from] Volt Switch
+|move|p2a: Slowking|Psychic Noise|p1a: Landorus
+|-damage|p1a: Landorus|201/257
+|-start|p1a: Landorus|move: Heal Block
+|
+|-heal|p2a: Slowking|282/300|[from] item: Leftovers
+|-sideend|p1: Smoshua2|move: Aurora Veil
+|upkeep
+|turn|11
+|inactive|Tony’smeatball has 120 seconds left.
+|inactive|Smoshua2 has 120 seconds left.
+|c|☆Tony’smeatball|That guy fuxks me
+|inactive|Tony’smeatball has 90 seconds left.
+|
+|t:|1776984313
+|switch|p2a: Leavanny|Leavanny, L86, M|269/269
+|move|p1a: Landorus|Earth Power|p2a: Leavanny
+|-resisted|p2a: Leavanny
+|-damage|p2a: Leavanny|230/269
+|
+|-end|p1a: Landorus|move: Heal Block
+|upkeep
+|turn|12
+|inactive|Smoshua2 has 120 seconds left.
+|
+|t:|1776984344
+|switch|p1a: Tornadus|Tornadus, L82, M|264/264
+|move|p2a: Leavanny|Sticky Web|p1a: Tornadus
+|-sidestart|p1: Smoshua2|move: Sticky Web
+|
+|upkeep
+|turn|13
+|
+|t:|1776984356
+|switch|p2a: Coalossal|Coalossal, L89, F|341/341
+|move|p1a: Tornadus|Nasty Plot|p1a: Tornadus
+|-boost|p1a: Tornadus|spa|2
+|
+|upkeep
+|turn|14
+|
+|t:|1776984369
+|move|p1a: Tornadus|Grass Knot|p2a: Coalossal
+|-damage|p2a: Coalossal|163/341
+|move|p2a: Coalossal|Stone Edge|p1a: Tornadus
+|-supereffective|p1a: Tornadus
+|-damage|p1a: Tornadus|4/264
+|
+|upkeep
+|turn|15
+|
+|t:|1776984376
+|move|p1a: Tornadus|Grass Knot|p2a: Coalossal
+|-damage|p2a: Coalossal|0 fnt
+|-status|p1a: Tornadus|brn|[from] ability: Flame Body|[of] p2a: Coalossal
+|faint|p2a: Coalossal
+|
+|-damage|p1a: Tornadus|0 fnt|[from] brn
+|faint|p1a: Tornadus
+|upkeep
+|c|☆Tony’smeatball|YESEESEZZZ
+|inactive|Smoshua2 has 90 seconds left.
+|
+|t:|1776984406
+|switch|p1a: Iron Hands|Iron Hands, L79|373/373
+|switch|p2a: Quaquaval|Quaquaval, L79, F|264/264
+|-activate|p1a: Iron Hands|move: Sticky Web
+|-unboost|p1a: Iron Hands|spe|1
+|turn|16
+|
+|t:|1776984416
+|-terastallize|p2a: Quaquaval|Fighting
+|move|p1a: Iron Hands|Fake Out|p2a: Quaquaval
+|-damage|p2a: Quaquaval|225/264
+|cant|p2a: Quaquaval|flinch
+|
+|upkeep
+|turn|17
+|inactive|Smoshua2 has 90 seconds left.
+|
+|t:|1776984441
+|-end|p1a: Iron Hands|Quark Drive|[silent]
+|switch|p1a: Ninetales|Ninetales, L85, F|263/263
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|move|p2a: Quaquaval|Aqua Step|p1a: Ninetales
+|-supereffective|p1a: Ninetales
+|-damage|p1a: Ninetales|105/263
+|-boost|p2a: Quaquaval|spe|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1776984460
+|-terastallize|p1a: Ninetales|Grass
+|move|p2a: Quaquaval|Aqua Step|p1a: Ninetales
+|-resisted|p1a: Ninetales
+|-damage|p1a: Ninetales|72/263
+|-boost|p2a: Quaquaval|spe|1
+|move|p1a: Ninetales|Solar Beam||[still]
+|-prepare|p1a: Ninetales|Solar Beam
+|-anim|p1a: Ninetales|Solar Beam|p2a: Quaquaval
+|-damage|p2a: Quaquaval|87/264
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1776984478
+|move|p2a: Quaquaval|Aqua Step|p1a: Ninetales
+|-resisted|p1a: Ninetales
+|-damage|p1a: Ninetales|39/263
+|-boost|p2a: Quaquaval|spe|1
+|move|p1a: Ninetales|Solar Beam||[still]
+|-prepare|p1a: Ninetales|Solar Beam
+|-anim|p1a: Ninetales|Solar Beam|p2a: Quaquaval
+|-damage|p2a: Quaquaval|0 fnt
+|faint|p2a: Quaquaval
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1776984498
+|switch|p2a: Slowking|Slowking-Galar, L85, M|300/300
+|turn|20
+|
+|t:|1776984520
+|move|p1a: Ninetales|Scorching Sands|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|218/300
+|move|p2a: Slowking|Psychic Noise|p1a: Ninetales
+|-damage|p1a: Ninetales|0 fnt
+|faint|p1a: Ninetales
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Slowking|236/300|[from] item: Leftovers
+|upkeep
+|
+|t:|1776984528
+|switch|p1a: Iron Hands|Iron Hands, L79|373/373
+|-activate|p1a: Iron Hands|move: Sticky Web
+|-unboost|p1a: Iron Hands|spe|1
+|turn|21
+|inactive|Smoshua2 has 60 seconds left.
+|c|☆Tony’smeatball|My buszy is quivering
+|inactive|Tony’smeatball has 60 seconds left.
+|
+|t:|1776984556
+|move|p1a: Iron Hands|Fake Out|p2a: Slowking
+|-damage|p2a: Slowking|196/300
+|cant|p2a: Slowking|flinch
+|
+|-weather|none
+|-heal|p2a: Slowking|214/300|[from] item: Leftovers
+|upkeep
+|turn|22
+|inactive|Smoshua2 has 60 seconds left.
+|c|☆Tony’smeatball|You love that move
+|
+|t:|1776984580
+|move|p2a: Slowking|Psychic Noise|p1a: Iron Hands
+|-supereffective|p1a: Iron Hands
+|-damage|p1a: Iron Hands|203/373
+|-start|p1a: Iron Hands|move: Heal Block
+|move|p1a: Iron Hands|Wild Charge|p2a: Slowking
+|-damage|p2a: Slowking|99/300
+|-damage|p1a: Iron Hands|174/373|[from] Recoil
+|
+|-heal|p2a: Slowking|117/300|[from] item: Leftovers
+|upkeep
+|turn|23
+|inactive|Tony’smeatball has 60 seconds left.
+|
+|t:|1776984597
+|move|p2a: Slowking|Psychic Noise|p1a: Iron Hands
+|-supereffective|p1a: Iron Hands
+|-damage|p1a: Iron Hands|12/373
+|move|p1a: Iron Hands|Wild Charge|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|-damage|p1a: Iron Hands|0 fnt|[from] Recoil
+|faint|p1a: Iron Hands
+|-end|p1a: Iron Hands|Quark Drive|[silent]
+|
+|upkeep
+|c|☆Smoshua2|one of the best moves in the game btw
+|inactive|Tony’smeatball has 60 seconds left.
+|
+|t:|1776984609
+|switch|p1a: Clodsire|Clodsire, L81, F|343/343
+|switch|p2a: Leavanny|Leavanny, L86, M|230/269
+|-activate|p1a: Clodsire|move: Sticky Web
+|-unboost|p1a: Clodsire|spe|1
+|turn|24
+|inactive|Tony’smeatball has 60 seconds left.
+|
+|t:|1776984619
+|move|p2a: Leavanny|Knock Off|p1a: Clodsire
+|-damage|p1a: Clodsire|240/343
+|-enditem|p1a: Clodsire|Leftovers|[from] move: Knock Off|[of] p2a: Leavanny
+|move|p1a: Clodsire|Toxic|p2a: Leavanny
+|-status|p2a: Leavanny|tox
+|
+|-damage|p2a: Leavanny|214/269 tox|[from] psn
+|upkeep
+|turn|25
+|inactive|Smoshua2 has 60 seconds left.
+|inactive|Tony’smeatball has 60 seconds left.
+|
+|t:|1776984633
+|move|p2a: Leavanny|Leaf Blade|p1a: Clodsire
+|-damage|p1a: Clodsire|86/343
+|move|p1a: Clodsire|Recover|p1a: Clodsire
+|-heal|p1a: Clodsire|258/343
+|
+|-damage|p2a: Leavanny|182/269 tox|[from] psn
+|upkeep
+|turn|26
+|-message|Tony’smeatball forfeited.
+|
+|win|Smoshua2
+|raw|Smoshua2's rating: 1464 &rarr; <strong>1485</strong><br />(+21 for winning)
+|raw|Tony’smeatball's rating: 1474 &rarr; <strong>1453</strong><br />(-21 for losing)
+|l|☆Tony’smeatball
+|player|p2|
+|c|☆Smoshua2|lmao

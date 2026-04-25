@@ -1,0 +1,149 @@
+|j|☆tuk101
+|j|☆yurties
+|t:|1776976536
+|gametype|singles
+|player|p1|tuk101|266|
+|player|p2|yurties|102|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776976536
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Bastiodon|Bastiodon, L89, F|252/252
+|switch|p2a: Chesnaught|Chesnaught, L84, F|285/285
+|turn|1
+|
+|t:|1776976554
+|-terastallize|p1a: Bastiodon|Fighting
+|move|p2a: Chesnaught|Body Press|p1a: Bastiodon
+|-damage|p1a: Bastiodon|191/252
+|move|p1a: Bastiodon|Iron Defense|p1a: Bastiodon
+|-boost|p1a: Bastiodon|def|2
+|
+|upkeep
+|turn|2
+|
+|t:|1776976566
+|move|p2a: Chesnaught|Wood Hammer|p1a: Bastiodon
+|-damage|p1a: Bastiodon|151/252
+|-damage|p2a: Chesnaught|272/285|[from] Recoil
+|move|p1a: Bastiodon|Iron Defense|p1a: Bastiodon
+|-boost|p1a: Bastiodon|def|2
+|
+|upkeep
+|turn|3
+|
+|t:|1776976601
+|move|p2a: Chesnaught|Body Press|p1a: Bastiodon
+|-damage|p1a: Bastiodon|130/252
+|move|p1a: Bastiodon|Iron Defense|p1a: Bastiodon
+|-boost|p1a: Bastiodon|def|2
+|
+|upkeep
+|turn|4
+|
+|t:|1776976606
+|move|p2a: Chesnaught|Body Press|p1a: Bastiodon
+|-damage|p1a: Bastiodon|115/252
+|move|p1a: Bastiodon|Body Press|p2a: Chesnaught
+|-damage|p2a: Chesnaught|0 fnt
+|-damage|p1a: Bastiodon|73/252|[from] item: Rocky Helmet|[of] p2a: Chesnaught
+|faint|p2a: Chesnaught
+|
+|upkeep
+|
+|t:|1776976609
+|switch|p2a: Slowking|Slowking, L88, M|310/310
+|turn|5
+|
+|t:|1776976624
+|move|p1a: Bastiodon|Rest|p1a: Bastiodon
+|-status|p1a: Bastiodon|slp|[from] move: Rest
+|-heal|p1a: Bastiodon|252/252 slp|[silent]
+|-enditem|p1a: Bastiodon|Chesto Berry|[eat]
+|-curestatus|p1a: Bastiodon|slp|[msg]
+|move|p2a: Slowking|Psychic Noise|p1a: Bastiodon
+|-immune|p1a: Bastiodon|[from] ability: Soundproof
+|
+|upkeep
+|turn|6
+|
+|t:|1776976646
+|move|p1a: Bastiodon|Body Press|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|
+|upkeep
+|
+|t:|1776976655
+|switch|p2a: Minun|Minun, L95, F|268/268
+|turn|7
+|
+|t:|1776976668
+|move|p2a: Minun|Thunderbolt|p1a: Bastiodon
+|-damage|p1a: Bastiodon|162/252
+|-damage|p2a: Minun|242/268|[from] item: Life Orb
+|move|p1a: Bastiodon|Body Press|p2a: Minun
+|-damage|p2a: Minun|0 fnt
+|faint|p2a: Minun
+|
+|upkeep
+|
+|t:|1776976671
+|switch|p2a: Bastiodon|Bastiodon, L89, M|252/252
+|turn|8
+|
+|t:|1776976679
+|move|p2a: Bastiodon|Body Press|p1a: Bastiodon
+|-damage|p1a: Bastiodon|147/252
+|move|p1a: Bastiodon|Body Press|p2a: Bastiodon
+|-supereffective|p2a: Bastiodon
+|-damage|p2a: Bastiodon|0 fnt
+|faint|p2a: Bastiodon
+|
+|upkeep
+|
+|t:|1776976683
+|switch|p2a: Eiscue|Eiscue, L88, F|274/274
+|turn|9
+|
+|t:|1776976695
+|move|p2a: Eiscue|Ice Spinner|p1a: Bastiodon
+|-damage|p1a: Bastiodon|135/252
+|move|p1a: Bastiodon|Body Press|p2a: Eiscue
+|-activate|p2a: Eiscue|ability: Ice Face
+|-damage|p2a: Eiscue|274/274
+|detailschange|p2a: Eiscue|Eiscue-Noice, L88, F
+|
+|upkeep
+|turn|10
+|
+|t:|1776976707
+|-terastallize|p2a: Eiscue|Electric
+|move|p2a: Eiscue|Tera Blast|p1a: Bastiodon|[anim] Tera Blast Electric
+|-damage|p1a: Bastiodon|123/252
+|move|p1a: Bastiodon|Body Press|p2a: Eiscue
+|-damage|p2a: Eiscue|0 fnt
+|faint|p2a: Eiscue
+|
+|upkeep
+|
+|t:|1776976709
+|switch|p2a: Eelektross|Eelektross, L87, F|290/290
+|turn|11
+|
+|t:|1776976718
+|move|p2a: Eelektross|Supercell Slam|p1a: Bastiodon
+|-damage|p1a: Bastiodon|105/252
+|move|p1a: Bastiodon|Body Press|p2a: Eelektross
+|-damage|p2a: Eelektross|0 fnt
+|faint|p2a: Eelektross
+|
+|win|tuk101

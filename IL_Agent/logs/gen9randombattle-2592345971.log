@@ -1,0 +1,66 @@
+|j|☆TriniPlayer
+|j|☆BrutalBjoern
+|t:|1776980750
+|gametype|singles
+|player|p1|TriniPlayer|acetrainersnow|2041
+|player|p2|BrutalBjoern|lady-gen4|2007
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776980750
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Talonflame|Talonflame, L83, M|265/265
+|switch|p2a: Ambipom|Ambipom, L84, F|263/263
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by TriniPlayer)
+|inactive|BrutalBjoern has 120 seconds left.
+|
+|t:|1776980803
+|switch|p2a: Snorlax|Snorlax, L82, M|397/397
+|move|p1a: Talonflame|Overheat|p2a: Snorlax
+|-damage|p2a: Snorlax|351/397
+|-unboost|p1a: Talonflame|spa|2
+|
+|-heal|p2a: Snorlax|375/397|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776980814
+|switch|p1a: Qwilfish|Qwilfish, L86, F|252/252
+|-ability|p1a: Qwilfish|Intimidate|boost
+|-unboost|p2a: Snorlax|atk|1
+|move|p2a: Snorlax|Body Slam|p1a: Qwilfish
+|-damage|p1a: Qwilfish|182/252
+|-status|p1a: Qwilfish|par
+|
+|-heal|p2a: Snorlax|397/397|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776980833
+|switch|p2a: Ariados|Ariados, L95, F|287/287
+|move|p1a: Qwilfish|Toxic|p2a: Ariados
+|-immune|p2a: Ariados
+|
+|upkeep
+|turn|4
+|l|☆TriniPlayer
+|inactive|TriniPlayer disconnected and has a minute to reconnect!
+|player|p1|
+|inactive|TriniPlayer has 30 seconds to reconnect!
+|inactive|TriniPlayer has 20 seconds to reconnect!
+|inactive|TriniPlayer has 15 seconds to reconnect!
+|inactive|TriniPlayer has 10 seconds to reconnect!
+|inactive|TriniPlayer has 5 seconds to reconnect!
+|-message|TriniPlayer lost due to inactivity.
+|
+|win|BrutalBjoern
+|raw|TriniPlayer's rating: 2041 &rarr; <strong>2019</strong><br />(-22 for losing)
+|raw|BrutalBjoern's rating: 2007 &rarr; <strong>2029</strong><br />(+22 for winning)

@@ -1,0 +1,294 @@
+|j|☆blakula22
+|j|☆cuth
+|t:|1776983348
+|gametype|singles
+|player|p1|blakula22|giovanni|1238
+|player|p2|cuth|cilan|1200
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776983348
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Rayquaza|Rayquaza, L72|270/270
+|switch|p2a: Torterra|Torterra, L78, F|276/276
+|-ability|p1a: Rayquaza|Air Lock
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by blakula22)
+|
+|t:|1776983378
+|move|p1a: Rayquaza|Dragon Ascent|p2a: Torterra
+|-supereffective|p2a: Torterra
+|-damage|p2a: Torterra|22/276
+|-unboost|p1a: Rayquaza|def|1
+|-unboost|p1a: Rayquaza|spd|1
+|move|p2a: Torterra|Shell Smash|p2a: Torterra
+|-unboost|p2a: Torterra|def|1
+|-unboost|p2a: Torterra|spd|1
+|-boost|p2a: Torterra|atk|2
+|-boost|p2a: Torterra|spa|2
+|-boost|p2a: Torterra|spe|2
+|
+|upkeep
+|turn|2
+|
+|t:|1776983393
+|move|p1a: Rayquaza|Extreme Speed|p2a: Torterra
+|-damage|p2a: Torterra|0 fnt
+|faint|p2a: Torterra
+|
+|upkeep
+|c|☆blakula22|>:D
+|c|☆cuth|:/
+|
+|t:|1776983411
+|switch|p2a: Glimmora|Glimmora, L75, F|248/248
+|turn|3
+|
+|t:|1776983419
+|move|p1a: Rayquaza|Earthquake|p2a: Glimmora
+|-supereffective|p2a: Glimmora
+|-damage|p2a: Glimmora|0 fnt
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: blakula22|move: Toxic Spikes
+|faint|p2a: Glimmora
+|
+|upkeep
+|c|☆cuth|a
+|c|☆blakula22|>:D
+|c|☆cuth|cool i guess
+|inactive|cuth has 120 seconds left.
+|
+|t:|1776983436
+|switch|p2a: Virizion|Virizion, L82|283/283
+|turn|4
+|
+|t:|1776983444
+|-terastallize|p2a: Virizion|Rock
+|move|p2a: Virizion|Stone Edge|p1a: Rayquaza|[miss]
+|-miss|p2a: Virizion|p1a: Rayquaza
+|move|p1a: Rayquaza|Dragon Ascent|p2a: Virizion
+|-resisted|p2a: Virizion
+|-damage|p2a: Virizion|205/283
+|-unboost|p1a: Rayquaza|def|1
+|-unboost|p1a: Rayquaza|spd|1
+|
+|upkeep
+|turn|5
+|c|☆cuth|HAHAHAHA
+|c|☆blakula22|bruh
+|c|☆cuth|OK
+|inactive|cuth has 120 seconds left.
+|
+|t:|1776983462
+|move|p2a: Virizion|Stone Edge|p1a: Rayquaza
+|-supereffective|p1a: Rayquaza
+|-crit|p1a: Rayquaza
+|-damage|p1a: Rayquaza|0 fnt
+|faint|p1a: Rayquaza
+|-damage|p2a: Virizion|177/283|[from] item: Life Orb
+|
+|upkeep
+|c|☆cuth|thx
+|c|☆cuth|finslly
+|
+|t:|1776983473
+|switch|p1a: Clawitzer|Clawitzer, L87, F|265/265
+|-status|p1a: Clawitzer|psn
+|turn|6
+|
+|t:|1776983482
+|move|p2a: Virizion|Leaf Blade|p1a: Clawitzer
+|-supereffective|p1a: Clawitzer
+|-damage|p1a: Clawitzer|39/265 psn
+|-damage|p2a: Virizion|149/283|[from] item: Life Orb
+|move|p1a: Clawitzer|Water Pulse|p2a: Virizion
+|-supereffective|p2a: Virizion
+|-damage|p2a: Virizion|0 fnt
+|faint|p2a: Virizion
+|
+|-damage|p1a: Clawitzer|6/265 psn|[from] psn
+|upkeep
+|c|☆cuth|bryh
+|inactive|cuth has 120 seconds left.
+|
+|t:|1776983499
+|switch|p2a: Gurdurr|Gurdurr, L85, M|283/283
+|turn|7
+|
+|t:|1776983507
+|move|p1a: Clawitzer|Dragon Pulse|p2a: Gurdurr
+|-damage|p2a: Gurdurr|181/283
+|move|p2a: Gurdurr|Bulk Up|p2a: Gurdurr
+|-boost|p2a: Gurdurr|atk|1
+|-boost|p2a: Gurdurr|def|1
+|
+|-damage|p1a: Clawitzer|0 fnt|[from] psn
+|faint|p1a: Clawitzer
+|upkeep
+|
+|t:|1776983515
+|switch|p1a: Dragalge|Dragalge, L88, M|258/258
+|-sideend|p1: blakula22|move: Toxic Spikes|[of] p1a: Dragalge
+|turn|8
+|
+|t:|1776983537
+|move|p2a: Gurdurr|Knock Off|p1a: Dragalge
+|-damage|p1a: Dragalge|156/258
+|-enditem|p1a: Dragalge|Assault Vest|[from] move: Knock Off|[of] p2a: Gurdurr
+|move|p1a: Dragalge|Dragon Tail|p2a: Gurdurr
+|-damage|p2a: Gurdurr|147/283
+|drag|p2a: Deoxys|Deoxys, L74|196/196
+|-ability|p2a: Deoxys|Pressure
+|
+|upkeep
+|turn|9
+|c|☆blakula22|Jajsjajsa
+|c|☆blakula22|Damn
+|inactive|blakula22 has 120 seconds left.
+|
+|t:|1776983567
+|move|p2a: Deoxys|Psycho Boost|p1a: Dragalge
+|-supereffective|p1a: Dragalge
+|-damage|p1a: Dragalge|0 fnt
+|-unboost|p2a: Deoxys|spa|2
+|faint|p1a: Dragalge
+|-damage|p2a: Deoxys|177/196|[from] item: Life Orb
+|
+|upkeep
+|inactive|blakula22 has 120 seconds left.
+|
+|t:|1776983573
+|switch|p1a: Banette|Banette, L93, M|270/270
+|turn|10
+|
+|t:|1776983582
+|move|p2a: Deoxys|Knock Off|p1a: Banette
+|-supereffective|p1a: Banette
+|-damage|p1a: Banette|31/270
+|-start|p2a: Deoxys|Disable|Knock Off|[from] ability: Cursed Body|[of] p1a: Banette
+|-enditem|p1a: Banette|Life Orb|[from] move: Knock Off|[of] p2a: Deoxys
+|-damage|p2a: Deoxys|158/196|[from] item: Life Orb
+|move|p1a: Banette|Poltergeist|p2a: Deoxys
+|-activate|p2a: Deoxys|move: Poltergeist|Life Orb
+|-supereffective|p2a: Deoxys
+|-damage|p2a: Deoxys|0 fnt
+|faint|p2a: Deoxys
+|
+|upkeep
+|
+|t:|1776983594
+|switch|p2a: Gurdurr|Gurdurr, L85, M|147/283
+|turn|11
+|
+|t:|1776983600
+|move|p1a: Banette|Gunk Shot|p2a: Gurdurr|[miss]
+|-miss|p1a: Banette|p2a: Gurdurr
+|move|p2a: Gurdurr|Knock Off|p1a: Banette
+|-supereffective|p1a: Banette
+|-damage|p1a: Banette|0 fnt
+|faint|p1a: Banette
+|
+|upkeep
+|
+|t:|1776983610
+|switch|p1a: Articuno|Articuno, L86|295/295
+|-ability|p1a: Articuno|Pressure
+|turn|12
+|
+|t:|1776983619
+|switch|p2a: Garganacl|Garganacl, L80, F|291/291
+|move|p1a: Articuno|Brave Bird|p2a: Garganacl
+|-resisted|p2a: Garganacl
+|-damage|p2a: Garganacl|244/291
+|-damage|p1a: Articuno|279/295|[from] Recoil
+|
+|-heal|p2a: Garganacl|262/291|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776983635
+|switch|p1a: Heatran|Heatran, L79, M|273/273
+|-item|p1a: Heatran|Air Balloon
+|move|p2a: Garganacl|Salt Cure|p1a: Heatran
+|-damage|p1a: Heatran|236/273
+|-start|p1a: Heatran|Salt Cure
+|-enditem|p1a: Heatran|Air Balloon
+|
+|-heal|p2a: Garganacl|280/291|[from] item: Leftovers
+|-damage|p1a: Heatran|168/273|[from] Salt Cure
+|upkeep
+|turn|14
+|
+|t:|1776983645
+|-terastallize|p1a: Heatran|Grass
+|move|p1a: Heatran|Earth Power|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|142/291
+|move|p2a: Garganacl|Stealth Rock|p1a: Heatran
+|-sidestart|p1: blakula22|move: Stealth Rock
+|
+|-heal|p2a: Garganacl|160/291|[from] item: Leftovers
+|-damage|p1a: Heatran|134/273|[from] Salt Cure
+|upkeep
+|turn|15
+|
+|t:|1776983658
+|move|p1a: Heatran|Earth Power|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|12/291
+|move|p2a: Garganacl|Body Press|p1a: Heatran
+|-damage|p1a: Heatran|69/273
+|
+|-heal|p2a: Garganacl|30/291|[from] item: Leftovers
+|-damage|p1a: Heatran|35/273|[from] Salt Cure
+|upkeep
+|turn|16
+|c|☆cuth|missclicked
+|
+|t:|1776983674
+|move|p1a: Heatran|Earth Power|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|0 fnt
+|faint|p2a: Garganacl
+|
+|-damage|p1a: Heatran|1/273|[from] Salt Cure
+|upkeep
+|
+|t:|1776983680
+|switch|p2a: Gurdurr|Gurdurr, L85, M|147/283
+|turn|17
+|
+|t:|1776983686
+|move|p1a: Heatran|Heavy Slam|p2a: Gurdurr
+|-damage|p2a: Gurdurr|72/283
+|move|p2a: Gurdurr|Bulk Up|p2a: Gurdurr
+|-boost|p2a: Gurdurr|atk|1
+|-boost|p2a: Gurdurr|def|1
+|
+|-damage|p1a: Heatran|0 fnt|[from] Salt Cure
+|faint|p1a: Heatran
+|upkeep
+|
+|t:|1776983692
+|switch|p1a: Articuno|Articuno, L86|279/295
+|-ability|p1a: Articuno|Pressure
+|turn|18
+|c|☆blakula22|gg
+|
+|t:|1776983699
+|move|p1a: Articuno|Brave Bird|p2a: Gurdurr
+|-supereffective|p2a: Gurdurr
+|-damage|p2a: Gurdurr|0 fnt
+|faint|p2a: Gurdurr
+|-damage|p1a: Articuno|255/295|[from] Recoil
+|
+|win|blakula22
+|raw|blakula22's rating: 1238 &rarr; <strong>1260</strong><br />(+22 for winning)
+|raw|cuth's rating: 1200 &rarr; <strong>1178</strong><br />(-22 for losing)

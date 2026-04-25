@@ -1,0 +1,79 @@
+|j|☆seball2e
+|j|☆ChrisGetsTouched
+|t:|1776979732
+|gametype|singles
+|player|p1|seball2e|266|1113
+|player|p2|ChrisGetsTouched|265|1139
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776979732
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Tsareena|Tsareena, L87, F|267/267
+|switch|p2a: Hitmonlee|Hitmonlee, L85, M|224/224
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by seball2e)
+|
+|t:|1776979751
+|move|p2a: Hitmonlee|Swords Dance|p2a: Hitmonlee
+|-boost|p2a: Hitmonlee|atk|2
+|move|p1a: Tsareena|Knock Off|p2a: Hitmonlee
+|-resisted|p2a: Hitmonlee
+|-damage|p2a: Hitmonlee|143/224
+|-enditem|p2a: Hitmonlee|White Herb|[from] move: Knock Off|[of] p1a: Tsareena
+|-damage|p1a: Tsareena|241/267|[from] item: Life Orb
+|
+|upkeep
+|turn|2
+|
+|t:|1776979772
+|move|p2a: Hitmonlee|Poison Jab|p1a: Tsareena
+|-supereffective|p1a: Tsareena
+|-damage|p1a: Tsareena|0 fnt
+|faint|p1a: Tsareena
+|
+|upkeep
+|inactive|seball2e has 120 seconds left.
+|
+|t:|1776979797
+|switch|p1a: Yanmega|Yanmega, L82, F|275/275
+|turn|3
+|
+|t:|1776979808
+|move|p2a: Hitmonlee|Poison Jab|p1a: Yanmega
+|-damage|p1a: Yanmega|122/275
+|move|p1a: Yanmega|Air Slash|p2a: Hitmonlee
+|-supereffective|p2a: Hitmonlee
+|-damage|p2a: Hitmonlee|9/224
+|
+|-ability|p1a: Yanmega|Speed Boost|boost
+|-boost|p1a: Yanmega|spe|1
+|upkeep
+|turn|4
+|inactive|seball2e has 120 seconds left.
+|
+|t:|1776979821
+|move|p2a: Hitmonlee|Poison Jab|p1a: Yanmega
+|-damage|p1a: Yanmega|0 fnt
+|faint|p1a: Yanmega
+|
+|upkeep
+|inactive|seball2e has 90 seconds left.
+|inactive|seball2e has 60 seconds left.
+|c|☆ChrisGetsTouched|Surrender or play
+|n|!ChrisGetsTouched|chrisgetstouched
+|inactive|seball2e has 30 seconds left.
+|inactive|seball2e has 20 seconds left.
+|inactive|seball2e has 15 seconds left.
+|inactive|seball2e has 10 seconds left.
+|inactive|seball2e has 5 seconds left.
+|-message|seball2e lost due to inactivity.
+|
+|win|ChrisGetsTouched

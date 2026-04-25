@@ -1,0 +1,358 @@
+|j|☆Garthfield
+|j|☆ParanoidDandroid
+|t:|1776984789
+|gametype|singles
+|player|p1|Garthfield|sabrina|1764
+|player|p2|ParanoidDandroid|102|1717
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776984789
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Magearna|Magearna-Original, L77|250/250
+|switch|p2a: Dragonite|Dragonite, L74, M|257/257
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Garthfield)
+|
+|t:|1776984802
+|switch|p2a: Heatran|Heatran, L79, M|273/273
+|-item|p2a: Heatran|Air Balloon
+|move|p1a: Magearna|Shift Gear|p1a: Magearna
+|-boost|p1a: Magearna|spe|2
+|-boost|p1a: Magearna|atk|1
+|
+|upkeep
+|turn|2
+|
+|t:|1776984811
+|move|p1a: Magearna|Iron Head|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|248/273
+|-enditem|p2a: Heatran|Air Balloon
+|cant|p2a: Heatran|flinch
+|
+|upkeep
+|turn|3
+|
+|t:|1776984824
+|move|p1a: Magearna|Shift Gear|p1a: Magearna
+|-boost|p1a: Magearna|spe|2
+|-boost|p1a: Magearna|atk|1
+|move|p2a: Heatran|Magma Storm|p1a: Magearna|[miss]
+|-miss|p2a: Heatran|p1a: Magearna
+|
+|upkeep
+|turn|4
+|
+|t:|1776984833
+|move|p1a: Magearna|Iron Head|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|214/273
+|cant|p2a: Heatran|flinch
+|
+|upkeep
+|turn|5
+|
+|t:|1776984838
+|move|p1a: Magearna|Iron Head|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|184/273
+|cant|p2a: Heatran|flinch
+|
+|upkeep
+|turn|6
+|
+|t:|1776984843
+|move|p1a: Magearna|Iron Head|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|150/273
+|move|p2a: Heatran|Magma Storm|p1a: Magearna
+|-supereffective|p1a: Magearna
+|-damage|p1a: Magearna|50/250
+|-activate|p1a: Magearna|move: Magma Storm|[of] p2a: Heatran
+|-enditem|p1a: Magearna|Weakness Policy
+|-boost|p1a: Magearna|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Magearna|spa|2|[from] item: Weakness Policy
+|
+|-damage|p1a: Magearna|19/250|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|7
+|
+|t:|1776984853
+|-terastallize|p1a: Magearna|Ground
+|move|p1a: Magearna|Tera Blast|p2a: Heatran|[anim] Tera Blast Ground
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|-ability|p1a: Magearna|Soul-Heart|boost
+|-boost|p1a: Magearna|spa|1
+|
+|-end|p1a: Magearna|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|
+|t:|1776984869
+|switch|p2a: Dewgong|Dewgong, L94, F|322/322
+|turn|8
+|
+|t:|1776984884
+|move|p1a: Magearna|Fleur Cannon|p2a: Dewgong|[miss]
+|-miss|p1a: Magearna|p2a: Dewgong
+|move|p2a: Dewgong|Surf|p1a: Magearna
+|-supereffective|p1a: Magearna
+|-damage|p1a: Magearna|0 fnt
+|faint|p1a: Magearna
+|
+|upkeep
+|
+|t:|1776984888
+|switch|p1a: Tatsugiri|Tatsugiri, L87, M|260/260
+|turn|9
+|
+|t:|1776984893
+|move|p1a: Tatsugiri|Nasty Plot|p1a: Tatsugiri
+|-boost|p1a: Tatsugiri|spa|2
+|move|p2a: Dewgong|Ice Beam|p1a: Tatsugiri
+|-damage|p1a: Tatsugiri|178/260
+|
+|upkeep
+|turn|10
+|
+|t:|1776984898
+|move|p1a: Tatsugiri|Draco Meteor|p2a: Dewgong
+|-damage|p2a: Dewgong|114/322
+|-unboost|p1a: Tatsugiri|spa|2
+|move|p2a: Dewgong|Ice Beam|p1a: Tatsugiri
+|-damage|p1a: Tatsugiri|99/260
+|
+|upkeep
+|turn|11
+|
+|t:|1776984906
+|move|p1a: Tatsugiri|Nasty Plot|p1a: Tatsugiri
+|-boost|p1a: Tatsugiri|spa|2
+|move|p2a: Dewgong|Ice Beam|p1a: Tatsugiri
+|-damage|p1a: Tatsugiri|9/260
+|
+|upkeep
+|turn|12
+|
+|t:|1776984911
+|move|p1a: Tatsugiri|Draco Meteor|p2a: Dewgong
+|-damage|p2a: Dewgong|0 fnt
+|-unboost|p1a: Tatsugiri|spa|2
+|faint|p2a: Dewgong
+|
+|upkeep
+|
+|t:|1776984917
+|switch|p2a: Kilowattrel|Kilowattrel, L83, M|252/252
+|turn|13
+|
+|t:|1776984920
+|switch|p1a: Chansey|Chansey, L85, F|564/564
+|move|p2a: Kilowattrel|Thunderbolt|p1a: Chansey
+|-damage|p1a: Chansey|500/564
+|
+|upkeep
+|turn|14
+|
+|t:|1776984927
+|move|p2a: Kilowattrel|U-turn|p1a: Chansey
+|-damage|p1a: Chansey|412/564
+|
+|t:|1776984931
+|switch|p2a: Haxorus|Haxorus, L77, M|244/244|[from] U-turn
+|-ability|p2a: Haxorus|Mold Breaker
+|move|p1a: Chansey|Seismic Toss|p2a: Haxorus
+|-damage|p2a: Haxorus|159/244
+|
+|upkeep
+|turn|15
+|
+|t:|1776984940
+|move|p2a: Haxorus|Dragon Dance|p2a: Haxorus
+|-boost|p2a: Haxorus|atk|1
+|-boost|p2a: Haxorus|spe|1
+|move|p1a: Chansey|Seismic Toss|p2a: Haxorus
+|-damage|p2a: Haxorus|74/244
+|
+|upkeep
+|turn|16
+|
+|t:|1776984948
+|switch|p1a: Tatsugiri|Tatsugiri, L87, M|9/260
+|move|p2a: Haxorus|Outrage|p1a: Tatsugiri
+|-supereffective|p1a: Tatsugiri
+|-damage|p1a: Tatsugiri|0 fnt
+|faint|p1a: Tatsugiri
+|
+|upkeep
+|
+|t:|1776984953
+|switch|p1a: Deoxys|Deoxys-Speed, L82|216/216
+|-ability|p1a: Deoxys|Pressure
+|turn|17
+|
+|t:|1776984960
+|move|p1a: Deoxys|Psycho Boost|p2a: Haxorus|[miss]
+|-miss|p1a: Deoxys|p2a: Haxorus
+|move|p2a: Haxorus|Outrage|p1a: Deoxys|[from] lockedmove
+|-damage|p1a: Deoxys|0 fnt
+|faint|p1a: Deoxys
+|-start|p2a: Haxorus|confusion|[fatigue]
+|-enditem|p2a: Haxorus|Lum Berry|[eat]
+|-end|p2a: Haxorus|confusion
+|
+|upkeep
+|
+|t:|1776984964
+|switch|p1a: Orthworm|Orthworm, L88, M|266/266
+|turn|18
+|
+|t:|1776984973
+|switch|p2a: Kilowattrel|Kilowattrel, L83, M|252/252
+|move|p1a: Orthworm|Coil|p1a: Orthworm
+|-boost|p1a: Orthworm|atk|1
+|-boost|p1a: Orthworm|def|1
+|-boost|p1a: Orthworm|accuracy|1
+|
+|upkeep
+|turn|19
+|
+|t:|1776984980
+|move|p2a: Kilowattrel|Thunderbolt|p1a: Orthworm
+|-damage|p1a: Orthworm|143/266
+|move|p1a: Orthworm|Body Press|p2a: Kilowattrel
+|-resisted|p2a: Kilowattrel
+|-damage|p2a: Kilowattrel|162/252
+|
+|upkeep
+|turn|20
+|
+|t:|1776984986
+|switch|p1a: Chansey|Chansey, L85, F|412/564
+|move|p2a: Kilowattrel|Thunderbolt|p1a: Chansey
+|-damage|p1a: Chansey|354/564
+|
+|upkeep
+|turn|21
+|
+|t:|1776984992
+|move|p2a: Kilowattrel|U-turn|p1a: Chansey
+|-damage|p1a: Chansey|266/564
+|
+|t:|1776984995
+|switch|p2a: Vigoroth|Vigoroth, L85, M|275/275|[from] U-turn
+|move|p1a: Chansey|Thunder Wave|p2a: Vigoroth
+|-status|p2a: Vigoroth|par
+|
+|upkeep
+|turn|22
+|
+|t:|1776985002
+|move|p1a: Chansey|Soft-Boiled|p1a: Chansey
+|-heal|p1a: Chansey|548/564
+|move|p2a: Vigoroth|Knock Off|p1a: Chansey
+|-damage|p1a: Chansey|394/564
+|-enditem|p1a: Chansey|Eviolite|[from] move: Knock Off|[of] p2a: Vigoroth
+|
+|upkeep
+|turn|23
+|
+|t:|1776985008
+|move|p1a: Chansey|Seismic Toss|p2a: Vigoroth
+|-damage|p2a: Vigoroth|190/275 par
+|move|p2a: Vigoroth|Bulk Up|p2a: Vigoroth
+|-boost|p2a: Vigoroth|atk|1
+|-boost|p2a: Vigoroth|def|1
+|
+|upkeep
+|turn|24
+|
+|t:|1776985014
+|move|p1a: Chansey|Seismic Toss|p2a: Vigoroth
+|-damage|p2a: Vigoroth|105/275 par
+|move|p2a: Vigoroth|Body Slam|p1a: Chansey
+|-damage|p1a: Chansey|0 fnt
+|faint|p1a: Chansey
+|
+|upkeep
+|
+|t:|1776985017
+|switch|p1a: Orthworm|Orthworm, L88, M|143/266
+|turn|25
+|
+|t:|1776985023
+|move|p1a: Orthworm|Coil|p1a: Orthworm
+|-boost|p1a: Orthworm|atk|1
+|-boost|p1a: Orthworm|def|1
+|-boost|p1a: Orthworm|accuracy|1
+|move|p2a: Vigoroth|Knock Off|p1a: Orthworm
+|-damage|p1a: Orthworm|104/266
+|-enditem|p1a: Orthworm|Chesto Berry|[from] move: Knock Off|[of] p2a: Vigoroth
+|
+|upkeep
+|turn|26
+|
+|t:|1776985031
+|move|p1a: Orthworm|Coil|p1a: Orthworm
+|-boost|p1a: Orthworm|atk|1
+|-boost|p1a: Orthworm|def|1
+|-boost|p1a: Orthworm|accuracy|1
+|cant|p2a: Vigoroth|par
+|
+|upkeep
+|turn|27
+|
+|t:|1776985037
+|move|p1a: Orthworm|Body Press|p2a: Vigoroth
+|-supereffective|p2a: Vigoroth
+|-damage|p2a: Vigoroth|0 fnt
+|faint|p2a: Vigoroth
+|
+|upkeep
+|
+|t:|1776985042
+|switch|p2a: Kilowattrel|Kilowattrel, L83, M|162/252
+|turn|28
+|
+|t:|1776985052
+|move|p2a: Kilowattrel|Thunderbolt|p1a: Orthworm
+|-damage|p1a: Orthworm|0 fnt
+|faint|p1a: Orthworm
+|
+|upkeep
+|
+|t:|1776985054
+|switch|p1a: Meowscarada|Meowscarada, L78, M|247/247
+|turn|29
+|
+|t:|1776985059
+|move|p2a: Kilowattrel|U-turn|p1a: Meowscarada
+|-supereffective|p1a: Meowscarada
+|-damage|p1a: Meowscarada|63/247
+|
+|t:|1776985063
+|switch|p2a: Haxorus|Haxorus, L77, M|74/244|[from] U-turn
+|-ability|p2a: Haxorus|Mold Breaker
+|move|p1a: Meowscarada|Triple Axel|p2a: Haxorus|[miss]
+|-start|p1a: Meowscarada|typechange|Ice|[from] ability: Protean
+|-miss|p1a: Meowscarada|p2a: Haxorus
+|
+|upkeep
+|turn|30
+|-message|Garthfield forfeited.
+|
+|win|ParanoidDandroid
+|raw|Garthfield's rating: 1764 &rarr; <strong>1741</strong><br />(-23 for losing)
+|raw|ParanoidDandroid's rating: 1717 &rarr; <strong>1740</strong><br />(+23 for winning)
+|l|☆Garthfield
+|player|p1|
+|c|☆ParanoidDandroid|gg

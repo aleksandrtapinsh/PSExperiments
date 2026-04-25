@@ -1,0 +1,418 @@
+|j|☆666 N00BIDICAL
+|j|☆SuMo-Booma
+|t:|1776969341
+|gametype|singles
+|player|p1|666 N00BIDICAL|artist-gen4|1561
+|player|p2|SuMo-Booma|169|1574
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776969341
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Terrakion|Terrakion, L79|273/273
+|switch|p2a: Mamoswine|Mamoswine, L81, F|311/311
+|turn|1
+|
+|t:|1776969390
+|switch|p2a: Qwilfish|Qwilfish-Hisui, L83, F|244/244
+|-ability|p2a: Qwilfish|Intimidate|boost
+|-unboost|p1a: Terrakion|atk|1
+|move|p1a: Terrakion|Close Combat|p2a: Qwilfish
+|-damage|p2a: Qwilfish|162/244
+|-unboost|p1a: Terrakion|def|1
+|-unboost|p1a: Terrakion|spd|1
+|-damage|p1a: Terrakion|246/273|[from] item: Life Orb
+|
+|upkeep
+|turn|2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by 666 N00BIDICAL)
+|
+|t:|1776969400
+|move|p1a: Terrakion|Swords Dance|p1a: Terrakion
+|-boost|p1a: Terrakion|atk|2
+|move|p2a: Qwilfish|Toxic Spikes|p1a: Terrakion
+|-sidestart|p1: 666 N00BIDICAL|move: Toxic Spikes
+|
+|upkeep
+|turn|3
+|
+|t:|1776969408
+|move|p1a: Terrakion|Earthquake|p2a: Qwilfish
+|-supereffective|p2a: Qwilfish
+|-damage|p2a: Qwilfish|0 fnt
+|faint|p2a: Qwilfish
+|-damage|p1a: Terrakion|219/273|[from] item: Life Orb
+|
+|upkeep
+|inactive|SuMo-Booma has 120 seconds left.
+|
+|t:|1776969440
+|switch|p2a: Mandibuzz|Mandibuzz, L85, F|326/326
+|turn|4
+|
+|t:|1776969447
+|move|p1a: Terrakion|Stone Edge|p2a: Mandibuzz|[miss]
+|-miss|p1a: Terrakion|p2a: Mandibuzz
+|move|p2a: Mandibuzz|Foul Play|p1a: Terrakion
+|-resisted|p1a: Terrakion
+|-damage|p1a: Terrakion|79/273
+|-ability|p1a: Terrakion|Justified|boost
+|-boost|p1a: Terrakion|atk|1
+|
+|upkeep
+|turn|5
+|
+|t:|1776969460
+|-terastallize|p2a: Mandibuzz|Steel
+|move|p1a: Terrakion|Close Combat|p2a: Mandibuzz
+|-supereffective|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|0 fnt
+|-unboost|p1a: Terrakion|def|1
+|-unboost|p1a: Terrakion|spd|1
+|faint|p2a: Mandibuzz
+|-damage|p1a: Terrakion|52/273|[from] item: Life Orb
+|
+|upkeep
+|inactive|SuMo-Booma has 120 seconds left.
+|
+|t:|1776969498
+|switch|p2a: Mamoswine|Mamoswine, L81, F|311/311
+|turn|6
+|
+|t:|1776969508
+|move|p2a: Mamoswine|Ice Shard|p1a: Terrakion
+|-damage|p1a: Terrakion|0 fnt
+|faint|p1a: Terrakion
+|-damage|p2a: Mamoswine|280/311|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776969519
+|switch|p1a: Koraidon|Koraidon, L64|235/235
+|-status|p1a: Koraidon|psn
+|-weather|SunnyDay|[from] ability: Orichalcum Pulse|[of] p1a: Koraidon
+|-activate|p1a: Koraidon|Orichalcum Pulse|[source]
+|turn|7
+|inactive|SuMo-Booma has 120 seconds left.
+|
+|t:|1776969532
+|move|p2a: Mamoswine|Ice Shard|p1a: Koraidon
+|-supereffective|p1a: Koraidon
+|-damage|p1a: Koraidon|95/235 psn
+|-damage|p2a: Mamoswine|249/311|[from] item: Life Orb
+|move|p1a: Koraidon|Close Combat|p2a: Mamoswine
+|-supereffective|p2a: Mamoswine
+|-damage|p2a: Mamoswine|0 fnt
+|-unboost|p1a: Koraidon|def|1
+|-unboost|p1a: Koraidon|spd|1
+|faint|p2a: Mamoswine
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Koraidon|66/235 psn|[from] psn
+|upkeep
+|
+|t:|1776969548
+|switch|p2a: Farigiraf|Farigiraf, L90, F|362/362
+|turn|8
+|
+|t:|1776969572
+|switch|p1a: Lanturn|Lanturn, L89, M|367/367
+|-status|p1a: Lanturn|psn
+|move|p2a: Farigiraf|Wish|p2a: Farigiraf
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Lanturn|322/367 psn|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1776969579
+|move|p1a: Lanturn|Thunder Wave|p2a: Farigiraf
+|-status|p2a: Farigiraf|par
+|move|p2a: Farigiraf|Psychic Noise|p1a: Lanturn
+|-damage|p1a: Lanturn|213/367 psn
+|-start|p1a: Lanturn|move: Heal Block
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Lanturn|168/367 psn|[from] psn
+|upkeep
+|turn|10
+|inactive|SuMo-Booma has 120 seconds left.
+|inactive|666 N00BIDICAL has 120 seconds left.
+|
+|t:|1776969609
+|switch|p1a: Iron Thorns|Iron Thorns, L83|302/302
+|-item|p1a: Iron Thorns|Air Balloon
+|cant|p2a: Farigiraf|par
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|11
+|inactive|SuMo-Booma has 120 seconds left.
+|
+|t:|1776969619
+|move|p1a: Iron Thorns|Stealth Rock|p2a: Farigiraf
+|-sidestart|p2: SuMo-Booma|move: Stealth Rock
+|cant|p2a: Farigiraf|par
+|
+|-weather|none
+|upkeep
+|turn|12
+|
+|t:|1776969624
+|move|p1a: Iron Thorns|Stone Edge|p2a: Farigiraf
+|-damage|p2a: Farigiraf|211/362 par
+|move|p2a: Farigiraf|Psychic Noise|p1a: Iron Thorns
+|-crit|p1a: Iron Thorns
+|-damage|p1a: Iron Thorns|145/302
+|-start|p1a: Iron Thorns|move: Heal Block
+|-enditem|p1a: Iron Thorns|Air Balloon
+|
+|-heal|p2a: Farigiraf|233/362 par|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776969632
+|move|p2a: Farigiraf|Protect|p2a: Farigiraf
+|-singleturn|p2a: Farigiraf|Protect
+|move|p1a: Iron Thorns|Wild Charge|p2a: Farigiraf
+|-activate|p2a: Farigiraf|move: Protect
+|
+|-heal|p2a: Farigiraf|255/362 par|[from] item: Leftovers
+|-end|p1a: Iron Thorns|move: Heal Block
+|upkeep
+|turn|14
+|
+|t:|1776969638
+|move|p1a: Iron Thorns|Wild Charge|p2a: Farigiraf
+|-damage|p2a: Farigiraf|113/362 par
+|-damage|p1a: Iron Thorns|109/302|[from] Recoil
+|move|p2a: Farigiraf|Wish|p2a: Farigiraf
+|
+|-heal|p2a: Farigiraf|135/362 par|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1776969647
+|-end|p1a: Iron Thorns|Quark Drive|[silent]
+|switch|p1a: Torterra|Torterra, L78, M|276/276
+|-status|p1a: Torterra|psn
+|move|p2a: Farigiraf|Protect||[still]
+|-fail|p2a: Farigiraf
+|
+|-heal|p2a: Farigiraf|316/362 par|[from] move: Wish|[wisher] Farigiraf
+|-heal|p2a: Farigiraf|338/362 par|[from] item: Leftovers
+|-damage|p1a: Torterra|242/276 psn|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1776969665
+|move|p1a: Torterra|Shell Smash|p1a: Torterra
+|-unboost|p1a: Torterra|def|1
+|-unboost|p1a: Torterra|spd|1
+|-boost|p1a: Torterra|atk|2
+|-boost|p1a: Torterra|spa|2
+|-boost|p1a: Torterra|spe|2
+|move|p2a: Farigiraf|Psychic Noise|p1a: Torterra
+|-damage|p1a: Torterra|71/276 psn
+|-start|p1a: Torterra|move: Heal Block
+|
+|-heal|p2a: Farigiraf|360/362 par|[from] item: Leftovers
+|-damage|p1a: Torterra|37/276 psn|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1776969676
+|move|p2a: Farigiraf|Protect|p2a: Farigiraf
+|-singleturn|p2a: Farigiraf|Protect
+|move|p1a: Torterra|Headlong Rush|p2a: Farigiraf
+|-activate|p2a: Farigiraf|move: Protect
+|
+|-heal|p2a: Farigiraf|362/362 par|[from] item: Leftovers
+|-damage|p1a: Torterra|3/276 psn|[from] psn
+|-end|p1a: Torterra|move: Heal Block
+|upkeep
+|turn|18
+|
+|t:|1776969681
+|move|p1a: Torterra|Headlong Rush|p2a: Farigiraf
+|-damage|p2a: Farigiraf|83/362 par
+|-unboost|p1a: Torterra|def|1
+|-unboost|p1a: Torterra|spd|1
+|move|p2a: Farigiraf|Wish|p2a: Farigiraf
+|
+|-heal|p2a: Farigiraf|105/362 par|[from] item: Leftovers
+|-damage|p1a: Torterra|0 fnt|[from] psn
+|faint|p1a: Torterra
+|upkeep
+|
+|t:|1776969695
+|switch|p1a: Iron Thorns|Iron Thorns, L83|109/302
+|-status|p1a: Iron Thorns|psn
+|turn|19
+|
+|t:|1776969700
+|move|p2a: Farigiraf|Protect|p2a: Farigiraf
+|-singleturn|p2a: Farigiraf|Protect
+|move|p1a: Iron Thorns|Wild Charge|p2a: Farigiraf
+|-activate|p2a: Farigiraf|move: Protect
+|
+|-heal|p2a: Farigiraf|286/362 par|[from] move: Wish|[wisher] Farigiraf
+|-heal|p2a: Farigiraf|308/362 par|[from] item: Leftovers
+|-damage|p1a: Iron Thorns|72/302 psn|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1776969707
+|move|p1a: Iron Thorns|Wild Charge|p2a: Farigiraf
+|-damage|p2a: Farigiraf|181/362 par
+|-damage|p1a: Iron Thorns|40/302 psn|[from] Recoil
+|move|p2a: Farigiraf|Wish|p2a: Farigiraf
+|
+|-heal|p2a: Farigiraf|203/362 par|[from] item: Leftovers
+|-damage|p1a: Iron Thorns|3/302 psn|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1776969713
+|move|p2a: Farigiraf|Protect|p2a: Farigiraf
+|-singleturn|p2a: Farigiraf|Protect
+|move|p1a: Iron Thorns|Spikes|p2a: Farigiraf
+|-sidestart|p2: SuMo-Booma|Spikes
+|
+|-heal|p2a: Farigiraf|362/362 par|[from] move: Wish|[wisher] Farigiraf
+|-damage|p1a: Iron Thorns|0 fnt|[from] psn
+|faint|p1a: Iron Thorns
+|-end|p1a: Iron Thorns|Quark Drive|[silent]
+|upkeep
+|
+|t:|1776969720
+|switch|p1a: Koraidon|Koraidon, L64|66/235 psn
+|-weather|SunnyDay|[from] ability: Orichalcum Pulse|[of] p1a: Koraidon
+|-activate|p1a: Koraidon|Orichalcum Pulse|[source]
+|turn|22
+|
+|t:|1776969724
+|move|p1a: Koraidon|Outrage|p2a: Farigiraf
+|-damage|p2a: Farigiraf|131/362 par
+|move|p2a: Farigiraf|Psychic Noise|p1a: Koraidon
+|-supereffective|p1a: Koraidon
+|-damage|p1a: Koraidon|0 fnt
+|faint|p1a: Koraidon
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Farigiraf|153/362 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1776969728
+|switch|p1a: Espeon|Espeon, L84, F|246/246
+|-status|p1a: Espeon|psn
+|turn|23
+|
+|t:|1776969732
+|move|p1a: Espeon|Calm Mind|p1a: Espeon
+|-boost|p1a: Espeon|spa|1
+|-boost|p1a: Espeon|spd|1
+|move|p2a: Farigiraf|Wish|p2a: Farigiraf
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Farigiraf|175/362 par|[from] item: Leftovers
+|-damage|p1a: Espeon|216/246 psn|[from] psn
+|upkeep
+|turn|24
+|
+|t:|1776969746
+|switch|p2a: Phione|Phione, L91|293/293
+|-damage|p2a: Phione|257/293|[from] Stealth Rock
+|-damage|p2a: Phione|221/293|[from] Spikes
+|-terastallize|p1a: Espeon|Fairy
+|move|p1a: Espeon|Alluring Voice|p2a: Phione
+|-damage|p2a: Phione|25/293
+|-damage|p1a: Espeon|192/246 psn|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Phione|206/293|[from] move: Wish|[wisher] Farigiraf
+|-heal|p2a: Phione|224/293|[from] item: Leftovers
+|-damage|p1a: Espeon|162/246 psn|[from] psn
+|upkeep
+|turn|25
+|
+|t:|1776969767
+|move|p1a: Espeon|Calm Mind|p1a: Espeon
+|-boost|p1a: Espeon|spa|1
+|-boost|p1a: Espeon|spd|1
+|move|p2a: Phione|Take Heart|p2a: Phione
+|-boost|p2a: Phione|spa|1
+|-boost|p2a: Phione|spd|1
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Phione|242/293|[from] item: Leftovers
+|-damage|p1a: Espeon|132/246 psn|[from] psn
+|upkeep
+|turn|26
+|
+|t:|1776969771
+|move|p1a: Espeon|Psyshock|p2a: Phione
+|-damage|p2a: Phione|0 fnt
+|faint|p2a: Phione
+|-damage|p1a: Espeon|108/246 psn|[from] item: Life Orb
+|
+|-weather|none
+|-damage|p1a: Espeon|78/246 psn|[from] psn
+|upkeep
+|
+|t:|1776969779
+|switch|p2a: Farigiraf|Farigiraf, L90, F|175/362 par
+|-damage|p2a: Farigiraf|130/362 par|[from] Stealth Rock
+|-damage|p2a: Farigiraf|85/362 par|[from] Spikes
+|turn|27
+|
+|t:|1776969782
+|move|p2a: Farigiraf|Protect|p2a: Farigiraf
+|-singleturn|p2a: Farigiraf|Protect
+|move|p1a: Espeon|Alluring Voice|p2a: Farigiraf
+|-activate|p2a: Farigiraf|move: Protect
+|
+|-heal|p2a: Farigiraf|107/362 par|[from] item: Leftovers
+|-damage|p1a: Espeon|48/246 psn|[from] psn
+|upkeep
+|turn|28
+|
+|t:|1776969789
+|cant|p2a: Farigiraf|par
+|move|p1a: Espeon|Alluring Voice|p2a: Farigiraf
+|-damage|p2a: Farigiraf|0 fnt
+|faint|p2a: Farigiraf
+|-damage|p1a: Espeon|24/246 psn|[from] item: Life Orb
+|
+|-damage|p1a: Espeon|0 fnt|[from] psn
+|faint|p1a: Espeon
+|upkeep
+|
+|t:|1776969794
+|switch|p1a: Lanturn|Lanturn, L89, M|168/367 psn
+|switch|p2a: Beartic|Beartic, L91, F|321/321
+|turn|29
+|
+|t:|1776969798
+|move|p1a: Lanturn|Thunderbolt|p2a: Beartic
+|-damage|p2a: Beartic|231/321
+|move|p2a: Beartic|Close Combat|p1a: Lanturn
+|-damage|p1a: Lanturn|0 fnt
+|-unboost|p2a: Beartic|def|1
+|-unboost|p2a: Beartic|spd|1
+|faint|p1a: Lanturn
+|
+|win|SuMo-Booma
+|raw|666 N00BIDICAL's rating: 1561 &rarr; <strong>1542</strong><br />(-19 for losing)
+|raw|SuMo-Booma's rating: 1574 &rarr; <strong>1593</strong><br />(+19 for winning)
+|l|☆666 N00BIDICAL
+|player|p1|
+|j|☆666 N00BIDICAL
+|player|p1|666 N00BIDICAL|artist-gen4|

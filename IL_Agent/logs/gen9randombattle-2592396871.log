@@ -1,0 +1,222 @@
+|j|☆JimothyTheSavage
+|j|☆jnaumovski25
+|t:|1776985461
+|gametype|singles
+|player|p1|JimothyTheSavage|giovanni|1739
+|player|p2|jnaumovski25|265|1755
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776985461
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Barraskewda|Barraskewda, L81, F|231/231
+|switch|p2a: Scizor|Scizor, L79, F|240/240
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by JimothyTheSavage)
+|
+|t:|1776985477
+|switch|p2a: Archaludon|Archaludon, L78, M|268/268
+|move|p1a: Barraskewda|Flip Turn|p2a: Archaludon
+|-resisted|p2a: Archaludon
+|-damage|p2a: Archaludon|229/268
+|-ability|p2a: Archaludon|Stamina|boost
+|-boost|p2a: Archaludon|def|1
+|
+|t:|1776985492
+|switch|p1a: Volcanion|Volcanion, L79|256/256|[from] Flip Turn
+|
+|upkeep
+|turn|2
+|
+|t:|1776985500
+|move|p2a: Archaludon|Draco Meteor|p1a: Volcanion
+|-damage|p1a: Volcanion|90/256
+|-unboost|p2a: Archaludon|spa|2
+|move|p1a: Volcanion|Flamethrower|p2a: Archaludon
+|-damage|p2a: Archaludon|133/268
+|-ability|p2a: Archaludon|Stamina|boost
+|-boost|p2a: Archaludon|def|1
+|
+|upkeep
+|turn|3
+|
+|t:|1776985511
+|move|p2a: Archaludon|Body Press|p1a: Volcanion
+|-damage|p1a: Volcanion|0 fnt
+|faint|p1a: Volcanion
+|
+|upkeep
+|
+|t:|1776985519
+|switch|p1a: Typhlosion|Typhlosion, L84, F|267/267
+|turn|4
+|
+|t:|1776985526
+|-terastallize|p1a: Typhlosion|Fire
+|move|p1a: Typhlosion|Eruption|p2a: Archaludon
+|-damage|p2a: Archaludon|0 fnt
+|faint|p2a: Archaludon
+|
+|upkeep
+|
+|t:|1776985541
+|switch|p2a: Basculegion|Basculegion-F, L83, F|335/335
+|turn|5
+|
+|t:|1776985550
+|switch|p1a: Deoxys|Deoxys-Speed, L82|216/216
+|-ability|p1a: Deoxys|Pressure
+|move|p2a: Basculegion|Hydro Pump|p1a: Deoxys
+|-damage|p1a: Deoxys|0 fnt
+|faint|p1a: Deoxys
+|
+|upkeep
+|
+|t:|1776985561
+|switch|p1a: Maushold|Maushold, L76|238/238
+|turn|6
+|
+|t:|1776985565
+|move|p1a: Maushold|Tidy Up|p1a: Maushold
+|-boost|p1a: Maushold|atk|1
+|-boost|p1a: Maushold|spe|1
+|move|p2a: Basculegion|Hydro Pump|p1a: Maushold|[miss]
+|-miss|p2a: Basculegion|p1a: Maushold
+|
+|upkeep
+|turn|7
+|
+|t:|1776985570
+|move|p1a: Maushold|Bite|p2a: Basculegion
+|-supereffective|p2a: Basculegion
+|-damage|p2a: Basculegion|179/335
+|move|p2a: Basculegion|Hydro Pump|p1a: Maushold
+|-crit|p1a: Maushold
+|-damage|p1a: Maushold|0 fnt
+|faint|p1a: Maushold
+|
+|upkeep
+|
+|t:|1776985579
+|switch|p1a: Iron Treads|Iron Treads, L77|265/265
+|turn|8
+|
+|t:|1776985584
+|-terastallize|p2a: Basculegion|Water
+|move|p1a: Iron Treads|Earthquake|p2a: Basculegion
+|-damage|p2a: Basculegion|56/335
+|move|p2a: Basculegion|Hydro Pump|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1776985591
+|switch|p1a: Typhlosion|Typhlosion, L84, F, tera:Fire|267/267
+|turn|9
+|
+|t:|1776985594
+|move|p1a: Typhlosion|Eruption|p2a: Basculegion
+|-resisted|p2a: Basculegion
+|-damage|p2a: Basculegion|0 fnt
+|faint|p2a: Basculegion
+|
+|upkeep
+|
+|t:|1776985605
+|switch|p2a: Raikou|Raikou, L81|278/278
+|-ability|p2a: Raikou|Pressure
+|turn|10
+|
+|t:|1776985608
+|move|p1a: Typhlosion|Eruption|p2a: Raikou
+|-damage|p2a: Raikou|58/278
+|move|p2a: Raikou|Scald|p1a: Typhlosion
+|-supereffective|p1a: Typhlosion
+|-damage|p1a: Typhlosion|151/267
+|
+|-heal|p2a: Raikou|75/278|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776985613
+|move|p1a: Typhlosion|Eruption|p2a: Raikou
+|-damage|p2a: Raikou|0 fnt
+|faint|p2a: Raikou
+|
+|upkeep
+|
+|t:|1776985618
+|switch|p2a: Hitmontop|Hitmontop, L88, M|231/231
+|turn|12
+|
+|t:|1776985623
+|switch|p1a: Barraskewda|Barraskewda, L81, F|231/231
+|move|p2a: Hitmontop|Close Combat|p1a: Barraskewda
+|-damage|p1a: Barraskewda|45/231
+|-unboost|p2a: Hitmontop|def|1
+|-unboost|p2a: Hitmontop|spd|1
+|
+|upkeep
+|turn|13
+|
+|t:|1776985628
+|move|p1a: Barraskewda|Waterfall|p2a: Hitmontop
+|-damage|p2a: Hitmontop|48/231
+|move|p2a: Hitmontop|Rapid Spin|p1a: Barraskewda
+|-damage|p1a: Barraskewda|0 fnt
+|-boost|p2a: Hitmontop|spe|1
+|faint|p1a: Barraskewda
+|
+|-heal|p2a: Hitmontop|62/231|[from] item: Leftovers
+|upkeep
+|
+|t:|1776985634
+|switch|p1a: Typhlosion|Typhlosion, L84, F, tera:Fire|151/267
+|turn|14
+|
+|t:|1776985636
+|move|p1a: Typhlosion|Fire Blast|p2a: Hitmontop
+|-damage|p2a: Hitmontop|0 fnt
+|faint|p2a: Hitmontop
+|
+|upkeep
+|
+|t:|1776985643
+|switch|p2a: Chien-Pao|Chien-Pao, L72|234/234
+|-ability|p2a: Chien-Pao|Sword of Ruin
+|turn|15
+|
+|t:|1776985651
+|move|p1a: Typhlosion|Fire Blast|p2a: Chien-Pao
+|-supereffective|p2a: Chien-Pao
+|-damage|p2a: Chien-Pao|0 fnt
+|faint|p2a: Chien-Pao
+|
+|upkeep
+|
+|t:|1776985652
+|switch|p2a: Scizor|Scizor, L79, F|240/240
+|turn|16
+|
+|t:|1776985657
+|move|p1a: Typhlosion|Fire Blast|p2a: Scizor
+|-supereffective|p2a: Scizor
+|-damage|p2a: Scizor|0 fnt
+|faint|p2a: Scizor
+|
+|win|JimothyTheSavage
+|raw|JimothyTheSavage's rating: 1739 &rarr; <strong>1760</strong><br />(+21 for winning)
+|raw|jnaumovski25's rating: 1755 &rarr; <strong>1734</strong><br />(-21 for losing)
+|l|☆jnaumovski25
+|player|p2|
+|c|☆JimothyTheSavage|gg

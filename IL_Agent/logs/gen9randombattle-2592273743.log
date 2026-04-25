@@ -1,0 +1,319 @@
+|j|☆greatdivideeee
+|j|☆ChuChiToUwU
+|t:|1776975046
+|gametype|singles
+|player|p1|greatdivideeee|266|1101
+|player|p2|ChuChiToUwU|drayden|1091
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776975046
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Gardevoir|Gardevoir, L83, F|249/249
+|switch|p2a: Articuno|Articuno, L86|295/295
+|-ability|p2a: Articuno|Pressure
+|-ability|p1a: Gardevoir|Pressure|Trace|[from] ability: Trace|[of] p2a: Articuno
+|-ability|p1a: Gardevoir|Pressure
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by greatdivideeee)
+|
+|t:|1776975069
+|move|p2a: Articuno|U-turn|p1a: Gardevoir
+|-damage|p1a: Gardevoir|190/249
+|
+|t:|1776975072
+|switch|p2a: Incineroar|Incineroar, L82, M|290/290|[from] U-turn
+|-ability|p2a: Incineroar|Intimidate|boost
+|-unboost|p1a: Gardevoir|atk|1
+|move|p1a: Gardevoir|Mystical Fire|p2a: Incineroar
+|-resisted|p2a: Incineroar
+|-damage|p2a: Incineroar|250/290
+|-unboost|p2a: Incineroar|spa|1
+|-damage|p1a: Gardevoir|166/249|[from] item: Life Orb
+|
+|upkeep
+|turn|2
+|
+|t:|1776975087
+|switch|p1a: Diancie|Diancie, L82|216/216
+|move|p2a: Incineroar|Flare Blitz|p1a: Diancie
+|-resisted|p1a: Diancie
+|-damage|p1a: Diancie|173/216
+|-damage|p2a: Incineroar|236/290|[from] Recoil
+|
+|-heal|p1a: Diancie|186/216|[from] item: Leftovers
+|upkeep
+|turn|3
+|inactive|ChuChiToUwU has 120 seconds left.
+|
+|t:|1776975117
+|move|p2a: Incineroar|Parting Shot|p1a: Diancie
+|-fail|p1a: Diancie|unboost|[from] ability: Clear Body|[of] p1a: Diancie
+|move|p1a: Diancie|Diamond Storm|p2a: Incineroar
+|-supereffective|p2a: Incineroar
+|-crit|p2a: Incineroar
+|-damage|p2a: Incineroar|0 fnt
+|-boost|p1a: Diancie|def|2
+|faint|p2a: Incineroar
+|
+|-heal|p1a: Diancie|199/216|[from] item: Leftovers
+|upkeep
+|inactive|ChuChiToUwU has 120 seconds left.
+|
+|t:|1776975127
+|switch|p2a: Whiscash|Whiscash, L88, M|337/337
+|turn|4
+|
+|t:|1776975154
+|switch|p1a: Gardevoir|Gardevoir, L83, F|166/249
+|-ability|p1a: Gardevoir|Oblivious|Trace|[from] ability: Trace|[of] p2a: Whiscash
+|move|p2a: Whiscash|Earthquake|p1a: Gardevoir
+|-damage|p1a: Gardevoir|5/249
+|-damage|p2a: Whiscash|304/337|[from] item: Life Orb
+|
+|upkeep
+|turn|5
+|inactive|ChuChiToUwU has 120 seconds left.
+|
+|t:|1776975173
+|move|p1a: Gardevoir|Psychic|p2a: Whiscash
+|-crit|p2a: Whiscash
+|-damage|p2a: Whiscash|65/337
+|-damage|p1a: Gardevoir|0 fnt|[from] item: Life Orb
+|faint|p1a: Gardevoir
+|move|p2a: Whiscash|Stone Edge|p1: Gardevoir|[notarget]
+|-fail|p2a: Whiscash
+|
+|upkeep
+|
+|t:|1776975188
+|switch|p1a: Gengar|Gengar, L81, F|230/230
+|turn|6
+|
+|t:|1776975195
+|move|p1a: Gengar|Shadow Ball|p2a: Whiscash
+|-damage|p2a: Whiscash|0 fnt
+|faint|p2a: Whiscash
+|-damage|p1a: Gengar|207/230|[from] item: Life Orb
+|
+|upkeep
+|inactive|ChuChiToUwU has 120 seconds left.
+|
+|t:|1776975218
+|switch|p2a: Landorus|Landorus, L75, M|257/257
+|turn|7
+|inactive|ChuChiToUwU has 120 seconds left.
+|
+|t:|1776975240
+|move|p1a: Gengar|Shadow Ball|p2a: Landorus
+|-damage|p2a: Landorus|109/257
+|-damage|p1a: Gengar|184/230|[from] item: Life Orb
+|move|p2a: Landorus|Earth Power|p1a: Gengar
+|-supereffective|p1a: Gengar
+|-damage|p1a: Gengar|0 fnt
+|faint|p1a: Gengar
+|
+|upkeep
+|
+|t:|1776975243
+|switch|p1a: Milotic|Milotic, L83, F|293/293
+|turn|8
+|inactive|ChuChiToUwU has 120 seconds left.
+|inactive|ChuChiToUwU has 90 seconds left.
+|
+|t:|1776975279
+|switch|p2a: Iron Leaves|Iron Leaves, L80|275/275
+|move|p1a: Milotic|Scald|p2a: Iron Leaves
+|-resisted|p2a: Iron Leaves
+|-damage|p2a: Iron Leaves|235/275
+|-status|p2a: Iron Leaves|brn
+|
+|-damage|p2a: Iron Leaves|218/275 brn|[from] brn
+|upkeep
+|turn|9
+|inactive|ChuChiToUwU has 90 seconds left.
+|
+|t:|1776975294
+|move|p2a: Iron Leaves|Leaf Blade|p1a: Milotic
+|-supereffective|p1a: Milotic
+|-damage|p1a: Milotic|107/293
+|move|p1a: Milotic|Ice Beam|p2a: Iron Leaves
+|-supereffective|p2a: Iron Leaves
+|-damage|p2a: Iron Leaves|112/275 brn
+|
+|-heal|p1a: Milotic|125/293|[from] item: Leftovers
+|-damage|p2a: Iron Leaves|95/275 brn|[from] brn
+|upkeep
+|turn|10
+|inactive|ChuChiToUwU has 90 seconds left.
+|
+|t:|1776975305
+|move|p2a: Iron Leaves|Leaf Blade|p1a: Milotic
+|-supereffective|p1a: Milotic
+|-damage|p1a: Milotic|0 fnt
+|faint|p1a: Milotic
+|
+|-damage|p2a: Iron Leaves|78/275 brn|[from] brn
+|upkeep
+|
+|t:|1776975312
+|switch|p1a: Porygon-Z|Porygon-Z, L83|277/277
+|turn|11
+|inactive|ChuChiToUwU has 90 seconds left.
+|inactive|ChuChiToUwU has 60 seconds left.
+|
+|t:|1776975360
+|move|p2a: Iron Leaves|Leaf Blade|p1a: Porygon-Z
+|-crit|p1a: Porygon-Z
+|-damage|p1a: Porygon-Z|118/277
+|move|p1a: Porygon-Z|Agility|p1a: Porygon-Z
+|-boost|p1a: Porygon-Z|spe|2
+|
+|-damage|p2a: Iron Leaves|61/275 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1776975375
+|move|p1a: Porygon-Z|Shadow Ball|p2a: Iron Leaves
+|-supereffective|p2a: Iron Leaves
+|-damage|p2a: Iron Leaves|0 fnt
+|faint|p2a: Iron Leaves
+|-end|p2a: Iron Leaves|Quark Drive|[silent]
+|-damage|p1a: Porygon-Z|91/277|[from] item: Life Orb
+|
+|upkeep
+|inactive|ChuChiToUwU has 60 seconds left.
+|
+|t:|1776975385
+|switch|p2a: Meloetta|Meloetta, L82|298/298
+|turn|13
+|
+|t:|1776975393
+|-terastallize|p1a: Porygon-Z|Fighting
+|move|p1a: Porygon-Z|Tera Blast|p2a: Meloetta|[anim] Tera Blast Fighting
+|-damage|p2a: Meloetta|150/298
+|-damage|p1a: Porygon-Z|64/277|[from] item: Life Orb
+|move|p2a: Meloetta|Focus Blast|p1a: Porygon-Z|[miss]
+|-miss|p2a: Meloetta|p1a: Porygon-Z
+|
+|upkeep
+|turn|14
+|c|☆ChuChiToUwU|spanish?
+|
+|t:|1776975406
+|switch|p2a: Landorus|Landorus, L75, M|109/257
+|move|p1a: Porygon-Z|Tera Blast|p2a: Landorus|[anim] Tera Blast Fighting
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|-damage|p1a: Porygon-Z|37/277|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776975414
+|switch|p2a: Meloetta|Meloetta, L82|150/298
+|turn|15
+|
+|t:|1776975418
+|move|p1a: Porygon-Z|Tera Blast|p2a: Meloetta|[anim] Tera Blast Fighting
+|-damage|p2a: Meloetta|12/298
+|-damage|p1a: Porygon-Z|10/277|[from] item: Life Orb
+|move|p2a: Meloetta|Psyshock|p1a: Porygon-Z
+|-supereffective|p1a: Porygon-Z
+|-damage|p1a: Porygon-Z|0 fnt
+|faint|p1a: Porygon-Z
+|
+|upkeep
+|
+|t:|1776975421
+|switch|p1a: Baxcalibur|Baxcalibur, L75, M|295/295
+|turn|16
+|inactive|ChuChiToUwU has 90 seconds left.
+|
+|t:|1776975439
+|move|p1a: Baxcalibur|Ice Shard|p2a: Meloetta
+|-damage|p2a: Meloetta|0 fnt
+|faint|p2a: Meloetta
+|
+|upkeep
+|
+|t:|1776975443
+|switch|p2a: Articuno|Articuno, L86|295/295
+|-ability|p2a: Articuno|Pressure
+|turn|17
+|inactive|ChuChiToUwU has 90 seconds left.
+|
+|t:|1776975451
+|switch|p1a: Diancie|Diancie, L82|199/216
+|move|p2a: Articuno|Brave Bird|p1a: Diancie
+|-resisted|p1a: Diancie
+|-damage|p1a: Diancie|159/216
+|-damage|p2a: Articuno|282/295|[from] Recoil
+|
+|-heal|p1a: Diancie|172/216|[from] item: Leftovers
+|upkeep
+|turn|18
+|inactive|ChuChiToUwU has 90 seconds left.
+|
+|t:|1776975468
+|-terastallize|p2a: Articuno|Ground
+|move|p2a: Articuno|Freeze-Dry|p1a: Diancie
+|-damage|p1a: Diancie|124/216
+|move|p1a: Diancie|Diamond Storm|p2a: Articuno
+|-resisted|p2a: Articuno
+|-damage|p2a: Articuno|239/295
+|
+|-heal|p1a: Diancie|137/216|[from] item: Leftovers
+|upkeep
+|turn|19
+|inactive|ChuChiToUwU has 90 seconds left.
+|
+|t:|1776975480
+|move|p2a: Articuno|Freeze-Dry|p1a: Diancie
+|-damage|p1a: Diancie|89/216
+|-status|p1a: Diancie|frz
+|cant|p1a: Diancie|frz
+|
+|-heal|p1a: Diancie|102/216 frz|[from] item: Leftovers
+|upkeep
+|turn|20
+|inactive|ChuChiToUwU has 90 seconds left.
+|
+|t:|1776975494
+|switch|p1a: Baxcalibur|Baxcalibur, L75, M|295/295
+|move|p2a: Articuno|Freeze-Dry|p1a: Baxcalibur
+|-crit|p1a: Baxcalibur
+|-damage|p1a: Baxcalibur|160/295
+|
+|upkeep
+|turn|21
+|
+|t:|1776975503
+|move|p2a: Articuno|Brave Bird|p1a: Baxcalibur
+|-damage|p1a: Baxcalibur|22/295
+|-damage|p2a: Articuno|193/295|[from] Recoil
+|move|p1a: Baxcalibur|Icicle Crash|p2a: Articuno|[miss]
+|-miss|p1a: Baxcalibur|p2a: Articuno
+|
+|upkeep
+|turn|22
+|
+|t:|1776975513
+|move|p2a: Articuno|Brave Bird|p1a: Baxcalibur
+|-crit|p1a: Baxcalibur
+|-damage|p1a: Baxcalibur|0 fnt
+|faint|p1a: Baxcalibur
+|-damage|p2a: Articuno|186/295|[from] Recoil
+|
+|upkeep
+|c|☆ChuChiToUwU|gaaaaaaaaaaaaaaaaaaaaa
+|-message|greatdivideeee forfeited.
+|
+|win|ChuChiToUwU

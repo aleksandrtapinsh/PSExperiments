@@ -1,0 +1,224 @@
+|j|☆dogeatmark08
+|j|☆Hehdhdhdgghedhdhdd
+|t:|1776972094
+|gametype|singles
+|player|p1|dogeatmark08|170|1202
+|player|p2|Hehdhdhdgghedhdhdd|102|1163
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776972094
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ursaring|Ursaring, L84, F|288/288
+|switch|p2a: Meowstic|Meowstic-F, L89, F|277/277
+|turn|1
+|
+|t:|1776972104
+|move|p2a: Meowstic|Nasty Plot|p2a: Meowstic
+|-boost|p2a: Meowstic|spa|2
+|move|p1a: Ursaring|Crunch|p2a: Meowstic
+|-supereffective|p2a: Meowstic
+|-damage|p2a: Meowstic|129/277
+|
+|-status|p1a: Ursaring|tox|[from] item: Toxic Orb
+|upkeep
+|turn|2
+|
+|t:|1776972114
+|move|p2a: Meowstic|Psyshock|p1a: Ursaring
+|-damage|p1a: Ursaring|35/288 tox
+|-damage|p2a: Meowstic|102/277|[from] item: Life Orb
+|move|p1a: Ursaring|Crunch|p2a: Meowstic
+|-supereffective|p2a: Meowstic
+|-damage|p2a: Meowstic|0 fnt
+|faint|p2a: Meowstic
+|
+|-damage|p1a: Ursaring|17/288 tox|[from] psn
+|upkeep
+|
+|t:|1776972123
+|switch|p2a: Trevenant|Trevenant, L89, F|296/296
+|turn|3
+|
+|t:|1776972128
+|move|p2a: Trevenant|Protect|p2a: Trevenant
+|-singleturn|p2a: Trevenant|Protect
+|move|p1a: Ursaring|Crunch|p2a: Trevenant
+|-activate|p2a: Trevenant|move: Protect
+|
+|-damage|p1a: Ursaring|0 fnt|[from] psn
+|faint|p1a: Ursaring
+|upkeep
+|
+|t:|1776972154
+|switch|p1a: Sandslash|Sandslash-Alola, L88, M|275/275
+|turn|4
+|
+|t:|1776972168
+|move|p1a: Sandslash|Knock Off|p2a: Trevenant
+|-supereffective|p2a: Trevenant
+|-damage|p2a: Trevenant|130/296
+|-enditem|p2a: Trevenant|Sitrus Berry|[from] move: Knock Off|[of] p1a: Sandslash
+|move|p2a: Trevenant|Drain Punch|p1a: Sandslash
+|-supereffective|p1a: Sandslash
+|-damage|p1a: Sandslash|71/275
+|-heal|p2a: Trevenant|232/296|[from] drain|[of] p1a: Sandslash
+|
+|upkeep
+|turn|5
+|
+|t:|1776972177
+|move|p1a: Sandslash|Triple Axel|p2a: Trevenant
+|-supereffective|p2a: Trevenant
+|-damage|p2a: Trevenant|178/296
+|-supereffective|p2a: Trevenant
+|-damage|p2a: Trevenant|86/296
+|-supereffective|p2a: Trevenant
+|-crit|p2a: Trevenant
+|-damage|p2a: Trevenant|0 fnt
+|faint|p2a: Trevenant
+|-hitcount|p2: Trevenant|3
+|
+|upkeep
+|
+|t:|1776972185
+|switch|p2a: Delibird|Delibird, M|252/252
+|turn|6
+|
+|t:|1776972193
+|move|p2a: Delibird|Brave Bird|p1a: Sandslash
+|-resisted|p1a: Sandslash
+|-damage|p1a: Sandslash|29/275
+|-damage|p2a: Delibird|238/252|[from] Recoil
+|move|p1a: Sandslash|Rapid Spin|p2a: Delibird
+|-damage|p2a: Delibird|183/252
+|-boost|p1a: Sandslash|spe|1
+|
+|upkeep
+|turn|7
+|
+|t:|1776972204
+|move|p1a: Sandslash|Iron Head|p2a: Delibird
+|-supereffective|p2a: Delibird
+|-damage|p2a: Delibird|0 fnt
+|faint|p2a: Delibird
+|
+|upkeep
+|
+|t:|1776972206
+|switch|p2a: Farigiraf|Farigiraf, L90, F|362/362
+|turn|8
+|
+|t:|1776972214
+|move|p1a: Sandslash|Knock Off|p2a: Farigiraf
+|-supereffective|p2a: Farigiraf
+|-damage|p2a: Farigiraf|194/362
+|-enditem|p2a: Farigiraf|Leftovers|[from] move: Knock Off|[of] p1a: Sandslash
+|move|p2a: Farigiraf|Body Slam|p1a: Sandslash
+|-resisted|p1a: Sandslash
+|-damage|p1a: Sandslash|0 fnt
+|faint|p1a: Sandslash
+|
+|upkeep
+|
+|t:|1776972245
+|switch|p1a: Girafarig|Girafarig, L89, F|269/269
+|turn|9
+|
+|t:|1776972253
+|move|p1a: Girafarig|Nasty Plot|p1a: Girafarig
+|-boost|p1a: Girafarig|spa|2
+|move|p2a: Farigiraf|Body Slam|p1a: Girafarig
+|-damage|p1a: Girafarig|197/269
+|-status|p1a: Girafarig|par
+|
+|upkeep
+|turn|10
+|
+|t:|1776972262
+|move|p2a: Farigiraf|Body Slam|p1a: Girafarig
+|-damage|p1a: Girafarig|121/269 par
+|cant|p1a: Girafarig|par
+|
+|upkeep
+|turn|11
+|
+|t:|1776972269
+|move|p2a: Farigiraf|Body Slam|p1a: Girafarig
+|-damage|p1a: Girafarig|42/269 par
+|move|p1a: Girafarig|Thunderbolt|p2a: Farigiraf
+|-damage|p2a: Farigiraf|55/362
+|
+|upkeep
+|turn|12
+|
+|t:|1776972277
+|move|p2a: Farigiraf|Body Slam|p1a: Girafarig
+|-damage|p1a: Girafarig|0 fnt
+|faint|p1a: Girafarig
+|
+|upkeep
+|
+|t:|1776972287
+|switch|p1a: Milotic|Milotic, L83, M|293/293
+|turn|13
+|
+|t:|1776972292
+|move|p1a: Milotic|Scald|p2a: Farigiraf
+|-damage|p2a: Farigiraf|0 fnt
+|faint|p2a: Farigiraf
+|
+|upkeep
+|
+|t:|1776972294
+|switch|p2a: Gumshoos|Gumshoos, L95, F|321/321
+|turn|14
+|
+|t:|1776972304
+|switch|p1a: Flamigo|Flamigo, L82, M|269/269
+|-terastallize|p2a: Gumshoos|Normal
+|move|p2a: Gumshoos|Double-Edge|p1a: Flamigo
+|-damage|p1a: Flamigo|0 fnt
+|faint|p1a: Flamigo
+|-damage|p2a: Gumshoos|232/321|[from] Recoil
+|
+|upkeep
+|
+|t:|1776972316
+|switch|p1a: Milotic|Milotic, L83, M|293/293
+|turn|15
+|
+|t:|1776972325
+|move|p1a: Milotic|Ice Beam|p2a: Gumshoos
+|-damage|p2a: Gumshoos|160/321
+|move|p2a: Gumshoos|Double-Edge|p1a: Milotic
+|-damage|p1a: Milotic|0 fnt
+|faint|p1a: Milotic
+|-damage|p2a: Gumshoos|63/321|[from] Recoil
+|
+|upkeep
+|
+|t:|1776972333
+|switch|p1a: Hydrapple|Hydrapple, L83, F|312/312
+|turn|16
+|
+|t:|1776972343
+|-terastallize|p1a: Hydrapple|Dragon
+|move|p2a: Gumshoos|Double-Edge|p1a: Hydrapple
+|-damage|p1a: Hydrapple|0 fnt
+|faint|p1a: Hydrapple
+|-damage|p2a: Gumshoos|0 fnt|[from] Recoil
+|faint|p2a: Gumshoos
+|
+|win|Hehdhdhdgghedhdhdd
+|raw|dogeatmark08's rating: 1202 &rarr; <strong>1174</strong><br />(-28 for losing)
+|raw|Hehdhdhdgghedhdhdd's rating: 1163 &rarr; <strong>1191</strong><br />(+28 for winning)
+|l|☆dogeatmark08
+|player|p1|

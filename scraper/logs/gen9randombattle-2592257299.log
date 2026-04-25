@@ -1,0 +1,117 @@
+|j|☆SXD2002
+|j|☆Igna_Lun
+|t:|1776973867
+|gametype|singles
+|player|p1|SXD2002|101|1498
+|player|p2|Igna_Lun|mira|1543
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776973867
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Deoxys|Deoxys, L74|196/196
+|switch|p2a: Whimsicott|Whimsicott, L84, M|238/238
+|-ability|p1a: Deoxys|Pressure
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SXD2002)
+|
+|t:|1776973879
+|move|p2a: Whimsicott|Leech Seed|p1a: Deoxys
+|-start|p1a: Deoxys|move: Leech Seed
+|move|p1a: Deoxys|Psycho Boost|p2a: Whimsicott
+|-damage|p2a: Whimsicott|18/238
+|-unboost|p1a: Deoxys|spa|2
+|-damage|p1a: Deoxys|177/196|[from] item: Life Orb
+|
+|-heal|p2a: Whimsicott|32/238|[from] item: Leftovers
+|-damage|p1a: Deoxys|153/196|[from] Leech Seed|[of] p2a: Whimsicott
+|-heal|p2a: Whimsicott|56/238|[silent]
+|upkeep
+|turn|2
+|
+|t:|1776973895
+|move|p1a: Deoxys|Ice Beam|p2a: Whimsicott
+|-supereffective|p2a: Whimsicott
+|-damage|p2a: Whimsicott|0 fnt
+|faint|p2a: Whimsicott
+|-damage|p1a: Deoxys|134/196|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776973905
+|switch|p2a: Necrozma|Necrozma, L80|286/286
+|turn|3
+|
+|t:|1776973926
+|switch|p1a: Lugia|Lugia, L73|275/275
+|move|p2a: Necrozma|Heat Wave|p1a: Lugia
+|-damage|p1a: Lugia|247/275
+|
+|upkeep
+|turn|4
+|
+|t:|1776973940
+|switch|p2a: Cetitan|Cetitan, L82, F|412/412
+|move|p1a: Lugia|Calm Mind|p1a: Lugia
+|-boost|p1a: Lugia|spa|1
+|-boost|p1a: Lugia|spd|1
+|
+|upkeep
+|turn|5
+|
+|t:|1776973956
+|switch|p1a: Emboar|Emboar, L84, F|322/322
+|move|p2a: Cetitan|Belly Drum|p2a: Cetitan
+|-damage|p2a: Cetitan|206/412
+|-setboost|p2a: Cetitan|atk|6|[from] move: Belly Drum
+|-enditem|p2a: Cetitan|Sitrus Berry|[eat]
+|-heal|p2a: Cetitan|309/412|[from] item: Sitrus Berry
+|
+|upkeep
+|turn|6
+|
+|t:|1776973967
+|-terastallize|p1a: Emboar|Dark
+|move|p2a: Cetitan|Earthquake|p1a: Emboar
+|-damage|p1a: Emboar|0 fnt
+|faint|p1a: Emboar
+|
+|upkeep
+|
+|t:|1776973978
+|switch|p1a: Yanmega|Yanmega, L82, F|275/275
+|turn|7
+|
+|t:|1776973986
+|switch|p1a: Cryogonal|Cryogonal, L89|287/287
+|move|p2a: Cetitan|Ice Shard|p1a: Cryogonal
+|-resisted|p1a: Cryogonal
+|-damage|p1a: Cryogonal|169/287
+|
+|upkeep
+|turn|8
+|
+|t:|1776973999
+|-terastallize|p2a: Cetitan|Ice
+|move|p2a: Cetitan|Ice Shard|p1a: Cryogonal
+|-resisted|p1a: Cryogonal
+|-damage|p1a: Cryogonal|4/287
+|move|p1a: Cryogonal|Recover|p1a: Cryogonal
+|-heal|p1a: Cryogonal|148/287
+|
+|upkeep
+|turn|9
+|-message|SXD2002 forfeited.
+|
+|win|Igna_Lun
+|raw|SXD2002's rating: 1498 &rarr; <strong>1481</strong><br />(-17 for losing)
+|raw|Igna_Lun's rating: 1543 &rarr; <strong>1560</strong><br />(+17 for winning)
+|l|☆SXD2002
+|player|p1|

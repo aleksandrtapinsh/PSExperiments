@@ -1,0 +1,226 @@
+|j|☆poketrimon
+|j|☆rickieragon
+|t:|1776973331
+|gametype|singles
+|player|p1|poketrimon|169|1348
+|player|p2|rickieragon|schoolkid-gen4dp|1364
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776973331
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Vikavolt|Vikavolt, L83, M|263/263
+|switch|p2a: Honchkrow|Honchkrow, L86, F|312/312
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by poketrimon)
+|
+|t:|1776973353
+|move|p2a: Honchkrow|Brave Bird|p1a: Vikavolt
+|-damage|p1a: Vikavolt|94/263
+|-damage|p2a: Honchkrow|256/312|[from] Recoil
+|move|p1a: Vikavolt|Sticky Web|p2a: Honchkrow
+|-sidestart|p2: rickieragon|move: Sticky Web
+|
+|upkeep
+|turn|2
+|inactive|rickieragon has 120 seconds left.
+|
+|t:|1776973383
+|switch|p1a: Spiritomb|Spiritomb, L89, M|234/234
+|move|p2a: Honchkrow|Brave Bird|p1a: Spiritomb
+|-damage|p1a: Spiritomb|99/234
+|-damage|p2a: Honchkrow|211/312|[from] Recoil
+|
+|-heal|p1a: Spiritomb|113/234|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776973395
+|move|p1a: Spiritomb|Sucker Punch|p2a: Honchkrow
+|-resisted|p2a: Honchkrow
+|-damage|p2a: Honchkrow|156/312
+|move|p2a: Honchkrow|Brave Bird|p1a: Spiritomb
+|-damage|p1a: Spiritomb|0 fnt
+|faint|p1a: Spiritomb
+|-ability|p2a: Honchkrow|Moxie|boost
+|-boost|p2a: Honchkrow|atk|1
+|-damage|p2a: Honchkrow|119/312|[from] Recoil
+|
+|upkeep
+|
+|t:|1776973411
+|switch|p1a: Hypno|Hypno, L95, M|315/315
+|turn|4
+|
+|t:|1776973426
+|-terastallize|p1a: Hypno|Fighting
+|move|p2a: Honchkrow|Sucker Punch||[still]
+|-fail|p2a: Honchkrow
+|move|p1a: Hypno|Toxic|p2a: Honchkrow
+|-status|p2a: Honchkrow|tox
+|
+|-damage|p2a: Honchkrow|100/312 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1776973438
+|move|p1a: Hypno|Protect|p1a: Hypno
+|-singleturn|p1a: Hypno|Protect
+|move|p2a: Honchkrow|Brave Bird|p1a: Hypno
+|-activate|p1a: Hypno|move: Protect
+|
+|-damage|p2a: Honchkrow|62/312 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1776973451
+|switch|p1a: Trevenant|Trevenant, L89, F|296/296
+|move|p2a: Honchkrow|Brave Bird|p1a: Trevenant
+|-supereffective|p1a: Trevenant
+|-damage|p1a: Trevenant|0 fnt
+|faint|p1a: Trevenant
+|-ability|p2a: Honchkrow|Moxie|boost
+|-boost|p2a: Honchkrow|atk|1
+|-damage|p2a: Honchkrow|0 fnt|[from] Recoil
+|faint|p2a: Honchkrow
+|
+|upkeep
+|
+|t:|1776973478
+|switch|p2a: Smeargle|Smeargle, L95, M|258/258
+|switch|p1a: Vikavolt|Vikavolt, L83, M|94/263
+|-activate|p2a: Smeargle|move: Sticky Web
+|-unboost|p2a: Smeargle|spe|1
+|turn|7
+|
+|t:|1776973492
+|move|p2a: Smeargle|Shell Smash|p2a: Smeargle
+|-unboost|p2a: Smeargle|def|1
+|-unboost|p2a: Smeargle|spd|1
+|-boost|p2a: Smeargle|atk|2
+|-boost|p2a: Smeargle|spa|2
+|-boost|p2a: Smeargle|spe|2
+|move|p1a: Vikavolt|Thunderbolt|p2a: Smeargle
+|-damage|p2a: Smeargle|2/258
+|
+|upkeep
+|turn|8
+|
+|t:|1776973502
+|-terastallize|p2a: Smeargle|Normal
+|move|p2a: Smeargle|Population Bomb|p1a: Vikavolt
+|-crit|p1a: Vikavolt
+|-damage|p1a: Vikavolt|26/263
+|-damage|p1a: Vikavolt|0 fnt
+|faint|p1a: Vikavolt
+|-hitcount|p1: Vikavolt|2
+|
+|upkeep
+|
+|t:|1776973512
+|switch|p1a: Hypno|Hypno, L95, M, tera:Fighting|315/315
+|turn|9
+|
+|t:|1776973526
+|move|p2a: Smeargle|Power Trip|p1a: Hypno
+|-resisted|p1a: Hypno
+|-damage|p1a: Hypno|274/315
+|move|p1a: Hypno|Psychic Noise|p2a: Smeargle
+|-damage|p2a: Smeargle|0 fnt
+|faint|p2a: Smeargle
+|
+|-heal|p1a: Hypno|293/315|[from] item: Leftovers
+|upkeep
+|
+|t:|1776973534
+|switch|p2a: Necrozma|Necrozma-Dusk-Mane, L69|248/248
+|-activate|p2a: Necrozma|move: Sticky Web
+|-unboost|p2a: Necrozma|spe|1
+|turn|10
+|
+|t:|1776973546
+|switch|p1a: Leafeon|Leafeon, L88, M|258/258
+|move|p2a: Necrozma|Photon Geyser|p1a: Leafeon
+|-damage|p1a: Leafeon|185/258
+|
+|upkeep
+|turn|11
+|
+|t:|1776973557
+|move|p1a: Leafeon|Knock Off|p2a: Necrozma
+|-supereffective|p2a: Necrozma
+|-damage|p2a: Necrozma|94/248
+|-enditem|p2a: Necrozma|Weakness Policy
+|-boost|p2a: Necrozma|atk|2|[from] item: Weakness Policy
+|-boost|p2a: Necrozma|spa|2|[from] item: Weakness Policy
+|-damage|p1a: Leafeon|160/258|[from] item: Life Orb
+|move|p2a: Necrozma|Dragon Dance|p2a: Necrozma
+|-boost|p2a: Necrozma|atk|1
+|-boost|p2a: Necrozma|spe|1
+|
+|upkeep
+|turn|12
+|
+|t:|1776973570
+|move|p1a: Leafeon|Knock Off|p2a: Necrozma
+|-supereffective|p2a: Necrozma
+|-damage|p2a: Necrozma|2/248
+|-damage|p1a: Leafeon|135/258|[from] item: Life Orb
+|move|p2a: Necrozma|Sunsteel Strike|p1a: Leafeon
+|-damage|p1a: Leafeon|0 fnt
+|faint|p1a: Leafeon
+|
+|upkeep
+|
+|t:|1776973584
+|switch|p1a: Hawlucha|Hawlucha, L80, F|256/256
+|turn|13
+|
+|t:|1776973596
+|move|p1a: Hawlucha|Acrobatics|p2a: Necrozma
+|-resisted|p2a: Necrozma
+|-damage|p2a: Necrozma|0 fnt
+|faint|p2a: Necrozma
+|
+|upkeep
+|
+|t:|1776973598
+|switch|p2a: Azelf|Azelf, L82|257/257
+|turn|14
+|
+|t:|1776973617
+|move|p2a: Azelf|Psyshock|p1a: Hawlucha
+|-supereffective|p1a: Hawlucha
+|-damage|p1a: Hawlucha|0 fnt
+|faint|p1a: Hawlucha
+|-damage|p2a: Azelf|232/257|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776973623
+|switch|p1a: Hypno|Hypno, L95, M, tera:Fighting|293/315
+|turn|15
+|l|☆rickieragon
+|inactive|rickieragon disconnected and has a minute to reconnect!
+|player|p2|
+|inactive|rickieragon has 30 seconds to reconnect!
+|inactive|rickieragon has 20 seconds to reconnect!
+|inactive|rickieragon has 15 seconds to reconnect!
+|inactive|rickieragon has 10 seconds to reconnect!
+|inactive|rickieragon has 5 seconds to reconnect!
+|-message|rickieragon lost due to inactivity.
+|
+|win|poketrimon
+|raw|poketrimon's rating: 1348 &rarr; <strong>1369</strong><br />(+21 for winning)
+|raw|rickieragon's rating: 1364 &rarr; <strong>1343</strong><br />(-21 for losing)
+|l|☆poketrimon
+|player|p1|
+|j|☆rickieragon
+|player|p2|rickieragon|schoolkid-gen4dp|

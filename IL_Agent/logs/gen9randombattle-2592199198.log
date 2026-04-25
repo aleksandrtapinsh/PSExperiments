@@ -1,0 +1,255 @@
+|j|☆w4schbecken
+|j|☆jongamez
+|t:|1776969863
+|gametype|singles
+|player|p1|w4schbecken|allister|1484
+|player|p2|jongamez|1|1474
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776969863
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Rillaboom|Rillaboom, L79, F|288/288
+|switch|p2a: Sableye|Sableye, L88, F|231/231
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|1
+|
+|t:|1776969870
+|move|p2a: Sableye|Will-O-Wisp|p1a: Rillaboom
+|-status|p1a: Rillaboom|brn
+|move|p1a: Rillaboom|Wood Hammer|p2a: Sableye
+|-damage|p2a: Sableye|95/231
+|-damage|p1a: Rillaboom|243/288 brn|[from] Recoil
+|
+|-heal|p1a: Rillaboom|261/288 brn|[from] Grassy Terrain
+|-heal|p2a: Sableye|109/231|[from] Grassy Terrain
+|-heal|p2a: Sableye|123/231|[from] item: Leftovers
+|-damage|p1a: Rillaboom|243/288 brn|[from] brn
+|upkeep
+|turn|2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by jongamez)
+|
+|t:|1776969884
+|move|p1a: Rillaboom|Wood Hammer|p2a: Sableye
+|-damage|p2a: Sableye|0 fnt
+|faint|p2a: Sableye
+|-damage|p1a: Rillaboom|202/288 brn|[from] Recoil
+|
+|-heal|p1a: Rillaboom|220/288 brn|[from] Grassy Terrain
+|-damage|p1a: Rillaboom|202/288 brn|[from] brn
+|upkeep
+|
+|t:|1776969893
+|switch|p2a: Shiftry|Shiftry, L89, F|305/305
+|turn|3
+|
+|t:|1776969907
+|switch|p1a: Kyurem|Kyurem-Black, L71|295/295
+|-ability|p1a: Kyurem|Teravolt
+|move|p2a: Shiftry|Swords Dance|p2a: Shiftry
+|-boost|p2a: Shiftry|atk|2
+|
+|upkeep
+|turn|4
+|
+|t:|1776969922
+|move|p2a: Shiftry|Leaf Blade|p1a: Kyurem
+|-resisted|p1a: Kyurem
+|-damage|p1a: Kyurem|100/295
+|-damage|p2a: Shiftry|275/305|[from] item: Life Orb
+|move|p1a: Kyurem|Icicle Spear|p2a: Shiftry
+|-supereffective|p2a: Shiftry
+|-damage|p2a: Shiftry|203/305
+|-supereffective|p2a: Shiftry
+|-damage|p2a: Shiftry|131/305
+|-supereffective|p2a: Shiftry
+|-damage|p2a: Shiftry|51/305
+|-supereffective|p2a: Shiftry
+|-damage|p2a: Shiftry|0 fnt
+|faint|p2a: Shiftry
+|-hitcount|p2: Shiftry|4
+|
+|-heal|p1a: Kyurem|118/295|[from] Grassy Terrain
+|upkeep
+|
+|t:|1776969927
+|switch|p2a: Smeargle|Smeargle, L95, F|258/258
+|turn|5
+|inactive|w4schbecken has 120 seconds left.
+|
+|t:|1776969964
+|move|p2a: Smeargle|Spore|p1a: Kyurem
+|-status|p1a: Kyurem|slp|[from] move: Spore
+|cant|p1a: Kyurem|slp
+|
+|-heal|p1a: Kyurem|136/295 slp|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|6
+|inactive|w4schbecken has 120 seconds left.
+|
+|t:|1776969978
+|move|p2a: Smeargle|Shell Smash|p2a: Smeargle
+|-unboost|p2a: Smeargle|def|1
+|-unboost|p2a: Smeargle|spd|1
+|-boost|p2a: Smeargle|atk|2
+|-boost|p2a: Smeargle|spa|2
+|-boost|p2a: Smeargle|spe|2
+|cant|p1a: Kyurem|slp
+|
+|upkeep
+|turn|7
+|inactive|w4schbecken has 120 seconds left.
+|
+|t:|1776970005
+|switch|p1a: Clefable|Clefable, L83, F|293/293
+|move|p2a: Smeargle|Population Bomb|p1a: Clefable
+|-damage|p1a: Clefable|256/293
+|-damage|p1a: Clefable|220/293
+|-damage|p1a: Clefable|184/293
+|-damage|p1a: Clefable|147/293
+|-damage|p1a: Clefable|110/293
+|-hitcount|p1a: Clefable|5
+|
+|upkeep
+|turn|8
+|inactive|w4schbecken has 90 seconds left.
+|
+|t:|1776970031
+|move|p2a: Smeargle|Population Bomb|p1a: Clefable
+|-damage|p1a: Clefable|74/293
+|-damage|p1a: Clefable|40/293
+|-crit|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|-hitcount|p1: Clefable|3
+|
+|upkeep
+|
+|t:|1776970051
+|switch|p1a: Rillaboom|Rillaboom, L79, F|202/288 brn
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|9
+|
+|t:|1776970074
+|move|p1a: Rillaboom|Grassy Glide|p2a: Smeargle
+|-damage|p2a: Smeargle|110/258
+|move|p2a: Smeargle|Population Bomb|p1a: Rillaboom
+|-damage|p1a: Rillaboom|166/288 brn
+|-damage|p1a: Rillaboom|133/288 brn
+|-damage|p1a: Rillaboom|99/288 brn
+|-damage|p1a: Rillaboom|63/288 brn
+|-crit|p1a: Rillaboom
+|-damage|p1a: Rillaboom|14/288 brn
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p1a: Rillaboom
+|-hitcount|p1: Rillaboom|6
+|
+|-heal|p2a: Smeargle|126/258|[from] Grassy Terrain
+|upkeep
+|inactive|w4schbecken has 60 seconds left.
+|
+|t:|1776970093
+|switch|p1a: Houndoom|Houndoom, L87, F|272/272
+|turn|10
+|
+|t:|1776970099
+|move|p1a: Houndoom|Sucker Punch|p2a: Smeargle
+|-damage|p2a: Smeargle|0 fnt
+|faint|p2a: Smeargle
+|
+|upkeep
+|
+|t:|1776970106
+|switch|p2a: Phione|Phione, L91|293/293
+|turn|11
+|j| Gokuh34567
+|
+|t:|1776970125
+|-terastallize|p1a: Houndoom|Dark
+|move|p1a: Houndoom|Nasty Plot|p1a: Houndoom
+|-boost|p1a: Houndoom|spa|2
+|move|p2a: Phione|Take Heart|p2a: Phione
+|-boost|p2a: Phione|spa|1
+|-boost|p2a: Phione|spd|1
+|
+|upkeep
+|turn|12
+|
+|t:|1776970134
+|move|p1a: Houndoom|Nasty Plot|p1a: Houndoom
+|-boost|p1a: Houndoom|spa|2
+|move|p2a: Phione|Take Heart|p2a: Phione
+|-boost|p2a: Phione|spa|1
+|-boost|p2a: Phione|spd|1
+|
+|upkeep
+|turn|13
+|
+|t:|1776970143
+|move|p1a: Houndoom|Dark Pulse|p2a: Phione
+|-damage|p2a: Phione|87/293
+|move|p2a: Phione|Scald|p1a: Houndoom
+|-damage|p1a: Houndoom|86/272
+|-status|p1a: Houndoom|brn
+|
+|-heal|p1a: Houndoom|103/272 brn|[from] Grassy Terrain
+|-heal|p2a: Phione|105/293|[from] Grassy Terrain
+|-heal|p2a: Phione|123/293|[from] item: Leftovers
+|-damage|p1a: Houndoom|86/272 brn|[from] brn
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|14
+|
+|t:|1776970157
+|move|p1a: Houndoom|Dark Pulse|p2a: Phione
+|-damage|p2a: Phione|0 fnt
+|faint|p2a: Phione
+|
+|-damage|p1a: Houndoom|69/272 brn|[from] brn
+|upkeep
+|
+|t:|1776970158
+|switch|p2a: Noctowl|Noctowl, L95, F|344/344
+|turn|15
+|
+|t:|1776970169
+|move|p1a: Houndoom|Dark Pulse|p2a: Noctowl
+|-damage|p2a: Noctowl|36/344
+|cant|p2a: Noctowl|flinch
+|
+|-damage|p1a: Houndoom|52/272 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1776970176
+|move|p1a: Houndoom|Dark Pulse|p2a: Noctowl
+|-damage|p2a: Noctowl|0 fnt
+|faint|p2a: Noctowl
+|
+|-damage|p1a: Houndoom|35/272 brn|[from] brn
+|upkeep
+|
+|t:|1776970178
+|switch|p2a: Miraidon|Miraidon, L65|238/238
+|-fieldstart|move: Electric Terrain|[from] ability: Hadron Engine|[of] p2a: Miraidon
+|turn|17
+|c| Gokuh34567|Son
+|
+|t:|1776970185
+|move|p1a: Houndoom|Dark Pulse|p2a: Miraidon
+|-damage|p2a: Miraidon|0 fnt
+|faint|p2a: Miraidon
+|
+|win|w4schbecken
+|raw|w4schbecken's rating: 1484 &rarr; <strong>1503</strong><br />(+19 for winning)
+|raw|jongamez's rating: 1474 &rarr; <strong>1455</strong><br />(-19 for losing)
+|l|☆jongamez
+|player|p2|

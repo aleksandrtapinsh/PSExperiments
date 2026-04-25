@@ -1,0 +1,456 @@
+|j|☆blakula22
+|j|☆Balles555
+|t:|1776982684
+|gametype|singles
+|player|p1|blakula22|giovanni|1211
+|player|p2|Balles555|102|1232
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776982684
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Tauros|Tauros-Paldea-Combat, L82, M|257/257
+|switch|p2a: Hitmontop|Hitmontop, L88, M|231/231
+|-ability|p1a: Tauros|Intimidate|boost
+|-unboost|p2a: Hitmontop|atk|1
+|-ability|p2a: Hitmontop|Intimidate|boost
+|-unboost|p1a: Tauros|atk|1
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by blakula22)
+|inactive|blakula22 has 120 seconds left.
+|
+|t:|1776982718
+|move|p1a: Tauros|Throat Chop|p2a: Hitmontop
+|-resisted|p2a: Hitmontop
+|-damage|p2a: Hitmontop|205/231
+|-start|p2a: Hitmontop|Throat Chop|[silent]
+|move|p2a: Hitmontop|Rapid Spin|p1a: Tauros
+|-damage|p1a: Tauros|235/257
+|-boost|p2a: Hitmontop|spe|1
+|
+|upkeep
+|turn|2
+|
+|t:|1776982748
+|switch|p1a: Noctowl|Noctowl, L95, M|344/344
+|move|p2a: Hitmontop|Earthquake|p1a: Noctowl
+|-immune|p1a: Noctowl
+|
+|-end|p2a: Hitmontop|Throat Chop|[silent]
+|upkeep
+|turn|3
+|
+|t:|1776982758
+|move|p2a: Hitmontop|Stone Edge|p1a: Noctowl
+|-supereffective|p1a: Noctowl
+|-crit|p1a: Noctowl
+|-damage|p1a: Noctowl|64/344
+|move|p1a: Noctowl|Hurricane|p2a: Hitmontop
+|-supereffective|p2a: Hitmontop
+|-damage|p2a: Hitmontop|59/231
+|-start|p2a: Hitmontop|confusion
+|
+|upkeep
+|turn|4
+|
+|t:|1776982777
+|switch|p1a: Chesnaught|Chesnaught, L84, M|285/285
+|-activate|p2a: Hitmontop|confusion
+|move|p2a: Hitmontop|Stone Edge|p1a: Chesnaught
+|-resisted|p1a: Chesnaught
+|-damage|p1a: Chesnaught|264/285
+|
+|-heal|p1a: Chesnaught|281/285|[from] item: Leftovers
+|upkeep
+|turn|5
+|inactive|Balles555 has 120 seconds left.
+|
+|t:|1776982809
+|switch|p2a: Illumise|Illumise, L91, F|266/266
+|move|p1a: Chesnaught|Wood Hammer|p2a: Illumise
+|-resisted|p2a: Illumise
+|-damage|p2a: Illumise|192/266
+|-damage|p1a: Chesnaught|257/285|[from] Recoil
+|
+|-heal|p1a: Chesnaught|274/285|[from] item: Leftovers
+|upkeep
+|turn|6
+|inactive|Balles555 has 120 seconds left.
+|inactive|Balles555 has 90 seconds left.
+|
+|t:|1776982854
+|switch|p1a: Noctowl|Noctowl, L95, M|64/344
+|move|p2a: Illumise|Thunder Wave|p1a: Noctowl
+|-status|p1a: Noctowl|par
+|
+|upkeep
+|turn|7
+|inactive|Balles555 has 90 seconds left.
+|inactive|blakula22 has 120 seconds left.
+|n|☆blakula22|blakula22
+|
+|t:|1776982894
+|move|p2a: Illumise|Bug Buzz|p1a: Noctowl
+|-resisted|p1a: Noctowl
+|-damage|p1a: Noctowl|28/344 par
+|move|p1a: Noctowl|Roost|p1a: Noctowl
+|-heal|p1a: Noctowl|200/344 par
+|-singleturn|p1a: Noctowl|move: Roost
+|
+|upkeep
+|turn|8
+|inactive|blakula22 has 120 seconds left.
+|inactive|Balles555 has 90 seconds left.
+|
+|t:|1776982931
+|switch|p2a: Oricorio|Oricorio-Pom-Pom, L82, M|257/257
+|move|p1a: Noctowl|Roost|p1a: Noctowl
+|-heal|p1a: Noctowl|344/344 par
+|-singleturn|p1a: Noctowl|move: Roost
+|
+|upkeep
+|turn|9
+|inactive|blakula22 has 120 seconds left.
+|
+|t:|1776982947
+|switch|p1a: Uxie|Uxie, L83|260/260
+|move|p2a: Oricorio|Revelation Dance|p1a: Uxie
+|-damage|p1a: Uxie|193/260
+|
+|-heal|p1a: Uxie|209/260|[from] item: Leftovers
+|upkeep
+|turn|10
+|inactive|blakula22 has 120 seconds left.
+|
+|t:|1776982960
+|move|p1a: Uxie|Yawn|p2a: Oricorio
+|-start|p2a: Oricorio|move: Yawn|[of] p1a: Uxie
+|move|p2a: Oricorio|Quiver Dance|p2a: Oricorio
+|-boost|p2a: Oricorio|spa|1
+|-boost|p2a: Oricorio|spd|1
+|-boost|p2a: Oricorio|spe|1
+|
+|-heal|p1a: Uxie|225/260|[from] item: Leftovers
+|upkeep
+|turn|11
+|inactive|blakula22 has 120 seconds left.
+|inactive|Balles555 has 60 seconds left.
+|
+|t:|1776982987
+|switch|p2a: Regidrago|Regidrago, L77|435/435
+|switch|p1a: Snorlax|Snorlax, L82, M|397/397
+|
+|upkeep
+|turn|12
+|inactive|blakula22 has 120 seconds left.
+|
+|t:|1776983002
+|switch|p1a: Uxie|Uxie, L83|225/260
+|move|p2a: Regidrago|Dragon Dance|p2a: Regidrago
+|-boost|p2a: Regidrago|atk|1
+|-boost|p2a: Regidrago|spe|1
+|
+|-heal|p1a: Uxie|241/260|[from] item: Leftovers
+|upkeep
+|turn|13
+|inactive|Balles555 has 60 seconds left.
+|
+|t:|1776983036
+|move|p2a: Regidrago|Dragon Claw|p1a: Uxie
+|-damage|p1a: Uxie|73/260
+|-damage|p2a: Regidrago|392/435|[from] item: Life Orb
+|move|p1a: Uxie|Yawn|p2a: Regidrago
+|-start|p2a: Regidrago|move: Yawn|[of] p1a: Uxie
+|
+|-heal|p1a: Uxie|89/260|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1776983047
+|switch|p1a: Tauros|Tauros-Paldea-Combat, L82, M|235/257
+|-ability|p1a: Tauros|Intimidate|boost
+|-unboost|p2a: Regidrago|atk|1
+|move|p2a: Regidrago|Dragon Claw|p1a: Tauros
+|-damage|p1a: Tauros|101/257
+|-damage|p2a: Regidrago|349/435|[from] item: Life Orb
+|
+|-end|p2a: Regidrago|move: Yawn|[silent]
+|-status|p2a: Regidrago|slp
+|upkeep
+|turn|15
+|
+|t:|1776983059
+|switch|p2a: Swanna|Swanna, L89, M|278/278
+|move|p1a: Tauros|Close Combat|p2a: Swanna
+|-resisted|p2a: Swanna
+|-damage|p2a: Swanna|166/278
+|-unboost|p1a: Tauros|def|1
+|-unboost|p1a: Tauros|spd|1
+|
+|upkeep
+|turn|16
+|
+|t:|1776983073
+|move|p2a: Swanna|Brave Bird|p1a: Tauros
+|-supereffective|p1a: Tauros
+|-damage|p1a: Tauros|0 fnt
+|faint|p1a: Tauros
+|-damage|p2a: Swanna|133/278|[from] Recoil
+|
+|upkeep
+|inactive|blakula22 has 120 seconds left.
+|
+|t:|1776983088
+|switch|p1a: Snorlax|Snorlax, L82, M|397/397
+|turn|17
+|inactive|Balles555 has 60 seconds left.
+|
+|t:|1776983097
+|move|p2a: Swanna|Roost|p2a: Swanna
+|-heal|p2a: Swanna|272/278
+|-singleturn|p2a: Swanna|move: Roost
+|move|p1a: Snorlax|Curse|p1a: Snorlax
+|-unboost|p1a: Snorlax|spe|1
+|-boost|p1a: Snorlax|atk|1
+|-boost|p1a: Snorlax|def|1
+|
+|upkeep
+|turn|18
+|
+|t:|1776983108
+|switch|p2a: Hitmontop|Hitmontop, L88, M|59/231
+|-ability|p2a: Hitmontop|Intimidate|boost
+|-unboost|p1a: Snorlax|atk|1
+|move|p1a: Snorlax|Curse|p1a: Snorlax
+|-unboost|p1a: Snorlax|spe|1
+|-boost|p1a: Snorlax|atk|1
+|-boost|p1a: Snorlax|def|1
+|
+|upkeep
+|turn|19
+|
+|t:|1776983117
+|-terastallize|p1a: Snorlax|Poison
+|move|p2a: Hitmontop|Close Combat|p1a: Snorlax
+|-resisted|p1a: Snorlax
+|-damage|p1a: Snorlax|352/397
+|-unboost|p2a: Hitmontop|def|1
+|-unboost|p2a: Hitmontop|spd|1
+|move|p1a: Snorlax|Body Slam|p2a: Hitmontop
+|-damage|p2a: Hitmontop|0 fnt
+|faint|p2a: Hitmontop
+|
+|-heal|p1a: Snorlax|376/397|[from] item: Leftovers
+|upkeep
+|
+|t:|1776983130
+|switch|p2a: Swanna|Swanna, L89, M|272/278
+|turn|20
+|
+|t:|1776983137
+|move|p2a: Swanna|Brave Bird|p1a: Snorlax
+|-damage|p1a: Snorlax|288/397
+|-damage|p2a: Swanna|243/278|[from] Recoil
+|move|p1a: Snorlax|Curse|p1a: Snorlax
+|-unboost|p1a: Snorlax|spe|1
+|-boost|p1a: Snorlax|atk|1
+|-boost|p1a: Snorlax|def|1
+|
+|-heal|p1a: Snorlax|312/397|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1776983146
+|move|p2a: Swanna|Brave Bird|p1a: Snorlax
+|-damage|p1a: Snorlax|249/397
+|-damage|p2a: Swanna|222/278|[from] Recoil
+|move|p1a: Snorlax|Curse|p1a: Snorlax
+|-unboost|p1a: Snorlax|spe|1
+|-boost|p1a: Snorlax|atk|1
+|-boost|p1a: Snorlax|def|1
+|
+|-heal|p1a: Snorlax|273/397|[from] item: Leftovers
+|upkeep
+|turn|22
+|c|☆blakula22|:D
+|inactive|Balles555 has 60 seconds left.
+|
+|t:|1776983196
+|move|p2a: Swanna|Brave Bird|p1a: Snorlax
+|-damage|p1a: Snorlax|215/397
+|-damage|p2a: Swanna|203/278|[from] Recoil
+|move|p1a: Snorlax|Curse|p1a: Snorlax
+|-unboost|p1a: Snorlax|spe|1
+|-boost|p1a: Snorlax|atk|1
+|-boost|p1a: Snorlax|def|1
+|
+|-heal|p1a: Snorlax|239/397|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1776983210
+|move|p2a: Swanna|Brave Bird|p1a: Snorlax
+|-damage|p1a: Snorlax|188/397
+|-damage|p2a: Swanna|186/278|[from] Recoil
+|move|p1a: Snorlax|Curse|p1a: Snorlax
+|-unboost|p1a: Snorlax|spe|1
+|-boost|p1a: Snorlax|atk|1
+|-boost|p1a: Snorlax|def|1
+|
+|-heal|p1a: Snorlax|212/397|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1776983224
+|switch|p2a: Illumise|Illumise, L91, F|192/266
+|move|p1a: Snorlax|Rest|p1a: Snorlax
+|-status|p1a: Snorlax|slp|[from] move: Rest
+|-heal|p1a: Snorlax|397/397 slp|[silent]
+|
+|upkeep
+|turn|25
+|
+|t:|1776983232
+|move|p2a: Illumise|Encore|p1a: Snorlax
+|-start|p1a: Snorlax|Encore
+|cant|p1a: Snorlax|slp
+|
+|upkeep
+|turn|26
+|inactive|Balles555 has 60 seconds left.
+|c|☆blakula22|D:
+|
+|t:|1776983243
+|switch|p2a: Meganium|Meganium, L90, F|290/290
+|cant|p1a: Snorlax|slp
+|
+|upkeep
+|turn|27
+|inactive|Balles555 has 60 seconds left.
+|
+|t:|1776983250
+|move|p2a: Meganium|Leech Seed|p1a: Snorlax
+|-start|p1a: Snorlax|move: Leech Seed
+|-curestatus|p1a: Snorlax|slp|[msg]
+|move|p1a: Snorlax|Rest|p1a: Snorlax
+|-fail|p1a: Snorlax|heal
+|
+|-damage|p1a: Snorlax|348/397|[from] Leech Seed|[of] p2a: Meganium
+|-end|p1a: Snorlax|Encore
+|upkeep
+|turn|28
+|
+|t:|1776983254
+|move|p2a: Meganium|Knock Off|p1a: Snorlax
+|-damage|p1a: Snorlax|327/397
+|-enditem|p1a: Snorlax|Leftovers|[from] move: Knock Off|[of] p2a: Meganium
+|move|p1a: Snorlax|Body Slam|p2a: Meganium
+|-damage|p2a: Meganium|29/290
+|
+|-heal|p2a: Meganium|47/290|[from] item: Leftovers
+|-damage|p1a: Snorlax|278/397|[from] Leech Seed|[of] p2a: Meganium
+|-heal|p2a: Meganium|96/290|[silent]
+|upkeep
+|turn|29
+|
+|t:|1776983268
+|move|p2a: Meganium|Synthesis|p2a: Meganium
+|-heal|p2a: Meganium|241/290
+|move|p1a: Snorlax|Body Slam|p2a: Meganium
+|-damage|p2a: Meganium|0 fnt
+|faint|p2a: Meganium
+|
+|upkeep
+|
+|t:|1776983277
+|switch|p2a: Oricorio|Oricorio-Pom-Pom, L82, M|257/257
+|turn|30
+|
+|t:|1776983290
+|move|p2a: Oricorio|Hurricane|p1a: Snorlax
+|-damage|p1a: Snorlax|188/397
+|move|p1a: Snorlax|Body Slam|p2a: Oricorio
+|-damage|p2a: Oricorio|0 fnt
+|faint|p2a: Oricorio
+|
+|upkeep
+|
+|t:|1776983299
+|switch|p2a: Swanna|Swanna, L89, M|186/278
+|turn|31
+|
+|t:|1776983303
+|move|p2a: Swanna|Hydro Pump|p1a: Snorlax
+|-damage|p1a: Snorlax|85/397
+|move|p1a: Snorlax|Body Slam|p2a: Swanna
+|-damage|p2a: Swanna|0 fnt
+|faint|p2a: Swanna
+|
+|upkeep
+|
+|t:|1776983308
+|switch|p2a: Illumise|Illumise, L91, F|192/266
+|turn|32
+|inactive|Balles555 has 90 seconds left.
+|
+|t:|1776983316
+|move|p2a: Illumise|Bug Buzz|p1a: Snorlax
+|-resisted|p1a: Snorlax
+|-damage|p1a: Snorlax|49/397
+|move|p1a: Snorlax|Rest|p1a: Snorlax
+|-status|p1a: Snorlax|slp|[from] move: Rest
+|-heal|p1a: Snorlax|397/397 slp|[silent]
+|
+|-damage|p1a: Snorlax|348/397 slp|[from] Leech Seed|[of] p2a: Illumise
+|-heal|p2a: Illumise|241/266|[silent]
+|upkeep
+|turn|33
+|
+|t:|1776983326
+|switch|p2a: Regidrago|Regidrago, L77|349/435 slp
+|cant|p1a: Snorlax|slp
+|
+|-damage|p1a: Snorlax|299/397 slp|[from] Leech Seed|[of] p2a: Regidrago
+|-heal|p2a: Regidrago|398/435 slp|[silent]
+|upkeep
+|turn|34
+|
+|t:|1776983330
+|cant|p2a: Regidrago|slp
+|cant|p1a: Snorlax|slp
+|
+|-damage|p1a: Snorlax|250/397 slp|[from] Leech Seed|[of] p2a: Regidrago
+|-heal|p2a: Regidrago|435/435 slp|[silent]
+|upkeep
+|turn|35
+|
+|t:|1776983333
+|cant|p2a: Regidrago|slp
+|-curestatus|p1a: Snorlax|slp|[msg]
+|move|p1a: Snorlax|Body Slam|p2a: Regidrago
+|-damage|p2a: Regidrago|0 fnt
+|faint|p2a: Regidrago
+|
+|upkeep
+|
+|t:|1776983335
+|switch|p2a: Illumise|Illumise, L91, F|241/266
+|turn|36
+|
+|t:|1776983339
+|move|p2a: Illumise|Thunder Wave|p1a: Snorlax
+|-status|p1a: Snorlax|par
+|move|p1a: Snorlax|Body Slam|p2a: Illumise
+|-damage|p2a: Illumise|0 fnt
+|faint|p2a: Illumise
+|
+|win|blakula22
+|raw|blakula22's rating: 1211 &rarr; <strong>1238</strong><br />(+27 for winning)
+|raw|Balles555's rating: 1232 &rarr; <strong>1205</strong><br />(-27 for losing)

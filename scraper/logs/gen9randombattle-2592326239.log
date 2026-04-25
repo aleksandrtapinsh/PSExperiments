@@ -1,0 +1,269 @@
+|j|☆Clack Volley
+|j|☆tyranimonstro07
+|t:|1776979079
+|gametype|singles
+|player|p1|Clack Volley|gambler|1494
+|player|p2|tyranimonstro07|ltsurge|1436
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776979079
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Flygon|Flygon, L82, M|265/265
+|switch|p2a: Oricorio|Oricorio-Pom-Pom, L82, M|257/257
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by tyranimonstro07)
+|
+|t:|1776979114
+|switch|p2a: Uxie|Uxie, L83|260/260
+|move|p1a: Flygon|Dragon Dance|p1a: Flygon
+|-boost|p1a: Flygon|atk|1
+|-boost|p1a: Flygon|spe|1
+|
+|upkeep
+|turn|2
+|
+|t:|1776979142
+|move|p1a: Flygon|Stone Edge|p2a: Uxie
+|-damage|p2a: Uxie|189/260
+|move|p2a: Uxie|Encore|p1a: Flygon
+|-start|p1a: Flygon|Encore
+|
+|-heal|p2a: Uxie|205/260|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776979147
+|move|p1a: Flygon|Stone Edge|p2a: Uxie|[miss]
+|-miss|p1a: Flygon|p2a: Uxie
+|move|p2a: Uxie|Stealth Rock|p1a: Flygon
+|-sidestart|p1: Clack Volley|move: Stealth Rock
+|
+|-heal|p2a: Uxie|221/260|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776979151
+|move|p1a: Flygon|Stone Edge|p2a: Uxie
+|-damage|p2a: Uxie|142/260
+|move|p2a: Uxie|Psychic Noise|p1a: Flygon
+|-crit|p1a: Flygon
+|-damage|p1a: Flygon|150/265
+|-start|p1a: Flygon|move: Heal Block
+|
+|-heal|p2a: Uxie|158/260|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776979164
+|move|p1a: Flygon|Stone Edge|p2a: Uxie
+|-damage|p2a: Uxie|75/260
+|move|p2a: Uxie|Psychic Noise|p1a: Flygon
+|-damage|p1a: Flygon|78/265
+|
+|-heal|p2a: Uxie|91/260|[from] item: Leftovers
+|-end|p1a: Flygon|Encore
+|-end|p1a: Flygon|move: Heal Block
+|upkeep
+|turn|6
+|
+|t:|1776979171
+|move|p1a: Flygon|Outrage|p2a: Uxie
+|-damage|p2a: Uxie|0 fnt
+|faint|p2a: Uxie
+|
+|upkeep
+|
+|t:|1776979178
+|switch|p2a: Spectrier|Spectrier, L75|274/274
+|turn|7
+|
+|t:|1776979181
+|-terastallize|p2a: Spectrier|Fairy
+|move|p1a: Flygon|Outrage|p2a: Spectrier|[from] lockedmove
+|-immune|p2a: Spectrier
+|-start|p1a: Flygon|confusion|[fatigue]
+|-enditem|p1a: Flygon|Lum Berry|[eat]
+|-end|p1a: Flygon|confusion
+|move|p2a: Spectrier|Nasty Plot|p2a: Spectrier
+|-boost|p2a: Spectrier|spa|2
+|
+|upkeep
+|turn|8
+|
+|t:|1776979193
+|-terastallize|p1a: Flygon|Steel
+|move|p1a: Flygon|Earthquake|p2a: Spectrier
+|-damage|p2a: Spectrier|45/274
+|move|p2a: Spectrier|Draining Kiss|p1a: Flygon
+|-resisted|p1a: Flygon
+|-damage|p1a: Flygon|0 fnt
+|-heal|p2a: Spectrier|104/274|[from] drain|[of] p1a: Flygon
+|faint|p1a: Flygon
+|-ability|p2a: Spectrier|Grim Neigh|boost
+|-boost|p2a: Spectrier|spa|1
+|-damage|p2a: Spectrier|77/274|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776979199
+|switch|p1a: Hariyama|Hariyama, L87, M|392/392
+|-damage|p1a: Hariyama|368/392|[from] Stealth Rock
+|turn|9
+|
+|t:|1776979207
+|move|p2a: Spectrier|Draining Kiss|p1a: Hariyama
+|-supereffective|p1a: Hariyama
+|-damage|p1a: Hariyama|7/392
+|-heal|p2a: Spectrier|274/274|[from] drain|[of] p1a: Hariyama
+|-damage|p2a: Spectrier|247/274|[from] item: Life Orb
+|move|p1a: Hariyama|Heavy Slam|p2a: Spectrier
+|-supereffective|p2a: Spectrier
+|-damage|p2a: Spectrier|0 fnt
+|faint|p2a: Spectrier
+|
+|upkeep
+|
+|t:|1776979217
+|switch|p2a: Grafaiai|Grafaiai, L86, F|249/249
+|turn|10
+|
+|t:|1776979221
+|move|p2a: Grafaiai|U-turn|p1a: Hariyama
+|-resisted|p1a: Hariyama
+|-damage|p1a: Hariyama|0 fnt
+|faint|p1a: Hariyama
+|
+|t:|1776979244
+|switch|p2a: Oricorio|Oricorio-Pom-Pom, L82, M|257/257|[from] U-turn
+|
+|upkeep
+|
+|t:|1776979260
+|switch|p1a: Jolteon|Jolteon, L84, M|246/246
+|-damage|p1a: Jolteon|216/246|[from] Stealth Rock
+|turn|11
+|
+|t:|1776979271
+|switch|p2a: Grafaiai|Grafaiai, L86, F|249/249
+|move|p1a: Jolteon|Calm Mind|p1a: Jolteon
+|-boost|p1a: Jolteon|spa|1
+|-boost|p1a: Jolteon|spd|1
+|
+|upkeep
+|turn|12
+|
+|t:|1776979296
+|move|p1a: Jolteon|Thunderbolt|p2a: Grafaiai
+|-damage|p2a: Grafaiai|107/249
+|-damage|p1a: Jolteon|192/246|[from] item: Life Orb
+|move|p2a: Grafaiai|Super Fang|p1a: Jolteon|[miss]
+|-miss|p2a: Grafaiai|p1a: Jolteon
+|
+|upkeep
+|turn|13
+|
+|t:|1776979308
+|move|p1a: Jolteon|Thunderbolt|p2a: Grafaiai
+|-damage|p2a: Grafaiai|0 fnt
+|faint|p2a: Grafaiai
+|-damage|p1a: Jolteon|168/246|[from] item: Life Orb
+|
+|upkeep
+|inactive|tyranimonstro07 has 120 seconds left.
+|
+|t:|1776979325
+|switch|p2a: Iron Moth|Iron Moth, L78|253/253
+|turn|14
+|
+|t:|1776979343
+|move|p1a: Jolteon|Thunderbolt|p2a: Iron Moth
+|-damage|p2a: Iron Moth|78/253
+|-status|p2a: Iron Moth|par
+|-damage|p1a: Jolteon|144/246|[from] item: Life Orb
+|move|p2a: Iron Moth|Sludge Wave|p1a: Jolteon
+|-damage|p1a: Jolteon|72/246
+|
+|upkeep
+|turn|15
+|
+|t:|1776979351
+|move|p1a: Jolteon|Calm Mind|p1a: Jolteon
+|-boost|p1a: Jolteon|spa|1
+|-boost|p1a: Jolteon|spd|1
+|move|p2a: Iron Moth|Sludge Wave|p1a: Jolteon
+|-damage|p1a: Jolteon|12/246
+|
+|upkeep
+|turn|16
+|
+|t:|1776979354
+|move|p1a: Jolteon|Thunderbolt|p2a: Iron Moth
+|-damage|p2a: Iron Moth|0 fnt
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|-damage|p1a: Jolteon|0 fnt|[from] item: Life Orb
+|faint|p1a: Jolteon
+|
+|upkeep
+|
+|t:|1776979358
+|switch|p1a: Toxtricity|Toxtricity, L82, F|257/257
+|switch|p2a: Oricorio|Oricorio-Pom-Pom, L82, M|257/257
+|-damage|p1a: Toxtricity|225/257|[from] Stealth Rock
+|turn|17
+|
+|t:|1776979365
+|move|p2a: Oricorio|Quiver Dance|p2a: Oricorio
+|-boost|p2a: Oricorio|spa|1
+|-boost|p2a: Oricorio|spd|1
+|-boost|p2a: Oricorio|spe|1
+|move|p1a: Toxtricity|Shift Gear|p1a: Toxtricity
+|-boost|p1a: Toxtricity|spe|2
+|-boost|p1a: Toxtricity|atk|1
+|
+|upkeep
+|turn|18
+|
+|t:|1776979369
+|move|p1a: Toxtricity|Gunk Shot|p2a: Oricorio
+|-damage|p2a: Oricorio|37/257
+|-status|p2a: Oricorio|psn
+|move|p2a: Oricorio|Quiver Dance|p2a: Oricorio
+|-boost|p2a: Oricorio|spa|1
+|-boost|p2a: Oricorio|spd|1
+|-boost|p2a: Oricorio|spe|1
+|
+|-damage|p2a: Oricorio|5/257 psn|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1776979374
+|move|p2a: Oricorio|Hurricane|p1a: Toxtricity
+|-resisted|p1a: Toxtricity
+|-damage|p1a: Toxtricity|99/257
+|move|p1a: Toxtricity|Shift Gear|p1a: Toxtricity
+|-boost|p1a: Toxtricity|spe|2
+|-boost|p1a: Toxtricity|atk|1
+|
+|-damage|p2a: Oricorio|0 fnt|[from] psn
+|faint|p2a: Oricorio
+|upkeep
+|
+|t:|1776979378
+|switch|p2a: Tornadus|Tornadus-Therian, L79, M|254/254
+|turn|20
+|-message|tyranimonstro07 forfeited.
+|
+|win|Clack Volley
+|raw|Clack Volley's rating: 1494 &rarr; <strong>1511</strong><br />(+17 for winning)
+|raw|tyranimonstro07's rating: 1436 &rarr; <strong>1419</strong><br />(-17 for losing)
+|l|☆tyranimonstro07
+|player|p2|

@@ -1,0 +1,71 @@
+|j|☆captainnetz
+|j|☆james otter
+|t:|1776979468
+|gametype|singles
+|player|p1|captainnetz|whitney|1439
+|player|p2|james otter|acetrainer-gen4dp|1459
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776979468
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Moltres|Moltres-Galar, L79|271/271
+|switch|p2a: Torterra|Torterra, L78, M|276/276
+|turn|1
+|
+|t:|1776979487
+|move|p1a: Moltres|Nasty Plot|p1a: Moltres
+|-boost|p1a: Moltres|spa|2
+|move|p2a: Torterra|Shell Smash|p2a: Torterra
+|-unboost|p2a: Torterra|def|1
+|-unboost|p2a: Torterra|spd|1
+|-boost|p2a: Torterra|atk|2
+|-boost|p2a: Torterra|spa|2
+|-boost|p2a: Torterra|spe|2
+|
+|upkeep
+|turn|2
+|
+|t:|1776979501
+|move|p2a: Torterra|Rock Blast|p1a: Moltres|[miss]
+|-miss|p2a: Torterra|p1a: Moltres
+|move|p1a: Moltres|Hurricane|p2a: Torterra
+|-supereffective|p2a: Torterra
+|-damage|p2a: Torterra|0 fnt
+|faint|p2a: Torterra
+|
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by captainnetz)
+|
+|t:|1776979513
+|switch|p2a: Jolteon|Jolteon, L84, F|246/246
+|turn|3
+|
+|t:|1776979519
+|move|p2a: Jolteon|Thunderbolt|p1a: Moltres
+|-supereffective|p1a: Moltres
+|-damage|p1a: Moltres|95/271
+|-enditem|p1a: Moltres|Weakness Policy
+|-boost|p1a: Moltres|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Moltres|spa|2|[from] item: Weakness Policy
+|-ability|p1a: Moltres|Berserk|boost
+|-boost|p1a: Moltres|spa|1
+|move|p1a: Moltres|Agility|p1a: Moltres
+|-boost|p1a: Moltres|spe|2
+|
+|upkeep
+|turn|4
+|-message|james otter forfeited.
+|
+|win|captainnetz
+|raw|captainnetz's rating: 1439 &rarr; <strong>1460</strong><br />(+21 for winning)
+|raw|james otter's rating: 1459 &rarr; <strong>1438</strong><br />(-21 for losing)
+|l|☆james otter
+|player|p2|

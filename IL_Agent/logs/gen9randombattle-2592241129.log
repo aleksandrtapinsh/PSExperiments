@@ -1,0 +1,293 @@
+|j|☆jingjup
+|j|☆Irururururur
+|t:|1776972733
+|gametype|singles
+|player|p1|jingjup|266|1000
+|player|p2|Irururururur|101|1000
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776972733
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Bombirdier|Bombirdier, L85, M|258/258
+|switch|p2a: Galvantula|Galvantula, L82, M|249/249
+|turn|1
+|
+|t:|1776972748
+|switch|p1a: Golurk|Golurk, L87|297/297
+|move|p2a: Galvantula|Sticky Web|p1a: Golurk
+|-sidestart|p1: jingjup|move: Sticky Web
+|
+|upkeep
+|turn|2
+|
+|t:|1776972755
+|move|p2a: Galvantula|Energy Ball|p1a: Golurk
+|-supereffective|p1a: Golurk
+|-damage|p1a: Golurk|165/297
+|move|p1a: Golurk|Stone Edge|p2a: Galvantula
+|-supereffective|p2a: Galvantula
+|-enditem|p2a: Galvantula|Focus Sash
+|-damage|p2a: Galvantula|1/249
+|
+|upkeep
+|turn|3
+|
+|t:|1776972760
+|switch|p2a: Cyclizar|Cyclizar, L83, F|252/252
+|move|p1a: Golurk|Stone Edge|p2a: Cyclizar
+|-crit|p2a: Cyclizar
+|-damage|p2a: Cyclizar|0 fnt
+|faint|p2a: Cyclizar
+|
+|upkeep
+|
+|t:|1776972766
+|switch|p2a: Suicune|Suicune, L82|298/298
+|-ability|p2a: Suicune|Pressure
+|turn|4
+|
+|t:|1776972777
+|switch|p1a: Bombirdier|Bombirdier, L85, M|258/258
+|move|p2a: Suicune|Scald|p1a: Bombirdier
+|-damage|p1a: Bombirdier|174/258
+|-status|p1a: Bombirdier|brn
+|
+|-damage|p1a: Bombirdier|158/258 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1776972784
+|move|p1a: Bombirdier|Knock Off|p2a: Suicune
+|-damage|p2a: Suicune|255/298
+|-enditem|p2a: Suicune|Leftovers|[from] move: Knock Off|[of] p1a: Bombirdier
+|move|p2a: Suicune|Calm Mind|p2a: Suicune
+|-boost|p2a: Suicune|spa|1
+|-boost|p2a: Suicune|spd|1
+|
+|-damage|p1a: Bombirdier|142/258 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1776972792
+|move|p1a: Bombirdier|Brave Bird|p2a: Suicune
+|-damage|p2a: Suicune|195/298
+|-damage|p1a: Bombirdier|122/258 brn|[from] Recoil
+|move|p2a: Suicune|Substitute|p2a: Suicune
+|-start|p2a: Suicune|Substitute
+|-damage|p2a: Suicune|121/298
+|
+|-damage|p1a: Bombirdier|106/258 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1776972798
+|move|p1a: Bombirdier|Brave Bird|p2a: Suicune
+|-activate|p2a: Suicune|move: Substitute|[damage]
+|-damage|p1a: Bombirdier|88/258 brn|[from] Recoil|[of] p2a: Suicune
+|move|p2a: Suicune|Scald|p1a: Bombirdier
+|-damage|p1a: Bombirdier|0 fnt
+|faint|p1a: Bombirdier
+|
+|upkeep
+|
+|t:|1776972816
+|switch|p1a: Iron Moth|Iron Moth, L78|253/253
+|turn|8
+|
+|t:|1776972822
+|move|p1a: Iron Moth|Fiery Dance|p2a: Suicune
+|-resisted|p2a: Suicune
+|-end|p2a: Suicune|Substitute
+|move|p2a: Suicune|Scald|p1a: Iron Moth
+|-supereffective|p1a: Iron Moth
+|-damage|p1a: Iron Moth|59/253
+|
+|upkeep
+|turn|9
+|
+|t:|1776972828
+|move|p1a: Iron Moth|Energy Ball|p2a: Suicune
+|-supereffective|p2a: Suicune
+|-damage|p2a: Suicune|37/298
+|move|p2a: Suicune|Scald|p1a: Iron Moth
+|-supereffective|p1a: Iron Moth
+|-damage|p1a: Iron Moth|0 fnt
+|faint|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1776972832
+|switch|p1a: Ampharos|Ampharos, L88, M|302/302
+|-activate|p1a: Ampharos|move: Sticky Web
+|-unboost|p1a: Ampharos|spe|1
+|turn|10
+|
+|t:|1776972837
+|move|p2a: Suicune|Ice Beam|p1a: Ampharos
+|-damage|p1a: Ampharos|218/302
+|move|p1a: Ampharos|Thunderbolt|p2a: Suicune
+|-supereffective|p2a: Suicune
+|-damage|p2a: Suicune|0 fnt
+|faint|p2a: Suicune
+|-damage|p1a: Ampharos|188/302|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776972841
+|switch|p2a: Hippowdon|Hippowdon, L82, F|311/311
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|turn|11
+|
+|t:|1776972858
+|move|p2a: Hippowdon|Earthquake|p1a: Ampharos
+|-supereffective|p1a: Ampharos
+|-damage|p1a: Ampharos|0 fnt
+|faint|p1a: Ampharos
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1776972861
+|switch|p1a: Leavanny|Leavanny, L86, M|269/269
+|-activate|p1a: Leavanny|move: Sticky Web
+|-unboost|p1a: Leavanny|spe|1
+|turn|12
+|
+|t:|1776972865
+|move|p1a: Leavanny|Bullet Seed|p2a: Hippowdon
+|-supereffective|p2a: Hippowdon
+|-damage|p2a: Hippowdon|261/311
+|-supereffective|p2a: Hippowdon
+|-damage|p2a: Hippowdon|213/311
+|-supereffective|p2a: Hippowdon
+|-damage|p2a: Hippowdon|169/311
+|-supereffective|p2a: Hippowdon
+|-damage|p2a: Hippowdon|121/311
+|-supereffective|p2a: Hippowdon
+|-damage|p2a: Hippowdon|67/311
+|-hitcount|p2a: Hippowdon|5
+|move|p2a: Hippowdon|Stone Edge|p1a: Leavanny|[miss]
+|-miss|p2a: Hippowdon|p1a: Leavanny
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Leavanny|253/269|[from] Sandstorm
+|-heal|p2a: Hippowdon|86/311|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776972868
+|move|p1a: Leavanny|Bullet Seed|p2a: Hippowdon
+|-supereffective|p2a: Hippowdon
+|-damage|p2a: Hippowdon|42/311
+|-supereffective|p2a: Hippowdon
+|-damage|p2a: Hippowdon|0 fnt
+|faint|p2a: Hippowdon
+|-hitcount|p2: Hippowdon|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Leavanny|237/269|[from] Sandstorm
+|upkeep
+|
+|t:|1776972871
+|switch|p2a: Galvantula|Galvantula, L82, M|1/249
+|turn|14
+|
+|t:|1776972875
+|move|p2a: Galvantula|Bug Buzz|p1a: Leavanny
+|-supereffective|p1a: Leavanny
+|-damage|p1a: Leavanny|55/269
+|move|p1a: Leavanny|Triple Axel|p2a: Galvantula
+|-crit|p2a: Galvantula
+|-damage|p2a: Galvantula|0 fnt
+|faint|p2a: Galvantula
+|-hitcount|p2: Galvantula|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Leavanny|39/269|[from] Sandstorm
+|upkeep
+|
+|t:|1776972879
+|switch|p2a: Skeledirge|Skeledirge, L79, M|294/294
+|turn|15
+|
+|t:|1776972883
+|move|p2a: Skeledirge|Torch Song|p1a: Leavanny
+|-supereffective|p1a: Leavanny
+|-damage|p1a: Leavanny|0 fnt
+|-boost|p2a: Skeledirge|spa|1
+|faint|p1a: Leavanny
+|
+|-weather|none
+|upkeep
+|
+|t:|1776972888
+|switch|p1a: Manaphy|Manaphy, L78|284/284
+|-activate|p1a: Manaphy|move: Sticky Web
+|-unboost|p1a: Manaphy|spe|1
+|turn|16
+|
+|t:|1776972894
+|switch|p2a: Komala|Komala, L88, M|258/258
+|-ability|p2a: Komala|Comatose
+|move|p1a: Manaphy|Tail Glow|p1a: Manaphy
+|-boost|p1a: Manaphy|spa|3
+|
+|upkeep
+|turn|17
+|
+|t:|1776972900
+|move|p2a: Komala|Body Slam|p1a: Manaphy
+|-damage|p1a: Manaphy|170/284
+|-status|p1a: Manaphy|par
+|cant|p1a: Manaphy|par
+|
+|-heal|p1a: Manaphy|187/284 par|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1776972904
+|-terastallize|p1a: Manaphy|Water
+|move|p2a: Komala|Knock Off|p1a: Manaphy
+|-damage|p1a: Manaphy|96/284 par
+|-enditem|p1a: Manaphy|Leftovers|[from] move: Knock Off|[of] p2a: Komala
+|move|p1a: Manaphy|Surf|p2a: Komala
+|-damage|p2a: Komala|96/258
+|
+|upkeep
+|turn|19
+|
+|t:|1776972909
+|move|p2a: Komala|Body Slam|p1a: Manaphy
+|-crit|p1a: Manaphy
+|-damage|p1a: Manaphy|0 fnt
+|faint|p1a: Manaphy
+|
+|upkeep
+|
+|t:|1776972911
+|switch|p1a: Golurk|Golurk, L87|165/297
+|-activate|p1a: Golurk|move: Sticky Web
+|-unboost|p1a: Golurk|spe|1
+|turn|20
+|
+|t:|1776972917
+|move|p2a: Komala|Knock Off|p1a: Golurk
+|-supereffective|p1a: Golurk
+|-damage|p1a: Golurk|0 fnt
+|-enditem|p1a: Golurk|Choice Band|[from] move: Knock Off|[of] p2a: Komala
+|faint|p1a: Golurk
+|
+|win|Irururururur
+|raw|jingjup's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|raw|Irururururur's rating: 1000 &rarr; <strong>1040</strong><br />(+40 for winning)
+|l|☆Irururururur
+|player|p2|

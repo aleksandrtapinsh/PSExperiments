@@ -1,0 +1,269 @@
+|j|☆Jicaletta
+|j|☆IDO NOT LOSE man
+|t:|1776978114
+|gametype|singles
+|player|p1|Jicaletta|flannery|1202
+|player|p2|IDO NOT LOSE man|101|1168
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776978114
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Decidueye|Decidueye, L88, M|281/281
+|switch|p2a: Alcremie|Alcremie-Lemon-Cream, L90, F|263/263
+|turn|1
+|
+|t:|1776978138
+|switch|p2a: Bronzong|Bronzong, L88|261/261
+|move|p1a: Decidueye|Knock Off|p2a: Bronzong
+|-supereffective|p2a: Bronzong
+|-damage|p2a: Bronzong|100/261
+|-enditem|p2a: Bronzong|Leftovers|[from] move: Knock Off|[of] p1a: Decidueye
+|-damage|p1a: Decidueye|253/281|[from] item: Life Orb
+|
+|upkeep
+|turn|2
+|
+|t:|1776978151
+|move|p1a: Decidueye|Knock Off|p2a: Bronzong
+|-supereffective|p2a: Bronzong
+|-damage|p2a: Bronzong|0 fnt
+|faint|p2a: Bronzong
+|-damage|p1a: Decidueye|225/281|[from] item: Life Orb
+|
+|upkeep
+|c|☆IDO NOT LOSE man|gg
+|c|☆Jicaletta|Bruh
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Jicaletta)
+|
+|t:|1776978195
+|switch|p2a: Lanturn|Lanturn, L89, F|367/367
+|turn|3
+|c|☆IDO NOT LOSE man|jokes jokes
+|
+|t:|1776978204
+|-terastallize|p2a: Lanturn|Flying
+|move|p1a: Decidueye|Leaf Storm|p2a: Lanturn
+|-resisted|p2a: Lanturn
+|-damage|p2a: Lanturn|263/367
+|-unboost|p1a: Decidueye|spa|2
+|-damage|p1a: Decidueye|197/281|[from] item: Life Orb
+|move|p2a: Lanturn|Ice Beam|p1a: Decidueye
+|-supereffective|p1a: Decidueye
+|-damage|p1a: Decidueye|101/281
+|
+|-heal|p2a: Lanturn|285/367|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776978227
+|move|p1a: Decidueye|Roost|p1a: Decidueye
+|-heal|p1a: Decidueye|242/281
+|-singleturn|p1a: Decidueye|move: Roost
+|move|p2a: Lanturn|Thunder Wave|p1a: Decidueye
+|-status|p1a: Decidueye|par
+|
+|-heal|p2a: Lanturn|307/367|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776978237
+|move|p2a: Lanturn|Ice Beam|p1a: Decidueye
+|-supereffective|p1a: Decidueye
+|-damage|p1a: Decidueye|140/281 par
+|move|p1a: Decidueye|Knock Off|p2a: Lanturn
+|-damage|p2a: Lanturn|167/367
+|-enditem|p2a: Lanturn|Leftovers|[from] move: Knock Off|[of] p1a: Decidueye
+|-damage|p1a: Decidueye|112/281 par|[from] item: Life Orb
+|
+|upkeep
+|turn|6
+|
+|t:|1776978250
+|move|p2a: Lanturn|Ice Beam|p1a: Decidueye
+|-supereffective|p1a: Decidueye
+|-damage|p1a: Decidueye|6/281 par
+|move|p1a: Decidueye|Spirit Shackle|p2a: Lanturn
+|-damage|p2a: Lanturn|10/367
+|-activate|p2a: Lanturn|trapped
+|-damage|p1a: Decidueye|0 fnt|[from] item: Life Orb
+|faint|p1a: Decidueye
+|
+|upkeep
+|
+|t:|1776978263
+|switch|p1a: Shiftry|Shiftry, L89, F|305/305
+|turn|7
+|
+|t:|1776978277
+|move|p1a: Shiftry|Knock Off|p2a: Lanturn
+|-damage|p2a: Lanturn|0 fnt
+|faint|p2a: Lanturn
+|-damage|p1a: Shiftry|275/305|[from] item: Life Orb
+|
+|upkeep
+|c|☆IDO NOT LOSE man|knock off team of doom
+|
+|t:|1776978295
+|switch|p2a: Tauros|Tauros, L82, M|257/257
+|turn|8
+|
+|t:|1776978307
+|move|p2a: Tauros|Close Combat|p1a: Shiftry
+|-supereffective|p1a: Shiftry
+|-damage|p1a: Shiftry|31/305
+|-unboost|p2a: Tauros|def|1
+|-unboost|p2a: Tauros|spd|1
+|-damage|p2a: Tauros|232/257|[from] item: Life Orb
+|move|p1a: Shiftry|Low Kick|p2a: Tauros
+|-supereffective|p2a: Tauros
+|-damage|p2a: Tauros|0 fnt
+|faint|p2a: Tauros
+|-damage|p1a: Shiftry|1/305|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776978320
+|switch|p2a: Greninja|Greninja, L80, M|246/246
+|turn|9
+|
+|t:|1776978330
+|move|p2a: Greninja|U-turn|p1a: Shiftry
+|-start|p2a: Greninja|typechange|Bug|[from] ability: Protean
+|-supereffective|p1a: Shiftry
+|-damage|p1a: Shiftry|0 fnt
+|faint|p1a: Shiftry
+|-damage|p2a: Greninja|222/246|[from] item: Life Orb
+|
+|t:|1776978337
+|switch|p2a: Slaking|Slaking, L84, F|389/389|[from] U-turn
+|
+|upkeep
+|
+|t:|1776978359
+|switch|p1a: Okidogi|Okidogi, L77, M|262/262
+|turn|10
+|
+|t:|1776978366
+|move|p2a: Slaking|Earthquake|p1a: Okidogi
+|-supereffective|p1a: Okidogi
+|-crit|p1a: Okidogi
+|-damage|p1a: Okidogi|0 fnt
+|faint|p1a: Okidogi
+|
+|upkeep
+|
+|t:|1776978378
+|switch|p1a: Cresselia|Cresselia, L80, F|323/323
+|turn|11
+|
+|t:|1776978391
+|cant|p2a: Slaking|ability: Truant
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|
+|upkeep
+|turn|12
+|c|☆IDO NOT LOSE man|fat useless fuck
+|
+|t:|1776978406
+|move|p2a: Slaking|Earthquake|p1a: Cresselia
+|-immune|p1a: Cresselia|[from] ability: Levitate
+|move|p1a: Cresselia|Psyshock|p2a: Slaking
+|-damage|p2a: Slaking|307/389
+|
+|upkeep
+|turn|13
+|
+|t:|1776978414
+|switch|p2a: Greninja|Greninja, L80, M|222/246
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|
+|upkeep
+|turn|14
+|
+|t:|1776978441
+|-terastallize|p1a: Cresselia|Poison
+|move|p2a: Greninja|Gunk Shot|p1a: Cresselia
+|-start|p2a: Greninja|typechange|Poison|[from] ability: Protean
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|257/323
+|-damage|p2a: Greninja|198/246|[from] item: Life Orb
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|
+|-heal|p1a: Cresselia|277/323|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1776978456
+|move|p2a: Greninja|Hydro Pump|p1a: Cresselia
+|-damage|p1a: Cresselia|246/323
+|-damage|p2a: Greninja|174/246|[from] item: Life Orb
+|move|p1a: Cresselia|Psyshock|p2a: Greninja
+|-supereffective|p2a: Greninja
+|-damage|p2a: Greninja|0 fnt
+|faint|p2a: Greninja
+|
+|-heal|p1a: Cresselia|266/323|[from] item: Leftovers
+|upkeep
+|c|☆IDO NOT LOSE man|yeah youre stream sniping ain no way
+|
+|t:|1776978466
+|switch|p2a: Alcremie|Alcremie-Lemon-Cream, L90, F|263/263
+|turn|16
+|c|☆Jicaletta|XD?
+|
+|t:|1776978480
+|move|p1a: Cresselia|Psyshock|p2a: Alcremie
+|-damage|p2a: Alcremie|103/263
+|move|p2a: Alcremie|Calm Mind|p2a: Alcremie
+|-boost|p2a: Alcremie|spa|1
+|-boost|p2a: Alcremie|spd|1
+|
+|-heal|p1a: Cresselia|286/323|[from] item: Leftovers
+|-heal|p2a: Alcremie|119/263|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1776978489
+|move|p1a: Cresselia|Psyshock|p2a: Alcremie
+|-damage|p2a: Alcremie|0 fnt
+|faint|p2a: Alcremie
+|
+|-heal|p1a: Cresselia|306/323|[from] item: Leftovers
+|upkeep
+|
+|t:|1776978495
+|switch|p2a: Slaking|Slaking, L84, F|307/389
+|turn|18
+|
+|t:|1776978502
+|move|p2a: Slaking|Giga Impact|p1a: Cresselia
+|-damage|p1a: Cresselia|2/323
+|-mustrecharge|p2a: Slaking
+|move|p1a: Cresselia|Thunderbolt|p2a: Slaking
+|-damage|p2a: Slaking|159/389
+|
+|-heal|p1a: Cresselia|22/323|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1776978517
+|cant|p2a: Slaking|recharge
+|move|p1a: Cresselia|Thunderbolt|p2a: Slaking
+|-damage|p2a: Slaking|0 fnt
+|faint|p2a: Slaking
+|
+|win|Jicaletta

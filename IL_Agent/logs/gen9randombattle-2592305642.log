@@ -1,0 +1,148 @@
+|j|☆disconnectduewifi
+|j|☆newsock
+|t:|1776977432
+|gametype|singles
+|player|p1|disconnectduewifi|lucas|1787
+|player|p2|newsock|1|1837
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776977432
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Gouging Fire|Gouging Fire, L74|277/277
+|switch|p2a: Glalie|Glalie, L96, M|309/309
+|turn|1
+|
+|t:|1776977446
+|move|p2a: Glalie|Taunt|p1a: Gouging Fire
+|-start|p1a: Gouging Fire|move: Taunt
+|move|p1a: Gouging Fire|Heat Crash|p2a: Glalie
+|-supereffective|p2a: Glalie
+|-damage|p2a: Glalie|205/309
+|
+|upkeep
+|turn|2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by newsock)
+|
+|t:|1776977465
+|-end|p1a: Gouging Fire|Protosynthesis|[silent]
+|switch|p1a: Toxicroak|Toxicroak, L84, M|277/277
+|move|p2a: Glalie|Earthquake|p1a: Toxicroak
+|-supereffective|p1a: Toxicroak
+|-damage|p1a: Toxicroak|73/277
+|
+|upkeep
+|turn|3
+|
+|t:|1776977471
+|move|p2a: Glalie|Earthquake|p1a: Toxicroak
+|-supereffective|p1a: Toxicroak
+|-damage|p1a: Toxicroak|0 fnt
+|faint|p1a: Toxicroak
+|
+|upkeep
+|
+|t:|1776977488
+|switch|p1a: Basculin|Basculin-Blue-Striped, L86, M|261/261
+|turn|4
+|
+|t:|1776977494
+|move|p1a: Basculin|Wave Crash|p2a: Glalie
+|-damage|p2a: Glalie|0 fnt
+|faint|p2a: Glalie
+|-damage|p1a: Basculin|193/261|[from] Recoil
+|
+|upkeep
+|inactive|newsock has 120 seconds left.
+|
+|t:|1776977550
+|switch|p2a: Garchomp|Garchomp, L74, M|282/282
+|turn|5
+|
+|t:|1776977556
+|move|p1a: Basculin|Wave Crash|p2a: Garchomp
+|-damage|p2a: Garchomp|12/282
+|-damage|p1a: Basculin|161/261|[from] ability: Rough Skin|[of] p2a: Garchomp
+|-damage|p1a: Basculin|72/261|[from] Recoil
+|move|p2a: Garchomp|Scale Shot|p1a: Basculin
+|-damage|p1a: Basculin|39/261
+|-damage|p1a: Basculin|6/261
+|-damage|p1a: Basculin|0 fnt
+|faint|p1a: Basculin
+|-hitcount|p1: Basculin|3
+|-unboost|p2a: Garchomp|def|1
+|-boost|p2a: Garchomp|spe|1
+|
+|upkeep
+|
+|t:|1776977584
+|switch|p1a: Greedent|Greedent, L86, M|347/347
+|turn|6
+|inactive|newsock has 120 seconds left.
+|
+|t:|1776977605
+|move|p2a: Garchomp|Earthquake|p1a: Greedent
+|-damage|p1a: Greedent|250/347
+|move|p1a: Greedent|Earthquake|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|faint|p2a: Garchomp
+|
+|upkeep
+|
+|t:|1776977610
+|switch|p2a: Lycanroc|Lycanroc-Midnight, L89, M|296/296
+|turn|7
+|
+|t:|1776977638
+|move|p2a: Lycanroc|Knock Off|p1a: Greedent
+|-damage|p1a: Greedent|155/347
+|-enditem|p1a: Greedent|Sitrus Berry|[from] move: Knock Off|[of] p2a: Lycanroc
+|-damage|p2a: Lycanroc|267/296|[from] item: Life Orb
+|move|p1a: Greedent|Earthquake|p2a: Lycanroc
+|-supereffective|p2a: Lycanroc
+|-damage|p2a: Lycanroc|121/296
+|
+|upkeep
+|turn|8
+|inactive|newsock has 90 seconds left.
+|
+|t:|1776977682
+|move|p2a: Lycanroc|Close Combat|p1a: Greedent
+|-supereffective|p1a: Greedent
+|-damage|p1a: Greedent|0 fnt
+|-unboost|p2a: Lycanroc|def|1
+|-unboost|p2a: Lycanroc|spd|1
+|faint|p1a: Greedent
+|-damage|p2a: Lycanroc|92/296|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776977696
+|switch|p1a: Minun|Minun, L95, F|268/268
+|turn|9
+|
+|t:|1776977702
+|move|p1a: Minun|Thunderbolt|p2a: Lycanroc
+|-damage|p2a: Lycanroc|0 fnt
+|faint|p2a: Lycanroc
+|-damage|p1a: Minun|242/268|[from] item: Life Orb
+|
+|upkeep
+|inactive|newsock has 60 seconds left.
+|inactive|newsock has 30 seconds left.
+|inactive|newsock has 20 seconds left.
+|inactive|newsock has 15 seconds left.
+|inactive|newsock has 10 seconds left.
+|inactive|newsock has 5 seconds left.
+|-message|newsock lost due to inactivity.
+|
+|win|disconnectduewifi
+|raw|disconnectduewifi's rating: 1787 &rarr; <strong>1810</strong><br />(+23 for winning)
+|raw|newsock's rating: 1837 &rarr; <strong>1814</strong><br />(-23 for losing)

@@ -1,0 +1,315 @@
+|j|☆disconnectduewifi
+|j|☆POOPIEBUTTS
+|t:|1776971464
+|gametype|singles
+|player|p1|disconnectduewifi|lucas|1603
+|player|p2|POOPIEBUTTS|1|1577
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776971464
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Amoonguss|Amoonguss, L82, F|321/321
+|switch|p2a: Emboar|Emboar, L84, F|322/322
+|turn|1
+|
+|t:|1776971494
+|switch|p1a: Pecharunt|Pecharunt, L77|262/262
+|move|p2a: Emboar|Bulk Up|p2a: Emboar
+|-boost|p2a: Emboar|atk|1
+|-boost|p2a: Emboar|def|1
+|
+|upkeep
+|turn|2
+|
+|t:|1776971505
+|move|p1a: Pecharunt|Malignant Chain|p2a: Emboar
+|-damage|p2a: Emboar|220/322
+|-status|p2a: Emboar|tox
+|-start|p2a: Emboar|confusion|[from] ability: Poison Puppeteer|[of] p1a: Pecharunt
+|-activate|p2a: Emboar|confusion
+|move|p2a: Emboar|Trailblaze|p1a: Pecharunt
+|-resisted|p1a: Pecharunt
+|-damage|p1a: Pecharunt|240/262
+|-boost|p2a: Emboar|spe|1
+|
+|-heal|p2a: Emboar|240/322 tox|[from] item: Leftovers
+|-heal|p1a: Pecharunt|256/262|[from] item: Leftovers
+|-damage|p2a: Emboar|220/322 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1776971533
+|-activate|p2a: Emboar|confusion
+|-damage|p2a: Emboar|177/322 tox|[from] confusion
+|move|p1a: Pecharunt|Recover|p1a: Pecharunt
+|-heal|p1a: Pecharunt|262/262
+|
+|-heal|p2a: Emboar|197/322 tox|[from] item: Leftovers
+|-damage|p2a: Emboar|157/322 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1776971542
+|-activate|p2a: Emboar|confusion
+|move|p2a: Emboar|Flare Blitz|p1a: Pecharunt
+|-damage|p1a: Pecharunt|76/262
+|-damage|p2a: Emboar|96/322 tox|[from] Recoil
+|move|p1a: Pecharunt|Shadow Ball|p2a: Emboar
+|-damage|p2a: Emboar|8/322 tox
+|
+|-heal|p2a: Emboar|28/322 tox|[from] item: Leftovers
+|-heal|p1a: Pecharunt|92/262|[from] item: Leftovers
+|-damage|p2a: Emboar|0 fnt|[from] psn
+|faint|p2a: Emboar
+|upkeep
+|
+|t:|1776971564
+|switch|p2a: Meowstic|Meowstic-F, L89, F|277/277
+|turn|5
+|
+|t:|1776971583
+|switch|p1a: Metagross|Metagross, L79|256/256
+|move|p2a: Meowstic|Psychic|p1a: Metagross
+|-resisted|p1a: Metagross
+|-crit|p1a: Metagross
+|-damage|p1a: Metagross|209/256
+|-damage|p2a: Meowstic|250/277|[from] item: Life Orb
+|
+|upkeep
+|turn|6
+|
+|t:|1776971599
+|switch|p2a: Suicune|Suicune, L82|298/298
+|-ability|p2a: Suicune|Pressure
+|move|p1a: Metagross|Knock Off|p2a: Suicune
+|-damage|p2a: Suicune|193/298
+|-enditem|p2a: Suicune|Leftovers|[from] move: Knock Off|[of] p1a: Metagross
+|
+|upkeep
+|turn|7
+|
+|t:|1776971616
+|switch|p1a: Amoonguss|Amoonguss, L82, F|321/321
+|move|p2a: Suicune|Scald|p1a: Amoonguss
+|-resisted|p1a: Amoonguss
+|-damage|p1a: Amoonguss|280/321
+|
+|upkeep
+|turn|8
+|
+|t:|1776971626
+|move|p2a: Suicune|Substitute|p2a: Suicune
+|-start|p2a: Suicune|Substitute
+|-damage|p2a: Suicune|119/298
+|move|p1a: Amoonguss|Toxic||[still]
+|-fail|p1a: Amoonguss
+|
+|upkeep
+|turn|9
+|
+|t:|1776971634
+|move|p2a: Suicune|Protect|p2a: Suicune
+|-singleturn|p2a: Suicune|Protect
+|move|p1a: Amoonguss|Giga Drain|p2a: Suicune
+|-activate|p2a: Suicune|move: Protect
+|
+|upkeep
+|turn|10
+|
+|t:|1776971645
+|move|p2a: Suicune|Scald|p1a: Amoonguss
+|-resisted|p1a: Amoonguss
+|-damage|p1a: Amoonguss|238/321
+|-status|p1a: Amoonguss|brn
+|move|p1a: Amoonguss|Giga Drain|p2a: Suicune
+|-supereffective|p2a: Suicune
+|-end|p2a: Suicune|Substitute
+|-heal|p1a: Amoonguss|275/321 brn|[from] drain|[of] p2a: Suicune
+|
+|-damage|p1a: Amoonguss|255/321 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1776971657
+|switch|p2a: Meowstic|Meowstic-F, L89, F|250/277
+|move|p1a: Amoonguss|Giga Drain|p2a: Meowstic
+|-damage|p2a: Meowstic|181/277
+|-heal|p1a: Amoonguss|290/321 brn|[from] drain|[of] p2a: Meowstic
+|
+|-damage|p1a: Amoonguss|270/321 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1776971668
+|switch|p1a: Metagross|Metagross, L79|209/256
+|move|p2a: Meowstic|Nasty Plot|p2a: Meowstic
+|-boost|p2a: Meowstic|spa|2
+|
+|upkeep
+|turn|13
+|
+|t:|1776971677
+|move|p2a: Meowstic|Thunderbolt|p1a: Metagross
+|-damage|p1a: Metagross|50/256
+|-damage|p2a: Meowstic|154/277|[from] item: Life Orb
+|move|p1a: Metagross|Knock Off|p2a: Meowstic
+|-supereffective|p2a: Meowstic
+|-damage|p2a: Meowstic|0 fnt
+|-enditem|p2a: Meowstic|Life Orb|[from] move: Knock Off|[of] p1a: Metagross
+|faint|p2a: Meowstic
+|
+|upkeep
+|
+|t:|1776971688
+|switch|p2a: Shiftry|Shiftry, L89, M|305/305
+|turn|14
+|
+|t:|1776971695
+|move|p2a: Shiftry|Knock Off|p1a: Metagross
+|-supereffective|p1a: Metagross
+|-damage|p1a: Metagross|0 fnt
+|-enditem|p1a: Metagross|Choice Band|[from] move: Knock Off|[of] p2a: Shiftry
+|faint|p1a: Metagross
+|-damage|p2a: Shiftry|275/305|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776971717
+|switch|p1a: Amoonguss|Amoonguss, L82, F|321/321 brn
+|turn|15
+|
+|t:|1776971732
+|switch|p2a: Veluza|Veluza, L85, M|292/292
+|move|p1a: Amoonguss|Sludge Bomb|p2a: Veluza
+|-damage|p2a: Veluza|196/292
+|
+|-damage|p1a: Amoonguss|301/321 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1776971741
+|move|p2a: Veluza|Psycho Cut|p1a: Amoonguss
+|-supereffective|p1a: Amoonguss
+|-damage|p1a: Amoonguss|0 fnt
+|faint|p1a: Amoonguss
+|
+|upkeep
+|
+|t:|1776971781
+|switch|p1a: Jirachi|Jirachi, L80|291/291
+|turn|17
+|
+|t:|1776971787
+|switch|p2a: Suicune|Suicune, L82|119/298
+|-ability|p2a: Suicune|Pressure
+|move|p1a: Jirachi|Iron Head|p2a: Suicune
+|-resisted|p2a: Suicune
+|-damage|p2a: Suicune|88/298
+|
+|upkeep
+|turn|18
+|
+|t:|1776971814
+|move|p1a: Jirachi|Psychic|p2a: Suicune
+|-damage|p2a: Suicune|10/298
+|move|p2a: Suicune|Scald|p1a: Jirachi
+|-damage|p1a: Jirachi|222/291
+|
+|-heal|p1a: Jirachi|240/291|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1776971823
+|move|p1a: Jirachi|Iron Head|p2a: Suicune
+|-resisted|p2a: Suicune
+|-crit|p2a: Suicune
+|-damage|p2a: Suicune|0 fnt
+|faint|p2a: Suicune
+|
+|-heal|p1a: Jirachi|258/291|[from] item: Leftovers
+|upkeep
+|
+|t:|1776971832
+|switch|p2a: Veluza|Veluza, L85, M|196/292
+|turn|20
+|
+|t:|1776971838
+|move|p1a: Jirachi|Iron Head|p2a: Veluza
+|-resisted|p2a: Veluza
+|-damage|p2a: Veluza|148/292
+|move|p2a: Veluza|Night Slash|p1a: Jirachi
+|-supereffective|p1a: Jirachi
+|-crit|p1a: Jirachi
+|-damage|p1a: Jirachi|0 fnt
+|faint|p1a: Jirachi
+|
+|upkeep
+|
+|t:|1776971855
+|switch|p1a: Ursaluna|Ursaluna, L79, M|335/335
+|turn|21
+|
+|t:|1776971862
+|-terastallize|p1a: Ursaluna|Normal
+|move|p2a: Veluza|Night Slash|p1a: Ursaluna
+|-damage|p1a: Ursaluna|231/335
+|move|p1a: Ursaluna|Trailblaze|p2a: Veluza
+|-supereffective|p2a: Veluza
+|-damage|p2a: Veluza|60/292
+|-boost|p1a: Ursaluna|spe|1
+|
+|-status|p1a: Ursaluna|brn|[from] item: Flame Orb
+|upkeep
+|turn|22
+|
+|t:|1776971876
+|move|p1a: Ursaluna|Trailblaze|p2a: Veluza
+|-supereffective|p2a: Veluza
+|-damage|p2a: Veluza|0 fnt
+|-boost|p1a: Ursaluna|spe|1
+|faint|p2a: Veluza
+|
+|-damage|p1a: Ursaluna|211/335 brn|[from] brn
+|upkeep
+|
+|t:|1776971890
+|switch|p2a: Shiftry|Shiftry, L89, M|275/305
+|turn|23
+|
+|t:|1776971895
+|move|p1a: Ursaluna|Facade|p2a: Shiftry
+|-damage|p2a: Shiftry|0 fnt
+|faint|p2a: Shiftry
+|
+|-damage|p1a: Ursaluna|191/335 brn|[from] brn
+|upkeep
+|c|☆disconnectduewifi|Gg
+|
+|t:|1776971900
+|switch|p2a: Zebstrika|Zebstrika, L87, M|272/272
+|turn|24
+|
+|t:|1776971913
+|-terastallize|p2a: Zebstrika|Ground
+|move|p2a: Zebstrika|Supercell Slam|p1a: Ursaluna
+|-damage|p1a: Ursaluna|58/335 brn
+|-damage|p2a: Zebstrika|245/272|[from] item: Life Orb
+|move|p1a: Ursaluna|Headlong Rush|p2a: Zebstrika
+|-damage|p2a: Zebstrika|0 fnt
+|-unboost|p1a: Ursaluna|def|1
+|-unboost|p1a: Ursaluna|spd|1
+|faint|p2a: Zebstrika
+|
+|win|disconnectduewifi
+|raw|disconnectduewifi's rating: 1603 &rarr; <strong>1622</strong><br />(+19 for winning)
+|raw|POOPIEBUTTS's rating: 1577 &rarr; <strong>1558</strong><br />(-19 for losing)
+|l|☆POOPIEBUTTS
+|player|p2|
