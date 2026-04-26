@@ -1,0 +1,400 @@
+|j|☆xavierw1112
+|j|☆jugi99
+|t:|1776972498
+|gametype|singles
+|player|p1|xavierw1112|266|1141
+|player|p2|jugi99|1|1127
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776972498
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Scream Tail|Scream Tail, L84|330/330
+|switch|p2a: Milotic|Milotic, L83, F|293/293
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by jugi99)
+|inactive|jugi99 has 120 seconds left.
+|
+|t:|1776972537
+|move|p1a: Scream Tail|Dazzling Gleam|p2a: Milotic
+|-damage|p2a: Milotic|244/293
+|move|p2a: Milotic|Scald|p1a: Scream Tail
+|-damage|p1a: Scream Tail|263/330
+|
+|-heal|p1a: Scream Tail|283/330|[from] item: Leftovers
+|-heal|p2a: Milotic|262/293|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776972561
+|move|p1a: Scream Tail|Dazzling Gleam|p2a: Milotic
+|-damage|p2a: Milotic|217/293
+|move|p2a: Milotic|Ice Beam|p1a: Scream Tail
+|-damage|p1a: Scream Tail|232/330
+|
+|-heal|p1a: Scream Tail|252/330|[from] item: Leftovers
+|-heal|p2a: Milotic|235/293|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776972572
+|move|p1a: Scream Tail|Dazzling Gleam|p2a: Milotic
+|-damage|p2a: Milotic|190/293
+|move|p2a: Milotic|Scald|p1a: Scream Tail
+|-damage|p1a: Scream Tail|186/330
+|
+|-heal|p1a: Scream Tail|206/330|[from] item: Leftovers
+|-heal|p2a: Milotic|208/293|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776972581
+|move|p1a: Scream Tail|Protect|p1a: Scream Tail
+|-singleturn|p1a: Scream Tail|Protect
+|move|p2a: Milotic|Scald|p1a: Scream Tail
+|-activate|p1a: Scream Tail|move: Protect
+|
+|-heal|p1a: Scream Tail|226/330|[from] item: Leftovers
+|-heal|p2a: Milotic|226/293|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776972592
+|move|p1a: Scream Tail|Wish|p1a: Scream Tail
+|move|p2a: Milotic|Scald|p1a: Scream Tail
+|-damage|p1a: Scream Tail|153/330
+|
+|-heal|p1a: Scream Tail|173/330|[from] item: Leftovers
+|-heal|p2a: Milotic|244/293|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776972602
+|move|p1a: Scream Tail|Dazzling Gleam|p2a: Milotic
+|-damage|p2a: Milotic|196/293
+|move|p2a: Milotic|Scald|p1a: Scream Tail
+|-damage|p1a: Scream Tail|104/330
+|
+|-heal|p1a: Scream Tail|269/330|[from] move: Wish|[wisher] Scream Tail
+|-heal|p1a: Scream Tail|289/330|[from] item: Leftovers
+|-heal|p2a: Milotic|214/293|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776972613
+|-end|p1a: Scream Tail|Protosynthesis|[silent]
+|switch|p1a: Conkeldurr|Conkeldurr, L80, F|299/299
+|move|p2a: Milotic|Scald|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|191/299
+|
+|-heal|p2a: Milotic|232/293|[from] item: Leftovers
+|-status|p1a: Conkeldurr|brn|[from] item: Flame Orb
+|upkeep
+|turn|8
+|
+|t:|1776972639
+|switch|p2a: Meowstic|Meowstic-F, L89, F|277/277
+|-terastallize|p1a: Conkeldurr|Normal
+|move|p1a: Conkeldurr|Facade|p2a: Meowstic
+|-damage|p2a: Meowstic|0 fnt
+|faint|p2a: Meowstic
+|
+|-damage|p1a: Conkeldurr|173/299 brn|[from] brn
+|upkeep
+|inactive|jugi99 has 120 seconds left.
+|
+|t:|1776972652
+|switch|p2a: Hitmontop|Hitmontop, L88, M|231/231
+|-ability|p2a: Hitmontop|Intimidate|boost
+|-unboost|p1a: Conkeldurr|atk|1
+|turn|9
+|
+|t:|1776972659
+|switch|p1a: Scream Tail|Scream Tail, L84|289/330
+|move|p2a: Hitmontop|Rapid Spin|p1a: Scream Tail
+|-damage|p1a: Scream Tail|256/330
+|-boost|p2a: Hitmontop|spe|1
+|
+|-heal|p1a: Scream Tail|276/330|[from] item: Leftovers
+|upkeep
+|turn|10
+|inactive|jugi99 has 120 seconds left.
+|inactive|jugi99 has 90 seconds left.
+|
+|t:|1776972712
+|-terastallize|p2a: Hitmontop|Steel
+|move|p2a: Hitmontop|Earthquake|p1a: Scream Tail
+|-damage|p1a: Scream Tail|210/330
+|move|p1a: Scream Tail|Dazzling Gleam|p2a: Hitmontop
+|-resisted|p2a: Hitmontop
+|-damage|p2a: Hitmontop|214/231
+|
+|-heal|p1a: Scream Tail|230/330|[from] item: Leftovers
+|upkeep
+|turn|11
+|inactive|jugi99 has 90 seconds left.
+|
+|t:|1776972723
+|move|p2a: Hitmontop|Sucker Punch||[still]
+|-fail|p2a: Hitmontop
+|move|p1a: Scream Tail|Wish|p1a: Scream Tail
+|
+|-heal|p1a: Scream Tail|250/330|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776972731
+|-end|p1a: Scream Tail|Protosynthesis|[silent]
+|switch|p1a: Conkeldurr|Conkeldurr, L80, F, tera:Normal|173/299 brn
+|move|p2a: Hitmontop|Earthquake|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|93/299 brn
+|
+|-heal|p1a: Conkeldurr|258/299 brn|[from] move: Wish|[wisher] Scream Tail
+|-damage|p1a: Conkeldurr|240/299 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1776972744
+|move|p1a: Conkeldurr|Mach Punch|p2a: Hitmontop
+|-supereffective|p2a: Hitmontop
+|-damage|p2a: Hitmontop|70/231
+|move|p2a: Hitmontop|Close Combat|p1a: Conkeldurr
+|-supereffective|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|0 fnt
+|-unboost|p2a: Hitmontop|def|1
+|-unboost|p2a: Hitmontop|spd|1
+|faint|p1a: Conkeldurr
+|
+|upkeep
+|inactive|xavierw1112 has 120 seconds left.
+|
+|t:|1776972777
+|switch|p1a: Scyther|Scyther, L82, M|249/249
+|turn|14
+|inactive|xavierw1112 has 120 seconds left.
+|
+|t:|1776972786
+|move|p2a: Hitmontop|Rapid Spin|p1a: Scyther
+|-damage|p1a: Scyther|208/249
+|-boost|p2a: Hitmontop|spe|1
+|move|p1a: Scyther|Close Combat|p2a: Hitmontop
+|-supereffective|p2a: Hitmontop
+|-damage|p2a: Hitmontop|0 fnt
+|-unboost|p1a: Scyther|def|1
+|-unboost|p1a: Scyther|spd|1
+|faint|p2a: Hitmontop
+|
+|upkeep
+|
+|t:|1776972797
+|switch|p2a: Milotic|Milotic, L83, F|232/293
+|turn|15
+|
+|t:|1776972807
+|switch|p1a: Qwilfish|Qwilfish, L86, F|252/252
+|-ability|p1a: Qwilfish|Intimidate|boost
+|-unboost|p2a: Milotic|atk|1
+|-ability|p2a: Milotic|Competitive|boost
+|-boost|p2a: Milotic|spa|2
+|move|p2a: Milotic|Ice Beam|p1a: Qwilfish
+|-resisted|p1a: Qwilfish
+|-damage|p1a: Qwilfish|163/252
+|
+|-heal|p1a: Qwilfish|178/252|[from] item: Leftovers
+|-heal|p2a: Milotic|250/293|[from] item: Leftovers
+|upkeep
+|turn|16
+|inactive|jugi99 has 120 seconds left.
+|inactive|xavierw1112 has 120 seconds left.
+|
+|t:|1776972839
+|move|p1a: Qwilfish|Toxic Spikes|p2a: Milotic
+|-sidestart|p2: jugi99|move: Toxic Spikes
+|move|p2a: Milotic|Scald|p1a: Qwilfish
+|-resisted|p1a: Qwilfish
+|-damage|p1a: Qwilfish|55/252
+|
+|-heal|p1a: Qwilfish|70/252|[from] item: Leftovers
+|-heal|p2a: Milotic|268/293|[from] item: Leftovers
+|upkeep
+|turn|17
+|inactive|jugi99 has 120 seconds left.
+|
+|t:|1776972847
+|move|p1a: Qwilfish|Destiny Bond|p1a: Qwilfish
+|-singlemove|p1a: Qwilfish|Destiny Bond
+|move|p2a: Milotic|Scald|p1a: Qwilfish
+|-resisted|p1a: Qwilfish
+|-damage|p1a: Qwilfish|0 fnt
+|faint|p1a: Qwilfish
+|-activate|p1a: Qwilfish|move: Destiny Bond
+|faint|p2a: Milotic
+|
+|upkeep
+|inactive|jugi99 has 120 seconds left.
+|
+|t:|1776972862
+|switch|p1a: Scyther|Scyther, L82, M|208/249
+|switch|p2a: Iron Thorns|Iron Thorns, L83|302/302
+|turn|18
+|
+|t:|1776972874
+|move|p1a: Scyther|Close Combat|p2a: Iron Thorns
+|-supereffective|p2a: Iron Thorns
+|-damage|p2a: Iron Thorns|164/302
+|-unboost|p1a: Scyther|def|1
+|-unboost|p1a: Scyther|spd|1
+|move|p2a: Iron Thorns|Stone Edge|p1a: Scyther
+|-supereffective|p1a: Scyther
+|-damage|p1a: Scyther|0 fnt
+|faint|p1a: Scyther
+|
+|upkeep
+|
+|t:|1776972884
+|switch|p1a: Hydreigon|Hydreigon, L79, M|275/275
+|turn|19
+|inactive|xavierw1112 has 90 seconds left.
+|
+|t:|1776972905
+|move|p1a: Hydreigon|Fire Blast|p2a: Iron Thorns
+|-resisted|p2a: Iron Thorns
+|-damage|p2a: Iron Thorns|94/302
+|move|p2a: Iron Thorns|Volt Switch|p1a: Hydreigon
+|-resisted|p1a: Hydreigon
+|-damage|p1a: Hydreigon|248/275
+|
+|t:|1776972911
+|-end|p2a: Iron Thorns|Quark Drive|[silent]
+|switch|p2a: Ditto|Ditto, L87|225/225|[from] Volt Switch
+|-status|p2a: Ditto|psn
+|-transform|p2a: Ditto|p1a: Hydreigon|[from] ability: Imposter
+|
+|-damage|p2a: Ditto|197/225 psn|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1776972922
+|switch|p1a: Scream Tail|Scream Tail, L84|250/330
+|move|p2a: Ditto|Draco Meteor|p1a: Scream Tail
+|-immune|p1a: Scream Tail
+|
+|-heal|p1a: Scream Tail|270/330|[from] item: Leftovers
+|-damage|p2a: Ditto|169/225 psn|[from] psn
+|upkeep
+|turn|21
+|inactive|xavierw1112 has 90 seconds left.
+|
+|t:|1776972939
+|switch|p2a: Iron Thorns|Iron Thorns, L83|94/302
+|move|p1a: Scream Tail|Dazzling Gleam|p2a: Iron Thorns
+|-damage|p2a: Iron Thorns|21/302
+|
+|-heal|p1a: Scream Tail|290/330|[from] item: Leftovers
+|upkeep
+|turn|22
+|inactive|xavierw1112 has 90 seconds left.
+|
+|t:|1776972951
+|move|p1a: Scream Tail|Dazzling Gleam|p2a: Iron Thorns
+|-damage|p2a: Iron Thorns|0 fnt
+|faint|p2a: Iron Thorns
+|-end|p2a: Iron Thorns|Quark Drive|[silent]
+|
+|-heal|p1a: Scream Tail|310/330|[from] item: Leftovers
+|upkeep
+|
+|t:|1776972956
+|switch|p2a: Sandy Shocks|Sandy Shocks, L80|267/267
+|-status|p2a: Sandy Shocks|psn
+|turn|23
+|
+|t:|1776972970
+|-end|p1a: Scream Tail|Protosynthesis|[silent]
+|switch|p1a: Noctowl|Noctowl, L95, M|344/344
+|move|p2a: Sandy Shocks|Thunder Wave|p1a: Noctowl
+|-status|p1a: Noctowl|par
+|
+|-damage|p2a: Sandy Shocks|234/267 psn|[from] psn
+|upkeep
+|turn|24
+|inactive|xavierw1112 has 90 seconds left.
+|
+|t:|1776972987
+|move|p2a: Sandy Shocks|Thunderbolt|p1a: Noctowl
+|-supereffective|p1a: Noctowl
+|-damage|p1a: Noctowl|156/344 par
+|cant|p1a: Noctowl|par
+|
+|-heal|p2a: Sandy Shocks|250/267 psn|[from] item: Leftovers
+|-damage|p2a: Sandy Shocks|217/267 psn|[from] psn
+|upkeep
+|turn|25
+|inactive|xavierw1112 has 90 seconds left.
+|
+|t:|1776972998
+|move|p2a: Sandy Shocks|Thunderbolt|p1a: Noctowl
+|-supereffective|p1a: Noctowl
+|-damage|p1a: Noctowl|0 fnt
+|faint|p1a: Noctowl
+|
+|-heal|p2a: Sandy Shocks|233/267 psn|[from] item: Leftovers
+|-damage|p2a: Sandy Shocks|200/267 psn|[from] psn
+|upkeep
+|inactive|xavierw1112 has 90 seconds left.
+|
+|t:|1776973019
+|switch|p1a: Hydreigon|Hydreigon, L79, M|248/275
+|turn|26
+|
+|t:|1776973028
+|move|p2a: Sandy Shocks|Thunder Wave|p1a: Hydreigon
+|-status|p1a: Hydreigon|par
+|move|p1a: Hydreigon|Draco Meteor|p2a: Sandy Shocks
+|-damage|p2a: Sandy Shocks|0 fnt
+|-unboost|p1a: Hydreigon|spa|2
+|faint|p2a: Sandy Shocks
+|-end|p2a: Sandy Shocks|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1776973032
+|switch|p2a: Ditto|Ditto, L87|169/225 psn
+|-transform|p2a: Ditto|p1a: Hydreigon|[from] ability: Imposter
+|turn|27
+|inactive|xavierw1112 has 90 seconds left.
+|
+|t:|1776973041
+|switch|p1a: Scream Tail|Scream Tail, L84|310/330
+|move|p2a: Ditto|U-turn|p1a: Scream Tail
+|-damage|p1a: Scream Tail|262/330
+|
+|-heal|p1a: Scream Tail|282/330|[from] item: Leftovers
+|-damage|p2a: Ditto|141/225 psn|[from] psn
+|upkeep
+|turn|28
+|inactive|xavierw1112 has 90 seconds left.
+|c|☆jugi99|gg
+|
+|t:|1776973056
+|move|p2a: Ditto|U-turn|p1a: Scream Tail
+|-damage|p1a: Scream Tail|238/330
+|move|p1a: Scream Tail|Dazzling Gleam|p2a: Ditto
+|-supereffective|p2a: Ditto
+|-damage|p2a: Ditto|0 fnt
+|faint|p2a: Ditto
+|
+|win|xavierw1112
+|raw|xavierw1112's rating: 1141 &rarr; <strong>1165</strong><br />(+24 for winning)
+|raw|jugi99's rating: 1127 &rarr; <strong>1103</strong><br />(-24 for losing)
+|c|☆xavierw1112|gg
+|c|☆jugi99|gg
+|l|☆jugi99
+|player|p2|

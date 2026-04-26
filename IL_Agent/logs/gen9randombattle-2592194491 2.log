@@ -1,0 +1,285 @@
+|j|☆Mori1511656
+|j|☆yrury
+|t:|1776969551
+|gametype|singles
+|player|p1|Mori1511656|volkner|1107
+|player|p2|yrury|2|1097
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776969551
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Blissey|Blissey, L85, F|572/572
+|switch|p2a: Meowstic|Meowstic-F, L89, F|277/277
+|turn|1
+|
+|t:|1776969570
+|move|p2a: Meowstic|Nasty Plot|p2a: Meowstic
+|-boost|p2a: Meowstic|spa|2
+|move|p1a: Blissey|Thunder Wave|p2a: Meowstic
+|-status|p2a: Meowstic|par
+|
+|upkeep
+|turn|2
+|
+|t:|1776969588
+|move|p1a: Blissey|Stealth Rock|p2a: Meowstic
+|-sidestart|p2: yrury|move: Stealth Rock
+|move|p2a: Meowstic|Alluring Voice|p1a: Blissey
+|-damage|p1a: Blissey|464/572
+|-damage|p2a: Meowstic|250/277 par|[from] item: Life Orb
+|
+|-heal|p1a: Blissey|499/572|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776969600
+|move|p1a: Blissey|Seismic Toss|p2a: Meowstic
+|-damage|p2a: Meowstic|165/277 par
+|move|p2a: Meowstic|Nasty Plot|p2a: Meowstic
+|-boost|p2a: Meowstic|spa|2
+|
+|-heal|p1a: Blissey|534/572|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776969613
+|move|p1a: Blissey|Seismic Toss|p2a: Meowstic
+|-damage|p2a: Meowstic|80/277 par
+|move|p2a: Meowstic|Psyshock|p1a: Blissey
+|-damage|p1a: Blissey|0 fnt
+|faint|p1a: Blissey
+|-damage|p2a: Meowstic|53/277 par|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776969641
+|switch|p1a: Zapdos|Zapdos-Galar, L77|265/265
+|turn|5
+|
+|t:|1776969647
+|move|p1a: Zapdos|Knock Off|p2a: Meowstic
+|-supereffective|p2a: Meowstic
+|-damage|p2a: Meowstic|0 fnt
+|-enditem|p2a: Meowstic|Life Orb|[from] move: Knock Off|[of] p1a: Zapdos
+|faint|p2a: Meowstic
+|-damage|p1a: Zapdos|239/265|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776969659
+|switch|p2a: Tinkaton|Tinkaton, L82, F|274/274
+|-damage|p2a: Tinkaton|257/274|[from] Stealth Rock
+|-ability|p2a: Tinkaton|Mold Breaker
+|turn|6
+|
+|t:|1776969690
+|switch|p1a: Great Tusk|Great Tusk, L77|304/304
+|move|p2a: Tinkaton|Play Rough|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|172/304
+|
+|-heal|p2a: Tinkaton|274/274|[from] item: Leftovers
+|-heal|p1a: Great Tusk|191/304|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776969713
+|move|p2a: Tinkaton|Play Rough|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|63/304
+|move|p1a: Great Tusk|Earthquake|p2a: Tinkaton
+|-supereffective|p2a: Tinkaton
+|-damage|p2a: Tinkaton|4/274
+|
+|-heal|p2a: Tinkaton|21/274|[from] item: Leftovers
+|-heal|p1a: Great Tusk|82/304|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776969732
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Minior|Minior-Yellow, L79|224/224
+|-formechange|p1a: Minior|Minior-Meteor||[from] ability: Shields Down
+|move|p2a: Tinkaton|Play Rough|p1a: Minior
+|-damage|p1a: Minior|146/224
+|-unboost|p1a: Minior|atk|1
+|-enditem|p1a: Minior|White Herb
+|-clearnegativeboost|p1a: Minior|[silent]
+|
+|-heal|p2a: Tinkaton|38/274|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776969757
+|move|p2a: Tinkaton|Gigaton Hammer|p1a: Minior
+|-supereffective|p1a: Minior
+|-damage|p1a: Minior|0 fnt
+|faint|p1a: Minior
+|
+|-heal|p2a: Tinkaton|55/274|[from] item: Leftovers
+|upkeep
+|
+|t:|1776969769
+|switch|p1a: Reuniclus|Reuniclus, L88, M|337/337
+|turn|10
+|
+|t:|1776969779
+|move|p2a: Tinkaton|Knock Off|p1a: Reuniclus
+|-supereffective|p1a: Reuniclus
+|-damage|p1a: Reuniclus|211/337
+|-enditem|p1a: Reuniclus|Life Orb|[from] move: Knock Off|[of] p2a: Tinkaton
+|move|p1a: Reuniclus|Focus Blast|p2a: Tinkaton|[miss]
+|-miss|p1a: Reuniclus|p2a: Tinkaton
+|
+|-heal|p2a: Tinkaton|72/274|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776969791
+|move|p2a: Tinkaton|Gigaton Hammer|p1a: Reuniclus
+|-damage|p1a: Reuniclus|61/337
+|move|p1a: Reuniclus|Focus Blast|p2a: Tinkaton|[miss]
+|-miss|p1a: Reuniclus|p2a: Tinkaton
+|
+|-heal|p2a: Tinkaton|89/274|[from] item: Leftovers
+|upkeep
+|turn|12
+|c|☆Mori1511656|Wtf is this luck
+|c|☆Mori1511656|U got a win on a silver platter
+|c|☆Mori1511656|Fuk this shit
+|
+|t:|1776969823
+|move|p2a: Tinkaton|Knock Off|p1a: Reuniclus
+|-supereffective|p1a: Reuniclus
+|-damage|p1a: Reuniclus|0 fnt
+|faint|p1a: Reuniclus
+|
+|-heal|p2a: Tinkaton|106/274|[from] item: Leftovers
+|upkeep
+|
+|t:|1776969830
+|switch|p1a: Zapdos|Zapdos-Galar, L77|239/265
+|turn|13
+|
+|t:|1776969835
+|move|p2a: Tinkaton|Play Rough|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-crit|p1a: Zapdos
+|-damage|p1a: Zapdos|11/265
+|-unboost|p1a: Zapdos|atk|1
+|-ability|p1a: Zapdos|Defiant|boost
+|-boost|p1a: Zapdos|atk|2
+|move|p1a: Zapdos|Close Combat|p2a: Tinkaton
+|-damage|p2a: Tinkaton|0 fnt
+|-unboost|p1a: Zapdos|def|1
+|-unboost|p1a: Zapdos|spd|1
+|faint|p2a: Tinkaton
+|-damage|p1a: Zapdos|0 fnt|[from] item: Life Orb
+|faint|p1a: Zapdos
+|
+|upkeep
+|
+|t:|1776969851
+|switch|p2a: Floatzel|Floatzel, L86, M|286/286
+|switch|p1a: Dudunsparce|Dudunsparce-Three-Segment, L83, M|343/343
+|-damage|p2a: Floatzel|251/286|[from] Stealth Rock
+|turn|14
+|
+|t:|1776969872
+|move|p2a: Floatzel|Crunch|p1a: Dudunsparce
+|-damage|p1a: Dudunsparce|237/343
+|-ability|p1a: Dudunsparce|Rattled|boost
+|-boost|p1a: Dudunsparce|spe|1
+|move|p1a: Dudunsparce|Calm Mind|p1a: Dudunsparce
+|-boost|p1a: Dudunsparce|spa|1
+|-boost|p1a: Dudunsparce|spd|1
+|
+|-heal|p1a: Dudunsparce|258/343|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1776969883
+|move|p2a: Floatzel|Crunch|p1a: Dudunsparce
+|-damage|p1a: Dudunsparce|146/343
+|-ability|p1a: Dudunsparce|Rattled|boost
+|-boost|p1a: Dudunsparce|spe|1
+|move|p1a: Dudunsparce|Calm Mind|p1a: Dudunsparce
+|-boost|p1a: Dudunsparce|spa|1
+|-boost|p1a: Dudunsparce|spd|1
+|
+|-heal|p1a: Dudunsparce|167/343|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776969894
+|move|p1a: Dudunsparce|Roost|p1a: Dudunsparce
+|-heal|p1a: Dudunsparce|339/343
+|-singleturn|p1a: Dudunsparce|move: Roost
+|move|p2a: Floatzel|Crunch|p1a: Dudunsparce
+|-damage|p1a: Dudunsparce|243/343
+|-ability|p1a: Dudunsparce|Rattled|boost
+|-boost|p1a: Dudunsparce|spe|1
+|
+|-heal|p1a: Dudunsparce|264/343|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1776969908
+|move|p1a: Dudunsparce|Boomburst|p2a: Floatzel
+|-damage|p2a: Floatzel|0 fnt
+|faint|p2a: Floatzel
+|
+|-heal|p1a: Dudunsparce|285/343|[from] item: Leftovers
+|upkeep
+|
+|t:|1776969917
+|switch|p2a: Avalugg|Avalugg, L88, F|310/310
+|turn|18
+|
+|t:|1776969930
+|-terastallize|p2a: Avalugg|Fighting
+|move|p1a: Dudunsparce|Boomburst|p2a: Avalugg
+|-ability|p2a: Avalugg|Sturdy
+|-damage|p2a: Avalugg|1/310
+|move|p2a: Avalugg|Body Press|p1a: Dudunsparce
+|-supereffective|p1a: Dudunsparce
+|-damage|p1a: Dudunsparce|0 fnt
+|faint|p1a: Dudunsparce
+|
+|upkeep
+|
+|t:|1776969950
+|switch|p1a: Great Tusk|Great Tusk, L77|82/304
+|turn|19
+|
+|t:|1776969957
+|move|p1a: Great Tusk|Rapid Spin|p2a: Avalugg
+|-damage|p2a: Avalugg|0 fnt
+|-boost|p1a: Great Tusk|spe|1
+|faint|p2a: Avalugg
+|
+|-heal|p1a: Great Tusk|101/304|[from] item: Leftovers
+|upkeep
+|
+|t:|1776969965
+|switch|p2a: Sandy Shocks|Sandy Shocks, L80|267/267
+|turn|20
+|
+|t:|1776969975
+|move|p1a: Great Tusk|Earthquake|p2a: Sandy Shocks
+|-supereffective|p2a: Sandy Shocks
+|-damage|p2a: Sandy Shocks|39/267
+|move|p2a: Sandy Shocks|Earth Power|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|win|yrury

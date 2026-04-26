@@ -1,0 +1,311 @@
+|j|☆Hollowglare
+|j|☆slaughterthebrowns
+|t:|1776970035
+|gametype|singles
+|player|p1|Hollowglare|169|
+|player|p2|slaughterthebrowns|1|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776970035
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Gliscor|Gliscor, L76, M|239/239
+|switch|p2a: Dudunsparce|Dudunsparce, L83, M|343/343
+|turn|1
+|
+|t:|1776970050
+|move|p1a: Gliscor|Knock Off|p2a: Dudunsparce
+|-damage|p2a: Dudunsparce|281/343
+|-enditem|p2a: Dudunsparce|Leftovers|[from] move: Knock Off|[of] p1a: Gliscor
+|move|p2a: Dudunsparce|Headbutt|p1a: Gliscor
+|-damage|p1a: Gliscor|173/239
+|
+|-status|p1a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|2
+|
+|t:|1776970070
+|move|p1a: Gliscor|Earthquake|p2a: Dudunsparce
+|-damage|p2a: Dudunsparce|190/343
+|move|p2a: Dudunsparce|Headbutt|p1a: Gliscor
+|-damage|p1a: Gliscor|104/239 tox
+|
+|-heal|p1a: Gliscor|133/239 tox|[from] ability: Poison Heal
+|upkeep
+|turn|3
+|
+|t:|1776970079
+|move|p1a: Gliscor|Toxic Spikes|p2a: Dudunsparce
+|-sidestart|p2: slaughterthebrowns|move: Toxic Spikes
+|move|p2a: Dudunsparce|Headbutt|p1a: Gliscor
+|-damage|p1a: Gliscor|73/239 tox
+|
+|-heal|p1a: Gliscor|102/239 tox|[from] ability: Poison Heal
+|upkeep
+|turn|4
+|
+|t:|1776970087
+|move|p1a: Gliscor|Earthquake|p2a: Dudunsparce
+|-damage|p2a: Dudunsparce|90/343
+|move|p2a: Dudunsparce|Headbutt|p1a: Gliscor
+|-damage|p1a: Gliscor|44/239 tox
+|
+|-heal|p1a: Gliscor|73/239 tox|[from] ability: Poison Heal
+|upkeep
+|turn|5
+|
+|t:|1776970096
+|move|p1a: Gliscor|Earthquake|p2a: Dudunsparce
+|-damage|p2a: Dudunsparce|0 fnt
+|faint|p2a: Dudunsparce
+|
+|-heal|p1a: Gliscor|102/239 tox|[from] ability: Poison Heal
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Hollowglare)
+|
+|t:|1776970108
+|switch|p2a: Plusle|Plusle, L95, F|268/268
+|-status|p2a: Plusle|psn
+|turn|6
+|
+|t:|1776970123
+|move|p1a: Gliscor|Protect|p1a: Gliscor
+|-singleturn|p1a: Gliscor|Protect
+|move|p2a: Plusle|Grass Knot|p1a: Gliscor
+|-activate|p1a: Gliscor|move: Protect
+|
+|-damage|p2a: Plusle|235/268 psn|[from] psn
+|-heal|p1a: Gliscor|131/239 tox|[from] ability: Poison Heal
+|upkeep
+|turn|7
+|
+|t:|1776970132
+|move|p2a: Plusle|Nasty Plot|p2a: Plusle
+|-boost|p2a: Plusle|spa|2
+|move|p1a: Gliscor|Toxic Spikes|p2a: Plusle
+|-sidestart|p2: slaughterthebrowns|move: Toxic Spikes
+|
+|-damage|p2a: Plusle|202/268 psn|[from] psn
+|-heal|p1a: Gliscor|160/239 tox|[from] ability: Poison Heal
+|upkeep
+|turn|8
+|
+|t:|1776970140
+|move|p2a: Plusle|Nasty Plot|p2a: Plusle
+|-boost|p2a: Plusle|spa|2
+|move|p1a: Gliscor|Earthquake|p2a: Plusle
+|-supereffective|p2a: Plusle
+|-damage|p2a: Plusle|0 fnt
+|faint|p2a: Plusle
+|
+|-heal|p1a: Gliscor|189/239 tox|[from] ability: Poison Heal
+|upkeep
+|
+|t:|1776970149
+|switch|p2a: Polteageist|Polteageist-Antique, L78|222/222
+|-status|p2a: Polteageist|tox
+|turn|9
+|
+|t:|1776970159
+|move|p1a: Gliscor|Knock Off|p2a: Polteageist
+|-supereffective|p2a: Polteageist
+|-damage|p2a: Polteageist|70/222 tox
+|-enditem|p2a: Polteageist|White Herb|[from] move: Knock Off|[of] p1a: Gliscor
+|move|p2a: Polteageist|Shell Smash|p2a: Polteageist
+|-unboost|p2a: Polteageist|def|1
+|-unboost|p2a: Polteageist|spd|1
+|-boost|p2a: Polteageist|atk|2
+|-boost|p2a: Polteageist|spa|2
+|-boost|p2a: Polteageist|spe|2
+|
+|-damage|p2a: Polteageist|57/222 tox|[from] psn
+|-heal|p1a: Gliscor|218/239 tox|[from] ability: Poison Heal
+|upkeep
+|turn|10
+|
+|t:|1776970172
+|move|p2a: Polteageist|Shadow Ball|p1a: Gliscor
+|-damage|p1a: Gliscor|0 fnt
+|faint|p1a: Gliscor
+|
+|-damage|p2a: Polteageist|31/222 tox|[from] psn
+|upkeep
+|
+|t:|1776970185
+|switch|p1a: Tornadus|Tornadus, L82, M|263/263
+|turn|11
+|
+|t:|1776970193
+|move|p2a: Polteageist|Tera Blast|p1a: Tornadus
+|-damage|p1a: Tornadus|115/263
+|move|p1a: Tornadus|U-turn|p2a: Polteageist
+|-resisted|p2a: Polteageist
+|-damage|p2a: Polteageist|0 fnt
+|-start|p1a: Tornadus|Disable|U-turn|[from] ability: Cursed Body|[of] p2a: Polteageist
+|faint|p2a: Polteageist
+|
+|t:|1776970204
+|switch|p1a: Mienshao|Mienshao, L83, F|243/243|[from] U-turn
+|
+|upkeep
+|
+|t:|1776970211
+|switch|p2a: Medicham|Medicham, L86, M|243/243
+|-status|p2a: Medicham|tox
+|turn|12
+|
+|t:|1776970225
+|switch|p1a: Politoed|Politoed, L88, F|302/302
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Politoed
+|move|p2a: Medicham|Close Combat|p1a: Politoed
+|-damage|p1a: Politoed|106/302
+|-unboost|p2a: Medicham|def|1
+|-unboost|p2a: Medicham|spd|1
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Politoed|124/302|[from] item: Leftovers
+|-damage|p2a: Medicham|228/243 tox|[from] psn
+|upkeep
+|turn|13
+|inactive|Hollowglare has 270 seconds left.
+|
+|t:|1776970258
+|move|p2a: Medicham|Close Combat|p1a: Politoed
+|-damage|p1a: Politoed|0 fnt
+|-unboost|p2a: Medicham|def|1
+|-unboost|p2a: Medicham|spd|1
+|faint|p1a: Politoed
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Medicham|198/243 tox|[from] psn
+|upkeep
+|
+|t:|1776970261
+|switch|p1a: Tornadus|Tornadus, L82, M|115/263
+|turn|14
+|
+|t:|1776970268
+|switch|p2a: Uxie|Uxie, L83|260/260
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Uxie
+|-damage|p2a: Uxie|119/260
+|-unboost|p2a: Uxie|spe|1
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Uxie|135/260|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1776970279
+|-terastallize|p2a: Uxie|Steel
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Uxie
+|-resisted|p2a: Uxie
+|-damage|p2a: Uxie|63/260
+|move|p2a: Uxie|Psychic Noise|p1a: Tornadus
+|-damage|p1a: Tornadus|43/263
+|-start|p1a: Tornadus|move: Heal Block
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Uxie|79/260|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776970288
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Uxie
+|-resisted|p2a: Uxie
+|-damage|p2a: Uxie|16/260
+|move|p2a: Uxie|Psychic Noise|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|
+|-weather|none
+|-heal|p2a: Uxie|32/260|[from] item: Leftovers
+|upkeep
+|
+|t:|1776970297
+|switch|p1a: Mienshao|Mienshao, L83, F|243/243
+|turn|17
+|
+|t:|1776970304
+|move|p1a: Mienshao|High Jump Kick|p2a: Uxie
+|-supereffective|p2a: Uxie
+|-damage|p2a: Uxie|0 fnt
+|faint|p2a: Uxie
+|
+|upkeep
+|
+|t:|1776970307
+|switch|p2a: Medicham|Medicham, L86, M|198/243 tox
+|turn|18
+|
+|t:|1776970310
+|move|p2a: Medicham|Close Combat|p1a: Mienshao
+|-damage|p1a: Mienshao|14/243
+|-unboost|p2a: Medicham|def|1
+|-unboost|p2a: Medicham|spd|1
+|move|p1a: Mienshao|High Jump Kick|p2a: Medicham
+|-resisted|p2a: Medicham
+|-damage|p2a: Medicham|0 fnt
+|faint|p2a: Medicham
+|
+|upkeep
+|
+|t:|1776970313
+|switch|p2a: Arcanine|Arcanine, L84, M|288/288
+|-ability|p2a: Arcanine|Intimidate|boost
+|-unboost|p1a: Mienshao|atk|1
+|turn|19
+|
+|t:|1776970325
+|move|p2a: Arcanine|Extreme Speed|p1a: Mienshao
+|-damage|p1a: Mienshao|0 fnt
+|faint|p1a: Mienshao
+|
+|upkeep
+|
+|t:|1776970335
+|switch|p1a: Porygon2|Porygon2, L81|270/270
+|-ability|p1a: Porygon2|Download|boost
+|-boost|p1a: Porygon2|spa|1
+|turn|20
+|
+|t:|1776970350
+|move|p2a: Arcanine|Close Combat|p1a: Porygon2
+|-supereffective|p1a: Porygon2
+|-damage|p1a: Porygon2|136/270
+|-unboost|p2a: Arcanine|def|1
+|-unboost|p2a: Arcanine|spd|1
+|move|p1a: Porygon2|Shadow Ball|p2a: Arcanine
+|-damage|p2a: Arcanine|151/288
+|-unboost|p2a: Arcanine|spd|1
+|
+|upkeep
+|turn|21
+|
+|t:|1776970362
+|-terastallize|p1a: Porygon2|Fighting
+|move|p2a: Arcanine|Close Combat|p1a: Porygon2
+|-damage|p1a: Porygon2|76/270
+|-unboost|p2a: Arcanine|def|1
+|-unboost|p2a: Arcanine|spd|1
+|move|p1a: Porygon2|Recover|p1a: Porygon2
+|-heal|p1a: Porygon2|211/270
+|
+|upkeep
+|turn|22
+|
+|t:|1776970371
+|move|p2a: Arcanine|Close Combat|p1a: Porygon2
+|-damage|p1a: Porygon2|145/270
+|-unboost|p2a: Arcanine|def|1
+|-unboost|p2a: Arcanine|spd|1
+|move|p1a: Porygon2|Shadow Ball|p2a: Arcanine
+|-damage|p2a: Arcanine|0 fnt
+|faint|p2a: Arcanine
+|
+|win|Hollowglare

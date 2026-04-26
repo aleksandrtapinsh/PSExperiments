@@ -1,0 +1,360 @@
+|j|☆idiotic_waffle
+|j|☆Sirla21
+|t:|1776979164
+|gametype|singles
+|player|p1|idiotic_waffle|102|1178
+|player|p2|Sirla21|265|1135
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776979164
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Glalie|Glalie, L96, M|309/309
+|switch|p2a: Pachirisu|Pachirisu, L96, F|271/271
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Sirla21)
+|
+|t:|1776979175
+|move|p2a: Pachirisu|Nuzzle|p1a: Glalie
+|-damage|p1a: Glalie|294/309
+|-status|p1a: Glalie|par
+|move|p1a: Glalie|Spikes|p2a: Pachirisu
+|-sidestart|p2: Sirla21|Spikes
+|
+|upkeep
+|turn|2
+|
+|t:|1776979200
+|move|p2a: Pachirisu|Super Fang|p1a: Glalie
+|-damage|p1a: Glalie|147/309 par
+|move|p1a: Glalie|Earthquake|p2a: Pachirisu
+|-supereffective|p2a: Pachirisu
+|-damage|p2a: Pachirisu|117/271
+|
+|upkeep
+|turn|3
+|
+|t:|1776979215
+|move|p2a: Pachirisu|U-turn|p1a: Glalie
+|-damage|p1a: Glalie|109/309 par
+|
+|t:|1776979219
+|switch|p2a: Kilowattrel|Kilowattrel, L83, F|252/252|[from] U-turn
+|move|p1a: Glalie|Earthquake|p2a: Kilowattrel
+|-immune|p2a: Kilowattrel
+|
+|upkeep
+|turn|4
+|
+|t:|1776979227
+|move|p2a: Kilowattrel|Discharge|p1a: Glalie
+|-damage|p1a: Glalie|31/309 par
+|move|p1a: Glalie|Freeze-Dry|p2a: Kilowattrel
+|-supereffective|p2a: Kilowattrel
+|-damage|p2a: Kilowattrel|42/252
+|
+|upkeep
+|turn|5
+|
+|t:|1776979242
+|switch|p1a: Gliscor|Gliscor, L76, F|239/239
+|move|p2a: Kilowattrel|Discharge|p1a: Gliscor
+|-immune|p1a: Gliscor
+|
+|-status|p1a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|6
+|
+|t:|1776979263
+|move|p2a: Kilowattrel|Roost|p2a: Kilowattrel
+|-heal|p2a: Kilowattrel|168/252
+|-singleturn|p2a: Kilowattrel|move: Roost
+|move|p1a: Gliscor|Knock Off|p2a: Kilowattrel
+|-damage|p2a: Kilowattrel|99/252
+|-enditem|p2a: Kilowattrel|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Gliscor
+|
+|upkeep
+|turn|7
+|
+|t:|1776979278
+|move|p2a: Kilowattrel|Roost|p2a: Kilowattrel
+|-heal|p2a: Kilowattrel|225/252
+|-singleturn|p2a: Kilowattrel|move: Roost
+|move|p1a: Gliscor|Toxic Spikes|p2a: Kilowattrel
+|-sidestart|p2: Sirla21|move: Toxic Spikes
+|
+|upkeep
+|turn|8
+|
+|t:|1776979290
+|move|p2a: Kilowattrel|Hurricane|p1a: Gliscor
+|-damage|p1a: Gliscor|91/239 tox
+|move|p1a: Gliscor|Knock Off|p2a: Kilowattrel
+|-damage|p2a: Kilowattrel|178/252
+|
+|-heal|p1a: Gliscor|120/239 tox|[from] ability: Poison Heal
+|upkeep
+|turn|9
+|
+|t:|1776979298
+|move|p1a: Gliscor|Protect|p1a: Gliscor
+|-singleturn|p1a: Gliscor|Protect
+|move|p2a: Kilowattrel|Hurricane|p1a: Gliscor
+|-activate|p1a: Gliscor|move: Protect
+|
+|-heal|p1a: Gliscor|149/239 tox|[from] ability: Poison Heal
+|upkeep
+|turn|10
+|
+|t:|1776979305
+|move|p2a: Kilowattrel|Hurricane|p1a: Gliscor
+|-damage|p1a: Gliscor|0 fnt
+|faint|p1a: Gliscor
+|
+|upkeep
+|
+|t:|1776979328
+|switch|p1a: Magearna|Magearna-Original, L77|250/250
+|turn|11
+|
+|t:|1776979338
+|move|p2a: Kilowattrel|Discharge|p1a: Magearna
+|-damage|p1a: Magearna|175/250
+|move|p1a: Magearna|Shift Gear|p1a: Magearna
+|-boost|p1a: Magearna|spe|2
+|-boost|p1a: Magearna|atk|1
+|
+|upkeep
+|turn|12
+|
+|t:|1776979356
+|move|p1a: Magearna|Iron Head|p2a: Kilowattrel
+|-resisted|p2a: Kilowattrel
+|-damage|p2a: Kilowattrel|110/252
+|cant|p2a: Kilowattrel|flinch
+|
+|upkeep
+|turn|13
+|
+|t:|1776979366
+|move|p1a: Magearna|Tera Blast|p2a: Kilowattrel
+|-damage|p2a: Kilowattrel|28/252
+|move|p2a: Kilowattrel|Discharge|p1a: Magearna
+|-damage|p1a: Magearna|91/250
+|-status|p1a: Magearna|par
+|
+|upkeep
+|turn|14
+|
+|t:|1776979377
+|move|p2a: Kilowattrel|Discharge|p1a: Magearna
+|-damage|p1a: Magearna|7/250 par
+|cant|p1a: Magearna|par
+|
+|upkeep
+|turn|15
+|
+|t:|1776979388
+|move|p2a: Kilowattrel|Discharge|p1a: Magearna
+|-damage|p1a: Magearna|0 fnt
+|faint|p1a: Magearna
+|
+|upkeep
+|
+|t:|1776979396
+|switch|p1a: Braviary|Braviary, L85, M|309/309
+|turn|16
+|
+|t:|1776979402
+|move|p2a: Kilowattrel|Discharge|p1a: Braviary
+|-supereffective|p1a: Braviary
+|-damage|p1a: Braviary|93/309
+|move|p1a: Braviary|Brave Bird|p2a: Kilowattrel
+|-resisted|p2a: Kilowattrel
+|-damage|p2a: Kilowattrel|0 fnt
+|faint|p2a: Kilowattrel
+|-damage|p1a: Braviary|84/309|[from] Recoil
+|
+|upkeep
+|
+|t:|1776979414
+|switch|p2a: Furret|Furret, L94, F|312/312
+|-damage|p2a: Furret|273/312|[from] Spikes
+|-status|p2a: Furret|psn
+|-item|p1a: Braviary|Heavy-Duty Boots|[from] ability: Frisk|[of] p2a: Furret
+|turn|17
+|
+|t:|1776979427
+|move|p2a: Furret|Knock Off|p1a: Braviary
+|-damage|p1a: Braviary|0 fnt
+|-enditem|p1a: Braviary|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Furret
+|faint|p1a: Braviary
+|-damage|p2a: Furret|242/312 psn|[from] item: Life Orb
+|
+|-damage|p2a: Furret|203/312 psn|[from] psn
+|upkeep
+|
+|t:|1776979438
+|switch|p1a: Probopass|Probopass, L91, F|257/257
+|turn|18
+|
+|t:|1776979447
+|-terastallize|p1a: Probopass|Fighting
+|move|p2a: Furret|Brick Break|p1a: Probopass
+|-damage|p1a: Probopass|210/257
+|-damage|p2a: Furret|172/312 psn|[from] item: Life Orb
+|move|p1a: Probopass|Body Press|p2a: Furret
+|-supereffective|p2a: Furret
+|-damage|p2a: Furret|0 fnt
+|faint|p2a: Furret
+|
+|-heal|p1a: Probopass|226/257|[from] item: Leftovers
+|upkeep
+|inactive|Sirla21 has 120 seconds left.
+|
+|t:|1776979481
+|switch|p2a: Hitmonlee|Hitmonlee, L85, M|223/223
+|-damage|p2a: Hitmonlee|196/223|[from] Spikes
+|-status|p2a: Hitmonlee|psn
+|turn|19
+|
+|t:|1776979491
+|move|p2a: Hitmonlee|High Jump Kick|p1a: Probopass
+|-damage|p1a: Probopass|45/257
+|move|p1a: Probopass|Flash Cannon|p2a: Hitmonlee
+|-damage|p2a: Hitmonlee|124/223 psn
+|
+|-heal|p1a: Probopass|61/257|[from] item: Leftovers
+|-damage|p2a: Hitmonlee|97/223 psn|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1776979501
+|switch|p1a: Glalie|Glalie, L96, M|31/309 par
+|move|p2a: Hitmonlee|High Jump Kick|p1a: Glalie
+|-supereffective|p1a: Glalie
+|-damage|p1a: Glalie|0 fnt
+|faint|p1a: Glalie
+|
+|-damage|p2a: Hitmonlee|70/223 psn|[from] psn
+|upkeep
+|
+|t:|1776979509
+|switch|p1a: Rabsca|Rabsca, L91, F|284/284
+|turn|21
+|
+|t:|1776979519
+|switch|p2a: Leavanny|Leavanny, L86, M|269/269
+|-damage|p2a: Leavanny|236/269|[from] Spikes
+|-status|p2a: Leavanny|psn
+|move|p1a: Rabsca|Revival Blessing|p1a: Rabsca
+|
+|t:|1776979525
+|-heal|p1: Magearna|125/250|[from] move: Revival Blessing
+|
+|-damage|p2a: Leavanny|203/269 psn|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1776979534
+|move|p2a: Leavanny|Knock Off|p1a: Rabsca
+|-supereffective|p1a: Rabsca
+|-damage|p1a: Rabsca|142/284
+|-enditem|p1a: Rabsca|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Leavanny
+|move|p1a: Rabsca|Bug Buzz|p2a: Leavanny
+|-supereffective|p2a: Leavanny
+|-damage|p2a: Leavanny|0 fnt
+|faint|p2a: Leavanny
+|
+|upkeep
+|
+|t:|1776979544
+|switch|p2a: Hitmonlee|Hitmonlee, L85, M|70/223 psn
+|-damage|p2a: Hitmonlee|43/223 psn|[from] Spikes
+|turn|23
+|
+|t:|1776979553
+|move|p2a: Hitmonlee|Stone Edge|p1a: Rabsca
+|-supereffective|p1a: Rabsca
+|-damage|p1a: Rabsca|0 fnt
+|faint|p1a: Rabsca
+|
+|-damage|p2a: Hitmonlee|16/223 psn|[from] psn
+|upkeep
+|
+|t:|1776979565
+|switch|p1a: Probopass|Probopass, L91, F, tera:Fighting|61/257
+|turn|24
+|
+|t:|1776979574
+|switch|p2a: Ogerpon|Ogerpon, L80, F|259/259
+|-damage|p2a: Ogerpon|227/259|[from] Spikes
+|-status|p2a: Ogerpon|psn
+|move|p1a: Probopass|Power Gem|p2a: Ogerpon
+|-crit|p2a: Ogerpon
+|-damage|p2a: Ogerpon|113/259 psn
+|
+|-heal|p1a: Probopass|77/257|[from] item: Leftovers
+|-damage|p2a: Ogerpon|81/259 psn|[from] psn
+|upkeep
+|turn|25
+|
+|t:|1776979590
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Probopass
+|-damage|p1a: Probopass|0 fnt
+|faint|p1a: Probopass
+|-damage|p2a: Ogerpon|56/259 psn|[from] item: Life Orb
+|
+|-damage|p2a: Ogerpon|24/259 psn|[from] psn
+|upkeep
+|
+|t:|1776979596
+|switch|p1a: Magearna|Magearna-Original, L77|125/250
+|turn|26
+|
+|t:|1776979605
+|move|p2a: Ogerpon|Superpower|p1a: Magearna
+|-damage|p1a: Magearna|11/250
+|-unboost|p2a: Ogerpon|atk|1
+|-unboost|p2a: Ogerpon|def|1
+|-damage|p2a: Ogerpon|0 fnt|[from] item: Life Orb
+|faint|p2a: Ogerpon
+|-ability|p1a: Magearna|Soul-Heart|boost
+|-boost|p1a: Magearna|spa|1
+|move|p1a: Magearna|Shift Gear|p1a: Magearna
+|-boost|p1a: Magearna|spe|2
+|-boost|p1a: Magearna|atk|1
+|
+|upkeep
+|
+|t:|1776979618
+|switch|p2a: Hitmonlee|Hitmonlee, L85, M|16/223 psn
+|-damage|p2a: Hitmonlee|0 fnt|[from] Spikes
+|faint|p2a: Hitmonlee
+|-ability|p1a: Magearna|Soul-Heart|boost
+|-boost|p1a: Magearna|spa|1
+|
+|t:|1776979623
+|switch|p2a: Pachirisu|Pachirisu, L96, F|117/271
+|-damage|p2a: Pachirisu|84/271|[from] Spikes
+|-status|p2a: Pachirisu|psn
+|turn|27
+|
+|t:|1776979632
+|move|p1a: Magearna|Fleur Cannon|p2a: Pachirisu
+|-damage|p2a: Pachirisu|0 fnt
+|-unboost|p1a: Magearna|spa|2
+|faint|p2a: Pachirisu
+|
+|win|idiotic_waffle
+|raw|idiotic_waffle's rating: 1178 &rarr; <strong>1200</strong><br />(+22 for winning)
+|raw|Sirla21's rating: 1135 &rarr; <strong>1113</strong><br />(-22 for losing)
+|l|☆Sirla21
+|player|p2|

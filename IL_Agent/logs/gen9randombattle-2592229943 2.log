@@ -1,0 +1,87 @@
+|j|☆Alphamalekitten
+|j|☆Flctt nc megtr
+|t:|1776971957
+|gametype|singles
+|player|p1|Alphamalekitten|170|1476
+|player|p2|Flctt nc megtr|hilbert|1455
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776971957
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Plusle|Plusle, L95, M|268/268
+|switch|p2a: Duraludon|Duraludon, L82, F|249/249
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Flctt nc megtr)
+|
+|t:|1776971980
+|move|p1a: Plusle|Nasty Plot|p1a: Plusle
+|-boost|p1a: Plusle|spa|2
+|move|p2a: Duraludon|Stealth Rock|p1a: Plusle
+|-sidestart|p1: Alphamalekitten|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1776971985
+|move|p1a: Plusle|Encore|p2a: Duraludon
+|-start|p2a: Duraludon|Encore
+|move|p2a: Duraludon|Stealth Rock||[still]
+|-fail|p2a: Duraludon
+|
+|upkeep
+|turn|3
+|
+|t:|1776972013
+|switch|p2a: Glastrier|Glastrier, L86|312/312
+|move|p1a: Plusle|Nasty Plot|p1a: Plusle
+|-boost|p1a: Plusle|spa|2
+|
+|upkeep
+|turn|4
+|
+|t:|1776972020
+|move|p1a: Plusle|Thunderbolt|p2a: Glastrier
+|-damage|p2a: Glastrier|0 fnt
+|faint|p2a: Glastrier
+|-damage|p1a: Plusle|242/268|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776972028
+|switch|p2a: Duraludon|Duraludon, L82, F|249/249
+|turn|5
+|
+|t:|1776972035
+|move|p1a: Plusle|Alluring Voice|p2a: Duraludon
+|-damage|p2a: Duraludon|0 fnt
+|faint|p2a: Duraludon
+|-damage|p1a: Plusle|216/268|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776972043
+|switch|p2a: Hypno|Hypno, L95, M|315/315
+|turn|6
+|
+|t:|1776972048
+|move|p1a: Plusle|Thunderbolt|p2a: Hypno
+|-damage|p2a: Hypno|0 fnt
+|faint|p2a: Hypno
+|-damage|p1a: Plusle|190/268|[from] item: Life Orb
+|
+|upkeep
+|-message|Flctt nc megtr forfeited.
+|
+|win|Alphamalekitten
+|raw|Alphamalekitten's rating: 1476 &rarr; <strong>1495</strong><br />(+19 for winning)
+|raw|Flctt nc megtr's rating: 1455 &rarr; <strong>1436</strong><br />(-19 for losing)
+|l|☆Flctt nc megtr
+|player|p2|

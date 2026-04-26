@@ -1,0 +1,261 @@
+|j|☆fathalbert
+|j|☆aitortxubi
+|t:|1776969548
+|gametype|singles
+|player|p1|fathalbert|265|1395
+|player|p2|aitortxubi|266|1371
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776969548
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Rillaboom|Rillaboom, L79, F|288/288
+|switch|p2a: Volcarona|Volcarona, L77, F|257/257
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by aitortxubi)
+|
+|t:|1776969598
+|switch|p1a: Golduck|Golduck, L90, F|290/290
+|-ability|p1a: Golduck|Cloud Nine
+|-terastallize|p2a: Volcarona|Water
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|
+|upkeep
+|turn|2
+|
+|t:|1776969619
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|move|p1a: Golduck|Grass Knot|p2a: Volcarona
+|-supereffective|p2a: Volcarona
+|-damage|p2a: Volcarona|161/257
+|
+|-heal|p2a: Volcarona|177/257|[from] Grassy Terrain
+|upkeep
+|turn|3
+|c|☆fathalbert|I got all sp attackers
+|
+|t:|1776969633
+|move|p2a: Volcarona|Bug Buzz|p1a: Golduck
+|-damage|p1a: Golduck|70/290
+|move|p1a: Golduck|Grass Knot|p2a: Volcarona
+|-supereffective|p2a: Volcarona
+|-damage|p2a: Volcarona|83/257
+|-status|p1a: Golduck|brn|[from] ability: Flame Body|[of] p2a: Volcarona
+|
+|-heal|p2a: Volcarona|99/257|[from] Grassy Terrain
+|-heal|p1a: Golduck|88/290 brn|[from] Grassy Terrain
+|-damage|p1a: Golduck|70/290 brn|[from] brn
+|upkeep
+|turn|4
+|c|☆aitortxubi|damn
+|
+|t:|1776969642
+|move|p2a: Volcarona|Bug Buzz|p1a: Golduck
+|-damage|p1a: Golduck|0 fnt
+|faint|p1a: Golduck
+|
+|-heal|p2a: Volcarona|115/257|[from] Grassy Terrain
+|upkeep
+|
+|t:|1776969648
+|switch|p1a: Articuno|Articuno-Galar, L84|288/288
+|turn|5
+|c|☆aitortxubi|i dont think rillaboom its a special attacker
+|c|☆fathalbert|oh yeah
+|c|☆fathalbert|just 4x ineffective lol
+|
+|t:|1776969671
+|-terastallize|p1a: Articuno|Steel
+|move|p2a: Volcarona|Bug Buzz|p1a: Articuno
+|-resisted|p1a: Articuno
+|-damage|p1a: Articuno|186/288
+|-unboost|p1a: Articuno|spd|1
+|-ability|p1a: Articuno|Competitive|boost
+|-boost|p1a: Articuno|spa|2
+|move|p1a: Articuno|Freezing Glare|p2a: Volcarona
+|-damage|p2a: Volcarona|0 fnt
+|faint|p2a: Volcarona
+|
+|-heal|p1a: Articuno|204/288|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|c|☆aitortxubi|u dont have ground move?
+|c|☆aitortxubi|he has it normally
+|inactive|aitortxubi has 120 seconds left.
+|c|☆fathalbert|its glide woodhammer swords dance and uhh
+|
+|t:|1776969708
+|switch|p2a: Hariyama|Hariyama, L87, F|392/392
+|turn|6
+|c|☆fathalbert|knock off
+|
+|t:|1776969719
+|move|p1a: Articuno|Hurricane|p2a: Hariyama
+|-supereffective|p2a: Hariyama
+|-damage|p2a: Hariyama|0 fnt
+|faint|p2a: Hariyama
+|
+|upkeep
+|c|☆aitortxubi|dont worry im cooked too
+|
+|t:|1776969743
+|switch|p2a: Rotom|Rotom, L88|231/231
+|turn|7
+|c|☆fathalbert|we're so chopped
+|c|☆aitortxubi|cant do anything against steel
+|
+|t:|1776969765
+|switch|p1a: Rillaboom|Rillaboom, L79, F|288/288
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Rotom|Shadow Ball|p1a: Rillaboom
+|-damage|p1a: Rillaboom|128/288
+|-damage|p2a: Rotom|208/231|[from] item: Life Orb
+|
+|-heal|p1a: Rillaboom|146/288|[from] Grassy Terrain
+|upkeep
+|turn|8
+|
+|t:|1776969775
+|move|p2a: Rotom|Shadow Ball|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p1a: Rillaboom
+|-damage|p2a: Rotom|185/231|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776969780
+|switch|p1a: Articuno|Articuno-Galar, L84, tera:Steel|204/288
+|turn|9
+|
+|t:|1776969793
+|move|p2a: Rotom|Shadow Ball|p1a: Articuno
+|-damage|p1a: Articuno|94/288
+|-damage|p2a: Rotom|162/231|[from] item: Life Orb
+|move|p1a: Articuno|Calm Mind|p1a: Articuno
+|-boost|p1a: Articuno|spa|1
+|-boost|p1a: Articuno|spd|1
+|
+|-heal|p1a: Articuno|112/288|[from] Grassy Terrain
+|upkeep
+|turn|10
+|
+|t:|1776969803
+|move|p2a: Rotom|Nasty Plot|p2a: Rotom
+|-boost|p2a: Rotom|spa|2
+|move|p1a: Articuno|Recover|p1a: Articuno
+|-heal|p1a: Articuno|256/288
+|
+|-heal|p1a: Articuno|274/288|[from] Grassy Terrain
+|upkeep
+|turn|11
+|inactive|aitortxubi has 120 seconds left.
+|
+|t:|1776969810
+|move|p2a: Rotom|Shadow Ball|p1a: Articuno
+|-damage|p1a: Articuno|126/288
+|-damage|p2a: Rotom|139/231|[from] item: Life Orb
+|move|p1a: Articuno|Calm Mind|p1a: Articuno
+|-boost|p1a: Articuno|spa|1
+|-boost|p1a: Articuno|spd|1
+|
+|-heal|p1a: Articuno|144/288|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|12
+|
+|t:|1776969818
+|move|p2a: Rotom|Shadow Ball|p1a: Articuno
+|-damage|p1a: Articuno|31/288
+|-damage|p2a: Rotom|116/231|[from] item: Life Orb
+|move|p1a: Articuno|Recover|p1a: Articuno
+|-heal|p1a: Articuno|175/288
+|
+|upkeep
+|turn|13
+|c|☆aitortxubi|NETANYAHU
+|c|☆aitortxubi|PLEASE
+|c|☆aitortxubi|REDUCE SPECIAL DEFENSE
+|c|☆fathalbert|lmfao
+|c|☆aitortxubi|OR CIT
+|inactive|aitortxubi has 120 seconds left.
+|c|☆aitortxubi|CRIT
+|c|☆aitortxubi|NETANYAHU
+|
+|t:|1776969838
+|move|p2a: Rotom|Shadow Ball|p1a: Articuno
+|-damage|p1a: Articuno|68/288
+|-damage|p2a: Rotom|93/231|[from] item: Life Orb
+|move|p1a: Articuno|Freezing Glare|p2a: Rotom
+|-damage|p2a: Rotom|0 fnt
+|faint|p2a: Rotom
+|
+|upkeep
+|c|☆aitortxubi|FUCK
+|inactive|aitortxubi has 120 seconds left.
+|
+|t:|1776969856
+|switch|p2a: Gothitelle|Gothitelle, L90, M|272/272
+|turn|14
+|
+|t:|1776969861
+|move|p1a: Articuno|Recover|p1a: Articuno
+|-heal|p1a: Articuno|212/288
+|move|p2a: Gothitelle|Focus Blast|p1a: Articuno
+|-supereffective|p1a: Articuno
+|-damage|p1a: Articuno|124/288
+|
+|upkeep
+|turn|15
+|inactive|aitortxubi has 120 seconds left.
+|
+|t:|1776969875
+|switch|p2a: Venusaur|Venusaur, L84, M|272/272
+|move|p1a: Articuno|Calm Mind|p1a: Articuno
+|-boost|p1a: Articuno|spa|1
+|-boost|p1a: Articuno|spd|1
+|
+|upkeep
+|turn|16
+|inactive|aitortxubi has 120 seconds left.
+|
+|t:|1776969882
+|move|p1a: Articuno|Hurricane|p2a: Venusaur
+|-supereffective|p2a: Venusaur
+|-damage|p2a: Venusaur|0 fnt
+|faint|p2a: Venusaur
+|
+|upkeep
+|
+|t:|1776969887
+|switch|p2a: Gothitelle|Gothitelle, L90, M|272/272
+|turn|17
+|
+|t:|1776969894
+|move|p1a: Articuno|Recover|p1a: Articuno
+|-heal|p1a: Articuno|268/288
+|move|p2a: Gothitelle|Focus Blast|p1a: Articuno
+|-supereffective|p1a: Articuno
+|-damage|p1a: Articuno|198/288
+|
+|upkeep
+|turn|18
+|c|☆aitortxubi|gg
+|c|☆aitortxubi|fck u netanyahu
+|c|☆fathalbert|you too thanks for the laughs
+|-message|aitortxubi forfeited.
+|
+|win|fathalbert

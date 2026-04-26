@@ -1,0 +1,538 @@
+|j|☆Nilnapface
+|j|☆UndeniablyVual
+|t:|1776971352
+|gametype|singles
+|player|p1|Nilnapface|hiker-gen4|1108
+|player|p2|UndeniablyVual|kahili|1133
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776971352
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Farigiraf|Farigiraf, L90, M|362/362
+|switch|p2a: Glaceon|Glaceon, L94, M|275/275
+|turn|1
+|
+|t:|1776971371
+|move|p2a: Glaceon|Calm Mind|p2a: Glaceon
+|-boost|p2a: Glaceon|spa|1
+|-boost|p2a: Glaceon|spd|1
+|move|p1a: Farigiraf|Body Slam|p2a: Glaceon
+|-damage|p2a: Glaceon|206/275
+|-status|p2a: Glaceon|par
+|
+|upkeep
+|turn|2
+|
+|t:|1776971395
+|switch|p1a: Delphox|Delphox, L84, M|263/263
+|move|p2a: Glaceon|Wish|p2a: Glaceon
+|
+|upkeep
+|turn|3
+|
+|t:|1776971428
+|switch|p2a: Luvdisc|Luvdisc, F|247/247
+|move|p1a: Delphox|Nasty Plot|p1a: Delphox
+|-boost|p1a: Delphox|spa|2
+|
+|upkeep
+|turn|4
+|
+|t:|1776971441
+|switch|p1a: Regieleki|Regieleki, L79|256/256
+|move|p2a: Luvdisc|Surf|p1a: Regieleki
+|-damage|p1a: Regieleki|132/256
+|
+|upkeep
+|turn|5
+|
+|t:|1776971453
+|switch|p2a: Landorus|Landorus, L75, M|257/257
+|move|p1a: Regieleki|Thunderbolt|p2a: Landorus
+|-immune|p2a: Landorus
+|
+|upkeep
+|turn|6
+|
+|t:|1776971474
+|switch|p1a: Cryogonal|Cryogonal, L89|287/287
+|move|p2a: Landorus|Rock Slide|p1a: Cryogonal
+|-supereffective|p1a: Cryogonal
+|-damage|p1a: Cryogonal|53/287
+|
+|upkeep
+|turn|7
+|
+|t:|1776971486
+|switch|p2a: Glaceon|Glaceon, L94, M|206/275 par
+|move|p1a: Cryogonal|Ice Beam|p2a: Glaceon
+|-resisted|p2a: Glaceon
+|-damage|p2a: Glaceon|164/275 par
+|
+|upkeep
+|turn|8
+|
+|t:|1776971494
+|move|p1a: Cryogonal|Recover|p1a: Cryogonal
+|-heal|p1a: Cryogonal|197/287
+|move|p2a: Glaceon|Wish|p2a: Glaceon
+|
+|upkeep
+|turn|9
+|
+|t:|1776971509
+|move|p1a: Cryogonal|Tera Blast|p2a: Glaceon
+|-damage|p2a: Glaceon|114/275 par
+|cant|p2a: Glaceon|par
+|
+|-heal|p2a: Glaceon|251/275 par|[from] move: Wish|[wisher] Glaceon
+|upkeep
+|turn|10
+|
+|t:|1776971518
+|move|p1a: Cryogonal|Recover|p1a: Cryogonal
+|-heal|p1a: Cryogonal|287/287
+|move|p2a: Glaceon|Calm Mind|p2a: Glaceon
+|-boost|p2a: Glaceon|spa|1
+|-boost|p2a: Glaceon|spd|1
+|
+|upkeep
+|turn|11
+|
+|t:|1776971524
+|switch|p1a: Delphox|Delphox, L84, M|263/263
+|move|p2a: Glaceon|Calm Mind|p2a: Glaceon
+|-boost|p2a: Glaceon|spa|1
+|-boost|p2a: Glaceon|spd|1
+|
+|upkeep
+|turn|12
+|
+|t:|1776971536
+|move|p1a: Delphox|Fire Blast|p2a: Glaceon
+|-supereffective|p2a: Glaceon
+|-damage|p2a: Glaceon|143/275 par
+|move|p2a: Glaceon|Freeze-Dry|p1a: Delphox
+|-resisted|p1a: Delphox
+|-damage|p1a: Delphox|164/263
+|-status|p1a: Delphox|frz
+|
+|upkeep
+|turn|13
+|
+|t:|1776971561
+|cant|p1a: Delphox|frz
+|cant|p2a: Glaceon|par
+|
+|upkeep
+|turn|14
+|
+|t:|1776971566
+|cant|p1a: Delphox|frz
+|move|p2a: Glaceon|Wish|p2a: Glaceon
+|
+|upkeep
+|turn|15
+|
+|t:|1776971570
+|cant|p1a: Delphox|frz
+|move|p2a: Glaceon|Calm Mind|p2a: Glaceon
+|-boost|p2a: Glaceon|spa|1
+|-boost|p2a: Glaceon|spd|1
+|
+|-heal|p2a: Glaceon|275/275 par|[from] move: Wish|[wisher] Glaceon
+|upkeep
+|turn|16
+|
+|t:|1776971577
+|-curestatus|p1a: Delphox|frz|[msg]
+|move|p1a: Delphox|Focus Blast|p2a: Glaceon
+|-supereffective|p2a: Glaceon
+|-damage|p2a: Glaceon|215/275 par
+|move|p2a: Glaceon|Calm Mind|p2a: Glaceon
+|-boost|p2a: Glaceon|spa|1
+|-boost|p2a: Glaceon|spd|1
+|
+|upkeep
+|turn|17
+|
+|t:|1776971588
+|switch|p1a: Regieleki|Regieleki, L79|132/256
+|cant|p2a: Glaceon|par
+|
+|upkeep
+|turn|18
+|
+|t:|1776971595
+|move|p1a: Regieleki|Explosion|p2a: Glaceon
+|-damage|p2a: Glaceon|102/275 par
+|faint|p1a: Regieleki
+|cant|p2a: Glaceon|par
+|
+|upkeep
+|
+|t:|1776971610
+|switch|p1a: Basculin|Basculin, L86, M|261/261
+|turn|19
+|
+|t:|1776971616
+|move|p1a: Basculin|Flip Turn|p2a: Glaceon
+|-damage|p2a: Glaceon|4/275 par
+|
+|t:|1776971623
+|switch|p1a: Delphox|Delphox, L84, M|164/263|[from] Flip Turn
+|cant|p2a: Glaceon|par
+|
+|upkeep
+|turn|20
+|
+|t:|1776971633
+|cant|p2a: Glaceon|par
+|move|p1a: Delphox|Psyshock|p2a: Glaceon
+|-damage|p2a: Glaceon|0 fnt
+|faint|p2a: Glaceon
+|
+|upkeep
+|
+|t:|1776971640
+|switch|p2a: Luvdisc|Luvdisc, F|247/247
+|turn|21
+|
+|t:|1776971651
+|switch|p1a: Farigiraf|Farigiraf, L90, M|362/362
+|move|p2a: Luvdisc|Flip Turn|p1a: Farigiraf
+|-damage|p1a: Farigiraf|311/362
+|
+|t:|1776971664
+|switch|p2a: Veluza|Veluza, L85, M|292/292|[from] Flip Turn
+|
+|-heal|p1a: Farigiraf|333/362|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1776971683
+|move|p1a: Farigiraf|Protect|p1a: Farigiraf
+|-singleturn|p1a: Farigiraf|Protect
+|move|p2a: Veluza|Night Slash|p1a: Farigiraf
+|-activate|p1a: Farigiraf|move: Protect
+|
+|-heal|p1a: Farigiraf|355/362|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1776971712
+|switch|p1a: Dugtrio|Dugtrio, L84, F|196/196
+|move|p2a: Veluza|Night Slash|p1a: Dugtrio
+|-damage|p1a: Dugtrio|29/196
+|
+|upkeep
+|turn|24
+|
+|t:|1776971732
+|move|p1a: Dugtrio|Sucker Punch|p2a: Veluza
+|-supereffective|p2a: Veluza
+|-damage|p2a: Veluza|144/292
+|-damage|p1a: Dugtrio|10/196|[from] item: Life Orb
+|move|p2a: Veluza|Night Slash|p1a: Dugtrio
+|-damage|p1a: Dugtrio|0 fnt
+|faint|p1a: Dugtrio
+|
+|upkeep
+|
+|t:|1776971740
+|switch|p1a: Farigiraf|Farigiraf, L90, M|355/362
+|turn|25
+|
+|t:|1776971746
+|move|p2a: Veluza|Night Slash|p1a: Farigiraf
+|-supereffective|p1a: Farigiraf
+|-damage|p1a: Farigiraf|79/362
+|move|p1a: Farigiraf|Body Slam|p2a: Veluza
+|-damage|p2a: Veluza|33/292
+|-status|p2a: Veluza|par
+|
+|-heal|p1a: Farigiraf|101/362|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1776971756
+|move|p1a: Farigiraf|Wish|p1a: Farigiraf
+|cant|p2a: Veluza|par
+|
+|-heal|p1a: Farigiraf|123/362|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1776971761
+|move|p1a: Farigiraf|Body Slam|p2a: Veluza
+|-damage|p2a: Veluza|0 fnt
+|faint|p2a: Veluza
+|
+|-heal|p1a: Farigiraf|304/362|[from] move: Wish|[wisher] Farigiraf
+|-heal|p1a: Farigiraf|326/362|[from] item: Leftovers
+|upkeep
+|
+|t:|1776971795
+|switch|p2a: Landorus|Landorus, L75, M|257/257
+|turn|28
+|
+|t:|1776971812
+|move|p1a: Farigiraf|Protect|p1a: Farigiraf
+|-singleturn|p1a: Farigiraf|Protect
+|move|p2a: Landorus|Earth Power|p1a: Farigiraf
+|-activate|p1a: Farigiraf|move: Protect
+|
+|-heal|p1a: Farigiraf|348/362|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1776971823
+|switch|p1a: Cryogonal|Cryogonal, L89|287/287
+|move|p2a: Landorus|Rock Slide|p1a: Cryogonal
+|-supereffective|p1a: Cryogonal
+|-damage|p1a: Cryogonal|27/287
+|
+|upkeep
+|turn|30
+|
+|t:|1776971837
+|switch|p2a: Luvdisc|Luvdisc, F|247/247
+|move|p1a: Cryogonal|Ice Beam|p2a: Luvdisc
+|-resisted|p2a: Luvdisc
+|-damage|p2a: Luvdisc|196/247
+|
+|upkeep
+|turn|31
+|
+|t:|1776971862
+|switch|p1a: Basculin|Basculin, L86, M|261/261
+|move|p2a: Luvdisc|Flip Turn|p1a: Basculin
+|-resisted|p1a: Basculin
+|-damage|p1a: Basculin|234/261
+|
+|t:|1776971871
+|switch|p2a: Chesnaught|Chesnaught, L84, F|285/285|[from] Flip Turn
+|
+|upkeep
+|turn|32
+|
+|t:|1776971883
+|switch|p1a: Farigiraf|Farigiraf, L90, M|348/362
+|move|p2a: Chesnaught|Iron Defense|p2a: Chesnaught
+|-boost|p2a: Chesnaught|def|2
+|
+|-heal|p1a: Farigiraf|362/362|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1776971895
+|move|p1a: Farigiraf|Psychic Noise|p2a: Chesnaught
+|-supereffective|p2a: Chesnaught
+|-damage|p2a: Chesnaught|67/285
+|-start|p2a: Chesnaught|move: Heal Block
+|move|p2a: Chesnaught|Body Press|p1a: Farigiraf
+|-damage|p1a: Farigiraf|125/362
+|
+|-heal|p1a: Farigiraf|147/362|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1776971923
+|move|p1a: Farigiraf|Psychic Noise|p2a: Chesnaught
+|-supereffective|p2a: Chesnaught
+|-damage|p2a: Chesnaught|0 fnt
+|faint|p2a: Chesnaught
+|
+|-heal|p1a: Farigiraf|169/362|[from] item: Leftovers
+|upkeep
+|
+|t:|1776971943
+|switch|p2a: Luvdisc|Luvdisc, F|196/247
+|turn|35
+|
+|t:|1776971949
+|move|p1a: Farigiraf|Protect|p1a: Farigiraf
+|-singleturn|p1a: Farigiraf|Protect
+|move|p2a: Luvdisc|Surf|p1a: Farigiraf
+|-activate|p1a: Farigiraf|move: Protect
+|
+|-heal|p1a: Farigiraf|191/362|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1776971965
+|switch|p1a: Basculin|Basculin, L86, M|234/261
+|move|p2a: Luvdisc|Substitute|p2a: Luvdisc
+|-start|p2a: Luvdisc|Substitute
+|-damage|p2a: Luvdisc|135/247
+|
+|upkeep
+|turn|37
+|
+|t:|1776971978
+|move|p1a: Basculin|Aqua Jet|p2a: Luvdisc
+|-resisted|p2a: Luvdisc
+|-activate|p2a: Luvdisc|move: Substitute|[damage]
+|move|p2a: Luvdisc|Surf|p1a: Basculin
+|-resisted|p1a: Basculin
+|-damage|p1a: Basculin|182/261
+|
+|upkeep
+|turn|38
+|
+|t:|1776971990
+|move|p1a: Basculin|Aqua Jet|p2a: Luvdisc
+|-resisted|p2a: Luvdisc
+|-end|p2a: Luvdisc|Substitute
+|move|p2a: Luvdisc|Endeavor|p1a: Basculin
+|-damage|p1a: Basculin|135/261
+|
+|upkeep
+|turn|39
+|
+|t:|1776972009
+|move|p1a: Basculin|Aqua Jet|p2a: Luvdisc
+|-resisted|p2a: Luvdisc
+|-damage|p2a: Luvdisc|81/247
+|move|p2a: Luvdisc|Substitute|p2a: Luvdisc
+|-start|p2a: Luvdisc|Substitute
+|-damage|p2a: Luvdisc|20/247
+|
+|upkeep
+|turn|40
+|
+|t:|1776972028
+|move|p1a: Basculin|Aqua Jet|p2a: Luvdisc
+|-resisted|p2a: Luvdisc
+|-activate|p2a: Luvdisc|move: Substitute|[damage]
+|move|p2a: Luvdisc|Endeavor|p1a: Basculin
+|-damage|p1a: Basculin|20/261
+|
+|upkeep
+|turn|41
+|
+|t:|1776972039
+|switch|p1a: Farigiraf|Farigiraf, L90, M|191/362
+|move|p2a: Luvdisc|Surf|p1a: Farigiraf
+|-damage|p1a: Farigiraf|101/362
+|
+|-heal|p1a: Farigiraf|123/362|[from] item: Leftovers
+|upkeep
+|turn|42
+|
+|t:|1776972048
+|move|p2a: Luvdisc|Endeavor|p1a: Farigiraf
+|-damage|p1a: Farigiraf|20/362
+|move|p1a: Farigiraf|Wish|p1a: Farigiraf
+|
+|-heal|p1a: Farigiraf|42/362|[from] item: Leftovers
+|upkeep
+|turn|43
+|
+|t:|1776972070
+|move|p1a: Farigiraf|Protect|p1a: Farigiraf
+|-singleturn|p1a: Farigiraf|Protect
+|move|p2a: Luvdisc|Surf|p1a: Farigiraf
+|-activate|p1a: Farigiraf|move: Protect
+|
+|-heal|p1a: Farigiraf|223/362|[from] move: Wish|[wisher] Farigiraf
+|-heal|p1a: Farigiraf|245/362|[from] item: Leftovers
+|upkeep
+|turn|44
+|
+|t:|1776972084
+|move|p2a: Luvdisc|Endeavor|p1a: Farigiraf
+|-damage|p1a: Farigiraf|20/362
+|move|p1a: Farigiraf|Body Slam|p2a: Luvdisc
+|-end|p2a: Luvdisc|Substitute
+|
+|-heal|p1a: Farigiraf|42/362|[from] item: Leftovers
+|upkeep
+|turn|45
+|
+|t:|1776972103
+|move|p1a: Farigiraf|Protect|p1a: Farigiraf
+|-singleturn|p1a: Farigiraf|Protect
+|move|p2a: Luvdisc|Surf|p1a: Farigiraf
+|-activate|p1a: Farigiraf|move: Protect
+|
+|-heal|p1a: Farigiraf|64/362|[from] item: Leftovers
+|upkeep
+|turn|46
+|
+|t:|1776972120
+|switch|p1a: Cryogonal|Cryogonal, L89|27/287
+|move|p2a: Luvdisc|Surf|p1a: Cryogonal
+|-damage|p1a: Cryogonal|0 fnt
+|faint|p1a: Cryogonal
+|
+|upkeep
+|
+|t:|1776972126
+|switch|p1a: Basculin|Basculin, L86, M|20/261
+|turn|47
+|
+|t:|1776972133
+|move|p1a: Basculin|Aqua Jet|p2a: Luvdisc
+|-resisted|p2a: Luvdisc
+|-damage|p2a: Luvdisc|0 fnt
+|faint|p2a: Luvdisc
+|
+|upkeep
+|
+|t:|1776972137
+|switch|p2a: Vigoroth|Vigoroth, L85, F|275/275
+|turn|48
+|
+|t:|1776972146
+|move|p1a: Basculin|Aqua Jet|p2a: Vigoroth
+|-damage|p2a: Vigoroth|217/275
+|move|p2a: Vigoroth|Body Slam|p1a: Basculin
+|-damage|p1a: Basculin|0 fnt
+|faint|p1a: Basculin
+|
+|upkeep
+|
+|t:|1776972156
+|switch|p1a: Delphox|Delphox, L84, M|164/263
+|turn|49
+|
+|t:|1776972166
+|move|p1a: Delphox|Focus Blast|p2a: Vigoroth
+|-supereffective|p2a: Vigoroth
+|-damage|p2a: Vigoroth|47/275
+|move|p2a: Vigoroth|Earthquake|p1a: Delphox
+|-supereffective|p1a: Delphox
+|-damage|p1a: Delphox|10/263
+|
+|upkeep
+|turn|50
+|
+|t:|1776972184
+|-terastallize|p1a: Delphox|Fire
+|move|p1a: Delphox|Fire Blast|p2a: Vigoroth
+|-damage|p2a: Vigoroth|0 fnt
+|faint|p2a: Vigoroth
+|
+|upkeep
+|
+|t:|1776972189
+|switch|p2a: Landorus|Landorus, L75, M|257/257
+|turn|51
+|
+|t:|1776972199
+|move|p1a: Delphox|Fire Blast|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|win|Nilnapface
+|raw|Nilnapface's rating: 1108 &rarr; <strong>1135</strong><br />(+27 for winning)
+|raw|UndeniablyVual's rating: 1133 &rarr; <strong>1106</strong><br />(-27 for losing)

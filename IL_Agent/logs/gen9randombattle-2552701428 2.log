@@ -1,0 +1,132 @@
+|j|☆pukeko_damn
+|j|☆existencialista
+|t:|1772744847
+|gametype|singles
+|player|p1|pukeko_damn|fisherman-gen4|1426
+|player|p2|existencialista|102|1430
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772744847
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kyurem|Kyurem-Black, L71|295/295
+|switch|p2a: Araquanid|Araquanid, L82, M|246/246
+|-ability|p1a: Kyurem|Teravolt
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by pukeko_damn)
+|
+|t:|1772744862
+|move|p1a: Kyurem|Dragon Dance|p1a: Kyurem
+|-boost|p1a: Kyurem|atk|1
+|-boost|p1a: Kyurem|spe|1
+|move|p2a: Araquanid|Sticky Web|p1a: Kyurem
+|-sidestart|p1: pukeko_damn|move: Sticky Web
+|
+|upkeep
+|turn|2
+|
+|t:|1772744866
+|switch|p2a: Clodsire|Clodsire, L81, F|343/343
+|move|p1a: Kyurem|Dragon Dance|p1a: Kyurem
+|-boost|p1a: Kyurem|atk|1
+|-boost|p1a: Kyurem|spe|1
+|
+|upkeep
+|turn|3
+|
+|t:|1772744871
+|move|p1a: Kyurem|Icicle Spear|p2a: Clodsire
+|-supereffective|p2a: Clodsire
+|-damage|p2a: Clodsire|179/343
+|-supereffective|p2a: Clodsire
+|-damage|p2a: Clodsire|27/343
+|-supereffective|p2a: Clodsire
+|-damage|p2a: Clodsire|0 fnt
+|faint|p2a: Clodsire
+|-hitcount|p2: Clodsire|3
+|
+|upkeep
+|
+|t:|1772744884
+|switch|p2a: Persian|Persian-Alola, L86, F|252/252
+|turn|4
+|
+|t:|1772744891
+|move|p1a: Kyurem|Fusion Bolt|p2a: Persian
+|-damage|p2a: Persian|48/252
+|move|p2a: Persian|Hypnosis|p1a: Kyurem
+|-status|p1a: Kyurem|slp|[from] move: Hypnosis
+|
+|-heal|p2a: Persian|63/252|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1772744898
+|cant|p1a: Kyurem|slp
+|move|p2a: Persian|Nasty Plot|p2a: Persian
+|-boost|p2a: Persian|spa|2
+|
+|-heal|p2a: Persian|78/252|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1772744901
+|cant|p1a: Kyurem|slp
+|move|p2a: Persian|Nasty Plot|p2a: Persian
+|-boost|p2a: Persian|spa|2
+|
+|-heal|p2a: Persian|93/252|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1772744903
+|-curestatus|p1a: Kyurem|slp|[msg]
+|move|p1a: Kyurem|Fusion Bolt|p2a: Persian
+|-damage|p2a: Persian|0 fnt
+|faint|p2a: Persian
+|
+|upkeep
+|
+|t:|1772744911
+|switch|p2a: Komala|Komala, L89, M|260/260
+|-ability|p2a: Komala|Comatose
+|turn|8
+|
+|t:|1772744928
+|move|p1a: Kyurem|Icicle Spear|p2a: Komala
+|-crit|p2a: Komala
+|-damage|p2a: Komala|154/260
+|-damage|p2a: Komala|78/260
+|-damage|p2a: Komala|2/260
+|-crit|p2a: Komala
+|-damage|p2a: Komala|0 fnt
+|faint|p2a: Komala
+|-hitcount|p2: Komala|4
+|
+|upkeep
+|
+|t:|1772744930
+|switch|p2a: Greninja|Greninja, L80, M|246/246
+|turn|9
+|
+|t:|1772744939
+|move|p1a: Kyurem|Fusion Bolt|p2a: Greninja
+|-supereffective|p2a: Greninja
+|-damage|p2a: Greninja|0 fnt
+|faint|p2a: Greninja
+|
+|upkeep
+|-message|existencialista forfeited.
+|
+|win|pukeko_damn
+|raw|pukeko_damn's rating: 1426 &rarr; <strong>1446</strong><br />(+20 for winning)
+|raw|existencialista's rating: 1430 &rarr; <strong>1410</strong><br />(-20 for losing)
+|l|☆existencialista
+|player|p2|

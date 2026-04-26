@@ -1,0 +1,376 @@
+|j|☆pepoclawn
+|j|☆Vyfvycydvi
+|t:|1776980994
+|gametype|singles
+|player|p1|pepoclawn|steven|1085
+|player|p2|Vyfvycydvi|lucas|1112
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776980994
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Gogoat|Gogoat, L88, F|360/360
+|switch|p2a: Lokix|Lokix, L82, M|251/251
+|turn|1
+|
+|t:|1776981009
+|move|p2a: Lokix|First Impression|p1a: Gogoat
+|-supereffective|p1a: Gogoat
+|-crit|p1a: Gogoat
+|-damage|p1a: Gogoat|0 fnt
+|faint|p1a: Gogoat
+|
+|upkeep
+|
+|t:|1776981034
+|switch|p1a: Incineroar|Incineroar, L82, F|290/290
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Lokix|atk|1
+|turn|2
+|
+|t:|1776981057
+|move|p2a: Lokix|U-turn|p1a: Incineroar
+|-damage|p1a: Incineroar|235/290
+|
+|t:|1776981067
+|switch|p2a: Whiscash|Whiscash, L88, F|337/337|[from] U-turn
+|move|p1a: Incineroar|Flare Blitz|p2a: Whiscash
+|-resisted|p2a: Whiscash
+|-damage|p2a: Whiscash|267/337
+|-status|p2a: Whiscash|brn
+|-damage|p1a: Incineroar|212/290|[from] Recoil
+|
+|-heal|p2a: Whiscash|288/337 brn|[from] item: Leftovers
+|-damage|p2a: Whiscash|267/337 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1776981084
+|switch|p1a: Ampharos|Ampharos, L88, F|302/302
+|move|p2a: Whiscash|Hydro Pump|p1a: Ampharos
+|-damage|p1a: Ampharos|229/302
+|
+|-heal|p2a: Whiscash|288/337 brn|[from] item: Leftovers
+|-damage|p2a: Whiscash|267/337 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1776981115
+|switch|p2a: Iron Treads|Iron Treads, L77|265/265
+|move|p1a: Ampharos|Focus Blast|p2a: Iron Treads|[miss]
+|-miss|p1a: Ampharos|p2a: Iron Treads
+|
+|upkeep
+|turn|5
+|
+|t:|1776981144
+|move|p2a: Iron Treads|Earthquake|p1a: Ampharos
+|-supereffective|p1a: Ampharos
+|-damage|p1a: Ampharos|29/302
+|move|p1a: Ampharos|Focus Blast|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1776981156
+|switch|p2a: Lokix|Lokix, L82, M|251/251
+|turn|6
+|
+|t:|1776981225
+|move|p2a: Lokix|U-turn|p1a: Ampharos
+|-damage|p1a: Ampharos|0 fnt
+|-status|p2a: Lokix|par|[from] ability: Static|[of] p1a: Ampharos
+|faint|p1a: Ampharos
+|
+|t:|1776981237
+|switch|p2a: Whiscash|Whiscash, L88, F|267/337 brn|[from] U-turn
+|
+|-heal|p2a: Whiscash|288/337 brn|[from] item: Leftovers
+|-damage|p2a: Whiscash|267/337 brn|[from] brn
+|upkeep
+|
+|t:|1776981248
+|switch|p1a: Deoxys|Deoxys-Speed, L82|216/216
+|-ability|p1a: Deoxys|Pressure
+|turn|7
+|
+|t:|1776981280
+|switch|p2a: Kingambit|Kingambit, L74, M|270/270
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen1|[silent]
+|move|p1a: Deoxys|Psycho Boost|p2a: Kingambit
+|-immune|p2a: Kingambit
+|
+|upkeep
+|turn|8
+|
+|t:|1776981287
+|move|p1a: Deoxys|Superpower|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|10/270
+|-unboost|p1a: Deoxys|atk|1
+|-unboost|p1a: Deoxys|def|1
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|
+|-heal|p2a: Kingambit|26/270|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776981322
+|move|p1a: Deoxys|Superpower|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|-unboost|p1a: Deoxys|atk|1
+|-unboost|p1a: Deoxys|def|1
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen1|[silent]
+|
+|upkeep
+|
+|t:|1776981332
+|switch|p2a: Lokix|Lokix, L82, M|251/251 par
+|turn|10
+|
+|t:|1776981361
+|switch|p1a: Incineroar|Incineroar, L82, F|212/290
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Lokix|atk|1
+|move|p2a: Lokix|Sucker Punch||[still]
+|-fail|p2a: Lokix
+|
+|upkeep
+|turn|11
+|
+|t:|1776981389
+|move|p2a: Lokix|First Impression||[still]
+|-hint|First Impression only works on your first turn out.
+|-fail|p2a: Lokix
+|move|p1a: Incineroar|Knock Off|p2a: Lokix
+|-resisted|p2a: Lokix
+|-damage|p2a: Lokix|192/251 par
+|-enditem|p2a: Lokix|Silver Powder|[from] move: Knock Off|[of] p1a: Incineroar
+|
+|upkeep
+|turn|12
+|
+|t:|1776981396
+|move|p2a: Lokix|First Impression||[still]
+|-hint|First Impression only works on your first turn out.
+|-fail|p2a: Lokix
+|move|p1a: Incineroar|Flare Blitz|p2a: Lokix
+|-supereffective|p2a: Lokix
+|-damage|p2a: Lokix|0 fnt
+|faint|p2a: Lokix
+|-damage|p1a: Incineroar|149/290|[from] Recoil
+|
+|upkeep
+|
+|t:|1776981401
+|switch|p2a: Magmortar|Magmortar, L88, M|275/275
+|turn|13
+|
+|t:|1776981406
+|move|p2a: Magmortar|Focus Blast|p1a: Incineroar
+|-supereffective|p1a: Incineroar
+|-damage|p1a: Incineroar|0 fnt
+|faint|p1a: Incineroar
+|
+|upkeep
+|
+|t:|1776981412
+|switch|p1a: Phione|Phione, L91|293/293
+|turn|14
+|
+|t:|1776981417
+|-terastallize|p2a: Magmortar|Fighting
+|move|p1a: Phione|Take Heart|p1a: Phione
+|-boost|p1a: Phione|spa|1
+|-boost|p1a: Phione|spd|1
+|move|p2a: Magmortar|Thunderbolt|p1a: Phione
+|-supereffective|p1a: Phione
+|-damage|p1a: Phione|177/293
+|
+|-heal|p1a: Phione|195/293|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1776981436
+|move|p1a: Phione|Rest|p1a: Phione
+|-status|p1a: Phione|slp|[from] move: Rest
+|-heal|p1a: Phione|293/293 slp|[silent]
+|move|p2a: Magmortar|Knock Off|p1a: Phione
+|-damage|p1a: Phione|222/293 slp
+|-enditem|p1a: Phione|Leftovers|[from] move: Knock Off|[of] p2a: Magmortar
+|
+|upkeep
+|turn|16
+|
+|t:|1776981443
+|cant|p1a: Phione|slp
+|move|p1a: Phione|Sleep Talk|p1a: Phione
+|move|p1a: Phione|Rest||[from] move: Sleep Talk|[still]
+|-fail|p1a: Phione
+|move|p2a: Magmortar|Thunderbolt|p1a: Phione
+|-supereffective|p1a: Phione
+|-damage|p1a: Phione|106/293 slp
+|
+|upkeep
+|turn|17
+|
+|t:|1776981451
+|cant|p1a: Phione|slp
+|move|p1a: Phione|Sleep Talk|p1a: Phione
+|move|p1a: Phione|Take Heart|p1a: Phione|[from] move: Sleep Talk
+|-boost|p1a: Phione|spa|1
+|-boost|p1a: Phione|spd|1
+|-curestatus|p1a: Phione|slp|[msg]
+|move|p2a: Magmortar|Thunderbolt|p1a: Phione
+|-supereffective|p1a: Phione
+|-damage|p1a: Phione|22/293
+|
+|upkeep
+|turn|18
+|
+|t:|1776981461
+|move|p1a: Phione|Scald|p2a: Magmortar
+|-damage|p2a: Magmortar|128/275
+|move|p2a: Magmortar|Thunderbolt|p1a: Phione
+|-supereffective|p1a: Phione
+|-damage|p1a: Phione|0 fnt
+|faint|p1a: Phione
+|
+|upkeep
+|
+|t:|1776981468
+|switch|p1a: Deoxys|Deoxys-Speed, L82|216/216
+|-ability|p1a: Deoxys|Pressure
+|turn|19
+|
+|t:|1776981479
+|move|p1a: Deoxys|Psycho Boost|p2a: Magmortar
+|-supereffective|p2a: Magmortar
+|-damage|p2a: Magmortar|0 fnt
+|-unboost|p1a: Deoxys|spa|2
+|faint|p2a: Magmortar
+|
+|upkeep
+|
+|t:|1776981524
+|switch|p2a: Whiscash|Whiscash, L88, F|267/337 brn
+|turn|20
+|
+|t:|1776981542
+|move|p1a: Deoxys|Superpower|p2a: Whiscash
+|-damage|p2a: Whiscash|173/337 brn
+|-unboost|p1a: Deoxys|atk|1
+|-unboost|p1a: Deoxys|def|1
+|move|p2a: Whiscash|Ice Beam|p1a: Deoxys
+|-crit|p1a: Deoxys
+|-damage|p1a: Deoxys|124/216
+|
+|-heal|p1a: Deoxys|137/216|[from] item: Leftovers
+|-heal|p2a: Whiscash|194/337 brn|[from] item: Leftovers
+|-damage|p2a: Whiscash|173/337 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1776981555
+|move|p1a: Deoxys|Spikes|p2a: Whiscash
+|-sidestart|p2: Vyfvycydvi|Spikes
+|move|p2a: Whiscash|Ice Beam|p1a: Deoxys
+|-damage|p1a: Deoxys|79/216
+|
+|-heal|p1a: Deoxys|92/216|[from] item: Leftovers
+|-heal|p2a: Whiscash|194/337 brn|[from] item: Leftovers
+|-damage|p2a: Whiscash|173/337 brn|[from] brn
+|upkeep
+|turn|22
+|
+|t:|1776981565
+|move|p1a: Deoxys|Spikes|p2a: Whiscash
+|-sidestart|p2: Vyfvycydvi|Spikes
+|move|p2a: Whiscash|Ice Beam|p1a: Deoxys
+|-damage|p1a: Deoxys|31/216
+|
+|-heal|p1a: Deoxys|44/216|[from] item: Leftovers
+|-heal|p2a: Whiscash|194/337 brn|[from] item: Leftovers
+|-damage|p2a: Whiscash|173/337 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1776981571
+|move|p1a: Deoxys|Spikes|p2a: Whiscash
+|-sidestart|p2: Vyfvycydvi|Spikes
+|move|p2a: Whiscash|Ice Beam|p1a: Deoxys
+|-damage|p1a: Deoxys|0 fnt
+|faint|p1a: Deoxys
+|
+|-heal|p2a: Whiscash|194/337 brn|[from] item: Leftovers
+|-damage|p2a: Whiscash|173/337 brn|[from] brn
+|upkeep
+|
+|t:|1776981575
+|switch|p1a: Zekrom|Zekrom, L71|259/259
+|-ability|p1a: Zekrom|Teravolt
+|turn|24
+|
+|t:|1776981589
+|move|p1a: Zekrom|Outrage|p2a: Whiscash
+|-damage|p2a: Whiscash|25/337 brn
+|move|p2a: Whiscash|Earthquake|p1a: Zekrom
+|-supereffective|p1a: Zekrom
+|-damage|p1a: Zekrom|168/259
+|
+|-heal|p1a: Zekrom|184/259|[from] item: Leftovers
+|-heal|p2a: Whiscash|46/337 brn|[from] item: Leftovers
+|-damage|p2a: Whiscash|25/337 brn|[from] brn
+|upkeep
+|turn|25
+|
+|t:|1776981598
+|move|p1a: Zekrom|Outrage|p2a: Whiscash|[from] lockedmove
+|-damage|p2a: Whiscash|0 fnt
+|faint|p2a: Whiscash
+|-start|p1a: Zekrom|confusion|[fatigue]
+|
+|-heal|p1a: Zekrom|200/259|[from] item: Leftovers
+|upkeep
+|
+|t:|1776981601
+|switch|p2a: Polteageist|Polteageist-Antique, L78|222/222
+|-damage|p2a: Polteageist|167/222|[from] Spikes
+|turn|26
+|
+|t:|1776981634
+|-activate|p1a: Zekrom|confusion
+|-damage|p1a: Zekrom|171/259|[from] confusion
+|move|p2a: Polteageist|Shadow Ball|p1a: Zekrom
+|-damage|p1a: Zekrom|72/259
+|
+|-heal|p1a: Zekrom|88/259|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1776981639
+|-activate|p1a: Zekrom|confusion
+|-damage|p1a: Zekrom|61/259|[from] confusion
+|move|p2a: Polteageist|Shadow Ball|p1a: Zekrom
+|-damage|p1a: Zekrom|0 fnt
+|faint|p1a: Zekrom
+|
+|win|Vyfvycydvi
+|raw|pepoclawn's rating: 1085 &rarr; <strong>1064</strong><br />(-21 for losing)
+|raw|Vyfvycydvi's rating: 1112 &rarr; <strong>1135</strong><br />(+23 for winning)
+|l|☆pepoclawn
+|player|p1|

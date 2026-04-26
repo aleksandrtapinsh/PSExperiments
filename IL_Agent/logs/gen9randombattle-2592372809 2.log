@@ -1,0 +1,214 @@
+|j|☆nanamiro
+|j|☆pichurackz
+|t:|1776983182
+|gametype|singles
+|player|p1|nanamiro|shadowtriad|1087
+|player|p2|pichurackz|1|1109
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776983182
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Gholdengo|Gholdengo, L77|261/261
+|switch|p2a: Hitmonlee|Hitmonlee, L85, M|224/224
+|turn|1
+|
+|t:|1776983207
+|move|p1a: Gholdengo|Make It Rain|p2a: Hitmonlee
+|-damage|p2a: Hitmonlee|109/224
+|-unboost|p1a: Gholdengo|spa|1
+|move|p2a: Hitmonlee|Swords Dance|p2a: Hitmonlee
+|-boost|p2a: Hitmonlee|atk|2
+|
+|upkeep
+|turn|2
+|
+|t:|1776983215
+|move|p1a: Gholdengo|Make It Rain|p2a: Hitmonlee
+|-damage|p2a: Hitmonlee|39/224
+|-unboost|p1a: Gholdengo|spa|1
+|move|p2a: Hitmonlee|Knock Off|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|-enditem|p1a: Gholdengo|Choice Scarf|[from] move: Knock Off|[of] p2a: Hitmonlee
+|faint|p1a: Gholdengo
+|
+|upkeep
+|
+|t:|1776983246
+|switch|p1a: Raikou|Raikou, L81|278/278
+|-ability|p1a: Raikou|Pressure
+|turn|3
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by pichurackz)
+|
+|t:|1776983254
+|move|p1a: Raikou|Thunderbolt|p2a: Hitmonlee
+|-damage|p2a: Hitmonlee|0 fnt
+|faint|p2a: Hitmonlee
+|
+|upkeep
+|
+|t:|1776983264
+|switch|p2a: Appletun|Appletun, L92, M|352/352
+|turn|4
+|inactive|nanamiro has 120 seconds left.
+|
+|t:|1776983301
+|switch|p1a: Walking Wake|Walking Wake, L79|286/286
+|move|p2a: Appletun|Apple Acid|p1a: Walking Wake
+|-damage|p1a: Walking Wake|165/286
+|-unboost|p1a: Walking Wake|spd|1
+|
+|upkeep
+|turn|5
+|inactive|nanamiro has 120 seconds left.
+|
+|t:|1776983311
+|-terastallize|p1a: Walking Wake|Fire
+|-terastallize|p2a: Appletun|Steel
+|move|p1a: Walking Wake|Flamethrower|p2a: Appletun
+|-supereffective|p2a: Appletun
+|-damage|p2a: Appletun|217/352
+|-damage|p1a: Walking Wake|137/286|[from] item: Life Orb
+|move|p2a: Appletun|Dragon Pulse|p1a: Walking Wake
+|-damage|p1a: Walking Wake|0 fnt
+|faint|p1a: Walking Wake
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|
+|-heal|p2a: Appletun|239/352|[from] item: Leftovers
+|upkeep
+|inactive|nanamiro has 120 seconds left.
+|
+|t:|1776983332
+|switch|p1a: Golurk|Golurk, L87|297/297
+|turn|6
+|
+|t:|1776983339
+|move|p1a: Golurk|Dynamic Punch|p2a: Appletun
+|-supereffective|p2a: Appletun
+|-damage|p2a: Appletun|0 fnt
+|faint|p2a: Appletun
+|
+|upkeep
+|
+|t:|1776983347
+|switch|p2a: Flamigo|Flamigo, L82, M|269/269
+|turn|7
+|
+|t:|1776983356
+|switch|p1a: Garganacl|Garganacl, L80, M|291/291
+|move|p2a: Flamigo|Close Combat|p1a: Garganacl
+|-supereffective|p1a: Garganacl
+|-damage|p1a: Garganacl|0 fnt
+|-unboost|p2a: Flamigo|def|1
+|-unboost|p2a: Flamigo|spd|1
+|faint|p1a: Garganacl
+|-damage|p2a: Flamigo|243/269|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776983365
+|switch|p1a: Great Tusk|Great Tusk, L77|304/304
+|turn|8
+|
+|t:|1776983373
+|move|p2a: Flamigo|Brave Bird|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|36/304
+|-damage|p2a: Flamigo|155/269|[from] Recoil
+|-damage|p2a: Flamigo|129/269|[from] item: Life Orb
+|move|p1a: Great Tusk|Rapid Spin|p2a: Flamigo
+|-damage|p2a: Flamigo|57/269
+|-boost|p1a: Great Tusk|spe|1
+|
+|-heal|p1a: Great Tusk|55/304|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776983384
+|move|p1a: Great Tusk|Rapid Spin|p2a: Flamigo
+|-damage|p2a: Flamigo|0 fnt
+|-boost|p1a: Great Tusk|spe|1
+|faint|p2a: Flamigo
+|
+|-heal|p1a: Great Tusk|74/304|[from] item: Leftovers
+|upkeep
+|
+|t:|1776983399
+|switch|p2a: Raichu|Raichu-Alola, L87, F|246/246
+|turn|10
+|
+|t:|1776983407
+|switch|p2a: Blissey|Blissey, L85, F|572/572
+|move|p1a: Great Tusk|Earthquake|p2a: Blissey
+|-damage|p2a: Blissey|230/572
+|
+|-heal|p1a: Great Tusk|93/304|[from] item: Leftovers
+|-heal|p2a: Blissey|265/572|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776983416
+|move|p1a: Great Tusk|Close Combat|p2a: Blissey
+|-supereffective|p2a: Blissey
+|-damage|p2a: Blissey|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Blissey
+|
+|-heal|p1a: Great Tusk|112/304|[from] item: Leftovers
+|upkeep
+|
+|t:|1776983418
+|switch|p2a: Klawf|Klawf, L90, M|272/272
+|turn|12
+|
+|t:|1776983428
+|move|p1a: Great Tusk|Earthquake|p2a: Klawf
+|-supereffective|p2a: Klawf
+|-damage|p2a: Klawf|96/272
+|-ability|p2a: Klawf|Anger Shell|boost
+|-boost|p2a: Klawf|atk|1
+|-boost|p2a: Klawf|spa|1
+|-boost|p2a: Klawf|spe|1
+|-unboost|p2a: Klawf|def|1
+|-unboost|p2a: Klawf|spd|1
+|move|p2a: Klawf|Stone Edge|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|58/304
+|
+|-heal|p1a: Great Tusk|77/304|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776983439
+|move|p1a: Great Tusk|Earthquake|p2a: Klawf
+|-supereffective|p2a: Klawf
+|-damage|p2a: Klawf|0 fnt
+|faint|p2a: Klawf
+|
+|-heal|p1a: Great Tusk|96/304|[from] item: Leftovers
+|upkeep
+|
+|t:|1776983446
+|switch|p2a: Raichu|Raichu-Alola, L87, F|246/246
+|turn|14
+|
+|t:|1776983451
+|move|p1a: Great Tusk|Earthquake|p2a: Raichu
+|-supereffective|p2a: Raichu
+|-damage|p2a: Raichu|0 fnt
+|faint|p2a: Raichu
+|
+|win|nanamiro
+|raw|nanamiro's rating: 1087 &rarr; <strong>1116</strong><br />(+29 for winning)
+|raw|pichurackz's rating: 1109 &rarr; <strong>1082</strong><br />(-27 for losing)
+|l|☆pichurackz
+|player|p2|

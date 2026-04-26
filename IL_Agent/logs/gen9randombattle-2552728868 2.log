@@ -1,0 +1,335 @@
+|j|☆iamonlynoob
+|j|☆somatacoma
+|t:|1772747485
+|gametype|singles
+|player|p1|iamonlynoob|roxie|1445
+|player|p2|somatacoma|chili|1486
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772747485
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Politoed|Politoed, L88, M|302/302
+|switch|p2a: Regigigas|Regigigas, L84|322/322
+|-start|p2a: Regigigas|ability: Slow Start
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Politoed
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by iamonlynoob)
+|
+|t:|1772747507
+|switch|p2a: Regice|Regice, L88|284/284
+|move|p1a: Politoed|Surf|p2a: Regice
+|-damage|p2a: Regice|211/284
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1772747525
+|move|p1a: Politoed|Surf|p2a: Regice
+|-damage|p2a: Regice|139/284
+|move|p2a: Regice|Thunderbolt|p1a: Politoed
+|-supereffective|p1a: Politoed
+|-damage|p1a: Politoed|182/302
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Politoed|200/302|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1772747535
+|move|p1a: Politoed|Encore|p2a: Regice
+|-start|p2a: Regice|Encore
+|move|p2a: Regice|Thunderbolt|p1a: Politoed
+|-supereffective|p1a: Politoed
+|-damage|p1a: Politoed|68/302
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Politoed|86/302|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1772747546
+|move|p1a: Politoed|Surf|p2a: Regice
+|-damage|p2a: Regice|67/284
+|move|p2a: Regice|Thunderbolt|p1a: Politoed
+|-supereffective|p1a: Politoed
+|-crit|p1a: Politoed
+|-damage|p1a: Politoed|0 fnt
+|faint|p1a: Politoed
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1772747553
+|switch|p1a: Iron Treads|Iron Treads, L77|265/265
+|turn|5
+|
+|t:|1772747561
+|switch|p2a: Whiscash|Whiscash, L88, M|337/337
+|move|p1a: Iron Treads|Iron Head|p2a: Whiscash
+|-resisted|p2a: Whiscash
+|-damage|p2a: Whiscash|294/337
+|
+|-weather|none
+|-heal|p2a: Whiscash|315/337|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1772747577
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Girafarig|Girafarig, L89, F|269/269
+|move|p2a: Whiscash|Earthquake|p1a: Girafarig
+|-damage|p1a: Girafarig|193/269
+|
+|-heal|p2a: Whiscash|336/337|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1772747594
+|move|p1a: Girafarig|Nasty Plot|p1a: Girafarig
+|-boost|p1a: Girafarig|spa|2
+|move|p2a: Whiscash|Earthquake|p1a: Girafarig
+|-damage|p1a: Girafarig|117/269
+|
+|-heal|p2a: Whiscash|337/337|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1772747603
+|move|p1a: Girafarig|Psyshock|p2a: Whiscash
+|-damage|p2a: Whiscash|159/337
+|move|p2a: Whiscash|Earthquake|p1a: Girafarig
+|-damage|p1a: Girafarig|36/269
+|
+|-heal|p2a: Whiscash|180/337|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1772747611
+|switch|p2a: Houndoom|Houndoom, L87, F|272/272
+|move|p1a: Girafarig|Psyshock|p2a: Houndoom
+|-immune|p2a: Houndoom
+|
+|upkeep
+|turn|10
+|
+|t:|1772747620
+|move|p2a: Houndoom|Dark Pulse|p1a: Girafarig
+|-supereffective|p1a: Girafarig
+|-damage|p1a: Girafarig|0 fnt
+|faint|p1a: Girafarig
+|
+|upkeep
+|
+|t:|1772747627
+|switch|p1a: Regirock|Regirock, L83|268/268
+|turn|11
+|
+|t:|1772747635
+|switch|p2a: Whiscash|Whiscash, L88, M|180/337
+|move|p1a: Regirock|Iron Defense|p1a: Regirock
+|-boost|p1a: Regirock|def|2
+|
+|-heal|p2a: Whiscash|201/337|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1772747644
+|move|p2a: Whiscash|Hydro Pump|p1a: Regirock
+|-supereffective|p1a: Regirock
+|-damage|p1a: Regirock|62/268
+|move|p1a: Regirock|Iron Defense|p1a: Regirock
+|-boost|p1a: Regirock|def|2
+|
+|-heal|p2a: Whiscash|222/337|[from] item: Leftovers
+|-heal|p1a: Regirock|78/268|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1772747653
+|move|p2a: Whiscash|Hydro Pump|p1a: Regirock|[miss]
+|-miss|p2a: Whiscash|p1a: Regirock
+|move|p1a: Regirock|Body Press|p2a: Whiscash
+|-crit|p2a: Whiscash
+|-damage|p2a: Whiscash|0 fnt
+|faint|p2a: Whiscash
+|
+|-heal|p1a: Regirock|94/268|[from] item: Leftovers
+|upkeep
+|
+|t:|1772747667
+|switch|p2a: Arceus|Arceus-Flying, L69|279/279
+|turn|14
+|
+|t:|1772747674
+|move|p2a: Arceus|Earth Power|p1a: Regirock
+|-supereffective|p1a: Regirock
+|-damage|p1a: Regirock|6/268
+|move|p1a: Regirock|Stone Edge|p2a: Arceus
+|-supereffective|p2a: Arceus
+|-damage|p2a: Arceus|85/279
+|
+|-heal|p1a: Regirock|22/268|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1772747683
+|move|p2a: Arceus|Earth Power|p1a: Regirock
+|-supereffective|p1a: Regirock
+|-damage|p1a: Regirock|0 fnt
+|faint|p1a: Regirock
+|
+|upkeep
+|
+|t:|1772747688
+|switch|p1a: Luxray|Luxray, L88, M|283/283
+|turn|16
+|
+|t:|1772747699
+|move|p2a: Arceus|Earth Power|p1a: Luxray
+|-supereffective|p1a: Luxray
+|-damage|p1a: Luxray|179/283
+|move|p1a: Luxray|Trailblaze|p2a: Arceus
+|-resisted|p2a: Arceus
+|-damage|p2a: Arceus|64/279
+|-boost|p1a: Luxray|spe|1
+|
+|-status|p1a: Luxray|brn|[from] item: Flame Orb
+|upkeep
+|turn|17
+|
+|t:|1772747715
+|-terastallize|p2a: Arceus|Ground
+|move|p1a: Luxray|Supercell Slam|p2a: Arceus
+|-immune|p2a: Arceus
+|-damage|p1a: Luxray|38/283 brn|[from] supercellslam
+|move|p2a: Arceus|Earth Power|p1a: Luxray
+|-supereffective|p1a: Luxray
+|-damage|p1a: Luxray|0 fnt
+|faint|p1a: Luxray
+|
+|upkeep
+|
+|t:|1772747729
+|switch|p1a: Iron Treads|Iron Treads, L77|265/265
+|turn|18
+|
+|t:|1772747737
+|move|p1a: Iron Treads|Earthquake|p2a: Arceus
+|-damage|p2a: Arceus|0 fnt
+|faint|p2a: Arceus
+|
+|upkeep
+|
+|t:|1772747745
+|switch|p2a: Houndoom|Houndoom, L87, F|272/272
+|turn|19
+|
+|t:|1772747750
+|-terastallize|p1a: Iron Treads|Ghost
+|move|p2a: Houndoom|Fire Blast|p1a: Iron Treads
+|-damage|p1a: Iron Treads|84/265
+|move|p1a: Iron Treads|Earthquake|p2a: Houndoom
+|-supereffective|p2a: Houndoom
+|-damage|p2a: Houndoom|0 fnt
+|faint|p2a: Houndoom
+|
+|-heal|p1a: Iron Treads|100/265|[from] item: Leftovers
+|upkeep
+|
+|t:|1772747763
+|switch|p2a: Regigigas|Regigigas, L84|322/322
+|-start|p2a: Regigigas|ability: Slow Start
+|turn|20
+|
+|t:|1772747777
+|move|p1a: Iron Treads|Iron Head|p2a: Regigigas
+|-damage|p2a: Regigigas|258/322
+|move|p2a: Regigigas|Knock Off|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|14/265
+|-enditem|p1a: Iron Treads|Leftovers|[from] move: Knock Off|[of] p2a: Regigigas
+|
+|-heal|p2a: Regigigas|278/322|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1772747788
+|move|p1a: Iron Treads|Iron Head|p2a: Regigigas
+|-damage|p2a: Regigigas|211/322
+|move|p2a: Regigigas|Knock Off|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|-heal|p2a: Regigigas|231/322|[from] item: Leftovers
+|upkeep
+|
+|t:|1772747792
+|switch|p1a: Kleavor|Kleavor, L78, M|237/237
+|turn|22
+|
+|t:|1772747801
+|move|p1a: Kleavor|Close Combat|p2a: Regigigas
+|-supereffective|p2a: Regigigas
+|-damage|p2a: Regigigas|79/322
+|-unboost|p1a: Kleavor|def|1
+|-unboost|p1a: Kleavor|spd|1
+|move|p2a: Regigigas|Rest|p2a: Regigigas
+|-status|p2a: Regigigas|slp|[from] move: Rest
+|-heal|p2a: Regigigas|322/322 slp|[silent]
+|
+|upkeep
+|turn|23
+|
+|t:|1772747816
+|move|p1a: Kleavor|Close Combat|p2a: Regigigas
+|-supereffective|p2a: Regigigas
+|-damage|p2a: Regigigas|164/322 slp
+|-unboost|p1a: Kleavor|def|1
+|-unboost|p1a: Kleavor|spd|1
+|cant|p2a: Regigigas|slp
+|move|p2a: Regigigas|Sleep Talk|p2a: Regigigas
+|move|p2a: Regigigas|Knock Off|p1a: Kleavor|[from] move: Sleep Talk
+|-damage|p1a: Kleavor|137/237
+|-enditem|p1a: Kleavor|Choice Scarf|[from] move: Knock Off|[of] p2a: Regigigas
+|
+|-heal|p2a: Regigigas|184/322 slp|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1772747834
+|move|p1a: Kleavor|Close Combat|p2a: Regigigas
+|-supereffective|p2a: Regigigas
+|-damage|p2a: Regigigas|28/322 slp
+|-unboost|p1a: Kleavor|def|1
+|-unboost|p1a: Kleavor|spd|1
+|cant|p2a: Regigigas|slp
+|move|p2a: Regigigas|Sleep Talk|p2a: Regigigas
+|move|p2a: Regigigas|Knock Off|p1a: Kleavor|[from] move: Sleep Talk
+|-damage|p1a: Kleavor|55/237
+|
+|-heal|p2a: Regigigas|48/322 slp|[from] item: Leftovers
+|-end|p2a: Regigigas|Slow Start
+|upkeep
+|turn|25
+|
+|t:|1772747851
+|-curestatus|p2a: Regigigas|slp|[msg]
+|move|p2a: Regigigas|Body Slam|p1a: Kleavor
+|-resisted|p1a: Kleavor
+|-damage|p1a: Kleavor|0 fnt
+|faint|p1a: Kleavor
+|
+|win|somatacoma
+|raw|iamonlynoob's rating: 1445 &rarr; <strong>1427</strong><br />(-18 for losing)
+|raw|somatacoma's rating: 1486 &rarr; <strong>1504</strong><br />(+18 for winning)

@@ -1,0 +1,74 @@
+|j|☆jsnwisksv
+|j|☆ArnieGlez
+|t:|1776976729
+|gametype|singles
+|player|p1|jsnwisksv|266|1026
+|player|p2|ArnieGlez|169|1057
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776976729
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ursaluna|Ursaluna, L79, M|335/335
+|switch|p2a: Slowking|Slowking-Galar, L85, M|300/300
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ArnieGlez)
+|
+|t:|1776976736
+|switch|p2a: Bombirdier|Bombirdier, L85, F|258/258
+|move|p1a: Ursaluna|Trailblaze|p2a: Bombirdier
+|-resisted|p2a: Bombirdier
+|-damage|p2a: Bombirdier|236/258
+|-boost|p1a: Ursaluna|spe|1
+|
+|-status|p1a: Ursaluna|brn|[from] item: Flame Orb
+|upkeep
+|turn|2
+|
+|t:|1776976747
+|move|p2a: Bombirdier|Knock Off|p1a: Ursaluna
+|-damage|p1a: Ursaluna|226/335 brn
+|-enditem|p1a: Ursaluna|Flame Orb|[from] move: Knock Off|[of] p2a: Bombirdier
+|move|p1a: Ursaluna|Trailblaze|p2a: Bombirdier
+|-resisted|p2a: Bombirdier
+|-damage|p2a: Bombirdier|204/258
+|-boost|p1a: Ursaluna|spe|1
+|
+|-damage|p1a: Ursaluna|206/335 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1776976756
+|move|p1a: Ursaluna|Facade|p2a: Bombirdier
+|-damage|p2a: Bombirdier|0 fnt
+|faint|p2a: Bombirdier
+|
+|-damage|p1a: Ursaluna|186/335 brn|[from] brn
+|upkeep
+|
+|t:|1776976764
+|switch|p2a: Enamorus|Enamorus-Therian, L83, F|259/259
+|turn|4
+|
+|t:|1776976770
+|-terastallize|p1a: Ursaluna|Normal
+|move|p1a: Ursaluna|Facade|p2a: Enamorus
+|-damage|p2a: Enamorus|0 fnt
+|faint|p2a: Enamorus
+|
+|-damage|p1a: Ursaluna|166/335 brn|[from] brn
+|upkeep
+|-message|ArnieGlez forfeited.
+|
+|win|jsnwisksv
+|raw|jsnwisksv's rating: 1026 &rarr; <strong>1065</strong><br />(+39 for winning)
+|raw|ArnieGlez's rating: 1057 &rarr; <strong>1037</strong><br />(-20 for losing)
+|l|☆ArnieGlez
+|player|p2|

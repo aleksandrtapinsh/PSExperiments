@@ -1,0 +1,126 @@
+|j|☆hfdgjdgfhj
+|j|☆Green TT
+|t:|1776972586
+|gametype|singles
+|player|p1|hfdgjdgfhj|169|1000
+|player|p2|Green TT|steven|1000
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776972586
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Sneasler|Sneasler, L74, M|240/240
+|switch|p2a: Morpeko|Morpeko, L88, F|245/245
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by hfdgjdgfhj)
+|
+|t:|1776972598
+|move|p2a: Morpeko|Protect|p2a: Morpeko
+|-singleturn|p2a: Morpeko|Protect
+|move|p1a: Sneasler|Close Combat|p2a: Morpeko
+|-activate|p2a: Morpeko|move: Protect
+|
+|-formechange|p2a: Morpeko|Morpeko-Hangry||[from] ability: Hunger Switch
+|upkeep
+|turn|2
+|
+|t:|1776972610
+|move|p2a: Morpeko|Parting Shot|p1a: Sneasler
+|-unboost|p1a: Sneasler|atk|1
+|-unboost|p1a: Sneasler|spa|1
+|
+|t:|1776972616
+|switch|p2a: Basculegion|Basculegion, L80, M|323/323|[from] Parting Shot
+|move|p1a: Sneasler|Close Combat|p2a: Basculegion
+|-immune|p2a: Basculegion
+|
+|upkeep
+|turn|3
+|
+|t:|1776972633
+|switch|p1a: Gurdurr|Gurdurr, L85, M|283/283
+|move|p2a: Basculegion|Wave Crash|p1a: Gurdurr
+|-damage|p1a: Gurdurr|167/283
+|-damage|p2a: Basculegion|285/323|[from] Recoil
+|
+|upkeep
+|turn|4
+|
+|t:|1776972639
+|move|p2a: Basculegion|Aqua Jet|p1a: Gurdurr
+|-damage|p1a: Gurdurr|123/283
+|move|p1a: Gurdurr|Knock Off|p2a: Basculegion
+|-supereffective|p2a: Basculegion
+|-damage|p2a: Basculegion|83/323
+|-enditem|p2a: Basculegion|Assault Vest|[from] move: Knock Off|[of] p1a: Gurdurr
+|
+|upkeep
+|turn|5
+|
+|t:|1776972663
+|move|p2a: Basculegion|Wave Crash|p1a: Gurdurr
+|-damage|p1a: Gurdurr|0 fnt
+|faint|p1a: Gurdurr
+|-damage|p2a: Basculegion|42/323|[from] Recoil
+|
+|upkeep
+|inactive|hfdgjdgfhj has 120 seconds left.
+|
+|t:|1776972680
+|switch|p1a: Sneasler|Sneasler, L74, M|240/240
+|turn|6
+|
+|t:|1776972694
+|move|p2a: Basculegion|Aqua Jet|p1a: Sneasler
+|-damage|p1a: Sneasler|154/240
+|move|p1a: Sneasler|Dire Claw|p2a: Basculegion
+|-resisted|p2a: Basculegion
+|-damage|p2a: Basculegion|0 fnt
+|faint|p2a: Basculegion
+|
+|upkeep
+|
+|t:|1776972711
+|switch|p2a: Morpeko|Morpeko, L88, F|245/245
+|turn|7
+|
+|t:|1776972721
+|move|p2a: Morpeko|Aura Wheel|p1a: Sneasler
+|-damage|p1a: Sneasler|0 fnt
+|-boost|p2a: Morpeko|spe|1
+|faint|p1a: Sneasler
+|
+|-formechange|p2a: Morpeko|Morpeko-Hangry||[from] ability: Hunger Switch
+|upkeep
+|
+|t:|1776972740
+|switch|p1a: Meowscarada|Meowscarada, L78, M|247/247
+|turn|8
+|
+|t:|1776972747
+|move|p2a: Morpeko|Parting Shot|p1a: Meowscarada
+|-unboost|p1a: Meowscarada|atk|1
+|-unboost|p1a: Meowscarada|spa|1
+|
+|t:|1776972756
+|switch|p2a: Rotom|Rotom-Heat, L83|219/219|[from] Parting Shot
+|move|p1a: Meowscarada|Toxic Spikes|p2a: Rotom
+|-start|p1a: Meowscarada|typechange|Poison|[from] ability: Protean
+|-sidestart|p2: Green TT|move: Toxic Spikes
+|
+|upkeep
+|turn|9
+|-message|hfdgjdgfhj forfeited.
+|
+|win|Green TT
+|raw|hfdgjdgfhj's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|raw|Green TT's rating: 1000 &rarr; <strong>1040</strong><br />(+40 for winning)
+|l|☆hfdgjdgfhj
+|player|p1|

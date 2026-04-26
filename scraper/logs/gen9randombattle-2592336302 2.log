@@ -1,0 +1,98 @@
+|j|☆Osake
+|j|☆TonedOyster
+|t:|1776979922
+|gametype|singles
+|player|p1|Osake|#osake|1992
+|player|p2|TonedOyster|cynthia|1977
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776979922
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Garganacl|Garganacl, L80, F|291/291
+|switch|p2a: Komala|Komala, L88, M|258/258
+|-ability|p2a: Komala|Comatose
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Osake)
+|
+|t:|1776979937
+|move|p1a: Garganacl|Protect|p1a: Garganacl
+|-singleturn|p1a: Garganacl|Protect
+|move|p2a: Komala|Knock Off|p1a: Garganacl
+|-activate|p1a: Garganacl|move: Protect
+|
+|upkeep
+|turn|2
+|
+|t:|1776979945
+|switch|p1a: Weezing|Weezing-Galar, L86, M|252/252
+|move|p2a: Komala|Knock Off|p1a: Weezing
+|-resisted|p1a: Weezing
+|-damage|p1a: Weezing|221/252
+|-enditem|p1a: Weezing|Leftovers|[from] move: Knock Off|[of] p2a: Komala
+|
+|upkeep
+|turn|3
+|
+|t:|1776979954
+|move|p2a: Komala|Body Slam|p1a: Weezing
+|-damage|p1a: Weezing|131/252
+|-status|p1a: Weezing|par
+|cant|p1a: Weezing|par
+|
+|upkeep
+|turn|4
+|
+|t:|1776979975
+|move|p2a: Komala|Body Slam|p1a: Weezing
+|-crit|p1a: Weezing
+|-damage|p1a: Weezing|0 fnt
+|faint|p1a: Weezing
+|
+|upkeep
+|c|☆Osake|lol
+|
+|t:|1776979982
+|switch|p1a: Koraidon|Koraidon, L64|235/235
+|-weather|SunnyDay|[from] ability: Orichalcum Pulse|[of] p1a: Koraidon
+|-activate|p1a: Koraidon|Orichalcum Pulse|[source]
+|turn|5
+|inactive|TonedOyster has 120 seconds left.
+|
+|t:|1776980017
+|-terastallize|p2a: Komala|Ghost
+|move|p1a: Koraidon|Swords Dance|p1a: Koraidon
+|-boost|p1a: Koraidon|atk|2
+|move|p2a: Komala|Rapid Spin|p1a: Koraidon
+|-damage|p1a: Koraidon|166/235
+|-boost|p2a: Komala|spe|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1776980031
+|move|p2a: Komala|Body Slam|p1a: Koraidon
+|-crit|p1a: Koraidon
+|-damage|p1a: Koraidon|0 fnt
+|faint|p1a: Koraidon
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|c|☆Osake|alr
+|c|☆TonedOyster|LOL
+|-message|Osake forfeited.
+|
+|win|TonedOyster
+|raw|Osake's rating: 1992 &rarr; <strong>1971</strong><br />(-21 for losing)
+|raw|TonedOyster's rating: 1977 &rarr; <strong>1998</strong><br />(+21 for winning)
+|c|☆Osake|gg
+|l|☆Osake
+|player|p1|

@@ -1,0 +1,315 @@
+|j|☆R3c1Drag0n
+|j|☆Izion
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1776971069
+|gametype|singles
+|player|p1|R3c1Drag0n|266|
+|player|p2|Izion|rei|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|Tournament battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776971069
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Electrode|Electrode, L92|260/260
+|switch|p2a: Mandibuzz|Mandibuzz, L85, F|326/326
+|turn|1
+|j| vortexaxolotl
+|
+|t:|1776971087
+|-terastallize|p2a: Mandibuzz|Steel
+|move|p1a: Electrode|Thunderbolt|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|212/326
+|-damage|p1a: Electrode|234/260|[from] item: Life Orb
+|move|p2a: Mandibuzz|Toxic|p1a: Electrode
+|-status|p1a: Electrode|tox
+|
+|-damage|p1a: Electrode|218/260 tox|[from] psn
+|upkeep
+|turn|2
+|c|☆R3c1Drag0n|lets have a good game
+|c|☆R3c1Drag0n|damn
+|c|☆Izion|yup
+|c|☆R3c1Drag0n|steel tera already
+|inactive|R3c1Drag0n has 120 seconds left.
+|c|☆Izion|I have my reasons
+|
+|t:|1776971124
+|move|p1a: Electrode|Thunderbolt|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|95/326
+|-status|p2a: Mandibuzz|par
+|-damage|p1a: Electrode|192/260 tox|[from] item: Life Orb
+|move|p2a: Mandibuzz|Foul Play|p1a: Electrode
+|-damage|p1a: Electrode|113/260 tox
+|
+|-damage|p1a: Electrode|81/260 tox|[from] psn
+|upkeep
+|turn|3
+|inactive|R3c1Drag0n has 120 seconds left.
+|inactive|Izion has 120 seconds left.
+|
+|t:|1776971144
+|switch|p1a: Sunflora|Sunflora, F|312/312
+|move|p2a: Mandibuzz|Roost|p2a: Mandibuzz
+|-heal|p2a: Mandibuzz|258/326 par
+|
+|upkeep
+|turn|4
+|
+|t:|1776971150
+|move|p1a: Sunflora|Sunny Day|p1a: Sunflora
+|-weather|SunnyDay
+|cant|p2a: Mandibuzz|par
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|inactive|R3c1Drag0n has 120 seconds left.
+|
+|t:|1776971157
+|move|p1a: Sunflora|Weather Ball|p2a: Mandibuzz
+|-supereffective|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|0 fnt
+|faint|p2a: Mandibuzz
+|-damage|p1a: Sunflora|281/312|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|c|☆R3c1Drag0n|okay
+|
+|t:|1776971163
+|switch|p2a: Skeledirge|Skeledirge, L79, M|294/294
+|turn|6
+|c|☆R3c1Drag0n|worth it
+|
+|t:|1776971171
+|move|p1a: Sunflora|Earth Power|p2a: Skeledirge
+|-supereffective|p2a: Skeledirge
+|-damage|p2a: Skeledirge|0 fnt
+|faint|p2a: Skeledirge
+|-damage|p1a: Sunflora|250/312|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1776971177
+|switch|p2a: Charizard|Charizard, L85, M|271/271
+|turn|7
+|c|☆R3c1Drag0n|is sunflora the strat
+|
+|t:|1776971196
+|move|p1a: Sunflora|Weather Ball|p2a: Charizard
+|-resisted|p2a: Charizard
+|-damage|p2a: Charizard|167/271
+|-damage|p1a: Sunflora|219/312|[from] item: Life Orb
+|move|p2a: Charizard|Flamethrower|p1a: Sunflora
+|-supereffective|p1a: Sunflora
+|-damage|p1a: Sunflora|0 fnt
+|faint|p1a: Sunflora
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|c|☆Izion|sunflora has been a sleeper mon in randbats
+|
+|t:|1776971199
+|switch|p1a: Blastoise|Blastoise, L80, F|258/258
+|turn|8
+|
+|t:|1776971211
+|switch|p2a: Chimecho|Chimecho, L93, M|290/290
+|move|p1a: Blastoise|Shell Smash|p1a: Blastoise
+|-unboost|p1a: Blastoise|def|1
+|-unboost|p1a: Blastoise|spd|1
+|-boost|p1a: Blastoise|atk|2
+|-boost|p1a: Blastoise|spa|2
+|-boost|p1a: Blastoise|spe|2
+|-enditem|p1a: Blastoise|White Herb
+|-clearnegativeboost|p1a: Blastoise|[silent]
+|
+|-weather|none
+|upkeep
+|turn|9
+|c|☆R3c1Drag0n|really
+|c|☆Izion|yes
+|c|☆Izion|i think I lose here tho
+|
+|t:|1776971226
+|move|p1a: Blastoise|Hydro Pump|p2a: Chimecho
+|-damage|p2a: Chimecho|109/290
+|move|p2a: Chimecho|Thunder Wave|p1a: Blastoise
+|-status|p1a: Blastoise|par
+|
+|-heal|p2a: Chimecho|127/290|[from] item: Leftovers
+|upkeep
+|turn|10
+|c|☆R3c1Drag0n|no para
+|c|☆R3c1Drag0n|I'm gonna stunthis turn
+|c|☆Izion|reason I steel tera'd because I had no safe switch in
+|
+|t:|1776971252
+|move|p2a: Chimecho|Recover|p2a: Chimecho
+|-heal|p2a: Chimecho|272/290
+|cant|p1a: Blastoise|par
+|
+|-heal|p2a: Chimecho|290/290|[from] item: Leftovers
+|upkeep
+|turn|11
+|c|☆R3c1Drag0n|oh
+|
+|t:|1776971259
+|move|p2a: Chimecho|Psychic Noise|p1a: Blastoise
+|-damage|p1a: Blastoise|165/258 par
+|-start|p1a: Blastoise|move: Heal Block
+|cant|p1a: Blastoise|par
+|
+|upkeep
+|turn|12
+|c|☆R3c1Drag0n|please move blastoise
+|
+|t:|1776971278
+|move|p2a: Chimecho|Psychic Noise|p1a: Blastoise
+|-damage|p1a: Blastoise|81/258 par
+|move|p1a: Blastoise|Ice Beam|p2a: Chimecho
+|-damage|p2a: Chimecho|202/290
+|
+|-heal|p2a: Chimecho|220/290|[from] item: Leftovers
+|-end|p1a: Blastoise|move: Heal Block
+|upkeep
+|turn|13
+|
+|t:|1776971290
+|move|p2a: Chimecho|Psychic Noise|p1a: Blastoise
+|-damage|p1a: Blastoise|0 fnt
+|faint|p1a: Blastoise
+|
+|-heal|p2a: Chimecho|238/290|[from] item: Leftovers
+|upkeep
+|c| vortexaxolotl|tanky bell
+|c|☆R3c1Drag0n|yes
+|
+|t:|1776971310
+|switch|p1a: Electrode|Electrode, L92|81/260 tox
+|turn|14
+|
+|t:|1776971314
+|move|p1a: Electrode|Explosion|p2a: Chimecho
+|-damage|p2a: Chimecho|74/290
+|faint|p1a: Electrode
+|move|p2a: Chimecho|Psychic Noise|p1: Electrode|[notarget]
+|-fail|p2a: Chimecho
+|
+|-heal|p2a: Chimecho|92/290|[from] item: Leftovers
+|upkeep
+|
+|t:|1776971317
+|switch|p1a: Cinccino|Cinccino, L83, F|260/260
+|turn|15
+|
+|t:|1776971327
+|-terastallize|p1a: Cinccino|Ice
+|move|p1a: Cinccino|Triple Axel|p2a: Chimecho
+|-damage|p2a: Chimecho|61/290
+|-damage|p2a: Chimecho|1/290
+|-damage|p2a: Chimecho|0 fnt
+|faint|p2a: Chimecho
+|-hitcount|p2: Chimecho|3
+|
+|upkeep
+|
+|t:|1776971336
+|switch|p2a: Farigiraf|Farigiraf, L90, F|362/362
+|turn|16
+|
+|t:|1776971341
+|move|p1a: Cinccino|Bullet Seed|p2a: Farigiraf
+|-ability|p2a: Farigiraf|Sap Sipper|boost
+|-boost|p2a: Farigiraf|atk|1
+|move|p2a: Farigiraf|Body Slam|p1a: Cinccino
+|-damage|p1a: Cinccino|62/260
+|-status|p1a: Cinccino|par
+|
+|upkeep
+|turn|17
+|
+|t:|1776971350
+|move|p2a: Farigiraf|Body Slam|p1a: Cinccino
+|-damage|p1a: Cinccino|0 fnt
+|faint|p1a: Cinccino
+|
+|upkeep
+|
+|t:|1776971355
+|switch|p1a: Espeon|Espeon, L84, M|246/246
+|turn|18
+|
+|t:|1776971361
+|move|p1a: Espeon|Trick|p2a: Farigiraf
+|-activate|p1a: Espeon|move: Trick|[of] p2a: Farigiraf
+|-item|p2a: Farigiraf|Choice Specs|[from] move: Trick
+|-item|p1a: Espeon|Leftovers|[from] move: Trick
+|move|p2a: Farigiraf|Body Slam|p1a: Espeon
+|-damage|p1a: Espeon|44/246
+|-status|p1a: Espeon|par
+|
+|-heal|p1a: Espeon|59/246 par|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1776971375
+|move|p2a: Farigiraf|Body Slam|p1a: Espeon
+|-damage|p1a: Espeon|0 fnt
+|faint|p1a: Espeon
+|
+|upkeep
+|
+|t:|1776971378
+|switch|p1a: Lucario|Lucario, L84, F|255/255
+|turn|20
+|c|☆R3c1Drag0n|oh I lose here
+|
+|t:|1776971396
+|move|p1a: Lucario|Focus Blast|p2a: Farigiraf
+|-damage|p2a: Farigiraf|162/362
+|-damage|p1a: Lucario|230/255|[from] item: Life Orb
+|move|p2a: Farigiraf|Body Slam|p1a: Lucario
+|-resisted|p1a: Lucario
+|-damage|p1a: Lucario|149/255
+|
+|upkeep
+|turn|21
+|c|☆Izion|you had the win too
+|
+|t:|1776971405
+|move|p1a: Lucario|Focus Blast|p2a: Farigiraf
+|-damage|p2a: Farigiraf|0 fnt
+|faint|p2a: Farigiraf
+|-damage|p1a: Lucario|124/255|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776971412
+|switch|p2a: Hydreigon|Hydreigon, L79, M|275/275
+|turn|22
+|c|☆R3c1Drag0n|oh thank God
+|j| aeonseye
+|c|☆R3c1Drag0n|oh you outspeed me by one
+|c| vortexaxolotl|damn
+|
+|t:|1776971435
+|move|p2a: Hydreigon|Fire Blast|p1a: Lucario
+|-supereffective|p1a: Lucario
+|-damage|p1a: Lucario|0 fnt
+|faint|p1a: Lucario
+|-damage|p2a: Hydreigon|248/275|[from] item: Life Orb
+|
+|win|Izion
+|n|☆R3c1Drag0n|r3c1drag0n
+|n|☆Izion|izion
+|n| vortexaxolotl|vortexaxolotl
+|n| aeonseye|aeonseye

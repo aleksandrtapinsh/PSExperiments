@@ -1,0 +1,267 @@
+|j|☆nooberserker
+|j|☆PaulGlazerDp
+|t:|1772747258
+|gametype|singles
+|player|p1|nooberserker|169|1378
+|player|p2|PaulGlazerDp|steven|1429
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772747258
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Thorns|Iron Thorns, L83|302/302
+|switch|p2a: Leavanny|Leavanny, L86, M|269/269
+|-item|p1a: Iron Thorns|Air Balloon
+|turn|1
+|
+|t:|1772747269
+|move|p2a: Leavanny|Sticky Web|p1a: Iron Thorns
+|-sidestart|p1: nooberserker|move: Sticky Web
+|move|p1a: Iron Thorns|Stone Edge|p2a: Leavanny
+|-supereffective|p2a: Leavanny
+|-damage|p2a: Leavanny|5/269
+|
+|upkeep
+|turn|2
+|
+|t:|1772747277
+|move|p2a: Leavanny|Leaf Blade|p1a: Iron Thorns
+|-supereffective|p1a: Iron Thorns
+|-damage|p1a: Iron Thorns|122/302
+|-enditem|p1a: Iron Thorns|Air Balloon
+|move|p1a: Iron Thorns|Stone Edge|p2a: Leavanny|[miss]
+|-miss|p1a: Iron Thorns|p2a: Leavanny
+|
+|upkeep
+|turn|3
+|
+|t:|1772747309
+|-end|p1a: Iron Thorns|Quark Drive|[silent]
+|switch|p1a: Camerupt|Camerupt, L91, F|275/275
+|-activate|p1a: Camerupt|move: Sticky Web
+|-unboost|p1a: Camerupt|spe|1
+|move|p2a: Leavanny|Leaf Blade|p1a: Camerupt
+|-damage|p1a: Camerupt|166/275
+|
+|-heal|p1a: Camerupt|183/275|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1772747320
+|move|p2a: Leavanny|Leaf Blade|p1a: Camerupt
+|-damage|p1a: Camerupt|74/275
+|move|p1a: Camerupt|Earthquake|p2a: Leavanny
+|-resisted|p2a: Leavanny
+|-damage|p2a: Leavanny|0 fnt
+|faint|p2a: Leavanny
+|
+|-heal|p1a: Camerupt|91/275|[from] item: Leftovers
+|upkeep
+|
+|t:|1772747334
+|switch|p2a: Sandaconda|Sandaconda, L84, F|258/258
+|turn|5
+|
+|t:|1772747348
+|move|p2a: Sandaconda|Coil|p2a: Sandaconda
+|-boost|p2a: Sandaconda|atk|1
+|-boost|p2a: Sandaconda|def|1
+|-boost|p2a: Sandaconda|accuracy|1
+|move|p1a: Camerupt|Overheat|p2a: Sandaconda
+|-damage|p2a: Sandaconda|57/258
+|-unboost|p1a: Camerupt|spa|2
+|
+|-heal|p1a: Camerupt|108/275|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1772747360
+|move|p2a: Sandaconda|Scale Shot|p1a: Camerupt
+|-damage|p1a: Camerupt|75/275
+|-damage|p1a: Camerupt|40/275
+|-damage|p1a: Camerupt|8/275
+|-damage|p1a: Camerupt|0 fnt
+|faint|p1a: Camerupt
+|-hitcount|p1: Camerupt|4
+|-unboost|p2a: Sandaconda|def|1
+|-boost|p2a: Sandaconda|spe|1
+|
+|upkeep
+|
+|t:|1772747379
+|switch|p1a: Dragapult|Dragapult, L77, M|262/262
+|-activate|p1a: Dragapult|move: Sticky Web
+|-unboost|p1a: Dragapult|spe|1
+|turn|7
+|
+|t:|1772747396
+|move|p2a: Sandaconda|Scale Shot|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|194/262
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|124/262
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|56/262
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|-hitcount|p1: Dragapult|4
+|-unboost|p2a: Sandaconda|def|1
+|-boost|p2a: Sandaconda|spe|1
+|
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by PaulGlazerDp)
+|
+|t:|1772747418
+|switch|p1a: Eiscue|Eiscue, L88, F|274/274
+|-activate|p1a: Eiscue|move: Sticky Web
+|-unboost|p1a: Eiscue|spe|1
+|turn|8
+|
+|t:|1772747431
+|move|p2a: Sandaconda|Rock Blast|p1a: Eiscue
+|-activate|p1a: Eiscue|ability: Ice Face
+|-damage|p1a: Eiscue|274/274
+|detailschange|p1a: Eiscue|Eiscue-Noice, L88, F
+|-supereffective|p1a: Eiscue
+|-damage|p1a: Eiscue|206/274
+|-supereffective|p1a: Eiscue
+|-damage|p1a: Eiscue|146/274
+|-supereffective|p1a: Eiscue
+|-crit|p1a: Eiscue
+|-damage|p1a: Eiscue|42/274
+|-enditem|p1a: Eiscue|Sitrus Berry|[eat]
+|-heal|p1a: Eiscue|110/274|[from] item: Sitrus Berry
+|-hitcount|p1a: Eiscue|4
+|move|p1a: Eiscue|Ice Spinner|p2a: Sandaconda
+|-supereffective|p2a: Sandaconda
+|-damage|p2a: Sandaconda|0 fnt
+|faint|p2a: Sandaconda
+|
+|upkeep
+|
+|t:|1772747447
+|switch|p2a: Rampardos|Rampardos, L90, F|321/321
+|turn|9
+|
+|t:|1772747457
+|move|p1a: Eiscue|Liquidation|p2a: Rampardos
+|-supereffective|p2a: Rampardos
+|-damage|p2a: Rampardos|175/321
+|move|p2a: Rampardos|Fire Punch|p1a: Eiscue
+|-supereffective|p1a: Eiscue
+|-damage|p1a: Eiscue|0 fnt
+|faint|p1a: Eiscue
+|
+|upkeep
+|
+|t:|1772747479
+|switch|p1a: Tauros|Tauros, L82, M|257/257
+|-activate|p1a: Tauros|move: Sticky Web
+|-unboost|p1a: Tauros|spe|1
+|turn|10
+|
+|t:|1772747488
+|move|p2a: Rampardos|Rock Slide|p1a: Tauros
+|-damage|p1a: Tauros|19/257
+|move|p1a: Tauros|Close Combat|p2a: Rampardos
+|-supereffective|p2a: Rampardos
+|-damage|p2a: Rampardos|0 fnt
+|-unboost|p1a: Tauros|def|1
+|-unboost|p1a: Tauros|spd|1
+|faint|p2a: Rampardos
+|-damage|p1a: Tauros|0 fnt|[from] item: Life Orb
+|faint|p1a: Tauros
+|
+|upkeep
+|
+|t:|1772747501
+|switch|p1a: Iron Thorns|Iron Thorns, L83|122/302
+|switch|p2a: Cloyster|Cloyster, L80, F|211/211
+|-activate|p1a: Iron Thorns|move: Sticky Web
+|-unboost|p1a: Iron Thorns|spe|1
+|turn|11
+|inactive|nooberserker has 120 seconds left.
+|
+|t:|1772747518
+|move|p2a: Cloyster|Hydro Pump|p1a: Iron Thorns
+|-supereffective|p1a: Iron Thorns
+|-damage|p1a: Iron Thorns|0 fnt
+|faint|p1a: Iron Thorns
+|-end|p1a: Iron Thorns|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1772747523
+|switch|p1a: Hitmontop|Hitmontop, L88, M|231/231
+|-activate|p1a: Hitmontop|move: Sticky Web
+|-unboost|p1a: Hitmontop|spe|1
+|turn|12
+|
+|t:|1772747538
+|move|p2a: Cloyster|Shell Smash|p2a: Cloyster
+|-unboost|p2a: Cloyster|def|1
+|-unboost|p2a: Cloyster|spd|1
+|-boost|p2a: Cloyster|atk|2
+|-boost|p2a: Cloyster|spa|2
+|-boost|p2a: Cloyster|spe|2
+|-enditem|p2a: Cloyster|White Herb
+|-clearnegativeboost|p2a: Cloyster|[silent]
+|move|p1a: Hitmontop|Rapid Spin|p2a: Cloyster
+|-damage|p2a: Cloyster|178/211
+|-boost|p1a: Hitmontop|spe|1
+|-sideend|p1: nooberserker|Sticky Web|[from] move: Rapid Spin|[of] p1a: Hitmontop
+|
+|upkeep
+|turn|13
+|inactive|nooberserker has 120 seconds left.
+|
+|t:|1772747564
+|-terastallize|p2a: Cloyster|Ice
+|-terastallize|p1a: Hitmontop|Ice
+|move|p2a: Cloyster|Icicle Spear|p1a: Hitmontop
+|-resisted|p1a: Hitmontop
+|-damage|p1a: Hitmontop|198/231
+|-resisted|p1a: Hitmontop
+|-damage|p1a: Hitmontop|167/231
+|-resisted|p1a: Hitmontop
+|-damage|p1a: Hitmontop|136/231
+|-resisted|p1a: Hitmontop
+|-damage|p1a: Hitmontop|103/231
+|-resisted|p1a: Hitmontop
+|-damage|p1a: Hitmontop|72/231
+|-hitcount|p1a: Hitmontop|5
+|move|p1a: Hitmontop|Close Combat|p2a: Cloyster
+|-supereffective|p2a: Cloyster
+|-damage|p2a: Cloyster|8/211
+|-unboost|p1a: Hitmontop|def|1
+|-unboost|p1a: Hitmontop|spd|1
+|
+|-heal|p1a: Hitmontop|86/231|[from] item: Leftovers
+|upkeep
+|turn|14
+|inactive|nooberserker has 120 seconds left.
+|
+|t:|1772747583
+|move|p2a: Cloyster|Icicle Spear|p1a: Hitmontop
+|-resisted|p1a: Hitmontop
+|-crit|p1a: Hitmontop
+|-damage|p1a: Hitmontop|21/231
+|-resisted|p1a: Hitmontop
+|-crit|p1a: Hitmontop
+|-damage|p1a: Hitmontop|0 fnt
+|faint|p1a: Hitmontop
+|-hitcount|p1: Hitmontop|2
+|
+|win|PaulGlazerDp
+|raw|nooberserker's rating: 1378 &rarr; <strong>1361</strong><br />(-17 for losing)
+|raw|PaulGlazerDp's rating: 1429 &rarr; <strong>1446</strong><br />(+17 for winning)
+|l|☆nooberserker
+|player|p1|

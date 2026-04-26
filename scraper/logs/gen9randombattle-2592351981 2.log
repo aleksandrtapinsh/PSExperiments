@@ -1,0 +1,169 @@
+|j|☆Rvmses
+|j|☆MitchyJ22
+|t:|1776981272
+|gametype|singles
+|player|p1|Rvmses|266|1611
+|player|p2|MitchyJ22|2|1606
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776981272
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Conkeldurr|Conkeldurr, L80, M|299/299
+|switch|p2a: Bastiodon|Bastiodon, L89, M|252/252
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Rvmses)
+|
+|t:|1776981296
+|switch|p2a: Kilowattrel|Kilowattrel, L83, F|252/252
+|move|p1a: Conkeldurr|Close Combat|p2a: Kilowattrel
+|-resisted|p2a: Kilowattrel
+|-damage|p2a: Kilowattrel|150/252
+|-unboost|p1a: Conkeldurr|def|1
+|-unboost|p1a: Conkeldurr|spd|1
+|
+|-status|p1a: Conkeldurr|brn|[from] item: Flame Orb
+|upkeep
+|turn|2
+|inactive|Rvmses has 120 seconds left.
+|
+|t:|1776981327
+|switch|p1a: Salazzle|Salazzle, L83, F|249/249
+|move|p2a: Kilowattrel|Hurricane|p1a: Salazzle
+|-damage|p1a: Salazzle|77/249
+|-start|p1a: Salazzle|confusion
+|
+|upkeep
+|turn|3
+|
+|t:|1776981335
+|move|p2a: Kilowattrel|Discharge|p1a: Salazzle
+|-damage|p1a: Salazzle|0 fnt
+|faint|p1a: Salazzle
+|
+|upkeep
+|inactive|Rvmses has 120 seconds left.
+|
+|t:|1776981345
+|switch|p1a: Greedent|Greedent, L86, M|347/347
+|turn|4
+|
+|t:|1776981352
+|move|p2a: Kilowattrel|U-turn|p1a: Greedent
+|-damage|p1a: Greedent|311/347
+|
+|t:|1776981354
+|switch|p2a: Shiftry|Shiftry, L89, M|305/305|[from] U-turn
+|move|p1a: Greedent|Body Slam|p2a: Shiftry
+|-damage|p2a: Shiftry|197/305
+|-status|p2a: Shiftry|par
+|
+|upkeep
+|turn|5
+|inactive|Rvmses has 120 seconds left.
+|
+|t:|1776981380
+|move|p2a: Shiftry|Knock Off|p1a: Greedent
+|-damage|p1a: Greedent|177/347
+|-enditem|p1a: Greedent|Sitrus Berry|[from] move: Knock Off|[of] p2a: Shiftry
+|-damage|p2a: Shiftry|167/305 par|[from] item: Life Orb
+|move|p1a: Greedent|Swords Dance|p1a: Greedent
+|-boost|p1a: Greedent|atk|2
+|
+|upkeep
+|turn|6
+|
+|t:|1776981391
+|move|p2a: Shiftry|Tailwind|p2a: Shiftry
+|-sidestart|p2: MitchyJ22|move: Tailwind
+|-ability|p2a: Shiftry|Wind Rider|boost
+|-boost|p2a: Shiftry|atk|1
+|move|p1a: Greedent|Body Slam|p2a: Shiftry
+|-damage|p2a: Shiftry|0 fnt
+|faint|p2a: Shiftry
+|
+|upkeep
+|
+|t:|1776981401
+|switch|p2a: Persian|Persian, L92, M|269/269
+|turn|7
+|
+|t:|1776981415
+|-terastallize|p1a: Greedent|Ghost
+|move|p2a: Persian|Double-Edge|p1a: Greedent
+|-immune|p1a: Greedent
+|move|p1a: Greedent|Body Slam|p2a: Persian
+|-damage|p2a: Persian|58/269
+|
+|upkeep
+|turn|8
+|inactive|Rvmses has 120 seconds left.
+|
+|t:|1776981456
+|move|p2a: Persian|Knock Off|p1a: Greedent
+|-supereffective|p1a: Greedent
+|-damage|p1a: Greedent|97/347
+|move|p1a: Greedent|Knock Off|p2a: Persian
+|-damage|p2a: Persian|0 fnt
+|-enditem|p2a: Persian|Silk Scarf|[from] move: Knock Off|[of] p1a: Greedent
+|faint|p2a: Persian
+|
+|upkeep
+|
+|t:|1776981467
+|switch|p2a: Kilowattrel|Kilowattrel, L83, F|150/252
+|turn|9
+|inactive|Rvmses has 120 seconds left.
+|
+|t:|1776981474
+|move|p2a: Kilowattrel|Discharge|p1a: Greedent
+|-damage|p1a: Greedent|3/347
+|move|p1a: Greedent|Body Slam|p2a: Kilowattrel
+|-damage|p2a: Kilowattrel|0 fnt
+|faint|p2a: Kilowattrel
+|
+|-sideend|p2: MitchyJ22|move: Tailwind
+|upkeep
+|c|☆Rvmses|that's my g right there
+|
+|t:|1776981483
+|switch|p2a: Lokix|Lokix, L82, F|251/251
+|turn|10
+|c|☆Rvmses|the ultimate goat greedent
+|
+|t:|1776981489
+|move|p2a: Lokix|Knock Off|p1a: Greedent
+|-supereffective|p1a: Greedent
+|-damage|p1a: Greedent|0 fnt
+|faint|p1a: Greedent
+|-damage|p2a: Lokix|226/251|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776981495
+|switch|p1a: Lokix|Lokix, L82, F|251/251
+|turn|11
+|
+|t:|1776981499
+|switch|p2a: Bastiodon|Bastiodon, L89, M|252/252
+|move|p1a: Lokix|First Impression|p2a: Bastiodon
+|-resisted|p2a: Bastiodon
+|-damage|p2a: Bastiodon|182/252
+|-damage|p1a: Lokix|226/251|[from] item: Life Orb
+|
+|upkeep
+|turn|12
+|-message|MitchyJ22 forfeited.
+|
+|win|Rvmses
+|raw|Rvmses's rating: 1611 &rarr; <strong>1631</strong><br />(+20 for winning)
+|raw|MitchyJ22's rating: 1606 &rarr; <strong>1586</strong><br />(-20 for losing)
+|l|☆MitchyJ22
+|player|p2|

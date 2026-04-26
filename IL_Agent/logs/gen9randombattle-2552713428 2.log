@@ -1,0 +1,310 @@
+|j|☆jsnsmssjsb
+|j|☆Holagjendksbf
+|t:|1772745987
+|gametype|singles
+|player|p1|jsnsmssjsb|petrel|1000
+|player|p2|Holagjendksbf|101|1000
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772745987
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Deoxys|Deoxys, L74|196/196
+|switch|p2a: Brambleghast|Brambleghast, L88, M|240/240
+|-ability|p1a: Deoxys|Pressure
+|turn|1
+|
+|t:|1772746000
+|switch|p1a: Scyther|Scyther, L82, M|249/249
+|move|p2a: Brambleghast|Spikes|p1a: Scyther
+|-sidestart|p1: jsnsmssjsb|Spikes
+|
+|upkeep
+|turn|2
+|
+|t:|1772746021
+|switch|p2a: Skeledirge|Skeledirge, L79, F|294/294
+|move|p1a: Scyther|Dual Wingbeat|p2a: Skeledirge
+|-damage|p2a: Skeledirge|230/294
+|-damage|p2a: Skeledirge|163/294
+|-hitcount|p2a: Skeledirge|2
+|
+|upkeep
+|turn|3
+|
+|t:|1772746046
+|move|p1a: Scyther|U-turn|p2a: Skeledirge
+|-resisted|p2a: Skeledirge
+|-damage|p2a: Skeledirge|144/294
+|
+|t:|1772746048
+|switch|p1a: Eternatus|Eternatus, L69|308/308|[from] U-turn
+|-damage|p1a: Eternatus|270/308|[from] Spikes
+|-ability|p1a: Eternatus|Pressure
+|move|p2a: Skeledirge|Torch Song|p1a: Eternatus
+|-resisted|p1a: Eternatus
+|-damage|p1a: Eternatus|225/308
+|-boost|p2a: Skeledirge|spa|1
+|
+|-heal|p1a: Eternatus|244/308|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1772746074
+|switch|p2a: Crabominable|Crabominable, L90, F|321/321
+|move|p1a: Eternatus|Dynamax Cannon|p2a: Crabominable
+|-damage|p2a: Crabominable|201/321
+|
+|-heal|p1a: Eternatus|263/308|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1772746089
+|switch|p1a: Magnezone|Magnezone, L85|258/258
+|-damage|p1a: Magnezone|226/258|[from] Spikes
+|move|p2a: Crabominable|Ice Hammer|p1a: Magnezone
+|-resisted|p1a: Magnezone
+|-damage|p1a: Magnezone|113/258
+|-unboost|p2a: Crabominable|spe|1
+|
+|upkeep
+|turn|6
+|
+|t:|1772746101
+|move|p1a: Magnezone|Flash Cannon|p2a: Crabominable
+|-supereffective|p2a: Crabominable
+|-damage|p2a: Crabominable|0 fnt
+|faint|p2a: Crabominable
+|
+|upkeep
+|
+|t:|1772746122
+|switch|p2a: Brambleghast|Brambleghast, L88, M|240/240
+|turn|7
+|
+|t:|1772746149
+|move|p1a: Magnezone|Flash Cannon|p2a: Brambleghast
+|-damage|p2a: Brambleghast|125/240
+|move|p2a: Brambleghast|Poltergeist|p1a: Magnezone|[miss]
+|-miss|p2a: Brambleghast|p1a: Magnezone
+|
+|-heal|p2a: Brambleghast|140/240|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1772746163
+|move|p1a: Magnezone|Flash Cannon|p2a: Brambleghast
+|-damage|p2a: Brambleghast|20/240
+|move|p2a: Brambleghast|Strength Sap|p1a: Magnezone
+|-unboost|p1a: Magnezone|atk|1
+|-heal|p2a: Brambleghast|144/240
+|
+|-heal|p2a: Brambleghast|159/240|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1772746173
+|move|p1a: Magnezone|Flash Cannon|p2a: Brambleghast
+|-damage|p2a: Brambleghast|36/240
+|move|p2a: Brambleghast|Poltergeist|p1a: Magnezone
+|-activate|p1a: Magnezone|move: Poltergeist|Choice Scarf
+|-damage|p1a: Magnezone|0 fnt
+|faint|p1a: Magnezone
+|
+|-heal|p2a: Brambleghast|51/240|[from] item: Leftovers
+|upkeep
+|
+|t:|1772746176
+|switch|p1a: Scyther|Scyther, L82, M|249/249
+|turn|10
+|
+|t:|1772746189
+|move|p1a: Scyther|Dual Wingbeat|p2a: Brambleghast
+|-supereffective|p2a: Brambleghast
+|-damage|p2a: Brambleghast|0 fnt
+|faint|p2a: Brambleghast
+|-hitcount|p2: Brambleghast|1
+|
+|upkeep
+|
+|t:|1772746203
+|switch|p2a: Weezing|Weezing, L88, F|258/258
+|turn|11
+|
+|t:|1772746217
+|move|p1a: Scyther|U-turn|p2a: Weezing
+|-resisted|p2a: Weezing
+|-damage|p2a: Weezing|226/258
+|
+|t:|1772746219
+|switch|p1a: Eternatus|Eternatus, L69|263/308|[from] U-turn
+|-damage|p1a: Eternatus|225/308|[from] Spikes
+|-ability|p1a: Eternatus|Pressure
+|move|p2a: Weezing|Sludge Bomb|p1a: Eternatus
+|-resisted|p1a: Eternatus
+|-damage|p1a: Eternatus|168/308
+|
+|-heal|p1a: Eternatus|187/308|[from] item: Leftovers
+|-heal|p2a: Weezing|242/258|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1772746234
+|move|p1a: Eternatus|Dynamax Cannon|p2a: Weezing
+|-damage|p2a: Weezing|130/258
+|move|p2a: Weezing|Fire Blast|p1a: Eternatus
+|-resisted|p1a: Eternatus
+|-damage|p1a: Eternatus|139/308
+|
+|-heal|p1a: Eternatus|158/308|[from] item: Leftovers
+|-heal|p2a: Weezing|146/258|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1772746255
+|switch|p2a: Dodrio|Dodrio, L85, F|241/241
+|move|p1a: Eternatus|Dynamax Cannon|p2a: Dodrio
+|-damage|p2a: Dodrio|115/241
+|
+|-heal|p1a: Eternatus|177/308|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1772746267
+|switch|p1a: Okidogi|Okidogi, L77, M|262/262
+|-damage|p1a: Okidogi|230/262|[from] Spikes
+|move|p2a: Dodrio|Drill Run|p1a: Okidogi
+|-supereffective|p1a: Okidogi
+|-damage|p1a: Okidogi|124/262
+|
+|-heal|p1a: Okidogi|140/262|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1772746280
+|-terastallize|p2a: Dodrio|Ground
+|move|p2a: Dodrio|Drill Run|p1a: Okidogi
+|-supereffective|p1a: Okidogi
+|-crit|p1a: Okidogi
+|-damage|p1a: Okidogi|0 fnt
+|faint|p1a: Okidogi
+|
+|upkeep
+|
+|t:|1772746288
+|switch|p1a: Deoxys|Deoxys, L74|196/196
+|-damage|p1a: Deoxys|172/196|[from] Spikes
+|-ability|p1a: Deoxys|Pressure
+|turn|16
+|
+|t:|1772746301
+|move|p1a: Deoxys|Ice Beam|p2a: Dodrio
+|-supereffective|p2a: Dodrio
+|-damage|p2a: Dodrio|0 fnt
+|faint|p2a: Dodrio
+|-damage|p1a: Deoxys|153/196|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772746314
+|switch|p2a: Skeledirge|Skeledirge, L79, F|144/294
+|turn|17
+|
+|t:|1772746319
+|move|p1a: Deoxys|Psycho Boost|p2a: Skeledirge
+|-damage|p2a: Skeledirge|0 fnt
+|-unboost|p1a: Deoxys|spa|2
+|faint|p2a: Skeledirge
+|-damage|p1a: Deoxys|134/196|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772746330
+|switch|p2a: Metagross|Metagross, L79|256/256
+|turn|18
+|
+|t:|1772746341
+|move|p1a: Deoxys|Knock Off|p2a: Metagross
+|-supereffective|p2a: Metagross
+|-damage|p2a: Metagross|95/256
+|-enditem|p2a: Metagross|Weakness Policy
+|-boost|p2a: Metagross|atk|2|[from] item: Weakness Policy
+|-boost|p2a: Metagross|spa|2|[from] item: Weakness Policy
+|-damage|p1a: Deoxys|115/196|[from] item: Life Orb
+|move|p2a: Metagross|Agility|p2a: Metagross
+|-boost|p2a: Metagross|spe|2
+|
+|upkeep
+|turn|19
+|
+|t:|1772746351
+|move|p2a: Metagross|Knock Off|p1a: Deoxys
+|-supereffective|p1a: Deoxys
+|-damage|p1a: Deoxys|0 fnt
+|-enditem|p1a: Deoxys|Life Orb|[from] move: Knock Off|[of] p2a: Metagross
+|faint|p1a: Deoxys
+|
+|upkeep
+|
+|t:|1772746360
+|switch|p1a: Scyther|Scyther, L82, M|249/249
+|turn|20
+|
+|t:|1772746383
+|move|p2a: Metagross|Heavy Slam|p1a: Scyther
+|-damage|p1a: Scyther|0 fnt
+|faint|p1a: Scyther
+|
+|upkeep
+|
+|t:|1772746388
+|switch|p1a: Rayquaza|Rayquaza, L72|270/270
+|-ability|p1a: Rayquaza|Air Lock
+|turn|21
+|
+|t:|1772746394
+|-terastallize|p1a: Rayquaza|Normal
+|move|p1a: Rayquaza|Extreme Speed|p2a: Metagross
+|-resisted|p2a: Metagross
+|-damage|p2a: Metagross|47/256
+|move|p2a: Metagross|Heavy Slam|p1a: Rayquaza
+|-damage|p1a: Rayquaza|102/270
+|
+|upkeep
+|turn|22
+|
+|t:|1772746408
+|move|p1a: Rayquaza|Extreme Speed|p2a: Metagross
+|-resisted|p2a: Metagross
+|-damage|p2a: Metagross|0 fnt
+|faint|p2a: Metagross
+|
+|upkeep
+|
+|t:|1772746413
+|switch|p2a: Weezing|Weezing, L88, F|146/258
+|turn|23
+|
+|t:|1772746421
+|move|p1a: Rayquaza|Extreme Speed|p2a: Weezing
+|-damage|p2a: Weezing|50/258
+|move|p2a: Weezing|Sludge Bomb|p1a: Rayquaza
+|-damage|p1a: Rayquaza|2/270
+|
+|-heal|p2a: Weezing|66/258|[from] item: Leftovers
+|upkeep
+|turn|24
+|-message|Holagjendksbf forfeited.
+|
+|win|jsnsmssjsb
+|raw|jsnsmssjsb's rating: 1000 &rarr; <strong>1040</strong><br />(+40 for winning)
+|raw|Holagjendksbf's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|l|☆Holagjendksbf
+|player|p2|

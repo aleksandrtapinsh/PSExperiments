@@ -1,0 +1,80 @@
+|j|☆terxh233
+|j|☆vfbdfbvcgfnvbngn
+|t:|1776978567
+|gametype|singles
+|player|p1|terxh233|102|1084
+|player|p2|vfbdfbvcgfnvbngn|102|1072
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776978567
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Poliwrath|Poliwrath, L88, M|302/302
+|switch|p2a: Pachirisu|Pachirisu, L96, M|271/271
+|turn|1
+|
+|t:|1776978583
+|-terastallize|p1a: Poliwrath|Fighting
+|move|p2a: Pachirisu|Discharge|p1a: Poliwrath
+|-damage|p1a: Poliwrath|244/302
+|-status|p1a: Poliwrath|par
+|move|p1a: Poliwrath|Bulk Up|p1a: Poliwrath
+|-boost|p1a: Poliwrath|atk|1
+|-boost|p1a: Poliwrath|def|1
+|
+|-heal|p1a: Poliwrath|262/302 par|[from] item: Leftovers
+|upkeep
+|turn|2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by terxh233)
+|
+|t:|1776978602
+|move|p2a: Pachirisu|Encore|p1a: Poliwrath
+|-start|p1a: Poliwrath|Encore
+|move|p1a: Poliwrath|Bulk Up|p1a: Poliwrath
+|-boost|p1a: Poliwrath|atk|1
+|-boost|p1a: Poliwrath|def|1
+|
+|-heal|p1a: Poliwrath|280/302 par|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776978623
+|switch|p1a: Rotom|Rotom-Heat, L83|219/219
+|move|p2a: Pachirisu|Discharge|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|191/219
+|
+|upkeep
+|turn|4
+|
+|t:|1776978632
+|move|p2a: Pachirisu|Super Fang|p1a: Rotom
+|-damage|p1a: Rotom|96/219
+|move|p1a: Rotom|Nasty Plot|p1a: Rotom
+|-boost|p1a: Rotom|spa|2
+|
+|upkeep
+|turn|5
+|
+|t:|1776978638
+|move|p2a: Pachirisu|Encore|p1a: Rotom
+|-start|p1a: Rotom|Encore
+|move|p1a: Rotom|Nasty Plot|p1a: Rotom
+|-boost|p1a: Rotom|spa|2
+|
+|upkeep
+|turn|6
+|-message|terxh233 forfeited.
+|
+|win|vfbdfbvcgfnvbngn
+|raw|terxh233's rating: 1109 &rarr; <strong>1083</strong><br />(-26 for losing)
+|raw|vfbdfbvcgfnvbngn's rating: 1095 &rarr; <strong>1122</strong><br />(+27 for winning)
+|l|☆terxh233
+|player|p1|

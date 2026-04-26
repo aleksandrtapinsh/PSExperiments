@@ -1,0 +1,296 @@
+|j|☆Hehdhdhdgghedhdhdd
+|j|☆ONLYPOPPLIO<3
+|t:|1776971258
+|gametype|singles
+|player|p1|Hehdhdhdgghedhdhdd|102|1081
+|player|p2|ONLYPOPPLIO<3|2|1119
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776971258
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Tauros|Tauros-Paldea-Aqua, L81, M|254/254
+|switch|p2a: Koraidon|Koraidon, L64|235/235
+|-weather|SunnyDay|[from] ability: Orichalcum Pulse|[of] p2a: Koraidon
+|-activate|p2a: Koraidon|Orichalcum Pulse|[source]
+|-ability|p1a: Tauros|Intimidate|boost
+|-unboost|p2a: Koraidon|atk|1
+|turn|1
+|
+|t:|1776971288
+|move|p2a: Koraidon|U-turn|p1a: Tauros
+|-resisted|p1a: Tauros
+|-damage|p1a: Tauros|230/254
+|
+|t:|1776971309
+|switch|p2a: Arcanine|Arcanine, L84, M|288/288|[from] U-turn
+|-ability|p2a: Arcanine|Intimidate|boost
+|-unboost|p1a: Tauros|atk|1
+|move|p1a: Tauros|Bulk Up|p1a: Tauros
+|-boost|p1a: Tauros|atk|1
+|-boost|p1a: Tauros|def|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1776971319
+|move|p1a: Tauros|Close Combat|p2a: Arcanine
+|-damage|p2a: Arcanine|89/288
+|-unboost|p1a: Tauros|def|1
+|-unboost|p1a: Tauros|spd|1
+|-damage|p1a: Tauros|205/254|[from] item: Life Orb
+|move|p2a: Arcanine|Will-O-Wisp|p1a: Tauros
+|-status|p1a: Tauros|brn
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Tauros|190/254 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1776971353
+|move|p1a: Tauros|Close Combat|p2a: Arcanine
+|-damage|p2a: Arcanine|3/288
+|-unboost|p1a: Tauros|def|1
+|-unboost|p1a: Tauros|spd|1
+|-damage|p1a: Tauros|165/254 brn|[from] item: Life Orb
+|move|p2a: Arcanine|Close Combat|p1a: Tauros
+|-damage|p1a: Tauros|39/254 brn
+|-unboost|p2a: Arcanine|def|1
+|-unboost|p2a: Arcanine|spd|1
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Tauros|24/254 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1776971367
+|switch|p2a: Malamar|Malamar, L82, F|275/275
+|move|p1a: Tauros|Aqua Jet|p2a: Malamar
+|-damage|p2a: Malamar|262/275
+|-damage|p1a: Tauros|0 fnt|[from] item: Life Orb
+|faint|p1a: Tauros
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Malamar|275/275|[from] item: Leftovers
+|upkeep
+|
+|t:|1776971374
+|switch|p1a: Volcarona|Volcarona, L77, M|257/257
+|turn|5
+|
+|t:|1776971382
+|switch|p2a: Garganacl|Garganacl, L80, F|291/291
+|move|p1a: Volcarona|Quiver Dance|p1a: Volcarona
+|-boost|p1a: Volcarona|spa|1
+|-boost|p1a: Volcarona|spd|1
+|-boost|p1a: Volcarona|spe|1
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1776971395
+|move|p1a: Volcarona|Giga Drain|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|125/291
+|move|p2a: Garganacl|Salt Cure|p1a: Volcarona
+|-supereffective|p1a: Volcarona
+|-damage|p1a: Volcarona|49/257
+|-start|p1a: Volcarona|Salt Cure
+|
+|-heal|p2a: Garganacl|143/291|[from] item: Leftovers
+|-damage|p1a: Volcarona|17/257|[from] Salt Cure
+|upkeep
+|turn|7
+|
+|t:|1776971414
+|switch|p1a: Inteleon|Inteleon, L81, F|246/246
+|switch|p2a: Malamar|Malamar, L82, F|275/275
+|
+|upkeep
+|turn|8
+|
+|t:|1776971425
+|move|p1a: Inteleon|U-turn|p2a: Malamar
+|-supereffective|p2a: Malamar
+|-damage|p2a: Malamar|99/275
+|
+|t:|1776971427
+|switch|p1a: Volcarona|Volcarona, L77, M|17/257|[from] U-turn
+|move|p2a: Malamar|Knock Off|p1a: Volcarona
+|-damage|p1a: Volcarona|0 fnt
+|-enditem|p1a: Volcarona|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Malamar
+|faint|p1a: Volcarona
+|
+|-heal|p2a: Malamar|116/275|[from] item: Leftovers
+|upkeep
+|
+|t:|1776971431
+|switch|p1a: Inteleon|Inteleon, L81, F|246/246
+|turn|9
+|
+|t:|1776971446
+|-terastallize|p2a: Malamar|Poison
+|move|p1a: Inteleon|U-turn|p2a: Malamar
+|-resisted|p2a: Malamar
+|-crit|p2a: Malamar
+|-damage|p2a: Malamar|83/275
+|
+|t:|1776971451
+|switch|p1a: Arceus|Arceus-Flying, L69|279/279|[from] U-turn
+|move|p2a: Malamar|Rest|p2a: Malamar
+|-status|p2a: Malamar|slp|[from] move: Rest
+|-heal|p2a: Malamar|275/275 slp|[silent]
+|
+|upkeep
+|turn|10
+|
+|t:|1776971459
+|move|p1a: Arceus|Calm Mind|p1a: Arceus
+|-boost|p1a: Arceus|spa|1
+|-boost|p1a: Arceus|spd|1
+|cant|p2a: Malamar|slp
+|move|p2a: Malamar|Sleep Talk|p2a: Malamar
+|move|p2a: Malamar|Knock Off|p1a: Arceus|[from] move: Sleep Talk
+|-damage|p1a: Arceus|219/279
+|
+|upkeep
+|turn|11
+|
+|t:|1776971472
+|switch|p2a: Garganacl|Garganacl, L80, F|143/291
+|move|p1a: Arceus|Earth Power|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|0 fnt
+|faint|p2a: Garganacl
+|
+|upkeep
+|
+|t:|1776971479
+|switch|p2a: Kilowattrel|Kilowattrel, L83, M|252/252
+|turn|12
+|
+|t:|1776971485
+|switch|p1a: Dudunsparce|Dudunsparce, L83, F|343/343
+|move|p2a: Kilowattrel|Discharge|p1a: Dudunsparce
+|-damage|p1a: Dudunsparce|243/343
+|
+|-heal|p1a: Dudunsparce|264/343|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776971494
+|move|p2a: Kilowattrel|U-turn|p1a: Dudunsparce
+|-damage|p1a: Dudunsparce|224/343
+|-ability|p1a: Dudunsparce|Rattled|boost
+|-boost|p1a: Dudunsparce|spe|1
+|
+|t:|1776971499
+|switch|p2a: Koraidon|Koraidon, L64|235/235|[from] U-turn
+|-weather|SunnyDay|[from] ability: Orichalcum Pulse|[of] p2a: Koraidon
+|-activate|p2a: Koraidon|Orichalcum Pulse|[source]
+|move|p1a: Dudunsparce|Boomburst|p2a: Koraidon
+|-damage|p2a: Koraidon|84/235
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Dudunsparce|245/343|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1776971512
+|-terastallize|p1a: Dudunsparce|Ghost
+|move|p2a: Koraidon|Close Combat|p1a: Dudunsparce
+|-immune|p1a: Dudunsparce
+|move|p1a: Dudunsparce|Calm Mind|p1a: Dudunsparce
+|-boost|p1a: Dudunsparce|spa|1
+|-boost|p1a: Dudunsparce|spd|1
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Dudunsparce|266/343|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1776971526
+|switch|p2a: Malamar|Malamar, L82, F, tera:Poison|275/275 slp
+|move|p1a: Dudunsparce|Boomburst|p2a: Malamar
+|-damage|p2a: Malamar|46/275 slp
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Dudunsparce|287/343|[from] item: Leftovers
+|-heal|p2a: Malamar|63/275 slp|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776971535
+|move|p1a: Dudunsparce|Shadow Ball|p2a: Malamar
+|-damage|p2a: Malamar|0 fnt
+|faint|p2a: Malamar
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Dudunsparce|308/343|[from] item: Leftovers
+|upkeep
+|
+|t:|1776971546
+|switch|p2a: Ting-Lu|Ting-Lu, L78|370/370
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|turn|17
+|
+|t:|1776971557
+|switch|p1a: Eiscue|Eiscue, L88, F|274/274
+|move|p2a: Ting-Lu|Throat Chop|p1a: Eiscue
+|-activate|p1a: Eiscue|ability: Ice Face
+|-damage|p1a: Eiscue|274/274
+|-start|p1a: Eiscue|Throat Chop|[silent]
+|detailschange|p1a: Eiscue|Eiscue-Noice, L88, F
+|
+|-weather|none
+|upkeep
+|turn|18
+|
+|t:|1776971576
+|move|p1a: Eiscue|Belly Drum|p1a: Eiscue
+|-damage|p1a: Eiscue|137/274
+|-setboost|p1a: Eiscue|atk|6|[from] move: Belly Drum
+|-enditem|p1a: Eiscue|Sitrus Berry|[eat]
+|-heal|p1a: Eiscue|205/274|[from] item: Sitrus Berry
+|move|p2a: Ting-Lu|Throat Chop|p1a: Eiscue
+|-damage|p1a: Eiscue|108/274
+|
+|-end|p1a: Eiscue|Throat Chop|[silent]
+|upkeep
+|turn|19
+|
+|t:|1776971586
+|move|p1a: Eiscue|Ice Spinner|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|0 fnt
+|faint|p2a: Ting-Lu
+|
+|upkeep
+|
+|t:|1776971598
+|switch|p2a: Kilowattrel|Kilowattrel, L83, M|252/252
+|turn|20
+|
+|t:|1776971601
+|move|p1a: Eiscue|Ice Spinner|p2a: Kilowattrel
+|-supereffective|p2a: Kilowattrel
+|-damage|p2a: Kilowattrel|0 fnt
+|faint|p2a: Kilowattrel
+|
+|upkeep
+|-message|ONLYPOPPLIO<3 forfeited.
+|
+|win|Hehdhdhdgghedhdhdd
+|raw|Hehdhdhdgghedhdhdd's rating: 1081 &rarr; <strong>1112</strong><br />(+31 for winning)
+|raw|ONLYPOPPLIO&lt;3's rating: 1119 &rarr; <strong>1091</strong><br />(-28 for losing)
+|l|☆ONLYPOPPLIO<3
+|player|p2|

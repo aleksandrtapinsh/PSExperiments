@@ -1,0 +1,282 @@
+|j|☆Rngsavethee
+|j|☆bady43
+|t:|1776980042
+|gametype|singles
+|player|p1|Rngsavethee|silver|1446
+|player|p2|bady43|will|1427
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776980042
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Cloyster|Cloyster, L80, F|211/211
+|switch|p2a: Tentacruel|Tentacruel, L84, F|272/272
+|turn|1
+|
+|t:|1776980060
+|switch|p1a: Zangoose|Zangoose, L85, F|263/263
+|move|p2a: Tentacruel|Sludge Bomb|p1a: Zangoose
+|-damage|p1a: Zangoose|161/263
+|
+|-status|p1a: Zangoose|tox|[from] item: Toxic Orb
+|upkeep
+|turn|2
+|
+|t:|1776980101
+|switch|p2a: Noctowl|Noctowl, L95, F|344/344
+|move|p1a: Zangoose|Knock Off|p2a: Noctowl
+|-damage|p2a: Noctowl|179/344
+|-enditem|p2a: Noctowl|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Zangoose
+|
+|-damage|p1a: Zangoose|145/263 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1776980114
+|move|p1a: Zangoose|Close Combat|p2a: Noctowl
+|-damage|p2a: Noctowl|0 fnt
+|-unboost|p1a: Zangoose|def|1
+|-unboost|p1a: Zangoose|spd|1
+|faint|p2a: Noctowl
+|
+|-damage|p1a: Zangoose|113/263 tox|[from] psn
+|upkeep
+|
+|t:|1776980137
+|switch|p2a: Seviper|Seviper, L93, M|287/287
+|turn|4
+|
+|t:|1776980143
+|move|p2a: Seviper|Knock Off|p1a: Zangoose
+|-damage|p1a: Zangoose|0 fnt
+|-enditem|p1a: Zangoose|Toxic Orb|[from] move: Knock Off|[of] p2a: Seviper
+|faint|p1a: Zangoose
+|
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by bady43)
+|
+|t:|1776980147
+|switch|p1a: Cloyster|Cloyster, L80, F|211/211
+|turn|5
+|
+|t:|1776980169
+|switch|p2a: Tentacruel|Tentacruel, L84, F|272/272
+|-terastallize|p1a: Cloyster|Ground
+|move|p1a: Cloyster|Shell Smash|p1a: Cloyster
+|-unboost|p1a: Cloyster|def|1
+|-unboost|p1a: Cloyster|spd|1
+|-boost|p1a: Cloyster|atk|2
+|-boost|p1a: Cloyster|spa|2
+|-boost|p1a: Cloyster|spe|2
+|-enditem|p1a: Cloyster|White Herb
+|-clearnegativeboost|p1a: Cloyster|[silent]
+|
+|upkeep
+|turn|6
+|
+|t:|1776980179
+|-terastallize|p2a: Tentacruel|Grass
+|move|p1a: Cloyster|Drill Run|p2a: Tentacruel
+|-resisted|p2a: Tentacruel
+|-damage|p2a: Tentacruel|184/272
+|move|p2a: Tentacruel|Haze|p2a: Tentacruel
+|-clearallboost
+|
+|-heal|p2a: Tentacruel|201/272|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776980186
+|move|p2a: Tentacruel|Surf|p1a: Cloyster
+|-supereffective|p1a: Cloyster
+|-damage|p1a: Cloyster|0 fnt
+|faint|p1a: Cloyster
+|
+|-heal|p2a: Tentacruel|218/272|[from] item: Leftovers
+|upkeep
+|
+|t:|1776980192
+|switch|p1a: Thundurus|Thundurus, L80, M|258/258
+|turn|8
+|
+|t:|1776980210
+|switch|p2a: Rotom|Rotom-Frost, L87|229/229
+|move|p1a: Thundurus|Taunt|p2a: Rotom
+|-start|p2a: Rotom|move: Taunt
+|
+|upkeep
+|turn|9
+|
+|t:|1776980223
+|move|p1a: Thundurus|Nasty Plot|p1a: Thundurus
+|-boost|p1a: Thundurus|spa|2
+|move|p2a: Rotom|Volt Switch|p1a: Thundurus
+|-damage|p1a: Thundurus|162/258
+|
+|t:|1776980233
+|switch|p2a: Seviper|Seviper, L93, M|287/287|[from] Volt Switch
+|
+|upkeep
+|turn|10
+|
+|t:|1776980239
+|move|p2a: Seviper|Gunk Shot|p1a: Thundurus|[miss]
+|-miss|p2a: Seviper|p1a: Thundurus
+|move|p1a: Thundurus|Thunderbolt|p2a: Seviper
+|-damage|p2a: Seviper|19/287
+|
+|upkeep
+|turn|11
+|
+|t:|1776980247
+|move|p2a: Seviper|Gunk Shot|p1a: Thundurus
+|-damage|p1a: Thundurus|0 fnt
+|faint|p1a: Thundurus
+|
+|upkeep
+|
+|t:|1776980249
+|switch|p1a: Ceruledge|Ceruledge, L78, F|245/245
+|turn|12
+|
+|t:|1776980267
+|switch|p2a: Azumarill|Azumarill, L82, F|298/298
+|move|p1a: Ceruledge|Swords Dance|p1a: Ceruledge
+|-boost|p1a: Ceruledge|atk|2
+|
+|upkeep
+|turn|13
+|
+|t:|1776980288
+|move|p1a: Ceruledge|Poltergeist|p2a: Azumarill
+|-activate|p2a: Azumarill|move: Poltergeist|Choice Band
+|-damage|p2a: Azumarill|24/298
+|move|p2a: Azumarill|Liquidation|p1a: Ceruledge
+|-supereffective|p1a: Ceruledge
+|-damage|p1a: Ceruledge|0 fnt
+|faint|p1a: Ceruledge
+|
+|upkeep
+|
+|t:|1776980301
+|switch|p1a: Sceptile|Sceptile, L87, F|264/264
+|turn|14
+|
+|t:|1776980309
+|move|p1a: Sceptile|Rock Slide|p2a: Azumarill
+|-damage|p2a: Azumarill|0 fnt
+|faint|p2a: Azumarill
+|-damage|p1a: Sceptile|238/264|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776980311
+|switch|p2a: Seviper|Seviper, L93, M|19/287
+|turn|15
+|
+|t:|1776980317
+|move|p2a: Seviper|Gunk Shot|p1a: Sceptile|[miss]
+|-miss|p2a: Seviper|p1a: Sceptile
+|move|p1a: Sceptile|Earthquake|p2a: Seviper
+|-supereffective|p2a: Seviper
+|-damage|p2a: Seviper|0 fnt
+|faint|p2a: Seviper
+|-damage|p1a: Sceptile|212/264|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776980341
+|switch|p2a: Tentacruel|Tentacruel, L84, F, tera:Grass|218/272
+|turn|16
+|
+|t:|1776980350
+|move|p1a: Sceptile|Swords Dance|p1a: Sceptile
+|-boost|p1a: Sceptile|atk|2
+|move|p2a: Tentacruel|Sludge Bomb|p1a: Sceptile
+|-supereffective|p1a: Sceptile
+|-damage|p1a: Sceptile|44/264
+|-status|p1a: Sceptile|psn
+|
+|-heal|p2a: Tentacruel|235/272|[from] item: Leftovers
+|-damage|p1a: Sceptile|11/264 psn|[from] psn
+|upkeep
+|turn|17
+|inactive|bady43 has 120 seconds left.
+|
+|t:|1776980380
+|switch|p2a: Rotom|Rotom-Frost, L87|229/229
+|move|p1a: Sceptile|Rock Slide|p2a: Rotom
+|-supereffective|p2a: Rotom
+|-damage|p2a: Rotom|3/229
+|-damage|p1a: Sceptile|0 fnt|[from] item: Life Orb
+|faint|p1a: Sceptile
+|
+|upkeep
+|
+|t:|1776980384
+|switch|p1a: Oranguru|Oranguru, L92, F|315/315
+|turn|18
+|
+|t:|1776980396
+|move|p2a: Rotom|Will-O-Wisp|p1a: Oranguru|[miss]
+|-miss|p2a: Rotom|p1a: Oranguru
+|move|p1a: Oranguru|Psychic|p2a: Rotom
+|-damage|p2a: Rotom|0 fnt
+|faint|p2a: Rotom
+|
+|upkeep
+|
+|t:|1776980404
+|switch|p2a: Latios|Latios, L78, M|253/253
+|turn|19
+|
+|t:|1776980412
+|move|p2a: Latios|Calm Mind|p2a: Latios
+|-boost|p2a: Latios|spa|1
+|-boost|p2a: Latios|spd|1
+|move|p1a: Oranguru|Nasty Plot|p1a: Oranguru
+|-boost|p1a: Oranguru|spa|2
+|
+|upkeep
+|turn|20
+|
+|t:|1776980420
+|move|p2a: Latios|Calm Mind|p2a: Latios
+|-boost|p2a: Latios|spa|1
+|-boost|p2a: Latios|spd|1
+|move|p1a: Oranguru|Psychic|p2a: Latios
+|-resisted|p2a: Latios
+|-damage|p2a: Latios|205/253
+|-unboost|p2a: Latios|spd|1
+|
+|upkeep
+|turn|21
+|
+|t:|1776980426
+|move|p2a: Latios|Psyshock|p1a: Oranguru
+|-resisted|p1a: Oranguru
+|-damage|p1a: Oranguru|214/315
+|move|p1a: Oranguru|Thunderbolt|p2a: Latios
+|-resisted|p2a: Latios
+|-damage|p2a: Latios|164/253
+|
+|-heal|p1a: Oranguru|233/315|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1776980434
+|move|p2a: Latios|Draco Meteor|p1a: Oranguru
+|-damage|p1a: Oranguru|0 fnt
+|-unboost|p2a: Latios|spa|2
+|faint|p1a: Oranguru
+|
+|win|bady43
+|raw|Rngsavethee's rating: 1446 &rarr; <strong>1425</strong><br />(-21 for losing)
+|raw|bady43's rating: 1427 &rarr; <strong>1448</strong><br />(+21 for winning)

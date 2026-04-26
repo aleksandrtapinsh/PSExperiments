@@ -1,0 +1,295 @@
+|j|☆Oh didufghB
+|j|☆pepeh
+|t:|1776976336
+|gametype|singles
+|player|p1|Oh didufghB|2|1443
+|player|p2|pepeh|aaron|1483
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776976336
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Boulder|Iron Boulder, L77|265/265
+|switch|p2a: Weezing|Weezing-Galar, L86, F|252/252
+|turn|1
+|
+|t:|1776976344
+|move|p1a: Iron Boulder|Swords Dance|p1a: Iron Boulder
+|-boost|p1a: Iron Boulder|atk|2
+|move|p2a: Weezing|Will-O-Wisp|p1a: Iron Boulder
+|-status|p1a: Iron Boulder|brn
+|
+|-damage|p1a: Iron Boulder|249/265 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1776976354
+|move|p1a: Iron Boulder|Swords Dance|p1a: Iron Boulder
+|-boost|p1a: Iron Boulder|atk|2
+|move|p2a: Weezing|Strange Steam|p1a: Iron Boulder
+|-damage|p1a: Iron Boulder|168/265 brn
+|
+|-damage|p1a: Iron Boulder|152/265 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1776976363
+|move|p1a: Iron Boulder|Mighty Cleave|p2a: Weezing
+|-damage|p2a: Weezing|104/252
+|-damage|p1a: Iron Boulder|126/265 brn|[from] item: Life Orb
+|move|p2a: Weezing|Strange Steam|p1a: Iron Boulder
+|-damage|p1a: Iron Boulder|39/265 brn
+|
+|-heal|p2a: Weezing|119/252|[from] item: Leftovers
+|-damage|p1a: Iron Boulder|23/265 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1776976373
+|move|p1a: Iron Boulder|Zen Headbutt|p2a: Weezing|[miss]
+|-miss|p1a: Iron Boulder|p2a: Weezing
+|move|p2a: Weezing|Strange Steam|p1a: Iron Boulder
+|-damage|p1a: Iron Boulder|0 fnt
+|faint|p1a: Iron Boulder
+|-end|p1a: Iron Boulder|Quark Drive|[silent]
+|
+|-heal|p2a: Weezing|134/252|[from] item: Leftovers
+|upkeep
+|
+|t:|1776976382
+|switch|p1a: Toxtricity|Toxtricity, L82, M|257/257
+|turn|5
+|
+|t:|1776976396
+|move|p1a: Toxtricity|Shift Gear|p1a: Toxtricity
+|-boost|p1a: Toxtricity|spe|2
+|-boost|p1a: Toxtricity|atk|1
+|move|p2a: Weezing|Will-O-Wisp|p1a: Toxtricity
+|-status|p1a: Toxtricity|brn
+|
+|-heal|p2a: Weezing|149/252|[from] item: Leftovers
+|-damage|p1a: Toxtricity|241/257 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1776976405
+|switch|p2a: Conkeldurr|Conkeldurr, L80, M|299/299
+|move|p1a: Toxtricity|Boomburst|p2a: Conkeldurr
+|-damage|p2a: Conkeldurr|112/299
+|-enditem|p1a: Toxtricity|Throat Spray
+|-boost|p1a: Toxtricity|spa|1|[from] item: Throat Spray
+|
+|-damage|p1a: Toxtricity|225/257 brn|[from] brn
+|-status|p2a: Conkeldurr|brn|[from] item: Flame Orb
+|upkeep
+|turn|7
+|
+|t:|1776976416
+|move|p2a: Conkeldurr|Mach Punch|p1a: Toxtricity
+|-resisted|p1a: Toxtricity
+|-damage|p1a: Toxtricity|177/257 brn
+|move|p1a: Toxtricity|Boomburst|p2a: Conkeldurr
+|-damage|p2a: Conkeldurr|0 fnt
+|faint|p2a: Conkeldurr
+|
+|-damage|p1a: Toxtricity|161/257 brn|[from] brn
+|upkeep
+|
+|t:|1776976425
+|switch|p2a: Ambipom|Ambipom, L84, F|263/263
+|turn|8
+|
+|t:|1776976432
+|-terastallize|p1a: Toxtricity|Normal
+|move|p2a: Ambipom|Fake Out|p1a: Toxtricity
+|-damage|p1a: Toxtricity|67/257 brn
+|cant|p1a: Toxtricity|flinch
+|
+|-damage|p1a: Toxtricity|51/257 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1776976438
+|switch|p2a: Weezing|Weezing-Galar, L86, F|149/252
+|move|p1a: Toxtricity|Boomburst|p2a: Weezing
+|-damage|p2a: Weezing|0 fnt
+|faint|p2a: Weezing
+|
+|-damage|p1a: Toxtricity|35/257 brn|[from] brn
+|upkeep
+|
+|t:|1776976440
+|switch|p2a: Ambipom|Ambipom, L84, F|263/263
+|turn|10
+|
+|t:|1776976444
+|move|p2a: Ambipom|Fake Out|p1a: Toxtricity
+|-damage|p1a: Toxtricity|0 fnt
+|faint|p1a: Toxtricity
+|
+|upkeep
+|
+|t:|1776976446
+|switch|p1a: Milotic|Milotic, L83, M|293/293
+|turn|11
+|
+|t:|1776976455
+|-terastallize|p2a: Ambipom|Normal
+|move|p2a: Ambipom|Double-Edge|p1a: Milotic
+|-damage|p1a: Milotic|65/293
+|-damage|p2a: Ambipom|188/263|[from] Recoil
+|move|p1a: Milotic|Scald|p2a: Ambipom
+|-damage|p2a: Ambipom|89/263
+|-status|p2a: Ambipom|brn
+|
+|-heal|p1a: Milotic|83/293|[from] item: Leftovers
+|-damage|p2a: Ambipom|73/263 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1776976460
+|move|p2a: Ambipom|Double-Edge|p1a: Milotic
+|-damage|p1a: Milotic|0 fnt
+|faint|p1a: Milotic
+|-damage|p2a: Ambipom|46/263 brn|[from] Recoil
+|
+|-damage|p2a: Ambipom|30/263 brn|[from] brn
+|upkeep
+|
+|t:|1776976463
+|switch|p1a: Lokix|Lokix, L82, M|251/251
+|turn|13
+|
+|t:|1776976467
+|move|p1a: Lokix|Sucker Punch|p2a: Ambipom
+|-damage|p2a: Ambipom|0 fnt
+|faint|p2a: Ambipom
+|-damage|p1a: Lokix|226/251|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776976474
+|switch|p2a: Kingambit|Kingambit, L74, M|270/270
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen3|[silent]
+|turn|14
+|
+|t:|1776976483
+|move|p1a: Lokix|Swords Dance|p1a: Lokix
+|-boost|p1a: Lokix|atk|2
+|move|p2a: Kingambit|Swords Dance|p2a: Kingambit
+|-boost|p2a: Kingambit|atk|2
+|
+|upkeep
+|turn|15
+|
+|t:|1776976485
+|move|p1a: Lokix|Leech Life|p2a: Kingambit
+|-damage|p2a: Kingambit|67/270
+|-heal|p1a: Lokix|251/251|[from] drain|[of] p2a: Kingambit
+|-damage|p1a: Lokix|226/251|[from] item: Life Orb
+|move|p2a: Kingambit|Iron Head|p1a: Lokix
+|-damage|p1a: Lokix|0 fnt
+|faint|p1a: Lokix
+|
+|-heal|p2a: Kingambit|83/270|[from] item: Leftovers
+|upkeep
+|
+|t:|1776976489
+|switch|p1a: Scovillain|Scovillain, L91, F|266/266
+|turn|16
+|
+|t:|1776976492
+|move|p2a: Kingambit|Sucker Punch|p1a: Scovillain
+|-damage|p1a: Scovillain|43/266
+|move|p1a: Scovillain|Flamethrower|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen3|[silent]
+|
+|upkeep
+|
+|t:|1776976496
+|switch|p2a: Luvdisc|Luvdisc, M|247/247
+|turn|17
+|
+|t:|1776976498
+|move|p2a: Luvdisc|Surf|p1a: Scovillain
+|-damage|p1a: Scovillain|0 fnt
+|faint|p1a: Scovillain
+|
+|upkeep
+|
+|t:|1776976501
+|switch|p1a: Haxorus|Haxorus, L77, M|244/244
+|-ability|p1a: Haxorus|Mold Breaker
+|turn|18
+|
+|t:|1776976508
+|move|p2a: Luvdisc|Substitute|p2a: Luvdisc
+|-start|p2a: Luvdisc|Substitute
+|-damage|p2a: Luvdisc|186/247
+|move|p1a: Haxorus|Dragon Dance|p1a: Haxorus
+|-boost|p1a: Haxorus|atk|1
+|-boost|p1a: Haxorus|spe|1
+|
+|upkeep
+|turn|19
+|
+|t:|1776976514
+|move|p1a: Haxorus|Outrage|p2a: Luvdisc
+|-end|p2a: Luvdisc|Substitute
+|move|p2a: Luvdisc|Whirlpool|p1a: Haxorus
+|-resisted|p1a: Haxorus
+|-damage|p1a: Haxorus|224/244
+|-activate|p1a: Haxorus|move: Whirlpool|[of] p2a: Luvdisc
+|
+|-damage|p1a: Haxorus|194/244|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|20
+|
+|t:|1776976519
+|move|p1a: Haxorus|Outrage|p2a: Luvdisc|[from] lockedmove
+|-damage|p2a: Luvdisc|0 fnt
+|faint|p2a: Luvdisc
+|
+|-end|p1a: Haxorus|Whirlpool|[partiallytrapped]|[silent]
+|upkeep
+|
+|t:|1776976521
+|switch|p2a: Crawdaunt|Crawdaunt, L84, F|243/243
+|turn|21
+|
+|t:|1776976525
+|move|p1a: Haxorus|Outrage|p2a: Crawdaunt|[from] lockedmove
+|-damage|p2a: Crawdaunt|24/243
+|-start|p1a: Haxorus|confusion|[fatigue]
+|-enditem|p1a: Haxorus|Lum Berry|[eat]
+|-end|p1a: Haxorus|confusion
+|move|p2a: Crawdaunt|Knock Off|p1a: Haxorus
+|-damage|p1a: Haxorus|4/244
+|
+|upkeep
+|turn|22
+|
+|t:|1776976529
+|move|p1a: Haxorus|Iron Head|p2a: Crawdaunt
+|-resisted|p2a: Crawdaunt
+|-damage|p2a: Crawdaunt|0 fnt
+|faint|p2a: Crawdaunt
+|
+|win|Oh didufghB
+|raw|Oh didufghB's rating: 1443 &rarr; <strong>1465</strong><br />(+22 for winning)
+|raw|pepeh's rating: 1483 &rarr; <strong>1461</strong><br />(-22 for losing)
+|l|☆pepeh
+|player|p2|
+|l| ohdidufghb
+|j|☆Oh didufghB

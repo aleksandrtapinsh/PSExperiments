@@ -1,0 +1,479 @@
+|j|☆khljk40
+|j|‽izumisakuranoodle
+|t:|1776975704
+|gametype|singles
+|player|p1|khljk40|266|1098
+|player|p2|izumisakuranoodle|2|1128
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776975704
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Sceptile|Sceptile, L87, M|264/264
+|switch|p2a: Lucario|Lucario, L84, M|255/255
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by izumisakuranoodle)
+|
+|t:|1776975720
+|move|p1a: Sceptile|Leech Seed|p2a: Lucario
+|-start|p2a: Lucario|move: Leech Seed
+|move|p2a: Lucario|Aura Sphere|p1a: Sceptile
+|-damage|p1a: Sceptile|142/264
+|-damage|p2a: Lucario|230/255|[from] item: Life Orb
+|
+|-heal|p1a: Sceptile|158/264|[from] item: Leftovers
+|-damage|p2a: Lucario|199/255|[from] Leech Seed|[of] p1a: Sceptile
+|-heal|p1a: Sceptile|189/264|[silent]
+|upkeep
+|turn|2
+|
+|t:|1776975748
+|switch|p1a: Goodra|Goodra, L85, F|292/292
+|switch|p2a: Cloyster|Cloyster, L80, F|211/211
+|
+|upkeep
+|turn|3
+|
+|t:|1776975771
+|move|p1a: Goodra|Power Whip|p2a: Cloyster
+|-supereffective|p2a: Cloyster
+|-damage|p2a: Cloyster|95/211
+|move|p2a: Cloyster|Icicle Spear|p1a: Goodra
+|-supereffective|p1a: Goodra
+|-damage|p1a: Goodra|238/292
+|-supereffective|p1a: Goodra
+|-damage|p1a: Goodra|178/292
+|-supereffective|p1a: Goodra
+|-damage|p1a: Goodra|118/292
+|-supereffective|p1a: Goodra
+|-damage|p1a: Goodra|64/292
+|-supereffective|p1a: Goodra
+|-damage|p1a: Goodra|2/292
+|-hitcount|p1a: Goodra|5
+|
+|upkeep
+|turn|4
+|inactive|izumisakuranoodle has 120 seconds left.
+|
+|t:|1776975800
+|switch|p2a: Lucario|Lucario, L84, M|199/255
+|move|p1a: Goodra|Power Whip|p2a: Lucario
+|-resisted|p2a: Lucario
+|-damage|p2a: Lucario|145/255
+|
+|upkeep
+|turn|5
+|inactive|izumisakuranoodle has 120 seconds left.
+|
+|t:|1776975815
+|move|p2a: Lucario|Vacuum Wave|p1a: Goodra
+|-damage|p1a: Goodra|0 fnt
+|faint|p1a: Goodra
+|-damage|p2a: Lucario|120/255|[from] item: Life Orb
+|
+|upkeep
+|inactive|khljk40 has 120 seconds left.
+|
+|t:|1776975834
+|switch|p1a: Cresselia|Cresselia, L80, F|323/323
+|turn|6
+|inactive|khljk40 has 120 seconds left.
+|
+|t:|1776975845
+|switch|p2a: Ting-Lu|Ting-Lu, L78|370/370
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|
+|upkeep
+|turn|7
+|inactive|khljk40 has 120 seconds left.
+|inactive|izumisakuranoodle has 120 seconds left.
+|
+|t:|1776975865
+|switch|p1a: Sceptile|Sceptile, L87, M|189/264
+|move|p2a: Ting-Lu|Payback|p1a: Sceptile
+|-damage|p1a: Sceptile|126/264
+|
+|-heal|p1a: Sceptile|142/264|[from] item: Leftovers
+|upkeep
+|turn|8
+|inactive|khljk40 has 120 seconds left.
+|inactive|izumisakuranoodle has 120 seconds left.
+|
+|t:|1776975878
+|move|p1a: Sceptile|Focus Blast|p2a: Ting-Lu|[miss]
+|-miss|p1a: Sceptile|p2a: Ting-Lu
+|move|p2a: Ting-Lu|Spikes|p1a: Sceptile
+|-sidestart|p1: khljk40|Spikes
+|
+|-heal|p1a: Sceptile|158/264|[from] item: Leftovers
+|upkeep
+|turn|9
+|inactive|izumisakuranoodle has 120 seconds left.
+|
+|t:|1776975892
+|switch|p2a: Lucario|Lucario, L84, M|120/255
+|move|p1a: Sceptile|Focus Blast|p2a: Lucario
+|-supereffective|p2a: Lucario
+|-damage|p2a: Lucario|0 fnt
+|faint|p2a: Lucario
+|
+|-heal|p1a: Sceptile|174/264|[from] item: Leftovers
+|upkeep
+|inactive|izumisakuranoodle has 120 seconds left.
+|
+|t:|1776975911
+|switch|p2a: Rillaboom|Rillaboom, L79, M|288/288
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|10
+|
+|t:|1776975931
+|switch|p1a: Dragalge|Dragalge, L88, F|258/258
+|-damage|p1a: Dragalge|226/258|[from] Spikes
+|move|p2a: Rillaboom|U-turn|p1a: Dragalge
+|-resisted|p1a: Dragalge
+|-damage|p1a: Dragalge|186/258
+|
+|t:|1776975943
+|switch|p2a: Cloyster|Cloyster, L80, F|95/211|[from] U-turn
+|
+|-heal|p2a: Cloyster|108/211|[from] Grassy Terrain
+|-heal|p1a: Dragalge|202/258|[from] Grassy Terrain
+|-heal|p1a: Dragalge|218/258|[from] item: Leftovers
+|upkeep
+|turn|11
+|inactive|khljk40 has 120 seconds left.
+|
+|t:|1776975967
+|switch|p1a: Lucario|Lucario, L84, F|255/255
+|-damage|p1a: Lucario|224/255|[from] Spikes
+|move|p2a: Cloyster|Icicle Spear|p1a: Lucario
+|-resisted|p1a: Lucario
+|-damage|p1a: Lucario|210/255
+|-resisted|p1a: Lucario
+|-damage|p1a: Lucario|195/255
+|-resisted|p1a: Lucario
+|-damage|p1a: Lucario|180/255
+|-resisted|p1a: Lucario
+|-damage|p1a: Lucario|165/255
+|-resisted|p1a: Lucario
+|-damage|p1a: Lucario|150/255
+|-hitcount|p1a: Lucario|5
+|
+|-heal|p1a: Lucario|165/255|[from] Grassy Terrain
+|-heal|p2a: Cloyster|121/211|[from] Grassy Terrain
+|upkeep
+|turn|12
+|inactive|izumisakuranoodle has 120 seconds left.
+|
+|t:|1776975990
+|move|p1a: Lucario|Focus Blast|p2a: Cloyster
+|-supereffective|p2a: Cloyster
+|-damage|p2a: Cloyster|0 fnt
+|faint|p2a: Cloyster
+|-damage|p1a: Lucario|140/255|[from] item: Life Orb
+|
+|-heal|p1a: Lucario|155/255|[from] Grassy Terrain
+|upkeep
+|
+|t:|1776975998
+|switch|p2a: Rillaboom|Rillaboom, L79, M|288/288
+|turn|13
+|
+|t:|1776976017
+|switch|p1a: Dragalge|Dragalge, L88, F|218/258
+|-damage|p1a: Dragalge|186/258|[from] Spikes
+|move|p2a: Rillaboom|U-turn|p1a: Dragalge
+|-resisted|p1a: Dragalge
+|-crit|p1a: Dragalge
+|-damage|p1a: Dragalge|133/258
+|
+|t:|1776976036
+|switch|p2a: Ting-Lu|Ting-Lu, L78|370/370|[from] U-turn
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|
+|-heal|p1a: Dragalge|149/258|[from] Grassy Terrain
+|-heal|p1a: Dragalge|165/258|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1776976054
+|move|p1a: Dragalge|Toxic|p2a: Ting-Lu
+|-status|p2a: Ting-Lu|tox
+|move|p2a: Ting-Lu|Earthquake|p1a: Dragalge
+|-supereffective|p1a: Dragalge
+|-damage|p1a: Dragalge|69/258
+|
+|-heal|p1a: Dragalge|85/258|[from] Grassy Terrain
+|-heal|p1a: Dragalge|101/258|[from] item: Leftovers
+|-damage|p2a: Ting-Lu|347/370 tox|[from] psn
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|15
+|
+|t:|1776976066
+|switch|p1a: Sceptile|Sceptile, L87, M|174/264
+|-damage|p1a: Sceptile|141/264|[from] Spikes
+|move|p2a: Ting-Lu|Earthquake|p1a: Sceptile
+|-resisted|p1a: Sceptile
+|-damage|p1a: Sceptile|80/264
+|
+|-heal|p1a: Sceptile|96/264|[from] item: Leftovers
+|-heal|p2a: Ting-Lu|370/370 tox|[from] item: Leftovers
+|-damage|p2a: Ting-Lu|324/370 tox|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1776976084
+|-terastallize|p2a: Ting-Lu|Poison
+|move|p1a: Sceptile|Giga Drain|p2a: Ting-Lu
+|-resisted|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|286/370 tox
+|-heal|p1a: Sceptile|115/264|[from] drain|[of] p2a: Ting-Lu
+|move|p2a: Ting-Lu|Payback|p1a: Sceptile
+|-damage|p1a: Sceptile|1/264
+|
+|-heal|p1a: Sceptile|17/264|[from] item: Leftovers
+|-heal|p2a: Ting-Lu|309/370 tox|[from] item: Leftovers
+|-damage|p2a: Ting-Lu|240/370 tox|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1776976099
+|move|p1a: Sceptile|Giga Drain|p2a: Ting-Lu
+|-resisted|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|185/370 tox
+|-heal|p1a: Sceptile|45/264|[from] drain|[of] p2a: Ting-Lu
+|move|p2a: Ting-Lu|Payback|p1a: Sceptile
+|-damage|p1a: Sceptile|0 fnt
+|faint|p1a: Sceptile
+|
+|-heal|p2a: Ting-Lu|208/370 tox|[from] item: Leftovers
+|-damage|p2a: Ting-Lu|116/370 tox|[from] psn
+|upkeep
+|inactive|khljk40 has 120 seconds left.
+|
+|t:|1776976114
+|switch|p1a: Sneasler|Sneasler, L74, F|240/240
+|-damage|p1a: Sneasler|210/240|[from] Spikes
+|turn|18
+|inactive|khljk40 has 120 seconds left.
+|
+|t:|1776976124
+|move|p1a: Sneasler|Throat Chop|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|54/370 tox
+|-start|p2a: Ting-Lu|Throat Chop|[silent]
+|move|p2a: Ting-Lu|Earthquake|p1a: Sneasler
+|-supereffective|p1a: Sneasler
+|-damage|p1a: Sneasler|0 fnt
+|faint|p1a: Sneasler
+|
+|-heal|p2a: Ting-Lu|77/370 tox|[from] item: Leftovers
+|-damage|p2a: Ting-Lu|0 fnt|[from] psn
+|faint|p2a: Ting-Lu
+|upkeep
+|inactive|khljk40 has 120 seconds left.
+|
+|t:|1776976135
+|switch|p1a: Dragalge|Dragalge, L88, F|101/258
+|switch|p2a: Rillaboom|Rillaboom, L79, M|288/288
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|-damage|p1a: Dragalge|69/258|[from] Spikes
+|turn|19
+|inactive|khljk40 has 120 seconds left.
+|
+|t:|1776976160
+|move|p2a: Rillaboom|U-turn|p1a: Dragalge
+|-resisted|p1a: Dragalge
+|-damage|p1a: Dragalge|34/258
+|
+|t:|1776976165
+|switch|p2a: Zebstrika|Zebstrika, L87, M|272/272|[from] U-turn
+|move|p1a: Dragalge|Sludge Wave|p2a: Zebstrika
+|-damage|p2a: Zebstrika|80/272
+|
+|-heal|p2a: Zebstrika|97/272|[from] Grassy Terrain
+|-heal|p1a: Dragalge|50/258|[from] Grassy Terrain
+|-heal|p1a: Dragalge|66/258|[from] item: Leftovers
+|upkeep
+|turn|20
+|inactive|izumisakuranoodle has 120 seconds left.
+|
+|t:|1776976177
+|move|p2a: Zebstrika|High Horsepower|p1a: Dragalge
+|-supereffective|p1a: Dragalge
+|-damage|p1a: Dragalge|0 fnt
+|faint|p1a: Dragalge
+|-damage|p2a: Zebstrika|70/272|[from] item: Life Orb
+|
+|-heal|p2a: Zebstrika|87/272|[from] Grassy Terrain
+|upkeep
+|
+|t:|1776976187
+|switch|p1a: Cresselia|Cresselia, L80, F|323/323
+|turn|21
+|inactive|izumisakuranoodle has 120 seconds left.
+|
+|t:|1776976204
+|move|p2a: Zebstrika|Overheat|p1a: Cresselia
+|-damage|p1a: Cresselia|237/323
+|-unboost|p2a: Zebstrika|spa|2
+|-damage|p2a: Zebstrika|60/272|[from] item: Life Orb
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|
+|-heal|p2a: Zebstrika|77/272|[from] Grassy Terrain
+|-heal|p1a: Cresselia|257/323|[from] item: Leftovers
+|upkeep
+|turn|22
+|inactive|izumisakuranoodle has 120 seconds left.
+|
+|t:|1776976216
+|move|p2a: Zebstrika|Volt Switch|p1a: Cresselia
+|-damage|p1a: Cresselia|230/323
+|-damage|p2a: Zebstrika|50/272|[from] item: Life Orb
+|
+|t:|1776976225
+|switch|p2a: Rillaboom|Rillaboom, L79, M|288/288|[from] Volt Switch
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|
+|-heal|p1a: Cresselia|250/323|[from] item: Leftovers
+|upkeep
+|turn|23
+|inactive|izumisakuranoodle has 120 seconds left.
+|inactive|khljk40 has 120 seconds left.
+|
+|t:|1776976262
+|move|p1a: Cresselia|Psyshock|p2a: Rillaboom
+|-damage|p2a: Rillaboom|159/288
+|move|p2a: Rillaboom|Knock Off|p1a: Cresselia
+|-supereffective|p1a: Cresselia
+|-damage|p1a: Cresselia|48/323
+|-enditem|p1a: Cresselia|Leftovers|[from] move: Knock Off|[of] p2a: Rillaboom
+|
+|-heal|p2a: Rillaboom|177/288|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|24
+|inactive|izumisakuranoodle has 90 seconds left.
+|
+|t:|1776976303
+|-terastallize|p1a: Cresselia|Electric
+|move|p1a: Cresselia|Moonlight|p1a: Cresselia
+|-heal|p1a: Cresselia|209/323
+|move|p2a: Rillaboom|Knock Off|p1a: Cresselia
+|-damage|p1a: Cresselia|146/323
+|
+|upkeep
+|turn|25
+|inactive|khljk40 has 120 seconds left.
+|
+|t:|1776976311
+|switch|p2a: Minun|Minun, L95, F|268/268
+|move|p1a: Cresselia|Moonlight|p1a: Cresselia
+|-heal|p1a: Cresselia|307/323
+|
+|upkeep
+|turn|26
+|inactive|izumisakuranoodle has 90 seconds left.
+|
+|t:|1776976325
+|move|p2a: Minun|Alluring Voice|p1a: Cresselia
+|-damage|p1a: Cresselia|272/323
+|-damage|p2a: Minun|242/268|[from] item: Life Orb
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|
+|upkeep
+|turn|27
+|inactive|izumisakuranoodle has 90 seconds left.
+|
+|t:|1776976331
+|move|p2a: Minun|Encore|p1a: Cresselia
+|-start|p1a: Cresselia|Encore
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|
+|upkeep
+|turn|28
+|inactive|izumisakuranoodle has 90 seconds left.
+|
+|t:|1776976343
+|switch|p2a: Rillaboom|Rillaboom, L79, M|177/288
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|
+|-heal|p2a: Rillaboom|195/288|[from] Grassy Terrain
+|upkeep
+|turn|29
+|inactive|izumisakuranoodle has 90 seconds left.
+|
+|t:|1776976354
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|move|p2a: Rillaboom|Wood Hammer|p1a: Cresselia
+|-damage|p1a: Cresselia|43/323
+|-damage|p2a: Rillaboom|119/288|[from] Recoil
+|
+|-heal|p2a: Rillaboom|137/288|[from] Grassy Terrain
+|-end|p1a: Cresselia|Encore
+|upkeep
+|turn|30
+|inactive|izumisakuranoodle has 90 seconds left.
+|
+|t:|1776976364
+|move|p1a: Cresselia|Moonlight|p1a: Cresselia
+|-heal|p1a: Cresselia|204/323
+|move|p2a: Rillaboom|Wood Hammer|p1a: Cresselia
+|-damage|p1a: Cresselia|0 fnt
+|faint|p1a: Cresselia
+|-damage|p2a: Rillaboom|70/288|[from] Recoil
+|
+|-heal|p2a: Rillaboom|88/288|[from] Grassy Terrain
+|upkeep
+|
+|t:|1776976367
+|switch|p1a: Lucario|Lucario, L84, F|155/255
+|-damage|p1a: Lucario|124/255|[from] Spikes
+|turn|31
+|
+|t:|1776976382
+|move|p1a: Lucario|Focus Blast|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|-damage|p1a: Lucario|99/255|[from] item: Life Orb
+|
+|-heal|p1a: Lucario|114/255|[from] Grassy Terrain
+|upkeep
+|
+|t:|1776976389
+|switch|p2a: Zebstrika|Zebstrika, L87, M|50/272
+|turn|32
+|
+|t:|1776976396
+|move|p2a: Zebstrika|High Horsepower|p1a: Lucario
+|-supereffective|p1a: Lucario
+|-damage|p1a: Lucario|0 fnt
+|faint|p1a: Lucario
+|-damage|p2a: Zebstrika|23/272|[from] item: Life Orb
+|
+|win|izumisakuranoodle
+|raw|khljk40's rating: 1098 &rarr; <strong>1073</strong><br />(-25 for losing)
+|raw|izumisakuranoodle's rating: 1089 &rarr; <strong>1116</strong><br />(+27 for winning)

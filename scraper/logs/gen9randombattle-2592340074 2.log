@@ -1,0 +1,351 @@
+|j|☆ultrabillybobjoe
+|j|☆m0untaineer
+|t:|1776980240
+|gametype|singles
+|player|p1|ultrabillybobjoe|266|1793
+|player|p2|m0untaineer|266|1828
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776980240
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Malamar|Malamar, L82, M|275/275
+|switch|p2a: Hatterene|Hatterene, L85, F|236/236
+|turn|1
+|
+|t:|1776980263
+|switch|p1a: Grafaiai|Grafaiai, L86, F|249/249
+|move|p2a: Hatterene|Nuzzle|p1a: Grafaiai
+|-crit|p1a: Grafaiai
+|-damage|p1a: Grafaiai|222/249
+|-status|p1a: Grafaiai|par
+|
+|upkeep
+|turn|2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ultrabillybobjoe)
+|
+|t:|1776980281
+|switch|p2a: Scizor|Scizor, L79, F|240/240
+|move|p1a: Grafaiai|Knock Off|p2a: Scizor
+|-damage|p2a: Scizor|169/240
+|-enditem|p2a: Scizor|Leftovers|[from] move: Knock Off|[of] p1a: Grafaiai
+|
+|upkeep
+|turn|3
+|inactive|ultrabillybobjoe has 120 seconds left.
+|
+|t:|1776980314
+|switch|p2a: Hatterene|Hatterene, L85, F|236/236
+|move|p1a: Grafaiai|Parting Shot|p2a: Hatterene
+|move|p2a: Hatterene|Parting Shot|p1a: Grafaiai|[from] ability: Magic Bounce
+|-unboost|p1a: Grafaiai|atk|1
+|-unboost|p1a: Grafaiai|spa|1
+|
+|t:|1776980317
+|switch|p2a: Scizor|Scizor, L79, F|169/240|[from] Parting Shot
+|
+|upkeep
+|turn|4
+|
+|t:|1776980327
+|move|p1a: Grafaiai|Encore||[still]
+|-fail|p1a: Grafaiai
+|move|p2a: Scizor|U-turn|p1a: Grafaiai
+|-resisted|p1a: Grafaiai
+|-damage|p1a: Grafaiai|169/249 par
+|
+|t:|1776980334
+|switch|p2a: Hatterene|Hatterene, L85, F|236/236|[from] U-turn
+|
+|upkeep
+|turn|5
+|
+|t:|1776980340
+|move|p1a: Grafaiai|Gunk Shot|p2a: Hatterene
+|-supereffective|p2a: Hatterene
+|-damage|p2a: Hatterene|66/236
+|move|p2a: Hatterene|Psychic|p1a: Grafaiai
+|-supereffective|p1a: Grafaiai
+|-damage|p1a: Grafaiai|0 fnt
+|faint|p1a: Grafaiai
+|
+|upkeep
+|
+|t:|1776980344
+|switch|p1a: Dragalge|Dragalge, L88, F|258/258
+|turn|6
+|
+|t:|1776980348
+|switch|p2a: Palossand|Palossand, L89, M|296/296
+|move|p1a: Dragalge|Toxic Spikes|p2a: Palossand
+|-sidestart|p2: m0untaineer|move: Toxic Spikes
+|
+|upkeep
+|turn|7
+|
+|t:|1776980361
+|switch|p1a: Slowbro|Slowbro, L85, F|300/300
+|move|p2a: Palossand|Earth Power|p1a: Slowbro
+|-damage|p1a: Slowbro|174/300
+|
+|-heal|p1a: Slowbro|192/300|[from] item: Leftovers
+|upkeep
+|turn|8
+|inactive|ultrabillybobjoe has 120 seconds left.
+|
+|t:|1776980409
+|move|p2a: Palossand|Shadow Ball|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|0 fnt
+|faint|p1a: Slowbro
+|
+|upkeep
+|
+|t:|1776980411
+|switch|p1a: Roaring Moon|Roaring Moon, L72|270/270
+|turn|9
+|
+|t:|1776980437
+|-terastallize|p2a: Palossand|Poison
+|move|p1a: Roaring Moon|Dragon Dance|p1a: Roaring Moon
+|-boost|p1a: Roaring Moon|atk|1
+|-boost|p1a: Roaring Moon|spe|1
+|move|p2a: Palossand|Sludge Bomb|p1a: Roaring Moon
+|-damage|p1a: Roaring Moon|159/270
+|
+|upkeep
+|turn|10
+|inactive|ultrabillybobjoe has 120 seconds left.
+|
+|t:|1776980455
+|switch|p2a: Scizor|Scizor, L79, F|169/240
+|move|p1a: Roaring Moon|Knock Off|p2a: Scizor
+|-damage|p2a: Scizor|69/240
+|
+|upkeep
+|turn|11
+|
+|t:|1776980460
+|move|p2a: Scizor|Bullet Punch|p1a: Roaring Moon
+|-damage|p1a: Roaring Moon|54/270
+|move|p1a: Roaring Moon|Knock Off|p2a: Scizor
+|-damage|p2a: Scizor|0 fnt
+|faint|p2a: Scizor
+|
+|upkeep
+|
+|t:|1776980475
+|switch|p2a: Palossand|Palossand, L89, M, tera:Poison|296/296
+|-sideend|p2: m0untaineer|move: Toxic Spikes|[of] p2a: Palossand
+|turn|12
+|
+|t:|1776980494
+|move|p1a: Roaring Moon|Outrage|p2a: Palossand
+|-damage|p2a: Palossand|155/296
+|move|p2a: Palossand|Earth Power|p1a: Roaring Moon
+|-damage|p1a: Roaring Moon|0 fnt
+|faint|p1a: Roaring Moon
+|-end|p1a: Roaring Moon|Protosynthesis|[silent]
+|
+|-heal|p2a: Palossand|173/296|[from] item: Leftovers
+|upkeep
+|
+|t:|1776980497
+|switch|p1a: Groudon|Groudon, L72|263/263
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Groudon
+|turn|13
+|
+|t:|1776980503
+|switch|p2a: Ludicolo|Ludicolo, L90, F|290/290
+|move|p1a: Groudon|Precipice Blades|p2a: Ludicolo
+|-resisted|p2a: Ludicolo
+|-damage|p2a: Ludicolo|220/290
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1776980509
+|move|p2a: Ludicolo|Rain Dance|p2a: Ludicolo
+|-weather|RainDance
+|move|p1a: Groudon|Thunder Wave|p2a: Ludicolo
+|-status|p2a: Ludicolo|par
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1776980513
+|switch|p1a: Dragalge|Dragalge, L88, F|258/258
+|move|p2a: Ludicolo|Hydro Pump|p1a: Dragalge
+|-resisted|p1a: Dragalge
+|-damage|p1a: Dragalge|168/258
+|-damage|p2a: Ludicolo|191/290 par|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Dragalge|184/258|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776980537
+|move|p2a: Ludicolo|Ice Beam|p1a: Dragalge
+|-supereffective|p1a: Dragalge
+|-damage|p1a: Dragalge|38/258
+|-damage|p2a: Ludicolo|162/290 par|[from] item: Life Orb
+|move|p1a: Dragalge|Sludge Wave|p2a: Ludicolo
+|-supereffective|p2a: Ludicolo
+|-damage|p2a: Ludicolo|0 fnt
+|faint|p2a: Ludicolo
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Dragalge|54/258|[from] item: Leftovers
+|upkeep
+|inactive|m0untaineer has 120 seconds left.
+|
+|t:|1776980565
+|switch|p2a: Mamoswine|Mamoswine, L81, F|311/311
+|turn|17
+|
+|t:|1776980575
+|move|p2a: Mamoswine|Earthquake|p1a: Dragalge
+|-supereffective|p1a: Dragalge
+|-crit|p1a: Dragalge
+|-damage|p1a: Dragalge|0 fnt
+|faint|p1a: Dragalge
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1776980578
+|switch|p1a: Malamar|Malamar, L82, M|275/275
+|turn|18
+|inactive|m0untaineer has 120 seconds left.
+|
+|t:|1776980598
+|switch|p2a: Palossand|Palossand, L89, M, tera:Poison|173/296
+|-terastallize|p1a: Malamar|Fighting
+|move|p1a: Malamar|Superpower|p2a: Palossand
+|-resisted|p2a: Palossand
+|-damage|p2a: Palossand|125/296
+|-boost|p1a: Malamar|atk|1
+|-boost|p1a: Malamar|def|1
+|
+|-weather|none
+|-heal|p2a: Palossand|143/296|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1776980616
+|move|p1a: Malamar|Knock Off|p2a: Palossand
+|-damage|p2a: Palossand|26/296
+|-enditem|p2a: Palossand|Leftovers|[from] move: Knock Off|[of] p1a: Malamar
+|move|p2a: Palossand|Sludge Bomb|p1a: Malamar
+|-damage|p1a: Malamar|148/275
+|-status|p1a: Malamar|psn
+|
+|-heal|p1a: Malamar|165/275 psn|[from] item: Leftovers
+|-damage|p1a: Malamar|131/275 psn|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1776980635
+|move|p1a: Malamar|Rest|p1a: Malamar
+|-status|p1a: Malamar|slp|[from] move: Rest
+|-heal|p1a: Malamar|275/275 slp|[silent]
+|move|p2a: Palossand|Sludge Bomb|p1a: Malamar
+|-damage|p1a: Malamar|146/275 slp
+|
+|-heal|p1a: Malamar|163/275 slp|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1776980648
+|cant|p1a: Malamar|slp
+|move|p1a: Malamar|Sleep Talk|p1a: Malamar
+|move|p1a: Malamar|Rest||[from] move: Sleep Talk|[still]
+|-fail|p1a: Malamar
+|move|p2a: Palossand|Sludge Bomb|p1a: Malamar
+|-damage|p1a: Malamar|34/275 slp
+|
+|-heal|p1a: Malamar|51/275 slp|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1776980656
+|cant|p1a: Malamar|slp
+|move|p1a: Malamar|Sleep Talk|p1a: Malamar
+|move|p1a: Malamar|Knock Off|p2a: Palossand|[from] move: Sleep Talk
+|-damage|p2a: Palossand|0 fnt
+|faint|p2a: Palossand
+|
+|-heal|p1a: Malamar|68/275 slp|[from] item: Leftovers
+|upkeep
+|
+|t:|1776980665
+|switch|p2a: Mamoswine|Mamoswine, L81, F|311/311
+|turn|23
+|
+|t:|1776980670
+|move|p2a: Mamoswine|Earthquake|p1a: Malamar
+|-damage|p1a: Malamar|0 fnt
+|faint|p1a: Malamar
+|
+|upkeep
+|
+|t:|1776980681
+|switch|p1a: Groudon|Groudon, L72|263/263
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Groudon
+|turn|24
+|
+|t:|1776980704
+|switch|p2a: Hatterene|Hatterene, L85, F|66/236
+|move|p1a: Groudon|Precipice Blades|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1776980710
+|switch|p2a: Kleavor|Kleavor, L78, M|237/237
+|turn|25
+|
+|t:|1776980735
+|move|p2a: Kleavor|X-Scissor|p1a: Groudon
+|-damage|p1a: Groudon|148/263
+|move|p1a: Groudon|Heat Crash|p2a: Kleavor
+|-damage|p2a: Kleavor|98/237
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Groudon|164/263|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1776980741
+|move|p2a: Kleavor|X-Scissor|p1a: Groudon
+|-damage|p1a: Groudon|44/263
+|move|p1a: Groudon|Heat Crash|p2a: Kleavor
+|-damage|p2a: Kleavor|0 fnt
+|faint|p2a: Kleavor
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Groudon|60/263|[from] item: Leftovers
+|upkeep
+|
+|t:|1776980744
+|switch|p2a: Mamoswine|Mamoswine, L81, F|311/311
+|turn|27
+|-message|ultrabillybobjoe forfeited.
+|
+|win|m0untaineer
+|raw|ultrabillybobjoe's rating: 1773 &rarr; <strong>1756</strong><br />(-17 for losing)
+|raw|m0untaineer's rating: 1828 &rarr; <strong>1845</strong><br />(+17 for winning)
+|l|☆ultrabillybobjoe
+|player|p1|

@@ -1,0 +1,274 @@
+|j|☆Jsjsjsjsjdjd
+|j|☆Hex 3x
+|t:|1772743550
+|gametype|singles
+|player|p1|Jsjsjsjsjdjd|adaman|1214
+|player|p2|Hex 3x|cyrus|1186
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772743550
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Fezandipiti|Fezandipiti, L82, M|278/278
+|switch|p2a: Blastoise|Blastoise, L80, M|258/258
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Jsjsjsjsjdjd)
+|
+|t:|1772743574
+|switch|p2a: Toedscruel|Toedscruel, L87, F|281/281
+|move|p1a: Fezandipiti|U-turn|p2a: Toedscruel
+|-supereffective|p2a: Toedscruel
+|-damage|p2a: Toedscruel|175/281
+|
+|t:|1772743580
+|switch|p1a: Altaria|Altaria, L89, M|278/278|[from] U-turn
+|
+|-heal|p2a: Toedscruel|192/281|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1772743595
+|-terastallize|p2a: Toedscruel|Water
+|move|p1a: Altaria|Brave Bird|p2a: Toedscruel
+|-damage|p2a: Toedscruel|50/281
+|-damage|p1a: Altaria|231/278|[from] Recoil
+|move|p2a: Toedscruel|Toxic|p1a: Altaria
+|-status|p1a: Altaria|tox
+|
+|-heal|p2a: Toedscruel|67/281|[from] item: Leftovers
+|-damage|p1a: Altaria|214/278 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1772743615
+|switch|p2a: Swanna|Swanna, L89, F|278/278
+|move|p1a: Altaria|Brave Bird|p2a: Swanna
+|-damage|p2a: Swanna|143/278
+|-damage|p1a: Altaria|169/278 tox|[from] Recoil
+|
+|-damage|p1a: Altaria|135/278 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1772743625
+|-curestatus|p1a: Altaria|tox|[from] ability: Natural Cure
+|switch|p1a: Pincurchin|Pincurchin, F|258/258
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Pincurchin
+|move|p2a: Swanna|Roost|p2a: Swanna
+|-heal|p2a: Swanna|278/278
+|-singleturn|p2a: Swanna|move: Roost
+|
+|upkeep
+|turn|5
+|
+|t:|1772743637
+|switch|p2a: Toedscruel|Toedscruel, L87, F, tera:Water|67/281
+|move|p1a: Pincurchin|Zing Zap|p2a: Toedscruel
+|-supereffective|p2a: Toedscruel
+|-damage|p2a: Toedscruel|0 fnt
+|faint|p2a: Toedscruel
+|
+|upkeep
+|l|☆Hex 3x
+|inactive|Hex 3x disconnected and has a minute to reconnect!
+|player|p2|
+|j|☆Hex 3x
+|inactive|Hex 3x reconnected and has 115 seconds left.
+|player|p2|Hex 3x|cyrus|
+|
+|t:|1772743677
+|switch|p2a: Pawmot|Pawmot, L80, M|243/243
+|turn|6
+|
+|t:|1772743685
+|switch|p1a: Houndstone|Houndstone, L86, M|264/264
+|move|p2a: Pawmot|Revival Blessing|p2a: Pawmot
+|-enditem|p2a: Pawmot|Leppa Berry|[eat]
+|-activate|p2a: Pawmot|item: Leppa Berry|Revival Blessing|[consumed]
+|
+|t:|1772743692
+|-heal|p2: Toedscruel|140/281|[from] move: Revival Blessing
+|
+|upkeep
+|turn|7
+|
+|t:|1772743704
+|switch|p2a: Scizor|Scizor, L79, F|240/240
+|move|p1a: Houndstone|Body Press|p2a: Scizor
+|-damage|p2a: Scizor|181/240
+|
+|upkeep
+|turn|8
+|
+|t:|1772743712
+|move|p1a: Houndstone|Poltergeist|p2a: Scizor
+|-activate|p2a: Scizor|move: Poltergeist|Choice Band
+|-damage|p2a: Scizor|70/240
+|move|p2a: Scizor|Knock Off|p1a: Houndstone
+|-supereffective|p1a: Houndstone
+|-damage|p1a: Houndstone|154/264
+|-enditem|p1a: Houndstone|Leftovers|[from] move: Knock Off|[of] p2a: Scizor
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|9
+|inactive|Hex 3x has 120 seconds left.
+|
+|t:|1772743724
+|move|p1a: Houndstone|Poltergeist|p2a: Scizor
+|-activate|p2a: Scizor|move: Poltergeist|Choice Band
+|-damage|p2a: Scizor|0 fnt
+|faint|p2a: Scizor
+|
+|upkeep
+|
+|t:|1772743738
+|switch|p2a: Swanna|Swanna, L89, F|278/278
+|turn|10
+|
+|t:|1772743742
+|switch|p1a: Pincurchin|Pincurchin, F|258/258
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Pincurchin
+|move|p2a: Swanna|Hydro Pump|p1a: Pincurchin
+|-damage|p1a: Pincurchin|155/258
+|
+|-heal|p1a: Pincurchin|171/258|[from] item: Leftovers
+|upkeep
+|turn|11
+|inactive|Hex 3x has 120 seconds left.
+|
+|t:|1772743756
+|switch|p2a: Vikavolt|Vikavolt, L83, M|263/263
+|move|p1a: Pincurchin|Zing Zap|p2a: Vikavolt
+|-resisted|p2a: Vikavolt
+|-damage|p2a: Vikavolt|184/263
+|
+|-heal|p1a: Pincurchin|187/258|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1772743771
+|switch|p1a: Oricorio|Oricorio-Sensu, L85, M|266/266
+|move|p2a: Vikavolt|Sticky Web|p1a: Oricorio
+|-sidestart|p1: Jsjsjsjsjdjd|move: Sticky Web
+|
+|upkeep
+|turn|13
+|
+|t:|1772743781
+|-terastallize|p1a: Oricorio|Ghost
+|move|p1a: Oricorio|Quiver Dance|p1a: Oricorio
+|-boost|p1a: Oricorio|spa|1
+|-boost|p1a: Oricorio|spd|1
+|-boost|p1a: Oricorio|spe|1
+|move|p2a: Vikavolt|Thunderbolt|p1a: Oricorio
+|-damage|p1a: Oricorio|160/266
+|
+|upkeep
+|turn|14
+|
+|t:|1772743794
+|switch|p2a: Swanna|Swanna, L89, F|278/278
+|move|p1a: Oricorio|Revelation Dance|p2a: Swanna
+|-damage|p2a: Swanna|24/278
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|15
+|
+|t:|1772743803
+|move|p1a: Oricorio|Revelation Dance|p2a: Swanna
+|-crit|p2a: Swanna
+|-damage|p2a: Swanna|0 fnt
+|faint|p2a: Swanna
+|
+|upkeep
+|inactive|Hex 3x has 120 seconds left.
+|
+|t:|1772743824
+|switch|p2a: Pawmot|Pawmot, L80, M|243/243
+|turn|16
+|inactive|Hex 3x has 120 seconds left.
+|
+|t:|1772743852
+|move|p1a: Oricorio|Roost|p1a: Oricorio
+|-heal|p1a: Oricorio|266/266
+|move|p2a: Pawmot|Double Shock|p1a: Oricorio
+|-damage|p1a: Oricorio|122/266
+|-start|p2a: Pawmot|typechange|???/Fighting|[from] move: Double Shock
+|
+|upkeep
+|turn|17
+|
+|t:|1772743865
+|move|p1a: Oricorio|Roost|p1a: Oricorio
+|-heal|p1a: Oricorio|255/266
+|move|p2a: Pawmot|Revival Blessing|p2a: Pawmot
+|
+|t:|1772743874
+|-heal|p2: Scizor|120/240|[from] move: Revival Blessing
+|
+|upkeep
+|turn|18
+|
+|t:|1772743881
+|move|p1a: Oricorio|Revelation Dance|p2a: Pawmot
+|-damage|p2a: Pawmot|0 fnt
+|faint|p2a: Pawmot
+|
+|upkeep
+|
+|t:|1772743901
+|switch|p2a: Toedscruel|Toedscruel, L87, F|140/281
+|turn|19
+|
+|t:|1772743915
+|move|p1a: Oricorio|Revelation Dance|p2a: Toedscruel
+|-damage|p2a: Toedscruel|0 fnt
+|faint|p2a: Toedscruel
+|
+|upkeep
+|
+|t:|1772743921
+|switch|p2a: Blastoise|Blastoise, L80, M|258/258
+|turn|20
+|
+|t:|1772743926
+|move|p1a: Oricorio|Quiver Dance|p1a: Oricorio
+|-boost|p1a: Oricorio|spa|1
+|-boost|p1a: Oricorio|spd|1
+|-boost|p1a: Oricorio|spe|1
+|move|p2a: Blastoise|Shell Smash|p2a: Blastoise
+|-unboost|p2a: Blastoise|def|1
+|-unboost|p2a: Blastoise|spd|1
+|-boost|p2a: Blastoise|atk|2
+|-boost|p2a: Blastoise|spa|2
+|-boost|p2a: Blastoise|spe|2
+|-enditem|p2a: Blastoise|White Herb
+|-clearnegativeboost|p2a: Blastoise|[silent]
+|
+|upkeep
+|turn|21
+|
+|t:|1772743939
+|move|p1a: Oricorio|Revelation Dance|p2a: Blastoise
+|-damage|p2a: Blastoise|18/258
+|move|p2a: Blastoise|Hydro Pump|p1a: Oricorio
+|-damage|p1a: Oricorio|99/266
+|
+|upkeep
+|turn|22
+|-message|Hex 3x forfeited.
+|
+|win|Jsjsjsjsjdjd
+|raw|Jsjsjsjsjdjd's rating: 1214 &rarr; <strong>1237</strong><br />(+23 for winning)
+|raw|Hex 3x's rating: 1186 &rarr; <strong>1163</strong><br />(-23 for losing)
+|l|☆Hex 3x
+|player|p2|

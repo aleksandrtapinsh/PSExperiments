@@ -1,0 +1,296 @@
+|j|☆Jdjsjjdd
+|j|☆Lo scompositore
+|t:|1776977628
+|gametype|singles
+|player|p1|Jdjsjjdd|266|1104
+|player|p2|Lo scompositore|266|1089
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776977628
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Squawkabilly|Squawkabilly-Yellow, L89, F|291/291
+|switch|p2a: Giratina|Giratina, L75|349/349
+|-ability|p2a: Giratina|Pressure
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Jdjsjjdd)
+|
+|t:|1776977647
+|switch|p2a: Sudowoodo|Sudowoodo, L94, F|284/284
+|move|p1a: Squawkabilly|Brave Bird|p2a: Sudowoodo
+|-resisted|p2a: Sudowoodo
+|-damage|p2a: Sudowoodo|165/284
+|-damage|p1a: Squawkabilly|252/291|[from] Recoil
+|
+|-heal|p2a: Sudowoodo|182/284|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776977660
+|switch|p1a: Probopass|Probopass, L91, F|257/257
+|move|p2a: Sudowoodo|Head Smash|p1a: Probopass|[miss]
+|-miss|p2a: Sudowoodo|p1a: Probopass
+|
+|-heal|p2a: Sudowoodo|199/284|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776977675
+|move|p1a: Probopass|Flash Cannon|p2a: Sudowoodo
+|-supereffective|p2a: Sudowoodo
+|-damage|p2a: Sudowoodo|25/284
+|move|p2a: Sudowoodo|Earthquake|p1a: Probopass
+|-supereffective|p1a: Probopass
+|-damage|p1a: Probopass|37/257
+|
+|-heal|p1a: Probopass|53/257|[from] item: Leftovers
+|-heal|p2a: Sudowoodo|42/284|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776977685
+|move|p1a: Probopass|Flash Cannon|p2a: Sudowoodo
+|-supereffective|p2a: Sudowoodo
+|-damage|p2a: Sudowoodo|0 fnt
+|faint|p2a: Sudowoodo
+|
+|-heal|p1a: Probopass|69/257|[from] item: Leftovers
+|upkeep
+|
+|t:|1776977693
+|switch|p2a: Barraskewda|Barraskewda, L81, M|231/231
+|turn|5
+|
+|t:|1776977701
+|move|p2a: Barraskewda|Waterfall|p1a: Probopass
+|-supereffective|p1a: Probopass
+|-damage|p1a: Probopass|0 fnt
+|faint|p1a: Probopass
+|
+|upkeep
+|
+|t:|1776977707
+|switch|p1a: Lapras|Lapras, L87, F|367/367
+|turn|6
+|
+|t:|1776977720
+|switch|p2a: Pincurchin|Pincurchin, M|258/258
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Pincurchin
+|move|p1a: Lapras|Freeze-Dry|p2a: Pincurchin
+|-crit|p2a: Pincurchin
+|-damage|p2a: Pincurchin|125/258
+|
+|-heal|p2a: Pincurchin|141/258|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776977733
+|switch|p1a: Virizion|Virizion, L82|283/283
+|move|p2a: Pincurchin|Thunderbolt|p1a: Virizion
+|-resisted|p1a: Virizion
+|-damage|p1a: Virizion|217/283
+|
+|-heal|p2a: Pincurchin|157/258|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776977749
+|move|p1a: Virizion|Swords Dance|p1a: Virizion
+|-boost|p1a: Virizion|atk|2
+|move|p2a: Pincurchin|Toxic Spikes|p1a: Virizion
+|-sidestart|p1: Jdjsjjdd|move: Toxic Spikes
+|
+|-heal|p2a: Pincurchin|173/258|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776977758
+|move|p1a: Virizion|Leaf Blade|p2a: Pincurchin
+|-damage|p2a: Pincurchin|0 fnt
+|faint|p2a: Pincurchin
+|-damage|p1a: Virizion|189/283|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776977768
+|switch|p2a: Noivern|Noivern, L82, M|274/274
+|turn|10
+|
+|t:|1776977776
+|move|p2a: Noivern|Hurricane|p1a: Virizion
+|-supereffective|p1a: Virizion
+|-damage|p1a: Virizion|0 fnt
+|faint|p1a: Virizion
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|
+|t:|1776977785
+|switch|p1a: Squawkabilly|Squawkabilly-Yellow, L89, F|252/291
+|turn|11
+|
+|t:|1776977798
+|switch|p2a: Giratina|Giratina, L75|349/349
+|-ability|p2a: Giratina|Pressure
+|move|p1a: Squawkabilly|Brave Bird|p2a: Giratina|[miss]
+|-miss|p1a: Squawkabilly|p2a: Giratina
+|
+|upkeep
+|turn|12
+|
+|t:|1776977806
+|move|p1a: Squawkabilly|Brave Bird|p2a: Giratina
+|-damage|p2a: Giratina|87/349
+|-damage|p1a: Squawkabilly|166/291|[from] Recoil
+|move|p2a: Giratina|Calm Mind|p2a: Giratina
+|-boost|p2a: Giratina|spa|1
+|-boost|p2a: Giratina|spd|1
+|
+|-heal|p2a: Giratina|108/349|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776977816
+|switch|p2a: Gothitelle|Gothitelle, L90, F|272/272
+|move|p1a: Squawkabilly|Brave Bird|p2a: Gothitelle
+|-damage|p2a: Gothitelle|0 fnt
+|faint|p2a: Gothitelle
+|-damage|p1a: Squawkabilly|76/291|[from] Recoil
+|
+|upkeep
+|
+|t:|1776977819
+|switch|p2a: Barraskewda|Barraskewda, L81, M|231/231
+|turn|14
+|
+|t:|1776977838
+|switch|p1a: Lapras|Lapras, L87, F|367/367
+|-status|p1a: Lapras|psn
+|move|p2a: Barraskewda|Waterfall|p1a: Lapras
+|-immune|p1a: Lapras|[from] ability: Water Absorb
+|
+|-damage|p1a: Lapras|322/367 psn|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1776977852
+|switch|p2a: Giratina|Giratina, L75|108/349
+|-ability|p2a: Giratina|Pressure
+|move|p1a: Lapras|Freeze-Dry|p2a: Giratina
+|-supereffective|p2a: Giratina
+|-damage|p2a: Giratina|0 fnt
+|faint|p2a: Giratina
+|
+|-damage|p1a: Lapras|277/367 psn|[from] psn
+|upkeep
+|
+|t:|1776977855
+|switch|p2a: Barraskewda|Barraskewda, L81, M|231/231
+|turn|16
+|
+|t:|1776977867
+|switch|p1a: Gyarados|Gyarados, L79, M|280/280
+|move|p2a: Barraskewda|Close Combat|p1a: Gyarados
+|-resisted|p1a: Gyarados
+|-damage|p1a: Gyarados|203/280
+|-unboost|p2a: Barraskewda|def|1
+|-unboost|p2a: Barraskewda|spd|1
+|
+|upkeep
+|turn|17
+|
+|t:|1776977881
+|switch|p2a: Noivern|Noivern, L82, M|274/274
+|move|p1a: Gyarados|Dragon Dance|p1a: Gyarados
+|-boost|p1a: Gyarados|atk|1
+|-boost|p1a: Gyarados|spe|1
+|
+|upkeep
+|turn|18
+|
+|t:|1776977890
+|-terastallize|p1a: Gyarados|Flying
+|move|p1a: Gyarados|Tera Blast|p2a: Noivern|[anim] Tera Blast Flying
+|-damage|p2a: Noivern|70/274
+|move|p2a: Noivern|Draco Meteor|p1a: Gyarados
+|-crit|p1a: Gyarados
+|-damage|p1a: Gyarados|0 fnt
+|-unboost|p2a: Noivern|spa|2
+|faint|p1a: Gyarados
+|
+|upkeep
+|
+|t:|1776977902
+|switch|p1a: Lapras|Lapras, L87, F|277/367 psn
+|turn|19
+|
+|t:|1776977907
+|move|p2a: Noivern|Draco Meteor|p1a: Lapras
+|-damage|p1a: Lapras|183/367 psn
+|-unboost|p2a: Noivern|spa|2
+|move|p1a: Lapras|Freeze-Dry|p2a: Noivern
+|-supereffective|p2a: Noivern
+|-damage|p2a: Noivern|0 fnt
+|faint|p2a: Noivern
+|
+|-damage|p1a: Lapras|138/367 psn|[from] psn
+|upkeep
+|
+|t:|1776977910
+|switch|p2a: Barraskewda|Barraskewda, L81, M|231/231
+|turn|20
+|
+|t:|1776977921
+|move|p2a: Barraskewda|Close Combat|p1a: Lapras
+|-supereffective|p1a: Lapras
+|-damage|p1a: Lapras|0 fnt
+|-unboost|p2a: Barraskewda|def|1
+|-unboost|p2a: Barraskewda|spd|1
+|faint|p1a: Lapras
+|
+|upkeep
+|
+|t:|1776977928
+|switch|p1a: Squawkabilly|Squawkabilly-Yellow, L89, F|76/291
+|turn|21
+|
+|t:|1776977933
+|move|p1a: Squawkabilly|Quick Attack|p2a: Barraskewda|[miss]
+|-miss|p1a: Squawkabilly|p2a: Barraskewda
+|move|p2a: Barraskewda|Close Combat|p1a: Squawkabilly
+|-damage|p1a: Squawkabilly|0 fnt
+|-unboost|p2a: Barraskewda|def|1
+|-unboost|p2a: Barraskewda|spd|1
+|faint|p1a: Squawkabilly
+|
+|upkeep
+|
+|t:|1776977942
+|switch|p1a: Medicham|Medicham, L86, M|243/243
+|-status|p1a: Medicham|psn
+|turn|22
+|
+|t:|1776977948
+|move|p2a: Barraskewda|Close Combat|p1a: Medicham
+|-resisted|p1a: Medicham
+|-damage|p1a: Medicham|161/243 psn
+|-unboost|p2a: Barraskewda|def|1
+|-unboost|p2a: Barraskewda|spd|1
+|move|p1a: Medicham|Close Combat|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|-unboost|p1a: Medicham|def|1
+|-unboost|p1a: Medicham|spd|1
+|faint|p2a: Barraskewda
+|
+|win|Jdjsjjdd
+|raw|Jdjsjjdd's rating: 1104 &rarr; <strong>1128</strong><br />(+24 for winning)
+|raw|Lo scompositore's rating: 1089 &rarr; <strong>1067</strong><br />(-22 for losing)
+|l|☆Lo scompositore
+|player|p2|

@@ -1,0 +1,474 @@
+|j|☆Ethiopump12
+|j|☆bady43
+|t:|1776969864
+|gametype|singles
+|player|p1|Ethiopump12|2|1423
+|player|p2|bady43|will|1405
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776969864
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Dachsbun|Dachsbun, L92, F|254/254
+|switch|p2a: Tauros|Tauros-Paldea-Combat, L82, M|257/257
+|-ability|p2a: Tauros|Intimidate|boost
+|-unboost|p1a: Dachsbun|atk|1
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Ethiopump12)
+|
+|t:|1776969890
+|switch|p2a: Uxie|Uxie, L83|260/260
+|move|p1a: Dachsbun|Wish|p1a: Dachsbun
+|
+|upkeep
+|turn|2
+|
+|t:|1776969906
+|switch|p1a: Toedscruel|Toedscruel, L87, F|281/281
+|move|p2a: Uxie|Knock Off|p1a: Toedscruel
+|-damage|p1a: Toedscruel|219/281
+|-enditem|p1a: Toedscruel|Leftovers|[from] move: Knock Off|[of] p2a: Uxie
+|
+|-heal|p1a: Toedscruel|281/281|[from] move: Wish|[wisher] Dachsbun
+|upkeep
+|turn|3
+|
+|t:|1776969915
+|move|p2a: Uxie|U-turn|p1a: Toedscruel
+|-supereffective|p1a: Toedscruel
+|-damage|p1a: Toedscruel|179/281
+|
+|t:|1776969934
+|switch|p2a: Bellossom|Bellossom, L84, F|263/263|[from] U-turn
+|move|p1a: Toedscruel|Toxic|p2a: Bellossom
+|-status|p2a: Bellossom|tox
+|
+|-damage|p2a: Bellossom|247/263 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1776969956
+|move|p1a: Toedscruel|Giga Drain|p2a: Bellossom
+|-resisted|p2a: Bellossom
+|-damage|p2a: Bellossom|212/263 tox
+|-heal|p1a: Toedscruel|197/281|[from] drain|[of] p2a: Bellossom
+|move|p2a: Bellossom|Quiver Dance|p2a: Bellossom
+|-boost|p2a: Bellossom|spa|1
+|-boost|p2a: Bellossom|spd|1
+|-boost|p2a: Bellossom|spe|1
+|
+|-heal|p2a: Bellossom|228/263 tox|[from] item: Leftovers
+|-damage|p2a: Bellossom|196/263 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1776969967
+|switch|p1a: Dachsbun|Dachsbun, L92, F|254/254
+|move|p2a: Bellossom|Giga Drain|p1a: Dachsbun
+|-damage|p1a: Dachsbun|143/254
+|-heal|p2a: Bellossom|252/263 tox|[from] drain|[of] p1a: Dachsbun
+|
+|-heal|p1a: Dachsbun|158/254|[from] item: Leftovers
+|-heal|p2a: Bellossom|263/263 tox|[from] item: Leftovers
+|-damage|p2a: Bellossom|215/263 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1776969974
+|move|p1a: Dachsbun|Protect|p1a: Dachsbun
+|-singleturn|p1a: Dachsbun|Protect
+|move|p2a: Bellossom|Sludge Bomb|p1a: Dachsbun
+|-activate|p1a: Dachsbun|move: Protect
+|
+|-heal|p1a: Dachsbun|173/254|[from] item: Leftovers
+|-heal|p2a: Bellossom|231/263 tox|[from] item: Leftovers
+|-damage|p2a: Bellossom|167/263 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1776969985
+|-terastallize|p1a: Dachsbun|Steel
+|move|p1a: Dachsbun|Protect||[still]
+|-fail|p1a: Dachsbun
+|move|p2a: Bellossom|Sludge Bomb|p1a: Dachsbun
+|-immune|p1a: Dachsbun
+|
+|-heal|p1a: Dachsbun|188/254|[from] item: Leftovers
+|-heal|p2a: Bellossom|183/263 tox|[from] item: Leftovers
+|-damage|p2a: Bellossom|103/263 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1776970000
+|move|p1a: Dachsbun|Wish|p1a: Dachsbun
+|move|p2a: Bellossom|Strength Sap|p1a: Dachsbun
+|-unboost|p1a: Dachsbun|atk|1
+|-heal|p2a: Bellossom|263/263 tox
+|
+|-heal|p1a: Dachsbun|203/254|[from] item: Leftovers
+|-damage|p2a: Bellossom|167/263 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1776970008
+|switch|p2a: Uxie|Uxie, L83|260/260
+|move|p1a: Dachsbun|Protect||[still]
+|-fail|p1a: Dachsbun
+|
+|-heal|p1a: Dachsbun|254/254|[from] move: Wish|[wisher] Dachsbun
+|upkeep
+|turn|10
+|
+|t:|1776970021
+|switch|p2a: Bellossom|Bellossom, L84, F|167/263 tox
+|move|p1a: Dachsbun|Play Rough|p2a: Bellossom
+|-damage|p2a: Bellossom|101/263 tox
+|
+|-heal|p2a: Bellossom|117/263 tox|[from] item: Leftovers
+|-damage|p2a: Bellossom|101/263 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1776970037
+|move|p1a: Dachsbun|Play Rough|p2a: Bellossom
+|-damage|p2a: Bellossom|41/263 tox
+|move|p2a: Bellossom|Strength Sap|p1a: Dachsbun
+|-unboost|p1a: Dachsbun|atk|1
+|-heal|p2a: Bellossom|174/263 tox
+|
+|-heal|p2a: Bellossom|190/263 tox|[from] item: Leftovers
+|-damage|p2a: Bellossom|158/263 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1776970054
+|switch|p2a: Ursaring|Ursaring, L84, F|288/288
+|move|p1a: Dachsbun|Wish|p1a: Dachsbun
+|
+|-status|p2a: Ursaring|tox|[from] item: Toxic Orb
+|upkeep
+|turn|13
+|
+|t:|1776970071
+|switch|p1a: Politoed|Politoed, L88, M|302/302
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Politoed
+|move|p2a: Ursaring|Swords Dance|p2a: Ursaring
+|-boost|p2a: Ursaring|atk|2
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Ursaring|270/288 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1776970082
+|move|p2a: Ursaring|Facade|p1a: Politoed
+|-damage|p1a: Politoed|0 fnt
+|faint|p1a: Politoed
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Ursaring|234/288 tox|[from] psn
+|upkeep
+|
+|t:|1776970091
+|switch|p1a: Probopass|Probopass, L91, F|257/257
+|turn|15
+|
+|t:|1776970095
+|move|p2a: Ursaring|Close Combat|p1a: Probopass
+|-supereffective|p1a: Probopass
+|-damage|p1a: Probopass|0 fnt
+|-unboost|p2a: Ursaring|def|1
+|-unboost|p2a: Ursaring|spd|1
+|faint|p1a: Probopass
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Ursaring|180/288 tox|[from] psn
+|upkeep
+|
+|t:|1776970105
+|switch|p1a: Dachsbun|Dachsbun, L92, F, tera:Steel|254/254
+|turn|16
+|
+|t:|1776970109
+|move|p1a: Dachsbun|Protect|p1a: Dachsbun
+|-singleturn|p1a: Dachsbun|Protect
+|move|p2a: Ursaring|Swords Dance|p2a: Ursaring
+|-boost|p2a: Ursaring|atk|2
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Ursaring|108/288 tox|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1776970116
+|move|p1a: Dachsbun|Body Press|p2a: Ursaring
+|-supereffective|p2a: Ursaring
+|-damage|p2a: Ursaring|0 fnt
+|faint|p2a: Ursaring
+|
+|-weather|none
+|upkeep
+|inactive|bady43 has 120 seconds left.
+|
+|t:|1776970156
+|switch|p2a: Enamorus|Enamorus-Therian, L83, F|259/259
+|turn|18
+|inactive|bady43 has 120 seconds left.
+|
+|t:|1776970172
+|move|p1a: Dachsbun|Play Rough|p2a: Enamorus
+|-damage|p2a: Enamorus|168/259
+|move|p2a: Enamorus|Earth Power|p1a: Dachsbun
+|-supereffective|p1a: Dachsbun
+|-damage|p1a: Dachsbun|104/254
+|
+|-heal|p1a: Dachsbun|119/254|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1776970179
+|move|p1a: Dachsbun|Protect|p1a: Dachsbun
+|-singleturn|p1a: Dachsbun|Protect
+|move|p2a: Enamorus|Earth Power|p1a: Dachsbun
+|-activate|p1a: Dachsbun|move: Protect
+|
+|-heal|p1a: Dachsbun|134/254|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1776970190
+|switch|p1a: Toedscruel|Toedscruel, L87, F|197/281
+|move|p2a: Enamorus|Earth Power|p1a: Toedscruel
+|-resisted|p1a: Toedscruel
+|-damage|p1a: Toedscruel|167/281
+|
+|upkeep
+|turn|21
+|inactive|bady43 has 120 seconds left.
+|
+|t:|1776970207
+|switch|p2a: Bellossom|Bellossom, L84, F|158/263 tox
+|move|p1a: Toedscruel|Rapid Spin|p2a: Bellossom
+|-damage|p2a: Bellossom|129/263 tox
+|-boost|p1a: Toedscruel|spe|1
+|
+|-heal|p2a: Bellossom|145/263 tox|[from] item: Leftovers
+|-damage|p2a: Bellossom|129/263 tox|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1776970219
+|move|p1a: Toedscruel|Earth Power|p2a: Bellossom
+|-resisted|p2a: Bellossom
+|-damage|p2a: Bellossom|89/263 tox
+|move|p2a: Bellossom|Quiver Dance|p2a: Bellossom
+|-boost|p2a: Bellossom|spa|1
+|-boost|p2a: Bellossom|spd|1
+|-boost|p2a: Bellossom|spe|1
+|
+|-heal|p2a: Bellossom|105/263 tox|[from] item: Leftovers
+|-damage|p2a: Bellossom|73/263 tox|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1776970240
+|switch|p1a: Chi-Yu|Chi-Yu, L77|211/211
+|-ability|p1a: Chi-Yu|Beads of Ruin
+|move|p2a: Bellossom|Giga Drain|p1a: Chi-Yu
+|-resisted|p1a: Chi-Yu
+|-damage|p1a: Chi-Yu|163/211
+|-heal|p2a: Bellossom|97/263 tox|[from] drain|[of] p1a: Chi-Yu
+|
+|-heal|p2a: Bellossom|113/263 tox|[from] item: Leftovers
+|-damage|p2a: Bellossom|65/263 tox|[from] psn
+|upkeep
+|turn|24
+|
+|t:|1776970251
+|move|p1a: Chi-Yu|Fire Blast|p2a: Bellossom
+|-supereffective|p2a: Bellossom
+|-damage|p2a: Bellossom|0 fnt
+|faint|p2a: Bellossom
+|
+|upkeep
+|
+|t:|1776970264
+|switch|p2a: Enamorus|Enamorus-Therian, L83, F|168/259
+|turn|25
+|
+|t:|1776970281
+|switch|p1a: Toedscruel|Toedscruel, L87, F|167/281
+|move|p2a: Enamorus|Superpower|p1a: Toedscruel
+|-damage|p1a: Toedscruel|55/281
+|-unboost|p2a: Enamorus|atk|1
+|-unboost|p2a: Enamorus|def|1
+|
+|upkeep
+|turn|26
+|
+|t:|1776970291
+|move|p1a: Toedscruel|Giga Drain|p2a: Enamorus
+|-resisted|p2a: Enamorus
+|-damage|p2a: Enamorus|144/259
+|-heal|p1a: Toedscruel|67/281|[from] drain|[of] p2a: Enamorus
+|move|p2a: Enamorus|Moonblast|p1a: Toedscruel
+|-damage|p1a: Toedscruel|0 fnt
+|faint|p1a: Toedscruel
+|
+|upkeep
+|
+|t:|1776970297
+|switch|p1a: Zangoose|Zangoose, L85, M|263/263
+|turn|27
+|
+|t:|1776970316
+|switch|p2a: Uxie|Uxie, L83|260/260
+|move|p1a: Zangoose|Quick Attack|p2a: Uxie
+|-damage|p2a: Uxie|220/260
+|
+|-heal|p2a: Uxie|236/260|[from] item: Leftovers
+|-status|p1a: Zangoose|tox|[from] item: Toxic Orb
+|upkeep
+|turn|28
+|
+|t:|1776970325
+|move|p2a: Uxie|Encore|p1a: Zangoose
+|-start|p1a: Zangoose|Encore
+|move|p1a: Zangoose|Quick Attack|p2a: Uxie
+|-damage|p2a: Uxie|182/260
+|
+|-heal|p2a: Uxie|198/260|[from] item: Leftovers
+|-damage|p1a: Zangoose|247/263 tox|[from] psn
+|upkeep
+|turn|29
+|
+|t:|1776970330
+|switch|p1a: Chi-Yu|Chi-Yu, L77|163/211
+|-ability|p1a: Chi-Yu|Beads of Ruin
+|move|p2a: Uxie|Knock Off|p1a: Chi-Yu
+|-resisted|p1a: Chi-Yu
+|-damage|p1a: Chi-Yu|130/211
+|-enditem|p1a: Chi-Yu|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Uxie
+|
+|-heal|p2a: Uxie|214/260|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1776970342
+|move|p2a: Uxie|U-turn|p1a: Chi-Yu
+|-damage|p1a: Chi-Yu|84/211
+|
+|t:|1776970352
+|switch|p2a: Enamorus|Enamorus-Therian, L83, F|144/259|[from] U-turn
+|move|p1a: Chi-Yu|Dark Pulse|p2a: Enamorus
+|-resisted|p2a: Enamorus
+|-damage|p2a: Enamorus|106/259
+|
+|upkeep
+|turn|31
+|
+|t:|1776970371
+|move|p1a: Chi-Yu|Fire Blast|p2a: Enamorus
+|-damage|p2a: Enamorus|7/259
+|move|p2a: Enamorus|Superpower|p1a: Chi-Yu
+|-supereffective|p1a: Chi-Yu
+|-damage|p1a: Chi-Yu|0 fnt
+|-unboost|p2a: Enamorus|atk|1
+|-unboost|p2a: Enamorus|def|1
+|faint|p1a: Chi-Yu
+|
+|upkeep
+|
+|t:|1776970384
+|switch|p1a: Dachsbun|Dachsbun, L92, F, tera:Steel|134/254
+|turn|32
+|
+|t:|1776970395
+|move|p1a: Dachsbun|Play Rough|p2a: Enamorus
+|-damage|p2a: Enamorus|0 fnt
+|faint|p2a: Enamorus
+|
+|-heal|p1a: Dachsbun|149/254|[from] item: Leftovers
+|upkeep
+|
+|t:|1776970405
+|switch|p2a: Staraptor|Staraptor, L79, M|263/263
+|turn|33
+|
+|t:|1776970425
+|move|p2a: Staraptor|Close Combat|p1a: Dachsbun
+|-supereffective|p1a: Dachsbun
+|-damage|p1a: Dachsbun|21/254
+|-unboost|p2a: Staraptor|def|1
+|-unboost|p2a: Staraptor|spd|1
+|move|p1a: Dachsbun|Body Press|p2a: Staraptor
+|-damage|p2a: Staraptor|123/263
+|
+|-heal|p1a: Dachsbun|36/254|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1776970432
+|move|p1a: Dachsbun|Protect|p1a: Dachsbun
+|-singleturn|p1a: Dachsbun|Protect
+|move|p2a: Staraptor|Close Combat|p1a: Dachsbun
+|-activate|p1a: Dachsbun|move: Protect
+|
+|-heal|p1a: Dachsbun|51/254|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1776970442
+|move|p2a: Staraptor|Close Combat|p1a: Dachsbun
+|-supereffective|p1a: Dachsbun
+|-damage|p1a: Dachsbun|0 fnt
+|-unboost|p2a: Staraptor|def|1
+|-unboost|p2a: Staraptor|spd|1
+|faint|p1a: Dachsbun
+|
+|upkeep
+|
+|t:|1776970443
+|switch|p1a: Zangoose|Zangoose, L85, M|247/263 tox
+|turn|36
+|
+|t:|1776970456
+|switch|p2a: Uxie|Uxie, L83|214/260
+|move|p1a: Zangoose|Facade|p2a: Uxie
+|-damage|p2a: Uxie|9/260
+|
+|-heal|p2a: Uxie|25/260|[from] item: Leftovers
+|-damage|p1a: Zangoose|231/263 tox|[from] psn
+|upkeep
+|turn|37
+|
+|t:|1776970463
+|move|p1a: Zangoose|Quick Attack|p2a: Uxie
+|-damage|p2a: Uxie|0 fnt
+|faint|p2a: Uxie
+|
+|-damage|p1a: Zangoose|199/263 tox|[from] psn
+|upkeep
+|
+|t:|1776970473
+|switch|p2a: Staraptor|Staraptor, L79, M|123/263
+|turn|38
+|
+|t:|1776970476
+|move|p2a: Staraptor|Close Combat|p1a: Zangoose
+|-supereffective|p1a: Zangoose
+|-damage|p1a: Zangoose|0 fnt
+|-unboost|p2a: Staraptor|def|1
+|-unboost|p2a: Staraptor|spd|1
+|faint|p1a: Zangoose
+|
+|win|bady43
+|raw|Ethiopump12's rating: 1423 &rarr; <strong>1402</strong><br />(-21 for losing)
+|raw|bady43's rating: 1405 &rarr; <strong>1426</strong><br />(+21 for winning)

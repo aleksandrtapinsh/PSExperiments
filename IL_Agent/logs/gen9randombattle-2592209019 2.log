@@ -1,0 +1,318 @@
+|j|☆Rndomni
+|j|☆Aquo37
+|t:|1776970515
+|gametype|singles
+|player|p1|Rndomni|lucas|
+|player|p2|Aquo37|unknown|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776970515
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Lilligant|Lilligant, L86, F|261/261
+|switch|p2a: Lumineon|Lumineon, L93, M|279/279
+|turn|1
+|
+|t:|1776970534
+|move|p2a: Lumineon|Ice Beam|p1a: Lilligant
+|-supereffective|p1a: Lilligant
+|-damage|p1a: Lilligant|100/261
+|-damage|p2a: Lumineon|252/279|[from] item: Life Orb
+|move|p1a: Lilligant|Giga Drain|p2a: Lumineon
+|-supereffective|p2a: Lumineon
+|-damage|p2a: Lumineon|18/279
+|-heal|p1a: Lilligant|217/261|[from] drain|[of] p2a: Lumineon
+|-damage|p1a: Lilligant|191/261|[from] item: Life Orb
+|
+|upkeep
+|turn|2
+|
+|t:|1776970549
+|move|p2a: Lumineon|Ice Beam|p1a: Lilligant
+|-supereffective|p1a: Lilligant
+|-damage|p1a: Lilligant|30/261
+|-damage|p2a: Lumineon|0 fnt|[from] item: Life Orb
+|faint|p2a: Lumineon
+|move|p1a: Lilligant|Giga Drain|p2: Lumineon|[notarget]
+|-fail|p1a: Lilligant
+|
+|upkeep
+|
+|t:|1776970558
+|switch|p2a: Tentacruel|Tentacruel, L84, M|272/272
+|turn|3
+|
+|t:|1776970571
+|switch|p1a: Klefki|Klefki, L84, M|233/233
+|move|p2a: Tentacruel|Rapid Spin|p1a: Klefki
+|-resisted|p1a: Klefki
+|-damage|p1a: Klefki|221/233
+|-boost|p2a: Tentacruel|spe|1
+|
+|-heal|p1a: Klefki|233/233|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776970580
+|move|p1a: Klefki|Thunder Wave|p2a: Tentacruel
+|-status|p2a: Tentacruel|par
+|move|p2a: Tentacruel|Rapid Spin|p1a: Klefki
+|-resisted|p1a: Klefki
+|-damage|p1a: Klefki|220/233
+|-boost|p2a: Tentacruel|spe|1
+|
+|-heal|p1a: Klefki|233/233|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776970593
+|move|p1a: Klefki|Magnet Rise|p1a: Klefki
+|-start|p1a: Klefki|Magnet Rise
+|move|p2a: Tentacruel|Rapid Spin|p1a: Klefki
+|-resisted|p1a: Klefki
+|-damage|p1a: Klefki|221/233
+|-boost|p2a: Tentacruel|spe|1
+|
+|-heal|p1a: Klefki|233/233|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776970601
+|move|p1a: Klefki|Spikes|p2a: Tentacruel
+|-sidestart|p2: Aquo37|Spikes
+|move|p2a: Tentacruel|Rapid Spin|p1a: Klefki
+|-resisted|p1a: Klefki
+|-damage|p1a: Klefki|220/233
+|-boost|p2a: Tentacruel|spe|1
+|-sideend|p2: Aquo37|Spikes|[from] move: Rapid Spin|[of] p2a: Tentacruel
+|
+|-heal|p1a: Klefki|233/233|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776970610
+|move|p1a: Klefki|Spikes|p2a: Tentacruel
+|-sidestart|p2: Aquo37|Spikes
+|move|p2a: Tentacruel|Surf|p1a: Klefki
+|-crit|p1a: Klefki
+|-damage|p1a: Klefki|101/233
+|
+|-heal|p1a: Klefki|115/233|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776970617
+|move|p2a: Tentacruel|Surf|p1a: Klefki
+|-damage|p1a: Klefki|36/233
+|move|p1a: Klefki|Play Rough|p2a: Tentacruel
+|-resisted|p2a: Tentacruel
+|-damage|p2a: Tentacruel|218/272 par
+|
+|-heal|p1a: Klefki|50/233|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776970632
+|switch|p1a: Luvdisc|Luvdisc, F|247/247
+|move|p2a: Tentacruel|Surf|p1a: Luvdisc
+|-resisted|p1a: Luvdisc
+|-damage|p1a: Luvdisc|202/247
+|
+|upkeep
+|turn|10
+|
+|t:|1776970642
+|cant|p2a: Tentacruel|par
+|move|p1a: Luvdisc|Endeavor|p2a: Tentacruel
+|-damage|p2a: Tentacruel|202/272 par
+|
+|upkeep
+|turn|11
+|
+|t:|1776970646
+|move|p2a: Tentacruel|Sludge Bomb|p1a: Luvdisc
+|-damage|p1a: Luvdisc|111/247
+|move|p1a: Luvdisc|Endeavor|p2a: Tentacruel
+|-damage|p2a: Tentacruel|111/272 par
+|
+|upkeep
+|turn|12
+|
+|t:|1776970658
+|move|p2a: Tentacruel|Sludge Bomb|p1a: Luvdisc
+|-damage|p1a: Luvdisc|18/247
+|move|p1a: Luvdisc|Substitute|p1a: Luvdisc
+|-fail|p1a: Luvdisc|move: Substitute|[weak]
+|
+|upkeep
+|turn|13
+|
+|t:|1776970668
+|switch|p1a: Slither Wing|Slither Wing, L81|270/270
+|move|p2a: Tentacruel|Rapid Spin|p1a: Slither Wing
+|-damage|p1a: Slither Wing|241/270
+|-boost|p2a: Tentacruel|spe|1
+|-sideend|p2: Aquo37|Spikes|[from] move: Rapid Spin|[of] p2a: Tentacruel
+|
+|upkeep
+|turn|14
+|
+|t:|1776970680
+|move|p1a: Slither Wing|First Impression|p2a: Tentacruel
+|-resisted|p2a: Tentacruel
+|-damage|p2a: Tentacruel|17/272 par
+|-damage|p1a: Slither Wing|214/270|[from] item: Life Orb
+|move|p2a: Tentacruel|Flip Turn|p1a: Slither Wing
+|-damage|p1a: Slither Wing|154/270
+|
+|t:|1776970691
+|switch|p2a: Deoxys|Deoxys-Attack, L72|191/191|[from] Flip Turn
+|-ability|p2a: Deoxys|Pressure
+|
+|upkeep
+|turn|15
+|
+|t:|1776970700
+|move|p2a: Deoxys|Psycho Boost|p1a: Slither Wing
+|-supereffective|p1a: Slither Wing
+|-damage|p1a: Slither Wing|0 fnt
+|-unboost|p2a: Deoxys|spa|2
+|faint|p1a: Slither Wing
+|-end|p1a: Slither Wing|Protosynthesis|[silent]
+|-damage|p2a: Deoxys|172/191|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776970711
+|switch|p1a: Klefki|Klefki, L84, M|50/233
+|turn|16
+|
+|t:|1776970721
+|move|p2a: Deoxys|Knock Off|p1a: Klefki
+|-resisted|p1a: Klefki
+|-damage|p1a: Klefki|0 fnt
+|-enditem|p1a: Klefki|Leftovers|[from] move: Knock Off|[of] p2a: Deoxys
+|faint|p1a: Klefki
+|-damage|p2a: Deoxys|153/191|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776970728
+|switch|p1a: Electivire|Electivire, L84, M|263/263
+|turn|17
+|
+|t:|1776970737
+|switch|p2a: Tentacruel|Tentacruel, L84, M|17/272 par
+|move|p1a: Electivire|Supercell Slam|p2a: Tentacruel
+|-supereffective|p2a: Tentacruel
+|-damage|p2a: Tentacruel|0 fnt
+|faint|p2a: Tentacruel
+|-damage|p1a: Electivire|237/263|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776970739
+|switch|p2a: Deoxys|Deoxys-Attack, L72|153/191
+|-ability|p2a: Deoxys|Pressure
+|turn|18
+|
+|t:|1776970753
+|move|p2a: Deoxys|Knock Off|p1a: Electivire
+|-damage|p1a: Electivire|101/263
+|-enditem|p1a: Electivire|Life Orb|[from] move: Knock Off|[of] p2a: Deoxys
+|-damage|p2a: Deoxys|134/191|[from] item: Life Orb
+|move|p1a: Electivire|Supercell Slam|p2a: Deoxys
+|-damage|p2a: Deoxys|0 fnt
+|faint|p2a: Deoxys
+|
+|upkeep
+|
+|t:|1776970763
+|switch|p2a: Tsareena|Tsareena, L87, F|267/267
+|turn|19
+|
+|t:|1776970779
+|move|p1a: Electivire|Knock Off|p2a: Tsareena
+|-damage|p2a: Tsareena|199/267
+|-enditem|p2a: Tsareena|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Electivire
+|move|p2a: Tsareena|Power Whip|p1a: Electivire
+|-damage|p1a: Electivire|0 fnt
+|faint|p1a: Electivire
+|
+|upkeep
+|
+|t:|1776970786
+|switch|p1a: Lilligant|Lilligant, L86, F|30/261
+|turn|20
+|
+|t:|1776970792
+|move|p1a: Lilligant|Giga Drain|p2a: Tsareena
+|-resisted|p2a: Tsareena
+|-damage|p2a: Tsareena|147/267
+|-heal|p1a: Lilligant|56/261|[from] drain|[of] p2a: Tsareena
+|-damage|p1a: Lilligant|30/261|[from] item: Life Orb
+|move|p2a: Tsareena|Knock Off|p1a: Lilligant
+|-damage|p1a: Lilligant|0 fnt
+|-enditem|p1a: Lilligant|Life Orb|[from] move: Knock Off|[of] p2a: Tsareena
+|faint|p1a: Lilligant
+|
+|upkeep
+|
+|t:|1776970802
+|switch|p1a: Luvdisc|Luvdisc, F|18/247
+|turn|21
+|
+|t:|1776970809
+|move|p1a: Luvdisc|Flip Turn|p2a: Tsareena
+|-resisted|p2a: Tsareena
+|-damage|p2a: Tsareena|129/267
+|
+|t:|1776970812
+|switch|p1a: Inteleon|Inteleon, L81, F|246/246|[from] Flip Turn
+|move|p2a: Tsareena|U-turn|p1a: Inteleon
+|-damage|p1a: Inteleon|166/246
+|
+|t:|1776970817
+|switch|p2a: Lurantis|Lurantis, L87, M|264/264|[from] U-turn
+|
+|upkeep
+|turn|22
+|
+|t:|1776970827
+|move|p1a: Inteleon|Ice Beam|p2a: Lurantis
+|-supereffective|p2a: Lurantis
+|-damage|p2a: Lurantis|52/264
+|move|p2a: Lurantis|Leaf Storm|p1a: Inteleon
+|-supereffective|p1a: Inteleon
+|-damage|p1a: Inteleon|0 fnt
+|-boost|p2a: Lurantis|spa|2
+|faint|p1a: Inteleon
+|
+|-heal|p2a: Lurantis|68/264|[from] item: Leftovers
+|upkeep
+|
+|t:|1776970836
+|switch|p1a: Luvdisc|Luvdisc, F|18/247
+|turn|23
+|
+|t:|1776970840
+|move|p1a: Luvdisc|Surf|p2a: Lurantis
+|-resisted|p2a: Lurantis
+|-damage|p2a: Lurantis|33/264
+|move|p2a: Lurantis|Synthesis|p2a: Lurantis
+|-heal|p2a: Lurantis|165/264
+|
+|-heal|p2a: Lurantis|181/264|[from] item: Leftovers
+|upkeep
+|turn|24
+|-message|Rndomni forfeited.
+|
+|win|Aquo37
+|l|☆Rndomni
+|player|p1|

@@ -1,0 +1,180 @@
+|j|☆molfus
+|j|☆maito1102
+|t:|1772743711
+|gametype|singles
+|player|p1|molfus|schoolkid-gen4|1764
+|player|p2|maito1102|1|1734
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772743711
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Garchomp|Garchomp, L74, M|282/282
+|switch|p2a: Sableye|Sableye, L88, M|231/231
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by molfus)
+|
+|t:|1772743718
+|move|p2a: Sableye|Will-O-Wisp|p1a: Garchomp|[miss]
+|-miss|p2a: Sableye|p1a: Garchomp
+|move|p1a: Garchomp|Spikes|p2a: Sableye
+|-sidestart|p2: maito1102|Spikes
+|
+|upkeep
+|turn|2
+|
+|t:|1772743726
+|switch|p1a: Hatterene|Hatterene, L85, F|236/236
+|move|p2a: Sableye|Will-O-Wisp|p1a: Hatterene
+|move|p1a: Hatterene|Will-O-Wisp|p2a: Sableye|[from] ability: Magic Bounce
+|-status|p2a: Sableye|brn
+|
+|-damage|p2a: Sableye|217/231 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1772743737
+|move|p2a: Sableye|Knock Off|p1a: Hatterene
+|-damage|p1a: Hatterene|191/236
+|-enditem|p1a: Hatterene|Assault Vest|[from] move: Knock Off|[of] p2a: Sableye
+|move|p1a: Hatterene|Nuzzle|p2a: Sableye
+|-damage|p2a: Sableye|203/231 brn
+|
+|-heal|p2a: Sableye|217/231 brn|[from] item: Leftovers
+|-damage|p2a: Sableye|203/231 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1772743749
+|switch|p2a: Solgaleo|Solgaleo, L74|325/325
+|-damage|p2a: Solgaleo|285/325|[from] Spikes
+|move|p1a: Hatterene|Nuzzle|p2a: Solgaleo
+|-damage|p2a: Solgaleo|270/325
+|-status|p2a: Solgaleo|par
+|-damage|p1a: Hatterene|152/236|[from] item: Rocky Helmet|[of] p2a: Solgaleo
+|
+|upkeep
+|turn|5
+|
+|t:|1772743767
+|switch|p1a: Garchomp|Garchomp, L74, M|282/282
+|move|p2a: Solgaleo|Sunsteel Strike|p1a: Garchomp
+|-damage|p1a: Garchomp|162/282
+|-damage|p2a: Solgaleo|230/325 par|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-damage|p2a: Solgaleo|176/325 par|[from] item: Rocky Helmet|[of] p1a: Garchomp
+|
+|upkeep
+|turn|6
+|
+|t:|1772743778
+|switch|p2a: Masquerain|Masquerain, L87, F|264/264
+|-ability|p2a: Masquerain|Intimidate|boost
+|-unboost|p1a: Garchomp|atk|1
+|move|p1a: Garchomp|Stealth Rock|p2a: Masquerain
+|-sidestart|p2: maito1102|move: Stealth Rock
+|
+|upkeep
+|turn|7
+|
+|t:|1772743790
+|switch|p1a: Articuno|Articuno-Galar, L84|288/288
+|move|p2a: Masquerain|Hurricane|p1a: Articuno|[miss]
+|-miss|p2a: Masquerain|p1a: Articuno
+|
+|upkeep
+|turn|8
+|
+|t:|1772743799
+|move|p1a: Articuno|Hurricane|p2a: Masquerain|[miss]
+|-miss|p1a: Articuno|p2a: Masquerain
+|move|p2a: Masquerain|Quiver Dance|p2a: Masquerain
+|-boost|p2a: Masquerain|spa|1
+|-boost|p2a: Masquerain|spd|1
+|-boost|p2a: Masquerain|spe|1
+|
+|upkeep
+|turn|9
+|
+|t:|1772743821
+|-terastallize|p1a: Articuno|Steel
+|move|p2a: Masquerain|Bug Buzz|p1a: Articuno
+|-resisted|p1a: Articuno
+|-damage|p1a: Articuno|215/288
+|move|p1a: Articuno|Calm Mind|p1a: Articuno
+|-boost|p1a: Articuno|spa|1
+|-boost|p1a: Articuno|spd|1
+|
+|upkeep
+|turn|10
+|
+|t:|1772743838
+|move|p2a: Masquerain|Hydro Pump|p1a: Articuno|[miss]
+|-miss|p2a: Masquerain|p1a: Articuno
+|move|p1a: Articuno|Hurricane|p2a: Masquerain
+|-supereffective|p2a: Masquerain
+|-crit|p2a: Masquerain
+|-damage|p2a: Masquerain|0 fnt
+|faint|p2a: Masquerain
+|
+|upkeep
+|
+|t:|1772743853
+|switch|p2a: Iron Valiant|Iron Valiant, L78|244/244
+|-damage|p2a: Iron Valiant|214/244|[from] Spikes
+|-damage|p2a: Iron Valiant|199/244|[from] Stealth Rock
+|turn|11
+|
+|t:|1772743865
+|switch|p1a: Hatterene|Hatterene, L85, F|152/236
+|move|p2a: Iron Valiant|Close Combat|p1a: Hatterene
+|-resisted|p1a: Hatterene
+|-damage|p1a: Hatterene|110/236
+|-unboost|p2a: Iron Valiant|def|1
+|-unboost|p2a: Iron Valiant|spd|1
+|-damage|p2a: Iron Valiant|175/244|[from] item: Life Orb
+|
+|upkeep
+|turn|12
+|
+|t:|1772743877
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|switch|p2a: Solgaleo|Solgaleo, L74|176/325 par
+|-damage|p2a: Solgaleo|136/325 par|[from] Spikes
+|-damage|p2a: Solgaleo|116/325 par|[from] Stealth Rock
+|move|p1a: Hatterene|Draining Kiss|p2a: Solgaleo
+|-resisted|p2a: Solgaleo
+|-damage|p2a: Solgaleo|78/325 par
+|-heal|p1a: Hatterene|139/236|[from] drain|[of] p2a: Solgaleo
+|-damage|p1a: Hatterene|100/236|[from] item: Rocky Helmet|[of] p2a: Solgaleo
+|
+|upkeep
+|turn|13
+|
+|t:|1772743889
+|move|p1a: Hatterene|Mystical Fire|p2a: Solgaleo
+|-supereffective|p2a: Solgaleo
+|-damage|p2a: Solgaleo|0 fnt
+|faint|p2a: Solgaleo
+|
+|upkeep
+|l|☆maito1102
+|inactive|maito1102 disconnected and has a minute to reconnect!
+|player|p2|
+|inactive|maito1102 has 30 seconds to reconnect!
+|inactive|maito1102 has 20 seconds to reconnect!
+|inactive|maito1102 has 15 seconds to reconnect!
+|inactive|maito1102 has 10 seconds to reconnect!
+|c|☆molfus|gg
+|inactive|maito1102 has 5 seconds to reconnect!
+|-message|maito1102 lost due to inactivity.
+|
+|win|molfus
+|raw|molfus's rating: 1764 &rarr; <strong>1782</strong><br />(+18 for winning)
+|raw|maito1102's rating: 1734 &rarr; <strong>1716</strong><br />(-18 for losing)

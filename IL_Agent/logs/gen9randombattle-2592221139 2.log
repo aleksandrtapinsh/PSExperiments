@@ -1,0 +1,360 @@
+|j|☆theworst1!
+|j|☆IdkButGGEitherWay
+|t:|1776971350
+|gametype|singles
+|player|p1|theworst1!|170|1738
+|player|p2|IdkButGGEitherWay|volkner|1764
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776971350
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Dodrio|Dodrio, L85, F|241/241
+|switch|p2a: Iron Treads|Iron Treads, L77|265/265
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by IdkButGGEitherWay)
+|
+|t:|1776971368
+|move|p1a: Dodrio|Swords Dance|p1a: Dodrio
+|-boost|p1a: Dodrio|atk|2
+|move|p2a: Iron Treads|Rapid Spin|p1a: Dodrio
+|-damage|p1a: Dodrio|205/241
+|-boost|p2a: Iron Treads|spe|1
+|
+|upkeep
+|turn|2
+|
+|t:|1776971374
+|move|p2a: Iron Treads|Volt Switch|p1a: Dodrio
+|-supereffective|p1a: Dodrio
+|-damage|p1a: Dodrio|119/241
+|
+|t:|1776971381
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|switch|p2a: Oricorio|Oricorio-Pom-Pom, L82, M|257/257|[from] Volt Switch
+|move|p1a: Dodrio|Drill Run|p2a: Oricorio
+|-immune|p2a: Oricorio
+|
+|upkeep
+|turn|3
+|
+|t:|1776971390
+|switch|p2a: Duraludon|Duraludon, L82, F|249/249
+|move|p1a: Dodrio|Double-Edge|p2a: Duraludon
+|-resisted|p2a: Duraludon
+|-damage|p2a: Duraludon|174/249
+|-damage|p1a: Dodrio|94/241|[from] Recoil
+|
+|upkeep
+|turn|4
+|
+|t:|1776971395
+|-terastallize|p2a: Duraludon|Fighting
+|move|p1a: Dodrio|Drill Run|p2a: Duraludon
+|-damage|p2a: Duraludon|108/249
+|move|p2a: Duraludon|Body Press|p1a: Dodrio
+|-damage|p1a: Dodrio|0 fnt
+|faint|p1a: Dodrio
+|
+|upkeep
+|
+|t:|1776971408
+|switch|p1a: Hitmontop|Hitmontop, L88, M|231/231
+|turn|5
+|
+|t:|1776971430
+|move|p2a: Duraludon|Body Press|p1a: Hitmontop
+|-damage|p1a: Hitmontop|152/231
+|move|p1a: Hitmontop|Bulk Up|p1a: Hitmontop
+|-boost|p1a: Hitmontop|atk|1
+|-boost|p1a: Hitmontop|def|1
+|
+|-heal|p1a: Hitmontop|166/231|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776971444
+|move|p1a: Hitmontop|Rapid Spin|p2a: Duraludon
+|-damage|p2a: Duraludon|64/249
+|-boost|p1a: Hitmontop|spe|1
+|move|p2a: Duraludon|Dragon Tail|p1a: Hitmontop
+|-damage|p1a: Hitmontop|129/231
+|drag|p1a: Volbeat|Volbeat, L90, M|263/263
+|
+|upkeep
+|turn|7
+|inactive|IdkButGGEitherWay has 120 seconds left.
+|inactive|IdkButGGEitherWay has 90 seconds left.
+|
+|t:|1776971520
+|move|p1a: Volbeat|U-turn|p2a: Duraludon
+|-resisted|p2a: Duraludon
+|-damage|p2a: Duraludon|44/249
+|
+|t:|1776971546
+|switch|p1a: Hitmontop|Hitmontop, L88, M|129/231|[from] U-turn
+|move|p2a: Duraludon|Draco Meteor|p1a: Hitmontop
+|-damage|p1a: Hitmontop|6/231
+|-unboost|p2a: Duraludon|spa|2
+|
+|-heal|p1a: Hitmontop|20/231|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776971555
+|move|p2a: Duraludon|Body Press|p1a: Hitmontop
+|-damage|p1a: Hitmontop|0 fnt
+|faint|p1a: Hitmontop
+|
+|upkeep
+|
+|t:|1776971560
+|switch|p1a: Tatsugiri|Tatsugiri, L87, M|260/260
+|turn|9
+|
+|t:|1776971565
+|move|p1a: Tatsugiri|Hydro Pump|p2a: Duraludon
+|-damage|p2a: Duraludon|0 fnt
+|faint|p2a: Duraludon
+|
+|upkeep
+|
+|t:|1776971577
+|switch|p2a: Hydreigon|Hydreigon, L79, M|275/275
+|turn|10
+|
+|t:|1776971588
+|switch|p1a: Slowbro|Slowbro, L85, F|300/300
+|move|p2a: Hydreigon|Draco Meteor|p1a: Slowbro
+|-damage|p1a: Slowbro|59/300
+|-unboost|p2a: Hydreigon|spa|2
+|
+|-heal|p1a: Slowbro|77/300|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776971596
+|switch|p1a: Volbeat|Volbeat, L90, M|263/263
+|move|p2a: Hydreigon|Draco Meteor|p1a: Volbeat
+|-damage|p1a: Volbeat|158/263
+|-unboost|p2a: Hydreigon|spa|2
+|
+|upkeep
+|turn|12
+|inactive|IdkButGGEitherWay has 120 seconds left.
+|
+|t:|1776971623
+|switch|p2a: Oricorio|Oricorio-Pom-Pom, L82, M|257/257
+|move|p1a: Volbeat|Roost|p1a: Volbeat
+|-heal|p1a: Volbeat|263/263
+|-singleturn|p1a: Volbeat|move: Roost
+|
+|upkeep
+|turn|13
+|
+|t:|1776971626
+|move|p1a: Volbeat|U-turn|p2a: Oricorio
+|-resisted|p2a: Oricorio
+|-damage|p2a: Oricorio|215/257
+|
+|t:|1776971636
+|switch|p1a: Pawmot|Pawmot, L80, M|243/243|[from] U-turn
+|move|p2a: Oricorio|Hurricane|p1a: Pawmot
+|-damage|p1a: Pawmot|84/243
+|
+|upkeep
+|turn|14
+|
+|t:|1776971646
+|move|p1a: Pawmot|Double Shock|p2a: Oricorio
+|-damage|p2a: Oricorio|8/257
+|-start|p1a: Pawmot|typechange|???/Fighting|[from] move: Double Shock
+|-damage|p1a: Pawmot|60/243|[from] item: Life Orb
+|move|p2a: Oricorio|Quiver Dance|p2a: Oricorio
+|-boost|p2a: Oricorio|spa|1
+|-boost|p2a: Oricorio|spd|1
+|-boost|p2a: Oricorio|spe|1
+|
+|upkeep
+|turn|15
+|
+|t:|1776971651
+|move|p2a: Oricorio|Revelation Dance|p1a: Pawmot
+|-heal|p1a: Pawmot|120/243|[from] ability: Volt Absorb|[of] p2a: Oricorio
+|move|p1a: Pawmot|Knock Off|p2a: Oricorio
+|-damage|p2a: Oricorio|0 fnt
+|-enditem|p2a: Oricorio|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Pawmot
+|faint|p2a: Oricorio
+|-damage|p1a: Pawmot|96/243|[from] item: Life Orb
+|
+|upkeep
+|c|☆theworst1!|...
+|inactive|IdkButGGEitherWay has 120 seconds left.
+|c|☆IdkButGGEitherWay|oops
+|
+|t:|1776971690
+|switch|p2a: Iron Treads|Iron Treads, L77|265/265
+|turn|16
+|c|☆IdkButGGEitherWay|that's what I get for multitasking
+|
+|t:|1776971710
+|move|p1a: Pawmot|Close Combat|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|-unboost|p1a: Pawmot|def|1
+|-unboost|p1a: Pawmot|spd|1
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|-damage|p1a: Pawmot|72/243|[from] item: Life Orb
+|
+|upkeep
+|inactive|IdkButGGEitherWay has 120 seconds left.
+|
+|t:|1776971716
+|switch|p2a: Victreebel|Victreebel, L90, M|290/290
+|turn|17
+|c|☆theworst1!|it's alright, I'm watching a movie while i'm doing this
+|
+|t:|1776971737
+|switch|p1a: Volbeat|Volbeat, L90, M|263/263
+|move|p2a: Victreebel|Strength Sap|p1a: Volbeat
+|-unboost|p1a: Volbeat|atk|1
+|
+|upkeep
+|turn|18
+|c|☆IdkButGGEitherWay|haha nice
+|
+|t:|1776971748
+|move|p1a: Volbeat|Encore|p2a: Victreebel
+|-start|p2a: Victreebel|Encore
+|move|p2a: Victreebel|Strength Sap|p1a: Volbeat
+|-unboost|p1a: Volbeat|atk|1
+|
+|upkeep
+|turn|19
+|
+|t:|1776971752
+|switch|p2a: Venomoth|Venomoth, L84, M|255/255
+|move|p1a: Volbeat|Thunder Wave|p2a: Venomoth
+|-status|p2a: Venomoth|par
+|
+|upkeep
+|turn|20
+|
+|t:|1776971756
+|move|p1a: Volbeat|U-turn|p2a: Venomoth
+|-resisted|p2a: Venomoth
+|-damage|p2a: Venomoth|234/255 par
+|
+|t:|1776971761
+|switch|p1a: Slowbro|Slowbro, L85, F|177/300|[from] U-turn
+|move|p2a: Venomoth|Sleep Powder|p1a: Slowbro
+|-status|p1a: Slowbro|slp|[from] move: Sleep Powder
+|
+|-heal|p1a: Slowbro|195/300 slp|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1776971773
+|switch|p1a: Pawmot|Pawmot, L80, M|72/243
+|cant|p2a: Venomoth|par
+|
+|upkeep
+|turn|22
+|
+|t:|1776971779
+|move|p1a: Pawmot|Double Shock|p2a: Venomoth
+|-crit|p2a: Venomoth
+|-damage|p2a: Venomoth|0 fnt
+|-start|p1a: Pawmot|typechange|???/Fighting|[from] move: Double Shock
+|faint|p2a: Venomoth
+|-damage|p1a: Pawmot|48/243|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776971785
+|switch|p2a: Victreebel|Victreebel, L90, M|290/290
+|turn|23
+|
+|t:|1776971790
+|switch|p1a: Volbeat|Volbeat, L90, M|263/263
+|move|p2a: Victreebel|Sludge Wave|p1a: Volbeat
+|-damage|p1a: Volbeat|111/263
+|-damage|p2a: Victreebel|261/290|[from] item: Life Orb
+|
+|upkeep
+|turn|24
+|
+|t:|1776971796
+|move|p1a: Volbeat|Thunder Wave|p2a: Victreebel
+|-status|p2a: Victreebel|par
+|move|p2a: Victreebel|Sludge Wave|p1a: Volbeat
+|-damage|p1a: Volbeat|0 fnt
+|faint|p1a: Volbeat
+|-damage|p2a: Victreebel|232/290 par|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776971801
+|switch|p1a: Tatsugiri|Tatsugiri, L87, M|260/260
+|turn|25
+|
+|t:|1776971810
+|move|p1a: Tatsugiri|Rapid Spin|p2a: Victreebel
+|-damage|p2a: Victreebel|202/290 par
+|-boost|p1a: Tatsugiri|spe|1
+|move|p2a: Victreebel|Power Whip|p1a: Tatsugiri
+|-damage|p1a: Tatsugiri|9/260
+|-damage|p2a: Victreebel|173/290 par|[from] item: Life Orb
+|
+|upkeep
+|turn|26
+|
+|t:|1776971818
+|move|p1a: Tatsugiri|Draco Meteor|p2a: Victreebel
+|-damage|p2a: Victreebel|0 fnt
+|-unboost|p1a: Tatsugiri|spa|2
+|faint|p2a: Victreebel
+|
+|upkeep
+|
+|t:|1776971820
+|switch|p2a: Hydreigon|Hydreigon, L79, M|275/275
+|turn|27
+|
+|t:|1776971823
+|move|p1a: Tatsugiri|Draco Meteor|p2a: Hydreigon|[miss]
+|-miss|p1a: Tatsugiri|p2a: Hydreigon
+|move|p2a: Hydreigon|Dark Pulse|p1a: Tatsugiri
+|-damage|p1a: Tatsugiri|0 fnt
+|faint|p1a: Tatsugiri
+|
+|upkeep
+|c|☆IdkButGGEitherWay|gg
+|
+|t:|1776971827
+|switch|p1a: Pawmot|Pawmot, L80, M|48/243
+|turn|28
+|c|☆theworst1!|gg
+|
+|t:|1776971830
+|move|p1a: Pawmot|Close Combat|p2a: Hydreigon
+|-supereffective|p2a: Hydreigon
+|-damage|p2a: Hydreigon|0 fnt
+|-unboost|p1a: Pawmot|def|1
+|-unboost|p1a: Pawmot|spd|1
+|faint|p2a: Hydreigon
+|-damage|p1a: Pawmot|24/243|[from] item: Life Orb
+|
+|win|theworst1!
+|raw|theworst1!'s rating: 1738 &rarr; <strong>1759</strong><br />(+21 for winning)
+|raw|IdkButGGEitherWay's rating: 1764 &rarr; <strong>1743</strong><br />(-21 for losing)
+|l|☆IdkButGGEitherWay
+|player|p2|

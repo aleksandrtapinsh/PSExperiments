@@ -1,0 +1,536 @@
+|j|☆PikaPooGus
+|j|☆LordPie22
+|t:|1776972273
+|gametype|singles
+|player|p1|PikaPooGus|266|1667
+|player|p2|LordPie22|1|1631
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776972273
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Gallade|Gallade, L80, M|240/240
+|switch|p2a: Eiscue|Eiscue, L88, M|274/274
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by PikaPooGus)
+|
+|t:|1776972287
+|move|p1a: Gallade|Sacred Sword|p2a: Eiscue
+|-activate|p2a: Eiscue|ability: Ice Face
+|-damage|p2a: Eiscue|274/274
+|detailschange|p2a: Eiscue|Eiscue-Noice, L88, M
+|-damage|p1a: Gallade|216/240|[from] item: Life Orb
+|move|p2a: Eiscue|Belly Drum|p2a: Eiscue
+|-damage|p2a: Eiscue|137/274
+|-setboost|p2a: Eiscue|atk|6|[from] move: Belly Drum
+|-enditem|p2a: Eiscue|Sitrus Berry|[eat]
+|-heal|p2a: Eiscue|205/274|[from] item: Sitrus Berry
+|
+|upkeep
+|turn|2
+|
+|t:|1776972301
+|move|p2a: Eiscue|Liquidation|p1a: Gallade
+|-damage|p1a: Gallade|0 fnt
+|faint|p1a: Gallade
+|
+|upkeep
+|
+|t:|1776972303
+|switch|p1a: Ditto|Ditto, L87|225/225
+|-transform|p1a: Ditto|p2a: Eiscue|[from] ability: Imposter
+|turn|3
+|
+|t:|1776972320
+|move|p1a: Ditto|Ice Spinner|p2a: Eiscue
+|-resisted|p2a: Eiscue
+|-damage|p2a: Eiscue|27/274
+|move|p2a: Eiscue|Liquidation|p1a: Ditto
+|-damage|p1a: Ditto|0 fnt
+|faint|p1a: Ditto
+|
+|upkeep
+|
+|t:|1776972328
+|switch|p1a: Grimmsnarl|Grimmsnarl, L83, M|293/293
+|turn|4
+|
+|t:|1776972337
+|move|p1a: Grimmsnarl|Sucker Punch|p2a: Eiscue
+|-damage|p2a: Eiscue|0 fnt
+|faint|p2a: Eiscue
+|
+|upkeep
+|
+|t:|1776972350
+|switch|p2a: Misdreavus|Misdreavus, L90, F|254/254
+|turn|5
+|
+|t:|1776972358
+|move|p1a: Grimmsnarl|Parting Shot|p2a: Misdreavus
+|-unboost|p2a: Misdreavus|atk|1
+|-unboost|p2a: Misdreavus|spa|1
+|
+|t:|1776972364
+|switch|p1a: Appletun|Appletun, L92, F|352/352|[from] Parting Shot
+|move|p2a: Misdreavus|Will-O-Wisp|p1a: Appletun
+|-status|p1a: Appletun|brn
+|
+|-damage|p1a: Appletun|330/352 brn|[from] brn
+|upkeep
+|turn|6
+|inactive|LordPie22 has 120 seconds left.
+|inactive|LordPie22 has 90 seconds left.
+|
+|t:|1776972436
+|move|p2a: Misdreavus|Calm Mind|p2a: Misdreavus
+|-boost|p2a: Misdreavus|spa|1
+|-boost|p2a: Misdreavus|spd|1
+|move|p1a: Appletun|Apple Acid|p2a: Misdreavus
+|-damage|p2a: Misdreavus|212/254
+|-unboost|p2a: Misdreavus|spd|1
+|
+|-heal|p1a: Appletun|352/352 brn|[from] item: Leftovers
+|-damage|p1a: Appletun|330/352 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1776972442
+|move|p2a: Misdreavus|Calm Mind|p2a: Misdreavus
+|-boost|p2a: Misdreavus|spa|1
+|-boost|p2a: Misdreavus|spd|1
+|move|p1a: Appletun|Leech Seed|p2a: Misdreavus
+|-start|p2a: Misdreavus|move: Leech Seed
+|
+|-heal|p1a: Appletun|352/352 brn|[from] item: Leftovers
+|-damage|p2a: Misdreavus|181/254|[from] Leech Seed|[of] p1a: Appletun
+|-damage|p1a: Appletun|330/352 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1776972448
+|switch|p1a: Cresselia|Cresselia, L80, F|323/323
+|move|p2a: Misdreavus|Draining Kiss|p1a: Cresselia
+|-damage|p1a: Cresselia|279/323
+|-heal|p2a: Misdreavus|214/254|[from] drain|[of] p1a: Cresselia
+|
+|-heal|p1a: Cresselia|299/323|[from] item: Leftovers
+|-damage|p2a: Misdreavus|183/254|[from] Leech Seed|[of] p1a: Cresselia
+|-heal|p1a: Cresselia|323/323|[silent]
+|upkeep
+|turn|9
+|
+|t:|1776972458
+|switch|p2a: Bronzong|Bronzong, L88|261/261
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|
+|upkeep
+|turn|10
+|
+|t:|1776972465
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|move|p2a: Bronzong|Iron Defense|p2a: Bronzong
+|-boost|p2a: Bronzong|def|2
+|
+|upkeep
+|turn|11
+|
+|t:|1776972467
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|move|p2a: Bronzong|Iron Defense|p2a: Bronzong
+|-boost|p2a: Bronzong|def|2
+|
+|upkeep
+|turn|12
+|
+|t:|1776972469
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|move|p2a: Bronzong|Iron Defense|p2a: Bronzong
+|-boost|p2a: Bronzong|def|2
+|
+|upkeep
+|turn|13
+|
+|t:|1776972476
+|move|p1a: Cresselia|Moonblast|p2a: Bronzong
+|-resisted|p2a: Bronzong
+|-damage|p2a: Bronzong|199/261
+|move|p2a: Bronzong|Body Press|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|201/323
+|
+|-heal|p1a: Cresselia|221/323|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1776972482
+|move|p1a: Cresselia|Moonblast|p2a: Bronzong
+|-resisted|p2a: Bronzong
+|-damage|p2a: Bronzong|139/261
+|move|p2a: Bronzong|Body Press|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|95/323
+|
+|-heal|p1a: Cresselia|115/323|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1776972485
+|move|p1a: Cresselia|Moonlight|p1a: Cresselia
+|-heal|p1a: Cresselia|276/323
+|move|p2a: Bronzong|Body Press|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|158/323
+|
+|-heal|p1a: Cresselia|178/323|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776972498
+|move|p1a: Cresselia|Moonblast|p2a: Bronzong
+|-resisted|p2a: Bronzong
+|-damage|p2a: Bronzong|83/261
+|move|p2a: Bronzong|Body Press|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|57/323
+|
+|-heal|p1a: Cresselia|77/323|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1776972501
+|move|p1a: Cresselia|Moonlight|p1a: Cresselia
+|-heal|p1a: Cresselia|238/323
+|move|p2a: Bronzong|Rest|p2a: Bronzong
+|-status|p2a: Bronzong|slp|[from] move: Rest
+|-heal|p2a: Bronzong|261/261 slp|[silent]
+|-enditem|p2a: Bronzong|Chesto Berry|[eat]
+|-curestatus|p2a: Bronzong|slp|[msg]
+|
+|-heal|p1a: Cresselia|258/323|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1776972507
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|move|p2a: Bronzong|Body Press|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|122/323
+|
+|-heal|p1a: Cresselia|142/323|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1776972516
+|move|p1a: Cresselia|Moonlight|p1a: Cresselia
+|-heal|p1a: Cresselia|303/323
+|move|p2a: Bronzong|Body Press|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|181/323
+|
+|-heal|p1a: Cresselia|201/323|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1776972519
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|move|p2a: Bronzong|Body Press|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|67/323
+|
+|-heal|p1a: Cresselia|87/323|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1776972532
+|move|p1a: Cresselia|Moonlight|p1a: Cresselia
+|-heal|p1a: Cresselia|248/323
+|move|p2a: Bronzong|Body Press|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|123/323
+|
+|-heal|p1a: Cresselia|143/323|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1776972536
+|move|p1a: Cresselia|Moonlight|p1a: Cresselia
+|-heal|p1a: Cresselia|304/323
+|move|p2a: Bronzong|Body Press|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|188/323
+|
+|-heal|p1a: Cresselia|208/323|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1776972542
+|move|p1a: Cresselia|Moonblast|p2a: Bronzong
+|-resisted|p2a: Bronzong
+|-damage|p2a: Bronzong|188/261
+|move|p2a: Bronzong|Body Press|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|87/323
+|
+|-heal|p1a: Cresselia|107/323|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1776972546
+|move|p1a: Cresselia|Moonlight|p1a: Cresselia
+|-heal|p1a: Cresselia|268/323
+|move|p2a: Bronzong|Body Press|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|137/323
+|
+|-heal|p1a: Cresselia|157/323|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1776972555
+|move|p1a: Cresselia|Moonblast|p2a: Bronzong
+|-resisted|p2a: Bronzong
+|-damage|p2a: Bronzong|114/261
+|-unboost|p2a: Bronzong|spa|1
+|move|p2a: Bronzong|Body Press|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|31/323
+|
+|-heal|p1a: Cresselia|51/323|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1776972560
+|move|p1a: Cresselia|Moonlight|p1a: Cresselia
+|-heal|p1a: Cresselia|212/323
+|move|p2a: Bronzong|Body Press|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|76/323
+|
+|-heal|p1a: Cresselia|96/323|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1776972570
+|move|p1a: Cresselia|Moonlight|p1a: Cresselia
+|-heal|p1a: Cresselia|257/323
+|move|p2a: Bronzong|Body Press|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|131/323
+|
+|-heal|p1a: Cresselia|151/323|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1776972573
+|move|p1a: Cresselia|Moonblast|p2a: Bronzong
+|-resisted|p2a: Bronzong
+|-damage|p2a: Bronzong|41/261
+|move|p2a: Bronzong|Rest|p2a: Bronzong
+|-status|p2a: Bronzong|slp|[from] move: Rest
+|-heal|p2a: Bronzong|261/261 slp|[silent]
+|
+|-heal|p1a: Cresselia|171/323|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1776972577
+|move|p1a: Cresselia|Moonblast|p2a: Bronzong
+|-resisted|p2a: Bronzong
+|-damage|p2a: Bronzong|181/261 slp
+|cant|p2a: Bronzong|slp
+|
+|-heal|p1a: Cresselia|191/323|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1776972582
+|move|p1a: Cresselia|Moonblast|p2a: Bronzong
+|-resisted|p2a: Bronzong
+|-damage|p2a: Bronzong|96/261 slp
+|cant|p2a: Bronzong|slp
+|
+|-heal|p1a: Cresselia|211/323|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1776972590
+|move|p1a: Cresselia|Moonblast|p2a: Bronzong
+|-resisted|p2a: Bronzong
+|-damage|p2a: Bronzong|19/261 slp
+|-curestatus|p2a: Bronzong|slp|[msg]
+|move|p2a: Bronzong|Rest|p2a: Bronzong
+|-status|p2a: Bronzong|slp|[from] move: Rest
+|-heal|p2a: Bronzong|261/261 slp|[silent]
+|
+|-heal|p1a: Cresselia|231/323|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1776972593
+|move|p1a: Cresselia|Moonblast|p2a: Bronzong
+|-resisted|p2a: Bronzong
+|-damage|p2a: Bronzong|187/261 slp
+|cant|p2a: Bronzong|slp
+|
+|-heal|p1a: Cresselia|251/323|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1776972598
+|move|p1a: Cresselia|Moonblast|p2a: Bronzong
+|-resisted|p2a: Bronzong
+|-damage|p2a: Bronzong|108/261 slp
+|-unboost|p2a: Bronzong|spa|1
+|cant|p2a: Bronzong|slp
+|
+|-heal|p1a: Cresselia|271/323|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1776972601
+|move|p1a: Cresselia|Moonblast|p2a: Bronzong
+|-resisted|p2a: Bronzong
+|-damage|p2a: Bronzong|26/261 slp
+|-curestatus|p2a: Bronzong|slp|[msg]
+|move|p2a: Bronzong|Body Press|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|156/323
+|
+|-heal|p1a: Cresselia|176/323|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1776972604
+|move|p1a: Cresselia|Moonblast|p2a: Bronzong
+|-resisted|p2a: Bronzong
+|-damage|p2a: Bronzong|0 fnt
+|faint|p2a: Bronzong
+|
+|-heal|p1a: Cresselia|196/323|[from] item: Leftovers
+|upkeep
+|
+|t:|1776972618
+|switch|p2a: Misdreavus|Misdreavus, L90, F|183/254
+|turn|36
+|
+|t:|1776972624
+|move|p2a: Misdreavus|Calm Mind|p2a: Misdreavus
+|-boost|p2a: Misdreavus|spa|1
+|-boost|p2a: Misdreavus|spd|1
+|move|p1a: Cresselia|Psyshock|p2a: Misdreavus
+|-damage|p2a: Misdreavus|0 fnt
+|faint|p2a: Misdreavus
+|
+|-heal|p1a: Cresselia|216/323|[from] item: Leftovers
+|upkeep
+|
+|t:|1776972627
+|switch|p2a: Torterra|Torterra, L78, F|276/276
+|turn|37
+|
+|t:|1776972630
+|move|p1a: Cresselia|Psyshock|p2a: Torterra
+|-damage|p2a: Torterra|26/276
+|move|p2a: Torterra|Shell Smash|p2a: Torterra
+|-unboost|p2a: Torterra|def|1
+|-unboost|p2a: Torterra|spd|1
+|-boost|p2a: Torterra|atk|2
+|-boost|p2a: Torterra|spa|2
+|-boost|p2a: Torterra|spe|2
+|
+|-heal|p1a: Cresselia|236/323|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|t:|1776972641
+|-terastallize|p1a: Cresselia|Poison
+|move|p2a: Torterra|Bullet Seed|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|201/323
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|166/323
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|132/323
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|101/323
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|66/323
+|-hitcount|p1a: Cresselia|5
+|move|p1a: Cresselia|Psyshock|p2a: Torterra
+|-damage|p2a: Torterra|0 fnt
+|faint|p2a: Torterra
+|
+|-heal|p1a: Cresselia|86/323|[from] item: Leftovers
+|upkeep
+|
+|t:|1776972665
+|switch|p2a: Arceus|Arceus-Rock, L74|300/300
+|turn|39
+|
+|t:|1776972669
+|move|p2a: Arceus|Judgment|p1a: Cresselia
+|-damage|p1a: Cresselia|62/323
+|move|p1a: Cresselia|Moonblast|p2a: Arceus
+|-damage|p2a: Arceus|108/300
+|
+|-heal|p1a: Cresselia|82/323|[from] item: Leftovers
+|upkeep
+|turn|40
+|
+|t:|1776972673
+|move|p2a: Arceus|Judgment|p1a: Cresselia
+|-damage|p1a: Cresselia|55/323
+|move|p1a: Cresselia|Moonblast|p2a: Arceus
+|-damage|p2a: Arceus|0 fnt
+|faint|p2a: Arceus
+|
+|-heal|p1a: Cresselia|75/323|[from] item: Leftovers
+|upkeep
+|
+|t:|1776972676
+|switch|p2a: Lumineon|Lumineon, L93, F|279/279
+|turn|41
+|
+|t:|1776972678
+|move|p2a: Lumineon|U-turn|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|54/323
+|move|p1a: Cresselia|Moonblast|p2a: Lumineon
+|-damage|p2a: Lumineon|107/279
+|
+|-heal|p1a: Cresselia|74/323|[from] item: Leftovers
+|upkeep
+|turn|42
+|
+|t:|1776972681
+|move|p2a: Lumineon|Hydro Pump|p1a: Cresselia
+|-damage|p1a: Cresselia|49/323
+|move|p1a: Cresselia|Moonblast|p2a: Lumineon
+|-damage|p2a: Lumineon|0 fnt
+|faint|p2a: Lumineon
+|
+|win|PikaPooGus
+|raw|PikaPooGus's rating: 1667 &rarr; <strong>1685</strong><br />(+18 for winning)
+|raw|LordPie22's rating: 1631 &rarr; <strong>1613</strong><br />(-18 for losing)
+|l|☆LordPie22
+|player|p2|

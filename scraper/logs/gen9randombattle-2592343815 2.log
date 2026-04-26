@@ -1,0 +1,434 @@
+|j|☆krimi3
+|j|☆yliamr
+|t:|1776980562
+|gametype|singles
+|player|p1|krimi3|pokemonrangerf-gen4|1148
+|player|p2|yliamr|266|1119
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776980562
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Mudsdale|Mudsdale, L83, F|302/302
+|switch|p2a: Dachsbun|Dachsbun, L92, M|254/254
+|turn|1
+|
+|t:|1776980583
+|switch|p2a: Talonflame|Talonflame, L83, F|265/265
+|move|p1a: Mudsdale|Heavy Slam|p2a: Talonflame
+|-resisted|p2a: Talonflame
+|-damage|p2a: Talonflame|203/265
+|
+|upkeep
+|turn|2
+|
+|t:|1776980596
+|move|p2a: Talonflame|Flare Blitz|p1a: Mudsdale
+|-crit|p1a: Mudsdale
+|-damage|p1a: Mudsdale|148/302
+|-ability|p1a: Mudsdale|Stamina|boost
+|-boost|p1a: Mudsdale|def|1
+|-damage|p2a: Talonflame|152/265|[from] Recoil
+|move|p1a: Mudsdale|Stone Edge|p2a: Talonflame
+|-supereffective|p2a: Talonflame
+|-damage|p2a: Talonflame|0 fnt
+|faint|p2a: Talonflame
+|
+|-heal|p1a: Mudsdale|166/302|[from] item: Leftovers
+|upkeep
+|
+|t:|1776980622
+|switch|p2a: Swalot|Swalot, L90, F|326/326
+|turn|3
+|
+|t:|1776980636
+|move|p2a: Swalot|Encore|p1a: Mudsdale
+|-start|p1a: Mudsdale|Encore
+|move|p1a: Mudsdale|Stone Edge|p2a: Swalot
+|-damage|p2a: Swalot|241/326
+|
+|-heal|p2a: Swalot|261/326|[from] item: Leftovers
+|-heal|p1a: Mudsdale|184/302|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776980649
+|switch|p1a: Groudon|Groudon, L72|263/263
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Groudon
+|move|p2a: Swalot|Knock Off|p1a: Groudon
+|-damage|p1a: Groudon|212/263
+|-enditem|p1a: Groudon|Leftovers|[from] move: Knock Off|[of] p2a: Swalot
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Swalot|281/326|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776980687
+|switch|p2a: Dachsbun|Dachsbun, L92, M|254/254
+|move|p1a: Groudon|Precipice Blades|p2a: Dachsbun
+|-damage|p2a: Dachsbun|155/254
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Dachsbun|170/254|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776980702
+|switch|p1a: Emboar|Emboar, L84, F|322/322
+|move|p2a: Dachsbun|Protect||[still]
+|-fail|p2a: Dachsbun
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Dachsbun|185/254|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776980720
+|move|p2a: Dachsbun|Protect|p2a: Dachsbun
+|-singleturn|p2a: Dachsbun|Protect
+|move|p1a: Emboar|Head Smash|p2a: Dachsbun
+|-activate|p2a: Dachsbun|move: Protect
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Dachsbun|200/254|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776980729
+|switch|p2a: Dugtrio|Dugtrio, L84, M|196/196
+|move|p1a: Emboar|Head Smash|p2a: Dugtrio
+|-resisted|p2a: Dugtrio
+|-damage|p2a: Dugtrio|85/196
+|-damage|p1a: Emboar|266/322|[from] Recoil
+|
+|-weather|none
+|upkeep
+|turn|9
+|
+|t:|1776980763
+|move|p2a: Dugtrio|Earthquake|p1a: Emboar
+|-supereffective|p1a: Emboar
+|-damage|p1a: Emboar|0 fnt
+|faint|p1a: Emboar
+|-damage|p2a: Dugtrio|66/196|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776980767
+|switch|p1a: Inteleon|Inteleon, L81, F|246/246
+|turn|10
+|
+|t:|1776980779
+|move|p2a: Dugtrio|Earthquake|p1a: Inteleon
+|-damage|p1a: Inteleon|65/246
+|-damage|p2a: Dugtrio|47/196|[from] item: Life Orb
+|move|p1a: Inteleon|Ice Beam|p2a: Dugtrio
+|-supereffective|p2a: Dugtrio
+|-damage|p2a: Dugtrio|0 fnt
+|faint|p2a: Dugtrio
+|
+|upkeep
+|
+|t:|1776980792
+|switch|p2a: Dachsbun|Dachsbun, L92, M|200/254
+|turn|11
+|
+|t:|1776980801
+|switch|p1a: Granbull|Granbull, L88, M|302/302
+|-ability|p1a: Granbull|Intimidate|boost
+|-unboost|p2a: Dachsbun|atk|1
+|move|p2a: Dachsbun|Protect||[still]
+|-fail|p2a: Dachsbun
+|
+|-heal|p2a: Dachsbun|215/254|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776980813
+|move|p2a: Dachsbun|Protect|p2a: Dachsbun
+|-singleturn|p2a: Dachsbun|Protect
+|move|p1a: Granbull|Thunder Wave|p2a: Dachsbun
+|-activate|p2a: Dachsbun|move: Protect
+|
+|-heal|p2a: Dachsbun|230/254|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776980821
+|switch|p2a: Ting-Lu|Ting-Lu, L78|370/370
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Granbull|Thunder Wave|p2a: Ting-Lu
+|-immune|p2a: Ting-Lu
+|
+|upkeep
+|turn|14
+|
+|t:|1776980836
+|move|p1a: Granbull|Play Rough|p2a: Ting-Lu|[miss]
+|-miss|p1a: Granbull|p2a: Ting-Lu
+|move|p2a: Ting-Lu|Spikes|p1a: Granbull
+|-sidestart|p1: krimi3|Spikes
+|
+|upkeep
+|turn|15
+|c|☆krimi3|90 accurate play rough...
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by yliamr)
+|
+|t:|1776980866
+|move|p1a: Granbull|Play Rough|p2a: Ting-Lu|[miss]
+|-miss|p1a: Granbull|p2a: Ting-Lu
+|move|p2a: Ting-Lu|Spikes|p1a: Granbull
+|-sidestart|p1: krimi3|Spikes
+|
+|upkeep
+|turn|16
+|c|☆krimi3|are we fucking serious
+|
+|t:|1776980880
+|move|p1a: Granbull|Play Rough|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|182/370
+|move|p2a: Ting-Lu|Earthquake|p1a: Granbull
+|-damage|p1a: Granbull|188/302
+|
+|-heal|p1a: Granbull|206/302|[from] item: Leftovers
+|-heal|p2a: Ting-Lu|205/370|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1776980891
+|switch|p2a: Swalot|Swalot, L90, F|281/326
+|move|p1a: Granbull|Play Rough|p2a: Swalot
+|-resisted|p2a: Swalot
+|-damage|p2a: Swalot|215/326
+|
+|-heal|p2a: Swalot|235/326|[from] item: Leftovers
+|-heal|p1a: Granbull|224/302|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1776980908
+|-terastallize|p1a: Granbull|Ground
+|move|p2a: Swalot|Sludge Bomb|p1a: Granbull
+|-resisted|p1a: Granbull
+|-damage|p1a: Granbull|164/302
+|move|p1a: Granbull|Earthquake|p2a: Swalot
+|-supereffective|p2a: Swalot
+|-damage|p2a: Swalot|0 fnt
+|faint|p2a: Swalot
+|
+|-heal|p1a: Granbull|182/302|[from] item: Leftovers
+|upkeep
+|inactive|yliamr has 120 seconds left.
+|
+|t:|1776980934
+|switch|p2a: Dachsbun|Dachsbun, L92, M|230/254
+|turn|19
+|
+|t:|1776980940
+|move|p2a: Dachsbun|Yawn|p1a: Granbull
+|-start|p1a: Granbull|move: Yawn|[of] p2a: Dachsbun
+|move|p1a: Granbull|Thunder Wave|p2a: Dachsbun
+|-status|p2a: Dachsbun|par
+|
+|-heal|p1a: Granbull|200/302|[from] item: Leftovers
+|-heal|p2a: Dachsbun|245/254 par|[from] item: Leftovers
+|upkeep
+|turn|20
+|inactive|yliamr has 120 seconds left.
+|
+|t:|1776980962
+|switch|p1a: Mudsdale|Mudsdale, L83, F|184/302
+|-damage|p1a: Mudsdale|134/302|[from] Spikes
+|move|p2a: Dachsbun|Wish|p2a: Dachsbun
+|
+|-heal|p2a: Dachsbun|254/254 par|[from] item: Leftovers
+|-heal|p1a: Mudsdale|152/302|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1776980972
+|switch|p2a: Ting-Lu|Ting-Lu, L78|205/370
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Mudsdale|Stealth Rock|p2a: Ting-Lu
+|-sidestart|p2: yliamr|move: Stealth Rock
+|
+|-heal|p2a: Ting-Lu|332/370|[from] move: Wish|[wisher] Dachsbun
+|-heal|p2a: Ting-Lu|355/370|[from] item: Leftovers
+|-heal|p1a: Mudsdale|170/302|[from] item: Leftovers
+|upkeep
+|turn|22
+|inactive|krimi3 has 120 seconds left.
+|
+|t:|1776981026
+|move|p2a: Ting-Lu|Earthquake|p1a: Mudsdale
+|-damage|p1a: Mudsdale|73/302
+|-ability|p1a: Mudsdale|Stamina|boost
+|-boost|p1a: Mudsdale|def|1
+|move|p1a: Mudsdale|Earthquake|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|258/370
+|
+|-heal|p2a: Ting-Lu|281/370|[from] item: Leftovers
+|-heal|p1a: Mudsdale|91/302|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1776981037
+|move|p2a: Ting-Lu|Earthquake|p1a: Mudsdale
+|-damage|p1a: Mudsdale|25/302
+|-ability|p1a: Mudsdale|Stamina|boost
+|-boost|p1a: Mudsdale|def|1
+|move|p1a: Mudsdale|Earthquake|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|167/370
+|
+|-heal|p2a: Ting-Lu|190/370|[from] item: Leftovers
+|-heal|p1a: Mudsdale|43/302|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1776981046
+|move|p2a: Ting-Lu|Earthquake|p1a: Mudsdale
+|-damage|p1a: Mudsdale|0 fnt
+|faint|p1a: Mudsdale
+|
+|-heal|p2a: Ting-Lu|213/370|[from] item: Leftovers
+|upkeep
+|
+|t:|1776981051
+|switch|p1a: Inteleon|Inteleon, L81, F|65/246
+|-damage|p1a: Inteleon|24/246|[from] Spikes
+|turn|25
+|inactive|yliamr has 120 seconds left.
+|
+|t:|1776981081
+|-terastallize|p2a: Ting-Lu|Ghost
+|move|p1a: Inteleon|Scald|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|29/370
+|move|p2a: Ting-Lu|Earthquake|p1a: Inteleon
+|-damage|p1a: Inteleon|0 fnt
+|faint|p1a: Inteleon
+|
+|-heal|p2a: Ting-Lu|52/370|[from] item: Leftovers
+|upkeep
+|inactive|krimi3 has 90 seconds left.
+|
+|t:|1776981111
+|switch|p1a: Porygon2|Porygon2, L81|270/270
+|-damage|p1a: Porygon2|225/270|[from] Spikes
+|-ability|p1a: Porygon2|Download|boost
+|-boost|p1a: Porygon2|spa|1
+|turn|26
+|inactive|yliamr has 120 seconds left.
+|
+|t:|1776981128
+|switch|p2a: Dachsbun|Dachsbun, L92, M|254/254 par
+|-damage|p2a: Dachsbun|223/254 par|[from] Stealth Rock
+|move|p1a: Porygon2|Shadow Ball|p2a: Dachsbun
+|-damage|p2a: Dachsbun|145/254 par
+|
+|-heal|p2a: Dachsbun|160/254 par|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1776981140
+|move|p1a: Porygon2|Shadow Ball|p2a: Dachsbun
+|-damage|p2a: Dachsbun|80/254 par
+|move|p2a: Dachsbun|Yawn|p1a: Porygon2
+|-start|p1a: Porygon2|move: Yawn|[of] p2a: Dachsbun
+|
+|-heal|p2a: Dachsbun|95/254 par|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1776981147
+|switch|p1a: Granbull|Granbull, L88, M, tera:Ground|200/302
+|-damage|p1a: Granbull|150/302|[from] Spikes
+|-ability|p1a: Granbull|Intimidate|boost
+|-unboost|p2a: Dachsbun|atk|1
+|move|p2a: Dachsbun|Wish|p2a: Dachsbun
+|
+|-heal|p1a: Granbull|168/302|[from] item: Leftovers
+|-heal|p2a: Dachsbun|110/254 par|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1776981162
+|switch|p1a: Porygon2|Porygon2, L81|225/270
+|-damage|p1a: Porygon2|180/270|[from] Spikes
+|-ability|p1a: Porygon2|Download|boost
+|-boost|p1a: Porygon2|spa|1
+|cant|p2a: Dachsbun|par
+|
+|-heal|p2a: Dachsbun|237/254 par|[from] move: Wish|[wisher] Dachsbun
+|-heal|p2a: Dachsbun|252/254 par|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1776981174
+|move|p1a: Porygon2|Shadow Ball|p2a: Dachsbun
+|-damage|p2a: Dachsbun|165/254 par
+|-unboost|p2a: Dachsbun|spd|1
+|move|p2a: Dachsbun|Yawn|p1a: Porygon2
+|-start|p1a: Porygon2|move: Yawn|[of] p2a: Dachsbun
+|
+|-heal|p2a: Dachsbun|180/254 par|[from] item: Leftovers
+|upkeep
+|turn|31
+|inactive|krimi3 has 120 seconds left.
+|
+|t:|1776981183
+|switch|p1a: Groudon|Groudon, L72|212/263
+|-damage|p1a: Groudon|169/263|[from] Spikes
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Groudon
+|move|p2a: Dachsbun|Wish|p2a: Dachsbun
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Dachsbun|195/254 par|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1776981193
+|move|p2a: Dachsbun|Protect|p2a: Dachsbun
+|-singleturn|p2a: Dachsbun|Protect
+|move|p1a: Groudon|Roar|p2a: Dachsbun
+|drag|p2a: Kingambit|Kingambit, L74, M|270/270
+|-damage|p2a: Kingambit|254/270|[from] Stealth Rock
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen3|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Kingambit|270/270|[from] move: Wish|[wisher] Dachsbun
+|upkeep
+|turn|33
+|inactive|yliamr has 120 seconds left.
+|
+|t:|1776981226
+|move|p2a: Kingambit|Sucker Punch|p1a: Groudon
+|-damage|p1a: Groudon|82/263
+|move|p1a: Groudon|Precipice Blades|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-crit|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen3|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|inactive|yliamr has 120 seconds left.
+|c|☆yliamr|gg
+|-message|yliamr forfeited.
+|
+|win|krimi3
+|raw|krimi3's rating: 1148 &rarr; <strong>1171</strong><br />(+23 for winning)
+|raw|yliamr's rating: 1119 &rarr; <strong>1096</strong><br />(-23 for losing)
+|l|☆yliamr
+|player|p2|
+|c|☆krimi3|gg

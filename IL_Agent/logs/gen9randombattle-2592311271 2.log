@@ -1,0 +1,212 @@
+|j|☆yuyuhayakuyu
+|j|☆Y2KCherub
+|t:|1776977865
+|gametype|singles
+|player|p1|yuyuhayakuyu|169|1162
+|player|p2|Y2KCherub|nanu|1181
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776977865
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Porygon-Z|Porygon-Z, L83|277/277
+|switch|p2a: Quagsire|Quagsire, L84, M|297/297
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by yuyuhayakuyu)
+|
+|t:|1776977883
+|switch|p1a: Clodsire|Clodsire, L81, F|343/343
+|move|p2a: Quagsire|Toxic|p1a: Clodsire
+|-immune|p1a: Clodsire
+|
+|upkeep
+|turn|2
+|
+|t:|1776977890
+|move|p2a: Quagsire|Earthquake|p1a: Clodsire
+|-supereffective|p1a: Clodsire
+|-damage|p1a: Clodsire|67/343
+|move|p1a: Clodsire|Toxic Spikes|p2a: Quagsire
+|-sidestart|p2: Y2KCherub|move: Toxic Spikes
+|
+|-heal|p1a: Clodsire|88/343|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776977897
+|-terastallize|p1a: Clodsire|Flying
+|move|p2a: Quagsire|Earthquake|p1a: Clodsire
+|-immune|p1a: Clodsire
+|move|p1a: Clodsire|Recover|p1a: Clodsire
+|-heal|p1a: Clodsire|260/343
+|
+|-heal|p1a: Clodsire|281/343|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776977905
+|move|p2a: Quagsire|Ice Beam|p1a: Clodsire
+|-supereffective|p1a: Clodsire
+|-damage|p1a: Clodsire|195/343
+|move|p1a: Clodsire|Toxic Spikes|p2a: Quagsire
+|-sidestart|p2: Y2KCherub|move: Toxic Spikes
+|
+|-heal|p1a: Clodsire|216/343|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776977914
+|move|p2a: Quagsire|Ice Beam|p1a: Clodsire
+|-supereffective|p1a: Clodsire
+|-damage|p1a: Clodsire|128/343
+|move|p1a: Clodsire|Gunk Shot|p2a: Quagsire
+|-resisted|p2a: Quagsire
+|-damage|p2a: Quagsire|249/297
+|
+|-heal|p2a: Quagsire|267/297|[from] item: Leftovers
+|-heal|p1a: Clodsire|149/343|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776977922
+|switch|p1a: Barraskewda|Barraskewda, L81, F|231/231
+|move|p2a: Quagsire|Ice Beam|p1a: Barraskewda
+|-resisted|p1a: Barraskewda
+|-damage|p1a: Barraskewda|192/231
+|
+|-heal|p2a: Quagsire|285/297|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776977934
+|move|p1a: Barraskewda|Close Combat|p2a: Quagsire
+|-damage|p2a: Quagsire|147/297
+|-unboost|p1a: Barraskewda|def|1
+|-unboost|p1a: Barraskewda|spd|1
+|move|p2a: Quagsire|Earthquake|p1a: Barraskewda
+|-damage|p1a: Barraskewda|74/231
+|
+|-heal|p2a: Quagsire|165/297|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776977946
+|move|p1a: Barraskewda|Close Combat|p2a: Quagsire
+|-damage|p2a: Quagsire|26/297
+|-unboost|p1a: Barraskewda|def|1
+|-unboost|p1a: Barraskewda|spd|1
+|move|p2a: Quagsire|Earthquake|p1a: Barraskewda
+|-damage|p1a: Barraskewda|0 fnt
+|faint|p1a: Barraskewda
+|
+|-heal|p2a: Quagsire|44/297|[from] item: Leftovers
+|upkeep
+|
+|t:|1776977958
+|switch|p1a: Porygon-Z|Porygon-Z, L83|277/277
+|turn|9
+|
+|t:|1776977963
+|move|p1a: Porygon-Z|Shadow Ball|p2a: Quagsire
+|-damage|p2a: Quagsire|0 fnt
+|faint|p2a: Quagsire
+|-damage|p1a: Porygon-Z|250/277|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776977974
+|switch|p2a: Ditto|Ditto, L87|225/225
+|-status|p2a: Ditto|tox
+|-transform|p2a: Ditto|p1a: Porygon-Z|[from] ability: Imposter
+|turn|10
+|
+|t:|1776977996
+|switch|p1a: Scrafty|Scrafty, L83, F|244/244
+|-ability|p1a: Scrafty|Intimidate|boost
+|-unboost|p2a: Ditto|atk|1
+|move|p2a: Ditto|Tera Blast|p1a: Scrafty
+|-damage|p1a: Scrafty|110/244
+|
+|-heal|p1a: Scrafty|125/244|[from] item: Leftovers
+|-damage|p2a: Ditto|211/225 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1776978008
+|move|p2a: Ditto|Tera Blast|p1a: Scrafty
+|-damage|p1a: Scrafty|13/244
+|move|p1a: Scrafty|Drain Punch|p2a: Ditto
+|-supereffective|p2a: Ditto
+|-damage|p2a: Ditto|47/225 tox
+|-heal|p1a: Scrafty|95/244|[from] drain|[of] p2a: Ditto
+|
+|-heal|p1a: Scrafty|110/244|[from] item: Leftovers
+|-damage|p2a: Ditto|19/225 tox|[from] psn
+|upkeep
+|turn|12
+|inactive|yuyuhayakuyu has 120 seconds left.
+|
+|t:|1776978050
+|move|p2a: Ditto|Tera Blast|p1a: Scrafty
+|-damage|p1a: Scrafty|0 fnt
+|faint|p1a: Scrafty
+|
+|-damage|p2a: Ditto|0 fnt|[from] psn
+|faint|p2a: Ditto
+|upkeep
+|
+|t:|1776978061
+|switch|p1a: Clodsire|Clodsire, L81, F, tera:Flying|149/343
+|switch|p2a: Delibird|Delibird, F|252/252
+|turn|13
+|inactive|yuyuhayakuyu has 90 seconds left.
+|
+|t:|1776978090
+|switch|p1a: Porygon-Z|Porygon-Z, L83|250/277
+|move|p2a: Delibird|Ice Spinner|p1a: Porygon-Z|[miss]
+|-miss|p2a: Delibird|p1a: Porygon-Z
+|
+|upkeep
+|turn|14
+|inactive|yuyuhayakuyu has 90 seconds left.
+|
+|t:|1776978100
+|move|p2a: Delibird|Brave Bird|p1a: Porygon-Z|[miss]
+|-miss|p2a: Delibird|p1a: Porygon-Z
+|move|p1a: Porygon-Z|Nasty Plot|p1a: Porygon-Z
+|-boost|p1a: Porygon-Z|spa|2
+|
+|upkeep
+|turn|15
+|
+|t:|1776978106
+|move|p2a: Delibird|Brave Bird|p1a: Porygon-Z|[miss]
+|-miss|p2a: Delibird|p1a: Porygon-Z
+|move|p1a: Porygon-Z|Shadow Ball|p2a: Delibird
+|-damage|p2a: Delibird|0 fnt
+|faint|p2a: Delibird
+|-damage|p1a: Porygon-Z|223/277|[from] item: Life Orb
+|
+|upkeep
+|c|☆Y2KCherub|dude
+|l|☆Y2KCherub
+|inactive|Y2KCherub disconnected and has a minute to reconnect!
+|player|p2|
+|c|☆yuyuhayakuyu|HAHAHAHA
+|inactive|Y2KCherub has 30 seconds to reconnect!
+|inactive|Y2KCherub has 20 seconds to reconnect!
+|inactive|Y2KCherub has 15 seconds to reconnect!
+|inactive|Y2KCherub has 10 seconds to reconnect!
+|inactive|Y2KCherub has 5 seconds to reconnect!
+|-message|Y2KCherub lost due to inactivity.
+|
+|win|yuyuhayakuyu
+|raw|yuyuhayakuyu's rating: 1136 &rarr; <strong>1164</strong><br />(+28 for winning)
+|raw|Y2KCherub's rating: 1181 &rarr; <strong>1153</strong><br />(-28 for losing)

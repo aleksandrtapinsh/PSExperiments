@@ -1,0 +1,337 @@
+|j|☆minimatty4011
+|j|☆duskwolf64
+|t:|1776980987
+|gametype|singles
+|player|p1|minimatty4011|unknown|1915
+|player|p2|duskwolf64|hilbert|1982
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776980987
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Volcanion|Volcanion, L79|255/255
+|switch|p2a: Granbull|Granbull, L88, F|302/302
+|-ability|p2a: Granbull|Intimidate|boost
+|-unboost|p1a: Volcanion|atk|1
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by minimatty4011)
+|
+|t:|1776981011
+|switch|p1a: Oricorio|Oricorio-Pom-Pom, L82, F|257/257
+|move|p2a: Granbull|Earthquake|p1a: Oricorio
+|-immune|p1a: Oricorio
+|
+|upkeep
+|turn|2
+|
+|t:|1776981016
+|move|p1a: Oricorio|Hurricane|p2a: Granbull
+|-damage|p2a: Granbull|170/302
+|-start|p2a: Granbull|confusion
+|-activate|p2a: Granbull|confusion
+|move|p2a: Granbull|Play Rough|p1a: Oricorio
+|-damage|p1a: Oricorio|104/257
+|
+|-heal|p2a: Granbull|188/302|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776981035
+|move|p1a: Oricorio|Roost|p1a: Oricorio
+|-heal|p1a: Oricorio|233/257
+|-singleturn|p1a: Oricorio|move: Roost
+|-end|p2a: Granbull|confusion
+|move|p2a: Granbull|Play Rough|p1a: Oricorio
+|-damage|p1a: Oricorio|88/257
+|
+|-heal|p2a: Granbull|206/302|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776981051
+|switch|p1a: Volcanion|Volcanion, L79|255/255
+|move|p2a: Granbull|Play Rough|p1a: Volcanion
+|-resisted|p1a: Volcanion
+|-damage|p1a: Volcanion|208/255
+|
+|-heal|p2a: Granbull|224/302|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776981078
+|switch|p2a: Dragalge|Dragalge, L88, F|258/258
+|move|p1a: Volcanion|Sludge Bomb|p2a: Dragalge
+|-resisted|p2a: Dragalge
+|-damage|p2a: Dragalge|241/258
+|
+|upkeep
+|turn|6
+|
+|t:|1776981087
+|switch|p1a: Blissey|Blissey, L85, F|572/572
+|move|p2a: Dragalge|Draco Meteor|p1a: Blissey
+|-damage|p1a: Blissey|436/572
+|-unboost|p2a: Dragalge|spa|2
+|
+|-heal|p1a: Blissey|471/572|[from] item: Leftovers
+|upkeep
+|turn|7
+|inactive|duskwolf64 has 120 seconds left.
+|
+|t:|1776981109
+|switch|p2a: Sandaconda|Sandaconda, L84, F|258/258
+|move|p1a: Blissey|Stealth Rock|p2a: Sandaconda
+|-sidestart|p2: duskwolf64|move: Stealth Rock
+|
+|-heal|p1a: Blissey|506/572|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776981119
+|switch|p1a: Suicune|Suicune, L82|298/298
+|-ability|p1a: Suicune|Pressure
+|move|p2a: Sandaconda|Coil|p2a: Sandaconda
+|-boost|p2a: Sandaconda|atk|1
+|-boost|p2a: Sandaconda|def|1
+|-boost|p2a: Sandaconda|accuracy|1
+|
+|upkeep
+|turn|9
+|inactive|duskwolf64 has 120 seconds left.
+|inactive|duskwolf64 has 90 seconds left.
+|
+|t:|1776981175
+|switch|p2a: Dragalge|Dragalge, L88, F|241/258
+|-damage|p2a: Dragalge|209/258|[from] Stealth Rock
+|move|p1a: Suicune|Scald|p2a: Dragalge
+|-resisted|p2a: Dragalge
+|-damage|p2a: Dragalge|191/258
+|
+|upkeep
+|turn|10
+|
+|t:|1776981183
+|move|p1a: Suicune|Substitute|p1a: Suicune
+|-start|p1a: Suicune|Substitute
+|-damage|p1a: Suicune|224/298
+|move|p2a: Dragalge|Dragon Tail|p1a: Suicune
+|-activate|p1a: Suicune|move: Substitute|[damage]
+|
+|-heal|p1a: Suicune|242/298|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776981197
+|switch|p2a: Koraidon|Koraidon, L64|235/235
+|-damage|p2a: Koraidon|221/235|[from] Stealth Rock
+|-weather|SunnyDay|[from] ability: Orichalcum Pulse|[of] p2a: Koraidon
+|-activate|p2a: Koraidon|Orichalcum Pulse|[source]
+|move|p1a: Suicune|Calm Mind|p1a: Suicune
+|-boost|p1a: Suicune|spa|1
+|-boost|p1a: Suicune|spd|1
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Suicune|260/298|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776981204
+|move|p2a: Koraidon|Swords Dance|p2a: Koraidon
+|-boost|p2a: Koraidon|atk|2
+|move|p1a: Suicune|Ice Beam|p2a: Koraidon
+|-supereffective|p2a: Koraidon
+|-damage|p2a: Koraidon|35/235
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Suicune|278/298|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776981207
+|move|p2a: Koraidon|Scale Shot|p1a: Suicune
+|-end|p1a: Suicune|Substitute
+|-damage|p1a: Suicune|232/298
+|-damage|p1a: Suicune|189/298
+|-damage|p1a: Suicune|147/298
+|-damage|p1a: Suicune|101/298
+|-hitcount|p1a: Suicune|5
+|-unboost|p2a: Koraidon|def|1
+|-boost|p2a: Koraidon|spe|1
+|move|p1a: Suicune|Ice Beam|p2a: Koraidon
+|-supereffective|p2a: Koraidon
+|-damage|p2a: Koraidon|0 fnt
+|faint|p2a: Koraidon
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Suicune|119/298|[from] item: Leftovers
+|upkeep
+|
+|t:|1776981218
+|switch|p2a: Hitmonlee|Hitmonlee, L85, M|224/224
+|-damage|p2a: Hitmonlee|210/224|[from] Stealth Rock
+|turn|14
+|
+|t:|1776981223
+|switch|p1a: Oricorio|Oricorio-Pom-Pom, L82, F|88/257
+|move|p2a: Hitmonlee|Swords Dance|p2a: Hitmonlee
+|-boost|p2a: Hitmonlee|atk|2
+|-activate|p1a: Oricorio|ability: Dancer
+|move|p1a: Oricorio|Swords Dance|p1a: Oricorio|[from] ability: Dancer
+|-boost|p1a: Oricorio|atk|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1776981229
+|-terastallize|p2a: Hitmonlee|Poison
+|move|p1a: Oricorio|Hurricane|p2a: Hitmonlee|[miss]
+|-miss|p1a: Oricorio|p2a: Hitmonlee
+|move|p2a: Hitmonlee|Close Combat|p1a: Oricorio
+|-resisted|p1a: Oricorio
+|-damage|p1a: Oricorio|0 fnt
+|-unboost|p2a: Hitmonlee|def|1
+|-unboost|p2a: Hitmonlee|spd|1
+|faint|p1a: Oricorio
+|-enditem|p2a: Hitmonlee|White Herb
+|-clearnegativeboost|p2a: Hitmonlee|[silent]
+|
+|-weather|none
+|upkeep
+|
+|t:|1776981251
+|switch|p1a: Lunala|Lunala, L70|308/308
+|turn|16
+|
+|t:|1776981269
+|-terastallize|p1a: Lunala|Fighting
+|move|p2a: Hitmonlee|Knock Off|p1a: Lunala
+|-resisted|p1a: Lunala
+|-damage|p1a: Lunala|262/308
+|-enditem|p1a: Lunala|Leftovers|[from] move: Knock Off|[of] p2a: Hitmonlee
+|move|p1a: Lunala|Moongeist Beam|p2a: Hitmonlee
+|-damage|p2a: Hitmonlee|128/224
+|
+|upkeep
+|turn|17
+|
+|t:|1776981278
+|move|p2a: Hitmonlee|Close Combat|p1a: Lunala
+|-damage|p1a: Lunala|0 fnt
+|-unboost|p2a: Hitmonlee|def|1
+|-unboost|p2a: Hitmonlee|spd|1
+|faint|p1a: Lunala
+|
+|upkeep
+|
+|t:|1776981289
+|switch|p1a: Volcanion|Volcanion, L79|208/255
+|turn|18
+|
+|t:|1776981300
+|move|p2a: Hitmonlee|Close Combat|p1a: Volcanion
+|-damage|p1a: Volcanion|0 fnt
+|-unboost|p2a: Hitmonlee|def|1
+|-unboost|p2a: Hitmonlee|spd|1
+|faint|p1a: Volcanion
+|
+|upkeep
+|
+|t:|1776981305
+|switch|p1a: Raging Bolt|Raging Bolt, L78|323/323
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|turn|19
+|
+|t:|1776981308
+|move|p1a: Raging Bolt|Thunderclap||[still]
+|-fail|p1a: Raging Bolt
+|move|p2a: Hitmonlee|Swords Dance|p2a: Hitmonlee
+|-boost|p2a: Hitmonlee|atk|2
+|
+|upkeep
+|turn|20
+|
+|t:|1776981312
+|switch|p2a: Sandaconda|Sandaconda, L84, F|258/258
+|-damage|p2a: Sandaconda|242/258|[from] Stealth Rock
+|move|p1a: Raging Bolt|Thunderclap||[still]
+|-fail|p1a: Raging Bolt
+|
+|-heal|p2a: Sandaconda|258/258|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1776981316
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Blissey|Blissey, L85, F|506/572
+|move|p2a: Sandaconda|Earthquake|p1a: Blissey
+|-damage|p1a: Blissey|142/572
+|
+|-heal|p1a: Blissey|177/572|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1776981321
+|move|p2a: Sandaconda|Coil|p2a: Sandaconda
+|-boost|p2a: Sandaconda|atk|1
+|-boost|p2a: Sandaconda|def|1
+|-boost|p2a: Sandaconda|accuracy|1
+|move|p1a: Blissey|Seismic Toss|p2a: Sandaconda
+|-damage|p2a: Sandaconda|173/258
+|
+|-heal|p2a: Sandaconda|189/258|[from] item: Leftovers
+|-heal|p1a: Blissey|212/572|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1776981324
+|move|p2a: Sandaconda|Earthquake|p1a: Blissey
+|-damage|p1a: Blissey|0 fnt
+|faint|p1a: Blissey
+|
+|-heal|p2a: Sandaconda|205/258|[from] item: Leftovers
+|upkeep
+|
+|t:|1776981326
+|switch|p1a: Suicune|Suicune, L82|119/298
+|-ability|p1a: Suicune|Pressure
+|turn|24
+|
+|t:|1776981331
+|move|p1a: Suicune|Scald|p2a: Sandaconda
+|-supereffective|p2a: Sandaconda
+|-damage|p2a: Sandaconda|41/258
+|move|p2a: Sandaconda|Earthquake|p1a: Suicune
+|-damage|p1a: Suicune|0 fnt
+|faint|p1a: Suicune
+|
+|-heal|p2a: Sandaconda|57/258|[from] item: Leftovers
+|upkeep
+|
+|t:|1776981337
+|switch|p1a: Raging Bolt|Raging Bolt, L78|323/323
+|turn|25
+|c|☆duskwolf64|gg
+|c|☆minimatty4011|gg
+|
+|t:|1776981344
+|move|p2a: Sandaconda|Earthquake|p1a: Raging Bolt
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|win|duskwolf64
+|raw|minimatty4011's rating: 1915 &rarr; <strong>1899</strong><br />(-16 for losing)
+|raw|duskwolf64's rating: 1982 &rarr; <strong>1998</strong><br />(+16 for winning)
+|l|☆minimatty4011
+|player|p1|

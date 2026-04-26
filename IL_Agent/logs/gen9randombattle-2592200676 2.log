@@ -1,0 +1,336 @@
+|j|☆Bamhaneulnara
+|j|☆revilwe
+|t:|1776969962
+|gametype|singles
+|player|p1|Bamhaneulnara|wallace|1324
+|player|p2|revilwe|ghetsis|1318
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776969962
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Toxtricity|Toxtricity, L82, M|257/257
+|switch|p2a: Luvdisc|Luvdisc, F|247/247
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by revilwe)
+|inactive|Bamhaneulnara also wants the timer to be on.
+|inactive|revilwe has 120 seconds left.
+|
+|t:|1776970002
+|move|p2a: Luvdisc|Substitute|p2a: Luvdisc
+|-start|p2a: Luvdisc|Substitute
+|-damage|p2a: Luvdisc|186/247
+|move|p1a: Toxtricity|Overdrive|p2a: Luvdisc
+|-supereffective|p2a: Luvdisc
+|-damage|p2a: Luvdisc|0 fnt
+|faint|p2a: Luvdisc
+|-enditem|p1a: Toxtricity|Throat Spray
+|-boost|p1a: Toxtricity|spa|1|[from] item: Throat Spray
+|
+|upkeep
+|
+|t:|1776970020
+|switch|p2a: Hydrapple|Hydrapple, L83, F|312/312
+|turn|2
+|
+|t:|1776970027
+|move|p1a: Toxtricity|Gunk Shot|p2a: Hydrapple|[miss]
+|-miss|p1a: Toxtricity|p2a: Hydrapple
+|move|p2a: Hydrapple|Nasty Plot|p2a: Hydrapple
+|-boost|p2a: Hydrapple|spa|2
+|
+|upkeep
+|turn|3
+|
+|t:|1776970037
+|-terastallize|p2a: Hydrapple|Steel
+|move|p1a: Toxtricity|Gunk Shot|p2a: Hydrapple
+|-immune|p2a: Hydrapple
+|move|p2a: Hydrapple|Earth Power|p1a: Toxtricity
+|-supereffective|p1a: Toxtricity
+|-crit|p1a: Toxtricity
+|-damage|p1a: Toxtricity|0 fnt
+|faint|p1a: Toxtricity
+|-damage|p2a: Hydrapple|281/312|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776970051
+|switch|p1a: Zamazenta|Zamazenta-Crowned, L68|238/238
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|turn|4
+|
+|t:|1776970060
+|-terastallize|p1a: Zamazenta|Ghost
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|2
+|move|p2a: Hydrapple|Earth Power|p1a: Zamazenta
+|-damage|p1a: Zamazenta|60/238
+|-damage|p2a: Hydrapple|250/312|[from] item: Life Orb
+|
+|upkeep
+|turn|5
+|
+|t:|1776970076
+|switch|p2a: Amoonguss|Amoonguss, L82, M|321/321
+|move|p1a: Zamazenta|Body Press|p2a: Amoonguss
+|-resisted|p2a: Amoonguss
+|-damage|p2a: Amoonguss|197/321
+|
+|-heal|p2a: Amoonguss|217/321|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776970090
+|move|p1a: Zamazenta|Heavy Slam|p2a: Amoonguss
+|-damage|p2a: Amoonguss|99/321
+|move|p2a: Amoonguss|Giga Drain|p1a: Zamazenta
+|-damage|p1a: Zamazenta|2/238
+|-heal|p2a: Amoonguss|128/321|[from] drain|[of] p1a: Zamazenta
+|
+|-heal|p2a: Amoonguss|148/321|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776970113
+|move|p1a: Zamazenta|Heavy Slam|p2a: Amoonguss
+|-damage|p2a: Amoonguss|34/321
+|move|p2a: Amoonguss|Giga Drain|p1a: Zamazenta
+|-damage|p1a: Zamazenta|0 fnt
+|-heal|p2a: Amoonguss|35/321|[from] drain|[of] p1a: Zamazenta
+|faint|p1a: Zamazenta
+|
+|-heal|p2a: Amoonguss|55/321|[from] item: Leftovers
+|upkeep
+|
+|t:|1776970131
+|switch|p1a: Grumpig|Grumpig, L92, M|297/297
+|turn|8
+|inactive|revilwe has 120 seconds left.
+|
+|t:|1776970153
+|switch|p2a: Zangoose|Zangoose, L85, F|263/263
+|move|p1a: Grumpig|Trick|p2a: Zangoose
+|-activate|p1a: Grumpig|move: Trick|[of] p2a: Zangoose
+|-item|p2a: Zangoose|Choice Scarf|[from] move: Trick
+|-item|p1a: Grumpig|Toxic Orb|[from] move: Trick
+|
+|-status|p1a: Grumpig|tox|[from] item: Toxic Orb
+|upkeep
+|turn|9
+|inactive|revilwe has 120 seconds left.
+|inactive|Bamhaneulnara has 120 seconds left.
+|
+|t:|1776970181
+|switch|p1a: Indeedee|Indeedee, L84, M|238/238
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Indeedee
+|move|p2a: Zangoose|Knock Off|p1a: Indeedee
+|-supereffective|p1a: Indeedee
+|-damage|p1a: Indeedee|0 fnt
+|-enditem|p1a: Indeedee|Life Orb|[from] move: Knock Off|[of] p2a: Zangoose
+|faint|p1a: Indeedee
+|
+|upkeep
+|inactive|Bamhaneulnara has 120 seconds left.
+|
+|t:|1776970191
+|switch|p1a: Arbok|Arbok, L87, F|246/246
+|-ability|p1a: Arbok|Intimidate|boost
+|-unboost|p2a: Zangoose|atk|1
+|turn|10
+|inactive|Bamhaneulnara has 120 seconds left.
+|
+|t:|1776970203
+|switch|p2a: Amoonguss|Amoonguss, L82, M|162/321
+|move|p1a: Arbok|Earthquake|p2a: Amoonguss
+|-damage|p2a: Amoonguss|40/321
+|-damage|p1a: Arbok|222/246|[from] item: Life Orb
+|
+|-heal|p2a: Amoonguss|60/321|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776970218
+|switch|p2a: Zangoose|Zangoose, L85, F|263/263
+|move|p1a: Arbok|Earthquake|p2a: Zangoose
+|-damage|p2a: Zangoose|142/263
+|-damage|p1a: Arbok|198/246|[from] item: Life Orb
+|
+|upkeep
+|turn|12
+|
+|t:|1776970230
+|move|p2a: Zangoose|Knock Off|p1a: Arbok
+|-damage|p1a: Arbok|99/246
+|-enditem|p1a: Arbok|Life Orb|[from] move: Knock Off|[of] p2a: Zangoose
+|move|p1a: Arbok|Earthquake|p2a: Zangoose
+|-damage|p2a: Zangoose|51/263
+|
+|upkeep
+|turn|13
+|
+|t:|1776970244
+|switch|p2a: Terapagos|Terapagos, L77, M|265/265
+|-activate|p2a: Terapagos|ability: Tera Shift
+|detailschange|p2a: Terapagos|Terapagos-Terastal, L77, M
+|-heal|p2a: Terapagos|273/273|[silent]
+|move|p1a: Arbok|Earthquake|p2a: Terapagos
+|-activate|p2a: Terapagos|ability: Tera Shell
+|-resisted|p2a: Terapagos
+|-damage|p2a: Terapagos|238/273
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|14
+|
+|t:|1776970260
+|move|p1a: Arbok|Gunk Shot|p2a: Terapagos
+|-damage|p2a: Terapagos|118/273
+|move|p2a: Terapagos|Calm Mind|p2a: Terapagos
+|-boost|p2a: Terapagos|spa|1
+|-boost|p2a: Terapagos|spd|1
+|
+|upkeep
+|turn|15
+|
+|t:|1776970267
+|move|p1a: Arbok|Gunk Shot|p2a: Terapagos
+|-damage|p2a: Terapagos|0 fnt
+|faint|p2a: Terapagos
+|
+|upkeep
+|
+|t:|1776970277
+|switch|p2a: Ninetales|Ninetales, L85, F|263/263
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|turn|16
+|
+|t:|1776970283
+|move|p2a: Ninetales|Scorching Sands|p1a: Arbok
+|-supereffective|p1a: Arbok
+|-damage|p1a: Arbok|5/246
+|-status|p1a: Arbok|brn
+|move|p1a: Arbok|Earthquake|p2a: Ninetales
+|-supereffective|p2a: Ninetales
+|-damage|p2a: Ninetales|186/263
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Arbok|0 fnt|[from] brn
+|faint|p1a: Arbok
+|upkeep
+|
+|t:|1776970296
+|switch|p1a: Grumpig|Grumpig, L92, M|297/297 tox
+|turn|17
+|inactive|revilwe has 120 seconds left.
+|
+|t:|1776970305
+|switch|p2a: Zangoose|Zangoose, L85, F|51/263
+|move|p1a: Grumpig|Trick|p2a: Zangoose
+|-activate|p1a: Grumpig|move: Trick|[of] p2a: Zangoose
+|-item|p2a: Zangoose|Toxic Orb|[from] move: Trick
+|-item|p1a: Grumpig|Choice Scarf|[from] move: Trick
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Grumpig|279/297 tox|[from] psn
+|-status|p2a: Zangoose|tox|[from] item: Toxic Orb
+|upkeep
+|turn|18
+|inactive|revilwe has 120 seconds left.
+|
+|t:|1776970342
+|move|p1a: Grumpig|Earth Power|p2a: Zangoose
+|-damage|p2a: Zangoose|0 fnt
+|faint|p2a: Zangoose
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Grumpig|243/297 tox|[from] psn
+|upkeep
+|
+|t:|1776970351
+|switch|p2a: Amoonguss|Amoonguss, L82, M|167/321
+|turn|19
+|
+|t:|1776970360
+|move|p1a: Grumpig|Earth Power|p2a: Amoonguss
+|-damage|p2a: Amoonguss|82/321
+|move|p2a: Amoonguss|Giga Drain|p1a: Grumpig
+|-crit|p1a: Grumpig
+|-damage|p1a: Grumpig|161/297 tox
+|-heal|p2a: Amoonguss|123/321|[from] drain|[of] p1a: Grumpig
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Amoonguss|143/321|[from] item: Leftovers
+|-damage|p1a: Grumpig|107/297 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1776970372
+|move|p1a: Grumpig|Earth Power|p2a: Amoonguss
+|-damage|p2a: Amoonguss|71/321
+|-unboost|p2a: Amoonguss|spd|1
+|move|p2a: Amoonguss|Giga Drain|p1a: Grumpig
+|-damage|p1a: Grumpig|58/297 tox
+|-heal|p2a: Amoonguss|96/321|[from] drain|[of] p1a: Grumpig
+|
+|-weather|none
+|-heal|p2a: Amoonguss|116/321|[from] item: Leftovers
+|-damage|p1a: Grumpig|0 fnt|[from] psn
+|faint|p1a: Grumpig
+|upkeep
+|
+|t:|1776970385
+|switch|p1a: Smeargle|Smeargle, L95, F|258/258
+|turn|21
+|
+|t:|1776970391
+|move|p1a: Smeargle|Shell Smash|p1a: Smeargle
+|-unboost|p1a: Smeargle|def|1
+|-unboost|p1a: Smeargle|spd|1
+|-boost|p1a: Smeargle|atk|2
+|-boost|p1a: Smeargle|spa|2
+|-boost|p1a: Smeargle|spe|2
+|move|p2a: Amoonguss|Spore|p1a: Smeargle
+|-status|p1a: Smeargle|slp|[from] move: Spore
+|
+|-heal|p2a: Amoonguss|136/321|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1776970407
+|switch|p2a: Hydrapple|Hydrapple, L83, F, tera:Steel|312/312
+|cant|p1a: Smeargle|slp
+|
+|upkeep
+|turn|23
+|
+|t:|1776970414
+|cant|p1a: Smeargle|slp
+|move|p2a: Hydrapple|Nasty Plot|p2a: Hydrapple
+|-boost|p2a: Hydrapple|spa|2
+|
+|upkeep
+|turn|24
+|
+|t:|1776970422
+|-curestatus|p1a: Smeargle|slp|[msg]
+|move|p1a: Smeargle|Power Trip|p2a: Hydrapple
+|-damage|p2a: Hydrapple|234/312
+|move|p2a: Hydrapple|Fickle Beam|p1a: Smeargle
+|-damage|p1a: Smeargle|0 fnt
+|faint|p1a: Smeargle
+|-damage|p2a: Hydrapple|203/312|[from] item: Life Orb
+|
+|win|revilwe
+|raw|Bamhaneulnara's rating: 1324 &rarr; <strong>1304</strong><br />(-20 for losing)
+|raw|revilwe's rating: 1318 &rarr; <strong>1338</strong><br />(+20 for winning)
+|l|☆Bamhaneulnara
+|player|p1|

@@ -1,0 +1,263 @@
+|j|☆Gs SC DC v CT f
+|j|‽Hgfvhfdvhhhv
+|t:|1772745055
+|gametype|singles
+|player|p1|Gs SC DC v CT f|2|1000
+|player|p2|Hgfvhfdvhhhv|266|1000
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772745055
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Hippowdon|Hippowdon, L82, F|311/311
+|switch|p2a: Snorlax|Snorlax, L82, M|397/397
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|turn|1
+|
+|t:|1772745079
+|move|p2a: Snorlax|Body Slam|p1a: Hippowdon
+|-damage|p1a: Hippowdon|230/311
+|move|p1a: Hippowdon|Whirlwind|p2a: Snorlax
+|drag|p2a: Palafin|Palafin, L77, M|281/281
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Palafin|264/281|[from] Sandstorm
+|-heal|p2a: Palafin|281/281|[from] item: Leftovers
+|-heal|p1a: Hippowdon|249/311|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1772745097
+|detailschange|p2a: Palafin|Palafin-Hero, L77, M
+|switch|p2a: Leavanny|Leavanny, L86, F|269/269
+|switch|p1a: Lumineon|Lumineon, L93, M|279/279
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Lumineon|262/279|[from] Sandstorm
+|-damage|p2a: Leavanny|253/269|[from] Sandstorm
+|upkeep
+|turn|3
+|
+|t:|1772745109
+|move|p1a: Lumineon|Ice Beam|p2a: Leavanny
+|-supereffective|p2a: Leavanny
+|-damage|p2a: Leavanny|81/269
+|-damage|p1a: Lumineon|235/279|[from] item: Life Orb
+|move|p2a: Leavanny|Sticky Web|p1a: Lumineon
+|-sidestart|p1: Gs SC DC v CT f|move: Sticky Web
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Lumineon|218/279|[from] Sandstorm
+|-damage|p2a: Leavanny|65/269|[from] Sandstorm
+|upkeep
+|turn|4
+|
+|t:|1772745129
+|move|p1a: Lumineon|Alluring Voice|p2a: Leavanny
+|-damage|p2a: Leavanny|0 fnt
+|faint|p2a: Leavanny
+|-damage|p1a: Lumineon|191/279|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Lumineon|174/279|[from] Sandstorm
+|upkeep
+|
+|t:|1772745140
+|switch|p2a: Snorlax|Snorlax, L82, M|397/397
+|turn|5
+|
+|t:|1772745159
+|switch|p1a: Hitmontop|Hitmontop, L88, M|231/231
+|-activate|p1a: Hitmontop|move: Sticky Web
+|-unboost|p1a: Hitmontop|spe|1
+|-ability|p1a: Hitmontop|Intimidate|boost
+|-unboost|p2a: Snorlax|atk|1
+|move|p2a: Snorlax|Body Slam|p1a: Hitmontop
+|-damage|p1a: Hitmontop|177/231
+|-status|p1a: Hitmontop|par
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1772745174
+|switch|p2a: Altaria|Altaria, L89, M|278/278
+|move|p1a: Hitmontop|Rapid Spin|p2a: Altaria
+|-damage|p2a: Altaria|239/278
+|-boost|p1a: Hitmontop|spe|1
+|-sideend|p1: Gs SC DC v CT f|Sticky Web|[from] move: Rapid Spin|[of] p1a: Hitmontop
+|
+|upkeep
+|turn|7
+|
+|t:|1772745196
+|switch|p1a: Empoleon|Empoleon, L84, F|278/278
+|move|p2a: Altaria|Brave Bird|p1a: Empoleon
+|-resisted|p1a: Empoleon
+|-damage|p1a: Empoleon|224/278
+|-damage|p2a: Altaria|221/278|[from] Recoil
+|
+|-heal|p1a: Empoleon|241/278|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1772745215
+|switch|p2a: Cresselia|Cresselia, L80, F|323/323
+|move|p1a: Empoleon|Stealth Rock|p2a: Cresselia
+|-sidestart|p2: Hgfvhfdvhhhv|move: Stealth Rock
+|
+|-heal|p1a: Empoleon|258/278|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1772745223
+|move|p2a: Cresselia|Thunderbolt|p1a: Empoleon
+|-supereffective|p1a: Empoleon
+|-damage|p1a: Empoleon|176/278
+|move|p1a: Empoleon|Roar|p2a: Cresselia
+|drag|p2a: Banette|Banette, L93, F|270/270
+|-damage|p2a: Banette|237/270|[from] Stealth Rock
+|
+|-heal|p1a: Empoleon|193/278|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1772745239
+|switch|p1a: Hitmontop|Hitmontop, L88, M|177/231 par
+|-ability|p1a: Hitmontop|Intimidate|boost
+|-unboost|p2a: Banette|atk|1
+|move|p2a: Banette|Poltergeist|p1a: Hitmontop
+|-activate|p1a: Hitmontop|move: Poltergeist|Assault Vest
+|-damage|p1a: Hitmontop|41/231 par
+|-damage|p2a: Banette|210/270|[from] item: Life Orb
+|
+|upkeep
+|turn|11
+|
+|t:|1772745252
+|switch|p1a: Hippowdon|Hippowdon, L82, F|249/311
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|move|p2a: Banette|Poltergeist|p1a: Hippowdon
+|-activate|p1a: Hippowdon|move: Poltergeist|Leftovers
+|-damage|p1a: Hippowdon|140/311
+|-damage|p2a: Banette|183/270|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Banette|167/270|[from] Sandstorm
+|-heal|p1a: Hippowdon|159/311|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1772745268
+|move|p2a: Banette|Swords Dance|p2a: Banette
+|-boost|p2a: Banette|atk|2
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|311/311
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Banette|151/270|[from] Sandstorm
+|upkeep
+|turn|13
+|
+|t:|1772745280
+|move|p2a: Banette|Gunk Shot|p1a: Hippowdon
+|-resisted|p1a: Hippowdon
+|-damage|p1a: Hippowdon|216/311
+|-damage|p2a: Banette|124/270|[from] item: Life Orb
+|move|p1a: Hippowdon|Earthquake|p2a: Banette
+|-damage|p2a: Banette|4/270
+|-start|p1a: Hippowdon|Disable|Earthquake|[from] ability: Cursed Body|[of] p2a: Banette
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Banette|0 fnt|[from] Sandstorm
+|faint|p2a: Banette
+|-heal|p1a: Hippowdon|235/311|[from] item: Leftovers
+|upkeep
+|
+|t:|1772745300
+|switch|p2a: Palafin|Palafin-Hero, L77, M|281/281
+|-damage|p2a: Palafin|246/281|[from] Stealth Rock
+|-activate|p2a: Palafin|ability: Zero to Hero
+|turn|14
+|
+|t:|1772745310
+|switch|p1a: Lumineon|Lumineon, L93, M|174/279
+|move|p2a: Palafin|Bulk Up|p2a: Palafin
+|-boost|p2a: Palafin|atk|1
+|-boost|p2a: Palafin|def|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Lumineon|157/279|[from] Sandstorm
+|-damage|p2a: Palafin|229/281|[from] Sandstorm
+|-heal|p2a: Palafin|246/281|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1772745320
+|move|p1a: Lumineon|Encore|p2a: Palafin
+|-start|p2a: Palafin|Encore
+|move|p2a: Palafin|Bulk Up|p2a: Palafin
+|-boost|p2a: Palafin|atk|1
+|-boost|p2a: Palafin|def|1
+|
+|-weather|none
+|-heal|p2a: Palafin|263/281|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1772745329
+|switch|p1a: Jolteon|Jolteon, L84, M|246/246
+|move|p2a: Palafin|Bulk Up|p2a: Palafin
+|-boost|p2a: Palafin|atk|1
+|-boost|p2a: Palafin|def|1
+|
+|-heal|p2a: Palafin|280/281|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1772745339
+|-terastallize|p2a: Palafin|Steel
+|move|p1a: Jolteon|Calm Mind|p1a: Jolteon
+|-boost|p1a: Jolteon|spa|1
+|-boost|p1a: Jolteon|spd|1
+|move|p2a: Palafin|Bulk Up|p2a: Palafin
+|-boost|p2a: Palafin|atk|1
+|-boost|p2a: Palafin|def|1
+|
+|-heal|p2a: Palafin|281/281|[from] item: Leftovers
+|-end|p2a: Palafin|Encore
+|upkeep
+|turn|18
+|
+|t:|1772745358
+|switch|p1a: Lumineon|Lumineon, L93, M|157/279
+|move|p2a: Palafin|Jet Punch|p1a: Lumineon
+|-ability|p1a: Lumineon|Storm Drain|boost
+|-boost|p1a: Lumineon|spa|1
+|
+|upkeep
+|turn|19
+|
+|t:|1772745369
+|move|p1a: Lumineon|Encore|p2a: Palafin
+|-start|p2a: Palafin|Encore
+|move|p2a: Palafin|Jet Punch|p1a: Lumineon
+|-ability|p1a: Lumineon|Storm Drain|boost
+|-boost|p1a: Lumineon|spa|1
+|
+|upkeep
+|turn|20
+|-message|Hgfvhfdvhhhv forfeited.
+|
+|win|Gs SC DC v CT f
+|raw|Gs SC DC v CT f's rating: 1000 &rarr; <strong>1040</strong><br />(+40 for winning)
+|raw|Hgfvhfdvhhhv's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|l|‽Hgfvhfdvhhhv
+|player|p2|

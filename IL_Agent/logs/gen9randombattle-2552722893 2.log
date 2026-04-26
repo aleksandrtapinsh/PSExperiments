@@ -1,0 +1,397 @@
+|j|☆vorpaldevil
+|j|☆Papelsech
+|t:|1772746896
+|gametype|singles
+|player|p1|vorpaldevil|workerice|1707
+|player|p2|Papelsech|raihan|1703
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772746896
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Diancie|Diancie, L82|216/216
+|switch|p2a: Rayquaza|Rayquaza, L72|270/270
+|-ability|p2a: Rayquaza|Air Lock
+|turn|1
+|
+|t:|1772746907
+|switch|p2a: Mudsdale|Mudsdale, L83, F|302/302
+|move|p1a: Diancie|Rock Polish|p1a: Diancie
+|-boost|p1a: Diancie|spe|2
+|
+|upkeep
+|turn|2
+|
+|t:|1772746923
+|switch|p1a: Vaporeon|Vaporeon, L86, F|364/364
+|move|p2a: Mudsdale|Heavy Slam|p1a: Vaporeon
+|-resisted|p1a: Vaporeon
+|-damage|p1a: Vaporeon|296/364
+|
+|-heal|p1a: Vaporeon|318/364|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1772746936
+|switch|p2a: Jirachi|Jirachi, L80|291/291
+|move|p1a: Vaporeon|Scald|p2a: Jirachi
+|-damage|p2a: Jirachi|228/291
+|-status|p2a: Jirachi|brn
+|
+|-heal|p1a: Vaporeon|340/364|[from] item: Leftovers
+|-damage|p2a: Jirachi|210/291 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1772746956
+|switch|p1a: Blissey|Blissey, L85, F|572/572
+|move|p2a: Jirachi|Body Slam|p1a: Blissey
+|-damage|p1a: Blissey|486/572
+|
+|-heal|p1a: Blissey|521/572|[from] item: Leftovers
+|-damage|p2a: Jirachi|192/291 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1772746963
+|move|p2a: Jirachi|Drain Punch|p1a: Blissey
+|-supereffective|p1a: Blissey
+|-damage|p1a: Blissey|369/572
+|-heal|p2a: Jirachi|268/291 brn|[from] drain|[of] p1a: Blissey
+|move|p1a: Blissey|Seismic Toss|p2a: Jirachi
+|-damage|p2a: Jirachi|183/291 brn
+|
+|-heal|p1a: Blissey|404/572|[from] item: Leftovers
+|-damage|p2a: Jirachi|165/291 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1772746967
+|move|p2a: Jirachi|Drain Punch|p1a: Blissey
+|-supereffective|p1a: Blissey
+|-damage|p1a: Blissey|255/572
+|-heal|p2a: Jirachi|240/291 brn|[from] drain|[of] p1a: Blissey
+|move|p1a: Blissey|Seismic Toss|p2a: Jirachi
+|-damage|p2a: Jirachi|155/291 brn
+|
+|-heal|p1a: Blissey|290/572|[from] item: Leftovers
+|-damage|p2a: Jirachi|137/291 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1772746973
+|move|p2a: Jirachi|Drain Punch|p1a: Blissey
+|-supereffective|p1a: Blissey
+|-damage|p1a: Blissey|146/572
+|-heal|p2a: Jirachi|209/291 brn|[from] drain|[of] p1a: Blissey
+|move|p1a: Blissey|Seismic Toss|p2a: Jirachi
+|-damage|p2a: Jirachi|124/291 brn
+|
+|-heal|p1a: Blissey|181/572|[from] item: Leftovers
+|-damage|p2a: Jirachi|106/291 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1772746978
+|move|p2a: Jirachi|Iron Head|p1a: Blissey
+|-damage|p1a: Blissey|64/572
+|move|p1a: Blissey|Seismic Toss|p2a: Jirachi
+|-damage|p2a: Jirachi|21/291 brn
+|
+|-heal|p1a: Blissey|99/572|[from] item: Leftovers
+|-damage|p2a: Jirachi|3/291 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1772746988
+|switch|p1a: Vaporeon|Vaporeon, L86, F|340/364
+|move|p2a: Jirachi|Drain Punch|p1a: Vaporeon
+|-damage|p1a: Vaporeon|309/364
+|-heal|p2a: Jirachi|19/291 brn|[from] drain|[of] p1a: Vaporeon
+|
+|-heal|p1a: Vaporeon|331/364|[from] item: Leftovers
+|-damage|p2a: Jirachi|1/291 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1772747000
+|move|p1a: Vaporeon|Protect|p1a: Vaporeon
+|-singleturn|p1a: Vaporeon|Protect
+|move|p2a: Jirachi|U-turn|p1a: Vaporeon
+|-activate|p1a: Vaporeon|move: Protect
+|
+|-heal|p1a: Vaporeon|353/364|[from] item: Leftovers
+|-damage|p2a: Jirachi|0 fnt|[from] brn
+|faint|p2a: Jirachi
+|upkeep
+|
+|t:|1772747009
+|switch|p2a: Abomasnow|Abomasnow, L84, M|287/287
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Abomasnow
+|turn|11
+|
+|t:|1772747017
+|move|p1a: Vaporeon|Scald|p2a: Abomasnow
+|-resisted|p2a: Abomasnow
+|-damage|p2a: Abomasnow|238/287
+|-status|p2a: Abomasnow|brn
+|move|p2a: Abomasnow|Aurora Veil|p2a: Abomasnow
+|-sidestart|p2: Papelsech|move: Aurora Veil
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Vaporeon|364/364|[from] item: Leftovers
+|-damage|p2a: Abomasnow|221/287 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1772747048
+|switch|p2a: Iron Bundle|Iron Bundle, L78|215/215
+|move|p1a: Vaporeon|Wish|p1a: Vaporeon
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1772747061
+|switch|p1a: Blissey|Blissey, L85, F|99/572
+|move|p2a: Iron Bundle|Hydro Pump|p1a: Blissey
+|-damage|p1a: Blissey|14/572
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Blissey|196/572|[from] move: Wish|[wisher] Vaporeon
+|-heal|p1a: Blissey|231/572|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1772747070
+|move|p2a: Iron Bundle|Hydro Pump|p1a: Blissey
+|-damage|p1a: Blissey|137/572
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|423/572
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Blissey|458/572|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1772747073
+|move|p2a: Iron Bundle|Encore|p1a: Blissey
+|-start|p1a: Blissey|Encore
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|572/572
+|
+|-weather|none
+|upkeep
+|turn|16
+|
+|t:|1772747081
+|-end|p2a: Iron Bundle|Quark Drive|[silent]
+|switch|p2a: Rayquaza|Rayquaza, L72|270/270
+|-ability|p2a: Rayquaza|Air Lock
+|switch|p1a: Luxray|Luxray, L88, M|284/284
+|-ability|p1a: Luxray|Intimidate|boost
+|-unboost|p2a: Rayquaza|atk|1
+|
+|upkeep
+|turn|17
+|
+|t:|1772747096
+|switch|p2a: Abomasnow|Abomasnow, L84, M|221/287 brn
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Abomasnow
+|move|p1a: Luxray|Ice Fang|p2a: Abomasnow
+|-damage|p2a: Abomasnow|200/287 brn
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p2a: Abomasnow|183/287 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1772747106
+|move|p1a: Luxray|Volt Switch|p2a: Abomasnow
+|-resisted|p2a: Abomasnow
+|-damage|p2a: Abomasnow|163/287 brn
+|
+|t:|1772747110
+|switch|p1a: Spectrier|Spectrier, L75|274/274|[from] Volt Switch
+|move|p2a: Abomasnow|Wood Hammer|p1a: Spectrier
+|-damage|p1a: Spectrier|182/274
+|-damage|p2a: Abomasnow|133/287 brn|[from] Recoil
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Spectrier|199/274|[from] item: Leftovers
+|-damage|p2a: Abomasnow|116/287 brn|[from] brn
+|-sideend|p2: Papelsech|move: Aurora Veil
+|upkeep
+|turn|19
+|
+|t:|1772747122
+|-terastallize|p1a: Spectrier|Fighting
+|move|p1a: Spectrier|Tera Blast|p2a: Abomasnow|[anim] Tera Blast Fighting
+|-supereffective|p2a: Abomasnow
+|-damage|p2a: Abomasnow|0 fnt
+|faint|p2a: Abomasnow
+|-ability|p1a: Spectrier|Grim Neigh|boost
+|-boost|p1a: Spectrier|spa|1
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Spectrier|216/274|[from] item: Leftovers
+|upkeep
+|
+|t:|1772747147
+|switch|p2a: Mudsdale|Mudsdale, L83, F|302/302
+|turn|20
+|
+|t:|1772747155
+|move|p1a: Spectrier|Shadow Ball|p2a: Mudsdale
+|-damage|p2a: Mudsdale|163/302
+|-ability|p2a: Mudsdale|Stamina|boost
+|-boost|p2a: Mudsdale|def|1
+|move|p2a: Mudsdale|Earthquake|p1a: Spectrier
+|-damage|p1a: Spectrier|30/274
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Spectrier|47/274|[from] item: Leftovers
+|-heal|p2a: Mudsdale|181/302|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1772747170
+|move|p1a: Spectrier|Shadow Ball|p2a: Mudsdale
+|-damage|p2a: Mudsdale|25/302
+|-ability|p2a: Mudsdale|Stamina|boost
+|-boost|p2a: Mudsdale|def|1
+|move|p2a: Mudsdale|Earthquake|p1a: Spectrier
+|-damage|p1a: Spectrier|0 fnt
+|faint|p1a: Spectrier
+|
+|-weather|none
+|-heal|p2a: Mudsdale|43/302|[from] item: Leftovers
+|upkeep
+|
+|t:|1772747190
+|switch|p1a: Toxtricity|Toxtricity, L82, F|257/257
+|turn|22
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by vorpaldevil)
+|
+|t:|1772747232
+|move|p1a: Toxtricity|Boomburst|p2a: Mudsdale
+|-damage|p2a: Mudsdale|0 fnt
+|faint|p2a: Mudsdale
+|
+|upkeep
+|
+|t:|1772747236
+|switch|p2a: Rhydon|Rhydon, L85, F|317/317
+|turn|23
+|
+|t:|1772747248
+|switch|p1a: Vaporeon|Vaporeon, L86, F|364/364
+|move|p2a: Rhydon|Earthquake|p1a: Vaporeon
+|-damage|p1a: Vaporeon|201/364
+|
+|-heal|p1a: Vaporeon|223/364|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1772747253
+|move|p1a: Vaporeon|Scald|p2a: Rhydon
+|-supereffective|p2a: Rhydon
+|-damage|p2a: Rhydon|0 fnt
+|faint|p2a: Rhydon
+|
+|-heal|p1a: Vaporeon|245/364|[from] item: Leftovers
+|upkeep
+|
+|t:|1772747262
+|switch|p2a: Rayquaza|Rayquaza, L72|270/270
+|-ability|p2a: Rayquaza|Air Lock
+|turn|25
+|
+|t:|1772747266
+|move|p2a: Rayquaza|Dragon Dance|p2a: Rayquaza
+|-boost|p2a: Rayquaza|atk|1
+|-boost|p2a: Rayquaza|spe|1
+|move|p1a: Vaporeon|Wish|p1a: Vaporeon
+|
+|-heal|p1a: Vaporeon|267/364|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1772747278
+|switch|p1a: Diancie|Diancie, L82|216/216
+|move|p2a: Rayquaza|Earthquake|p1a: Diancie
+|-supereffective|p1a: Diancie
+|-damage|p1a: Diancie|68/216
+|
+|-heal|p1a: Diancie|216/216|[from] move: Wish|[wisher] Vaporeon
+|upkeep
+|turn|27
+|
+|t:|1772747287
+|-terastallize|p2a: Rayquaza|Flying
+|move|p2a: Rayquaza|Dragon Dance|p2a: Rayquaza
+|-boost|p2a: Rayquaza|atk|1
+|-boost|p2a: Rayquaza|spe|1
+|move|p1a: Diancie|Diamond Storm|p2a: Rayquaza
+|-supereffective|p2a: Rayquaza
+|-damage|p2a: Rayquaza|34/270
+|-boost|p1a: Diancie|def|2
+|
+|upkeep
+|turn|28
+|
+|t:|1772747292
+|move|p2a: Rayquaza|Earthquake|p1a: Diancie
+|-supereffective|p1a: Diancie
+|-damage|p1a: Diancie|116/216
+|move|p1a: Diancie|Diamond Storm|p2a: Rayquaza
+|-supereffective|p2a: Rayquaza
+|-damage|p2a: Rayquaza|0 fnt
+|-boost|p1a: Diancie|def|2
+|faint|p2a: Rayquaza
+|
+|-heal|p1a: Diancie|129/216|[from] item: Leftovers
+|upkeep
+|
+|t:|1772747294
+|switch|p2a: Iron Bundle|Iron Bundle, L78|215/215
+|turn|29
+|
+|t:|1772747300
+|switch|p1a: Vaporeon|Vaporeon, L86, F|267/364
+|move|p2a: Iron Bundle|Hydro Pump|p1a: Vaporeon
+|-heal|p1a: Vaporeon|358/364|[from] ability: Water Absorb|[of] p2a: Iron Bundle
+|
+|-heal|p1a: Vaporeon|364/364|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1772747310
+|switch|p1a: Blissey|Blissey, L85, F|572/572
+|move|p2a: Iron Bundle|Freeze-Dry|p1a: Blissey
+|-damage|p1a: Blissey|511/572
+|
+|-heal|p1a: Blissey|546/572|[from] item: Leftovers
+|upkeep
+|turn|31
+|inactive|Papelsech has 120 seconds left.
+|c|☆vorpaldevil|I promise I'm not trolling, I just can't afford to use a different tactic
+|inactive|Papelsech has 90 seconds left.
+|inactive|Papelsech has 60 seconds left.
+|inactive|Papelsech has 30 seconds left.
+|inactive|Papelsech has 20 seconds left.
+|inactive|Papelsech has 15 seconds left.
+|inactive|Papelsech has 10 seconds left.
+|inactive|Papelsech has 5 seconds left.
+|-message|Papelsech lost due to inactivity.
+|
+|win|vorpaldevil
+|raw|vorpaldevil's rating: 1707 &rarr; <strong>1727</strong><br />(+20 for winning)
+|raw|Papelsech's rating: 1703 &rarr; <strong>1683</strong><br />(-20 for losing)

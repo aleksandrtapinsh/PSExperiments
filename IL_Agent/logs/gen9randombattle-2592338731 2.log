@@ -1,0 +1,154 @@
+|j|‽Raydoge
+|j|☆el_sirenomanco
+|t:|1776980129
+|gametype|singles
+|player|p1|Raydoge|misty|1345
+|player|p2|el_sirenomanco|102|1342
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776980129
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Brute Bonnet|Brute Bonnet, L80|309/309
+|switch|p2a: Coalossal|Coalossal, L89, F|341/341
+|turn|1
+|
+|t:|1776980137
+|move|p1a: Brute Bonnet|Spore|p2a: Coalossal
+|-status|p2a: Coalossal|slp|[from] move: Spore
+|cant|p2a: Coalossal|slp
+|
+|upkeep
+|turn|2
+|
+|t:|1776980142
+|move|p1a: Brute Bonnet|Seed Bomb|p2a: Coalossal
+|-damage|p2a: Coalossal|271/341 slp
+|cant|p2a: Coalossal|slp
+|
+|upkeep
+|turn|3
+|
+|t:|1776980145
+|-end|p1a: Brute Bonnet|Protosynthesis|[silent]
+|switch|p1a: Bruxish|Bruxish, L85, M|254/254
+|cant|p2a: Coalossal|slp
+|
+|upkeep
+|turn|4
+|
+|t:|1776980154
+|move|p1a: Bruxish|Wave Crash|p2a: Coalossal
+|-supereffective|p2a: Coalossal
+|-crit|p2a: Coalossal
+|-damage|p2a: Coalossal|0 fnt
+|faint|p2a: Coalossal
+|-damage|p1a: Bruxish|165/254|[from] Recoil
+|
+|upkeep
+|
+|t:|1776980157
+|switch|p2a: Plusle|Plusle, L95, M|268/268
+|turn|5
+|
+|t:|1776980164
+|switch|p1a: Brute Bonnet|Brute Bonnet, L80|309/309
+|move|p2a: Plusle|Encore||[still]
+|-fail|p2a: Plusle
+|
+|upkeep
+|turn|6
+|
+|t:|1776980167
+|move|p2a: Plusle|Alluring Voice|p1a: Brute Bonnet
+|-supereffective|p1a: Brute Bonnet
+|-damage|p1a: Brute Bonnet|148/309
+|-damage|p2a: Plusle|242/268|[from] item: Life Orb
+|move|p1a: Brute Bonnet|Spore|p2a: Plusle
+|-status|p2a: Plusle|slp|[from] move: Spore
+|
+|-heal|p1a: Brute Bonnet|167/309|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776980171
+|cant|p2a: Plusle|slp
+|move|p1a: Brute Bonnet|Seed Bomb|p2a: Plusle
+|-damage|p2a: Plusle|91/268 slp
+|
+|-heal|p1a: Brute Bonnet|186/309|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776980175
+|-curestatus|p2a: Plusle|slp|[msg]
+|move|p2a: Plusle|Encore|p1a: Brute Bonnet
+|-start|p1a: Brute Bonnet|Encore
+|move|p1a: Brute Bonnet|Seed Bomb|p2a: Plusle
+|-crit|p2a: Plusle
+|-damage|p2a: Plusle|0 fnt
+|faint|p2a: Plusle
+|
+|-heal|p1a: Brute Bonnet|205/309|[from] item: Leftovers
+|upkeep
+|
+|t:|1776980180
+|switch|p2a: Noivern|Noivern, L82, F|274/274
+|turn|9
+|
+|t:|1776980193
+|-end|p1a: Brute Bonnet|Protosynthesis|[silent]
+|switch|p1a: Bruxish|Bruxish, L85, M|165/254
+|move|p2a: Noivern|Draco Meteor|p1a: Bruxish|[miss]
+|-miss|p2a: Noivern|p1a: Bruxish
+|
+|upkeep
+|turn|10
+|
+|t:|1776980200
+|switch|p2a: Ogerpon|Ogerpon, L80, F|259/259
+|move|p1a: Bruxish|Psychic Fangs|p2a: Ogerpon
+|-damage|p2a: Ogerpon|6/259
+|
+|upkeep
+|turn|11
+|
+|t:|1776980214
+|switch|p1a: Ogerpon|Ogerpon, L80, F|259/259
+|move|p2a: Ogerpon|Knock Off|p1a: Ogerpon
+|-damage|p1a: Ogerpon|151/259
+|-enditem|p1a: Ogerpon|Life Orb|[from] move: Knock Off|[of] p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt|[from] item: Life Orb
+|faint|p2a: Ogerpon
+|
+|upkeep
+|
+|t:|1776980218
+|switch|p2a: Sandslash|Sandslash-Alola, L88, F|275/275
+|turn|12
+|
+|t:|1776980222
+|move|p1a: Ogerpon|Superpower|p2a: Sandslash
+|-supereffective|p2a: Sandslash
+|-damage|p2a: Sandslash|11/275
+|-unboost|p1a: Ogerpon|atk|1
+|-unboost|p1a: Ogerpon|def|1
+|move|p2a: Sandslash|Triple Axel|p1a: Ogerpon|[miss]
+|-miss|p2a: Sandslash|p1a: Ogerpon
+|
+|upkeep
+|turn|13
+|-message|el_sirenomanco forfeited.
+|
+|win|Raydoge
+|raw|Raydoge's rating: 1345 &rarr; <strong>1365</strong><br />(+20 for winning)
+|raw|el_sirenomanco's rating: 1342 &rarr; <strong>1322</strong><br />(-20 for losing)
+|l|☆el_sirenomanco
+|player|p2|

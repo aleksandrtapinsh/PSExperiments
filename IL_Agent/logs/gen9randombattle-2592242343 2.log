@@ -1,0 +1,149 @@
+|j|☆Lachapellemon
+|j|☆Mihir1999
+|t:|1776972819
+|gametype|singles
+|player|p1|Lachapellemon|hugh|1498
+|player|p2|Mihir1999|1|1483
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776972819
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Brambleghast|Brambleghast, L88, M|240/240
+|switch|p2a: Chi-Yu|Chi-Yu, L77|211/211
+|-ability|p2a: Chi-Yu|Beads of Ruin
+|turn|1
+|
+|t:|1776972839
+|switch|p1a: Hippowdon|Hippowdon, L82, F|311/311
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|move|p2a: Chi-Yu|Fire Blast|p1a: Hippowdon
+|-damage|p1a: Hippowdon|122/311
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Chi-Yu|198/211|[from] Sandstorm
+|-heal|p1a: Hippowdon|141/311|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776972851
+|move|p2a: Chi-Yu|Fire Blast|p1a: Hippowdon
+|-damage|p1a: Hippowdon|0 fnt
+|faint|p1a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Chi-Yu|185/211|[from] Sandstorm
+|upkeep
+|
+|t:|1776972861
+|switch|p1a: Glimmora|Glimmora, L75, M|248/248
+|turn|3
+|
+|t:|1776972872
+|switch|p2a: Golduck|Golduck, L90, M|290/290
+|move|p1a: Glimmora|Meteor Beam||[still]
+|-prepare|p1a: Glimmora|Meteor Beam
+|-boost|p1a: Glimmora|spa|1
+|-enditem|p1a: Glimmora|Power Herb
+|-anim|p1a: Glimmora|Meteor Beam|p2a: Golduck
+|-damage|p2a: Golduck|77/290
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Golduck|59/290|[from] Sandstorm
+|-heal|p2a: Golduck|77/290|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776972885
+|move|p2a: Golduck|Hydro Pump|p1a: Glimmora
+|-supereffective|p1a: Glimmora
+|-damage|p1a: Glimmora|20/248
+|move|p1a: Glimmora|Energy Ball|p2a: Golduck
+|-supereffective|p2a: Golduck
+|-damage|p2a: Golduck|0 fnt
+|faint|p2a: Golduck
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1776972907
+|switch|p2a: Chi-Yu|Chi-Yu, L77|185/211
+|-ability|p2a: Chi-Yu|Beads of Ruin
+|turn|5
+|
+|t:|1776972925
+|move|p2a: Chi-Yu|Dark Pulse|p1a: Glimmora
+|-damage|p1a: Glimmora|0 fnt
+|faint|p1a: Glimmora
+|
+|-weather|none
+|upkeep
+|
+|t:|1776972932
+|switch|p1a: Spiritomb|Spiritomb, L89, M|234/234
+|turn|6
+|
+|t:|1776972955
+|move|p2a: Chi-Yu|Nasty Plot|p2a: Chi-Yu
+|-boost|p2a: Chi-Yu|spa|2
+|move|p1a: Spiritomb|Toxic|p2a: Chi-Yu
+|-status|p2a: Chi-Yu|tox
+|
+|-damage|p2a: Chi-Yu|172/211 tox|[from] psn
+|upkeep
+|turn|7
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Mihir1999)
+|inactive|Lachapellemon has 120 seconds left.
+|
+|t:|1776972998
+|move|p1a: Spiritomb|Sucker Punch|p2a: Chi-Yu
+|-resisted|p2a: Chi-Yu
+|-damage|p2a: Chi-Yu|122/211 tox
+|move|p2a: Chi-Yu|Fire Blast|p1a: Spiritomb
+|-damage|p1a: Spiritomb|0 fnt
+|faint|p1a: Spiritomb
+|
+|-damage|p2a: Chi-Yu|96/211 tox|[from] psn
+|upkeep
+|
+|t:|1776973010
+|switch|p1a: Brambleghast|Brambleghast, L88, M|240/240
+|turn|8
+|
+|t:|1776973024
+|switch|p2a: Brute Bonnet|Brute Bonnet, L80|309/309
+|move|p1a: Brambleghast|Substitute|p1a: Brambleghast
+|-start|p1a: Brambleghast|Substitute
+|-damage|p1a: Brambleghast|180/240
+|
+|-heal|p1a: Brambleghast|195/240|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776973034
+|move|p1a: Brambleghast|Poltergeist|p2a: Brute Bonnet
+|-activate|p2a: Brute Bonnet|move: Poltergeist|Leftovers
+|-resisted|p2a: Brute Bonnet
+|-damage|p2a: Brute Bonnet|237/309
+|move|p2a: Brute Bonnet|Crunch|p1a: Brambleghast
+|-supereffective|p1a: Brambleghast
+|-end|p1a: Brambleghast|Substitute
+|
+|-heal|p1a: Brambleghast|210/240|[from] item: Leftovers
+|-heal|p2a: Brute Bonnet|256/309|[from] item: Leftovers
+|upkeep
+|turn|10
+|-message|Lachapellemon forfeited.
+|
+|win|Mihir1999
+|raw|Lachapellemon's rating: 1498 &rarr; <strong>1477</strong><br />(-21 for losing)
+|raw|Mihir1999's rating: 1483 &rarr; <strong>1504</strong><br />(+21 for winning)
+|l|☆Lachapellemon
+|player|p1|

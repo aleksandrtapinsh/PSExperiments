@@ -1,0 +1,216 @@
+|j|☆Petit Empereur
+|j|☆Jimmypham2323
+|t:|1776975715
+|gametype|singles
+|player|p1|Petit Empereur|ninjaboy|1386
+|player|p2|Jimmypham2323|266|1354
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776975715
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Clefable|Clefable, L83, M|293/293
+|switch|p2a: Vikavolt|Vikavolt, L83, M|263/263
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Petit Empereur)
+|
+|t:|1776975726
+|move|p1a: Clefable|Fire Blast|p2a: Vikavolt
+|-supereffective|p2a: Vikavolt
+|-damage|p2a: Vikavolt|47/263
+|move|p2a: Vikavolt|Discharge|p1a: Clefable
+|-damage|p1a: Clefable|173/293
+|
+|upkeep
+|turn|2
+|
+|t:|1776975740
+|switch|p2a: Cyclizar|Cyclizar, L83, M|252/252
+|move|p1a: Clefable|Moonblast|p2a: Cyclizar
+|-supereffective|p2a: Cyclizar
+|-damage|p2a: Cyclizar|0 fnt
+|faint|p2a: Cyclizar
+|
+|upkeep
+|inactive|Jimmypham2323 has 120 seconds left.
+|
+|t:|1776975769
+|switch|p2a: Gallade|Gallade, L80, M|240/240
+|turn|3
+|
+|t:|1776975776
+|move|p2a: Gallade|Psycho Cut|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|
+|upkeep
+|
+|t:|1776975795
+|switch|p1a: Oricorio|Oricorio, L84, F|263/263
+|turn|4
+|
+|t:|1776975805
+|move|p1a: Oricorio|Quiver Dance|p1a: Oricorio
+|-boost|p1a: Oricorio|spa|1
+|-boost|p1a: Oricorio|spd|1
+|-boost|p1a: Oricorio|spe|1
+|move|p2a: Gallade|Psycho Cut|p1a: Oricorio
+|-damage|p1a: Oricorio|59/263
+|
+|upkeep
+|turn|5
+|
+|t:|1776975817
+|move|p1a: Oricorio|Hurricane|p2a: Gallade|[miss]
+|-miss|p1a: Oricorio|p2a: Gallade
+|move|p2a: Gallade|Psycho Cut|p1a: Oricorio
+|-damage|p1a: Oricorio|0 fnt
+|faint|p1a: Oricorio
+|
+|upkeep
+|
+|t:|1776975826
+|switch|p1a: Shaymin|Shaymin, L82|298/298
+|turn|6
+|
+|t:|1776975831
+|move|p1a: Shaymin|Air Slash|p2a: Gallade
+|-supereffective|p2a: Gallade
+|-damage|p2a: Gallade|150/240
+|move|p2a: Gallade|Psycho Cut|p1a: Shaymin
+|-damage|p1a: Shaymin|135/298
+|
+|-heal|p1a: Shaymin|153/298|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776975841
+|move|p1a: Shaymin|Air Slash|p2a: Gallade
+|-supereffective|p2a: Gallade
+|-damage|p2a: Gallade|62/240
+|move|p2a: Gallade|Psycho Cut|p1a: Shaymin
+|-damage|p1a: Shaymin|0 fnt
+|faint|p1a: Shaymin
+|
+|upkeep
+|
+|t:|1776975853
+|switch|p1a: Flutter Mane|Flutter Mane, L74|203/203
+|turn|8
+|
+|t:|1776975864
+|move|p1a: Flutter Mane|Shadow Ball|p2a: Gallade
+|-supereffective|p2a: Gallade
+|-damage|p2a: Gallade|0 fnt
+|faint|p2a: Gallade
+|-damage|p1a: Flutter Mane|183/203|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776975876
+|switch|p2a: Abomasnow|Abomasnow, L84, M|287/287
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Abomasnow
+|turn|9
+|
+|t:|1776975888
+|move|p1a: Flutter Mane|Calm Mind|p1a: Flutter Mane
+|-boost|p1a: Flutter Mane|spa|1
+|-boost|p1a: Flutter Mane|spd|1
+|move|p2a: Abomasnow|Blizzard|p1a: Flutter Mane
+|-damage|p1a: Flutter Mane|123/203
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1776975896
+|move|p1a: Flutter Mane|Moonblast|p2a: Abomasnow
+|-damage|p2a: Abomasnow|65/287
+|-unboost|p2a: Abomasnow|spa|1
+|-damage|p1a: Flutter Mane|103/203|[from] item: Life Orb
+|move|p2a: Abomasnow|Blizzard|p1a: Flutter Mane
+|-damage|p1a: Flutter Mane|61/203
+|-status|p1a: Flutter Mane|frz
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1776975908
+|cant|p1a: Flutter Mane|frz
+|move|p2a: Abomasnow|Blizzard|p1a: Flutter Mane
+|-damage|p1a: Flutter Mane|18/203 frz
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1776975915
+|cant|p1a: Flutter Mane|frz
+|move|p2a: Abomasnow|Blizzard|p1a: Flutter Mane
+|-damage|p1a: Flutter Mane|0 fnt
+|faint|p1a: Flutter Mane
+|-end|p1a: Flutter Mane|Protosynthesis|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1776975924
+|switch|p1a: Farigiraf|Farigiraf, L90, M|362/362
+|turn|13
+|
+|t:|1776975932
+|move|p1a: Farigiraf|Psychic Noise|p2a: Abomasnow
+|-crit|p2a: Abomasnow
+|-damage|p2a: Abomasnow|0 fnt
+|faint|p2a: Abomasnow
+|
+|-weather|none
+|upkeep
+|
+|t:|1776975951
+|switch|p2a: Flutter Mane|Flutter Mane, L74|203/203
+|turn|14
+|
+|t:|1776975959
+|move|p2a: Flutter Mane|Calm Mind|p2a: Flutter Mane
+|-boost|p2a: Flutter Mane|spa|1
+|-boost|p2a: Flutter Mane|spd|1
+|move|p1a: Farigiraf|Psychic Noise|p2a: Flutter Mane
+|-damage|p2a: Flutter Mane|152/203
+|-start|p2a: Flutter Mane|move: Heal Block
+|
+|upkeep
+|turn|15
+|
+|t:|1776975971
+|switch|p1a: Toxicroak|Toxicroak, L84, F|277/277
+|move|p2a: Flutter Mane|Calm Mind|p2a: Flutter Mane
+|-boost|p2a: Flutter Mane|spa|1
+|-boost|p2a: Flutter Mane|spd|1
+|
+|-end|p2a: Flutter Mane|move: Heal Block
+|upkeep
+|turn|16
+|
+|t:|1776975982
+|move|p2a: Flutter Mane|Moonblast|p1a: Toxicroak
+|-damage|p1a: Toxicroak|0 fnt
+|faint|p1a: Toxicroak
+|-damage|p2a: Flutter Mane|132/203|[from] item: Life Orb
+|
+|upkeep
+|-message|Petit Empereur forfeited.
+|
+|win|Jimmypham2323
+|raw|Petit Empereur's rating: 1386 &rarr; <strong>1364</strong><br />(-22 for losing)
+|raw|Jimmypham2323's rating: 1354 &rarr; <strong>1376</strong><br />(+22 for winning)
+|l|☆Petit Empereur
+|player|p1|

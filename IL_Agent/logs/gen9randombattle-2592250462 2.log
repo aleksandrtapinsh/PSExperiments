@@ -1,0 +1,110 @@
+|j|☆Igna_Lun
+|j|☆notthatdandelion
+|t:|1776973386
+|gametype|singles
+|player|p1|Igna_Lun|mira|1505
+|player|p2|notthatdandelion|jasmine-gen2|1491
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776973386
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Arceus|Arceus-Fighting, L70|284/284
+|switch|p2a: Meowscarada|Meowscarada, L78, F|247/247
+|turn|1
+|
+|t:|1776973399
+|move|p2a: Meowscarada|Toxic Spikes|p1a: Arceus
+|-start|p2a: Meowscarada|typechange|Poison|[from] ability: Protean
+|-sidestart|p1: Igna_Lun|move: Toxic Spikes
+|move|p1a: Arceus|Cosmic Power|p1a: Arceus
+|-boost|p1a: Arceus|def|1
+|-boost|p1a: Arceus|spd|1
+|
+|upkeep
+|turn|2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by notthatdandelion)
+|
+|t:|1776973410
+|move|p2a: Meowscarada|U-turn|p1a: Arceus
+|-resisted|p1a: Arceus
+|-damage|p1a: Arceus|268/284
+|
+|t:|1776973412
+|switch|p2a: Dunsparce|Dunsparce, L86, M|312/312|[from] U-turn
+|move|p1a: Arceus|Cosmic Power|p1a: Arceus
+|-boost|p1a: Arceus|def|1
+|-boost|p1a: Arceus|spd|1
+|
+|upkeep
+|turn|3
+|
+|t:|1776973420
+|move|p1a: Arceus|Body Press|p2a: Dunsparce
+|-supereffective|p2a: Dunsparce
+|-crit|p2a: Dunsparce
+|-damage|p2a: Dunsparce|0 fnt
+|faint|p2a: Dunsparce
+|
+|upkeep
+|
+|t:|1776973431
+|switch|p2a: Indeedee|Indeedee, L84, M|238/238
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Indeedee
+|turn|4
+|
+|t:|1776973440
+|move|p2a: Indeedee|Expanding Force|p1a: Arceus
+|-supereffective|p1a: Arceus
+|-damage|p1a: Arceus|94/284
+|move|p1a: Arceus|Cosmic Power|p1a: Arceus
+|-boost|p1a: Arceus|def|1
+|-boost|p1a: Arceus|spd|1
+|
+|upkeep
+|turn|5
+|
+|t:|1776973448
+|-terastallize|p1a: Arceus|Steel
+|move|p2a: Indeedee|Expanding Force|p1a: Arceus
+|-resisted|p1a: Arceus
+|-damage|p1a: Arceus|58/284
+|move|p1a: Arceus|Recover|p1a: Arceus
+|-heal|p1a: Arceus|200/284
+|
+|upkeep
+|turn|6
+|
+|t:|1776973458
+|switch|p2a: Magmortar|Magmortar, L88, F|275/275
+|move|p1a: Arceus|Cosmic Power|p1a: Arceus
+|-boost|p1a: Arceus|def|1
+|-boost|p1a: Arceus|spd|1
+|
+|upkeep
+|turn|7
+|
+|t:|1776973466
+|move|p1a: Arceus|Cosmic Power|p1a: Arceus
+|-boost|p1a: Arceus|def|1
+|-boost|p1a: Arceus|spd|1
+|move|p2a: Magmortar|Fire Blast|p1a: Arceus
+|-supereffective|p1a: Arceus
+|-damage|p1a: Arceus|114/284
+|
+|upkeep
+|turn|8
+|-message|notthatdandelion forfeited.
+|
+|win|Igna_Lun
+|raw|Igna_Lun's rating: 1505 &rarr; <strong>1524</strong><br />(+19 for winning)
+|raw|notthatdandelion's rating: 1491 &rarr; <strong>1472</strong><br />(-19 for losing)
+|l|☆notthatdandelion
+|player|p2|

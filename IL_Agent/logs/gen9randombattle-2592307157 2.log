@@ -1,0 +1,344 @@
+|j|☆598u
+|j|☆Rvmses
+|t:|1776977549
+|gametype|singles
+|player|p1|598u|170|1559
+|player|p2|Rvmses|266|1613
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776977549
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Salazzle|Salazzle, L83, F|249/249
+|switch|p2a: Swanna|Swanna, L89, F|278/278
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by 598u)
+|
+|t:|1776977559
+|switch|p1a: Palafin|Palafin, L77, M|281/281
+|move|p2a: Swanna|Hydro Pump|p1a: Palafin|[miss]
+|-miss|p2a: Swanna|p1a: Palafin
+|
+|upkeep
+|turn|2
+|
+|t:|1776977573
+|move|p2a: Swanna|Brave Bird|p1a: Palafin
+|-damage|p1a: Palafin|116/281
+|-damage|p2a: Swanna|224/278|[from] Recoil
+|move|p1a: Palafin|Flip Turn|p2a: Swanna
+|-resisted|p2a: Swanna
+|-damage|p2a: Swanna|188/278
+|
+|t:|1776977595
+|detailschange|p1a: Palafin|Palafin-Hero, L77, M
+|switch|p1a: Salazzle|Salazzle, L83, F|249/249|[from] Flip Turn
+|
+|upkeep
+|turn|3
+|
+|t:|1776977620
+|move|p1a: Salazzle|Sludge Wave|p2a: Swanna
+|-damage|p2a: Swanna|49/278
+|move|p2a: Swanna|Hydro Pump|p1a: Salazzle
+|-supereffective|p1a: Salazzle
+|-damage|p1a: Salazzle|0 fnt
+|faint|p1a: Salazzle
+|
+|upkeep
+|
+|t:|1776977626
+|switch|p1a: Palafin|Palafin-Hero, L77, M|116/281
+|-activate|p1a: Palafin|ability: Zero to Hero
+|turn|4
+|
+|t:|1776977629
+|move|p1a: Palafin|Jet Punch|p2a: Swanna
+|-resisted|p2a: Swanna
+|-damage|p2a: Swanna|0 fnt
+|faint|p2a: Swanna
+|
+|upkeep
+|
+|t:|1776977641
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, L75, M|274/274
+|turn|5
+|
+|t:|1776977656
+|switch|p1a: Slither Wing|Slither Wing, L81|270/270
+|move|p2a: Urshifu|Close Combat|p1a: Slither Wing
+|-resisted|p1a: Slither Wing
+|-damage|p1a: Slither Wing|194/270
+|-unboost|p2a: Urshifu|def|1
+|-unboost|p2a: Urshifu|spd|1
+|
+|upkeep
+|turn|6
+|
+|t:|1776977664
+|switch|p2a: Bronzong|Bronzong, L88|261/261
+|move|p1a: Slither Wing|Will-O-Wisp|p2a: Bronzong
+|-status|p2a: Bronzong|brn
+|
+|-damage|p2a: Bronzong|245/261 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1776977671
+|-end|p1a: Slither Wing|Protosynthesis|[silent]
+|switch|p1a: Chansey|Chansey, L85, F|564/564
+|move|p2a: Bronzong|Iron Defense|p2a: Bronzong
+|-boost|p2a: Bronzong|def|2
+|
+|-heal|p2a: Bronzong|261/261 brn|[from] item: Leftovers
+|-damage|p2a: Bronzong|245/261 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1776977687
+|move|p1a: Chansey|Seismic Toss|p2a: Bronzong
+|-damage|p2a: Bronzong|160/261 brn
+|move|p2a: Bronzong|Body Press|p1a: Chansey
+|-supereffective|p1a: Chansey
+|-damage|p1a: Chansey|249/564
+|
+|-heal|p2a: Bronzong|176/261 brn|[from] item: Leftovers
+|-damage|p2a: Bronzong|160/261 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1776977695
+|switch|p1a: Slither Wing|Slither Wing, L81|194/270
+|move|p2a: Bronzong|Body Press|p1a: Slither Wing
+|-resisted|p1a: Slither Wing
+|-damage|p1a: Slither Wing|157/270
+|
+|-heal|p2a: Bronzong|176/261 brn|[from] item: Leftovers
+|-damage|p2a: Bronzong|160/261 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1776977701
+|move|p1a: Slither Wing|Close Combat|p2a: Bronzong
+|-damage|p2a: Bronzong|100/261 brn
+|-unboost|p1a: Slither Wing|def|1
+|-unboost|p1a: Slither Wing|spd|1
+|move|p2a: Bronzong|Psychic Noise|p1a: Slither Wing
+|-supereffective|p1a: Slither Wing
+|-damage|p1a: Slither Wing|0 fnt
+|faint|p1a: Slither Wing
+|-end|p1a: Slither Wing|Protosynthesis|[silent]
+|
+|-heal|p2a: Bronzong|116/261 brn|[from] item: Leftovers
+|-damage|p2a: Bronzong|100/261 brn|[from] brn
+|upkeep
+|
+|t:|1776977710
+|switch|p1a: Lilligant|Lilligant, L86, F|261/261
+|turn|11
+|
+|t:|1776977719
+|-terastallize|p1a: Lilligant|Grass
+|move|p1a: Lilligant|Petal Dance|p2a: Bronzong
+|-resisted|p2a: Bronzong
+|-damage|p2a: Bronzong|6/261 brn
+|-damage|p1a: Lilligant|235/261|[from] item: Life Orb
+|move|p2a: Bronzong|Body Press|p1a: Lilligant
+|-damage|p1a: Lilligant|153/261
+|
+|-heal|p2a: Bronzong|22/261 brn|[from] item: Leftovers
+|-damage|p2a: Bronzong|6/261 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1776977725
+|move|p1a: Lilligant|Petal Dance|p2a: Bronzong|[from] lockedmove
+|-resisted|p2a: Bronzong
+|-damage|p2a: Bronzong|0 fnt
+|faint|p2a: Bronzong
+|-damage|p1a: Lilligant|127/261|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776977730
+|switch|p2a: Ceruledge|Ceruledge, L78, F|245/245
+|turn|13
+|
+|t:|1776977739
+|move|p1a: Lilligant|Sleep Powder|p2a: Ceruledge
+|-status|p2a: Ceruledge|slp|[from] move: Sleep Powder
+|cant|p2a: Ceruledge|slp
+|
+|upkeep
+|turn|14
+|
+|t:|1776977747
+|switch|p1a: Great Tusk|Great Tusk, L77|304/304
+|-enditem|p1a: Great Tusk|Booster Energy
+|-activate|p1a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p1a: Great Tusk|protosynthesisatk
+|cant|p2a: Ceruledge|slp
+|
+|upkeep
+|turn|15
+|
+|t:|1776977760
+|-terastallize|p2a: Ceruledge|Ghost
+|move|p1a: Great Tusk|Earthquake|p2a: Ceruledge
+|-damage|p2a: Ceruledge|77/245 slp
+|-ability|p2a: Ceruledge|Weak Armor|boost
+|-unboost|p2a: Ceruledge|def|1
+|-boost|p2a: Ceruledge|spe|2
+|-curestatus|p2a: Ceruledge|slp|[msg]
+|move|p2a: Ceruledge|Poltergeist||[still]
+|-fail|p2a: Ceruledge
+|
+|upkeep
+|turn|16
+|
+|t:|1776977774
+|move|p2a: Ceruledge|Bitter Blade|p1a: Great Tusk
+|-damage|p1a: Great Tusk|228/304
+|-heal|p2a: Ceruledge|115/245|[from] drain|[of] p1a: Great Tusk
+|move|p1a: Great Tusk|Earthquake|p2a: Ceruledge
+|-damage|p2a: Ceruledge|0 fnt
+|faint|p2a: Ceruledge
+|
+|upkeep
+|
+|t:|1776977780
+|switch|p2a: Weezing|Weezing, L88, F|258/258
+|turn|17
+|
+|t:|1776977792
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Chansey|Chansey, L85, F|249/564
+|move|p2a: Weezing|Toxic Spikes|p1a: Chansey
+|-sidestart|p1: 598u|move: Toxic Spikes
+|
+|upkeep
+|turn|18
+|
+|t:|1776977798
+|move|p2a: Weezing|Gunk Shot|p1a: Chansey
+|-damage|p1a: Chansey|0 fnt
+|faint|p1a: Chansey
+|
+|upkeep
+|
+|t:|1776977803
+|switch|p1a: Palafin|Palafin-Hero, L77, M|116/281
+|-status|p1a: Palafin|psn
+|turn|19
+|
+|t:|1776977809
+|move|p1a: Palafin|Wave Crash|p2a: Weezing
+|-damage|p2a: Weezing|89/258
+|-damage|p1a: Palafin|60/281 psn|[from] Recoil
+|move|p2a: Weezing|Gunk Shot|p1a: Palafin
+|-damage|p1a: Palafin|0 fnt
+|faint|p1a: Palafin
+|
+|-heal|p2a: Weezing|105/258|[from] item: Leftovers
+|upkeep
+|
+|t:|1776977821
+|switch|p1a: Great Tusk|Great Tusk, L77|228/304
+|-status|p1a: Great Tusk|psn
+|turn|20
+|
+|t:|1776977825
+|move|p1a: Great Tusk|Rapid Spin|p2a: Weezing
+|-damage|p2a: Weezing|77/258
+|-boost|p1a: Great Tusk|spe|1
+|-sideend|p1: 598u|Toxic Spikes|[from] move: Rapid Spin|[of] p1a: Great Tusk
+|move|p2a: Weezing|Gunk Shot|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|174/304 psn
+|
+|-heal|p2a: Weezing|93/258|[from] item: Leftovers
+|-damage|p1a: Great Tusk|136/304 psn|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1776977848
+|move|p1a: Great Tusk|Close Combat|p2a: Weezing
+|-resisted|p2a: Weezing
+|-damage|p2a: Weezing|45/258
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|move|p2a: Weezing|Toxic Spikes|p1a: Great Tusk
+|-sidestart|p1: 598u|move: Toxic Spikes
+|
+|-heal|p2a: Weezing|61/258|[from] item: Leftovers
+|-damage|p1a: Great Tusk|98/304 psn|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1776977876
+|move|p1a: Great Tusk|Rapid Spin|p2a: Weezing
+|-damage|p2a: Weezing|33/258
+|-boost|p1a: Great Tusk|spe|1
+|-sideend|p1: 598u|Toxic Spikes|[from] move: Rapid Spin|[of] p1a: Great Tusk
+|move|p2a: Weezing|Pain Split|p1a: Great Tusk
+|-sethp|p1a: Great Tusk|65/304 psn|[from] move: Pain Split|[silent]
+|-sethp|p2a: Weezing|65/258|[from] move: Pain Split
+|
+|-heal|p2a: Weezing|81/258|[from] item: Leftovers
+|-damage|p1a: Great Tusk|27/304 psn|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1776977884
+|move|p1a: Great Tusk|Rapid Spin|p2a: Weezing
+|-damage|p2a: Weezing|52/258
+|-boost|p1a: Great Tusk|spe|1
+|move|p2a: Weezing|Toxic Spikes|p1a: Great Tusk
+|-sidestart|p1: 598u|move: Toxic Spikes
+|
+|-heal|p2a: Weezing|68/258|[from] item: Leftovers
+|-damage|p1a: Great Tusk|0 fnt|[from] psn
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|upkeep
+|
+|t:|1776977886
+|switch|p1a: Lilligant|Lilligant, L86, F, tera:Grass|127/261
+|-status|p1a: Lilligant|psn
+|turn|24
+|
+|t:|1776977895
+|move|p1a: Lilligant|Petal Dance|p2a: Weezing
+|-resisted|p2a: Weezing
+|-damage|p2a: Weezing|0 fnt
+|faint|p2a: Weezing
+|-damage|p1a: Lilligant|101/261 psn|[from] item: Life Orb
+|
+|-damage|p1a: Lilligant|69/261 psn|[from] psn
+|upkeep
+|
+|t:|1776977900
+|switch|p2a: Gurdurr|Gurdurr, L85, F|283/283
+|turn|25
+|
+|t:|1776977902
+|move|p1a: Lilligant|Petal Dance|p2a: Gurdurr|[from] lockedmove
+|-damage|p2a: Gurdurr|13/283
+|-damage|p1a: Lilligant|43/261 psn|[from] item: Life Orb
+|move|p2a: Gurdurr|Knock Off|p1a: Lilligant
+|-damage|p1a: Lilligant|0 fnt
+|-enditem|p1a: Lilligant|Life Orb|[from] move: Knock Off|[of] p2a: Gurdurr
+|faint|p1a: Lilligant
+|
+|win|Rvmses
+|raw|598u's rating: 1559 &rarr; <strong>1542</strong><br />(-17 for losing)
+|raw|Rvmses's rating: 1613 &rarr; <strong>1630</strong><br />(+17 for winning)
+|l|☆598u
+|player|p1|

@@ -1,0 +1,377 @@
+|j|☆Pokefameboy
+|j|☆SXD2002
+|t:|1776974616
+|gametype|singles
+|player|p1|Pokefameboy|volkner|1453
+|player|p2|SXD2002|101|1482
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776974616
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Jirachi|Jirachi, L80|291/291
+|switch|p2a: Mew|Mew, L82|298/298
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Pokefameboy)
+|
+|t:|1776974633
+|switch|p1a: Persian|Persian, L92, M|269/269
+|move|p2a: Mew|Nasty Plot|p2a: Mew
+|-boost|p2a: Mew|spa|2
+|
+|upkeep
+|turn|2
+|
+|t:|1776974640
+|switch|p2a: Granbull|Granbull, L88, F|302/302
+|-ability|p2a: Granbull|Intimidate|boost
+|-unboost|p1a: Persian|atk|1
+|move|p1a: Persian|U-turn|p2a: Granbull
+|-resisted|p2a: Granbull
+|-damage|p2a: Granbull|278/302
+|
+|t:|1776974650
+|switch|p1a: Jirachi|Jirachi, L80|291/291|[from] U-turn
+|
+|-heal|p2a: Granbull|296/302|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776974657
+|switch|p2a: Arbok|Arbok, L87, F|246/246
+|-ability|p2a: Arbok|Intimidate|boost
+|-unboost|p1a: Jirachi|atk|1
+|move|p1a: Jirachi|Iron Head|p2a: Arbok
+|-damage|p2a: Arbok|188/246
+|
+|-heal|p2a: Arbok|203/246|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776974661
+|switch|p1a: Grumpig|Grumpig, L92, M|297/297
+|move|p2a: Arbok|Coil|p2a: Arbok
+|-boost|p2a: Arbok|atk|1
+|-boost|p2a: Arbok|def|1
+|-boost|p2a: Arbok|accuracy|1
+|
+|-heal|p2a: Arbok|218/246|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776974669
+|switch|p2a: Ariados|Ariados, L95, M|287/287
+|move|p1a: Grumpig|Psychic|p2a: Ariados
+|-supereffective|p2a: Ariados
+|-damage|p2a: Ariados|83/287
+|
+|upkeep
+|turn|6
+|
+|t:|1776974674
+|switch|p2a: Mew|Mew, L82|298/298
+|move|p1a: Grumpig|Psychic|p2a: Mew
+|-resisted|p2a: Mew
+|-damage|p2a: Mew|245/298
+|
+|upkeep
+|turn|7
+|
+|t:|1776974682
+|switch|p1a: Gumshoos|Gumshoos, L95, F|321/321
+|move|p2a: Mew|Psyshock|p1a: Gumshoos
+|-damage|p1a: Gumshoos|195/321
+|-damage|p2a: Mew|216/298|[from] item: Life Orb
+|
+|upkeep
+|turn|8
+|
+|t:|1776974688
+|move|p2a: Mew|Dark Pulse|p1a: Gumshoos
+|-damage|p1a: Gumshoos|114/321
+|-damage|p2a: Mew|187/298|[from] item: Life Orb
+|move|p1a: Gumshoos|U-turn|p2a: Mew
+|-supereffective|p2a: Mew
+|-damage|p2a: Mew|0 fnt
+|faint|p2a: Mew
+|
+|t:|1776974698
+|switch|p1a: Persian|Persian, L92, M|269/269|[from] U-turn
+|
+|upkeep
+|
+|t:|1776974703
+|switch|p2a: Granbull|Granbull, L88, F|296/302
+|-ability|p2a: Granbull|Intimidate|boost
+|-unboost|p1a: Persian|atk|1
+|turn|9
+|
+|t:|1776974707
+|move|p1a: Persian|U-turn|p2a: Granbull
+|-resisted|p2a: Granbull
+|-crit|p2a: Granbull
+|-damage|p2a: Granbull|237/302
+|
+|t:|1776974711
+|switch|p1a: Gumshoos|Gumshoos, L95, F|114/321|[from] U-turn
+|move|p2a: Granbull|Thunder Wave|p1a: Gumshoos|[miss]
+|-miss|p2a: Granbull|p1a: Gumshoos
+|
+|-heal|p2a: Granbull|255/302|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1776974718
+|move|p1a: Gumshoos|Double-Edge|p2a: Granbull
+|-crit|p2a: Granbull
+|-damage|p2a: Granbull|0 fnt
+|faint|p2a: Granbull
+|-damage|p1a: Gumshoos|30/321|[from] Recoil
+|
+|upkeep
+|
+|t:|1776974724
+|switch|p2a: Ariados|Ariados, L95, M|83/287
+|turn|11
+|
+|t:|1776974726
+|move|p2a: Ariados|Sucker Punch|p1a: Gumshoos
+|-damage|p1a: Gumshoos|0 fnt
+|faint|p1a: Gumshoos
+|
+|upkeep
+|
+|t:|1776974733
+|switch|p1a: Persian|Persian, L92, M|269/269
+|turn|12
+|
+|t:|1776974738
+|-terastallize|p2a: Ariados|Ghost
+|move|p1a: Persian|Double-Edge|p2a: Ariados
+|-immune|p2a: Ariados
+|move|p2a: Ariados|Sticky Web|p1a: Persian
+|-sidestart|p1: Pokefameboy|move: Sticky Web
+|
+|upkeep
+|turn|13
+|
+|t:|1776974742
+|switch|p1a: Avalugg|Avalugg-Hisui, L90, M|317/317
+|move|p2a: Ariados|Poison Jab|p1a: Avalugg
+|-resisted|p1a: Avalugg
+|-damage|p1a: Avalugg|290/317
+|
+|upkeep
+|turn|14
+|
+|t:|1776974749
+|switch|p2a: Medicham|Medicham, L86, M|243/243
+|switch|p1a: Jirachi|Jirachi, L80|291/291
+|-activate|p1a: Jirachi|move: Sticky Web
+|-unboost|p1a: Jirachi|spe|1
+|
+|upkeep
+|turn|15
+|
+|t:|1776974756
+|switch|p2a: Arbok|Arbok, L87, F|218/246
+|-ability|p2a: Arbok|Intimidate|boost
+|-unboost|p1a: Jirachi|atk|1
+|move|p1a: Jirachi|Protect||[still]
+|-fail|p1a: Jirachi
+|
+|-heal|p2a: Arbok|233/246|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776974764
+|switch|p1a: Grumpig|Grumpig, L92, M|297/297
+|-activate|p1a: Grumpig|move: Sticky Web
+|-unboost|p1a: Grumpig|spe|1
+|move|p2a: Arbok|Coil|p2a: Arbok
+|-boost|p2a: Arbok|atk|1
+|-boost|p2a: Arbok|def|1
+|-boost|p2a: Arbok|accuracy|1
+|
+|-heal|p2a: Arbok|246/246|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1776974771
+|move|p1a: Grumpig|Psychic|p2a: Arbok
+|-supereffective|p2a: Arbok
+|-damage|p2a: Arbok|18/246
+|move|p2a: Arbok|Gunk Shot|p1a: Grumpig
+|-damage|p1a: Grumpig|86/297
+|
+|-heal|p2a: Arbok|33/246|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1776974778
+|move|p2a: Arbok|Sucker Punch|p1a: Grumpig
+|-supereffective|p1a: Grumpig
+|-damage|p1a: Grumpig|0 fnt
+|faint|p1a: Grumpig
+|
+|-heal|p2a: Arbok|48/246|[from] item: Leftovers
+|upkeep
+|
+|t:|1776974781
+|switch|p1a: Avalugg|Avalugg-Hisui, L90, M|290/317
+|turn|19
+|
+|t:|1776974789
+|switch|p2a: Ariados|Ariados, L95, M, tera:Ghost|83/287
+|move|p1a: Avalugg|Rapid Spin|p2a: Ariados
+|-immune|p2a: Ariados
+|
+|upkeep
+|turn|20
+|
+|t:|1776974792
+|switch|p2a: Medicham|Medicham, L86, M|243/243
+|move|p1a: Avalugg|Stone Edge|p2a: Medicham
+|-resisted|p2a: Medicham
+|-damage|p2a: Medicham|165/243
+|
+|upkeep
+|turn|21
+|
+|t:|1776974800
+|switch|p1a: Brambleghast|Brambleghast, L88, F|240/240
+|-activate|p1a: Brambleghast|move: Sticky Web
+|-unboost|p1a: Brambleghast|spe|1
+|move|p2a: Medicham|Close Combat|p1a: Brambleghast
+|-immune|p1a: Brambleghast
+|
+|upkeep
+|turn|22
+|
+|t:|1776974809
+|switch|p2a: Arbok|Arbok, L87, F|48/246
+|-ability|p2a: Arbok|Intimidate|boost
+|-unboost|p1a: Brambleghast|atk|1
+|move|p1a: Brambleghast|Poltergeist|p2a: Arbok
+|-activate|p2a: Arbok|move: Poltergeist|Leftovers
+|-damage|p2a: Arbok|0 fnt
+|faint|p2a: Arbok
+|
+|upkeep
+|
+|t:|1776974812
+|switch|p2a: Sunflora|Sunflora, M|312/312
+|turn|23
+|
+|t:|1776974822
+|move|p1a: Brambleghast|Poltergeist|p2a: Sunflora|[miss]
+|-miss|p1a: Brambleghast|p2a: Sunflora
+|move|p2a: Sunflora|Sunny Day|p2a: Sunflora
+|-weather|SunnyDay
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|24
+|
+|t:|1776974844
+|move|p2a: Sunflora|Weather Ball|p1a: Brambleghast
+|-supereffective|p1a: Brambleghast
+|-damage|p1a: Brambleghast|0 fnt
+|faint|p1a: Brambleghast
+|-damage|p2a: Sunflora|281/312|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1776974851
+|switch|p1a: Avalugg|Avalugg-Hisui, L90, M|290/317
+|turn|25
+|
+|t:|1776974860
+|move|p2a: Sunflora|Solar Beam||[still]
+|-prepare|p2a: Sunflora|Solar Beam
+|-anim|p2a: Sunflora|Solar Beam|p1a: Avalugg
+|-supereffective|p1a: Avalugg
+|-damage|p1a: Avalugg|0 fnt
+|faint|p1a: Avalugg
+|-damage|p2a: Sunflora|250/312|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1776974866
+|switch|p1a: Persian|Persian, L92, M|269/269
+|-activate|p1a: Persian|move: Sticky Web
+|-unboost|p1a: Persian|spe|1
+|turn|26
+|
+|t:|1776974871
+|move|p2a: Sunflora|Solar Beam||[still]
+|-prepare|p2a: Sunflora|Solar Beam
+|-anim|p2a: Sunflora|Solar Beam|p1a: Persian
+|-damage|p1a: Persian|0 fnt
+|faint|p1a: Persian
+|-damage|p2a: Sunflora|219/312|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1776974875
+|switch|p1a: Jirachi|Jirachi, L80|291/291
+|-activate|p1a: Jirachi|move: Sticky Web
+|-unboost|p1a: Jirachi|spe|1
+|turn|27
+|
+|t:|1776974884
+|move|p1a: Jirachi|Protect|p1a: Jirachi
+|-singleturn|p1a: Jirachi|Protect
+|move|p2a: Sunflora|Weather Ball|p1a: Jirachi
+|-activate|p1a: Jirachi|move: Protect
+|
+|-weather|none
+|upkeep
+|turn|28
+|
+|t:|1776974893
+|move|p1a: Jirachi|Body Slam|p2a: Sunflora
+|-damage|p2a: Sunflora|157/312
+|-status|p2a: Sunflora|par
+|move|p2a: Sunflora|Sunny Day|p2a: Sunflora
+|-weather|SunnyDay
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|29
+|
+|t:|1776974903
+|move|p1a: Jirachi|Protect|p1a: Jirachi
+|-singleturn|p1a: Jirachi|Protect
+|cant|p2a: Sunflora|par
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|30
+|
+|t:|1776974910
+|-terastallize|p1a: Jirachi|Water
+|move|p1a: Jirachi|Wish|p1a: Jirachi
+|move|p2a: Sunflora|Solar Beam||[still]
+|-prepare|p2a: Sunflora|Solar Beam
+|-anim|p2a: Sunflora|Solar Beam|p1a: Jirachi
+|-supereffective|p1a: Jirachi
+|-damage|p1a: Jirachi|0 fnt
+|faint|p1a: Jirachi
+|-damage|p2a: Sunflora|126/312 par|[from] item: Life Orb
+|
+|win|SXD2002
+|raw|Pokefameboy's rating: 1453 &rarr; <strong>1435</strong><br />(-18 for losing)
+|raw|SXD2002's rating: 1482 &rarr; <strong>1500</strong><br />(+18 for winning)
+|l|☆Pokefameboy
+|player|p1|

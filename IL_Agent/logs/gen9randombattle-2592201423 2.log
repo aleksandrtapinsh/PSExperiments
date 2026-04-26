@@ -1,0 +1,265 @@
+|j|☆Hdhhdgjfhdhdhdd
+|j|☆LTheLetter
+|t:|1776970013
+|gametype|singles
+|player|p1|Hdhhdgjfhdhdhdd|169|1040
+|player|p2|LTheLetter|lysandre|1069
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776970013
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Altaria|Altaria, L89, M|278/278
+|switch|p2a: Magearna|Magearna-Original, L77|250/250
+|turn|1
+|
+|t:|1776970020
+|switch|p1a: Mienshao|Mienshao, L83, F|244/244
+|move|p2a: Magearna|Fleur Cannon|p1a: Mienshao
+|-supereffective|p1a: Mienshao
+|-damage|p1a: Mienshao|0 fnt
+|-unboost|p2a: Magearna|spa|2
+|faint|p1a: Mienshao
+|-ability|p2a: Magearna|Soul-Heart|boost
+|-boost|p2a: Magearna|spa|1
+|
+|upkeep
+|
+|t:|1776970022
+|switch|p1a: Iron Thorns|Iron Thorns, L83|302/302
+|-enditem|p1a: Iron Thorns|Booster Energy
+|-activate|p1a: Iron Thorns|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Thorns|quarkdriveatk
+|turn|2
+|
+|t:|1776970037
+|-terastallize|p2a: Magearna|Ground
+|move|p1a: Iron Thorns|Dragon Dance|p1a: Iron Thorns
+|-boost|p1a: Iron Thorns|atk|1
+|-boost|p1a: Iron Thorns|spe|1
+|move|p2a: Magearna|Tera Blast|p1a: Iron Thorns|[anim] Tera Blast Ground
+|-supereffective|p1a: Iron Thorns
+|-damage|p1a: Iron Thorns|46/302
+|
+|upkeep
+|turn|3
+|
+|t:|1776970046
+|move|p1a: Iron Thorns|Earthquake|p2a: Magearna
+|-damage|p2a: Magearna|104/250
+|move|p2a: Magearna|Tera Blast|p1a: Iron Thorns|[anim] Tera Blast Ground
+|-supereffective|p1a: Iron Thorns
+|-damage|p1a: Iron Thorns|0 fnt
+|faint|p1a: Iron Thorns
+|-ability|p2a: Magearna|Soul-Heart|boost
+|-boost|p2a: Magearna|spa|1
+|-end|p1a: Iron Thorns|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1776970048
+|switch|p1a: Ninetales|Ninetales-Alola, L78, M|242/242
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p1a: Ninetales
+|turn|4
+|
+|t:|1776970053
+|move|p1a: Ninetales|Blizzard|p2a: Magearna
+|-supereffective|p2a: Magearna
+|-damage|p2a: Magearna|0 fnt
+|faint|p2a: Magearna
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1776970057
+|switch|p2a: Magcargo|Magcargo, L95, M|268/268
+|turn|5
+|
+|t:|1776970066
+|move|p1a: Ninetales|Aurora Veil|p1a: Ninetales
+|-sidestart|p1: Hdhhdgjfhdhdhdd|move: Aurora Veil
+|move|p2a: Magcargo|Fire Blast|p1a: Ninetales
+|-supereffective|p1a: Ninetales
+|-damage|p1a: Ninetales|101/242
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1776970078
+|move|p1a: Ninetales|Moonblast|p2a: Magcargo
+|-resisted|p2a: Magcargo
+|-damage|p2a: Magcargo|230/268
+|-unboost|p2a: Magcargo|spa|1
+|move|p2a: Magcargo|Fire Blast|p1a: Ninetales
+|-supereffective|p1a: Ninetales
+|-damage|p1a: Ninetales|5/242
+|-status|p1a: Ninetales|brn
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p1a: Ninetales|0 fnt|[from] brn
+|faint|p1a: Ninetales
+|upkeep
+|
+|t:|1776970080
+|switch|p1a: Vigoroth|Vigoroth, L85, F|275/275
+|turn|7
+|
+|t:|1776970088
+|move|p1a: Vigoroth|Bulk Up|p1a: Vigoroth
+|-boost|p1a: Vigoroth|atk|1
+|-boost|p1a: Vigoroth|def|1
+|move|p2a: Magcargo|Shell Smash|p2a: Magcargo
+|-unboost|p2a: Magcargo|def|1
+|-unboost|p2a: Magcargo|spd|1
+|-boost|p2a: Magcargo|atk|2
+|-boost|p2a: Magcargo|spa|2
+|-boost|p2a: Magcargo|spe|2
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1776970097
+|move|p2a: Magcargo|Earth Power|p1a: Vigoroth
+|-damage|p1a: Vigoroth|225/275
+|move|p1a: Vigoroth|Earthquake|p2a: Magcargo
+|-supereffective|p2a: Magcargo
+|-damage|p2a: Magcargo|0 fnt
+|faint|p2a: Magcargo
+|
+|-weather|none
+|upkeep
+|
+|t:|1776970110
+|switch|p2a: Sawsbuck|Sawsbuck-Summer, L88, F|284/284
+|turn|9
+|
+|t:|1776970119
+|move|p2a: Sawsbuck|Swords Dance|p2a: Sawsbuck
+|-boost|p2a: Sawsbuck|atk|2
+|move|p1a: Vigoroth|Body Slam|p2a: Sawsbuck
+|-damage|p2a: Sawsbuck|142/284
+|-status|p2a: Sawsbuck|par
+|
+|upkeep
+|turn|10
+|
+|t:|1776970125
+|move|p1a: Vigoroth|Body Slam|p2a: Sawsbuck
+|-damage|p2a: Sawsbuck|15/284 par
+|move|p2a: Sawsbuck|High Horsepower|p1a: Vigoroth
+|-damage|p1a: Vigoroth|181/275
+|-damage|p2a: Sawsbuck|0 fnt|[from] item: Life Orb
+|faint|p2a: Sawsbuck
+|
+|upkeep
+|
+|t:|1776970137
+|switch|p2a: Farigiraf|Farigiraf, L90, F|362/362
+|turn|11
+|
+|t:|1776970145
+|move|p1a: Vigoroth|Body Slam|p2a: Farigiraf
+|-damage|p2a: Farigiraf|226/362
+|move|p2a: Farigiraf|Psychic Noise|p1a: Vigoroth
+|-damage|p1a: Vigoroth|134/275
+|-start|p1a: Vigoroth|move: Heal Block
+|
+|-heal|p2a: Farigiraf|248/362|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776970161
+|move|p1a: Vigoroth|Body Slam|p2a: Farigiraf
+|-damage|p2a: Farigiraf|124/362
+|-status|p2a: Farigiraf|par
+|cant|p2a: Farigiraf|par
+|
+|-heal|p2a: Farigiraf|146/362 par|[from] item: Leftovers
+|-end|p1a: Vigoroth|move: Heal Block
+|-sideend|p1: Hdhhdgjfhdhdhdd|move: Aurora Veil
+|upkeep
+|turn|13
+|
+|t:|1776970170
+|move|p1a: Vigoroth|Bulk Up|p1a: Vigoroth
+|-boost|p1a: Vigoroth|atk|1
+|-boost|p1a: Vigoroth|def|1
+|move|p2a: Farigiraf|Psychic Noise|p1a: Vigoroth
+|-damage|p1a: Vigoroth|40/275
+|-start|p1a: Vigoroth|move: Heal Block
+|
+|-heal|p2a: Farigiraf|168/362 par|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1776970175
+|move|p1a: Vigoroth|Body Slam|p2a: Farigiraf
+|-damage|p2a: Farigiraf|0 fnt
+|faint|p2a: Farigiraf
+|
+|-end|p1a: Vigoroth|move: Heal Block
+|upkeep
+|
+|t:|1776970184
+|switch|p2a: Tinkaton|Tinkaton, L82, F|274/274
+|-ability|p2a: Tinkaton|Mold Breaker
+|turn|15
+|
+|t:|1776970191
+|move|p1a: Vigoroth|Earthquake|p2a: Tinkaton
+|-supereffective|p2a: Tinkaton
+|-damage|p2a: Tinkaton|0 fnt
+|faint|p2a: Tinkaton
+|
+|upkeep
+|
+|t:|1776970194
+|switch|p2a: Lapras|Lapras, L87, M|367/367
+|turn|16
+|
+|t:|1776970207
+|move|p1a: Vigoroth|Body Slam|p2a: Lapras
+|-damage|p2a: Lapras|196/367
+|move|p2a: Lapras|Ice Beam|p1a: Vigoroth
+|-damage|p1a: Vigoroth|0 fnt
+|faint|p1a: Vigoroth
+|
+|upkeep
+|
+|t:|1776970212
+|switch|p1a: Altaria|Altaria, L89, M|278/278
+|turn|17
+|
+|t:|1776970214
+|move|p1a: Altaria|Brave Bird|p2a: Lapras
+|-damage|p2a: Lapras|84/367
+|-damage|p1a: Altaria|241/278|[from] Recoil
+|move|p2a: Lapras|Ice Beam|p1a: Altaria
+|-supereffective|p1a: Altaria
+|-damage|p1a: Altaria|0 fnt
+|faint|p1a: Altaria
+|
+|upkeep
+|
+|t:|1776970218
+|switch|p1a: Darkrai|Darkrai, L77|234/234
+|turn|18
+|
+|t:|1776970221
+|move|p1a: Darkrai|Dark Pulse|p2a: Lapras
+|-damage|p2a: Lapras|0 fnt
+|faint|p2a: Lapras
+|-damage|p1a: Darkrai|211/234|[from] item: Life Orb
+|
+|win|Hdhhdgjfhdhdhdd
+|raw|Hdhhdgjfhdhdhdd's rating: 1040 &rarr; <strong>1077</strong><br />(+37 for winning)
+|raw|LTheLetter's rating: 1069 &rarr; <strong>1047</strong><br />(-22 for losing)

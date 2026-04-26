@@ -1,0 +1,205 @@
+|j|☆Mr3xotic
+|j|☆Rainbr0
+|t:|1776973465
+|gametype|singles
+|player|p1|Mr3xotic|cynthia-gen4|1448
+|player|p2|Rainbr0|169|1477
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776973465
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Lurantis|Lurantis, L87, M|264/264
+|switch|p2a: Gothitelle|Gothitelle, L90, F|272/272
+|turn|1
+|
+|t:|1776973479
+|switch|p2a: Jumpluff|Jumpluff, L87, F|271/271
+|move|p1a: Lurantis|Leech Life|p2a: Jumpluff
+|-damage|p2a: Jumpluff|200/271
+|
+|upkeep
+|turn|2
+|
+|t:|1776973490
+|move|p2a: Jumpluff|Strength Sap|p1a: Lurantis
+|-boost|p1a: Lurantis|atk|1
+|-heal|p2a: Jumpluff|271/271
+|move|p1a: Lurantis|Knock Off|p2a: Jumpluff
+|-damage|p2a: Jumpluff|183/271
+|
+|upkeep
+|turn|3
+|c|☆Rainbr0|ah yeah
+|
+|t:|1776973505
+|move|p2a: Jumpluff|Acrobatics|p1a: Lurantis
+|-supereffective|p1a: Lurantis
+|-damage|p1a: Lurantis|102/264
+|move|p1a: Lurantis|Knock Off|p2a: Jumpluff
+|-damage|p2a: Jumpluff|98/271
+|
+|upkeep
+|turn|4
+|
+|t:|1776973519
+|move|p2a: Jumpluff|Acrobatics|p1a: Lurantis
+|-supereffective|p1a: Lurantis
+|-damage|p1a: Lurantis|0 fnt
+|faint|p1a: Lurantis
+|
+|upkeep
+|
+|t:|1776973523
+|switch|p1a: Avalugg|Avalugg, L88, F|310/310
+|turn|5
+|
+|t:|1776973528
+|move|p2a: Jumpluff|Strength Sap|p1a: Avalugg
+|-unboost|p1a: Avalugg|atk|1
+|-heal|p2a: Jumpluff|271/271
+|move|p1a: Avalugg|Rapid Spin|p2a: Jumpluff
+|-damage|p2a: Jumpluff|233/271
+|-boost|p1a: Avalugg|spe|1
+|
+|upkeep
+|turn|6
+|
+|t:|1776973538
+|move|p2a: Jumpluff|Encore|p1a: Avalugg
+|-start|p1a: Avalugg|Encore
+|move|p1a: Avalugg|Rapid Spin|p2a: Jumpluff
+|-damage|p2a: Jumpluff|199/271
+|-boost|p1a: Avalugg|spe|1
+|
+|upkeep
+|turn|7
+|
+|t:|1776973542
+|move|p2a: Jumpluff|Sleep Powder|p1a: Avalugg
+|-status|p1a: Avalugg|slp|[from] move: Sleep Powder
+|cant|p1a: Avalugg|slp
+|
+|upkeep
+|turn|8
+|
+|t:|1776973546
+|move|p2a: Jumpluff|Acrobatics|p1a: Avalugg
+|-damage|p1a: Avalugg|270/310 slp
+|cant|p1a: Avalugg|slp
+|
+|-end|p1a: Avalugg|Encore
+|upkeep
+|turn|9
+|
+|t:|1776973551
+|move|p2a: Jumpluff|Strength Sap|p1a: Avalugg
+|-unboost|p1a: Avalugg|atk|1
+|-heal|p2a: Jumpluff|271/271
+|cant|p1a: Avalugg|slp
+|
+|upkeep
+|turn|10
+|
+|t:|1776973560
+|switch|p2a: Gothitelle|Gothitelle, L90, F|272/272
+|-curestatus|p1a: Avalugg|slp|[msg]
+|move|p1a: Avalugg|Avalanche|p2a: Gothitelle
+|-damage|p2a: Gothitelle|233/272
+|
+|-heal|p2a: Gothitelle|250/272|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776973566
+|move|p1a: Avalugg|Rapid Spin|p2a: Gothitelle
+|-damage|p2a: Gothitelle|228/272
+|-boost|p1a: Avalugg|spe|1
+|move|p2a: Gothitelle|Calm Mind|p2a: Gothitelle
+|-boost|p2a: Gothitelle|spa|1
+|-boost|p2a: Gothitelle|spd|1
+|
+|-heal|p2a: Gothitelle|245/272|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776973585
+|-terastallize|p1a: Avalugg|Fighting
+|move|p1a: Avalugg|Body Press|p2a: Gothitelle
+|-resisted|p2a: Gothitelle
+|-damage|p2a: Gothitelle|170/272
+|move|p2a: Gothitelle|Calm Mind|p2a: Gothitelle
+|-boost|p2a: Gothitelle|spa|1
+|-boost|p2a: Gothitelle|spd|1
+|
+|-heal|p2a: Gothitelle|187/272|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776973605
+|move|p1a: Avalugg|Body Press|p2a: Gothitelle
+|-resisted|p2a: Gothitelle
+|-damage|p2a: Gothitelle|123/272
+|move|p2a: Gothitelle|Calm Mind|p2a: Gothitelle
+|-boost|p2a: Gothitelle|spa|1
+|-boost|p2a: Gothitelle|spd|1
+|
+|-heal|p2a: Gothitelle|140/272|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1776973614
+|move|p1a: Avalugg|Body Press|p2a: Gothitelle
+|-resisted|p2a: Gothitelle
+|-damage|p2a: Gothitelle|74/272
+|move|p2a: Gothitelle|Psychic Noise|p1a: Avalugg
+|-supereffective|p1a: Avalugg
+|-damage|p1a: Avalugg|0 fnt
+|faint|p1a: Avalugg
+|
+|-heal|p2a: Gothitelle|91/272|[from] item: Leftovers
+|upkeep
+|
+|t:|1776973625
+|switch|p1a: Regigigas|Regigigas, L84|322/322
+|-start|p1a: Regigigas|ability: Slow Start
+|turn|15
+|
+|t:|1776973638
+|-terastallize|p2a: Gothitelle|Steel
+|move|p2a: Gothitelle|Psychic Noise|p1a: Regigigas
+|-damage|p1a: Regigigas|133/322
+|-start|p1a: Regigigas|move: Heal Block
+|move|p1a: Regigigas|Knock Off|p2a: Gothitelle
+|-damage|p2a: Gothitelle|43/272
+|-enditem|p2a: Gothitelle|Leftovers|[from] move: Knock Off|[of] p1a: Regigigas
+|
+|upkeep
+|turn|16
+|
+|t:|1776973649
+|move|p2a: Gothitelle|Psychic Noise|p1a: Regigigas
+|-damage|p1a: Regigigas|0 fnt
+|faint|p1a: Regigigas
+|-end|p1a: Regigigas|Slow Start|[silent]
+|
+|upkeep
+|c|☆Mr3xotic|You play like a bitch
+|l|☆Mr3xotic
+|player|p1|
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Rainbr0)
+|inactive|Mr3xotic has 30 seconds to reconnect!
+|inactive|Mr3xotic has 20 seconds to reconnect!
+|inactive|Mr3xotic has 15 seconds to reconnect!
+|inactive|Mr3xotic has 10 seconds to reconnect!
+|inactive|Mr3xotic has 5 seconds to reconnect!
+|-message|Mr3xotic lost due to inactivity.
+|
+|win|Rainbr0

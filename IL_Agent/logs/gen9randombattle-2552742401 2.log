@@ -1,0 +1,256 @@
+|j|☆ernestrex
+|j|☆Teakthunder
+|t:|1772748832
+|gametype|singles
+|player|p1|ernestrex|265|1337
+|player|p2|Teakthunder|beauty-gen5bw2|1298
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772748832
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Suicune|Suicune, L82|298/298
+|switch|p2a: Palossand|Palossand, L89, F|296/296
+|-ability|p1a: Suicune|Pressure
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Teakthunder)
+|
+|t:|1772748848
+|switch|p2a: Galvantula|Galvantula, L82, M|249/249
+|move|p1a: Suicune|Scald|p2a: Galvantula
+|-damage|p2a: Galvantula|141/249
+|
+|upkeep
+|turn|2
+|
+|t:|1772748859
+|switch|p1a: Cinderace|Cinderace, L77, F|249/249
+|move|p2a: Galvantula|Sticky Web|p1a: Cinderace
+|-sidestart|p1: ernestrex|move: Sticky Web
+|
+|upkeep
+|turn|3
+|
+|t:|1772748870
+|switch|p2a: Palossand|Palossand, L89, F|296/296
+|move|p1a: Cinderace|Pyro Ball|p2a: Palossand
+|-damage|p2a: Palossand|149/296
+|
+|-heal|p2a: Palossand|167/296|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1772748884
+|-terastallize|p2a: Palossand|Poison
+|move|p1a: Cinderace|Pyro Ball|p2a: Palossand
+|-damage|p2a: Palossand|14/296
+|move|p2a: Palossand|Earth Power|p1a: Cinderace
+|-supereffective|p1a: Cinderace
+|-damage|p1a: Cinderace|0 fnt
+|faint|p1a: Cinderace
+|
+|-heal|p2a: Palossand|32/296|[from] item: Leftovers
+|upkeep
+|
+|t:|1772748891
+|switch|p1a: Serperior|Serperior, L79, M|248/248
+|-activate|p1a: Serperior|move: Sticky Web
+|-boost|p1a: Serperior|spe|1
+|turn|5
+|
+|t:|1772748902
+|move|p1a: Serperior|Leaf Storm|p2a: Palossand
+|-resisted|p2a: Palossand
+|-damage|p2a: Palossand|0 fnt
+|-boost|p1a: Serperior|spa|2
+|faint|p2a: Palossand
+|-damage|p1a: Serperior|224/248|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772748930
+|switch|p2a: Galvantula|Galvantula, L82, M|141/249
+|turn|6
+|
+|t:|1772748940
+|move|p1a: Serperior|Leaf Storm|p2a: Galvantula
+|-resisted|p2a: Galvantula
+|-damage|p2a: Galvantula|0 fnt
+|-boost|p1a: Serperior|spa|2
+|faint|p2a: Galvantula
+|-damage|p1a: Serperior|200/248|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772748954
+|switch|p2a: Passimian|Passimian, L83, F|302/302
+|turn|7
+|
+|t:|1772748960
+|move|p1a: Serperior|Leaf Storm|p2a: Passimian
+|-damage|p2a: Passimian|0 fnt
+|-boost|p1a: Serperior|spa|2
+|faint|p2a: Passimian
+|-damage|p1a: Serperior|176/248|[from] item: Life Orb
+|
+|upkeep
+|c|☆ernestrex|gg
+|
+|t:|1772748972
+|switch|p2a: Archaludon|Archaludon, L78, M|268/268
+|turn|8
+|
+|t:|1772748978
+|move|p1a: Serperior|Tera Blast|p2a: Archaludon
+|-resisted|p2a: Archaludon
+|-damage|p2a: Archaludon|129/268
+|-ability|p2a: Archaludon|Stamina|boost
+|-boost|p2a: Archaludon|def|1
+|-damage|p1a: Serperior|152/248|[from] item: Life Orb
+|move|p2a: Archaludon|Thunder Wave|p1a: Serperior
+|-status|p1a: Serperior|par
+|
+|-heal|p2a: Archaludon|145/268|[from] item: Leftovers
+|upkeep
+|turn|9
+|inactive|Teakthunder has 120 seconds left.
+|
+|t:|1772749002
+|move|p2a: Archaludon|Draco Meteor|p1a: Serperior|[miss]
+|-miss|p2a: Archaludon|p1a: Serperior
+|move|p1a: Serperior|Leaf Storm|p2a: Archaludon|[miss]
+|-miss|p1a: Serperior|p2a: Archaludon
+|
+|-heal|p2a: Archaludon|161/268|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1772749011
+|move|p2a: Archaludon|Body Press|p1a: Serperior
+|-damage|p1a: Serperior|61/248 par
+|cant|p1a: Serperior|par
+|
+|-heal|p2a: Archaludon|177/268|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1772749019
+|move|p2a: Archaludon|Body Press|p1a: Serperior
+|-damage|p1a: Serperior|0 fnt
+|faint|p1a: Serperior
+|
+|-heal|p2a: Archaludon|193/268|[from] item: Leftovers
+|upkeep
+|
+|t:|1772749033
+|switch|p1a: Suicune|Suicune, L82|298/298
+|-activate|p1a: Suicune|move: Sticky Web
+|-unboost|p1a: Suicune|spe|1
+|-ability|p1a: Suicune|Pressure
+|turn|12
+|
+|t:|1772749044
+|move|p2a: Archaludon|Thunder Wave|p1a: Suicune
+|-status|p1a: Suicune|par
+|move|p1a: Suicune|Scald|p2a: Archaludon
+|-resisted|p2a: Archaludon
+|-damage|p2a: Archaludon|147/268
+|-ability|p2a: Archaludon|Stamina|boost
+|-boost|p2a: Archaludon|def|1
+|
+|-heal|p2a: Archaludon|163/268|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1772749058
+|move|p2a: Archaludon|Flash Cannon|p1a: Suicune
+|-resisted|p1a: Suicune
+|-crit|p1a: Suicune
+|-damage|p1a: Suicune|240/298 par
+|-unboost|p1a: Suicune|spd|1
+|cant|p1a: Suicune|par
+|
+|-heal|p2a: Archaludon|179/268|[from] item: Leftovers
+|-heal|p1a: Suicune|258/298 par|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1772749070
+|move|p2a: Archaludon|Body Press|p1a: Suicune
+|-damage|p1a: Suicune|159/298 par
+|move|p1a: Suicune|Rest|p1a: Suicune
+|-status|p1a: Suicune|slp|[from] move: Rest
+|-heal|p1a: Suicune|298/298 slp|[silent]
+|
+|-heal|p2a: Archaludon|195/268|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1772749082
+|move|p2a: Archaludon|Draco Meteor|p1a: Suicune
+|-damage|p1a: Suicune|109/298 slp
+|-unboost|p2a: Archaludon|spa|2
+|cant|p1a: Suicune|slp
+|move|p1a: Suicune|Sleep Talk|p1a: Suicune
+|move|p1a: Suicune|Scald|p2a: Archaludon|[from] move: Sleep Talk
+|-resisted|p2a: Archaludon
+|-damage|p2a: Archaludon|146/268
+|-ability|p2a: Archaludon|Stamina|boost
+|-boost|p2a: Archaludon|def|1
+|
+|-heal|p2a: Archaludon|162/268|[from] item: Leftovers
+|-heal|p1a: Suicune|127/298 slp|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1772749097
+|move|p2a: Archaludon|Body Press|p1a: Suicune
+|-crit|p1a: Suicune
+|-damage|p1a: Suicune|0 fnt
+|faint|p1a: Suicune
+|
+|-heal|p2a: Archaludon|178/268|[from] item: Leftovers
+|upkeep
+|
+|t:|1772749105
+|switch|p1a: Primarina|Primarina, L83, M|268/268
+|-activate|p1a: Primarina|move: Sticky Web
+|-unboost|p1a: Primarina|spe|1
+|turn|17
+|
+|t:|1772749118
+|move|p2a: Archaludon|Thunder Wave|p1a: Primarina
+|-status|p1a: Primarina|par
+|cant|p1a: Primarina|par
+|
+|-heal|p2a: Archaludon|194/268|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1772749127
+|move|p2a: Archaludon|Body Press|p1a: Primarina
+|-resisted|p1a: Primarina
+|-damage|p1a: Primarina|178/268 par
+|move|p1a: Primarina|Psychic|p2a: Archaludon
+|-resisted|p2a: Archaludon
+|-damage|p2a: Archaludon|112/268
+|-ability|p2a: Archaludon|Stamina|boost
+|-boost|p2a: Archaludon|def|1
+|
+|-heal|p2a: Archaludon|128/268|[from] item: Leftovers
+|upkeep
+|turn|19
+|-message|ernestrex forfeited.
+|
+|win|Teakthunder
+|raw|ernestrex's rating: 1359 &rarr; <strong>1336</strong><br />(-23 for losing)
+|raw|Teakthunder's rating: 1298 &rarr; <strong>1327</strong><br />(+29 for winning)
+|l|☆ernestrex
+|player|p1|

@@ -1,0 +1,279 @@
+|j|☆algoji
+|j|☆dondle
+|t:|1776969762
+|gametype|singles
+|player|p1|algoji|sage|1468
+|player|p2|dondle|emmet|1448
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776969762
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Swampert|Swampert, L83, F|302/302
+|switch|p2a: Regice|Regice, L88|284/284
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by algoji)
+|
+|t:|1776969777
+|move|p2a: Regice|Ice Beam|p1a: Swampert
+|-damage|p1a: Swampert|185/302
+|-status|p1a: Swampert|frz
+|cant|p1a: Swampert|frz
+|
+|-heal|p1a: Swampert|203/302 frz|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776969790
+|switch|p2a: Rillaboom|Rillaboom, L79, F|288/288
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|cant|p1a: Swampert|frz
+|
+|-heal|p1a: Swampert|221/302 frz|[from] Grassy Terrain
+|-heal|p1a: Swampert|239/302 frz|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776969806
+|move|p2a: Rillaboom|U-turn|p1a: Swampert
+|-damage|p1a: Swampert|156/302 frz
+|
+|t:|1776969810
+|switch|p2a: Electrode|Electrode-Hisui, L87|246/246|[from] U-turn
+|cant|p1a: Swampert|frz
+|
+|-heal|p1a: Swampert|174/302 frz|[from] Grassy Terrain
+|-heal|p1a: Swampert|192/302 frz|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776969818
+|move|p2a: Electrode|Substitute|p2a: Electrode
+|-start|p2a: Electrode|Substitute
+|-damage|p2a: Electrode|185/246
+|cant|p1a: Swampert|frz
+|
+|-heal|p2a: Electrode|200/246|[from] Grassy Terrain
+|-heal|p2a: Electrode|215/246|[from] item: Leftovers
+|-heal|p1a: Swampert|210/302 frz|[from] Grassy Terrain
+|-heal|p1a: Swampert|228/302 frz|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776969824
+|move|p2a: Electrode|Giga Drain|p1a: Swampert
+|-supereffective|p1a: Swampert
+|-damage|p1a: Swampert|0 fnt
+|-heal|p2a: Electrode|246/246|[from] drain|[of] p1a: Swampert
+|faint|p1a: Swampert
+|
+|upkeep
+|
+|t:|1776969838
+|switch|p1a: Terapagos|Terapagos, L77, M|265/265
+|-activate|p1a: Terapagos|ability: Tera Shift
+|detailschange|p1a: Terapagos|Terapagos-Terastal, L77, M
+|-heal|p1a: Terapagos|273/273|[silent]
+|turn|6
+|
+|t:|1776969845
+|move|p2a: Electrode|Leech Seed|p1a: Terapagos
+|-start|p1a: Terapagos|move: Leech Seed
+|move|p1a: Terapagos|Earth Power|p2a: Electrode
+|-activate|p2a: Electrode|move: Substitute|[damage]
+|
+|-damage|p1a: Terapagos|239/273|[from] Leech Seed|[of] p2a: Electrode
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|7
+|
+|t:|1776969852
+|move|p2a: Electrode|Thunderbolt|p1a: Terapagos
+|-damage|p1a: Terapagos|160/273
+|move|p1a: Terapagos|Earth Power|p2a: Electrode
+|-end|p2a: Electrode|Substitute
+|
+|-damage|p1a: Terapagos|126/273|[from] Leech Seed|[of] p2a: Electrode
+|upkeep
+|turn|8
+|
+|t:|1776969868
+|move|p2a: Electrode|Substitute|p2a: Electrode
+|-start|p2a: Electrode|Substitute
+|-damage|p2a: Electrode|185/246
+|move|p1a: Terapagos|Tera Starstorm|p2a: Electrode
+|-end|p2a: Electrode|Substitute
+|
+|-heal|p2a: Electrode|200/246|[from] item: Leftovers
+|-damage|p1a: Terapagos|92/273|[from] Leech Seed|[of] p2a: Electrode
+|-heal|p2a: Electrode|234/246|[silent]
+|upkeep
+|turn|9
+|
+|t:|1776969875
+|move|p2a: Electrode|Substitute|p2a: Electrode
+|-start|p2a: Electrode|Substitute
+|-damage|p2a: Electrode|173/246
+|move|p1a: Terapagos|Tera Starstorm|p2a: Electrode
+|-end|p2a: Electrode|Substitute
+|
+|-heal|p2a: Electrode|188/246|[from] item: Leftovers
+|-damage|p1a: Terapagos|58/273|[from] Leech Seed|[of] p2a: Electrode
+|-heal|p2a: Electrode|222/246|[silent]
+|upkeep
+|turn|10
+|
+|t:|1776969883
+|move|p2a: Electrode|Thunderbolt|p1a: Terapagos
+|-damage|p1a: Terapagos|0 fnt
+|faint|p1a: Terapagos
+|
+|-heal|p2a: Electrode|237/246|[from] item: Leftovers
+|upkeep
+|
+|t:|1776969886
+|switch|p1a: Flutter Mane|Flutter Mane, L74|203/203
+|turn|11
+|
+|t:|1776969897
+|switch|p2a: Regice|Regice, L88|284/284
+|move|p1a: Flutter Mane|Calm Mind|p1a: Flutter Mane
+|-boost|p1a: Flutter Mane|spa|1
+|-boost|p1a: Flutter Mane|spd|1
+|
+|upkeep
+|turn|12
+|
+|t:|1776969906
+|move|p1a: Flutter Mane|Moonblast|p2a: Regice
+|-damage|p2a: Regice|187/284
+|-damage|p1a: Flutter Mane|183/203|[from] item: Life Orb
+|move|p2a: Regice|Thunder Wave|p1a: Flutter Mane
+|-status|p1a: Flutter Mane|par
+|
+|upkeep
+|turn|13
+|
+|t:|1776969914
+|switch|p2a: Arcanine|Arcanine, L84, M|288/288
+|-ability|p2a: Arcanine|Intimidate|boost
+|-unboost|p1a: Flutter Mane|atk|1
+|move|p1a: Flutter Mane|Calm Mind|p1a: Flutter Mane
+|-boost|p1a: Flutter Mane|spa|1
+|-boost|p1a: Flutter Mane|spd|1
+|
+|upkeep
+|turn|14
+|
+|t:|1776969922
+|move|p2a: Arcanine|Flare Blitz|p1a: Flutter Mane
+|-damage|p1a: Flutter Mane|0 fnt
+|faint|p1a: Flutter Mane
+|-end|p1a: Flutter Mane|Protosynthesis|[silent]
+|-damage|p2a: Arcanine|228/288|[from] Recoil
+|
+|upkeep
+|
+|t:|1776969928
+|switch|p1a: Regirock|Regirock, L83|268/268
+|turn|15
+|
+|t:|1776969934
+|switch|p2a: Tauros|Tauros-Paldea-Combat, L82, M|257/257
+|-ability|p2a: Tauros|Intimidate|boost
+|-fail|p1a: Regirock|unboost|[from] ability: Clear Body|[of] p1a: Regirock
+|move|p1a: Regirock|Thunder Wave|p2a: Tauros
+|-status|p2a: Tauros|par
+|
+|upkeep
+|turn|16
+|
+|t:|1776969945
+|-terastallize|p2a: Tauros|Fighting
+|move|p1a: Regirock|Body Press|p2a: Tauros
+|-damage|p2a: Tauros|159/257 par
+|move|p2a: Tauros|Close Combat|p1a: Regirock
+|-supereffective|p1a: Regirock
+|-damage|p1a: Regirock|0 fnt
+|-unboost|p2a: Tauros|def|1
+|-unboost|p2a: Tauros|spd|1
+|faint|p1a: Regirock
+|
+|upkeep
+|
+|t:|1776969952
+|switch|p1a: Klefki|Klefki, L84, M|233/233
+|turn|17
+|
+|t:|1776969959
+|switch|p2a: Regice|Regice, L88|187/284
+|move|p1a: Klefki|Dazzling Gleam|p2a: Regice
+|-damage|p2a: Regice|148/284
+|
+|upkeep
+|turn|18
+|
+|t:|1776969964
+|switch|p1a: Sandy Shocks|Sandy Shocks, L80|267/267
+|move|p2a: Regice|Thunderbolt|p1a: Sandy Shocks
+|-immune|p1a: Sandy Shocks
+|
+|upkeep
+|turn|19
+|
+|t:|1776969975
+|-terastallize|p1a: Sandy Shocks|Electric
+|move|p1a: Sandy Shocks|Spikes|p2a: Regice
+|-sidestart|p2: dondle|Spikes
+|move|p2a: Regice|Ice Beam|p1a: Sandy Shocks
+|-damage|p1a: Sandy Shocks|150/267
+|-status|p1a: Sandy Shocks|frz
+|
+|-heal|p1a: Sandy Shocks|166/267 frz|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1776969984
+|cant|p1a: Sandy Shocks|frz
+|move|p2a: Regice|Ice Beam|p1a: Sandy Shocks
+|-damage|p1a: Sandy Shocks|42/267 frz
+|
+|-heal|p1a: Sandy Shocks|58/267 frz|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1776969987
+|cant|p1a: Sandy Shocks|frz
+|move|p2a: Regice|Ice Beam|p1a: Sandy Shocks
+|-damage|p1a: Sandy Shocks|0 fnt
+|faint|p1a: Sandy Shocks
+|-end|p1a: Sandy Shocks|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1776969989
+|switch|p1a: Klefki|Klefki, L84, M|233/233
+|turn|22
+|
+|t:|1776969993
+|move|p1a: Klefki|Foul Play|p2a: Regice
+|-damage|p2a: Regice|122/284
+|move|p2a: Regice|Thunder Wave|p1a: Klefki
+|-status|p1a: Klefki|par
+|
+|upkeep
+|turn|23
+|-message|algoji forfeited.
+|
+|win|dondle
+|raw|algoji's rating: 1468 &rarr; <strong>1447</strong><br />(-21 for losing)
+|raw|dondle's rating: 1448 &rarr; <strong>1469</strong><br />(+21 for winning)
+|l|☆algoji
+|player|p1|

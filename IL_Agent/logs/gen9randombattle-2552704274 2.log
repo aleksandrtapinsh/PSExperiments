@@ -1,0 +1,327 @@
+|j|☆BrillaintStar
+|j|☆pukeko_damn
+|t:|1772745113
+|gametype|singles
+|player|p1|BrillaintStar|n-masters|1427
+|player|p2|pukeko_damn|fisherman-gen4|1446
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772745113
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Rhydon|Rhydon, L85, F|317/317
+|switch|p2a: Passimian|Passimian, L83, M|302/302
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by pukeko_damn)
+|inactive|BrillaintStar also wants the timer to be on.
+|c|☆BrillaintStar|Glhf
+|c|☆pukeko_damn|ty u too
+|
+|t:|1772745128
+|switch|p1a: Banette|Banette, L93, F|270/270
+|move|p2a: Passimian|Knock Off|p1a: Banette
+|-supereffective|p1a: Banette
+|-damage|p1a: Banette|8/270
+|-enditem|p1a: Banette|Life Orb|[from] move: Knock Off|[of] p2a: Passimian
+|
+|upkeep
+|turn|2
+|
+|t:|1772745132
+|move|p1a: Banette|Shadow Sneak|p2a: Passimian
+|-damage|p2a: Passimian|244/302
+|move|p2a: Passimian|Knock Off|p1a: Banette
+|-supereffective|p1a: Banette
+|-damage|p1a: Banette|0 fnt
+|faint|p1a: Banette
+|
+|upkeep
+|
+|t:|1772745141
+|switch|p1a: Hitmonlee|Hitmonlee, L85, M|223/223
+|turn|3
+|
+|t:|1772745147
+|move|p1a: Hitmonlee|High Jump Kick|p2a: Passimian|[miss]
+|-miss|p1a: Hitmonlee|p2a: Passimian
+|-damage|p1a: Hitmonlee|112/223|[from] highjumpkick
+|move|p2a: Passimian|Knock Off|p1a: Hitmonlee
+|-resisted|p1a: Hitmonlee
+|-damage|p1a: Hitmonlee|28/223
+|-enditem|p1a: Hitmonlee|Choice Band|[from] move: Knock Off|[of] p2a: Passimian
+|
+|upkeep
+|turn|4
+|
+|t:|1772745154
+|switch|p2a: Mudsdale|Mudsdale, L83, M|302/302
+|move|p1a: Hitmonlee|High Jump Kick|p2a: Mudsdale
+|-damage|p2a: Mudsdale|109/302
+|-ability|p2a: Mudsdale|Stamina|boost
+|-boost|p2a: Mudsdale|def|1
+|
+|-heal|p2a: Mudsdale|127/302|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1772745158
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, L76, F|247/247
+|move|p2a: Mudsdale|Stealth Rock|p1a: Ogerpon
+|-sidestart|p1: BrillaintStar|move: Stealth Rock
+|
+|-heal|p2a: Mudsdale|145/302|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1772745162
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|2
+|move|p2a: Mudsdale|Stone Edge|p1a: Ogerpon
+|-damage|p1a: Ogerpon|158/247
+|
+|-heal|p2a: Mudsdale|163/302|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1772745166
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Mudsdale|[anim] Ivy Cudgel Water
+|-supereffective|p2a: Mudsdale
+|-damage|p2a: Mudsdale|0 fnt
+|faint|p2a: Mudsdale
+|
+|upkeep
+|
+|t:|1772745169
+|switch|p2a: Dragonite|Dragonite, L74, M|257/257
+|turn|8
+|
+|t:|1772745171
+|move|p1a: Ogerpon|Knock Off|p2a: Dragonite
+|-damage|p2a: Dragonite|169/257
+|-enditem|p2a: Dragonite|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Ogerpon
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|upkeep
+|turn|9
+|
+|t:|1772745174
+|switch|p1a: Rhydon|Rhydon, L85, F|317/317
+|-damage|p1a: Rhydon|298/317|[from] Stealth Rock
+|move|p2a: Dragonite|Outrage|p1a: Rhydon
+|-damage|p1a: Rhydon|205/317
+|
+|upkeep
+|turn|10
+|
+|t:|1772745177
+|-terastallize|p1a: Rhydon|Water
+|move|p2a: Dragonite|Outrage|p1a: Rhydon|[from] lockedmove
+|-damage|p1a: Rhydon|100/317
+|move|p1a: Rhydon|Stone Edge|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|faint|p2a: Dragonite
+|
+|upkeep
+|
+|t:|1772745181
+|switch|p2a: Delphox|Delphox, L84, M|263/263
+|turn|11
+|
+|t:|1772745184
+|move|p2a: Delphox|Grass Knot|p1a: Rhydon
+|-supereffective|p1a: Rhydon
+|-damage|p1a: Rhydon|0 fnt
+|faint|p1a: Rhydon
+|
+|upkeep
+|
+|t:|1772745186
+|switch|p1a: Lapras|Lapras, L87, F|367/367
+|-damage|p1a: Lapras|276/367|[from] Stealth Rock
+|turn|12
+|
+|t:|1772745189
+|move|p2a: Delphox|Nasty Plot|p2a: Delphox
+|-boost|p2a: Delphox|spa|2
+|move|p1a: Lapras|Dragon Dance|p1a: Lapras
+|-boost|p1a: Lapras|atk|1
+|-boost|p1a: Lapras|spe|1
+|
+|upkeep
+|turn|13
+|
+|t:|1772745192
+|move|p1a: Lapras|Waterfall|p2a: Delphox
+|-supereffective|p2a: Delphox
+|-damage|p2a: Delphox|0 fnt
+|faint|p2a: Delphox
+|
+|upkeep
+|
+|t:|1772745195
+|switch|p2a: Slaking|Slaking, L84, F|389/389
+|turn|14
+|
+|t:|1772745203
+|move|p2a: Slaking|Double-Edge|p1a: Lapras
+|-damage|p1a: Lapras|92/367
+|-damage|p2a: Slaking|328/389|[from] Recoil
+|move|p1a: Lapras|Icicle Spear|p2a: Slaking
+|-damage|p2a: Slaking|291/389
+|-damage|p2a: Slaking|257/389
+|-damage|p2a: Slaking|218/389
+|-damage|p2a: Slaking|184/389
+|-hitcount|p2a: Slaking|4
+|
+|upkeep
+|turn|15
+|
+|t:|1772745207
+|switch|p2a: Passimian|Passimian, L83, M|244/302
+|move|p1a: Lapras|Icicle Spear|p2a: Passimian
+|-crit|p2a: Passimian
+|-damage|p2a: Passimian|189/302
+|-damage|p2a: Passimian|147/302
+|-damage|p2a: Passimian|107/302
+|-damage|p2a: Passimian|71/302
+|-hitcount|p2a: Passimian|4
+|
+|upkeep
+|turn|16
+|
+|t:|1772745210
+|move|p1a: Lapras|Waterfall|p2a: Passimian
+|-damage|p2a: Passimian|0 fnt
+|faint|p2a: Passimian
+|
+|upkeep
+|
+|t:|1772745212
+|switch|p2a: Slaking|Slaking, L84, F|184/389
+|turn|17
+|
+|t:|1772745219
+|move|p2a: Slaking|Double-Edge|p1a: Lapras
+|-damage|p1a: Lapras|0 fnt
+|faint|p1a: Lapras
+|-damage|p2a: Slaking|154/389|[from] Recoil
+|
+|upkeep
+|
+|t:|1772745224
+|switch|p1a: Hitmonlee|Hitmonlee, L85, M|28/223
+|-damage|p1a: Hitmonlee|15/223|[from] Stealth Rock
+|turn|18
+|
+|t:|1772745228
+|move|p1a: Hitmonlee|Mach Punch|p2a: Slaking
+|-supereffective|p2a: Slaking
+|-damage|p2a: Slaking|58/389
+|cant|p2a: Slaking|ability: Truant
+|
+|upkeep
+|turn|19
+|
+|t:|1772745231
+|move|p1a: Hitmonlee|Mach Punch|p2a: Slaking
+|-supereffective|p2a: Slaking
+|-damage|p2a: Slaking|0 fnt
+|faint|p2a: Slaking
+|
+|upkeep
+|
+|t:|1772745233
+|switch|p2a: Carbink|Carbink, L90|236/236
+|turn|20
+|c|☆BrillaintStar|ggs
+|
+|t:|1772745240
+|move|p1a: Hitmonlee|High Jump Kick|p2a: Carbink
+|-damage|p2a: Carbink|101/236
+|move|p2a: Carbink|Iron Defense|p2a: Carbink
+|-boost|p2a: Carbink|def|2
+|
+|upkeep
+|turn|21
+|
+|t:|1772745244
+|move|p1a: Hitmonlee|High Jump Kick|p2a: Carbink
+|-damage|p2a: Carbink|41/236
+|move|p2a: Carbink|Rest|p2a: Carbink
+|-status|p2a: Carbink|slp|[from] move: Rest
+|-heal|p2a: Carbink|236/236 slp|[silent]
+|-enditem|p2a: Carbink|Chesto Berry|[eat]
+|-curestatus|p2a: Carbink|slp|[msg]
+|
+|upkeep
+|turn|22
+|
+|t:|1772745247
+|move|p1a: Hitmonlee|High Jump Kick|p2a: Carbink
+|-damage|p2a: Carbink|172/236
+|move|p2a: Carbink|Iron Defense|p2a: Carbink
+|-boost|p2a: Carbink|def|2
+|
+|upkeep
+|turn|23
+|
+|t:|1772745251
+|move|p1a: Hitmonlee|High Jump Kick|p2a: Carbink
+|-damage|p2a: Carbink|130/236
+|move|p2a: Carbink|Iron Defense|p2a: Carbink
+|-boost|p2a: Carbink|def|2
+|
+|upkeep
+|turn|24
+|
+|t:|1772745252
+|move|p1a: Hitmonlee|High Jump Kick|p2a: Carbink
+|-damage|p2a: Carbink|96/236
+|move|p2a: Carbink|Moonblast|p1a: Hitmonlee
+|-supereffective|p1a: Hitmonlee
+|-damage|p1a: Hitmonlee|0 fnt
+|faint|p1a: Hitmonlee
+|
+|upkeep
+|
+|t:|1772745256
+|switch|p1a: Lurantis|Lurantis, L87, M|264/264
+|-damage|p1a: Lurantis|231/264|[from] Stealth Rock
+|turn|25
+|
+|t:|1772745261
+|move|p2a: Carbink|Body Press|p1a: Lurantis
+|-damage|p1a: Lurantis|0 fnt
+|faint|p1a: Lurantis
+|
+|upkeep
+|
+|t:|1772745263
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, L76, F|158/247
+|-damage|p1a: Ogerpon|128/247|[from] Stealth Rock
+|turn|26
+|
+|t:|1772745267
+|-terastallize|p2a: Carbink|Fighting
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Carbink|[anim] Ivy Cudgel Water
+|-damage|p2a: Carbink|77/236
+|move|p2a: Carbink|Body Press|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|
+|win|pukeko_damn
+|raw|BrillaintStar's rating: 1427 &rarr; <strong>1408</strong><br />(-19 for losing)
+|raw|pukeko_damn's rating: 1446 &rarr; <strong>1465</strong><br />(+19 for winning)
+|c|☆pukeko_damn|ggs
+|l|☆BrillaintStar
+|player|p1|

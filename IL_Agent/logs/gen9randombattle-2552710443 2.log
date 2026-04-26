@@ -1,0 +1,235 @@
+|j|☆12sxw31rv25bt3 AY4
+|j|☆Ryan3044
+|t:|1772745698
+|gametype|singles
+|player|p1|12sxw31rv25bt3 AY4|101|1040
+|player|p2|Ryan3044|2|1072
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772745698
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Greedent|Greedent, L86, F|347/347
+|switch|p2a: Oinkologne|Oinkologne, L92, M|352/352
+|turn|1
+|
+|t:|1772745714
+|move|p2a: Oinkologne|Curse|p2a: Oinkologne
+|-unboost|p2a: Oinkologne|spe|1
+|-boost|p2a: Oinkologne|atk|1
+|-boost|p2a: Oinkologne|def|1
+|move|p1a: Greedent|Earthquake|p2a: Oinkologne
+|-damage|p2a: Oinkologne|300/352
+|
+|-heal|p2a: Oinkologne|322/352|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1772745736
+|switch|p1a: Mismagius|Mismagius, L86, F|243/243
+|move|p2a: Oinkologne|Double-Edge|p1a: Mismagius
+|-immune|p1a: Mismagius
+|
+|-heal|p2a: Oinkologne|344/352|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1772745747
+|move|p1a: Mismagius|Shadow Ball|p2a: Oinkologne
+|-immune|p2a: Oinkologne
+|move|p2a: Oinkologne|Lash Out|p1a: Mismagius
+|-supereffective|p1a: Mismagius
+|-damage|p1a: Mismagius|0 fnt
+|faint|p1a: Mismagius
+|
+|-heal|p2a: Oinkologne|352/352|[from] item: Leftovers
+|upkeep
+|
+|t:|1772745765
+|switch|p1a: Medicham|Medicham, L86, F|243/243
+|turn|4
+|
+|t:|1772745774
+|move|p1a: Medicham|Close Combat|p2a: Oinkologne
+|-supereffective|p2a: Oinkologne
+|-damage|p2a: Oinkologne|0 fnt
+|-unboost|p1a: Medicham|def|1
+|-unboost|p1a: Medicham|spd|1
+|faint|p2a: Oinkologne
+|
+|upkeep
+|
+|t:|1772745795
+|switch|p2a: Inteleon|Inteleon, L81, M|246/246
+|turn|5
+|
+|t:|1772745824
+|switch|p1a: Gogoat|Gogoat, L88, M|360/360
+|move|p2a: Inteleon|U-turn|p1a: Gogoat
+|-supereffective|p1a: Gogoat
+|-damage|p1a: Gogoat|250/360
+|
+|t:|1772745835
+|switch|p2a: Decidueye|Decidueye-Hisui, L87, M|295/295|[from] U-turn
+|
+|-heal|p1a: Gogoat|272/360|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1772745853
+|move|p1a: Gogoat|Milk Drink|p1a: Gogoat
+|-heal|p1a: Gogoat|360/360
+|move|p2a: Decidueye|Triple Arrows|p1a: Gogoat
+|-damage|p1a: Gogoat|227/360
+|
+|-heal|p1a: Gogoat|249/360|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1772745873
+|move|p1a: Gogoat|Horn Leech|p2a: Decidueye
+|-resisted|p2a: Decidueye
+|-damage|p2a: Decidueye|251/295
+|-heal|p1a: Gogoat|271/360|[from] drain|[of] p2a: Decidueye
+|move|p2a: Decidueye|Triple Arrows|p1a: Gogoat
+|-damage|p1a: Gogoat|127/360
+|
+|-heal|p1a: Gogoat|149/360|[from] item: Leftovers
+|-heal|p2a: Decidueye|269/295|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1772745891
+|move|p1a: Gogoat|Earthquake|p2a: Decidueye
+|-resisted|p2a: Decidueye
+|-damage|p2a: Decidueye|230/295
+|move|p2a: Decidueye|Triple Arrows|p1a: Gogoat
+|-damage|p1a: Gogoat|4/360
+|-unboost|p1a: Gogoat|def|1
+|
+|-heal|p1a: Gogoat|26/360|[from] item: Leftovers
+|-heal|p2a: Decidueye|248/295|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1772745902
+|move|p1a: Gogoat|Milk Drink|p1a: Gogoat
+|-heal|p1a: Gogoat|206/360
+|move|p2a: Decidueye|Triple Arrows|p1a: Gogoat
+|-damage|p1a: Gogoat|13/360
+|
+|-heal|p1a: Gogoat|35/360|[from] item: Leftovers
+|-heal|p2a: Decidueye|266/295|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1772745911
+|move|p1a: Gogoat|Milk Drink|p1a: Gogoat
+|-heal|p1a: Gogoat|215/360
+|move|p2a: Decidueye|Triple Arrows|p1a: Gogoat
+|-damage|p1a: Gogoat|0 fnt
+|faint|p1a: Gogoat
+|
+|-heal|p2a: Decidueye|284/295|[from] item: Leftovers
+|upkeep
+|
+|t:|1772745936
+|switch|p1a: Medicham|Medicham, L86, F|243/243
+|turn|11
+|
+|t:|1772745945
+|move|p1a: Medicham|Zen Headbutt|p2a: Decidueye
+|-supereffective|p2a: Decidueye
+|-damage|p2a: Decidueye|0 fnt
+|faint|p2a: Decidueye
+|
+|upkeep
+|
+|t:|1772745952
+|switch|p2a: Inteleon|Inteleon, L81, M|246/246
+|turn|12
+|
+|t:|1772745959
+|move|p2a: Inteleon|Scald|p1a: Medicham
+|-damage|p1a: Medicham|96/243
+|move|p1a: Medicham|Zen Headbutt|p2a: Inteleon
+|-damage|p2a: Inteleon|0 fnt
+|faint|p2a: Inteleon
+|
+|upkeep
+|
+|t:|1772745971
+|switch|p2a: Hitmonlee|Hitmonlee, L85, M|224/224
+|turn|13
+|
+|t:|1772745980
+|move|p2a: Hitmonlee|Knock Off|p1a: Medicham
+|-damage|p1a: Medicham|0 fnt
+|-enditem|p1a: Medicham|Choice Band|[from] move: Knock Off|[of] p2a: Hitmonlee
+|faint|p1a: Medicham
+|
+|upkeep
+|
+|t:|1772745988
+|switch|p1a: Greedent|Greedent, L86, F|347/347
+|turn|14
+|
+|t:|1772745995
+|move|p2a: Hitmonlee|Swords Dance|p2a: Hitmonlee
+|-boost|p2a: Hitmonlee|atk|2
+|move|p1a: Greedent|Knock Off|p2a: Hitmonlee
+|-resisted|p2a: Hitmonlee
+|-damage|p2a: Hitmonlee|171/224
+|-enditem|p2a: Hitmonlee|White Herb|[from] move: Knock Off|[of] p1a: Greedent
+|
+|upkeep
+|turn|15
+|
+|t:|1772746002
+|move|p2a: Hitmonlee|Close Combat|p1a: Greedent
+|-supereffective|p1a: Greedent
+|-damage|p1a: Greedent|0 fnt
+|-unboost|p2a: Hitmonlee|def|1
+|-unboost|p2a: Hitmonlee|spd|1
+|faint|p1a: Greedent
+|
+|upkeep
+|
+|t:|1772746010
+|switch|p1a: Cyclizar|Cyclizar, L83, M|252/252
+|turn|16
+|
+|t:|1772746015
+|move|p2a: Hitmonlee|Close Combat|p1a: Cyclizar
+|-supereffective|p1a: Cyclizar
+|-damage|p1a: Cyclizar|0 fnt
+|-unboost|p2a: Hitmonlee|def|1
+|-unboost|p2a: Hitmonlee|spd|1
+|faint|p1a: Cyclizar
+|
+|upkeep
+|
+|t:|1772746021
+|switch|p1a: Inteleon|Inteleon, L81, F|246/246
+|turn|17
+|
+|t:|1772746027
+|-terastallize|p1a: Inteleon|Water
+|move|p2a: Hitmonlee|Close Combat|p1a: Inteleon
+|-damage|p1a: Inteleon|0 fnt
+|-unboost|p2a: Hitmonlee|def|1
+|-unboost|p2a: Hitmonlee|spd|1
+|faint|p1a: Inteleon
+|
+|win|Ryan3044
+|raw|12sxw31rv25bt3 AY4's rating: 1040 &rarr; <strong>1025</strong><br />(-15 for losing)
+|raw|Ryan3044's rating: 1072 &rarr; <strong>1099</strong><br />(+27 for winning)
+|l|☆12sxw31rv25bt3 AY4
+|player|p1|

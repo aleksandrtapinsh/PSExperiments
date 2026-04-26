@@ -1,0 +1,50 @@
+|j|☆picaco
+|j|☆tonym18
+|t:|1776972063
+|gametype|singles
+|player|p1|picaco|gardenia|1395
+|player|p2|tonym18|170|1446
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776972063
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Veluza|Veluza, L85, M|292/292
+|switch|p2a: Vikavolt|Vikavolt, L83, F|263/263
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by tonym18)
+|inactive|picaco also wants the timer to be on.
+|
+|t:|1776972072
+|move|p1a: Veluza|Aqua Cutter|p2a: Vikavolt
+|-damage|p2a: Vikavolt|145/263
+|move|p2a: Vikavolt|Sticky Web|p1a: Veluza
+|-sidestart|p1: picaco|move: Sticky Web
+|
+|upkeep
+|turn|2
+|
+|t:|1776972092
+|switch|p1a: Zebstrika|Zebstrika, L87, M|272/272
+|-activate|p1a: Zebstrika|move: Sticky Web
+|-unboost|p1a: Zebstrika|spe|1
+|move|p2a: Vikavolt|Thunderbolt|p1a: Zebstrika
+|-resisted|p1a: Zebstrika
+|-damage|p1a: Zebstrika|192/272
+|
+|upkeep
+|turn|3
+|-message|picaco forfeited.
+|
+|win|tonym18
+|raw|picaco's rating: 1395 &rarr; <strong>1378</strong><br />(-17 for losing)
+|raw|tonym18's rating: 1446 &rarr; <strong>1463</strong><br />(+17 for winning)
+|l|☆picaco
+|player|p1|

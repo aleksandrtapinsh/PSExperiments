@@ -1,0 +1,174 @@
+|j|☆deep_lerd
+|j|☆imortaljuan
+|t:|1772747297
+|gametype|singles
+|player|p1|deep_lerd|psychic-gen4|
+|player|p2|imortaljuan|steven|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772747297
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Sylveon|Sylveon, L85, F|300/300
+|switch|p2a: Qwilfish|Qwilfish-Hisui, L83, F|244/244
+|-ability|p2a: Qwilfish|Intimidate|boost
+|-unboost|p1a: Sylveon|atk|1
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by deep_lerd)
+|
+|t:|1772747319
+|move|p1a: Sylveon|Protect|p1a: Sylveon
+|-singleturn|p1a: Sylveon|Protect
+|move|p2a: Qwilfish|Spikes|p1a: Sylveon
+|-sidestart|p1: deep_lerd|Spikes
+|
+|upkeep
+|turn|2
+|
+|t:|1772747327
+|move|p2a: Qwilfish|Gunk Shot|p1a: Sylveon
+|-supereffective|p1a: Sylveon
+|-damage|p1a: Sylveon|0 fnt
+|faint|p1a: Sylveon
+|
+|upkeep
+|
+|t:|1772747336
+|switch|p1a: Venusaur|Venusaur, L84, F|272/272
+|-damage|p1a: Venusaur|238/272|[from] Spikes
+|turn|3
+|
+|t:|1772747341
+|move|p2a: Qwilfish|Taunt|p1a: Venusaur
+|-start|p1a: Venusaur|move: Taunt
+|move|p1a: Venusaur|Knock Off|p2a: Qwilfish
+|-resisted|p2a: Qwilfish
+|-damage|p2a: Qwilfish|222/244
+|-enditem|p2a: Qwilfish|Eviolite|[from] move: Knock Off|[of] p1a: Venusaur
+|
+|-heal|p1a: Venusaur|255/272|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1772747359
+|move|p2a: Qwilfish|Spikes|p1a: Venusaur
+|-sidestart|p1: deep_lerd|Spikes
+|move|p1a: Venusaur|Energy Ball|p2a: Qwilfish
+|-resisted|p2a: Qwilfish
+|-damage|p2a: Qwilfish|157/244
+|
+|-heal|p1a: Venusaur|272/272|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1772747366
+|switch|p1a: Volcarona|Volcarona, L77, F|257/257
+|move|p2a: Qwilfish|Gunk Shot|p1a: Volcarona
+|-damage|p1a: Volcarona|104/257
+|
+|upkeep
+|turn|6
+|
+|t:|1772747383
+|move|p1a: Volcarona|Fiery Dance|p2a: Qwilfish
+|-damage|p2a: Qwilfish|19/244
+|move|p2a: Qwilfish|Crunch|p1a: Volcarona
+|-damage|p1a: Volcarona|2/257
+|
+|upkeep
+|turn|7
+|
+|t:|1772747396
+|move|p1a: Volcarona|Fiery Dance|p2a: Qwilfish
+|-damage|p2a: Qwilfish|0 fnt
+|faint|p2a: Qwilfish
+|
+|upkeep
+|
+|t:|1772747404
+|switch|p2a: Magcargo|Magcargo, L95, F|268/268
+|turn|8
+|
+|t:|1772747410
+|move|p1a: Volcarona|Morning Sun|p1a: Volcarona
+|-heal|p1a: Volcarona|130/257
+|move|p2a: Magcargo|Shell Smash|p2a: Magcargo
+|-unboost|p2a: Magcargo|def|1
+|-unboost|p2a: Magcargo|spd|1
+|-boost|p2a: Magcargo|atk|2
+|-boost|p2a: Magcargo|spa|2
+|-boost|p2a: Magcargo|spe|2
+|
+|upkeep
+|turn|9
+|
+|t:|1772747420
+|move|p2a: Magcargo|Power Gem|p1a: Volcarona
+|-supereffective|p1a: Volcarona
+|-damage|p1a: Volcarona|0 fnt
+|faint|p1a: Volcarona
+|
+|upkeep
+|
+|t:|1772747441
+|switch|p1a: Heracross|Heracross, L80, F|259/259
+|-damage|p1a: Heracross|216/259|[from] Spikes
+|turn|10
+|
+|t:|1772747452
+|-terastallize|p2a: Magcargo|Dragon
+|-terastallize|p1a: Heracross|Normal
+|move|p2a: Magcargo|Fire Blast|p1a: Heracross
+|-damage|p1a: Heracross|0 fnt
+|faint|p1a: Heracross
+|
+|upkeep
+|
+|t:|1772747462
+|switch|p1a: Electivire|Electivire, L84, F|263/263
+|-damage|p1a: Electivire|220/263|[from] Spikes
+|turn|11
+|
+|t:|1772747468
+|move|p2a: Magcargo|Earth Power|p1a: Electivire
+|-supereffective|p1a: Electivire
+|-damage|p1a: Electivire|0 fnt
+|faint|p1a: Electivire
+|
+|upkeep
+|
+|t:|1772747471
+|switch|p1a: Thundurus|Thundurus-Therian, L80, M|258/258
+|turn|12
+|
+|t:|1772747476
+|move|p1a: Thundurus|Thunderbolt|p2a: Magcargo
+|-resisted|p2a: Magcargo
+|-damage|p2a: Magcargo|180/268
+|move|p2a: Magcargo|Power Gem|p1a: Thundurus
+|-supereffective|p1a: Thundurus
+|-damage|p1a: Thundurus|0 fnt
+|faint|p1a: Thundurus
+|
+|upkeep
+|
+|t:|1772747480
+|switch|p1a: Venusaur|Venusaur, L84, F|272/272
+|-damage|p1a: Venusaur|227/272|[from] Spikes
+|turn|13
+|
+|t:|1772747484
+|move|p2a: Magcargo|Fire Blast|p1a: Venusaur
+|-supereffective|p1a: Venusaur
+|-damage|p1a: Venusaur|0 fnt
+|faint|p1a: Venusaur
+|
+|win|imortaljuan
+|l|☆deep_lerd
+|player|p1|

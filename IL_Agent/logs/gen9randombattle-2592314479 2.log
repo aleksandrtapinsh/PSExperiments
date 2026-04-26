@@ -1,0 +1,117 @@
+|j|☆anakkin27
+|j|☆Floripondio
+|t:|1776978126
+|gametype|singles
+|player|p1|anakkin27|cheryl|1661
+|player|p2|Floripondio|102|1604
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776978126
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Banette|Banette, L93, M|270/270
+|switch|p2a: Noctowl|Noctowl, L95, F|344/344
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by anakkin27)
+|inactive|anakkin27 has 120 seconds left.
+|
+|t:|1776978183
+|switch|p2a: Klawf|Klawf, L90, M|272/272
+|move|p1a: Banette|Gunk Shot|p2a: Klawf
+|-resisted|p2a: Klawf
+|-damage|p2a: Klawf|217/272
+|-status|p2a: Klawf|psn
+|-damage|p1a: Banette|243/270|[from] item: Life Orb
+|
+|-damage|p2a: Klawf|183/272 psn|[from] psn
+|upkeep
+|turn|2
+|
+|t:|1776978195
+|move|p2a: Klawf|Swords Dance|p2a: Klawf
+|-boost|p2a: Klawf|atk|2
+|move|p1a: Banette|Poltergeist|p2a: Klawf
+|-activate|p2a: Klawf|move: Poltergeist|Sitrus Berry
+|-damage|p2a: Klawf|8/272 psn
+|-ability|p2a: Klawf|Anger Shell|boost
+|-boost|p2a: Klawf|atk|1
+|-boost|p2a: Klawf|spa|1
+|-boost|p2a: Klawf|spe|1
+|-unboost|p2a: Klawf|def|1
+|-unboost|p2a: Klawf|spd|1
+|-damage|p1a: Banette|216/270|[from] item: Life Orb
+|-enditem|p2a: Klawf|Sitrus Berry|[eat]
+|-heal|p2a: Klawf|76/272 psn|[from] item: Sitrus Berry
+|
+|-damage|p2a: Klawf|42/272 psn|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1776978208
+|move|p1a: Banette|Shadow Sneak|p2a: Klawf
+|-damage|p2a: Klawf|0 fnt
+|faint|p2a: Klawf
+|-damage|p1a: Banette|189/270|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776978236
+|switch|p2a: Froslass|Froslass, L87, F|263/263
+|turn|4
+|
+|t:|1776978255
+|-terastallize|p1a: Banette|Poison
+|move|p2a: Froslass|Poltergeist|p1a: Banette
+|-activate|p1a: Banette|move: Poltergeist|Life Orb
+|-damage|p1a: Banette|74/270
+|-start|p2a: Froslass|Disable|Poltergeist|[from] ability: Cursed Body|[of] p1a: Banette
+|move|p1a: Banette|Poltergeist|p2a: Froslass
+|-activate|p2a: Froslass|move: Poltergeist|Wide Lens
+|-supereffective|p2a: Froslass
+|-damage|p2a: Froslass|0 fnt
+|faint|p2a: Froslass
+|-damage|p1a: Banette|47/270|[from] item: Life Orb
+|
+|upkeep
+|inactive|Floripondio has 120 seconds left.
+|
+|t:|1776978275
+|switch|p2a: Noctowl|Noctowl, L95, F|344/344
+|turn|5
+|
+|t:|1776978282
+|move|p2a: Noctowl|Hurricane|p1a: Banette
+|-damage|p1a: Banette|0 fnt
+|faint|p1a: Banette
+|
+|upkeep
+|
+|t:|1776978284
+|switch|p1a: Galvantula|Galvantula, L82, M|249/249
+|turn|6
+|inactive|Floripondio has 120 seconds left.
+|inactive|Floripondio has 90 seconds left.
+|inactive|Floripondio has 60 seconds left.
+|inactive|Floripondio has 30 seconds left.
+|inactive|Floripondio has 20 seconds left.
+|inactive|Floripondio has 15 seconds left.
+|inactive|Floripondio has 10 seconds left.
+|inactive|Floripondio has 5 seconds left.
+|-message|Floripondio lost due to inactivity.
+|
+|win|anakkin27
+|raw|anakkin27's rating: 1661 &rarr; <strong>1679</strong><br />(+18 for winning)
+|raw|Floripondio's rating: 1624 &rarr; <strong>1606</strong><br />(-18 for losing)
+|l|☆anakkin27
+|player|p1|
+|l|☆Floripondio
+|player|p2|
+|j|☆anakkin27
+|player|p1|anakkin27|cheryl|

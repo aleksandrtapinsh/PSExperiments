@@ -1,0 +1,66 @@
+|j|‽randembatels
+|j|☆Rogart
+|t:|1772743914
+|gametype|singles
+|player|p1|randembatels|265|1257
+|player|p2|Rogart|blue|1214
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772743914
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Spectrier|Spectrier, L75|274/274
+|switch|p2a: Jumpluff|Jumpluff, L87, F|271/271
+|turn|1
+|
+|t:|1772743925
+|move|p2a: Jumpluff|Leech Seed|p1a: Spectrier
+|-start|p1a: Spectrier|move: Leech Seed
+|move|p1a: Spectrier|Substitute|p1a: Spectrier
+|-start|p1a: Spectrier|Substitute
+|-damage|p1a: Spectrier|206/274
+|
+|-heal|p1a: Spectrier|223/274|[from] item: Leftovers
+|-damage|p1a: Spectrier|189/274|[from] Leech Seed|[of] p2a: Jumpluff
+|upkeep
+|turn|2
+|
+|t:|1772743934
+|move|p2a: Jumpluff|Substitute|p2a: Jumpluff
+|-start|p2a: Jumpluff|Substitute
+|-damage|p2a: Jumpluff|204/271
+|move|p1a: Spectrier|Nasty Plot|p1a: Spectrier
+|-boost|p1a: Spectrier|spa|2
+|
+|-heal|p1a: Spectrier|206/274|[from] item: Leftovers
+|-damage|p1a: Spectrier|172/274|[from] Leech Seed|[of] p2a: Jumpluff
+|-heal|p2a: Jumpluff|238/271|[silent]
+|upkeep
+|turn|3
+|
+|t:|1772743944
+|move|p2a: Jumpluff|Acrobatics|p1a: Spectrier
+|-damage|p1a: Spectrier|49/274
+|move|p1a: Spectrier|Shadow Ball|p2a: Jumpluff
+|-crit|p2a: Jumpluff
+|-end|p2a: Jumpluff|Substitute
+|
+|-heal|p1a: Spectrier|66/274|[from] item: Leftovers
+|-damage|p1a: Spectrier|32/274|[from] Leech Seed|[of] p2a: Jumpluff
+|-heal|p2a: Jumpluff|271/271|[silent]
+|upkeep
+|turn|4
+|-message|randembatels forfeited.
+|
+|win|Rogart
+|raw|randembatels's rating: 1257 &rarr; <strong>1229</strong><br />(-28 for losing)
+|raw|Rogart's rating: 1214 &rarr; <strong>1242</strong><br />(+28 for winning)
+|l|‽randembatels
+|player|p1|

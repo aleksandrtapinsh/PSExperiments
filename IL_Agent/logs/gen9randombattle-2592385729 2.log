@@ -1,0 +1,373 @@
+|j|☆blakula22
+|j|☆cookty555
+|t:|1776984395
+|gametype|singles
+|player|p1|blakula22|giovanni|1259
+|player|p2|cookty555|2|1279
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776984395
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Wugtrio|Wugtrio, L91, M|212/212
+|switch|p2a: Venusaur|Venusaur, L84, F|272/272
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by blakula22)
+|
+|t:|1776984411
+|move|p1a: Wugtrio|Throat Chop|p2a: Venusaur
+|-crit|p2a: Venusaur
+|-damage|p2a: Venusaur|102/272
+|-start|p2a: Venusaur|Throat Chop|[silent]
+|move|p2a: Venusaur|Energy Ball|p1a: Wugtrio
+|-supereffective|p1a: Wugtrio
+|-damage|p1a: Wugtrio|2/212
+|
+|-heal|p2a: Venusaur|119/272|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776984423
+|move|p1a: Wugtrio|Throat Chop|p2a: Venusaur
+|-damage|p2a: Venusaur|11/272
+|move|p2a: Venusaur|Synthesis|p2a: Venusaur
+|-heal|p2a: Venusaur|147/272
+|
+|-heal|p2a: Venusaur|164/272|[from] item: Leftovers
+|-end|p2a: Venusaur|Throat Chop|[silent]
+|upkeep
+|turn|3
+|
+|t:|1776984436
+|move|p1a: Wugtrio|Throat Chop|p2a: Venusaur
+|-damage|p2a: Venusaur|56/272
+|-start|p2a: Venusaur|Throat Chop|[silent]
+|move|p2a: Venusaur|Knock Off|p1a: Wugtrio
+|-damage|p1a: Wugtrio|0 fnt
+|-ability|p1a: Wugtrio|Gooey
+|-unboost|p2a: Venusaur|spe|1
+|-enditem|p1a: Wugtrio|Choice Band|[from] move: Knock Off|[of] p2a: Venusaur
+|faint|p1a: Wugtrio
+|
+|-heal|p2a: Venusaur|73/272|[from] item: Leftovers
+|upkeep
+|
+|t:|1776984446
+|switch|p1a: Regieleki|Regieleki, L79|256/256
+|turn|4
+|
+|t:|1776984456
+|switch|p2a: Swampert|Swampert, L83, F|302/302
+|move|p1a: Regieleki|Thunderbolt|p2a: Swampert
+|-immune|p2a: Swampert
+|
+|upkeep
+|turn|5
+|
+|t:|1776984466
+|switch|p1a: Venusaur|Venusaur, L84, M|272/272
+|move|p2a: Swampert|Earthquake|p1a: Venusaur
+|-damage|p1a: Venusaur|146/272
+|
+|-heal|p1a: Venusaur|163/272|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776984473
+|move|p1a: Venusaur|Synthesis|p1a: Venusaur
+|-heal|p1a: Venusaur|272/272
+|move|p2a: Swampert|Ice Beam|p1a: Venusaur
+|-supereffective|p1a: Venusaur
+|-damage|p1a: Venusaur|158/272
+|
+|-heal|p1a: Venusaur|175/272|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776984487
+|move|p1a: Venusaur|Sleep Powder|p2a: Swampert
+|-status|p2a: Swampert|slp|[from] move: Sleep Powder
+|cant|p2a: Swampert|slp
+|
+|-heal|p1a: Venusaur|192/272|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776984502
+|switch|p2a: Bellibolt|Bellibolt, L84, M|320/320
+|move|p1a: Venusaur|Knock Off|p2a: Bellibolt
+|-damage|p2a: Bellibolt|256/320
+|-start|p2a: Bellibolt|Charge|Knock Off|[from] ability: Electromorphosis
+|-enditem|p2a: Bellibolt|Leftovers|[from] move: Knock Off|[of] p1a: Venusaur
+|
+|-heal|p1a: Venusaur|209/272|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776984519
+|move|p1a: Venusaur|Sleep Powder|p2a: Bellibolt
+|-message|Sleep Clause Mod activated.
+|-hint|Sleep Clause Mod prevents players from putting more than one of their opponent's Pokémon to sleep at a time
+|move|p2a: Bellibolt|Thunderbolt|p1a: Venusaur
+|-resisted|p1a: Venusaur
+|-damage|p1a: Venusaur|127/272
+|-end|p2a: Bellibolt|Charge|[silent]
+|
+|-heal|p1a: Venusaur|144/272|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1776984528
+|switch|p2a: Duraludon|Duraludon, L82, M|249/249
+|move|p1a: Venusaur|Synthesis|p1a: Venusaur
+|-heal|p1a: Venusaur|272/272
+|
+|upkeep
+|turn|11
+|
+|t:|1776984549
+|move|p2a: Duraludon|Draco Meteor|p1a: Venusaur
+|-damage|p1a: Venusaur|142/272
+|-unboost|p2a: Duraludon|spa|2
+|move|p1a: Venusaur|Knock Off|p2a: Duraludon
+|-damage|p2a: Duraludon|218/249
+|-enditem|p2a: Duraludon|Eviolite|[from] move: Knock Off|[of] p1a: Venusaur
+|
+|-heal|p1a: Venusaur|159/272|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776984563
+|move|p2a: Duraludon|Draco Meteor|p1a: Venusaur
+|-damage|p1a: Venusaur|95/272
+|-unboost|p2a: Duraludon|spa|2
+|move|p1a: Venusaur|Synthesis|p1a: Venusaur
+|-heal|p1a: Venusaur|231/272
+|
+|-heal|p1a: Venusaur|248/272|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776984576
+|switch|p2a: Swampert|Swampert, L83, F|302/302 slp
+|move|p1a: Venusaur|Sleep Powder|p2a: Swampert|[miss]
+|-miss|p1a: Venusaur|p2a: Swampert
+|
+|-heal|p1a: Venusaur|265/272|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1776984583
+|-terastallize|p2a: Swampert|Poison
+|move|p1a: Venusaur|Sludge Bomb|p2a: Swampert
+|-resisted|p2a: Swampert
+|-damage|p2a: Swampert|267/302 slp
+|-curestatus|p2a: Swampert|slp|[msg]
+|move|p2a: Swampert|Ice Beam|p1a: Venusaur
+|-supereffective|p1a: Venusaur
+|-damage|p1a: Venusaur|163/272
+|
+|-heal|p1a: Venusaur|180/272|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1776984594
+|move|p1a: Venusaur|Knock Off|p2a: Swampert
+|-damage|p2a: Swampert|207/302
+|-enditem|p2a: Swampert|Assault Vest|[from] move: Knock Off|[of] p1a: Venusaur
+|move|p2a: Swampert|Ice Beam|p1a: Venusaur
+|-supereffective|p1a: Venusaur
+|-damage|p1a: Venusaur|78/272
+|-status|p1a: Venusaur|frz
+|
+|-heal|p1a: Venusaur|95/272 frz|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776984606
+|cant|p1a: Venusaur|frz
+|move|p2a: Swampert|Ice Beam|p1a: Venusaur
+|-supereffective|p1a: Venusaur
+|-damage|p1a: Venusaur|0 fnt
+|faint|p1a: Venusaur
+|
+|upkeep
+|
+|t:|1776984623
+|switch|p1a: Basculin|Basculin-Blue-Striped, L86, M|261/261
+|turn|17
+|
+|t:|1776984633
+|switch|p2a: Bellibolt|Bellibolt, L84, M|256/320
+|move|p1a: Basculin|Double-Edge|p2a: Bellibolt
+|-damage|p2a: Bellibolt|140/320
+|-start|p2a: Bellibolt|Charge|Double-Edge|[from] ability: Electromorphosis
+|-damage|p1a: Basculin|223/261|[from] Recoil
+|
+|upkeep
+|turn|18
+|
+|t:|1776984640
+|switch|p1a: Regieleki|Regieleki, L79|256/256
+|move|p2a: Bellibolt|Thunderbolt|p1a: Regieleki
+|-resisted|p1a: Regieleki
+|-damage|p1a: Regieleki|97/256
+|-end|p2a: Bellibolt|Charge|[silent]
+|
+|upkeep
+|turn|19
+|
+|t:|1776984648
+|move|p1a: Regieleki|Explosion|p2a: Bellibolt
+|-damage|p2a: Bellibolt|0 fnt
+|faint|p1a: Regieleki
+|faint|p2a: Bellibolt
+|
+|upkeep
+|
+|t:|1776984652
+|switch|p1a: Basculin|Basculin-Blue-Striped, L86, M|223/261
+|switch|p2a: Swampert|Swampert, L83, F, tera:Poison|207/302
+|turn|20
+|
+|t:|1776984659
+|switch|p2a: Duraludon|Duraludon, L82, M|218/249
+|move|p1a: Basculin|Double-Edge|p2a: Duraludon
+|-resisted|p2a: Duraludon
+|-damage|p2a: Duraludon|165/249
+|-damage|p1a: Basculin|206/261|[from] Recoil
+|
+|upkeep
+|turn|21
+|
+|t:|1776984672
+|move|p1a: Basculin|Double-Edge|p2a: Duraludon
+|-resisted|p2a: Duraludon
+|-damage|p2a: Duraludon|114/249
+|-damage|p1a: Basculin|189/261|[from] Recoil
+|move|p2a: Duraludon|Body Press|p1a: Basculin
+|-damage|p1a: Basculin|110/261
+|
+|upkeep
+|turn|22
+|
+|t:|1776984679
+|move|p1a: Basculin|Double-Edge|p2a: Duraludon
+|-resisted|p2a: Duraludon
+|-damage|p2a: Duraludon|66/249
+|-damage|p1a: Basculin|94/261|[from] Recoil
+|move|p2a: Duraludon|Draco Meteor|p1a: Basculin
+|-damage|p1a: Basculin|0 fnt
+|-unboost|p2a: Duraludon|spa|2
+|faint|p1a: Basculin
+|
+|upkeep
+|
+|t:|1776984691
+|switch|p1a: Zamazenta|Zamazenta-Crowned, L68|238/238
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|turn|23
+|inactive|cookty555 has 120 seconds left.
+|
+|t:|1776984725
+|-terastallize|p1a: Zamazenta|Ghost
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|2
+|move|p2a: Duraludon|Body Press|p1a: Zamazenta
+|-immune|p1a: Zamazenta
+|
+|upkeep
+|turn|24
+|inactive|cookty555 has 120 seconds left.
+|
+|t:|1776984741
+|switch|p2a: Swampert|Swampert, L83, F, tera:Poison|207/302
+|move|p1a: Zamazenta|Body Press|p2a: Swampert
+|-resisted|p2a: Swampert
+|-damage|p2a: Swampert|105/302
+|
+|upkeep
+|turn|25
+|
+|t:|1776984748
+|move|p1a: Zamazenta|Body Press|p2a: Swampert
+|-resisted|p2a: Swampert
+|-damage|p2a: Swampert|7/302
+|move|p2a: Swampert|Knock Off|p1a: Zamazenta
+|-supereffective|p1a: Zamazenta
+|-damage|p1a: Zamazenta|200/238
+|
+|upkeep
+|turn|26
+|
+|t:|1776984757
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|2
+|move|p2a: Swampert|Earthquake|p1a: Zamazenta
+|-damage|p1a: Zamazenta|170/238
+|
+|upkeep
+|turn|27
+|
+|t:|1776984763
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|1
+|move|p2a: Swampert|Flip Turn|p1a: Zamazenta
+|-damage|p1a: Zamazenta|149/238
+|
+|t:|1776984768
+|switch|p2a: Venusaur|Venusaur, L84, F|73/272|[from] Flip Turn
+|
+|-heal|p2a: Venusaur|90/272|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1776984775
+|move|p1a: Zamazenta|Body Press|p2a: Venusaur
+|-resisted|p2a: Venusaur
+|-damage|p2a: Venusaur|0 fnt
+|faint|p2a: Venusaur
+|
+|upkeep
+|
+|t:|1776984778
+|switch|p2a: Virizion|Virizion, L82|283/283
+|turn|29
+|
+|t:|1776984782
+|move|p2a: Virizion|Swords Dance|p2a: Virizion
+|-boost|p2a: Virizion|atk|2
+|move|p1a: Zamazenta|Body Press|p2a: Virizion
+|-damage|p2a: Virizion|0 fnt
+|faint|p2a: Virizion
+|
+|upkeep
+|
+|t:|1776984785
+|switch|p2a: Diancie|Diancie, L82|216/216
+|turn|30
+|
+|t:|1776984795
+|move|p1a: Zamazenta|Body Press|p2a: Diancie
+|-damage|p2a: Diancie|3/216
+|move|p2a: Diancie|Diamond Storm|p1a: Zamazenta
+|-damage|p1a: Zamazenta|128/238
+|
+|-heal|p2a: Diancie|16/216|[from] item: Leftovers
+|upkeep
+|turn|31
+|-message|cookty555 forfeited.
+|
+|win|blakula22
+|raw|blakula22's rating: 1259 &rarr; <strong>1285</strong><br />(+26 for winning)
+|raw|cookty555's rating: 1279 &rarr; <strong>1253</strong><br />(-26 for losing)
+|l|☆cookty555
+|player|p2|

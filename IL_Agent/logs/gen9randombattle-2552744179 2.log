@@ -1,0 +1,400 @@
+|j|☆deltabeee
+|j|☆biglex
+|t:|1772749003
+|gametype|singles
+|player|p1|deltabeee|iris|1430
+|player|p2|biglex|n|1428
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772749003
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Cinccino|Cinccino, L83, F|260/260
+|switch|p2a: Swanna|Swanna, L89, M|278/278
+|turn|1
+|
+|t:|1772749031
+|move|p1a: Cinccino|Tail Slap|p2a: Swanna
+|-damage|p2a: Swanna|233/278
+|-damage|p2a: Swanna|188/278
+|-damage|p2a: Swanna|142/278
+|-damage|p2a: Swanna|96/278
+|-hitcount|p2a: Swanna|4
+|move|p2a: Swanna|Hydro Pump|p1a: Cinccino
+|-damage|p1a: Cinccino|89/260
+|
+|upkeep
+|turn|2
+|
+|t:|1772749054
+|move|p1a: Cinccino|Triple Axel|p2a: Swanna|[miss]
+|-miss|p1a: Cinccino|p2a: Swanna
+|move|p2a: Swanna|Brave Bird|p1a: Cinccino
+|-damage|p1a: Cinccino|0 fnt
+|faint|p1a: Cinccino
+|-damage|p2a: Swanna|67/278|[from] Recoil
+|
+|upkeep
+|
+|t:|1772749065
+|switch|p1a: Oricorio|Oricorio-Pom-Pom, L82, M|257/257
+|turn|3
+|
+|t:|1772749094
+|move|p2a: Swanna|Hydro Pump|p1a: Oricorio|[miss]
+|-miss|p2a: Swanna|p1a: Oricorio
+|move|p1a: Oricorio|Quiver Dance|p1a: Oricorio
+|-boost|p1a: Oricorio|spa|1
+|-boost|p1a: Oricorio|spd|1
+|-boost|p1a: Oricorio|spe|1
+|
+|upkeep
+|turn|4
+|
+|t:|1772749104
+|move|p1a: Oricorio|Revelation Dance|p2a: Swanna
+|-supereffective|p2a: Swanna
+|-damage|p2a: Swanna|0 fnt
+|faint|p2a: Swanna
+|
+|upkeep
+|
+|t:|1772749107
+|switch|p2a: Skeledirge|Skeledirge, L79, M|294/294
+|turn|5
+|
+|t:|1772749121
+|move|p1a: Oricorio|Hurricane|p2a: Skeledirge
+|-damage|p2a: Skeledirge|155/294
+|-start|p2a: Skeledirge|confusion
+|-activate|p2a: Skeledirge|confusion
+|move|p2a: Skeledirge|Torch Song|p1a: Oricorio
+|-damage|p1a: Oricorio|151/257
+|-boost|p2a: Skeledirge|spa|1
+|
+|upkeep
+|turn|6
+|
+|t:|1772749137
+|move|p1a: Oricorio|Revelation Dance|p2a: Skeledirge
+|-damage|p2a: Skeledirge|55/294
+|-end|p2a: Skeledirge|confusion
+|move|p2a: Skeledirge|Torch Song|p1a: Oricorio
+|-damage|p1a: Oricorio|0 fnt
+|-boost|p2a: Skeledirge|spa|1
+|faint|p1a: Oricorio
+|
+|upkeep
+|
+|t:|1772749149
+|switch|p1a: Stonjourner|Stonjourner, L91, F|330/330
+|turn|7
+|
+|t:|1772749161
+|move|p1a: Stonjourner|Stealth Rock|p2a: Skeledirge
+|-sidestart|p2: biglex|move: Stealth Rock
+|move|p2a: Skeledirge|Slack Off|p2a: Skeledirge
+|-heal|p2a: Skeledirge|202/294
+|
+|upkeep
+|turn|8
+|
+|t:|1772749167
+|-terastallize|p2a: Skeledirge|Water
+|move|p1a: Stonjourner|Earthquake|p2a: Skeledirge
+|-damage|p2a: Skeledirge|75/294
+|-damage|p1a: Stonjourner|297/330|[from] item: Life Orb
+|move|p2a: Skeledirge|Shadow Ball|p1a: Stonjourner
+|-damage|p1a: Stonjourner|0 fnt
+|faint|p1a: Stonjourner
+|
+|upkeep
+|
+|t:|1772749180
+|switch|p1a: Kricketune|Kricketune, L99, M|312/312
+|turn|9
+|
+|t:|1772749190
+|move|p1a: Kricketune|Pounce|p2a: Skeledirge
+|-damage|p2a: Skeledirge|0 fnt
+|faint|p2a: Skeledirge
+|
+|upkeep
+|
+|t:|1772749210
+|switch|p2a: Greedent|Greedent, L86, F|347/347
+|-damage|p2a: Greedent|304/347|[from] Stealth Rock
+|turn|10
+|
+|t:|1772749219
+|move|p1a: Kricketune|Knock Off|p2a: Greedent
+|-damage|p2a: Greedent|232/347
+|-enditem|p2a: Greedent|Sitrus Berry|[from] move: Knock Off|[of] p1a: Kricketune
+|move|p2a: Greedent|Swords Dance|p2a: Greedent
+|-boost|p2a: Greedent|atk|2
+|
+|upkeep
+|turn|11
+|
+|t:|1772749228
+|move|p1a: Kricketune|Sticky Web|p2a: Greedent
+|-sidestart|p2: biglex|move: Sticky Web
+|move|p2a: Greedent|Body Slam|p1a: Kricketune
+|-damage|p1a: Kricketune|81/312
+|
+|upkeep
+|turn|12
+|
+|t:|1772749234
+|move|p1a: Kricketune|Pounce|p2a: Greedent
+|-damage|p2a: Greedent|144/347
+|-unboost|p2a: Greedent|spe|1
+|move|p2a: Greedent|Knock Off|p1a: Kricketune
+|-damage|p1a: Kricketune|0 fnt
+|-enditem|p1a: Kricketune|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Greedent
+|faint|p1a: Kricketune
+|
+|upkeep
+|
+|t:|1772749245
+|switch|p1a: Spiritomb|Spiritomb, L89, F|234/234
+|turn|13
+|
+|t:|1772749253
+|move|p1a: Spiritomb|Foul Play|p2a: Greedent
+|-damage|p2a: Greedent|0 fnt
+|faint|p2a: Greedent
+|
+|upkeep
+|
+|t:|1772749263
+|switch|p2a: Scream Tail|Scream Tail, L84|330/330
+|-damage|p2a: Scream Tail|289/330|[from] Stealth Rock
+|-activate|p2a: Scream Tail|move: Sticky Web
+|-unboost|p2a: Scream Tail|spe|1
+|turn|14
+|
+|t:|1772749273
+|-terastallize|p1a: Spiritomb|Poison
+|move|p2a: Scream Tail|Dazzling Gleam|p1a: Spiritomb
+|-resisted|p1a: Spiritomb
+|-damage|p1a: Spiritomb|209/234
+|move|p1a: Spiritomb|Poltergeist|p2a: Scream Tail
+|-activate|p2a: Scream Tail|move: Poltergeist|Leftovers
+|-supereffective|p2a: Scream Tail
+|-damage|p2a: Scream Tail|61/330
+|
+|-heal|p2a: Scream Tail|81/330|[from] item: Leftovers
+|-heal|p1a: Spiritomb|223/234|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1772749298
+|move|p1a: Spiritomb|Sucker Punch||[still]
+|-fail|p1a: Spiritomb
+|move|p2a: Scream Tail|Thunder Wave|p1a: Spiritomb
+|-status|p1a: Spiritomb|par
+|
+|-heal|p2a: Scream Tail|101/330|[from] item: Leftovers
+|-heal|p1a: Spiritomb|234/234 par|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1772749306
+|move|p2a: Scream Tail|Wish|p2a: Scream Tail
+|move|p1a: Spiritomb|Poltergeist|p2a: Scream Tail
+|-activate|p2a: Scream Tail|move: Poltergeist|Leftovers
+|-supereffective|p2a: Scream Tail
+|-damage|p2a: Scream Tail|0 fnt
+|faint|p2a: Scream Tail
+|-end|p2a: Scream Tail|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1772749324
+|switch|p2a: Empoleon|Empoleon, L84, M|278/278
+|-damage|p2a: Empoleon|261/278|[from] Stealth Rock
+|-activate|p2a: Empoleon|move: Sticky Web
+|-unboost|p2a: Empoleon|spe|1
+|-ability|p2a: Empoleon|Competitive|boost
+|-boost|p2a: Empoleon|spa|2
+|turn|17
+|
+|t:|1772749336
+|move|p2a: Empoleon|Surf|p1a: Spiritomb
+|-damage|p1a: Spiritomb|74/234 par
+|cant|p1a: Spiritomb|par
+|
+|-heal|p2a: Empoleon|278/278|[from] move: Wish|[wisher] Scream Tail
+|-heal|p1a: Spiritomb|88/234 par|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1772749345
+|move|p1a: Spiritomb|Sucker Punch|p2a: Empoleon
+|-damage|p2a: Empoleon|199/278
+|move|p2a: Empoleon|Surf|p1a: Spiritomb
+|-damage|p1a: Spiritomb|0 fnt
+|faint|p1a: Spiritomb
+|
+|-heal|p2a: Empoleon|216/278|[from] item: Leftovers
+|upkeep
+|
+|t:|1772749354
+|switch|p1a: Lumineon|Lumineon, L93, M|279/279
+|turn|19
+|
+|t:|1772749361
+|move|p1a: Lumineon|Encore|p2a: Empoleon
+|-start|p2a: Empoleon|Encore
+|move|p2a: Empoleon|Surf|p1a: Lumineon
+|-ability|p1a: Lumineon|Storm Drain|boost
+|-boost|p1a: Lumineon|spa|1
+|
+|-heal|p2a: Empoleon|233/278|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1772749375
+|switch|p2a: Victreebel|Victreebel, L90, M|290/290
+|-damage|p2a: Victreebel|254/290|[from] Stealth Rock
+|-activate|p2a: Victreebel|move: Sticky Web
+|-unboost|p2a: Victreebel|spe|1
+|move|p1a: Lumineon|Hydro Pump|p2a: Victreebel
+|-resisted|p2a: Victreebel
+|-damage|p2a: Victreebel|163/290
+|
+|upkeep
+|turn|21
+|
+|t:|1772749387
+|move|p1a: Lumineon|Ice Beam|p2a: Victreebel
+|-supereffective|p2a: Victreebel
+|-damage|p2a: Victreebel|0 fnt
+|faint|p2a: Victreebel
+|
+|upkeep
+|
+|t:|1772749390
+|switch|p2a: Empoleon|Empoleon, L84, M|233/278
+|-damage|p2a: Empoleon|216/278|[from] Stealth Rock
+|-activate|p2a: Empoleon|move: Sticky Web
+|-unboost|p2a: Empoleon|spe|1
+|-ability|p2a: Empoleon|Competitive|boost
+|-boost|p2a: Empoleon|spa|2
+|turn|22
+|
+|t:|1772749400
+|move|p1a: Lumineon|Hydro Pump|p2a: Empoleon
+|-resisted|p2a: Empoleon
+|-damage|p2a: Empoleon|138/278
+|move|p2a: Empoleon|Yawn|p1a: Lumineon
+|-start|p1a: Lumineon|move: Yawn|[of] p2a: Empoleon
+|
+|-heal|p2a: Empoleon|155/278|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1772749410
+|move|p1a: Lumineon|Encore|p2a: Empoleon
+|-start|p2a: Empoleon|Encore
+|move|p2a: Empoleon|Yawn||[still]
+|-fail|p2a: Empoleon
+|
+|-heal|p2a: Empoleon|172/278|[from] item: Leftovers
+|-end|p1a: Lumineon|move: Yawn|[silent]
+|-status|p1a: Lumineon|slp
+|upkeep
+|turn|24
+|
+|t:|1772749418
+|cant|p1a: Lumineon|slp
+|move|p2a: Empoleon|Yawn||[still]
+|-fail|p2a: Empoleon
+|
+|-heal|p2a: Empoleon|189/278|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1772749425
+|cant|p1a: Lumineon|slp
+|move|p2a: Empoleon|Yawn||[still]
+|-fail|p2a: Empoleon
+|
+|-heal|p2a: Empoleon|206/278|[from] item: Leftovers
+|-end|p2a: Empoleon|Encore
+|upkeep
+|turn|26
+|
+|t:|1772749452
+|-curestatus|p1a: Lumineon|slp|[msg]
+|move|p1a: Lumineon|Hydro Pump|p2a: Empoleon
+|-resisted|p2a: Empoleon
+|-damage|p2a: Empoleon|128/278
+|move|p2a: Empoleon|Ice Beam|p1a: Lumineon
+|-resisted|p1a: Lumineon
+|-damage|p1a: Lumineon|210/279
+|
+|-heal|p2a: Empoleon|145/278|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1772749463
+|move|p1a: Lumineon|Encore|p2a: Empoleon
+|-start|p2a: Empoleon|Encore
+|move|p2a: Empoleon|Ice Beam|p1a: Lumineon
+|-resisted|p1a: Lumineon
+|-damage|p1a: Lumineon|144/279
+|
+|-heal|p2a: Empoleon|162/278|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1772749471
+|move|p1a: Lumineon|Hydro Pump|p2a: Empoleon
+|-resisted|p2a: Empoleon
+|-damage|p2a: Empoleon|93/278
+|move|p2a: Empoleon|Ice Beam|p1a: Lumineon
+|-resisted|p1a: Lumineon
+|-damage|p1a: Lumineon|84/279
+|
+|-heal|p2a: Empoleon|110/278|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1772749480
+|move|p1a: Lumineon|Hydro Pump|p2a: Empoleon
+|-resisted|p2a: Empoleon
+|-damage|p2a: Empoleon|38/278
+|move|p2a: Empoleon|Ice Beam|p1a: Lumineon
+|-resisted|p1a: Lumineon
+|-damage|p1a: Lumineon|22/279
+|
+|-heal|p2a: Empoleon|55/278|[from] item: Leftovers
+|-end|p2a: Empoleon|Encore
+|upkeep
+|turn|30
+|
+|t:|1772749490
+|move|p1a: Lumineon|Hydro Pump|p2a: Empoleon
+|-resisted|p2a: Empoleon
+|-damage|p2a: Empoleon|0 fnt
+|faint|p2a: Empoleon
+|
+|win|deltabeee
+|raw|deltabeee's rating: 1430 &rarr; <strong>1450</strong><br />(+20 for winning)
+|raw|biglex's rating: 1428 &rarr; <strong>1408</strong><br />(-20 for losing)
+|c|☆deltabeee|gg
+|l|☆biglex
+|player|p2|
+|l|☆deltabeee
+|player|p1|
+|j|☆deltabeee
+|player|p1|deltabeee|iris|

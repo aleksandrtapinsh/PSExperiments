@@ -1,0 +1,211 @@
+|j|☆Sbrombolo
+|j|☆bullfrog birthday
+|t:|1776983564
+|gametype|singles
+|player|p1|Sbrombolo|giovanni|1385
+|player|p2|bullfrog birthday|janitor|1431
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776983564
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Excadrill|Excadrill, L79, F|303/303
+|switch|p2a: Basculegion|Basculegion-F, L83, F|335/335
+|-ability|p1a: Excadrill|Mold Breaker
+|turn|1
+|
+|t:|1776983585
+|switch|p1a: Regieleki|Regieleki, L79|256/256
+|move|p2a: Basculegion|Wave Crash|p1a: Regieleki
+|-damage|p1a: Regieleki|12/256
+|-damage|p2a: Basculegion|254/335|[from] Recoil
+|
+|upkeep
+|turn|2
+|
+|t:|1776983636
+|move|p1a: Regieleki|Thunderbolt|p2a: Basculegion
+|-supereffective|p2a: Basculegion
+|-damage|p2a: Basculegion|36/335
+|move|p2a: Basculegion|Shadow Ball|p1a: Regieleki
+|-damage|p1a: Regieleki|0 fnt
+|faint|p1a: Regieleki
+|
+|upkeep
+|
+|t:|1776983642
+|switch|p1a: Solgaleo|Solgaleo, L74|325/325
+|turn|3
+|
+|t:|1776983648
+|move|p1a: Solgaleo|Flame Charge|p2a: Basculegion
+|-resisted|p2a: Basculegion
+|-damage|p2a: Basculegion|13/335
+|-boost|p1a: Solgaleo|spe|1
+|move|p2a: Basculegion|Shadow Ball|p1a: Solgaleo
+|-supereffective|p1a: Solgaleo
+|-damage|p1a: Solgaleo|57/325
+|-enditem|p1a: Solgaleo|Weakness Policy
+|-boost|p1a: Solgaleo|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Solgaleo|spa|2|[from] item: Weakness Policy
+|
+|upkeep
+|turn|4
+|
+|t:|1776983657
+|move|p1a: Solgaleo|Flame Charge|p2a: Basculegion
+|-resisted|p2a: Basculegion
+|-damage|p2a: Basculegion|0 fnt
+|-boost|p1a: Solgaleo|spe|1
+|faint|p2a: Basculegion
+|
+|upkeep
+|
+|t:|1776983677
+|switch|p2a: Deoxys|Deoxys-Attack, L72|191/191
+|-ability|p2a: Deoxys|Pressure
+|turn|5
+|
+|t:|1776983717
+|-terastallize|p2a: Deoxys|Normal
+|move|p2a: Deoxys|Extreme Speed|p1a: Solgaleo
+|-resisted|p1a: Solgaleo
+|-damage|p1a: Solgaleo|0 fnt
+|faint|p1a: Solgaleo
+|-damage|p2a: Deoxys|172/191|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776983721
+|switch|p1a: Excadrill|Excadrill, L79, F|303/303
+|-ability|p1a: Excadrill|Mold Breaker
+|turn|6
+|
+|t:|1776983730
+|move|p2a: Deoxys|Superpower|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|0 fnt
+|-unboost|p2a: Deoxys|atk|1
+|-unboost|p2a: Deoxys|def|1
+|faint|p1a: Excadrill
+|-damage|p2a: Deoxys|153/191|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776983743
+|switch|p1a: Kyurem|Kyurem-White, L73|303/303
+|-ability|p1a: Kyurem|Turboblaze
+|turn|7
+|
+|t:|1776983758
+|move|p1a: Kyurem|Fusion Flare|p2a: Deoxys
+|-damage|p2a: Deoxys|0 fnt
+|faint|p2a: Deoxys
+|
+|upkeep
+|
+|t:|1776983782
+|switch|p2a: Kleavor|Kleavor, L78, M|237/237
+|turn|8
+|
+|t:|1776983806
+|move|p1a: Kyurem|Fusion Flare|p2a: Kleavor
+|-damage|p2a: Kleavor|123/237
+|move|p2a: Kleavor|Stone Axe|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|51/303
+|-sidestart|p1: Sbrombolo|move: Stealth Rock
+|
+|upkeep
+|turn|9
+|
+|t:|1776983817
+|move|p1a: Kyurem|Fusion Flare|p2a: Kleavor
+|-damage|p2a: Kleavor|15/237
+|move|p2a: Kleavor|Stone Axe|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-crit|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|upkeep
+|
+|t:|1776983822
+|switch|p1a: Venusaur|Venusaur, L84, M|235/235
+|-damage|p1a: Venusaur|206/235|[from] Stealth Rock
+|turn|10
+|
+|t:|1776983832
+|move|p1a: Venusaur|Sludge Bomb|p2a: Kleavor
+|-resisted|p2a: Kleavor
+|-damage|p2a: Kleavor|0 fnt
+|faint|p2a: Kleavor
+|
+|upkeep
+|
+|t:|1776983854
+|switch|p2a: Porygon2|Porygon2, L81|270/270
+|-ability|p2a: Porygon2|Download|boost
+|-boost|p2a: Porygon2|spa|1
+|turn|11
+|
+|t:|1776983887
+|-terastallize|p1a: Venusaur|Poison
+|move|p1a: Venusaur|Sludge Bomb|p2a: Porygon2
+|-damage|p2a: Porygon2|156/270
+|move|p2a: Porygon2|Ice Beam|p1a: Venusaur
+|-damage|p1a: Venusaur|80/235
+|replace|p1a: Zoroark|Zoroark, L83, F
+|-end|p1a: Zoroark|Illusion
+|-hint|Illusion Level Mod is active, so this Pokémon's true level was hidden.
+|
+|upkeep
+|turn|12
+|
+|t:|1776983898
+|move|p1a: Zoroark|Sludge Bomb|p2a: Porygon2
+|-damage|p2a: Porygon2|48/270
+|move|p2a: Porygon2|Ice Beam|p1a: Zoroark
+|-damage|p1a: Zoroark|0 fnt
+|faint|p1a: Zoroark
+|
+|upkeep
+|
+|t:|1776983901
+|switch|p1a: Venusaur|Venusaur, L84, M|272/272
+|-damage|p1a: Venusaur|238/272|[from] Stealth Rock
+|turn|13
+|
+|t:|1776983904
+|move|p1a: Venusaur|Leech Seed|p2a: Porygon2
+|-start|p2a: Porygon2|move: Leech Seed
+|move|p2a: Porygon2|Ice Beam|p1a: Venusaur
+|-supereffective|p1a: Venusaur
+|-damage|p1a: Venusaur|76/272
+|-status|p1a: Venusaur|frz
+|
+|-heal|p1a: Venusaur|93/272 frz|[from] item: Leftovers
+|-damage|p2a: Porygon2|15/270|[from] Leech Seed|[of] p1a: Venusaur
+|-heal|p1a: Venusaur|126/272 frz|[silent]
+|upkeep
+|turn|14
+|
+|t:|1776983907
+|cant|p1a: Venusaur|frz
+|move|p2a: Porygon2|Ice Beam|p1a: Venusaur
+|-supereffective|p1a: Venusaur
+|-damage|p1a: Venusaur|0 fnt
+|faint|p1a: Venusaur
+|
+|win|bullfrog birthday
+|raw|Sbrombolo's rating: 1385 &rarr; <strong>1368</strong><br />(-17 for losing)
+|raw|bullfrog birthday's rating: 1431 &rarr; <strong>1448</strong><br />(+17 for winning)
+|l|☆Sbrombolo
+|player|p1|

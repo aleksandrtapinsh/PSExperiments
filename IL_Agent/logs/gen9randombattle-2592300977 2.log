@@ -1,0 +1,248 @@
+|j|☆GimmickGambler
+|j|☆direc_t10n
+|t:|1776977074
+|gametype|singles
+|player|p1|GimmickGambler|gambler|1140
+|player|p2|direc_t10n|blue|1119
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776977074
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Chi-Yu|Chi-Yu, L77|211/211
+|switch|p2a: Gastrodon|Gastrodon-East, L86, F|331/331
+|-ability|p1a: Chi-Yu|Beads of Ruin
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by direc_t10n)
+|inactive|GimmickGambler also wants the timer to be on.
+|
+|t:|1776977098
+|switch|p1a: Altaria|Altaria, L89, F|278/278
+|move|p2a: Gastrodon|Stealth Rock|p1a: Altaria
+|-sidestart|p1: GimmickGambler|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1776977116
+|move|p1a: Altaria|Dragon Dance|p1a: Altaria
+|-boost|p1a: Altaria|atk|1
+|-boost|p1a: Altaria|spe|1
+|move|p2a: Gastrodon|Sludge Bomb|p1a: Altaria
+|-damage|p1a: Altaria|222/278
+|
+|upkeep
+|turn|3
+|
+|t:|1776977126
+|switch|p2a: Weezing|Weezing, L88, M|258/258
+|move|p1a: Altaria|Earthquake|p2a: Weezing
+|-immune|p2a: Weezing|[from] ability: Levitate
+|
+|upkeep
+|turn|4
+|
+|t:|1776977141
+|move|p1a: Altaria|Brave Bird|p2a: Weezing
+|-damage|p2a: Weezing|143/258
+|-damage|p1a: Altaria|184/278|[from] Recoil
+|move|p2a: Weezing|Will-O-Wisp|p1a: Altaria
+|-status|p1a: Altaria|brn
+|
+|-heal|p2a: Weezing|159/258|[from] item: Leftovers
+|-damage|p1a: Altaria|167/278 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1776977149
+|move|p1a: Altaria|Roost|p1a: Altaria
+|-heal|p1a: Altaria|278/278 brn
+|-singleturn|p1a: Altaria|move: Roost
+|move|p2a: Weezing|Sludge Bomb|p1a: Altaria
+|-damage|p1a: Altaria|196/278 brn
+|
+|-heal|p2a: Weezing|175/258|[from] item: Leftovers
+|-damage|p1a: Altaria|179/278 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1776977164
+|-curestatus|p1a: Altaria|brn|[from] ability: Natural Cure
+|switch|p1a: Chi-Yu|Chi-Yu, L77|211/211
+|-damage|p1a: Chi-Yu|159/211|[from] Stealth Rock
+|-ability|p1a: Chi-Yu|Beads of Ruin
+|move|p2a: Weezing|Sludge Bomb|p1a: Chi-Yu
+|-damage|p1a: Chi-Yu|71/211
+|
+|-heal|p2a: Weezing|191/258|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776977174
+|move|p1a: Chi-Yu|Psychic|p2a: Weezing
+|-supereffective|p2a: Weezing
+|-damage|p2a: Weezing|0 fnt
+|faint|p2a: Weezing
+|
+|upkeep
+|
+|t:|1776977192
+|switch|p2a: Gastrodon|Gastrodon-East, L86, F|331/331
+|turn|8
+|
+|t:|1776977211
+|move|p1a: Chi-Yu|Psychic|p2a: Gastrodon
+|-damage|p2a: Gastrodon|200/331
+|move|p2a: Gastrodon|Sludge Bomb|p1a: Chi-Yu
+|-damage|p1a: Chi-Yu|18/211
+|
+|-heal|p2a: Gastrodon|220/331|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776977217
+|move|p1a: Chi-Yu|Psychic|p2a: Gastrodon
+|-damage|p2a: Gastrodon|78/331
+|move|p2a: Gastrodon|Sludge Bomb|p1a: Chi-Yu
+|-damage|p1a: Chi-Yu|0 fnt
+|faint|p1a: Chi-Yu
+|
+|-heal|p2a: Gastrodon|98/331|[from] item: Leftovers
+|upkeep
+|
+|t:|1776977224
+|switch|p1a: Altaria|Altaria, L89, F|179/278
+|turn|10
+|
+|t:|1776977237
+|switch|p2a: Oranguru|Oranguru, L92, M|315/315
+|move|p1a: Altaria|Earthquake|p2a: Oranguru
+|-damage|p2a: Oranguru|251/315
+|
+|-heal|p2a: Oranguru|270/315|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776977248
+|move|p1a: Altaria|Roost|p1a: Altaria
+|-heal|p1a: Altaria|278/278
+|-singleturn|p1a: Altaria|move: Roost
+|move|p2a: Oranguru|Nasty Plot|p2a: Oranguru
+|-boost|p2a: Oranguru|spa|2
+|
+|-heal|p2a: Oranguru|289/315|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776977257
+|move|p1a: Altaria|Dragon Dance|p1a: Altaria
+|-boost|p1a: Altaria|atk|1
+|-boost|p1a: Altaria|spe|1
+|move|p2a: Oranguru|Nasty Plot|p2a: Oranguru
+|-boost|p2a: Oranguru|spa|2
+|
+|-heal|p2a: Oranguru|308/315|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776977264
+|move|p1a: Altaria|Earthquake|p2a: Oranguru
+|-damage|p2a: Oranguru|223/315
+|move|p2a: Oranguru|Psyshock|p1a: Altaria
+|-damage|p1a: Altaria|20/278
+|
+|-heal|p2a: Oranguru|242/315|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1776977270
+|move|p1a: Altaria|Earthquake|p2a: Oranguru
+|-damage|p2a: Oranguru|152/315
+|move|p2a: Oranguru|Nasty Plot|p2a: Oranguru
+|-boost|p2a: Oranguru|spa|2
+|
+|-heal|p2a: Oranguru|171/315|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1776977274
+|move|p1a: Altaria|Earthquake|p2a: Oranguru
+|-damage|p2a: Oranguru|81/315
+|move|p2a: Oranguru|Psyshock|p1a: Altaria
+|-damage|p1a: Altaria|0 fnt
+|faint|p1a: Altaria
+|
+|-heal|p2a: Oranguru|100/315|[from] item: Leftovers
+|upkeep
+|
+|t:|1776977292
+|switch|p1a: Alcremie|Alcremie-Caramel-Swirl, L90, F|263/263
+|-damage|p1a: Alcremie|231/263|[from] Stealth Rock
+|turn|16
+|
+|t:|1776977305
+|move|p1a: Alcremie|Alluring Voice|p2a: Oranguru
+|-damage|p2a: Oranguru|9/315
+|move|p2a: Oranguru|Psyshock|p1a: Alcremie
+|-damage|p1a: Alcremie|0 fnt
+|faint|p1a: Alcremie
+|
+|-heal|p2a: Oranguru|28/315|[from] item: Leftovers
+|upkeep
+|
+|t:|1776977312
+|switch|p1a: Raging Bolt|Raging Bolt, L78|323/323
+|-damage|p1a: Raging Bolt|283/323|[from] Stealth Rock
+|turn|17
+|l|☆direc_t10n
+|inactive|direc_t10n disconnected and has a minute to reconnect!
+|player|p2|
+|j|☆direc_t10n
+|inactive|direc_t10n reconnected and has 140 seconds left.
+|player|p2|direc_t10n|blue|
+|
+|t:|1776977329
+|move|p1a: Raging Bolt|Thunderclap||[still]
+|-fail|p1a: Raging Bolt
+|move|p2a: Oranguru|Nasty Plot|p2a: Oranguru
+|-boost|p2a: Oranguru|spa|0
+|
+|-heal|p2a: Oranguru|47/315|[from] item: Leftovers
+|-heal|p1a: Raging Bolt|303/323|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1776977338
+|move|p1a: Raging Bolt|Thunderclap||[still]
+|-fail|p1a: Raging Bolt
+|move|p2a: Oranguru|Nasty Plot|p2a: Oranguru
+|-boost|p2a: Oranguru|spa|0
+|
+|-heal|p2a: Oranguru|66/315|[from] item: Leftovers
+|-heal|p1a: Raging Bolt|323/323|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1776977344
+|move|p2a: Oranguru|Psyshock|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|-heal|p2a: Oranguru|85/315|[from] item: Leftovers
+|upkeep
+|-message|GimmickGambler forfeited.
+|
+|win|direc_t10n
+|raw|GimmickGambler's rating: 1140 &rarr; <strong>1113</strong><br />(-27 for losing)
+|raw|direc_t10n's rating: 1119 &rarr; <strong>1146</strong><br />(+27 for winning)
+|l|☆GimmickGambler
+|player|p1|
+|c|☆direc_t10n|Lol

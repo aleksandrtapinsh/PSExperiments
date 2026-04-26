@@ -1,0 +1,598 @@
+|j|☆Pein009
+|j|☆Bullet Sponge
+|t:|1776979593
+|gametype|singles
+|player|p1|Pein009|harlequin|1666
+|player|p2|Bullet Sponge|101|1636
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776979593
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Bronzong|Bronzong, L88|261/261
+|switch|p2a: Meganium|Meganium, L90, F|290/290
+|turn|1
+|
+|t:|1776979605
+|switch|p1a: Dipplin|Dipplin, L88, F|284/284
+|move|p2a: Meganium|Knock Off|p1a: Dipplin
+|-damage|p1a: Dipplin|244/284
+|-activate|p1a: Dipplin|ability: Sticky Hold
+|
+|upkeep
+|turn|2
+|
+|t:|1776979614
+|move|p1a: Dipplin|Dragon Pulse|p2a: Meganium
+|-damage|p2a: Meganium|202/290
+|move|p2a: Meganium|Dragon Tail|p1a: Dipplin
+|-supereffective|p1a: Dipplin
+|-damage|p1a: Dipplin|196/284
+|drag|p1a: Scream Tail|Scream Tail, L84|330/330
+|
+|-heal|p2a: Meganium|220/290|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776979625
+|switch|p2a: Mudsdale|Mudsdale, L83, M|302/302
+|move|p1a: Scream Tail|Encore||[still]
+|-fail|p1a: Scream Tail
+|
+|upkeep
+|turn|4
+|
+|t:|1776979632
+|-end|p1a: Scream Tail|Protosynthesis|[silent]
+|switch|p1a: Dipplin|Dipplin, L88, F|196/284
+|move|p2a: Mudsdale|Stealth Rock|p1a: Dipplin
+|-sidestart|p1: Pein009|move: Stealth Rock
+|
+|upkeep
+|turn|5
+|
+|t:|1776979638
+|switch|p2a: Meganium|Meganium, L90, F|220/290
+|move|p1a: Dipplin|Dragon Pulse|p2a: Meganium
+|-damage|p2a: Meganium|139/290
+|
+|-heal|p2a: Meganium|157/290|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776979647
+|move|p2a: Meganium|Knock Off|p1a: Dipplin
+|-damage|p1a: Dipplin|155/284
+|-activate|p1a: Dipplin|ability: Sticky Hold
+|move|p1a: Dipplin|Dragon Pulse|p2a: Meganium
+|-damage|p2a: Meganium|79/290
+|
+|-heal|p2a: Meganium|97/290|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776979657
+|move|p1a: Dipplin|Dragon Pulse|p2a: Meganium
+|-damage|p2a: Meganium|21/290
+|move|p2a: Meganium|Dragon Tail|p1a: Dipplin
+|-supereffective|p1a: Dipplin
+|-damage|p1a: Dipplin|107/284
+|drag|p1a: Klawf|Klawf, L90, F|272/272
+|-damage|p1a: Klawf|238/272|[from] Stealth Rock
+|
+|-heal|p2a: Meganium|39/290|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776979669
+|move|p2a: Meganium|Synthesis|p2a: Meganium
+|-heal|p2a: Meganium|184/290
+|move|p1a: Klawf|Knock Off|p2a: Meganium
+|-damage|p2a: Meganium|90/290
+|-enditem|p2a: Meganium|Leftovers|[from] move: Knock Off|[of] p1a: Klawf
+|-damage|p1a: Klawf|211/272|[from] item: Life Orb
+|
+|upkeep
+|turn|9
+|
+|t:|1776979679
+|switch|p1a: Dipplin|Dipplin, L88, F|107/284
+|-damage|p1a: Dipplin|72/284|[from] Stealth Rock
+|move|p2a: Meganium|Energy Ball|p1a: Dipplin
+|-resisted|p1a: Dipplin
+|-damage|p1a: Dipplin|46/284
+|
+|upkeep
+|turn|10
+|
+|t:|1776979696
+|move|p1a: Dipplin|Recover|p1a: Dipplin
+|-heal|p1a: Dipplin|188/284
+|move|p2a: Meganium|Dragon Tail|p1a: Dipplin
+|-supereffective|p1a: Dipplin
+|-damage|p1a: Dipplin|140/284
+|drag|p1a: Klawf|Klawf, L90, F|272/272
+|-damage|p1a: Klawf|238/272|[from] Stealth Rock
+|
+|upkeep
+|turn|11
+|
+|t:|1776979714
+|move|p2a: Meganium|Synthesis|p2a: Meganium
+|-heal|p2a: Meganium|235/290
+|move|p1a: Klawf|Stone Edge|p2a: Meganium
+|-damage|p2a: Meganium|105/290
+|-damage|p1a: Klawf|211/272|[from] item: Life Orb
+|
+|upkeep
+|turn|12
+|
+|t:|1776979722
+|switch|p1a: Dipplin|Dipplin, L88, F|140/284
+|-damage|p1a: Dipplin|105/284|[from] Stealth Rock
+|move|p2a: Meganium|Energy Ball|p1a: Dipplin
+|-resisted|p1a: Dipplin
+|-damage|p1a: Dipplin|90/284
+|
+|upkeep
+|turn|13
+|
+|t:|1776979730
+|move|p1a: Dipplin|Recover|p1a: Dipplin
+|-heal|p1a: Dipplin|232/284
+|move|p2a: Meganium|Dragon Tail|p1a: Dipplin
+|-supereffective|p1a: Dipplin
+|-damage|p1a: Dipplin|188/284
+|drag|p1a: Clodsire|Clodsire, L81, M|343/343
+|-damage|p1a: Clodsire|322/343|[from] Stealth Rock
+|
+|-heal|p1a: Clodsire|343/343|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1776979741
+|switch|p2a: Sableye|Sableye, L88, M|231/231
+|move|p1a: Clodsire|Gunk Shot|p2a: Sableye
+|-resisted|p2a: Sableye
+|-damage|p2a: Sableye|182/231
+|
+|-heal|p2a: Sableye|196/231|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1776979751
+|switch|p1a: Dipplin|Dipplin, L88, F|188/284
+|-damage|p1a: Dipplin|153/284|[from] Stealth Rock
+|move|p2a: Sableye|Encore||[still]
+|-fail|p2a: Sableye
+|
+|-heal|p2a: Sableye|210/231|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776979760
+|move|p2a: Sableye|Thunder Wave|p1a: Dipplin
+|-status|p1a: Dipplin|par
+|move|p1a: Dipplin|Dragon Pulse|p2a: Sableye
+|-damage|p2a: Sableye|92/231
+|
+|-heal|p2a: Sableye|106/231|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1776979769
+|switch|p2a: Mimikyu|Mimikyu, L79, M|216/216
+|move|p1a: Dipplin|Giga Drain|p2a: Mimikyu
+|-activate|p2a: Mimikyu|ability: Disguise
+|-damage|p2a: Mimikyu|216/216
+|detailschange|p2a: Mimikyu|Mimikyu-Busted, L79, M
+|-damage|p2a: Mimikyu|189/216|[from] pokemon: Mimikyu-Busted
+|
+|upkeep
+|turn|18
+|
+|t:|1776979778
+|move|p2a: Mimikyu|Swords Dance|p2a: Mimikyu
+|-boost|p2a: Mimikyu|atk|2
+|cant|p1a: Dipplin|par
+|
+|upkeep
+|turn|19
+|
+|t:|1776979786
+|switch|p1a: Clodsire|Clodsire, L81, M|343/343
+|-damage|p1a: Clodsire|322/343|[from] Stealth Rock
+|move|p2a: Mimikyu|Play Rough|p1a: Clodsire
+|-resisted|p1a: Clodsire
+|-damage|p1a: Clodsire|257/343
+|-damage|p2a: Mimikyu|168/216|[from] item: Life Orb
+|
+|-heal|p1a: Clodsire|278/343|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1776979798
+|move|p2a: Mimikyu|Shadow Claw|p1a: Clodsire
+|-damage|p1a: Clodsire|173/343
+|-damage|p2a: Mimikyu|147/216|[from] item: Life Orb
+|move|p1a: Clodsire|Recover|p1a: Clodsire
+|-heal|p1a: Clodsire|343/343
+|
+|upkeep
+|turn|21
+|
+|t:|1776979806
+|switch|p2a: Sableye|Sableye, L88, M|106/231
+|move|p1a: Clodsire|Gunk Shot|p2a: Sableye
+|-resisted|p2a: Sableye
+|-damage|p2a: Sableye|49/231
+|
+|-heal|p2a: Sableye|63/231|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1776979815
+|move|p2a: Sableye|Recover|p2a: Sableye
+|-heal|p2a: Sableye|179/231
+|move|p1a: Clodsire|Earthquake|p2a: Sableye
+|-damage|p2a: Sableye|89/231
+|
+|-heal|p2a: Sableye|103/231|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1776979824
+|switch|p1a: Dipplin|Dipplin, L88, F|153/284 par
+|-damage|p1a: Dipplin|118/284 par|[from] Stealth Rock
+|move|p2a: Sableye|Recover|p2a: Sableye
+|-heal|p2a: Sableye|219/231
+|
+|-heal|p2a: Sableye|231/231|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1776979836
+|switch|p2a: Mimikyu|Mimikyu-Busted, L79, M|147/216
+|move|p1a: Dipplin|Recover|p1a: Dipplin
+|-heal|p1a: Dipplin|260/284 par
+|
+|upkeep
+|turn|25
+|
+|t:|1776979843
+|switch|p1a: Clodsire|Clodsire, L81, M|343/343
+|-damage|p1a: Clodsire|322/343|[from] Stealth Rock
+|move|p2a: Mimikyu|Shadow Claw|p1a: Clodsire
+|-damage|p1a: Clodsire|219/343
+|-damage|p2a: Mimikyu|126/216|[from] item: Life Orb
+|
+|-heal|p1a: Clodsire|240/343|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1776979853
+|switch|p2a: Mudsdale|Mudsdale, L83, M|302/302
+|move|p1a: Clodsire|Recover|p1a: Clodsire
+|-heal|p1a: Clodsire|343/343
+|
+|upkeep
+|turn|27
+|
+|t:|1776979863
+|switch|p1a: Bronzong|Bronzong, L88|261/261
+|-damage|p1a: Bronzong|245/261|[from] Stealth Rock
+|move|p2a: Mudsdale|Earthquake|p1a: Bronzong
+|-immune|p1a: Bronzong|[from] ability: Levitate
+|
+|-heal|p1a: Bronzong|261/261|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1776979875
+|switch|p2a: Sableye|Sableye, L88, M|231/231
+|move|p1a: Bronzong|Iron Head|p2a: Sableye
+|-damage|p2a: Sableye|132/231
+|
+|-heal|p2a: Sableye|146/231|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1776979884
+|switch|p1a: Dipplin|Dipplin, L88, F|260/284 par
+|-damage|p1a: Dipplin|225/284 par|[from] Stealth Rock
+|move|p2a: Sableye|Knock Off|p1a: Dipplin
+|-damage|p1a: Dipplin|173/284 par
+|-activate|p1a: Dipplin|ability: Sticky Hold
+|
+|-heal|p2a: Sableye|160/231|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1776979895
+|move|p2a: Sableye|Knock Off|p1a: Dipplin
+|-damage|p1a: Dipplin|122/284 par
+|-activate|p1a: Dipplin|ability: Sticky Hold
+|cant|p1a: Dipplin|par
+|
+|-heal|p2a: Sableye|174/231|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1776979906
+|move|p2a: Sableye|Knock Off|p1a: Dipplin
+|-damage|p1a: Dipplin|74/284 par
+|-activate|p1a: Dipplin|ability: Sticky Hold
+|move|p1a: Dipplin|Giga Drain|p2a: Sableye
+|-damage|p2a: Sableye|80/231
+|-heal|p1a: Dipplin|121/284 par|[from] drain|[of] p2a: Sableye
+|
+|-heal|p2a: Sableye|94/231|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1776979916
+|move|p2a: Sableye|Recover|p2a: Sableye
+|-heal|p2a: Sableye|210/231
+|cant|p1a: Dipplin|par
+|
+|-heal|p2a: Sableye|224/231|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1776979924
+|move|p2a: Sableye|Knock Off|p1a: Dipplin
+|-damage|p1a: Dipplin|70/284 par
+|-activate|p1a: Dipplin|ability: Sticky Hold
+|cant|p1a: Dipplin|par
+|
+|-heal|p2a: Sableye|231/231|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1776979932
+|move|p2a: Sableye|Knock Off|p1a: Dipplin
+|-damage|p1a: Dipplin|18/284 par
+|-activate|p1a: Dipplin|ability: Sticky Hold
+|cant|p1a: Dipplin|par
+|
+|upkeep
+|turn|35
+|
+|t:|1776979940
+|move|p1a: Dipplin|Sucker Punch|p2a: Sableye
+|-damage|p2a: Sableye|176/231
+|move|p2a: Sableye|Knock Off|p1a: Dipplin
+|-damage|p1a: Dipplin|0 fnt
+|-enditem|p1a: Dipplin|Eviolite|[from] move: Knock Off|[of] p2a: Sableye
+|faint|p1a: Dipplin
+|
+|-heal|p2a: Sableye|190/231|[from] item: Leftovers
+|upkeep
+|
+|t:|1776979953
+|switch|p1a: Scream Tail|Scream Tail, L84|330/330
+|-damage|p1a: Scream Tail|289/330|[from] Stealth Rock
+|turn|36
+|
+|t:|1776979964
+|move|p2a: Sableye|Thunder Wave|p1a: Scream Tail|[miss]
+|-miss|p2a: Sableye|p1a: Scream Tail
+|move|p1a: Scream Tail|Dazzling Gleam|p2a: Sableye
+|-supereffective|p2a: Sableye
+|-damage|p2a: Sableye|38/231
+|
+|-heal|p1a: Scream Tail|309/330|[from] item: Leftovers
+|-heal|p2a: Sableye|52/231|[from] item: Leftovers
+|upkeep
+|turn|37
+|
+|t:|1776979973
+|move|p2a: Sableye|Thunder Wave|p1a: Scream Tail
+|-status|p1a: Scream Tail|par
+|move|p1a: Scream Tail|Dazzling Gleam|p2a: Sableye
+|-supereffective|p2a: Sableye
+|-damage|p2a: Sableye|0 fnt
+|faint|p2a: Sableye
+|
+|-heal|p1a: Scream Tail|329/330 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1776979975
+|switch|p2a: Mudsdale|Mudsdale, L83, M|302/302
+|turn|38
+|
+|t:|1776979986
+|-end|p1a: Scream Tail|Protosynthesis|[silent]
+|switch|p1a: Bronzong|Bronzong, L88|261/261
+|-damage|p1a: Bronzong|245/261|[from] Stealth Rock
+|move|p2a: Mudsdale|Heavy Slam|p1a: Bronzong
+|-resisted|p1a: Bronzong
+|-damage|p1a: Bronzong|211/261
+|
+|-heal|p1a: Bronzong|227/261|[from] item: Leftovers
+|upkeep
+|turn|39
+|
+|t:|1776980011
+|switch|p2a: Meganium|Meganium, L90, F|105/290
+|move|p1a: Bronzong|Iron Defense|p1a: Bronzong
+|-boost|p1a: Bronzong|def|2
+|
+|-heal|p1a: Bronzong|243/261|[from] item: Leftovers
+|upkeep
+|turn|40
+|
+|t:|1776980019
+|move|p1a: Bronzong|Psychic Noise|p2a: Meganium
+|-damage|p2a: Meganium|42/290
+|-start|p2a: Meganium|move: Heal Block
+|move|p2a: Meganium|Dragon Tail|p1a: Bronzong|[miss]
+|-miss|p2a: Meganium|p1a: Bronzong
+|
+|-heal|p1a: Bronzong|259/261|[from] item: Leftovers
+|upkeep
+|turn|41
+|
+|t:|1776980031
+|move|p2a: Meganium|Knock Off|p1a: Bronzong
+|-supereffective|p1a: Bronzong
+|-crit|p1a: Bronzong
+|-damage|p1a: Bronzong|97/261
+|-enditem|p1a: Bronzong|Leftovers|[from] move: Knock Off|[of] p2a: Meganium
+|move|p1a: Bronzong|Psychic Noise|p2a: Meganium
+|-damage|p2a: Meganium|0 fnt
+|faint|p2a: Meganium
+|
+|upkeep
+|
+|t:|1776980051
+|switch|p2a: Rotom|Rotom-Mow, L87|229/229
+|turn|42
+|
+|t:|1776980059
+|switch|p1a: Clodsire|Clodsire, L81, M|343/343
+|-damage|p1a: Clodsire|322/343|[from] Stealth Rock
+|move|p2a: Rotom|Thunderbolt|p1a: Clodsire
+|-immune|p1a: Clodsire
+|
+|-heal|p1a: Clodsire|343/343|[from] item: Leftovers
+|upkeep
+|turn|43
+|
+|t:|1776980072
+|switch|p2a: Mudsdale|Mudsdale, L83, M|302/302
+|switch|p1a: Klawf|Klawf, L90, F|272/272
+|-damage|p1a: Klawf|238/272|[from] Stealth Rock
+|
+|upkeep
+|turn|44
+|
+|t:|1776980082
+|move|p1a: Klawf|Stealth Rock|p2a: Mudsdale
+|-sidestart|p2: Bullet Sponge|move: Stealth Rock
+|move|p2a: Mudsdale|Heavy Slam|p1a: Klawf
+|-supereffective|p1a: Klawf
+|-damage|p1a: Klawf|84/272
+|
+|upkeep
+|turn|45
+|
+|t:|1776980094
+|switch|p1a: Bronzong|Bronzong, L88|97/261
+|-damage|p1a: Bronzong|81/261|[from] Stealth Rock
+|move|p2a: Mudsdale|Heavy Slam|p1a: Bronzong
+|-resisted|p1a: Bronzong
+|-damage|p1a: Bronzong|45/261
+|
+|upkeep
+|turn|46
+|
+|t:|1776980106
+|move|p1a: Bronzong|Iron Defense|p1a: Bronzong
+|-boost|p1a: Bronzong|def|2
+|move|p2a: Mudsdale|Heavy Slam|p1a: Bronzong
+|-resisted|p1a: Bronzong
+|-damage|p1a: Bronzong|30/261
+|
+|upkeep
+|turn|47
+|
+|t:|1776980113
+|switch|p2a: Mimikyu|Mimikyu-Busted, L79, M|126/216
+|-damage|p2a: Mimikyu|99/216|[from] Stealth Rock
+|move|p1a: Bronzong|Body Press|p2a: Mimikyu
+|-immune|p2a: Mimikyu
+|
+|upkeep
+|turn|48
+|
+|t:|1776980121
+|move|p2a: Mimikyu|Shadow Claw|p1a: Bronzong
+|-supereffective|p1a: Bronzong
+|-damage|p1a: Bronzong|0 fnt
+|faint|p1a: Bronzong
+|-damage|p2a: Mimikyu|78/216|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776980129
+|switch|p1a: Clodsire|Clodsire, L81, M|343/343
+|-damage|p1a: Clodsire|322/343|[from] Stealth Rock
+|turn|49
+|
+|t:|1776980159
+|switch|p2a: Mudsdale|Mudsdale, L83, M|302/302
+|-damage|p2a: Mudsdale|284/302|[from] Stealth Rock
+|move|p1a: Clodsire|Spikes|p2a: Mudsdale
+|-sidestart|p2: Bullet Sponge|Spikes
+|
+|-heal|p2a: Mudsdale|302/302|[from] item: Leftovers
+|-heal|p1a: Clodsire|343/343|[from] item: Leftovers
+|upkeep
+|turn|50
+|
+|t:|1776980180
+|switch|p1a: Scream Tail|Scream Tail, L84|329/330 par
+|-damage|p1a: Scream Tail|288/330 par|[from] Stealth Rock
+|move|p2a: Mudsdale|Earthquake|p1a: Scream Tail
+|-damage|p1a: Scream Tail|168/330 par
+|
+|-heal|p1a: Scream Tail|188/330 par|[from] item: Leftovers
+|upkeep
+|turn|51
+|
+|t:|1776980195
+|move|p1a: Scream Tail|Encore|p2a: Mudsdale
+|-start|p2a: Mudsdale|Encore
+|move|p2a: Mudsdale|Earthquake|p1a: Scream Tail
+|-damage|p1a: Scream Tail|65/330 par
+|
+|-heal|p1a: Scream Tail|85/330 par|[from] item: Leftovers
+|upkeep
+|turn|52
+|
+|t:|1776980208
+|move|p1a: Scream Tail|Dazzling Gleam|p2a: Mudsdale
+|-damage|p2a: Mudsdale|239/302
+|-ability|p2a: Mudsdale|Stamina|boost
+|-boost|p2a: Mudsdale|def|1
+|move|p2a: Mudsdale|Earthquake|p1a: Scream Tail
+|-damage|p1a: Scream Tail|0 fnt
+|faint|p1a: Scream Tail
+|-end|p1a: Scream Tail|Protosynthesis|[silent]
+|
+|-heal|p2a: Mudsdale|257/302|[from] item: Leftovers
+|upkeep
+|
+|t:|1776980220
+|switch|p1a: Great Tusk|Great Tusk, L77|304/304
+|-damage|p1a: Great Tusk|295/304|[from] Stealth Rock
+|-enditem|p1a: Great Tusk|Booster Energy
+|-activate|p1a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p1a: Great Tusk|protosynthesisatk
+|turn|53
+|
+|t:|1776980242
+|switch|p2a: Rotom|Rotom-Mow, L87|229/229
+|-damage|p2a: Rotom|201/229|[from] Stealth Rock
+|move|p1a: Great Tusk|Bulk Up|p1a: Great Tusk
+|-boost|p1a: Great Tusk|atk|1
+|-boost|p1a: Great Tusk|def|1
+|
+|-heal|p2a: Rotom|215/229|[from] item: Leftovers
+|upkeep
+|turn|54
+|-message|Pein009 forfeited.
+|
+|win|Bullet Sponge
+|raw|Pein009's rating: 1666 &rarr; <strong>1644</strong><br />(-22 for losing)
+|raw|Bullet Sponge's rating: 1636 &rarr; <strong>1658</strong><br />(+22 for winning)
+|l|☆Pein009
+|player|p1|

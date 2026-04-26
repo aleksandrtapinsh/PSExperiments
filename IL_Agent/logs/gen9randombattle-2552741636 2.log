@@ -1,0 +1,536 @@
+|j|‽Obamnas Wife
+|j|☆ame1jz
+|t:|1772748758
+|gametype|singles
+|player|p1|Obamnas Wife|marlon|1114
+|player|p2|ame1jz|miku-ghost|1133
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772748758
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Raikou|Raikou, L81|278/278
+|switch|p2a: Bombirdier|Bombirdier, L85, F|258/258
+|-ability|p1a: Raikou|Pressure
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ame1jz)
+|
+|t:|1772748771
+|switch|p2a: Torterra|Torterra, L78, F|276/276
+|move|p1a: Raikou|Calm Mind|p1a: Raikou
+|-boost|p1a: Raikou|spa|1
+|-boost|p1a: Raikou|spd|1
+|
+|upkeep
+|turn|2
+|
+|t:|1772748777
+|move|p1a: Raikou|Substitute|p1a: Raikou
+|-start|p1a: Raikou|Substitute
+|-damage|p1a: Raikou|209/278
+|move|p2a: Torterra|Headlong Rush|p1a: Raikou
+|-supereffective|p1a: Raikou
+|-end|p1a: Raikou|Substitute
+|-unboost|p2a: Torterra|def|1
+|-unboost|p2a: Torterra|spd|1
+|
+|-heal|p1a: Raikou|226/278|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1772748786
+|-terastallize|p1a: Raikou|Water
+|move|p1a: Raikou|Scald|p2a: Torterra
+|-damage|p2a: Torterra|41/276
+|move|p2a: Torterra|Headlong Rush|p1a: Raikou
+|-damage|p1a: Raikou|82/278
+|-unboost|p2a: Torterra|def|1
+|-unboost|p2a: Torterra|spd|1
+|
+|-heal|p1a: Raikou|99/278|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1772748802
+|switch|p2a: Clefable|Clefable, L83, F|293/293
+|move|p1a: Raikou|Scald|p2a: Clefable
+|-damage|p2a: Clefable|151/293
+|
+|-heal|p1a: Raikou|116/278|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1772748820
+|move|p1a: Raikou|Thunderbolt|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|-heal|p1a: Raikou|133/278|[from] item: Leftovers
+|upkeep
+|
+|t:|1772748827
+|switch|p2a: Scovillain|Scovillain, L91, F|266/266
+|turn|6
+|inactive|Obamnas Wife has 120 seconds left.
+|
+|t:|1772748865
+|move|p1a: Raikou|Thunderbolt|p2a: Scovillain
+|-resisted|p2a: Scovillain
+|-damage|p2a: Scovillain|180/266
+|-status|p2a: Scovillain|par
+|move|p2a: Scovillain|Leech Seed|p1a: Raikou
+|-start|p1a: Raikou|move: Leech Seed
+|
+|-heal|p1a: Raikou|150/278|[from] item: Leftovers
+|-heal|p2a: Scovillain|196/266 par|[from] item: Leftovers
+|-damage|p1a: Raikou|116/278|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|230/266 par|[silent]
+|upkeep
+|turn|7
+|inactive|Obamnas Wife has 120 seconds left.
+|
+|t:|1772748874
+|move|p1a: Raikou|Scald|p2a: Scovillain
+|-damage|p2a: Scovillain|77/266 par
+|move|p2a: Scovillain|Substitute|p2a: Scovillain
+|-start|p2a: Scovillain|Substitute
+|-damage|p2a: Scovillain|11/266 par
+|
+|-heal|p1a: Raikou|133/278|[from] item: Leftovers
+|-heal|p2a: Scovillain|27/266 par|[from] item: Leftovers
+|-damage|p1a: Raikou|99/278|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|61/266 par|[silent]
+|upkeep
+|turn|8
+|
+|t:|1772748882
+|switch|p1a: Kilowattrel|Kilowattrel, L83, F|252/252
+|cant|p2a: Scovillain|par
+|
+|-heal|p2a: Scovillain|77/266 par|[from] item: Leftovers
+|upkeep
+|turn|9
+|inactive|Obamnas Wife has 120 seconds left.
+|inactive|Obamnas Wife has 90 seconds left.
+|
+|t:|1772748954
+|move|p1a: Kilowattrel|Hurricane|p2a: Scovillain|[miss]
+|-miss|p1a: Kilowattrel|p2a: Scovillain
+|cant|p2a: Scovillain|par
+|
+|-heal|p2a: Scovillain|93/266 par|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1772748958
+|move|p1a: Kilowattrel|Discharge|p2a: Scovillain
+|-resisted|p2a: Scovillain
+|-activate|p2a: Scovillain|move: Substitute|[damage]
+|move|p2a: Scovillain|Leech Seed|p1a: Kilowattrel|[miss]
+|-miss|p2a: Scovillain|p1a: Kilowattrel
+|
+|-heal|p2a: Scovillain|109/266 par|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1772748963
+|move|p1a: Kilowattrel|U-turn|p2a: Scovillain
+|-end|p2a: Scovillain|Substitute
+|
+|t:|1772748969
+|switch|p1a: Conkeldurr|Conkeldurr, L80, F|299/299|[from] U-turn
+|move|p2a: Scovillain|Leech Seed|p1a: Conkeldurr
+|-start|p1a: Conkeldurr|move: Leech Seed
+|
+|-heal|p2a: Scovillain|125/266 par|[from] item: Leftovers
+|-damage|p1a: Conkeldurr|262/299|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|162/266 par|[silent]
+|-status|p1a: Conkeldurr|brn|[from] item: Flame Orb
+|upkeep
+|turn|12
+|inactive|Obamnas Wife has 90 seconds left.
+|
+|t:|1772748988
+|switch|p2a: Chimecho|Chimecho, L93, M|290/290
+|move|p1a: Conkeldurr|Facade|p2a: Chimecho
+|-damage|p2a: Chimecho|116/290
+|
+|-heal|p2a: Chimecho|134/290|[from] item: Leftovers
+|-damage|p1a: Conkeldurr|225/299 brn|[from] Leech Seed|[of] p2a: Chimecho
+|-heal|p2a: Chimecho|171/290|[silent]
+|-damage|p1a: Conkeldurr|207/299 brn|[from] brn
+|upkeep
+|turn|13
+|inactive|Obamnas Wife has 90 seconds left.
+|inactive|Obamnas Wife has 60 seconds left.
+|
+|t:|1772749031
+|switch|p2a: Bombirdier|Bombirdier, L85, F|258/258
+|move|p1a: Conkeldurr|Facade|p2a: Bombirdier
+|-damage|p2a: Bombirdier|76/258
+|
+|-damage|p1a: Conkeldurr|170/299 brn|[from] Leech Seed|[of] p2a: Bombirdier
+|-heal|p2a: Bombirdier|113/258|[silent]
+|-damage|p1a: Conkeldurr|152/299 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1772749047
+|move|p2a: Bombirdier|Roost|p2a: Bombirdier
+|-heal|p2a: Bombirdier|242/258
+|-singleturn|p2a: Bombirdier|move: Roost
+|move|p1a: Conkeldurr|Facade|p2a: Bombirdier
+|-crit|p2a: Bombirdier
+|-damage|p2a: Bombirdier|0 fnt
+|faint|p2a: Bombirdier
+|
+|-damage|p1a: Conkeldurr|134/299 brn|[from] brn
+|upkeep
+|
+|t:|1772749054
+|switch|p2a: Minior|Minior-Violet, L79|224/224
+|-formechange|p2a: Minior|Minior-Meteor||[from] ability: Shields Down
+|turn|15
+|
+|t:|1772749069
+|move|p2a: Minior|Shell Smash|p2a: Minior
+|-unboost|p2a: Minior|def|1
+|-unboost|p2a: Minior|spd|1
+|-boost|p2a: Minior|atk|2
+|-boost|p2a: Minior|spa|2
+|-boost|p2a: Minior|spe|2
+|-enditem|p2a: Minior|White Herb
+|-clearnegativeboost|p2a: Minior|[silent]
+|move|p1a: Conkeldurr|Close Combat|p2a: Minior
+|-damage|p2a: Minior|0 fnt
+|-unboost|p1a: Conkeldurr|def|1
+|-unboost|p1a: Conkeldurr|spd|1
+|faint|p2a: Minior
+|
+|-damage|p1a: Conkeldurr|116/299 brn|[from] brn
+|upkeep
+|
+|t:|1772749086
+|switch|p2a: Chimecho|Chimecho, L93, M|171/290
+|turn|16
+|
+|t:|1772749099
+|move|p2a: Chimecho|Psyshock|p1a: Conkeldurr
+|-supereffective|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|0 fnt
+|faint|p1a: Conkeldurr
+|
+|-heal|p2a: Chimecho|189/290|[from] item: Leftovers
+|upkeep
+|
+|t:|1772749104
+|switch|p1a: Zacian|Zacian, L69|241/241
+|-ability|p1a: Zacian|Intrepid Sword|boost
+|-boost|p1a: Zacian|atk|1
+|turn|17
+|
+|t:|1772749113
+|move|p1a: Zacian|Crunch|p2a: Chimecho
+|-supereffective|p2a: Chimecho
+|-damage|p2a: Chimecho|10/290
+|-unboost|p2a: Chimecho|def|1
+|-damage|p1a: Zacian|217/241|[from] item: Life Orb
+|move|p2a: Chimecho|Recover|p2a: Chimecho
+|-heal|p2a: Chimecho|155/290
+|
+|-heal|p2a: Chimecho|173/290|[from] item: Leftovers
+|upkeep
+|turn|18
+|inactive|Obamnas Wife has 60 seconds left.
+|
+|t:|1772749170
+|switch|p2a: Torterra|Torterra, L78, F|41/276
+|move|p1a: Zacian|Crunch|p2a: Torterra
+|-damage|p2a: Torterra|0 fnt
+|faint|p2a: Torterra
+|-damage|p1a: Zacian|193/241|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772749190
+|switch|p2a: Scovillain|Scovillain, L91, F|162/266 par
+|turn|19
+|
+|t:|1772749202
+|move|p1a: Zacian|Crunch|p2a: Scovillain
+|-damage|p2a: Scovillain|67/266 par
+|-damage|p1a: Zacian|169/241|[from] item: Life Orb
+|move|p2a: Scovillain|Leech Seed|p1a: Zacian
+|-start|p1a: Zacian|move: Leech Seed
+|
+|-heal|p2a: Scovillain|83/266 par|[from] item: Leftovers
+|-damage|p1a: Zacian|139/241|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|113/266 par|[silent]
+|upkeep
+|turn|20
+|
+|t:|1772749210
+|move|p2a: Scovillain|Protect|p2a: Scovillain
+|-singleturn|p2a: Scovillain|Protect
+|move|p1a: Zacian|Crunch|p2a: Scovillain
+|-activate|p2a: Scovillain|move: Protect
+|
+|-heal|p2a: Scovillain|129/266 par|[from] item: Leftovers
+|-damage|p1a: Zacian|109/241|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|159/266 par|[silent]
+|upkeep
+|turn|21
+|
+|t:|1772749227
+|move|p1a: Zacian|Swords Dance|p1a: Zacian
+|-boost|p1a: Zacian|atk|2
+|move|p2a: Scovillain|Substitute|p2a: Scovillain
+|-start|p2a: Scovillain|Substitute
+|-damage|p2a: Scovillain|93/266 par
+|
+|-heal|p2a: Scovillain|109/266 par|[from] item: Leftovers
+|-damage|p1a: Zacian|79/241|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|139/266 par|[silent]
+|upkeep
+|turn|22
+|
+|t:|1772749234
+|move|p2a: Scovillain|Protect|p2a: Scovillain
+|-singleturn|p2a: Scovillain|Protect
+|move|p1a: Zacian|Crunch|p2a: Scovillain
+|-activate|p2a: Scovillain|move: Protect
+|
+|-heal|p2a: Scovillain|155/266 par|[from] item: Leftovers
+|-damage|p1a: Zacian|49/241|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|185/266 par|[silent]
+|upkeep
+|turn|23
+|inactive|Obamnas Wife has 60 seconds left.
+|
+|t:|1772749247
+|move|p1a: Zacian|Crunch|p2a: Scovillain
+|-end|p2a: Scovillain|Substitute
+|-damage|p1a: Zacian|25/241|[from] item: Life Orb
+|cant|p2a: Scovillain|par
+|
+|-heal|p2a: Scovillain|201/266 par|[from] item: Leftovers
+|-damage|p1a: Zacian|0 fnt|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|226/266 par|[silent]
+|faint|p1a: Zacian
+|upkeep
+|
+|t:|1772749253
+|switch|p1a: Revavroom|Revavroom, L79, M|256/256
+|turn|24
+|
+|t:|1772749261
+|-terastallize|p2a: Scovillain|Steel
+|move|p1a: Revavroom|Gunk Shot|p2a: Scovillain
+|-immune|p2a: Scovillain
+|move|p2a: Scovillain|Leech Seed|p1a: Revavroom|[miss]
+|-miss|p2a: Scovillain|p1a: Revavroom
+|
+|-heal|p2a: Scovillain|242/266 par|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1772749267
+|move|p1a: Revavroom|High Horsepower|p2a: Scovillain
+|-supereffective|p2a: Scovillain
+|-damage|p2a: Scovillain|39/266 par
+|-damage|p1a: Revavroom|231/256|[from] item: Life Orb
+|move|p2a: Scovillain|Leech Seed|p1a: Revavroom
+|-start|p1a: Revavroom|move: Leech Seed
+|
+|-heal|p2a: Scovillain|55/266 par|[from] item: Leftovers
+|-damage|p1a: Revavroom|199/256|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|87/266 par|[silent]
+|upkeep
+|turn|26
+|
+|t:|1772749270
+|move|p2a: Scovillain|Protect|p2a: Scovillain
+|-singleturn|p2a: Scovillain|Protect
+|move|p1a: Revavroom|High Horsepower|p2a: Scovillain
+|-activate|p2a: Scovillain|move: Protect
+|
+|-heal|p2a: Scovillain|103/266 par|[from] item: Leftovers
+|-damage|p1a: Revavroom|167/256|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|135/266 par|[silent]
+|upkeep
+|turn|27
+|
+|t:|1772749276
+|switch|p2a: Chimecho|Chimecho, L93, M|173/290
+|move|p1a: Revavroom|High Horsepower|p2a: Chimecho
+|-immune|p2a: Chimecho|[from] ability: Levitate
+|
+|-heal|p2a: Chimecho|191/290|[from] item: Leftovers
+|-damage|p1a: Revavroom|135/256|[from] Leech Seed|[of] p2a: Chimecho
+|-heal|p2a: Chimecho|223/290|[silent]
+|upkeep
+|turn|28
+|
+|t:|1772749286
+|switch|p1a: Flapple|Flapple, L88, M|266/266
+|switch|p2a: Scovillain|Scovillain, L91, F, tera:Steel|135/266 par
+|
+|-heal|p2a: Scovillain|151/266 par|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1772749294
+|move|p1a: Flapple|Dragon Dance|p1a: Flapple
+|-boost|p1a: Flapple|atk|1
+|-boost|p1a: Flapple|spe|1
+|move|p2a: Scovillain|Flamethrower|p1a: Flapple
+|-damage|p1a: Flapple|121/266
+|
+|-heal|p2a: Scovillain|167/266 par|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1772749300
+|move|p1a: Flapple|Grav Apple|p2a: Scovillain
+|-resisted|p2a: Scovillain
+|-damage|p2a: Scovillain|24/266 par
+|-unboost|p2a: Scovillain|def|1
+|move|p2a: Scovillain|Flamethrower|p1a: Flapple
+|-damage|p1a: Flapple|0 fnt
+|faint|p1a: Flapple
+|
+|-heal|p2a: Scovillain|40/266 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1772749306
+|switch|p1a: Raikou|Raikou, L81, tera:Water|99/278
+|-ability|p1a: Raikou|Pressure
+|turn|31
+|
+|t:|1772749313
+|move|p1a: Raikou|Scald|p2a: Scovillain
+|-damage|p2a: Scovillain|0 fnt
+|faint|p2a: Scovillain
+|
+|-heal|p1a: Raikou|116/278|[from] item: Leftovers
+|upkeep
+|
+|t:|1772749315
+|switch|p2a: Chimecho|Chimecho, L93, M|223/290
+|turn|32
+|inactive|Obamnas Wife has 120 seconds left.
+|
+|t:|1772749339
+|move|p1a: Raikou|Scald|p2a: Chimecho
+|-damage|p2a: Chimecho|148/290
+|move|p2a: Chimecho|Calm Mind|p2a: Chimecho
+|-boost|p2a: Chimecho|spa|1
+|-boost|p2a: Chimecho|spd|1
+|
+|-heal|p1a: Raikou|133/278|[from] item: Leftovers
+|-heal|p2a: Chimecho|166/290|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1772749345
+|move|p1a: Raikou|Scald|p2a: Chimecho
+|-damage|p2a: Chimecho|112/290
+|-status|p2a: Chimecho|brn
+|move|p2a: Chimecho|Calm Mind|p2a: Chimecho
+|-boost|p2a: Chimecho|spa|1
+|-boost|p2a: Chimecho|spd|1
+|
+|-heal|p1a: Raikou|150/278|[from] item: Leftovers
+|-heal|p2a: Chimecho|130/290 brn|[from] item: Leftovers
+|-damage|p2a: Chimecho|112/290 brn|[from] brn
+|upkeep
+|turn|34
+|
+|t:|1772749350
+|move|p1a: Raikou|Calm Mind|p1a: Raikou
+|-boost|p1a: Raikou|spa|1
+|-boost|p1a: Raikou|spd|1
+|move|p2a: Chimecho|Recover|p2a: Chimecho
+|-heal|p2a: Chimecho|257/290 brn
+|
+|-heal|p1a: Raikou|167/278|[from] item: Leftovers
+|-heal|p2a: Chimecho|275/290 brn|[from] item: Leftovers
+|-damage|p2a: Chimecho|257/290 brn|[from] brn
+|upkeep
+|turn|35
+|
+|t:|1772749354
+|move|p1a: Raikou|Calm Mind|p1a: Raikou
+|-boost|p1a: Raikou|spa|1
+|-boost|p1a: Raikou|spd|1
+|move|p2a: Chimecho|Psyshock|p1a: Raikou
+|-damage|p1a: Raikou|0 fnt
+|faint|p1a: Raikou
+|
+|-heal|p2a: Chimecho|275/290 brn|[from] item: Leftovers
+|-damage|p2a: Chimecho|257/290 brn|[from] brn
+|upkeep
+|
+|t:|1772749357
+|switch|p1a: Revavroom|Revavroom, L79, M|135/256
+|turn|36
+|
+|t:|1772749361
+|move|p1a: Revavroom|Gunk Shot|p2a: Chimecho
+|-damage|p2a: Chimecho|101/290 brn
+|-damage|p1a: Revavroom|110/256|[from] item: Life Orb
+|move|p2a: Chimecho|Psyshock|p1a: Revavroom
+|-damage|p1a: Revavroom|0 fnt
+|faint|p1a: Revavroom
+|
+|-heal|p2a: Chimecho|119/290 brn|[from] item: Leftovers
+|-damage|p2a: Chimecho|101/290 brn|[from] brn
+|upkeep
+|
+|t:|1772749364
+|switch|p1a: Kilowattrel|Kilowattrel, L83, F|252/252
+|turn|37
+|
+|t:|1772749367
+|move|p1a: Kilowattrel|U-turn|p2a: Chimecho
+|-supereffective|p2a: Chimecho
+|-damage|p2a: Chimecho|29/290 brn
+|move|p2a: Chimecho|Recover|p2a: Chimecho
+|-heal|p2a: Chimecho|174/290 brn
+|
+|-heal|p2a: Chimecho|192/290 brn|[from] item: Leftovers
+|-damage|p2a: Chimecho|174/290 brn|[from] brn
+|upkeep
+|turn|38
+|
+|t:|1772749372
+|move|p1a: Kilowattrel|U-turn|p2a: Chimecho
+|-supereffective|p2a: Chimecho
+|-damage|p2a: Chimecho|98/290 brn
+|move|p2a: Chimecho|Recover|p2a: Chimecho
+|-heal|p2a: Chimecho|243/290 brn
+|
+|-heal|p2a: Chimecho|261/290 brn|[from] item: Leftovers
+|-damage|p2a: Chimecho|243/290 brn|[from] brn
+|upkeep
+|turn|39
+|
+|t:|1772749375
+|move|p1a: Kilowattrel|U-turn|p2a: Chimecho
+|-supereffective|p2a: Chimecho
+|-damage|p2a: Chimecho|173/290 brn
+|move|p2a: Chimecho|Psyshock|p1a: Kilowattrel
+|-damage|p1a: Kilowattrel|0 fnt
+|faint|p1a: Kilowattrel
+|
+|win|ame1jz
+|raw|Obamnas Wife's rating: 1114 &rarr; <strong>1090</strong><br />(-24 for losing)
+|raw|ame1jz's rating: 1133 &rarr; <strong>1157</strong><br />(+24 for winning)
+|c|☆ame1jz|gg

@@ -1,0 +1,206 @@
+|j|☆Carex37
+|j|☆tempete de slip
+|t:|1776976068
+|gametype|singles
+|player|p1|Carex37|2|1233
+|player|p2|tempete de slip|colress|1195
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776976068
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Golem|Golem, L87, F|281/281
+|switch|p2a: Dewgong|Dewgong, L94, M|322/322
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by tempete de slip)
+|
+|t:|1776976085
+|move|p2a: Dewgong|Flip Turn|p1a: Golem
+|-supereffective|p1a: Golem
+|-damage|p1a: Golem|109/281
+|
+|t:|1776976091
+|switch|p2a: Poliwrath|Poliwrath, L88, M|302/302|[from] Flip Turn
+|move|p1a: Golem|Stone Edge|p2a: Poliwrath
+|-resisted|p2a: Poliwrath
+|-damage|p2a: Poliwrath|242/302
+|
+|upkeep
+|turn|2
+|
+|t:|1776976111
+|switch|p1a: Lunala|Lunala, L70|308/308
+|move|p2a: Poliwrath|Liquidation|p1a: Lunala
+|-damage|p1a: Lunala|248/308
+|
+|-heal|p1a: Lunala|267/308|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776976127
+|-terastallize|p2a: Poliwrath|Steel
+|move|p1a: Lunala|Calm Mind|p1a: Lunala
+|-boost|p1a: Lunala|spa|1
+|-boost|p1a: Lunala|spd|1
+|move|p2a: Poliwrath|Knock Off|p1a: Lunala
+|-supereffective|p1a: Lunala
+|-damage|p1a: Lunala|0 fnt
+|-enditem|p1a: Lunala|Leftovers|[from] move: Knock Off|[of] p2a: Poliwrath
+|faint|p1a: Lunala
+|
+|upkeep
+|inactive|Carex37 has 120 seconds left.
+|
+|t:|1776976144
+|switch|p1a: Zacian|Zacian, L69|241/241
+|-ability|p1a: Zacian|Intrepid Sword|boost
+|-boost|p1a: Zacian|atk|1
+|turn|4
+|inactive|Carex37 has 120 seconds left.
+|
+|t:|1776976162
+|move|p1a: Zacian|Close Combat|p2a: Poliwrath
+|-supereffective|p2a: Poliwrath
+|-damage|p2a: Poliwrath|13/302
+|-unboost|p1a: Zacian|def|1
+|-unboost|p1a: Zacian|spd|1
+|-damage|p1a: Zacian|217/241|[from] item: Life Orb
+|move|p2a: Poliwrath|Circle Throw|p1a: Zacian
+|-resisted|p1a: Zacian
+|-damage|p1a: Zacian|169/241
+|drag|p1a: Clodsire|Clodsire, L81, F|343/343
+|
+|upkeep
+|turn|5
+|inactive|Carex37 has 120 seconds left.
+|
+|t:|1776976174
+|move|p2a: Poliwrath|Liquidation|p1a: Clodsire
+|-supereffective|p1a: Clodsire
+|-damage|p1a: Clodsire|65/343
+|move|p1a: Clodsire|Earthquake|p2a: Poliwrath
+|-supereffective|p2a: Poliwrath
+|-damage|p2a: Poliwrath|0 fnt
+|faint|p2a: Poliwrath
+|
+|-heal|p1a: Clodsire|86/343|[from] item: Leftovers
+|upkeep
+|
+|t:|1776976183
+|switch|p2a: Dewgong|Dewgong, L94, M|322/322
+|turn|6
+|
+|t:|1776976190
+|move|p2a: Dewgong|Ice Beam|p1a: Clodsire
+|-supereffective|p1a: Clodsire
+|-damage|p1a: Clodsire|0 fnt
+|faint|p1a: Clodsire
+|
+|upkeep
+|
+|t:|1776976196
+|switch|p1a: Breloom|Breloom, L83, M|235/235
+|turn|7
+|
+|t:|1776976204
+|move|p2a: Dewgong|Flip Turn|p1a: Breloom
+|-resisted|p1a: Breloom
+|-damage|p1a: Breloom|202/235
+|
+|t:|1776976215
+|switch|p2a: Grumpig|Grumpig, L92, F|297/297|[from] Flip Turn
+|move|p1a: Breloom|Bullet Seed|p2a: Grumpig
+|-damage|p2a: Grumpig|227/297
+|-damage|p2a: Grumpig|148/297
+|-hitcount|p2a: Grumpig|2
+|-damage|p1a: Breloom|179/235|[from] item: Life Orb
+|
+|upkeep
+|turn|8
+|
+|t:|1776976232
+|switch|p1a: Bellibolt|Bellibolt, L84, M|320/320
+|move|p2a: Grumpig|Psychic|p1a: Bellibolt
+|-crit|p1a: Bellibolt
+|-damage|p1a: Bellibolt|154/320
+|-start|p1a: Bellibolt|Charge|Psychic|[from] ability: Electromorphosis
+|
+|-heal|p1a: Bellibolt|174/320|[from] item: Leftovers
+|upkeep
+|turn|9
+|inactive|Carex37 has 120 seconds left.
+|
+|t:|1776976266
+|switch|p2a: Flapple|Flapple, L88, F|266/266
+|move|p1a: Bellibolt|Thunderbolt|p2a: Flapple
+|-resisted|p2a: Flapple
+|-damage|p2a: Flapple|205/266
+|-end|p1a: Bellibolt|Charge|[silent]
+|
+|-heal|p1a: Bellibolt|194/320|[from] item: Leftovers
+|upkeep
+|turn|10
+|inactive|Carex37 has 120 seconds left.
+|
+|t:|1776976285
+|move|p2a: Flapple|Dragon Dance|p2a: Flapple
+|-boost|p2a: Flapple|atk|1
+|-boost|p2a: Flapple|spe|1
+|move|p1a: Bellibolt|Volt Switch|p2a: Flapple
+|-resisted|p2a: Flapple
+|-damage|p2a: Flapple|182/266
+|
+|t:|1776976295
+|switch|p1a: Zacian|Zacian, L69|169/241|[from] Volt Switch
+|
+|upkeep
+|turn|11
+|
+|t:|1776976302
+|move|p2a: Flapple|Grav Apple|p1a: Zacian
+|-damage|p1a: Zacian|0 fnt
+|faint|p1a: Zacian
+|
+|upkeep
+|
+|t:|1776976308
+|switch|p1a: Breloom|Breloom, L83, M|179/235
+|turn|12
+|
+|t:|1776976317
+|move|p2a: Flapple|Outrage|p1a: Breloom
+|-damage|p1a: Breloom|0 fnt
+|faint|p1a: Breloom
+|
+|upkeep
+|
+|t:|1776976322
+|switch|p1a: Golem|Golem, L87, F|109/281
+|turn|13
+|
+|t:|1776976327
+|move|p2a: Flapple|Outrage|p1a: Golem|[from] lockedmove
+|-damage|p1a: Golem|0 fnt
+|faint|p1a: Golem
+|-start|p2a: Flapple|confusion|[fatigue]
+|
+|upkeep
+|
+|t:|1776976332
+|switch|p1a: Bellibolt|Bellibolt, L84, M|194/320
+|turn|14
+|-message|Carex37 forfeited.
+|
+|win|tempete de slip
+|raw|Carex37's rating: 1233 &rarr; <strong>1205</strong><br />(-28 for losing)
+|raw|tempete de slip's rating: 1195 &rarr; <strong>1223</strong><br />(+28 for winning)
+|l|☆Carex37
+|player|p1|
+|c|☆tempete de slip|gg

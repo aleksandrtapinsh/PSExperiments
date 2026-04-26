@@ -1,0 +1,216 @@
+|j|☆SteelixPrismGX
+|j|☆Sup1c37
+|t:|1776983161
+|gametype|singles
+|player|p1|SteelixPrismGX|siebold|1922
+|player|p2|Sup1c37|pokemaniac|1966
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776983161
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Avalugg|Avalugg, L88, M|310/310
+|switch|p2a: Toxtricity|Toxtricity, L82, M|257/257
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Sup1c37)
+|
+|t:|1776983179
+|switch|p2a: Okidogi|Okidogi, L77, M|262/262
+|move|p1a: Avalugg|Avalanche|p2a: Okidogi
+|-damage|p2a: Okidogi|192/262
+|
+|upkeep
+|turn|2
+|
+|t:|1776983186
+|move|p2a: Okidogi|Knock Off|p1a: Avalugg
+|-damage|p1a: Avalugg|271/310
+|-enditem|p1a: Avalugg|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Okidogi
+|move|p1a: Avalugg|Avalanche|p2a: Okidogi
+|-damage|p2a: Okidogi|39/262
+|
+|upkeep
+|turn|3
+|
+|t:|1776983195
+|move|p2a: Okidogi|Drain Punch|p1a: Avalugg
+|-supereffective|p1a: Avalugg
+|-damage|p1a: Avalugg|181/310
+|-heal|p2a: Okidogi|84/262|[from] drain|[of] p1a: Avalugg
+|move|p1a: Avalugg|Avalanche|p2a: Okidogi
+|-damage|p2a: Okidogi|0 fnt
+|faint|p2a: Okidogi
+|
+|upkeep
+|
+|t:|1776983201
+|switch|p2a: Volcarona|Volcarona, L77, M|257/257
+|turn|4
+|
+|t:|1776983208
+|switch|p1a: Medicham|Medicham, L86, M|243/243
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|
+|upkeep
+|turn|5
+|
+|t:|1776983212
+|move|p2a: Volcarona|Fire Blast|p1a: Medicham
+|-damage|p1a: Medicham|45/243
+|move|p1a: Medicham|Zen Headbutt|p2a: Volcarona
+|-damage|p2a: Volcarona|0 fnt
+|faint|p2a: Volcarona
+|
+|upkeep
+|
+|t:|1776983223
+|switch|p2a: Mesprit|Mesprit, L85|275/275
+|turn|6
+|
+|t:|1776983229
+|switch|p1a: Avalugg|Avalugg, L88, M|181/310
+|move|p2a: Mesprit|Psychic Noise|p1a: Avalugg
+|-damage|p1a: Avalugg|55/310
+|-start|p1a: Avalugg|move: Heal Block
+|
+|upkeep
+|turn|7
+|
+|t:|1776983235
+|move|p2a: Mesprit|Psychic Noise|p1a: Avalugg
+|-damage|p1a: Avalugg|0 fnt
+|faint|p1a: Avalugg
+|
+|upkeep
+|
+|t:|1776983241
+|switch|p1a: Sunflora|Sunflora, F|312/312
+|turn|8
+|
+|t:|1776983245
+|move|p2a: Mesprit|Thunder Wave|p1a: Sunflora|[miss]
+|-miss|p2a: Mesprit|p1a: Sunflora
+|move|p1a: Sunflora|Leaf Storm|p2a: Mesprit
+|-damage|p2a: Mesprit|11/275
+|-unboost|p1a: Sunflora|spa|2
+|
+|-heal|p2a: Mesprit|28/275|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776983252
+|move|p2a: Mesprit|U-turn|p1a: Sunflora
+|-supereffective|p1a: Sunflora
+|-damage|p1a: Sunflora|180/312
+|
+|t:|1776983259
+|switch|p2a: Toxtricity|Toxtricity, L82, M|257/257|[from] U-turn
+|move|p1a: Sunflora|Leaf Storm|p2a: Toxtricity
+|-resisted|p2a: Toxtricity
+|-damage|p2a: Toxtricity|155/257
+|-unboost|p1a: Sunflora|spa|2
+|
+|upkeep
+|turn|10
+|
+|t:|1776983268
+|switch|p1a: Medicham|Medicham, L86, M|45/243
+|move|p2a: Toxtricity|Shift Gear|p2a: Toxtricity
+|-boost|p2a: Toxtricity|spe|2
+|-boost|p2a: Toxtricity|atk|1
+|
+|upkeep
+|turn|11
+|
+|t:|1776983273
+|move|p1a: Medicham|Bullet Punch|p2a: Toxtricity
+|-resisted|p2a: Toxtricity
+|-damage|p2a: Toxtricity|118/257
+|move|p2a: Toxtricity|Boomburst|p1a: Medicham
+|-damage|p1a: Medicham|0 fnt
+|faint|p1a: Medicham
+|-enditem|p2a: Toxtricity|Throat Spray
+|-boost|p2a: Toxtricity|spa|1|[from] item: Throat Spray
+|
+|upkeep
+|
+|t:|1776983278
+|switch|p1a: Roaring Moon|Roaring Moon, L72|270/270
+|turn|12
+|
+|t:|1776983290
+|-terastallize|p2a: Toxtricity|Normal
+|-terastallize|p1a: Roaring Moon|Steel
+|move|p2a: Toxtricity|Boomburst|p1a: Roaring Moon
+|-resisted|p1a: Roaring Moon
+|-damage|p1a: Roaring Moon|118/270
+|move|p1a: Roaring Moon|Outrage|p2a: Toxtricity
+|-damage|p2a: Toxtricity|0 fnt
+|faint|p2a: Toxtricity
+|
+|upkeep
+|
+|t:|1776983296
+|switch|p2a: Virizion|Virizion, L82|283/283
+|turn|13
+|
+|t:|1776983299
+|move|p2a: Virizion|Close Combat|p1a: Roaring Moon
+|-supereffective|p1a: Roaring Moon
+|-damage|p1a: Roaring Moon|0 fnt
+|-unboost|p2a: Virizion|def|1
+|-unboost|p2a: Virizion|spd|1
+|faint|p1a: Roaring Moon
+|-end|p1a: Roaring Moon|Protosynthesis|[silent]
+|-damage|p2a: Virizion|255/283|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776983305
+|switch|p1a: Sneasler|Sneasler, L74, F|240/240
+|turn|14
+|
+|t:|1776983317
+|switch|p2a: Mesprit|Mesprit, L85|28/275
+|move|p1a: Sneasler|Swords Dance|p1a: Sneasler
+|-boost|p1a: Sneasler|atk|2
+|
+|-heal|p2a: Mesprit|45/275|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1776983321
+|move|p1a: Sneasler|Close Combat|p2a: Mesprit
+|-resisted|p2a: Mesprit
+|-damage|p2a: Mesprit|0 fnt
+|-unboost|p1a: Sneasler|def|1
+|-unboost|p1a: Sneasler|spd|1
+|faint|p2a: Mesprit
+|-enditem|p1a: Sneasler|White Herb
+|-clearnegativeboost|p1a: Sneasler|[silent]
+|
+|upkeep
+|inactive|Sup1c37 has 120 seconds left.
+|c|☆SteelixPrismGX|i'm sure you can worm your way out of this
+|inactive|Sup1c37 has 90 seconds left.
+|inactive|Sup1c37 has 60 seconds left.
+|inactive|Sup1c37 has 30 seconds left.
+|inactive|Sup1c37 has 20 seconds left.
+|inactive|Sup1c37 has 15 seconds left.
+|inactive|Sup1c37 has 10 seconds left.
+|inactive|Sup1c37 has 5 seconds left.
+|-message|Sup1c37 lost due to inactivity.
+|
+|win|SteelixPrismGX
+|raw|SteelixPrismGX's rating: 1922 &rarr; <strong>1945</strong><br />(+23 for winning)
+|raw|Sup1c37's rating: 1966 &rarr; <strong>1943</strong><br />(-23 for losing)

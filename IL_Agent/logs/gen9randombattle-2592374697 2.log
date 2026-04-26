@@ -1,0 +1,289 @@
+|j|☆sai
+|j|☆kobota junmai sake
+|t:|1776983363
+|gametype|singles
+|player|p1|sai|erika|
+|player|p2|kobota junmai sake|winona|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776983363
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Sawsbuck|Sawsbuck-Summer, L88, F|284/284
+|switch|p2a: Primarina|Primarina, L83, F|268/268
+|turn|1
+|
+|t:|1776983373
+|move|p1a: Sawsbuck|Horn Leech|p2a: Primarina
+|-supereffective|p2a: Primarina
+|-damage|p2a: Primarina|0 fnt
+|faint|p2a: Primarina
+|-damage|p1a: Sawsbuck|256/284|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776983389
+|switch|p2a: Ceruledge|Ceruledge, L78, M|245/245
+|turn|2
+|
+|t:|1776983403
+|switch|p1a: Palkia|Palkia, L75|259/259
+|-ability|p1a: Palkia|Pressure
+|move|p2a: Ceruledge|Swords Dance|p2a: Ceruledge
+|-boost|p2a: Ceruledge|atk|2
+|
+|upkeep
+|turn|3
+|
+|t:|1776983416
+|switch|p2a: Cryogonal|Cryogonal, L89|287/287
+|move|p1a: Palkia|Hydro Pump|p2a: Cryogonal
+|-damage|p2a: Cryogonal|175/287
+|
+|upkeep
+|turn|4
+|
+|t:|1776983426
+|switch|p1a: Magnezone|Magnezone, L85|258/258
+|move|p2a: Cryogonal|Recover|p2a: Cryogonal
+|-heal|p2a: Cryogonal|287/287
+|
+|upkeep
+|turn|5
+|
+|t:|1776983440
+|switch|p2a: Arceus|Arceus-Psychic, L69|280/280
+|move|p1a: Magnezone|Volt Switch|p2a: Arceus
+|-damage|p2a: Arceus|168/280
+|
+|t:|1776983463
+|switch|p1a: Scrafty|Scrafty, L83, M|244/244|[from] Volt Switch
+|-ability|p1a: Scrafty|Intimidate|boost
+|-unboost|p2a: Arceus|atk|1
+|
+|upkeep
+|turn|6
+|
+|t:|1776983484
+|move|p2a: Arceus|Cosmic Power|p2a: Arceus
+|-boost|p2a: Arceus|def|1
+|-boost|p2a: Arceus|spd|1
+|move|p1a: Scrafty|Knock Off|p2a: Arceus
+|-supereffective|p2a: Arceus
+|-damage|p2a: Arceus|88/280
+|
+|upkeep
+|turn|7
+|
+|t:|1776983501
+|move|p2a: Arceus|Recover|p2a: Arceus
+|-heal|p2a: Arceus|228/280
+|move|p1a: Scrafty|Dragon Dance|p1a: Scrafty
+|-boost|p1a: Scrafty|atk|1
+|-boost|p1a: Scrafty|spe|1
+|
+|upkeep
+|turn|8
+|
+|t:|1776983513
+|switch|p1a: Overqwil|Overqwil, L82, M|274/274
+|-ability|p1a: Overqwil|Intimidate|boost
+|-unboost|p2a: Arceus|atk|1
+|move|p2a: Arceus|Cosmic Power|p2a: Arceus
+|-boost|p2a: Arceus|def|1
+|-boost|p2a: Arceus|spd|1
+|
+|upkeep
+|turn|9
+|
+|t:|1776983518
+|move|p2a: Arceus|Cosmic Power|p2a: Arceus
+|-boost|p2a: Arceus|def|1
+|-boost|p2a: Arceus|spd|1
+|move|p1a: Overqwil|Crunch|p2a: Arceus
+|-supereffective|p2a: Arceus
+|-damage|p2a: Arceus|134/280
+|-damage|p1a: Overqwil|247/274|[from] item: Life Orb
+|
+|upkeep
+|turn|10
+|
+|t:|1776983527
+|move|p2a: Arceus|Recover|p2a: Arceus
+|-heal|p2a: Arceus|274/280
+|move|p1a: Overqwil|Swords Dance|p1a: Overqwil
+|-boost|p1a: Overqwil|atk|2
+|
+|upkeep
+|turn|11
+|
+|t:|1776983532
+|-terastallize|p2a: Arceus|Steel
+|move|p2a: Arceus|Cosmic Power|p2a: Arceus
+|-boost|p2a: Arceus|def|1
+|-boost|p2a: Arceus|spd|1
+|move|p1a: Overqwil|Crunch|p2a: Arceus
+|-damage|p2a: Arceus|196/280
+|-unboost|p2a: Arceus|def|1
+|-damage|p1a: Overqwil|220/274|[from] item: Life Orb
+|
+|upkeep
+|turn|12
+|
+|t:|1776983549
+|move|p2a: Arceus|Body Press|p1a: Overqwil
+|-damage|p1a: Overqwil|115/274
+|move|p1a: Overqwil|Swords Dance|p1a: Overqwil
+|-boost|p1a: Overqwil|atk|2
+|
+|upkeep
+|turn|13
+|
+|t:|1776983556
+|move|p2a: Arceus|Body Press|p1a: Overqwil
+|-damage|p1a: Overqwil|10/274
+|move|p1a: Overqwil|Liquidation|p2a: Arceus
+|-damage|p2a: Arceus|92/280
+|-unboost|p2a: Arceus|def|1
+|-damage|p1a: Overqwil|0 fnt|[from] item: Life Orb
+|faint|p1a: Overqwil
+|
+|upkeep
+|
+|t:|1776983568
+|switch|p1a: Sawsbuck|Sawsbuck-Summer, L88, F|256/284
+|turn|14
+|
+|t:|1776983579
+|move|p1a: Sawsbuck|Swords Dance|p1a: Sawsbuck
+|-boost|p1a: Sawsbuck|atk|2
+|move|p2a: Arceus|Body Press|p1a: Sawsbuck
+|-supereffective|p1a: Sawsbuck
+|-damage|p1a: Sawsbuck|36/284
+|
+|upkeep
+|turn|15
+|
+|t:|1776983584
+|move|p1a: Sawsbuck|High Horsepower|p2a: Arceus
+|-supereffective|p2a: Arceus
+|-damage|p2a: Arceus|0 fnt
+|faint|p2a: Arceus
+|-damage|p1a: Sawsbuck|8/284|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776983591
+|switch|p2a: Vespiquen|Vespiquen, L99, F|299/299
+|-ability|p2a: Vespiquen|Pressure
+|turn|16
+|
+|t:|1776983597
+|move|p1a: Sawsbuck|Headbutt|p2a: Vespiquen
+|-crit|p2a: Vespiquen
+|-damage|p2a: Vespiquen|36/299
+|-damage|p1a: Sawsbuck|0 fnt|[from] item: Life Orb
+|faint|p1a: Sawsbuck
+|move|p2a: Vespiquen|Roost|p2a: Vespiquen
+|-heal|p2a: Vespiquen|186/299
+|-singleturn|p2a: Vespiquen|move: Roost
+|
+|upkeep
+|
+|t:|1776983601
+|switch|p1a: Magnezone|Magnezone, L85|258/258
+|turn|17
+|
+|t:|1776983616
+|move|p1a: Magnezone|Thunderbolt|p2a: Vespiquen
+|-supereffective|p2a: Vespiquen
+|-damage|p2a: Vespiquen|0 fnt
+|faint|p2a: Vespiquen
+|
+|upkeep
+|
+|t:|1776983624
+|switch|p2a: Ceruledge|Ceruledge, L78, M|245/245
+|turn|18
+|
+|t:|1776983628
+|move|p1a: Magnezone|Thunderbolt|p2a: Ceruledge
+|-damage|p2a: Ceruledge|124/245
+|move|p2a: Ceruledge|Swords Dance|p2a: Ceruledge
+|-boost|p2a: Ceruledge|atk|2
+|
+|upkeep
+|turn|19
+|
+|t:|1776983631
+|move|p1a: Magnezone|Thunderbolt|p2a: Ceruledge
+|-damage|p2a: Ceruledge|0 fnt
+|faint|p2a: Ceruledge
+|
+|upkeep
+|
+|t:|1776983636
+|switch|p2a: Cryogonal|Cryogonal, L89|287/287
+|turn|20
+|
+|t:|1776983644
+|switch|p1a: Palkia|Palkia, L75|259/259
+|-ability|p1a: Palkia|Pressure
+|move|p2a: Cryogonal|Ice Beam|p1a: Palkia
+|-damage|p1a: Palkia|162/259
+|
+|upkeep
+|turn|21
+|
+|t:|1776983649
+|switch|p1a: Scrafty|Scrafty, L83, M|244/244
+|-ability|p1a: Scrafty|Intimidate|boost
+|-unboost|p2a: Cryogonal|atk|1
+|move|p2a: Cryogonal|Ice Beam|p1a: Scrafty
+|-damage|p1a: Scrafty|157/244
+|-status|p1a: Scrafty|frz
+|
+|-heal|p1a: Scrafty|172/244 frz|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1776983658
+|switch|p2a: Feraligatr|Feraligatr, L79, F|264/264
+|cant|p1a: Scrafty|frz
+|
+|-heal|p1a: Scrafty|187/244 frz|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1776983672
+|switch|p1a: Passimian|Passimian, L83, M|302/302
+|move|p2a: Feraligatr|Dragon Dance|p2a: Feraligatr
+|-boost|p2a: Feraligatr|atk|1
+|-boost|p2a: Feraligatr|spe|1
+|
+|upkeep
+|turn|24
+|
+|t:|1776983678
+|-terastallize|p1a: Passimian|Fighting
+|move|p2a: Feraligatr|Dragon Dance|p2a: Feraligatr
+|-boost|p2a: Feraligatr|atk|1
+|-boost|p2a: Feraligatr|spe|1
+|move|p1a: Passimian|Close Combat|p2a: Feraligatr
+|-damage|p2a: Feraligatr|0 fnt
+|-unboost|p1a: Passimian|def|1
+|-unboost|p1a: Passimian|spd|1
+|faint|p2a: Feraligatr
+|
+|upkeep
+|-message|kobota junmai sake forfeited.
+|
+|win|sai
+|l|☆kobota junmai sake
+|player|p2|

@@ -1,0 +1,213 @@
+|j|☆SXD2002
+|j|☆pingus magoo
+|t:|1776975271
+|gametype|singles
+|player|p1|SXD2002|101|1521
+|player|p2|pingus magoo|ballguy|1487
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776975271
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Coalossal|Coalossal, L89, F|341/341
+|switch|p2a: Regirock|Regirock, L83|268/268
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by pingus magoo)
+|
+|t:|1776975282
+|move|p2a: Regirock|Iron Defense|p2a: Regirock
+|-boost|p2a: Regirock|def|2
+|move|p1a: Coalossal|Spikes|p2a: Regirock
+|-sidestart|p2: pingus magoo|Spikes
+|
+|upkeep
+|turn|2
+|
+|t:|1776975293
+|move|p2a: Regirock|Body Press|p1a: Coalossal
+|-supereffective|p1a: Coalossal
+|-damage|p1a: Coalossal|23/341
+|-status|p2a: Regirock|brn|[from] ability: Flame Body|[of] p1a: Coalossal
+|move|p1a: Coalossal|Spikes|p2a: Regirock
+|-sidestart|p2: pingus magoo|Spikes
+|
+|-damage|p2a: Regirock|252/268 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1776975299
+|move|p2a: Regirock|Iron Defense|p2a: Regirock
+|-boost|p2a: Regirock|def|2
+|move|p1a: Coalossal|Spikes|p2a: Regirock
+|-sidestart|p2: pingus magoo|Spikes
+|
+|-damage|p2a: Regirock|236/268 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1776975303
+|move|p2a: Regirock|Iron Defense|p2a: Regirock
+|-boost|p2a: Regirock|def|2
+|move|p1a: Coalossal|Rapid Spin|p2a: Regirock
+|-resisted|p2a: Regirock
+|-damage|p2a: Regirock|234/268 brn
+|-boost|p1a: Coalossal|spe|1
+|
+|-damage|p2a: Regirock|218/268 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1776975307
+|move|p1a: Coalossal|Overheat|p2a: Regirock
+|-resisted|p2a: Regirock
+|-damage|p2a: Regirock|157/268 brn
+|-unboost|p1a: Coalossal|spa|2
+|move|p2a: Regirock|Rest|p2a: Regirock
+|-status|p2a: Regirock|slp|[from] move: Rest
+|-heal|p2a: Regirock|268/268 slp|[silent]
+|-enditem|p2a: Regirock|Chesto Berry|[eat]
+|-curestatus|p2a: Regirock|slp|[msg]
+|
+|upkeep
+|turn|6
+|
+|t:|1776975312
+|move|p1a: Coalossal|Overheat|p2a: Regirock
+|-resisted|p2a: Regirock
+|-damage|p2a: Regirock|239/268
+|-unboost|p1a: Coalossal|spa|2
+|move|p2a: Regirock|Body Press|p1a: Coalossal
+|-supereffective|p1a: Coalossal
+|-damage|p1a: Coalossal|0 fnt
+|-status|p2a: Regirock|brn|[from] ability: Flame Body|[of] p1a: Coalossal
+|faint|p1a: Coalossal
+|
+|-damage|p2a: Regirock|223/268 brn|[from] brn
+|upkeep
+|
+|t:|1776975317
+|switch|p1a: Annihilape|Annihilape, L76, F|292/292
+|turn|7
+|
+|t:|1776975338
+|switch|p2a: Granbull|Granbull, L88, F|302/302
+|-damage|p2a: Granbull|227/302|[from] Spikes
+|-ability|p2a: Granbull|Intimidate|boost
+|-unboost|p1a: Annihilape|atk|1
+|-ability|p1a: Annihilape|Defiant|boost
+|-boost|p1a: Annihilape|atk|2
+|move|p1a: Annihilape|Bulk Up|p1a: Annihilape
+|-boost|p1a: Annihilape|atk|1
+|-boost|p1a: Annihilape|def|1
+|
+|-heal|p2a: Granbull|245/302|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776975348
+|move|p1a: Annihilape|Gunk Shot|p2a: Granbull
+|-supereffective|p2a: Granbull
+|-damage|p2a: Granbull|0 fnt
+|faint|p2a: Granbull
+|
+|upkeep
+|inactive|pingus magoo has 120 seconds left.
+|c|☆pingus magoo|not a single special attacker on my team
+|inactive|pingus magoo has 90 seconds left.
+|
+|t:|1776975395
+|switch|p2a: Electivire|Electivire, L84, M|263/263
+|-damage|p2a: Electivire|198/263|[from] Spikes
+|turn|9
+|
+|t:|1776975403
+|move|p2a: Electivire|Supercell Slam|p1a: Annihilape
+|-damage|p1a: Annihilape|135/292
+|move|p1a: Annihilape|Drain Punch|p2a: Electivire
+|-damage|p2a: Electivire|5/263
+|-heal|p1a: Annihilape|232/292|[from] drain|[of] p2a: Electivire
+|
+|-heal|p1a: Annihilape|250/292|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1776975411
+|move|p2a: Electivire|Supercell Slam|p1a: Annihilape
+|-damage|p1a: Annihilape|94/292
+|move|p1a: Annihilape|Drain Punch|p2a: Electivire
+|-damage|p2a: Electivire|0 fnt
+|-heal|p1a: Annihilape|97/292|[from] drain|[of] p2a: Electivire
+|faint|p2a: Electivire
+|
+|-heal|p1a: Annihilape|115/292|[from] item: Leftovers
+|upkeep
+|inactive|pingus magoo has 90 seconds left.
+|
+|t:|1776975437
+|switch|p2a: Leavanny|Leavanny, L86, M|269/269
+|turn|11
+|inactive|pingus magoo has 90 seconds left.
+|inactive|SXD2002 has 120 seconds left.
+|inactive|SXD2002 has 90 seconds left.
+|
+|t:|1776975506
+|move|p2a: Leavanny|Leaf Blade|p1a: Annihilape
+|-damage|p1a: Annihilape|39/292
+|move|p1a: Annihilape|Rage Fist|p2a: Leavanny
+|-damage|p2a: Leavanny|0 fnt
+|faint|p2a: Leavanny
+|
+|-heal|p1a: Annihilape|57/292|[from] item: Leftovers
+|upkeep
+|inactive|pingus magoo has 60 seconds left.
+|
+|t:|1776975529
+|switch|p2a: Sudowoodo|Sudowoodo, L94, F|284/284
+|-damage|p2a: Sudowoodo|213/284|[from] Spikes
+|turn|12
+|inactive|SXD2002 has 90 seconds left.
+|inactive|pingus magoo has 60 seconds left.
+|
+|t:|1776975546
+|move|p2a: Sudowoodo|Sucker Punch|p1a: Annihilape
+|-damage|p1a: Annihilape|0 fnt
+|faint|p1a: Annihilape
+|
+|upkeep
+|
+|t:|1776975552
+|switch|p1a: Stonjourner|Stonjourner, L91, F|330/330
+|turn|13
+|
+|t:|1776975563
+|switch|p2a: Hitmontop|Hitmontop, L88, M|231/231
+|-damage|p2a: Hitmontop|174/231|[from] Spikes
+|-ability|p2a: Hitmontop|Intimidate|boost
+|-unboost|p1a: Stonjourner|atk|1
+|move|p1a: Stonjourner|Stealth Rock|p2a: Hitmontop
+|-sidestart|p2: pingus magoo|move: Stealth Rock
+|
+|upkeep
+|turn|14
+|
+|t:|1776975569
+|switch|p1a: Lunala|Lunala, L70|308/308
+|move|p2a: Hitmontop|Rapid Spin|p1a: Lunala
+|-immune|p1a: Lunala
+|
+|upkeep
+|turn|15
+|-message|pingus magoo forfeited.
+|
+|win|SXD2002
+|raw|SXD2002's rating: 1521 &rarr; <strong>1539</strong><br />(+18 for winning)
+|raw|pingus magoo's rating: 1487 &rarr; <strong>1469</strong><br />(-18 for losing)
+|l|☆pingus magoo
+|player|p2|

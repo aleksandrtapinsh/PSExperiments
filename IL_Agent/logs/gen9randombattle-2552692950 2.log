@@ -1,0 +1,294 @@
+|j|☆matheuscezar23
+|j|☆jonathant24
+|t:|1772744061
+|gametype|singles
+|player|p1|matheuscezar23|2|1070
+|player|p2|jonathant24|170|1045
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772744061
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Porygon-Z|Porygon-Z, L83|277/277
+|switch|p2a: Jirachi|Jirachi, L80|291/291
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by matheuscezar23)
+|
+|t:|1772744073
+|move|p1a: Porygon-Z|Shadow Ball|p2a: Jirachi
+|-supereffective|p2a: Jirachi
+|-damage|p2a: Jirachi|147/291
+|-unboost|p2a: Jirachi|spd|1
+|move|p2a: Jirachi|Body Slam|p1a: Porygon-Z
+|-damage|p1a: Porygon-Z|215/277
+|-status|p1a: Porygon-Z|par
+|
+|-heal|p2a: Jirachi|165/291|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1772744089
+|-terastallize|p1a: Porygon-Z|Ghost
+|move|p2a: Jirachi|Wish|p2a: Jirachi
+|move|p1a: Porygon-Z|Shadow Ball|p2a: Jirachi
+|-supereffective|p2a: Jirachi
+|-damage|p2a: Jirachi|0 fnt
+|faint|p2a: Jirachi
+|
+|upkeep
+|inactive|jonathant24 has 120 seconds left.
+|
+|t:|1772744113
+|switch|p2a: Breloom|Breloom, L83, M|235/235
+|turn|3
+|inactive|jonathant24 has 120 seconds left.
+|
+|t:|1772744124
+|move|p2a: Breloom|Mach Punch|p1a: Porygon-Z
+|-immune|p1a: Porygon-Z
+|move|p1a: Porygon-Z|Shadow Ball|p2a: Breloom
+|-damage|p2a: Breloom|51/235
+|
+|-heal|p2a: Breloom|196/235|[from] move: Wish|[wisher] Jirachi
+|upkeep
+|turn|4
+|inactive|jonathant24 has 120 seconds left.
+|
+|t:|1772744135
+|move|p2a: Breloom|Spore||[still]
+|-fail|p2a: Breloom
+|move|p1a: Porygon-Z|Shadow Ball|p2a: Breloom
+|-damage|p2a: Breloom|4/235
+|
+|upkeep
+|turn|5
+|inactive|jonathant24 has 120 seconds left.
+|
+|t:|1772744151
+|move|p2a: Breloom|Mach Punch|p1a: Porygon-Z
+|-immune|p1a: Porygon-Z
+|move|p1a: Porygon-Z|Shadow Ball|p2a: Breloom
+|-damage|p2a: Breloom|0 fnt
+|faint|p2a: Breloom
+|
+|upkeep
+|inactive|jonathant24 has 120 seconds left.
+|
+|t:|1772744159
+|switch|p2a: Talonflame|Talonflame, L83, F|265/265
+|turn|6
+|
+|t:|1772744165
+|move|p2a: Talonflame|Overheat|p1a: Porygon-Z
+|-damage|p1a: Porygon-Z|83/277 par
+|-unboost|p2a: Talonflame|spa|2
+|cant|p1a: Porygon-Z|par
+|
+|upkeep
+|turn|7
+|
+|t:|1772744175
+|move|p2a: Talonflame|Brave Bird|p1a: Porygon-Z
+|-damage|p1a: Porygon-Z|0 fnt
+|faint|p1a: Porygon-Z
+|-damage|p2a: Talonflame|238/265|[from] Recoil
+|
+|upkeep
+|
+|t:|1772744185
+|switch|p1a: Braviary|Braviary-Hisui, L85, M|326/326
+|turn|8
+|
+|t:|1772744193
+|move|p2a: Talonflame|Overheat|p1a: Braviary
+|-damage|p1a: Braviary|260/326
+|-unboost|p2a: Talonflame|spa|2
+|move|p1a: Braviary|Psychic|p2a: Talonflame
+|-damage|p2a: Talonflame|7/265
+|
+|upkeep
+|turn|9
+|
+|t:|1772744204
+|move|p2a: Talonflame|Roost|p2a: Talonflame
+|-heal|p2a: Talonflame|140/265
+|-singleturn|p2a: Talonflame|move: Roost
+|move|p1a: Braviary|Heat Wave|p2a: Talonflame
+|-resisted|p2a: Talonflame
+|-damage|p2a: Talonflame|56/265
+|
+|upkeep
+|turn|10
+|
+|t:|1772744221
+|move|p2a: Talonflame|Roost|p2a: Talonflame
+|-heal|p2a: Talonflame|189/265
+|-singleturn|p2a: Talonflame|move: Roost
+|move|p1a: Braviary|Hurricane|p2a: Talonflame|[miss]
+|-miss|p1a: Braviary|p2a: Talonflame
+|
+|upkeep
+|turn|11
+|
+|t:|1772744231
+|move|p2a: Talonflame|Brave Bird|p1a: Braviary
+|-damage|p1a: Braviary|142/326
+|-damage|p2a: Talonflame|150/265|[from] Recoil
+|move|p1a: Braviary|Psychic|p2a: Talonflame
+|-damage|p2a: Talonflame|0 fnt
+|faint|p2a: Talonflame
+|
+|upkeep
+|
+|t:|1772744241
+|switch|p2a: Reuniclus|Reuniclus, L88, M|337/337
+|turn|12
+|
+|t:|1772744249
+|move|p1a: Braviary|Agility|p1a: Braviary
+|-boost|p1a: Braviary|spe|2
+|move|p2a: Reuniclus|Psychic|p1a: Braviary
+|-resisted|p1a: Braviary
+|-damage|p1a: Braviary|39/326
+|
+|upkeep
+|turn|13
+|
+|t:|1772744260
+|move|p1a: Braviary|Heat Wave|p2a: Reuniclus
+|-damage|p2a: Reuniclus|211/337
+|move|p2a: Reuniclus|Psychic|p1a: Braviary
+|-resisted|p1a: Braviary
+|-damage|p1a: Braviary|0 fnt
+|faint|p1a: Braviary
+|
+|upkeep
+|
+|t:|1772744264
+|switch|p1a: Volbeat|Volbeat, L90, M|263/263
+|turn|14
+|
+|t:|1772744271
+|move|p1a: Volbeat|U-turn|p2a: Reuniclus
+|-supereffective|p2a: Reuniclus
+|-damage|p2a: Reuniclus|53/337
+|
+|t:|1772744275
+|switch|p1a: Ursaring|Ursaring, L84, M|288/288|[from] U-turn
+|move|p2a: Reuniclus|Focus Blast|p1a: Ursaring
+|-supereffective|p1a: Ursaring
+|-damage|p1a: Ursaring|83/288
+|
+|upkeep
+|turn|15
+|
+|t:|1772744288
+|move|p1a: Ursaring|Earthquake|p2a: Reuniclus
+|-damage|p2a: Reuniclus|0 fnt
+|faint|p2a: Reuniclus
+|
+|upkeep
+|
+|t:|1772744302
+|switch|p2a: Azumarill|Azumarill, L82, M|298/298
+|turn|16
+|
+|t:|1772744310
+|move|p1a: Ursaring|Sleep Talk||[still]
+|-fail|p1a: Ursaring
+|move|p2a: Azumarill|Play Rough|p1a: Ursaring|[miss]
+|-miss|p2a: Azumarill|p1a: Ursaring
+|
+|upkeep
+|turn|17
+|
+|t:|1772744323
+|move|p1a: Ursaring|Body Slam|p2a: Azumarill
+|-crit|p2a: Azumarill
+|-damage|p2a: Azumarill|121/298
+|-status|p2a: Azumarill|par
+|-enditem|p2a: Azumarill|Sitrus Berry|[eat]
+|-heal|p2a: Azumarill|195/298 par|[from] item: Sitrus Berry
+|move|p2a: Azumarill|Play Rough|p1a: Ursaring
+|-damage|p1a: Ursaring|0 fnt
+|faint|p1a: Ursaring
+|
+|upkeep
+|
+|t:|1772744333
+|switch|p1a: Volbeat|Volbeat, L90, M|263/263
+|turn|18
+|
+|t:|1772744343
+|move|p1a: Volbeat|Thunder Wave|p2a: Azumarill
+|-fail|p2a: Azumarill|par
+|move|p2a: Azumarill|Belly Drum|p2a: Azumarill
+|-damage|p2a: Azumarill|46/298 par
+|-setboost|p2a: Azumarill|atk|6|[from] move: Belly Drum
+|
+|upkeep
+|turn|19
+|
+|t:|1772744358
+|move|p2a: Azumarill|Aqua Jet|p1a: Volbeat
+|-damage|p1a: Volbeat|70/263
+|move|p1a: Volbeat|U-turn|p2a: Azumarill
+|-resisted|p2a: Azumarill
+|-damage|p2a: Azumarill|10/298 par
+|
+|t:|1772744364
+|switch|p1a: Forretress|Forretress, L84, M|263/263|[from] U-turn
+|
+|upkeep
+|turn|20
+|
+|t:|1772744372
+|cant|p2a: Azumarill|par
+|move|p1a: Forretress|Rapid Spin|p2a: Azumarill
+|-damage|p2a: Azumarill|0 fnt
+|-boost|p1a: Forretress|spe|1
+|faint|p2a: Azumarill
+|
+|upkeep
+|
+|t:|1772744379
+|switch|p2a: Diancie|Diancie, L82|216/216
+|turn|21
+|
+|t:|1772744390
+|move|p1a: Forretress|Iron Head|p2a: Diancie
+|-supereffective|p2a: Diancie
+|-damage|p2a: Diancie|8/216
+|cant|p2a: Diancie|flinch
+|
+|-heal|p2a: Diancie|21/216|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1772744400
+|move|p1a: Forretress|Rapid Spin|p2a: Diancie
+|-resisted|p2a: Diancie
+|-damage|p2a: Diancie|10/216
+|-boost|p1a: Forretress|spe|1
+|move|p2a: Diancie|Stealth Rock|p1a: Forretress
+|-sidestart|p1: matheuscezar23|move: Stealth Rock
+|
+|-heal|p2a: Diancie|23/216|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1772744409
+|move|p1a: Forretress|Body Press|p2a: Diancie
+|-damage|p2a: Diancie|0 fnt
+|faint|p2a: Diancie
+|
+|win|matheuscezar23
+|raw|matheuscezar23's rating: 1070 &rarr; <strong>1097</strong><br />(+27 for winning)
+|raw|jonathant24's rating: 1045 &rarr; <strong>1029</strong><br />(-16 for losing)

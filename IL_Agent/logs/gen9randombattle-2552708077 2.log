@@ -1,0 +1,338 @@
+|j|☆hugoryla
+|j|☆Jaysaster
+|t:|1772745475
+|gametype|singles
+|player|p1|hugoryla|gentleman|1539
+|player|p2|Jaysaster|clown|1573
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772745475
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Drifblim|Drifblim, L86, M|396/396
+|switch|p2a: Clawitzer|Clawitzer, L87, M|265/265
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by hugoryla)
+|
+|t:|1772745486
+|switch|p1a: Poliwrath|Poliwrath, L88, M|302/302
+|move|p2a: Clawitzer|Dark Pulse|p1a: Poliwrath
+|-resisted|p1a: Poliwrath
+|-damage|p1a: Poliwrath|232/302
+|
+|upkeep
+|turn|2
+|
+|t:|1772745499
+|switch|p2a: Bronzong|Bronzong, L88|261/261
+|move|p1a: Poliwrath|Rain Dance|p1a: Poliwrath
+|-weather|RainDance
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1772745505
+|move|p1a: Poliwrath|Knock Off|p2a: Bronzong
+|-supereffective|p2a: Bronzong
+|-damage|p2a: Bronzong|115/261
+|-enditem|p2a: Bronzong|Leftovers|[from] move: Knock Off|[of] p1a: Poliwrath
+|-damage|p1a: Poliwrath|202/302|[from] item: Life Orb
+|move|p2a: Bronzong|Psychic|p1a: Poliwrath
+|-supereffective|p1a: Poliwrath
+|-damage|p1a: Poliwrath|38/302
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1772745515
+|move|p1a: Poliwrath|Liquidation|p2a: Bronzong
+|-damage|p2a: Bronzong|0 fnt
+|faint|p2a: Bronzong
+|-damage|p1a: Poliwrath|8/302|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1772745529
+|switch|p2a: Zapdos|Zapdos-Galar, L77|265/265
+|turn|5
+|
+|t:|1772745537
+|move|p1a: Poliwrath|Liquidation|p2a: Zapdos
+|-damage|p2a: Zapdos|78/265
+|-damage|p1a: Poliwrath|0 fnt|[from] item: Life Orb
+|faint|p1a: Poliwrath
+|move|p2a: Zapdos|Bulk Up|p2a: Zapdos
+|-boost|p2a: Zapdos|atk|1
+|-boost|p2a: Zapdos|def|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1772745563
+|switch|p1a: Flutter Mane|Flutter Mane, L74|203/203
+|turn|6
+|
+|t:|1772745580
+|switch|p2a: Clawitzer|Clawitzer, L87, M|265/265
+|move|p1a: Flutter Mane|Moonblast|p2a: Clawitzer
+|-damage|p2a: Clawitzer|123/265
+|
+|-weather|none
+|upkeep
+|turn|7
+|
+|t:|1772745590
+|move|p1a: Flutter Mane|Moonblast|p2a: Clawitzer
+|-damage|p2a: Clawitzer|0 fnt
+|faint|p2a: Clawitzer
+|
+|upkeep
+|
+|t:|1772745594
+|switch|p2a: Florges|Florges, L85, F|271/271
+|turn|8
+|
+|t:|1772745619
+|move|p1a: Flutter Mane|Moonblast|p2a: Florges
+|-damage|p2a: Florges|180/271
+|move|p2a: Florges|Calm Mind|p2a: Florges
+|-boost|p2a: Florges|spa|1
+|-boost|p2a: Florges|spd|1
+|
+|-heal|p2a: Florges|196/271|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1772745633
+|-end|p1a: Flutter Mane|Protosynthesis|[silent]
+|switch|p1a: Whiscash|Whiscash, L88, F|337/337
+|move|p2a: Florges|Wish|p2a: Florges
+|
+|-heal|p2a: Florges|212/271|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1772745645
+|move|p2a: Florges|Moonblast|p1a: Whiscash
+|-damage|p1a: Whiscash|151/337
+|move|p1a: Whiscash|Earthquake|p2a: Florges
+|-damage|p2a: Florges|64/271
+|-damage|p1a: Whiscash|118/337|[from] item: Life Orb
+|
+|-heal|p2a: Florges|199/271|[from] move: Wish|[wisher] Florges
+|-heal|p2a: Florges|215/271|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1772745656
+|move|p2a: Florges|Moonblast|p1a: Whiscash
+|-damage|p1a: Whiscash|0 fnt
+|faint|p1a: Whiscash
+|
+|-heal|p2a: Florges|231/271|[from] item: Leftovers
+|upkeep
+|
+|t:|1772745658
+|switch|p1a: Passimian|Passimian, L83, F|302/302
+|turn|12
+|
+|t:|1772745676
+|switch|p2a: Umbreon|Umbreon, L84, M|297/297
+|move|p1a: Passimian|Gunk Shot|p2a: Umbreon
+|-damage|p2a: Umbreon|208/297
+|-status|p2a: Umbreon|psn
+|-activate|p2a: Umbreon|ability: Synchronize
+|-status|p1a: Passimian|psn
+|
+|-heal|p2a: Umbreon|226/297 psn|[from] item: Leftovers
+|-damage|p1a: Passimian|265/302 psn|[from] psn
+|-damage|p2a: Umbreon|189/297 psn|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1772745688
+|move|p1a: Passimian|Drain Punch|p2a: Umbreon
+|-supereffective|p2a: Umbreon
+|-damage|p2a: Umbreon|31/297 psn
+|-heal|p1a: Passimian|302/302 psn|[from] drain|[of] p2a: Umbreon
+|move|p2a: Umbreon|Toxic||[still]
+|-fail|p2a: Umbreon
+|
+|-heal|p2a: Umbreon|49/297 psn|[from] item: Leftovers
+|-damage|p1a: Passimian|265/302 psn|[from] psn
+|-damage|p2a: Umbreon|12/297 psn|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1772745706
+|move|p1a: Passimian|Bulk Up|p1a: Passimian
+|-boost|p1a: Passimian|atk|1
+|-boost|p1a: Passimian|def|1
+|move|p2a: Umbreon|Foul Play|p1a: Passimian
+|-resisted|p1a: Passimian
+|-damage|p1a: Passimian|205/302 psn
+|
+|-heal|p1a: Passimian|223/302 psn|[from] item: Leftovers
+|-heal|p2a: Umbreon|30/297 psn|[from] item: Leftovers
+|-damage|p1a: Passimian|186/302 psn|[from] psn
+|-damage|p2a: Umbreon|0 fnt|[from] psn
+|faint|p2a: Umbreon
+|upkeep
+|
+|t:|1772745717
+|switch|p2a: Zapdos|Zapdos-Galar, L77|78/265
+|turn|15
+|
+|t:|1772745726
+|switch|p1a: Drifblim|Drifblim, L86, M|396/396
+|move|p2a: Zapdos|Brave Bird|p1a: Drifblim
+|-damage|p1a: Drifblim|133/396
+|-enditem|p1a: Drifblim|Sitrus Berry|[eat]
+|-heal|p1a: Drifblim|232/396|[from] item: Sitrus Berry
+|-damage|p2a: Zapdos|0 fnt|[from] Recoil
+|faint|p2a: Zapdos
+|
+|upkeep
+|
+|t:|1772745738
+|switch|p2a: Florges|Florges, L85, F|231/271
+|turn|16
+|
+|t:|1772745744
+|move|p1a: Drifblim|Calm Mind|p1a: Drifblim
+|-boost|p1a: Drifblim|spa|1
+|-boost|p1a: Drifblim|spd|1
+|move|p2a: Florges|Calm Mind|p2a: Florges
+|-boost|p2a: Florges|spa|1
+|-boost|p2a: Florges|spd|1
+|
+|-heal|p2a: Florges|247/271|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1772745752
+|move|p1a: Drifblim|Calm Mind|p1a: Drifblim
+|-boost|p1a: Drifblim|spa|1
+|-boost|p1a: Drifblim|spd|1
+|move|p2a: Florges|Calm Mind|p2a: Florges
+|-boost|p2a: Florges|spa|1
+|-boost|p2a: Florges|spd|1
+|
+|-heal|p2a: Florges|263/271|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1772745761
+|move|p1a: Drifblim|Calm Mind|p1a: Drifblim
+|-boost|p1a: Drifblim|spa|1
+|-boost|p1a: Drifblim|spd|1
+|move|p2a: Florges|Calm Mind|p2a: Florges
+|-boost|p2a: Florges|spa|1
+|-boost|p2a: Florges|spd|1
+|
+|-heal|p2a: Florges|271/271|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1772745768
+|move|p1a: Drifblim|Strength Sap|p2a: Florges
+|-unboost|p2a: Florges|atk|1
+|-heal|p1a: Drifblim|347/396
+|move|p2a: Florges|Calm Mind|p2a: Florges
+|-boost|p2a: Florges|spa|1
+|-boost|p2a: Florges|spd|1
+|
+|upkeep
+|turn|20
+|
+|t:|1772745776
+|move|p1a: Drifblim|Calm Mind|p1a: Drifblim
+|-boost|p1a: Drifblim|spa|1
+|-boost|p1a: Drifblim|spd|1
+|move|p2a: Florges|Calm Mind|p2a: Florges
+|-boost|p2a: Florges|spa|1
+|-boost|p2a: Florges|spd|1
+|
+|upkeep
+|turn|21
+|
+|t:|1772745782
+|move|p1a: Drifblim|Calm Mind|p1a: Drifblim
+|-boost|p1a: Drifblim|spa|1
+|-boost|p1a: Drifblim|spd|1
+|move|p2a: Florges|Calm Mind|p2a: Florges
+|-boost|p2a: Florges|spa|1
+|-boost|p2a: Florges|spd|1
+|
+|upkeep
+|turn|22
+|
+|t:|1772745788
+|move|p1a: Drifblim|Calm Mind|p1a: Drifblim
+|-boost|p1a: Drifblim|spa|1
+|-boost|p1a: Drifblim|spd|1
+|move|p2a: Florges|Wish|p2a: Florges
+|
+|upkeep
+|turn|23
+|
+|t:|1772745797
+|move|p1a: Drifblim|Air Slash|p2a: Florges
+|-damage|p2a: Florges|225/271
+|move|p2a: Florges|Moonblast|p1a: Drifblim
+|-damage|p1a: Drifblim|172/396
+|-unboost|p1a: Drifblim|spa|1
+|
+|-heal|p2a: Florges|271/271|[from] move: Wish|[wisher] Florges
+|upkeep
+|turn|24
+|
+|t:|1772745805
+|move|p1a: Drifblim|Air Slash|p2a: Florges
+|-crit|p2a: Florges
+|-damage|p2a: Florges|28/271
+|cant|p2a: Florges|flinch
+|
+|-heal|p2a: Florges|44/271|[from] item: Leftovers
+|upkeep
+|turn|25
+|c|☆hugoryla|geeez
+|c|☆hugoryla|gg
+|c|☆hugoryla|wait
+|c|☆hugoryla|WHAT???
+|
+|t:|1772745833
+|move|p2a: Florges|Protect|p2a: Florges
+|-singleturn|p2a: Florges|Protect
+|move|p1a: Drifblim|Shadow Ball|p2a: Florges
+|-activate|p2a: Florges|move: Protect
+|
+|-heal|p2a: Florges|60/271|[from] item: Leftovers
+|upkeep
+|turn|26
+|c|☆Jaysaster|call your girl
+|
+|t:|1772745847
+|move|p1a: Drifblim|Air Slash|p2a: Florges
+|-crit|p2a: Florges
+|-damage|p2a: Florges|0 fnt
+|faint|p2a: Florges
+|
+|upkeep
+|-message|Jaysaster forfeited.
+|
+|win|hugoryla
+|raw|hugoryla's rating: 1539 &rarr; <strong>1561</strong><br />(+22 for winning)
+|raw|Jaysaster's rating: 1573 &rarr; <strong>1551</strong><br />(-22 for losing)
+|l|☆Jaysaster
+|player|p2|

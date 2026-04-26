@@ -1,0 +1,375 @@
+|j|☆Hax2003
+|j|☆zinzol
+|t:|1776976462
+|gametype|singles
+|player|p1|Hax2003|byron|1305
+|player|p2|zinzol|ninjaboy|1295
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776976462
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Arceus|Arceus-Grass, L73|296/296
+|switch|p2a: Iron Bundle|Iron Bundle, L78|215/215
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by zinzol)
+|inactive|Hax2003 has 120 seconds left.
+|
+|t:|1776976518
+|switch|p1a: Cryogonal|Cryogonal, L89|287/287
+|move|p2a: Iron Bundle|Ice Beam|p1a: Cryogonal
+|-resisted|p1a: Cryogonal
+|-damage|p1a: Cryogonal|253/287
+|
+|upkeep
+|turn|2
+|
+|t:|1776976527
+|move|p2a: Iron Bundle|Hydro Pump|p1a: Cryogonal
+|-damage|p1a: Cryogonal|168/287
+|move|p1a: Cryogonal|Rapid Spin|p2a: Iron Bundle
+|-damage|p2a: Iron Bundle|192/215
+|-boost|p1a: Cryogonal|spe|1
+|
+|upkeep
+|turn|3
+|
+|t:|1776976544
+|move|p1a: Cryogonal|Recover|p1a: Cryogonal
+|-heal|p1a: Cryogonal|287/287
+|move|p2a: Iron Bundle|Hydro Pump|p1a: Cryogonal
+|-damage|p1a: Cryogonal|209/287
+|
+|upkeep
+|turn|4
+|
+|t:|1776976554
+|-terastallize|p1a: Cryogonal|Electric
+|move|p1a: Cryogonal|Tera Blast|p2a: Iron Bundle|[anim] Tera Blast Electric
+|-supereffective|p2a: Iron Bundle
+|-damage|p2a: Iron Bundle|0 fnt
+|faint|p2a: Iron Bundle
+|-end|p2a: Iron Bundle|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1776976563
+|switch|p2a: Carbink|Carbink, L90|236/236
+|turn|5
+|
+|t:|1776976575
+|move|p1a: Cryogonal|Tera Blast|p2a: Carbink|[anim] Tera Blast Electric
+|-damage|p2a: Carbink|178/236
+|move|p2a: Carbink|Iron Defense|p2a: Carbink
+|-boost|p2a: Carbink|def|2
+|
+|upkeep
+|turn|6
+|
+|t:|1776976582
+|move|p1a: Cryogonal|Tera Blast|p2a: Carbink|[anim] Tera Blast Electric
+|-damage|p2a: Carbink|121/236
+|move|p2a: Carbink|Iron Defense|p2a: Carbink
+|-boost|p2a: Carbink|def|2
+|
+|upkeep
+|turn|7
+|
+|t:|1776976586
+|move|p1a: Cryogonal|Tera Blast|p2a: Carbink|[anim] Tera Blast Electric
+|-damage|p2a: Carbink|69/236
+|move|p2a: Carbink|Iron Defense|p2a: Carbink
+|-boost|p2a: Carbink|def|2
+|
+|upkeep
+|turn|8
+|
+|t:|1776976588
+|move|p1a: Cryogonal|Tera Blast|p2a: Carbink|[anim] Tera Blast Electric
+|-damage|p2a: Carbink|9/236
+|move|p2a: Carbink|Rest|p2a: Carbink
+|-status|p2a: Carbink|slp|[from] move: Rest
+|-heal|p2a: Carbink|236/236 slp|[silent]
+|-enditem|p2a: Carbink|Chesto Berry|[eat]
+|-curestatus|p2a: Carbink|slp|[msg]
+|
+|upkeep
+|turn|9
+|
+|t:|1776976595
+|move|p1a: Cryogonal|Tera Blast|p2a: Carbink|[anim] Tera Blast Electric
+|-damage|p2a: Carbink|175/236
+|move|p2a: Carbink|Body Press|p1a: Cryogonal
+|-damage|p1a: Cryogonal|0 fnt
+|faint|p1a: Cryogonal
+|
+|upkeep
+|
+|t:|1776976599
+|switch|p1a: Landorus|Landorus, L75, M|257/257
+|turn|10
+|
+|t:|1776976604
+|move|p1a: Landorus|Earth Power|p2a: Carbink
+|-supereffective|p2a: Carbink
+|-crit|p2a: Carbink
+|-damage|p2a: Carbink|0 fnt
+|faint|p2a: Carbink
+|
+|upkeep
+|c|☆Hax2003|sheer force life orb critical STAB
+|c|☆Hax2003|Imposible to surviv e
+|
+|t:|1776976624
+|switch|p2a: Basculegion|Basculegion, L80, M|323/323
+|turn|11
+|
+|t:|1776976642
+|switch|p1a: Arceus|Arceus-Grass, L73|296/296
+|move|p2a: Basculegion|Wave Crash|p1a: Arceus
+|-resisted|p1a: Arceus
+|-damage|p1a: Arceus|220/296
+|-damage|p2a: Basculegion|298/323|[from] Recoil
+|
+|upkeep
+|turn|12
+|
+|t:|1776976651
+|switch|p2a: Ho-Oh|Ho-Oh, L71|268/268
+|move|p1a: Arceus|Calm Mind|p1a: Arceus
+|-boost|p1a: Arceus|spa|1
+|-boost|p1a: Arceus|spd|1
+|
+|upkeep
+|turn|13
+|
+|t:|1776976661
+|switch|p1a: Klawf|Klawf, L90, F|272/272
+|move|p2a: Ho-Oh|Sacred Fire|p1a: Klawf
+|-resisted|p1a: Klawf
+|-damage|p1a: Klawf|236/272
+|-status|p1a: Klawf|brn
+|-enditem|p1a: Klawf|Lum Berry|[eat]
+|-curestatus|p1a: Klawf|brn|[msg]
+|
+|upkeep
+|turn|14
+|
+|t:|1776976671
+|switch|p2a: Basculegion|Basculegion, L80, M|298/323
+|move|p1a: Klawf|Stone Edge|p2a: Basculegion
+|-damage|p2a: Basculegion|145/323
+|
+|upkeep
+|turn|15
+|
+|t:|1776976681
+|move|p2a: Basculegion|Aqua Jet|p1a: Klawf
+|-supereffective|p1a: Klawf
+|-crit|p1a: Klawf
+|-damage|p1a: Klawf|108/272
+|-ability|p1a: Klawf|Anger Shell|boost
+|-boost|p1a: Klawf|atk|1
+|-boost|p1a: Klawf|spa|1
+|-boost|p1a: Klawf|spe|1
+|-unboost|p1a: Klawf|def|1
+|-unboost|p1a: Klawf|spd|1
+|move|p1a: Klawf|Knock Off|p2a: Basculegion
+|-supereffective|p2a: Basculegion
+|-damage|p2a: Basculegion|0 fnt
+|-enditem|p2a: Basculegion|Assault Vest|[from] move: Knock Off|[of] p1a: Klawf
+|faint|p2a: Basculegion
+|
+|upkeep
+|c|☆Hax2003|Oh damn
+|
+|t:|1776976703
+|switch|p2a: Hoopa|Hoopa-Unbound, L80|259/259
+|turn|16
+|
+|t:|1776976708
+|move|p1a: Klawf|Stone Edge|p2a: Hoopa
+|-damage|p2a: Hoopa|19/259
+|move|p2a: Hoopa|Drain Punch|p1a: Klawf
+|-supereffective|p1a: Klawf
+|-damage|p1a: Klawf|0 fnt
+|-heal|p2a: Hoopa|73/259|[from] drain|[of] p1a: Klawf
+|faint|p1a: Klawf
+|
+|upkeep
+|
+|t:|1776976717
+|switch|p1a: Darkrai|Darkrai, L77|234/234
+|turn|17
+|
+|t:|1776976724
+|switch|p2a: Ho-Oh|Ho-Oh, L71|268/268
+|move|p1a: Darkrai|Dark Pulse|p2a: Ho-Oh
+|-damage|p2a: Ho-Oh|199/268
+|
+|upkeep
+|turn|18
+|
+|t:|1776976736
+|move|p1a: Darkrai|Nasty Plot|p1a: Darkrai
+|-boost|p1a: Darkrai|spa|2
+|move|p2a: Ho-Oh|Earthquake|p1a: Darkrai
+|-damage|p1a: Darkrai|162/234
+|
+|-heal|p1a: Darkrai|176/234|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1776976743
+|move|p1a: Darkrai|Dark Pulse|p2a: Ho-Oh
+|-damage|p2a: Ho-Oh|66/268
+|move|p2a: Ho-Oh|Sacred Fire|p1a: Darkrai
+|-damage|p1a: Darkrai|64/234
+|-status|p1a: Darkrai|brn
+|
+|-heal|p1a: Darkrai|78/234 brn|[from] item: Leftovers
+|-damage|p1a: Darkrai|64/234 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1776976755
+|switch|p2a: Kilowattrel|Kilowattrel, L83, F|252/252
+|move|p1a: Darkrai|Dark Pulse|p2a: Kilowattrel
+|-damage|p2a: Kilowattrel|23/252
+|
+|-heal|p1a: Darkrai|78/234 brn|[from] item: Leftovers
+|-damage|p1a: Darkrai|64/234 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1776976765
+|move|p2a: Kilowattrel|Thunderbolt|p1a: Darkrai
+|-damage|p1a: Darkrai|0 fnt
+|faint|p1a: Darkrai
+|
+|upkeep
+|
+|t:|1776976767
+|switch|p1a: Sceptile|Sceptile, L87, M|264/264
+|turn|22
+|
+|t:|1776976773
+|move|p1a: Sceptile|Giga Drain|p2a: Kilowattrel
+|-resisted|p2a: Kilowattrel
+|-damage|p2a: Kilowattrel|0 fnt
+|faint|p2a: Kilowattrel
+|-damage|p1a: Sceptile|238/264|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776976778
+|switch|p2a: Ho-Oh|Ho-Oh, L71|155/268
+|turn|23
+|
+|t:|1776976781
+|switch|p1a: Landorus|Landorus, L75, M|257/257
+|move|p2a: Ho-Oh|Sacred Fire|p1a: Landorus
+|-damage|p1a: Landorus|149/257
+|
+|upkeep
+|turn|24
+|
+|t:|1776976789
+|move|p1a: Landorus|Sludge Wave|p2a: Ho-Oh
+|-damage|p2a: Ho-Oh|76/268
+|move|p2a: Ho-Oh|Sacred Fire|p1a: Landorus
+|-damage|p1a: Landorus|37/257
+|
+|upkeep
+|turn|25
+|
+|t:|1776976797
+|switch|p2a: Hoopa|Hoopa-Unbound, L80|73/259
+|move|p1a: Landorus|Sludge Wave|p2a: Hoopa
+|-damage|p2a: Hoopa|0 fnt
+|faint|p2a: Hoopa
+|
+|upkeep
+|
+|t:|1776976801
+|switch|p2a: Ho-Oh|Ho-Oh, L71|165/268
+|turn|26
+|c|☆Hax2003|No tera steel?
+|
+|t:|1776976806
+|move|p1a: Landorus|Sludge Wave|p2a: Ho-Oh
+|-damage|p2a: Ho-Oh|82/268
+|move|p2a: Ho-Oh|Sacred Fire|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|upkeep
+|
+|t:|1776976810
+|switch|p1a: Arceus|Arceus-Grass, L73|220/296
+|turn|27
+|
+|t:|1776976815
+|move|p1a: Arceus|Ice Beam|p2a: Ho-Oh
+|-damage|p2a: Ho-Oh|38/268
+|move|p2a: Ho-Oh|Recover|p2a: Ho-Oh
+|-heal|p2a: Ho-Oh|172/268
+|
+|upkeep
+|turn|28
+|
+|t:|1776976821
+|move|p1a: Arceus|Calm Mind|p1a: Arceus
+|-boost|p1a: Arceus|spa|1
+|-boost|p1a: Arceus|spd|1
+|move|p2a: Ho-Oh|Recover|p2a: Ho-Oh
+|-heal|p2a: Ho-Oh|268/268
+|
+|upkeep
+|turn|29
+|
+|t:|1776976825
+|move|p1a: Arceus|Calm Mind|p1a: Arceus
+|-boost|p1a: Arceus|spa|1
+|-boost|p1a: Arceus|spd|1
+|move|p2a: Ho-Oh|Sacred Fire|p1a: Arceus
+|-supereffective|p1a: Arceus
+|-damage|p1a: Arceus|40/296
+|
+|upkeep
+|turn|30
+|
+|t:|1776976828
+|move|p1a: Arceus|Ice Beam|p2a: Ho-Oh
+|-damage|p2a: Ho-Oh|185/268
+|move|p2a: Ho-Oh|Sacred Fire|p1a: Arceus
+|-supereffective|p1a: Arceus
+|-damage|p1a: Arceus|0 fnt
+|faint|p1a: Arceus
+|
+|upkeep
+|
+|t:|1776976831
+|switch|p1a: Sceptile|Sceptile, L87, M|238/264
+|turn|31
+|
+|t:|1776976836
+|move|p1a: Sceptile|Rock Slide|p2a: Ho-Oh
+|-supereffective|p2a: Ho-Oh
+|-damage|p2a: Ho-Oh|0 fnt
+|faint|p2a: Ho-Oh
+|-damage|p1a: Sceptile|212/264|[from] item: Life Orb
+|
+|win|Hax2003
+|raw|Hax2003's rating: 1305 &rarr; <strong>1324</strong><br />(+19 for winning)
+|raw|zinzol's rating: 1295 &rarr; <strong>1271</strong><br />(-24 for losing)
+|c|☆Hax2003|gg wp
+|l|☆zinzol
+|player|p2|

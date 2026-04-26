@@ -1,0 +1,277 @@
+|j|☆Angolano1234567
+|j|☆PokeChess
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1776977289
+|gametype|singles
+|player|p1|Angolano1234567|shauntal|
+|player|p2|PokeChess|cynthia-anime2|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|Tournament battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776977290
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Torkoal|Torkoal, L88, M|266/266
+|switch|p2a: Flapple|Flapple, L88, F|266/266
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|turn|1
+|inactive|PokeChess also wants the timer to be on.
+|inactive|Angolano1234567 also wants the timer to be on.
+|
+|t:|1776977309
+|switch|p2a: Rotom|Rotom-Fan, L86|226/226
+|move|p1a: Torkoal|Lava Plume|p2a: Rotom
+|-damage|p2a: Rotom|120/226
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1776977318
+|switch|p1a: Goodra|Goodra-Hisui, L82, F|265/265
+|move|p2a: Rotom|Thunder Wave|p1a: Goodra
+|-status|p1a: Goodra|par
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1776977346
+|switch|p2a: Trevenant|Trevenant, L89, M|296/296
+|move|p1a: Goodra|Draco Meteor|p2a: Trevenant
+|-damage|p2a: Trevenant|140/296
+|-unboost|p1a: Goodra|spa|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1776977362
+|switch|p1a: Torkoal|Torkoal, L88, M|266/266
+|move|p2a: Trevenant|Poltergeist|p1a: Torkoal|[miss]
+|-miss|p2a: Trevenant|p1a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|j| enzoo1600
+|
+|t:|1776977368
+|move|p2a: Trevenant|Poltergeist|p1a: Torkoal
+|-activate|p1a: Torkoal|move: Poltergeist|Heavy-Duty Boots
+|-damage|p1a: Torkoal|118/266
+|move|p1a: Torkoal|Lava Plume|p2a: Trevenant
+|-supereffective|p2a: Trevenant
+|-crit|p2a: Trevenant
+|-damage|p2a: Trevenant|0 fnt
+|faint|p2a: Trevenant
+|
+|-weather|none
+|upkeep
+|
+|t:|1776977378
+|switch|p2a: Rotom|Rotom-Fan, L86|120/226
+|turn|6
+|j| Rodrigaaaaaao
+|l| Rodrigaaaaaao
+|
+|t:|1776977396
+|switch|p2a: Annihilape|Annihilape, L76, F|292/292
+|switch|p1a: Uxie|Uxie, L83|260/260
+|
+|upkeep
+|turn|7
+|
+|t:|1776977405
+|switch|p2a: Chien-Pao|Chien-Pao, L72|234/234
+|-ability|p2a: Chien-Pao|Sword of Ruin
+|move|p1a: Uxie|Stealth Rock|p2a: Chien-Pao
+|-sidestart|p2: PokeChess|move: Stealth Rock
+|
+|upkeep
+|turn|8
+|
+|t:|1776977410
+|move|p2a: Chien-Pao|Swords Dance|p2a: Chien-Pao
+|-boost|p2a: Chien-Pao|atk|2
+|move|p1a: Uxie|U-turn|p2a: Chien-Pao
+|-supereffective|p2a: Chien-Pao
+|-damage|p2a: Chien-Pao|142/234
+|
+|t:|1776977421
+|switch|p1a: Poliwrath|Poliwrath, L88, M|302/302|[from] U-turn
+|
+|upkeep
+|turn|9
+|j| ODazai_
+|
+|t:|1776977429
+|move|p2a: Chien-Pao|Icicle Crash|p1a: Poliwrath
+|-resisted|p1a: Poliwrath
+|-crit|p1a: Poliwrath
+|-damage|p1a: Poliwrath|153/302
+|move|p1a: Poliwrath|Rain Dance|p1a: Poliwrath
+|-weather|RainDance
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|10
+|l| ODazai_
+|
+|t:|1776977447
+|move|p1a: Poliwrath|Liquidation|p2a: Chien-Pao
+|-damage|p2a: Chien-Pao|0 fnt
+|faint|p2a: Chien-Pao
+|-damage|p1a: Poliwrath|123/302|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1776977458
+|switch|p2a: Flapple|Flapple, L88, F|266/266
+|-damage|p2a: Flapple|233/266|[from] Stealth Rock
+|turn|11
+|
+|t:|1776977466
+|move|p1a: Poliwrath|Close Combat|p2a: Flapple
+|-damage|p2a: Flapple|38/266
+|-unboost|p1a: Poliwrath|def|1
+|-unboost|p1a: Poliwrath|spd|1
+|-damage|p1a: Poliwrath|93/302|[from] item: Life Orb
+|move|p2a: Flapple|Grav Apple|p1a: Poliwrath|[miss]
+|-miss|p2a: Flapple|p1a: Poliwrath
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1776977487
+|move|p1a: Poliwrath|Liquidation|p2a: Flapple
+|-resisted|p2a: Flapple
+|-damage|p2a: Flapple|0 fnt
+|faint|p2a: Flapple
+|-damage|p1a: Poliwrath|63/302|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1776977491
+|switch|p2a: Glaceon|Glaceon, L94, M|275/275
+|turn|13
+|
+|t:|1776977497
+|move|p2a: Glaceon|Protect|p2a: Glaceon
+|-singleturn|p2a: Glaceon|Protect
+|move|p1a: Poliwrath|Close Combat|p2a: Glaceon
+|-activate|p2a: Glaceon|move: Protect
+|
+|-weather|none
+|upkeep
+|turn|14
+|
+|t:|1776977504
+|switch|p1a: Torkoal|Torkoal, L88, M|118/266
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|move|p2a: Glaceon|Freeze-Dry|p1a: Torkoal
+|-resisted|p1a: Torkoal
+|-crit|p1a: Torkoal
+|-damage|p1a: Torkoal|10/266
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1776977510
+|move|p2a: Glaceon|Freeze-Dry|p1a: Torkoal
+|-resisted|p1a: Torkoal
+|-damage|p1a: Torkoal|0 fnt
+|faint|p1a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1776977516
+|switch|p1a: Klawf|Klawf, L90, M|272/272
+|turn|16
+|
+|t:|1776977526
+|switch|p2a: Annihilape|Annihilape, L76, F|292/292
+|-damage|p2a: Annihilape|274/292|[from] Stealth Rock
+|move|p1a: Klawf|Swords Dance|p1a: Klawf
+|-boost|p1a: Klawf|atk|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|17
+|
+|t:|1776977538
+|move|p1a: Klawf|Knock Off|p2a: Annihilape
+|-damage|p2a: Annihilape|92/292
+|-enditem|p2a: Annihilape|Chesto Berry|[from] move: Knock Off|[of] p1a: Klawf
+|move|p2a: Annihilape|Drain Punch|p1a: Klawf
+|-supereffective|p1a: Klawf
+|-damage|p1a: Klawf|156/272
+|-heal|p2a: Annihilape|150/292|[from] drain|[of] p1a: Klawf
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1776977560
+|move|p1a: Klawf|Swords Dance|p1a: Klawf
+|-boost|p1a: Klawf|atk|2
+|move|p2a: Annihilape|Drain Punch|p1a: Klawf
+|-supereffective|p1a: Klawf
+|-damage|p1a: Klawf|36/272
+|-heal|p2a: Annihilape|210/292|[from] drain|[of] p1a: Klawf
+|-ability|p1a: Klawf|Anger Shell|boost
+|-boost|p1a: Klawf|atk|1
+|-boost|p1a: Klawf|spa|1
+|-boost|p1a: Klawf|spe|1
+|-unboost|p1a: Klawf|def|1
+|-unboost|p1a: Klawf|spd|1
+|-enditem|p1a: Klawf|Sitrus Berry|[eat]
+|-heal|p1a: Klawf|104/272|[from] item: Sitrus Berry
+|
+|-weather|none
+|upkeep
+|turn|19
+|j| SonicObeso
+|
+|t:|1776977574
+|-terastallize|p1a: Klawf|Dark
+|move|p1a: Klawf|Knock Off|p2a: Annihilape
+|-damage|p2a: Annihilape|0 fnt
+|faint|p2a: Annihilape
+|
+|upkeep
+|inactive|PokeChess has 120 seconds left.
+|c|☆PokeChess|gg
+|
+|t:|1776977603
+|switch|p2a: Glaceon|Glaceon, L94, M|275/275
+|turn|20
+|c|☆Angolano1234567|gg
+|
+|t:|1776977608
+|-terastallize|p2a: Glaceon|Water
+|move|p1a: Klawf|Knock Off|p2a: Glaceon
+|-damage|p2a: Glaceon|0 fnt
+|-enditem|p2a: Glaceon|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Klawf
+|faint|p2a: Glaceon
+|
+|upkeep
+|inactive|PokeChess has 120 seconds left.
+|-message|PokeChess forfeited.
+|
+|win|Angolano1234567
+|n|☆Angolano1234567|angolano1234567
+|n|☆PokeChess|pokechess
+|n| enzoo1600|enzoo1600
+|n| SonicObeso|sonicobeso

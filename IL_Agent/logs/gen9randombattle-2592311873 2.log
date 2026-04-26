@@ -1,0 +1,140 @@
+|j|☆SXD2002
+|j|☆Alastors Next Meal
+|t:|1776977913
+|gametype|singles
+|player|p1|SXD2002|101|1497
+|player|p2|Alastors Next Meal|265|1468
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776977913
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Bundle|Iron Bundle, L78|215/215
+|switch|p2a: Illumise|Illumise, L91, F|266/266
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Alastors Next Meal)
+|
+|t:|1776977927
+|-end|p1a: Iron Bundle|Quark Drive|[silent]
+|switch|p1a: Rhyperior|Rhyperior, L82, M|323/323
+|move|p2a: Illumise|Thunder Wave|p1a: Rhyperior
+|-immune|p1a: Rhyperior
+|
+|upkeep
+|turn|2
+|
+|t:|1776977935
+|move|p2a: Illumise|Bug Buzz|p1a: Rhyperior
+|-damage|p1a: Rhyperior|203/323
+|move|p1a: Rhyperior|Stone Edge|p2a: Illumise
+|-supereffective|p2a: Illumise
+|-damage|p2a: Illumise|0 fnt
+|faint|p2a: Illumise
+|
+|upkeep
+|
+|t:|1776977943
+|switch|p2a: Leavanny|Leavanny, L86, M|269/269
+|turn|3
+|
+|t:|1776977951
+|switch|p1a: Scyther|Scyther, L82, M|249/249
+|move|p2a: Leavanny|Bullet Seed|p1a: Scyther
+|-resisted|p1a: Scyther
+|-damage|p1a: Scyther|241/249
+|-resisted|p1a: Scyther
+|-damage|p1a: Scyther|234/249
+|-resisted|p1a: Scyther
+|-crit|p1a: Scyther
+|-damage|p1a: Scyther|223/249
+|-resisted|p1a: Scyther
+|-damage|p1a: Scyther|216/249
+|-hitcount|p1a: Scyther|4
+|
+|upkeep
+|turn|4
+|
+|t:|1776977966
+|-terastallize|p2a: Leavanny|Rock
+|move|p1a: Scyther|Dual Wingbeat|p2a: Leavanny
+|-resisted|p2a: Leavanny
+|-damage|p2a: Leavanny|231/269
+|-resisted|p2a: Leavanny
+|-damage|p2a: Leavanny|195/269
+|-hitcount|p2a: Leavanny|2
+|move|p2a: Leavanny|Sticky Web|p1a: Scyther
+|-sidestart|p1: SXD2002|move: Sticky Web
+|
+|upkeep
+|turn|5
+|
+|t:|1776977987
+|move|p1a: Scyther|Defog|p2a: Leavanny
+|-unboost|p2a: Leavanny|evasion|1
+|-sideend|p1: SXD2002|Sticky Web|[from] move: Defog|[of] p1a: Scyther
+|move|p2a: Leavanny|Triple Axel|p1a: Scyther
+|-supereffective|p1a: Scyther
+|-damage|p1a: Scyther|178/249
+|-supereffective|p1a: Scyther
+|-damage|p1a: Scyther|112/249
+|-supereffective|p1a: Scyther
+|-damage|p1a: Scyther|12/249
+|-hitcount|p1a: Scyther|3
+|
+|upkeep
+|turn|6
+|
+|t:|1776977998
+|move|p1a: Scyther|U-turn|p2a: Leavanny
+|-damage|p2a: Leavanny|114/269
+|
+|t:|1776978006
+|switch|p1a: Espeon|Espeon, L84, M|246/246|[from] U-turn
+|move|p2a: Leavanny|Knock Off|p1a: Espeon
+|-supereffective|p1a: Espeon
+|-damage|p1a: Espeon|52/246
+|-enditem|p1a: Espeon|Life Orb|[from] move: Knock Off|[of] p2a: Leavanny
+|
+|upkeep
+|turn|7
+|
+|t:|1776978017
+|switch|p2a: Rhydon|Rhydon, L85, M|317/317
+|move|p1a: Espeon|Psychic|p2a: Rhydon
+|-damage|p2a: Rhydon|181/317
+|
+|upkeep
+|turn|8
+|
+|t:|1776978026
+|switch|p1a: Brute Bonnet|Brute Bonnet, L80|309/309
+|move|p2a: Rhydon|Earthquake|p1a: Brute Bonnet
+|-resisted|p1a: Brute Bonnet
+|-damage|p1a: Brute Bonnet|244/309
+|
+|-heal|p1a: Brute Bonnet|263/309|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776978048
+|switch|p2a: Armarouge|Armarouge, L80, M|267/267
+|move|p1a: Brute Bonnet|Spore|p2a: Armarouge
+|-status|p2a: Armarouge|slp|[from] move: Spore
+|
+|-heal|p1a: Brute Bonnet|282/309|[from] item: Leftovers
+|upkeep
+|turn|10
+|-message|Alastors Next Meal forfeited.
+|
+|win|SXD2002
+|raw|SXD2002's rating: 1497 &rarr; <strong>1515</strong><br />(+18 for winning)
+|raw|Alastors Next Meal's rating: 1468 &rarr; <strong>1450</strong><br />(-18 for losing)
+|l|☆Alastors Next Meal
+|player|p2|

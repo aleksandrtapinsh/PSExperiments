@@ -1,0 +1,57 @@
+|j|☆jvrs63
+|j|☆j99101
+|t:|1776981177
+|gametype|singles
+|player|p1|jvrs63|102|1377
+|player|p2|j99101|swimmer-gen4|1357
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776981177
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Bisharp|Bisharp, L79, M|232/232
+|switch|p2a: Drednaw|Drednaw, L81, F|278/278
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by j99101)
+|
+|t:|1776981205
+|switch|p2a: Dugtrio|Dugtrio, L84, M|196/196
+|move|p1a: Bisharp|Swords Dance|p1a: Bisharp
+|-boost|p1a: Bisharp|atk|2
+|
+|upkeep
+|turn|2
+|
+|t:|1776981213
+|move|p1a: Bisharp|Sucker Punch|p2a: Dugtrio
+|-damage|p2a: Dugtrio|0 fnt
+|faint|p2a: Dugtrio
+|
+|upkeep
+|c|☆j99101|shit
+|
+|t:|1776981221
+|switch|p2a: Regirock|Regirock, L83|268/268
+|turn|3
+|c|☆j99101|fuckass fucking team
+|c|☆j99101|i lose to flinch crit
+|
+|t:|1776981250
+|move|p1a: Bisharp|Iron Head|p2a: Regirock
+|-supereffective|p2a: Regirock
+|-damage|p2a: Regirock|64/268
+|cant|p2a: Regirock|flinch
+|
+|upkeep
+|turn|4
+|c|☆j99101|gg
+|-message|j99101 forfeited.
+|
+|win|jvrs63

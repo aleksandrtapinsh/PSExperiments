@@ -1,0 +1,51 @@
+|j|☆jahruchc
+|j|☆jshurm
+|t:|1776983776
+|gametype|singles
+|player|p1|jahruchc|swimmerf-gen4dp|1123
+|player|p2|jshurm|1|1108
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776983776
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Gardevoir|Gardevoir, L83, F|249/249
+|switch|p2a: Spiritomb|Spiritomb, L89, F|234/234
+|-ability|p1a: Gardevoir|Infiltrator|Trace|[from] ability: Trace|[of] p2a: Spiritomb
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by jahruchc)
+|
+|t:|1776983795
+|move|p1a: Gardevoir|Moonblast|p2a: Spiritomb
+|-supereffective|p2a: Spiritomb
+|-crit|p2a: Spiritomb
+|-damage|p2a: Spiritomb|0 fnt
+|faint|p2a: Spiritomb
+|
+|upkeep
+|
+|t:|1776983808
+|switch|p2a: Malamar|Malamar, L82, M|275/275
+|turn|2
+|
+|t:|1776983816
+|move|p1a: Gardevoir|Moonblast|p2a: Malamar
+|-supereffective|p2a: Malamar
+|-damage|p2a: Malamar|0 fnt
+|faint|p2a: Malamar
+|
+|upkeep
+|-message|jshurm forfeited.
+|
+|win|jahruchc
+|raw|jahruchc's rating: 1123 &rarr; <strong>1147</strong><br />(+24 for winning)
+|raw|jshurm's rating: 1108 &rarr; <strong>1084</strong><br />(-24 for losing)
+|l|☆jshurm
+|player|p2|

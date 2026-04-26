@@ -1,0 +1,374 @@
+|j|☆jusesagapo
+|j|‽KingBoo4Smash
+|t:|1772745026
+|gametype|singles
+|player|p1|jusesagapo|palmer|1439
+|player|p2|KingBoo4Smash|boarder|1441
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772745026
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Typhlosion|Typhlosion, L84, F|267/267
+|switch|p2a: Dragalge|Dragalge, L88, M|258/258
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by KingBoo4Smash)
+|inactive|jusesagapo has 120 seconds left.
+|inactive|KingBoo4Smash has 120 seconds left.
+|
+|t:|1772745064
+|switch|p1a: Heatran|Heatran, L79, F|273/273
+|-item|p1a: Heatran|Air Balloon
+|move|p2a: Dragalge|Toxic Spikes|p1a: Heatran
+|-sidestart|p1: jusesagapo|move: Toxic Spikes
+|
+|upkeep
+|turn|2
+|
+|t:|1772745079
+|switch|p2a: Moltres|Moltres, L81|278/278
+|move|p1a: Heatran|Stealth Rock|p2a: Moltres
+|-sidestart|p2: KingBoo4Smash|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1772745100
+|switch|p1a: Pecharunt|Pecharunt, L77|262/262
+|-sideend|p1: jusesagapo|move: Toxic Spikes|[of] p1a: Pecharunt
+|move|p2a: Moltres|Brave Bird|p1a: Pecharunt
+|-damage|p1a: Pecharunt|177/262
+|-damage|p2a: Moltres|250/278|[from] Recoil
+|
+|-heal|p1a: Pecharunt|193/262|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1772745112
+|switch|p2a: Dragalge|Dragalge, L88, M|258/258
+|-damage|p2a: Dragalge|226/258|[from] Stealth Rock
+|move|p1a: Pecharunt|Malignant Chain|p2a: Dragalge
+|-resisted|p2a: Dragalge
+|-damage|p2a: Dragalge|193/258
+|
+|-heal|p1a: Pecharunt|209/262|[from] item: Leftovers
+|-heal|p2a: Dragalge|209/258|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1772745128
+|move|p1a: Pecharunt|Parting Shot|p2a: Dragalge
+|-unboost|p2a: Dragalge|atk|1
+|-unboost|p2a: Dragalge|spa|1
+|
+|t:|1772745135
+|switch|p1a: Toedscruel|Toedscruel, L87, M|281/281|[from] Parting Shot
+|move|p2a: Dragalge|Draco Meteor|p1a: Toedscruel
+|-damage|p1a: Toedscruel|177/281
+|-unboost|p2a: Dragalge|spa|2
+|
+|-heal|p1a: Toedscruel|194/281|[from] item: Leftovers
+|-heal|p2a: Dragalge|225/258|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1772745154
+|switch|p2a: Moltres|Moltres, L81|250/278
+|move|p1a: Toedscruel|Spore|p2a: Moltres
+|-status|p2a: Moltres|slp|[from] move: Spore
+|
+|-heal|p1a: Toedscruel|211/281|[from] item: Leftovers
+|upkeep
+|turn|7
+|inactive|jusesagapo has 120 seconds left.
+|
+|t:|1772745178
+|switch|p1a: Pecharunt|Pecharunt, L77|209/262
+|cant|p2a: Moltres|slp
+|
+|-heal|p1a: Pecharunt|225/262|[from] item: Leftovers
+|upkeep
+|turn|8
+|inactive|jusesagapo has 120 seconds left.
+|
+|t:|1772745189
+|switch|p2a: Coalossal|Coalossal, L89, M|341/341
+|move|p1a: Pecharunt|Malignant Chain|p2a: Coalossal
+|-resisted|p2a: Coalossal
+|-damage|p2a: Coalossal|301/341
+|-status|p2a: Coalossal|tox
+|-start|p2a: Coalossal|confusion|[from] ability: Poison Puppeteer|[of] p1a: Pecharunt
+|
+|-heal|p1a: Pecharunt|241/262|[from] item: Leftovers
+|-damage|p2a: Coalossal|280/341 tox|[from] psn
+|upkeep
+|turn|9
+|inactive|jusesagapo has 120 seconds left.
+|
+|t:|1772745209
+|move|p1a: Pecharunt|Parting Shot|p2a: Coalossal
+|-unboost|p2a: Coalossal|atk|1
+|-unboost|p2a: Coalossal|spa|1
+|
+|t:|1772745212
+|switch|p1a: Toedscruel|Toedscruel, L87, M|211/281|[from] Parting Shot
+|-activate|p2a: Coalossal|confusion
+|move|p2a: Coalossal|Rapid Spin|p1a: Toedscruel
+|-damage|p1a: Toedscruel|181/281
+|-boost|p2a: Coalossal|spe|1
+|-sideend|p2: KingBoo4Smash|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Coalossal
+|
+|-heal|p1a: Toedscruel|198/281|[from] item: Leftovers
+|-damage|p2a: Coalossal|238/341 tox|[from] psn
+|upkeep
+|turn|10
+|inactive|jusesagapo has 120 seconds left.
+|
+|t:|1772745226
+|switch|p2a: Articuno|Articuno-Galar, L84|288/288
+|move|p1a: Toedscruel|Earth Power|p2a: Articuno
+|-immune|p2a: Articuno
+|
+|-heal|p1a: Toedscruel|215/281|[from] item: Leftovers
+|upkeep
+|turn|11
+|inactive|jusesagapo has 120 seconds left.
+|
+|t:|1772745237
+|switch|p1a: Heatran|Heatran, L79, F|273/273
+|-item|p1a: Heatran|Air Balloon
+|move|p2a: Articuno|Calm Mind|p2a: Articuno
+|-boost|p2a: Articuno|spa|1
+|-boost|p2a: Articuno|spd|1
+|
+|upkeep
+|turn|12
+|inactive|jusesagapo has 120 seconds left.
+|
+|t:|1772745252
+|move|p2a: Articuno|Calm Mind|p2a: Articuno
+|-boost|p2a: Articuno|spa|1
+|-boost|p2a: Articuno|spd|1
+|move|p1a: Heatran|Magma Storm|p2a: Articuno|[miss]
+|-miss|p1a: Heatran|p2a: Articuno
+|
+|upkeep
+|turn|13
+|inactive|jusesagapo has 120 seconds left.
+|inactive|KingBoo4Smash has 120 seconds left.
+|
+|t:|1772745294
+|move|p2a: Articuno|Freezing Glare|p1a: Heatran
+|-resisted|p1a: Heatran
+|-crit|p1a: Heatran
+|-damage|p1a: Heatran|109/273
+|-enditem|p1a: Heatran|Air Balloon
+|move|p1a: Heatran|Magma Storm|p2a: Articuno
+|-damage|p2a: Articuno|236/288
+|-activate|p2a: Articuno|move: Magma Storm|[of] p1a: Heatran
+|
+|-damage|p2a: Articuno|200/288|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|14
+|inactive|jusesagapo has 120 seconds left.
+|
+|t:|1772745309
+|move|p2a: Articuno|Hurricane|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|-end|p2a: Articuno|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|inactive|jusesagapo has 120 seconds left.
+|
+|t:|1772745319
+|switch|p1a: Pecharunt|Pecharunt, L77|241/262
+|turn|15
+|
+|t:|1772745336
+|move|p2a: Articuno|Freezing Glare|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|0 fnt
+|faint|p1a: Pecharunt
+|
+|upkeep
+|inactive|jusesagapo has 120 seconds left.
+|
+|t:|1772745349
+|switch|p1a: Typhlosion|Typhlosion, L84, F|267/267
+|turn|16
+|inactive|jusesagapo has 120 seconds left.
+|
+|t:|1772745368
+|-terastallize|p1a: Typhlosion|Fire
+|move|p1a: Typhlosion|Eruption|p2a: Articuno
+|-damage|p2a: Articuno|98/288
+|move|p2a: Articuno|Hurricane|p1a: Typhlosion|[miss]
+|-miss|p2a: Articuno|p1a: Typhlosion
+|
+|upkeep
+|turn|17
+|
+|t:|1772745377
+|move|p1a: Typhlosion|Eruption|p2a: Articuno
+|-damage|p2a: Articuno|0 fnt
+|faint|p2a: Articuno
+|
+|upkeep
+|
+|t:|1772745391
+|switch|p2a: Walking Wake|Walking Wake, L79|286/286
+|turn|18
+|
+|t:|1772745403
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, L75, F|274/274
+|move|p2a: Walking Wake|Hydro Steam|p1a: Urshifu
+|-resisted|p1a: Urshifu
+|-damage|p1a: Urshifu|191/274
+|-damage|p2a: Walking Wake|258/286|[from] item: Life Orb
+|
+|upkeep
+|turn|19
+|inactive|KingBoo4Smash has 120 seconds left.
+|
+|t:|1772745414
+|move|p2a: Walking Wake|Draco Meteor|p1a: Urshifu
+|-damage|p1a: Urshifu|0 fnt
+|-unboost|p2a: Walking Wake|spa|2
+|faint|p1a: Urshifu
+|-damage|p2a: Walking Wake|230/286|[from] item: Life Orb
+|
+|upkeep
+|inactive|jusesagapo has 120 seconds left.
+|
+|t:|1772745431
+|switch|p1a: Sceptile|Sceptile, L87, M|264/264
+|turn|20
+|
+|t:|1772745440
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Moltres|Moltres, L81|250/278 slp
+|move|p1a: Sceptile|Giga Drain|p2a: Moltres
+|-resisted|p2a: Moltres
+|-damage|p2a: Moltres|219/278 slp
+|-damage|p1a: Sceptile|238/264|[from] item: Life Orb
+|
+|upkeep
+|turn|21
+|inactive|KingBoo4Smash has 120 seconds left.
+|
+|t:|1772745462
+|switch|p2a: Coalossal|Coalossal, L89, M|238/341 tox
+|move|p1a: Sceptile|Rock Slide|p2a: Coalossal
+|-supereffective|p2a: Coalossal
+|-damage|p2a: Coalossal|139/341 tox
+|-damage|p1a: Sceptile|212/264|[from] item: Life Orb
+|
+|-damage|p2a: Coalossal|118/341 tox|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1772745473
+|move|p1a: Sceptile|Earthquake|p2a: Coalossal
+|-supereffective|p2a: Coalossal
+|-damage|p2a: Coalossal|0 fnt
+|faint|p2a: Coalossal
+|-damage|p1a: Sceptile|186/264|[from] item: Life Orb
+|
+|upkeep
+|inactive|KingBoo4Smash has 120 seconds left.
+|
+|t:|1772745511
+|switch|p2a: Dragalge|Dragalge, L88, M|225/258
+|turn|23
+|
+|t:|1772745519
+|switch|p1a: Toedscruel|Toedscruel, L87, M|215/281
+|move|p2a: Dragalge|Sludge Wave|p1a: Toedscruel
+|-damage|p1a: Toedscruel|109/281
+|
+|-heal|p1a: Toedscruel|126/281|[from] item: Leftovers
+|-heal|p2a: Dragalge|241/258|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1772745535
+|move|p1a: Toedscruel|Earth Power|p2a: Dragalge
+|-supereffective|p2a: Dragalge
+|-damage|p2a: Dragalge|121/258
+|move|p2a: Dragalge|Draco Meteor|p1a: Toedscruel
+|-damage|p1a: Toedscruel|0 fnt
+|-unboost|p2a: Dragalge|spa|2
+|faint|p1a: Toedscruel
+|
+|-heal|p2a: Dragalge|137/258|[from] item: Leftovers
+|upkeep
+|
+|t:|1772745549
+|switch|p1a: Sceptile|Sceptile, L87, M|186/264
+|turn|25
+|
+|t:|1772745568
+|move|p1a: Sceptile|Earthquake|p2a: Dragalge
+|-supereffective|p2a: Dragalge
+|-damage|p2a: Dragalge|0 fnt
+|faint|p2a: Dragalge
+|-damage|p1a: Sceptile|160/264|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772745572
+|switch|p2a: Moltres|Moltres, L81|219/278 slp
+|turn|26
+|
+|t:|1772745577
+|-terastallize|p2a: Moltres|Steel
+|move|p1a: Sceptile|Rock Slide|p2a: Moltres
+|-resisted|p2a: Moltres
+|-crit|p2a: Moltres
+|-damage|p2a: Moltres|171/278 slp
+|-damage|p1a: Sceptile|134/264|[from] item: Life Orb
+|-curestatus|p2a: Moltres|slp|[msg]
+|move|p2a: Moltres|Brave Bird|p1a: Sceptile
+|-supereffective|p1a: Sceptile
+|-damage|p1a: Sceptile|0 fnt
+|faint|p1a: Sceptile
+|-damage|p2a: Moltres|127/278|[from] Recoil
+|
+|upkeep
+|
+|t:|1772745595
+|switch|p1a: Typhlosion|Typhlosion, L84, F, tera:Fire|267/267
+|turn|27
+|inactive|KingBoo4Smash has 120 seconds left.
+|
+|t:|1772745634
+|move|p1a: Typhlosion|Scorching Sands|p2a: Moltres
+|-supereffective|p2a: Moltres
+|-damage|p2a: Moltres|3/278
+|-status|p2a: Moltres|brn
+|move|p2a: Moltres|Brave Bird|p1a: Typhlosion
+|-damage|p1a: Typhlosion|197/267
+|-damage|p2a: Moltres|0 fnt|[from] Recoil
+|faint|p2a: Moltres
+|
+|upkeep
+|
+|t:|1772745637
+|switch|p2a: Dugtrio|Dugtrio, L84, F|196/196
+|turn|28
+|-message|jusesagapo forfeited.
+|
+|win|KingBoo4Smash
+|raw|jusesagapo's rating: 1439 &rarr; <strong>1419</strong><br />(-20 for losing)
+|raw|KingBoo4Smash's rating: 1441 &rarr; <strong>1461</strong><br />(+20 for winning)
+|l|☆jusesagapo
+|player|p1|

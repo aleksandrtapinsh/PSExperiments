@@ -1,0 +1,183 @@
+|j|☆Esdeathhx
+|j|☆drowyna
+|t:|1776976525
+|gametype|singles
+|player|p1|Esdeathhx|elesa|1582
+|player|p2|drowyna|1|1523
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776976525
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Sandy Shocks|Sandy Shocks, L80|267/267
+|switch|p2a: Typhlosion|Typhlosion, L84, F|267/267
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by drowyna)
+|
+|t:|1776976535
+|-terastallize|p2a: Typhlosion|Fire
+|move|p2a: Typhlosion|Eruption|p1a: Sandy Shocks
+|-damage|p1a: Sandy Shocks|0 fnt
+|faint|p1a: Sandy Shocks
+|-end|p1a: Sandy Shocks|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1776976541
+|switch|p1a: Suicune|Suicune, L82|298/298
+|-ability|p1a: Suicune|Pressure
+|turn|2
+|l|☆drowyna
+|inactive|drowyna disconnected and has a minute to reconnect!
+|player|p2|
+|inactive|drowyna has 30 seconds to reconnect!
+|inactive|drowyna has 20 seconds to reconnect!
+|inactive|drowyna has 15 seconds to reconnect!
+|inactive|drowyna has 10 seconds to reconnect!
+|j|☆drowyna
+|inactive|drowyna reconnected and has 95 seconds left.
+|player|p2|drowyna|1|
+|inactive|drowyna has 90 seconds left.
+|
+|t:|1776976605
+|switch|p2a: Keldeo|Keldeo-Resolute, L79|273/273
+|move|p1a: Suicune|Calm Mind|p1a: Suicune
+|-boost|p1a: Suicune|spa|1
+|-boost|p1a: Suicune|spd|1
+|
+|upkeep
+|turn|3
+|
+|t:|1776976625
+|switch|p1a: Bronzong|Bronzong, L88|261/261
+|move|p2a: Keldeo|Calm Mind|p2a: Keldeo
+|-boost|p2a: Keldeo|spa|1
+|-boost|p2a: Keldeo|spd|1
+|
+|upkeep
+|turn|4
+|
+|t:|1776976640
+|move|p2a: Keldeo|Hydro Pump|p1a: Bronzong
+|-damage|p1a: Bronzong|80/261
+|-damage|p2a: Keldeo|246/273|[from] item: Life Orb
+|move|p1a: Bronzong|Psychic|p2a: Keldeo
+|-supereffective|p2a: Keldeo
+|-damage|p2a: Keldeo|114/273
+|
+|-heal|p1a: Bronzong|96/261|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776976649
+|move|p2a: Keldeo|Hydro Pump|p1a: Bronzong
+|-damage|p1a: Bronzong|0 fnt
+|faint|p1a: Bronzong
+|-damage|p2a: Keldeo|87/273|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776976658
+|switch|p1a: Appletun|Appletun, L92, M|352/352
+|turn|6
+|
+|t:|1776976663
+|switch|p2a: Kricketune|Kricketune, L99, M|312/312
+|move|p1a: Appletun|Apple Acid|p2a: Kricketune
+|-resisted|p2a: Kricketune
+|-damage|p2a: Kricketune|253/312
+|-unboost|p2a: Kricketune|spd|1
+|
+|upkeep
+|turn|7
+|
+|t:|1776976680
+|move|p2a: Kricketune|Sticky Web|p1a: Appletun
+|-sidestart|p1: Esdeathhx|move: Sticky Web
+|move|p1a: Appletun|Dragon Pulse|p2a: Kricketune
+|-damage|p2a: Kricketune|61/312
+|
+|upkeep
+|turn|8
+|
+|t:|1776976687
+|switch|p1a: Glaceon|Glaceon, L94, M|275/275
+|move|p2a: Kricketune|Pounce|p1a: Glaceon
+|-damage|p1a: Glaceon|197/275
+|-unboost|p1a: Glaceon|spe|1
+|
+|upkeep
+|turn|9
+|
+|t:|1776976701
+|switch|p2a: Forretress|Forretress, L84, M|263/263
+|move|p1a: Glaceon|Wish|p1a: Glaceon
+|
+|upkeep
+|turn|10
+|
+|t:|1776976717
+|switch|p1a: Okidogi|Okidogi, L77, M|262/262
+|-activate|p1a: Okidogi|move: Sticky Web
+|-unboost|p1a: Okidogi|spe|1
+|move|p2a: Forretress|Toxic Spikes|p1a: Okidogi
+|-sidestart|p1: Esdeathhx|move: Toxic Spikes
+|
+|upkeep
+|turn|11
+|
+|t:|1776976735
+|switch|p2a: Grumpig|Grumpig, L92, M|297/297
+|move|p1a: Okidogi|Bulk Up|p1a: Okidogi
+|-boost|p1a: Okidogi|atk|1
+|-boost|p1a: Okidogi|def|1
+|
+|upkeep
+|turn|12
+|
+|t:|1776976745
+|move|p2a: Grumpig|Trick|p1a: Okidogi
+|-activate|p2a: Grumpig|move: Trick|[of] p1a: Okidogi
+|-item|p1a: Okidogi|Choice Scarf|[from] move: Trick
+|-item|p2a: Grumpig|Leftovers|[from] move: Trick
+|move|p1a: Okidogi|Knock Off|p2a: Grumpig
+|-supereffective|p2a: Grumpig
+|-crit|p2a: Grumpig
+|-damage|p2a: Grumpig|0 fnt
+|-enditem|p2a: Grumpig|Leftovers|[from] move: Knock Off|[of] p1a: Okidogi
+|faint|p2a: Grumpig
+|
+|upkeep
+|
+|t:|1776976757
+|switch|p2a: Typhlosion|Typhlosion, L84, F, tera:Fire|267/267
+|turn|13
+|
+|t:|1776976766
+|move|p2a: Typhlosion|Eruption|p1a: Okidogi
+|-damage|p1a: Okidogi|0 fnt
+|faint|p1a: Okidogi
+|
+|upkeep
+|
+|t:|1776976786
+|switch|p1a: Suicune|Suicune, L82|298/298
+|-activate|p1a: Suicune|move: Sticky Web
+|-unboost|p1a: Suicune|spe|1
+|-status|p1a: Suicune|psn
+|-ability|p1a: Suicune|Pressure
+|turn|14
+|-message|Esdeathhx forfeited.
+|
+|win|drowyna
+|raw|Esdeathhx's rating: 1582 &rarr; <strong>1559</strong><br />(-23 for losing)
+|raw|drowyna's rating: 1523 &rarr; <strong>1546</strong><br />(+23 for winning)
+|l|☆Esdeathhx
+|player|p1|

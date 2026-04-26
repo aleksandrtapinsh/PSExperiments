@@ -1,0 +1,222 @@
+|j|☆mesagod
+|j|☆s_kxrr
+|t:|1776982873
+|gametype|singles
+|player|p1|mesagod|benga|1278
+|player|p2|s_kxrr|n|1228
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776982873
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Arceus|Arceus-Psychic, L69|280/280
+|switch|p2a: Flygon|Flygon, L82, M|265/265
+|turn|1
+|
+|t:|1776982884
+|move|p2a: Flygon|U-turn|p1a: Arceus
+|-supereffective|p1a: Arceus
+|-damage|p1a: Arceus|188/280
+|
+|t:|1776982915
+|switch|p2a: Hatterene|Hatterene, L85, F|236/236|[from] U-turn
+|move|p1a: Arceus|Stored Power|p2a: Hatterene
+|-resisted|p2a: Hatterene
+|-damage|p2a: Hatterene|227/236
+|
+|-heal|p2a: Hatterene|236/236|[from] item: Leftovers
+|upkeep
+|turn|2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by s_kxrr)
+|
+|t:|1776982937
+|move|p1a: Arceus|Cosmic Power|p1a: Arceus
+|-boost|p1a: Arceus|def|1
+|-boost|p1a: Arceus|spd|1
+|move|p2a: Hatterene|Calm Mind|p2a: Hatterene
+|-boost|p2a: Hatterene|spa|1
+|-boost|p2a: Hatterene|spd|1
+|
+|upkeep
+|turn|3
+|
+|t:|1776982945
+|move|p1a: Arceus|Cosmic Power|p1a: Arceus
+|-boost|p1a: Arceus|def|1
+|-boost|p1a: Arceus|spd|1
+|move|p2a: Hatterene|Calm Mind|p2a: Hatterene
+|-boost|p2a: Hatterene|spa|1
+|-boost|p2a: Hatterene|spd|1
+|
+|upkeep
+|turn|4
+|
+|t:|1776982948
+|move|p1a: Arceus|Cosmic Power|p1a: Arceus
+|-boost|p1a: Arceus|def|1
+|-boost|p1a: Arceus|spd|1
+|move|p2a: Hatterene|Calm Mind|p2a: Hatterene
+|-boost|p2a: Hatterene|spa|1
+|-boost|p2a: Hatterene|spd|1
+|
+|upkeep
+|turn|5
+|
+|t:|1776982950
+|move|p1a: Arceus|Cosmic Power|p1a: Arceus
+|-boost|p1a: Arceus|def|1
+|-boost|p1a: Arceus|spd|1
+|move|p2a: Hatterene|Calm Mind|p2a: Hatterene
+|-boost|p2a: Hatterene|spa|1
+|-boost|p2a: Hatterene|spd|1
+|
+|upkeep
+|turn|6
+|
+|t:|1776982954
+|move|p1a: Arceus|Cosmic Power|p1a: Arceus
+|-boost|p1a: Arceus|def|1
+|-boost|p1a: Arceus|spd|1
+|move|p2a: Hatterene|Calm Mind|p2a: Hatterene
+|-boost|p2a: Hatterene|spa|1
+|-boost|p2a: Hatterene|spd|1
+|
+|upkeep
+|turn|7
+|
+|t:|1776982958
+|-terastallize|p1a: Arceus|Steel
+|move|p1a: Arceus|Cosmic Power|p1a: Arceus
+|-boost|p1a: Arceus|def|1
+|-boost|p1a: Arceus|spd|1
+|move|p2a: Hatterene|Calm Mind|p2a: Hatterene
+|-boost|p2a: Hatterene|spa|1
+|-boost|p2a: Hatterene|spd|1
+|
+|upkeep
+|turn|8
+|c|☆s_kxrr|Lol
+|
+|t:|1776982976
+|move|p1a: Arceus|Stored Power|p2a: Hatterene
+|-resisted|p2a: Hatterene
+|-damage|p2a: Hatterene|209/236
+|move|p2a: Hatterene|Mystical Fire|p1a: Arceus
+|-supereffective|p1a: Arceus
+|-crit|p1a: Arceus
+|-damage|p1a: Arceus|0 fnt
+|faint|p1a: Arceus
+|
+|-heal|p2a: Hatterene|223/236|[from] item: Leftovers
+|upkeep
+|
+|t:|1776982987
+|switch|p1a: Bisharp|Bisharp, L79, M|232/232
+|turn|9
+|
+|t:|1776982997
+|move|p1a: Bisharp|Sucker Punch|p2a: Hatterene
+|-damage|p2a: Hatterene|151/236
+|move|p2a: Hatterene|Mystical Fire|p1a: Bisharp
+|-supereffective|p1a: Bisharp
+|-damage|p1a: Bisharp|0 fnt
+|faint|p1a: Bisharp
+|
+|-heal|p2a: Hatterene|165/236|[from] item: Leftovers
+|upkeep
+|
+|t:|1776983010
+|switch|p1a: Vileplume|Vileplume, L85, M|266/266
+|turn|10
+|
+|t:|1776983023
+|switch|p1a: Samurott|Samurott-Hisui, L77, M|265/265
+|move|p2a: Hatterene|Mystical Fire|p1a: Samurott
+|-resisted|p1a: Samurott
+|-damage|p1a: Samurott|73/265
+|-unboost|p1a: Samurott|spa|1
+|
+|-heal|p2a: Hatterene|179/236|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776983035
+|move|p1a: Samurott|Ceaseless Edge|p2a: Hatterene
+|-damage|p2a: Hatterene|66/236
+|-sidestart|p2: s_kxrr|Spikes
+|-damage|p1a: Samurott|47/265|[from] item: Life Orb
+|move|p2a: Hatterene|Draining Kiss|p1a: Samurott
+|-supereffective|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|-heal|p2a: Hatterene|101/236|[from] drain|[of] p1a: Samurott
+|faint|p1a: Samurott
+|
+|-heal|p2a: Hatterene|115/236|[from] item: Leftovers
+|upkeep
+|
+|t:|1776983048
+|switch|p1a: Donphan|Donphan, L84, F|288/288
+|turn|12
+|
+|t:|1776983054
+|move|p1a: Donphan|Knock Off|p2a: Hatterene
+|-damage|p2a: Hatterene|43/236
+|-enditem|p2a: Hatterene|Leftovers|[from] move: Knock Off|[of] p1a: Donphan
+|move|p2a: Hatterene|Draining Kiss|p1a: Donphan
+|-damage|p1a: Donphan|54/288
+|-heal|p2a: Hatterene|219/236|[from] drain|[of] p1a: Donphan
+|
+|upkeep
+|turn|13
+|
+|t:|1776983066
+|move|p1a: Donphan|Earthquake|p2a: Hatterene
+|-damage|p2a: Hatterene|105/236
+|move|p2a: Hatterene|Draining Kiss|p1a: Donphan
+|-damage|p1a: Donphan|0 fnt
+|-heal|p2a: Hatterene|146/236|[from] drain|[of] p1a: Donphan
+|faint|p1a: Donphan
+|
+|upkeep
+|
+|t:|1776983071
+|switch|p1a: Vileplume|Vileplume, L85, M|266/266
+|turn|14
+|
+|t:|1776983074
+|move|p1a: Vileplume|Sludge Bomb|p2a: Hatterene
+|-supereffective|p2a: Hatterene
+|-damage|p2a: Hatterene|98/236
+|move|p2a: Hatterene|Mystical Fire|p1a: Vileplume
+|-supereffective|p1a: Vileplume
+|-damage|p1a: Vileplume|0 fnt
+|faint|p1a: Vileplume
+|
+|upkeep
+|
+|t:|1776983076
+|switch|p1a: Glalie|Glalie, L96, M|309/309
+|turn|15
+|
+|t:|1776983082
+|move|p1a: Glalie|Taunt|p2a: Hatterene
+|move|p2a: Hatterene|Taunt|p1a: Glalie|[from] ability: Magic Bounce
+|-start|p1a: Glalie|move: Taunt
+|move|p2a: Hatterene|Mystical Fire|p1a: Glalie
+|-supereffective|p1a: Glalie
+|-damage|p1a: Glalie|0 fnt
+|faint|p1a: Glalie
+|
+|win|s_kxrr
+|raw|mesagod's rating: 1278 &rarr; <strong>1249</strong><br />(-29 for losing)
+|raw|s_kxrr's rating: 1228 &rarr; <strong>1257</strong><br />(+29 for winning)
+|l|☆mesagod
+|player|p1|
+|c|☆s_kxrr|Wow

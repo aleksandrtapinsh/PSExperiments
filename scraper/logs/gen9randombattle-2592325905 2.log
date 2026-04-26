@@ -1,0 +1,101 @@
+|j|☆LordOpossum
+|j|☆boats7
+|t:|1776979054
+|gametype|singles
+|player|p1|LordOpossum|clown|1235
+|player|p2|boats7|265|1248
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776979054
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Braviary|Braviary-Hisui, L85, M|326/326
+|switch|p2a: Minior|Minior-Orange, L79|224/224
+|-formechange|p2a: Minior|Minior-Meteor||[from] ability: Shields Down
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by boats7)
+|c|☆boats7|o dont you worry about me im just a lil rock
+|c|☆boats7|mindin my own business
+|
+|t:|1776979083
+|move|p1a: Braviary|Esper Wing|p2a: Minior
+|-damage|p2a: Minior|124/224
+|-boost|p1a: Braviary|spe|1
+|move|p2a: Minior|Shell Smash|p2a: Minior
+|-unboost|p2a: Minior|def|1
+|-unboost|p2a: Minior|spd|1
+|-boost|p2a: Minior|atk|2
+|-boost|p2a: Minior|spa|2
+|-boost|p2a: Minior|spe|2
+|-enditem|p2a: Minior|White Herb
+|-clearnegativeboost|p2a: Minior|[silent]
+|
+|upkeep
+|turn|2
+|c|☆boats7|hey dont do that
+|c|☆boats7|you smashed my shell
+|
+|t:|1776979099
+|move|p2a: Minior|Power Gem|p1a: Braviary
+|-supereffective|p1a: Braviary
+|-damage|p1a: Braviary|56/326
+|move|p1a: Braviary|Esper Wing|p2a: Minior
+|-damage|p2a: Minior|36/224
+|-boost|p1a: Braviary|spe|1
+|
+|-formechange|p2a: Minior|Minior-Orange||[from] ability: Shields Down
+|upkeep
+|turn|3
+|c|☆boats7|I SAID DONT DO THAT
+|
+|t:|1776979110
+|move|p2a: Minior|Power Gem|p1a: Braviary
+|-supereffective|p1a: Braviary
+|-damage|p1a: Braviary|0 fnt
+|faint|p1a: Braviary
+|
+|upkeep
+|
+|t:|1776979121
+|switch|p1a: Raging Bolt|Raging Bolt, L78|323/323
+|turn|4
+|
+|t:|1776979128
+|-terastallize|p2a: Minior|Ground
+|move|p1a: Raging Bolt|Thunderclap|p2a: Minior
+|-immune|p2a: Minior
+|move|p2a: Minior|Earthquake|p1a: Raging Bolt
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|0 fnt
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|c|☆boats7|CONSIDER THE CHEEKS CLAPPED
+|n|!boats7|boats7
+|
+|t:|1776979152
+|switch|p1a: Frosmoth|Frosmoth, L82, F|249/249
+|turn|5
+|
+|t:|1776979162
+|-terastallize|p1a: Frosmoth|Ground
+|move|p2a: Minior|Power Gem|p1a: Frosmoth
+|-resisted|p1a: Frosmoth
+|-damage|p1a: Frosmoth|209/249
+|move|p1a: Frosmoth|Ice Beam|p2a: Minior
+|-supereffective|p2a: Minior
+|-damage|p2a: Minior|0 fnt
+|faint|p2a: Minior
+|
+|upkeep
+|-message|LordOpossum forfeited.
+|
+|win|boats7

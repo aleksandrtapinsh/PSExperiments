@@ -1,0 +1,317 @@
+|j|☆AbilioBrunini
+|j|☆Hehdhdhdgghedhdhdd
+|t:|1776971615
+|gametype|singles
+|player|p1|AbilioBrunini|plasmagrunt|1118
+|player|p2|Hehdhdhdgghedhdhdd|102|1112
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776971615
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Heatran|Heatran, L79, F|273/273
+|switch|p2a: Golurk|Golurk, L87|297/297
+|-item|p1a: Heatran|Air Balloon
+|turn|1
+|
+|t:|1776971652
+|move|p1a: Heatran|Heavy Slam|p2a: Golurk
+|-damage|p2a: Golurk|257/297
+|move|p2a: Golurk|Dynamic Punch|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|29/273
+|-start|p1a: Heatran|confusion
+|-enditem|p1a: Heatran|Air Balloon
+|
+|upkeep
+|turn|2
+|
+|t:|1776971662
+|-activate|p1a: Heatran|confusion
+|-damage|p1a: Heatran|7/273|[from] confusion
+|move|p2a: Golurk|Dynamic Punch|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|upkeep
+|
+|t:|1776971682
+|switch|p1a: Phione|Phione, L91|293/293
+|turn|3
+|
+|t:|1776971691
+|switch|p2a: Garganacl|Garganacl, L80, F|291/291
+|move|p1a: Phione|Grass Knot|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|109/291
+|
+|-heal|p2a: Garganacl|127/291|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776971740
+|move|p2a: Garganacl|Protect|p2a: Garganacl
+|-singleturn|p2a: Garganacl|Protect
+|move|p1a: Phione|Grass Knot|p2a: Garganacl
+|-activate|p2a: Garganacl|move: Protect
+|
+|-heal|p2a: Garganacl|145/291|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776971764
+|-terastallize|p2a: Garganacl|Ghost
+|move|p1a: Phione|Grass Knot|p2a: Garganacl
+|-damage|p2a: Garganacl|55/291
+|move|p2a: Garganacl|Recover|p2a: Garganacl
+|-heal|p2a: Garganacl|201/291
+|
+|-heal|p2a: Garganacl|219/291|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776971794
+|move|p1a: Phione|Ice Beam|p2a: Garganacl
+|-damage|p2a: Garganacl|154/291
+|move|p2a: Garganacl|Salt Cure|p1a: Phione
+|-damage|p1a: Phione|251/293
+|-start|p1a: Phione|Salt Cure
+|
+|-heal|p1a: Phione|269/293|[from] item: Leftovers
+|-heal|p2a: Garganacl|172/291|[from] item: Leftovers
+|-damage|p1a: Phione|196/293|[from] Salt Cure
+|upkeep
+|turn|7
+|
+|t:|1776971802
+|move|p1a: Phione|Take Heart|p1a: Phione
+|-boost|p1a: Phione|spa|1
+|-boost|p1a: Phione|spd|1
+|move|p2a: Garganacl|Stealth Rock|p1a: Phione
+|-sidestart|p1: AbilioBrunini|move: Stealth Rock
+|
+|-heal|p1a: Phione|214/293|[from] item: Leftovers
+|-heal|p2a: Garganacl|190/291|[from] item: Leftovers
+|-damage|p1a: Phione|141/293|[from] Salt Cure
+|upkeep
+|turn|8
+|
+|t:|1776971813
+|move|p1a: Phione|Grass Knot|p2a: Garganacl
+|-damage|p2a: Garganacl|58/291
+|move|p2a: Garganacl|Recover|p2a: Garganacl
+|-heal|p2a: Garganacl|204/291
+|
+|-heal|p1a: Phione|159/293|[from] item: Leftovers
+|-heal|p2a: Garganacl|222/291|[from] item: Leftovers
+|-damage|p1a: Phione|86/293|[from] Salt Cure
+|upkeep
+|turn|9
+|
+|t:|1776971824
+|move|p2a: Garganacl|Protect|p2a: Garganacl
+|-singleturn|p2a: Garganacl|Protect
+|move|p1a: Phione|Grass Knot|p2a: Garganacl
+|-activate|p2a: Garganacl|move: Protect
+|
+|-heal|p1a: Phione|104/293|[from] item: Leftovers
+|-heal|p2a: Garganacl|240/291|[from] item: Leftovers
+|-damage|p1a: Phione|31/293|[from] Salt Cure
+|upkeep
+|turn|10
+|
+|t:|1776971830
+|move|p1a: Phione|Grass Knot|p2a: Garganacl
+|-damage|p2a: Garganacl|112/291
+|move|p2a: Garganacl|Recover|p2a: Garganacl
+|-heal|p2a: Garganacl|258/291
+|
+|-heal|p1a: Phione|49/293|[from] item: Leftovers
+|-heal|p2a: Garganacl|276/291|[from] item: Leftovers
+|-damage|p1a: Phione|0 fnt|[from] Salt Cure
+|faint|p1a: Phione
+|upkeep
+|
+|t:|1776971835
+|switch|p1a: Azelf|Azelf, L82|257/257
+|-damage|p1a: Azelf|225/257|[from] Stealth Rock
+|turn|11
+|
+|t:|1776971847
+|move|p1a: Azelf|Taunt|p2a: Garganacl
+|-start|p2a: Garganacl|move: Taunt
+|move|p2a: Garganacl|Salt Cure|p1a: Azelf
+|-crit|p1a: Azelf
+|-damage|p1a: Azelf|152/257
+|-start|p1a: Azelf|Salt Cure
+|
+|-heal|p2a: Garganacl|291/291|[from] item: Leftovers
+|-damage|p1a: Azelf|120/257|[from] Salt Cure
+|upkeep
+|turn|12
+|
+|t:|1776971856
+|move|p1a: Azelf|Fire Blast|p2a: Garganacl
+|-damage|p2a: Garganacl|181/291
+|-damage|p1a: Azelf|95/257|[from] item: Life Orb
+|move|p2a: Garganacl|Salt Cure|p1a: Azelf
+|-damage|p1a: Azelf|47/257
+|
+|-heal|p2a: Garganacl|199/291|[from] item: Leftovers
+|-damage|p1a: Azelf|15/257|[from] Salt Cure
+|upkeep
+|turn|13
+|
+|t:|1776971868
+|switch|p2a: Kleavor|Kleavor, L78, F|237/237
+|move|p1a: Azelf|Psychic|p2a: Kleavor
+|-damage|p2a: Kleavor|64/237
+|-damage|p1a: Azelf|0 fnt|[from] item: Life Orb
+|faint|p1a: Azelf
+|
+|upkeep
+|
+|t:|1776971877
+|switch|p1a: Munkidori|Munkidori, L79, M|269/269
+|-damage|p1a: Munkidori|236/269|[from] Stealth Rock
+|turn|14
+|
+|t:|1776971882
+|move|p1a: Munkidori|Psyshock|p2a: Kleavor
+|-damage|p2a: Kleavor|0 fnt
+|faint|p2a: Kleavor
+|-damage|p1a: Munkidori|210/269|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776971887
+|switch|p2a: Golurk|Golurk, L87|257/297
+|turn|15
+|
+|t:|1776971922
+|switch|p1a: Suicune|Suicune, L82|298/298
+|-damage|p1a: Suicune|261/298|[from] Stealth Rock
+|-ability|p1a: Suicune|Pressure
+|move|p2a: Golurk|Poltergeist|p1a: Suicune
+|-activate|p1a: Suicune|move: Poltergeist|Leftovers
+|-damage|p1a: Suicune|69/298
+|
+|-heal|p1a: Suicune|87/298|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776971932
+|move|p1a: Suicune|Rest|p1a: Suicune
+|-status|p1a: Suicune|slp|[from] move: Rest
+|-heal|p1a: Suicune|298/298 slp|[silent]
+|move|p2a: Golurk|Poltergeist|p1a: Suicune
+|-activate|p1a: Suicune|move: Poltergeist|Leftovers
+|-damage|p1a: Suicune|100/298 slp
+|
+|-heal|p1a: Suicune|118/298 slp|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1776971936
+|cant|p1a: Suicune|slp
+|move|p1a: Suicune|Sleep Talk|p1a: Suicune
+|move|p1a: Suicune|Calm Mind|p1a: Suicune|[from] move: Sleep Talk
+|-boost|p1a: Suicune|spa|1
+|-boost|p1a: Suicune|spd|1
+|move|p2a: Golurk|Poltergeist|p1a: Suicune
+|-activate|p1a: Suicune|move: Poltergeist|Leftovers
+|-damage|p1a: Suicune|0 fnt
+|faint|p1a: Suicune
+|
+|upkeep
+|
+|t:|1776971939
+|switch|p1a: Iron Hands|Iron Hands, L79|373/373
+|-damage|p1a: Iron Hands|350/373|[from] Stealth Rock
+|turn|18
+|
+|t:|1776971942
+|move|p2a: Golurk|Poltergeist|p1a: Iron Hands
+|-activate|p1a: Iron Hands|move: Poltergeist|Leftovers
+|-damage|p1a: Iron Hands|145/373
+|move|p1a: Iron Hands|Swords Dance|p1a: Iron Hands
+|-boost|p1a: Iron Hands|atk|2
+|
+|-heal|p1a: Iron Hands|168/373|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1776971959
+|move|p2a: Golurk|Poltergeist|p1a: Iron Hands
+|-activate|p1a: Iron Hands|move: Poltergeist|Leftovers
+|-damage|p1a: Iron Hands|0 fnt
+|faint|p1a: Iron Hands
+|-end|p1a: Iron Hands|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1776971962
+|switch|p1a: Munkidori|Munkidori, L79, M|210/269
+|-damage|p1a: Munkidori|177/269|[from] Stealth Rock
+|turn|20
+|
+|t:|1776971967
+|switch|p2a: Garganacl|Garganacl, L80, F, tera:Ghost|199/291
+|move|p1a: Munkidori|Psyshock|p2a: Garganacl
+|-damage|p2a: Garganacl|96/291
+|-damage|p1a: Munkidori|151/269|[from] item: Life Orb
+|
+|-heal|p2a: Garganacl|114/291|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1776971973
+|switch|p2a: Suicune|Suicune, L82|298/298
+|-ability|p2a: Suicune|Pressure
+|move|p1a: Munkidori|Psyshock|p2a: Suicune
+|-damage|p2a: Suicune|199/298
+|-damage|p1a: Munkidori|125/269|[from] item: Life Orb
+|
+|-heal|p2a: Suicune|217/298|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1776971988
+|switch|p2a: Kyurem|Kyurem-White, L73|303/303
+|-ability|p2a: Kyurem|Turboblaze
+|move|p1a: Munkidori|Psyshock|p2a: Kyurem
+|-damage|p2a: Kyurem|159/303
+|-damage|p1a: Munkidori|99/269|[from] item: Life Orb
+|
+|upkeep
+|turn|23
+|
+|t:|1776971994
+|switch|p2a: Zamazenta|Zamazenta, L71|248/248
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|-terastallize|p1a: Munkidori|Fighting
+|move|p1a: Munkidori|Focus Blast|p2a: Zamazenta
+|-damage|p2a: Zamazenta|63/248
+|-damage|p1a: Munkidori|73/269|[from] item: Life Orb
+|
+|-heal|p2a: Zamazenta|78/248|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1776972007
+|move|p2a: Zamazenta|Body Press|p1a: Munkidori
+|-damage|p1a: Munkidori|0 fnt
+|faint|p1a: Munkidori
+|
+|win|Hehdhdhdgghedhdhdd
+|raw|AbilioBrunini's rating: 1118 &rarr; <strong>1093</strong><br />(-25 for losing)
+|raw|Hehdhdhdgghedhdhdd's rating: 1112 &rarr; <strong>1137</strong><br />(+25 for winning)

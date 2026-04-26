@@ -1,0 +1,274 @@
+|j|☆sluuuuuuuuuuuuurp
+|j|☆Mihir1999
+|t:|1776973517
+|gametype|singles
+|player|p1|sluuuuuuuuuuuuurp|red|1472
+|player|p2|Mihir1999|1|1501
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776973517
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Pincurchin|Pincurchin, M|258/258
+|switch|p2a: Quaquaval|Quaquaval, L79, F|264/264
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Pincurchin
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by sluuuuuuuuuuuuurp)
+|
+|t:|1776973541
+|switch|p2a: Sinistcha|Sinistcha, L83|254/254
+|move|p1a: Pincurchin|Discharge|p2a: Sinistcha
+|-resisted|p2a: Sinistcha
+|-damage|p2a: Sinistcha|168/254
+|
+|-heal|p2a: Sinistcha|183/254|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776973548
+|move|p2a: Sinistcha|Calm Mind|p2a: Sinistcha
+|-boost|p2a: Sinistcha|spa|1
+|-boost|p2a: Sinistcha|spd|1
+|move|p1a: Pincurchin|Spikes|p2a: Sinistcha
+|-sidestart|p2: Mihir1999|Spikes
+|
+|-heal|p2a: Sinistcha|198/254|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776973557
+|move|p2a: Sinistcha|Matcha Gotcha|p1a: Pincurchin
+|-damage|p1a: Pincurchin|129/258
+|-heal|p2a: Sinistcha|254/254|[from] drain|[of] p1a: Pincurchin
+|move|p1a: Pincurchin|Spikes|p2a: Sinistcha
+|-sidestart|p2: Mihir1999|Spikes
+|
+|-heal|p1a: Pincurchin|145/258|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776973567
+|move|p2a: Sinistcha|Calm Mind|p2a: Sinistcha
+|-boost|p2a: Sinistcha|spa|1
+|-boost|p2a: Sinistcha|spd|1
+|move|p1a: Pincurchin|Spikes|p2a: Sinistcha
+|-sidestart|p2: Mihir1999|Spikes
+|
+|-heal|p1a: Pincurchin|161/258|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776973585
+|move|p2a: Sinistcha|Matcha Gotcha|p1a: Pincurchin
+|-damage|p1a: Pincurchin|0 fnt
+|faint|p1a: Pincurchin
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|
+|t:|1776973587
+|switch|p1a: Kricketune|Kricketune, L99, F|312/312
+|turn|6
+|
+|t:|1776973599
+|-terastallize|p2a: Sinistcha|Steel
+|move|p1a: Kricketune|Knock Off|p2a: Sinistcha
+|-crit|p2a: Sinistcha
+|-damage|p2a: Sinistcha|150/254
+|-enditem|p2a: Sinistcha|Leftovers|[from] move: Knock Off|[of] p1a: Kricketune
+|move|p2a: Sinistcha|Shadow Ball|p1a: Kricketune
+|-damage|p1a: Kricketune|47/312
+|
+|upkeep
+|turn|7
+|
+|t:|1776973608
+|move|p1a: Kricketune|Sticky Web|p2a: Sinistcha
+|-sidestart|p2: Mihir1999|move: Sticky Web
+|move|p2a: Sinistcha|Matcha Gotcha|p1a: Kricketune
+|-resisted|p1a: Kricketune
+|-damage|p1a: Kricketune|0 fnt
+|-heal|p2a: Sinistcha|174/254|[from] drain|[of] p1a: Kricketune
+|faint|p1a: Kricketune
+|
+|upkeep
+|
+|t:|1776973611
+|switch|p1a: Zacian|Zacian, L69|241/241
+|-ability|p1a: Zacian|Intrepid Sword|boost
+|-boost|p1a: Zacian|atk|1
+|turn|8
+|
+|t:|1776973617
+|move|p1a: Zacian|Close Combat|p2a: Sinistcha
+|-supereffective|p2a: Sinistcha
+|-damage|p2a: Sinistcha|0 fnt
+|-unboost|p1a: Zacian|def|1
+|-unboost|p1a: Zacian|spd|1
+|faint|p2a: Sinistcha
+|-damage|p1a: Zacian|217/241|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776973635
+|switch|p2a: Rotom|Rotom, L88|231/231
+|turn|9
+|
+|t:|1776973653
+|switch|p1a: Lycanroc|Lycanroc-Dusk, L81, M|254/254
+|move|p2a: Rotom|Will-O-Wisp|p1a: Lycanroc
+|-status|p1a: Lycanroc|brn
+|
+|-damage|p1a: Lycanroc|239/254 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1776973680
+|switch|p2a: Iron Crown|Iron Crown, L78|268/268
+|-damage|p2a: Iron Crown|201/268|[from] Spikes
+|-activate|p2a: Iron Crown|move: Sticky Web
+|-unboost|p2a: Iron Crown|spe|1
+|move|p1a: Lycanroc|Swords Dance|p1a: Lycanroc
+|-boost|p1a: Lycanroc|atk|2
+|
+|-damage|p1a: Lycanroc|224/254 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1776973688
+|move|p1a: Lycanroc|Close Combat|p2a: Iron Crown
+|-damage|p2a: Iron Crown|62/268
+|-unboost|p1a: Lycanroc|def|1
+|-unboost|p1a: Lycanroc|spd|1
+|-damage|p1a: Lycanroc|199/254 brn|[from] item: Life Orb
+|move|p2a: Iron Crown|Tachyon Cutter|p1a: Lycanroc
+|-supereffective|p1a: Lycanroc
+|-damage|p1a: Lycanroc|0 fnt
+|faint|p1a: Lycanroc
+|-hitcount|p1: Lycanroc|1
+|
+|upkeep
+|
+|t:|1776973703
+|switch|p1a: Conkeldurr|Conkeldurr, L80, M|299/299
+|turn|12
+|
+|t:|1776973709
+|move|p2a: Iron Crown|Tachyon Cutter|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|196/299
+|-damage|p1a: Conkeldurr|85/299
+|-hitcount|p1a: Conkeldurr|2
+|move|p1a: Conkeldurr|Knock Off|p2a: Iron Crown
+|-supereffective|p2a: Iron Crown
+|-damage|p2a: Iron Crown|0 fnt
+|-enditem|p2a: Iron Crown|Choice Specs|[from] move: Knock Off|[of] p1a: Conkeldurr
+|faint|p2a: Iron Crown
+|-end|p2a: Iron Crown|Quark Drive|[silent]
+|
+|-status|p1a: Conkeldurr|brn|[from] item: Flame Orb
+|upkeep
+|
+|t:|1776973720
+|switch|p2a: Quaquaval|Quaquaval, L79, F|264/264
+|-damage|p2a: Quaquaval|198/264|[from] Spikes
+|-activate|p2a: Quaquaval|move: Sticky Web
+|-unboost|p2a: Quaquaval|spe|1
+|turn|13
+|
+|t:|1776973726
+|move|p1a: Conkeldurr|Mach Punch|p2a: Quaquaval
+|-crit|p2a: Quaquaval
+|-damage|p2a: Quaquaval|69/264
+|move|p2a: Quaquaval|Aqua Step|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|0 fnt
+|-boost|p2a: Quaquaval|spe|1
+|faint|p1a: Conkeldurr
+|-ability|p2a: Quaquaval|Moxie|boost
+|-boost|p2a: Quaquaval|atk|1
+|
+|upkeep
+|
+|t:|1776973728
+|switch|p1a: Noivern|Noivern, L82, M|274/274
+|turn|14
+|
+|t:|1776973756
+|move|p1a: Noivern|Draco Meteor|p2a: Quaquaval
+|-crit|p2a: Quaquaval
+|-damage|p2a: Quaquaval|0 fnt
+|-unboost|p1a: Noivern|spa|2
+|faint|p2a: Quaquaval
+|
+|upkeep
+|
+|t:|1776973766
+|switch|p2a: Blastoise|Blastoise, L80, M|258/258
+|-damage|p2a: Blastoise|194/258|[from] Spikes
+|-activate|p2a: Blastoise|move: Sticky Web
+|-unboost|p2a: Blastoise|spe|1
+|-enditem|p2a: Blastoise|White Herb
+|-clearnegativeboost|p2a: Blastoise|[silent]
+|turn|15
+|
+|t:|1776973775
+|move|p1a: Noivern|Draco Meteor|p2a: Blastoise
+|-damage|p2a: Blastoise|100/258
+|-unboost|p1a: Noivern|spa|2
+|move|p2a: Blastoise|Shell Smash|p2a: Blastoise
+|-unboost|p2a: Blastoise|def|1
+|-unboost|p2a: Blastoise|spd|1
+|-boost|p2a: Blastoise|atk|2
+|-boost|p2a: Blastoise|spa|2
+|-boost|p2a: Blastoise|spe|2
+|
+|upkeep
+|turn|16
+|
+|t:|1776973781
+|move|p2a: Blastoise|Ice Beam|p1a: Noivern
+|-supereffective|p1a: Noivern
+|-damage|p1a: Noivern|0 fnt
+|faint|p1a: Noivern
+|
+|upkeep
+|
+|t:|1776973783
+|switch|p1a: Zacian|Zacian, L69|217/241
+|turn|17
+|
+|t:|1776973790
+|-terastallize|p1a: Zacian|Fighting
+|move|p2a: Blastoise|Hydro Pump|p1a: Zacian
+|-damage|p1a: Zacian|28/241
+|move|p1a: Zacian|Play Rough|p2a: Blastoise
+|-damage|p2a: Blastoise|0 fnt
+|faint|p2a: Blastoise
+|-damage|p1a: Zacian|4/241|[from] item: Life Orb
+|
+|upkeep
+|c|☆sluuuuuuuuuuuuurp|gg
+|
+|t:|1776973800
+|switch|p2a: Gurdurr|Gurdurr, L85, M|283/283
+|-damage|p2a: Gurdurr|213/283|[from] Spikes
+|-activate|p2a: Gurdurr|move: Sticky Web
+|-unboost|p2a: Gurdurr|spe|1
+|turn|18
+|
+|t:|1776973806
+|move|p2a: Gurdurr|Mach Punch|p1a: Zacian
+|-damage|p1a: Zacian|0 fnt
+|faint|p1a: Zacian
+|
+|win|Mihir1999
+|raw|sluuuuuuuuuuuuurp's rating: 1472 &rarr; <strong>1454</strong><br />(-18 for losing)
+|raw|Mihir1999's rating: 1501 &rarr; <strong>1519</strong><br />(+18 for winning)
+|l|☆sluuuuuuuuuuuuurp
+|player|p1|

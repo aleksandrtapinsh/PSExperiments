@@ -1,0 +1,164 @@
+|j|☆ProKameron
+|j|☆Oscar_Juarez
+|t:|1772747483
+|gametype|singles
+|player|p1|ProKameron|rhi|1216
+|player|p2|Oscar_Juarez|brock|1188
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772747483
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Bellibolt|Bellibolt, L84, F|320/320
+|switch|p2a: Arcanine|Arcanine, L84, F|288/288
+|-ability|p2a: Arcanine|Intimidate|boost
+|-unboost|p1a: Bellibolt|atk|1
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ProKameron)
+|inactive|ProKameron has 120 seconds left.
+|inactive|Oscar_Juarez has 120 seconds left.
+|
+|t:|1772747528
+|move|p2a: Arcanine|Will-O-Wisp|p1a: Bellibolt
+|-status|p1a: Bellibolt|brn
+|move|p1a: Bellibolt|Muddy Water|p2a: Arcanine
+|-supereffective|p2a: Arcanine
+|-damage|p2a: Arcanine|136/288
+|
+|-damage|p1a: Bellibolt|300/320 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1772747542
+|move|p2a: Arcanine|Morning Sun|p2a: Arcanine
+|-heal|p2a: Arcanine|280/288
+|move|p1a: Bellibolt|Muddy Water|p2a: Arcanine
+|-supereffective|p2a: Arcanine
+|-damage|p2a: Arcanine|142/288
+|
+|-heal|p1a: Bellibolt|320/320 brn|[from] item: Leftovers
+|-damage|p1a: Bellibolt|300/320 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1772747555
+|move|p2a: Arcanine|Morning Sun|p2a: Arcanine
+|-heal|p2a: Arcanine|286/288
+|move|p1a: Bellibolt|Toxic|p2a: Arcanine
+|-status|p2a: Arcanine|tox
+|
+|-heal|p1a: Bellibolt|320/320 brn|[from] item: Leftovers
+|-damage|p2a: Arcanine|268/288 tox|[from] psn
+|-damage|p1a: Bellibolt|300/320 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1772747568
+|switch|p2a: Zangoose|Zangoose, L85, F|263/263
+|move|p1a: Bellibolt|Muddy Water|p2a: Zangoose|[miss]
+|-miss|p1a: Bellibolt|p2a: Zangoose
+|
+|-heal|p1a: Bellibolt|320/320 brn|[from] item: Leftovers
+|-damage|p1a: Bellibolt|300/320 brn|[from] brn
+|-status|p2a: Zangoose|tox|[from] item: Toxic Orb
+|upkeep
+|turn|5
+|
+|t:|1772747582
+|move|p2a: Zangoose|Knock Off|p1a: Bellibolt
+|-damage|p1a: Bellibolt|177/320 brn
+|-start|p1a: Bellibolt|Charge|Knock Off|[from] ability: Electromorphosis
+|-enditem|p1a: Bellibolt|Leftovers|[from] move: Knock Off|[of] p2a: Zangoose
+|move|p1a: Bellibolt|Muddy Water|p2a: Zangoose
+|-damage|p2a: Zangoose|173/263 tox
+|
+|-damage|p2a: Zangoose|157/263 tox|[from] psn
+|-damage|p1a: Bellibolt|157/320 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1772747592
+|move|p2a: Zangoose|Facade|p1a: Bellibolt
+|-damage|p1a: Bellibolt|0 fnt
+|faint|p1a: Bellibolt
+|
+|-damage|p2a: Zangoose|125/263 tox|[from] psn
+|upkeep
+|
+|t:|1772747598
+|switch|p1a: Terrakion|Terrakion, L79|273/273
+|turn|7
+|
+|t:|1772747621
+|move|p1a: Terrakion|Earthquake|p2a: Zangoose
+|-damage|p2a: Zangoose|0 fnt
+|faint|p2a: Zangoose
+|
+|upkeep
+|inactive|Oscar_Juarez has 120 seconds left.
+|
+|t:|1772747637
+|switch|p2a: Arcanine|Arcanine, L84, F|268/288 tox
+|-ability|p2a: Arcanine|Intimidate|boost
+|-unboost|p1a: Terrakion|atk|1
+|turn|8
+|
+|t:|1772747644
+|switch|p2a: Skarmory|Skarmory, L80, F|235/235
+|move|p1a: Terrakion|Earthquake|p2a: Skarmory
+|-immune|p2a: Skarmory
+|
+|upkeep
+|turn|9
+|
+|t:|1772747651
+|switch|p1a: Rayquaza|Rayquaza, L72|270/270
+|-ability|p1a: Rayquaza|Air Lock
+|move|p2a: Skarmory|Stealth Rock|p1a: Rayquaza
+|-sidestart|p1: ProKameron|move: Stealth Rock
+|
+|upkeep
+|turn|10
+|inactive|Oscar_Juarez has 120 seconds left.
+|
+|t:|1772747672
+|switch|p2a: Arcanine|Arcanine, L84, F|268/288 tox
+|-ability|p2a: Arcanine|Intimidate|boost
+|-unboost|p1a: Rayquaza|atk|1
+|move|p1a: Rayquaza|Swords Dance|p1a: Rayquaza
+|-boost|p1a: Rayquaza|atk|2
+|
+|-damage|p2a: Arcanine|250/288 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1772747680
+|move|p2a: Arcanine|Will-O-Wisp|p1a: Rayquaza|[miss]
+|-miss|p2a: Arcanine|p1a: Rayquaza
+|move|p1a: Rayquaza|Earthquake|p2a: Arcanine
+|-supereffective|p2a: Arcanine
+|-damage|p2a: Arcanine|18/288 tox
+|
+|-damage|p2a: Arcanine|0 fnt|[from] psn
+|faint|p2a: Arcanine
+|upkeep
+|inactive|Oscar_Juarez has 120 seconds left.
+|inactive|Oscar_Juarez has 90 seconds left.
+|inactive|Oscar_Juarez has 60 seconds left.
+|inactive|Oscar_Juarez has 30 seconds left.
+|inactive|Oscar_Juarez has 20 seconds left.
+|inactive|Oscar_Juarez has 15 seconds left.
+|inactive|Oscar_Juarez has 10 seconds left.
+|inactive|Oscar_Juarez has 5 seconds left.
+|-message|Oscar_Juarez lost due to inactivity.
+|
+|win|ProKameron
+|raw|ProKameron's rating: 1216 &rarr; <strong>1239</strong><br />(+23 for winning)
+|raw|Oscar_Juarez's rating: 1188 &rarr; <strong>1165</strong><br />(-23 for losing)

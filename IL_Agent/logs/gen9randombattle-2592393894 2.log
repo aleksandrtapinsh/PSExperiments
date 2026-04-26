@@ -1,0 +1,370 @@
+|j|☆AyoLx
+|j|☆BrrbrrStonksInc
+|t:|1776985174
+|gametype|singles
+|player|p1|AyoLx|iono-masters|
+|player|p2|BrrbrrStonksInc|101|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776985174
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ursaluna|Ursaluna, L79, F|335/335
+|switch|p2a: Brute Bonnet|Brute Bonnet, L80|309/309
+|turn|1
+|j| 2litron
+|c| 2litron|same
+|c| 2litron|dit lui
+|c| 2litron|il est trop con votre pote
+|c|☆AyoLx|micro qui bug
+|c|☆BrrbrrStonksInc|Oe le
+|c|☆AyoLx|cmt veux tu que je comprenne
+|c|☆BrrbrrStonksInc|Et puis
+|c|☆BrrbrrStonksInc|Voilà
+|c|☆BrrbrrStonksInc|Les termes
+|c|☆BrrbrrStonksInc|J'ai tout dit poto
+|
+|t:|1776985254
+|switch|p1a: Blaziken|Blaziken, L76, F|247/247
+|move|p2a: Brute Bonnet|Spore|p1a: Blaziken
+|-status|p1a: Blaziken|slp|[from] move: Spore
+|
+|upkeep
+|turn|2
+|c|☆AyoLx|mdrrr fiouuuu
+|c|☆BrrbrrStonksInc|ALLEZ HOP
+|c|☆BrrbrrStonksInc|Je le fume citer
+|c|☆BrrbrrStonksInc|Vitef*
+|
+|t:|1776985294
+|-end|p2a: Brute Bonnet|Protosynthesis|[silent]
+|switch|p2a: Politoed|Politoed, L88, F|302/302
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Politoed
+|cant|p1a: Blaziken|slp
+|
+|-weather|RainDance|[upkeep]
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|3
+|
+|t:|1776985300
+|switch|p1a: Wo-Chien|Wo-Chien, L83|277/277
+|-ability|p1a: Wo-Chien|Tablets of Ruin
+|move|p2a: Politoed|Hydro Pump|p1a: Wo-Chien|[miss]
+|-miss|p2a: Politoed|p1a: Wo-Chien
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1776985330
+|move|p2a: Politoed|Ice Beam|p1a: Wo-Chien
+|-supereffective|p1a: Wo-Chien
+|-damage|p1a: Wo-Chien|183/277
+|move|p1a: Wo-Chien|Knock Off|p2a: Politoed
+|-damage|p2a: Politoed|203/302
+|-enditem|p2a: Politoed|Leftovers|[from] move: Knock Off|[of] p1a: Wo-Chien
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Wo-Chien|200/277|[from] item: Leftovers
+|upkeep
+|turn|5
+|c|☆AyoLx|c'était pas un specs
+|c|☆AyoLx|terrible
+|
+|t:|1776985352
+|switch|p2a: Abomasnow|Abomasnow, L84, F|287/287
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Abomasnow
+|move|p1a: Wo-Chien|Leech Seed|p2a: Abomasnow
+|-immune|p2a: Abomasnow
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Wo-Chien|217/277|[from] item: Leftovers
+|upkeep
+|turn|6
+|c|☆BrrbrrStonksInc|HOP HOP
+|
+|t:|1776985369
+|switch|p1a: Blaziken|Blaziken, L76, F|247/247 slp
+|move|p2a: Abomasnow|Aurora Veil|p2a: Abomasnow
+|-sidestart|p2: BrrbrrStonksInc|move: Aurora Veil
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1776985388
+|switch|p2a: Luxray|Luxray, L88, F|284/284
+|-ability|p2a: Luxray|Intimidate|boost
+|-unboost|p1a: Blaziken|atk|1
+|cant|p1a: Blaziken|slp
+|
+|-weather|Snowscape|[upkeep]
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|8
+|
+|t:|1776985415
+|-curestatus|p1a: Blaziken|slp|[msg]
+|move|p1a: Blaziken|Swords Dance|p1a: Blaziken
+|-boost|p1a: Blaziken|atk|2
+|move|p2a: Luxray|Volt Switch|p1a: Blaziken
+|-damage|p1a: Blaziken|139/247
+|
+|t:|1776985427
+|switch|p2a: Noivern|Noivern, L82, F|274/274|[from] Volt Switch
+|
+|-weather|Snowscape|[upkeep]
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|9
+|
+|t:|1776985444
+|move|p1a: Blaziken|Flare Blitz|p2a: Noivern
+|-resisted|p2a: Noivern
+|-damage|p2a: Noivern|202/274
+|-damage|p1a: Blaziken|115/247|[from] Recoil
+|-damage|p1a: Blaziken|91/247|[from] item: Life Orb
+|move|p2a: Noivern|Draco Meteor|p1a: Blaziken
+|-damage|p1a: Blaziken|0 fnt
+|-unboost|p2a: Noivern|spa|2
+|faint|p1a: Blaziken
+|
+|-weather|none
+|upkeep
+|c|☆AyoLx|bien fait de pas switch
+|
+|t:|1776985460
+|switch|p1a: Miraidon|Miraidon, L65|238/238
+|-fieldstart|move: Electric Terrain|[from] ability: Hadron Engine|[of] p1a: Miraidon
+|turn|10
+|c|☆BrrbrrStonksInc|Rah le
+|c|☆BrrbrrStonksInc|Je joue avec mon caca
+|c|☆BrrbrrStonksInc|Pendant que ça sort miraidon
+|
+|t:|1776985496
+|switch|p2a: Luxray|Luxray, L88, F|284/284
+|-ability|p2a: Luxray|Intimidate|boost
+|-unboost|p1a: Miraidon|atk|1
+|move|p1a: Miraidon|Calm Mind|p1a: Miraidon
+|-boost|p1a: Miraidon|spa|1
+|-boost|p1a: Miraidon|spd|1
+|
+|upkeep
+|turn|11
+|
+|t:|1776985516
+|move|p1a: Miraidon|Draco Meteor|p2a: Luxray
+|-damage|p2a: Luxray|192/284
+|-unboost|p1a: Miraidon|spa|2
+|-damage|p1a: Miraidon|215/238|[from] item: Life Orb
+|move|p2a: Luxray|Play Rough|p1a: Miraidon
+|-supereffective|p1a: Miraidon
+|-damage|p1a: Miraidon|21/238
+|
+|upkeep
+|turn|12
+|c|☆BrrbrrStonksInc|LE MONSTRE LUXRAY
+|c|☆AyoLx|décevant
+|c|☆AyoLx|j'avais oublié il avait un set av
+|
+|t:|1776985540
+|move|p1a: Miraidon|Draco Meteor|p2a: Luxray
+|-damage|p2a: Luxray|147/284
+|-unboost|p1a: Miraidon|spa|2
+|-damage|p1a: Miraidon|0 fnt|[from] item: Life Orb
+|faint|p1a: Miraidon
+|move|p2a: Luxray|Ice Fang|p1: Miraidon|[notarget]
+|-fail|p2a: Luxray
+|
+|upkeep
+|
+|t:|1776985546
+|switch|p1a: Ursaluna|Ursaluna, L79, F|335/335
+|turn|13
+|c|☆BrrbrrStonksInc|J'ai presque fini
+|
+|t:|1776985583
+|move|p2a: Luxray|Ice Fang|p1a: Ursaluna
+|-supereffective|p1a: Ursaluna
+|-damage|p1a: Ursaluna|221/335
+|move|p1a: Ursaluna|Trailblaze|p2a: Luxray
+|-damage|p2a: Luxray|124/284
+|-boost|p1a: Ursaluna|spe|1
+|
+|-sideend|p2: BrrbrrStonksInc|move: Aurora Veil
+|-status|p1a: Ursaluna|brn|[from] item: Flame Orb
+|upkeep
+|turn|14
+|
+|t:|1776985597
+|switch|p2a: Noivern|Noivern, L82, F|202/274
+|move|p1a: Ursaluna|Facade|p2a: Noivern
+|-damage|p2a: Noivern|0 fnt
+|faint|p2a: Noivern
+|
+|-damage|p1a: Ursaluna|201/335 brn|[from] brn
+|-fieldend|move: Electric Terrain
+|upkeep
+|
+|t:|1776985602
+|switch|p2a: Luxray|Luxray, L88, F|124/284
+|-ability|p2a: Luxray|Intimidate|boost
+|-unboost|p1a: Ursaluna|atk|1
+|turn|15
+|
+|t:|1776985613
+|move|p1a: Ursaluna|Facade|p2a: Luxray
+|-damage|p2a: Luxray|0 fnt
+|faint|p2a: Luxray
+|
+|-damage|p1a: Ursaluna|181/335 brn|[from] brn
+|upkeep
+|c|☆AyoLx|bon poké
+|
+|t:|1776985629
+|switch|p2a: Abomasnow|Abomasnow, L84, F|287/287
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Abomasnow
+|turn|16
+|
+|t:|1776985646
+|move|p1a: Ursaluna|Facade|p2a: Abomasnow
+|-damage|p2a: Abomasnow|148/287
+|move|p2a: Abomasnow|Aurora Veil|p2a: Abomasnow
+|-sidestart|p2: BrrbrrStonksInc|move: Aurora Veil
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p1a: Ursaluna|161/335 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1776985669
+|move|p1a: Ursaluna|Facade|p2a: Abomasnow
+|-damage|p2a: Abomasnow|79/287
+|move|p2a: Abomasnow|Blizzard|p1a: Ursaluna
+|-supereffective|p1a: Ursaluna
+|-damage|p1a: Ursaluna|0 fnt
+|faint|p1a: Ursaluna
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|j| Les2BG
+|
+|t:|1776985701
+|switch|p1a: Iron Moth|Iron Moth, L78|253/253
+|turn|18
+|c|☆BrrbrrStonksInc|Je passe la game a jouer avec mon caca pendant que ça sort des powerhouse ah le
+|
+|t:|1776985719
+|switch|p2a: Politoed|Politoed, L88, F|203/302
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Politoed
+|move|p1a: Iron Moth|Sludge Wave|p2a: Politoed
+|-damage|p2a: Politoed|152/302
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1776985732
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|switch|p1a: Wo-Chien|Wo-Chien, L83|217/277
+|-ability|p1a: Wo-Chien|Tablets of Ruin
+|switch|p2a: Abomasnow|Abomasnow, L84, F|79/287
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Abomasnow
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Wo-Chien|234/277|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1776985748
+|move|p1a: Wo-Chien|Protect|p1a: Wo-Chien
+|-singleturn|p1a: Wo-Chien|Protect
+|move|p2a: Abomasnow|Blizzard|p1a: Wo-Chien
+|-activate|p1a: Wo-Chien|move: Protect
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Wo-Chien|251/277|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1776985755
+|switch|p1a: Iron Moth|Iron Moth, L78|253/253
+|move|p2a: Abomasnow|Earthquake|p1a: Iron Moth
+|-supereffective|p1a: Iron Moth
+|-damage|p1a: Iron Moth|0 fnt
+|faint|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|c|☆BrrbrrStonksInc|Dehors la racaille
+|c|☆AyoLx|mdrrrrrr
+|c|☆AyoLx|ok mais
+|
+|t:|1776985772
+|switch|p1a: Greninja|Greninja, L80, M|246/246
+|turn|22
+|c|☆BrrbrrStonksInc|NAN MAKS AZY
+|c|☆AyoLx|le pire est que je vais juste perdre
+|
+|t:|1776985792
+|switch|p2a: Beartic|Beartic, L91, F|321/321
+|move|p1a: Greninja|Gunk Shot|p2a: Beartic|[miss]
+|-miss|p1a: Greninja|p2a: Beartic
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|23
+|
+|t:|1776985807
+|-terastallize|p1a: Greninja|Water
+|move|p2a: Beartic|Close Combat|p1a: Greninja
+|-damage|p1a: Greninja|87/246
+|-unboost|p2a: Beartic|def|1
+|-unboost|p2a: Beartic|spd|1
+|move|p1a: Greninja|Hydro Pump|p2a: Beartic
+|-damage|p2a: Beartic|187/321
+|-damage|p1a: Greninja|63/246|[from] item: Life Orb
+|
+|-weather|none
+|-sideend|p2: BrrbrrStonksInc|move: Aurora Veil
+|upkeep
+|turn|24
+|
+|t:|1776985828
+|switch|p2a: Brute Bonnet|Brute Bonnet, L80|309/309
+|move|p1a: Greninja|Gunk Shot|p2a: Brute Bonnet
+|-supereffective|p2a: Brute Bonnet
+|-damage|p2a: Brute Bonnet|114/309
+|-status|p2a: Brute Bonnet|psn
+|-damage|p1a: Greninja|39/246|[from] item: Life Orb
+|
+|-heal|p2a: Brute Bonnet|133/309 psn|[from] item: Leftovers
+|-damage|p2a: Brute Bonnet|95/309 psn|[from] psn
+|upkeep
+|turn|25
+|
+|t:|1776985834
+|move|p2a: Brute Bonnet|Sucker Punch|p1a: Greninja
+|-damage|p1a: Greninja|0 fnt
+|faint|p1a: Greninja
+|
+|-heal|p2a: Brute Bonnet|114/309 psn|[from] item: Leftovers
+|-damage|p2a: Brute Bonnet|76/309 psn|[from] psn
+|upkeep
+|-message|AyoLx forfeited.
+|
+|win|BrrbrrStonksInc
+|l|☆AyoLx
+|player|p1|
+|l| Les2BG

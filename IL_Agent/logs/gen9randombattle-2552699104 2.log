@@ -1,0 +1,211 @@
+|j|☆StephenHawkEmDown
+|j|☆GiveMeTheJuiceMyG
+|t:|1772744631
+|gametype|singles
+|player|p1|StephenHawkEmDown|giovanni|1318
+|player|p2|GiveMeTheJuiceMyG|swimmer-gen4|1369
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772744631
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Poliwrath|Poliwrath, L88, M|302/302
+|switch|p2a: Eiscue|Eiscue, L88, M|274/274
+|turn|1
+|
+|t:|1772744641
+|switch|p2a: Fezandipiti|Fezandipiti, L82, M|278/278
+|move|p1a: Poliwrath|Drain Punch|p2a: Fezandipiti
+|-resisted|p2a: Fezandipiti
+|-damage|p2a: Fezandipiti|253/278
+|
+|upkeep
+|turn|2
+|
+|t:|1772744658
+|switch|p1a: Metagross|Metagross, L79|256/256
+|move|p2a: Fezandipiti|Gunk Shot|p1a: Metagross
+|-immune|p1a: Metagross
+|
+|upkeep
+|turn|3
+|
+|t:|1772744674
+|switch|p2a: Solgaleo|Solgaleo, L74|325/325
+|move|p1a: Metagross|Agility|p1a: Metagross
+|-boost|p1a: Metagross|spe|2
+|
+|upkeep
+|turn|4
+|
+|t:|1772744686
+|move|p1a: Metagross|Earthquake|p2a: Solgaleo
+|-supereffective|p2a: Solgaleo
+|-damage|p2a: Solgaleo|161/325
+|move|p2a: Solgaleo|Roar|p1a: Metagross
+|drag|p1a: Delphox|Delphox, L84, M|263/263
+|
+|-heal|p2a: Solgaleo|181/325|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1772744697
+|-terastallize|p2a: Solgaleo|Water
+|move|p1a: Delphox|Fire Blast|p2a: Solgaleo
+|-resisted|p2a: Solgaleo
+|-damage|p2a: Solgaleo|64/325
+|move|p2a: Solgaleo|Morning Sun|p2a: Solgaleo
+|-heal|p2a: Solgaleo|226/325
+|
+|-heal|p2a: Solgaleo|246/325|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1772744708
+|switch|p1a: Brambleghast|Brambleghast, L88, F|240/240
+|move|p2a: Solgaleo|Sunsteel Strike|p1a: Brambleghast
+|-damage|p1a: Brambleghast|120/240
+|
+|-heal|p1a: Brambleghast|135/240|[from] item: Leftovers
+|-heal|p2a: Solgaleo|266/325|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1772744714
+|move|p1a: Brambleghast|Leech Seed|p2a: Solgaleo
+|-start|p2a: Solgaleo|move: Leech Seed
+|move|p2a: Solgaleo|Knock Off|p1a: Brambleghast
+|-supereffective|p1a: Brambleghast
+|-damage|p1a: Brambleghast|0 fnt
+|-enditem|p1a: Brambleghast|Leftovers|[from] move: Knock Off|[of] p2a: Solgaleo
+|faint|p1a: Brambleghast
+|
+|-heal|p2a: Solgaleo|286/325|[from] item: Leftovers
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by GiveMeTheJuiceMyG)
+|c|☆StephenHawkEmDown|damn u playing like shit
+|
+|t:|1772744727
+|switch|p1a: Golduck|Golduck, L90, F|290/290
+|-ability|p1a: Golduck|Cloud Nine
+|turn|8
+|
+|t:|1772744733
+|switch|p2a: Farigiraf|Farigiraf, L91, M|366/366
+|move|p1a: Golduck|Grass Knot|p2a: Farigiraf
+|-ability|p2a: Farigiraf|Sap Sipper|boost
+|-boost|p2a: Farigiraf|atk|1
+|
+|upkeep
+|turn|9
+|inactive|GiveMeTheJuiceMyG has 120 seconds left.
+|
+|t:|1772744777
+|switch|p1a: Metagross|Metagross, L79|256/256
+|move|p2a: Farigiraf|Wish|p2a: Farigiraf
+|
+|upkeep
+|turn|10
+|inactive|StephenHawkEmDown has 120 seconds left.
+|inactive|GiveMeTheJuiceMyG has 90 seconds left.
+|inactive|StephenHawkEmDown has 90 seconds left.
+|inactive|StephenHawkEmDown has 60 seconds left.
+|inactive|StephenHawkEmDown has 30 seconds left.
+|
+|t:|1772744901
+|move|p2a: Farigiraf|Body Slam|p1a: Metagross
+|-resisted|p1a: Metagross
+|-damage|p1a: Metagross|202/256
+|-status|p1a: Metagross|par
+|cant|p1a: Metagross|par
+|
+|upkeep
+|turn|11
+|inactive|StephenHawkEmDown has 30 seconds left.
+|inactive|GiveMeTheJuiceMyG has 60 seconds left.
+|inactive|GiveMeTheJuiceMyG has 30 seconds left.
+|
+|t:|1772744955
+|move|p2a: Farigiraf|Body Slam|p1a: Metagross
+|-resisted|p1a: Metagross
+|-damage|p1a: Metagross|142/256 par
+|move|p1a: Metagross|Earthquake|p2a: Farigiraf
+|-damage|p2a: Farigiraf|278/366
+|
+|-heal|p2a: Farigiraf|300/366|[from] item: Leftovers
+|upkeep
+|turn|12
+|inactive|StephenHawkEmDown has 30 seconds left.
+|inactive|StephenHawkEmDown has 20 seconds left.
+|
+|t:|1772744979
+|move|p2a: Farigiraf|Body Slam|p1a: Metagross
+|-resisted|p1a: Metagross
+|-damage|p1a: Metagross|79/256 par
+|move|p1a: Metagross|Earthquake|p2a: Farigiraf
+|-damage|p2a: Farigiraf|217/366
+|
+|-heal|p2a: Farigiraf|239/366|[from] item: Leftovers
+|upkeep
+|turn|13
+|inactive|StephenHawkEmDown has 30 seconds left this turn.
+|j|@a fairy
+|c|@a fairy|/log StephenHawkEmDown was warned by a fairy. (don't be insulting in battle)
+|hidelines|unlink|stephenhawkemdown
+|c|~|/raw If you have questions about this action, please contact staff by making a <a href="view-help-request" class="button">help ticket</a>
+|l|@a fairy
+|inactive|GiveMeTheJuiceMyG has 30 seconds left.
+|
+|t:|1772744995
+|switch|p1a: Golduck|Golduck, L90, F|290/290
+|-ability|p1a: Golduck|Cloud Nine
+|move|p2a: Farigiraf|Protect||[still]
+|-fail|p2a: Farigiraf
+|
+|-heal|p2a: Farigiraf|261/366|[from] item: Leftovers
+|upkeep
+|turn|14
+|inactive|StephenHawkEmDown has 30 seconds left.
+|c|☆StephenHawkEmDown|no way u reported me lol
+|
+|t:|1772745006
+|move|p1a: Golduck|Hydro Pump|p2a: Farigiraf
+|-damage|p2a: Farigiraf|26/366
+|move|p2a: Farigiraf|Wish|p2a: Farigiraf
+|
+|-heal|p2a: Farigiraf|48/366|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1772745012
+|move|p2a: Farigiraf|Protect|p2a: Farigiraf
+|-singleturn|p2a: Farigiraf|Protect
+|move|p1a: Golduck|Hydro Pump|p2a: Farigiraf
+|-activate|p2a: Farigiraf|move: Protect
+|
+|-heal|p2a: Farigiraf|231/366|[from] move: Wish|[wisher] Farigiraf
+|-heal|p2a: Farigiraf|253/366|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1772745017
+|move|p1a: Golduck|Hydro Pump|p2a: Farigiraf
+|-damage|p2a: Farigiraf|25/366
+|move|p2a: Farigiraf|Body Slam|p1a: Golduck
+|-crit|p1a: Golduck
+|-damage|p1a: Golduck|64/290
+|-status|p1a: Golduck|par
+|
+|-heal|p2a: Farigiraf|47/366|[from] item: Leftovers
+|upkeep
+|turn|17
+|-message|StephenHawkEmDown forfeited.
+|
+|win|GiveMeTheJuiceMyG

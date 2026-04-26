@@ -1,0 +1,306 @@
+|j|☆nlkjnlknlkn
+|j|☆thundernetic
+|t:|1776983156
+|gametype|singles
+|player|p1|nlkjnlknlkn|depotagent|1106
+|player|p2|thundernetic|bruno|1116
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776983156
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Golurk|Golurk, L87|297/297
+|switch|p2a: Eelektross|Eelektross, L87, F|290/290
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by thundernetic)
+|
+|t:|1776983182
+|switch|p2a: Lilligant|Lilligant, L86, F|261/261
+|move|p1a: Golurk|Stealth Rock|p2a: Lilligant
+|-sidestart|p2: thundernetic|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1776983196
+|switch|p1a: Copperajah|Copperajah, L86, M|349/349
+|move|p2a: Lilligant|Giga Drain|p1a: Copperajah
+|-resisted|p1a: Copperajah
+|-damage|p1a: Copperajah|280/349
+|-damage|p2a: Lilligant|235/261|[from] item: Life Orb
+|
+|upkeep
+|turn|3
+|
+|t:|1776983218
+|switch|p2a: Veluza|Veluza, L85, M|292/292
+|-damage|p2a: Veluza|256/292|[from] Stealth Rock
+|move|p1a: Copperajah|Heat Crash|p2a: Veluza
+|-resisted|p2a: Veluza
+|-damage|p2a: Veluza|160/292
+|
+|upkeep
+|turn|4
+|
+|t:|1776983232
+|switch|p1a: Arbok|Arbok, L87, F|246/246
+|-ability|p1a: Arbok|Intimidate|boost
+|-unboost|p2a: Veluza|atk|1
+|move|p2a: Veluza|Night Slash|p1a: Arbok
+|-damage|p1a: Arbok|161/246
+|
+|-heal|p1a: Arbok|176/246|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776983251
+|switch|p1a: Golurk|Golurk, L87|297/297
+|switch|p2a: Lilligant|Lilligant, L86, F|235/261
+|-damage|p2a: Lilligant|203/261|[from] Stealth Rock
+|
+|upkeep
+|turn|6
+|
+|t:|1776983260
+|move|p2a: Lilligant|Giga Drain|p1a: Golurk
+|-supereffective|p1a: Golurk
+|-damage|p1a: Golurk|37/297
+|-heal|p2a: Lilligant|261/261|[from] drain|[of] p1a: Golurk
+|-damage|p2a: Lilligant|235/261|[from] item: Life Orb
+|move|p1a: Golurk|Poltergeist|p2a: Lilligant
+|-activate|p2a: Lilligant|move: Poltergeist|Life Orb
+|-damage|p2a: Lilligant|28/261
+|-damage|p1a: Golurk|8/297|[from] item: Life Orb
+|
+|upkeep
+|turn|7
+|
+|t:|1776983269
+|move|p2a: Lilligant|Giga Drain|p1a: Golurk
+|-supereffective|p1a: Golurk
+|-damage|p1a: Golurk|0 fnt
+|-heal|p2a: Lilligant|32/261|[from] drain|[of] p1a: Golurk
+|faint|p1a: Golurk
+|-damage|p2a: Lilligant|6/261|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776983281
+|switch|p1a: Wigglytuff|Wigglytuff, L96, F|424/424
+|turn|8
+|
+|t:|1776983285
+|move|p2a: Lilligant|Giga Drain|p1a: Wigglytuff
+|-damage|p1a: Wigglytuff|268/424
+|-heal|p2a: Lilligant|84/261|[from] drain|[of] p1a: Wigglytuff
+|-damage|p2a: Lilligant|58/261|[from] item: Life Orb
+|move|p1a: Wigglytuff|Dazzling Gleam|p2a: Lilligant
+|-damage|p2a: Lilligant|0 fnt
+|faint|p2a: Lilligant
+|
+|-heal|p1a: Wigglytuff|294/424|[from] item: Leftovers
+|upkeep
+|
+|t:|1776983295
+|switch|p2a: Flamigo|Flamigo, L82, F|269/269
+|-damage|p2a: Flamigo|236/269|[from] Stealth Rock
+|turn|9
+|
+|t:|1776983303
+|move|p2a: Flamigo|Swords Dance|p2a: Flamigo
+|-boost|p2a: Flamigo|atk|2
+|move|p1a: Wigglytuff|Dazzling Gleam|p2a: Flamigo
+|-supereffective|p2a: Flamigo
+|-damage|p2a: Flamigo|0 fnt
+|faint|p2a: Flamigo
+|
+|-heal|p1a: Wigglytuff|320/424|[from] item: Leftovers
+|upkeep
+|
+|t:|1776983311
+|switch|p2a: Eelektross|Eelektross, L87, F|290/290
+|-damage|p2a: Eelektross|254/290|[from] Stealth Rock
+|turn|10
+|
+|t:|1776983316
+|move|p1a: Wigglytuff|Protect|p1a: Wigglytuff
+|-singleturn|p1a: Wigglytuff|Protect
+|move|p2a: Eelektross|Supercell Slam|p1a: Wigglytuff
+|-activate|p1a: Wigglytuff|move: Protect
+|-damage|p2a: Eelektross|109/290|[from] supercellslam
+|
+|-heal|p1a: Wigglytuff|346/424|[from] item: Leftovers
+|-heal|p2a: Eelektross|127/290|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776983323
+|move|p1a: Wigglytuff|Dazzling Gleam|p2a: Eelektross
+|-damage|p2a: Eelektross|27/290
+|move|p2a: Eelektross|Coil|p2a: Eelektross
+|-boost|p2a: Eelektross|atk|1
+|-boost|p2a: Eelektross|def|1
+|-boost|p2a: Eelektross|accuracy|1
+|
+|-heal|p1a: Wigglytuff|372/424|[from] item: Leftovers
+|-heal|p2a: Eelektross|45/290|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776983333
+|move|p1a: Wigglytuff|Dazzling Gleam|p2a: Eelektross
+|-damage|p2a: Eelektross|0 fnt
+|faint|p2a: Eelektross
+|
+|-heal|p1a: Wigglytuff|398/424|[from] item: Leftovers
+|upkeep
+|
+|t:|1776983339
+|switch|p2a: Veluza|Veluza, L85, M|160/292
+|-damage|p2a: Veluza|124/292|[from] Stealth Rock
+|turn|13
+|
+|t:|1776983347
+|move|p2a: Veluza|Psycho Cut|p1a: Wigglytuff
+|-damage|p1a: Wigglytuff|167/424
+|move|p1a: Wigglytuff|Knock Off|p2a: Veluza
+|-supereffective|p2a: Veluza
+|-damage|p2a: Veluza|0 fnt
+|-enditem|p2a: Veluza|Choice Band|[from] move: Knock Off|[of] p1a: Wigglytuff
+|faint|p2a: Veluza
+|
+|-heal|p1a: Wigglytuff|193/424|[from] item: Leftovers
+|upkeep
+|
+|t:|1776983353
+|switch|p2a: Grumpig|Grumpig, L92, F|297/297
+|-damage|p2a: Grumpig|260/297|[from] Stealth Rock
+|turn|14
+|
+|t:|1776983361
+|move|p2a: Grumpig|Focus Blast|p1a: Wigglytuff
+|-damage|p1a: Wigglytuff|68/424
+|move|p1a: Wigglytuff|Wish|p1a: Wigglytuff
+|
+|-heal|p2a: Grumpig|278/297|[from] item: Leftovers
+|-heal|p1a: Wigglytuff|94/424|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1776983371
+|move|p1a: Wigglytuff|Protect|p1a: Wigglytuff
+|-singleturn|p1a: Wigglytuff|Protect
+|move|p2a: Grumpig|Psyshock|p1a: Wigglytuff
+|-activate|p1a: Wigglytuff|move: Protect
+|
+|-heal|p1a: Wigglytuff|306/424|[from] move: Wish|[wisher] Wigglytuff
+|-heal|p2a: Grumpig|296/297|[from] item: Leftovers
+|-heal|p1a: Wigglytuff|332/424|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776983379
+|move|p2a: Grumpig|Psyshock|p1a: Wigglytuff
+|-damage|p1a: Wigglytuff|205/424
+|move|p1a: Wigglytuff|Knock Off|p2a: Grumpig
+|-supereffective|p2a: Grumpig
+|-damage|p2a: Grumpig|130/297
+|-enditem|p2a: Grumpig|Leftovers|[from] move: Knock Off|[of] p1a: Wigglytuff
+|
+|-heal|p1a: Wigglytuff|231/424|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1776983387
+|-terastallize|p2a: Grumpig|Fighting
+|move|p2a: Grumpig|Focus Blast|p1a: Wigglytuff
+|-damage|p1a: Wigglytuff|57/424
+|move|p1a: Wigglytuff|Dazzling Gleam|p2a: Grumpig
+|-supereffective|p2a: Grumpig
+|-damage|p2a: Grumpig|0 fnt
+|faint|p2a: Grumpig
+|
+|-heal|p1a: Wigglytuff|83/424|[from] item: Leftovers
+|upkeep
+|
+|t:|1776983397
+|switch|p2a: Gliscor|Gliscor, L76, F|239/239
+|-damage|p2a: Gliscor|210/239|[from] Stealth Rock
+|turn|18
+|
+|t:|1776983401
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Wigglytuff|Wish|p1a: Wigglytuff
+|
+|-heal|p1a: Wigglytuff|109/424|[from] item: Leftovers
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|19
+|
+|t:|1776983407
+|move|p1a: Wigglytuff|Protect|p1a: Wigglytuff
+|-singleturn|p1a: Wigglytuff|Protect
+|move|p2a: Gliscor|Earthquake|p1a: Wigglytuff
+|-activate|p1a: Wigglytuff|move: Protect
+|
+|-heal|p1a: Wigglytuff|321/424|[from] move: Wish|[wisher] Wigglytuff
+|-heal|p1a: Wigglytuff|347/424|[from] item: Leftovers
+|-heal|p2a: Gliscor|239/239 tox|[from] ability: Poison Heal
+|upkeep
+|turn|20
+|
+|t:|1776983412
+|move|p2a: Gliscor|Earthquake|p1a: Wigglytuff
+|-damage|p1a: Wigglytuff|232/424
+|move|p1a: Wigglytuff|Dazzling Gleam|p2a: Gliscor
+|-damage|p2a: Gliscor|113/239 tox
+|
+|-heal|p1a: Wigglytuff|258/424|[from] item: Leftovers
+|-heal|p2a: Gliscor|142/239 tox|[from] ability: Poison Heal
+|upkeep
+|turn|21
+|
+|t:|1776983418
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Wigglytuff|Wish|p1a: Wigglytuff
+|
+|-heal|p1a: Wigglytuff|284/424|[from] item: Leftovers
+|-heal|p2a: Gliscor|171/239 tox|[from] ability: Poison Heal
+|upkeep
+|turn|22
+|
+|t:|1776983425
+|move|p2a: Gliscor|Knock Off|p1a: Wigglytuff
+|-resisted|p1a: Wigglytuff
+|-crit|p1a: Wigglytuff
+|-damage|p1a: Wigglytuff|227/424
+|-enditem|p1a: Wigglytuff|Leftovers|[from] move: Knock Off|[of] p2a: Gliscor
+|move|p1a: Wigglytuff|Dazzling Gleam|p2a: Gliscor
+|-damage|p2a: Gliscor|39/239 tox
+|
+|-heal|p1a: Wigglytuff|424/424|[from] move: Wish|[wisher] Wigglytuff
+|-heal|p2a: Gliscor|68/239 tox|[from] ability: Poison Heal
+|upkeep
+|turn|23
+|
+|t:|1776983433
+|move|p2a: Gliscor|Earthquake|p1a: Wigglytuff
+|-damage|p1a: Wigglytuff|295/424
+|move|p1a: Wigglytuff|Dazzling Gleam|p2a: Gliscor
+|-damage|p2a: Gliscor|0 fnt
+|faint|p2a: Gliscor
+|
+|win|nlkjnlknlkn
+|raw|nlkjnlknlkn's rating: 1106 &rarr; <strong>1132</strong><br />(+26 for winning)
+|raw|thundernetic's rating: 1116 &rarr; <strong>1090</strong><br />(-26 for losing)
+|l|☆thundernetic
+|player|p2|

@@ -1,0 +1,509 @@
+|j|☆jafuiw
+|j|☆Itry10times
+|t:|1776969075
+|gametype|singles
+|player|p1|jafuiw|169|1238
+|player|p2|Itry10times|benga|1213
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776969075
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Dipplin|Dipplin, L88, M|284/284
+|switch|p2a: Pecharunt|Pecharunt, L77|262/262
+|turn|1
+|
+|t:|1776969106
+|-terastallize|p1a: Dipplin|Steel
+|move|p1a: Dipplin|Sucker Punch|p2a: Pecharunt
+|-supereffective|p2a: Pecharunt
+|-damage|p2a: Pecharunt|198/262
+|move|p2a: Pecharunt|Malignant Chain|p1a: Dipplin
+|-immune|p1a: Dipplin
+|
+|-heal|p2a: Pecharunt|214/262|[from] item: Leftovers
+|upkeep
+|turn|2
+|c|☆Itry10times|o
+|
+|t:|1776969125
+|move|p1a: Dipplin|Sucker Punch||[still]
+|-fail|p1a: Dipplin
+|move|p2a: Pecharunt|Parting Shot|p1a: Dipplin
+|-unboost|p1a: Dipplin|atk|1
+|-unboost|p1a: Dipplin|spa|1
+|c|☆Itry10times|rip tera
+|c|☆Itry10times|turn 1 tera is barely the play my friend
+|
+|t:|1776969142
+|switch|p2a: Iron Hands|Iron Hands, L79|373/373|[from] Parting Shot
+|
+|upkeep
+|turn|3
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Itry10times)
+|
+|t:|1776969189
+|switch|p1a: Uxie|Uxie, L83|260/260
+|move|p2a: Iron Hands|Swords Dance|p2a: Iron Hands
+|-boost|p2a: Iron Hands|atk|2
+|
+|upkeep
+|turn|4
+|
+|t:|1776969210
+|move|p1a: Uxie|Psychic Noise|p2a: Iron Hands
+|-supereffective|p2a: Iron Hands
+|-damage|p2a: Iron Hands|197/373
+|-start|p2a: Iron Hands|move: Heal Block
+|move|p2a: Iron Hands|Wild Charge|p1a: Uxie
+|-damage|p1a: Uxie|92/260
+|-damage|p2a: Iron Hands|155/373|[from] Recoil
+|
+|-heal|p1a: Uxie|108/260|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776969231
+|-end|p2a: Iron Hands|Quark Drive|[silent]
+|switch|p2a: Espeon|Espeon, L84, F|246/246
+|move|p1a: Uxie|Psychic Noise|p2a: Espeon
+|-resisted|p2a: Espeon
+|-damage|p2a: Espeon|216/246
+|-start|p2a: Espeon|move: Heal Block
+|
+|-heal|p1a: Uxie|124/260|[from] item: Leftovers
+|upkeep
+|turn|6
+|inactive|jafuiw has 120 seconds left.
+|
+|t:|1776969278
+|move|p2a: Espeon|Calm Mind|p2a: Espeon
+|-boost|p2a: Espeon|spa|1
+|-boost|p2a: Espeon|spd|1
+|move|p1a: Uxie|U-turn|p2a: Espeon
+|-supereffective|p2a: Espeon
+|-damage|p2a: Espeon|106/246
+|inactive|jafuiw has 90 seconds left.
+|
+|t:|1776969302
+|switch|p1a: Garganacl|Garganacl, L80, F|291/291|[from] U-turn
+|
+|-end|p2a: Espeon|move: Heal Block
+|upkeep
+|turn|7
+|
+|t:|1776969322
+|move|p2a: Espeon|Psyshock|p1a: Garganacl
+|-damage|p1a: Garganacl|138/291
+|-damage|p2a: Espeon|82/246|[from] item: Life Orb
+|move|p1a: Garganacl|Iron Defense|p1a: Garganacl
+|-boost|p1a: Garganacl|def|2
+|
+|-heal|p1a: Garganacl|156/291|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776969327
+|move|p2a: Espeon|Psyshock|p1a: Garganacl
+|-damage|p1a: Garganacl|78/291
+|-damage|p2a: Espeon|58/246|[from] item: Life Orb
+|move|p1a: Garganacl|Recover|p1a: Garganacl
+|-heal|p1a: Garganacl|224/291
+|
+|-heal|p1a: Garganacl|242/291|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776969334
+|move|p2a: Espeon|Alluring Voice|p1a: Garganacl
+|-damage|p1a: Garganacl|93/291
+|-damage|p2a: Espeon|34/246|[from] item: Life Orb
+|move|p1a: Garganacl|Iron Defense|p1a: Garganacl
+|-boost|p1a: Garganacl|def|2
+|
+|-heal|p1a: Garganacl|111/291|[from] item: Leftovers
+|upkeep
+|turn|10
+|inactive|jafuiw has 90 seconds left.
+|
+|t:|1776969341
+|move|p2a: Espeon|Alluring Voice|p1a: Garganacl
+|-damage|p1a: Garganacl|0 fnt
+|faint|p1a: Garganacl
+|-damage|p2a: Espeon|10/246|[from] item: Life Orb
+|
+|upkeep
+|inactive|jafuiw has 90 seconds left.
+|
+|t:|1776969347
+|switch|p1a: Uxie|Uxie, L83|124/260
+|turn|11
+|
+|t:|1776969350
+|move|p2a: Espeon|Alluring Voice|p1a: Uxie
+|-damage|p1a: Uxie|12/260
+|-damage|p2a: Espeon|0 fnt|[from] item: Life Orb
+|faint|p2a: Espeon
+|move|p1a: Uxie|U-turn|p2: Espeon|[notarget]
+|-fail|p1a: Uxie
+|
+|-heal|p1a: Uxie|28/260|[from] item: Leftovers
+|upkeep
+|
+|t:|1776969356
+|switch|p2a: Delibird|Delibird, F|252/252
+|turn|12
+|
+|t:|1776969372
+|move|p2a: Delibird|Freeze-Dry|p1a: Uxie
+|-damage|p1a: Uxie|0 fnt
+|faint|p1a: Uxie
+|
+|upkeep
+|inactive|jafuiw has 90 seconds left.
+|
+|t:|1776969394
+|switch|p1a: Florges|Florges, L85, F|271/271
+|turn|13
+|inactive|jafuiw has 90 seconds left.
+|
+|t:|1776969403
+|move|p2a: Delibird|Freeze-Dry|p1a: Florges
+|-damage|p1a: Florges|225/271
+|-status|p1a: Florges|frz
+|cant|p1a: Florges|frz
+|
+|-heal|p1a: Florges|241/271 frz|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1776969410
+|move|p2a: Delibird|Brave Bird|p1a: Florges
+|-damage|p1a: Florges|102/271 frz
+|-damage|p2a: Delibird|206/252|[from] Recoil
+|cant|p1a: Florges|frz
+|
+|-heal|p1a: Florges|118/271 frz|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1776969418
+|move|p2a: Delibird|Brave Bird|p1a: Florges
+|-damage|p1a: Florges|0 fnt
+|faint|p1a: Florges
+|-damage|p2a: Delibird|167/252|[from] Recoil
+|
+|upkeep
+|inactive|jafuiw has 90 seconds left.
+|
+|t:|1776969434
+|switch|p1a: Rotom|Rotom-Mow, L87|229/229
+|turn|16
+|
+|t:|1776969443
+|move|p1a: Rotom|Thunderbolt|p2a: Delibird
+|-supereffective|p2a: Delibird
+|-damage|p2a: Delibird|0 fnt
+|faint|p2a: Delibird
+|
+|upkeep
+|
+|t:|1776969447
+|switch|p2a: Piloswine|Piloswine, L85, F|309/309
+|turn|17
+|inactive|jafuiw has 90 seconds left.
+|
+|t:|1776969470
+|switch|p1a: Dipplin|Dipplin, L88, M, tera:Steel|284/284
+|move|p2a: Piloswine|Icicle Crash|p1a: Dipplin
+|-resisted|p1a: Dipplin
+|-damage|p1a: Dipplin|257/284
+|
+|upkeep
+|turn|18
+|
+|t:|1776969478
+|move|p2a: Piloswine|Earthquake|p1a: Dipplin
+|-supereffective|p1a: Dipplin
+|-damage|p1a: Dipplin|141/284
+|move|p1a: Dipplin|Giga Drain|p2a: Piloswine
+|-supereffective|p2a: Piloswine
+|-damage|p2a: Piloswine|169/309
+|-heal|p1a: Dipplin|211/284|[from] drain|[of] p2a: Piloswine
+|
+|upkeep
+|turn|19
+|
+|t:|1776969484
+|move|p1a: Dipplin|Giga Drain|p2a: Piloswine
+|-supereffective|p2a: Piloswine
+|-crit|p2a: Piloswine
+|-damage|p2a: Piloswine|0 fnt
+|-heal|p1a: Dipplin|284/284|[from] drain|[of] p2a: Piloswine
+|faint|p2a: Piloswine
+|
+|upkeep
+|
+|t:|1776969487
+|switch|p2a: Iron Hands|Iron Hands, L79|155/373
+|turn|20
+|
+|t:|1776969500
+|move|p2a: Iron Hands|Drain Punch|p1a: Dipplin
+|-supereffective|p1a: Dipplin
+|-damage|p1a: Dipplin|176/284
+|-heal|p2a: Iron Hands|209/373|[from] drain|[of] p1a: Dipplin
+|move|p1a: Dipplin|Giga Drain|p2a: Iron Hands
+|-damage|p2a: Iron Hands|98/373
+|-heal|p1a: Dipplin|232/284|[from] drain|[of] p2a: Iron Hands
+|
+|-heal|p2a: Iron Hands|121/373|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1776969510
+|move|p2a: Iron Hands|Drain Punch|p1a: Dipplin
+|-supereffective|p1a: Dipplin
+|-damage|p1a: Dipplin|118/284
+|-heal|p2a: Iron Hands|178/373|[from] drain|[of] p1a: Dipplin
+|move|p1a: Dipplin|Giga Drain|p2a: Iron Hands
+|-damage|p2a: Iron Hands|70/373
+|-heal|p1a: Dipplin|172/284|[from] drain|[of] p2a: Iron Hands
+|
+|-heal|p2a: Iron Hands|93/373|[from] item: Leftovers
+|upkeep
+|turn|22
+|inactive|Itry10times has 120 seconds left.
+|
+|t:|1776969541
+|move|p2a: Iron Hands|Drain Punch|p1a: Dipplin
+|-supereffective|p1a: Dipplin
+|-damage|p1a: Dipplin|58/284
+|-heal|p2a: Iron Hands|150/373|[from] drain|[of] p1a: Dipplin
+|move|p1a: Dipplin|Giga Drain|p2a: Iron Hands
+|-damage|p2a: Iron Hands|41/373
+|-heal|p1a: Dipplin|113/284|[from] drain|[of] p2a: Iron Hands
+|
+|-heal|p2a: Iron Hands|64/373|[from] item: Leftovers
+|upkeep
+|turn|23
+|inactive|jafuiw has 90 seconds left.
+|
+|t:|1776969571
+|move|p1a: Dipplin|Sucker Punch|p2a: Iron Hands
+|-resisted|p2a: Iron Hands
+|-damage|p2a: Iron Hands|44/373
+|move|p2a: Iron Hands|Drain Punch|p1a: Dipplin
+|-supereffective|p1a: Dipplin
+|-damage|p1a: Dipplin|5/284
+|-heal|p2a: Iron Hands|98/373|[from] drain|[of] p1a: Dipplin
+|
+|-heal|p2a: Iron Hands|121/373|[from] item: Leftovers
+|upkeep
+|turn|24
+|inactive|jafuiw has 90 seconds left.
+|
+|t:|1776969584
+|move|p2a: Iron Hands|Drain Punch|p1a: Dipplin
+|-supereffective|p1a: Dipplin
+|-damage|p1a: Dipplin|0 fnt
+|-heal|p2a: Iron Hands|124/373|[from] drain|[of] p1a: Dipplin
+|faint|p1a: Dipplin
+|
+|-heal|p2a: Iron Hands|147/373|[from] item: Leftovers
+|upkeep
+|inactive|jafuiw has 90 seconds left.
+|
+|t:|1776969612
+|switch|p1a: Seviper|Seviper, L93, M|287/287
+|turn|25
+|
+|t:|1776969618
+|move|p1a: Seviper|Earthquake|p2a: Iron Hands
+|-supereffective|p2a: Iron Hands
+|-damage|p2a: Iron Hands|0 fnt
+|faint|p2a: Iron Hands
+|-end|p2a: Iron Hands|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1776969625
+|switch|p2a: Pecharunt|Pecharunt, L77|214/262
+|turn|26
+|
+|t:|1776969647
+|-terastallize|p2a: Pecharunt|Dark
+|move|p2a: Pecharunt|Shadow Ball|p1a: Seviper
+|-damage|p1a: Seviper|214/287
+|-unboost|p1a: Seviper|spd|1
+|move|p1a: Seviper|Swords Dance|p1a: Seviper
+|-boost|p1a: Seviper|atk|2
+|
+|-heal|p2a: Pecharunt|230/262|[from] item: Leftovers
+|-heal|p1a: Seviper|231/287|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1776969669
+|move|p2a: Pecharunt|Shadow Ball|p1a: Seviper
+|-damage|p1a: Seviper|105/287
+|move|p1a: Seviper|Gunk Shot|p2a: Pecharunt
+|-damage|p2a: Pecharunt|1/262
+|
+|-heal|p2a: Pecharunt|17/262|[from] item: Leftovers
+|-heal|p1a: Seviper|122/287|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1776969678
+|move|p2a: Pecharunt|Shadow Ball|p1a: Seviper
+|-damage|p1a: Seviper|0 fnt
+|faint|p1a: Seviper
+|
+|-heal|p2a: Pecharunt|33/262|[from] item: Leftovers
+|upkeep
+|
+|t:|1776969681
+|switch|p1a: Rotom|Rotom-Mow, L87|229/229
+|turn|29
+|
+|t:|1776969686
+|move|p1a: Rotom|Thunderbolt|p2a: Pecharunt
+|-damage|p2a: Pecharunt|0 fnt
+|faint|p2a: Pecharunt
+|
+|upkeep
+|
+|t:|1776969689
+|switch|p2a: Sinistcha|Sinistcha-Masterpiece, L83|254/254
+|turn|30
+|inactive|jafuiw has 90 seconds left.
+|
+|t:|1776969699
+|move|p1a: Rotom|Thunderbolt|p2a: Sinistcha
+|-resisted|p2a: Sinistcha
+|-damage|p2a: Sinistcha|192/254
+|move|p2a: Sinistcha|Calm Mind|p2a: Sinistcha
+|-boost|p2a: Sinistcha|spa|1
+|-boost|p2a: Sinistcha|spd|1
+|
+|-heal|p2a: Sinistcha|207/254|[from] item: Leftovers
+|upkeep
+|turn|31
+|c|☆Itry10times|choiced into tbolt
+|c|☆Itry10times|yowch
+|
+|t:|1776969708
+|move|p1a: Rotom|Thunderbolt|p2a: Sinistcha
+|-resisted|p2a: Sinistcha
+|-damage|p2a: Sinistcha|171/254
+|-status|p2a: Sinistcha|par
+|move|p2a: Sinistcha|Calm Mind|p2a: Sinistcha
+|-boost|p2a: Sinistcha|spa|1
+|-boost|p2a: Sinistcha|spd|1
+|
+|-heal|p2a: Sinistcha|186/254 par|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1776969716
+|move|p1a: Rotom|Thunderbolt|p2a: Sinistcha
+|-resisted|p2a: Sinistcha
+|-damage|p2a: Sinistcha|156/254 par
+|move|p2a: Sinistcha|Calm Mind|p2a: Sinistcha
+|-boost|p2a: Sinistcha|spa|1
+|-boost|p2a: Sinistcha|spd|1
+|
+|-heal|p2a: Sinistcha|171/254 par|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1776969720
+|move|p1a: Rotom|Thunderbolt|p2a: Sinistcha
+|-resisted|p2a: Sinistcha
+|-damage|p2a: Sinistcha|146/254 par
+|move|p2a: Sinistcha|Calm Mind|p2a: Sinistcha
+|-boost|p2a: Sinistcha|spa|1
+|-boost|p2a: Sinistcha|spd|1
+|
+|-heal|p2a: Sinistcha|161/254 par|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1776969725
+|move|p1a: Rotom|Thunderbolt|p2a: Sinistcha
+|-resisted|p2a: Sinistcha
+|-damage|p2a: Sinistcha|140/254 par
+|move|p2a: Sinistcha|Calm Mind|p2a: Sinistcha
+|-boost|p2a: Sinistcha|spa|1
+|-boost|p2a: Sinistcha|spd|1
+|
+|-heal|p2a: Sinistcha|155/254 par|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1776969729
+|move|p1a: Rotom|Thunderbolt|p2a: Sinistcha
+|-resisted|p2a: Sinistcha
+|-damage|p2a: Sinistcha|140/254 par
+|cant|p2a: Sinistcha|par
+|
+|-heal|p2a: Sinistcha|155/254 par|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1776969735
+|move|p1a: Rotom|Thunderbolt|p2a: Sinistcha
+|-resisted|p2a: Sinistcha
+|-damage|p2a: Sinistcha|137/254 par
+|move|p2a: Sinistcha|Calm Mind|p2a: Sinistcha
+|-boost|p2a: Sinistcha|spa|1
+|-boost|p2a: Sinistcha|spd|1
+|
+|-heal|p2a: Sinistcha|152/254 par|[from] item: Leftovers
+|upkeep
+|turn|37
+|
+|t:|1776969739
+|move|p1a: Rotom|Thunderbolt|p2a: Sinistcha
+|-resisted|p2a: Sinistcha
+|-damage|p2a: Sinistcha|139/254 par
+|cant|p2a: Sinistcha|par
+|
+|-heal|p2a: Sinistcha|154/254 par|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|t:|1776969742
+|move|p1a: Rotom|Thunderbolt|p2a: Sinistcha
+|-resisted|p2a: Sinistcha
+|-damage|p2a: Sinistcha|141/254 par
+|move|p2a: Sinistcha|Strength Sap|p1a: Rotom
+|-unboost|p1a: Rotom|atk|1
+|-heal|p2a: Sinistcha|254/254 par
+|
+|upkeep
+|turn|39
+|l|☆jafuiw
+|inactive|jafuiw disconnected and has a minute to reconnect!
+|player|p1|
+|c|☆Itry10times|bfr rage quit
+|inactive|jafuiw has 30 seconds to reconnect!
+|inactive|jafuiw has 20 seconds to reconnect!
+|inactive|jafuiw has 15 seconds to reconnect!
+|inactive|jafuiw has 10 seconds to reconnect!
+|inactiveoff|Battle timer is now OFF.
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Itry10times)
+|inactive|jafuiw has 5 seconds to reconnect!
+|-message|jafuiw lost due to inactivity.
+|
+|win|Itry10times
+|raw|jafuiw's rating: 1238 &rarr; <strong>1213</strong><br />(-25 for losing)
+|raw|Itry10times's rating: 1239 &rarr; <strong>1264</strong><br />(+25 for winning)

@@ -1,0 +1,325 @@
+|j|☆Tagteampanda
+|j|☆Barry the Bad
+|t:|1776979548
+|gametype|singles
+|player|p1|Tagteampanda|102|1547
+|player|p2|Barry the Bad|102|1588
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776979548
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Comfey|Comfey, L85, F|225/225
+|switch|p2a: Politoed|Politoed, L88, M|302/302
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Politoed
+|turn|1
+|
+|t:|1776979557
+|move|p1a: Comfey|Giga Drain|p2a: Politoed
+|-supereffective|p2a: Politoed
+|-damage|p2a: Politoed|222/302
+|move|p2a: Politoed|Surf|p1a: Comfey
+|-damage|p1a: Comfey|95/225
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Comfey|109/225|[from] item: Leftovers
+|-heal|p2a: Politoed|240/302|[from] item: Leftovers
+|upkeep
+|turn|2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Barry the Bad)
+|
+|t:|1776979575
+|switch|p1a: Regice|Regice, L88|284/284
+|move|p2a: Politoed|Surf|p1a: Regice
+|-damage|p1a: Regice|209/284
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Politoed|258/302|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776979582
+|switch|p2a: Hariyama|Hariyama, L87, M|392/392
+|move|p1a: Regice|Thunderbolt|p2a: Hariyama
+|-damage|p2a: Hariyama|329/392
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1776979596
+|switch|p1a: Comfey|Comfey, L85, F|109/225
+|move|p2a: Hariyama|Heavy Slam|p1a: Comfey
+|-supereffective|p1a: Comfey
+|-damage|p1a: Comfey|0 fnt
+|faint|p1a: Comfey
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1776979616
+|switch|p1a: Venusaur|Venusaur, L84, M|272/272
+|turn|5
+|
+|t:|1776979627
+|move|p1a: Venusaur|Sleep Powder|p2a: Hariyama|[miss]
+|-miss|p1a: Venusaur|p2a: Hariyama
+|move|p2a: Hariyama|Knock Off|p1a: Venusaur
+|-damage|p1a: Venusaur|184/272
+|-enditem|p1a: Venusaur|Leftovers|[from] move: Knock Off|[of] p2a: Hariyama
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1776979636
+|switch|p2a: Trevenant|Trevenant, L89, F|296/296
+|move|p1a: Venusaur|Sleep Powder|p2a: Trevenant
+|-immune|p2a: Trevenant
+|
+|upkeep
+|turn|7
+|
+|t:|1776979650
+|move|p1a: Venusaur|Sludge Bomb|p2a: Trevenant
+|-damage|p2a: Trevenant|206/296
+|move|p2a: Trevenant|Will-O-Wisp|p1a: Venusaur
+|-status|p1a: Venusaur|brn
+|
+|-damage|p1a: Venusaur|167/272 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1776979668
+|move|p1a: Venusaur|Knock Off|p2a: Trevenant
+|-supereffective|p2a: Trevenant
+|-damage|p2a: Trevenant|137/296
+|-enditem|p2a: Trevenant|Life Orb|[from] move: Knock Off|[of] p1a: Venusaur
+|move|p2a: Trevenant|Drain Punch|p1a: Venusaur
+|-resisted|p1a: Venusaur
+|-damage|p1a: Venusaur|135/272 brn
+|-heal|p2a: Trevenant|153/296|[from] drain|[of] p1a: Venusaur
+|
+|-damage|p1a: Venusaur|118/272 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1776979677
+|move|p1a: Venusaur|Synthesis|p1a: Venusaur
+|-heal|p1a: Venusaur|254/272 brn
+|move|p2a: Trevenant|Drain Punch|p1a: Venusaur
+|-resisted|p1a: Venusaur
+|-damage|p1a: Venusaur|221/272 brn
+|-heal|p2a: Trevenant|170/296|[from] drain|[of] p1a: Venusaur
+|
+|-damage|p1a: Venusaur|204/272 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1776979701
+|move|p1a: Venusaur|Sludge Bomb|p2a: Trevenant
+|-damage|p2a: Trevenant|76/296
+|move|p2a: Trevenant|Drain Punch|p1a: Venusaur
+|-resisted|p1a: Venusaur
+|-damage|p1a: Venusaur|169/272 brn
+|-heal|p2a: Trevenant|94/296|[from] drain|[of] p1a: Venusaur
+|
+|-damage|p1a: Venusaur|152/272 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1776979705
+|move|p1a: Venusaur|Sludge Bomb|p2a: Trevenant
+|-damage|p2a: Trevenant|0 fnt
+|faint|p2a: Trevenant
+|
+|-damage|p1a: Venusaur|135/272 brn|[from] brn
+|upkeep
+|
+|t:|1776979710
+|switch|p2a: Enamorus|Enamorus, L79, F|247/247
+|turn|12
+|
+|t:|1776979728
+|move|p2a: Enamorus|Zen Headbutt|p1a: Venusaur
+|-supereffective|p1a: Venusaur
+|-damage|p1a: Venusaur|17/272 brn
+|move|p1a: Venusaur|Sleep Powder|p2a: Enamorus
+|-status|p2a: Enamorus|slp|[from] move: Sleep Powder
+|
+|-damage|p1a: Venusaur|0 fnt|[from] brn
+|faint|p1a: Venusaur
+|upkeep
+|inactive|Tagteampanda has 120 seconds left.
+|
+|t:|1776979748
+|switch|p1a: Klawf|Klawf, L90, F|272/272
+|turn|13
+|
+|t:|1776979754
+|switch|p2a: Conkeldurr|Conkeldurr, L80, M|299/299
+|move|p1a: Klawf|Stealth Rock|p2a: Conkeldurr
+|-sidestart|p2: Barry the Bad|move: Stealth Rock
+|
+|-status|p2a: Conkeldurr|brn|[from] item: Flame Orb
+|upkeep
+|turn|14
+|inactive|Tagteampanda has 120 seconds left.
+|
+|t:|1776979774
+|move|p1a: Klawf|Crabhammer|p2a: Conkeldurr
+|-damage|p2a: Conkeldurr|190/299 brn
+|-damage|p1a: Klawf|245/272|[from] item: Life Orb
+|move|p2a: Conkeldurr|Close Combat|p1a: Klawf
+|-supereffective|p1a: Klawf
+|-damage|p1a: Klawf|0 fnt
+|-unboost|p2a: Conkeldurr|def|1
+|-unboost|p2a: Conkeldurr|spd|1
+|faint|p1a: Klawf
+|
+|-damage|p2a: Conkeldurr|172/299 brn|[from] brn
+|upkeep
+|inactive|Tagteampanda has 120 seconds left.
+|
+|t:|1776979787
+|switch|p1a: Regice|Regice, L88|209/284
+|turn|15
+|
+|t:|1776979790
+|switch|p2a: Hariyama|Hariyama, L87, M|329/392
+|-damage|p2a: Hariyama|305/392|[from] Stealth Rock
+|move|p1a: Regice|Ice Beam|p2a: Hariyama
+|-damage|p2a: Hariyama|259/392
+|
+|upkeep
+|turn|16
+|
+|t:|1776979799
+|switch|p1a: Solgaleo|Solgaleo, L74|325/325
+|move|p2a: Hariyama|Close Combat|p1a: Solgaleo
+|-crit|p1a: Solgaleo
+|-damage|p1a: Solgaleo|103/325
+|-unboost|p2a: Hariyama|def|1
+|-unboost|p2a: Hariyama|spd|1
+|-damage|p2a: Hariyama|194/392|[from] item: Rocky Helmet|[of] p1a: Solgaleo
+|
+|upkeep
+|turn|17
+|
+|t:|1776979813
+|move|p1a: Solgaleo|Sunsteel Strike|p2a: Hariyama
+|-crit|p2a: Hariyama
+|-damage|p2a: Hariyama|0 fnt
+|faint|p2a: Hariyama
+|
+|upkeep
+|
+|t:|1776979817
+|switch|p2a: Wugtrio|Wugtrio, L91, M|212/212
+|-damage|p2a: Wugtrio|186/212|[from] Stealth Rock
+|turn|18
+|inactive|Tagteampanda has 120 seconds left.
+|
+|t:|1776979860
+|switch|p1a: Regice|Regice, L88|209/284
+|move|p2a: Wugtrio|Liquidation|p1a: Regice
+|-damage|p1a: Regice|71/284
+|
+|upkeep
+|turn|19
+|
+|t:|1776979876
+|-terastallize|p1a: Regice|Electric
+|move|p2a: Wugtrio|Liquidation|p1a: Regice
+|-damage|p1a: Regice|0 fnt
+|faint|p1a: Regice
+|
+|upkeep
+|
+|t:|1776979881
+|switch|p1a: Polteageist|Polteageist, L78|222/222
+|turn|20
+|
+|t:|1776979885
+|move|p2a: Wugtrio|Liquidation|p1a: Polteageist
+|-damage|p1a: Polteageist|23/222
+|move|p1a: Polteageist|Shell Smash|p1a: Polteageist
+|-unboost|p1a: Polteageist|def|1
+|-unboost|p1a: Polteageist|spd|1
+|-boost|p1a: Polteageist|atk|2
+|-boost|p1a: Polteageist|spa|2
+|-boost|p1a: Polteageist|spe|2
+|-enditem|p1a: Polteageist|White Herb
+|-clearnegativeboost|p1a: Polteageist|[silent]
+|
+|upkeep
+|turn|21
+|
+|t:|1776979891
+|switch|p2a: Politoed|Politoed, L88, M|258/302
+|-damage|p2a: Politoed|221/302|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Politoed
+|move|p1a: Polteageist|Strength Sap|p2a: Politoed
+|-unboost|p2a: Politoed|atk|1
+|-heal|p1a: Polteageist|160/222
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Politoed|239/302|[from] item: Leftovers
+|upkeep
+|turn|22
+|inactive|Tagteampanda has 120 seconds left.
+|
+|t:|1776979898
+|move|p1a: Polteageist|Shadow Ball|p2a: Politoed
+|-damage|p2a: Politoed|83/302
+|move|p2a: Politoed|Surf|p1a: Polteageist
+|-damage|p1a: Polteageist|33/222
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Politoed|101/302|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1776979907
+|move|p1a: Polteageist|Tera Blast|p2a: Politoed
+|-damage|p2a: Politoed|0 fnt
+|faint|p2a: Politoed
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1776979910
+|switch|p2a: Wugtrio|Wugtrio, L91, M|186/212
+|-damage|p2a: Wugtrio|160/212|[from] Stealth Rock
+|turn|24
+|
+|t:|1776979919
+|move|p2a: Wugtrio|Aqua Jet|p1a: Polteageist
+|-damage|p1a: Polteageist|0 fnt
+|faint|p1a: Polteageist
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1776979921
+|switch|p1a: Solgaleo|Solgaleo, L74|103/325
+|turn|25
+|
+|t:|1776979924
+|move|p2a: Wugtrio|Aqua Jet|p1a: Solgaleo
+|-damage|p1a: Solgaleo|0 fnt
+|-damage|p2a: Wugtrio|125/212|[from] item: Rocky Helmet|[of] p1a: Solgaleo
+|faint|p1a: Solgaleo
+|
+|win|Barry the Bad
+|raw|Tagteampanda's rating: 1547 &rarr; <strong>1529</strong><br />(-18 for losing)
+|raw|Barry the Bad's rating: 1588 &rarr; <strong>1606</strong><br />(+18 for winning)
+|l|☆Tagteampanda
+|player|p1|

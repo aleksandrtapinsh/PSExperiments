@@ -1,0 +1,309 @@
+|badge|p1|bronze|gen9randombattle|100-9
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/">thread on Smogon.</a></div>
+|j|☆supergriefer101
+|j|☆Airslayer34
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1776973433
+|gametype|singles
+|player|p1|supergriefer101|aromalady|
+|player|p2|Airslayer34|102|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|Tournament battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776973433
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Urshifu|Urshifu, L74, M|270/270
+|switch|p2a: Gouging Fire|Gouging Fire, L74|277/277
+|turn|1
+|
+|t:|1776973448
+|move|p1a: Urshifu|Swords Dance|p1a: Urshifu
+|-boost|p1a: Urshifu|atk|2
+|move|p2a: Gouging Fire|Dragon Dance|p2a: Gouging Fire
+|-boost|p2a: Gouging Fire|atk|1
+|-boost|p2a: Gouging Fire|spe|1
+|
+|upkeep
+|turn|2
+|
+|t:|1776973455
+|move|p2a: Gouging Fire|Heat Crash|p1a: Urshifu
+|-damage|p1a: Urshifu|101/270
+|move|p1a: Urshifu|Close Combat|p2a: Gouging Fire
+|-damage|p2a: Gouging Fire|7/277
+|-unboost|p1a: Urshifu|def|1
+|-unboost|p1a: Urshifu|spd|1
+|-damage|p1a: Urshifu|74/270|[from] item: Life Orb
+|
+|upkeep
+|turn|3
+|j| theblaargofdoom3
+|j| gfitzy
+|l| theblaargofdoom3
+|
+|t:|1776973466
+|switch|p1a: Chandelure|Chandelure, L83, F|235/235
+|move|p2a: Gouging Fire|Heat Crash|p1a: Chandelure
+|-start|p1a: Chandelure|ability: Flash Fire
+|
+|upkeep
+|turn|4
+|
+|t:|1776973481
+|move|p2a: Gouging Fire|Outrage|p1a: Chandelure
+|-damage|p1a: Chandelure|55/235
+|move|p1a: Chandelure|Shadow Ball|p2a: Gouging Fire
+|-damage|p2a: Gouging Fire|0 fnt
+|faint|p2a: Gouging Fire
+|-end|p2a: Gouging Fire|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1776973492
+|switch|p2a: Lumineon|Lumineon, L93, F|279/279
+|turn|5
+|
+|t:|1776973517
+|move|p2a: Lumineon|Hydro Pump|p1a: Chandelure
+|-supereffective|p1a: Chandelure
+|-damage|p1a: Chandelure|0 fnt
+|faint|p1a: Chandelure
+|-damage|p2a: Lumineon|252/279|[from] item: Life Orb
+|
+|upkeep
+|inactive|supergriefer101 has 120 seconds left.
+|
+|t:|1776973535
+|switch|p1a: Kyurem|Kyurem-Black, L71|295/295
+|-ability|p1a: Kyurem|Teravolt
+|turn|6
+|inactive|Airslayer34 has 120 seconds left.
+|c|☆Airslayer34|holy
+|
+|t:|1776973575
+|move|p2a: Lumineon|Alluring Voice|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|136/295
+|-damage|p2a: Lumineon|225/279|[from] item: Life Orb
+|move|p1a: Kyurem|Dragon Dance|p1a: Kyurem
+|-boost|p1a: Kyurem|atk|1
+|-boost|p1a: Kyurem|spe|1
+|
+|upkeep
+|turn|7
+|inactive|Airslayer34 has 120 seconds left.
+|l| gfitzy
+|
+|t:|1776973586
+|move|p1a: Kyurem|Fusion Bolt|p2a: Lumineon
+|-supereffective|p2a: Lumineon
+|-crit|p2a: Lumineon
+|-damage|p2a: Lumineon|0 fnt
+|faint|p2a: Lumineon
+|
+|upkeep
+|j| vortexaxolotl
+|
+|t:|1776973596
+|switch|p2a: Scovillain|Scovillain, L91, F|266/266
+|turn|8
+|inactive|Airslayer34 has 120 seconds left.
+|
+|t:|1776973618
+|move|p1a: Kyurem|Icicle Spear|p2a: Scovillain
+|-damage|p2a: Scovillain|217/266
+|-damage|p2a: Scovillain|162/266
+|-damage|p2a: Scovillain|110/266
+|-damage|p2a: Scovillain|58/266
+|-hitcount|p2a: Scovillain|4
+|move|p2a: Scovillain|Sunny Day|p2a: Scovillain
+|-weather|SunnyDay
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1776973630
+|switch|p1a: Urshifu|Urshifu, L74, M|74/270
+|move|p2a: Scovillain|Fire Blast|p1a: Urshifu
+|-damage|p1a: Urshifu|0 fnt
+|faint|p1a: Urshifu
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1776973631
+|switch|p1a: Breloom|Breloom, L83, M|235/235
+|turn|10
+|j| buzbee2000
+|
+|t:|1776973653
+|move|p1a: Breloom|Mach Punch|p2a: Scovillain
+|-damage|p2a: Scovillain|0 fnt
+|faint|p2a: Scovillain
+|-damage|p1a: Breloom|212/235|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|inactive|Airslayer34 has 90 seconds left.
+|
+|t:|1776973679
+|switch|p2a: Lapras|Lapras, L87, F|367/367
+|turn|11
+|j| pordismomen
+|
+|t:|1776973690
+|-terastallize|p2a: Lapras|Water
+|move|p1a: Breloom|Spore|p2a: Lapras
+|-status|p2a: Lapras|slp|[from] move: Spore
+|cant|p2a: Lapras|slp
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1776973699
+|switch|p2a: Porygon2|Porygon2, L81|270/270
+|-ability|p2a: Porygon2|Download|boost
+|-boost|p2a: Porygon2|spa|1
+|move|p1a: Breloom|Bullet Seed|p2a: Porygon2
+|-damage|p2a: Porygon2|223/270
+|-damage|p2a: Porygon2|176/270
+|-hitcount|p2a: Porygon2|2
+|-damage|p1a: Breloom|189/235|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|turn|13
+|c| pordismomen|weird tera
+|inactive|Airslayer34 has 90 seconds left.
+|inactive|supergriefer101 has 120 seconds left.
+|
+|t:|1776973735
+|switch|p1a: Kyurem|Kyurem-Black, L71|136/295
+|-ability|p1a: Kyurem|Teravolt
+|move|p2a: Porygon2|Tera Blast|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|upkeep
+|inactive|supergriefer101 has 120 seconds left.
+|
+|t:|1776973750
+|switch|p1a: Forretress|Forretress, L84, F|263/263
+|turn|14
+|
+|t:|1776973759
+|move|p2a: Porygon2|Thunder Wave|p1a: Forretress|[miss]
+|-miss|p2a: Porygon2|p1a: Forretress
+|move|p1a: Forretress|Body Press|p2a: Porygon2
+|-supereffective|p2a: Porygon2
+|-damage|p2a: Porygon2|78/270
+|
+|upkeep
+|turn|15
+|c| vortexaxolotl|prolly expected a fighting move
+|inactive|supergriefer101 has 120 seconds left.
+|
+|t:|1776973772
+|-terastallize|p1a: Forretress|Fighting
+|move|p2a: Porygon2|Recover|p2a: Porygon2
+|-heal|p2a: Porygon2|213/270
+|move|p1a: Forretress|Body Press|p2a: Porygon2
+|-supereffective|p2a: Porygon2
+|-damage|p2a: Porygon2|49/270
+|
+|upkeep
+|turn|16
+|c|☆Airslayer34|my whole team is weak to fighting
+|c|☆Airslayer34|I'm cooked
+|c| vortexaxolotl|damn
+|inactive|Airslayer34 has 90 seconds left.
+|
+|t:|1776973802
+|move|p2a: Porygon2|Tera Blast|p1a: Forretress
+|-damage|p1a: Forretress|104/263
+|move|p1a: Forretress|Body Press|p2a: Porygon2
+|-supereffective|p2a: Porygon2
+|-damage|p2a: Porygon2|0 fnt
+|faint|p2a: Porygon2
+|
+|-heal|p1a: Forretress|120/263|[from] item: Leftovers
+|upkeep
+|c| pordismomen|its not very specially defenses
+|c| pordismomen|u can still take itr
+|c|☆Airslayer34|nope
+|c| pordismomen|defensive*
+|c| vortexaxolotl|life orb, stab mach punch tho
+|c|☆Airslayer34|I need Lapras to wake up
+|inactive|Airslayer34 has 60 seconds left.
+|
+|t:|1776973829
+|switch|p2a: Lapras|Lapras, L87, F, tera:Water|367/367 slp
+|turn|17
+|
+|t:|1776973835
+|-curestatus|p2a: Lapras|slp|[msg]
+|move|p2a: Lapras|Sparkling Aria|p1a: Forretress
+|-damage|p1a: Forretress|0 fnt
+|faint|p1a: Forretress
+|
+|upkeep
+|c| vortexaxolotl|prolly has tech in the back
+|
+|t:|1776973838
+|switch|p1a: Breloom|Breloom, L83, M|189/235
+|turn|18
+|
+|t:|1776973842
+|move|p1a: Breloom|Spore|p2a: Lapras
+|-status|p2a: Lapras|slp|[from] move: Spore
+|cant|p2a: Lapras|slp
+|
+|upkeep
+|turn|19
+|inactive|Airslayer34 has 90 seconds left.
+|
+|t:|1776973856
+|move|p1a: Breloom|Bullet Seed|p2a: Lapras
+|-supereffective|p2a: Lapras
+|-damage|p2a: Lapras|227/367 slp
+|-supereffective|p2a: Lapras
+|-crit|p2a: Lapras
+|-damage|p2a: Lapras|14/367 slp
+|-supereffective|p2a: Lapras
+|-damage|p2a: Lapras|0 fnt
+|faint|p2a: Lapras
+|-hitcount|p2: Lapras|3
+|-damage|p1a: Breloom|166/235|[from] item: Life Orb
+|
+|upkeep
+|c|☆Airslayer34|well
+|
+|t:|1776973865
+|switch|p2a: Zangoose|Zangoose, L85, F|263/263
+|turn|20
+|inactive|Airslayer34 has 90 seconds left.
+|c| vortexaxolotl|well played both of yall
+|
+|t:|1776973875
+|move|p1a: Breloom|Mach Punch|p2a: Zangoose
+|-supereffective|p2a: Zangoose
+|-damage|p2a: Zangoose|0 fnt
+|faint|p2a: Zangoose
+|-damage|p1a: Breloom|143/235|[from] item: Life Orb
+|
+|win|supergriefer101
+|n|☆supergriefer101|supergriefer101
+|n|☆Airslayer34|airslayer34
+|n| vortexaxolotl|vortexaxolotl
+|n| buzbee2000|buzbee2000
+|n| pordismomen|pordismomen
+|c|☆supergriefer101|gg

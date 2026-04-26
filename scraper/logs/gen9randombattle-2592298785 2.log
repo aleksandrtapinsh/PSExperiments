@@ -1,0 +1,251 @@
+|j|☆Cboro
+|j|☆clownron
+|t:|1776976902
+|gametype|singles
+|player|p1|Cboro|clair|
+|player|p2|clownron|brycenman|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776976902
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Corviknight|Corviknight, L80, F|288/288
+|switch|p2a: Grumpig|Grumpig, L92, M|297/297
+|-ability|p1a: Corviknight|Pressure
+|turn|1
+|
+|t:|1776976920
+|move|p2a: Grumpig|Trick|p1a: Corviknight
+|-activate|p2a: Grumpig|move: Trick|[of] p1a: Corviknight
+|-item|p1a: Corviknight|Choice Scarf|[from] move: Trick
+|-item|p2a: Grumpig|Leftovers|[from] move: Trick
+|move|p1a: Corviknight|Brave Bird|p2a: Grumpig
+|-damage|p2a: Grumpig|173/297
+|-damage|p1a: Corviknight|247/288|[from] Recoil
+|
+|-heal|p2a: Grumpig|191/297|[from] item: Leftovers
+|upkeep
+|turn|2
+|j| lanonchance
+|
+|t:|1776976941
+|move|p1a: Corviknight|Brave Bird|p2a: Grumpig
+|-damage|p2a: Grumpig|58/297
+|-damage|p1a: Corviknight|203/288|[from] Recoil
+|move|p2a: Grumpig|Focus Blast|p1a: Corviknight
+|-damage|p1a: Corviknight|92/288
+|
+|-heal|p2a: Grumpig|76/297|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776976988
+|move|p1a: Corviknight|Brave Bird|p2a: Grumpig
+|-damage|p2a: Grumpig|0 fnt
+|faint|p2a: Grumpig
+|-damage|p1a: Corviknight|67/288|[from] Recoil
+|
+|upkeep
+|
+|t:|1776976995
+|switch|p2a: Luvdisc|Luvdisc, M|247/247
+|turn|4
+|
+|t:|1776977005
+|switch|p1a: Rotom|Rotom-Wash, L82|216/216
+|move|p2a: Luvdisc|Endeavor|p1a: Rotom
+|-immune|p1a: Rotom
+|
+|upkeep
+|turn|5
+|
+|t:|1776977019
+|move|p1a: Rotom|Volt Switch|p2a: Luvdisc
+|-supereffective|p2a: Luvdisc
+|-damage|p2a: Luvdisc|101/247
+|
+|t:|1776977028
+|switch|p1a: Shiftry|Shiftry, L89, M|305/305|[from] Volt Switch
+|move|p2a: Luvdisc|Substitute|p2a: Luvdisc
+|-start|p2a: Luvdisc|Substitute
+|-damage|p2a: Luvdisc|40/247
+|
+|upkeep
+|turn|6
+|
+|t:|1776977052
+|move|p1a: Shiftry|Sucker Punch|p2a: Luvdisc
+|-end|p2a: Luvdisc|Substitute
+|-damage|p1a: Shiftry|275/305|[from] item: Life Orb
+|move|p2a: Luvdisc|Endeavor|p1a: Shiftry
+|-damage|p1a: Shiftry|40/305
+|
+|upkeep
+|turn|7
+|
+|t:|1776977067
+|move|p2a: Luvdisc|Substitute|p2a: Luvdisc
+|-fail|p2a: Luvdisc|move: Substitute|[weak]
+|move|p1a: Shiftry|Knock Off|p2a: Luvdisc
+|-damage|p2a: Luvdisc|0 fnt
+|-enditem|p2a: Luvdisc|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Shiftry
+|faint|p2a: Luvdisc
+|-damage|p1a: Shiftry|10/305|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776977088
+|switch|p2a: Blastoise|Blastoise, L80, F|258/258
+|turn|8
+|
+|t:|1776977098
+|move|p1a: Shiftry|Leaf Storm|p2a: Blastoise
+|-supereffective|p2a: Blastoise
+|-damage|p2a: Blastoise|0 fnt
+|-unboost|p1a: Shiftry|spa|2
+|faint|p2a: Blastoise
+|-damage|p1a: Shiftry|0 fnt|[from] item: Life Orb
+|faint|p1a: Shiftry
+|
+|upkeep
+|
+|t:|1776977116
+|switch|p1a: Gholdengo|Gholdengo, L77|261/261
+|switch|p2a: Mudsdale|Mudsdale, L83, M|302/302
+|turn|9
+|
+|t:|1776977127
+|switch|p1a: Rotom|Rotom-Wash, L82|216/216
+|move|p2a: Mudsdale|Stealth Rock|p1a: Rotom
+|-sidestart|p1: Cboro|move: Stealth Rock
+|
+|upkeep
+|turn|10
+|
+|t:|1776977136
+|move|p1a: Rotom|Hydro Pump|p2a: Mudsdale
+|-supereffective|p2a: Mudsdale
+|-damage|p2a: Mudsdale|78/302
+|-ability|p2a: Mudsdale|Stamina|boost
+|-boost|p2a: Mudsdale|def|1
+|move|p2a: Mudsdale|Roar|p1a: Rotom
+|drag|p1a: Gholdengo|Gholdengo, L77|261/261
+|-damage|p1a: Gholdengo|245/261|[from] Stealth Rock
+|
+|-heal|p2a: Mudsdale|96/302|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776977156
+|move|p1a: Gholdengo|Make It Rain|p2a: Mudsdale
+|-damage|p2a: Mudsdale|0 fnt
+|-unboost|p1a: Gholdengo|spa|1
+|faint|p2a: Mudsdale
+|
+|upkeep
+|
+|t:|1776977164
+|switch|p2a: Chimecho|Chimecho, L93, M|290/290
+|turn|12
+|
+|t:|1776977188
+|switch|p1a: Rotom|Rotom-Wash, L82|216/216
+|-damage|p1a: Rotom|189/216|[from] Stealth Rock
+|move|p2a: Chimecho|Knock Off|p1a: Rotom
+|-damage|p1a: Rotom|145/216
+|-enditem|p1a: Rotom|Choice Scarf|[from] move: Knock Off|[of] p2a: Chimecho
+|
+|upkeep
+|turn|13
+|
+|t:|1776977206
+|move|p1a: Rotom|Trick|p2a: Chimecho
+|-activate|p1a: Rotom|move: Trick|[of] p2a: Chimecho
+|-enditem|p2a: Chimecho|Leftovers|[silent]|[from] move: Trick
+|-item|p1a: Rotom|Leftovers|[from] move: Trick
+|move|p2a: Chimecho|Recover||[still]
+|-fail|p2a: Chimecho|heal
+|
+|-heal|p1a: Rotom|158/216|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1776977217
+|move|p1a: Rotom|Volt Switch|p2a: Chimecho
+|-crit|p2a: Chimecho
+|-damage|p2a: Chimecho|188/290
+|
+|t:|1776977232
+|switch|p1a: Banette|Banette, L93, M|270/270|[from] Volt Switch
+|-damage|p1a: Banette|237/270|[from] Stealth Rock
+|move|p2a: Chimecho|Encore||[still]
+|-fail|p2a: Chimecho
+|
+|upkeep
+|turn|15
+|
+|t:|1776977248
+|switch|p2a: Iron Hands|Iron Hands, L79|373/373
+|move|p1a: Banette|Shadow Sneak|p2a: Iron Hands
+|-damage|p2a: Iron Hands|307/373
+|-damage|p1a: Banette|210/270|[from] item: Life Orb
+|
+|-heal|p2a: Iron Hands|330/373|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776977268
+|move|p1a: Banette|Poltergeist|p2a: Iron Hands
+|-activate|p2a: Iron Hands|move: Poltergeist|Leftovers
+|-damage|p2a: Iron Hands|153/373
+|-damage|p1a: Banette|183/270|[from] item: Life Orb
+|move|p2a: Iron Hands|Swords Dance|p2a: Iron Hands
+|-boost|p2a: Iron Hands|atk|2
+|
+|-heal|p2a: Iron Hands|176/373|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1776977284
+|move|p1a: Banette|Poltergeist|p2a: Iron Hands
+|-activate|p2a: Iron Hands|move: Poltergeist|Leftovers
+|-damage|p2a: Iron Hands|0 fnt
+|faint|p2a: Iron Hands
+|-end|p2a: Iron Hands|Quark Drive|[silent]
+|-damage|p1a: Banette|156/270|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776977291
+|switch|p2a: Chimecho|Chimecho, L93, M|188/290
+|turn|18
+|
+|t:|1776977297
+|move|p1a: Banette|Shadow Sneak|p2a: Chimecho
+|-supereffective|p2a: Chimecho
+|-damage|p2a: Chimecho|37/290
+|-damage|p1a: Banette|129/270|[from] item: Life Orb
+|move|p2a: Chimecho|Psychic Noise|p1a: Banette
+|-crit|p1a: Banette
+|-damage|p1a: Banette|0 fnt
+|faint|p1a: Banette
+|
+|upkeep
+|
+|t:|1776977311
+|switch|p1a: Rotom|Rotom-Wash, L82|158/216
+|-damage|p1a: Rotom|131/216|[from] Stealth Rock
+|turn|19
+|
+|t:|1776977315
+|move|p1a: Rotom|Thunderbolt|p2a: Chimecho
+|-damage|p2a: Chimecho|0 fnt
+|faint|p2a: Chimecho
+|
+|win|Cboro

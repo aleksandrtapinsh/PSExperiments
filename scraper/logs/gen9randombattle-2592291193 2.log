@@ -1,0 +1,46 @@
+|j|☆brpablo
+|j|☆Spanholi
+|t:|1776976328
+|gametype|singles
+|player|p1|brpablo|silver|1387
+|player|p2|Spanholi|gambler|1363
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776976328
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Arceus|Arceus-Electric, L70|284/284
+|switch|p2a: Kyurem|Kyurem-White, L73|303/303
+|-ability|p2a: Kyurem|Turboblaze
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Spanholi)
+|
+|t:|1776976345
+|switch|p2a: Palossand|Palossand, L89, M|296/296
+|switch|p1a: Beartic|Beartic, L91, M|321/321
+|
+|upkeep
+|turn|2
+|
+|t:|1776976353
+|move|p1a: Beartic|Swords Dance|p1a: Beartic
+|-boost|p1a: Beartic|atk|2
+|move|p2a: Palossand|Stealth Rock|p1a: Beartic
+|-sidestart|p1: brpablo|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|-message|Spanholi forfeited.
+|
+|win|brpablo
+|raw|brpablo's rating: 1387 &rarr; <strong>1406</strong><br />(+19 for winning)
+|raw|Spanholi's rating: 1363 &rarr; <strong>1344</strong><br />(-19 for losing)
+|l|☆Spanholi
+|player|p2|

@@ -1,0 +1,797 @@
+|j|☆junegeneg
+|j|☆majorlyconfused
+|t:|1776979903
+|gametype|singles
+|player|p1|junegeneg|idol|
+|player|p2|majorlyconfused|lady|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776979903
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Skarmory|Skarmory, L80, M|235/235
+|switch|p2a: Dunsparce|Dunsparce, L86, F|312/312
+|turn|1
+|c|☆majorlyconfused|how do we vgc doubles
+|c|☆junegeneg|i think it's on an NA-only server unfortunately
+|
+|t:|1776979935
+|move|p1a: Skarmory|Iron Defense|p1a: Skarmory
+|-boost|p1a: Skarmory|def|2
+|move|p2a: Dunsparce|Body Slam|p1a: Skarmory
+|-resisted|p1a: Skarmory
+|-damage|p1a: Skarmory|221/235
+|-status|p1a: Skarmory|par
+|
+|-heal|p1a: Skarmory|235/235 par|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776979961
+|switch|p2a: Malamar|Malamar, L82, M|275/275
+|move|p1a: Skarmory|Iron Defense|p1a: Skarmory
+|-boost|p1a: Skarmory|def|2
+|
+|upkeep
+|turn|3
+|c|☆majorlyconfused|aw
+|
+|t:|1776979969
+|move|p2a: Malamar|Knock Off|p1a: Skarmory
+|-damage|p1a: Skarmory|211/235 par
+|-enditem|p1a: Skarmory|Leftovers|[from] move: Knock Off|[of] p2a: Malamar
+|move|p1a: Skarmory|Body Press|p2a: Malamar
+|-damage|p2a: Malamar|71/275
+|
+|-heal|p2a: Malamar|88/275|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776979977
+|move|p2a: Malamar|Rest|p2a: Malamar
+|-status|p2a: Malamar|slp|[from] move: Rest
+|-heal|p2a: Malamar|275/275 slp|[silent]
+|cant|p1a: Skarmory|par
+|
+|upkeep
+|turn|5
+|
+|t:|1776979979
+|cant|p2a: Malamar|slp
+|move|p2a: Malamar|Sleep Talk|p2a: Malamar
+|move|p2a: Malamar|Superpower|p1a: Skarmory|[from] move: Sleep Talk
+|-damage|p1a: Skarmory|192/235 par
+|-boost|p2a: Malamar|atk|1
+|-boost|p2a: Malamar|def|1
+|move|p1a: Skarmory|Body Press|p2a: Malamar
+|-damage|p2a: Malamar|132/275 slp
+|
+|-heal|p2a: Malamar|149/275 slp|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776979986
+|cant|p2a: Malamar|slp
+|move|p2a: Malamar|Sleep Talk|p2a: Malamar
+|move|p2a: Malamar|Superpower|p1a: Skarmory|[from] move: Sleep Talk
+|-damage|p1a: Skarmory|164/235 par
+|-boost|p2a: Malamar|atk|1
+|-boost|p2a: Malamar|def|1
+|move|p1a: Skarmory|Body Press|p2a: Malamar
+|-damage|p2a: Malamar|44/275 slp
+|
+|-heal|p2a: Malamar|61/275 slp|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776979998
+|-curestatus|p2a: Malamar|slp|[msg]
+|move|p2a: Malamar|Rest|p2a: Malamar
+|-status|p2a: Malamar|slp|[from] move: Rest
+|-heal|p2a: Malamar|275/275 slp|[silent]
+|move|p1a: Skarmory|Body Press|p2a: Malamar
+|-damage|p2a: Malamar|175/275 slp
+|
+|-heal|p2a: Malamar|192/275 slp|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776980005
+|cant|p2a: Malamar|slp
+|move|p2a: Malamar|Sleep Talk|p2a: Malamar
+|move|p2a: Malamar|Rest||[from] move: Sleep Talk|[still]
+|-fail|p2a: Malamar
+|cant|p1a: Skarmory|par
+|
+|-heal|p2a: Malamar|209/275 slp|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776980010
+|cant|p2a: Malamar|slp
+|move|p2a: Malamar|Sleep Talk|p2a: Malamar
+|move|p2a: Malamar|Knock Off|p1a: Skarmory|[from] move: Sleep Talk
+|-damage|p1a: Skarmory|133/235 par
+|move|p1a: Skarmory|Iron Defense|p1a: Skarmory
+|-boost|p1a: Skarmory|def|2
+|
+|-heal|p2a: Malamar|226/275 slp|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1776980022
+|-curestatus|p2a: Malamar|slp|[msg]
+|move|p2a: Malamar|Superpower|p1a: Skarmory
+|-damage|p1a: Skarmory|105/235 par
+|-boost|p2a: Malamar|atk|1
+|-boost|p2a: Malamar|def|1
+|move|p1a: Skarmory|Roost|p1a: Skarmory
+|-heal|p1a: Skarmory|223/235 par
+|-singleturn|p1a: Skarmory|move: Roost
+|
+|-heal|p2a: Malamar|243/275|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776980031
+|move|p2a: Malamar|Superpower|p1a: Skarmory
+|-damage|p1a: Skarmory|188/235 par
+|-boost|p2a: Malamar|atk|1
+|-boost|p2a: Malamar|def|1
+|move|p1a: Skarmory|Body Press|p2a: Malamar
+|-damage|p2a: Malamar|155/275
+|
+|-heal|p2a: Malamar|172/275|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776980041
+|move|p2a: Malamar|Superpower|p1a: Skarmory
+|-damage|p1a: Skarmory|149/235 par
+|-boost|p2a: Malamar|atk|1
+|-boost|p2a: Malamar|def|1
+|cant|p1a: Skarmory|par
+|
+|-heal|p2a: Malamar|189/275|[from] item: Leftovers
+|upkeep
+|turn|13
+|c|☆majorlyconfused|peak gameplay
+|
+|t:|1776980046
+|move|p2a: Malamar|Superpower|p1a: Skarmory
+|-damage|p1a: Skarmory|102/235 par
+|-boost|p2a: Malamar|atk|1
+|-boost|p2a: Malamar|def|1
+|move|p1a: Skarmory|Body Press|p2a: Malamar
+|-damage|p2a: Malamar|114/275
+|
+|-heal|p2a: Malamar|131/275|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1776980054
+|move|p2a: Malamar|Superpower|p1a: Skarmory
+|-damage|p1a: Skarmory|49/235 par
+|move|p1a: Skarmory|Roost|p1a: Skarmory
+|-heal|p1a: Skarmory|167/235 par
+|-singleturn|p1a: Skarmory|move: Roost
+|
+|-heal|p2a: Malamar|148/275|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1776980063
+|move|p2a: Malamar|Knock Off|p1a: Skarmory
+|-damage|p1a: Skarmory|122/235 par
+|move|p1a: Skarmory|Roost|p1a: Skarmory
+|-heal|p1a: Skarmory|235/235 par
+|-singleturn|p1a: Skarmory|move: Roost
+|
+|-heal|p2a: Malamar|165/275|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776980084
+|move|p2a: Malamar|Rest|p2a: Malamar
+|-status|p2a: Malamar|slp|[from] move: Rest
+|-heal|p2a: Malamar|275/275 slp|[silent]
+|cant|p1a: Skarmory|par
+|
+|upkeep
+|turn|17
+|
+|t:|1776980088
+|-terastallize|p1a: Skarmory|Fighting
+|cant|p2a: Malamar|slp
+|move|p2a: Malamar|Sleep Talk|p2a: Malamar
+|move|p2a: Malamar|Rest||[from] move: Sleep Talk|[still]
+|-fail|p2a: Malamar
+|move|p1a: Skarmory|Body Press|p2a: Malamar
+|-damage|p2a: Malamar|170/275 slp
+|
+|-heal|p2a: Malamar|187/275 slp|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1776980094
+|cant|p2a: Malamar|slp
+|move|p2a: Malamar|Sleep Talk|p2a: Malamar
+|move|p2a: Malamar|Superpower|p1a: Skarmory|[from] move: Sleep Talk
+|-damage|p1a: Skarmory|177/235 par
+|move|p1a: Skarmory|Body Press|p2a: Malamar
+|-damage|p2a: Malamar|88/275 slp
+|
+|-heal|p2a: Malamar|105/275 slp|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1776980102
+|-curestatus|p2a: Malamar|slp|[msg]
+|move|p2a: Malamar|Rest|p2a: Malamar
+|-status|p2a: Malamar|slp|[from] move: Rest
+|-heal|p2a: Malamar|275/275 slp|[silent]
+|cant|p1a: Skarmory|par
+|
+|upkeep
+|turn|20
+|
+|t:|1776980105
+|cant|p2a: Malamar|slp
+|move|p2a: Malamar|Sleep Talk|p2a: Malamar
+|move|p2a: Malamar|Rest||[from] move: Sleep Talk|[still]
+|-fail|p2a: Malamar
+|move|p1a: Skarmory|Body Press|p2a: Malamar
+|-damage|p2a: Malamar|175/275 slp
+|
+|-heal|p2a: Malamar|192/275 slp|[from] item: Leftovers
+|upkeep
+|turn|21
+|c|☆junegeneg|this is truly peak gameplay
+|
+|t:|1776980117
+|cant|p2a: Malamar|slp
+|move|p2a: Malamar|Sleep Talk|p2a: Malamar
+|move|p2a: Malamar|Knock Off|p1a: Skarmory|[from] move: Sleep Talk
+|-resisted|p1a: Skarmory
+|-damage|p1a: Skarmory|156/235 par
+|move|p1a: Skarmory|Body Press|p2a: Malamar
+|-damage|p2a: Malamar|87/275 slp
+|
+|-heal|p2a: Malamar|104/275 slp|[from] item: Leftovers
+|upkeep
+|turn|22
+|c|☆majorlyconfused|im sorry i made this so cancerous
+|
+|t:|1776980121
+|-curestatus|p2a: Malamar|slp|[msg]
+|move|p2a: Malamar|Superpower|p1a: Skarmory
+|-damage|p1a: Skarmory|97/235 par
+|move|p1a: Skarmory|Body Press|p2a: Malamar
+|-damage|p2a: Malamar|2/275
+|
+|-heal|p2a: Malamar|19/275|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1776980131
+|move|p2a: Malamar|Rest|p2a: Malamar
+|-status|p2a: Malamar|slp|[from] move: Rest
+|-heal|p2a: Malamar|275/275 slp|[silent]
+|move|p1a: Skarmory|Roost|p1a: Skarmory
+|-heal|p1a: Skarmory|215/235 par
+|
+|upkeep
+|turn|24
+|c|☆junegeneg|sob
+|c|☆majorlyconfused|like i could absolutely end this by switching
+|
+|t:|1776980159
+|cant|p2a: Malamar|slp
+|move|p2a: Malamar|Sleep Talk|p2a: Malamar
+|move|p2a: Malamar|Superpower|p1a: Skarmory|[from] move: Sleep Talk
+|-damage|p1a: Skarmory|158/235 par
+|move|p1a: Skarmory|Body Press|p2a: Malamar
+|-damage|p2a: Malamar|161/275 slp
+|
+|-heal|p2a: Malamar|178/275 slp|[from] item: Leftovers
+|upkeep
+|turn|25
+|c|☆majorlyconfused|but i wont
+|
+|t:|1776980168
+|cant|p2a: Malamar|slp
+|move|p2a: Malamar|Sleep Talk|p2a: Malamar
+|move|p2a: Malamar|Superpower|p1a: Skarmory|[from] move: Sleep Talk
+|-damage|p1a: Skarmory|98/235 par
+|move|p1a: Skarmory|Body Press|p2a: Malamar
+|-damage|p2a: Malamar|78/275 slp
+|
+|-heal|p2a: Malamar|95/275 slp|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1776980179
+|-curestatus|p2a: Malamar|slp|[msg]
+|move|p2a: Malamar|Superpower|p1a: Skarmory
+|-damage|p1a: Skarmory|45/235 par
+|move|p1a: Skarmory|Roost|p1a: Skarmory
+|-heal|p1a: Skarmory|163/235 par
+|
+|-heal|p2a: Malamar|112/275|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1776980187
+|move|p2a: Malamar|Rest|p2a: Malamar
+|-status|p2a: Malamar|slp|[from] move: Rest
+|-heal|p2a: Malamar|275/275 slp|[silent]
+|move|p1a: Skarmory|Body Press|p2a: Malamar
+|-damage|p2a: Malamar|173/275 slp
+|
+|-heal|p2a: Malamar|190/275 slp|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1776980194
+|cant|p2a: Malamar|slp
+|move|p2a: Malamar|Sleep Talk|p2a: Malamar
+|move|p2a: Malamar|Knock Off|p1a: Skarmory|[from] move: Sleep Talk
+|-resisted|p1a: Skarmory
+|-damage|p1a: Skarmory|141/235 par
+|move|p1a: Skarmory|Brave Bird|p2a: Malamar
+|-damage|p2a: Malamar|162/275 slp
+|-damage|p1a: Skarmory|132/235 par|[from] Recoil
+|
+|-heal|p2a: Malamar|179/275 slp|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1776980205
+|cant|p2a: Malamar|slp
+|move|p2a: Malamar|Sleep Talk|p2a: Malamar
+|move|p2a: Malamar|Rest||[from] move: Sleep Talk|[still]
+|-fail|p2a: Malamar
+|cant|p1a: Skarmory|par
+|
+|-heal|p2a: Malamar|196/275 slp|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1776980215
+|-curestatus|p2a: Malamar|slp|[msg]
+|move|p2a: Malamar|Knock Off|p1a: Skarmory
+|-resisted|p1a: Skarmory
+|-damage|p1a: Skarmory|109/235 par
+|move|p1a: Skarmory|Roost|p1a: Skarmory
+|-heal|p1a: Skarmory|227/235 par
+|
+|-heal|p2a: Malamar|213/275|[from] item: Leftovers
+|upkeep
+|turn|31
+|c|☆majorlyconfused|can we just both switch
+|c|☆junegeneg|sure
+|c|☆majorlyconfused|this turn
+|
+|t:|1776980242
+|switch|p2a: Conkeldurr|Conkeldurr, L80, F|299/299
+|switch|p1a: Tsareena|Tsareena, L87, F|267/267
+|
+|-status|p2a: Conkeldurr|brn|[from] item: Flame Orb
+|upkeep
+|turn|32
+|
+|t:|1776980262
+|move|p1a: Tsareena|Power Whip|p2a: Conkeldurr
+|-damage|p2a: Conkeldurr|49/299 brn
+|move|p2a: Conkeldurr|Knock Off|p1a: Tsareena
+|-damage|p1a: Tsareena|156/267
+|-enditem|p1a: Tsareena|Choice Band|[from] move: Knock Off|[of] p2a: Conkeldurr
+|
+|-damage|p2a: Conkeldurr|31/299 brn|[from] brn
+|upkeep
+|turn|33
+|
+|t:|1776980280
+|switch|p2a: Fezandipiti|Fezandipiti, L82, M|278/278
+|move|p1a: Tsareena|Knock Off|p2a: Fezandipiti
+|-resisted|p2a: Fezandipiti
+|-damage|p2a: Fezandipiti|230/278
+|-enditem|p2a: Fezandipiti|Leftovers|[from] move: Knock Off|[of] p1a: Tsareena
+|
+|upkeep
+|turn|34
+|
+|t:|1776980299
+|switch|p1a: Ariados|Ariados, L95, F|287/287
+|move|p2a: Fezandipiti|Swords Dance|p2a: Fezandipiti
+|-boost|p2a: Fezandipiti|atk|2
+|
+|upkeep
+|turn|35
+|c|☆majorlyconfused|oh cmon
+|c|☆junegeneg|LOL
+|
+|t:|1776980326
+|move|p2a: Fezandipiti|Swords Dance|p2a: Fezandipiti
+|-boost|p2a: Fezandipiti|atk|2
+|move|p1a: Ariados|Sticky Web|p2a: Fezandipiti
+|-sidestart|p2: majorlyconfused|move: Sticky Web
+|
+|upkeep
+|turn|36
+|
+|t:|1776980334
+|move|p2a: Fezandipiti|Swords Dance|p2a: Fezandipiti
+|-boost|p2a: Fezandipiti|atk|2
+|move|p1a: Ariados|Poison Jab|p2a: Fezandipiti
+|-damage|p2a: Fezandipiti|125/278
+|
+|upkeep
+|turn|37
+|
+|t:|1776980352
+|-terastallize|p2a: Fezandipiti|Ground
+|move|p2a: Fezandipiti|Tera Blast|p1a: Ariados|[anim] Tera Blast Ground
+|-damage|p1a: Ariados|0 fnt
+|faint|p1a: Ariados
+|
+|upkeep
+|
+|t:|1776980356
+|switch|p1a: Mabosstiff|Mabosstiff, L86, M|278/278
+|turn|38
+|
+|t:|1776980375
+|move|p1a: Mabosstiff|Play Rough|p2a: Fezandipiti
+|-damage|p2a: Fezandipiti|39/278
+|move|p2a: Fezandipiti|Play Rough|p1a: Mabosstiff
+|-supereffective|p1a: Mabosstiff
+|-damage|p1a: Mabosstiff|0 fnt
+|faint|p1a: Mabosstiff
+|
+|upkeep
+|
+|t:|1776980380
+|switch|p1a: Talonflame|Talonflame, L83, F|265/265
+|turn|39
+|
+|t:|1776980387
+|move|p1a: Talonflame|Brave Bird|p2a: Fezandipiti
+|-damage|p2a: Fezandipiti|0 fnt
+|faint|p2a: Fezandipiti
+|-damage|p1a: Talonflame|252/265|[from] Recoil
+|
+|upkeep
+|
+|t:|1776980406
+|switch|p2a: Dunsparce|Dunsparce, L86, F|312/312
+|-activate|p2a: Dunsparce|move: Sticky Web
+|-unboost|p2a: Dunsparce|spe|1
+|turn|40
+|
+|t:|1776980411
+|move|p1a: Talonflame|U-turn|p2a: Dunsparce
+|-damage|p2a: Dunsparce|282/312
+|
+|t:|1776980417
+|switch|p1a: Mew|Mew, L82|298/298|[from] U-turn
+|move|p2a: Dunsparce|Body Slam|p1a: Mew
+|-damage|p1a: Mew|228/298
+|-status|p1a: Mew|par
+|-activate|p1a: Mew|ability: Synchronize
+|-status|p2a: Dunsparce|par
+|
+|-heal|p1a: Mew|246/298 par|[from] item: Leftovers
+|upkeep
+|turn|41
+|c|☆majorlyconfused|go go gadget
+|c|☆junegeneg|ok
+|c|☆junegeneg|gg
+|c|☆junegeneg|i have nothing for this demon
+|c|☆majorlyconfused|please stay
+|c|☆majorlyconfused|i have a funny mon
+|
+|t:|1776980442
+|move|p1a: Mew|Knock Off|p2a: Dunsparce
+|-damage|p2a: Dunsparce|228/312 par
+|-enditem|p2a: Dunsparce|Eviolite|[from] move: Knock Off|[of] p1a: Mew
+|move|p2a: Dunsparce|Coil|p2a: Dunsparce
+|-boost|p2a: Dunsparce|atk|1
+|-boost|p2a: Dunsparce|def|1
+|-boost|p2a: Dunsparce|accuracy|1
+|
+|-heal|p1a: Mew|264/298 par|[from] item: Leftovers
+|upkeep
+|turn|42
+|
+|t:|1776980450
+|move|p1a: Mew|Encore|p2a: Dunsparce
+|-start|p2a: Dunsparce|Encore
+|move|p2a: Dunsparce|Coil|p2a: Dunsparce
+|-boost|p2a: Dunsparce|atk|1
+|-boost|p2a: Dunsparce|def|1
+|-boost|p2a: Dunsparce|accuracy|1
+|
+|-heal|p1a: Mew|282/298 par|[from] item: Leftovers
+|upkeep
+|turn|43
+|
+|t:|1776980457
+|move|p1a: Mew|Psychic|p2a: Dunsparce
+|-crit|p2a: Dunsparce
+|-damage|p2a: Dunsparce|50/312 par
+|move|p2a: Dunsparce|Coil|p2a: Dunsparce
+|-boost|p2a: Dunsparce|atk|1
+|-boost|p2a: Dunsparce|def|1
+|-boost|p2a: Dunsparce|accuracy|1
+|
+|-heal|p1a: Mew|298/298 par|[from] item: Leftovers
+|upkeep
+|turn|44
+|c|☆junegeneg|LOL
+|c|☆majorlyconfused|ouch
+|
+|t:|1776980467
+|switch|p2a: Conkeldurr|Conkeldurr, L80, F|31/299 brn
+|-activate|p2a: Conkeldurr|move: Sticky Web
+|-unboost|p2a: Conkeldurr|spe|1
+|move|p1a: Mew|Psychic|p2a: Conkeldurr
+|-supereffective|p2a: Conkeldurr
+|-damage|p2a: Conkeldurr|0 fnt
+|faint|p2a: Conkeldurr
+|
+|upkeep
+|
+|t:|1776980477
+|switch|p2a: Ditto|Ditto, L87|225/225
+|-activate|p2a: Ditto|move: Sticky Web
+|-unboost|p2a: Ditto|spe|1
+|-transform|p2a: Ditto|p1a: Mew|[from] ability: Imposter
+|turn|45
+|
+|t:|1776980492
+|move|p2a: Ditto|Knock Off|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|172/298 par
+|-enditem|p1a: Mew|Leftovers|[from] move: Knock Off|[of] p2a: Ditto
+|move|p1a: Mew|U-turn|p2a: Ditto
+|-supereffective|p2a: Ditto
+|-damage|p2a: Ditto|143/225
+|
+|t:|1776980496
+|switch|p1a: Talonflame|Talonflame, L83, F|252/265|[from] U-turn
+|
+|upkeep
+|turn|46
+|
+|t:|1776980511
+|switch|p2a: Gardevoir|Gardevoir, L83, M|249/249
+|-activate|p2a: Gardevoir|move: Sticky Web
+|-unboost|p2a: Gardevoir|spe|1
+|-ability|p2a: Gardevoir|Flame Body|Trace|[from] ability: Trace|[of] p1a: Talonflame
+|move|p1a: Talonflame|Brave Bird|p2a: Gardevoir
+|-damage|p2a: Gardevoir|117/249
+|-damage|p1a: Talonflame|208/265|[from] Recoil
+|
+|upkeep
+|turn|47
+|
+|t:|1776980534
+|move|p1a: Talonflame|Brave Bird|p2a: Gardevoir
+|-damage|p2a: Gardevoir|0 fnt
+|faint|p2a: Gardevoir
+|-damage|p1a: Talonflame|169/265|[from] Recoil
+|
+|upkeep
+|
+|t:|1776980537
+|switch|p2a: Malamar|Malamar, L82, M|213/275
+|-activate|p2a: Malamar|move: Sticky Web
+|-boost|p2a: Malamar|spe|1
+|turn|48
+|
+|t:|1776980546
+|move|p1a: Talonflame|Brave Bird|p2a: Malamar
+|-damage|p2a: Malamar|99/275
+|-damage|p1a: Talonflame|131/265|[from] Recoil
+|move|p2a: Malamar|Knock Off|p1a: Talonflame
+|-damage|p1a: Talonflame|17/265
+|-status|p2a: Malamar|brn|[from] ability: Flame Body|[of] p1a: Talonflame
+|-enditem|p1a: Talonflame|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Malamar
+|
+|-heal|p2a: Malamar|116/275 brn|[from] item: Leftovers
+|-damage|p2a: Malamar|99/275 brn|[from] brn
+|upkeep
+|turn|49
+|c|☆majorlyconfused|...
+|
+|t:|1776980559
+|switch|p2a: Dunsparce|Dunsparce, L86, F|50/312 par
+|-activate|p2a: Dunsparce|move: Sticky Web
+|-unboost|p2a: Dunsparce|spe|1
+|move|p1a: Talonflame|Roost|p1a: Talonflame
+|-heal|p1a: Talonflame|150/265
+|-singleturn|p1a: Talonflame|move: Roost
+|
+|upkeep
+|turn|50
+|
+|t:|1776980567
+|move|p1a: Talonflame|Brave Bird|p2a: Dunsparce
+|-damage|p2a: Dunsparce|0 fnt
+|faint|p2a: Dunsparce
+|-damage|p1a: Talonflame|133/265|[from] Recoil
+|
+|upkeep
+|
+|t:|1776980569
+|switch|p2a: Ditto|Ditto, L87|143/225
+|-activate|p2a: Ditto|move: Sticky Web
+|-unboost|p2a: Ditto|spe|1
+|-transform|p2a: Ditto|p1a: Talonflame|[from] ability: Imposter
+|turn|51
+|
+|t:|1776980582
+|switch|p1a: Skarmory|Skarmory, L80, M, tera:Fighting|227/235 par
+|move|p2a: Ditto|Brave Bird|p1a: Skarmory
+|-supereffective|p1a: Skarmory
+|-damage|p1a: Skarmory|75/235 par
+|-damage|p2a: Ditto|93/225|[from] Recoil
+|
+|upkeep
+|turn|52
+|
+|t:|1776980590
+|move|p2a: Ditto|Brave Bird|p1a: Skarmory
+|-supereffective|p1a: Skarmory
+|-damage|p1a: Skarmory|0 fnt
+|faint|p1a: Skarmory
+|-damage|p2a: Ditto|68/225|[from] Recoil
+|
+|upkeep
+|
+|t:|1776980593
+|switch|p1a: Tsareena|Tsareena, L87, F|156/267
+|turn|53
+|
+|t:|1776980599
+|move|p2a: Ditto|Brave Bird|p1a: Tsareena
+|-supereffective|p1a: Tsareena
+|-damage|p1a: Tsareena|0 fnt
+|faint|p1a: Tsareena
+|-damage|p2a: Ditto|17/225|[from] Recoil
+|
+|upkeep
+|
+|t:|1776980602
+|switch|p1a: Mew|Mew, L82|172/298 par
+|turn|54
+|
+|t:|1776980612
+|switch|p2a: Malamar|Malamar, L82, M|99/275 brn
+|-activate|p2a: Malamar|move: Sticky Web
+|-boost|p2a: Malamar|spe|1
+|cant|p1a: Mew|par
+|
+|-heal|p2a: Malamar|116/275 brn|[from] item: Leftovers
+|-damage|p2a: Malamar|99/275 brn|[from] brn
+|upkeep
+|turn|55
+|
+|t:|1776980627
+|move|p2a: Malamar|Knock Off|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|114/298 par
+|move|p1a: Mew|Knock Off|p2a: Malamar
+|-damage|p2a: Malamar|25/275 brn
+|-enditem|p2a: Malamar|Leftovers|[from] move: Knock Off|[of] p1a: Mew
+|
+|-damage|p2a: Malamar|8/275 brn|[from] brn
+|upkeep
+|turn|56
+|
+|t:|1776980633
+|move|p2a: Malamar|Rest|p2a: Malamar
+|-status|p2a: Malamar|slp|[from] move: Rest
+|-heal|p2a: Malamar|275/275 slp|[silent]
+|move|p1a: Mew|Knock Off|p2a: Malamar
+|-damage|p2a: Malamar|230/275 slp
+|
+|upkeep
+|turn|57
+|
+|t:|1776980639
+|switch|p1a: Talonflame|Talonflame, L83, F|133/265
+|cant|p2a: Malamar|slp
+|move|p2a: Malamar|Sleep Talk|p2a: Malamar
+|move|p2a: Malamar|Rest||[from] move: Sleep Talk|[still]
+|-fail|p2a: Malamar
+|
+|upkeep
+|turn|58
+|
+|t:|1776980645
+|move|p1a: Talonflame|Roost|p1a: Talonflame
+|-heal|p1a: Talonflame|265/265
+|-singleturn|p1a: Talonflame|move: Roost
+|cant|p2a: Malamar|slp
+|move|p2a: Malamar|Sleep Talk|p2a: Malamar
+|move|p2a: Malamar|Rest||[from] move: Sleep Talk|[still]
+|-fail|p2a: Malamar
+|
+|upkeep
+|turn|59
+|
+|t:|1776980655
+|move|p1a: Talonflame|Overheat|p2a: Malamar
+|-damage|p2a: Malamar|112/275 slp
+|-unboost|p1a: Talonflame|spa|2
+|-curestatus|p2a: Malamar|slp|[msg]
+|move|p2a: Malamar|Knock Off|p1a: Talonflame
+|-damage|p1a: Talonflame|190/265
+|
+|upkeep
+|turn|60
+|c|☆majorlyconfused|okay.
+|
+|t:|1776980673
+|move|p1a: Talonflame|U-turn|p2a: Malamar
+|-supereffective|p2a: Malamar
+|-damage|p2a: Malamar|0 fnt
+|faint|p2a: Malamar
+|
+|t:|1776980676
+|switch|p1a: Mew|Mew, L82|114/298 par|[from] U-turn
+|
+|upkeep
+|
+|t:|1776980690
+|switch|p2a: Ditto|Ditto, L87|17/225
+|-activate|p2a: Ditto|move: Sticky Web
+|-unboost|p2a: Ditto|spe|1
+|-transform|p2a: Ditto|p1a: Mew|[from] ability: Imposter
+|turn|61
+|c|☆majorlyconfused|gg
+|
+|t:|1776980703
+|move|p2a: Ditto|Knock Off|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|20/298 par
+|cant|p1a: Mew|par
+|
+|upkeep
+|turn|62
+|
+|t:|1776980707
+|move|p2a: Ditto|Knock Off|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|0 fnt
+|faint|p1a: Mew
+|
+|upkeep
+|
+|t:|1776980709
+|switch|p1a: Talonflame|Talonflame, L83, F|190/265
+|turn|63
+|
+|t:|1776980714
+|move|p2a: Ditto|Knock Off|p1a: Talonflame
+|-damage|p1a: Talonflame|137/265
+|-status|p2a: Ditto|brn|[from] ability: Flame Body|[of] p1a: Talonflame
+|-activate|p2a: Ditto|ability: Synchronize
+|-immune|p1a: Talonflame
+|move|p1a: Talonflame|U-turn|p2a: Ditto
+|-supereffective|p2a: Ditto
+|-damage|p2a: Ditto|0 fnt
+|faint|p2a: Ditto
+|
+|win|junegeneg
+|c|☆junegeneg|gg
+|l|☆majorlyconfused
+|player|p2|

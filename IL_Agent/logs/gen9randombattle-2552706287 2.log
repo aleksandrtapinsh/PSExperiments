@@ -1,0 +1,173 @@
+|j|☆Igorbeavus69
+|j|☆Imartinez26
+|t:|1772745303
+|gametype|singles
+|player|p1|Igorbeavus69|266|1404
+|player|p2|Imartinez26|170|1365
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772745303
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Oricorio|Oricorio-Sensu, L85, M|266/266
+|switch|p2a: Darkrai|Darkrai, L77|234/234
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Imartinez26)
+|
+|t:|1772745323
+|switch|p1a: Mabosstiff|Mabosstiff, L86, M|278/278
+|move|p2a: Darkrai|Substitute|p2a: Darkrai
+|-start|p2a: Darkrai|Substitute
+|-damage|p2a: Darkrai|176/234
+|
+|-heal|p2a: Darkrai|190/234|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1772745345
+|move|p2a: Darkrai|Nasty Plot|p2a: Darkrai
+|-boost|p2a: Darkrai|spa|2
+|move|p1a: Mabosstiff|Play Rough|p2a: Darkrai
+|-supereffective|p2a: Darkrai
+|-end|p2a: Darkrai|Substitute
+|
+|-heal|p2a: Darkrai|204/234|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1772745355
+|-terastallize|p2a: Darkrai|Poison
+|move|p2a: Darkrai|Sludge Bomb|p1a: Mabosstiff
+|-damage|p1a: Mabosstiff|41/278
+|move|p1a: Mabosstiff|Play Rough|p2a: Darkrai
+|-resisted|p2a: Darkrai
+|-damage|p2a: Darkrai|146/234
+|
+|-heal|p2a: Darkrai|160/234|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1772745366
+|move|p2a: Darkrai|Nasty Plot|p2a: Darkrai
+|-boost|p2a: Darkrai|spa|2
+|move|p1a: Mabosstiff|Play Rough|p2a: Darkrai
+|-resisted|p2a: Darkrai
+|-damage|p2a: Darkrai|98/234
+|
+|-heal|p2a: Darkrai|112/234|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1772745375
+|move|p2a: Darkrai|Sludge Bomb|p1a: Mabosstiff
+|-damage|p1a: Mabosstiff|0 fnt
+|faint|p1a: Mabosstiff
+|
+|-heal|p2a: Darkrai|126/234|[from] item: Leftovers
+|upkeep
+|
+|t:|1772745399
+|switch|p1a: Sunflora|Sunflora, M|312/312
+|turn|6
+|
+|t:|1772745409
+|move|p2a: Darkrai|Substitute|p2a: Darkrai
+|-start|p2a: Darkrai|Substitute
+|-damage|p2a: Darkrai|68/234
+|move|p1a: Sunflora|Earth Power|p2a: Darkrai
+|-supereffective|p2a: Darkrai
+|-end|p2a: Darkrai|Substitute
+|
+|-heal|p2a: Darkrai|82/234|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1772745418
+|move|p2a: Darkrai|Sludge Bomb|p1a: Sunflora
+|-supereffective|p1a: Sunflora
+|-damage|p1a: Sunflora|0 fnt
+|faint|p1a: Sunflora
+|
+|-heal|p2a: Darkrai|96/234|[from] item: Leftovers
+|upkeep
+|
+|t:|1772745430
+|switch|p1a: Heatran|Heatran, L79, F|273/273
+|-item|p1a: Heatran|Air Balloon
+|turn|8
+|
+|t:|1772745436
+|move|p2a: Darkrai|Dark Pulse|p1a: Heatran
+|-damage|p1a: Heatran|35/273
+|-enditem|p1a: Heatran|Air Balloon
+|move|p1a: Heatran|Earth Power|p2a: Darkrai
+|-supereffective|p2a: Darkrai
+|-damage|p2a: Darkrai|0 fnt
+|faint|p2a: Darkrai
+|
+|upkeep
+|
+|t:|1772745444
+|switch|p2a: Quaquaval|Quaquaval, L79, M|264/264
+|turn|9
+|
+|t:|1772745453
+|move|p2a: Quaquaval|Aqua Step|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|-boost|p2a: Quaquaval|spe|1
+|faint|p1a: Heatran
+|-ability|p2a: Quaquaval|Moxie|boost
+|-boost|p2a: Quaquaval|atk|1
+|
+|upkeep
+|
+|t:|1772745467
+|switch|p1a: Espeon|Espeon, L84, M|246/246
+|turn|10
+|
+|t:|1772745473
+|move|p2a: Quaquaval|Aqua Step|p1a: Espeon
+|-damage|p1a: Espeon|0 fnt
+|-boost|p2a: Quaquaval|spe|1
+|faint|p1a: Espeon
+|-ability|p2a: Quaquaval|Moxie|boost
+|-boost|p2a: Quaquaval|atk|1
+|
+|upkeep
+|
+|t:|1772745481
+|switch|p1a: Oricorio|Oricorio-Sensu, L85, M|266/266
+|turn|11
+|
+|t:|1772745487
+|move|p2a: Quaquaval|Aqua Step|p1a: Oricorio
+|-damage|p1a: Oricorio|0 fnt
+|-boost|p2a: Quaquaval|spe|1
+|faint|p1a: Oricorio
+|-ability|p2a: Quaquaval|Moxie|boost
+|-boost|p2a: Quaquaval|atk|1
+|
+|upkeep
+|
+|t:|1772745494
+|switch|p1a: Magmortar|Magmortar, L88, M|275/275
+|turn|12
+|
+|t:|1772745498
+|move|p2a: Quaquaval|Aqua Step|p1a: Magmortar
+|-supereffective|p1a: Magmortar
+|-damage|p1a: Magmortar|0 fnt
+|-boost|p2a: Quaquaval|spe|1
+|faint|p1a: Magmortar
+|
+|win|Imartinez26
+|raw|Igorbeavus69's rating: 1404 &rarr; <strong>1382</strong><br />(-22 for losing)
+|raw|Imartinez26's rating: 1365 &rarr; <strong>1387</strong><br />(+22 for winning)

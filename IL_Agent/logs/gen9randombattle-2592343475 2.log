@@ -1,0 +1,273 @@
+|j|☆mega_joner
+|j|☆iforgetwhyimhere
+|t:|1776980533
+|gametype|singles
+|player|p1|mega_joner|swimmer-gen4dp|1430
+|player|p2|iforgetwhyimhere|allister-unmasked|1465
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776980533
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Dudunsparce|Dudunsparce-Three-Segment, L83, F|343/343
+|switch|p2a: Torterra|Torterra, L78, F|276/276
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by iforgetwhyimhere)
+|inactive|mega_joner also wants the timer to be on.
+|
+|t:|1776980542
+|move|p1a: Dudunsparce|Calm Mind|p1a: Dudunsparce
+|-boost|p1a: Dudunsparce|spa|1
+|-boost|p1a: Dudunsparce|spd|1
+|move|p2a: Torterra|Shell Smash|p2a: Torterra
+|-unboost|p2a: Torterra|def|1
+|-unboost|p2a: Torterra|spd|1
+|-boost|p2a: Torterra|atk|2
+|-boost|p2a: Torterra|spa|2
+|-boost|p2a: Torterra|spe|2
+|
+|upkeep
+|turn|2
+|
+|t:|1776980546
+|move|p2a: Torterra|Bullet Seed|p1a: Dudunsparce
+|-damage|p1a: Dudunsparce|288/343
+|-damage|p1a: Dudunsparce|234/343
+|-damage|p1a: Dudunsparce|177/343
+|-damage|p1a: Dudunsparce|120/343
+|-damage|p1a: Dudunsparce|66/343
+|-hitcount|p1a: Dudunsparce|5
+|move|p1a: Dudunsparce|Boomburst|p2a: Torterra
+|-damage|p2a: Torterra|0 fnt
+|faint|p2a: Torterra
+|
+|-heal|p1a: Dudunsparce|87/343|[from] item: Leftovers
+|upkeep
+|
+|t:|1776980569
+|switch|p2a: Whiscash|Whiscash, L88, M|337/337
+|turn|3
+|
+|t:|1776980580
+|move|p2a: Whiscash|Liquidation|p1a: Dudunsparce
+|-damage|p1a: Dudunsparce|0 fnt
+|faint|p1a: Dudunsparce
+|-damage|p2a: Whiscash|304/337|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776980592
+|switch|p1a: Tsareena|Tsareena, L87, F|267/267
+|turn|4
+|
+|t:|1776980603
+|switch|p2a: Abomasnow|Abomasnow, L84, M|287/287
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Abomasnow
+|move|p1a: Tsareena|Triple Axel|p2a: Abomasnow
+|-damage|p2a: Abomasnow|273/287
+|-crit|p2a: Abomasnow
+|-damage|p2a: Abomasnow|235/287
+|-damage|p2a: Abomasnow|198/287
+|-hitcount|p2a: Abomasnow|3
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1776980612
+|switch|p1a: Salazzle|Salazzle, L83, F|249/249
+|move|p2a: Abomasnow|Aurora Veil|p2a: Abomasnow
+|-sidestart|p2: iforgetwhyimhere|move: Aurora Veil
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1776980631
+|switch|p2a: Volcanion|Volcanion, L79|255/255
+|move|p1a: Salazzle|Substitute|p1a: Salazzle
+|-start|p1a: Salazzle|Substitute
+|-damage|p1a: Salazzle|187/249
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Salazzle|202/249|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776980637
+|move|p1a: Salazzle|Toxic|p2a: Volcanion
+|-status|p2a: Volcanion|tox
+|move|p2a: Volcanion|Flame Charge|p1a: Salazzle
+|-resisted|p1a: Salazzle
+|-activate|p1a: Salazzle|move: Substitute|[damage]
+|-boost|p2a: Volcanion|spe|1
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Salazzle|217/249|[from] item: Leftovers
+|-damage|p2a: Volcanion|240/255 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1776980645
+|move|p1a: Salazzle|Protect|p1a: Salazzle
+|-singleturn|p1a: Salazzle|Protect
+|move|p2a: Volcanion|Flame Charge|p1a: Salazzle
+|-activate|p1a: Salazzle|move: Protect
+|
+|-weather|none
+|-heal|p1a: Salazzle|232/249|[from] item: Leftovers
+|-damage|p2a: Volcanion|210/255 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1776980656
+|move|p1a: Salazzle|Flamethrower|p2a: Volcanion
+|-resisted|p2a: Volcanion
+|-damage|p2a: Volcanion|201/255 tox
+|move|p2a: Volcanion|Flame Charge|p1a: Salazzle
+|-resisted|p1a: Salazzle
+|-end|p1a: Salazzle|Substitute
+|-boost|p2a: Volcanion|spe|1
+|
+|-heal|p1a: Salazzle|247/249|[from] item: Leftovers
+|-damage|p2a: Volcanion|156/255 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1776980668
+|move|p1a: Salazzle|Protect|p1a: Salazzle
+|-singleturn|p1a: Salazzle|Protect
+|move|p2a: Volcanion|Steam Eruption|p1a: Salazzle
+|-activate|p1a: Salazzle|move: Protect
+|
+|-heal|p1a: Salazzle|249/249|[from] item: Leftovers
+|-damage|p2a: Volcanion|96/255 tox|[from] psn
+|upkeep
+|turn|11
+|c|☆iforgetwhyimhere|stupidest fucking mom ever
+|n|‽iforgetwhyimhere|iforgetwhyimhere
+|c|~|/log iforgetwhyimhere was locked from talking by Artemis. (☆iforgetwhyimhere: stupidest fucking mom ever)
+|c|~|/raw <small>This action was done automatically. Want to learn more about the AI? <a href="https://www.smogon.com/forums/threads/3570628/#post-9056769">Visit the information thread</a>.</small>
+|
+|t:|1776980697
+|switch|p1a: Cramorant|Cramorant, L86, M|261/261
+|move|p2a: Volcanion|Steam Eruption|p1a: Cramorant
+|-resisted|p1a: Cramorant
+|-damage|p1a: Cramorant|201/261
+|
+|-damage|p2a: Volcanion|21/255 tox|[from] psn
+|upkeep
+|turn|12
+|inactive|iforgetwhyimhere has 120 seconds left.
+|inactive|iforgetwhyimhere has 90 seconds left.
+|
+|t:|1776980764
+|move|p2a: Volcanion|Sludge Bomb|p1a: Cramorant
+|-damage|p1a: Cramorant|135/261
+|move|p1a: Cramorant|Roost|p1a: Cramorant
+|-heal|p1a: Cramorant|261/261
+|-singleturn|p1a: Cramorant|move: Roost
+|
+|-damage|p2a: Volcanion|0 fnt|[from] psn
+|faint|p2a: Volcanion
+|-sideend|p2: iforgetwhyimhere|move: Aurora Veil
+|upkeep
+|
+|t:|1776980776
+|switch|p2a: Whiscash|Whiscash, L88, M|304/337
+|turn|13
+|
+|t:|1776980780
+|switch|p1a: Tsareena|Tsareena, L87, F|267/267
+|move|p2a: Whiscash|Dragon Dance|p2a: Whiscash
+|-boost|p2a: Whiscash|atk|1
+|-boost|p2a: Whiscash|spe|1
+|
+|upkeep
+|turn|14
+|
+|t:|1776980784
+|move|p1a: Tsareena|Power Whip|p2a: Whiscash|[miss]
+|-miss|p1a: Tsareena|p2a: Whiscash
+|move|p2a: Whiscash|Stone Edge|p1a: Tsareena
+|-damage|p1a: Tsareena|157/267
+|-damage|p2a: Whiscash|271/337|[from] item: Life Orb
+|
+|upkeep
+|turn|15
+|
+|t:|1776980791
+|switch|p2a: Abomasnow|Abomasnow, L84, M|198/287
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Abomasnow
+|move|p1a: Tsareena|Power Whip|p2a: Abomasnow
+|-resisted|p2a: Abomasnow
+|-damage|p2a: Abomasnow|136/287
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|16
+|n|☆iforgetwhyimhere|iforgetwhyimhere
+|
+|t:|1776980797
+|switch|p1a: Salazzle|Salazzle, L83, F|249/249
+|move|p2a: Abomasnow|Aurora Veil|p2a: Abomasnow
+|-sidestart|p2: iforgetwhyimhere|move: Aurora Veil
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|17
+|inactive|iforgetwhyimhere has 120 seconds left.
+|
+|t:|1776980817
+|move|p1a: Salazzle|Substitute|p1a: Salazzle
+|-start|p1a: Salazzle|Substitute
+|-damage|p1a: Salazzle|187/249
+|move|p2a: Abomasnow|Earthquake|p1a: Salazzle
+|-supereffective|p1a: Salazzle
+|-end|p1a: Salazzle|Substitute
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Salazzle|202/249|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1776980823
+|move|p1a: Salazzle|Flamethrower|p2a: Abomasnow
+|-supereffective|p2a: Abomasnow
+|-damage|p2a: Abomasnow|0 fnt
+|faint|p2a: Abomasnow
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1a: Salazzle|217/249|[from] item: Leftovers
+|upkeep
+|inactive|iforgetwhyimhere has 120 seconds left.
+|
+|t:|1776980835
+|switch|p2a: Hydreigon|Hydreigon, L79, M|275/275
+|turn|19
+|inactive|iforgetwhyimhere has 120 seconds left.
+|
+|t:|1776980845
+|move|p1a: Salazzle|Toxic|p2a: Hydreigon
+|-status|p2a: Hydreigon|tox
+|move|p2a: Hydreigon|Dark Pulse|p1a: Salazzle
+|-damage|p1a: Salazzle|65/249
+|-damage|p2a: Hydreigon|248/275 tox|[from] item: Life Orb
+|
+|-weather|none
+|-heal|p1a: Salazzle|80/249|[from] item: Leftovers
+|-damage|p2a: Hydreigon|231/275 tox|[from] psn
+|upkeep
+|turn|20
+|c|☆iforgetwhyimhere|*mon.
+|inactive|iforgetwhyimhere has 120 seconds left.
+|-message|iforgetwhyimhere forfeited.
+|
+|win|mega_joner

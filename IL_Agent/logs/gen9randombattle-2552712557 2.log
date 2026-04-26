@@ -1,0 +1,332 @@
+|j|☆zfgo
+|j|☆bestakdv
+|t:|1772745899
+|gametype|singles
+|player|p1|zfgo|2|
+|player|p2|bestakdv|170|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772745899
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Greninja|Greninja, L80, M|246/246
+|switch|p2a: Arceus|Arceus, L68|276/276
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by bestakdv)
+|
+|t:|1772745919
+|move|p1a: Greninja|Hydro Pump|p2a: Arceus
+|-damage|p2a: Arceus|130/276
+|-damage|p1a: Greninja|222/246|[from] item: Life Orb
+|move|p2a: Arceus|Swords Dance|p2a: Arceus
+|-boost|p2a: Arceus|atk|2
+|
+|upkeep
+|turn|2
+|
+|t:|1772745926
+|-terastallize|p2a: Arceus|Normal
+|move|p2a: Arceus|Extreme Speed|p1a: Greninja
+|-damage|p1a: Greninja|0 fnt
+|faint|p1a: Greninja
+|-damage|p2a: Arceus|103/276|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772745938
+|switch|p1a: Corviknight|Corviknight, L80, F|288/288
+|turn|3
+|
+|t:|1772745946
+|move|p2a: Arceus|Recover|p2a: Arceus
+|-heal|p2a: Arceus|241/276
+|move|p1a: Corviknight|Brave Bird|p2a: Arceus
+|-damage|p2a: Arceus|127/276
+|-damage|p1a: Corviknight|250/288|[from] Recoil
+|
+|upkeep
+|turn|4
+|
+|t:|1772745973
+|move|p2a: Arceus|Recover|p2a: Arceus
+|-heal|p2a: Arceus|265/276
+|move|p1a: Corviknight|U-turn|p2a: Arceus
+|-damage|p2a: Arceus|223/276
+|
+|t:|1772745976
+|switch|p1a: Granbull|Granbull, L88, F|302/302|[from] U-turn
+|-ability|p1a: Granbull|Intimidate|boost
+|-unboost|p2a: Arceus|atk|1
+|
+|upkeep
+|turn|5
+|
+|t:|1772745988
+|move|p2a: Arceus|Extreme Speed|p1a: Granbull
+|-damage|p1a: Granbull|123/302
+|-damage|p2a: Arceus|196/276|[from] item: Life Orb
+|move|p1a: Granbull|Encore|p2a: Arceus
+|-start|p2a: Arceus|Encore
+|
+|-heal|p1a: Granbull|141/302|[from] item: Leftovers
+|upkeep
+|turn|6
+|inactive|zfgo has 270 seconds left.
+|
+|t:|1772746016
+|switch|p2a: Hatterene|Hatterene, L85, F|236/236
+|move|p1a: Granbull|Thunder Wave|p2a: Hatterene
+|move|p2a: Hatterene|Thunder Wave|p1a: Granbull|[from] ability: Magic Bounce
+|-status|p1a: Granbull|par
+|
+|-heal|p1a: Granbull|159/302 par|[from] item: Leftovers
+|upkeep
+|turn|7
+|inactive|zfgo has 270 seconds left.
+|inactive|bestakdv has 270 seconds left.
+|
+|t:|1772746044
+|move|p2a: Hatterene|Psychic|p1a: Granbull
+|-damage|p1a: Granbull|0 fnt
+|faint|p1a: Granbull
+|
+|upkeep
+|inactive|zfgo has 270 seconds left.
+|
+|t:|1772746058
+|switch|p1a: Perrserker|Perrserker, L89, F|269/269
+|turn|8
+|inactive|zfgo has 270 seconds left.
+|
+|t:|1772746066
+|move|p1a: Perrserker|Iron Head|p2a: Hatterene
+|-supereffective|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|-damage|p1a: Perrserker|243/269|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772746073
+|switch|p2a: Iron Valiant|Iron Valiant, L78|244/244
+|turn|9
+|
+|t:|1772746087
+|move|p2a: Iron Valiant|Close Combat|p1a: Perrserker
+|-supereffective|p1a: Perrserker
+|-damage|p1a: Perrserker|0 fnt
+|-unboost|p2a: Iron Valiant|def|1
+|-unboost|p2a: Iron Valiant|spd|1
+|faint|p1a: Perrserker
+|-damage|p2a: Iron Valiant|220/244|[from] item: Life Orb
+|
+|upkeep
+|inactive|zfgo has 270 seconds left.
+|
+|t:|1772746108
+|switch|p1a: Annihilape|Annihilape, L76, M|292/292
+|turn|10
+|
+|t:|1772746120
+|move|p2a: Iron Valiant|Knock Off|p1a: Annihilape
+|-damage|p1a: Annihilape|176/292
+|-enditem|p1a: Annihilape|Leftovers|[from] move: Knock Off|[of] p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|196/244|[from] item: Life Orb
+|move|p1a: Annihilape|Gunk Shot|p2a: Iron Valiant
+|-supereffective|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1772746142
+|switch|p2a: Banette|Banette, L93, M|270/270
+|turn|11
+|inactive|zfgo has 270 seconds left.
+|
+|t:|1772746156
+|-terastallize|p1a: Annihilape|Ghost
+|move|p2a: Banette|Shadow Sneak|p1a: Annihilape
+|-supereffective|p1a: Annihilape
+|-damage|p1a: Annihilape|0 fnt
+|faint|p1a: Annihilape
+|-damage|p2a: Banette|243/270|[from] item: Life Orb
+|
+|upkeep
+|inactive|zfgo has 270 seconds left.
+|
+|t:|1772746164
+|switch|p1a: Bombirdier|Bombirdier, L85, F|258/258
+|turn|12
+|
+|t:|1772746168
+|move|p1a: Bombirdier|Knock Off|p2a: Banette
+|-supereffective|p2a: Banette
+|-damage|p2a: Banette|0 fnt
+|-enditem|p2a: Banette|Life Orb|[from] move: Knock Off|[of] p1a: Bombirdier
+|faint|p2a: Banette
+|
+|upkeep
+|c|☆bestakdv|!weakness bombirdier
+|c| bestakdv|/raw <div class="infobox">Bombirdier (ignoring abilities):<br /><span class="message-effect-weak">Weaknesses</span>: Electric, Fairy, Ice, Rock<br /><span class="message-effect-resist">Resistances</span>: Dark, Ghost, Grass<br /><span class="message-effect-immune">Immunities</span>: Ground, Psychic, Prankster</div>
+|
+|t:|1772746189
+|switch|p2a: Solgaleo|Solgaleo, L74|325/325
+|turn|13
+|
+|t:|1772746203
+|move|p1a: Bombirdier|Knock Off|p2a: Solgaleo
+|-supereffective|p2a: Solgaleo
+|-damage|p2a: Solgaleo|107/325
+|-enditem|p2a: Solgaleo|Leftovers|[from] move: Knock Off|[of] p1a: Bombirdier
+|move|p2a: Solgaleo|Sunsteel Strike|p1a: Bombirdier
+|-damage|p1a: Bombirdier|141/258
+|
+|upkeep
+|turn|14
+|
+|t:|1772746214
+|move|p1a: Bombirdier|Roost|p1a: Bombirdier
+|-heal|p1a: Bombirdier|258/258
+|-singleturn|p1a: Bombirdier|move: Roost
+|move|p2a: Solgaleo|Sunsteel Strike|p1a: Bombirdier
+|-damage|p1a: Bombirdier|138/258
+|
+|upkeep
+|turn|15
+|
+|t:|1772746221
+|move|p1a: Bombirdier|Knock Off|p2a: Solgaleo
+|-supereffective|p2a: Solgaleo
+|-damage|p2a: Solgaleo|0 fnt
+|faint|p2a: Solgaleo
+|
+|upkeep
+|
+|t:|1772746233
+|switch|p2a: Arceus|Arceus, L68, tera:Normal|196/276
+|turn|16
+|
+|t:|1772746249
+|move|p2a: Arceus|Extreme Speed|p1a: Bombirdier
+|-damage|p1a: Bombirdier|11/258
+|-damage|p2a: Arceus|169/276|[from] item: Life Orb
+|move|p1a: Bombirdier|Brave Bird|p2a: Arceus
+|-damage|p2a: Arceus|31/276
+|-damage|p1a: Bombirdier|0 fnt|[from] Recoil
+|faint|p1a: Bombirdier
+|
+|upkeep
+|
+|t:|1772746258
+|switch|p1a: Corviknight|Corviknight, L80, F|250/288
+|turn|17
+|
+|t:|1772746274
+|move|p2a: Arceus|Recover|p2a: Arceus
+|-heal|p2a: Arceus|169/276
+|move|p1a: Corviknight|Brave Bird|p2a: Arceus
+|-damage|p2a: Arceus|66/276
+|-damage|p1a: Corviknight|216/288|[from] Recoil
+|
+|upkeep
+|turn|18
+|
+|t:|1772746287
+|move|p2a: Arceus|Recover|p2a: Arceus
+|-heal|p2a: Arceus|204/276
+|move|p1a: Corviknight|U-turn|p2a: Arceus
+|-damage|p2a: Arceus|165/276
+|
+|upkeep
+|turn|19
+|
+|t:|1772746297
+|move|p2a: Arceus|Extreme Speed|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|160/288
+|-damage|p2a: Arceus|119/276|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|-damage|p2a: Arceus|92/276|[from] item: Life Orb
+|move|p1a: Corviknight|U-turn|p2a: Arceus
+|-damage|p2a: Arceus|50/276
+|
+|upkeep
+|turn|20
+|
+|t:|1772746308
+|move|p2a: Arceus|Recover|p2a: Arceus
+|-heal|p2a: Arceus|188/276
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|288/288
+|-singleturn|p1a: Corviknight|move: Roost
+|
+|upkeep
+|turn|21
+|
+|t:|1772746320
+|move|p2a: Arceus|Earthquake|p1a: Corviknight
+|-immune|p1a: Corviknight
+|move|p1a: Corviknight|Brave Bird|p2a: Arceus
+|-damage|p2a: Arceus|80/276
+|-damage|p1a: Corviknight|252/288|[from] Recoil
+|
+|upkeep
+|turn|22
+|
+|t:|1772746328
+|move|p2a: Arceus|Recover|p2a: Arceus
+|-heal|p2a: Arceus|218/276
+|move|p1a: Corviknight|Brave Bird|p2a: Arceus
+|-damage|p2a: Arceus|113/276
+|-damage|p1a: Corviknight|217/288|[from] Recoil
+|
+|upkeep
+|turn|23
+|
+|t:|1772746339
+|move|p2a: Arceus|Swords Dance|p2a: Arceus
+|-boost|p2a: Arceus|atk|2
+|move|p1a: Corviknight|U-turn|p2a: Arceus
+|-damage|p2a: Arceus|74/276
+|
+|upkeep
+|turn|24
+|
+|t:|1772746350
+|move|p2a: Arceus|Recover|p2a: Arceus
+|-heal|p2a: Arceus|212/276
+|move|p1a: Corviknight|Brave Bird|p2a: Arceus
+|-damage|p2a: Arceus|110/276
+|-damage|p1a: Corviknight|183/288|[from] Recoil
+|
+|upkeep
+|turn|25
+|
+|t:|1772746358
+|move|p2a: Arceus|Swords Dance|p2a: Arceus
+|-boost|p2a: Arceus|atk|2
+|move|p1a: Corviknight|Brave Bird|p2a: Arceus
+|-damage|p2a: Arceus|7/276
+|-damage|p1a: Corviknight|149/288|[from] Recoil
+|
+|upkeep
+|turn|26
+|
+|t:|1772746368
+|move|p2a: Arceus|Extreme Speed|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|0 fnt
+|-damage|p2a: Arceus|0 fnt|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|faint|p1a: Corviknight
+|faint|p2a: Arceus
+|
+|win|bestakdv
+|l|☆bestakdv
+|player|p2|

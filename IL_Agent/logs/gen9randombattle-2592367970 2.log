@@ -1,0 +1,330 @@
+|j|☆sjjsbdbdfhv
+|j|☆myworldinflames
+|t:|1776982733
+|gametype|singles
+|player|p1|sjjsbdbdfhv|101|1073
+|player|p2|myworldinflames|1|1095
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776982733
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Poliwrath|Poliwrath, L88, F|302/302
+|switch|p2a: Lurantis|Lurantis, L87, M|264/264
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by myworldinflames)
+|
+|t:|1776982747
+|switch|p1a: Kilowattrel|Kilowattrel, L83, M|252/252
+|move|p2a: Lurantis|Leaf Storm|p1a: Kilowattrel|[miss]
+|-miss|p2a: Lurantis|p1a: Kilowattrel
+|
+|upkeep
+|turn|2
+|
+|t:|1776982758
+|switch|p2a: Bellibolt|Bellibolt, L84, M|320/320
+|move|p1a: Kilowattrel|Hurricane|p2a: Bellibolt
+|-resisted|p2a: Bellibolt
+|-damage|p2a: Bellibolt|260/320
+|-start|p2a: Bellibolt|Charge|Hurricane|[from] ability: Electromorphosis
+|
+|-heal|p2a: Bellibolt|280/320|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776982784
+|move|p1a: Kilowattrel|U-turn|p2a: Bellibolt
+|-crit|p2a: Bellibolt
+|-damage|p2a: Bellibolt|227/320
+|-start|p2a: Bellibolt|Charge|U-turn|[from] ability: Electromorphosis
+|
+|t:|1776982793
+|switch|p1a: Oranguru|Oranguru, L92, M|315/315|[from] U-turn
+|move|p2a: Bellibolt|Volt Switch|p1a: Oranguru
+|-damage|p1a: Oranguru|189/315
+|-end|p2a: Bellibolt|Charge|[silent]
+|
+|t:|1776982800
+|switch|p2a: Umbreon|Umbreon, L84, M|297/297|[from] Volt Switch
+|
+|-heal|p1a: Oranguru|208/315|[from] item: Leftovers
+|upkeep
+|turn|4
+|inactive|sjjsbdbdfhv has 120 seconds left.
+|
+|t:|1776982821
+|switch|p1a: Zamazenta|Zamazenta-Crowned, L68|238/238
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|move|p2a: Umbreon|Toxic|p1a: Zamazenta
+|-immune|p1a: Zamazenta
+|
+|upkeep
+|turn|5
+|
+|t:|1776982830
+|move|p2a: Umbreon|Protect|p2a: Umbreon
+|-singleturn|p2a: Umbreon|Protect
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|2
+|
+|upkeep
+|turn|6
+|
+|t:|1776982852
+|move|p1a: Zamazenta|Body Press|p2a: Umbreon
+|-supereffective|p2a: Umbreon
+|-damage|p2a: Umbreon|0 fnt
+|faint|p2a: Umbreon
+|
+|upkeep
+|
+|t:|1776982860
+|switch|p2a: Dachsbun|Dachsbun, L92, F|254/254
+|turn|7
+|
+|t:|1776982867
+|move|p2a: Dachsbun|Body Press|p1a: Zamazenta
+|-supereffective|p1a: Zamazenta
+|-crit|p1a: Zamazenta
+|-damage|p1a: Zamazenta|32/238
+|move|p1a: Zamazenta|Heavy Slam|p2a: Dachsbun
+|-supereffective|p2a: Dachsbun
+|-damage|p2a: Dachsbun|98/254
+|
+|-heal|p2a: Dachsbun|113/254|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776982877
+|switch|p1a: Hoopa|Hoopa, L85|275/275
+|move|p2a: Dachsbun|Body Press|p1a: Hoopa
+|-immune|p1a: Hoopa
+|
+|-heal|p2a: Dachsbun|128/254|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776982893
+|move|p1a: Hoopa|Psychic|p2a: Dachsbun
+|-damage|p2a: Dachsbun|0 fnt
+|faint|p2a: Dachsbun
+|
+|upkeep
+|
+|t:|1776982898
+|switch|p2a: Flareon|Flareon, L90, F|263/263
+|turn|10
+|
+|t:|1776982904
+|move|p1a: Hoopa|Psychic|p2a: Flareon
+|-damage|p2a: Flareon|149/263
+|move|p2a: Flareon|Trailblaze|p1a: Hoopa
+|-damage|p1a: Hoopa|208/275
+|-boost|p2a: Flareon|spe|1
+|
+|-status|p2a: Flareon|tox|[from] item: Toxic Orb
+|upkeep
+|turn|11
+|
+|t:|1776982916
+|move|p1a: Hoopa|Psychic|p2a: Flareon
+|-damage|p2a: Flareon|31/263 tox
+|move|p2a: Flareon|Flare Blitz|p1a: Hoopa
+|-damage|p1a: Hoopa|0 fnt
+|faint|p1a: Hoopa
+|-damage|p2a: Flareon|0 fnt|[from] Recoil
+|faint|p2a: Flareon
+|
+|upkeep
+|
+|t:|1776982928
+|switch|p2a: Lurantis|Lurantis, L87, M|264/264
+|switch|p1a: Oranguru|Oranguru, L92, M|208/315
+|turn|12
+|
+|t:|1776982937
+|move|p1a: Oranguru|Psyshock|p2a: Lurantis
+|-damage|p2a: Lurantis|177/264
+|move|p2a: Lurantis|Leaf Storm|p1a: Oranguru
+|-crit|p1a: Oranguru
+|-damage|p1a: Oranguru|67/315
+|-boost|p2a: Lurantis|spa|2
+|
+|-heal|p1a: Oranguru|86/315|[from] item: Leftovers
+|-heal|p2a: Lurantis|193/264|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776982948
+|move|p1a: Oranguru|Psyshock|p2a: Lurantis
+|-crit|p2a: Lurantis
+|-damage|p2a: Lurantis|46/264
+|move|p2a: Lurantis|Superpower|p1a: Oranguru
+|-damage|p1a: Oranguru|0 fnt
+|-boost|p2a: Lurantis|atk|1
+|-boost|p2a: Lurantis|def|1
+|faint|p1a: Oranguru
+|
+|-heal|p2a: Lurantis|62/264|[from] item: Leftovers
+|upkeep
+|
+|t:|1776982970
+|switch|p1a: Poliwrath|Poliwrath, L88, F|302/302
+|turn|14
+|
+|t:|1776982975
+|switch|p2a: Bellibolt|Bellibolt, L84, M|227/320
+|move|p1a: Poliwrath|Poison Jab|p2a: Bellibolt
+|-damage|p2a: Bellibolt|166/320
+|-start|p2a: Bellibolt|Charge|Poison Jab|[from] ability: Electromorphosis
+|
+|-heal|p2a: Bellibolt|186/320|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1776982985
+|switch|p1a: Kilowattrel|Kilowattrel, L83, M|252/252
+|move|p2a: Bellibolt|Thunderbolt|p1a: Kilowattrel
+|-immune|p1a: Kilowattrel|[from] ability: Volt Absorb
+|-end|p2a: Bellibolt|Charge|[silent]
+|
+|-heal|p2a: Bellibolt|206/320|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776982997
+|move|p1a: Kilowattrel|Hurricane|p2a: Bellibolt
+|-resisted|p2a: Bellibolt
+|-damage|p2a: Bellibolt|140/320
+|-start|p2a: Bellibolt|Charge|Hurricane|[from] ability: Electromorphosis
+|move|p2a: Bellibolt|Slack Off|p2a: Bellibolt
+|-heal|p2a: Bellibolt|300/320
+|
+|-heal|p2a: Bellibolt|320/320|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1776983007
+|move|p1a: Kilowattrel|Hurricane|p2a: Bellibolt|[miss]
+|-miss|p1a: Kilowattrel|p2a: Bellibolt
+|move|p2a: Bellibolt|Muddy Water|p1a: Kilowattrel
+|-damage|p1a: Kilowattrel|167/252
+|
+|upkeep
+|turn|18
+|
+|t:|1776983036
+|move|p1a: Kilowattrel|Roost|p1a: Kilowattrel
+|-heal|p1a: Kilowattrel|252/252
+|-singleturn|p1a: Kilowattrel|move: Roost
+|move|p2a: Bellibolt|Muddy Water|p1a: Kilowattrel
+|-damage|p1a: Kilowattrel|159/252
+|
+|upkeep
+|turn|19
+|
+|t:|1776983043
+|switch|p1a: Poliwrath|Poliwrath, L88, F|302/302
+|move|p2a: Bellibolt|Muddy Water|p1a: Poliwrath
+|-immune|p1a: Poliwrath|[from] ability: Water Absorb
+|
+|upkeep
+|turn|20
+|
+|t:|1776983063
+|-terastallize|p1a: Poliwrath|Steel
+|move|p1a: Poliwrath|Bulk Up|p1a: Poliwrath
+|-boost|p1a: Poliwrath|atk|1
+|-boost|p1a: Poliwrath|def|1
+|move|p2a: Bellibolt|Thunderbolt|p1a: Poliwrath
+|-damage|p1a: Poliwrath|100/302
+|-end|p2a: Bellibolt|Charge|[silent]
+|
+|-heal|p1a: Poliwrath|118/302|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1776983074
+|move|p1a: Poliwrath|Drain Punch|p2a: Bellibolt
+|-damage|p2a: Bellibolt|205/320
+|-heal|p1a: Poliwrath|176/302|[from] drain|[of] p2a: Bellibolt
+|-start|p2a: Bellibolt|Charge|Drain Punch|[from] ability: Electromorphosis
+|move|p2a: Bellibolt|Thunderbolt|p1a: Poliwrath
+|-damage|p1a: Poliwrath|1/302
+|-end|p2a: Bellibolt|Charge|[silent]
+|
+|-heal|p1a: Poliwrath|19/302|[from] item: Leftovers
+|-heal|p2a: Bellibolt|225/320|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1776983085
+|move|p1a: Poliwrath|Drain Punch|p2a: Bellibolt
+|-damage|p2a: Bellibolt|98/320
+|-heal|p1a: Poliwrath|83/302|[from] drain|[of] p2a: Bellibolt
+|-start|p2a: Bellibolt|Charge|Drain Punch|[from] ability: Electromorphosis
+|move|p2a: Bellibolt|Thunderbolt|p1a: Poliwrath
+|-damage|p1a: Poliwrath|0 fnt
+|faint|p1a: Poliwrath
+|-end|p2a: Bellibolt|Charge|[silent]
+|
+|-heal|p2a: Bellibolt|118/320|[from] item: Leftovers
+|upkeep
+|
+|t:|1776983099
+|switch|p1a: Cloyster|Cloyster, L80, F|211/211
+|turn|23
+|
+|t:|1776983103
+|move|p1a: Cloyster|Rock Blast|p2a: Bellibolt
+|-damage|p2a: Bellibolt|102/320
+|-start|p2a: Bellibolt|Charge|Rock Blast|[from] ability: Electromorphosis
+|-damage|p2a: Bellibolt|85/320
+|-start|p2a: Bellibolt|Charge|Rock Blast|[from] ability: Electromorphosis
+|-damage|p2a: Bellibolt|70/320
+|-start|p2a: Bellibolt|Charge|Rock Blast|[from] ability: Electromorphosis
+|-damage|p2a: Bellibolt|55/320
+|-start|p2a: Bellibolt|Charge|Rock Blast|[from] ability: Electromorphosis
+|-damage|p2a: Bellibolt|38/320
+|-start|p2a: Bellibolt|Charge|Rock Blast|[from] ability: Electromorphosis
+|-hitcount|p2a: Bellibolt|5
+|move|p2a: Bellibolt|Slack Off|p2a: Bellibolt
+|-heal|p2a: Bellibolt|198/320
+|
+|-heal|p2a: Bellibolt|218/320|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1776983123
+|move|p1a: Cloyster|Shell Smash|p1a: Cloyster
+|-unboost|p1a: Cloyster|def|1
+|-unboost|p1a: Cloyster|spd|1
+|-boost|p1a: Cloyster|atk|2
+|-boost|p1a: Cloyster|spa|2
+|-boost|p1a: Cloyster|spe|2
+|-enditem|p1a: Cloyster|White Herb
+|-clearnegativeboost|p1a: Cloyster|[silent]
+|move|p2a: Bellibolt|Thunderbolt|p1a: Cloyster
+|-supereffective|p1a: Cloyster
+|-damage|p1a: Cloyster|0 fnt
+|faint|p1a: Cloyster
+|-end|p2a: Bellibolt|Charge|[silent]
+|
+|-heal|p2a: Bellibolt|238/320|[from] item: Leftovers
+|upkeep
+|-message|sjjsbdbdfhv forfeited.
+|
+|win|myworldinflames
+|raw|sjjsbdbdfhv's rating: 1073 &rarr; <strong>1053</strong><br />(-20 for losing)
+|raw|myworldinflames's rating: 1095 &rarr; <strong>1119</strong><br />(+24 for winning)
+|l|☆sjjsbdbdfhv
+|player|p1|

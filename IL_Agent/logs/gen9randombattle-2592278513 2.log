@@ -1,0 +1,282 @@
+|j|☆chernobyl×10
+|j|☆MasterRoshi96!
+|t:|1776975398
+|gametype|singles
+|player|p1|chernobyl×10|steven|1881
+|player|p2|MasterRoshi96!|spenser-gen3|1910
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776975398
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Dragonite|Dragonite, L74, M|257/257
+|switch|p2a: Zangoose|Zangoose, L85, F|263/263
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by chernobyl×10)
+|
+|t:|1776975410
+|move|p2a: Zangoose|Knock Off|p1a: Dragonite
+|-damage|p1a: Dragonite|210/257
+|-enditem|p1a: Dragonite|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Zangoose
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|-status|p2a: Zangoose|tox|[from] item: Toxic Orb
+|upkeep
+|turn|2
+|
+|t:|1776975422
+|switch|p2a: Scream Tail|Scream Tail, L84|330/330
+|move|p1a: Dragonite|Outrage|p2a: Scream Tail
+|-immune|p2a: Scream Tail
+|
+|upkeep
+|turn|3
+|
+|t:|1776975430
+|move|p1a: Dragonite|Iron Head|p2a: Scream Tail
+|-supereffective|p2a: Scream Tail
+|-damage|p2a: Scream Tail|162/330
+|move|p2a: Scream Tail|Play Rough|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|64/257
+|
+|-heal|p2a: Scream Tail|182/330|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776975435
+|move|p2a: Scream Tail|Protect|p2a: Scream Tail
+|-singleturn|p2a: Scream Tail|Protect
+|move|p1a: Dragonite|Iron Head|p2a: Scream Tail
+|-activate|p2a: Scream Tail|move: Protect
+|
+|-heal|p2a: Scream Tail|202/330|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776975453
+|move|p1a: Dragonite|Iron Head|p2a: Scream Tail
+|-supereffective|p2a: Scream Tail
+|-damage|p2a: Scream Tail|44/330
+|move|p2a: Scream Tail|Play Rough|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|
+|-heal|p2a: Scream Tail|64/330|[from] item: Leftovers
+|upkeep
+|
+|t:|1776975466
+|switch|p1a: Kricketune|Kricketune, L99, M|312/312
+|turn|6
+|
+|t:|1776975474
+|move|p2a: Scream Tail|Wish|p2a: Scream Tail
+|move|p1a: Kricketune|Pounce|p2a: Scream Tail
+|-crit|p2a: Scream Tail
+|-damage|p2a: Scream Tail|0 fnt
+|faint|p2a: Scream Tail
+|-end|p2a: Scream Tail|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1776975480
+|switch|p2a: Zangoose|Zangoose, L85, F|263/263 tox
+|turn|7
+|
+|t:|1776975487
+|switch|p1a: Houndstone|Houndstone, L86, M|264/264
+|-terastallize|p2a: Zangoose|Normal
+|move|p2a: Zangoose|Facade|p1a: Houndstone
+|-immune|p1a: Houndstone
+|
+|-damage|p2a: Zangoose|247/263 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1776975494
+|switch|p2a: Uxie|Uxie, L83|260/260
+|move|p1a: Houndstone|Body Press|p2a: Uxie
+|-resisted|p2a: Uxie
+|-damage|p2a: Uxie|239/260
+|
+|-heal|p2a: Uxie|255/260|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776975502
+|switch|p1a: Raging Bolt|Raging Bolt, L78|323/323
+|move|p2a: Uxie|Encore||[still]
+|-fail|p2a: Uxie
+|
+|-heal|p2a: Uxie|260/260|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1776975507
+|move|p2a: Uxie|Stealth Rock|p1a: Raging Bolt
+|-sidestart|p1: chernobyl×10|move: Stealth Rock
+|move|p1a: Raging Bolt|Volt Switch|p2a: Uxie
+|-damage|p2a: Uxie|194/260
+|
+|t:|1776975509
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Kricketune|Kricketune, L99, M|312/312|[from] Volt Switch
+|
+|-heal|p2a: Uxie|210/260|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776975523
+|switch|p2a: Zangoose|Zangoose, L85, F, tera:Normal|247/263 tox
+|move|p1a: Kricketune|Sticky Web|p2a: Zangoose
+|-sidestart|p2: MasterRoshi96!|move: Sticky Web
+|
+|-damage|p2a: Zangoose|231/263 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1776975549
+|move|p2a: Zangoose|Facade|p1a: Kricketune
+|-damage|p1a: Kricketune|0 fnt
+|faint|p1a: Kricketune
+|
+|-damage|p2a: Zangoose|199/263 tox|[from] psn
+|upkeep
+|
+|t:|1776975555
+|switch|p1a: Houndstone|Houndstone, L86, M|264/264
+|-damage|p1a: Houndstone|231/264|[from] Stealth Rock
+|turn|13
+|inactive|MasterRoshi96! has 120 seconds left.
+|
+|t:|1776975577
+|move|p2a: Zangoose|Knock Off|p1a: Houndstone
+|-supereffective|p1a: Houndstone
+|-damage|p1a: Houndstone|129/264
+|-enditem|p1a: Houndstone|Assault Vest|[from] move: Knock Off|[of] p2a: Zangoose
+|move|p1a: Houndstone|Body Press|p2a: Zangoose
+|-supereffective|p2a: Zangoose
+|-damage|p2a: Zangoose|29/263 tox
+|
+|-damage|p2a: Zangoose|0 fnt|[from] psn
+|faint|p2a: Zangoose
+|upkeep
+|inactive|MasterRoshi96! has 120 seconds left.
+|
+|t:|1776975594
+|switch|p2a: Ludicolo|Ludicolo, L90, F|290/290
+|-activate|p2a: Ludicolo|move: Sticky Web
+|-unboost|p2a: Ludicolo|spe|1
+|turn|14
+|
+|t:|1776975603
+|move|p1a: Houndstone|Poltergeist|p2a: Ludicolo
+|-activate|p2a: Ludicolo|move: Poltergeist|Choice Specs
+|-damage|p2a: Ludicolo|143/290
+|move|p2a: Ludicolo|Hydro Pump|p1a: Houndstone
+|-damage|p1a: Houndstone|0 fnt
+|faint|p1a: Houndstone
+|
+|upkeep
+|
+|t:|1776975623
+|switch|p1a: Espeon|Espeon, L84, F|246/246
+|-damage|p1a: Espeon|216/246|[from] Stealth Rock
+|turn|15
+|inactive|MasterRoshi96! has 120 seconds left.
+|
+|t:|1776975633
+|move|p1a: Espeon|Calm Mind|p1a: Espeon
+|-boost|p1a: Espeon|spa|1
+|-boost|p1a: Espeon|spd|1
+|move|p2a: Ludicolo|Hydro Pump|p1a: Espeon|[miss]
+|-miss|p2a: Ludicolo|p1a: Espeon
+|
+|upkeep
+|turn|16
+|
+|t:|1776975637
+|move|p1a: Espeon|Calm Mind|p1a: Espeon
+|-boost|p1a: Espeon|spa|1
+|-boost|p1a: Espeon|spd|1
+|move|p2a: Ludicolo|Hydro Pump|p1a: Espeon
+|-damage|p1a: Espeon|117/246
+|
+|upkeep
+|turn|17
+|
+|t:|1776975640
+|move|p1a: Espeon|Morning Sun|p1a: Espeon
+|-heal|p1a: Espeon|240/246
+|move|p2a: Ludicolo|Hydro Pump|p1a: Espeon
+|-damage|p1a: Espeon|150/246
+|
+|upkeep
+|turn|18
+|
+|t:|1776975648
+|move|p1a: Espeon|Calm Mind|p1a: Espeon
+|-boost|p1a: Espeon|spa|1
+|-boost|p1a: Espeon|spd|1
+|move|p2a: Ludicolo|Hydro Pump|p1a: Espeon|[miss]
+|-miss|p2a: Ludicolo|p1a: Espeon
+|
+|upkeep
+|turn|19
+|
+|t:|1776975651
+|switch|p2a: Uxie|Uxie, L83|210/260
+|move|p1a: Espeon|Morning Sun|p1a: Espeon
+|-heal|p1a: Espeon|246/246
+|
+|-heal|p2a: Uxie|226/260|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1776975657
+|switch|p2a: Ludicolo|Ludicolo, L90, F|143/290
+|-activate|p2a: Ludicolo|move: Sticky Web
+|-unboost|p2a: Ludicolo|spe|1
+|move|p1a: Espeon|Alluring Voice|p2a: Ludicolo
+|-damage|p2a: Ludicolo|0 fnt
+|faint|p2a: Ludicolo
+|-damage|p1a: Espeon|222/246|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776975672
+|switch|p2a: Brute Bonnet|Brute Bonnet, L80|309/309
+|-activate|p2a: Brute Bonnet|move: Sticky Web
+|-unboost|p2a: Brute Bonnet|spe|1
+|turn|21
+|
+|t:|1776975676
+|-terastallize|p1a: Espeon|Fairy
+|move|p2a: Brute Bonnet|Sucker Punch|p1a: Espeon
+|-resisted|p1a: Espeon
+|-damage|p1a: Espeon|165/246
+|move|p1a: Espeon|Alluring Voice|p2a: Brute Bonnet
+|-supereffective|p2a: Brute Bonnet
+|-damage|p2a: Brute Bonnet|0 fnt
+|faint|p2a: Brute Bonnet
+|-end|p2a: Brute Bonnet|Protosynthesis|[silent]
+|-damage|p1a: Espeon|141/246|[from] item: Life Orb
+|
+|upkeep
+|-message|MasterRoshi96! forfeited.
+|
+|win|chernobyl×10
+|raw|chernobyl×10's rating: 1881 &rarr; <strong>1903</strong><br />(+22 for winning)
+|raw|MasterRoshi96!'s rating: 1910 &rarr; <strong>1888</strong><br />(-22 for losing)
+|l|☆MasterRoshi96!
+|player|p2|

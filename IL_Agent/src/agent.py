@@ -60,9 +60,12 @@ class ILPlayer(Player):
 
         self.move_model   = self._load_model(move_model_path)
         self.switch_model = self._load_model(switch_model_path)
-
+        
         self._battle_count  = 0
         self._recent_wins: List[int] = []
+
+        print(f"IN AGENT.PY {self.move_model}")
+        print(f"IN AGENT.PY {self.switch_model}")
 
         # TensorBoard writer — optional, gracefully skipped if unavailable
         try:
@@ -87,6 +90,15 @@ class ILPlayer(Player):
 
     @staticmethod
     def _load_model(path: str) -> Optional[Any]:
+        if (path.endswith(".keras")):
+            logger.info("Loading Neural Network _load_model")
+            return ILPlayer._load_keras_model(path)
+        elif (path.endswith(".pk1")):
+            logger.info("Loading Random Forest _load_model")
+            return ILPlayer._load_sklearn_model(path)
+    
+    @staticmethod
+    def _load_keras_model(path: str) -> Optional[Any]:
         """Load a Keras model.  Returns None on any error."""
         try:
             import tensorflow as tf
@@ -96,11 +108,32 @@ class ILPlayer(Player):
 
         p = Path(path)
         if not p.exists():
-            logger.warning(f"Model not found at {p} — falling back to random play.")
+            logger.warning(f"Model not found at {p} — falling back to random play")
             return None
         try:
             model = tf.keras.models.load_model(str(p))
             logger.info(f"Loaded IL model: {p}")
+            return model
+        except Exception as e:
+            logger.warning(f"Could not load model {p}: {e}")
+            return None
+    
+    @staticmethod
+    def _load_sklearn_model(path:str) -> Optional[Any]:
+        try:
+            import pickle
+        except ImportError:
+            print("Error importing pickle")
+            return None
+        
+        p = Path(path)
+        if not p.exists():
+            logger.warning(f"Model not found at {p} — falling back to random play")
+            return None
+        try:
+            with open(p, 'rb') as f:
+                model = pickle.load(f)
+            logger.info(f"Model loaded with pickle: {p}")
             return model
         except Exception as e:
             logger.warning(f"Could not load model {p}: {e}")

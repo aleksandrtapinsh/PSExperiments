@@ -1,0 +1,271 @@
+|j|☆ultrabillybobjoe
+|j|☆k0054
+|t:|1776983795
+|gametype|singles
+|player|p1|ultrabillybobjoe|266|1661
+|player|p2|k0054|170|1652
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776983795
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Noctowl|Noctowl, L95, M|344/344
+|switch|p2a: Hitmontop|Hitmontop, L88, M|231/231
+|-ability|p2a: Hitmontop|Intimidate|boost
+|-unboost|p1a: Noctowl|atk|1
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ultrabillybobjoe)
+|j| Mave21
+|
+|t:|1776983816
+|move|p1a: Noctowl|Hurricane|p2a: Hitmontop
+|-supereffective|p2a: Hitmontop
+|-damage|p2a: Hitmontop|73/231
+|-start|p2a: Hitmontop|confusion
+|-activate|p2a: Hitmontop|confusion
+|move|p2a: Hitmontop|Stone Edge|p1a: Noctowl
+|-supereffective|p1a: Noctowl
+|-damage|p1a: Noctowl|134/344
+|
+|upkeep
+|turn|2
+|
+|t:|1776983833
+|-activate|p2a: Hitmontop|confusion
+|-damage|p2a: Hitmontop|44/231|[from] confusion
+|move|p1a: Noctowl|Hyper Voice|p2a: Hitmontop
+|-damage|p2a: Hitmontop|0 fnt
+|faint|p2a: Hitmontop
+|
+|upkeep
+|
+|t:|1776983852
+|switch|p2a: Porygon-Z|Porygon-Z, L83|277/277
+|turn|3
+|
+|t:|1776983858
+|move|p2a: Porygon-Z|Tri Attack|p1a: Noctowl
+|-damage|p1a: Noctowl|0 fnt
+|faint|p1a: Noctowl
+|-damage|p2a: Porygon-Z|250/277|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776983860
+|switch|p1a: Infernape|Infernape, L82, F|259/259
+|turn|4
+|
+|t:|1776983879
+|switch|p2a: Dragapult|Dragapult, L77, F|262/262
+|move|p1a: Infernape|Close Combat|p2a: Dragapult
+|-immune|p2a: Dragapult
+|
+|upkeep
+|turn|5
+|l| Mave21
+|
+|t:|1776983888
+|switch|p1a: Furret|Furret, L94, F|312/312
+|-item|p2a: Dragapult|Life Orb|[from] ability: Frisk|[of] p1a: Furret
+|move|p2a: Dragapult|Dragon Dance|p2a: Dragapult
+|-boost|p2a: Dragapult|atk|1
+|-boost|p2a: Dragapult|spe|1
+|
+|upkeep
+|turn|6
+|
+|t:|1776983896
+|move|p2a: Dragapult|Dragon Darts|p1a: Furret
+|-damage|p1a: Furret|202/312
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Furret
+|-damage|p1a: Furret|92/312
+|-damage|p2a: Dragapult|236/262|[from] item: Life Orb
+|move|p1a: Furret|Knock Off|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|-enditem|p2a: Dragapult|Life Orb|[from] move: Knock Off|[of] p1a: Furret
+|faint|p2a: Dragapult
+|
+|upkeep
+|
+|t:|1776983912
+|switch|p2a: Shaymin|Shaymin-Sky, L73|266/266
+|turn|7
+|
+|t:|1776983937
+|move|p2a: Shaymin|Air Slash|p1a: Furret
+|-damage|p1a: Furret|0 fnt
+|faint|p1a: Furret
+|
+|upkeep
+|
+|t:|1776983941
+|switch|p1a: Lapras|Lapras, L87, F|367/367
+|turn|8
+|
+|t:|1776983955
+|switch|p2a: Porygon-Z|Porygon-Z, L83|250/277
+|move|p1a: Lapras|Freeze-Dry|p2a: Porygon-Z
+|-damage|p2a: Porygon-Z|133/277
+|
+|upkeep
+|turn|9
+|
+|t:|1776983966
+|move|p2a: Porygon-Z|Thunderbolt|p1a: Lapras
+|-supereffective|p1a: Lapras
+|-damage|p1a: Lapras|162/367
+|-damage|p2a: Porygon-Z|106/277|[from] item: Life Orb
+|move|p1a: Lapras|Freeze-Dry|p2a: Porygon-Z
+|-damage|p2a: Porygon-Z|0 fnt
+|faint|p2a: Porygon-Z
+|
+|upkeep
+|
+|t:|1776983975
+|switch|p2a: Shaymin|Shaymin-Sky, L73|266/266
+|turn|10
+|
+|t:|1776984002
+|move|p2a: Shaymin|Seed Flare|p1a: Lapras
+|-supereffective|p1a: Lapras
+|-damage|p1a: Lapras|0 fnt
+|faint|p1a: Lapras
+|
+|upkeep
+|
+|t:|1776984007
+|switch|p1a: Ribombee|Ribombee, L83, M|235/235
+|turn|11
+|
+|t:|1776984020
+|-terastallize|p1a: Ribombee|Ground
+|move|p1a: Ribombee|Quiver Dance|p1a: Ribombee
+|-boost|p1a: Ribombee|spa|1
+|-boost|p1a: Ribombee|spd|1
+|-boost|p1a: Ribombee|spe|1
+|move|p2a: Shaymin|Air Slash|p1a: Ribombee
+|-damage|p1a: Ribombee|174/235
+|
+|upkeep
+|turn|12
+|
+|t:|1776984033
+|move|p1a: Ribombee|Quiver Dance|p1a: Ribombee
+|-boost|p1a: Ribombee|spa|1
+|-boost|p1a: Ribombee|spd|1
+|-boost|p1a: Ribombee|spe|1
+|move|p2a: Shaymin|Seed Flare|p1a: Ribombee|[miss]
+|-miss|p2a: Shaymin|p1a: Ribombee
+|
+|upkeep
+|turn|13
+|
+|t:|1776984045
+|move|p1a: Ribombee|Moonblast|p2a: Shaymin
+|-damage|p2a: Shaymin|7/266
+|move|p2a: Shaymin|Seed Flare|p1a: Ribombee
+|-supereffective|p1a: Ribombee
+|-damage|p1a: Ribombee|46/235
+|
+|upkeep
+|turn|14
+|
+|t:|1776984058
+|move|p1a: Ribombee|Moonblast|p2a: Shaymin
+|-damage|p2a: Shaymin|0 fnt
+|faint|p2a: Shaymin
+|
+|upkeep
+|
+|t:|1776984062
+|switch|p2a: Deoxys|Deoxys, L74|196/196
+|-ability|p2a: Deoxys|Pressure
+|turn|15
+|
+|t:|1776984080
+|move|p2a: Deoxys|Extreme Speed|p1a: Ribombee
+|-damage|p1a: Ribombee|0 fnt
+|faint|p1a: Ribombee
+|-damage|p2a: Deoxys|177/196|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776984089
+|switch|p1a: Zamazenta|Zamazenta, L71|248/248
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|turn|16
+|
+|t:|1776984115
+|switch|p2a: Koraidon|Koraidon, L64|235/235
+|-weather|SunnyDay|[from] ability: Orichalcum Pulse|[of] p2a: Koraidon
+|-activate|p2a: Koraidon|Orichalcum Pulse|[source]
+|move|p1a: Zamazenta|Iron Head|p2a: Koraidon
+|-damage|p2a: Koraidon|186/235
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|17
+|inactive|k0054 has 120 seconds left.
+|
+|t:|1776984134
+|switch|p1a: Infernape|Infernape, L82, F|259/259
+|-terastallize|p2a: Koraidon|Fire
+|move|p2a: Koraidon|Flare Blitz|p1a: Infernape
+|-resisted|p1a: Infernape
+|-damage|p1a: Infernape|99/259
+|-damage|p2a: Koraidon|133/235|[from] Recoil
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1776984144
+|move|p1a: Infernape|Close Combat|p2a: Koraidon
+|-damage|p2a: Koraidon|0 fnt
+|-unboost|p1a: Infernape|def|1
+|-unboost|p1a: Infernape|spd|1
+|faint|p2a: Koraidon
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1776984150
+|switch|p2a: Deoxys|Deoxys, L74|177/196
+|-ability|p2a: Deoxys|Pressure
+|turn|19
+|
+|t:|1776984160
+|move|p2a: Deoxys|Extreme Speed|p1a: Infernape
+|-damage|p1a: Infernape|0 fnt
+|faint|p1a: Infernape
+|-damage|p2a: Deoxys|158/196|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1776984162
+|switch|p1a: Zamazenta|Zamazenta, L71|248/248
+|turn|20
+|
+|t:|1776984170
+|move|p2a: Deoxys|Psycho Boost|p1a: Zamazenta
+|-supereffective|p1a: Zamazenta
+|-damage|p1a: Zamazenta|0 fnt
+|-unboost|p2a: Deoxys|spa|2
+|faint|p1a: Zamazenta
+|-damage|p2a: Deoxys|139/196|[from] item: Life Orb
+|
+|win|k0054
+|raw|ultrabillybobjoe's rating: 1670 &rarr; <strong>1649</strong><br />(-21 for losing)
+|raw|k0054's rating: 1652 &rarr; <strong>1673</strong><br />(+21 for winning)
+|l|☆ultrabillybobjoe
+|player|p1|

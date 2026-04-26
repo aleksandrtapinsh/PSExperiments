@@ -1,0 +1,60 @@
+|j|☆gengargreatesthits
+|j|☆Red23456
+|t:|1776975627
+|gametype|singles
+|player|p1|gengargreatesthits|hexmaniac-gen3|1572
+|player|p2|Red23456|101|1590
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776975627
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ursaluna|Ursaluna-Bloodmoon, L79, M|308/308
+|switch|p2a: Reshiram|Reshiram, L76|277/277
+|-ability|p2a: Reshiram|Turboblaze
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Red23456)
+|
+|t:|1776975641
+|switch|p2a: Forretress|Forretress, L84, F|263/263
+|move|p1a: Ursaluna|Earth Power|p2a: Forretress
+|-damage|p2a: Forretress|127/263
+|
+|-heal|p2a: Forretress|143/263|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776975655
+|move|p1a: Ursaluna|Earth Power|p2a: Forretress
+|-damage|p2a: Forretress|0 fnt
+|faint|p2a: Forretress
+|
+|upkeep
+|
+|t:|1776975674
+|switch|p2a: Iron Valiant|Iron Valiant, L78|244/244
+|turn|3
+|
+|t:|1776975688
+|move|p2a: Iron Valiant|Swords Dance|p2a: Iron Valiant
+|-boost|p2a: Iron Valiant|atk|2
+|move|p1a: Ursaluna|Blood Moon|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|-message|Red23456 forfeited.
+|
+|win|gengargreatesthits
+|raw|gengargreatesthits's rating: 1572 &rarr; <strong>1593</strong><br />(+21 for winning)
+|raw|Red23456's rating: 1590 &rarr; <strong>1569</strong><br />(-21 for losing)
+|l|☆Red23456
+|player|p2|

@@ -1,0 +1,86 @@
+|j|☆Thaneichu
+|j|☆Ajsjwjwvg
+|t:|1776974566
+|gametype|singles
+|player|p1|Thaneichu|lucas-gen4pt|1043
+|player|p2|Ajsjwjwvg|1|1000
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776974566
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Chandelure|Chandelure, L83, F|235/235
+|switch|p2a: Corviknight|Corviknight, L80, M|288/288
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Thaneichu)
+|inactive|Ajsjwjwvg has 120 seconds left.
+|inactive|Ajsjwjwvg has 90 seconds left.
+|
+|t:|1776974628
+|-terastallize|p2a: Corviknight|Dragon
+|move|p1a: Chandelure|Fire Blast|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-crit|p2a: Corviknight
+|-damage|p2a: Corviknight|156/288
+|move|p2a: Corviknight|Brave Bird|p1a: Chandelure
+|-crit|p1a: Chandelure
+|-damage|p1a: Chandelure|85/235
+|-damage|p2a: Corviknight|106/288|[from] Recoil
+|
+|upkeep
+|turn|2
+|
+|t:|1776974652
+|move|p1a: Chandelure|Fire Blast|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|21/288
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|165/288
+|
+|upkeep
+|turn|3
+|inactive|Thaneichu has 120 seconds left.
+|
+|t:|1776974683
+|switch|p1a: Munkidori|Munkidori, L79, M|269/269
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|288/288
+|
+|upkeep
+|turn|4
+|
+|t:|1776974694
+|move|p1a: Munkidori|Sludge Wave|p2a: Corviknight
+|-damage|p2a: Corviknight|122/288
+|-status|p2a: Corviknight|psn
+|move|p2a: Corviknight|U-turn|p1a: Munkidori
+|-damage|p1a: Munkidori|216/269
+|
+|t:|1776974700
+|switch|p2a: Gumshoos|Gumshoos, L95, M|321/321|[from] U-turn
+|
+|upkeep
+|turn|5
+|inactive|Thaneichu has 120 seconds left.
+|
+|t:|1776974719
+|switch|p1a: Crawdaunt|Crawdaunt, L84, F|243/243
+|move|p2a: Gumshoos|Earthquake|p1a: Crawdaunt
+|-damage|p1a: Crawdaunt|0 fnt
+|faint|p1a: Crawdaunt
+|
+|upkeep
+|-message|Thaneichu forfeited.
+|
+|win|Ajsjwjwvg
+|raw|Thaneichu's rating: 1043 &rarr; <strong>1025</strong><br />(-18 for losing)
+|raw|Ajsjwjwvg's rating: 1000 &rarr; <strong>1045</strong><br />(+45 for winning)
+|l|☆Thaneichu
+|player|p1|

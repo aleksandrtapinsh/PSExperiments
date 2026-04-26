@@ -1,0 +1,455 @@
+|j|☆skullcrusher45
+|j|☆trustychilean
+|t:|1776969662
+|gametype|singles
+|player|p1|skullcrusher45|flannery|1604
+|player|p2|trustychilean|169|1579
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776969662
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Leaves|Iron Leaves, L80|275/275
+|switch|p2a: Flygon|Flygon, L82, F|265/265
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by skullcrusher45)
+|
+|t:|1776969693
+|-end|p1a: Iron Leaves|Quark Drive|[silent]
+|switch|p1a: Skarmory|Skarmory, L80, F|235/235
+|move|p2a: Flygon|Dragon Dance|p2a: Flygon
+|-boost|p2a: Flygon|atk|1
+|-boost|p2a: Flygon|spe|1
+|
+|upkeep
+|turn|2
+|
+|t:|1776969702
+|move|p2a: Flygon|Stone Edge|p1a: Skarmory
+|-damage|p1a: Skarmory|167/235
+|move|p1a: Skarmory|Whirlwind|p2a: Flygon
+|drag|p2a: Abomasnow|Abomasnow, L84, F|287/287
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Abomasnow
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1776969709
+|move|p1a: Skarmory|Brave Bird|p2a: Abomasnow
+|-supereffective|p2a: Abomasnow
+|-crit|p2a: Abomasnow
+|-damage|p2a: Abomasnow|41/287
+|-damage|p1a: Skarmory|86/235|[from] Recoil
+|move|p2a: Abomasnow|Aurora Veil|p2a: Abomasnow
+|-sidestart|p2: trustychilean|move: Aurora Veil
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1776969727
+|move|p1a: Skarmory|Roost|p1a: Skarmory
+|-heal|p1a: Skarmory|204/235
+|-singleturn|p1a: Skarmory|move: Roost
+|move|p2a: Abomasnow|Blizzard|p1a: Skarmory
+|-resisted|p1a: Skarmory
+|-damage|p1a: Skarmory|136/235
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1776969735
+|move|p1a: Skarmory|Brave Bird|p2a: Abomasnow
+|-supereffective|p2a: Abomasnow
+|-damage|p2a: Abomasnow|0 fnt
+|faint|p2a: Abomasnow
+|-damage|p1a: Skarmory|122/235|[from] Recoil
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1776969754
+|switch|p2a: Mesprit|Mesprit, L85|275/275
+|turn|6
+|
+|t:|1776969761
+|move|p2a: Mesprit|Thunder Wave|p1a: Skarmory
+|-status|p1a: Skarmory|par
+|move|p1a: Skarmory|Stealth Rock|p2a: Mesprit
+|-sidestart|p2: trustychilean|move: Stealth Rock
+|
+|-weather|none
+|upkeep
+|turn|7
+|
+|t:|1776969766
+|move|p2a: Mesprit|Encore|p1a: Skarmory
+|-start|p1a: Skarmory|Encore
+|move|p1a: Skarmory|Stealth Rock||[still]
+|-fail|p1a: Skarmory
+|
+|upkeep
+|turn|8
+|
+|t:|1776969770
+|switch|p2a: Oricorio|Oricorio-Sensu, L85, M|266/266
+|switch|p1a: Ursaluna|Ursaluna-Bloodmoon, L79, M|308/308
+|
+|upkeep
+|turn|9
+|
+|t:|1776969795
+|move|p2a: Oricorio|Quiver Dance|p2a: Oricorio
+|-boost|p2a: Oricorio|spa|1
+|-boost|p2a: Oricorio|spd|1
+|-boost|p2a: Oricorio|spe|1
+|move|p1a: Ursaluna|Calm Mind|p1a: Ursaluna
+|-boost|p1a: Ursaluna|spa|1
+|-boost|p1a: Ursaluna|spd|1
+|
+|upkeep
+|turn|10
+|inactive|trustychilean has 120 seconds left.
+|
+|t:|1776969826
+|move|p2a: Oricorio|Hurricane|p1a: Ursaluna
+|-damage|p1a: Ursaluna|137/308
+|move|p1a: Ursaluna|Calm Mind|p1a: Ursaluna
+|-boost|p1a: Ursaluna|spa|1
+|-boost|p1a: Ursaluna|spd|1
+|
+|-heal|p1a: Ursaluna|156/308|[from] item: Leftovers
+|-sideend|p2: trustychilean|move: Aurora Veil
+|upkeep
+|turn|11
+|
+|t:|1776969848
+|move|p2a: Oricorio|Hurricane|p1a: Ursaluna
+|-damage|p1a: Ursaluna|39/308
+|move|p1a: Ursaluna|Moonlight|p1a: Ursaluna
+|-heal|p1a: Ursaluna|193/308
+|
+|-heal|p1a: Ursaluna|212/308|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776969854
+|switch|p2a: Jirachi|Jirachi, L80|291/291
+|-damage|p2a: Jirachi|273/291|[from] Stealth Rock
+|move|p1a: Ursaluna|Blood Moon|p2a: Jirachi
+|-resisted|p2a: Jirachi
+|-damage|p2a: Jirachi|162/291
+|
+|-heal|p1a: Ursaluna|231/308|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776969872
+|move|p2a: Jirachi|Drain Punch|p1a: Ursaluna
+|-supereffective|p1a: Ursaluna
+|-damage|p1a: Ursaluna|143/308
+|-heal|p2a: Jirachi|206/291|[from] drain|[of] p1a: Ursaluna
+|move|p1a: Ursaluna|Earth Power|p2a: Jirachi
+|-supereffective|p2a: Jirachi
+|-damage|p2a: Jirachi|0 fnt
+|faint|p2a: Jirachi
+|
+|-heal|p1a: Ursaluna|162/308|[from] item: Leftovers
+|upkeep
+|
+|t:|1776969886
+|switch|p2a: Regice|Regice, L88|284/284
+|turn|14
+|
+|t:|1776969892
+|switch|p1a: Skarmory|Skarmory, L80, F|122/235 par
+|move|p2a: Regice|Body Press|p1a: Skarmory
+|-damage|p1a: Skarmory|76/235 par
+|-damage|p2a: Regice|237/284|[from] item: Rocky Helmet|[of] p1a: Skarmory
+|
+|upkeep
+|turn|15
+|
+|t:|1776969897
+|move|p2a: Regice|Thunderbolt|p1a: Skarmory
+|-supereffective|p1a: Skarmory
+|-damage|p1a: Skarmory|0 fnt
+|faint|p1a: Skarmory
+|
+|upkeep
+|
+|t:|1776969904
+|switch|p1a: Iron Leaves|Iron Leaves, L80|275/275
+|turn|16
+|inactive|trustychilean has 120 seconds left.
+|
+|t:|1776969913
+|switch|p2a: Mesprit|Mesprit, L85|275/275
+|-damage|p2a: Mesprit|241/275|[from] Stealth Rock
+|move|p1a: Iron Leaves|Swords Dance|p1a: Iron Leaves
+|-boost|p1a: Iron Leaves|atk|2
+|
+|-heal|p2a: Mesprit|258/275|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1776969919
+|move|p1a: Iron Leaves|Leaf Blade|p2a: Mesprit
+|-damage|p2a: Mesprit|15/275
+|-damage|p1a: Iron Leaves|248/275|[from] item: Life Orb
+|move|p2a: Mesprit|Thunder Wave|p1a: Iron Leaves
+|-status|p1a: Iron Leaves|par
+|
+|-heal|p2a: Mesprit|32/275|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1776969930
+|move|p2a: Mesprit|U-turn|p1a: Iron Leaves
+|-supereffective|p1a: Iron Leaves
+|-damage|p1a: Iron Leaves|36/275 par
+|inactive|trustychilean has 120 seconds left.
+|
+|t:|1776969945
+|switch|p2a: Flygon|Flygon, L82, F|265/265|[from] U-turn
+|-damage|p2a: Flygon|249/265|[from] Stealth Rock
+|move|p1a: Iron Leaves|Close Combat|p2a: Flygon
+|-damage|p2a: Flygon|0 fnt
+|-unboost|p1a: Iron Leaves|def|1
+|-unboost|p1a: Iron Leaves|spd|1
+|faint|p2a: Flygon
+|-damage|p1a: Iron Leaves|9/275 par|[from] item: Life Orb
+|
+|upkeep
+|inactive|trustychilean has 120 seconds left.
+|
+|t:|1776969951
+|switch|p2a: Oricorio|Oricorio-Sensu, L85, M|266/266
+|turn|19
+|
+|t:|1776969954
+|move|p2a: Oricorio|Quiver Dance|p2a: Oricorio
+|-boost|p2a: Oricorio|spa|1
+|-boost|p2a: Oricorio|spd|1
+|-boost|p2a: Oricorio|spe|1
+|move|p1a: Iron Leaves|Leaf Blade|p2a: Oricorio
+|-resisted|p2a: Oricorio
+|-damage|p2a: Oricorio|113/266
+|-damage|p1a: Iron Leaves|0 fnt|[from] item: Life Orb
+|faint|p1a: Iron Leaves
+|-end|p1a: Iron Leaves|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1776969960
+|switch|p1a: Walking Wake|Walking Wake, L79|286/286
+|turn|20
+|
+|t:|1776969978
+|move|p2a: Oricorio|Roost|p2a: Oricorio
+|-heal|p2a: Oricorio|246/266
+|-singleturn|p2a: Oricorio|move: Roost
+|move|p1a: Walking Wake|Draco Meteor|p2a: Oricorio
+|-damage|p2a: Oricorio|80/266
+|-unboost|p1a: Walking Wake|spa|2
+|
+|upkeep
+|turn|21
+|
+|t:|1776969988
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Ursaluna|Ursaluna-Bloodmoon, L79, M|162/308
+|move|p2a: Oricorio|Hurricane|p1a: Ursaluna
+|-damage|p1a: Ursaluna|0 fnt
+|faint|p1a: Ursaluna
+|
+|upkeep
+|
+|t:|1776969996
+|switch|p1a: Walking Wake|Walking Wake, L79|286/286
+|turn|22
+|
+|t:|1776970000
+|move|p2a: Oricorio|Roost|p2a: Oricorio
+|-heal|p2a: Oricorio|213/266
+|-singleturn|p2a: Oricorio|move: Roost
+|move|p1a: Walking Wake|Flip Turn|p2a: Oricorio
+|-damage|p2a: Oricorio|158/266
+|
+|t:|1776970002
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Hydrapple|Hydrapple, L83, F|312/312|[from] Flip Turn
+|
+|upkeep
+|turn|23
+|
+|t:|1776970017
+|move|p2a: Oricorio|Hurricane|p1a: Hydrapple|[miss]
+|-miss|p2a: Oricorio|p1a: Hydrapple
+|move|p1a: Hydrapple|Dragon Tail|p2a: Oricorio
+|-damage|p2a: Oricorio|92/266
+|drag|p2a: Regice|Regice, L88|237/284
+|
+|upkeep
+|turn|24
+|
+|t:|1776970030
+|move|p2a: Regice|Ice Beam|p1a: Hydrapple
+|-supereffective|p1a: Hydrapple
+|-damage|p1a: Hydrapple|20/312
+|move|p1a: Hydrapple|Fickle Beam|p2a: Regice
+|-damage|p2a: Regice|189/284
+|
+|upkeep
+|turn|25
+|
+|t:|1776970038
+|move|p2a: Regice|Ice Beam|p1a: Hydrapple
+|-supereffective|p1a: Hydrapple
+|-damage|p1a: Hydrapple|0 fnt
+|faint|p1a: Hydrapple
+|
+|upkeep
+|
+|t:|1776970042
+|switch|p1a: Walking Wake|Walking Wake, L79|286/286
+|turn|26
+|
+|t:|1776970045
+|move|p1a: Walking Wake|Flamethrower|p2a: Regice
+|-supereffective|p2a: Regice
+|-damage|p2a: Regice|95/284
+|move|p2a: Regice|Thunder Wave|p1a: Walking Wake
+|-status|p1a: Walking Wake|par
+|
+|upkeep
+|turn|27
+|
+|t:|1776970052
+|move|p2a: Regice|Ice Beam|p1a: Walking Wake
+|-damage|p1a: Walking Wake|171/286 par
+|move|p1a: Walking Wake|Flamethrower|p2a: Regice
+|-supereffective|p2a: Regice
+|-damage|p2a: Regice|0 fnt
+|faint|p2a: Regice
+|
+|upkeep
+|
+|t:|1776970066
+|switch|p2a: Mesprit|Mesprit, L85|32/275
+|-damage|p2a: Mesprit|0 fnt|[from] Stealth Rock
+|faint|p2a: Mesprit
+|
+|t:|1776970069
+|switch|p2a: Oricorio|Oricorio-Sensu, L85, M|92/266
+|turn|28
+|
+|t:|1776970074
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Comfey|Comfey, L85, F|225/225
+|move|p2a: Oricorio|Roost|p2a: Oricorio
+|-heal|p2a: Oricorio|225/266
+|-singleturn|p2a: Oricorio|move: Roost
+|
+|upkeep
+|turn|29
+|
+|t:|1776970077
+|move|p1a: Comfey|Calm Mind|p1a: Comfey
+|-boost|p1a: Comfey|spa|1
+|-boost|p1a: Comfey|spd|1
+|move|p2a: Oricorio|Quiver Dance|p2a: Oricorio
+|-boost|p2a: Oricorio|spa|1
+|-boost|p2a: Oricorio|spd|1
+|-boost|p2a: Oricorio|spe|1
+|
+|upkeep
+|turn|30
+|
+|t:|1776970087
+|move|p2a: Oricorio|Hurricane|p1a: Comfey|[miss]
+|-miss|p2a: Oricorio|p1a: Comfey
+|move|p1a: Comfey|Calm Mind|p1a: Comfey
+|-boost|p1a: Comfey|spa|1
+|-boost|p1a: Comfey|spd|1
+|
+|upkeep
+|turn|31
+|
+|t:|1776970091
+|move|p2a: Oricorio|Hurricane|p1a: Comfey
+|-damage|p1a: Comfey|146/225
+|move|p1a: Comfey|Calm Mind|p1a: Comfey
+|-boost|p1a: Comfey|spa|1
+|-boost|p1a: Comfey|spd|1
+|
+|-heal|p1a: Comfey|160/225|[from] item: Leftovers
+|upkeep
+|turn|32
+|c|☆trustychilean|man  gg
+|
+|t:|1776970098
+|move|p2a: Oricorio|Hurricane|p1a: Comfey
+|-damage|p1a: Comfey|100/225
+|-start|p1a: Comfey|confusion
+|-activate|p1a: Comfey|confusion
+|move|p1a: Comfey|Calm Mind|p1a: Comfey
+|-boost|p1a: Comfey|spa|1
+|-boost|p1a: Comfey|spd|1
+|
+|-heal|p1a: Comfey|114/225|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1776970104
+|-activate|p1a: Comfey|confusion
+|move|p1a: Comfey|Draining Kiss|p2a: Oricorio
+|-damage|p2a: Oricorio|113/266
+|-heal|p1a: Comfey|198/225|[from] drain|[of] p2a: Oricorio
+|move|p2a: Oricorio|Quiver Dance|p2a: Oricorio
+|-boost|p2a: Oricorio|spa|1
+|-boost|p2a: Oricorio|spd|1
+|-boost|p2a: Oricorio|spe|1
+|
+|-heal|p1a: Comfey|212/225|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1776970110
+|-terastallize|p2a: Oricorio|Ghost
+|-activate|p1a: Comfey|confusion
+|move|p1a: Comfey|Draining Kiss|p2a: Oricorio
+|-damage|p2a: Oricorio|25/266
+|-heal|p1a: Comfey|225/225|[from] drain|[of] p2a: Oricorio
+|move|p2a: Oricorio|Revelation Dance|p1a: Comfey
+|-damage|p1a: Comfey|149/225
+|
+|-heal|p1a: Comfey|163/225|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1776970119
+|-activate|p1a: Comfey|confusion
+|move|p1a: Comfey|Draining Kiss|p2a: Oricorio
+|-damage|p2a: Oricorio|0 fnt
+|-heal|p1a: Comfey|182/225|[from] drain|[of] p2a: Oricorio
+|faint|p2a: Oricorio
+|
+|win|skullcrusher45
+|raw|skullcrusher45's rating: 1604 &rarr; <strong>1623</strong><br />(+19 for winning)
+|raw|trustychilean's rating: 1579 &rarr; <strong>1560</strong><br />(-19 for losing)
+|c|☆skullcrusher45|Gg
+|c|☆trustychilean|no confusion
+|c|☆trustychilean|gg
+|l|☆trustychilean
+|player|p2|
+|c|☆skullcrusher45|Yeet

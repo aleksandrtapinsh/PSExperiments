@@ -1,0 +1,298 @@
+|j|☆aclark58
+|j|☆bady43
+|t:|1776981112
+|gametype|singles
+|player|p1|aclark58|102|1485
+|player|p2|bady43|will|1430
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776981112
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Diancie|Diancie, L82|216/216
+|switch|p2a: Gallade|Gallade, L80, M|240/240
+|turn|1
+|
+|t:|1776981152
+|move|p2a: Gallade|Sacred Sword|p1a: Diancie
+|-damage|p1a: Diancie|82/216
+|-damage|p2a: Gallade|216/240|[from] item: Life Orb
+|move|p1a: Diancie|Calm Mind|p1a: Diancie
+|-boost|p1a: Diancie|spa|1
+|-boost|p1a: Diancie|spd|1
+|
+|-heal|p1a: Diancie|95/216|[from] item: Leftovers
+|upkeep
+|turn|2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by bady43)
+|inactive|aclark58 has 120 seconds left.
+|
+|t:|1776981202
+|move|p2a: Gallade|Psycho Cut|p1a: Diancie
+|-damage|p1a: Diancie|0 fnt
+|faint|p1a: Diancie
+|-damage|p2a: Gallade|192/240|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776981213
+|switch|p1a: Skuntank|Skuntank, L84, M|310/310
+|turn|3
+|
+|t:|1776981238
+|switch|p2a: Salamence|Salamence, L77, F|273/273
+|-ability|p2a: Salamence|Intimidate|boost
+|-unboost|p1a: Skuntank|atk|1
+|move|p1a: Skuntank|Knock Off|p2a: Salamence
+|-damage|p2a: Salamence|179/273
+|-enditem|p2a: Salamence|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Skuntank
+|-damage|p1a: Skuntank|279/310|[from] item: Life Orb
+|
+|upkeep
+|turn|4
+|
+|t:|1776981252
+|move|p2a: Salamence|Dragon Dance|p2a: Salamence
+|-boost|p2a: Salamence|atk|1
+|-boost|p2a: Salamence|spe|1
+|move|p1a: Skuntank|Gunk Shot|p2a: Salamence
+|-damage|p2a: Salamence|54/273
+|-damage|p1a: Skuntank|248/310|[from] item: Life Orb
+|
+|upkeep
+|turn|5
+|
+|t:|1776981267
+|move|p1a: Skuntank|Sucker Punch||[still]
+|-fail|p1a: Skuntank
+|move|p2a: Salamence|Dragon Dance|p2a: Salamence
+|-boost|p2a: Salamence|atk|1
+|-boost|p2a: Salamence|spe|1
+|
+|upkeep
+|turn|6
+|
+|t:|1776981276
+|move|p1a: Skuntank|Sucker Punch||[still]
+|-fail|p1a: Skuntank
+|move|p2a: Salamence|Dragon Dance|p2a: Salamence
+|-boost|p2a: Salamence|atk|1
+|-boost|p2a: Salamence|spe|1
+|
+|upkeep
+|turn|7
+|
+|t:|1776981285
+|move|p1a: Skuntank|Sucker Punch||[still]
+|-fail|p1a: Skuntank
+|move|p2a: Salamence|Dragon Dance|p2a: Salamence
+|-boost|p2a: Salamence|atk|1
+|-boost|p2a: Salamence|spe|1
+|
+|upkeep
+|turn|8
+|
+|t:|1776981292
+|move|p2a: Salamence|Dragon Dance|p2a: Salamence
+|-boost|p2a: Salamence|atk|1
+|-boost|p2a: Salamence|spe|1
+|move|p1a: Skuntank|Knock Off|p2a: Salamence
+|-damage|p2a: Salamence|0 fnt
+|faint|p2a: Salamence
+|-damage|p1a: Skuntank|217/310|[from] item: Life Orb
+|
+|upkeep
+|inactive|bady43 has 120 seconds left.
+|
+|t:|1776981318
+|switch|p2a: Iron Valiant|Iron Valiant, L78|244/244
+|turn|9
+|
+|t:|1776981325
+|move|p2a: Iron Valiant|Close Combat|p1a: Skuntank
+|-damage|p1a: Skuntank|0 fnt
+|-unboost|p2a: Iron Valiant|def|1
+|-unboost|p2a: Iron Valiant|spd|1
+|-damage|p2a: Iron Valiant|183/244|[from] ability: Aftermath|[of] p1a: Skuntank
+|faint|p1a: Skuntank
+|-damage|p2a: Iron Valiant|159/244|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776981339
+|switch|p1a: Zarude|Zarude-Dada, L77|288/288
+|turn|10
+|
+|t:|1776981363
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|switch|p2a: Masquerain|Masquerain, L87, F|264/264
+|-ability|p2a: Masquerain|Intimidate|boost
+|-unboost|p1a: Zarude|atk|1
+|move|p1a: Zarude|Power Whip|p2a: Masquerain
+|-resisted|p2a: Masquerain
+|-damage|p2a: Masquerain|240/264
+|
+|upkeep
+|turn|11
+|
+|t:|1776981376
+|switch|p1a: Virizion|Virizion, L82|283/283
+|move|p2a: Masquerain|Quiver Dance|p2a: Masquerain
+|-boost|p2a: Masquerain|spa|1
+|-boost|p2a: Masquerain|spd|1
+|-boost|p2a: Masquerain|spe|1
+|
+|upkeep
+|turn|12
+|
+|t:|1776981384
+|-terastallize|p1a: Virizion|Rock
+|move|p2a: Masquerain|Hurricane|p1a: Virizion
+|-resisted|p1a: Virizion
+|-damage|p1a: Virizion|213/283
+|move|p1a: Virizion|Stone Edge|p2a: Masquerain
+|-supereffective|p2a: Masquerain
+|-damage|p2a: Masquerain|0 fnt
+|faint|p2a: Masquerain
+|-damage|p1a: Virizion|185/283|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776981401
+|switch|p2a: Iron Valiant|Iron Valiant, L78|159/244
+|turn|13
+|
+|t:|1776981405
+|switch|p1a: Annihilape|Annihilape, L76, M|292/292
+|move|p2a: Iron Valiant|Close Combat|p1a: Annihilape
+|-immune|p1a: Annihilape
+|
+|upkeep
+|turn|14
+|
+|t:|1776981416
+|move|p2a: Iron Valiant|Moonblast|p1a: Annihilape
+|-supereffective|p1a: Annihilape
+|-damage|p1a: Annihilape|0 fnt
+|faint|p1a: Annihilape
+|-damage|p2a: Iron Valiant|135/244|[from] item: Life Orb
+|
+|upkeep
+|c|☆aclark58|this pokemon is op lol
+|c|☆aclark58|he sweeps now
+|
+|t:|1776981432
+|switch|p1a: Virizion|Virizion, L82, tera:Rock|185/283
+|turn|15
+|
+|t:|1776981438
+|move|p2a: Iron Valiant|Close Combat|p1a: Virizion
+|-supereffective|p1a: Virizion
+|-damage|p1a: Virizion|0 fnt
+|-unboost|p2a: Iron Valiant|def|1
+|-unboost|p2a: Iron Valiant|spd|1
+|faint|p1a: Virizion
+|-damage|p2a: Iron Valiant|111/244|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776981442
+|switch|p1a: Zarude|Zarude-Dada, L77|288/288
+|turn|16
+|c|☆bady43|i guess lmao
+|
+|t:|1776981454
+|move|p1a: Zarude|Power Whip|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1776981464
+|switch|p2a: Eiscue|Eiscue, L88, M|274/274
+|turn|17
+|
+|t:|1776981467
+|move|p1a: Zarude|Power Whip|p2a: Eiscue
+|-activate|p2a: Eiscue|ability: Ice Face
+|-damage|p2a: Eiscue|274/274
+|detailschange|p2a: Eiscue|Eiscue-Noice, L88, M
+|move|p2a: Eiscue|Belly Drum|p2a: Eiscue
+|-damage|p2a: Eiscue|137/274
+|-setboost|p2a: Eiscue|atk|6|[from] move: Belly Drum
+|-enditem|p2a: Eiscue|Sitrus Berry|[eat]
+|-heal|p2a: Eiscue|205/274|[from] item: Sitrus Berry
+|
+|upkeep
+|turn|18
+|
+|t:|1776981485
+|-terastallize|p2a: Eiscue|Water
+|move|p1a: Zarude|Power Whip|p2a: Eiscue
+|-supereffective|p2a: Eiscue
+|-damage|p2a: Eiscue|0 fnt
+|faint|p2a: Eiscue
+|
+|upkeep
+|
+|t:|1776981491
+|switch|p2a: Raichu|Raichu-Alola, L87, M|246/246
+|turn|19
+|
+|t:|1776981498
+|switch|p1a: Cetitan|Cetitan, L82, F|412/412
+|move|p2a: Raichu|Alluring Voice|p1a: Cetitan
+|-damage|p1a: Cetitan|294/412
+|-damage|p2a: Raichu|222/246|[from] item: Life Orb
+|
+|upkeep
+|turn|20
+|
+|t:|1776981506
+|move|p2a: Raichu|Thunderbolt|p1a: Cetitan
+|-damage|p1a: Cetitan|103/412
+|-enditem|p1a: Cetitan|Sitrus Berry|[eat]
+|-heal|p1a: Cetitan|206/412|[from] item: Sitrus Berry
+|-damage|p2a: Raichu|198/246|[from] item: Life Orb
+|move|p1a: Cetitan|Earthquake|p2a: Raichu
+|-supereffective|p2a: Raichu
+|-damage|p2a: Raichu|0 fnt
+|faint|p2a: Raichu
+|
+|upkeep
+|
+|t:|1776981511
+|switch|p2a: Gallade|Gallade, L80, M|192/240
+|turn|21
+|
+|t:|1776981520
+|move|p1a: Cetitan|Ice Shard|p2a: Gallade
+|-damage|p2a: Gallade|132/240
+|move|p2a: Gallade|Sacred Sword|p1a: Cetitan
+|-supereffective|p1a: Cetitan
+|-damage|p1a: Cetitan|0 fnt
+|faint|p1a: Cetitan
+|-damage|p2a: Gallade|108/240|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776981528
+|switch|p1a: Zarude|Zarude-Dada, L77|288/288
+|turn|22
+|
+|t:|1776981538
+|move|p1a: Zarude|Power Whip|p2a: Gallade
+|-damage|p2a: Gallade|0 fnt
+|faint|p2a: Gallade
+|
+|win|aclark58
+|raw|aclark58's rating: 1485 &rarr; <strong>1502</strong><br />(+17 for winning)
+|raw|bady43's rating: 1430 &rarr; <strong>1413</strong><br />(-17 for losing)

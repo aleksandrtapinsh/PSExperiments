@@ -1,0 +1,217 @@
+|j|☆A0Kguy
+|j|☆chernobyl×10
+|t:|1776972463
+|gametype|singles
+|player|p1|A0Kguy|169|1844
+|player|p2|chernobyl×10|steven|1884
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776972463
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Mandibuzz|Mandibuzz, L85, F|326/326
+|switch|p2a: Dugtrio|Dugtrio-Alola, L84, F|196/196
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by chernobyl×10)
+|
+|t:|1776972486
+|move|p2a: Dugtrio|Stealth Rock|p1a: Mandibuzz
+|-sidestart|p1: A0Kguy|move: Stealth Rock
+|move|p1a: Mandibuzz|Brave Bird|p2a: Dugtrio
+|-resisted|p2a: Dugtrio
+|-damage|p2a: Dugtrio|130/196
+|-ability|p2a: Dugtrio|Tangling Hair
+|-unboost|p1a: Mandibuzz|spe|1
+|-damage|p1a: Mandibuzz|304/326|[from] Recoil
+|
+|upkeep
+|turn|2
+|
+|t:|1776972497
+|move|p2a: Dugtrio|Stone Edge|p1a: Mandibuzz
+|-supereffective|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|143/326
+|-damage|p2a: Dugtrio|111/196|[from] item: Life Orb
+|move|p1a: Mandibuzz|Brave Bird|p2a: Dugtrio
+|-resisted|p2a: Dugtrio
+|-damage|p2a: Dugtrio|52/196
+|-ability|p2a: Dugtrio|Tangling Hair
+|-unboost|p1a: Mandibuzz|spe|1
+|-damage|p1a: Mandibuzz|124/326|[from] Recoil
+|
+|upkeep
+|turn|3
+|
+|t:|1776972507
+|switch|p1a: Manaphy|Manaphy, L78|284/284
+|-damage|p1a: Manaphy|249/284|[from] Stealth Rock
+|move|p2a: Dugtrio|Iron Head|p1a: Manaphy
+|-resisted|p1a: Manaphy
+|-damage|p1a: Manaphy|198/284
+|-damage|p2a: Dugtrio|33/196|[from] item: Life Orb
+|
+|-heal|p1a: Manaphy|215/284|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776972535
+|switch|p2a: Calyrex|Calyrex, L93|337/337
+|-ability|p2a: Calyrex|Unnerve
+|move|p1a: Manaphy|Ice Beam|p2a: Calyrex
+|-supereffective|p2a: Calyrex
+|-damage|p2a: Calyrex|235/337
+|
+|-heal|p2a: Calyrex|256/337|[from] item: Leftovers
+|-heal|p1a: Manaphy|232/284|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776972551
+|switch|p1a: Pyroar|Pyroar, L88, F|295/295
+|-ability|p1a: Pyroar|Unnerve
+|move|p2a: Calyrex|Leech Seed|p1a: Pyroar
+|-start|p1a: Pyroar|move: Leech Seed
+|
+|-heal|p2a: Calyrex|277/337|[from] item: Leftovers
+|-damage|p1a: Pyroar|259/295|[from] Leech Seed|[of] p2a: Calyrex
+|-heal|p2a: Calyrex|313/337|[silent]
+|upkeep
+|turn|6
+|inactive|chernobyl×10 has 120 seconds left.
+|
+|t:|1776972594
+|move|p1a: Pyroar|Fire Blast|p2a: Calyrex
+|-supereffective|p2a: Calyrex
+|-damage|p2a: Calyrex|31/337
+|move|p2a: Calyrex|Calm Mind|p2a: Calyrex
+|-boost|p2a: Calyrex|spa|1
+|-boost|p2a: Calyrex|spd|1
+|
+|-heal|p2a: Calyrex|52/337|[from] item: Leftovers
+|-damage|p1a: Pyroar|223/295|[from] Leech Seed|[of] p2a: Calyrex
+|-heal|p2a: Calyrex|88/337|[silent]
+|upkeep
+|turn|7
+|
+|t:|1776972607
+|move|p1a: Pyroar|Fire Blast|p2a: Calyrex
+|-supereffective|p2a: Calyrex
+|-damage|p2a: Calyrex|0 fnt
+|faint|p2a: Calyrex
+|
+|upkeep
+|
+|t:|1776972626
+|switch|p2a: Blaziken|Blaziken, L76, M|247/247
+|turn|8
+|
+|t:|1776972634
+|move|p1a: Pyroar|Hyper Voice|p2a: Blaziken
+|-damage|p2a: Blaziken|91/247
+|move|p2a: Blaziken|Swords Dance|p2a: Blaziken
+|-boost|p2a: Blaziken|atk|2
+|
+|-damage|p1a: Pyroar|187/295|[from] Leech Seed|[of] p2a: Blaziken
+|-heal|p2a: Blaziken|127/247|[silent]
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|9
+|inactive|chernobyl×10 has 120 seconds left.
+|
+|t:|1776972651
+|switch|p1a: Froslass|Froslass, L87, F|263/263
+|-damage|p1a: Froslass|198/263|[from] Stealth Rock
+|move|p2a: Blaziken|Close Combat|p1a: Froslass
+|-immune|p1a: Froslass
+|
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|10
+|
+|t:|1776972666
+|move|p2a: Blaziken|Knock Off|p1a: Froslass
+|-supereffective|p1a: Froslass
+|-damage|p1a: Froslass|0 fnt
+|-enditem|p1a: Froslass|Wide Lens|[from] move: Knock Off|[of] p2a: Blaziken
+|faint|p1a: Froslass
+|-damage|p2a: Blaziken|103/247|[from] item: Life Orb
+|
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|
+|t:|1776972671
+|switch|p1a: Tinkaton|Tinkaton, L82, F|274/274
+|-damage|p1a: Tinkaton|257/274|[from] Stealth Rock
+|-ability|p1a: Tinkaton|Mold Breaker
+|turn|11
+|
+|t:|1776972678
+|switch|p1a: Swalot|Swalot, L90, F|326/326
+|-damage|p1a: Swalot|286/326|[from] Stealth Rock
+|move|p2a: Blaziken|Close Combat|p1a: Swalot
+|-resisted|p1a: Swalot
+|-damage|p1a: Swalot|124/326
+|-unboost|p2a: Blaziken|def|1
+|-unboost|p2a: Blaziken|spd|1
+|-damage|p2a: Blaziken|79/247|[from] item: Life Orb
+|
+|-heal|p1a: Swalot|144/326|[from] item: Leftovers
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|12
+|
+|t:|1776972693
+|switch|p1a: Tinkaton|Tinkaton, L82, F|257/274
+|-damage|p1a: Tinkaton|240/274|[from] Stealth Rock
+|-ability|p1a: Tinkaton|Mold Breaker
+|move|p2a: Blaziken|Close Combat|p1a: Tinkaton
+|-damage|p1a: Tinkaton|0 fnt
+|-unboost|p2a: Blaziken|def|1
+|-unboost|p2a: Blaziken|spd|1
+|faint|p1a: Tinkaton
+|-damage|p2a: Blaziken|55/247|[from] item: Life Orb
+|
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|
+|t:|1776972706
+|switch|p1a: Swalot|Swalot, L90, F|144/326
+|-damage|p1a: Swalot|104/326|[from] Stealth Rock
+|turn|13
+|
+|t:|1776972711
+|move|p2a: Blaziken|Close Combat|p1a: Swalot
+|-resisted|p1a: Swalot
+|-damage|p1a: Swalot|0 fnt
+|-unboost|p2a: Blaziken|def|1
+|-unboost|p2a: Blaziken|spd|1
+|faint|p1a: Swalot
+|-damage|p2a: Blaziken|31/247|[from] item: Life Orb
+|
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|
+|t:|1776972716
+|switch|p1a: Pyroar|Pyroar, L88, F|187/295
+|-ability|p1a: Pyroar|Unnerve
+|turn|14
+|-message|A0Kguy forfeited.
+|
+|win|chernobyl×10
+|raw|A0Kguy's rating: 1844 &rarr; <strong>1826</strong><br />(-18 for losing)
+|raw|chernobyl×10's rating: 1884 &rarr; <strong>1902</strong><br />(+18 for winning)
+|l|☆A0Kguy
+|player|p1|

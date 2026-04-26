@@ -1,0 +1,183 @@
+|j|☆aguwo
+|j|☆mqricon
+|t:|1776969413
+|gametype|singles
+|player|p1|aguwo|101|
+|player|p2|mqricon|266|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776969413
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Hawlucha|Hawlucha, L80, M|256/256
+|switch|p2a: Gallade|Gallade, L80, M|240/240
+|turn|1
+|
+|t:|1776969431
+|switch|p1a: Gholdengo|Gholdengo, L77|261/261
+|move|p2a: Gallade|Psycho Cut|p1a: Gholdengo
+|-resisted|p1a: Gholdengo
+|-damage|p1a: Gholdengo|180/261
+|-damage|p2a: Gallade|216/240|[from] item: Life Orb
+|
+|upkeep
+|turn|2
+|
+|t:|1776969449
+|move|p1a: Gholdengo|Trick|p2a: Gallade
+|-activate|p1a: Gholdengo|move: Trick|[of] p2a: Gallade
+|-item|p2a: Gallade|Choice Scarf|[from] move: Trick
+|-item|p1a: Gholdengo|Life Orb|[from] move: Trick
+|move|p2a: Gallade|Night Slash|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|16/261
+|
+|upkeep
+|turn|3
+|
+|t:|1776969460
+|switch|p1a: Vigoroth|Vigoroth, L85, M|275/275
+|move|p2a: Gallade|Night Slash|p1a: Vigoroth
+|-damage|p1a: Vigoroth|215/275
+|
+|upkeep
+|turn|4
+|
+|t:|1776969480
+|switch|p2a: Chandelure|Chandelure, L83, F|235/235
+|move|p1a: Vigoroth|Bulk Up|p1a: Vigoroth
+|-boost|p1a: Vigoroth|atk|1
+|-boost|p1a: Vigoroth|def|1
+|
+|upkeep
+|turn|5
+|
+|t:|1776969624
+|move|p2a: Chandelure|Fire Blast|p1a: Vigoroth
+|-damage|p1a: Vigoroth|80/275
+|move|p1a: Vigoroth|Bulk Up|p1a: Vigoroth
+|-boost|p1a: Vigoroth|atk|1
+|-boost|p1a: Vigoroth|def|1
+|
+|upkeep
+|turn|6
+|
+|t:|1776969642
+|move|p2a: Chandelure|Fire Blast|p1a: Vigoroth
+|-damage|p1a: Vigoroth|0 fnt
+|faint|p1a: Vigoroth
+|
+|upkeep
+|
+|t:|1776969654
+|switch|p1a: Golurk|Golurk, L87|297/297
+|turn|7
+|
+|t:|1776969758
+|switch|p2a: Vaporeon|Vaporeon, L86, F|364/364
+|move|p1a: Golurk|Poltergeist|p2a: Vaporeon
+|-activate|p2a: Vaporeon|move: Poltergeist|Leftovers
+|-damage|p2a: Vaporeon|73/364
+|
+|-heal|p2a: Vaporeon|95/364|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776969764
+|move|p2a: Vaporeon|Scald|p1a: Golurk
+|-supereffective|p1a: Golurk
+|-damage|p1a: Golurk|109/297
+|move|p1a: Golurk|Poltergeist|p2a: Vaporeon
+|-activate|p2a: Vaporeon|move: Poltergeist|Leftovers
+|-crit|p2a: Vaporeon
+|-damage|p2a: Vaporeon|0 fnt
+|faint|p2a: Vaporeon
+|
+|upkeep
+|
+|t:|1776969776
+|switch|p2a: Dodrio|Dodrio, L85, M|241/241
+|turn|9
+|
+|t:|1776969791
+|switch|p1a: Gholdengo|Gholdengo, L77|16/261
+|move|p2a: Dodrio|Knock Off|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|-enditem|p1a: Gholdengo|Life Orb|[from] move: Knock Off|[of] p2a: Dodrio
+|faint|p1a: Gholdengo
+|
+|upkeep
+|
+|t:|1776969793
+|switch|p1a: Hawlucha|Hawlucha, L80, M|256/256
+|turn|10
+|
+|t:|1776969871
+|switch|p2a: Gallade|Gallade, L80, M|216/240
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|
+|upkeep
+|turn|11
+|
+|t:|1776969881
+|move|p2a: Gallade|Psycho Cut|p1a: Hawlucha
+|-supereffective|p1a: Hawlucha
+|-damage|p1a: Hawlucha|0 fnt
+|faint|p1a: Hawlucha
+|
+|upkeep
+|
+|t:|1776969894
+|switch|p1a: Golurk|Golurk, L87|109/297
+|turn|12
+|
+|t:|1776969899
+|move|p2a: Gallade|Psycho Cut|p1a: Golurk
+|-damage|p1a: Golurk|0 fnt
+|faint|p1a: Golurk
+|
+|upkeep
+|
+|t:|1776969902
+|switch|p1a: Venomoth|Venomoth, L84, F|255/255
+|turn|13
+|
+|t:|1776969904
+|move|p2a: Gallade|Psycho Cut|p1a: Venomoth
+|-supereffective|p1a: Venomoth
+|-damage|p1a: Venomoth|0 fnt
+|faint|p1a: Venomoth
+|
+|upkeep
+|
+|t:|1776969907
+|switch|p1a: Frosmoth|Frosmoth, L82, M|249/249
+|turn|14
+|
+|t:|1776969913
+|move|p2a: Gallade|Psycho Cut|p1a: Frosmoth
+|-damage|p1a: Frosmoth|93/249
+|move|p1a: Frosmoth|Quiver Dance|p1a: Frosmoth
+|-boost|p1a: Frosmoth|spa|1
+|-boost|p1a: Frosmoth|spd|1
+|-boost|p1a: Frosmoth|spe|1
+|
+|upkeep
+|turn|15
+|
+|t:|1776969918
+|move|p2a: Gallade|Psycho Cut|p1a: Frosmoth
+|-damage|p1a: Frosmoth|0 fnt
+|faint|p1a: Frosmoth
+|
+|win|mqricon
+|l|☆aguwo
+|player|p1|

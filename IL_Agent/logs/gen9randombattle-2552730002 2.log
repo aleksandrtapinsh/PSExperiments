@@ -1,0 +1,205 @@
+|j|☆batterbub
+|j|☆ppskww
+|t:|1772747597
+|gametype|singles
+|player|p1|batterbub|1|1138
+|player|p2|ppskww|bugsy|1152
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772747597
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Flamigo|Flamigo, L82, M|269/269
+|switch|p2a: Kingambit|Kingambit, L74, M|270/270
+|turn|1
+|
+|t:|1772747615
+|-end|p2a: Kingambit|fallenundefined|[silent]
+|switch|p2a: Latios|Latios, L78, M|253/253
+|move|p1a: Flamigo|U-turn|p2a: Latios
+|-supereffective|p2a: Latios
+|-damage|p2a: Latios|71/253
+|
+|t:|1772747626
+|switch|p1a: Cramorant|Cramorant, L86, M|235/235|[from] U-turn
+|
+|upkeep
+|turn|2
+|
+|t:|1772747641
+|move|p1a: Cramorant|Dark Pulse|p2a: Latios
+|-supereffective|p2a: Latios
+|-damage|p2a: Latios|0 fnt
+|faint|p2a: Latios
+|
+|upkeep
+|
+|t:|1772747653
+|switch|p2a: Kingdra|Kingdra, L84, F|263/263
+|turn|3
+|
+|t:|1772747671
+|switch|p1a: Weezing|Weezing-Galar, L86, M|252/252
+|move|p2a: Kingdra|Rain Dance|p2a: Kingdra
+|-weather|RainDance
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1772747682
+|-terastallize|p2a: Kingdra|Water
+|move|p2a: Kingdra|Wave Crash|p1a: Weezing
+|-damage|p1a: Weezing|0 fnt
+|faint|p1a: Weezing
+|-damage|p2a: Kingdra|180/263|[from] Recoil
+|-damage|p2a: Kingdra|154/263|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1772747708
+|switch|p1a: Haxorus|Haxorus, L77, F|244/244
+|-ability|p1a: Haxorus|Mold Breaker
+|turn|5
+|
+|t:|1772747718
+|-terastallize|p1a: Haxorus|Steel
+|move|p2a: Kingdra|Draco Meteor|p1a: Haxorus
+|-resisted|p1a: Haxorus
+|-damage|p1a: Haxorus|124/244
+|-unboost|p2a: Kingdra|spa|2
+|-damage|p2a: Kingdra|128/263|[from] item: Life Orb
+|move|p1a: Haxorus|Outrage|p2a: Kingdra
+|-damage|p2a: Kingdra|0 fnt
+|faint|p2a: Kingdra
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1772747734
+|switch|p2a: Avalugg|Avalugg, L88, F|310/310
+|turn|6
+|
+|t:|1772747738
+|move|p1a: Haxorus|Outrage|p2a: Avalugg|[from] lockedmove
+|-damage|p2a: Avalugg|235/310
+|move|p2a: Avalugg|Body Press|p1a: Haxorus
+|-supereffective|p1a: Haxorus
+|-damage|p1a: Haxorus|0 fnt
+|faint|p1a: Haxorus
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1772747751
+|switch|p1a: Hypno|Hypno, L95, M|315/315
+|turn|7
+|
+|t:|1772747759
+|switch|p2a: Urshifu|Urshifu, L74, M|270/270
+|move|p1a: Hypno|Encore||[still]
+|-fail|p1a: Hypno
+|
+|-weather|none
+|upkeep
+|turn|8
+|
+|t:|1772747778
+|switch|p1a: Flamigo|Flamigo, L82, M|269/269
+|move|p2a: Urshifu|Wicked Blow|p1a: Flamigo
+|-resisted|p1a: Flamigo
+|-crit|p1a: Flamigo
+|-damage|p1a: Flamigo|176/269
+|
+|upkeep
+|turn|9
+|
+|t:|1772747803
+|switch|p2a: Avalugg|Avalugg, L88, F|235/310
+|move|p1a: Flamigo|U-turn|p2a: Avalugg
+|-damage|p2a: Avalugg|188/310
+|
+|t:|1772747810
+|switch|p1a: Hypno|Hypno, L95, M|315/315|[from] U-turn
+|
+|upkeep
+|turn|10
+|
+|t:|1772747834
+|switch|p2a: Polteageist|Polteageist, L78|222/222
+|move|p1a: Hypno|Toxic|p2a: Polteageist|[miss]
+|-miss|p1a: Hypno|p2a: Polteageist
+|
+|upkeep
+|turn|11
+|
+|t:|1772747840
+|move|p1a: Hypno|Knock Off|p2a: Polteageist
+|-supereffective|p2a: Polteageist
+|-damage|p2a: Polteageist|36/222
+|-enditem|p2a: Polteageist|White Herb|[from] move: Knock Off|[of] p1a: Hypno
+|move|p2a: Polteageist|Shell Smash|p2a: Polteageist
+|-unboost|p2a: Polteageist|def|1
+|-unboost|p2a: Polteageist|spd|1
+|-boost|p2a: Polteageist|atk|2
+|-boost|p2a: Polteageist|spa|2
+|-boost|p2a: Polteageist|spe|2
+|
+|upkeep
+|turn|12
+|
+|t:|1772747852
+|move|p2a: Polteageist|Shadow Ball|p1a: Hypno
+|-supereffective|p1a: Hypno
+|-crit|p1a: Hypno
+|-damage|p1a: Hypno|0 fnt
+|faint|p1a: Hypno
+|
+|upkeep
+|
+|t:|1772747863
+|switch|p1a: Cramorant|Cramorant, L86, M|235/235
+|turn|13
+|
+|t:|1772747869
+|move|p2a: Polteageist|Stored Power|p1a: Cramorant
+|-immune|p1a: Cramorant
+|move|p1a: Cramorant|U-turn|p2a: Polteageist
+|-resisted|p2a: Polteageist
+|-damage|p2a: Polteageist|0 fnt
+|faint|p2a: Polteageist
+|c|☆batterbub|lmao
+|
+|t:|1772747878
+|switch|p1a: Flamigo|Flamigo, L82, M|176/269|[from] U-turn
+|
+|upkeep
+|
+|t:|1772747884
+|switch|p2a: Avalugg|Avalugg, L88, F|188/310
+|turn|14
+|
+|t:|1772747894
+|move|p1a: Flamigo|Close Combat|p2a: Avalugg
+|-supereffective|p2a: Avalugg
+|-damage|p2a: Avalugg|0 fnt
+|-unboost|p1a: Flamigo|def|1
+|-unboost|p1a: Flamigo|spd|1
+|faint|p2a: Avalugg
+|
+|upkeep
+|-message|ppskww forfeited.
+|
+|win|batterbub
+|raw|batterbub's rating: 1138 &rarr; <strong>1167</strong><br />(+29 for winning)
+|raw|ppskww's rating: 1198 &rarr; <strong>1169</strong><br />(-29 for losing)
+|l|☆ppskww
+|player|p2|

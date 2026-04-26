@@ -1,0 +1,273 @@
+|j|☆blast565
+|j|☆Knobert
+|t:|1776975215
+|gametype|singles
+|player|p1|blast565|2|1183
+|player|p2|Knobert|lucas|1227
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776975215
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Meloetta|Meloetta, L82|298/298
+|switch|p2a: Chandelure|Chandelure, L83, F|235/235
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Knobert)
+|
+|t:|1776975230
+|move|p1a: Meloetta|U-turn|p2a: Chandelure
+|-resisted|p2a: Chandelure
+|-damage|p2a: Chandelure|225/235
+|
+|t:|1776975241
+|switch|p1a: Gastrodon|Gastrodon-East, L86, F|331/331|[from] U-turn
+|move|p2a: Chandelure|Fire Blast|p1a: Gastrodon
+|-resisted|p1a: Gastrodon
+|-damage|p1a: Gastrodon|255/331
+|
+|-heal|p1a: Gastrodon|275/331|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776975256
+|move|p2a: Chandelure|Energy Ball|p1a: Gastrodon
+|-supereffective|p1a: Gastrodon
+|-damage|p1a: Gastrodon|0 fnt
+|faint|p1a: Gastrodon
+|
+|upkeep
+|
+|t:|1776975269
+|switch|p1a: Ting-Lu|Ting-Lu, L78|370/370
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|turn|3
+|
+|t:|1776975277
+|move|p2a: Chandelure|Energy Ball|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|212/370
+|move|p1a: Ting-Lu|Ruination|p2a: Chandelure
+|-damage|p2a: Chandelure|113/235
+|
+|-heal|p1a: Ting-Lu|235/370|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776975299
+|move|p2a: Chandelure|Energy Ball|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|95/370
+|move|p1a: Ting-Lu|Payback|p2a: Chandelure
+|-supereffective|p2a: Chandelure
+|-damage|p2a: Chandelure|0 fnt
+|faint|p2a: Chandelure
+|
+|-heal|p1a: Ting-Lu|118/370|[from] item: Leftovers
+|upkeep
+|
+|t:|1776975308
+|switch|p2a: Rillaboom|Rillaboom, L79, M|288/288
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|5
+|
+|t:|1776975318
+|switch|p1a: Venomoth|Venomoth, L84, M|255/255
+|move|p2a: Rillaboom|Grassy Glide|p1a: Venomoth
+|-resisted|p1a: Venomoth
+|-damage|p1a: Venomoth|211/255
+|
+|-heal|p1a: Venomoth|226/255|[from] Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1776975333
+|switch|p2a: Regice|Regice, L88|284/284
+|move|p1a: Venomoth|Bug Buzz|p2a: Regice
+|-damage|p2a: Regice|239/284
+|
+|-heal|p1a: Venomoth|241/255|[from] Grassy Terrain
+|-heal|p2a: Regice|256/284|[from] Grassy Terrain
+|upkeep
+|turn|7
+|
+|t:|1776975344
+|move|p1a: Venomoth|Sleep Powder|p2a: Regice
+|-status|p2a: Regice|slp|[from] move: Sleep Powder
+|cant|p2a: Regice|slp
+|
+|-heal|p1a: Venomoth|255/255|[from] Grassy Terrain
+|-heal|p2a: Regice|273/284 slp|[from] Grassy Terrain
+|upkeep
+|turn|8
+|
+|t:|1776975362
+|move|p1a: Venomoth|Quiver Dance|p1a: Venomoth
+|-boost|p1a: Venomoth|spa|1
+|-boost|p1a: Venomoth|spd|1
+|-boost|p1a: Venomoth|spe|1
+|cant|p2a: Regice|slp
+|move|p2a: Regice|Sleep Talk|p2a: Regice
+|move|p2a: Regice|Thunderbolt|p1a: Venomoth|[from] move: Sleep Talk
+|-damage|p1a: Venomoth|205/255
+|
+|-heal|p1a: Venomoth|220/255|[from] Grassy Terrain
+|-heal|p2a: Regice|284/284 slp|[from] Grassy Terrain
+|upkeep
+|turn|9
+|
+|t:|1776975374
+|move|p1a: Venomoth|Quiver Dance|p1a: Venomoth
+|-boost|p1a: Venomoth|spa|1
+|-boost|p1a: Venomoth|spd|1
+|-boost|p1a: Venomoth|spe|1
+|-curestatus|p2a: Regice|slp|[msg]
+|move|p2a: Regice|Sleep Talk||[still]
+|-fail|p2a: Regice
+|
+|-heal|p1a: Venomoth|235/255|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|10
+|
+|t:|1776975387
+|move|p1a: Venomoth|Sludge Wave|p2a: Regice
+|-damage|p2a: Regice|199/284
+|move|p2a: Regice|Ice Beam|p1a: Venomoth
+|-damage|p1a: Venomoth|171/255
+|
+|upkeep
+|turn|11
+|
+|t:|1776975394
+|move|p1a: Venomoth|Sludge Wave|p2a: Regice
+|-damage|p2a: Regice|114/284
+|move|p2a: Regice|Ice Beam|p1a: Venomoth
+|-damage|p1a: Venomoth|114/255
+|
+|upkeep
+|turn|12
+|
+|t:|1776975400
+|move|p1a: Venomoth|Sleep Powder|p2a: Regice
+|-status|p2a: Regice|slp|[from] move: Sleep Powder
+|cant|p2a: Regice|slp
+|
+|upkeep
+|turn|13
+|
+|t:|1776975407
+|move|p1a: Venomoth|Sludge Wave|p2a: Regice
+|-damage|p2a: Regice|26/284 slp
+|-curestatus|p2a: Regice|slp|[msg]
+|move|p2a: Regice|Sleep Talk||[still]
+|-fail|p2a: Regice
+|
+|upkeep
+|turn|14
+|
+|t:|1776975414
+|move|p1a: Venomoth|Sludge Wave|p2a: Regice
+|-damage|p2a: Regice|0 fnt
+|faint|p2a: Regice
+|
+|upkeep
+|
+|t:|1776975421
+|switch|p2a: Rillaboom|Rillaboom, L79, M|288/288
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|15
+|
+|t:|1776975428
+|move|p1a: Venomoth|Bug Buzz|p2a: Rillaboom
+|-supereffective|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|
+|-heal|p1a: Venomoth|129/255|[from] Grassy Terrain
+|upkeep
+|
+|t:|1776975434
+|switch|p2a: Entei|Entei, L78|307/307
+|turn|16
+|
+|t:|1776975443
+|move|p1a: Venomoth|Sleep Powder|p2a: Entei
+|-status|p2a: Entei|slp|[from] move: Sleep Powder
+|cant|p2a: Entei|slp
+|
+|-heal|p1a: Venomoth|144/255|[from] Grassy Terrain
+|upkeep
+|turn|17
+|
+|t:|1776975451
+|move|p1a: Venomoth|Sludge Wave|p2a: Entei
+|-damage|p2a: Entei|97/307 slp
+|cant|p2a: Entei|slp
+|
+|-heal|p1a: Venomoth|159/255|[from] Grassy Terrain
+|-heal|p2a: Entei|116/307 slp|[from] Grassy Terrain
+|upkeep
+|turn|18
+|
+|t:|1776975459
+|-curestatus|p2a: Entei|slp|[msg]
+|move|p2a: Entei|Extreme Speed|p1a: Venomoth
+|-damage|p1a: Venomoth|46/255
+|move|p1a: Venomoth|Sludge Wave|p2a: Entei
+|-damage|p2a: Entei|0 fnt
+|faint|p2a: Entei
+|
+|-heal|p1a: Venomoth|61/255|[from] Grassy Terrain
+|upkeep
+|
+|t:|1776975474
+|switch|p2a: Girafarig|Girafarig, L89, M|269/269
+|turn|19
+|
+|t:|1776975488
+|-terastallize|p2a: Girafarig|Fairy
+|move|p1a: Venomoth|Bug Buzz|p2a: Girafarig
+|-resisted|p2a: Girafarig
+|-damage|p2a: Girafarig|137/269
+|move|p2a: Girafarig|Shadow Ball|p1a: Venomoth
+|-damage|p1a: Venomoth|28/255
+|
+|-heal|p1a: Venomoth|43/255|[from] Grassy Terrain
+|-heal|p2a: Girafarig|153/269|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|20
+|
+|t:|1776975503
+|move|p1a: Venomoth|Sludge Wave|p2a: Girafarig
+|-supereffective|p2a: Girafarig
+|-damage|p2a: Girafarig|0 fnt
+|faint|p2a: Girafarig
+|
+|upkeep
+|
+|t:|1776975507
+|switch|p2a: Eelektross|Eelektross, L87, F|290/290
+|turn|21
+|
+|t:|1776975528
+|move|p1a: Venomoth|Sleep Powder|p2a: Eelektross
+|-status|p2a: Eelektross|slp|[from] move: Sleep Powder
+|cant|p2a: Eelektross|slp
+|
+|upkeep
+|turn|22
+|-message|Knobert forfeited.
+|
+|win|blast565
+|raw|blast565's rating: 1183 &rarr; <strong>1211</strong><br />(+28 for winning)
+|raw|Knobert's rating: 1227 &rarr; <strong>1199</strong><br />(-28 for losing)
+|l|☆Knobert
+|player|p2|

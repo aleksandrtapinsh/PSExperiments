@@ -1,0 +1,247 @@
+|j|☆DARK_KARMANINJA
+|j|☆sdis_elmz
+|t:|1776970381
+|gametype|singles
+|player|p1|DARK_KARMANINJA|gentleman-gen4|
+|player|p2|sdis_elmz|red|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776970381
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Vespiquen|Vespiquen, L99, F|299/299
+|switch|p2a: Chesnaught|Chesnaught, L84, F|285/285
+|-ability|p1a: Vespiquen|Pressure
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by DARK_KARMANINJA)
+|
+|t:|1776970389
+|switch|p2a: Meowstic|Meowstic, L89, M|277/277
+|move|p1a: Vespiquen|Air Slash|p2a: Meowstic
+|-damage|p2a: Meowstic|177/277
+|
+|-heal|p2a: Meowstic|194/277|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776970397
+|switch|p2a: Cramorant|Cramorant, L86, M|261/261
+|move|p1a: Vespiquen|Air Slash|p2a: Cramorant
+|-damage|p2a: Cramorant|179/261
+|
+|upkeep
+|turn|3
+|
+|t:|1776970406
+|move|p2a: Cramorant|Brave Bird|p1a: Vespiquen
+|-supereffective|p1a: Vespiquen
+|-damage|p1a: Vespiquen|117/299
+|-damage|p2a: Cramorant|119/261|[from] Recoil
+|move|p1a: Vespiquen|Toxic|p2a: Cramorant|[miss]
+|-miss|p1a: Vespiquen|p2a: Cramorant
+|
+|upkeep
+|turn|4
+|
+|t:|1776970415
+|move|p2a: Cramorant|Brave Bird|p1a: Vespiquen
+|-supereffective|p1a: Vespiquen
+|-damage|p1a: Vespiquen|0 fnt
+|faint|p1a: Vespiquen
+|-damage|p2a: Cramorant|80/261|[from] Recoil
+|
+|upkeep
+|
+|t:|1776970427
+|switch|p1a: Golduck|Golduck, L90, M|290/290
+|-ability|p1a: Golduck|Cloud Nine
+|turn|5
+|
+|t:|1776970451
+|move|p1a: Golduck|Nasty Plot|p1a: Golduck
+|-boost|p1a: Golduck|spa|2
+|move|p2a: Cramorant|Brave Bird|p1a: Golduck
+|-damage|p1a: Golduck|161/290
+|-damage|p2a: Cramorant|37/261|[from] Recoil
+|
+|-heal|p1a: Golduck|179/290|[from] item: Leftovers
+|upkeep
+|turn|6
+|inactive|sdis_elmz has 270 seconds left.
+|
+|t:|1776970472
+|move|p1a: Golduck|Ice Beam|p2a: Cramorant
+|-damage|p2a: Cramorant|0 fnt
+|faint|p2a: Cramorant
+|
+|-heal|p1a: Golduck|197/290|[from] item: Leftovers
+|upkeep
+|inactive|sdis_elmz has 270 seconds left.
+|
+|t:|1776970501
+|switch|p2a: Chesnaught|Chesnaught, L84, F|285/285
+|turn|7
+|
+|t:|1776970511
+|move|p1a: Golduck|Ice Beam|p2a: Chesnaught
+|-supereffective|p2a: Chesnaught
+|-damage|p2a: Chesnaught|0 fnt
+|faint|p2a: Chesnaught
+|
+|-heal|p1a: Golduck|215/290|[from] item: Leftovers
+|upkeep
+|
+|t:|1776970516
+|switch|p2a: Giratina|Giratina-Origin, L72|335/335
+|turn|8
+|
+|t:|1776970522
+|move|p1a: Golduck|Ice Beam|p2a: Giratina
+|-supereffective|p2a: Giratina
+|-crit|p2a: Giratina
+|-damage|p2a: Giratina|0 fnt
+|faint|p2a: Giratina
+|
+|-heal|p1a: Golduck|233/290|[from] item: Leftovers
+|upkeep
+|
+|t:|1776970527
+|switch|p2a: Munkidori|Munkidori, L79, M|269/269
+|turn|9
+|
+|t:|1776970531
+|move|p2a: Munkidori|Fake Out|p1a: Golduck
+|-damage|p1a: Golduck|213/290
+|cant|p1a: Golduck|flinch
+|
+|-heal|p1a: Golduck|231/290|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1776970537
+|move|p2a: Munkidori|Sludge Wave|p1a: Golduck
+|-damage|p1a: Golduck|114/290
+|-status|p1a: Golduck|tox|[from] ability: Toxic Chain|[of] p2a: Munkidori
+|move|p1a: Golduck|Hydro Pump|p2a: Munkidori
+|-damage|p2a: Munkidori|86/269
+|
+|-heal|p1a: Golduck|132/290 tox|[from] item: Leftovers
+|-damage|p1a: Golduck|114/290 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1776970547
+|move|p2a: Munkidori|Sludge Wave|p1a: Golduck
+|-damage|p1a: Golduck|0 fnt
+|faint|p1a: Golduck
+|
+|upkeep
+|
+|t:|1776970556
+|switch|p1a: Probopass|Probopass, L91, M|257/257
+|turn|12
+|
+|t:|1776970563
+|move|p2a: Munkidori|U-turn|p1a: Probopass
+|-resisted|p1a: Probopass
+|-damage|p1a: Probopass|246/257
+|
+|t:|1776970567
+|switch|p2a: Lumineon|Lumineon, L93, M|279/279|[from] U-turn
+|move|p1a: Probopass|Iron Defense|p1a: Probopass
+|-boost|p1a: Probopass|def|2
+|
+|-heal|p1a: Probopass|257/257|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776970573
+|move|p2a: Lumineon|Hydro Pump|p1a: Probopass
+|-supereffective|p1a: Probopass
+|-damage|p1a: Probopass|91/257
+|-damage|p2a: Lumineon|252/279|[from] item: Life Orb
+|move|p1a: Probopass|Body Press|p2a: Lumineon
+|-damage|p2a: Lumineon|66/279
+|
+|-heal|p1a: Probopass|107/257|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1776970583
+|move|p2a: Lumineon|Hydro Pump|p1a: Probopass
+|-supereffective|p1a: Probopass
+|-damage|p1a: Probopass|0 fnt
+|faint|p1a: Probopass
+|-damage|p2a: Lumineon|39/279|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776970592
+|switch|p1a: Kricketune|Kricketune, L99, F|312/312
+|turn|15
+|
+|t:|1776970597
+|move|p2a: Lumineon|Hydro Pump|p1a: Kricketune|[miss]
+|-miss|p2a: Lumineon|p1a: Kricketune
+|move|p1a: Kricketune|Sticky Web|p2a: Lumineon
+|-sidestart|p2: sdis_elmz|move: Sticky Web
+|
+|upkeep
+|turn|16
+|
+|t:|1776970604
+|move|p2a: Lumineon|Hydro Pump|p1a: Kricketune|[miss]
+|-miss|p2a: Lumineon|p1a: Kricketune
+|move|p1a: Kricketune|Knock Off|p2a: Lumineon
+|-damage|p2a: Lumineon|0 fnt
+|-enditem|p2a: Lumineon|Life Orb|[from] move: Knock Off|[of] p1a: Kricketune
+|faint|p2a: Lumineon
+|
+|upkeep
+|
+|t:|1776970613
+|switch|p2a: Meowstic|Meowstic, L89, M|194/277
+|-activate|p2a: Meowstic|move: Sticky Web
+|-unboost|p2a: Meowstic|spe|1
+|turn|17
+|
+|t:|1776970618
+|move|p2a: Meowstic|Thunder Wave|p1a: Kricketune|[miss]
+|-miss|p2a: Meowstic|p1a: Kricketune
+|move|p1a: Kricketune|Pounce|p2a: Meowstic
+|-supereffective|p2a: Meowstic
+|-damage|p2a: Meowstic|0 fnt
+|faint|p2a: Meowstic
+|
+|upkeep
+|
+|t:|1776970621
+|switch|p2a: Munkidori|Munkidori, L79, M|86/269
+|-activate|p2a: Munkidori|move: Sticky Web
+|-unboost|p2a: Munkidori|spe|1
+|turn|18
+|
+|t:|1776970629
+|move|p2a: Munkidori|Fake Out|p1a: Kricketune
+|-damage|p1a: Kricketune|288/312
+|cant|p1a: Kricketune|flinch
+|
+|upkeep
+|turn|19
+|
+|t:|1776970633
+|move|p1a: Kricketune|Knock Off|p2a: Munkidori
+|-supereffective|p2a: Munkidori
+|-damage|p2a: Munkidori|0 fnt
+|-enditem|p2a: Munkidori|Assault Vest|[from] move: Knock Off|[of] p1a: Kricketune
+|faint|p2a: Munkidori
+|
+|win|DARK_KARMANINJA
+|l|☆sdis_elmz
+|player|p2|

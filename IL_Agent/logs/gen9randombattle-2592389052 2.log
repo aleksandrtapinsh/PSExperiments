@@ -1,0 +1,262 @@
+|j|☆asterclan
+|j|☆forbidden_child-
+|t:|1776984709
+|gametype|singles
+|player|p1|asterclan|brycen|1227
+|player|p2|forbidden_child-|plasmagrunt|1208
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776984709
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Poliwrath|Poliwrath, L88, F|302/302
+|switch|p2a: Flareon|Flareon, L90, F|263/263
+|turn|1
+|
+|t:|1776984721
+|move|p1a: Poliwrath|Knock Off|p2a: Flareon
+|-damage|p2a: Flareon|142/263
+|-enditem|p2a: Flareon|Toxic Orb|[from] move: Knock Off|[of] p1a: Poliwrath
+|-damage|p1a: Poliwrath|272/302|[from] item: Life Orb
+|move|p2a: Flareon|Will-O-Wisp|p1a: Poliwrath
+|-status|p1a: Poliwrath|brn
+|
+|-damage|p1a: Poliwrath|254/302 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1776984737
+|move|p1a: Poliwrath|Rain Dance|p1a: Poliwrath
+|-weather|RainDance
+|move|p2a: Flareon|Trailblaze|p1a: Poliwrath
+|-supereffective|p1a: Poliwrath
+|-damage|p1a: Poliwrath|162/302 brn
+|-boost|p2a: Flareon|spe|1
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Poliwrath|144/302 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1776984753
+|move|p1a: Poliwrath|Liquidation|p2a: Flareon
+|-supereffective|p2a: Flareon
+|-damage|p2a: Flareon|0 fnt
+|faint|p2a: Flareon
+|-damage|p1a: Poliwrath|114/302 brn|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Poliwrath|96/302 brn|[from] brn
+|upkeep
+|
+|t:|1776984769
+|switch|p2a: Meowstic|Meowstic-F, L89, F|277/277
+|turn|4
+|
+|t:|1776984773
+|move|p1a: Poliwrath|Knock Off|p2a: Meowstic
+|-supereffective|p2a: Meowstic
+|-damage|p2a: Meowstic|178/277
+|-enditem|p2a: Meowstic|Life Orb|[from] move: Knock Off|[of] p1a: Poliwrath
+|-damage|p1a: Poliwrath|66/302 brn|[from] item: Life Orb
+|move|p2a: Meowstic|Thunderbolt|p1a: Poliwrath
+|-supereffective|p1a: Poliwrath
+|-damage|p1a: Poliwrath|0 fnt
+|faint|p1a: Poliwrath
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1776984788
+|switch|p1a: Carbink|Carbink, L90|236/236
+|turn|5
+|
+|t:|1776984802
+|switch|p2a: Sneasler|Sneasler, L74, F|240/240
+|move|p1a: Carbink|Iron Defense|p1a: Carbink
+|-boost|p1a: Carbink|def|2
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1776984820
+|-terastallize|p1a: Carbink|Fighting
+|move|p2a: Sneasler|Dire Claw|p1a: Carbink
+|-damage|p1a: Carbink|197/236
+|move|p1a: Carbink|Iron Defense|p1a: Carbink
+|-boost|p1a: Carbink|def|2
+|
+|-weather|none
+|upkeep
+|turn|7
+|
+|t:|1776984834
+|switch|p2a: Skeledirge|Skeledirge, L79, M|294/294
+|move|p1a: Carbink|Iron Defense|p1a: Carbink
+|-boost|p1a: Carbink|def|2
+|
+|upkeep
+|turn|8
+|
+|t:|1776984840
+|move|p2a: Skeledirge|Will-O-Wisp|p1a: Carbink
+|-status|p1a: Carbink|brn
+|move|p1a: Carbink|Moonblast|p2a: Skeledirge
+|-resisted|p2a: Skeledirge
+|-damage|p2a: Skeledirge|247/294
+|
+|-damage|p1a: Carbink|183/236 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1776984849
+|move|p2a: Skeledirge|Hex|p1a: Carbink
+|-damage|p1a: Carbink|102/236 brn
+|move|p1a: Carbink|Moonblast|p2a: Skeledirge
+|-resisted|p2a: Skeledirge
+|-damage|p2a: Skeledirge|205/294
+|
+|-damage|p1a: Carbink|88/236 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1776984855
+|move|p2a: Skeledirge|Hex|p1a: Carbink
+|-damage|p1a: Carbink|1/236 brn
+|move|p1a: Carbink|Rest|p1a: Carbink
+|-status|p1a: Carbink|slp|[from] move: Rest
+|-heal|p1a: Carbink|236/236 slp|[silent]
+|-enditem|p1a: Carbink|Chesto Berry|[eat]
+|-curestatus|p1a: Carbink|slp|[msg]
+|
+|upkeep
+|turn|11
+|
+|t:|1776984863
+|move|p2a: Skeledirge|Will-O-Wisp|p1a: Carbink|[miss]
+|-miss|p2a: Skeledirge|p1a: Carbink
+|move|p1a: Carbink|Moonblast|p2a: Skeledirge
+|-resisted|p2a: Skeledirge
+|-damage|p2a: Skeledirge|162/294
+|
+|upkeep
+|turn|12
+|
+|t:|1776984870
+|switch|p1a: Cyclizar|Cyclizar, L83, F|252/252
+|move|p2a: Skeledirge|Slack Off|p2a: Skeledirge
+|-heal|p2a: Skeledirge|294/294
+|
+|upkeep
+|turn|13
+|
+|t:|1776984874
+|move|p1a: Cyclizar|Knock Off|p2a: Skeledirge
+|-supereffective|p2a: Skeledirge
+|-damage|p2a: Skeledirge|154/294
+|-enditem|p2a: Skeledirge|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Cyclizar
+|move|p2a: Skeledirge|Torch Song|p1a: Cyclizar
+|-resisted|p1a: Cyclizar
+|-damage|p1a: Cyclizar|195/252
+|-boost|p2a: Skeledirge|spa|1
+|
+|upkeep
+|turn|14
+|
+|t:|1776984890
+|move|p1a: Cyclizar|Knock Off|p2a: Skeledirge
+|-supereffective|p2a: Skeledirge
+|-damage|p2a: Skeledirge|62/294
+|move|p2a: Skeledirge|Torch Song|p1a: Cyclizar
+|-resisted|p1a: Cyclizar
+|-damage|p1a: Cyclizar|123/252
+|-boost|p2a: Skeledirge|spa|1
+|
+|upkeep
+|turn|15
+|
+|t:|1776984897
+|move|p1a: Cyclizar|Draco Meteor|p2a: Skeledirge
+|-damage|p2a: Skeledirge|0 fnt
+|-unboost|p1a: Cyclizar|spa|2
+|faint|p2a: Skeledirge
+|
+|upkeep
+|
+|t:|1776984903
+|switch|p2a: Hawlucha|Hawlucha, L80, F|256/256
+|turn|16
+|
+|t:|1776984909
+|switch|p1a: Carbink|Carbink, L90, tera:Fighting|236/236
+|move|p2a: Hawlucha|Swords Dance|p2a: Hawlucha
+|-boost|p2a: Hawlucha|atk|2
+|
+|upkeep
+|turn|17
+|
+|t:|1776984914
+|move|p2a: Hawlucha|Close Combat|p1a: Carbink
+|-damage|p1a: Carbink|92/236
+|-unboost|p2a: Hawlucha|def|1
+|-unboost|p2a: Hawlucha|spd|1
+|-enditem|p2a: Hawlucha|White Herb
+|-clearnegativeboost|p2a: Hawlucha|[silent]
+|move|p1a: Carbink|Moonblast|p2a: Hawlucha
+|-supereffective|p2a: Hawlucha
+|-damage|p2a: Hawlucha|68/256
+|
+|upkeep
+|turn|18
+|
+|t:|1776984924
+|switch|p1a: Victreebel|Victreebel, L90, M|290/290
+|move|p2a: Hawlucha|Acrobatics|p1a: Victreebel
+|-supereffective|p1a: Victreebel
+|-damage|p1a: Victreebel|0 fnt
+|faint|p1a: Victreebel
+|
+|upkeep
+|
+|t:|1776984947
+|switch|p1a: Cyclizar|Cyclizar, L83, F|207/252
+|turn|19
+|
+|t:|1776984952
+|move|p2a: Hawlucha|Close Combat|p1a: Cyclizar
+|-supereffective|p1a: Cyclizar
+|-damage|p1a: Cyclizar|0 fnt
+|-unboost|p2a: Hawlucha|def|1
+|-unboost|p2a: Hawlucha|spd|1
+|faint|p1a: Cyclizar
+|
+|upkeep
+|
+|t:|1776984961
+|switch|p1a: Baxcalibur|Baxcalibur, L75, F|296/296
+|turn|20
+|
+|t:|1776984964
+|move|p2a: Hawlucha|Close Combat|p1a: Baxcalibur
+|-supereffective|p1a: Baxcalibur
+|-damage|p1a: Baxcalibur|0 fnt
+|-unboost|p2a: Hawlucha|def|1
+|-unboost|p2a: Hawlucha|spd|1
+|faint|p1a: Baxcalibur
+|
+|upkeep
+|-message|asterclan forfeited.
+|
+|win|forbidden_child-
+|raw|asterclan's rating: 1227 &rarr; <strong>1201</strong><br />(-26 for losing)
+|raw|forbidden_child-'s rating: 1208 &rarr; <strong>1234</strong><br />(+26 for winning)
+|l|☆asterclan
+|player|p1|

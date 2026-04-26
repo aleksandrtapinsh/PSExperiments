@@ -1,0 +1,392 @@
+|j|☆fransaa
+|j|☆the vine diesels
+|t:|1776976516
+|gametype|singles
+|player|p1|fransaa|266|1348
+|player|p2|the vine diesels|dancer|1304
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776976516
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Bellossom|Bellossom, L84, M|263/263
+|switch|p2a: Luxray|Luxray, L88, M|284/284
+|-ability|p2a: Luxray|Intimidate|boost
+|-unboost|p1a: Bellossom|atk|1
+|turn|1
+|
+|t:|1776976529
+|move|p2a: Luxray|Ice Fang|p1a: Bellossom
+|-supereffective|p1a: Bellossom
+|-damage|p1a: Bellossom|149/263
+|move|p1a: Bellossom|Strength Sap|p2a: Luxray
+|-unboost|p2a: Luxray|atk|1
+|-heal|p1a: Bellossom|263/263
+|
+|upkeep
+|turn|2
+|
+|t:|1776976541
+|switch|p2a: Vileplume|Vileplume, L85, F|266/266
+|move|p1a: Bellossom|Quiver Dance|p1a: Bellossom
+|-boost|p1a: Bellossom|spa|1
+|-boost|p1a: Bellossom|spd|1
+|-boost|p1a: Bellossom|spe|1
+|
+|upkeep
+|turn|3
+|
+|t:|1776976559
+|move|p1a: Bellossom|Sludge Bomb|p2a: Vileplume
+|-damage|p2a: Vileplume|181/266
+|move|p2a: Vileplume|Leech Seed|p1a: Bellossom
+|-immune|p1a: Bellossom
+|
+|-heal|p2a: Vileplume|197/266|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776976567
+|move|p1a: Bellossom|Quiver Dance|p1a: Bellossom
+|-boost|p1a: Bellossom|spa|1
+|-boost|p1a: Bellossom|spd|1
+|-boost|p1a: Bellossom|spe|1
+|move|p2a: Vileplume|Sludge Bomb|p1a: Bellossom
+|-supereffective|p1a: Bellossom
+|-damage|p1a: Bellossom|171/263
+|-status|p1a: Bellossom|psn
+|
+|-heal|p1a: Bellossom|187/263 psn|[from] item: Leftovers
+|-heal|p2a: Vileplume|213/266|[from] item: Leftovers
+|-damage|p1a: Bellossom|155/263 psn|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1776976583
+|move|p1a: Bellossom|Sludge Bomb|p2a: Vileplume
+|-damage|p2a: Vileplume|93/266
+|move|p2a: Vileplume|Strength Sap|p1a: Bellossom
+|-unboost|p1a: Bellossom|atk|1
+|-heal|p2a: Vileplume|185/266
+|
+|-heal|p1a: Bellossom|171/263 psn|[from] item: Leftovers
+|-heal|p2a: Vileplume|201/266|[from] item: Leftovers
+|-damage|p1a: Bellossom|139/263 psn|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1776976594
+|move|p1a: Bellossom|Strength Sap|p2a: Vileplume
+|-unboost|p2a: Vileplume|atk|1
+|-heal|p1a: Bellossom|263/263 psn
+|move|p2a: Vileplume|Sludge Bomb|p1a: Bellossom
+|-supereffective|p1a: Bellossom
+|-damage|p1a: Bellossom|155/263 psn
+|
+|-heal|p1a: Bellossom|171/263 psn|[from] item: Leftovers
+|-heal|p2a: Vileplume|217/266|[from] item: Leftovers
+|-damage|p1a: Bellossom|139/263 psn|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1776976621
+|switch|p2a: Ludicolo|Ludicolo, L90, M|290/290
+|move|p1a: Bellossom|Sludge Bomb|p2a: Ludicolo
+|-supereffective|p2a: Ludicolo
+|-damage|p2a: Ludicolo|88/290
+|
+|-heal|p1a: Bellossom|155/263 psn|[from] item: Leftovers
+|-damage|p1a: Bellossom|123/263 psn|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1776976636
+|move|p1a: Bellossom|Giga Drain|p2a: Ludicolo
+|-damage|p2a: Ludicolo|0 fnt
+|-heal|p1a: Bellossom|167/263 psn|[from] drain|[of] p2a: Ludicolo
+|faint|p2a: Ludicolo
+|
+|-heal|p1a: Bellossom|183/263 psn|[from] item: Leftovers
+|-damage|p1a: Bellossom|151/263 psn|[from] psn
+|upkeep
+|
+|t:|1776976660
+|switch|p2a: Deoxys|Deoxys-Defense, L84|221/221
+|-ability|p2a: Deoxys|Pressure
+|turn|9
+|
+|t:|1776976666
+|move|p1a: Bellossom|Strength Sap|p2a: Deoxys
+|-unboost|p2a: Deoxys|atk|1
+|-heal|p1a: Bellossom|263/263 psn
+|move|p2a: Deoxys|Knock Off|p1a: Bellossom
+|-crit|p1a: Bellossom
+|-damage|p1a: Bellossom|192/263 psn
+|-enditem|p1a: Bellossom|Leftovers|[from] move: Knock Off|[of] p2a: Deoxys
+|
+|-damage|p1a: Bellossom|160/263 psn|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1776976694
+|move|p1a: Bellossom|Quiver Dance|p1a: Bellossom
+|-boost|p1a: Bellossom|spa|1
+|-boost|p1a: Bellossom|spd|1
+|-boost|p1a: Bellossom|spe|1
+|move|p2a: Deoxys|Teleport|p2a: Deoxys
+|
+|t:|1776976699
+|switch|p2a: Vileplume|Vileplume, L85, F|217/266|[from] Teleport
+|
+|-heal|p2a: Vileplume|233/266|[from] item: Leftovers
+|-damage|p1a: Bellossom|128/263 psn|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1776976710
+|-terastallize|p2a: Vileplume|Steel
+|move|p1a: Bellossom|Sludge Bomb|p2a: Vileplume
+|-immune|p2a: Vileplume
+|move|p2a: Vileplume|Sludge Bomb|p1a: Bellossom
+|-supereffective|p1a: Bellossom
+|-damage|p1a: Bellossom|38/263 psn
+|
+|-heal|p2a: Vileplume|249/266|[from] item: Leftovers
+|-damage|p1a: Bellossom|6/263 psn|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1776976733
+|-terastallize|p1a: Bellossom|Poison
+|move|p1a: Bellossom|Strength Sap|p2a: Vileplume
+|-unboost|p2a: Vileplume|atk|1
+|-heal|p1a: Bellossom|147/263 psn
+|move|p2a: Vileplume|Strength Sap|p1a: Bellossom
+|-unboost|p1a: Bellossom|atk|1
+|-heal|p2a: Vileplume|266/266
+|
+|-damage|p1a: Bellossom|115/263 psn|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1776976745
+|move|p1a: Bellossom|Giga Drain|p2a: Vileplume
+|-resisted|p2a: Vileplume
+|-damage|p2a: Vileplume|170/266
+|-heal|p1a: Bellossom|163/263 psn|[from] drain|[of] p2a: Vileplume
+|move|p2a: Vileplume|Sludge Bomb|p1a: Bellossom
+|-resisted|p1a: Bellossom
+|-damage|p1a: Bellossom|143/263 psn
+|
+|-heal|p2a: Vileplume|186/266|[from] item: Leftovers
+|-damage|p1a: Bellossom|111/263 psn|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1776976766
+|move|p1a: Bellossom|Quiver Dance|p1a: Bellossom
+|-boost|p1a: Bellossom|spa|1
+|-boost|p1a: Bellossom|spd|1
+|-boost|p1a: Bellossom|spe|1
+|move|p2a: Vileplume|Leech Seed|p1a: Bellossom
+|-start|p1a: Bellossom|move: Leech Seed
+|
+|-heal|p2a: Vileplume|202/266|[from] item: Leftovers
+|-damage|p1a: Bellossom|79/263 psn|[from] Leech Seed|[of] p2a: Vileplume
+|-heal|p2a: Vileplume|234/266|[silent]
+|-damage|p1a: Bellossom|47/263 psn|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1776976779
+|move|p1a: Bellossom|Giga Drain|p2a: Vileplume
+|-resisted|p2a: Vileplume
+|-damage|p2a: Vileplume|124/266
+|-heal|p1a: Bellossom|102/263 psn|[from] drain|[of] p2a: Vileplume
+|move|p2a: Vileplume|Giga Drain|p1a: Bellossom
+|-resisted|p1a: Bellossom
+|-damage|p1a: Bellossom|88/263 psn
+|-heal|p2a: Vileplume|131/266|[from] drain|[of] p1a: Bellossom
+|
+|-heal|p2a: Vileplume|147/266|[from] item: Leftovers
+|-damage|p1a: Bellossom|56/263 psn|[from] Leech Seed|[of] p2a: Vileplume
+|-heal|p2a: Vileplume|179/266|[silent]
+|-damage|p1a: Bellossom|24/263 psn|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1776976792
+|move|p1a: Bellossom|Giga Drain|p2a: Vileplume
+|-resisted|p2a: Vileplume
+|-damage|p2a: Vileplume|78/266
+|-heal|p1a: Bellossom|75/263 psn|[from] drain|[of] p2a: Vileplume
+|move|p2a: Vileplume|Strength Sap|p1a: Bellossom
+|-unboost|p1a: Bellossom|atk|1
+|-heal|p2a: Vileplume|133/266
+|
+|-heal|p2a: Vileplume|149/266|[from] item: Leftovers
+|-damage|p1a: Bellossom|43/263 psn|[from] Leech Seed|[of] p2a: Vileplume
+|-heal|p2a: Vileplume|181/266|[silent]
+|-damage|p1a: Bellossom|11/263 psn|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1776976816
+|move|p1a: Bellossom|Strength Sap|p2a: Vileplume
+|-unboost|p2a: Vileplume|atk|1
+|-heal|p1a: Bellossom|105/263 psn
+|move|p2a: Vileplume|Giga Drain|p1a: Bellossom
+|-resisted|p1a: Bellossom
+|-damage|p1a: Bellossom|92/263 psn
+|-heal|p2a: Vileplume|188/266|[from] drain|[of] p1a: Bellossom
+|
+|-heal|p2a: Vileplume|204/266|[from] item: Leftovers
+|-damage|p1a: Bellossom|60/263 psn|[from] Leech Seed|[of] p2a: Vileplume
+|-heal|p2a: Vileplume|236/266|[silent]
+|-damage|p1a: Bellossom|28/263 psn|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1776976834
+|move|p1a: Bellossom|Giga Drain|p2a: Vileplume
+|-resisted|p2a: Vileplume
+|-damage|p2a: Vileplume|122/266
+|-heal|p1a: Bellossom|85/263 psn|[from] drain|[of] p2a: Vileplume
+|move|p2a: Vileplume|Sludge Bomb|p1a: Bellossom
+|-resisted|p1a: Bellossom
+|-damage|p1a: Bellossom|68/263 psn
+|
+|-heal|p2a: Vileplume|138/266|[from] item: Leftovers
+|-damage|p1a: Bellossom|36/263 psn|[from] Leech Seed|[of] p2a: Vileplume
+|-heal|p2a: Vileplume|170/266|[silent]
+|-damage|p1a: Bellossom|4/263 psn|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1776976853
+|move|p1a: Bellossom|Giga Drain|p2a: Vileplume
+|-resisted|p2a: Vileplume
+|-damage|p2a: Vileplume|53/266
+|-heal|p1a: Bellossom|63/263 psn|[from] drain|[of] p2a: Vileplume
+|move|p2a: Vileplume|Sludge Bomb|p1a: Bellossom
+|-resisted|p1a: Bellossom
+|-damage|p1a: Bellossom|45/263 psn
+|
+|-heal|p2a: Vileplume|69/266|[from] item: Leftovers
+|-damage|p1a: Bellossom|13/263 psn|[from] Leech Seed|[of] p2a: Vileplume
+|-heal|p2a: Vileplume|101/266|[silent]
+|-damage|p1a: Bellossom|0 fnt|[from] psn
+|faint|p1a: Bellossom
+|upkeep
+|
+|t:|1776976872
+|switch|p1a: Chi-Yu|Chi-Yu, L77|211/211
+|-ability|p1a: Chi-Yu|Beads of Ruin
+|turn|20
+|
+|t:|1776976881
+|move|p1a: Chi-Yu|Dark Pulse|p2a: Vileplume
+|-damage|p2a: Vileplume|0 fnt
+|faint|p2a: Vileplume
+|
+|upkeep
+|
+|t:|1776976889
+|switch|p2a: Hitmonlee|Hitmonlee, L85, M|224/224
+|turn|21
+|
+|t:|1776976899
+|switch|p1a: Noctowl|Noctowl, L95, F|344/344
+|move|p2a: Hitmonlee|Swords Dance|p2a: Hitmonlee
+|-boost|p2a: Hitmonlee|atk|2
+|
+|upkeep
+|turn|22
+|
+|t:|1776976907
+|move|p2a: Hitmonlee|Poison Jab|p1a: Noctowl
+|-damage|p1a: Noctowl|167/344
+|move|p1a: Noctowl|Hurricane|p2a: Hitmonlee|[miss]
+|-miss|p1a: Noctowl|p2a: Hitmonlee
+|
+|upkeep
+|turn|23
+|
+|t:|1776976913
+|move|p2a: Hitmonlee|Poison Jab|p1a: Noctowl
+|-damage|p1a: Noctowl|0 fnt
+|faint|p1a: Noctowl
+|
+|upkeep
+|
+|t:|1776976923
+|switch|p1a: Chi-Yu|Chi-Yu, L77|211/211
+|-ability|p1a: Chi-Yu|Beads of Ruin
+|turn|24
+|
+|t:|1776976929
+|move|p1a: Chi-Yu|Psychic|p2a: Hitmonlee
+|-supereffective|p2a: Hitmonlee
+|-damage|p2a: Hitmonlee|78/224
+|move|p2a: Hitmonlee|Close Combat|p1a: Chi-Yu
+|-supereffective|p1a: Chi-Yu
+|-damage|p1a: Chi-Yu|0 fnt
+|-unboost|p2a: Hitmonlee|def|1
+|-unboost|p2a: Hitmonlee|spd|1
+|faint|p1a: Chi-Yu
+|-enditem|p2a: Hitmonlee|White Herb
+|-clearnegativeboost|p2a: Hitmonlee|[silent]
+|
+|upkeep
+|
+|t:|1776976938
+|switch|p1a: Lumineon|Lumineon, L93, M|279/279
+|turn|25
+|
+|t:|1776976961
+|move|p2a: Hitmonlee|Close Combat|p1a: Lumineon
+|-damage|p1a: Lumineon|0 fnt
+|-unboost|p2a: Hitmonlee|def|1
+|-unboost|p2a: Hitmonlee|spd|1
+|faint|p1a: Lumineon
+|
+|upkeep
+|
+|t:|1776976970
+|switch|p1a: Weavile|Weavile, L79, M|240/240
+|turn|26
+|
+|t:|1776976977
+|move|p2a: Hitmonlee|Close Combat|p1a: Weavile
+|-supereffective|p1a: Weavile
+|-damage|p1a: Weavile|0 fnt
+|-unboost|p2a: Hitmonlee|def|1
+|-unboost|p2a: Hitmonlee|spd|1
+|faint|p1a: Weavile
+|
+|upkeep
+|
+|t:|1776976979
+|switch|p1a: Vigoroth|Vigoroth, L85, F|275/275
+|turn|27
+|
+|t:|1776976992
+|move|p2a: Hitmonlee|Close Combat|p1a: Vigoroth
+|-supereffective|p1a: Vigoroth
+|-damage|p1a: Vigoroth|0 fnt
+|-unboost|p2a: Hitmonlee|def|1
+|-unboost|p2a: Hitmonlee|spd|1
+|faint|p1a: Vigoroth
+|
+|win|the vine diesels
+|raw|fransaa's rating: 1348 &rarr; <strong>1325</strong><br />(-23 for losing)
+|raw|the vine diesels's rating: 1304 &rarr; <strong>1327</strong><br />(+23 for winning)
+|l|☆fransaa
+|player|p1|

@@ -1,0 +1,328 @@
+|j|☆Pluta25
+|j|☆Angolano1234567
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1776976332
+|gametype|singles
+|player|p1|Pluta25|cynthia-gen4|
+|player|p2|Angolano1234567|shauntal|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|Tournament battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776976332
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Hitmonchan|Hitmonchan, L87, M|229/229
+|switch|p2a: Emboar|Emboar, L84, M|322/322
+|turn|1
+|inactive|Angolano1234567 also wants the timer to be on.
+|inactive|Pluta25 has 120 seconds left.
+|
+|t:|1776976376
+|switch|p1a: Flygon|Flygon, L82, M|265/265
+|move|p2a: Emboar|Flare Blitz|p1a: Flygon
+|-resisted|p1a: Flygon
+|-damage|p1a: Flygon|169/265
+|-damage|p2a: Emboar|290/322|[from] Recoil
+|
+|upkeep
+|turn|2
+|
+|t:|1776976393
+|switch|p2a: Staraptor|Staraptor, L79, M|263/263
+|move|p1a: Flygon|Stone Edge|p2a: Staraptor
+|-supereffective|p2a: Staraptor
+|-damage|p2a: Staraptor|93/263
+|
+|upkeep
+|turn|3
+|
+|t:|1776976407
+|move|p1a: Flygon|Stone Edge|p2a: Staraptor|[miss]
+|-miss|p1a: Flygon|p2a: Staraptor
+|move|p2a: Staraptor|Brave Bird|p1a: Flygon
+|-damage|p1a: Flygon|0 fnt
+|faint|p1a: Flygon
+|-damage|p2a: Staraptor|37/263|[from] Recoil
+|
+|upkeep
+|
+|t:|1776976428
+|switch|p1a: Eternatus|Eternatus, L69|308/308
+|-ability|p1a: Eternatus|Pressure
+|turn|4
+|inactive|Pluta25 has 120 seconds left.
+|
+|t:|1776976447
+|switch|p2a: Clodsire|Clodsire, L81, F|343/343
+|move|p1a: Eternatus|Sludge Bomb|p2a: Clodsire
+|-resisted|p2a: Clodsire
+|-damage|p2a: Clodsire|324/343
+|
+|-heal|p2a: Clodsire|343/343|[from] item: Leftovers
+|upkeep
+|turn|5
+|inactive|Pluta25 has 120 seconds left.
+|
+|t:|1776976463
+|switch|p1a: Greedent|Greedent, L86, F|347/347
+|move|p2a: Clodsire|Earthquake|p1a: Greedent
+|-damage|p1a: Greedent|269/347
+|
+|upkeep
+|turn|6
+|inactive|Pluta25 has 120 seconds left.
+|j| gvzkg g
+|l| gvzkg g
+|
+|t:|1776976482
+|move|p1a: Greedent|Knock Off|p2a: Clodsire
+|-damage|p2a: Clodsire|253/343
+|-enditem|p2a: Clodsire|Leftovers|[from] move: Knock Off|[of] p1a: Greedent
+|move|p2a: Clodsire|Toxic|p1a: Greedent
+|-status|p1a: Greedent|tox
+|
+|-damage|p1a: Greedent|248/347 tox|[from] psn
+|upkeep
+|turn|7
+|inactive|Pluta25 has 120 seconds left.
+|
+|t:|1776976502
+|switch|p2a: Staraptor|Staraptor, L79, M|37/263
+|move|p1a: Greedent|Earthquake|p2a: Staraptor
+|-immune|p2a: Staraptor
+|
+|-damage|p1a: Greedent|206/347 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1776976511
+|move|p2a: Staraptor|Close Combat|p1a: Greedent
+|-supereffective|p1a: Greedent
+|-damage|p1a: Greedent|44/347 tox
+|-unboost|p2a: Staraptor|def|1
+|-unboost|p2a: Staraptor|spd|1
+|-enditem|p1a: Greedent|Sitrus Berry|[eat]
+|-heal|p1a: Greedent|130/347 tox|[from] item: Sitrus Berry
+|-heal|p1a: Greedent|245/347 tox|[from] ability: Cheek Pouch
+|move|p1a: Greedent|Double-Edge|p2a: Staraptor
+|-damage|p2a: Staraptor|0 fnt
+|faint|p2a: Staraptor
+|-damage|p1a: Greedent|233/347 tox|[from] Recoil
+|
+|-damage|p1a: Greedent|170/347 tox|[from] psn
+|upkeep
+|
+|t:|1776976516
+|switch|p2a: Emboar|Emboar, L84, M|290/322
+|turn|9
+|
+|t:|1776976528
+|switch|p1a: Eternatus|Eternatus, L69|308/308
+|-ability|p1a: Eternatus|Pressure
+|move|p2a: Emboar|Flare Blitz|p1a: Eternatus
+|-resisted|p1a: Eternatus
+|-damage|p1a: Eternatus|211/308
+|-damage|p2a: Emboar|258/322|[from] Recoil
+|
+|upkeep
+|turn|10
+|
+|t:|1776976538
+|switch|p2a: Clodsire|Clodsire, L81, F|253/343
+|move|p1a: Eternatus|Dynamax Cannon|p2a: Clodsire
+|-damage|p2a: Clodsire|162/343
+|
+|upkeep
+|turn|11
+|
+|t:|1776976548
+|switch|p1a: Greedent|Greedent, L86, F|170/347 tox
+|move|p2a: Clodsire|Recover|p2a: Clodsire
+|-heal|p2a: Clodsire|334/343
+|
+|-damage|p1a: Greedent|149/347 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1776976558
+|move|p1a: Greedent|Earthquake|p2a: Clodsire
+|-supereffective|p2a: Clodsire
+|-damage|p2a: Clodsire|134/343
+|move|p2a: Clodsire|Earthquake|p1a: Greedent
+|-damage|p1a: Greedent|70/347 tox
+|
+|-damage|p1a: Greedent|28/347 tox|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1776976570
+|switch|p2a: Goodra|Goodra, L85, F|292/292
+|move|p1a: Greedent|Knock Off|p2a: Goodra
+|-crit|p2a: Goodra
+|-damage|p2a: Goodra|174/292
+|-enditem|p2a: Goodra|Assault Vest|[from] move: Knock Off|[of] p1a: Greedent
+|
+|-damage|p1a: Greedent|0 fnt|[from] psn
+|faint|p1a: Greedent
+|upkeep
+|
+|t:|1776976592
+|switch|p1a: Eternatus|Eternatus, L69|211/308
+|-ability|p1a: Eternatus|Pressure
+|turn|14
+|
+|t:|1776976599
+|move|p1a: Eternatus|Dynamax Cannon|p2a: Goodra
+|-supereffective|p2a: Goodra
+|-damage|p2a: Goodra|42/292
+|move|p2a: Goodra|Draco Meteor|p1a: Eternatus
+|-supereffective|p1a: Eternatus
+|-damage|p1a: Eternatus|0 fnt
+|-unboost|p2a: Goodra|spa|2
+|faint|p1a: Eternatus
+|
+|upkeep
+|
+|t:|1776976611
+|switch|p1a: Galvantula|Galvantula, L82, M|249/249
+|turn|15
+|
+|t:|1776976617
+|move|p1a: Galvantula|Sticky Web|p2a: Goodra
+|-sidestart|p2: Angolano1234567|move: Sticky Web
+|move|p2a: Goodra|Draco Meteor|p1a: Galvantula|[miss]
+|-miss|p2a: Goodra|p1a: Galvantula
+|
+|upkeep
+|turn|16
+|
+|t:|1776976625
+|move|p1a: Galvantula|Bug Buzz|p2a: Goodra
+|-damage|p2a: Goodra|0 fnt
+|faint|p2a: Goodra
+|
+|upkeep
+|
+|t:|1776976639
+|switch|p2a: Clodsire|Clodsire, L81, F|134/343
+|-activate|p2a: Clodsire|move: Sticky Web
+|-unboost|p2a: Clodsire|spe|1
+|turn|17
+|
+|t:|1776976653
+|move|p1a: Galvantula|Energy Ball|p2a: Clodsire
+|-damage|p2a: Clodsire|76/343
+|move|p2a: Clodsire|Recover|p2a: Clodsire
+|-heal|p2a: Clodsire|248/343
+|
+|upkeep
+|turn|18
+|
+|t:|1776976663
+|switch|p1a: Cacturne|Cacturne, L92, F|278/278
+|move|p2a: Clodsire|Toxic|p1a: Cacturne
+|-status|p1a: Cacturne|tox
+|
+|-damage|p1a: Cacturne|261/278 tox|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1776976671
+|switch|p2a: Emboar|Emboar, L84, M|258/322
+|-activate|p2a: Emboar|move: Sticky Web
+|-unboost|p2a: Emboar|spe|1
+|move|p1a: Cacturne|Leaf Storm|p2a: Emboar
+|-resisted|p2a: Emboar
+|-crit|p2a: Emboar
+|-damage|p2a: Emboar|98/322
+|-unboost|p1a: Cacturne|spa|2
+|-damage|p1a: Cacturne|234/278 tox|[from] item: Life Orb
+|
+|-damage|p1a: Cacturne|200/278 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1776976683
+|switch|p1a: Hitmonchan|Hitmonchan, L87, M|229/229
+|move|p2a: Emboar|Flare Blitz|p1a: Hitmonchan
+|-crit|p1a: Hitmonchan
+|-damage|p1a: Hitmonchan|0 fnt
+|faint|p1a: Hitmonchan
+|-damage|p2a: Emboar|22/322|[from] Recoil
+|
+|upkeep
+|
+|t:|1776976690
+|switch|p1a: Galvantula|Galvantula, L82, M|249/249
+|turn|21
+|
+|t:|1776976696
+|move|p2a: Emboar|Sucker Punch|p1a: Galvantula
+|-damage|p1a: Galvantula|169/249
+|move|p1a: Galvantula|Bug Buzz|p2a: Emboar
+|-resisted|p2a: Emboar
+|-damage|p2a: Emboar|2/322
+|
+|upkeep
+|turn|22
+|
+|t:|1776976706
+|move|p2a: Emboar|Sucker Punch|p1a: Galvantula
+|-damage|p1a: Galvantula|83/249
+|move|p1a: Galvantula|Energy Ball|p2a: Emboar
+|-resisted|p2a: Emboar
+|-damage|p2a: Emboar|0 fnt
+|faint|p2a: Emboar
+|
+|upkeep
+|
+|t:|1776976714
+|switch|p2a: Clodsire|Clodsire, L81, F|248/343
+|-activate|p2a: Clodsire|move: Sticky Web
+|-unboost|p2a: Clodsire|spe|1
+|turn|23
+|
+|t:|1776976722
+|switch|p1a: Cacturne|Cacturne, L92, F|200/278 tox
+|move|p2a: Clodsire|Recover|p2a: Clodsire
+|-heal|p2a: Clodsire|343/343
+|
+|-damage|p1a: Cacturne|183/278 tox|[from] psn
+|upkeep
+|turn|24
+|
+|t:|1776976731
+|move|p1a: Cacturne|Leaf Storm|p2a: Clodsire
+|-damage|p2a: Clodsire|113/343
+|-unboost|p1a: Cacturne|spa|2
+|-damage|p1a: Cacturne|156/278 tox|[from] item: Life Orb
+|move|p2a: Clodsire|Gunk Shot|p1a: Cacturne
+|-supereffective|p1a: Cacturne
+|-damage|p1a: Cacturne|0 fnt
+|faint|p1a: Cacturne
+|
+|upkeep
+|
+|t:|1776976738
+|switch|p1a: Galvantula|Galvantula, L82, M|83/249
+|turn|25
+|
+|t:|1776976746
+|move|p1a: Galvantula|Energy Ball|p2a: Clodsire
+|-damage|p2a: Clodsire|56/343
+|move|p2a: Clodsire|Recover|p2a: Clodsire
+|-heal|p2a: Clodsire|228/343
+|
+|upkeep
+|turn|26
+|-message|Pluta25 forfeited.
+|
+|win|Angolano1234567
+|n|☆Pluta25|pluta25
+|n|☆Angolano1234567|angolano1234567

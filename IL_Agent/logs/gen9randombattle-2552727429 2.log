@@ -1,0 +1,196 @@
+|j|☆KyrusRonin
+|j|☆Shade_eze
+|t:|1772747343
+|gametype|singles
+|player|p1|KyrusRonin|169|1028
+|player|p2|Shade_eze|hilbert|1074
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772747343
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Minior|Minior-Violet, L79|224/224
+|switch|p2a: Talonflame|Talonflame, L83, M|265/265
+|-formechange|p1a: Minior|Minior-Meteor||[from] ability: Shields Down
+|turn|1
+|
+|t:|1772747356
+|move|p2a: Talonflame|Swords Dance|p2a: Talonflame
+|-boost|p2a: Talonflame|atk|2
+|move|p1a: Minior|Shell Smash|p1a: Minior
+|-unboost|p1a: Minior|def|1
+|-unboost|p1a: Minior|spd|1
+|-boost|p1a: Minior|atk|2
+|-boost|p1a: Minior|spa|2
+|-boost|p1a: Minior|spe|2
+|-enditem|p1a: Minior|White Herb
+|-clearnegativeboost|p1a: Minior|[silent]
+|
+|upkeep
+|turn|2
+|
+|t:|1772747380
+|move|p1a: Minior|Power Gem|p2a: Talonflame
+|-supereffective|p2a: Talonflame
+|-damage|p2a: Talonflame|0 fnt
+|faint|p2a: Talonflame
+|
+|upkeep
+|
+|t:|1772747387
+|switch|p2a: Ampharos|Ampharos, L88, M|302/302
+|turn|3
+|
+|t:|1772747417
+|move|p1a: Minior|Earthquake|p2a: Ampharos
+|-supereffective|p2a: Ampharos
+|-damage|p2a: Ampharos|122/302
+|move|p2a: Ampharos|Thunderbolt|p1a: Minior
+|-supereffective|p1a: Minior
+|-damage|p1a: Minior|2/224
+|
+|-formechange|p1a: Minior|Minior-Violet||[from] ability: Shields Down
+|upkeep
+|turn|4
+|
+|t:|1772747435
+|move|p1a: Minior|Earthquake|p2a: Ampharos
+|-supereffective|p2a: Ampharos
+|-crit|p2a: Ampharos
+|-damage|p2a: Ampharos|0 fnt
+|faint|p2a: Ampharos
+|
+|upkeep
+|
+|t:|1772747451
+|switch|p2a: Garchomp|Garchomp, L74, F|282/282
+|turn|5
+|
+|t:|1772747469
+|move|p1a: Minior|Acrobatics|p2a: Garchomp
+|-damage|p2a: Garchomp|42/282
+|-damage|p1a: Minior|0 fnt|[from] ability: Rough Skin|[of] p2a: Garchomp
+|faint|p1a: Minior
+|move|p2a: Garchomp|Scale Shot|p1: Minior|[notarget]
+|-fail|p2a: Garchomp
+|
+|upkeep
+|
+|t:|1772747485
+|switch|p1a: Serperior|Serperior, L79, M|248/248
+|turn|6
+|
+|t:|1772747507
+|move|p1a: Serperior|Leaf Storm|p2a: Garchomp
+|-crit|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|-boost|p1a: Serperior|spa|2
+|faint|p2a: Garchomp
+|
+|upkeep
+|
+|t:|1772747519
+|switch|p2a: Skeledirge|Skeledirge, L79, F|294/294
+|turn|7
+|
+|t:|1772747528
+|-terastallize|p1a: Serperior|Rock
+|move|p1a: Serperior|Substitute|p1a: Serperior
+|-start|p1a: Serperior|Substitute
+|-damage|p1a: Serperior|186/248
+|move|p2a: Skeledirge|Torch Song|p1a: Serperior
+|-resisted|p1a: Serperior
+|-damage|p1a: Serperior|148/248
+|-boost|p2a: Skeledirge|spa|1
+|
+|-heal|p1a: Serperior|163/248|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1772747540
+|move|p1a: Serperior|Tera Blast|p2a: Skeledirge|[anim] Tera Blast Rock
+|-supereffective|p2a: Skeledirge
+|-damage|p2a: Skeledirge|148/294
+|move|p2a: Skeledirge|Will-O-Wisp||[still]
+|-fail|p2a: Skeledirge
+|
+|-heal|p1a: Serperior|178/248|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1772747549
+|move|p1a: Serperior|Tera Blast|p2a: Skeledirge|[anim] Tera Blast Rock
+|-supereffective|p2a: Skeledirge
+|-damage|p2a: Skeledirge|0 fnt
+|faint|p2a: Skeledirge
+|
+|-heal|p1a: Serperior|193/248|[from] item: Leftovers
+|upkeep
+|
+|t:|1772747558
+|switch|p2a: Hippowdon|Hippowdon, L82, F|311/311
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|turn|10
+|
+|t:|1772747581
+|move|p1a: Serperior|Leaf Storm|p2a: Hippowdon|[miss]
+|-miss|p1a: Serperior|p2a: Hippowdon
+|move|p2a: Hippowdon|Earthquake|p1a: Serperior
+|-supereffective|p1a: Serperior
+|-end|p1a: Serperior|Substitute
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Serperior|208/248|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1772747591
+|move|p1a: Serperior|Leaf Storm|p2a: Hippowdon
+|-supereffective|p2a: Hippowdon
+|-damage|p2a: Hippowdon|0 fnt
+|-boost|p1a: Serperior|spa|2
+|faint|p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Serperior|223/248|[from] item: Leftovers
+|upkeep
+|
+|t:|1772747599
+|switch|p2a: Spectrier|Spectrier, L75|274/274
+|turn|12
+|
+|t:|1772747609
+|move|p2a: Spectrier|Will-O-Wisp|p1a: Serperior
+|-status|p1a: Serperior|brn
+|move|p1a: Serperior|Leech Seed|p2a: Spectrier
+|-start|p2a: Spectrier|move: Leech Seed
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Spectrier|257/274|[from] Sandstorm
+|-heal|p1a: Serperior|238/248 brn|[from] item: Leftovers
+|-damage|p2a: Spectrier|223/274|[from] Leech Seed|[of] p1a: Serperior
+|-heal|p1a: Serperior|248/248 brn|[silent]
+|-damage|p1a: Serperior|233/248 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1772747625
+|move|p2a: Spectrier|Nasty Plot|p2a: Spectrier
+|-boost|p2a: Spectrier|spa|2
+|move|p1a: Serperior|Leaf Storm|p2a: Spectrier
+|-damage|p2a: Spectrier|0 fnt
+|-boost|p1a: Serperior|spa|2
+|faint|p2a: Spectrier
+|
+|win|KyrusRonin
+|raw|KyrusRonin's rating: 1028 &rarr; <strong>1069</strong><br />(+41 for winning)
+|raw|Shade_eze's rating: 1074 &rarr; <strong>1050</strong><br />(-24 for losing)
+|l|☆Shade_eze
+|player|p2|

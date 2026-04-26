@@ -1,0 +1,90 @@
+|j|☆bellybuddies
+|j|☆jigglyfahhh
+|t:|1772747153
+|gametype|singles
+|player|p1|bellybuddies|1|1206
+|player|p2|jigglyfahhh|sabrina|1165
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772747153
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Stonjourner|Stonjourner, L91, M|330/330
+|switch|p2a: Noivern|Noivern, L82, M|274/274
+|turn|1
+|
+|t:|1772747166
+|switch|p2a: Inteleon|Inteleon, L81, M|246/246
+|move|p1a: Stonjourner|Stealth Rock|p2a: Inteleon
+|-sidestart|p2: jigglyfahhh|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1772747178
+|switch|p1a: Whimsicott|Whimsicott, L84, F|238/238
+|move|p2a: Inteleon|Hydro Pump|p1a: Whimsicott|[miss]
+|-miss|p2a: Inteleon|p1a: Whimsicott
+|
+|upkeep
+|turn|3
+|
+|t:|1772747185
+|switch|p2a: Brambleghast|Brambleghast, L88, M|240/240
+|-damage|p2a: Brambleghast|210/240|[from] Stealth Rock
+|move|p1a: Whimsicott|Encore||[still]
+|-fail|p1a: Whimsicott
+|
+|-heal|p2a: Brambleghast|225/240|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1772747192
+|switch|p2a: Lokix|Lokix, L82, M|251/251
+|-damage|p2a: Lokix|189/251|[from] Stealth Rock
+|move|p1a: Whimsicott|U-turn|p2a: Lokix
+|-supereffective|p2a: Lokix
+|-damage|p2a: Lokix|101/251
+|
+|t:|1772747203
+|switch|p1a: Stonjourner|Stonjourner, L91, M|330/330|[from] U-turn
+|
+|upkeep
+|turn|5
+|
+|t:|1772747213
+|switch|p2a: Inteleon|Inteleon, L81, M|246/246
+|-damage|p2a: Inteleon|216/246|[from] Stealth Rock
+|move|p1a: Stonjourner|Stone Edge|p2a: Inteleon
+|-damage|p2a: Inteleon|0 fnt
+|faint|p2a: Inteleon
+|-damage|p1a: Stonjourner|297/330|[from] item: Life Orb
+|
+|upkeep
+|c|☆jigglyfahhh|How the fuck
+|
+|t:|1772747245
+|switch|p2a: Brute Bonnet|Brute Bonnet, L81|312/312
+|-damage|p2a: Brute Bonnet|273/312|[from] Stealth Rock
+|turn|6
+|
+|t:|1772747250
+|move|p1a: Stonjourner|Heat Crash|p2a: Brute Bonnet
+|-supereffective|p2a: Brute Bonnet
+|-damage|p2a: Brute Bonnet|0 fnt
+|faint|p2a: Brute Bonnet
+|-end|p2a: Brute Bonnet|Protosynthesis|[silent]
+|-damage|p1a: Stonjourner|264/330|[from] item: Life Orb
+|
+|upkeep
+|n|!jigglyfahhh|jigglyfahhh
+|-message|jigglyfahhh forfeited.
+|
+|win|bellybuddies

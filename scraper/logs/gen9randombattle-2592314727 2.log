@@ -1,0 +1,387 @@
+|j|☆WeisserTwix
+|j|☆Omnimon merciful m
+|t:|1776978146
+|gametype|singles
+|player|p1|WeisserTwix|266|1397
+|player|p2|Omnimon merciful m|benga|1382
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776978146
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Meowscarada|Meowscarada, L78, F|247/247
+|switch|p2a: Regigigas|Regigigas, L84|322/322
+|-start|p2a: Regigigas|ability: Slow Start
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Omnimon merciful m)
+|
+|t:|1776978176
+|move|p1a: Meowscarada|U-turn|p2a: Regigigas
+|-start|p1a: Meowscarada|typechange|Bug|[from] ability: Protean
+|-damage|p2a: Regigigas|262/322
+|
+|t:|1776978181
+|switch|p1a: Lurantis|Lurantis, L87, M|264/264|[from] U-turn
+|move|p2a: Regigigas|Knock Off|p1a: Lurantis
+|-damage|p1a: Lurantis|212/264
+|-enditem|p1a: Lurantis|Leftovers|[from] move: Knock Off|[of] p2a: Regigigas
+|
+|-heal|p2a: Regigigas|282/322|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776978190
+|switch|p2a: Corviknight|Corviknight, L80, M|288/288
+|move|p1a: Lurantis|Superpower|p2a: Corviknight
+|-damage|p2a: Corviknight|199/288
+|-boost|p1a: Lurantis|atk|1
+|-boost|p1a: Lurantis|def|1
+|
+|-heal|p2a: Corviknight|217/288|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776978199
+|move|p2a: Corviknight|Brave Bird|p1a: Lurantis
+|-supereffective|p1a: Lurantis
+|-damage|p1a: Lurantis|66/264
+|-damage|p2a: Corviknight|169/288|[from] Recoil
+|move|p1a: Lurantis|Superpower|p2a: Corviknight
+|-damage|p2a: Corviknight|29/288
+|-boost|p1a: Lurantis|atk|1
+|-boost|p1a: Lurantis|def|1
+|
+|-heal|p2a: Corviknight|47/288|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776978207
+|switch|p1a: Krookodile|Krookodile, L79, M|280/280
+|-ability|p1a: Krookodile|Intimidate|boost
+|-ability|p2a: Corviknight|Mirror Armor
+|-unboost|p1a: Krookodile|atk|1
+|move|p2a: Corviknight|Brave Bird|p1a: Krookodile
+|-damage|p1a: Krookodile|147/280
+|-damage|p2a: Corviknight|3/288|[from] Recoil
+|
+|-heal|p1a: Krookodile|164/280|[from] item: Leftovers
+|-heal|p2a: Corviknight|21/288|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776978213
+|switch|p2a: Regigigas|Regigigas, L84|282/322
+|-start|p2a: Regigigas|ability: Slow Start
+|move|p1a: Krookodile|Knock Off|p2a: Regigigas
+|-damage|p2a: Regigigas|224/322
+|-enditem|p2a: Regigigas|Leftovers|[from] move: Knock Off|[of] p1a: Krookodile
+|
+|-heal|p1a: Krookodile|181/280|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776978224
+|move|p1a: Krookodile|Bulk Up|p1a: Krookodile
+|-boost|p1a: Krookodile|atk|1
+|-boost|p1a: Krookodile|def|1
+|move|p2a: Regigigas|Body Slam|p1a: Krookodile
+|-damage|p1a: Krookodile|130/280
+|
+|-heal|p1a: Krookodile|147/280|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776978245
+|move|p1a: Krookodile|Bulk Up|p1a: Krookodile
+|-boost|p1a: Krookodile|atk|1
+|-boost|p1a: Krookodile|def|1
+|move|p2a: Regigigas|Body Slam|p1a: Krookodile
+|-damage|p1a: Krookodile|107/280
+|-status|p1a: Krookodile|par
+|
+|-heal|p1a: Krookodile|124/280 par|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776978250
+|switch|p2a: Corviknight|Corviknight, L80, M|21/288
+|cant|p1a: Krookodile|par
+|
+|-heal|p2a: Corviknight|39/288|[from] item: Leftovers
+|-heal|p1a: Krookodile|141/280 par|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776978256
+|move|p2a: Corviknight|Brave Bird|p1a: Krookodile
+|-damage|p1a: Krookodile|75/280 par
+|-damage|p2a: Corviknight|17/288|[from] Recoil
+|move|p1a: Krookodile|Knock Off|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|-enditem|p2a: Corviknight|Leftovers|[from] move: Knock Off|[of] p1a: Krookodile
+|faint|p2a: Corviknight
+|
+|-heal|p1a: Krookodile|92/280 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1776978265
+|switch|p2a: Pikachu|Pikachu-Alola, L93, M|216/216
+|turn|10
+|
+|t:|1776978269
+|move|p2a: Pikachu|Fake Out|p1a: Krookodile
+|-damage|p1a: Krookodile|66/280 par
+|cant|p1a: Krookodile|flinch
+|
+|-heal|p1a: Krookodile|83/280 par|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776978272
+|move|p2a: Pikachu|Surf|p1a: Krookodile
+|-supereffective|p1a: Krookodile
+|-damage|p1a: Krookodile|0 fnt
+|faint|p1a: Krookodile
+|
+|upkeep
+|
+|t:|1776978275
+|switch|p1a: Meowscarada|Meowscarada, L78, F|247/247
+|turn|12
+|
+|t:|1776978284
+|switch|p2a: Regigigas|Regigigas, L84|224/322
+|-start|p2a: Regigigas|ability: Slow Start
+|move|p1a: Meowscarada|Flower Trick|p2a: Regigigas
+|-start|p1a: Meowscarada|typechange|Grass|[from] ability: Protean
+|-crit|p2a: Regigigas
+|-damage|p2a: Regigigas|128/322
+|
+|upkeep
+|turn|13
+|
+|t:|1776978288
+|move|p1a: Meowscarada|U-turn|p2a: Regigigas
+|-damage|p2a: Regigigas|89/322
+|
+|t:|1776978292
+|switch|p1a: Lurantis|Lurantis, L87, M|66/264|[from] U-turn
+|move|p2a: Regigigas|Rest|p2a: Regigigas
+|-status|p2a: Regigigas|slp|[from] move: Rest
+|-heal|p2a: Regigigas|322/322 slp|[silent]
+|
+|upkeep
+|turn|14
+|
+|t:|1776978300
+|switch|p2a: Arceus|Arceus-Electric, L70|284/284
+|move|p1a: Lurantis|Synthesis|p1a: Lurantis
+|-heal|p1a: Lurantis|198/264
+|
+|upkeep
+|turn|15
+|
+|t:|1776978306
+|move|p2a: Arceus|Calm Mind|p2a: Arceus
+|-boost|p2a: Arceus|spa|1
+|-boost|p2a: Arceus|spd|1
+|move|p1a: Lurantis|Superpower|p2a: Arceus
+|-damage|p2a: Arceus|200/284
+|-boost|p1a: Lurantis|atk|1
+|-boost|p1a: Lurantis|def|1
+|
+|upkeep
+|turn|16
+|
+|t:|1776978311
+|move|p2a: Arceus|Ice Beam|p1a: Lurantis
+|-supereffective|p1a: Lurantis
+|-damage|p1a: Lurantis|40/264
+|move|p1a: Lurantis|Superpower|p2a: Arceus
+|-damage|p2a: Arceus|74/284
+|-boost|p1a: Lurantis|atk|1
+|-boost|p1a: Lurantis|def|1
+|
+|upkeep
+|turn|17
+|
+|t:|1776978314
+|move|p2a: Arceus|Ice Beam|p1a: Lurantis
+|-supereffective|p1a: Lurantis
+|-damage|p1a: Lurantis|0 fnt
+|faint|p1a: Lurantis
+|
+|upkeep
+|
+|t:|1776978318
+|switch|p1a: Meowscarada|Meowscarada, L78, F|247/247
+|turn|18
+|
+|t:|1776978321
+|move|p1a: Meowscarada|Flower Trick|p2a: Arceus
+|-start|p1a: Meowscarada|typechange|Grass|[from] ability: Protean
+|-crit|p2a: Arceus
+|-damage|p2a: Arceus|0 fnt
+|faint|p2a: Arceus
+|
+|upkeep
+|
+|t:|1776978327
+|switch|p2a: Deoxys|Deoxys-Attack, L72|191/191
+|-ability|p2a: Deoxys|Pressure
+|turn|19
+|
+|t:|1776978344
+|-terastallize|p2a: Deoxys|Psychic
+|move|p2a: Deoxys|Psycho Boost|p1a: Meowscarada
+|-damage|p1a: Meowscarada|0 fnt
+|-unboost|p2a: Deoxys|spa|2
+|faint|p1a: Meowscarada
+|-damage|p2a: Deoxys|172/191|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776978349
+|switch|p1a: Entei|Entei, L78|307/307
+|turn|20
+|
+|t:|1776978355
+|switch|p2a: Regigigas|Regigigas, L84|322/322 slp
+|-start|p2a: Regigigas|ability: Slow Start
+|move|p1a: Entei|Flare Blitz|p2a: Regigigas
+|-damage|p2a: Regigigas|172/322 slp
+|-damage|p1a: Entei|257/307|[from] Recoil
+|
+|upkeep
+|turn|21
+|
+|t:|1776978360
+|move|p1a: Entei|Flare Blitz|p2a: Regigigas
+|-damage|p2a: Regigigas|6/322 slp
+|-damage|p1a: Entei|202/307|[from] Recoil
+|cant|p2a: Regigigas|slp
+|move|p2a: Regigigas|Sleep Talk|p2a: Regigigas
+|move|p2a: Regigigas|Knock Off|p1a: Entei|[from] move: Sleep Talk
+|-damage|p1a: Entei|144/307
+|-enditem|p1a: Entei|Choice Band|[from] move: Knock Off|[of] p2a: Regigigas
+|
+|upkeep
+|turn|22
+|
+|t:|1776978367
+|move|p1a: Entei|Stomping Tantrum|p2a: Regigigas
+|-damage|p2a: Regigigas|0 fnt
+|faint|p2a: Regigigas
+|-end|p2a: Regigigas|Slow Start|[silent]
+|
+|upkeep
+|
+|t:|1776978370
+|switch|p2a: Pikachu|Pikachu-Alola, L93, M|216/216
+|turn|23
+|
+|t:|1776978378
+|move|p2a: Pikachu|Fake Out|p1a: Entei
+|-damage|p1a: Entei|92/307
+|move|p1a: Entei|Stomping Tantrum|p2a: Pikachu
+|-supereffective|p2a: Pikachu
+|-damage|p2a: Pikachu|48/216
+|
+|upkeep
+|turn|24
+|
+|t:|1776978381
+|move|p1a: Entei|Extreme Speed|p2a: Pikachu
+|-damage|p2a: Pikachu|0 fnt
+|faint|p2a: Pikachu
+|
+|upkeep
+|
+|t:|1776978394
+|switch|p2a: Oranguru|Oranguru, L92, M|315/315
+|turn|25
+|
+|t:|1776978404
+|switch|p1a: Terrakion|Terrakion, L79|273/273
+|move|p2a: Oranguru|Psyshock|p1a: Terrakion
+|-supereffective|p1a: Terrakion
+|-damage|p1a: Terrakion|91/273
+|
+|upkeep
+|turn|26
+|
+|t:|1776978411
+|move|p1a: Terrakion|Close Combat|p2a: Oranguru
+|-damage|p2a: Oranguru|150/315
+|-unboost|p1a: Terrakion|def|1
+|-unboost|p1a: Terrakion|spd|1
+|-damage|p1a: Terrakion|64/273|[from] item: Life Orb
+|move|p2a: Oranguru|Psyshock|p1a: Terrakion
+|-supereffective|p1a: Terrakion
+|-damage|p1a: Terrakion|0 fnt
+|faint|p1a: Terrakion
+|
+|-heal|p2a: Oranguru|169/315|[from] item: Leftovers
+|upkeep
+|
+|t:|1776978416
+|switch|p1a: Alomomola|Alomomola, L87, M|429/429
+|turn|27
+|
+|t:|1776978421
+|move|p1a: Alomomola|Scald|p2a: Oranguru
+|-damage|p2a: Oranguru|132/315
+|move|p2a: Oranguru|Thunderbolt|p1a: Alomomola
+|-supereffective|p1a: Alomomola
+|-damage|p1a: Alomomola|205/429
+|
+|-heal|p2a: Oranguru|151/315|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1776978433
+|move|p1a: Alomomola|Scald|p2a: Oranguru
+|-damage|p2a: Oranguru|111/315
+|move|p2a: Oranguru|Thunderbolt|p1a: Alomomola
+|-supereffective|p1a: Alomomola
+|-damage|p1a: Alomomola|1/429
+|-status|p1a: Alomomola|par
+|
+|-heal|p2a: Oranguru|130/315|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1776978440
+|move|p2a: Oranguru|Thunderbolt|p1a: Alomomola
+|-supereffective|p1a: Alomomola
+|-damage|p1a: Alomomola|0 fnt
+|faint|p1a: Alomomola
+|
+|-heal|p2a: Oranguru|149/315|[from] item: Leftovers
+|upkeep
+|
+|t:|1776978443
+|switch|p1a: Entei|Entei, L78|92/307
+|turn|30
+|
+|t:|1776978448
+|-terastallize|p1a: Entei|Fire
+|move|p1a: Entei|Sacred Fire|p2a: Oranguru
+|-damage|p2a: Oranguru|1/315
+|-status|p2a: Oranguru|brn
+|move|p2a: Oranguru|Psyshock|p1a: Entei
+|-damage|p1a: Entei|0 fnt
+|faint|p1a: Entei
+|
+|win|Omnimon merciful m
+|raw|WeisserTwix's rating: 1397 &rarr; <strong>1376</strong><br />(-21 for losing)
+|raw|Omnimon merciful m's rating: 1382 &rarr; <strong>1403</strong><br />(+21 for winning)
+|l|☆WeisserTwix
+|player|p1|

@@ -1,0 +1,268 @@
+|j|☆summerwaterfall
+|j|☆fdbbvcbfgnvbcnfg
+|t:|1776974642
+|gametype|singles
+|player|p1|summerwaterfall|265|1000
+|player|p2|fdbbvcbfgnvbcnfg|169|1000
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776974642
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Maushold|Maushold-Four, L76|238/238
+|switch|p2a: Electivire|Electivire, L84, M|263/263
+|turn|1
+|
+|t:|1776974662
+|move|p1a: Maushold|Population Bomb|p2a: Electivire
+|-damage|p2a: Electivire|236/263
+|-damage|p2a: Electivire|211/263
+|-damage|p2a: Electivire|184/263
+|-damage|p2a: Electivire|154/263
+|-damage|p2a: Electivire|127/263
+|-damage|p2a: Electivire|102/263
+|-crit|p2a: Electivire
+|-damage|p2a: Electivire|57/263
+|-damage|p2a: Electivire|32/263
+|-damage|p2a: Electivire|5/263
+|-damage|p2a: Electivire|0 fnt
+|faint|p2a: Electivire
+|-hitcount|p2: Electivire|10
+|
+|upkeep
+|
+|t:|1776974669
+|switch|p2a: Mudsdale|Mudsdale, L83, F|302/302
+|turn|2
+|
+|t:|1776974692
+|move|p1a: Maushold|Population Bomb|p2a: Mudsdale
+|-damage|p2a: Mudsdale|280/302
+|-ability|p2a: Mudsdale|Stamina|boost
+|-boost|p2a: Mudsdale|def|1
+|-damage|p2a: Mudsdale|267/302
+|-ability|p2a: Mudsdale|Stamina|boost
+|-boost|p2a: Mudsdale|def|1
+|-damage|p2a: Mudsdale|255/302
+|-ability|p2a: Mudsdale|Stamina|boost
+|-boost|p2a: Mudsdale|def|1
+|-damage|p2a: Mudsdale|246/302
+|-ability|p2a: Mudsdale|Stamina|boost
+|-boost|p2a: Mudsdale|def|1
+|-damage|p2a: Mudsdale|239/302
+|-ability|p2a: Mudsdale|Stamina|boost
+|-boost|p2a: Mudsdale|def|1
+|-damage|p2a: Mudsdale|232/302
+|-ability|p2a: Mudsdale|Stamina|boost
+|-boost|p2a: Mudsdale|def|1
+|-damage|p2a: Mudsdale|226/302
+|-damage|p2a: Mudsdale|220/302
+|-damage|p2a: Mudsdale|214/302
+|-damage|p2a: Mudsdale|208/302
+|-hitcount|p2a: Mudsdale|10
+|move|p2a: Mudsdale|Earthquake|p1a: Maushold
+|-damage|p1a: Maushold|57/238
+|
+|-heal|p2a: Mudsdale|226/302|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776974724
+|move|p1a: Maushold|Tidy Up|p1a: Maushold
+|-boost|p1a: Maushold|atk|1
+|-boost|p1a: Maushold|spe|1
+|move|p2a: Mudsdale|Earthquake|p1a: Maushold
+|-damage|p1a: Maushold|0 fnt
+|faint|p1a: Maushold
+|
+|-heal|p2a: Mudsdale|244/302|[from] item: Leftovers
+|upkeep
+|
+|t:|1776974750
+|switch|p1a: Sawsbuck|Sawsbuck-Winter, L88, M|284/284
+|turn|4
+|
+|t:|1776974758
+|move|p1a: Sawsbuck|Swords Dance|p1a: Sawsbuck
+|-boost|p1a: Sawsbuck|atk|2
+|move|p2a: Mudsdale|Stealth Rock|p1a: Sawsbuck
+|-sidestart|p1: summerwaterfall|move: Stealth Rock
+|
+|-heal|p2a: Mudsdale|262/302|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776974765
+|move|p1a: Sawsbuck|Horn Leech|p2a: Mudsdale
+|-supereffective|p2a: Mudsdale
+|-damage|p2a: Mudsdale|150/302
+|-damage|p1a: Sawsbuck|256/284|[from] item: Life Orb
+|move|p2a: Mudsdale|Roar|p1a: Sawsbuck
+|drag|p1a: Blaziken|Blaziken, L76, M|247/247
+|-damage|p1a: Blaziken|217/247|[from] Stealth Rock
+|
+|-heal|p2a: Mudsdale|168/302|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776974791
+|move|p1a: Blaziken|Flare Blitz|p2a: Mudsdale
+|-damage|p2a: Mudsdale|128/302
+|-damage|p1a: Blaziken|204/247|[from] Recoil
+|-damage|p1a: Blaziken|180/247|[from] item: Life Orb
+|move|p2a: Mudsdale|Earthquake|p1a: Blaziken
+|-supereffective|p1a: Blaziken
+|-damage|p1a: Blaziken|0 fnt
+|faint|p1a: Blaziken
+|
+|-heal|p2a: Mudsdale|146/302|[from] item: Leftovers
+|upkeep
+|
+|t:|1776974801
+|switch|p1a: Sawsbuck|Sawsbuck-Winter, L88, M|256/284
+|-damage|p1a: Sawsbuck|221/284|[from] Stealth Rock
+|turn|7
+|
+|t:|1776974806
+|move|p1a: Sawsbuck|Horn Leech|p2a: Mudsdale
+|-supereffective|p2a: Mudsdale
+|-damage|p2a: Mudsdale|84/302
+|-heal|p1a: Sawsbuck|252/284|[from] drain|[of] p2a: Mudsdale
+|-damage|p1a: Sawsbuck|224/284|[from] item: Life Orb
+|move|p2a: Mudsdale|Roar|p1a: Sawsbuck
+|drag|p1a: Hitmonlee|Hitmonlee, L85, M|223/223
+|-damage|p1a: Hitmonlee|210/223|[from] Stealth Rock
+|
+|-heal|p2a: Mudsdale|102/302|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776974819
+|move|p1a: Hitmonlee|Mach Punch|p2a: Mudsdale
+|-damage|p2a: Mudsdale|84/302
+|move|p2a: Mudsdale|Earthquake|p1a: Hitmonlee
+|-damage|p1a: Hitmonlee|35/223
+|
+|-heal|p2a: Mudsdale|102/302|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776974848
+|switch|p1a: Sawsbuck|Sawsbuck-Winter, L88, M|224/284
+|-damage|p1a: Sawsbuck|189/284|[from] Stealth Rock
+|move|p2a: Mudsdale|Earthquake|p1a: Sawsbuck
+|-resisted|p1a: Sawsbuck
+|-damage|p1a: Sawsbuck|118/284
+|
+|-heal|p2a: Mudsdale|120/302|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1776974870
+|move|p1a: Sawsbuck|Horn Leech|p2a: Mudsdale
+|-supereffective|p2a: Mudsdale
+|-damage|p2a: Mudsdale|63/302
+|-heal|p1a: Sawsbuck|147/284|[from] drain|[of] p2a: Mudsdale
+|-damage|p1a: Sawsbuck|119/284|[from] item: Life Orb
+|move|p2a: Mudsdale|Roar|p1a: Sawsbuck
+|drag|p1a: Typhlosion|Typhlosion, L84, F|267/267
+|-damage|p1a: Typhlosion|201/267|[from] Stealth Rock
+|
+|-heal|p2a: Mudsdale|81/302|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776974883
+|move|p1a: Typhlosion|Scorching Sands|p2a: Mudsdale
+|-damage|p2a: Mudsdale|28/302
+|move|p2a: Mudsdale|Earthquake|p1a: Typhlosion
+|-supereffective|p1a: Typhlosion
+|-damage|p1a: Typhlosion|0 fnt
+|faint|p1a: Typhlosion
+|
+|-heal|p2a: Mudsdale|46/302|[from] item: Leftovers
+|upkeep
+|
+|t:|1776974891
+|switch|p1a: Kingambit|Kingambit, L74, M|270/270
+|-damage|p1a: Kingambit|254/270|[from] Stealth Rock
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen3|[silent]
+|turn|12
+|
+|t:|1776974898
+|move|p1a: Kingambit|Sucker Punch|p2a: Mudsdale
+|-damage|p2a: Mudsdale|21/302
+|move|p2a: Mudsdale|Earthquake|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|36/270
+|
+|-heal|p1a: Kingambit|52/270|[from] item: Leftovers
+|-heal|p2a: Mudsdale|39/302|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776974906
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Mudsdale
+|-damage|p2a: Mudsdale|12/302
+|move|p2a: Mudsdale|Earthquake|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-crit|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen3|[silent]
+|
+|-heal|p2a: Mudsdale|30/302|[from] item: Leftovers
+|upkeep
+|
+|t:|1776974915
+|switch|p1a: Sawsbuck|Sawsbuck-Winter, L88, M|119/284
+|-damage|p1a: Sawsbuck|84/284|[from] Stealth Rock
+|turn|14
+|
+|t:|1776974922
+|move|p1a: Sawsbuck|Horn Leech|p2a: Mudsdale
+|-supereffective|p2a: Mudsdale
+|-damage|p2a: Mudsdale|0 fnt
+|-heal|p1a: Sawsbuck|99/284|[from] drain|[of] p2a: Mudsdale
+|faint|p2a: Mudsdale
+|-damage|p1a: Sawsbuck|71/284|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776974926
+|switch|p2a: Hydrapple|Hydrapple, L83, F|312/312
+|turn|15
+|
+|t:|1776974935
+|move|p1a: Sawsbuck|Swords Dance|p1a: Sawsbuck
+|-boost|p1a: Sawsbuck|atk|2
+|move|p2a: Hydrapple|Fickle Beam|p1a: Sawsbuck|[anim] Fickle Beam All Out
+|-activate|p2a: Hydrapple|move: Fickle Beam
+|-damage|p1a: Sawsbuck|0 fnt
+|faint|p1a: Sawsbuck
+|
+|upkeep
+|
+|t:|1776974944
+|switch|p1a: Hitmonlee|Hitmonlee, L85, M|35/223
+|-damage|p1a: Hitmonlee|22/223|[from] Stealth Rock
+|turn|16
+|
+|t:|1776974956
+|move|p1a: Hitmonlee|High Jump Kick|p2a: Hydrapple
+|-damage|p2a: Hydrapple|41/312
+|move|p2a: Hydrapple|Dragon Tail|p1a: Hitmonlee
+|-damage|p1a: Hitmonlee|0 fnt
+|faint|p1a: Hitmonlee
+|
+|win|fdbbvcbfgnvbcnfg
+|raw|summerwaterfall's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|raw|fdbbvcbfgnvbcnfg's rating: 1000 &rarr; <strong>1040</strong><br />(+40 for winning)

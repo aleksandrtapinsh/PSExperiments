@@ -1,0 +1,379 @@
+|j|☆geyjwgdus
+|j|☆f0nssss
+|t:|1776972147
+|gametype|singles
+|player|p1|geyjwgdus|102|1000
+|player|p2|f0nssss|2|1000
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776972147
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Spidops|Spidops, L96, F|271/271
+|switch|p2a: Scyther|Scyther, L82, F|249/249
+|turn|1
+|
+|t:|1776972161
+|move|p2a: Scyther|Dual Wingbeat|p1a: Spidops|[miss]
+|-miss|p2a: Scyther|p1a: Spidops
+|move|p1a: Spidops|Circle Throw|p2a: Scyther
+|-resisted|p2a: Scyther
+|-damage|p2a: Scyther|235/249
+|drag|p2a: Ogerpon|Ogerpon, L80, F|259/259
+|
+|upkeep
+|turn|2
+|
+|t:|1776972174
+|move|p2a: Ogerpon|Knock Off|p1a: Spidops
+|-damage|p1a: Spidops|190/271
+|-enditem|p1a: Spidops|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Ogerpon
+|-damage|p2a: Ogerpon|234/259|[from] item: Life Orb
+|move|p1a: Spidops|Knock Off|p2a: Ogerpon
+|-damage|p2a: Ogerpon|152/259
+|-enditem|p2a: Ogerpon|Life Orb|[from] move: Knock Off|[of] p1a: Spidops
+|
+|upkeep
+|turn|3
+|
+|t:|1776972185
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Spidops
+|-resisted|p1a: Spidops
+|-crit|p1a: Spidops
+|-damage|p1a: Spidops|115/271
+|move|p1a: Spidops|U-turn|p2a: Ogerpon
+|-supereffective|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|t:|1776972195
+|switch|p1a: Lapras|Lapras, L87, M|368/368|[from] U-turn
+|
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by f0nssss)
+|
+|t:|1776972201
+|switch|p2a: Muk|Muk, L86, M|321/321
+|turn|4
+|
+|t:|1776972205
+|move|p1a: Lapras|Freeze-Dry|p2a: Muk
+|-damage|p2a: Muk|252/321
+|move|p2a: Muk|Toxic Spikes|p1a: Lapras
+|-sidestart|p1: geyjwgdus|move: Toxic Spikes
+|
+|-heal|p2a: Muk|272/321|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776972216
+|move|p1a: Lapras|Sparkling Aria|p2a: Muk
+|-damage|p2a: Muk|194/321
+|move|p2a: Muk|Poison Jab|p1a: Lapras
+|-damage|p1a: Lapras|272/368
+|
+|-heal|p2a: Muk|214/321|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776972227
+|switch|p2a: Dialga|Dialga, L73|266/266
+|-ability|p2a: Dialga|Pressure
+|move|p1a: Lapras|Sparkling Aria|p2a: Dialga
+|-resisted|p2a: Dialga
+|-damage|p2a: Dialga|233/266
+|
+|upkeep
+|turn|7
+|
+|t:|1776972237
+|move|p2a: Dialga|Fire Blast|p1a: Lapras
+|-damage|p1a: Lapras|201/368
+|move|p1a: Lapras|Rest|p1a: Lapras
+|-status|p1a: Lapras|slp|[from] move: Rest
+|-heal|p1a: Lapras|368/368 slp|[silent]
+|
+|upkeep
+|turn|8
+|
+|t:|1776972246
+|move|p2a: Dialga|Heavy Slam|p1a: Lapras
+|-damage|p1a: Lapras|286/368 slp
+|cant|p1a: Lapras|slp
+|move|p1a: Lapras|Sleep Talk|p1a: Lapras
+|move|p1a: Lapras|Freeze-Dry|p2a: Dialga|[from] move: Sleep Talk
+|-damage|p2a: Dialga|181/266
+|
+|upkeep
+|turn|9
+|
+|t:|1776972256
+|cant|p1a: Lapras|slp
+|move|p1a: Lapras|Sleep Talk|p1a: Lapras
+|move|p1a: Lapras|Sparkling Aria|p2a: Dialga|[from] move: Sleep Talk
+|-resisted|p2a: Dialga
+|-damage|p2a: Dialga|148/266
+|move|p2a: Dialga|Dragon Tail|p1a: Lapras
+|-damage|p1a: Lapras|222/368 slp
+|drag|p1a: Kilowattrel|Kilowattrel, L83, M|252/252
+|
+|upkeep
+|turn|10
+|
+|t:|1776972271
+|move|p1a: Kilowattrel|Hurricane|p2a: Dialga
+|-resisted|p2a: Dialga
+|-damage|p2a: Dialga|108/266
+|move|p2a: Dialga|Fire Blast|p1a: Kilowattrel
+|-damage|p1a: Kilowattrel|136/252
+|
+|upkeep
+|turn|11
+|
+|t:|1776972279
+|move|p1a: Kilowattrel|Roost|p1a: Kilowattrel
+|-heal|p1a: Kilowattrel|252/252
+|-singleturn|p1a: Kilowattrel|move: Roost
+|move|p2a: Dialga|Fire Blast|p1a: Kilowattrel|[miss]
+|-miss|p2a: Dialga|p1a: Kilowattrel
+|
+|upkeep
+|turn|12
+|
+|t:|1776972290
+|-terastallize|p2a: Dialga|Flying
+|move|p1a: Kilowattrel|Thunderbolt|p2a: Dialga
+|-supereffective|p2a: Dialga
+|-damage|p2a: Dialga|0 fnt
+|faint|p2a: Dialga
+|
+|upkeep
+|
+|t:|1776972297
+|switch|p2a: Groudon|Groudon, L72|263/263
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Groudon
+|turn|13
+|
+|t:|1776972308
+|move|p1a: Kilowattrel|Hurricane|p2a: Groudon|[miss]
+|-miss|p1a: Kilowattrel|p2a: Groudon
+|move|p2a: Groudon|Heat Crash|p1a: Kilowattrel
+|-damage|p1a: Kilowattrel|66/252
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|14
+|inactive|f0nssss has 120 seconds left.
+|
+|t:|1776972342
+|move|p1a: Kilowattrel|Roost|p1a: Kilowattrel
+|-heal|p1a: Kilowattrel|192/252
+|-singleturn|p1a: Kilowattrel|move: Roost
+|move|p2a: Groudon|Heat Crash|p1a: Kilowattrel
+|-damage|p1a: Kilowattrel|20/252
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|15
+|inactive|f0nssss has 120 seconds left.
+|
+|t:|1776972352
+|move|p1a: Kilowattrel|Roost|p1a: Kilowattrel
+|-heal|p1a: Kilowattrel|146/252
+|-singleturn|p1a: Kilowattrel|move: Roost
+|move|p2a: Groudon|Heat Crash|p1a: Kilowattrel
+|-damage|p1a: Kilowattrel|0 fnt
+|faint|p1a: Kilowattrel
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1776972362
+|switch|p1a: Blastoise|Blastoise, L80, M|258/258
+|-status|p1a: Blastoise|psn
+|turn|16
+|
+|t:|1776972371
+|switch|p2a: Reuniclus|Reuniclus, L88, F|337/337
+|move|p1a: Blastoise|Hydro Pump|p2a: Reuniclus
+|-damage|p2a: Reuniclus|285/337
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Blastoise|226/258 psn|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1776972381
+|move|p1a: Blastoise|Ice Beam|p2a: Reuniclus
+|-damage|p2a: Reuniclus|232/337
+|move|p2a: Reuniclus|Psychic|p1a: Blastoise
+|-damage|p1a: Blastoise|84/258 psn
+|
+|-weather|none
+|-damage|p1a: Blastoise|52/258 psn|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1776972395
+|switch|p1a: Spidops|Spidops, L96, F|115/271
+|-status|p1a: Spidops|psn
+|move|p2a: Reuniclus|Calm Mind|p2a: Reuniclus
+|-boost|p2a: Reuniclus|spa|1
+|-boost|p2a: Reuniclus|spd|1
+|
+|-damage|p1a: Spidops|82/271 psn|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1776972406
+|move|p1a: Spidops|Knock Off|p2a: Reuniclus
+|-supereffective|p2a: Reuniclus
+|-damage|p2a: Reuniclus|78/337
+|-enditem|p2a: Reuniclus|Life Orb|[from] move: Knock Off|[of] p1a: Spidops
+|move|p2a: Reuniclus|Recover|p2a: Reuniclus
+|-heal|p2a: Reuniclus|247/337
+|
+|-damage|p1a: Spidops|49/271 psn|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1776972416
+|move|p1a: Spidops|Knock Off|p2a: Reuniclus
+|-supereffective|p2a: Reuniclus
+|-damage|p2a: Reuniclus|133/337
+|move|p2a: Reuniclus|Psychic|p1a: Spidops
+|-damage|p1a: Spidops|0 fnt
+|faint|p1a: Spidops
+|
+|upkeep
+|
+|t:|1776972424
+|switch|p1a: Oranguru|Oranguru, L92, M|315/315
+|-status|p1a: Oranguru|psn
+|turn|21
+|
+|t:|1776972430
+|move|p1a: Oranguru|Nasty Plot|p1a: Oranguru
+|-boost|p1a: Oranguru|spa|2
+|move|p2a: Reuniclus|Recover|p2a: Reuniclus
+|-heal|p2a: Reuniclus|302/337
+|
+|-damage|p1a: Oranguru|276/315 psn|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1776972442
+|move|p1a: Oranguru|Focus Blast|p2a: Reuniclus|[miss]
+|-miss|p1a: Oranguru|p2a: Reuniclus
+|move|p2a: Reuniclus|Psychic|p1a: Oranguru
+|-resisted|p1a: Oranguru
+|-damage|p1a: Oranguru|198/315 psn
+|
+|-heal|p1a: Oranguru|217/315 psn|[from] item: Leftovers
+|-damage|p1a: Oranguru|178/315 psn|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1776972454
+|move|p1a: Oranguru|Thunderbolt|p2a: Reuniclus
+|-damage|p2a: Reuniclus|217/337
+|move|p2a: Reuniclus|Focus Blast|p1a: Oranguru
+|-damage|p1a: Oranguru|44/315 psn
+|
+|-heal|p1a: Oranguru|63/315 psn|[from] item: Leftovers
+|-damage|p1a: Oranguru|24/315 psn|[from] psn
+|upkeep
+|turn|24
+|
+|t:|1776972464
+|move|p1a: Oranguru|Psychic|p2a: Reuniclus
+|-resisted|p2a: Reuniclus
+|-damage|p2a: Reuniclus|143/337
+|move|p2a: Reuniclus|Calm Mind|p2a: Reuniclus
+|-boost|p2a: Reuniclus|spa|1
+|-boost|p2a: Reuniclus|spd|1
+|
+|-heal|p1a: Oranguru|43/315 psn|[from] item: Leftovers
+|-damage|p1a: Oranguru|4/315 psn|[from] psn
+|upkeep
+|turn|25
+|
+|t:|1776972473
+|move|p1a: Oranguru|Psychic|p2a: Reuniclus
+|-resisted|p2a: Reuniclus
+|-damage|p2a: Reuniclus|95/337
+|move|p2a: Reuniclus|Recover|p2a: Reuniclus
+|-heal|p2a: Reuniclus|264/337
+|
+|-heal|p1a: Oranguru|23/315 psn|[from] item: Leftovers
+|-damage|p1a: Oranguru|0 fnt|[from] psn
+|faint|p1a: Oranguru
+|upkeep
+|
+|t:|1776972484
+|switch|p1a: Shiftry|Shiftry, L89, M|305/305
+|turn|26
+|
+|t:|1776972492
+|move|p1a: Shiftry|Knock Off|p2a: Reuniclus
+|-supereffective|p2a: Reuniclus
+|-damage|p2a: Reuniclus|94/337
+|move|p2a: Reuniclus|Focus Blast|p1a: Shiftry
+|-supereffective|p1a: Shiftry
+|-damage|p1a: Shiftry|0 fnt
+|faint|p1a: Shiftry
+|
+|upkeep
+|
+|t:|1776972501
+|switch|p1a: Lapras|Lapras, L87, M|222/368 slp
+|turn|27
+|
+|t:|1776972508
+|-curestatus|p1a: Lapras|slp|[msg]
+|move|p1a: Lapras|Sparkling Aria|p2a: Reuniclus
+|-damage|p2a: Reuniclus|46/337
+|move|p2a: Reuniclus|Recover|p2a: Reuniclus
+|-heal|p2a: Reuniclus|215/337
+|
+|upkeep
+|turn|28
+|
+|t:|1776972517
+|move|p1a: Lapras|Freeze-Dry|p2a: Reuniclus
+|-damage|p2a: Reuniclus|176/337
+|move|p2a: Reuniclus|Focus Blast|p1a: Lapras
+|-supereffective|p1a: Lapras
+|-damage|p1a: Lapras|0 fnt
+|faint|p1a: Lapras
+|
+|upkeep
+|
+|t:|1776972526
+|switch|p1a: Blastoise|Blastoise, L80, M|52/258 psn
+|turn|29
+|
+|t:|1776972534
+|-terastallize|p1a: Blastoise|Electric
+|move|p1a: Blastoise|Shell Smash|p1a: Blastoise
+|-unboost|p1a: Blastoise|def|1
+|-unboost|p1a: Blastoise|spd|1
+|-boost|p1a: Blastoise|atk|2
+|-boost|p1a: Blastoise|spa|2
+|-boost|p1a: Blastoise|spe|2
+|-enditem|p1a: Blastoise|White Herb
+|-clearnegativeboost|p1a: Blastoise|[silent]
+|move|p2a: Reuniclus|Focus Blast|p1a: Blastoise
+|-damage|p1a: Blastoise|0 fnt
+|faint|p1a: Blastoise
+|
+|win|f0nssss
+|raw|geyjwgdus's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|raw|f0nssss's rating: 1000 &rarr; <strong>1040</strong><br />(+40 for winning)

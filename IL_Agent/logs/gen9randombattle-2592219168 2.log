@@ -1,0 +1,333 @@
+|j|☆adadmin
+|j|☆Jak_Skellington
+|t:|1776971206
+|gametype|singles
+|player|p1|adadmin|miku-ghost|1718
+|player|p2|Jak_Skellington|unknown|1709
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776971206
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Breloom|Breloom, L83, F|235/235
+|switch|p2a: Houndoom|Houndoom, L87, M|272/272
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by adadmin)
+|
+|t:|1776971233
+|switch|p1a: Fezandipiti|Fezandipiti, L82, M|278/278
+|move|p2a: Houndoom|Fire Blast|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|166/278
+|
+|-heal|p1a: Fezandipiti|183/278|[from] item: Leftovers
+|upkeep
+|turn|2
+|inactive|Jak_Skellington has 120 seconds left.
+|
+|t:|1776971285
+|switch|p2a: Lunala|Lunala, L70|308/308
+|move|p1a: Fezandipiti|Roost|p1a: Fezandipiti
+|-heal|p1a: Fezandipiti|278/278
+|-singleturn|p1a: Fezandipiti|move: Roost
+|
+|upkeep
+|turn|3
+|
+|t:|1776971305
+|move|p1a: Fezandipiti|Moonblast|p2a: Lunala
+|-damage|p2a: Lunala|266/308
+|move|p2a: Lunala|Calm Mind|p2a: Lunala
+|-boost|p2a: Lunala|spa|1
+|-boost|p2a: Lunala|spd|1
+|
+|-heal|p2a: Lunala|285/308|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776971313
+|move|p1a: Fezandipiti|U-turn|p2a: Lunala
+|-damage|p2a: Lunala|230/308
+|
+|t:|1776971314
+|switch|p1a: Brute Bonnet|Brute Bonnet, L80|309/309|[from] U-turn
+|move|p2a: Lunala|Calm Mind|p2a: Lunala
+|-boost|p2a: Lunala|spa|1
+|-boost|p2a: Lunala|spd|1
+|
+|-heal|p2a: Lunala|249/308|[from] item: Leftovers
+|upkeep
+|turn|5
+|inactive|Jak_Skellington has 90 seconds left.
+|
+|t:|1776971342
+|switch|p2a: Houndoom|Houndoom, L87, M|272/272
+|move|p1a: Brute Bonnet|Crunch|p2a: Houndoom
+|-resisted|p2a: Houndoom
+|-damage|p2a: Houndoom|208/272
+|
+|upkeep
+|turn|6
+|inactive|Jak_Skellington has 90 seconds left.
+|
+|t:|1776971352
+|-end|p1a: Brute Bonnet|Protosynthesis|[silent]
+|switch|p1a: Fezandipiti|Fezandipiti, L82, M|278/278
+|move|p2a: Houndoom|Fire Blast|p1a: Fezandipiti|[miss]
+|-miss|p2a: Houndoom|p1a: Fezandipiti
+|
+|upkeep
+|turn|7
+|
+|t:|1776971360
+|switch|p2a: Lunala|Lunala, L70|249/308
+|move|p1a: Fezandipiti|Moonblast|p2a: Lunala
+|-damage|p2a: Lunala|176/308
+|-unboost|p2a: Lunala|spa|1
+|-status|p2a: Lunala|tox|[from] ability: Toxic Chain|[of] p1a: Fezandipiti
+|
+|-heal|p2a: Lunala|195/308 tox|[from] item: Leftovers
+|-damage|p2a: Lunala|176/308 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1776971369
+|move|p1a: Fezandipiti|Moonblast|p2a: Lunala
+|-damage|p2a: Lunala|97/308 tox
+|-unboost|p2a: Lunala|spa|1
+|move|p2a: Lunala|Moonlight|p2a: Lunala
+|-heal|p2a: Lunala|251/308 tox
+|
+|-heal|p2a: Lunala|270/308 tox|[from] item: Leftovers
+|-damage|p2a: Lunala|232/308 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1776971373
+|move|p1a: Fezandipiti|Moonblast|p2a: Lunala
+|-damage|p2a: Lunala|154/308 tox
+|-unboost|p2a: Lunala|spa|1
+|move|p2a: Lunala|Psyshock|p1a: Fezandipiti
+|-supereffective|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|206/278
+|
+|-heal|p1a: Fezandipiti|223/278|[from] item: Leftovers
+|-heal|p2a: Lunala|173/308 tox|[from] item: Leftovers
+|-damage|p2a: Lunala|116/308 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1776971377
+|move|p1a: Fezandipiti|Moonblast|p2a: Lunala
+|-damage|p2a: Lunala|44/308 tox
+|move|p2a: Lunala|Psyshock|p1a: Fezandipiti
+|-supereffective|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|151/278
+|
+|-heal|p1a: Fezandipiti|168/278|[from] item: Leftovers
+|-heal|p2a: Lunala|63/308 tox|[from] item: Leftovers
+|-damage|p2a: Lunala|0 fnt|[from] psn
+|faint|p2a: Lunala
+|upkeep
+|inactive|Jak_Skellington has 120 seconds left.
+|
+|t:|1776971388
+|switch|p2a: Regigigas|Regigigas, L84|322/322
+|-start|p2a: Regigigas|ability: Slow Start
+|turn|11
+|
+|t:|1776971392
+|move|p2a: Regigigas|Protect|p2a: Regigigas
+|-singleturn|p2a: Regigigas|Protect
+|move|p1a: Fezandipiti|Moonblast|p2a: Regigigas
+|-activate|p2a: Regigigas|move: Protect
+|
+|-heal|p1a: Fezandipiti|185/278|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776971396
+|move|p1a: Fezandipiti|U-turn|p2a: Regigigas
+|-damage|p2a: Regigigas|283/322
+|
+|t:|1776971403
+|switch|p1a: Breloom|Breloom, L83, F|235/235|[from] U-turn
+|move|p2a: Regigigas|Substitute|p2a: Regigigas
+|-start|p2a: Regigigas|Substitute
+|-damage|p2a: Regigigas|203/322
+|
+|-heal|p2a: Regigigas|223/322|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776971418
+|move|p1a: Breloom|Swords Dance|p1a: Breloom
+|-boost|p1a: Breloom|atk|2
+|move|p2a: Regigigas|Knock Off|p1a: Breloom
+|-resisted|p1a: Breloom
+|-damage|p1a: Breloom|206/235
+|-enditem|p1a: Breloom|Life Orb|[from] move: Knock Off|[of] p2a: Regigigas
+|
+|-heal|p2a: Regigigas|243/322|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1776971421
+|move|p1a: Breloom|Bullet Seed|p2a: Regigigas
+|-end|p2a: Regigigas|Substitute
+|-damage|p2a: Regigigas|158/322
+|-damage|p2a: Regigigas|77/322
+|-damage|p2a: Regigigas|0 fnt
+|faint|p2a: Regigigas
+|-end|p2a: Regigigas|Slow Start|[silent]
+|-hitcount|p2: Regigigas|4
+|
+|upkeep
+|
+|t:|1776971428
+|switch|p2a: Houndoom|Houndoom, L87, M|208/272
+|turn|15
+|
+|t:|1776971432
+|-terastallize|p1a: Breloom|Fighting
+|move|p1a: Breloom|Mach Punch|p2a: Houndoom
+|-supereffective|p2a: Houndoom
+|-damage|p2a: Houndoom|0 fnt
+|faint|p2a: Houndoom
+|
+|upkeep
+|
+|t:|1776971460
+|switch|p2a: Tatsugiri|Tatsugiri, L87, F|260/260
+|turn|16
+|
+|t:|1776971470
+|move|p1a: Breloom|Mach Punch|p2a: Tatsugiri
+|-damage|p2a: Tatsugiri|0 fnt
+|faint|p2a: Tatsugiri
+|
+|upkeep
+|
+|t:|1776971481
+|switch|p2a: Raging Bolt|Raging Bolt, L78|323/323
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|17
+|
+|t:|1776971487
+|move|p1a: Breloom|Mach Punch|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|111/323
+|move|p2a: Raging Bolt|Thunderbolt|p1a: Breloom
+|-damage|p1a: Breloom|4/235
+|
+|upkeep
+|turn|18
+|
+|t:|1776971495
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Palafin|Palafin, L77, F|281/281
+|move|p1a: Breloom|Mach Punch|p2a: Palafin
+|-damage|p2a: Palafin|29/281
+|
+|-heal|p2a: Palafin|46/281|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1776971501
+|switch|p1a: Brute Bonnet|Brute Bonnet, L80|309/309
+|move|p2a: Palafin|Jet Punch|p1a: Brute Bonnet
+|-resisted|p1a: Brute Bonnet
+|-damage|p1a: Brute Bonnet|289/309
+|
+|-heal|p2a: Palafin|63/281|[from] item: Leftovers
+|-heal|p1a: Brute Bonnet|308/309|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1776971507
+|detailschange|p2a: Palafin|Palafin-Hero, L77, F
+|switch|p2a: Raging Bolt|Raging Bolt, L78|111/323
+|move|p1a: Brute Bonnet|Crunch|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|11/323
+|-unboost|p2a: Raging Bolt|def|1
+|
+|-heal|p1a: Brute Bonnet|309/309|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1776971520
+|-end|p1a: Brute Bonnet|Protosynthesis|[silent]
+|switch|p1a: Fezandipiti|Fezandipiti, L82, M|185/278
+|move|p2a: Raging Bolt|Dragon Pulse|p1a: Fezandipiti
+|-immune|p1a: Fezandipiti
+|
+|-heal|p1a: Fezandipiti|202/278|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1776971524
+|move|p1a: Fezandipiti|Moonblast|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|-heal|p1a: Fezandipiti|219/278|[from] item: Leftovers
+|upkeep
+|
+|t:|1776971527
+|switch|p2a: Palafin|Palafin-Hero, L77, F|63/281
+|-activate|p2a: Palafin|ability: Zero to Hero
+|turn|23
+|c|☆adadmin|Gg
+|c|☆adadmin|Goated trio
+|inactive|Jak_Skellington has 120 seconds left.
+|
+|t:|1776971560
+|-terastallize|p2a: Palafin|Steel
+|move|p2a: Palafin|Jet Punch|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|135/278
+|move|p1a: Fezandipiti|Moonblast|p2a: Palafin
+|-resisted|p2a: Palafin
+|-damage|p2a: Palafin|21/281
+|
+|-heal|p1a: Fezandipiti|152/278|[from] item: Leftovers
+|-heal|p2a: Palafin|38/281|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1776971568
+|move|p2a: Palafin|Jet Punch|p1a: Fezandipiti
+|-damage|p1a: Fezandipiti|62/278
+|move|p1a: Fezandipiti|U-turn|p2a: Palafin
+|-resisted|p2a: Palafin
+|-damage|p2a: Palafin|14/281
+|
+|t:|1776971571
+|switch|p1a: Scyther|Scyther, L82, F|249/249|[from] U-turn
+|
+|-heal|p2a: Palafin|31/281|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1776971580
+|move|p1a: Scyther|Close Combat|p2a: Palafin
+|-supereffective|p2a: Palafin
+|-damage|p2a: Palafin|0 fnt
+|-unboost|p1a: Scyther|def|1
+|-unboost|p1a: Scyther|spd|1
+|faint|p2a: Palafin
+|
+|win|adadmin
+|raw|adadmin's rating: 1718 &rarr; <strong>1737</strong><br />(+19 for winning)
+|raw|Jak_Skellington's rating: 1709 &rarr; <strong>1690</strong><br />(-19 for losing)
+|l|☆Jak_Skellington
+|player|p2|
+|c|☆adadmin|Gotta do no deaths

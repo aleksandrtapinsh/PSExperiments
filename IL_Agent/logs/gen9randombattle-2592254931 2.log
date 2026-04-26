@@ -1,0 +1,269 @@
+|j|☆Zairkaa
+|j|☆chim miam miam
+|t:|1776973701
+|gametype|singles
+|player|p1|Zairkaa|flannery|1902
+|player|p2|chim miam miam|266|1860
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776973701
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Gallade|Gallade, L80, M|240/240
+|switch|p2a: Hitmonlee|Hitmonlee, L85, M|224/224
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Zairkaa)
+|
+|t:|1776973728
+|switch|p2a: Armarouge|Armarouge, L80, M|267/267
+|move|p1a: Gallade|Psycho Cut|p2a: Armarouge
+|-resisted|p2a: Armarouge
+|-damage|p2a: Armarouge|207/267
+|-ability|p2a: Armarouge|Weak Armor|boost
+|-unboost|p2a: Armarouge|def|1
+|-boost|p2a: Armarouge|spe|2
+|
+|upkeep
+|turn|2
+|
+|t:|1776973737
+|switch|p1a: Muk|Muk-Alola, L82, M|306/306
+|move|p2a: Armarouge|Psyshock|p1a: Muk
+|-immune|p1a: Muk
+|
+|upkeep
+|turn|3
+|inactive|chim miam miam has 120 seconds left.
+|
+|t:|1776973777
+|switch|p2a: Sylveon|Sylveon, L85, M|300/300
+|move|p1a: Muk|Knock Off|p2a: Sylveon
+|-resisted|p2a: Sylveon
+|-damage|p2a: Sylveon|237/300
+|-status|p2a: Sylveon|psn|[from] ability: Poison Touch|[of] p1a: Muk
+|-enditem|p2a: Sylveon|Leftovers|[from] move: Knock Off|[of] p1a: Muk
+|
+|-damage|p2a: Sylveon|200/300 psn|[from] psn
+|upkeep
+|turn|4
+|inactive|Zairkaa has 120 seconds left.
+|inactive|Zairkaa has 90 seconds left.
+|
+|t:|1776973843
+|move|p2a: Sylveon|Hyper Voice|p1a: Muk
+|-damage|p1a: Muk|228/306
+|move|p1a: Muk|Gunk Shot|p2a: Sylveon|[miss]
+|-miss|p1a: Muk|p2a: Sylveon
+|
+|-damage|p2a: Sylveon|163/300 psn|[from] psn
+|upkeep
+|turn|5
+|inactive|chim miam miam has 120 seconds left.
+|
+|t:|1776973850
+|move|p2a: Sylveon|Hyper Voice|p1a: Muk
+|-damage|p1a: Muk|144/306
+|move|p1a: Muk|Gunk Shot|p2a: Sylveon
+|-supereffective|p2a: Sylveon
+|-damage|p2a: Sylveon|0 fnt
+|faint|p2a: Sylveon
+|
+|upkeep
+|inactive|chim miam miam has 120 seconds left.
+|
+|t:|1776973858
+|switch|p2a: Hitmonlee|Hitmonlee, L85, M|224/224
+|turn|6
+|inactive|chim miam miam has 120 seconds left.
+|
+|t:|1776973872
+|switch|p1a: Gallade|Gallade, L80, M|240/240
+|move|p2a: Hitmonlee|Close Combat|p1a: Gallade
+|-resisted|p1a: Gallade
+|-damage|p1a: Gallade|132/240
+|-unboost|p2a: Hitmonlee|def|1
+|-unboost|p2a: Hitmonlee|spd|1
+|-enditem|p2a: Hitmonlee|White Herb
+|-clearnegativeboost|p2a: Hitmonlee|[silent]
+|
+|upkeep
+|turn|7
+|inactive|chim miam miam has 120 seconds left.
+|
+|t:|1776973884
+|move|p2a: Hitmonlee|Knock Off|p1a: Gallade
+|-damage|p1a: Gallade|28/240
+|-enditem|p1a: Gallade|Choice Scarf|[from] move: Knock Off|[of] p2a: Hitmonlee
+|move|p1a: Gallade|Night Slash|p2a: Hitmonlee
+|-resisted|p2a: Hitmonlee
+|-damage|p2a: Hitmonlee|168/224
+|
+|upkeep
+|turn|8
+|
+|t:|1776973892
+|move|p2a: Hitmonlee|Knock Off|p1a: Gallade
+|-damage|p1a: Gallade|0 fnt
+|faint|p1a: Gallade
+|
+|upkeep
+|
+|t:|1776973897
+|switch|p1a: Zapdos|Zapdos, L78|268/268
+|turn|9
+|inactive|chim miam miam has 120 seconds left.
+|inactive|chim miam miam has 90 seconds left.
+|
+|t:|1776973954
+|switch|p2a: Spectrier|Spectrier, L75|274/274
+|move|p1a: Zapdos|Hurricane|p2a: Spectrier
+|-damage|p2a: Spectrier|118/274
+|
+|upkeep
+|turn|10
+|inactive|chim miam miam has 90 seconds left.
+|
+|t:|1776973959
+|move|p2a: Spectrier|Shadow Ball|p1a: Zapdos
+|-damage|p1a: Zapdos|126/268
+|-damage|p2a: Spectrier|91/274|[from] item: Life Orb
+|move|p1a: Zapdos|Hurricane|p2a: Spectrier
+|-damage|p2a: Spectrier|0 fnt
+|faint|p2a: Spectrier
+|
+|upkeep
+|inactive|chim miam miam has 90 seconds left.
+|
+|t:|1776973970
+|switch|p2a: Bruxish|Bruxish, L85, F|254/254
+|turn|11
+|
+|t:|1776973975
+|switch|p1a: Muk|Muk-Alola, L82, M|144/306
+|move|p2a: Bruxish|Wave Crash|p1a: Muk
+|-damage|p1a: Muk|0 fnt
+|faint|p1a: Muk
+|-damage|p2a: Bruxish|206/254|[from] Recoil
+|
+|upkeep
+|
+|t:|1776973980
+|switch|p1a: Azumarill|Azumarill, L82, F|298/298
+|turn|12
+|
+|t:|1776973987
+|switch|p2a: Electrode|Electrode-Hisui, L87|246/246
+|move|p1a: Azumarill|Play Rough|p2a: Electrode
+|-damage|p2a: Electrode|57/246
+|-unboost|p2a: Electrode|atk|1
+|
+|upkeep
+|turn|13
+|
+|t:|1776974003
+|switch|p1a: Ursaluna|Ursaluna-Bloodmoon, L79, M|308/308
+|move|p2a: Electrode|Volt Switch|p1a: Ursaluna
+|-immune|p1a: Ursaluna
+|
+|upkeep
+|turn|14
+|
+|t:|1776974013
+|-terastallize|p2a: Electrode|Grass
+|move|p2a: Electrode|Giga Drain|p1a: Ursaluna
+|-supereffective|p1a: Ursaluna
+|-damage|p1a: Ursaluna|0 fnt
+|-heal|p2a: Electrode|211/246|[from] drain|[of] p1a: Ursaluna
+|faint|p1a: Ursaluna
+|-damage|p2a: Electrode|187/246|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776974019
+|switch|p1a: Zapdos|Zapdos, L78|126/268
+|turn|15
+|
+|t:|1776974024
+|move|p2a: Electrode|Volt Switch|p1a: Zapdos
+|-damage|p1a: Zapdos|35/268
+|-damage|p2a: Electrode|163/246|[from] item: Life Orb
+|inactive|chim miam miam has 120 seconds left.
+|
+|t:|1776974037
+|switch|p2a: Bruxish|Bruxish, L85, F|206/254|[from] Volt Switch
+|move|p1a: Zapdos|Hurricane|p2a: Bruxish
+|-damage|p2a: Bruxish|56/254
+|
+|upkeep
+|turn|16
+|inactive|chim miam miam has 120 seconds left.
+|
+|t:|1776974047
+|switch|p1a: Probopass|Probopass, L91, M|257/257
+|move|p2a: Bruxish|Psychic Fangs|p1a: Probopass
+|-resisted|p1a: Probopass
+|-damage|p1a: Probopass|214/257
+|
+|-heal|p1a: Probopass|230/257|[from] item: Leftovers
+|upkeep
+|turn|17
+|inactive|chim miam miam has 120 seconds left.
+|
+|t:|1776974065
+|switch|p2a: Hitmonlee|Hitmonlee, L85, M|168/224
+|move|p1a: Probopass|Thunder Wave|p2a: Hitmonlee|[miss]
+|-miss|p1a: Probopass|p2a: Hitmonlee
+|
+|-heal|p1a: Probopass|246/257|[from] item: Leftovers
+|upkeep
+|turn|18
+|c|☆Zairkaa|FUCKING SHIT GAME
+|
+|t:|1776974084
+|move|p2a: Hitmonlee|Close Combat|p1a: Probopass
+|-supereffective|p1a: Probopass
+|-damage|p1a: Probopass|0 fnt
+|-unboost|p2a: Hitmonlee|def|1
+|-unboost|p2a: Hitmonlee|spd|1
+|faint|p1a: Probopass
+|
+|upkeep
+|
+|t:|1776974089
+|switch|p1a: Azumarill|Azumarill, L82, F|298/298
+|turn|19
+|
+|t:|1776974098
+|move|p2a: Hitmonlee|Poison Jab|p1a: Azumarill
+|-supereffective|p1a: Azumarill
+|-damage|p1a: Azumarill|150/298
+|move|p1a: Azumarill|Ice Spinner|p2a: Hitmonlee
+|-damage|p2a: Hitmonlee|0 fnt
+|faint|p2a: Hitmonlee
+|
+|upkeep
+|
+|t:|1776974106
+|switch|p2a: Electrode|Electrode-Hisui, L87, tera:Grass|163/246
+|turn|20
+|
+|t:|1776974112
+|move|p2a: Electrode|Giga Drain|p1a: Azumarill
+|-supereffective|p1a: Azumarill
+|-damage|p1a: Azumarill|0 fnt
+|-heal|p2a: Electrode|238/246|[from] drain|[of] p1a: Azumarill
+|faint|p1a: Azumarill
+|-damage|p2a: Electrode|214/246|[from] item: Life Orb
+|
+|upkeep
+|c|☆Zairkaa|NTGM
+|-message|Zairkaa forfeited.
+|
+|win|chim miam miam

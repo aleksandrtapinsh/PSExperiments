@@ -1,0 +1,207 @@
+|j|☆aalloott
+|j|☆yutaxz47
+|t:|1776984356
+|gametype|singles
+|player|p1|aalloott|266|1064
+|player|p2|yutaxz47|1|1086
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776984356
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Weavile|Weavile, L79, F|240/240
+|switch|p2a: Magnezone|Magnezone, L85|258/258
+|turn|1
+|
+|t:|1776984375
+|move|p1a: Weavile|Swords Dance|p1a: Weavile
+|-boost|p1a: Weavile|atk|2
+|move|p2a: Magnezone|Flash Cannon|p1a: Weavile
+|-supereffective|p1a: Weavile
+|-damage|p1a: Weavile|0 fnt
+|faint|p1a: Weavile
+|
+|upkeep
+|
+|t:|1776984392
+|switch|p1a: Venusaur|Venusaur, L84, F|272/272
+|turn|2
+|
+|t:|1776984419
+|move|p1a: Venusaur|Leech Seed|p2a: Magnezone
+|-start|p2a: Magnezone|move: Leech Seed
+|move|p2a: Magnezone|Flash Cannon|p1a: Venusaur
+|-damage|p1a: Venusaur|137/272
+|
+|-heal|p1a: Venusaur|154/272|[from] item: Leftovers
+|-damage|p2a: Magnezone|226/258|[from] Leech Seed|[of] p1a: Venusaur
+|-heal|p1a: Venusaur|186/272|[silent]
+|upkeep
+|turn|3
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by aalloott)
+|
+|t:|1776984434
+|move|p1a: Venusaur|Sleep Powder|p2a: Magnezone
+|-status|p2a: Magnezone|slp|[from] move: Sleep Powder
+|cant|p2a: Magnezone|slp
+|
+|-heal|p1a: Venusaur|203/272|[from] item: Leftovers
+|-damage|p2a: Magnezone|194/258 slp|[from] Leech Seed|[of] p1a: Venusaur
+|-heal|p1a: Venusaur|235/272|[silent]
+|upkeep
+|turn|4
+|
+|t:|1776984447
+|move|p1a: Venusaur|Substitute|p1a: Venusaur
+|-start|p1a: Venusaur|Substitute
+|-damage|p1a: Venusaur|167/272
+|-curestatus|p2a: Magnezone|slp|[msg]
+|move|p2a: Magnezone|Flash Cannon|p1a: Venusaur
+|-end|p1a: Venusaur|Substitute
+|
+|-heal|p1a: Venusaur|184/272|[from] item: Leftovers
+|-damage|p2a: Magnezone|162/258|[from] Leech Seed|[of] p1a: Venusaur
+|-heal|p1a: Venusaur|216/272|[silent]
+|upkeep
+|turn|5
+|
+|t:|1776984470
+|switch|p2a: Delphox|Delphox, L84, F|263/263
+|move|p1a: Venusaur|Sleep Powder|p2a: Delphox|[miss]
+|-miss|p1a: Venusaur|p2a: Delphox
+|
+|-heal|p1a: Venusaur|233/272|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776984482
+|move|p2a: Delphox|Psyshock|p1a: Venusaur
+|-supereffective|p1a: Venusaur
+|-damage|p1a: Venusaur|0 fnt
+|faint|p1a: Venusaur
+|
+|upkeep
+|
+|t:|1776984485
+|switch|p1a: Weezing|Weezing, L88, F|258/258
+|turn|7
+|
+|t:|1776984491
+|move|p2a: Delphox|Psyshock|p1a: Weezing
+|-supereffective|p1a: Weezing
+|-damage|p1a: Weezing|40/258
+|move|p1a: Weezing|Toxic Spikes|p2a: Delphox
+|-sidestart|p2: yutaxz47|move: Toxic Spikes
+|
+|-heal|p1a: Weezing|56/258|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776984499
+|move|p2a: Delphox|Psyshock|p1a: Weezing
+|-supereffective|p1a: Weezing
+|-damage|p1a: Weezing|0 fnt
+|faint|p1a: Weezing
+|
+|upkeep
+|
+|t:|1776984502
+|switch|p1a: Lucario|Lucario, L84, M|255/255
+|turn|9
+|
+|t:|1776984516
+|switch|p2a: Sinistcha|Sinistcha-Masterpiece, L83|254/254
+|-status|p2a: Sinistcha|psn
+|move|p1a: Lucario|Swords Dance|p1a: Lucario
+|-boost|p1a: Lucario|atk|2
+|
+|-damage|p2a: Sinistcha|223/254 psn|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1776984533
+|move|p1a: Lucario|Meteor Mash|p2a: Sinistcha
+|-damage|p2a: Sinistcha|0 fnt
+|faint|p2a: Sinistcha
+|-damage|p1a: Lucario|230/255|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776984545
+|switch|p2a: Delphox|Delphox, L84, F|263/263
+|-status|p2a: Delphox|psn
+|turn|11
+|
+|t:|1776984570
+|move|p2a: Delphox|Fire Blast|p1a: Lucario
+|-supereffective|p1a: Lucario
+|-crit|p1a: Lucario
+|-damage|p1a: Lucario|0 fnt
+|faint|p1a: Lucario
+|
+|-damage|p2a: Delphox|231/263 psn|[from] psn
+|upkeep
+|
+|t:|1776984575
+|switch|p1a: Flapple|Flapple, L88, M|266/266
+|turn|12
+|
+|t:|1776984598
+|-terastallize|p1a: Flapple|Dragon
+|move|p2a: Delphox|Fire Blast|p1a: Flapple
+|-resisted|p1a: Flapple
+|-damage|p1a: Flapple|152/266
+|move|p1a: Flapple|Outrage|p2a: Delphox
+|-damage|p2a: Delphox|0 fnt
+|faint|p2a: Delphox
+|
+|upkeep
+|inactive|yutaxz47 has 120 seconds left.
+|
+|t:|1776984617
+|switch|p2a: Slaking|Slaking, L84, M|389/389
+|-status|p2a: Slaking|psn
+|turn|13
+|
+|t:|1776984631
+|move|p2a: Slaking|Giga Impact|p1a: Flapple
+|-damage|p1a: Flapple|0 fnt
+|-mustrecharge|p2a: Slaking
+|faint|p1a: Flapple
+|
+|-damage|p2a: Slaking|341/389 psn|[from] psn
+|upkeep
+|
+|t:|1776984634
+|switch|p1a: Flareon|Flareon, L90, F|263/263
+|turn|14
+|
+|t:|1776984647
+|cant|p2a: Slaking|recharge
+|move|p1a: Flareon|Flare Blitz|p2a: Slaking
+|-damage|p2a: Slaking|161/389 psn
+|-damage|p1a: Flareon|204/263|[from] Recoil
+|
+|-damage|p2a: Slaking|113/389 psn|[from] psn
+|-status|p1a: Flareon|tox|[from] item: Toxic Orb
+|upkeep
+|turn|15
+|
+|t:|1776984657
+|move|p2a: Slaking|Giga Impact|p1a: Flareon
+|-damage|p1a: Flareon|0 fnt
+|-mustrecharge|p2a: Slaking
+|faint|p1a: Flareon
+|
+|win|yutaxz47
+|raw|aalloott's rating: 1064 &rarr; <strong>1046</strong><br />(-18 for losing)
+|raw|yutaxz47's rating: 1086 &rarr; <strong>1111</strong><br />(+25 for winning)
+|l|☆aalloott
+|player|p1|

@@ -1,0 +1,282 @@
+|j|☆DavidKingwell
+|j|☆fun isnt fun
+|t:|1776972807
+|gametype|singles
+|player|p1|DavidKingwell|steven|1655
+|player|p2|fun isnt fun|102|1660
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776972807
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Flapple|Flapple, L88, M|266/266
+|switch|p2a: Trevenant|Trevenant, L89, F|296/296
+|turn|1
+|
+|t:|1776972835
+|move|p1a: Flapple|Dragon Dance|p1a: Flapple
+|-boost|p1a: Flapple|atk|1
+|-boost|p1a: Flapple|spe|1
+|move|p2a: Trevenant|Toxic|p1a: Flapple
+|-status|p1a: Flapple|tox
+|-enditem|p1a: Flapple|Lum Berry|[eat]
+|-curestatus|p1a: Flapple|tox|[msg]
+|
+|upkeep
+|turn|2
+|
+|t:|1776972846
+|move|p1a: Flapple|Outrage|p2a: Trevenant|[miss]
+|-miss|p1a: Flapple|p2a: Trevenant
+|move|p2a: Trevenant|Toxic|p1a: Flapple|[miss]
+|-miss|p2a: Trevenant|p1a: Flapple
+|
+|upkeep
+|turn|3
+|
+|t:|1776972853
+|move|p1a: Flapple|Outrage|p2a: Trevenant
+|-damage|p2a: Trevenant|0 fnt
+|faint|p2a: Trevenant
+|
+|upkeep
+|
+|t:|1776972863
+|switch|p2a: Kricketune|Kricketune, L99, M|312/312
+|turn|4
+|
+|t:|1776972867
+|move|p1a: Flapple|Outrage|p2a: Kricketune|[from] lockedmove
+|-damage|p2a: Kricketune|0 fnt
+|faint|p2a: Kricketune
+|-start|p1a: Flapple|confusion|[fatigue]
+|
+|upkeep
+|
+|t:|1776972872
+|switch|p2a: Froslass|Froslass, L87, F|263/263
+|turn|5
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by DavidKingwell)
+|
+|t:|1776972882
+|-activate|p1a: Flapple|confusion
+|move|p1a: Flapple|Sucker Punch|p2a: Froslass
+|-supereffective|p2a: Froslass
+|-damage|p2a: Froslass|0 fnt
+|-start|p1a: Flapple|Disable|Sucker Punch|[from] ability: Cursed Body|[of] p2a: Froslass
+|faint|p2a: Froslass
+|
+|upkeep
+|
+|t:|1776972888
+|switch|p2a: Blastoise|Blastoise, L80, M|258/258
+|turn|6
+|
+|t:|1776972910
+|-terastallize|p2a: Blastoise|Grass
+|-activate|p1a: Flapple|confusion
+|move|p1a: Flapple|Grav Apple|p2a: Blastoise
+|-resisted|p2a: Blastoise
+|-damage|p2a: Blastoise|157/258
+|-unboost|p2a: Blastoise|def|1
+|-enditem|p2a: Blastoise|White Herb
+|-clearnegativeboost|p2a: Blastoise|[silent]
+|move|p2a: Blastoise|Shell Smash|p2a: Blastoise
+|-unboost|p2a: Blastoise|def|1
+|-unboost|p2a: Blastoise|spd|1
+|-boost|p2a: Blastoise|atk|2
+|-boost|p2a: Blastoise|spa|2
+|-boost|p2a: Blastoise|spe|2
+|
+|upkeep
+|turn|7
+|inactive|DavidKingwell has 120 seconds left.
+|
+|t:|1776972946
+|switch|p1a: Torkoal|Torkoal, L88, M|266/266
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|move|p2a: Blastoise|Ice Beam|p1a: Torkoal
+|-resisted|p1a: Torkoal
+|-damage|p1a: Torkoal|208/266
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1776972951
+|move|p2a: Blastoise|Hydro Pump|p1a: Torkoal
+|-supereffective|p1a: Torkoal
+|-crit|p1a: Torkoal
+|-damage|p1a: Torkoal|0 fnt
+|faint|p1a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|inactive|DavidKingwell has 120 seconds left.
+|
+|t:|1776972971
+|switch|p1a: Flapple|Flapple, L88, M|266/266
+|turn|9
+|
+|t:|1776972975
+|move|p1a: Flapple|Sucker Punch|p2a: Blastoise
+|-damage|p2a: Blastoise|38/258
+|move|p2a: Blastoise|Ice Beam|p1a: Flapple
+|-supereffective|p1a: Flapple
+|-damage|p1a: Flapple|0 fnt
+|faint|p1a: Flapple
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|inactive|DavidKingwell has 120 seconds left.
+|
+|t:|1776972982
+|switch|p1a: Hatterene|Hatterene, L85, F|236/236
+|turn|10
+|
+|t:|1776972987
+|move|p2a: Blastoise|Tera Blast|p1a: Hatterene|[anim] Tera Blast Grass
+|-damage|p1a: Hatterene|116/236
+|move|p1a: Hatterene|Mystical Fire|p2a: Blastoise
+|-supereffective|p2a: Blastoise
+|-damage|p2a: Blastoise|0 fnt
+|faint|p2a: Blastoise
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Hatterene|130/236|[from] item: Leftovers
+|upkeep
+|
+|t:|1776972990
+|switch|p2a: Crawdaunt|Crawdaunt, L84, M|243/243
+|turn|11
+|
+|t:|1776973012
+|move|p2a: Crawdaunt|Knock Off|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|-enditem|p1a: Hatterene|Leftovers|[from] move: Knock Off|[of] p2a: Crawdaunt
+|faint|p1a: Hatterene
+|
+|-weather|none
+|upkeep
+|inactive|DavidKingwell has 120 seconds left.
+|
+|t:|1776973034
+|switch|p1a: Ting-Lu|Ting-Lu, L78|370/370
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|turn|12
+|
+|t:|1776973039
+|switch|p2a: Indeedee|Indeedee, L84, M|238/238
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Indeedee
+|move|p1a: Ting-Lu|Spikes|p2a: Indeedee
+|-sidestart|p2: fun isnt fun|Spikes
+|
+|upkeep
+|turn|13
+|inactive|DavidKingwell has 120 seconds left.
+|
+|t:|1776973049
+|switch|p2a: Crawdaunt|Crawdaunt, L84, M|243/243
+|-damage|p2a: Crawdaunt|213/243|[from] Spikes
+|move|p1a: Ting-Lu|Throat Chop|p2a: Crawdaunt
+|-resisted|p2a: Crawdaunt
+|-damage|p2a: Crawdaunt|173/243
+|-start|p2a: Crawdaunt|Throat Chop|[silent]
+|
+|upkeep
+|turn|14
+|inactive|DavidKingwell has 120 seconds left.
+|
+|t:|1776973063
+|switch|p1a: Meowstic|Meowstic-F, L89, F|277/277
+|move|p2a: Crawdaunt|Crabhammer|p1a: Meowstic
+|-damage|p1a: Meowstic|1/277
+|
+|-end|p2a: Crawdaunt|Throat Chop|[silent]
+|upkeep
+|turn|15
+|
+|t:|1776973069
+|switch|p2a: Indeedee|Indeedee, L84, M|238/238
+|-damage|p2a: Indeedee|209/238|[from] Spikes
+|move|p1a: Meowstic|Thunderbolt|p2a: Indeedee
+|-damage|p2a: Indeedee|135/238
+|-damage|p1a: Meowstic|0 fnt|[from] item: Life Orb
+|faint|p1a: Meowstic
+|
+|upkeep
+|inactive|DavidKingwell has 120 seconds left.
+|
+|t:|1776973087
+|switch|p1a: Ting-Lu|Ting-Lu, L78|370/370
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|turn|16
+|inactive|DavidKingwell has 120 seconds left.
+|
+|t:|1776973108
+|switch|p2a: Crawdaunt|Crawdaunt, L84, M|173/243
+|-damage|p2a: Crawdaunt|143/243|[from] Spikes
+|move|p1a: Ting-Lu|Earthquake|p2a: Crawdaunt
+|-damage|p2a: Crawdaunt|43/243
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|17
+|inactive|DavidKingwell has 90 seconds left.
+|
+|t:|1776973153
+|-terastallize|p1a: Ting-Lu|Poison
+|move|p2a: Crawdaunt|Crabhammer|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|158/370
+|move|p1a: Ting-Lu|Earthquake|p2a: Crawdaunt
+|-damage|p2a: Crawdaunt|0 fnt
+|faint|p2a: Crawdaunt
+|
+|-heal|p1a: Ting-Lu|181/370|[from] item: Leftovers
+|upkeep
+|
+|t:|1776973158
+|switch|p2a: Indeedee|Indeedee, L84, M|135/238
+|-damage|p2a: Indeedee|106/238|[from] Spikes
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Indeedee
+|turn|18
+|
+|t:|1776973170
+|move|p2a: Indeedee|Expanding Force|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|0 fnt
+|faint|p1a: Ting-Lu
+|
+|upkeep
+|
+|t:|1776973172
+|switch|p1a: Blaziken|Blaziken, L76, M|247/247
+|turn|19
+|
+|t:|1776973176
+|move|p1a: Blaziken|Protect|p1a: Blaziken
+|-singleturn|p1a: Blaziken|Protect
+|move|p2a: Indeedee|Expanding Force|p1a: Blaziken
+|-activate|p1a: Blaziken|move: Protect
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|20
+|
+|t:|1776973187
+|move|p2a: Indeedee|Expanding Force|p1a: Blaziken
+|-supereffective|p1a: Blaziken
+|-damage|p1a: Blaziken|0 fnt
+|faint|p1a: Blaziken
+|
+|win|fun isnt fun
+|raw|DavidKingwell's rating: 1655 &rarr; <strong>1635</strong><br />(-20 for losing)
+|raw|fun isnt fun's rating: 1660 &rarr; <strong>1680</strong><br />(+20 for winning)

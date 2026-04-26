@@ -1,0 +1,537 @@
+|j|☆VinDaPooh
+|j|☆ProKameron
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1776971795
+|gametype|singles
+|player|p1|VinDaPooh|101|
+|player|p2|ProKameron|rhi|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|Tournament battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776971795
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Sunflora|Sunflora, M|312/312
+|switch|p2a: Rhyperior|Rhyperior, L82, M|323/323
+|turn|1
+|inactive|ProKameron also wants the timer to be on.
+|c|☆VinDaPooh|The one and only
+|
+|t:|1776971815
+|switch|p2a: Blissey|Blissey, L85, F|572/572
+|move|p1a: Sunflora|Earth Power|p2a: Blissey
+|-damage|p2a: Blissey|488/572
+|-damage|p1a: Sunflora|281/312|[from] item: Life Orb
+|
+|-heal|p2a: Blissey|523/572|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776971824
+|move|p2a: Blissey|Thunder Wave|p1a: Sunflora
+|-status|p1a: Sunflora|par
+|move|p1a: Sunflora|Sunny Day|p1a: Sunflora
+|-weather|SunnyDay
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Blissey|558/572|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776971842
+|switch|p1a: Swalot|Swalot, L90, F|326/326
+|move|p2a: Blissey|Stealth Rock|p1a: Swalot
+|-sidestart|p1: VinDaPooh|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Blissey|572/572|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776971848
+|move|p1a: Swalot|Toxic Spikes|p2a: Blissey
+|-sidestart|p2: ProKameron|move: Toxic Spikes
+|move|p2a: Blissey|Thunder Wave|p1a: Swalot
+|-status|p1a: Swalot|par
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1776971855
+|move|p2a: Blissey|Seismic Toss|p1a: Swalot
+|-damage|p1a: Swalot|241/326 par
+|move|p1a: Swalot|Toxic Spikes|p2a: Blissey
+|-sidestart|p2: ProKameron|move: Toxic Spikes
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Swalot|261/326 par|[from] item: Leftovers
+|upkeep
+|turn|6
+|c|☆VinDaPooh|if you have a defog mon you win ngl
+|
+|t:|1776971864
+|move|p2a: Blissey|Seismic Toss|p1a: Swalot
+|-damage|p1a: Swalot|176/326 par
+|move|p1a: Swalot|Knock Off|p2a: Blissey
+|-damage|p2a: Blissey|395/572
+|-enditem|p2a: Blissey|Leftovers|[from] move: Knock Off|[of] p1a: Swalot
+|
+|-weather|none
+|-heal|p1a: Swalot|196/326 par|[from] item: Leftovers
+|upkeep
+|turn|7
+|c|☆ProKameron|i have a poison type
+|j| megajramed001
+|c|☆VinDaPooh|hm
+|inactive|VinDaPooh has 120 seconds left.
+|
+|t:|1776971903
+|switch|p1a: Chesnaught|Chesnaught, L84, M|285/285
+|-damage|p1a: Chesnaught|268/285|[from] Stealth Rock
+|move|p2a: Blissey|Seismic Toss|p1a: Chesnaught
+|-damage|p1a: Chesnaught|183/285
+|
+|-heal|p1a: Chesnaught|200/285|[from] item: Leftovers
+|upkeep
+|turn|8
+|inactive|VinDaPooh has 120 seconds left.
+|
+|t:|1776971916
+|switch|p2a: Pecharunt|Pecharunt, L77|262/262
+|-sideend|p2: ProKameron|move: Toxic Spikes|[of] p2a: Pecharunt
+|move|p1a: Chesnaught|Body Press|p2a: Pecharunt
+|-immune|p2a: Pecharunt
+|
+|-heal|p1a: Chesnaught|217/285|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776971926
+|move|p2a: Pecharunt|Malignant Chain|p1a: Chesnaught
+|-supereffective|p1a: Chesnaught
+|-damage|p1a: Chesnaught|25/285
+|move|p1a: Chesnaught|Knock Off|p2a: Pecharunt
+|-supereffective|p2a: Pecharunt
+|-damage|p2a: Pecharunt|162/262
+|-enditem|p2a: Pecharunt|Leftovers|[from] move: Knock Off|[of] p1a: Chesnaught
+|
+|-heal|p1a: Chesnaught|42/285|[from] item: Leftovers
+|upkeep
+|turn|10
+|inactive|VinDaPooh has 120 seconds left.
+|
+|t:|1776971946
+|move|p2a: Pecharunt|Malignant Chain|p1a: Chesnaught
+|-supereffective|p1a: Chesnaught
+|-damage|p1a: Chesnaught|0 fnt
+|faint|p1a: Chesnaught
+|
+|upkeep
+|
+|t:|1776971958
+|switch|p1a: Spectrier|Spectrier, L75|274/274
+|-damage|p1a: Spectrier|240/274|[from] Stealth Rock
+|turn|11
+|
+|t:|1776971971
+|switch|p2a: Gumshoos|Gumshoos, L95, M|321/321
+|move|p1a: Spectrier|Substitute|p1a: Spectrier
+|-start|p1a: Spectrier|Substitute
+|-damage|p1a: Spectrier|172/274
+|
+|-heal|p1a: Spectrier|189/274|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776971982
+|move|p1a: Spectrier|Nasty Plot|p1a: Spectrier
+|-boost|p1a: Spectrier|spa|2
+|move|p2a: Gumshoos|Knock Off|p1a: Spectrier
+|-supereffective|p1a: Spectrier
+|-end|p1a: Spectrier|Substitute
+|
+|-heal|p1a: Spectrier|206/274|[from] item: Leftovers
+|upkeep
+|turn|13
+|inactive|VinDaPooh has 120 seconds left.
+|
+|t:|1776971990
+|move|p1a: Spectrier|Tera Blast|p2a: Gumshoos
+|-crit|p2a: Gumshoos
+|-damage|p2a: Gumshoos|114/321
+|move|p2a: Gumshoos|Knock Off|p1a: Spectrier
+|-supereffective|p1a: Spectrier
+|-damage|p1a: Spectrier|0 fnt
+|-enditem|p1a: Spectrier|Leftovers|[from] move: Knock Off|[of] p2a: Gumshoos
+|faint|p1a: Spectrier
+|
+|upkeep
+|c|☆VinDaPooh|gg
+|inactive|VinDaPooh has 120 seconds left.
+|j| Originality Key
+|c| Originality Key|why are you saying gg so early
+|c|☆ProKameron|^
+|inactive|VinDaPooh has 90 seconds left.
+|c|☆VinDaPooh|rest of my mons get countered
+|c|☆VinDaPooh|but lets see
+|j| supergriefer101
+|
+|t:|1776972043
+|switch|p1a: Vivillon|Vivillon-River, L83, F|268/268
+|turn|14
+|c| Originality Key|also hi ProKameron
+|c|☆ProKameron|hi
+|
+|t:|1776972056
+|switch|p2a: Chesnaught|Chesnaught, L84, F|285/285
+|move|p1a: Vivillon|Sleep Powder|p2a: Chesnaught
+|-immune|p2a: Chesnaught
+|
+|upkeep
+|turn|15
+|
+|t:|1776972079
+|switch|p2a: Blissey|Blissey, L85, F|395/572
+|move|p1a: Vivillon|Hurricane|p2a: Blissey
+|-damage|p2a: Blissey|314/572
+|
+|upkeep
+|turn|16
+|
+|t:|1776972088
+|move|p1a: Vivillon|Sleep Powder|p2a: Blissey
+|-status|p2a: Blissey|slp|[from] move: Sleep Powder
+|cant|p2a: Blissey|slp
+|
+|upkeep
+|turn|17
+|
+|t:|1776972095
+|-curestatus|p2a: Blissey|slp|[from] ability: Natural Cure
+|switch|p2a: Rhyperior|Rhyperior, L82, M|323/323
+|move|p1a: Vivillon|Quiver Dance|p1a: Vivillon
+|-boost|p1a: Vivillon|spa|1
+|-boost|p1a: Vivillon|spd|1
+|-boost|p1a: Vivillon|spe|1
+|
+|upkeep
+|turn|18
+|inactive|VinDaPooh has 90 seconds left.
+|
+|t:|1776972110
+|move|p1a: Vivillon|Bug Buzz|p2a: Rhyperior
+|-damage|p2a: Rhyperior|122/323
+|move|p2a: Rhyperior|Stone Edge|p1a: Vivillon|[miss]
+|-miss|p2a: Rhyperior|p1a: Vivillon
+|
+|upkeep
+|turn|19
+|inactive|VinDaPooh has 90 seconds left.
+|
+|t:|1776972118
+|move|p1a: Vivillon|Sleep Powder|p2a: Rhyperior
+|-status|p2a: Rhyperior|slp|[from] move: Sleep Powder
+|cant|p2a: Rhyperior|slp
+|
+|upkeep
+|turn|20
+|
+|t:|1776972123
+|move|p1a: Vivillon|Quiver Dance|p1a: Vivillon
+|-boost|p1a: Vivillon|spa|1
+|-boost|p1a: Vivillon|spd|1
+|-boost|p1a: Vivillon|spe|1
+|cant|p2a: Rhyperior|slp
+|
+|upkeep
+|turn|21
+|c|☆VinDaPooh|do I go for the second quiver chat
+|
+|t:|1776972137
+|move|p1a: Vivillon|Bug Buzz|p2a: Rhyperior
+|-damage|p2a: Rhyperior|0 fnt
+|faint|p2a: Rhyperior
+|
+|upkeep
+|inactive|ProKameron has 120 seconds left.
+|
+|t:|1776972179
+|switch|p2a: Ampharos|Ampharos, L88, M|302/302
+|turn|22
+|
+|t:|1776972190
+|move|p1a: Vivillon|Sleep Powder|p2a: Ampharos
+|-status|p2a: Ampharos|slp|[from] move: Sleep Powder
+|cant|p2a: Ampharos|slp
+|
+|upkeep
+|turn|23
+|
+|t:|1776972194
+|switch|p2a: Blissey|Blissey, L85, F|314/572
+|move|p1a: Vivillon|Quiver Dance|p1a: Vivillon
+|-boost|p1a: Vivillon|spa|1
+|-boost|p1a: Vivillon|spd|1
+|-boost|p1a: Vivillon|spe|1
+|
+|upkeep
+|turn|24
+|inactive|VinDaPooh has 120 seconds left.
+|
+|t:|1776972210
+|move|p1a: Vivillon|Sleep Powder|p2a: Blissey
+|-message|Sleep Clause Mod activated.
+|-hint|Sleep Clause Mod prevents players from putting more than one of their opponent's Pokémon to sleep at a time
+|move|p2a: Blissey|Soft-Boiled|p2a: Blissey
+|-heal|p2a: Blissey|572/572
+|
+|upkeep
+|turn|25
+|c|☆VinDaPooh|oh yea
+|
+|t:|1776972218
+|move|p1a: Vivillon|Hurricane|p2a: Blissey|[miss]
+|-miss|p1a: Vivillon|p2a: Blissey
+|move|p2a: Blissey|Thunder Wave|p1a: Vivillon
+|-status|p1a: Vivillon|par
+|
+|upkeep
+|turn|26
+|inactive|VinDaPooh has 120 seconds left.
+|
+|t:|1776972226
+|move|p1a: Vivillon|Hurricane|p2a: Blissey
+|-damage|p2a: Blissey|395/572
+|move|p2a: Blissey|Seismic Toss|p1a: Vivillon
+|-damage|p1a: Vivillon|183/268 par
+|
+|upkeep
+|turn|27
+|inactive|VinDaPooh has 120 seconds left.
+|
+|t:|1776972257
+|switch|p1a: Swalot|Swalot, L90, F|196/326 par
+|-damage|p1a: Swalot|156/326 par|[from] Stealth Rock
+|move|p2a: Blissey|Seismic Toss|p1a: Swalot
+|-damage|p1a: Swalot|71/326 par
+|
+|-heal|p1a: Swalot|91/326 par|[from] item: Leftovers
+|upkeep
+|turn|28
+|inactive|ProKameron has 120 seconds left.
+|
+|t:|1776972293
+|switch|p2a: Chesnaught|Chesnaught, L84, F|285/285
+|move|p1a: Swalot|Knock Off|p2a: Chesnaught
+|-resisted|p2a: Chesnaught
+|-damage|p2a: Chesnaught|258/285
+|-damage|p1a: Swalot|37/326 par|[from] item: Rocky Helmet|[of] p2a: Chesnaught
+|-enditem|p2a: Chesnaught|Rocky Helmet|[from] move: Knock Off|[of] p1a: Swalot
+|
+|-heal|p1a: Swalot|57/326 par|[from] item: Leftovers
+|upkeep
+|turn|29
+|inactive|ProKameron has 120 seconds left.
+|
+|t:|1776972312
+|move|p2a: Chesnaught|Knock Off|p1a: Swalot
+|-damage|p1a: Swalot|0 fnt
+|-enditem|p1a: Swalot|Leftovers|[from] move: Knock Off|[of] p2a: Chesnaught
+|faint|p1a: Swalot
+|
+|upkeep
+|
+|t:|1776972315
+|switch|p1a: Mesprit|Mesprit, L85|275/275
+|-damage|p1a: Mesprit|241/275|[from] Stealth Rock
+|turn|30
+|
+|t:|1776972320
+|move|p1a: Mesprit|Nasty Plot|p1a: Mesprit
+|-boost|p1a: Mesprit|spa|2
+|move|p2a: Chesnaught|Knock Off|p1a: Mesprit
+|-supereffective|p1a: Mesprit
+|-damage|p1a: Mesprit|123/275
+|-enditem|p1a: Mesprit|Life Orb|[from] move: Knock Off|[of] p2a: Chesnaught
+|
+|upkeep
+|turn|31
+|
+|t:|1776972332
+|move|p1a: Mesprit|Psychic|p2a: Chesnaught
+|-supereffective|p2a: Chesnaught
+|-damage|p2a: Chesnaught|0 fnt
+|faint|p2a: Chesnaught
+|
+|upkeep
+|
+|t:|1776972357
+|switch|p2a: Ampharos|Ampharos, L88, M|302/302 slp
+|turn|32
+|inactive|VinDaPooh has 120 seconds left.
+|
+|t:|1776972365
+|move|p1a: Mesprit|Psychic|p2a: Ampharos
+|-damage|p2a: Ampharos|103/302 slp
+|cant|p2a: Ampharos|slp
+|
+|upkeep
+|turn|33
+|
+|t:|1776972375
+|switch|p2a: Blissey|Blissey, L85, F|395/572
+|move|p1a: Mesprit|Psychic|p2a: Blissey
+|-damage|p2a: Blissey|239/572
+|
+|upkeep
+|turn|34
+|inactive|VinDaPooh has 120 seconds left.
+|
+|t:|1776972402
+|move|p1a: Mesprit|Nasty Plot|p1a: Mesprit
+|-boost|p1a: Mesprit|spa|2
+|move|p2a: Blissey|Soft-Boiled|p2a: Blissey
+|-heal|p2a: Blissey|525/572
+|
+|upkeep
+|turn|35
+|inactive|VinDaPooh has 120 seconds left.
+|
+|t:|1776972407
+|move|p1a: Mesprit|Nasty Plot|p1a: Mesprit
+|-boost|p1a: Mesprit|spa|2
+|move|p2a: Blissey|Seismic Toss|p1a: Mesprit
+|-damage|p1a: Mesprit|38/275
+|
+|upkeep
+|turn|36
+|inactive|VinDaPooh has 120 seconds left.
+|c|☆VinDaPooh|no thunder wave?
+|
+|t:|1776972420
+|move|p1a: Mesprit|Psychic|p2a: Blissey
+|-damage|p2a: Blissey|216/572
+|move|p2a: Blissey|Seismic Toss|p1a: Mesprit
+|-damage|p1a: Mesprit|0 fnt
+|faint|p1a: Mesprit
+|
+|upkeep
+|inactive|VinDaPooh has 120 seconds left.
+|c|☆ProKameron|it's a KO in 2
+|c|☆VinDaPooh|makes sense
+|
+|t:|1776972434
+|switch|p1a: Sunflora|Sunflora, M|281/312 par
+|-damage|p1a: Sunflora|242/312 par|[from] Stealth Rock
+|turn|37
+|inactive|VinDaPooh has 120 seconds left.
+|
+|t:|1776972442
+|move|p2a: Blissey|Soft-Boiled|p2a: Blissey
+|-heal|p2a: Blissey|502/572
+|move|p1a: Sunflora|Sunny Day|p1a: Sunflora
+|-weather|SunnyDay
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|38
+|
+|t:|1776972449
+|move|p2a: Blissey|Seismic Toss|p1a: Sunflora
+|-damage|p1a: Sunflora|157/312 par
+|move|p1a: Sunflora|Solar Beam||[still]
+|-prepare|p1a: Sunflora|Solar Beam
+|-anim|p1a: Sunflora|Solar Beam|p2a: Blissey
+|-damage|p2a: Blissey|333/572
+|-damage|p1a: Sunflora|126/312 par|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|39
+|
+|t:|1776972461
+|move|p2a: Blissey|Soft-Boiled|p2a: Blissey
+|-heal|p2a: Blissey|572/572
+|move|p1a: Sunflora|Solar Beam||[still]
+|-prepare|p1a: Sunflora|Solar Beam
+|-anim|p1a: Sunflora|Solar Beam|p2a: Blissey
+|-damage|p2a: Blissey|404/572
+|-damage|p1a: Sunflora|95/312 par|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|40
+|
+|t:|1776972465
+|move|p2a: Blissey|Seismic Toss|p1a: Sunflora
+|-damage|p1a: Sunflora|10/312 par
+|move|p1a: Sunflora|Solar Beam||[still]
+|-prepare|p1a: Sunflora|Solar Beam
+|-anim|p1a: Sunflora|Solar Beam|p2a: Blissey
+|-damage|p2a: Blissey|232/572
+|-damage|p1a: Sunflora|0 fnt|[from] item: Life Orb
+|faint|p1a: Sunflora
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1776972468
+|switch|p1a: Vivillon|Vivillon-River, L83, F|183/268 par
+|turn|41
+|
+|t:|1776972486
+|move|p2a: Blissey|Soft-Boiled|p2a: Blissey
+|-heal|p2a: Blissey|518/572
+|move|p1a: Vivillon|Quiver Dance|p1a: Vivillon
+|-boost|p1a: Vivillon|spa|1
+|-boost|p1a: Vivillon|spd|1
+|-boost|p1a: Vivillon|spe|1
+|
+|-weather|none
+|upkeep
+|turn|42
+|
+|t:|1776972495
+|move|p1a: Vivillon|Hurricane|p2a: Blissey
+|-damage|p2a: Blissey|397/572
+|move|p2a: Blissey|Seismic Toss|p1a: Vivillon
+|-damage|p1a: Vivillon|98/268 par
+|
+|upkeep
+|turn|43
+|
+|t:|1776972501
+|cant|p1a: Vivillon|par
+|move|p2a: Blissey|Seismic Toss|p1a: Vivillon
+|-damage|p1a: Vivillon|13/268 par
+|
+|upkeep
+|turn|44
+|
+|t:|1776972505
+|move|p1a: Vivillon|Hurricane|p2a: Blissey
+|-damage|p2a: Blissey|288/572
+|-start|p2a: Blissey|confusion
+|-activate|p2a: Blissey|confusion
+|move|p2a: Blissey|Seismic Toss|p1a: Vivillon
+|-damage|p1a: Vivillon|0 fnt
+|faint|p1a: Vivillon
+|
+|win|ProKameron
+|n|☆VinDaPooh|vindapooh
+|n|☆ProKameron|prokameron
+|n| megajramed001|megajramed001
+|n| Originality Key|originalitykey
+|n| supergriefer101|supergriefer101
+|c|☆VinDaPooh|gg
+|c|☆ProKameron|gg
+|c|☆VinDaPooh|blissey the beast
+|l| megajramed001
+|c|☆ProKameron|basically the savior

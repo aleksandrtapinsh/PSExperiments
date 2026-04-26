@@ -1,0 +1,202 @@
+|j|☆ProKameron
+|j|☆zvbcv
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1776971071
+|gametype|singles
+|player|p1|ProKameron|rhi|
+|player|p2|zvbcv|clown|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|Tournament battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776971071
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Entei|Entei, L78|307/307
+|switch|p2a: Meloetta|Meloetta, L82|298/298
+|turn|1
+|inactive|zvbcv also wants the timer to be on.
+|inactive|ProKameron also wants the timer to be on.
+|c|☆zvbcv|Hf
+|c|☆ProKameron|u2
+|
+|t:|1776971090
+|move|p1a: Entei|Sacred Fire|p2a: Meloetta
+|-damage|p2a: Meloetta|121/298
+|-status|p2a: Meloetta|brn
+|move|p2a: Meloetta|Relic Song|p1a: Entei
+|-damage|p1a: Entei|165/307
+|-formechange|p2a: Meloetta|Meloetta-Pirouette|[msg]
+|-damage|p2a: Meloetta|92/298 brn|[from] item: Life Orb
+|
+|-damage|p2a: Meloetta|74/298 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1776971105
+|move|p2a: Meloetta|Relic Song|p1a: Entei
+|-damage|p1a: Entei|71/307
+|-formechange|p2a: Meloetta|Meloetta|[msg]
+|-damage|p2a: Meloetta|45/298 brn|[from] item: Life Orb
+|move|p1a: Entei|Sacred Fire|p2a: Meloetta
+|-damage|p2a: Meloetta|0 fnt
+|faint|p2a: Meloetta
+|
+|upkeep
+|
+|t:|1776971113
+|switch|p2a: Groudon|Groudon, L72|263/263
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Groudon
+|turn|3
+|
+|t:|1776971123
+|switch|p1a: Politoed|Politoed, L88, M|302/302
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Politoed
+|move|p2a: Groudon|Precipice Blades|p1a: Politoed
+|-damage|p1a: Politoed|167/302
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|inactive|zvbcv has 120 seconds left.
+|
+|t:|1776971175
+|switch|p2a: Houndstone|Houndstone, L86, M|264/264
+|move|p1a: Politoed|Weather Ball|p2a: Houndstone
+|-damage|p2a: Houndstone|30/264
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Houndstone|46/264|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776971184
+|move|p1a: Politoed|Weather Ball|p2a: Houndstone
+|-damage|p2a: Houndstone|0 fnt
+|faint|p2a: Houndstone
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1776971189
+|switch|p2a: Groudon|Groudon, L72|263/263
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Groudon
+|turn|6
+|
+|t:|1776971205
+|move|p1a: Politoed|Weather Ball|p2a: Groudon
+|-damage|p2a: Groudon|80/263
+|move|p2a: Groudon|Precipice Blades|p1a: Politoed
+|-damage|p1a: Politoed|35/302
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Groudon|96/263|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776971213
+|move|p1a: Politoed|Weather Ball|p2a: Groudon
+|-damage|p2a: Groudon|0 fnt
+|faint|p2a: Groudon
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1776971217
+|switch|p2a: Whiscash|Whiscash, L88, M|337/337
+|turn|8
+|j| BrillaintStar
+|
+|t:|1776971236
+|switch|p1a: Clawitzer|Clawitzer, L87, M|265/265
+|move|p2a: Whiscash|Earthquake|p1a: Clawitzer
+|-damage|p1a: Clawitzer|171/265
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|9
+|l| BrillaintStar
+|inactive|zvbcv has 120 seconds left.
+|
+|t:|1776971267
+|switch|p2a: Empoleon|Empoleon, L84, M|278/278
+|move|p1a: Clawitzer|Dragon Pulse|p2a: Empoleon
+|-resisted|p2a: Empoleon
+|-damage|p2a: Empoleon|201/278
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Empoleon|218/278|[from] item: Leftovers
+|upkeep
+|turn|10
+|inactive|zvbcv has 120 seconds left.
+|
+|t:|1776971288
+|switch|p1a: Iron Crown|Iron Crown, L78|268/268
+|move|p2a: Empoleon|Knock Off|p1a: Iron Crown
+|-supereffective|p1a: Iron Crown
+|-damage|p1a: Iron Crown|152/268
+|-enditem|p1a: Iron Crown|Leftovers|[from] move: Knock Off|[of] p2a: Empoleon
+|
+|-weather|none
+|-heal|p2a: Empoleon|235/278|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776971299
+|move|p1a: Iron Crown|Focus Blast|p2a: Empoleon
+|-supereffective|p2a: Empoleon
+|-damage|p2a: Empoleon|75/278
+|move|p2a: Empoleon|Surf|p1a: Iron Crown
+|-damage|p1a: Iron Crown|56/268
+|
+|-heal|p2a: Empoleon|92/278|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776971307
+|switch|p2a: Whiscash|Whiscash, L88, M|337/337
+|move|p1a: Iron Crown|Focus Blast|p2a: Whiscash
+|-damage|p2a: Whiscash|234/337
+|
+|-heal|p2a: Whiscash|255/337|[from] item: Leftovers
+|upkeep
+|turn|13
+|inactive|ProKameron has 120 seconds left.
+|
+|t:|1776971331
+|move|p1a: Iron Crown|Psyshock|p2a: Whiscash
+|-damage|p2a: Whiscash|149/337
+|move|p2a: Whiscash|Earthquake|p1a: Iron Crown
+|-supereffective|p1a: Iron Crown
+|-damage|p1a: Iron Crown|0 fnt
+|faint|p1a: Iron Crown
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|
+|-heal|p2a: Whiscash|170/337|[from] item: Leftovers
+|upkeep
+|inactive|ProKameron has 120 seconds left.
+|
+|t:|1776971360
+|switch|p1a: Politoed|Politoed, L88, M|35/302
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Politoed
+|turn|14
+|
+|t:|1776971366
+|move|p1a: Politoed|Weather Ball|p2a: Whiscash
+|-damage|p2a: Whiscash|0 fnt
+|faint|p2a: Whiscash
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|-message|zvbcv forfeited.
+|
+|win|ProKameron
+|n|☆ProKameron|prokameron
+|n|☆zvbcv|zvbcv
+|l|☆zvbcv
+|player|p2|

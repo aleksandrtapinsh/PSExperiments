@@ -1,0 +1,283 @@
+|j|☆ullllthy
+|j|☆LeNorm
+|t:|1776980709
+|gametype|singles
+|player|p1|ullllthy|169|1938
+|player|p2|LeNorm|101|1959
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776980709
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Crawdaunt|Crawdaunt, L84, F|243/243
+|switch|p2a: Ninetales|Ninetales-Alola, L78, F|242/242
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Ninetales
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ullllthy)
+|inactive|ullllthy has 120 seconds left.
+|
+|t:|1776980742
+|-terastallize|p1a: Crawdaunt|Water
+|move|p2a: Ninetales|Aurora Veil|p2a: Ninetales
+|-sidestart|p2: LeNorm|move: Aurora Veil
+|move|p1a: Crawdaunt|Crabhammer|p2a: Ninetales
+|-damage|p2a: Ninetales|144/242
+|-damage|p1a: Crawdaunt|219/243|[from] item: Life Orb
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1776980757
+|switch|p1a: Jirachi|Jirachi, L80|291/291
+|move|p2a: Ninetales|Moonblast|p1a: Jirachi
+|-resisted|p1a: Jirachi
+|-damage|p1a: Jirachi|267/291
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1776980768
+|switch|p2a: Hydreigon|Hydreigon, L79, F|275/275
+|move|p1a: Jirachi|Body Slam|p2a: Hydreigon
+|-damage|p2a: Hydreigon|244/275
+|-status|p2a: Hydreigon|par
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1776980791
+|move|p1a: Jirachi|U-turn|p2a: Hydreigon
+|-supereffective|p2a: Hydreigon
+|-damage|p2a: Hydreigon|192/275 par
+|
+|t:|1776980797
+|switch|p1a: Glalie|Glalie, L96, M|309/309|[from] U-turn
+|move|p2a: Hydreigon|Dark Pulse|p1a: Glalie
+|-damage|p1a: Glalie|202/309
+|-damage|p2a: Hydreigon|165/275 par|[from] item: Life Orb
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1776980810
+|move|p1a: Glalie|Spikes|p2a: Hydreigon
+|-sidestart|p2: LeNorm|Spikes
+|move|p2a: Hydreigon|Flash Cannon|p1a: Glalie
+|-supereffective|p1a: Glalie
+|-damage|p1a: Glalie|62/309
+|-damage|p2a: Hydreigon|138/275 par|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1776980821
+|move|p1a: Glalie|Freeze-Dry|p2a: Hydreigon
+|-supereffective|p2a: Hydreigon
+|-damage|p2a: Hydreigon|50/275 par
+|move|p2a: Hydreigon|Flash Cannon|p1a: Glalie
+|-supereffective|p1a: Glalie
+|-damage|p1a: Glalie|0 fnt
+|faint|p1a: Glalie
+|-damage|p2a: Hydreigon|23/275 par|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776980836
+|switch|p1a: Jirachi|Jirachi, L80|267/291
+|turn|7
+|
+|t:|1776980841
+|move|p1a: Jirachi|Body Slam|p2a: Hydreigon
+|-damage|p2a: Hydreigon|0 fnt
+|faint|p2a: Hydreigon
+|
+|upkeep
+|
+|t:|1776980851
+|switch|p2a: Grafaiai|Grafaiai, L86, M|249/249
+|-damage|p2a: Grafaiai|218/249|[from] Spikes
+|turn|8
+|
+|t:|1776980858
+|move|p2a: Grafaiai|Knock Off|p1a: Jirachi
+|-supereffective|p1a: Jirachi
+|-damage|p1a: Jirachi|101/291
+|-enditem|p1a: Jirachi|Assault Vest|[from] move: Knock Off|[of] p2a: Grafaiai
+|-damage|p2a: Grafaiai|194/249|[from] item: Life Orb
+|move|p1a: Jirachi|Body Slam|p2a: Grafaiai
+|-damage|p2a: Grafaiai|162/249
+|
+|-sideend|p2: LeNorm|move: Aurora Veil
+|upkeep
+|turn|9
+|
+|t:|1776980880
+|move|p2a: Grafaiai|Knock Off|p1a: Jirachi
+|-supereffective|p1a: Jirachi
+|-damage|p1a: Jirachi|0 fnt
+|faint|p1a: Jirachi
+|-damage|p2a: Grafaiai|138/249|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776980885
+|switch|p1a: Crawdaunt|Crawdaunt, L84, F, tera:Water|219/243
+|turn|10
+|
+|t:|1776980893
+|move|p2a: Grafaiai|Knock Off|p1a: Crawdaunt
+|-damage|p1a: Crawdaunt|124/243
+|-enditem|p1a: Crawdaunt|Life Orb|[from] move: Knock Off|[of] p2a: Grafaiai
+|-damage|p2a: Grafaiai|114/249|[from] item: Life Orb
+|move|p1a: Crawdaunt|Crabhammer|p2a: Grafaiai
+|-damage|p2a: Grafaiai|0 fnt
+|faint|p2a: Grafaiai
+|
+|upkeep
+|
+|t:|1776980897
+|switch|p2a: Raikou|Raikou, L81|278/278
+|-damage|p2a: Raikou|244/278|[from] Spikes
+|-ability|p2a: Raikou|Pressure
+|turn|11
+|
+|t:|1776980911
+|switch|p1a: Deoxys|Deoxys-Defense, L84|221/221
+|-ability|p1a: Deoxys|Pressure
+|move|p2a: Raikou|Thunderbolt|p1a: Deoxys
+|-damage|p1a: Deoxys|160/221
+|
+|-heal|p2a: Raikou|261/278|[from] item: Leftovers
+|-heal|p1a: Deoxys|173/221|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776980920
+|move|p2a: Raikou|Substitute|p2a: Raikou
+|-start|p2a: Raikou|Substitute
+|-damage|p2a: Raikou|192/278
+|move|p1a: Deoxys|Stealth Rock|p2a: Raikou
+|-sidestart|p2: LeNorm|move: Stealth Rock
+|
+|-heal|p2a: Raikou|209/278|[from] item: Leftovers
+|-heal|p1a: Deoxys|186/221|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776980924
+|move|p2a: Raikou|Calm Mind|p2a: Raikou
+|-boost|p2a: Raikou|spa|1
+|-boost|p2a: Raikou|spd|1
+|move|p1a: Deoxys|Psychic Noise|p2a: Raikou
+|-damage|p2a: Raikou|167/278
+|-start|p2a: Raikou|move: Heal Block
+|
+|-heal|p1a: Deoxys|199/221|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1776980934
+|move|p2a: Raikou|Calm Mind|p2a: Raikou
+|-boost|p2a: Raikou|spa|1
+|-boost|p2a: Raikou|spd|1
+|move|p1a: Deoxys|Teleport|p1a: Deoxys
+|
+|t:|1776980937
+|switch|p1a: Kommo-o|Kommo-o, L78, M|245/245|[from] Teleport
+|
+|-end|p2a: Raikou|move: Heal Block
+|upkeep
+|turn|15
+|
+|t:|1776980943
+|move|p2a: Raikou|Scald|p1a: Kommo-o
+|-resisted|p1a: Kommo-o
+|-damage|p1a: Kommo-o|193/245
+|move|p1a: Kommo-o|Swords Dance|p1a: Kommo-o
+|-boost|p1a: Kommo-o|atk|2
+|
+|-heal|p2a: Raikou|184/278|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776980961
+|move|p2a: Raikou|Scald|p1a: Kommo-o
+|-resisted|p1a: Kommo-o
+|-damage|p1a: Kommo-o|136/245
+|-status|p1a: Kommo-o|brn
+|move|p1a: Kommo-o|Scale Shot|p2a: Raikou
+|-activate|p2a: Raikou|move: Substitute|[damage]
+|-activate|p2a: Raikou|move: Substitute|[damage]
+|-end|p2a: Raikou|Substitute
+|-damage|p2a: Raikou|154/278
+|-damage|p2a: Raikou|126/278
+|-hitcount|p2a: Raikou|5
+|-unboost|p1a: Kommo-o|def|1
+|-boost|p1a: Kommo-o|spe|1
+|
+|-heal|p2a: Raikou|143/278|[from] item: Leftovers
+|-damage|p1a: Kommo-o|121/245 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1776980981
+|move|p1a: Kommo-o|Swords Dance|p1a: Kommo-o
+|-boost|p1a: Kommo-o|atk|2
+|move|p2a: Raikou|Thunderbolt|p1a: Kommo-o
+|-resisted|p1a: Kommo-o
+|-crit|p1a: Kommo-o
+|-damage|p1a: Kommo-o|0 fnt
+|faint|p1a: Kommo-o
+|
+|-heal|p2a: Raikou|160/278|[from] item: Leftovers
+|upkeep
+|
+|t:|1776980988
+|switch|p1a: Crawdaunt|Crawdaunt, L84, F, tera:Water|124/243
+|turn|18
+|
+|t:|1776980994
+|move|p1a: Crawdaunt|Aqua Jet|p2a: Raikou
+|-damage|p2a: Raikou|72/278
+|move|p2a: Raikou|Thunderbolt|p1a: Crawdaunt
+|-supereffective|p1a: Crawdaunt
+|-damage|p1a: Crawdaunt|0 fnt
+|faint|p1a: Crawdaunt
+|
+|-heal|p2a: Raikou|89/278|[from] item: Leftovers
+|upkeep
+|
+|t:|1776981002
+|switch|p1a: Deoxys|Deoxys-Defense, L84|199/221
+|-ability|p1a: Deoxys|Pressure
+|turn|19
+|
+|t:|1776981008
+|move|p2a: Raikou|Thunderbolt|p1a: Deoxys
+|-damage|p1a: Deoxys|79/221
+|move|p1a: Deoxys|Psychic Noise|p2a: Raikou
+|-damage|p2a: Raikou|58/278
+|-start|p2a: Raikou|move: Heal Block
+|
+|-heal|p1a: Deoxys|92/221|[from] item: Leftovers
+|upkeep
+|turn|20
+|-message|ullllthy forfeited.
+|
+|win|LeNorm
+|raw|ullllthy's rating: 1938 &rarr; <strong>1919</strong><br />(-19 for losing)
+|raw|LeNorm's rating: 1959 &rarr; <strong>1978</strong><br />(+19 for winning)
+|l|☆ullllthy
+|player|p1|

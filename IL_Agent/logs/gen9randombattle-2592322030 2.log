@@ -1,0 +1,440 @@
+|j|☆rubikshowdown
+|j|☆CLY2009
+|t:|1776978742
+|gametype|singles
+|player|p1|rubikshowdown|265|1050
+|player|p2|CLY2009|bellelba|1099
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776978742
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Pelipper|Pelipper, L86, M|243/243
+|switch|p2a: Sneasler|Sneasler, L74, F|240/240
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|1
+|
+|t:|1776978759
+|move|p2a: Sneasler|Dire Claw|p1a: Pelipper
+|-damage|p1a: Pelipper|128/243
+|move|p1a: Pelipper|Hurricane|p2a: Sneasler
+|-supereffective|p2a: Sneasler
+|-crit|p2a: Sneasler
+|-damage|p2a: Sneasler|0 fnt
+|faint|p2a: Sneasler
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1776978769
+|switch|p2a: Clodsire|Clodsire, L81, F|343/343
+|turn|2
+|
+|t:|1776978777
+|move|p1a: Pelipper|Roost|p1a: Pelipper
+|-heal|p1a: Pelipper|243/243
+|-singleturn|p1a: Pelipper|move: Roost
+|move|p2a: Clodsire|Poison Jab|p1a: Pelipper
+|-damage|p1a: Pelipper|180/243
+|-status|p1a: Pelipper|psn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Pelipper|150/243 psn|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1776978800
+|move|p1a: Pelipper|U-turn|p2a: Clodsire
+|-resisted|p2a: Clodsire
+|-damage|p2a: Clodsire|321/343
+|
+|t:|1776978803
+|switch|p1a: Forretress|Forretress, L84, F|263/263|[from] U-turn
+|move|p2a: Clodsire|Poison Jab|p1a: Forretress
+|-immune|p1a: Forretress
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Clodsire|342/343|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776978813
+|move|p1a: Forretress|Stealth Rock|p2a: Clodsire
+|-sidestart|p2: CLY2009|move: Stealth Rock
+|move|p2a: Clodsire|Earthquake|p1a: Forretress
+|-damage|p1a: Forretress|205/263
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Forretress|221/263|[from] item: Leftovers
+|-heal|p2a: Clodsire|343/343|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776978835
+|switch|p1a: Kommo-o|Kommo-o, L78, M|245/245
+|-terastallize|p2a: Clodsire|Flying
+|move|p2a: Clodsire|Earthquake|p1a: Kommo-o
+|-damage|p1a: Kommo-o|179/245
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1776978849
+|move|p1a: Kommo-o|Swords Dance|p1a: Kommo-o
+|-boost|p1a: Kommo-o|atk|2
+|move|p2a: Clodsire|Poison Jab|p1a: Kommo-o
+|-damage|p1a: Kommo-o|124/245
+|-status|p1a: Kommo-o|psn
+|
+|-damage|p1a: Kommo-o|94/245 psn|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1776978877
+|move|p1a: Kommo-o|Scale Shot|p2a: Clodsire
+|-damage|p2a: Clodsire|309/343
+|-damage|p2a: Clodsire|270/343
+|-damage|p2a: Clodsire|237/343
+|-damage|p2a: Clodsire|203/343
+|-damage|p2a: Clodsire|169/343
+|-hitcount|p2a: Clodsire|5
+|-unboost|p1a: Kommo-o|def|1
+|-boost|p1a: Kommo-o|spe|1
+|move|p2a: Clodsire|Earthquake|p1a: Kommo-o
+|-damage|p1a: Kommo-o|31/245 psn
+|
+|-heal|p2a: Clodsire|190/343|[from] item: Leftovers
+|-damage|p1a: Kommo-o|1/245 psn|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1776978893
+|move|p1a: Kommo-o|Scale Shot|p2a: Clodsire
+|-damage|p2a: Clodsire|154/343
+|-damage|p2a: Clodsire|117/343
+|-damage|p2a: Clodsire|81/343
+|-damage|p2a: Clodsire|47/343
+|-damage|p2a: Clodsire|14/343
+|-hitcount|p2a: Clodsire|5
+|-unboost|p1a: Kommo-o|def|1
+|-boost|p1a: Kommo-o|spe|1
+|move|p2a: Clodsire|Recover|p2a: Clodsire
+|-heal|p2a: Clodsire|186/343
+|
+|-heal|p2a: Clodsire|207/343|[from] item: Leftovers
+|-damage|p1a: Kommo-o|0 fnt|[from] psn
+|faint|p1a: Kommo-o
+|upkeep
+|
+|t:|1776978922
+|switch|p1a: Noctowl|Noctowl, L95, F|344/344
+|turn|9
+|
+|t:|1776978928
+|move|p1a: Noctowl|Calm Mind|p1a: Noctowl
+|-boost|p1a: Noctowl|spa|1
+|-boost|p1a: Noctowl|spd|1
+|move|p2a: Clodsire|Poison Jab|p1a: Noctowl
+|-damage|p1a: Noctowl|251/344
+|
+|-heal|p2a: Clodsire|228/343|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1776978941
+|move|p1a: Noctowl|Hurricane|p2a: Clodsire
+|-damage|p2a: Clodsire|93/343
+|-start|p2a: Clodsire|confusion
+|-activate|p2a: Clodsire|confusion
+|move|p2a: Clodsire|Poison Jab|p1a: Noctowl
+|-damage|p1a: Noctowl|166/344
+|
+|-heal|p2a: Clodsire|114/343|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776978951
+|move|p1a: Noctowl|Roost|p1a: Noctowl
+|-heal|p1a: Noctowl|338/344
+|-singleturn|p1a: Noctowl|move: Roost
+|-activate|p2a: Clodsire|confusion
+|move|p2a: Clodsire|Poison Jab|p1a: Noctowl
+|-damage|p1a: Noctowl|250/344
+|
+|-heal|p2a: Clodsire|135/343|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776978969
+|move|p1a: Noctowl|Calm Mind|p1a: Noctowl
+|-boost|p1a: Noctowl|spa|1
+|-boost|p1a: Noctowl|spd|1
+|-activate|p2a: Clodsire|confusion
+|-damage|p2a: Clodsire|103/343|[from] confusion
+|
+|-heal|p2a: Clodsire|124/343|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776978979
+|move|p1a: Noctowl|Hyper Voice|p2a: Clodsire
+|-damage|p2a: Clodsire|22/343
+|-activate|p2a: Clodsire|confusion
+|move|p2a: Clodsire|Recover|p2a: Clodsire
+|-heal|p2a: Clodsire|194/343
+|
+|-heal|p2a: Clodsire|215/343|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1776978988
+|move|p1a: Noctowl|Hurricane|p2a: Clodsire|[miss]
+|-miss|p1a: Noctowl|p2a: Clodsire
+|-end|p2a: Clodsire|confusion
+|move|p2a: Clodsire|Recover|p2a: Clodsire
+|-heal|p2a: Clodsire|343/343
+|
+|upkeep
+|turn|15
+|
+|t:|1776979001
+|move|p1a: Noctowl|Calm Mind|p1a: Noctowl
+|-boost|p1a: Noctowl|spa|1
+|-boost|p1a: Noctowl|spd|1
+|move|p2a: Clodsire|Poison Jab|p1a: Noctowl
+|-damage|p1a: Noctowl|165/344
+|
+|upkeep
+|turn|16
+|
+|t:|1776979008
+|move|p1a: Noctowl|Roost|p1a: Noctowl
+|-heal|p1a: Noctowl|337/344
+|-singleturn|p1a: Noctowl|move: Roost
+|move|p2a: Clodsire|Poison Jab|p1a: Noctowl
+|-damage|p1a: Noctowl|258/344
+|
+|upkeep
+|turn|17
+|
+|t:|1776979015
+|move|p1a: Noctowl|Hurricane|p2a: Clodsire
+|-damage|p2a: Clodsire|225/343
+|move|p2a: Clodsire|Poison Jab|p1a: Noctowl
+|-damage|p1a: Noctowl|167/344
+|
+|-heal|p2a: Clodsire|246/343|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1776979033
+|move|p1a: Noctowl|Hurricane|p2a: Clodsire
+|-damage|p2a: Clodsire|128/343
+|move|p2a: Clodsire|Earthquake|p1a: Noctowl
+|-immune|p1a: Noctowl
+|
+|-heal|p2a: Clodsire|149/343|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1776979044
+|move|p1a: Noctowl|Roost|p1a: Noctowl
+|-heal|p1a: Noctowl|339/344
+|-singleturn|p1a: Noctowl|move: Roost
+|move|p2a: Clodsire|Recover|p2a: Clodsire
+|-heal|p2a: Clodsire|321/343
+|
+|-heal|p2a: Clodsire|342/343|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1776979054
+|move|p1a: Noctowl|Calm Mind|p1a: Noctowl
+|-boost|p1a: Noctowl|spa|1
+|-boost|p1a: Noctowl|spd|1
+|move|p2a: Clodsire|Poison Jab|p1a: Noctowl
+|-damage|p1a: Noctowl|257/344
+|
+|-heal|p2a: Clodsire|343/343|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1776979061
+|move|p1a: Noctowl|Hurricane|p2a: Clodsire|[miss]
+|-miss|p1a: Noctowl|p2a: Clodsire
+|move|p2a: Clodsire|Poison Jab|p1a: Noctowl
+|-damage|p1a: Noctowl|176/344
+|-status|p1a: Noctowl|psn
+|
+|-damage|p1a: Noctowl|133/344 psn|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1776979070
+|move|p1a: Noctowl|Roost|p1a: Noctowl
+|-heal|p1a: Noctowl|305/344 psn
+|-singleturn|p1a: Noctowl|move: Roost
+|move|p2a: Clodsire|Poison Jab|p1a: Noctowl
+|-damage|p1a: Noctowl|214/344 psn
+|
+|-damage|p1a: Noctowl|171/344 psn|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1776979092
+|move|p1a: Noctowl|Hurricane|p2a: Clodsire
+|-damage|p2a: Clodsire|223/343
+|-start|p2a: Clodsire|confusion
+|-activate|p2a: Clodsire|confusion
+|-damage|p2a: Clodsire|191/343|[from] confusion
+|
+|-heal|p2a: Clodsire|212/343|[from] item: Leftovers
+|-damage|p1a: Noctowl|128/344 psn|[from] psn
+|upkeep
+|turn|24
+|
+|t:|1776979101
+|move|p1a: Noctowl|Roost|p1a: Noctowl
+|-heal|p1a: Noctowl|300/344 psn
+|-singleturn|p1a: Noctowl|move: Roost
+|-activate|p2a: Clodsire|confusion
+|-damage|p2a: Clodsire|183/343|[from] confusion
+|
+|-heal|p2a: Clodsire|204/343|[from] item: Leftovers
+|-damage|p1a: Noctowl|257/344 psn|[from] psn
+|upkeep
+|turn|25
+|
+|t:|1776979110
+|move|p1a: Noctowl|Hyper Voice|p2a: Clodsire
+|-damage|p2a: Clodsire|96/343
+|-activate|p2a: Clodsire|confusion
+|move|p2a: Clodsire|Recover|p2a: Clodsire
+|-heal|p2a: Clodsire|268/343
+|
+|-heal|p2a: Clodsire|289/343|[from] item: Leftovers
+|-damage|p1a: Noctowl|214/344 psn|[from] psn
+|upkeep
+|turn|26
+|c|☆rubikshowdown|how is it not dying
+|
+|t:|1776979122
+|move|p1a: Noctowl|Hurricane|p2a: Clodsire
+|-damage|p2a: Clodsire|163/343
+|-end|p2a: Clodsire|confusion
+|move|p2a: Clodsire|Poison Jab|p1a: Noctowl
+|-damage|p1a: Noctowl|121/344 psn
+|
+|-heal|p2a: Clodsire|184/343|[from] item: Leftovers
+|-damage|p1a: Noctowl|78/344 psn|[from] psn
+|upkeep
+|turn|27
+|c|☆CLY2009|bro idk
+|c|☆CLY2009|how r u not dead
+|
+|t:|1776979138
+|move|p1a: Noctowl|Hurricane|p2a: Clodsire
+|-damage|p2a: Clodsire|66/343
+|move|p2a: Clodsire|Earthquake|p1a: Noctowl
+|-immune|p1a: Noctowl
+|
+|-heal|p2a: Clodsire|87/343|[from] item: Leftovers
+|-damage|p1a: Noctowl|35/344 psn|[from] psn
+|upkeep
+|turn|28
+|c|☆rubikshowdown|tf u mean
+|
+|t:|1776979148
+|move|p1a: Noctowl|Hurricane|p2a: Clodsire|[miss]
+|-miss|p1a: Noctowl|p2a: Clodsire
+|move|p2a: Clodsire|Recover|p2a: Clodsire
+|-heal|p2a: Clodsire|259/343
+|
+|-heal|p2a: Clodsire|280/343|[from] item: Leftovers
+|-damage|p1a: Noctowl|0 fnt|[from] psn
+|faint|p1a: Noctowl
+|upkeep
+|c|☆rubikshowdown|bro
+|c|☆rubikshowdown|thats crazy
+|c|☆CLY2009|that took too long
+|c|☆rubikshowdown|why did i deal so little dmg
+|c|☆CLY2009|I have good spd
+|
+|t:|1776979197
+|switch|p1a: Pyroar|Pyroar, L88, F|295/295
+|-ability|p1a: Pyroar|Unnerve
+|turn|29
+|
+|t:|1776979202
+|move|p1a: Pyroar|Taunt|p2a: Clodsire
+|-start|p2a: Clodsire|move: Taunt
+|move|p2a: Clodsire|Earthquake|p1a: Pyroar
+|-supereffective|p1a: Pyroar
+|-damage|p1a: Pyroar|125/295
+|
+|-heal|p2a: Clodsire|301/343|[from] item: Leftovers
+|upkeep
+|turn|30
+|c|☆rubikshowdown|even then
+|c|☆rubikshowdown|i shoul'dve like
+|c|☆rubikshowdown|2 shot u
+|c|☆rubikshowdown|lmao
+|
+|t:|1776979236
+|switch|p1a: Latias|Latias, L79, F|256/256
+|move|p2a: Clodsire|Poison Jab|p1a: Latias
+|-damage|p1a: Latias|189/256
+|
+|-heal|p2a: Clodsire|322/343|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1776979250
+|move|p1a: Latias|Calm Mind|p1a: Latias
+|-boost|p1a: Latias|spa|1
+|-boost|p1a: Latias|spd|1
+|move|p2a: Clodsire|Poison Jab|p1a: Latias
+|-damage|p1a: Latias|120/256
+|
+|-heal|p2a: Clodsire|343/343|[from] item: Leftovers
+|-end|p2a: Clodsire|move: Taunt
+|upkeep
+|turn|32
+|
+|t:|1776979258
+|move|p1a: Latias|Recover|p1a: Latias
+|-heal|p1a: Latias|248/256
+|move|p2a: Clodsire|Poison Jab|p1a: Latias
+|-damage|p1a: Latias|182/256
+|-status|p1a: Latias|psn
+|
+|-damage|p1a: Latias|150/256 psn|[from] psn
+|upkeep
+|turn|33
+|
+|t:|1776979270
+|move|p1a: Latias|Psyshock|p2a: Clodsire
+|-damage|p2a: Clodsire|219/343
+|move|p2a: Clodsire|Poison Jab|p1a: Latias
+|-damage|p1a: Latias|75/256 psn
+|
+|-heal|p2a: Clodsire|240/343|[from] item: Leftovers
+|-damage|p1a: Latias|43/256 psn|[from] psn
+|upkeep
+|turn|34
+|-message|rubikshowdown forfeited.
+|
+|win|CLY2009
+|raw|rubikshowdown's rating: 1050 &rarr; <strong>1035</strong><br />(-15 for losing)
+|raw|CLY2009's rating: 1099 &rarr; <strong>1121</strong><br />(+22 for winning)
+|l|☆rubikshowdown
+|player|p1|
+|c|☆CLY2009|gg
