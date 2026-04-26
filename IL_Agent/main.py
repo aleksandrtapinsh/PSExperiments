@@ -155,7 +155,7 @@ def main() -> None:
     if model_type == "nn":
         move_model = _abs("models/move_model.keras")
         switch_model = _abs("models/switch_model.keras")
-        logger.info(f"Loading neural network models")
+        logger.info(f"Loading neural network model")
     else:
         move_model = _abs("models/rf_move_model.pk1")
         switch_model = _abs("models/rf_switch_model.pk1")

@@ -64,9 +64,6 @@ class ILPlayer(Player):
         self._battle_count  = 0
         self._recent_wins: List[int] = []
 
-        print(f"IN AGENT.PY {self.move_model}")
-        print(f"IN AGENT.PY {self.switch_model}")
-
         # TensorBoard writer — optional, gracefully skipped if unavailable
         try:
             from torch.utils.tensorboard import SummaryWriter
@@ -75,11 +72,20 @@ class ILPlayer(Player):
             self._writer = None
 
         if self.move_model and self.switch_model:
-            using = "move + switch Keras models"
+            if (move_model_path.endswith(".keras")):
+                using = "move + switch model using keras (NN)"
+            else:
+                using = "move + switch model using sklearn (RF)"
         elif self.move_model:
-            using = "move Keras model (switch model missing — force-switches will be random)"
+            if (move_model_path.endswith(".keras")):
+                using = "move model using keras (NN) (Switches are random)"
+            else:
+                using = "move model using sklearn (RF) (Switches are random)"
         elif self.switch_model:
-            using = "switch Keras model (move model missing — moves will be random)"
+            if (move_model_path.endswith(".keras")):
+                using = "switch model using keras (NN) (Moves are random)"
+            else:
+                using = "switch model using sklearn (RF) (Moves are random)"
         else:
             using = "random play (no models loaded)"
         logger.info(f"ILPlayer initialised — {using}.")
@@ -91,10 +97,8 @@ class ILPlayer(Player):
     @staticmethod
     def _load_model(path: str) -> Optional[Any]:
         if (path.endswith(".keras")):
-            logger.info("Loading Neural Network _load_model")
             return ILPlayer._load_keras_model(path)
         elif (path.endswith(".pk1")):
-            logger.info("Loading Random Forest _load_model")
             return ILPlayer._load_sklearn_model(path)
     
     @staticmethod
