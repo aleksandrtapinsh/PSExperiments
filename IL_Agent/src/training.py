@@ -220,7 +220,7 @@ def load_and_vectorize(path):
 import tensorflow as tf
 import pickle
 from sklearn.ensemble import RandomForestClassifier
-from sklearn.metrics import accuracy_score, classification_report
+from sklearn.metrics import accuracy_score, classification_report, ConfusionMatrixDisplay
 from sklearn.model_selection import train_test_split
 
 MODEL_DIR = Path(__file__).parent.parent / "models"
@@ -323,8 +323,11 @@ y_pred_move = rf_move.predict(X_test_move)
 accuracy = accuracy_score(y_test_move, y_pred_move)
 
 print(f"Model accuracy: {accuracy:.4f}")
-print("\nClassification Report:")
-print(classification_report(y_test_move, y_pred_move))
+print("\nConfusion Matrix:")
+cm = confusion_matrix(y_test_move, y_pred_move, labels=rf_move.classes_)
+disp = ConfusionMatrixDisplay(confusion_matrix=cm)
+disp.plot()
+plt.show()
 
 # Save random forest move model
 with open(MODEL_DIR / 'rf_move_model.pk1', 'wb') as f:
@@ -380,13 +383,16 @@ X_train_switch, X_test_switch, y_train_switch, y_test_switch = train_test_split(
 rf_switch = build_rf_model(X_train_switch, y_train_switch)
 
 # Evaluate rf_switch
-y_pred_switch = rf_move.predict(X_test_switch)
+y_pred_switch = rf_switch.predict(X_test_switch)
 accuracy = accuracy_score(y_test_switch, y_pred_switch)
 
 
 print(f"Model accuracy: {accuracy:.4f}")
-print("\nClassification Report:")
-print(classification_report(y_test_switch, y_pred_switch))
+print("\nConfusion Matrix:")
+cm = confusion_matrix(y_test_switch, y_pred_switch, labels=rf_switch.classes_)
+disp = ConfusionMatrixDisplay(confusion_matrix=cm)
+disp.plot()
+plt.show()
 
 # Save random forest switch model
 with open(MODEL_DIR / 'rf_switch_model.pk1', 'wb') as f:
