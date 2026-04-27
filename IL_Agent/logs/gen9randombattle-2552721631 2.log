@@ -1,0 +1,177 @@
+|j|☆Somsnosa
+|j|☆gettoon
+|t:|1772746775
+|gametype|singles
+|player|p1|Somsnosa|erika|1663
+|player|p2|gettoon|170|1621
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772746775
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Hitmontop|Hitmontop, L88, M|231/231
+|switch|p2a: Porygon-Z|Porygon-Z, L83|277/277
+|-ability|p1a: Hitmontop|Intimidate|boost
+|-unboost|p2a: Porygon-Z|atk|1
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Somsnosa)
+|inactive|gettoon has 120 seconds left.
+|
+|t:|1772746815
+|switch|p2a: Skarmory|Skarmory, L80, M|235/235
+|move|p1a: Hitmontop|Close Combat|p2a: Skarmory
+|-damage|p2a: Skarmory|141/235
+|-unboost|p1a: Hitmontop|def|1
+|-unboost|p1a: Hitmontop|spd|1
+|
+|-heal|p2a: Skarmory|155/235|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1772746835
+|switch|p1a: Incineroar|Incineroar, L82, F|290/290
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Skarmory|atk|1
+|move|p2a: Skarmory|Roost|p2a: Skarmory
+|-heal|p2a: Skarmory|235/235
+|-singleturn|p2a: Skarmory|move: Roost
+|
+|upkeep
+|turn|3
+|
+|t:|1772746845
+|switch|p2a: Crawdaunt|Crawdaunt, L84, F|243/243
+|move|p1a: Incineroar|Swords Dance|p1a: Incineroar
+|-boost|p1a: Incineroar|atk|2
+|
+|upkeep
+|turn|4
+|
+|t:|1772746852
+|-terastallize|p1a: Incineroar|Grass
+|move|p1a: Incineroar|Trailblaze|p2a: Crawdaunt
+|-supereffective|p2a: Crawdaunt
+|-damage|p2a: Crawdaunt|0 fnt
+|-boost|p1a: Incineroar|spe|1
+|faint|p2a: Crawdaunt
+|
+|upkeep
+|
+|t:|1772746866
+|switch|p2a: Kilowattrel|Kilowattrel, L83, M|252/252
+|turn|5
+|
+|t:|1772746869
+|-terastallize|p2a: Kilowattrel|Water
+|move|p2a: Kilowattrel|Hurricane|p1a: Incineroar
+|-supereffective|p1a: Incineroar
+|-damage|p1a: Incineroar|24/290
+|move|p1a: Incineroar|Flare Blitz|p2a: Kilowattrel
+|-resisted|p2a: Kilowattrel
+|-damage|p2a: Kilowattrel|57/252
+|-damage|p1a: Incineroar|0 fnt|[from] Recoil
+|faint|p1a: Incineroar
+|
+|upkeep
+|
+|t:|1772746881
+|switch|p1a: Deoxys|Deoxys-Speed, L82|216/216
+|-ability|p1a: Deoxys|Pressure
+|turn|6
+|
+|t:|1772746885
+|switch|p2a: Girafarig|Girafarig, L89, M|269/269
+|move|p1a: Deoxys|Dark Pulse|p2a: Girafarig
+|-supereffective|p2a: Girafarig
+|-damage|p2a: Girafarig|162/269
+|-damage|p1a: Deoxys|195/216|[from] item: Life Orb
+|
+|upkeep
+|turn|7
+|
+|t:|1772746895
+|move|p1a: Deoxys|Nasty Plot|p1a: Deoxys
+|-boost|p1a: Deoxys|spa|2
+|move|p2a: Girafarig|Shadow Ball|p1a: Deoxys
+|-supereffective|p1a: Deoxys
+|-damage|p1a: Deoxys|79/216
+|
+|upkeep
+|turn|8
+|
+|t:|1772746900
+|move|p1a: Deoxys|Dark Pulse|p2a: Girafarig
+|-supereffective|p2a: Girafarig
+|-damage|p2a: Girafarig|0 fnt
+|faint|p2a: Girafarig
+|-damage|p1a: Deoxys|58/216|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772746909
+|switch|p2a: Skarmory|Skarmory, L80, M|235/235
+|turn|9
+|
+|t:|1772746914
+|move|p1a: Deoxys|Focus Blast|p2a: Skarmory
+|-ability|p2a: Skarmory|Sturdy
+|-damage|p2a: Skarmory|1/235
+|-damage|p1a: Deoxys|37/216|[from] item: Life Orb
+|move|p2a: Skarmory|Brave Bird|p1a: Deoxys
+|-damage|p1a: Deoxys|0 fnt
+|faint|p1a: Deoxys
+|-damage|p2a: Skarmory|0 fnt|[from] Recoil
+|faint|p2a: Skarmory
+|
+|upkeep
+|
+|t:|1772746924
+|switch|p1a: Girafarig|Girafarig, L89, F|269/269
+|switch|p2a: Kilowattrel|Kilowattrel, L83, M, tera:Water|57/252
+|turn|10
+|
+|t:|1772746930
+|move|p2a: Kilowattrel|U-turn|p1a: Girafarig
+|-supereffective|p1a: Girafarig
+|-damage|p1a: Girafarig|207/269
+|
+|t:|1772746932
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, L76, F|247/247|[from] U-turn
+|move|p1a: Girafarig|Nasty Plot|p1a: Girafarig
+|-boost|p1a: Girafarig|spa|2
+|
+|upkeep
+|turn|11
+|
+|t:|1772746941
+|move|p2a: Ogerpon|Swords Dance|p2a: Ogerpon
+|-boost|p2a: Ogerpon|atk|2
+|move|p1a: Girafarig|Hyper Voice|p2a: Ogerpon
+|-damage|p2a: Ogerpon|24/247
+|
+|upkeep
+|turn|12
+|
+|t:|1772746949
+|move|p2a: Ogerpon|Power Whip|p1a: Girafarig
+|-ability|p1a: Girafarig|Sap Sipper|boost
+|-boost|p1a: Girafarig|atk|1
+|move|p1a: Girafarig|Hyper Voice|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|upkeep
+|-message|gettoon forfeited.
+|
+|win|Somsnosa
+|raw|Somsnosa's rating: 1663 &rarr; <strong>1681</strong><br />(+18 for winning)
+|raw|gettoon's rating: 1621 &rarr; <strong>1603</strong><br />(-18 for losing)
+|l|☆gettoon
+|player|p2|

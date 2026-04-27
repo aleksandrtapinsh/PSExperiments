@@ -1,0 +1,223 @@
+|j|☆leffend
+|j|☆manofcheese144
+|t:|1772745273
+|gametype|singles
+|player|p1|leffend|169|1512
+|player|p2|manofcheese144|gentleman-gen4dp|1537
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772745273
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Gastrodon|Gastrodon-East, L86, F|331/331
+|switch|p2a: Vikavolt|Vikavolt, L83, M|263/263
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by manofcheese144)
+|
+|t:|1772745291
+|move|p2a: Vikavolt|Energy Ball|p1a: Gastrodon
+|-supereffective|p1a: Gastrodon
+|-damage|p1a: Gastrodon|0 fnt
+|faint|p1a: Gastrodon
+|
+|upkeep
+|
+|t:|1772745296
+|switch|p1a: Charizard|Charizard, L85, M|271/271
+|turn|2
+|
+|t:|1772745299
+|move|p1a: Charizard|Flare Blitz|p2a: Vikavolt
+|-supereffective|p2a: Vikavolt
+|-damage|p2a: Vikavolt|5/263
+|-damage|p1a: Charizard|186/271|[from] Recoil
+|move|p2a: Vikavolt|Discharge|p1a: Charizard
+|-supereffective|p1a: Charizard
+|-damage|p1a: Charizard|0 fnt
+|faint|p1a: Charizard
+|
+|upkeep
+|
+|t:|1772745316
+|switch|p1a: Bellibolt|Bellibolt, L84, F|320/320
+|turn|3
+|
+|t:|1772745319
+|move|p1a: Bellibolt|Thunderbolt|p2a: Vikavolt
+|-resisted|p2a: Vikavolt
+|-damage|p2a: Vikavolt|0 fnt
+|faint|p2a: Vikavolt
+|
+|upkeep
+|
+|t:|1772745324
+|switch|p2a: Froslass|Froslass, L87, F|263/263
+|turn|4
+|
+|t:|1772745336
+|move|p2a: Froslass|Spikes|p1a: Bellibolt
+|-sidestart|p1: leffend|Spikes
+|move|p1a: Bellibolt|Muddy Water|p2a: Froslass
+|-damage|p2a: Froslass|194/263
+|
+|upkeep
+|turn|5
+|
+|t:|1772745342
+|move|p2a: Froslass|Spikes|p1a: Bellibolt
+|-sidestart|p1: leffend|Spikes
+|move|p1a: Bellibolt|Thunderbolt|p2a: Froslass
+|-damage|p2a: Froslass|79/263
+|
+|upkeep
+|turn|6
+|
+|t:|1772745347
+|move|p2a: Froslass|Destiny Bond|p2a: Froslass
+|-singlemove|p2a: Froslass|Destiny Bond
+|move|p1a: Bellibolt|Thunderbolt|p2a: Froslass
+|-crit|p2a: Froslass
+|-damage|p2a: Froslass|0 fnt
+|faint|p2a: Froslass
+|-activate|p2a: Froslass|move: Destiny Bond
+|faint|p1a: Bellibolt
+|
+|upkeep
+|
+|t:|1772745353
+|switch|p2a: Hitmonchan|Hitmonchan, L87, M|229/229
+|switch|p1a: Overqwil|Overqwil, L82, F|274/274
+|-damage|p1a: Overqwil|229/274|[from] Spikes
+|-ability|p1a: Overqwil|Intimidate|boost
+|-unboost|p2a: Hitmonchan|atk|1
+|turn|7
+|
+|t:|1772745360
+|move|p1a: Overqwil|Swords Dance|p1a: Overqwil
+|-boost|p1a: Overqwil|atk|2
+|move|p2a: Hitmonchan|Knock Off|p1a: Overqwil
+|-resisted|p1a: Overqwil
+|-damage|p1a: Overqwil|206/274
+|-enditem|p1a: Overqwil|Loaded Dice|[from] move: Knock Off|[of] p2a: Hitmonchan
+|
+|upkeep
+|turn|8
+|
+|t:|1772745366
+|switch|p2a: Snorlax|Snorlax, L82, M|397/397
+|move|p1a: Overqwil|Scale Shot|p2a: Snorlax
+|-damage|p2a: Snorlax|351/397
+|-damage|p2a: Snorlax|300/397
+|-damage|p2a: Snorlax|248/397
+|-damage|p2a: Snorlax|200/397
+|-hitcount|p2a: Snorlax|4
+|-unboost|p1a: Overqwil|def|1
+|-boost|p1a: Overqwil|spe|1
+|
+|-heal|p2a: Snorlax|224/397|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1772745378
+|move|p1a: Overqwil|Crunch|p2a: Snorlax
+|-damage|p2a: Snorlax|0 fnt
+|faint|p2a: Snorlax
+|
+|upkeep
+|
+|t:|1772745382
+|switch|p2a: Hitmonchan|Hitmonchan, L87, M|229/229
+|turn|10
+|
+|t:|1772745390
+|-terastallize|p2a: Hitmonchan|Steel
+|move|p1a: Overqwil|Gunk Shot|p2a: Hitmonchan
+|-immune|p2a: Hitmonchan
+|move|p2a: Hitmonchan|Drain Punch|p1a: Overqwil
+|-damage|p1a: Overqwil|47/274
+|
+|upkeep
+|turn|11
+|
+|t:|1772745397
+|move|p1a: Overqwil|Crunch|p2a: Hitmonchan
+|-damage|p2a: Hitmonchan|49/229
+|-unboost|p2a: Hitmonchan|def|1
+|move|p2a: Hitmonchan|Drain Punch|p1a: Overqwil
+|-damage|p1a: Overqwil|0 fnt
+|-heal|p2a: Hitmonchan|73/229|[from] drain|[of] p1a: Overqwil
+|faint|p1a: Overqwil
+|
+|upkeep
+|
+|t:|1772745415
+|switch|p1a: Koraidon|Koraidon, L64|235/235
+|-damage|p1a: Koraidon|196/235|[from] Spikes
+|-weather|SunnyDay|[from] ability: Orichalcum Pulse|[of] p1a: Koraidon
+|-activate|p1a: Koraidon|Orichalcum Pulse|[source]
+|turn|12
+|
+|t:|1772745419
+|move|p1a: Koraidon|Flare Blitz|p2a: Hitmonchan
+|-supereffective|p2a: Hitmonchan
+|-damage|p2a: Hitmonchan|0 fnt
+|faint|p2a: Hitmonchan
+|-damage|p1a: Koraidon|172/235|[from] Recoil
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1772745422
+|switch|p2a: Blastoise|Blastoise, L80, M|258/258
+|turn|13
+|
+|t:|1772745427
+|switch|p1a: Flapple|Flapple, L88, F|266/266
+|-damage|p1a: Flapple|222/266|[from] Spikes
+|move|p2a: Blastoise|Shell Smash|p2a: Blastoise
+|-unboost|p2a: Blastoise|def|1
+|-unboost|p2a: Blastoise|spd|1
+|-boost|p2a: Blastoise|atk|2
+|-boost|p2a: Blastoise|spa|2
+|-boost|p2a: Blastoise|spe|2
+|-enditem|p2a: Blastoise|White Herb
+|-clearnegativeboost|p2a: Blastoise|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1772745431
+|move|p2a: Blastoise|Ice Beam|p1a: Flapple
+|-supereffective|p1a: Flapple
+|-damage|p1a: Flapple|0 fnt
+|faint|p1a: Flapple
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1772745434
+|switch|p1a: Koraidon|Koraidon, L64|172/235
+|-damage|p1a: Koraidon|133/235|[from] Spikes
+|-activate|p1a: Koraidon|ability: Orichalcum Pulse
+|turn|15
+|
+|t:|1772745437
+|move|p2a: Blastoise|Ice Beam|p1a: Koraidon
+|-supereffective|p1a: Koraidon
+|-damage|p1a: Koraidon|0 fnt
+|faint|p1a: Koraidon
+|
+|win|manofcheese144
+|raw|leffend's rating: 1512 &rarr; <strong>1493</strong><br />(-19 for losing)
+|raw|manofcheese144's rating: 1537 &rarr; <strong>1556</strong><br />(+19 for winning)
+|c|☆manofcheese144|gg
+|l|☆leffend
+|player|p1|

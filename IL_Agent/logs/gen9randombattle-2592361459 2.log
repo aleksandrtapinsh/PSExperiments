@@ -1,0 +1,254 @@
+|j|☆m0untaineer
+|j|‽evilkingoffoulplay
+|t:|1776982136
+|gametype|singles
+|player|p1|m0untaineer|266|1830
+|player|p2|evilkingoffoulplay|lillie|1859
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776982136
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ribombee|Ribombee, L83, F|235/235
+|switch|p2a: Arceus|Arceus-Ground, L70|284/284
+|turn|1
+|
+|t:|1776982158
+|switch|p1a: Bruxish|Bruxish, L85, F|254/254
+|move|p2a: Arceus|Stone Edge|p1a: Bruxish
+|-damage|p1a: Bruxish|181/254
+|
+|upkeep
+|turn|2
+|
+|t:|1776982168
+|switch|p2a: Clodsire|Clodsire, L81, F|343/343
+|move|p1a: Bruxish|Flip Turn|p2a: Clodsire
+|-immune|p2a: Clodsire|[from] ability: Water Absorb
+|
+|upkeep
+|turn|3
+|
+|t:|1776982179
+|switch|p1a: Sandaconda|Sandaconda, L84, M|258/258
+|switch|p2a: Chandelure|Chandelure, L83, F|235/235
+|
+|upkeep
+|turn|4
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by evilkingoffoulplay)
+|
+|t:|1776982204
+|switch|p2a: Eiscue|Eiscue, L88, F|274/274
+|switch|p1a: Bruxish|Bruxish, L85, F|181/254
+|
+|upkeep
+|turn|5
+|
+|t:|1776982229
+|move|p1a: Bruxish|Psychic Fangs|p2a: Eiscue
+|-activate|p2a: Eiscue|ability: Ice Face
+|-damage|p2a: Eiscue|274/274
+|detailschange|p2a: Eiscue|Eiscue-Noice, L88, F
+|move|p2a: Eiscue|Belly Drum|p2a: Eiscue
+|-damage|p2a: Eiscue|137/274
+|-setboost|p2a: Eiscue|atk|6|[from] move: Belly Drum
+|-enditem|p2a: Eiscue|Sitrus Berry|[eat]
+|-heal|p2a: Eiscue|205/274|[from] item: Sitrus Berry
+|
+|upkeep
+|turn|6
+|
+|t:|1776982243
+|-terastallize|p1a: Bruxish|Psychic
+|move|p1a: Bruxish|Psychic Fangs|p2a: Eiscue
+|-damage|p2a: Eiscue|0 fnt
+|faint|p2a: Eiscue
+|
+|upkeep
+|
+|t:|1776982255
+|switch|p2a: Sneasler|Sneasler, L74, F|240/240
+|turn|7
+|
+|t:|1776982280
+|-terastallize|p2a: Sneasler|Dark
+|move|p1a: Bruxish|Psychic Fangs|p2a: Sneasler
+|-immune|p2a: Sneasler
+|move|p2a: Sneasler|Throat Chop|p1a: Bruxish
+|-supereffective|p1a: Bruxish
+|-damage|p1a: Bruxish|0 fnt
+|faint|p1a: Bruxish
+|
+|upkeep
+|
+|t:|1776982289
+|switch|p1a: Ribombee|Ribombee, L83, F|235/235
+|turn|8
+|
+|t:|1776982307
+|switch|p1a: Sandaconda|Sandaconda, L84, M|258/258
+|switch|p2a: Clodsire|Clodsire, L81, F|343/343
+|
+|upkeep
+|turn|9
+|
+|t:|1776982321
+|move|p1a: Sandaconda|Coil|p1a: Sandaconda
+|-boost|p1a: Sandaconda|atk|1
+|-boost|p1a: Sandaconda|def|1
+|-boost|p1a: Sandaconda|accuracy|1
+|move|p2a: Clodsire|Toxic|p1a: Sandaconda
+|-status|p1a: Sandaconda|tox
+|
+|-damage|p1a: Sandaconda|242/258 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1776982326
+|switch|p2a: Arceus|Arceus-Ground, L70|284/284
+|move|p1a: Sandaconda|Earthquake|p2a: Arceus
+|-damage|p2a: Arceus|124/284
+|
+|-damage|p1a: Sandaconda|210/258 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1776982337
+|move|p2a: Arceus|Earthquake|p1a: Sandaconda
+|-damage|p1a: Sandaconda|158/258 tox
+|move|p1a: Sandaconda|Scale Shot|p2a: Arceus
+|-damage|p2a: Arceus|96/284
+|-damage|p2a: Arceus|67/284
+|-damage|p2a: Arceus|41/284
+|-damage|p2a: Arceus|14/284
+|-damage|p2a: Arceus|0 fnt
+|faint|p2a: Arceus
+|-hitcount|p2: Arceus|5
+|-unboost|p1a: Sandaconda|def|1
+|-boost|p1a: Sandaconda|spe|1
+|
+|-damage|p1a: Sandaconda|110/258 tox|[from] psn
+|upkeep
+|
+|t:|1776982353
+|switch|p2a: Chandelure|Chandelure, L83, F|235/235
+|turn|12
+|
+|t:|1776982360
+|switch|p1a: Goodra|Goodra, L85, M|292/292
+|move|p2a: Chandelure|Shadow Ball|p1a: Goodra
+|-damage|p1a: Goodra|241/292
+|
+|upkeep
+|turn|13
+|
+|t:|1776982381
+|switch|p2a: Clodsire|Clodsire, L81, F|343/343
+|move|p1a: Goodra|Dragon Tail|p2a: Clodsire
+|-damage|p2a: Clodsire|250/343
+|drag|p2a: Chandelure|Chandelure, L83, F|235/235
+|
+|upkeep
+|turn|14
+|
+|t:|1776982399
+|switch|p1a: Sandaconda|Sandaconda, L84, M|110/258 tox
+|move|p2a: Chandelure|Trick|p1a: Sandaconda
+|-activate|p2a: Chandelure|move: Trick|[of] p1a: Sandaconda
+|-item|p1a: Sandaconda|Choice Scarf|[from] move: Trick
+|-item|p2a: Chandelure|Loaded Dice|[from] move: Trick
+|
+|-activate|p1a: Sandaconda|ability: Shed Skin
+|-curestatus|p1a: Sandaconda|tox|[msg]
+|upkeep
+|turn|15
+|
+|t:|1776982420
+|switch|p2a: Sneasler|Sneasler, L74, F, tera:Dark|240/240
+|move|p1a: Sandaconda|Earthquake|p2a: Sneasler
+|-damage|p2a: Sneasler|71/240
+|
+|upkeep
+|turn|16
+|
+|t:|1776982427
+|move|p1a: Sandaconda|Earthquake|p2a: Sneasler
+|-damage|p2a: Sneasler|0 fnt
+|faint|p2a: Sneasler
+|
+|upkeep
+|
+|t:|1776982433
+|switch|p2a: Regidrago|Regidrago, L77|435/435
+|turn|17
+|
+|t:|1776982440
+|switch|p2a: Chandelure|Chandelure, L83, F|235/235
+|switch|p1a: Ribombee|Ribombee, L83, F|235/235
+|
+|upkeep
+|turn|18
+|
+|t:|1776982444
+|switch|p1a: Goodra|Goodra, L85, M|241/292
+|move|p2a: Chandelure|Fire Blast|p1a: Goodra
+|-resisted|p1a: Goodra
+|-damage|p1a: Goodra|205/292
+|-status|p1a: Goodra|brn
+|
+|-damage|p1a: Goodra|187/292 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1776982454
+|move|p1a: Goodra|Knock Off|p2a: Chandelure
+|-supereffective|p2a: Chandelure
+|-damage|p2a: Chandelure|164/235
+|-enditem|p2a: Chandelure|Loaded Dice|[from] move: Knock Off|[of] p1a: Goodra
+|move|p2a: Chandelure|Trick|p1a: Goodra
+|-activate|p2a: Chandelure|move: Trick|[of] p1a: Goodra
+|-enditem|p1a: Goodra|Assault Vest|[silent]|[from] move: Trick
+|-item|p2a: Chandelure|Assault Vest|[from] move: Trick
+|
+|-damage|p1a: Goodra|169/292 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1776982472
+|move|p1a: Goodra|Knock Off|p2a: Chandelure
+|-supereffective|p2a: Chandelure
+|-damage|p2a: Chandelure|93/235
+|-enditem|p2a: Chandelure|Assault Vest|[from] move: Knock Off|[of] p1a: Goodra
+|move|p2a: Chandelure|Shadow Ball|p1a: Goodra
+|-damage|p1a: Goodra|90/292 brn
+|
+|-damage|p1a: Goodra|72/292 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1776982478
+|move|p1a: Goodra|Draco Meteor|p2a: Chandelure
+|-damage|p2a: Chandelure|0 fnt
+|-unboost|p1a: Goodra|spa|2
+|faint|p2a: Chandelure
+|
+|-damage|p1a: Goodra|54/292 brn|[from] brn
+|upkeep
+|
+|t:|1776982482
+|switch|p2a: Clodsire|Clodsire, L81, F|250/343
+|turn|22
+|-message|evilkingoffoulplay forfeited.
+|
+|win|m0untaineer
+|raw|m0untaineer's rating: 1830 &rarr; <strong>1852</strong><br />(+22 for winning)
+|raw|evilkingoffoulplay's rating: 1859 &rarr; <strong>1837</strong><br />(-22 for losing)
+|l|‽evilkingoffoulplay
+|player|p2|

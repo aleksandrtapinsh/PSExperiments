@@ -1,0 +1,261 @@
+|j|☆xiomero
+|j|☆tydktgh
+|t:|1776970898
+|gametype|singles
+|player|p1|xiomero|lucas|1000
+|player|p2|tydktgh|170|1029
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776970898
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Poliwrath|Poliwrath, L88, F|302/302
+|switch|p2a: Clodsire|Clodsire, L81, F|343/343
+|turn|1
+|
+|t:|1776970914
+|move|p1a: Poliwrath|Bulk Up|p1a: Poliwrath
+|-boost|p1a: Poliwrath|atk|1
+|-boost|p1a: Poliwrath|def|1
+|move|p2a: Clodsire|Toxic|p1a: Poliwrath
+|-status|p1a: Poliwrath|tox
+|
+|-damage|p1a: Poliwrath|284/302 tox|[from] psn
+|upkeep
+|turn|2
+|
+|t:|1776970929
+|move|p1a: Poliwrath|Knock Off|p2a: Clodsire
+|-damage|p2a: Clodsire|247/343
+|-enditem|p2a: Clodsire|Leftovers|[from] move: Knock Off|[of] p1a: Poliwrath
+|move|p2a: Clodsire|Gunk Shot|p1a: Poliwrath
+|-damage|p1a: Poliwrath|194/302 tox
+|
+|-heal|p1a: Poliwrath|212/302 tox|[from] item: Leftovers
+|-damage|p1a: Poliwrath|176/302 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1776970941
+|move|p1a: Poliwrath|Drain Punch|p2a: Clodsire
+|-resisted|p2a: Clodsire
+|-damage|p2a: Clodsire|193/343
+|-heal|p1a: Poliwrath|203/302 tox|[from] drain|[of] p2a: Clodsire
+|move|p2a: Clodsire|Earthquake|p1a: Poliwrath
+|-damage|p1a: Poliwrath|130/302 tox
+|
+|-heal|p1a: Poliwrath|148/302 tox|[from] item: Leftovers
+|-damage|p1a: Poliwrath|94/302 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1776970953
+|move|p1a: Poliwrath|Drain Punch|p2a: Clodsire
+|-resisted|p2a: Clodsire
+|-damage|p2a: Clodsire|132/343
+|-heal|p1a: Poliwrath|125/302 tox|[from] drain|[of] p2a: Clodsire
+|move|p2a: Clodsire|Recover|p2a: Clodsire
+|-heal|p2a: Clodsire|304/343
+|
+|-heal|p1a: Poliwrath|143/302 tox|[from] item: Leftovers
+|-damage|p1a: Poliwrath|71/302 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1776970967
+|move|p1a: Poliwrath|Drain Punch|p2a: Clodsire
+|-resisted|p2a: Clodsire
+|-damage|p2a: Clodsire|242/343
+|-heal|p1a: Poliwrath|102/302 tox|[from] drain|[of] p2a: Clodsire
+|move|p2a: Clodsire|Recover|p2a: Clodsire
+|-heal|p2a: Clodsire|343/343
+|
+|-heal|p1a: Poliwrath|120/302 tox|[from] item: Leftovers
+|-damage|p1a: Poliwrath|30/302 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1776970980
+|move|p1a: Poliwrath|Drain Punch|p2a: Clodsire
+|-resisted|p2a: Clodsire
+|-damage|p2a: Clodsire|280/343
+|-heal|p1a: Poliwrath|62/302 tox|[from] drain|[of] p2a: Clodsire
+|move|p2a: Clodsire|Earthquake|p1a: Poliwrath
+|-damage|p1a: Poliwrath|0 fnt
+|faint|p1a: Poliwrath
+|
+|upkeep
+|
+|t:|1776970998
+|switch|p1a: Hatterene|Hatterene, L85, F|236/236
+|turn|7
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by tydktgh)
+|
+|t:|1776971015
+|-terastallize|p1a: Hatterene|Steel
+|move|p1a: Hatterene|Psychic|p2a: Clodsire
+|-supereffective|p2a: Clodsire
+|-damage|p2a: Clodsire|58/343
+|move|p2a: Clodsire|Toxic|p1a: Hatterene
+|move|p1a: Hatterene|Toxic|p2a: Clodsire|[from] ability: Magic Bounce
+|-immune|p2a: Clodsire
+|
+|upkeep
+|turn|8
+|
+|t:|1776971028
+|move|p1a: Hatterene|Psychic|p2a: Clodsire
+|-supereffective|p2a: Clodsire
+|-damage|p2a: Clodsire|0 fnt
+|faint|p2a: Clodsire
+|
+|upkeep
+|
+|t:|1776971046
+|switch|p2a: Ting-Lu|Ting-Lu, L78|370/370
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|turn|9
+|
+|t:|1776971063
+|move|p2a: Ting-Lu|Earthquake|p1a: Hatterene
+|-supereffective|p1a: Hatterene
+|-damage|p1a: Hatterene|60/236
+|move|p1a: Hatterene|Psychic|p2a: Ting-Lu
+|-immune|p2a: Ting-Lu
+|
+|upkeep
+|turn|10
+|
+|t:|1776971074
+|switch|p1a: Volbeat|Volbeat, L90, M|263/263
+|move|p2a: Ting-Lu|Earthquake|p1a: Volbeat
+|-resisted|p1a: Volbeat
+|-damage|p1a: Volbeat|209/263
+|
+|upkeep
+|turn|11
+|inactive|tydktgh has 120 seconds left.
+|
+|t:|1776971099
+|-terastallize|p2a: Ting-Lu|Poison
+|move|p1a: Volbeat|Thunder Wave|p2a: Ting-Lu|[miss]
+|-miss|p1a: Volbeat|p2a: Ting-Lu
+|move|p2a: Ting-Lu|Ruination|p1a: Volbeat
+|-damage|p1a: Volbeat|105/263
+|
+|upkeep
+|turn|12
+|inactive|tydktgh has 120 seconds left.
+|
+|t:|1776971111
+|move|p1a: Volbeat|Roost|p1a: Volbeat
+|-heal|p1a: Volbeat|237/263
+|-singleturn|p1a: Volbeat|move: Roost
+|move|p2a: Ting-Lu|Heavy Slam|p1a: Volbeat
+|-damage|p1a: Volbeat|149/263
+|
+|upkeep
+|turn|13
+|
+|t:|1776971122
+|move|p1a: Volbeat|Thunder Wave|p2a: Ting-Lu
+|-status|p2a: Ting-Lu|par
+|cant|p2a: Ting-Lu|par
+|
+|upkeep
+|turn|14
+|inactive|xiomero has 120 seconds left.
+|
+|t:|1776971166
+|switch|p1a: Blaziken|Blaziken, L76, F|247/247
+|cant|p2a: Ting-Lu|par
+|
+|upkeep
+|turn|15
+|
+|t:|1776971178
+|move|p1a: Blaziken|Swords Dance|p1a: Blaziken
+|-boost|p1a: Blaziken|atk|2
+|move|p2a: Ting-Lu|Earthquake|p1a: Blaziken
+|-supereffective|p1a: Blaziken
+|-crit|p1a: Blaziken
+|-damage|p1a: Blaziken|0 fnt
+|faint|p1a: Blaziken
+|
+|upkeep
+|
+|t:|1776971190
+|switch|p1a: Maushold|Maushold, L76|238/238
+|turn|16
+|
+|t:|1776971201
+|move|p1a: Maushold|Bite|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|335/370 par
+|cant|p2a: Ting-Lu|flinch
+|
+|upkeep
+|turn|17
+|inactive|xiomero has 90 seconds left.
+|inactive|xiomero has 60 seconds left.
+|
+|t:|1776971267
+|move|p1a: Maushold|Population Bomb|p2a: Ting-Lu
+|-crit|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|307/370 par
+|-damage|p2a: Ting-Lu|289/370 par
+|-damage|p2a: Ting-Lu|270/370 par
+|-damage|p2a: Ting-Lu|251/370 par
+|-damage|p2a: Ting-Lu|230/370 par
+|-damage|p2a: Ting-Lu|212/370 par
+|-crit|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|184/370 par
+|-damage|p2a: Ting-Lu|165/370 par
+|-damage|p2a: Ting-Lu|147/370 par
+|-damage|p2a: Ting-Lu|128/370 par
+|-hitcount|p2a: Ting-Lu|10
+|move|p2a: Ting-Lu|Ruination|p1a: Maushold
+|-damage|p1a: Maushold|119/238
+|
+|upkeep
+|turn|18
+|
+|t:|1776971289
+|move|p1a: Maushold|Population Bomb|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|107/370 par
+|-damage|p2a: Ting-Lu|89/370 par
+|-damage|p2a: Ting-Lu|73/370 par
+|-damage|p2a: Ting-Lu|54/370 par
+|-crit|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|26/370 par
+|-damage|p2a: Ting-Lu|8/370 par
+|-damage|p2a: Ting-Lu|0 fnt
+|faint|p2a: Ting-Lu
+|-hitcount|p2: Ting-Lu|7
+|
+|upkeep
+|inactive|tydktgh has 120 seconds left.
+|inactive|tydktgh has 90 seconds left.
+|
+|t:|1776971343
+|switch|p2a: Pecharunt|Pecharunt, L77|262/262
+|turn|19
+|inactive|tydktgh has 90 seconds left.
+|inactive|xiomero has 30 seconds left.
+|inactive|xiomero has 20 seconds left.
+|inactive|xiomero has 15 seconds left.
+|inactive|xiomero has 10 seconds left.
+|inactive|xiomero has 5 seconds left.
+|-message|xiomero lost due to inactivity.
+|
+|win|tydktgh
+|raw|xiomero's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|raw|tydktgh's rating: 1029 &rarr; <strong>1062</strong><br />(+33 for winning)
+|l|☆tydktgh
+|player|p2|

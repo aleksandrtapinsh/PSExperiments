@@ -2149,3 +2149,672 @@ ConnectionRefusedError: [Errno 61] Connect call failed ('184.17.251.26', 8000)
 2026-04-21 18:58:06,089 [INFO] src.agent: [ILAgent] LOST — 92W / 408L
 2026-04-21 18:58:06,090 [INFO] __main__: [ILAgent] 500/500 battles | W:92 L:408
 2026-04-21 18:58:06,091 [INFO] __main__: IL agent session finished.
+2026-04-25 23:20:50,401 [INFO] __main__: ============================================================
+2026-04-25 23:20:50,401 [INFO] __main__:   Pokémon Showdown IL Agent
+2026-04-25 23:20:50,401 [INFO] __main__:   Mode    : vs_rl
+2026-04-25 23:20:50,401 [INFO] __main__:   Server  : ws://showdown.sasha-tapinsh.online:8000/showdown/websocket
+2026-04-25 23:20:50,401 [INFO] __main__:   Username: IL_Agent_1
+2026-04-25 23:20:50,401 [INFO] __main__:   Format  : gen9randombattle
+2026-04-25 23:20:50,401 [INFO] __main__:   Battles : 500
+2026-04-25 23:20:50,401 [INFO] __main__: ============================================================
+2026-04-25 23:20:50,401 [INFO] __main__: Loading scikit-learn models
+2026-04-25 23:20:54,361 [INFO] src.agent: Loaded IL model: /Users/bennetr/Documents/Machine Learning/Pokemon_Showdown_Experiments/PSExperiments/IL_Agent/models/move_model.keras
+2026-04-25 23:20:54,386 [INFO] src.agent: Loaded IL model: /Users/bennetr/Documents/Machine Learning/Pokemon_Showdown_Experiments/PSExperiments/IL_Agent/models/switch_model.keras
+2026-04-25 23:20:55,509 [INFO] src.agent: ILPlayer initialised — move + switch Keras models.
+2026-04-25 23:20:55,510 [INFO] __main__: Waiting for challenges from the RL agent ('RL_Agent_2' should be running in vs_il mode).
+2026-04-25 23:21:10,461 [INFO] __main__: IL agent stopped by user (Ctrl+C).
+2026-04-25 23:21:10,462 [INFO] __main__: IL agent session finished.
+2026-04-25 23:23:29,029 [INFO] __main__: ============================================================
+2026-04-25 23:23:29,029 [INFO] __main__:   Pokémon Showdown IL Agent
+2026-04-25 23:23:29,029 [INFO] __main__:   Mode    : vs_rl
+2026-04-25 23:23:29,029 [INFO] __main__:   Server  : ws://showdown.sasha-tapinsh.online:8000/showdown/websocket
+2026-04-25 23:23:29,029 [INFO] __main__:   Username: IL_Agent_1
+2026-04-25 23:23:29,029 [INFO] __main__:   Format  : gen9randombattle
+2026-04-25 23:23:29,029 [INFO] __main__:   Battles : 500
+2026-04-25 23:23:29,029 [INFO] __main__: ============================================================
+2026-04-25 23:23:29,030 [INFO] __main__: Loading scikit-learn models
+2026-04-25 23:23:32,391 [INFO] src.agent: Loaded IL model: /Users/bennetr/Documents/Machine Learning/Pokemon_Showdown_Experiments/PSExperiments/IL_Agent/models/move_model.keras
+2026-04-25 23:23:32,417 [INFO] src.agent: Loaded IL model: /Users/bennetr/Documents/Machine Learning/Pokemon_Showdown_Experiments/PSExperiments/IL_Agent/models/switch_model.keras
+2026-04-25 23:23:33,446 [INFO] src.agent: ILPlayer initialised — move + switch Keras models.
+2026-04-25 23:23:33,446 [INFO] __main__: Waiting for challenges from the RL agent ('RL_Agent_2' should be running in vs_il mode).
+2026-04-25 23:23:57,471 [INFO] __main__: IL agent stopped by user (Ctrl+C).
+2026-04-25 23:23:57,473 [INFO] __main__: IL agent session finished.
+2026-04-25 23:24:04,482 [INFO] __main__: ============================================================
+2026-04-25 23:24:04,483 [INFO] __main__:   Pokémon Showdown IL Agent
+2026-04-25 23:24:04,483 [INFO] __main__:   Mode    : vs_rl
+2026-04-25 23:24:04,483 [INFO] __main__:   Server  : ws://showdown.sasha-tapinsh.online:8000/showdown/websocket
+2026-04-25 23:24:04,483 [INFO] __main__:   Username: IL_Agent_1
+2026-04-25 23:24:04,483 [INFO] __main__:   Format  : gen9randombattle
+2026-04-25 23:24:04,483 [INFO] __main__:   Battles : 500
+2026-04-25 23:24:04,483 [INFO] __main__: ============================================================
+2026-04-25 23:24:04,483 [INFO] __main__: Loading scikit-learn models
+2026-04-25 23:24:07,152 [INFO] src.agent: Loaded IL model: /Users/bennetr/Documents/Machine Learning/Pokemon_Showdown_Experiments/PSExperiments/IL_Agent/models/move_model.keras
+2026-04-25 23:24:07,179 [INFO] src.agent: Loaded IL model: /Users/bennetr/Documents/Machine Learning/Pokemon_Showdown_Experiments/PSExperiments/IL_Agent/models/switch_model.keras
+2026-04-25 23:24:08,031 [INFO] src.agent: ILPlayer initialised — move + switch Keras models.
+2026-04-25 23:24:08,031 [INFO] __main__: Waiting for challenges from the RL agent ('RL_Agent_2' should be running in vs_il mode).
+2026-04-25 23:25:49,168 [INFO] __main__: IL agent stopped by user (Ctrl+C).
+2026-04-25 23:25:49,170 [INFO] __main__: IL agent session finished.
+2026-04-25 23:25:54,247 [INFO] __main__: ============================================================
+2026-04-25 23:25:54,247 [INFO] __main__:   Pokémon Showdown IL Agent
+2026-04-25 23:25:54,247 [INFO] __main__:   Mode    : vs_rl
+2026-04-25 23:25:54,247 [INFO] __main__:   Server  : ws://showdown.sasha-tapinsh.online:8000/showdown/websocket
+2026-04-25 23:25:54,247 [INFO] __main__:   Username: IL_Agent_1
+2026-04-25 23:25:54,247 [INFO] __main__:   Format  : gen9randombattle
+2026-04-25 23:25:54,247 [INFO] __main__:   Battles : 500
+2026-04-25 23:25:54,247 [INFO] __main__: ============================================================
+2026-04-25 23:25:54,247 [INFO] __main__: Loading scikit-learn models
+2026-04-25 23:25:57,001 [INFO] src.agent: Loaded IL model: /Users/bennetr/Documents/Machine Learning/Pokemon_Showdown_Experiments/PSExperiments/IL_Agent/models/move_model.keras
+2026-04-25 23:25:57,027 [INFO] src.agent: Loaded IL model: /Users/bennetr/Documents/Machine Learning/Pokemon_Showdown_Experiments/PSExperiments/IL_Agent/models/switch_model.keras
+2026-04-25 23:25:57,871 [INFO] src.agent: ILPlayer initialised — move + switch Keras models.
+2026-04-25 23:25:57,871 [INFO] __main__: Waiting for challenges from the RL agent ('RL_Agent_2' should be running in vs_il mode).
+2026-04-25 23:27:21,064 [INFO] __main__: IL agent stopped by user (Ctrl+C).
+2026-04-25 23:27:21,067 [INFO] __main__: IL agent session finished.
+2026-04-25 23:27:24,568 [INFO] __main__: ============================================================
+2026-04-25 23:27:24,568 [INFO] __main__:   Pokémon Showdown IL Agent
+2026-04-25 23:27:24,568 [INFO] __main__:   Mode    : vs_rl
+2026-04-25 23:27:24,568 [INFO] __main__:   Server  : ws://showdown.sasha-tapinsh.online:8000/showdown/websocket
+2026-04-25 23:27:24,568 [INFO] __main__:   Username: IL_Agent_1
+2026-04-25 23:27:24,568 [INFO] __main__:   Format  : gen9randombattle
+2026-04-25 23:27:24,568 [INFO] __main__:   Battles : 500
+2026-04-25 23:27:24,568 [INFO] __main__: ============================================================
+2026-04-25 23:27:24,568 [INFO] __main__: Loading scikit-learn models
+2026-04-25 23:27:27,380 [INFO] src.agent: Loaded IL model: /Users/bennetr/Documents/Machine Learning/Pokemon_Showdown_Experiments/PSExperiments/IL_Agent/models/move_model.keras
+2026-04-25 23:27:27,406 [INFO] src.agent: Loaded IL model: /Users/bennetr/Documents/Machine Learning/Pokemon_Showdown_Experiments/PSExperiments/IL_Agent/models/switch_model.keras
+2026-04-25 23:27:28,238 [INFO] src.agent: ILPlayer initialised — move + switch Keras models.
+2026-04-25 23:27:28,238 [INFO] __main__: Waiting for challenges from the RL agent ('RL_Agent_2' should be running in vs_il mode).
+2026-04-25 23:28:41,917 [INFO] __main__: IL agent stopped by user (Ctrl+C).
+2026-04-25 23:28:41,920 [INFO] __main__: IL agent session finished.
+2026-04-25 23:28:44,402 [INFO] __main__: ============================================================
+2026-04-25 23:28:44,402 [INFO] __main__:   Pokémon Showdown IL Agent
+2026-04-25 23:28:44,402 [INFO] __main__:   Mode    : vs_rl
+2026-04-25 23:28:44,402 [INFO] __main__:   Server  : ws://showdown.sasha-tapinsh.online:8000/showdown/websocket
+2026-04-25 23:28:44,402 [INFO] __main__:   Username: IL_Agent_1
+2026-04-25 23:28:44,402 [INFO] __main__:   Format  : gen9randombattle
+2026-04-25 23:28:44,402 [INFO] __main__:   Battles : 500
+2026-04-25 23:28:44,402 [INFO] __main__: ============================================================
+2026-04-25 23:28:44,403 [INFO] __main__: Loading scikit-learn models
+2026-04-25 23:28:47,438 [INFO] src.agent: Loaded IL model: /Users/bennetr/Documents/Machine Learning/Pokemon_Showdown_Experiments/PSExperiments/IL_Agent/models/move_model.keras
+2026-04-25 23:28:47,463 [INFO] src.agent: Loaded IL model: /Users/bennetr/Documents/Machine Learning/Pokemon_Showdown_Experiments/PSExperiments/IL_Agent/models/switch_model.keras
+2026-04-25 23:28:48,370 [INFO] src.agent: ILPlayer initialised — move + switch Keras models.
+2026-04-25 23:28:48,370 [INFO] __main__: Waiting for challenges from the RL agent ('RL_Agent_2' should be running in vs_il mode).
+2026-04-25 23:30:03,977 [INFO] __main__: IL agent stopped by user (Ctrl+C).
+2026-04-25 23:30:03,979 [INFO] __main__: IL agent session finished.
+2026-04-25 23:30:06,176 [INFO] __main__: ============================================================
+2026-04-25 23:30:06,177 [INFO] __main__:   Pokémon Showdown IL Agent
+2026-04-25 23:30:06,177 [INFO] __main__:   Mode    : vs_rl
+2026-04-25 23:30:06,177 [INFO] __main__:   Server  : ws://showdown.sasha-tapinsh.online:8000/showdown/websocket
+2026-04-25 23:30:06,177 [INFO] __main__:   Username: IL_Agent_1
+2026-04-25 23:30:06,177 [INFO] __main__:   Format  : gen9randombattle
+2026-04-25 23:30:06,177 [INFO] __main__:   Battles : 500
+2026-04-25 23:30:06,177 [INFO] __main__: ============================================================
+2026-04-25 23:30:06,177 [INFO] __main__: Loading scikit-learn models
+2026-04-25 23:30:09,137 [INFO] src.agent: Loaded IL model: /Users/bennetr/Documents/Machine Learning/Pokemon_Showdown_Experiments/PSExperiments/IL_Agent/models/move_model.keras
+2026-04-25 23:30:09,167 [INFO] src.agent: Loaded IL model: /Users/bennetr/Documents/Machine Learning/Pokemon_Showdown_Experiments/PSExperiments/IL_Agent/models/switch_model.keras
+2026-04-25 23:30:09,995 [INFO] src.agent: ILPlayer initialised — move + switch Keras models.
+2026-04-25 23:30:09,996 [INFO] __main__: Waiting for challenges from the RL agent ('RL_Agent_2' should be running in vs_il mode).
+2026-04-25 23:30:50,531 [INFO] __main__: IL agent stopped by user (Ctrl+C).
+2026-04-25 23:30:50,532 [INFO] __main__: IL agent session finished.
+2026-04-25 23:30:52,522 [INFO] __main__: ============================================================
+2026-04-25 23:30:52,523 [INFO] __main__:   Pokémon Showdown IL Agent
+2026-04-25 23:30:52,523 [INFO] __main__:   Mode    : vs_rl
+2026-04-25 23:30:52,523 [INFO] __main__:   Server  : ws://showdown.sasha-tapinsh.online:8000/showdown/websocket
+2026-04-25 23:30:52,523 [INFO] __main__:   Username: IL_Agent_1
+2026-04-25 23:30:52,523 [INFO] __main__:   Format  : gen9randombattle
+2026-04-25 23:30:52,523 [INFO] __main__:   Battles : 500
+2026-04-25 23:35:04,660 [INFO] __main__: ============================================================
+2026-04-25 23:35:04,662 [INFO] __main__:   Pokémon Showdown IL Agent
+2026-04-25 23:35:04,662 [INFO] __main__:   Mode    : vs_rl
+2026-04-25 23:35:04,662 [INFO] __main__:   Server  : ws://showdown.sasha-tapinsh.online:8000/showdown/websocket
+2026-04-25 23:35:04,662 [INFO] __main__:   Username: IL_Agent_1
+2026-04-25 23:35:04,662 [INFO] __main__:   Format  : gen9randombattle
+2026-04-25 23:35:04,662 [INFO] __main__:   Battles : 500
+2026-04-25 23:35:04,662 [INFO] __main__: ============================================================
+2026-04-25 23:35:04,662 [INFO] __main__: Loading random forest model
+2026-04-25 23:35:08,504 [INFO] src.agent: Loaded IL model: /Users/bennetr/Documents/Machine Learning/Pokemon_Showdown_Experiments/PSExperiments/IL_Agent/models/move_model.keras
+2026-04-25 23:35:08,532 [INFO] src.agent: Loaded IL model: /Users/bennetr/Documents/Machine Learning/Pokemon_Showdown_Experiments/PSExperiments/IL_Agent/models/switch_model.keras
+2026-04-25 23:35:09,624 [INFO] src.agent: ILPlayer initialised — move + switch Keras models.
+2026-04-25 23:35:09,624 [INFO] __main__: Waiting for challenges from the RL agent ('RL_Agent_2' should be running in vs_il mode).
+2026-04-25 23:38:40,412 [INFO] __main__: IL agent stopped by user (Ctrl+C).
+2026-04-25 23:38:40,413 [INFO] __main__: IL agent session finished.
+2026-04-25 23:38:43,001 [INFO] __main__: ============================================================
+2026-04-25 23:38:43,001 [INFO] __main__:   Pokémon Showdown IL Agent
+2026-04-25 23:38:43,001 [INFO] __main__:   Mode    : vs_rl
+2026-04-25 23:38:43,001 [INFO] __main__:   Server  : ws://showdown.sasha-tapinsh.online:8000/showdown/websocket
+2026-04-25 23:38:43,001 [INFO] __main__:   Username: IL_Agent_1
+2026-04-25 23:38:43,001 [INFO] __main__:   Format  : gen9randombattle
+2026-04-25 23:38:43,001 [INFO] __main__:   Battles : 500
+2026-04-25 23:38:43,001 [INFO] __main__: ============================================================
+2026-04-25 23:38:43,001 [INFO] __main__: Loading random forest model
+2026-04-25 23:38:46,708 [INFO] src.agent: ILPlayer initialised — random play (no models loaded).
+2026-04-25 23:38:46,708 [INFO] __main__: Waiting for challenges from the RL agent ('RL_Agent_2' should be running in vs_il mode).
+2026-04-25 23:41:40,524 [INFO] __main__: IL agent stopped by user (Ctrl+C).
+2026-04-25 23:41:40,527 [INFO] __main__: IL agent session finished.
+2026-04-25 23:41:42,759 [INFO] __main__: ============================================================
+2026-04-25 23:41:42,759 [INFO] __main__:   Pokémon Showdown IL Agent
+2026-04-25 23:41:42,759 [INFO] __main__:   Mode    : vs_rl
+2026-04-25 23:41:42,759 [INFO] __main__:   Server  : ws://showdown.sasha-tapinsh.online:8000/showdown/websocket
+2026-04-25 23:41:42,759 [INFO] __main__:   Username: IL_Agent_1
+2026-04-25 23:41:42,759 [INFO] __main__:   Format  : gen9randombattle
+2026-04-25 23:41:42,759 [INFO] __main__:   Battles : 500
+2026-04-25 23:41:42,759 [INFO] __main__: ============================================================
+2026-04-25 23:41:42,759 [INFO] __main__: Loading random forest model
+2026-04-25 23:41:47,767 [INFO] src.agent: ILPlayer initialised — random play (no models loaded).
+2026-04-25 23:41:47,767 [INFO] __main__: Waiting for challenges from the RL agent ('RL_Agent_2' should be running in vs_il mode).
+2026-04-25 23:43:23,940 [INFO] __main__: IL agent stopped by user (Ctrl+C).
+2026-04-25 23:43:23,943 [INFO] __main__: IL agent session finished.
+2026-04-25 23:43:26,633 [INFO] __main__: ============================================================
+2026-04-25 23:43:26,633 [INFO] __main__:   Pokémon Showdown IL Agent
+2026-04-25 23:43:26,633 [INFO] __main__:   Mode    : vs_rl
+2026-04-25 23:43:26,633 [INFO] __main__:   Server  : ws://showdown.sasha-tapinsh.online:8000/showdown/websocket
+2026-04-25 23:43:26,633 [INFO] __main__:   Username: IL_Agent_1
+2026-04-25 23:43:26,633 [INFO] __main__:   Format  : gen9randombattle
+2026-04-25 23:43:26,633 [INFO] __main__:   Battles : 500
+2026-04-25 23:43:26,633 [INFO] __main__: ============================================================
+2026-04-25 23:43:26,633 [INFO] __main__: Loading random forest model
+2026-04-25 23:43:30,230 [INFO] src.agent: ILPlayer initialised — random play (no models loaded).
+2026-04-25 23:43:30,230 [INFO] __main__: Waiting for challenges from the RL agent ('RL_Agent_2' should be running in vs_il mode).
+2026-04-25 23:43:36,604 [INFO] __main__: IL agent stopped by user (Ctrl+C).
+2026-04-25 23:43:36,605 [INFO] __main__: IL agent session finished.
+2026-04-25 23:44:34,278 [INFO] __main__: ============================================================
+2026-04-25 23:44:34,279 [INFO] __main__:   Pokémon Showdown IL Agent
+2026-04-25 23:44:34,279 [INFO] __main__:   Mode    : vs_rl
+2026-04-25 23:44:34,279 [INFO] __main__:   Server  : ws://showdown.sasha-tapinsh.online:8000/showdown/websocket
+2026-04-25 23:44:34,279 [INFO] __main__:   Username: IL_Agent_1
+2026-04-25 23:44:34,279 [INFO] __main__:   Format  : gen9randombattle
+2026-04-25 23:44:34,279 [INFO] __main__:   Battles : 500
+2026-04-25 23:44:34,279 [INFO] __main__: ============================================================
+2026-04-25 23:44:34,279 [INFO] __main__: Loading random forest model
+2026-04-25 23:44:38,052 [INFO] src.agent: ILPlayer initialised — random play (no models loaded).
+2026-04-25 23:44:38,052 [INFO] __main__: Waiting for challenges from the RL agent ('RL_Agent_2' should be running in vs_il mode).
+2026-04-25 23:46:29,326 [INFO] __main__: IL agent stopped by user (Ctrl+C).
+2026-04-25 23:46:29,329 [INFO] __main__: IL agent session finished.
+2026-04-25 23:46:43,041 [INFO] __main__: ============================================================
+2026-04-25 23:46:43,041 [INFO] __main__:   Pokémon Showdown IL Agent
+2026-04-25 23:46:43,041 [INFO] __main__:   Mode    : vs_rl
+2026-04-25 23:46:43,041 [INFO] __main__:   Server  : ws://showdown.sasha-tapinsh.online:8000/showdown/websocket
+2026-04-25 23:46:43,041 [INFO] __main__:   Username: IL_Agent_1
+2026-04-25 23:46:43,041 [INFO] __main__:   Format  : gen9randombattle
+2026-04-25 23:46:43,041 [INFO] __main__:   Battles : 500
+2026-04-25 23:46:43,041 [INFO] __main__: ============================================================
+2026-04-25 23:46:43,041 [INFO] __main__: Loading neural network models
+2026-04-25 23:46:45,993 [INFO] src.agent: Loaded IL model: /Users/bennetr/Documents/Machine Learning/Pokemon_Showdown_Experiments/PSExperiments/IL_Agent/models/move_model.keras
+2026-04-25 23:46:46,023 [INFO] src.agent: Loaded IL model: /Users/bennetr/Documents/Machine Learning/Pokemon_Showdown_Experiments/PSExperiments/IL_Agent/models/switch_model.keras
+2026-04-25 23:46:47,042 [INFO] src.agent: ILPlayer initialised — move + switch Keras models.
+2026-04-25 23:46:47,042 [INFO] __main__: Waiting for challenges from the RL agent ('RL_Agent_2' should be running in vs_il mode).
+2026-04-25 23:46:56,191 [INFO] __main__: IL agent stopped by user (Ctrl+C).
+2026-04-25 23:46:56,192 [INFO] __main__: IL agent session finished.
+2026-04-25 23:47:32,991 [INFO] __main__: ============================================================
+2026-04-25 23:47:32,991 [INFO] __main__:   Pokémon Showdown IL Agent
+2026-04-25 23:47:32,991 [INFO] __main__:   Mode    : vs_rl
+2026-04-25 23:47:32,991 [INFO] __main__:   Server  : ws://showdown.sasha-tapinsh.online:8000/showdown/websocket
+2026-04-25 23:47:32,991 [INFO] __main__:   Username: IL_Agent_1
+2026-04-25 23:47:32,991 [INFO] __main__:   Format  : gen9randombattle
+2026-04-25 23:47:32,991 [INFO] __main__:   Battles : 500
+2026-04-25 23:47:32,991 [INFO] __main__: ============================================================
+2026-04-25 23:47:32,991 [INFO] __main__: Loading random forest model
+2026-04-25 23:47:36,734 [INFO] src.agent: ILPlayer initialised — random play (no models loaded).
+2026-04-25 23:47:36,734 [INFO] __main__: Waiting for challenges from the RL agent ('RL_Agent_2' should be running in vs_il mode).
+2026-04-25 23:50:23,186 [INFO] __main__: IL agent stopped by user (Ctrl+C).
+2026-04-25 23:50:23,189 [INFO] __main__: IL agent session finished.
+2026-04-25 23:50:25,458 [INFO] __main__: ============================================================
+2026-04-25 23:50:25,458 [INFO] __main__:   Pokémon Showdown IL Agent
+2026-04-25 23:50:25,459 [INFO] __main__:   Mode    : vs_rl
+2026-04-25 23:50:25,459 [INFO] __main__:   Server  : ws://showdown.sasha-tapinsh.online:8000/showdown/websocket
+2026-04-25 23:50:25,459 [INFO] __main__:   Username: IL_Agent_1
+2026-04-25 23:50:25,459 [INFO] __main__:   Format  : gen9randombattle
+2026-04-25 23:50:25,459 [INFO] __main__:   Battles : 500
+2026-04-25 23:50:25,459 [INFO] __main__: ============================================================
+2026-04-25 23:50:25,459 [INFO] __main__: Loading random forest model
+2026-04-25 23:50:29,378 [INFO] src.agent: ILPlayer initialised — random play (no models loaded).
+2026-04-25 23:50:29,378 [INFO] __main__: Waiting for challenges from the RL agent ('RL_Agent_2' should be running in vs_il mode).
+2026-04-25 23:51:29,463 [INFO] __main__: IL agent stopped by user (Ctrl+C).
+2026-04-25 23:51:29,467 [INFO] __main__: IL agent session finished.
+2026-04-25 23:51:32,986 [INFO] __main__: ============================================================
+2026-04-25 23:51:32,986 [INFO] __main__:   Pokémon Showdown IL Agent
+2026-04-25 23:51:32,986 [INFO] __main__:   Mode    : vs_rl
+2026-04-25 23:51:32,986 [INFO] __main__:   Server  : ws://showdown.sasha-tapinsh.online:8000/showdown/websocket
+2026-04-25 23:51:32,986 [INFO] __main__:   Username: IL_Agent_1
+2026-04-25 23:51:32,986 [INFO] __main__:   Format  : gen9randombattle
+2026-04-25 23:51:32,986 [INFO] __main__:   Battles : 500
+2026-04-25 23:51:32,986 [INFO] __main__: ============================================================
+2026-04-25 23:51:32,986 [INFO] __main__: Loading random forest model
+2026-04-25 23:51:36,562 [INFO] src.agent: ILPlayer initialised — random play (no models loaded).
+2026-04-25 23:51:36,563 [INFO] __main__: Waiting for challenges from the RL agent ('RL_Agent_2' should be running in vs_il mode).
+2026-04-25 23:51:45,656 [INFO] __main__: IL agent stopped by user (Ctrl+C).
+2026-04-25 23:51:45,657 [INFO] __main__: IL agent session finished.
+2026-04-25 23:52:58,755 [INFO] __main__: ============================================================
+2026-04-25 23:52:58,755 [INFO] __main__:   Pokémon Showdown IL Agent
+2026-04-25 23:52:58,755 [INFO] __main__:   Mode    : vs_rl
+2026-04-25 23:52:58,755 [INFO] __main__:   Server  : ws://showdown.sasha-tapinsh.online:8000/showdown/websocket
+2026-04-25 23:52:58,755 [INFO] __main__:   Username: IL_Agent_1
+2026-04-25 23:52:58,755 [INFO] __main__:   Format  : gen9randombattle
+2026-04-25 23:52:58,756 [INFO] __main__:   Battles : 500
+2026-04-25 23:52:58,756 [INFO] __main__: ============================================================
+2026-04-25 23:52:58,756 [INFO] __main__: Loading random forest model
+2026-04-25 23:53:03,380 [INFO] src.agent: ILPlayer initialised — random play (no models loaded).
+2026-04-25 23:53:03,380 [INFO] __main__: Waiting for challenges from the RL agent ('RL_Agent_2' should be running in vs_il mode).
+2026-04-25 23:53:06,361 [INFO] __main__: IL agent stopped by user (Ctrl+C).
+2026-04-25 23:53:06,362 [INFO] __main__: IL agent session finished.
+2026-04-25 23:54:37,142 [INFO] __main__: ============================================================
+2026-04-25 23:54:37,143 [INFO] __main__:   Pokémon Showdown IL Agent
+2026-04-25 23:54:37,143 [INFO] __main__:   Mode    : vs_rl
+2026-04-25 23:54:37,143 [INFO] __main__:   Server  : ws://showdown.sasha-tapinsh.online:8000/showdown/websocket
+2026-04-25 23:54:37,143 [INFO] __main__:   Username: IL_Agent_1
+2026-04-25 23:54:37,143 [INFO] __main__:   Format  : gen9randombattle
+2026-04-25 23:54:37,147 [INFO] __main__:   Battles : 500
+2026-04-25 23:54:37,147 [INFO] __main__: ============================================================
+2026-04-25 23:54:37,147 [INFO] __main__: Loading random forest model
+2026-04-25 23:54:41,739 [INFO] src.agent: ILPlayer initialised — random play (no models loaded).
+2026-04-25 23:54:41,740 [INFO] __main__: Waiting for challenges from the RL agent ('RL_Agent_2' should be running in vs_il mode).
+2026-04-25 23:56:36,585 [INFO] __main__: IL agent stopped by user (Ctrl+C).
+2026-04-25 23:56:36,588 [INFO] __main__: IL agent session finished.
+2026-04-25 23:56:38,388 [INFO] __main__: ============================================================
+2026-04-25 23:56:38,388 [INFO] __main__:   Pokémon Showdown IL Agent
+2026-04-25 23:56:38,388 [INFO] __main__:   Mode    : vs_rl
+2026-04-25 23:56:38,388 [INFO] __main__:   Server  : ws://showdown.sasha-tapinsh.online:8000/showdown/websocket
+2026-04-25 23:56:38,388 [INFO] __main__:   Username: IL_Agent_1
+2026-04-25 23:56:38,388 [INFO] __main__:   Format  : gen9randombattle
+2026-04-25 23:56:38,388 [INFO] __main__:   Battles : 500
+2026-04-25 23:56:38,388 [INFO] __main__: ============================================================
+2026-04-25 23:56:38,388 [INFO] __main__: Loading random forest model
+2026-04-25 23:56:42,021 [INFO] src.agent: ILPlayer initialised — random play (no models loaded).
+2026-04-25 23:56:42,021 [INFO] __main__: Waiting for challenges from the RL agent ('RL_Agent_2' should be running in vs_il mode).
+2026-04-25 23:58:44,984 [INFO] __main__: IL agent stopped by user (Ctrl+C).
+2026-04-25 23:58:44,986 [INFO] __main__: IL agent session finished.
+2026-04-25 23:58:47,103 [INFO] __main__: ============================================================
+2026-04-25 23:58:47,104 [INFO] __main__:   Pokémon Showdown IL Agent
+2026-04-25 23:58:47,104 [INFO] __main__:   Mode    : vs_rl
+2026-04-25 23:58:47,104 [INFO] __main__:   Server  : ws://showdown.sasha-tapinsh.online:8000/showdown/websocket
+2026-04-25 23:58:47,104 [INFO] __main__:   Username: IL_Agent_1
+2026-04-25 23:58:47,104 [INFO] __main__:   Format  : gen9randombattle
+2026-04-25 23:58:47,104 [INFO] __main__:   Battles : 500
+2026-04-25 23:58:47,104 [INFO] __main__: ============================================================
+2026-04-25 23:58:47,104 [INFO] __main__: Loading random forest model
+2026-04-25 23:58:47,170 [INFO] src.agent: [DEBUG] Path endswith('.keras'): False
+2026-04-25 23:58:47,170 [INFO] src.agent: [DEBUG] Path endswith('.pk1'): False
+2026-04-25 23:58:47,170 [INFO] src.agent: [DEBUG] Path endswith('.keras'): False
+2026-04-25 23:58:47,170 [INFO] src.agent: [DEBUG] Path endswith('.pk1'): False
+2026-04-25 23:58:50,818 [INFO] src.agent: ILPlayer initialised — random play (no models loaded).
+2026-04-25 23:58:50,818 [INFO] __main__: Waiting for challenges from the RL agent ('RL_Agent_2' should be running in vs_il mode).
+2026-04-25 23:59:15,134 [INFO] __main__: IL agent stopped by user (Ctrl+C).
+2026-04-25 23:59:15,135 [INFO] __main__: IL agent session finished.
+2026-04-25 23:59:17,512 [INFO] __main__: ============================================================
+2026-04-25 23:59:17,513 [INFO] __main__:   Pokémon Showdown IL Agent
+2026-04-25 23:59:17,513 [INFO] __main__:   Mode    : vs_rl
+2026-04-25 23:59:17,513 [INFO] __main__:   Server  : ws://showdown.sasha-tapinsh.online:8000/showdown/websocket
+2026-04-25 23:59:17,513 [INFO] __main__:   Username: IL_Agent_1
+2026-04-25 23:59:17,513 [INFO] __main__:   Format  : gen9randombattle
+2026-04-25 23:59:17,513 [INFO] __main__:   Battles : 500
+2026-04-25 23:59:17,513 [INFO] __main__: ============================================================
+2026-04-25 23:59:17,513 [INFO] __main__: Loading random forest model
+2026-04-25 23:59:17,519 [INFO] src.agent: /Users/bennetr/Documents/Machine Learning/Pokemon_Showdown_Experiments/PSExperiments/IL_Agent/models/rf_move_model.pkl
+2026-04-25 23:59:17,519 [INFO] src.agent: [DEBUG] Path endswith('.keras'): False
+2026-04-25 23:59:17,519 [INFO] src.agent: [DEBUG] Path endswith('.pk1'): False
+2026-04-25 23:59:17,519 [INFO] src.agent: /Users/bennetr/Documents/Machine Learning/Pokemon_Showdown_Experiments/PSExperiments/IL_Agent/models/rf_switch_model.pkl
+2026-04-25 23:59:17,520 [INFO] src.agent: [DEBUG] Path endswith('.keras'): False
+2026-04-25 23:59:17,520 [INFO] src.agent: [DEBUG] Path endswith('.pk1'): False
+2026-04-25 23:59:21,241 [INFO] src.agent: ILPlayer initialised — random play (no models loaded).
+2026-04-25 23:59:21,242 [INFO] __main__: Waiting for challenges from the RL agent ('RL_Agent_2' should be running in vs_il mode).
+2026-04-26 00:00:20,722 [INFO] __main__: IL agent stopped by user (Ctrl+C).
+2026-04-26 00:00:20,722 [INFO] __main__: IL agent session finished.
+2026-04-26 00:00:23,418 [INFO] __main__: ============================================================
+2026-04-26 00:00:23,419 [INFO] __main__:   Pokémon Showdown IL Agent
+2026-04-26 00:00:23,419 [INFO] __main__:   Mode    : vs_rl
+2026-04-26 00:00:23,419 [INFO] __main__:   Server  : ws://showdown.sasha-tapinsh.online:8000/showdown/websocket
+2026-04-26 00:00:23,419 [INFO] __main__:   Username: IL_Agent_1
+2026-04-26 00:00:23,419 [INFO] __main__:   Format  : gen9randombattle
+2026-04-26 00:00:23,419 [INFO] __main__:   Battles : 500
+2026-04-26 00:00:23,419 [INFO] __main__: ============================================================
+2026-04-26 00:00:23,419 [INFO] __main__: Loading random forest model
+2026-04-26 00:00:23,496 [INFO] src.agent: Loading Random Forest _load_model
+2026-04-26 00:00:24,384 [INFO] src.agent: Model loaded with pickle: /Users/bennetr/Documents/Machine Learning/Pokemon_Showdown_Experiments/PSExperiments/IL_Agent/models/rf_move_model.pk1
+2026-04-26 00:00:24,384 [INFO] src.agent: Loading Random Forest _load_model
+2026-04-26 00:00:24,389 [INFO] src.agent: Model loaded with pickle: /Users/bennetr/Documents/Machine Learning/Pokemon_Showdown_Experiments/PSExperiments/IL_Agent/models/rf_switch_model.pk1
+2026-04-26 00:00:27,600 [INFO] src.agent: ILPlayer initialised — move + switch Keras models.
+2026-04-26 00:00:27,601 [INFO] __main__: Waiting for challenges from the RL agent ('RL_Agent_2' should be running in vs_il mode).
+2026-04-26 00:01:22,128 [INFO] src.agent: [ILAgent] LOST — 0W / 1L
+2026-04-26 00:01:22,132 [INFO] __main__: [ILAgent] 1/500 battles | W:0 L:1
+2026-04-26 00:01:23,709 [INFO] src.agent: [ILAgent] LOST — 0W / 2L
+2026-04-26 00:01:23,710 [INFO] __main__: [ILAgent] 2/500 battles | W:0 L:2
+2026-04-26 00:01:24,668 [INFO] src.agent: [ILAgent] LOST — 0W / 3L
+2026-04-26 00:01:24,669 [INFO] __main__: [ILAgent] 3/500 battles | W:0 L:3
+2026-04-26 00:01:26,297 [INFO] src.agent: [ILAgent] LOST — 0W / 4L
+2026-04-26 00:01:26,298 [INFO] __main__: [ILAgent] 4/500 battles | W:0 L:4
+2026-04-26 00:01:27,444 [INFO] src.agent: [ILAgent] WON — 1W / 4L
+2026-04-26 00:01:27,447 [INFO] __main__: [ILAgent] 5/500 battles | W:1 L:4
+2026-04-26 00:01:28,923 [INFO] src.agent: [ILAgent] LOST — 1W / 5L
+2026-04-26 00:01:28,924 [INFO] __main__: [ILAgent] 6/500 battles | W:1 L:5
+2026-04-26 00:01:30,825 [INFO] src.agent: [ILAgent] WON — 2W / 5L
+2026-04-26 00:01:30,827 [INFO] __main__: [ILAgent] 7/500 battles | W:2 L:5
+2026-04-26 00:01:31,920 [INFO] src.agent: [ILAgent] LOST — 2W / 6L
+2026-04-26 00:01:31,921 [INFO] __main__: [ILAgent] 8/500 battles | W:2 L:6
+2026-04-26 00:01:33,225 [INFO] src.agent: [ILAgent] WON — 3W / 6L
+2026-04-26 00:01:33,228 [INFO] __main__: [ILAgent] 9/500 battles | W:3 L:6
+2026-04-26 00:01:35,499 [INFO] src.agent: [ILAgent] WON — 4W / 6L
+2026-04-26 00:01:35,500 [INFO] __main__: [ILAgent] 10/500 battles | W:4 L:6
+2026-04-26 00:01:37,156 [INFO] src.agent: [ILAgent] LOST — 4W / 7L
+2026-04-26 00:01:37,158 [INFO] __main__: [ILAgent] 11/500 battles | W:4 L:7
+2026-04-26 00:01:38,668 [INFO] src.agent: [ILAgent] LOST — 4W / 8L
+2026-04-26 00:01:38,670 [INFO] __main__: [ILAgent] 12/500 battles | W:4 L:8
+2026-04-26 00:01:39,662 [INFO] src.agent: [ILAgent] WON — 5W / 8L
+2026-04-26 00:01:39,664 [INFO] __main__: [ILAgent] 13/500 battles | W:5 L:8
+2026-04-26 00:01:41,046 [INFO] src.agent: [ILAgent] LOST — 5W / 9L
+2026-04-26 00:01:41,048 [INFO] __main__: [ILAgent] 14/500 battles | W:5 L:9
+2026-04-26 00:01:42,146 [INFO] src.agent: [ILAgent] LOST — 5W / 10L
+2026-04-26 00:01:42,148 [INFO] __main__: [ILAgent] 15/500 battles | W:5 L:10
+2026-04-26 00:01:44,395 [INFO] src.agent: [ILAgent] LOST — 5W / 11L
+2026-04-26 00:01:44,396 [INFO] __main__: [ILAgent] 16/500 battles | W:5 L:11
+2026-04-26 00:01:45,483 [INFO] src.agent: [ILAgent] LOST — 5W / 12L
+2026-04-26 00:01:45,484 [INFO] __main__: [ILAgent] 17/500 battles | W:5 L:12
+2026-04-26 00:01:47,854 [INFO] src.agent: [ILAgent] WON — 6W / 12L
+2026-04-26 00:01:47,856 [INFO] __main__: [ILAgent] 18/500 battles | W:6 L:12
+2026-04-26 00:01:48,859 [INFO] src.agent: [ILAgent] LOST — 6W / 13L
+2026-04-26 00:01:48,860 [INFO] __main__: [ILAgent] 19/500 battles | W:6 L:13
+2026-04-26 00:01:50,104 [INFO] src.agent: [ILAgent] LOST — 6W / 14L
+2026-04-26 00:01:50,104 [INFO] __main__: [ILAgent] 20/500 battles | W:6 L:14
+2026-04-26 00:01:52,354 [INFO] src.agent: [ILAgent] WON — 7W / 14L
+2026-04-26 00:01:52,355 [INFO] __main__: [ILAgent] 21/500 battles | W:7 L:14
+2026-04-26 00:01:53,718 [INFO] src.agent: [ILAgent] LOST — 7W / 15L
+2026-04-26 00:01:53,720 [INFO] __main__: [ILAgent] 22/500 battles | W:7 L:15
+2026-04-26 00:01:54,513 [INFO] src.agent: [ILAgent] LOST — 7W / 16L
+2026-04-26 00:01:54,514 [INFO] __main__: [ILAgent] 23/500 battles | W:7 L:16
+2026-04-26 00:01:56,294 [INFO] src.agent: [ILAgent] LOST — 7W / 17L
+2026-04-26 00:01:56,295 [INFO] __main__: [ILAgent] 24/500 battles | W:7 L:17
+2026-04-26 00:01:57,190 [INFO] src.agent: [ILAgent] LOST — 7W / 18L
+2026-04-26 00:01:57,191 [INFO] __main__: [ILAgent] 25/500 battles | W:7 L:18
+2026-04-26 00:02:00,533 [INFO] src.agent: [ILAgent] LOST — 7W / 19L
+2026-04-26 00:02:00,535 [INFO] __main__: [ILAgent] 26/500 battles | W:7 L:19
+2026-04-26 00:02:01,533 [INFO] src.agent: [ILAgent] LOST — 7W / 20L
+2026-04-26 00:02:01,534 [INFO] __main__: [ILAgent] 27/500 battles | W:7 L:20
+2026-04-26 00:02:02,583 [INFO] src.agent: [ILAgent] LOST — 7W / 21L
+2026-04-26 00:02:02,584 [INFO] __main__: [ILAgent] 28/500 battles | W:7 L:21
+2026-04-26 00:02:03,941 [INFO] src.agent: [ILAgent] LOST — 7W / 22L
+2026-04-26 00:02:03,942 [INFO] __main__: [ILAgent] 29/500 battles | W:7 L:22
+2026-04-26 00:02:04,797 [INFO] src.agent: [ILAgent] LOST — 7W / 23L
+2026-04-26 00:02:04,798 [INFO] __main__: [ILAgent] 30/500 battles | W:7 L:23
+2026-04-26 00:02:06,416 [INFO] src.agent: [ILAgent] WON — 8W / 23L
+2026-04-26 00:02:06,417 [INFO] __main__: [ILAgent] 31/500 battles | W:8 L:23
+2026-04-26 00:02:09,116 [INFO] src.agent: [ILAgent] LOST — 8W / 24L
+2026-04-26 00:02:09,119 [INFO] __main__: [ILAgent] 32/500 battles | W:8 L:24
+2026-04-26 00:02:09,929 [INFO] src.agent: [ILAgent] LOST — 8W / 25L
+2026-04-26 00:02:09,932 [INFO] __main__: [ILAgent] 33/500 battles | W:8 L:25
+2026-04-26 00:02:12,215 [INFO] src.agent: [ILAgent] LOST — 8W / 26L
+2026-04-26 00:02:12,217 [INFO] __main__: [ILAgent] 34/500 battles | W:8 L:26
+2026-04-26 00:02:13,424 [INFO] src.agent: [ILAgent] WON — 9W / 26L
+2026-04-26 00:02:13,425 [INFO] __main__: [ILAgent] 35/500 battles | W:9 L:26
+2026-04-26 00:02:14,918 [INFO] src.agent: [ILAgent] LOST — 9W / 27L
+2026-04-26 00:02:14,920 [INFO] __main__: [ILAgent] 36/500 battles | W:9 L:27
+2026-04-26 00:02:15,792 [INFO] src.agent: [ILAgent] LOST — 9W / 28L
+2026-04-26 00:02:15,793 [INFO] __main__: [ILAgent] 37/500 battles | W:9 L:28
+2026-04-26 00:02:16,864 [INFO] src.agent: [ILAgent] LOST — 9W / 29L
+2026-04-26 00:02:16,865 [INFO] __main__: [ILAgent] 38/500 battles | W:9 L:29
+2026-04-26 00:02:20,306 [INFO] src.agent: [ILAgent] WON — 10W / 29L
+2026-04-26 00:02:20,308 [INFO] __main__: [ILAgent] 39/500 battles | W:10 L:29
+2026-04-26 00:02:21,522 [INFO] src.agent: [ILAgent] LOST — 10W / 30L
+2026-04-26 00:02:21,523 [INFO] __main__: [ILAgent] 40/500 battles | W:10 L:30
+2026-04-26 00:02:24,004 [INFO] src.agent: [ILAgent] WON — 11W / 30L
+2026-04-26 00:02:24,006 [INFO] __main__: [ILAgent] 41/500 battles | W:11 L:30
+2026-04-26 00:02:25,543 [INFO] src.agent: [ILAgent] LOST — 11W / 31L
+2026-04-26 00:02:25,545 [INFO] __main__: [ILAgent] 42/500 battles | W:11 L:31
+2026-04-26 00:02:27,808 [INFO] src.agent: [ILAgent] WON — 12W / 31L
+2026-04-26 00:02:27,809 [INFO] __main__: [ILAgent] 43/500 battles | W:12 L:31
+2026-04-26 00:02:29,090 [INFO] src.agent: [ILAgent] LOST — 12W / 32L
+2026-04-26 00:02:29,092 [INFO] __main__: [ILAgent] 44/500 battles | W:12 L:32
+2026-04-26 00:02:32,446 [INFO] src.agent: [ILAgent] LOST — 12W / 33L
+2026-04-26 00:02:32,450 [INFO] __main__: [ILAgent] 45/500 battles | W:12 L:33
+2026-04-26 00:02:33,893 [INFO] src.agent: [ILAgent] LOST — 12W / 34L
+2026-04-26 00:02:33,894 [INFO] __main__: [ILAgent] 46/500 battles | W:12 L:34
+2026-04-26 00:02:34,961 [INFO] src.agent: [ILAgent] LOST — 12W / 35L
+2026-04-26 00:02:34,963 [INFO] __main__: [ILAgent] 47/500 battles | W:12 L:35
+2026-04-26 00:02:36,068 [INFO] src.agent: [ILAgent] LOST — 12W / 36L
+2026-04-26 00:02:36,070 [INFO] __main__: [ILAgent] 48/500 battles | W:12 L:36
+2026-04-26 00:02:37,486 [INFO] src.agent: [ILAgent] LOST — 12W / 37L
+2026-04-26 00:02:37,494 [INFO] __main__: [ILAgent] 49/500 battles | W:12 L:37
+2026-04-26 00:02:38,856 [INFO] src.agent: [ILAgent] LOST — 12W / 38L
+2026-04-26 00:02:38,856 [INFO] __main__: [ILAgent] 50/500 battles | W:12 L:38
+2026-04-26 00:02:40,418 [INFO] src.agent: [ILAgent] LOST — 12W / 39L
+2026-04-26 00:02:40,419 [INFO] __main__: [ILAgent] 51/500 battles | W:12 L:39
+2026-04-26 00:02:43,616 [INFO] src.agent: [ILAgent] LOST — 12W / 40L
+2026-04-26 00:02:43,617 [INFO] __main__: [ILAgent] 52/500 battles | W:12 L:40
+2026-04-26 00:02:45,226 [INFO] src.agent: [ILAgent] LOST — 12W / 41L
+2026-04-26 00:02:45,227 [INFO] __main__: [ILAgent] 53/500 battles | W:12 L:41
+2026-04-26 00:02:47,713 [INFO] src.agent: [ILAgent] LOST — 12W / 42L
+2026-04-26 00:02:47,714 [INFO] __main__: [ILAgent] 54/500 battles | W:12 L:42
+2026-04-26 00:02:49,089 [INFO] src.agent: [ILAgent] LOST — 12W / 43L
+2026-04-26 00:02:49,090 [INFO] __main__: [ILAgent] 55/500 battles | W:12 L:43
+2026-04-26 00:02:50,495 [INFO] src.agent: [ILAgent] LOST — 12W / 44L
+2026-04-26 00:02:50,498 [INFO] __main__: [ILAgent] 56/500 battles | W:12 L:44
+2026-04-26 00:02:52,008 [INFO] src.agent: [ILAgent] LOST — 12W / 45L
+2026-04-26 00:02:52,010 [INFO] __main__: [ILAgent] 57/500 battles | W:12 L:45
+2026-04-26 00:02:53,360 [INFO] src.agent: [ILAgent] WON — 13W / 45L
+2026-04-26 00:02:53,361 [INFO] __main__: [ILAgent] 58/500 battles | W:13 L:45
+2026-04-26 00:02:54,559 [INFO] src.agent: [ILAgent] LOST — 13W / 46L
+2026-04-26 00:02:54,563 [INFO] __main__: [ILAgent] 59/500 battles | W:13 L:46
+2026-04-26 00:02:55,880 [INFO] src.agent: [ILAgent] LOST — 13W / 47L
+2026-04-26 00:02:55,883 [INFO] __main__: [ILAgent] 60/500 battles | W:13 L:47
+2026-04-26 00:02:58,087 [INFO] src.agent: [ILAgent] LOST — 13W / 48L
+2026-04-26 00:02:58,089 [INFO] __main__: [ILAgent] 61/500 battles | W:13 L:48
+2026-04-26 00:02:58,928 [INFO] src.agent: [ILAgent] LOST — 13W / 49L
+2026-04-26 00:02:58,929 [INFO] __main__: [ILAgent] 62/500 battles | W:13 L:49
+2026-04-26 00:03:00,193 [INFO] src.agent: [ILAgent] LOST — 13W / 50L
+2026-04-26 00:03:00,194 [INFO] __main__: [ILAgent] 63/500 battles | W:13 L:50
+2026-04-26 00:03:01,279 [INFO] src.agent: [ILAgent] LOST — 13W / 51L
+2026-04-26 00:03:01,280 [INFO] __main__: [ILAgent] 64/500 battles | W:13 L:51
+2026-04-26 00:03:02,058 [INFO] src.agent: [ILAgent] LOST — 13W / 52L
+2026-04-26 00:03:02,059 [INFO] __main__: [ILAgent] 65/500 battles | W:13 L:52
+2026-04-26 00:03:03,288 [INFO] src.agent: [ILAgent] LOST — 13W / 53L
+2026-04-26 00:03:03,289 [INFO] __main__: [ILAgent] 66/500 battles | W:13 L:53
+2026-04-26 00:03:04,151 [INFO] src.agent: [ILAgent] LOST — 13W / 54L
+2026-04-26 00:03:04,153 [INFO] __main__: [ILAgent] 67/500 battles | W:13 L:54
+2026-04-26 00:03:05,664 [INFO] src.agent: [ILAgent] LOST — 13W / 55L
+2026-04-26 00:03:05,666 [INFO] __main__: [ILAgent] 68/500 battles | W:13 L:55
+2026-04-26 00:03:06,786 [INFO] src.agent: [ILAgent] LOST — 13W / 56L
+2026-04-26 00:03:06,787 [INFO] __main__: [ILAgent] 69/500 battles | W:13 L:56
+2026-04-26 00:03:08,024 [INFO] src.agent: [ILAgent] LOST — 13W / 57L
+2026-04-26 00:03:08,025 [INFO] __main__: [ILAgent] 70/500 battles | W:13 L:57
+2026-04-26 00:03:09,015 [INFO] src.agent: [ILAgent] LOST — 13W / 58L
+2026-04-26 00:03:09,017 [INFO] __main__: [ILAgent] 71/500 battles | W:13 L:58
+2026-04-26 00:03:10,124 [INFO] src.agent: [ILAgent] LOST — 13W / 59L
+2026-04-26 00:03:10,126 [INFO] __main__: [ILAgent] 72/500 battles | W:13 L:59
+2026-04-26 00:03:11,361 [INFO] src.agent: [ILAgent] LOST — 13W / 60L
+2026-04-26 00:03:11,366 [INFO] __main__: [ILAgent] 73/500 battles | W:13 L:60
+2026-04-26 00:03:12,388 [INFO] src.agent: [ILAgent] LOST — 13W / 61L
+2026-04-26 00:03:12,390 [INFO] __main__: [ILAgent] 74/500 battles | W:13 L:61
+2026-04-26 00:03:13,120 [INFO] src.agent: [ILAgent] LOST — 13W / 62L
+2026-04-26 00:03:13,122 [INFO] __main__: [ILAgent] 75/500 battles | W:13 L:62
+2026-04-26 00:03:14,090 [INFO] src.agent: [ILAgent] LOST — 13W / 63L
+2026-04-26 00:03:14,093 [INFO] __main__: [ILAgent] 76/500 battles | W:13 L:63
+2026-04-26 00:03:15,807 [INFO] src.agent: [ILAgent] LOST — 13W / 64L
+2026-04-26 00:03:15,808 [INFO] __main__: [ILAgent] 77/500 battles | W:13 L:64
+2026-04-26 00:03:18,863 [INFO] src.agent: [ILAgent] LOST — 13W / 65L
+2026-04-26 00:03:18,865 [INFO] __main__: [ILAgent] 78/500 battles | W:13 L:65
+2026-04-26 00:03:21,144 [INFO] src.agent: [ILAgent] WON — 14W / 65L
+2026-04-26 00:03:21,146 [INFO] __main__: [ILAgent] 79/500 battles | W:14 L:65
+2026-04-26 00:03:22,381 [INFO] src.agent: [ILAgent] WON — 15W / 65L
+2026-04-26 00:03:22,382 [INFO] __main__: [ILAgent] 80/500 battles | W:15 L:65
+2026-04-26 00:03:24,505 [INFO] src.agent: [ILAgent] WON — 16W / 65L
+2026-04-26 00:03:24,507 [INFO] __main__: [ILAgent] 81/500 battles | W:16 L:65
+2026-04-26 00:03:26,384 [INFO] src.agent: [ILAgent] LOST — 16W / 66L
+2026-04-26 00:03:26,386 [INFO] __main__: [ILAgent] 82/500 battles | W:16 L:66
+2026-04-26 00:03:27,790 [INFO] src.agent: [ILAgent] LOST — 16W / 67L
+2026-04-26 00:03:27,791 [INFO] __main__: [ILAgent] 83/500 battles | W:16 L:67
+2026-04-26 00:03:28,670 [INFO] src.agent: [ILAgent] LOST — 16W / 68L
+2026-04-26 00:03:28,672 [INFO] __main__: [ILAgent] 84/500 battles | W:16 L:68
+2026-04-26 00:03:29,610 [INFO] src.agent: [ILAgent] LOST — 16W / 69L
+2026-04-26 00:03:29,611 [INFO] __main__: [ILAgent] 85/500 battles | W:16 L:69
+2026-04-26 00:03:30,840 [INFO] src.agent: [ILAgent] LOST — 16W / 70L
+2026-04-26 00:03:30,842 [INFO] __main__: [ILAgent] 86/500 battles | W:16 L:70
+2026-04-26 00:03:33,910 [INFO] src.agent: [ILAgent] LOST — 16W / 71L
+2026-04-26 00:03:33,913 [INFO] __main__: [ILAgent] 87/500 battles | W:16 L:71
+2026-04-26 00:03:35,032 [INFO] src.agent: [ILAgent] LOST — 16W / 72L
+2026-04-26 00:03:35,032 [INFO] __main__: [ILAgent] 88/500 battles | W:16 L:72
+2026-04-26 00:03:37,247 [INFO] src.agent: [ILAgent] LOST — 16W / 73L
+2026-04-26 00:03:37,250 [INFO] __main__: [ILAgent] 89/500 battles | W:16 L:73
+2026-04-26 00:03:38,623 [INFO] src.agent: [ILAgent] LOST — 16W / 74L
+2026-04-26 00:03:38,624 [INFO] __main__: [ILAgent] 90/500 battles | W:16 L:74
+2026-04-26 00:03:40,031 [INFO] src.agent: [ILAgent] LOST — 16W / 75L
+2026-04-26 00:03:40,033 [INFO] __main__: [ILAgent] 91/500 battles | W:16 L:75
+2026-04-26 00:03:42,830 [INFO] src.agent: [ILAgent] WON — 17W / 75L
+2026-04-26 00:03:42,831 [INFO] __main__: [ILAgent] 92/500 battles | W:17 L:75
+2026-04-26 00:03:46,316 [INFO] src.agent: [ILAgent] WON — 18W / 75L
+2026-04-26 00:03:46,317 [INFO] __main__: [ILAgent] 93/500 battles | W:18 L:75
+2026-04-26 00:03:48,027 [INFO] src.agent: [ILAgent] LOST — 18W / 76L
+2026-04-26 00:03:48,033 [INFO] __main__: [ILAgent] 94/500 battles | W:18 L:76
+2026-04-26 00:03:48,872 [INFO] src.agent: [ILAgent] LOST — 18W / 77L
+2026-04-26 00:03:48,873 [INFO] __main__: [ILAgent] 95/500 battles | W:18 L:77
+2026-04-26 00:03:50,174 [INFO] src.agent: [ILAgent] LOST — 18W / 78L
+2026-04-26 00:03:50,174 [INFO] __main__: [ILAgent] 96/500 battles | W:18 L:78
+2026-04-26 00:03:51,230 [INFO] src.agent: [ILAgent] LOST — 18W / 79L
+2026-04-26 00:03:51,233 [INFO] __main__: [ILAgent] 97/500 battles | W:18 L:79
+2026-04-26 00:03:53,329 [INFO] src.agent: [ILAgent] LOST — 18W / 80L
+2026-04-26 00:03:53,331 [INFO] __main__: [ILAgent] 98/500 battles | W:18 L:80
+2026-04-26 00:03:55,470 [INFO] src.agent: [ILAgent] LOST — 18W / 81L
+2026-04-26 00:03:55,471 [INFO] __main__: [ILAgent] 99/500 battles | W:18 L:81
+2026-04-26 00:03:56,826 [INFO] src.agent: [ILAgent] LOST — 18W / 82L
+2026-04-26 00:03:56,829 [INFO] __main__: [ILAgent] 100/500 battles | W:18 L:82
+2026-04-26 00:03:58,660 [INFO] src.agent: [ILAgent] LOST — 18W / 83L
+2026-04-26 00:03:58,660 [INFO] __main__: [ILAgent] 101/500 battles | W:18 L:83
+2026-04-26 00:04:00,767 [INFO] src.agent: [ILAgent] LOST — 18W / 84L
+2026-04-26 00:04:00,768 [INFO] __main__: [ILAgent] 102/500 battles | W:18 L:84
+2026-04-26 00:04:02,402 [INFO] src.agent: [ILAgent] LOST — 18W / 85L
+2026-04-26 00:04:02,403 [INFO] __main__: [ILAgent] 103/500 battles | W:18 L:85
+2026-04-26 00:04:03,201 [INFO] src.agent: [ILAgent] LOST — 18W / 86L
+2026-04-26 00:04:03,202 [INFO] __main__: [ILAgent] 104/500 battles | W:18 L:86
+2026-04-26 00:04:05,574 [INFO] src.agent: [ILAgent] WON — 19W / 86L
+2026-04-26 00:04:05,575 [INFO] __main__: [ILAgent] 105/500 battles | W:19 L:86
+2026-04-26 00:04:06,829 [INFO] src.agent: [ILAgent] WON — 20W / 86L
+2026-04-26 00:04:06,833 [INFO] __main__: [ILAgent] 106/500 battles | W:20 L:86
+2026-04-26 00:04:08,749 [INFO] src.agent: [ILAgent] LOST — 20W / 87L
+2026-04-26 00:04:08,750 [INFO] __main__: [ILAgent] 107/500 battles | W:20 L:87
+2026-04-26 00:04:11,359 [INFO] src.agent: [ILAgent] LOST — 20W / 88L
+2026-04-26 00:04:11,372 [INFO] __main__: [ILAgent] 108/500 battles | W:20 L:88
+2026-04-26 00:04:12,595 [INFO] src.agent: [ILAgent] LOST — 20W / 89L
+2026-04-26 00:04:12,599 [INFO] __main__: [ILAgent] 109/500 battles | W:20 L:89
+2026-04-26 00:04:13,645 [INFO] src.agent: [ILAgent] LOST — 20W / 90L
+2026-04-26 00:04:13,651 [INFO] __main__: [ILAgent] 110/500 battles | W:20 L:90
+2026-04-26 00:04:15,019 [INFO] src.agent: [ILAgent] LOST — 20W / 91L
+2026-04-26 00:04:15,019 [INFO] __main__: [ILAgent] 111/500 battles | W:20 L:91
+2026-04-26 00:04:16,727 [INFO] src.agent: [ILAgent] LOST — 20W / 92L
+2026-04-26 00:04:16,730 [INFO] __main__: [ILAgent] 112/500 battles | W:20 L:92
+2026-04-26 00:04:17,992 [INFO] src.agent: [ILAgent] LOST — 20W / 93L
+2026-04-26 00:04:17,992 [INFO] __main__: [ILAgent] 113/500 battles | W:20 L:93
+2026-04-26 00:04:18,750 [INFO] src.agent: [ILAgent] LOST — 20W / 94L
+2026-04-26 00:04:18,752 [INFO] __main__: [ILAgent] 114/500 battles | W:20 L:94
+2026-04-26 00:04:19,668 [INFO] src.agent: [ILAgent] LOST — 20W / 95L
+2026-04-26 00:04:19,669 [INFO] __main__: [ILAgent] 115/500 battles | W:20 L:95
+2026-04-26 00:04:21,132 [INFO] src.agent: [ILAgent] LOST — 20W / 96L
+2026-04-26 00:04:21,134 [INFO] __main__: [ILAgent] 116/500 battles | W:20 L:96
+2026-04-26 00:04:23,213 [INFO] src.agent: [ILAgent] WON — 21W / 96L
+2026-04-26 00:04:23,216 [INFO] __main__: [ILAgent] 117/500 battles | W:21 L:96
+2026-04-26 00:04:24,350 [INFO] src.agent: [ILAgent] LOST — 21W / 97L
+2026-04-26 00:04:24,351 [INFO] __main__: [ILAgent] 118/500 battles | W:21 L:97
+2026-04-26 00:04:25,599 [INFO] src.agent: [ILAgent] LOST — 21W / 98L
+2026-04-26 00:04:25,602 [INFO] __main__: [ILAgent] 119/500 battles | W:21 L:98
+2026-04-26 00:04:27,681 [INFO] src.agent: [ILAgent] LOST — 21W / 99L
+2026-04-26 00:04:27,682 [INFO] __main__: [ILAgent] 120/500 battles | W:21 L:99
+2026-04-26 00:04:29,119 [INFO] src.agent: [ILAgent] LOST — 21W / 100L
+2026-04-26 00:04:29,120 [INFO] __main__: [ILAgent] 121/500 battles | W:21 L:100
+2026-04-26 00:04:31,232 [INFO] src.agent: [ILAgent] LOST — 21W / 101L
+2026-04-26 00:04:31,233 [INFO] __main__: [ILAgent] 122/500 battles | W:21 L:101
+2026-04-26 00:04:32,333 [INFO] src.agent: [ILAgent] WON — 22W / 101L
+2026-04-26 00:04:32,335 [INFO] __main__: [ILAgent] 123/500 battles | W:22 L:101
+2026-04-26 00:04:35,073 [INFO] src.agent: [ILAgent] WON — 23W / 101L
+2026-04-26 00:04:35,081 [INFO] __main__: [ILAgent] 124/500 battles | W:23 L:101
+2026-04-26 00:04:38,132 [INFO] src.agent: [ILAgent] LOST — 23W / 102L
+2026-04-26 00:04:38,139 [INFO] __main__: [ILAgent] 125/500 battles | W:23 L:102
+2026-04-26 00:04:40,021 [INFO] src.agent: [ILAgent] LOST — 23W / 103L
+2026-04-26 00:04:40,022 [INFO] __main__: [ILAgent] 126/500 battles | W:23 L:103
+2026-04-26 00:04:42,742 [INFO] src.agent: [ILAgent] WON — 24W / 103L
+2026-04-26 00:04:42,743 [INFO] __main__: [ILAgent] 127/500 battles | W:24 L:103
+2026-04-26 00:04:44,602 [INFO] src.agent: [ILAgent] WON — 25W / 103L
+2026-04-26 00:04:44,603 [INFO] __main__: [ILAgent] 128/500 battles | W:25 L:103
+2026-04-26 00:04:46,549 [INFO] src.agent: [ILAgent] WON — 26W / 103L
+2026-04-26 00:04:46,550 [INFO] __main__: [ILAgent] 129/500 battles | W:26 L:103
+2026-04-26 00:04:49,095 [INFO] src.agent: [ILAgent] WON — 27W / 103L
+2026-04-26 00:04:49,098 [INFO] __main__: [ILAgent] 130/500 battles | W:27 L:103
+2026-04-26 00:04:51,209 [INFO] src.agent: [ILAgent] LOST — 27W / 104L
+2026-04-26 00:04:51,213 [INFO] __main__: [ILAgent] 131/500 battles | W:27 L:104
+2026-04-26 00:04:54,383 [INFO] src.agent: [ILAgent] WON — 28W / 104L
+2026-04-26 00:04:54,386 [INFO] __main__: [ILAgent] 132/500 battles | W:28 L:104
+2026-04-26 00:04:56,674 [INFO] src.agent: [ILAgent] WON — 29W / 104L
+2026-04-26 00:04:56,676 [INFO] __main__: [ILAgent] 133/500 battles | W:29 L:104
+2026-04-26 00:04:58,010 [INFO] src.agent: [ILAgent] LOST — 29W / 105L
+2026-04-26 00:04:58,011 [INFO] __main__: [ILAgent] 134/500 battles | W:29 L:105
+2026-04-26 00:04:59,447 [INFO] src.agent: [ILAgent] LOST — 29W / 106L
+2026-04-26 00:04:59,448 [INFO] __main__: [ILAgent] 135/500 battles | W:29 L:106
+2026-04-26 00:05:00,291 [INFO] src.agent: [ILAgent] LOST — 29W / 107L
+2026-04-26 00:05:00,292 [INFO] __main__: [ILAgent] 136/500 battles | W:29 L:107
+2026-04-26 00:05:01,572 [INFO] src.agent: [ILAgent] LOST — 29W / 108L
+2026-04-26 00:05:01,573 [INFO] __main__: [ILAgent] 137/500 battles | W:29 L:108
+2026-04-26 00:05:02,704 [INFO] src.agent: [ILAgent] LOST — 29W / 109L
+2026-04-26 00:05:02,706 [INFO] __main__: [ILAgent] 138/500 battles | W:29 L:109
+2026-04-26 00:05:03,943 [INFO] src.agent: [ILAgent] LOST — 29W / 110L
+2026-04-26 00:05:03,947 [INFO] __main__: [ILAgent] 139/500 battles | W:29 L:110
+2026-04-26 00:05:07,812 [INFO] src.agent: [ILAgent] WON — 30W / 110L
+2026-04-26 00:05:07,814 [INFO] __main__: [ILAgent] 140/500 battles | W:30 L:110
+2026-04-26 00:05:09,176 [INFO] src.agent: [ILAgent] LOST — 30W / 111L
+2026-04-26 00:05:09,177 [INFO] __main__: [ILAgent] 141/500 battles | W:30 L:111
+2026-04-26 00:05:11,158 [INFO] src.agent: [ILAgent] LOST — 30W / 112L
+2026-04-26 00:05:11,162 [INFO] __main__: [ILAgent] 142/500 battles | W:30 L:112
+2026-04-26 00:05:12,192 [INFO] src.agent: [ILAgent] LOST — 30W / 113L
+2026-04-26 00:05:12,194 [INFO] __main__: [ILAgent] 143/500 battles | W:30 L:113
+2026-04-26 00:05:14,448 [INFO] src.agent: [ILAgent] WON — 31W / 113L
+2026-04-26 00:05:14,450 [INFO] __main__: [ILAgent] 144/500 battles | W:31 L:113
+2026-04-26 00:05:16,282 [INFO] src.agent: [ILAgent] LOST — 31W / 114L
+2026-04-26 00:05:16,285 [INFO] __main__: [ILAgent] 145/500 battles | W:31 L:114
+2026-04-26 00:05:17,806 [INFO] src.agent: [ILAgent] LOST — 31W / 115L
+2026-04-26 00:05:17,808 [INFO] __main__: [ILAgent] 146/500 battles | W:31 L:115
+2026-04-26 00:05:19,463 [INFO] src.agent: [ILAgent] WON — 32W / 115L
+2026-04-26 00:05:19,463 [INFO] __main__: [ILAgent] 147/500 battles | W:32 L:115
+2026-04-26 00:05:20,654 [INFO] src.agent: [ILAgent] LOST — 32W / 116L
+2026-04-26 00:05:20,656 [INFO] __main__: [ILAgent] 148/500 battles | W:32 L:116
+2026-04-26 00:05:21,563 [INFO] src.agent: [ILAgent] LOST — 32W / 117L
+2026-04-26 00:05:21,564 [INFO] __main__: [ILAgent] 149/500 battles | W:32 L:117
+2026-04-26 00:05:22,417 [INFO] src.agent: [ILAgent] LOST — 32W / 118L
+2026-04-26 00:05:22,418 [INFO] __main__: [ILAgent] 150/500 battles | W:32 L:118
+2026-04-26 00:05:23,698 [INFO] src.agent: [ILAgent] WON — 33W / 118L
+2026-04-26 00:05:23,699 [INFO] __main__: [ILAgent] 151/500 battles | W:33 L:118
+2026-04-26 00:05:25,750 [INFO] src.agent: [ILAgent] LOST — 33W / 119L
+2026-04-26 00:05:25,752 [INFO] __main__: [ILAgent] 152/500 battles | W:33 L:119
+2026-04-26 00:05:28,762 [INFO] src.agent: [ILAgent] LOST — 33W / 120L
+2026-04-26 00:05:28,764 [INFO] __main__: [ILAgent] 153/500 battles | W:33 L:120
+2026-04-26 00:05:29,945 [INFO] src.agent: [ILAgent] LOST — 33W / 121L
+2026-04-26 00:05:29,945 [INFO] __main__: [ILAgent] 154/500 battles | W:33 L:121
+2026-04-26 00:05:31,230 [INFO] src.agent: [ILAgent] LOST — 33W / 122L
+2026-04-26 00:05:31,231 [INFO] __main__: [ILAgent] 155/500 battles | W:33 L:122
+2026-04-26 00:05:32,923 [INFO] src.agent: [ILAgent] LOST — 33W / 123L
+2026-04-26 00:05:32,924 [INFO] __main__: [ILAgent] 156/500 battles | W:33 L:123
+2026-04-26 00:05:34,455 [INFO] src.agent: [ILAgent] WON — 34W / 123L
+2026-04-26 00:05:34,458 [INFO] __main__: [ILAgent] 157/500 battles | W:34 L:123
+2026-04-26 00:05:36,798 [INFO] src.agent: [ILAgent] WON — 35W / 123L
+2026-04-26 00:05:36,799 [INFO] __main__: [ILAgent] 158/500 battles | W:35 L:123
+2026-04-26 00:05:39,202 [INFO] src.agent: [ILAgent] WON — 36W / 123L
+2026-04-26 00:05:39,203 [INFO] __main__: [ILAgent] 159/500 battles | W:36 L:123
+2026-04-26 00:05:40,728 [INFO] src.agent: [ILAgent] WON — 37W / 123L
+2026-04-26 00:05:40,731 [INFO] __main__: [ILAgent] 160/500 battles | W:37 L:123
+2026-04-26 00:05:42,062 [INFO] src.agent: [ILAgent] WON — 38W / 123L
+2026-04-26 00:05:42,064 [INFO] __main__: [ILAgent] 161/500 battles | W:38 L:123
+2026-04-26 00:05:43,232 [INFO] src.agent: [ILAgent] LOST — 38W / 124L
+2026-04-26 00:05:43,233 [INFO] __main__: [ILAgent] 162/500 battles | W:38 L:124
+2026-04-26 00:05:44,337 [INFO] src.agent: [ILAgent] LOST — 38W / 125L
+2026-04-26 00:05:44,340 [INFO] __main__: [ILAgent] 163/500 battles | W:38 L:125
+2026-04-26 00:05:45,913 [INFO] src.agent: [ILAgent] LOST — 38W / 126L
+2026-04-26 00:05:45,914 [INFO] __main__: [ILAgent] 164/500 battles | W:38 L:126
+2026-04-26 00:05:48,071 [INFO] src.agent: [ILAgent] LOST — 38W / 127L
+2026-04-26 00:05:48,075 [INFO] __main__: [ILAgent] 165/500 battles | W:38 L:127
+2026-04-26 00:05:49,518 [INFO] src.agent: [ILAgent] LOST — 38W / 128L
+2026-04-26 00:05:49,518 [INFO] __main__: [ILAgent] 166/500 battles | W:38 L:128
+2026-04-26 00:05:50,695 [INFO] src.agent: [ILAgent] LOST — 38W / 129L
+2026-04-26 00:05:50,695 [INFO] __main__: [ILAgent] 167/500 battles | W:38 L:129
+2026-04-26 00:05:53,718 [INFO] src.agent: [ILAgent] WON — 39W / 129L
+2026-04-26 00:05:53,719 [INFO] __main__: [ILAgent] 168/500 battles | W:39 L:129
+2026-04-26 00:05:56,644 [INFO] src.agent: [ILAgent] WON — 40W / 129L
+2026-04-26 00:05:56,645 [INFO] __main__: [ILAgent] 169/500 battles | W:40 L:129
+2026-04-26 00:05:57,892 [INFO] src.agent: [ILAgent] LOST — 40W / 130L
+2026-04-26 00:05:57,893 [INFO] __main__: [ILAgent] 170/500 battles | W:40 L:130
+2026-04-26 00:05:58,926 [INFO] src.agent: [ILAgent] LOST — 40W / 131L
+2026-04-26 00:05:58,932 [INFO] __main__: [ILAgent] 171/500 battles | W:40 L:131
+2026-04-26 00:06:00,478 [INFO] src.agent: [ILAgent] LOST — 40W / 132L
+2026-04-26 00:06:00,479 [INFO] __main__: [ILAgent] 172/500 battles | W:40 L:132
+2026-04-26 00:06:01,464 [INFO] __main__: IL agent stopped by user (Ctrl+C).
+2026-04-26 00:06:01,466 [INFO] __main__: IL agent session finished.

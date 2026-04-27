@@ -1,0 +1,416 @@
+|j|☆VPVPVP
+|j|☆brianfut
+|t:|1776974113
+|gametype|singles
+|player|p1|VPVPVP|unknownf|2036
+|player|p2|brianfut|lucas|1979
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776974113
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Smeargle|Smeargle, L95, M|258/258
+|switch|p2a: Dipplin|Dipplin, L88, F|284/284
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by VPVPVP)
+|c|☆brianfut|NO HAX
+|
+|t:|1776974133
+|move|p1a: Smeargle|Sticky Web|p2a: Dipplin
+|-sidestart|p2: brianfut|move: Sticky Web
+|move|p2a: Dipplin|Dragon Pulse|p1a: Smeargle
+|-damage|p1a: Smeargle|117/258
+|
+|upkeep
+|turn|2
+|
+|t:|1776974141
+|switch|p1a: Misdreavus|Misdreavus, L90, M|254/254
+|move|p2a: Dipplin|Dragon Pulse|p1a: Misdreavus
+|-damage|p1a: Misdreavus|191/254
+|
+|upkeep
+|turn|3
+|
+|t:|1776974165
+|switch|p2a: Amoonguss|Amoonguss, L82, F|321/321
+|-activate|p2a: Amoonguss|move: Sticky Web
+|-unboost|p2a: Amoonguss|spe|1
+|move|p1a: Misdreavus|Will-O-Wisp|p2a: Amoonguss
+|-status|p2a: Amoonguss|brn
+|
+|-damage|p2a: Amoonguss|301/321 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1776974173
+|switch|p1a: Revavroom|Revavroom, L79, F|256/256
+|move|p2a: Amoonguss|Toxic|p1a: Revavroom
+|-immune|p1a: Revavroom
+|
+|-heal|p2a: Amoonguss|321/321 brn|[from] item: Leftovers
+|-damage|p2a: Amoonguss|301/321 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1776974177
+|move|p1a: Revavroom|Shift Gear|p1a: Revavroom
+|-boost|p1a: Revavroom|spe|2
+|-boost|p1a: Revavroom|atk|1
+|move|p2a: Amoonguss|Spore|p1a: Revavroom
+|-status|p1a: Revavroom|slp|[from] move: Spore
+|
+|-heal|p2a: Amoonguss|321/321 brn|[from] item: Leftovers
+|-damage|p2a: Amoonguss|301/321 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1776974182
+|cant|p1a: Revavroom|slp
+|move|p2a: Amoonguss|Giga Drain|p1a: Revavroom
+|-resisted|p1a: Revavroom
+|-damage|p1a: Revavroom|233/256 slp
+|-heal|p2a: Amoonguss|313/321 brn|[from] drain|[of] p1a: Revavroom
+|
+|-heal|p2a: Amoonguss|321/321 brn|[from] item: Leftovers
+|-damage|p2a: Amoonguss|301/321 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1776974192
+|switch|p2a: Ceruledge|Ceruledge, L78, M|245/245
+|cant|p1a: Revavroom|slp
+|
+|upkeep
+|turn|8
+|
+|t:|1776974199
+|cant|p1a: Revavroom|slp
+|move|p2a: Ceruledge|Bitter Blade|p1a: Revavroom
+|-supereffective|p1a: Revavroom
+|-crit|p1a: Revavroom
+|-damage|p1a: Revavroom|2/256 slp
+|
+|upkeep
+|turn|9
+|
+|t:|1776974204
+|switch|p2a: Amoonguss|Amoonguss, L82, F|321/321 brn
+|-activate|p2a: Amoonguss|move: Sticky Web
+|-unboost|p2a: Amoonguss|spe|1
+|-curestatus|p1a: Revavroom|slp|[msg]
+|move|p1a: Revavroom|High Horsepower|p2a: Amoonguss
+|-damage|p2a: Amoonguss|146/321 brn
+|-damage|p1a: Revavroom|0 fnt|[from] item: Life Orb
+|faint|p1a: Revavroom
+|
+|-heal|p2a: Amoonguss|166/321 brn|[from] item: Leftovers
+|-damage|p2a: Amoonguss|146/321 brn|[from] brn
+|upkeep
+|
+|t:|1776974212
+|switch|p1a: Smeargle|Smeargle, L95, M|117/258
+|turn|10
+|
+|t:|1776974216
+|move|p1a: Smeargle|Ceaseless Edge|p2a: Amoonguss
+|-damage|p2a: Amoonguss|119/321 brn
+|-sidestart|p2: brianfut|Spikes
+|move|p2a: Amoonguss|Giga Drain|p1a: Smeargle
+|-damage|p1a: Smeargle|23/258
+|-heal|p2a: Amoonguss|166/321 brn|[from] drain|[of] p1a: Smeargle
+|
+|-heal|p2a: Amoonguss|186/321 brn|[from] item: Leftovers
+|-damage|p2a: Amoonguss|166/321 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1776974219
+|move|p1a: Smeargle|Ceaseless Edge|p2a: Amoonguss
+|-damage|p2a: Amoonguss|140/321 brn
+|-sidestart|p2: brianfut|Spikes
+|move|p2a: Amoonguss|Giga Drain|p1a: Smeargle
+|-damage|p1a: Smeargle|0 fnt
+|-heal|p2a: Amoonguss|152/321 brn|[from] drain|[of] p1a: Smeargle
+|faint|p1a: Smeargle
+|
+|-heal|p2a: Amoonguss|172/321 brn|[from] item: Leftovers
+|-damage|p2a: Amoonguss|152/321 brn|[from] brn
+|upkeep
+|c|☆brianfut|haxor
+|c|☆brianfut|miss tomorrow???
+|
+|t:|1776974247
+|switch|p1a: Ambipom|Ambipom, L84, M|263/263
+|turn|12
+|inactive|VPVPVP has 120 seconds left.
+|
+|t:|1776974272
+|switch|p2a: Magmortar|Magmortar, L88, F|275/275
+|move|p1a: Ambipom|Double-Edge|p2a: Magmortar
+|-damage|p2a: Magmortar|47/275
+|-damage|p1a: Ambipom|188/263|[from] Recoil
+|
+|upkeep
+|turn|13
+|inactive|VPVPVP has 120 seconds left.
+|
+|t:|1776974282
+|move|p1a: Ambipom|Double-Edge|p2a: Magmortar
+|-damage|p2a: Magmortar|0 fnt
+|-status|p1a: Ambipom|brn|[from] ability: Flame Body|[of] p2a: Magmortar
+|faint|p2a: Magmortar
+|-damage|p1a: Ambipom|172/263 brn|[from] Recoil
+|
+|-damage|p1a: Ambipom|156/263 brn|[from] brn
+|upkeep
+|
+|t:|1776974294
+|switch|p2a: Ceruledge|Ceruledge, L78, M|245/245
+|turn|14
+|
+|t:|1776974297
+|switch|p1a: Misdreavus|Misdreavus, L90, M|191/254
+|move|p2a: Ceruledge|Swords Dance|p2a: Ceruledge
+|-boost|p2a: Ceruledge|atk|2
+|
+|upkeep
+|turn|15
+|
+|t:|1776974300
+|move|p1a: Misdreavus|Shadow Ball|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-damage|p2a: Ceruledge|59/245
+|move|p2a: Ceruledge|Bitter Blade|p1a: Misdreavus
+|-damage|p1a: Misdreavus|26/254
+|-heal|p2a: Ceruledge|142/245|[from] drain|[of] p1a: Misdreavus
+|
+|upkeep
+|turn|16
+|
+|t:|1776974310
+|move|p1a: Misdreavus|Shadow Ball|p2a: Ceruledge
+|-supereffective|p2a: Ceruledge
+|-damage|p2a: Ceruledge|0 fnt
+|faint|p2a: Ceruledge
+|
+|upkeep
+|
+|t:|1776974318
+|switch|p2a: Amoonguss|Amoonguss, L82, F|259/321 brn
+|-activate|p2a: Amoonguss|move: Sticky Web
+|-unboost|p2a: Amoonguss|spe|1
+|-damage|p2a: Amoonguss|206/321 brn|[from] Spikes
+|turn|17
+|
+|t:|1776974327
+|switch|p1a: Ambipom|Ambipom, L84, M|156/263 brn
+|move|p2a: Amoonguss|Sludge Bomb|p1a: Ambipom
+|-crit|p1a: Ambipom
+|-damage|p1a: Ambipom|9/263 brn
+|
+|-heal|p2a: Amoonguss|226/321 brn|[from] item: Leftovers
+|-damage|p1a: Ambipom|0 fnt|[from] brn
+|faint|p1a: Ambipom
+|-damage|p2a: Amoonguss|206/321 brn|[from] brn
+|upkeep
+|
+|t:|1776974338
+|switch|p1a: Swampert|Swampert, L83, F|302/302
+|turn|18
+|
+|t:|1776974356
+|-terastallize|p1a: Swampert|Steel
+|move|p1a: Swampert|Earthquake|p2a: Amoonguss
+|-crit|p2a: Amoonguss
+|-damage|p2a: Amoonguss|5/321 brn
+|move|p2a: Amoonguss|Spore|p1a: Swampert
+|-status|p1a: Swampert|slp|[from] move: Spore
+|
+|-heal|p2a: Amoonguss|25/321 brn|[from] item: Leftovers
+|-damage|p2a: Amoonguss|5/321 brn|[from] brn
+|upkeep
+|turn|19
+|c|☆brianfut|HAXOR
+|c|☆brianfut|EHI
+|c|☆brianfut|CRITICAL HIT TURN 18
+|
+|t:|1776974380
+|switch|p2a: Gholdengo|Gholdengo, L77|261/261
+|-activate|p2a: Gholdengo|move: Sticky Web
+|-unboost|p2a: Gholdengo|spe|1
+|-damage|p2a: Gholdengo|218/261|[from] Spikes
+|cant|p1a: Swampert|slp
+|
+|-heal|p2a: Gholdengo|234/261|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1776974387
+|cant|p1a: Swampert|slp
+|move|p2a: Gholdengo|Shadow Ball|p1a: Swampert
+|-damage|p1a: Swampert|209/302 slp
+|
+|-heal|p1a: Swampert|227/302 slp|[from] item: Leftovers
+|-heal|p2a: Gholdengo|250/261|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1776974390
+|-terastallize|p2a: Gholdengo|Dark
+|-curestatus|p1a: Swampert|slp|[msg]
+|move|p1a: Swampert|Earthquake|p2a: Gholdengo
+|-crit|p2a: Gholdengo
+|-damage|p2a: Gholdengo|81/261
+|move|p2a: Gholdengo|Shadow Ball|p1a: Swampert
+|-damage|p1a: Swampert|137/302
+|-unboost|p1a: Swampert|spd|1
+|
+|-heal|p1a: Swampert|155/302|[from] item: Leftovers
+|-heal|p2a: Gholdengo|97/261|[from] item: Leftovers
+|upkeep
+|turn|22
+|c|☆brianfut|HAXOR
+|c|☆brianfut|EHI
+|c|☆brianfut|STOP HAX
+|c|☆brianfut|CRITICAL HIT TURN 21
+|c|☆brianfut|OH
+|
+|t:|1776974403
+|move|p1a: Swampert|Earthquake|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|
+|-heal|p1a: Swampert|173/302|[from] item: Leftovers
+|upkeep
+|c|☆VPVPVP|was a 2hko still
+|c|☆brianfut|PHENOMENO
+|c|☆brianfut|critical hit turn 21
+|c|☆brianfut|i could do other shadowball
+|
+|t:|1776974423
+|switch|p2a: Kommo-o|Kommo-o, L78, F|245/245
+|-activate|p2a: Kommo-o|move: Sticky Web
+|-unboost|p2a: Kommo-o|spe|1
+|-damage|p2a: Kommo-o|205/245|[from] Spikes
+|turn|23
+|c|☆VPVPVP|im faster
+|c|☆brianfut|revenge kill then
+|c|☆brianfut|damage
+|inactive|brianfut has 120 seconds left.
+|c|☆brianfut|stop hax a
+|
+|t:|1776974458
+|move|p1a: Swampert|Yawn|p2a: Kommo-o
+|-start|p2a: Kommo-o|move: Yawn|[of] p1a: Swampert
+|move|p2a: Kommo-o|Scale Shot|p1a: Swampert
+|-resisted|p1a: Swampert
+|-damage|p1a: Swampert|159/302
+|-resisted|p1a: Swampert
+|-damage|p1a: Swampert|146/302
+|-resisted|p1a: Swampert
+|-damage|p1a: Swampert|132/302
+|-resisted|p1a: Swampert
+|-damage|p1a: Swampert|120/302
+|-resisted|p1a: Swampert
+|-damage|p1a: Swampert|106/302
+|-hitcount|p1a: Swampert|5
+|-unboost|p2a: Kommo-o|def|1
+|-boost|p2a: Kommo-o|spe|1
+|
+|-heal|p1a: Swampert|124/302|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1776974482
+|move|p2a: Kommo-o|Close Combat|p1a: Swampert
+|-supereffective|p1a: Swampert
+|-damage|p1a: Swampert|0 fnt
+|-unboost|p2a: Kommo-o|def|1
+|-unboost|p2a: Kommo-o|spd|1
+|faint|p1a: Swampert
+|
+|-end|p2a: Kommo-o|move: Yawn|[silent]
+|-status|p2a: Kommo-o|slp
+|upkeep
+|
+|t:|1776974485
+|switch|p1a: Misdreavus|Misdreavus, L90, M|26/254
+|turn|25
+|
+|t:|1776974491
+|switch|p2a: Amoonguss|Amoonguss, L82, F|112/321 brn
+|-activate|p2a: Amoonguss|move: Sticky Web
+|-unboost|p2a: Amoonguss|spe|1
+|-damage|p2a: Amoonguss|59/321 brn|[from] Spikes
+|move|p1a: Misdreavus|Calm Mind|p1a: Misdreavus
+|-boost|p1a: Misdreavus|spa|1
+|-boost|p1a: Misdreavus|spd|1
+|
+|-heal|p2a: Amoonguss|79/321 brn|[from] item: Leftovers
+|-damage|p2a: Amoonguss|59/321 brn|[from] brn
+|upkeep
+|turn|26
+|
+|t:|1776974496
+|move|p1a: Misdreavus|Shadow Ball|p2a: Amoonguss
+|-damage|p2a: Amoonguss|0 fnt
+|faint|p2a: Amoonguss
+|
+|upkeep
+|
+|t:|1776974498
+|switch|p2a: Dipplin|Dipplin, L88, F|284/284
+|-activate|p2a: Dipplin|move: Sticky Web
+|-unboost|p2a: Dipplin|spe|1
+|-damage|p2a: Dipplin|237/284|[from] Spikes
+|turn|27
+|
+|t:|1776974507
+|move|p2a: Dipplin|Sucker Punch|p1a: Misdreavus
+|-supereffective|p1a: Misdreavus
+|-crit|p1a: Misdreavus
+|-damage|p1a: Misdreavus|0 fnt
+|faint|p1a: Misdreavus
+|
+|upkeep
+|
+|t:|1776974509
+|switch|p1a: Klawf|Klawf, L90, F|272/272
+|turn|28
+|c|☆VPVPVP|gg
+|c|☆brianfut|why
+|c|☆brianfut|why you haxed me?
+|inactive|VPVPVP has 120 seconds left.
+|
+|t:|1776974541
+|move|p1a: Klawf|Stone Edge|p2a: Dipplin|[miss]
+|-miss|p1a: Klawf|p2a: Dipplin
+|move|p2a: Dipplin|Giga Drain|p1a: Klawf
+|-supereffective|p1a: Klawf
+|-damage|p1a: Klawf|50/272
+|-heal|p2a: Dipplin|284/284|[from] drain|[of] p1a: Klawf
+|
+|upkeep
+|turn|29
+|
+|t:|1776974545
+|move|p1a: Klawf|Stone Edge|p2a: Dipplin
+|-damage|p2a: Dipplin|193/284
+|-damage|p1a: Klawf|23/272|[from] item: Life Orb
+|move|p2a: Dipplin|Giga Drain|p1a: Klawf
+|-supereffective|p1a: Klawf
+|-damage|p1a: Klawf|0 fnt
+|-heal|p2a: Dipplin|205/284|[from] drain|[of] p1a: Klawf
+|faint|p1a: Klawf
+|
+|win|brianfut
+|raw|VPVPVP's rating: 2036 &rarr; <strong>2012</strong><br />(-24 for losing)
+|raw|brianfut's rating: 1958 &rarr; <strong>1982</strong><br />(+24 for winning)

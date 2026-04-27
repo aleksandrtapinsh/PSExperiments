@@ -1,0 +1,383 @@
+|j|☆fotossintese
+|j|☆AminitraboTTT
+|t:|1776980406
+|gametype|singles
+|player|p1|fotossintese|selene|
+|player|p2|AminitraboTTT|supernerd|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776980406
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kommo-o|Kommo-o, L78, F|245/245
+|switch|p2a: Haxorus|Haxorus, L77, M|244/244
+|-ability|p2a: Haxorus|Mold Breaker
+|turn|1
+|c|☆AminitraboTTT|Hola, soy AminitraboTTT, el bot de la sala Español. gl hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by AminitraboTTT)
+|
+|t:|1776980413
+|switch|p1a: Toxapex|Toxapex, L82, F|216/216
+|move|p2a: Haxorus|Dragon Dance|p2a: Haxorus
+|-boost|p2a: Haxorus|atk|1
+|-boost|p2a: Haxorus|spe|1
+|
+|upkeep
+|turn|2
+|
+|t:|1776980419
+|-terastallize|p2a: Haxorus|Steel
+|move|p2a: Haxorus|Dragon Dance|p2a: Haxorus
+|-boost|p2a: Haxorus|atk|1
+|-boost|p2a: Haxorus|spe|1
+|move|p1a: Toxapex|Haze|p1a: Toxapex
+|-clearallboost
+|
+|upkeep
+|turn|3
+|inactive|fotossintese has 270 seconds left.
+|
+|t:|1776980459
+|switch|p1a: Arceus|Arceus-Grass, L73|296/296
+|move|p2a: Haxorus|Dragon Dance|p2a: Haxorus
+|-boost|p2a: Haxorus|atk|1
+|-boost|p2a: Haxorus|spe|1
+|
+|upkeep
+|turn|4
+|inactive|fotossintese has 270 seconds left.
+|
+|t:|1776980465
+|move|p2a: Haxorus|Dragon Dance|p2a: Haxorus
+|-boost|p2a: Haxorus|atk|1
+|-boost|p2a: Haxorus|spe|1
+|move|p1a: Arceus|Fire Blast|p2a: Haxorus
+|-supereffective|p2a: Haxorus
+|-damage|p2a: Haxorus|66/244
+|
+|upkeep
+|turn|5
+|inactive|fotossintese has 270 seconds left.
+|
+|t:|1776980478
+|switch|p1a: Regigigas|Regigigas, L84|322/322
+|-start|p1a: Regigigas|ability: Slow Start
+|move|p2a: Haxorus|Iron Head|p1a: Regigigas
+|-damage|p1a: Regigigas|145/322
+|
+|-heal|p1a: Regigigas|165/322|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776980486
+|move|p1a: Regigigas|Protect|p1a: Regigigas
+|-singleturn|p1a: Regigigas|Protect
+|move|p2a: Haxorus|Outrage|p1a: Regigigas
+|-activate|p1a: Regigigas|move: Protect
+|
+|-heal|p1a: Regigigas|185/322|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776980489
+|move|p2a: Haxorus|Iron Head|p1a: Regigigas
+|-crit|p1a: Regigigas
+|-damage|p1a: Regigigas|0 fnt
+|faint|p1a: Regigigas
+|-end|p1a: Regigigas|Slow Start|[silent]
+|
+|upkeep
+|
+|t:|1776980494
+|switch|p1a: Toxapex|Toxapex, L82, F|216/216
+|turn|8
+|
+|t:|1776980499
+|move|p2a: Haxorus|Outrage|p1a: Toxapex
+|-damage|p1a: Toxapex|32/216
+|move|p1a: Toxapex|Haze|p1a: Toxapex
+|-clearallboost
+|
+|-heal|p1a: Toxapex|45/216|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776980508
+|switch|p1a: Arceus|Arceus-Grass, L73|296/296
+|move|p2a: Haxorus|Outrage|p1a: Arceus|[from] lockedmove
+|-damage|p1a: Arceus|166/296
+|-start|p2a: Haxorus|confusion|[fatigue]
+|-enditem|p2a: Haxorus|Lum Berry|[eat]
+|-end|p2a: Haxorus|confusion
+|
+|upkeep
+|turn|10
+|
+|t:|1776980513
+|move|p1a: Arceus|Recover|p1a: Arceus
+|-heal|p1a: Arceus|296/296
+|move|p2a: Haxorus|Outrage|p1a: Arceus
+|-damage|p1a: Arceus|166/296
+|
+|upkeep
+|turn|11
+|
+|t:|1776980516
+|move|p1a: Arceus|Fire Blast|p2a: Haxorus
+|-supereffective|p2a: Haxorus
+|-damage|p2a: Haxorus|0 fnt
+|faint|p2a: Haxorus
+|
+|upkeep
+|
+|t:|1776980516
+|switch|p2a: Staraptor|Staraptor, L79, M|263/263
+|turn|12
+|
+|t:|1776980520
+|switch|p1a: Iron Boulder|Iron Boulder, L77|265/265
+|-enditem|p1a: Iron Boulder|Booster Energy
+|-activate|p1a: Iron Boulder|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Boulder|quarkdrivespe
+|move|p2a: Staraptor|Double-Edge|p1a: Iron Boulder
+|-resisted|p1a: Iron Boulder
+|-damage|p1a: Iron Boulder|135/265
+|-damage|p2a: Staraptor|220/263|[from] Recoil
+|
+|upkeep
+|turn|13
+|
+|t:|1776980527
+|move|p1a: Iron Boulder|Mighty Cleave|p2a: Staraptor
+|-supereffective|p2a: Staraptor
+|-damage|p2a: Staraptor|0 fnt
+|faint|p2a: Staraptor
+|
+|upkeep
+|
+|t:|1776980527
+|switch|p2a: Ditto|Ditto, L87|225/225
+|-transform|p2a: Ditto|p1a: Iron Boulder|[from] ability: Imposter
+|turn|14
+|
+|t:|1776980534
+|-end|p1a: Iron Boulder|Quark Drive|[silent]
+|switch|p1a: Giratina|Giratina, L75|349/349
+|-ability|p1a: Giratina|Pressure
+|move|p2a: Ditto|Mighty Cleave|p1a: Giratina
+|-damage|p1a: Giratina|255/349
+|
+|-heal|p1a: Giratina|276/349|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1776980541
+|move|p2a: Ditto|Mighty Cleave|p1a: Giratina
+|-damage|p1a: Giratina|179/349
+|move|p1a: Giratina|Dragon Pulse|p2a: Ditto
+|-damage|p2a: Ditto|159/225
+|
+|-heal|p1a: Giratina|200/349|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776980545
+|move|p2a: Ditto|Mighty Cleave|p1a: Giratina
+|-damage|p1a: Giratina|100/349
+|move|p1a: Giratina|Dragon Pulse|p2a: Ditto
+|-damage|p2a: Ditto|83/225
+|
+|-heal|p1a: Giratina|121/349|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1776980548
+|-activate|p2a: Ditto|move: Struggle
+|move|p2a: Ditto|Struggle|p1a: Giratina
+|-damage|p1a: Giratina|88/349
+|-damage|p2a: Ditto|27/225|[from] recoil
+|move|p1a: Giratina|Rest|p1a: Giratina
+|-status|p1a: Giratina|slp|[from] move: Rest
+|-heal|p1a: Giratina|349/349 slp|[silent]
+|
+|upkeep
+|turn|18
+|
+|t:|1776980553
+|-activate|p2a: Ditto|move: Struggle
+|move|p2a: Ditto|Struggle|p1a: Giratina
+|-damage|p1a: Giratina|312/349 slp
+|-damage|p2a: Ditto|0 fnt|[from] recoil
+|faint|p2a: Ditto
+|-end|p2a: Ditto|Quark Drive|[silent]
+|cant|p1a: Giratina|slp
+|move|p1a: Giratina|Sleep Talk|p1a: Giratina
+|move|p1a: Giratina|Dragon Pulse|p2: Ditto|[from] move: Sleep Talk|[notarget]
+|-fail|p1a: Giratina
+|
+|-heal|p1a: Giratina|333/349 slp|[from] item: Leftovers
+|upkeep
+|
+|t:|1776980553
+|switch|p2a: Volcanion|Volcanion, L79|255/255
+|turn|19
+|
+|t:|1776980557
+|cant|p1a: Giratina|slp
+|move|p1a: Giratina|Sleep Talk|p1a: Giratina
+|move|p1a: Giratina|Dragon Pulse|p2a: Volcanion|[from] move: Sleep Talk
+|-damage|p2a: Volcanion|203/255
+|move|p2a: Volcanion|Earth Power|p1a: Giratina
+|-crit|p1a: Giratina
+|-damage|p1a: Giratina|242/349 slp
+|
+|-heal|p1a: Giratina|263/349 slp|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1776980563
+|-curestatus|p1a: Giratina|slp|[msg]
+|move|p1a: Giratina|Dragon Pulse|p2a: Volcanion
+|-damage|p2a: Volcanion|146/255
+|move|p2a: Volcanion|Flamethrower|p1a: Giratina
+|-resisted|p1a: Giratina
+|-damage|p1a: Giratina|219/349
+|
+|-heal|p1a: Giratina|240/349|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1776980566
+|move|p1a: Giratina|Dragon Pulse|p2a: Volcanion
+|-damage|p2a: Volcanion|97/255
+|move|p2a: Volcanion|Steam Eruption|p1a: Giratina
+|-resisted|p1a: Giratina
+|-damage|p1a: Giratina|180/349
+|-status|p1a: Giratina|brn
+|
+|-heal|p1a: Giratina|201/349 brn|[from] item: Leftovers
+|-damage|p1a: Giratina|180/349 brn|[from] brn
+|upkeep
+|turn|22
+|
+|t:|1776980568
+|move|p1a: Giratina|Dragon Pulse|p2a: Volcanion
+|-damage|p2a: Volcanion|43/255
+|move|p2a: Volcanion|Earth Power|p1a: Giratina
+|-damage|p1a: Giratina|119/349 brn
+|
+|-heal|p1a: Giratina|140/349 brn|[from] item: Leftovers
+|-damage|p1a: Giratina|119/349 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1776980570
+|move|p1a: Giratina|Rest|p1a: Giratina
+|-status|p1a: Giratina|slp|[from] move: Rest
+|-heal|p1a: Giratina|349/349 slp|[silent]
+|move|p2a: Volcanion|Steam Eruption|p1a: Giratina
+|-resisted|p1a: Giratina
+|-damage|p1a: Giratina|292/349 slp
+|
+|-heal|p1a: Giratina|313/349 slp|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1776980572
+|cant|p1a: Giratina|slp
+|move|p1a: Giratina|Sleep Talk|p1a: Giratina
+|move|p1a: Giratina|Calm Mind|p1a: Giratina|[from] move: Sleep Talk
+|-boost|p1a: Giratina|spa|1
+|-boost|p1a: Giratina|spd|1
+|move|p2a: Volcanion|Flamethrower|p1a: Giratina
+|-resisted|p1a: Giratina
+|-damage|p1a: Giratina|283/349 slp
+|
+|-heal|p1a: Giratina|304/349 slp|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1776980573
+|cant|p1a: Giratina|slp
+|move|p1a: Giratina|Sleep Talk|p1a: Giratina
+|move|p1a: Giratina|Dragon Pulse|p2a: Volcanion|[from] move: Sleep Talk
+|-damage|p2a: Volcanion|0 fnt
+|faint|p2a: Volcanion
+|
+|-heal|p1a: Giratina|325/349 slp|[from] item: Leftovers
+|upkeep
+|
+|t:|1776980574
+|switch|p2a: Chesnaught|Chesnaught, L84, F|285/285
+|turn|26
+|
+|t:|1776980576
+|-curestatus|p1a: Giratina|slp|[msg]
+|move|p1a: Giratina|Dragon Pulse|p2a: Chesnaught
+|-damage|p2a: Chesnaught|149/285
+|move|p2a: Chesnaught|Trailblaze|p1a: Giratina
+|-resisted|p1a: Giratina
+|-damage|p1a: Giratina|301/349
+|-boost|p2a: Chesnaught|spe|1
+|
+|-heal|p2a: Chesnaught|166/285|[from] item: Leftovers
+|-heal|p1a: Giratina|322/349|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1776980578
+|move|p2a: Chesnaught|Trailblaze|p1a: Giratina
+|-resisted|p1a: Giratina
+|-damage|p1a: Giratina|298/349
+|-boost|p2a: Chesnaught|spe|1
+|move|p1a: Giratina|Dragon Pulse|p2a: Chesnaught
+|-damage|p2a: Chesnaught|43/285
+|
+|-heal|p2a: Chesnaught|60/285|[from] item: Leftovers
+|-heal|p1a: Giratina|319/349|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1776980581
+|move|p2a: Chesnaught|Trailblaze|p1a: Giratina
+|-resisted|p1a: Giratina
+|-damage|p1a: Giratina|292/349
+|-boost|p2a: Chesnaught|spe|1
+|move|p1a: Giratina|Dragon Pulse|p2a: Chesnaught
+|-damage|p2a: Chesnaught|0 fnt
+|faint|p2a: Chesnaught
+|
+|-heal|p1a: Giratina|313/349|[from] item: Leftovers
+|upkeep
+|
+|t:|1776980581
+|switch|p2a: Baxcalibur|Baxcalibur, L75, M|295/295
+|turn|29
+|
+|t:|1776980585
+|move|p1a: Giratina|Dragon Pulse|p2a: Baxcalibur
+|-supereffective|p2a: Baxcalibur
+|-damage|p2a: Baxcalibur|31/295
+|move|p2a: Baxcalibur|Swords Dance|p2a: Baxcalibur
+|-boost|p2a: Baxcalibur|atk|2
+|
+|-heal|p1a: Giratina|334/349|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1776980587
+|move|p1a: Giratina|Dragon Pulse|p2a: Baxcalibur
+|-supereffective|p2a: Baxcalibur
+|-damage|p2a: Baxcalibur|0 fnt
+|faint|p2a: Baxcalibur
+|
+|win|fotossintese
+|c|☆AminitraboTTT|gg
+|l|☆AminitraboTTT
+|player|p2|

@@ -1,0 +1,277 @@
+|j|☆forgoneconkeldurr
+|j|☆Dr Leopold
+|t:|1776971488
+|gametype|singles
+|player|p1|forgoneconkeldurr|102|1368
+|player|p2|Dr Leopold|2|1323
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776971488
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Golduck|Golduck, L90, F|290/290
+|switch|p2a: Arceus|Arceus-Flying, L69|279/279
+|-ability|p1a: Golduck|Cloud Nine
+|turn|1
+|
+|t:|1776971500
+|move|p2a: Arceus|Calm Mind|p2a: Arceus
+|-boost|p2a: Arceus|spa|1
+|-boost|p2a: Arceus|spd|1
+|move|p1a: Golduck|Ice Beam|p2a: Arceus
+|-supereffective|p2a: Arceus
+|-damage|p2a: Arceus|147/279
+|
+|upkeep
+|turn|2
+|
+|t:|1776971514
+|move|p2a: Arceus|Calm Mind|p2a: Arceus
+|-boost|p2a: Arceus|spa|1
+|-boost|p2a: Arceus|spd|1
+|move|p1a: Golduck|Ice Beam|p2a: Arceus
+|-supereffective|p2a: Arceus
+|-damage|p2a: Arceus|49/279
+|
+|upkeep
+|turn|3
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by forgoneconkeldurr)
+|
+|t:|1776971522
+|move|p2a: Arceus|Recover|p2a: Arceus
+|-heal|p2a: Arceus|189/279
+|move|p1a: Golduck|Ice Beam|p2a: Arceus
+|-supereffective|p2a: Arceus
+|-damage|p2a: Arceus|83/279
+|
+|upkeep
+|turn|4
+|
+|t:|1776971528
+|move|p2a: Arceus|Recover|p2a: Arceus
+|-heal|p2a: Arceus|223/279
+|move|p1a: Golduck|Ice Beam|p2a: Arceus
+|-supereffective|p2a: Arceus
+|-damage|p2a: Arceus|115/279
+|
+|upkeep
+|turn|5
+|
+|t:|1776971535
+|move|p2a: Arceus|Calm Mind|p2a: Arceus
+|-boost|p2a: Arceus|spa|1
+|-boost|p2a: Arceus|spd|1
+|move|p1a: Golduck|Ice Beam|p2a: Arceus
+|-supereffective|p2a: Arceus
+|-damage|p2a: Arceus|37/279
+|-status|p2a: Arceus|frz
+|
+|upkeep
+|turn|6
+|
+|t:|1776971544
+|cant|p2a: Arceus|frz
+|move|p1a: Golduck|Ice Beam|p2a: Arceus
+|-supereffective|p2a: Arceus
+|-damage|p2a: Arceus|0 fnt
+|faint|p2a: Arceus
+|
+|upkeep
+|c|☆Dr Leopold|YO FUCK
+|
+|t:|1776971557
+|switch|p2a: Mimikyu|Mimikyu, L79, F|216/216
+|turn|7
+|c|☆Dr Leopold|THAT WAS SOME BULLSHIT
+|
+|t:|1776971568
+|move|p1a: Golduck|Ice Beam|p2a: Mimikyu
+|-activate|p2a: Mimikyu|ability: Disguise
+|-damage|p2a: Mimikyu|216/216
+|detailschange|p2a: Mimikyu|Mimikyu-Busted, L79, F
+|-damage|p2a: Mimikyu|189/216|[from] pokemon: Mimikyu-Busted
+|move|p2a: Mimikyu|Swords Dance|p2a: Mimikyu
+|-boost|p2a: Mimikyu|atk|2
+|
+|upkeep
+|turn|8
+|
+|t:|1776971578
+|move|p1a: Golduck|Ice Beam|p2a: Mimikyu
+|-damage|p2a: Mimikyu|80/216
+|move|p2a: Mimikyu|Play Rough|p1a: Golduck
+|-damage|p1a: Golduck|94/290
+|-damage|p2a: Mimikyu|59/216|[from] item: Life Orb
+|
+|upkeep
+|turn|9
+|
+|t:|1776971586
+|move|p1a: Golduck|Ice Beam|p2a: Mimikyu
+|-damage|p2a: Mimikyu|0 fnt
+|faint|p2a: Mimikyu
+|
+|upkeep
+|
+|t:|1776971598
+|switch|p2a: Ninetales|Ninetales, L85, M|263/263
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|turn|10
+|
+|t:|1776971606
+|switch|p1a: Rhydon|Rhydon, L85, M|317/317
+|move|p2a: Ninetales|Nasty Plot|p2a: Ninetales
+|-boost|p2a: Ninetales|spa|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1776971615
+|move|p2a: Ninetales|Solar Beam||[still]
+|-prepare|p2a: Ninetales|Solar Beam
+|-anim|p2a: Ninetales|Solar Beam|p1a: Rhydon
+|-supereffective|p1a: Rhydon
+|-damage|p1a: Rhydon|0 fnt
+|faint|p1a: Rhydon
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1776971636
+|switch|p1a: Palafin|Palafin, L77, M|281/281
+|turn|12
+|
+|t:|1776971640
+|detailschange|p1a: Palafin|Palafin-Hero, L77, M
+|switch|p1a: Bombirdier|Bombirdier, L85, F|258/258
+|move|p2a: Ninetales|Solar Beam||[still]
+|-prepare|p2a: Ninetales|Solar Beam
+|-anim|p2a: Ninetales|Solar Beam|p1a: Bombirdier
+|-resisted|p1a: Bombirdier
+|-damage|p1a: Bombirdier|184/258
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1776971650
+|move|p2a: Ninetales|Fire Blast|p1a: Bombirdier
+|-damage|p1a: Bombirdier|0 fnt
+|faint|p1a: Bombirdier
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1776971663
+|switch|p1a: Persian|Persian-Alola, L86, M|252/252
+|turn|14
+|
+|t:|1776971667
+|move|p1a: Persian|Thunder Wave|p2a: Ninetales
+|-status|p2a: Ninetales|par
+|move|p2a: Ninetales|Fire Blast|p1a: Persian
+|-damage|p1a: Persian|0 fnt
+|faint|p1a: Persian
+|
+|-weather|none
+|upkeep
+|
+|t:|1776971682
+|switch|p1a: Golduck|Golduck, L90, F|94/290
+|-ability|p1a: Golduck|Cloud Nine
+|turn|15
+|
+|t:|1776971690
+|move|p1a: Golduck|Flip Turn|p2a: Ninetales
+|-supereffective|p2a: Ninetales
+|-crit|p2a: Ninetales
+|-damage|p2a: Ninetales|41/263 par
+|
+|t:|1776971695
+|switch|p1a: Scream Tail|Scream Tail, L84|330/330|[from] Flip Turn
+|move|p2a: Ninetales|Fire Blast|p1a: Scream Tail
+|-damage|p1a: Scream Tail|147/330
+|
+|-heal|p1a: Scream Tail|167/330|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776971705
+|move|p1a: Scream Tail|Wish|p1a: Scream Tail
+|move|p2a: Ninetales|Fire Blast|p1a: Scream Tail
+|-damage|p1a: Scream Tail|0 fnt
+|faint|p1a: Scream Tail
+|-end|p1a: Scream Tail|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1776971713
+|switch|p1a: Golduck|Golduck, L90, F|94/290
+|-ability|p1a: Golduck|Cloud Nine
+|turn|17
+|
+|t:|1776971722
+|move|p1a: Golduck|Flip Turn|p2a: Ninetales
+|-supereffective|p2a: Ninetales
+|-damage|p2a: Ninetales|0 fnt
+|faint|p2a: Ninetales
+|
+|t:|1776971727
+|switch|p1a: Palafin|Palafin-Hero, L77, M|281/281|[from] Flip Turn
+|-activate|p1a: Palafin|ability: Zero to Hero
+|
+|upkeep
+|
+|t:|1776971755
+|switch|p2a: Alcremie|Alcremie-Caramel-Swirl, L90, F|263/263
+|turn|18
+|
+|t:|1776971765
+|move|p1a: Palafin|Wave Crash|p2a: Alcremie
+|-damage|p2a: Alcremie|2/263
+|-damage|p1a: Palafin|195/281|[from] Recoil
+|move|p2a: Alcremie|Alluring Voice|p1a: Palafin
+|-damage|p1a: Palafin|68/281
+|
+|-heal|p2a: Alcremie|18/263|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1776971776
+|move|p1a: Palafin|Wave Crash|p2a: Alcremie
+|-damage|p2a: Alcremie|0 fnt
+|faint|p2a: Alcremie
+|-damage|p1a: Palafin|62/281|[from] Recoil
+|
+|upkeep
+|
+|t:|1776971788
+|switch|p2a: Bombirdier|Bombirdier, L85, F|258/258
+|turn|20
+|
+|t:|1776971795
+|move|p2a: Bombirdier|Sucker Punch|p1a: Palafin
+|-damage|p1a: Palafin|0 fnt
+|faint|p1a: Palafin
+|
+|upkeep
+|
+|t:|1776971798
+|switch|p1a: Golduck|Golduck, L90, F|94/290
+|-ability|p1a: Golduck|Cloud Nine
+|turn|21
+|
+|t:|1776971804
+|move|p2a: Bombirdier|Sucker Punch|p1a: Golduck
+|-damage|p1a: Golduck|0 fnt
+|faint|p1a: Golduck
+|
+|win|Dr Leopold

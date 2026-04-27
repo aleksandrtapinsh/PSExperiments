@@ -1,0 +1,200 @@
+|j|☆verspatten
+|j|☆Jaano
+|t:|1776969792
+|gametype|singles
+|player|p1|verspatten|swimmer-gen7|1704
+|player|p2|Jaano|swimmer|1700
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776969792
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Gothitelle|Gothitelle, L90, F|272/272
+|switch|p2a: Ogerpon|Ogerpon-Hearthflame, L74, F|239/239
+|-ability|p2a: Ogerpon|Mold Breaker
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Jaano)
+|
+|t:|1776969807
+|move|p2a: Ogerpon|Swords Dance|p2a: Ogerpon
+|-boost|p2a: Ogerpon|atk|2
+|move|p1a: Gothitelle|Psychic Noise|p2a: Ogerpon
+|-damage|p2a: Ogerpon|148/239
+|-start|p2a: Ogerpon|move: Heal Block
+|
+|upkeep
+|turn|2
+|
+|t:|1776969819
+|move|p2a: Ogerpon|Knock Off|p1a: Gothitelle
+|-supereffective|p1a: Gothitelle
+|-damage|p1a: Gothitelle|16/272
+|-enditem|p1a: Gothitelle|Leftovers|[from] move: Knock Off|[of] p2a: Ogerpon
+|move|p1a: Gothitelle|Psychic Noise|p2a: Ogerpon
+|-damage|p2a: Ogerpon|55/239
+|
+|-end|p2a: Ogerpon|move: Heal Block
+|upkeep
+|turn|3
+|
+|t:|1776969845
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Gothitelle|[anim] Ivy Cudgel Fire
+|-damage|p1a: Gothitelle|0 fnt
+|faint|p1a: Gothitelle
+|
+|upkeep
+|
+|t:|1776969851
+|switch|p1a: Furret|Furret, L94, F|312/312
+|-item|p2a: Ogerpon|Hearthflame Mask|[from] ability: Frisk|[of] p1a: Furret
+|turn|4
+|
+|t:|1776969862
+|switch|p2a: Volbeat|Volbeat, L90, M|263/263
+|move|p1a: Furret|U-turn|p2a: Volbeat
+|-damage|p2a: Volbeat|187/263
+|
+|t:|1776969878
+|switch|p1a: Okidogi|Okidogi, L77, M|262/262|[from] U-turn
+|
+|upkeep
+|turn|5
+|
+|t:|1776969891
+|-terastallize|p2a: Volbeat|Steel
+|-terastallize|p1a: Okidogi|Dark
+|move|p2a: Volbeat|Thunder Wave|p1a: Okidogi
+|-hint|Since gen 7, Dark is immune to Prankster moves.
+|-immune|p1a: Okidogi
+|move|p1a: Okidogi|Bulk Up|p1a: Okidogi
+|-boost|p1a: Okidogi|atk|1
+|-boost|p1a: Okidogi|def|1
+|
+|upkeep
+|turn|6
+|
+|t:|1776969903
+|switch|p2a: Ogerpon|Ogerpon-Hearthflame, L74, F|55/239
+|-ability|p2a: Ogerpon|Mold Breaker
+|move|p1a: Okidogi|Drain Punch|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|upkeep
+|
+|t:|1776969908
+|switch|p2a: Lumineon|Lumineon, L93, F|279/279
+|turn|7
+|
+|t:|1776969933
+|move|p2a: Lumineon|Hydro Pump|p1a: Okidogi
+|-damage|p1a: Okidogi|133/262
+|move|p1a: Okidogi|Drain Punch|p2a: Lumineon
+|-damage|p2a: Lumineon|143/279
+|-heal|p1a: Okidogi|201/262|[from] drain|[of] p2a: Lumineon
+|
+|-heal|p1a: Okidogi|217/262|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776969944
+|move|p2a: Lumineon|U-turn|p1a: Okidogi
+|-supereffective|p1a: Okidogi
+|-damage|p1a: Okidogi|157/262
+|
+|t:|1776969950
+|switch|p2a: Meowstic|Meowstic-F, L89, F|277/277|[from] U-turn
+|move|p1a: Okidogi|Knock Off|p2a: Meowstic
+|-supereffective|p2a: Meowstic
+|-damage|p2a: Meowstic|0 fnt
+|-enditem|p2a: Meowstic|Life Orb|[from] move: Knock Off|[of] p1a: Okidogi
+|faint|p2a: Meowstic
+|
+|-heal|p1a: Okidogi|173/262|[from] item: Leftovers
+|upkeep
+|
+|t:|1776969957
+|switch|p2a: Magmortar|Magmortar, L88, F|275/275
+|turn|9
+|
+|t:|1776969964
+|move|p2a: Magmortar|Will-O-Wisp|p1a: Okidogi
+|-status|p1a: Okidogi|brn
+|move|p1a: Okidogi|Gunk Shot|p2a: Magmortar
+|-damage|p2a: Magmortar|152/275
+|-status|p2a: Magmortar|psn
+|
+|-heal|p1a: Okidogi|189/262 brn|[from] item: Leftovers
+|-damage|p2a: Magmortar|118/275 psn|[from] psn
+|-damage|p1a: Okidogi|173/262 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1776969987
+|move|p2a: Magmortar|Fire Blast|p1a: Okidogi|[miss]
+|-miss|p2a: Magmortar|p1a: Okidogi
+|move|p1a: Okidogi|Bulk Up|p1a: Okidogi
+|-boost|p1a: Okidogi|atk|1
+|-boost|p1a: Okidogi|def|1
+|
+|-heal|p1a: Okidogi|189/262 brn|[from] item: Leftovers
+|-damage|p2a: Magmortar|84/275 psn|[from] psn
+|-damage|p1a: Okidogi|173/262 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1776969997
+|move|p2a: Magmortar|Fire Blast|p1a: Okidogi
+|-damage|p1a: Okidogi|10/262 brn
+|move|p1a: Okidogi|Drain Punch|p2a: Magmortar
+|-damage|p2a: Magmortar|0 fnt
+|-heal|p1a: Okidogi|52/262 brn|[from] drain|[of] p2a: Magmortar
+|faint|p2a: Magmortar
+|
+|-heal|p1a: Okidogi|68/262 brn|[from] item: Leftovers
+|-damage|p1a: Okidogi|52/262 brn|[from] brn
+|upkeep
+|
+|t:|1776970003
+|switch|p2a: Hitmonlee|Hitmonlee, L85, M|224/224
+|turn|12
+|
+|t:|1776970010
+|switch|p1a: Drifblim|Drifblim, L86, M|396/396
+|move|p2a: Hitmonlee|Swords Dance|p2a: Hitmonlee
+|-boost|p2a: Hitmonlee|atk|2
+|
+|upkeep
+|turn|13
+|
+|t:|1776970021
+|move|p2a: Hitmonlee|Knock Off|p1a: Drifblim
+|-supereffective|p1a: Drifblim
+|-damage|p1a: Drifblim|0 fnt
+|-enditem|p1a: Drifblim|Sitrus Berry|[from] move: Knock Off|[of] p2a: Hitmonlee
+|faint|p1a: Drifblim
+|
+|upkeep
+|
+|t:|1776970038
+|switch|p1a: Furret|Furret, L94, F|312/312
+|-item|p2a: Hitmonlee|White Herb|[from] ability: Frisk|[of] p1a: Furret
+|turn|14
+|
+|t:|1776970041
+|move|p1a: Furret|Double-Edge|p2a: Hitmonlee
+|-damage|p2a: Hitmonlee|0 fnt
+|faint|p2a: Hitmonlee
+|-damage|p1a: Furret|238/312|[from] Recoil
+|
+|upkeep
+|-message|Jaano forfeited.
+|
+|win|verspatten

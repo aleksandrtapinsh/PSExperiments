@@ -1,0 +1,213 @@
+|j|☆SonicObeso
+|j|☆Angolano1234567
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1776976904
+|gametype|singles
+|player|p1|SonicObeso|iris-gen5bw2|
+|player|p2|Angolano1234567|shauntal|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|Tournament battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776976904
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Toxtricity|Toxtricity, L82, F|257/257
+|switch|p2a: Golem|Golem, L87, F|281/281
+|turn|1
+|inactive|Angolano1234567 also wants the timer to be on.
+|
+|t:|1776976927
+|switch|p1a: Honchkrow|Honchkrow, L86, M|312/312
+|move|p2a: Golem|Rock Polish|p2a: Golem
+|-boost|p2a: Golem|spe|2
+|
+|upkeep
+|turn|2
+|
+|t:|1776976934
+|move|p2a: Golem|Stone Edge|p1a: Honchkrow
+|-supereffective|p1a: Honchkrow
+|-damage|p1a: Honchkrow|0 fnt
+|faint|p1a: Honchkrow
+|
+|upkeep
+|
+|t:|1776976945
+|switch|p1a: Trevenant|Trevenant, L89, F|296/296
+|turn|3
+|
+|t:|1776976960
+|switch|p2a: Gliscor|Gliscor, L76, F|239/239
+|move|p1a: Trevenant|Wood Hammer|p2a: Gliscor
+|-damage|p2a: Gliscor|60/239
+|-damage|p1a: Trevenant|237/296|[from] Recoil
+|-damage|p1a: Trevenant|208/296|[from] item: Life Orb
+|
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|4
+|
+|t:|1776976971
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Trevenant|Drain Punch|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-heal|p2a: Gliscor|89/239 tox|[from] ability: Poison Heal
+|upkeep
+|turn|5
+|j|+PokeChess
+|inactive|SonicObeso has 120 seconds left.
+|c|☆SonicObeso|todo mundo tem essa praga?
+|
+|t:|1776977026
+|switch|p2a: Dachsbun|Dachsbun, L92, F|254/254
+|move|p1a: Trevenant|Wood Hammer|p2a: Dachsbun
+|-damage|p2a: Dachsbun|93/254
+|-damage|p1a: Trevenant|155/296|[from] Recoil
+|-damage|p1a: Trevenant|126/296|[from] item: Life Orb
+|
+|-heal|p2a: Dachsbun|108/254|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776977042
+|move|p2a: Dachsbun|Wish|p2a: Dachsbun
+|move|p1a: Trevenant|Poltergeist|p2a: Dachsbun
+|-activate|p2a: Dachsbun|move: Poltergeist|Leftovers
+|-damage|p2a: Dachsbun|0 fnt
+|faint|p2a: Dachsbun
+|-damage|p1a: Trevenant|97/296|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776977043
+|switch|p2a: Gliscor|Gliscor, L76, F|89/239 tox
+|turn|7
+|
+|t:|1776977053
+|move|p2a: Gliscor|Knock Off|p1a: Trevenant
+|-supereffective|p1a: Trevenant
+|-damage|p1a: Trevenant|0 fnt
+|-enditem|p1a: Trevenant|Life Orb|[from] move: Knock Off|[of] p2a: Gliscor
+|faint|p1a: Trevenant
+|
+|-heal|p2a: Gliscor|216/239 tox|[from] move: Wish|[wisher] Dachsbun
+|-heal|p2a: Gliscor|239/239 tox|[from] ability: Poison Heal
+|upkeep
+|
+|t:|1776977073
+|switch|p1a: Toxtricity|Toxtricity, L82, F|257/257
+|turn|8
+|inactive|SonicObeso has 90 seconds left.
+|
+|t:|1776977095
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Toxtricity|Boomburst|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|upkeep
+|turn|9
+|inactive|SonicObeso has 90 seconds left.
+|
+|t:|1776977107
+|move|p2a: Gliscor|Earthquake|p1a: Toxtricity
+|-supereffective|p1a: Toxtricity
+|-crit|p1a: Toxtricity
+|-damage|p1a: Toxtricity|0 fnt
+|faint|p1a: Toxtricity
+|
+|upkeep
+|inactive|SonicObeso has 90 seconds left.
+|c|☆SonicObeso|4x e crítico
+|c|☆SonicObeso|acabou com velório do menino
+|
+|t:|1776977140
+|switch|p1a: Flamigo|Flamigo, L82, M|269/269
+|turn|10
+|inactive|SonicObeso has 60 seconds left.
+|inactive|Angolano1234567 has 120 seconds left.
+|
+|t:|1776977182
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Flamigo|Swords Dance|p1a: Flamigo
+|-boost|p1a: Flamigo|atk|2
+|
+|upkeep
+|turn|11
+|
+|t:|1776977198
+|switch|p2a: Leafeon|Leafeon, L88, M|258/258
+|move|p1a: Flamigo|Brave Bird|p2a: Leafeon
+|-supereffective|p2a: Leafeon
+|-damage|p2a: Leafeon|0 fnt
+|faint|p2a: Leafeon
+|-damage|p1a: Flamigo|184/269|[from] Recoil
+|-damage|p1a: Flamigo|158/269|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776977208
+|switch|p2a: Golem|Golem, L87, F|281/281
+|turn|12
+|
+|t:|1776977219
+|move|p1a: Flamigo|Close Combat|p2a: Golem
+|-supereffective|p2a: Golem
+|-ability|p2a: Golem|Sturdy
+|-damage|p2a: Golem|1/281
+|-unboost|p1a: Flamigo|def|1
+|-unboost|p1a: Flamigo|spd|1
+|-enditem|p2a: Golem|Weakness Policy
+|-boost|p2a: Golem|atk|2|[from] item: Weakness Policy
+|-boost|p2a: Golem|spa|2|[from] item: Weakness Policy
+|-damage|p1a: Flamigo|132/269|[from] item: Life Orb
+|move|p2a: Golem|Rock Polish|p2a: Golem
+|-boost|p2a: Golem|spe|2
+|
+|upkeep
+|turn|13
+|
+|t:|1776977226
+|move|p2a: Golem|Stone Edge|p1a: Flamigo
+|-damage|p1a: Flamigo|0 fnt
+|faint|p1a: Flamigo
+|
+|upkeep
+|
+|t:|1776977232
+|switch|p1a: Alcremie|Alcremie-Matcha-Cream, L90, F|263/263
+|turn|14
+|inactive|SonicObeso has 90 seconds left.
+|
+|t:|1776977245
+|move|p2a: Golem|Earthquake|p1a: Alcremie
+|-damage|p1a: Alcremie|0 fnt
+|faint|p1a: Alcremie
+|
+|upkeep
+|
+|t:|1776977254
+|switch|p1a: Heracross|Heracross, L80, M|259/259
+|turn|15
+|inactive|SonicObeso has 90 seconds left.
+|
+|t:|1776977272
+|-terastallize|p1a: Heracross|Normal
+|move|p2a: Golem|Explosion|p1a: Heracross
+|-damage|p1a: Heracross|0 fnt
+|faint|p2a: Golem
+|faint|p1a: Heracross
+|
+|win|Angolano1234567
+|n|☆SonicObeso|sonicobeso
+|n|☆Angolano1234567|angolano1234567
+|n| PokeChess|pokechess

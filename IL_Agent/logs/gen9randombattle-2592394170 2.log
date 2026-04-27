@@ -1,0 +1,60 @@
+|j|☆Nestors110
+|j|☆Lord Izio
+|t:|1776985201
+|gametype|singles
+|player|p1|Nestors110|fisherman-gen4|1155
+|player|p2|Lord Izio|shadowtriad|1161
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776985201
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Sawsbuck|Sawsbuck-Summer, L88, F|284/284
+|switch|p2a: Yanmega|Yanmega, L82, F|275/275
+|turn|1
+|
+|t:|1776985229
+|switch|p1a: Donphan|Donphan, L84, M|288/288
+|move|p2a: Yanmega|Bug Buzz|p1a: Donphan
+|-damage|p1a: Donphan|140/288
+|
+|-heal|p1a: Donphan|158/288|[from] item: Leftovers
+|-ability|p2a: Yanmega|Speed Boost|boost
+|-boost|p2a: Yanmega|spe|1
+|upkeep
+|turn|2
+|
+|t:|1776985243
+|move|p2a: Yanmega|Air Slash|p1a: Donphan
+|-damage|p1a: Donphan|41/288
+|move|p1a: Donphan|Stealth Rock|p2a: Yanmega
+|-sidestart|p2: Lord Izio|move: Stealth Rock
+|
+|-heal|p1a: Donphan|59/288|[from] item: Leftovers
+|-ability|p2a: Yanmega|Speed Boost|boost
+|-boost|p2a: Yanmega|spe|1
+|upkeep
+|turn|3
+|
+|t:|1776985253
+|move|p2a: Yanmega|Bug Buzz|p1a: Donphan
+|-damage|p1a: Donphan|0 fnt
+|faint|p1a: Donphan
+|
+|-ability|p2a: Yanmega|Speed Boost|boost
+|-boost|p2a: Yanmega|spe|1
+|upkeep
+|-message|Nestors110 forfeited.
+|
+|win|Lord Izio
+|raw|Nestors110's rating: 1155 &rarr; <strong>1130</strong><br />(-25 for losing)
+|raw|Lord Izio's rating: 1161 &rarr; <strong>1186</strong><br />(+25 for winning)
+|l|☆Nestors110
+|player|p1|

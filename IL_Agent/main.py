@@ -21,6 +21,10 @@ Usage
 -----
     python main.py vs_human
     python main.py vs_rl
+    python main.py vs_human --model-type nn
+    python main.py vs_human --model-type rf
+    python main.py vs_rl --model-type nn
+    python main.py vs_rl --model-type rf
     python main.py vs_human --battles 200
     python main.py vs_human --config custom.yaml --log-level DEBUG
 """
@@ -94,6 +98,14 @@ def parse_args() -> argparse.Namespace:
         choices=["DEBUG", "INFO", "WARNING", "ERROR"],
         help="Logging verbosity (default: INFO)",
     )
+    parser.add_argument(
+        "--model-type", default=None,
+        choices=["nn", "rf"],
+        help=(
+            "Model type to use (nn [Neural Network] or rf [Random Forest]) "
+            "If not specified, defaults to nn (Neural Network)"
+        ),
+    )
     return parser.parse_args()
 
 
@@ -104,16 +116,15 @@ def parse_args() -> argparse.Namespace:
 def main() -> None:
     args = parse_args()
     cfg  = load_config(args.config)
-
+ 
     log_level = getattr(logging, args.log_level.upper(), logging.INFO)
     log_dir   = cfg.get("logging", {}).get("log_dir", "logs")
     setup_logging(log_dir, log_level)
     logger = logging.getLogger(__name__)
-
+ 
     server_cfg = cfg["server"]
-    model_cfg  = cfg.get("model", {})
     n_battles  = args.battles or cfg.get("battle", {}).get("total_vs_battles", 500)
-
+ 
     logger.info("=" * 60)
     logger.info("  Pokémon Showdown IL Agent")
     logger.info(f"  Mode    : {args.mode}")
@@ -134,9 +145,25 @@ def main() -> None:
     )
     account = AccountConfiguration(server_cfg["il_agent_username"], None)
 
+    if args.model_type:
+        model_type = args.model_type
+    else:
+        # Neural Network as default model
+        model_type = "nn"
+    
+    # Choose model
+    if model_type == "nn":
+        move_model = _abs("models/move_model.keras")
+        switch_model = _abs("models/switch_model.keras")
+        logger.info(f"Loading neural network model")
+    else:
+        move_model = _abs("models/rf_move_model.pk1")
+        switch_model = _abs("models/rf_switch_model.pk1")
+        logger.info(f"Loading random forest model")
+     
     player = ILPlayer(
-        move_model_path=_abs(model_cfg.get("move_model_path",   "models/move_model.keras")),
-        switch_model_path=_abs(model_cfg.get("switch_model_path", "models/switch_model.keras")),
+        move_model_path=move_model,
+        switch_model_path=switch_model,
         log_dir=log_dir,
         account_configuration=account,
         server_configuration=server,

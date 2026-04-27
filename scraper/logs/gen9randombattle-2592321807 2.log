@@ -1,0 +1,217 @@
+|j|☆sofiadonato
+|j|☆uf69 como 5y
+|t:|1776978723
+|gametype|singles
+|player|p1|sofiadonato|102|1000
+|player|p2|uf69 como 5y|170|1040
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776978723
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Noivern|Noivern, L82, F|274/274
+|switch|p2a: Feraligatr|Feraligatr, L79, F|264/264
+|turn|1
+|
+|t:|1776978748
+|switch|p1a: Banette|Banette, L93, F|270/270
+|move|p2a: Feraligatr|Ice Punch|p1a: Banette
+|-damage|p1a: Banette|173/270
+|
+|upkeep
+|turn|2
+|
+|t:|1776978761
+|move|p1a: Banette|Thunder Wave|p2a: Feraligatr
+|-status|p2a: Feraligatr|par
+|move|p2a: Feraligatr|Trailblaze|p1a: Banette
+|-damage|p1a: Banette|103/270
+|
+|upkeep
+|turn|3
+|
+|t:|1776978769
+|move|p1a: Banette|Poltergeist|p2a: Feraligatr
+|-activate|p2a: Feraligatr|move: Poltergeist|Life Orb
+|-damage|p2a: Feraligatr|52/264 par
+|-damage|p1a: Banette|76/270|[from] item: Life Orb
+|move|p2a: Feraligatr|Liquidation|p1a: Banette
+|-damage|p1a: Banette|0 fnt
+|faint|p1a: Banette
+|
+|upkeep
+|
+|t:|1776978784
+|switch|p1a: Noivern|Noivern, L82, F|274/274
+|turn|4
+|
+|t:|1776978788
+|move|p1a: Noivern|Hurricane|p2a: Feraligatr
+|-damage|p2a: Feraligatr|0 fnt
+|faint|p2a: Feraligatr
+|
+|upkeep
+|
+|t:|1776978803
+|switch|p2a: Necrozma|Necrozma, L80|286/286
+|turn|5
+|
+|t:|1776978813
+|switch|p1a: Klawf|Klawf, L90, F|272/272
+|move|p2a: Necrozma|Dragon Dance|p2a: Necrozma
+|-boost|p2a: Necrozma|atk|1
+|-boost|p2a: Necrozma|spe|1
+|
+|upkeep
+|turn|6
+|
+|t:|1776978830
+|move|p2a: Necrozma|Dragon Dance|p2a: Necrozma
+|-boost|p2a: Necrozma|atk|1
+|-boost|p2a: Necrozma|spe|1
+|move|p1a: Klawf|Knock Off|p2a: Necrozma
+|-supereffective|p2a: Necrozma
+|-crit|p2a: Necrozma
+|-damage|p2a: Necrozma|118/286
+|-enditem|p2a: Necrozma|Weakness Policy
+|-boost|p2a: Necrozma|atk|2|[from] item: Weakness Policy
+|-boost|p2a: Necrozma|spa|2|[from] item: Weakness Policy
+|
+|upkeep
+|turn|7
+|
+|t:|1776978846
+|-terastallize|p1a: Klawf|Dark
+|move|p2a: Necrozma|Earthquake|p1a: Klawf
+|-damage|p1a: Klawf|103/272
+|-ability|p1a: Klawf|Anger Shell|boost
+|-boost|p1a: Klawf|atk|1
+|-boost|p1a: Klawf|spa|1
+|-boost|p1a: Klawf|spe|1
+|-unboost|p1a: Klawf|def|1
+|-unboost|p1a: Klawf|spd|1
+|move|p1a: Klawf|Knock Off|p2a: Necrozma
+|-supereffective|p2a: Necrozma
+|-damage|p2a: Necrozma|0 fnt
+|faint|p2a: Necrozma
+|
+|upkeep
+|
+|t:|1776978860
+|switch|p2a: Amoonguss|Amoonguss, L82, F|321/321
+|turn|8
+|
+|t:|1776978867
+|move|p1a: Klawf|Knock Off|p2a: Amoonguss
+|-damage|p2a: Amoonguss|86/321
+|-damage|p1a: Klawf|58/272|[from] item: Rocky Helmet|[of] p2a: Amoonguss
+|-enditem|p2a: Amoonguss|Rocky Helmet|[from] move: Knock Off|[of] p1a: Klawf
+|move|p2a: Amoonguss|Spore|p1a: Klawf
+|-status|p1a: Klawf|slp|[from] move: Spore
+|
+|upkeep
+|turn|9
+|
+|t:|1776978878
+|cant|p1a: Klawf|slp
+|move|p2a: Amoonguss|Giga Drain|p1a: Klawf
+|-damage|p1a: Klawf|0 fnt
+|-heal|p2a: Amoonguss|115/321|[from] drain|[of] p1a: Klawf
+|faint|p1a: Klawf
+|
+|upkeep
+|
+|t:|1776978890
+|switch|p1a: Noivern|Noivern, L82, F|274/274
+|turn|10
+|
+|t:|1776978897
+|move|p1a: Noivern|Flamethrower|p2a: Amoonguss
+|-supereffective|p2a: Amoonguss
+|-damage|p2a: Amoonguss|0 fnt
+|faint|p2a: Amoonguss
+|
+|upkeep
+|
+|t:|1776978907
+|switch|p2a: Reshiram|Reshiram, L76|277/277
+|-ability|p2a: Reshiram|Turboblaze
+|turn|11
+|
+|t:|1776978919
+|-terastallize|p2a: Reshiram|Ground
+|move|p1a: Noivern|Draco Meteor|p2a: Reshiram|[miss]
+|-miss|p1a: Noivern|p2a: Reshiram
+|move|p2a: Reshiram|Draco Meteor|p1a: Noivern
+|-supereffective|p1a: Noivern
+|-damage|p1a: Noivern|0 fnt
+|-unboost|p2a: Reshiram|spa|2
+|faint|p1a: Noivern
+|
+|upkeep
+|
+|t:|1776978930
+|switch|p1a: Arboliva|Arboliva, L91, M|290/290
+|turn|12
+|
+|t:|1776978940
+|move|p2a: Reshiram|Blue Flare|p1a: Arboliva
+|-supereffective|p1a: Arboliva
+|-damage|p1a: Arboliva|168/290
+|-fieldstart|move: Grassy Terrain|[from] ability: Seed Sower|[of] p1a: Arboliva
+|move|p1a: Arboliva|Strength Sap|p2a: Reshiram
+|-unboost|p2a: Reshiram|atk|1
+|-heal|p1a: Arboliva|290/290
+|
+|upkeep
+|turn|13
+|
+|t:|1776978956
+|move|p2a: Reshiram|Will-O-Wisp|p1a: Arboliva|[miss]
+|-miss|p2a: Reshiram|p1a: Arboliva
+|move|p1a: Arboliva|Energy Ball|p2a: Reshiram
+|-supereffective|p2a: Reshiram
+|-damage|p2a: Reshiram|0 fnt
+|faint|p2a: Reshiram
+|
+|upkeep
+|
+|t:|1776978973
+|switch|p2a: Basculin|Basculin, L86, F|261/261
+|turn|14
+|
+|t:|1776978977
+|move|p2a: Basculin|Double-Edge|p1a: Arboliva
+|-damage|p1a: Arboliva|177/290
+|-damage|p2a: Basculin|224/261|[from] Recoil
+|move|p1a: Arboliva|Energy Ball|p2a: Basculin
+|-supereffective|p2a: Basculin
+|-damage|p2a: Basculin|0 fnt
+|faint|p2a: Basculin
+|
+|-heal|p1a: Arboliva|195/290|[from] Grassy Terrain
+|-heal|p1a: Arboliva|213/290|[from] item: Leftovers
+|upkeep
+|
+|t:|1776978989
+|switch|p2a: Palossand|Palossand, L89, M|296/296
+|turn|15
+|
+|t:|1776978997
+|move|p1a: Arboliva|Energy Ball|p2a: Palossand
+|-supereffective|p2a: Palossand
+|-damage|p2a: Palossand|0 fnt
+|faint|p2a: Palossand
+|
+|win|sofiadonato
+|raw|sofiadonato's rating: 1000 &rarr; <strong>1045</strong><br />(+45 for winning)
+|raw|uf69 como 5y's rating: 1040 &rarr; <strong>1022</strong><br />(-18 for losing)
+|l|☆uf69 como 5y
+|player|p2|

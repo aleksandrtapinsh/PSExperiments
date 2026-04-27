@@ -1,0 +1,460 @@
+|j|‽Sunnytzu04isaloser
+|j|☆buzbee2000
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1776972889
+|gametype|singles
+|player|p1|Sunnytzu04isaloser|266|
+|player|p2|buzbee2000|rood|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|Tournament battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776972889
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ting-Lu|Ting-Lu, L78|370/370
+|switch|p2a: Sunflora|Sunflora, F|312/312
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|turn|1
+|j| lovestruck1987
+|c|☆buzbee2000|glhf
+|
+|t:|1776972902
+|switch|p1a: Rayquaza|Rayquaza, L72|270/270
+|-ability|p1a: Rayquaza|Air Lock
+|move|p2a: Sunflora|Sunny Day|p2a: Sunflora
+|-weather|SunnyDay
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1776972912
+|switch|p2a: Duraludon|Duraludon, L82, F|249/249
+|move|p1a: Rayquaza|Dragon Dance|p1a: Rayquaza
+|-boost|p1a: Rayquaza|atk|1
+|-boost|p1a: Rayquaza|spe|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|j| pordismomen
+|
+|t:|1776972918
+|switch|p1a: Ting-Lu|Ting-Lu, L78|370/370
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Duraludon|Dragon Tail|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|318/370
+|drag|p1a: Serperior|Serperior, L79, F|248/248
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1776972925
+|switch|p1a: Ting-Lu|Ting-Lu, L78|318/370
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|switch|p2a: Sunflora|Sunflora, F|312/312
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|j| supergriefer101
+|
+|t:|1776972929
+|switch|p1a: Rayquaza|Rayquaza, L72|270/270
+|-ability|p1a: Rayquaza|Air Lock
+|move|p2a: Sunflora|Weather Ball|p1a: Rayquaza
+|-damage|p1a: Rayquaza|187/270
+|-damage|p2a: Sunflora|281/312|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1776972937
+|switch|p2a: Skarmory|Skarmory, L80, M|235/235
+|move|p1a: Rayquaza|Earthquake|p2a: Skarmory
+|-immune|p2a: Skarmory
+|
+|upkeep
+|turn|7
+|j| gfitzy
+|
+|t:|1776972951
+|switch|p1a: Empoleon|Empoleon, L84, F|278/278
+|move|p2a: Skarmory|Stealth Rock|p1a: Empoleon
+|-sidestart|p1: Sunnytzu04isaloser|move: Stealth Rock
+|
+|upkeep
+|turn|8
+|
+|t:|1776972959
+|move|p2a: Skarmory|Body Press|p1a: Empoleon
+|-supereffective|p1a: Empoleon
+|-damage|p1a: Empoleon|132/278
+|move|p1a: Empoleon|Flip Turn|p2a: Skarmory
+|-damage|p2a: Skarmory|189/235
+|
+|t:|1776972988
+|switch|p1a: Iron Moth|Iron Moth, L78|253/253|[from] Flip Turn
+|
+|-heal|p2a: Skarmory|203/235|[from] item: Leftovers
+|upkeep
+|turn|9
+|j| skibidibungus
+|l| skibidibungus
+|j| vortexaxolotl
+|
+|t:|1776973000
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|switch|p1a: Ting-Lu|Ting-Lu, L78|318/370
+|-damage|p1a: Ting-Lu|295/370|[from] Stealth Rock
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|switch|p2a: Uxie|Uxie, L83|260/260
+|
+|upkeep
+|turn|10
+|
+|t:|1776973011
+|move|p2a: Uxie|Knock Off|p1a: Ting-Lu
+|-resisted|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|271/370
+|-enditem|p1a: Ting-Lu|Assault Vest|[from] move: Knock Off|[of] p2a: Uxie
+|move|p1a: Ting-Lu|Ruination|p2a: Uxie
+|-damage|p2a: Uxie|130/260
+|
+|-heal|p2a: Uxie|146/260|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776973026
+|switch|p2a: Skarmory|Skarmory, L80, M|203/235
+|move|p1a: Ting-Lu|Ruination|p2a: Skarmory
+|-damage|p2a: Skarmory|102/235
+|
+|-heal|p2a: Skarmory|116/235|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776973034
+|move|p2a: Skarmory|Roost|p2a: Skarmory
+|-heal|p2a: Skarmory|234/235
+|-singleturn|p2a: Skarmory|move: Roost
+|move|p1a: Ting-Lu|Earthquake|p2a: Skarmory
+|-supereffective|p2a: Skarmory
+|-damage|p2a: Skarmory|70/235
+|
+|-heal|p2a: Skarmory|84/235|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776973040
+|switch|p1a: Iron Moth|Iron Moth, L78|253/253
+|move|p2a: Skarmory|Body Press|p1a: Iron Moth
+|-resisted|p1a: Iron Moth
+|-damage|p1a: Iron Moth|206/253
+|
+|-heal|p2a: Skarmory|98/235|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1776973053
+|switch|p2a: Moltres|Moltres-Galar, L79|271/271
+|move|p1a: Iron Moth|Fiery Dance|p2a: Moltres
+|-damage|p2a: Moltres|187/271
+|-boost|p1a: Iron Moth|spa|1
+|
+|upkeep
+|turn|15
+|j| MonoSurge
+|
+|t:|1776973072
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|switch|p1a: Bisharp|Bisharp, L79, M|232/232
+|-damage|p1a: Bisharp|218/232|[from] Stealth Rock
+|move|p2a: Moltres|Rest|p2a: Moltres
+|-status|p2a: Moltres|slp|[from] move: Rest
+|-heal|p2a: Moltres|271/271 slp|[silent]
+|-enditem|p2a: Moltres|Chesto Berry|[eat]
+|-curestatus|p2a: Moltres|slp|[msg]
+|
+|upkeep
+|turn|16
+|
+|t:|1776973079
+|switch|p2a: Duraludon|Duraludon, L82, F|249/249
+|move|p1a: Bisharp|Stealth Rock|p2a: Duraludon
+|-sidestart|p2: buzbee2000|move: Stealth Rock
+|
+|upkeep
+|turn|17
+|inactive|Sunnytzu04isaloser has 120 seconds left.
+|
+|t:|1776973110
+|switch|p1a: Rayquaza|Rayquaza, L72|187/270
+|-ability|p1a: Rayquaza|Air Lock
+|move|p2a: Duraludon|Dragon Tail|p1a: Rayquaza|[miss]
+|-miss|p2a: Duraludon|p1a: Rayquaza
+|
+|upkeep
+|turn|18
+|
+|t:|1776973116
+|move|p2a: Duraludon|Draco Meteor|p1a: Rayquaza
+|-supereffective|p1a: Rayquaza
+|-damage|p1a: Rayquaza|0 fnt
+|-unboost|p2a: Duraludon|spa|2
+|faint|p1a: Rayquaza
+|
+|upkeep
+|inactive|Sunnytzu04isaloser has 120 seconds left.
+|
+|t:|1776973128
+|switch|p1a: Ting-Lu|Ting-Lu, L78|271/370
+|-damage|p1a: Ting-Lu|248/370|[from] Stealth Rock
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|turn|19
+|inactive|Sunnytzu04isaloser has 120 seconds left.
+|c| pordismomen|god of the sky slower than fat cow
+|
+|t:|1776973139
+|move|p2a: Duraludon|Body Press|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|142/370
+|move|p1a: Ting-Lu|Payback|p2a: Duraludon
+|-damage|p2a: Duraludon|191/249
+|
+|upkeep
+|turn|20
+|
+|t:|1776973144
+|move|p2a: Duraludon|Body Press|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|34/370
+|move|p1a: Ting-Lu|Payback|p2a: Duraludon
+|-damage|p2a: Duraludon|134/249
+|
+|upkeep
+|turn|21
+|
+|t:|1776973156
+|move|p2a: Duraludon|Body Press|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|0 fnt
+|faint|p1a: Ting-Lu
+|
+|upkeep
+|
+|t:|1776973162
+|switch|p1a: Iron Moth|Iron Moth, L78|206/253
+|turn|22
+|l| gfitzy
+|
+|t:|1776973167
+|move|p1a: Iron Moth|Fiery Dance|p2a: Duraludon
+|-damage|p2a: Duraludon|31/249
+|move|p2a: Duraludon|Dragon Tail|p1a: Iron Moth
+|-damage|p1a: Iron Moth|128/253
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|drag|p1a: Serperior|Serperior, L79, F|248/248
+|-damage|p1a: Serperior|217/248|[from] Stealth Rock
+|
+|upkeep
+|turn|23
+|l| MonoSurge
+|
+|t:|1776973180
+|move|p1a: Serperior|Leaf Storm|p2a: Duraludon
+|-resisted|p2a: Duraludon
+|-damage|p2a: Duraludon|0 fnt
+|-boost|p1a: Serperior|spa|2
+|faint|p2a: Duraludon
+|-damage|p1a: Serperior|193/248|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776973193
+|switch|p2a: Sunflora|Sunflora, F|281/312
+|-damage|p2a: Sunflora|242/312|[from] Stealth Rock
+|turn|24
+|
+|t:|1776973205
+|move|p1a: Serperior|Leaf Storm|p2a: Sunflora
+|-resisted|p2a: Sunflora
+|-damage|p2a: Sunflora|137/312
+|-boost|p1a: Serperior|spa|2
+|-damage|p1a: Serperior|169/248|[from] item: Life Orb
+|move|p2a: Sunflora|Sunny Day|p2a: Sunflora
+|-weather|SunnyDay
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|25
+|
+|t:|1776973209
+|-terastallize|p1a: Serperior|Water
+|move|p2a: Sunflora|Weather Ball|p1a: Serperior
+|-resisted|p1a: Serperior
+|-crit|p1a: Serperior
+|-damage|p1a: Serperior|0 fnt
+|faint|p1a: Serperior
+|-damage|p2a: Sunflora|106/312|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|c|☆buzbee2000|holy shit
+|c| vortexaxolotl|DAMN
+|c| pordismomen|u got so damn lucky with that crit dude
+|c| lovestruck1987|THAT'S A LOT OF DAMAGE
+|c|☆buzbee2000|yeah
+|inactive|Sunnytzu04isaloser has 120 seconds left.
+|
+|t:|1776973243
+|switch|p1a: Iron Moth|Iron Moth, L78|128/253
+|turn|26
+|c|☆buzbee2000|I think I still have a way out if that didnt crit
+|c|☆buzbee2000|but that was def lucky
+|
+|t:|1776973254
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|switch|p1a: Empoleon|Empoleon, L84, F|132/278
+|-damage|p1a: Empoleon|115/278|[from] Stealth Rock
+|move|p2a: Sunflora|Earth Power|p1a: Empoleon
+|-supereffective|p1a: Empoleon
+|-damage|p1a: Empoleon|0 fnt
+|faint|p1a: Empoleon
+|-damage|p2a: Sunflora|75/312|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|c| vortexaxolotl|breaking news local sun flower throws the sun at a snake
+|inactive|Sunnytzu04isaloser has 120 seconds left.
+|
+|t:|1776973274
+|switch|p1a: Bisharp|Bisharp, L79, M|218/232
+|-damage|p1a: Bisharp|204/232|[from] Stealth Rock
+|turn|27
+|c|☆buzbee2000|Local sunflower summons the wrath of ra upon unsuspecting armless leaf worm
+|c| lovestruck1987|Onion: Penguin get murdered by sun flower.
+|
+|t:|1776973297
+|move|p1a: Bisharp|Sucker Punch|p2a: Sunflora
+|-damage|p2a: Sunflora|0 fnt
+|faint|p2a: Sunflora
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1776973311
+|switch|p2a: Kommo-o|Kommo-o, L78, M|245/245
+|-damage|p2a: Kommo-o|230/245|[from] Stealth Rock
+|turn|28
+|j| Hsheiendiaka
+|c| Hsheiendiaka|Yo
+|inactive|Sunnytzu04isaloser has 120 seconds left.
+|c| Hsheiendiaka|Immthe sunnytzu guy
+|
+|t:|1776973339
+|move|p2a: Kommo-o|Clangorous Soul|p2a: Kommo-o
+|-boost|p2a: Kommo-o|atk|1
+|-boost|p2a: Kommo-o|def|1
+|-boost|p2a: Kommo-o|spa|1
+|-boost|p2a: Kommo-o|spd|1
+|-boost|p2a: Kommo-o|spe|1
+|-damage|p2a: Kommo-o|150/245
+|-enditem|p2a: Kommo-o|Throat Spray
+|-boost|p2a: Kommo-o|spa|1|[from] item: Throat Spray
+|move|p1a: Bisharp|Iron Head|p2a: Kommo-o
+|-damage|p2a: Kommo-o|104/245
+|
+|-weather|none
+|upkeep
+|turn|29
+|c| Hsheiendiaka|fym you had an out
+|c| Hsheiendiaka|what out
+|c|☆buzbee2000|kommo o
+|c| Hsheiendiaka|LOL
+|c|☆buzbee2000|tera normal
+|c|☆buzbee2000|survive dpulse
+|inactive|Sunnytzu04isaloser has 90 seconds left.
+|c| Hsheiendiaka|LOOOOL
+|c| supergriefer101|hes right
+|c| supergriefer101|theres plenty of outs
+|c| Hsheiendiaka|tera used then moth sweeps
+|c| Hsheiendiaka|super grief you dont know what youre talking about
+|c| Hsheiendiaka|this is my alt the sunny one
+|c|☆buzbee2000|also even without crit
+|c| Hsheiendiaka|i peaked top 5 on ran bats
+|inactive|Sunnytzu04isaloser has 60 seconds left.
+|c|☆buzbee2000|I could just switch until life orb killed serp
+|c| Hsheiendiaka|Wirhout crit what
+|c| supergriefer101|i peaked top 1
+|c| Hsheiendiaka|Loo
+|c| Hsheiendiaka|you lose your whole team
+|c| Hsheiendiaka|if you keep switching
+|j| gfitzy
+|c|☆buzbee2000|Bro just put the sucker punch in the bag already
+|c| Hsheiendiaka|lmfao
+|c| Hsheiendiaka|buz you played lile shi
+|inactive|Sunnytzu04isaloser has 30 seconds left.
+|c| Hsheiendiaka|Oleade
+|c|☆buzbee2000|thx bro
+|
+|t:|1776973434
+|move|p1a: Bisharp|Sucker Punch|p2a: Kommo-o
+|-resisted|p2a: Kommo-o
+|-damage|p2a: Kommo-o|80/245
+|move|p2a: Kommo-o|Close Combat|p1a: Bisharp
+|-supereffective|p1a: Bisharp
+|-damage|p1a: Bisharp|0 fnt
+|-unboost|p2a: Kommo-o|def|1
+|-unboost|p2a: Kommo-o|spd|1
+|faint|p1a: Bisharp
+|
+|upkeep
+|
+|t:|1776973435
+|switch|p1a: Iron Moth|Iron Moth, L78|128/253
+|turn|30
+|c| Hsheiendiaka|gl onnthe climb
+|
+|t:|1776973443
+|move|p2a: Kommo-o|Clanging Scales|p1a: Iron Moth
+|-damage|p1a: Iron Moth|0 fnt
+|faint|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|
+|win|buzbee2000
+|n|‽Sunnytzu04isaloser|sunnytzu04isaloser
+|n|☆buzbee2000|buzbee2000
+|n| lovestruck1987|lovestruck1987
+|n| pordismomen|pordismomen
+|n| supergriefer101|supergriefer101
+|n| vortexaxolotl|vortexaxolotl
+|n| Hsheiendiaka|hsheiendiaka
+|n| gfitzy|gfitzy
+|c|☆buzbee2000|gg
+|c| Hsheiendiaka|2000 elo is low
+|c| vortexaxolotl|funny
+|c|☆buzbee2000|bruh
+|l| gfitzy
+|c| Hsheiendiaka|get top 5
+|c|☆buzbee2000|ive peaked top 3 on ladder
+|l| pordismomen
+|c| Hsheiendiaka|LOOPOOL
+|c| Hsheiendiaka|63 gxe
+|l| lovestruck1987
+|c| Hsheiendiaka|pleaae
+|l|☆buzbee2000
+|player|p2|
+|c| Hsheiendiaka|Talking about you have outs
+|c| vortexaxolotl|brother, you lost
+|l| supergriefer101
+|l| vortexaxolotl
+|l| Hsheiendiaka

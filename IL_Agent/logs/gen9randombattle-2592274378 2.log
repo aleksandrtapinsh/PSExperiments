@@ -1,0 +1,113 @@
+|j|☆Jimmypham2323
+|j|☆ItsYaBoyT
+|t:|1776975092
+|gametype|singles
+|player|p1|Jimmypham2323|266|1336
+|player|p2|ItsYaBoyT|cynthia|1328
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776975092
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ceruledge|Ceruledge, L78, M|245/245
+|switch|p2a: Vespiquen|Vespiquen, L99, F|299/299
+|-ability|p2a: Vespiquen|Pressure
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ItsYaBoyT)
+|
+|t:|1776975108
+|move|p1a: Ceruledge|Swords Dance|p1a: Ceruledge
+|-boost|p1a: Ceruledge|atk|2
+|move|p2a: Vespiquen|U-turn|p1a: Ceruledge
+|-resisted|p1a: Ceruledge
+|-damage|p1a: Ceruledge|221/245
+|-ability|p1a: Ceruledge|Weak Armor|boost
+|-unboost|p1a: Ceruledge|def|1
+|-boost|p1a: Ceruledge|spe|2
+|
+|t:|1776975114
+|switch|p2a: Glimmora|Glimmora, L75, M|248/248|[from] U-turn
+|-item|p2a: Glimmora|Air Balloon
+|
+|upkeep
+|turn|2
+|
+|t:|1776975128
+|move|p1a: Ceruledge|Poltergeist|p2a: Glimmora
+|-activate|p2a: Glimmora|move: Poltergeist|Air Balloon
+|-damage|p2a: Glimmora|0 fnt
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: Jimmypham2323|move: Toxic Spikes
+|-enditem|p2a: Glimmora|Air Balloon
+|faint|p2a: Glimmora
+|
+|upkeep
+|
+|t:|1776975147
+|switch|p2a: Jolteon|Jolteon, L84, M|246/246
+|turn|3
+|
+|t:|1776975152
+|move|p1a: Ceruledge|Poltergeist|p2a: Jolteon
+|-activate|p2a: Jolteon|move: Poltergeist|Life Orb
+|-damage|p2a: Jolteon|0 fnt
+|faint|p2a: Jolteon
+|
+|upkeep
+|
+|t:|1776975158
+|switch|p2a: Ursaring|Ursaring, L84, F|288/288
+|turn|4
+|
+|t:|1776975162
+|move|p1a: Ceruledge|Close Combat|p2a: Ursaring
+|-supereffective|p2a: Ursaring
+|-damage|p2a: Ursaring|36/288
+|-unboost|p1a: Ceruledge|def|1
+|-unboost|p1a: Ceruledge|spd|1
+|move|p2a: Ursaring|Earthquake|p1a: Ceruledge
+|-supereffective|p1a: Ceruledge
+|-damage|p1a: Ceruledge|0 fnt
+|faint|p1a: Ceruledge
+|
+|upkeep
+|
+|t:|1776975174
+|switch|p1a: Honchkrow|Honchkrow, L86, F|312/312
+|turn|5
+|
+|t:|1776975180
+|switch|p2a: Vespiquen|Vespiquen, L99, F|299/299
+|-ability|p2a: Vespiquen|Pressure
+|move|p1a: Honchkrow|Brave Bird|p2a: Vespiquen
+|-supereffective|p2a: Vespiquen
+|-damage|p2a: Vespiquen|63/299
+|-damage|p1a: Honchkrow|234/312|[from] Recoil
+|
+|upkeep
+|turn|6
+|
+|t:|1776975191
+|-terastallize|p2a: Vespiquen|Steel
+|move|p1a: Honchkrow|Heat Wave|p2a: Vespiquen
+|-supereffective|p2a: Vespiquen
+|-damage|p2a: Vespiquen|0 fnt
+|faint|p2a: Vespiquen
+|-ability|p1a: Honchkrow|Moxie|boost
+|-boost|p1a: Honchkrow|atk|1
+|
+|upkeep
+|-message|ItsYaBoyT forfeited.
+|
+|win|Jimmypham2323
+|raw|Jimmypham2323's rating: 1336 &rarr; <strong>1356</strong><br />(+20 for winning)
+|raw|ItsYaBoyT's rating: 1328 &rarr; <strong>1308</strong><br />(-20 for losing)
+|l|☆ItsYaBoyT
+|player|p2|

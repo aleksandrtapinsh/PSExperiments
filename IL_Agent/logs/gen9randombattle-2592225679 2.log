@@ -1,0 +1,271 @@
+|j|☆killernate
+|j|☆MasterChef/99
+|t:|1776971662
+|gametype|singles
+|player|p1|killernate|265|1429
+|player|p2|MasterChef/99|blue|1430
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776971662
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Regice|Regice, L88|284/284
+|switch|p2a: Eiscue|Eiscue, L88, M|274/274
+|turn|1
+|
+|t:|1776971672
+|move|p1a: Regice|Thunder Wave|p2a: Eiscue
+|-status|p2a: Eiscue|par
+|cant|p2a: Eiscue|par
+|
+|upkeep
+|turn|2
+|
+|t:|1776971676
+|move|p1a: Regice|Body Press|p2a: Eiscue
+|-activate|p2a: Eiscue|ability: Ice Face
+|-damage|p2a: Eiscue|274/274 par
+|detailschange|p2a: Eiscue|Eiscue-Noice, L88, M
+|move|p2a: Eiscue|Belly Drum|p2a: Eiscue
+|-damage|p2a: Eiscue|137/274 par
+|-setboost|p2a: Eiscue|atk|6|[from] move: Belly Drum
+|-enditem|p2a: Eiscue|Sitrus Berry|[eat]
+|-heal|p2a: Eiscue|205/274 par|[from] item: Sitrus Berry
+|
+|upkeep
+|turn|3
+|
+|t:|1776971709
+|move|p2a: Eiscue|Iron Head|p1a: Regice
+|-supereffective|p1a: Regice
+|-damage|p1a: Regice|0 fnt
+|faint|p1a: Regice
+|
+|upkeep
+|
+|t:|1776971717
+|switch|p1a: Flareon|Flareon, L90, M|263/263
+|turn|4
+|
+|t:|1776971728
+|move|p1a: Flareon|Flare Blitz|p2a: Eiscue
+|-supereffective|p2a: Eiscue
+|-damage|p2a: Eiscue|0 fnt
+|faint|p2a: Eiscue
+|-damage|p1a: Flareon|195/263|[from] Recoil
+|
+|-status|p1a: Flareon|tox|[from] item: Toxic Orb
+|upkeep
+|
+|t:|1776971738
+|switch|p2a: Pincurchin|Pincurchin, M|258/258
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Pincurchin
+|turn|5
+|
+|t:|1776971745
+|move|p1a: Flareon|Flare Blitz|p2a: Pincurchin
+|-damage|p2a: Pincurchin|26/258
+|-damage|p1a: Flareon|118/263 tox|[from] Recoil
+|move|p2a: Pincurchin|Liquidation|p1a: Flareon
+|-supereffective|p1a: Flareon
+|-damage|p1a: Flareon|0 fnt
+|faint|p1a: Flareon
+|
+|-heal|p2a: Pincurchin|42/258|[from] item: Leftovers
+|upkeep
+|
+|t:|1776971757
+|switch|p1a: Meowstic|Meowstic, L89, M|277/277
+|turn|6
+|
+|t:|1776971760
+|move|p1a: Meowstic|Psychic Noise|p2a: Pincurchin
+|-damage|p2a: Pincurchin|0 fnt
+|faint|p2a: Pincurchin
+|
+|upkeep
+|
+|t:|1776971767
+|switch|p2a: Yanmega|Yanmega, L82, F|275/275
+|turn|7
+|
+|t:|1776971770
+|move|p1a: Meowstic|Thunder Wave|p2a: Yanmega
+|-status|p2a: Yanmega|par
+|move|p2a: Yanmega|Bug Buzz|p1a: Meowstic
+|-supereffective|p1a: Meowstic
+|-damage|p1a: Meowstic|79/277
+|
+|-heal|p1a: Meowstic|96/277|[from] item: Leftovers
+|-ability|p2a: Yanmega|Speed Boost|boost
+|-boost|p2a: Yanmega|spe|1
+|upkeep
+|turn|8
+|
+|t:|1776971781
+|switch|p1a: Dudunsparce|Dudunsparce, L83, F|343/343
+|move|p2a: Yanmega|Protect||[still]
+|-fail|p2a: Yanmega
+|
+|-ability|p2a: Yanmega|Speed Boost|boost
+|-boost|p2a: Yanmega|spe|1
+|upkeep
+|turn|9
+|
+|t:|1776971786
+|move|p2a: Yanmega|Air Slash|p1a: Dudunsparce
+|-damage|p1a: Dudunsparce|247/343
+|cant|p1a: Dudunsparce|flinch
+|
+|-heal|p1a: Dudunsparce|268/343|[from] item: Leftovers
+|-fieldend|move: Electric Terrain
+|-ability|p2a: Yanmega|Speed Boost|boost
+|-boost|p2a: Yanmega|spe|1
+|upkeep
+|turn|10
+|
+|t:|1776971795
+|cant|p2a: Yanmega|par
+|move|p1a: Dudunsparce|Calm Mind|p1a: Dudunsparce
+|-boost|p1a: Dudunsparce|spa|1
+|-boost|p1a: Dudunsparce|spd|1
+|
+|-heal|p1a: Dudunsparce|289/343|[from] item: Leftovers
+|-ability|p2a: Yanmega|Speed Boost|boost
+|-boost|p2a: Yanmega|spe|1
+|upkeep
+|turn|11
+|
+|t:|1776971813
+|switch|p2a: Blaziken|Blaziken, L76, F|247/247
+|move|p1a: Dudunsparce|Calm Mind|p1a: Dudunsparce
+|-boost|p1a: Dudunsparce|spa|1
+|-boost|p1a: Dudunsparce|spd|1
+|
+|-heal|p1a: Dudunsparce|310/343|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776971824
+|switch|p2a: Yanmega|Yanmega, L82, F|275/275 par
+|-terastallize|p1a: Dudunsparce|Fairy
+|move|p1a: Dudunsparce|Boomburst|p2a: Yanmega
+|-damage|p2a: Yanmega|0 fnt
+|faint|p2a: Yanmega
+|
+|-heal|p1a: Dudunsparce|331/343|[from] item: Leftovers
+|upkeep
+|
+|t:|1776971831
+|switch|p2a: Ursaring|Ursaring, L84, F|288/288
+|turn|13
+|
+|t:|1776971834
+|move|p2a: Ursaring|Swords Dance|p2a: Ursaring
+|-boost|p2a: Ursaring|atk|2
+|move|p1a: Dudunsparce|Boomburst|p2a: Ursaring
+|-damage|p2a: Ursaring|17/288
+|
+|-heal|p1a: Dudunsparce|343/343|[from] item: Leftovers
+|-status|p2a: Ursaring|tox|[from] item: Toxic Orb
+|upkeep
+|turn|14
+|
+|t:|1776971839
+|move|p2a: Ursaring|Facade|p1a: Dudunsparce
+|-damage|p1a: Dudunsparce|0 fnt
+|faint|p1a: Dudunsparce
+|
+|-damage|p2a: Ursaring|0 fnt|[from] psn
+|faint|p2a: Ursaring
+|upkeep
+|
+|t:|1776971852
+|switch|p2a: Pawmot|Pawmot, L80, M|243/243
+|switch|p1a: Meowstic|Meowstic, L89, M|96/277
+|turn|15
+|
+|t:|1776971856
+|move|p1a: Meowstic|Psychic Noise|p2a: Pawmot
+|-supereffective|p2a: Pawmot
+|-damage|p2a: Pawmot|39/243
+|-start|p2a: Pawmot|move: Heal Block
+|move|p2a: Pawmot|Nuzzle|p1a: Meowstic
+|-damage|p1a: Meowstic|72/277
+|-status|p1a: Meowstic|par
+|
+|-heal|p1a: Meowstic|89/277 par|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776971872
+|move|p2a: Pawmot|Double Shock|p1a: Meowstic
+|-damage|p1a: Meowstic|0 fnt
+|-start|p2a: Pawmot|typechange|???/Fighting|[from] move: Double Shock
+|faint|p1a: Meowstic
+|
+|-end|p2a: Pawmot|move: Heal Block
+|upkeep
+|
+|t:|1776971877
+|switch|p1a: Mamoswine|Mamoswine, L81, M|311/311
+|turn|17
+|
+|t:|1776971886
+|move|p1a: Mamoswine|Ice Shard|p2a: Pawmot
+|-damage|p2a: Pawmot|0 fnt
+|faint|p2a: Pawmot
+|
+|upkeep
+|
+|t:|1776971889
+|switch|p2a: Blaziken|Blaziken, L76, F|247/247
+|turn|18
+|
+|t:|1776971891
+|switch|p1a: Alcremie|Alcremie-Salted-Cream, L90, F|263/263
+|move|p2a: Blaziken|Swords Dance|p2a: Blaziken
+|-boost|p2a: Blaziken|atk|2
+|
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|19
+|
+|t:|1776971894
+|move|p2a: Blaziken|Flare Blitz|p1a: Alcremie
+|-damage|p1a: Alcremie|0 fnt
+|faint|p1a: Alcremie
+|-damage|p2a: Blaziken|160/247|[from] Recoil
+|-damage|p2a: Blaziken|136/247|[from] item: Life Orb
+|
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|
+|t:|1776971896
+|switch|p1a: Mamoswine|Mamoswine, L81, M|311/311
+|turn|20
+|
+|t:|1776971902
+|-terastallize|p2a: Blaziken|Fighting
+|move|p2a: Blaziken|Close Combat|p1a: Mamoswine
+|-supereffective|p1a: Mamoswine
+|-damage|p1a: Mamoswine|0 fnt
+|-unboost|p2a: Blaziken|def|1
+|-unboost|p2a: Blaziken|spd|1
+|faint|p1a: Mamoswine
+|-damage|p2a: Blaziken|112/247|[from] item: Life Orb
+|
+|win|MasterChef/99
+|raw|killernate's rating: 1429 &rarr; <strong>1410</strong><br />(-19 for losing)
+|raw|MasterChef&#x2f;99's rating: 1451 &rarr; <strong>1470</strong><br />(+19 for winning)
+|l|☆killernate
+|player|p1|

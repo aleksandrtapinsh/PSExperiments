@@ -1,0 +1,259 @@
+|j|☆handlotionman
+|j|☆Jdjdjjdjdf
+|t:|1776979808
+|gametype|singles
+|player|p1|handlotionman|fisherman|1136
+|player|p2|Jdjdjjdjdf|2|1098
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776979808
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Chimecho|Chimecho, L93, F|290/290
+|switch|p2a: Hypno|Hypno, L95, M|315/315
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Jdjdjjdjdf)
+|
+|t:|1776979821
+|switch|p1a: Solgaleo|Solgaleo, L74|325/325
+|move|p2a: Hypno|Toxic|p1a: Solgaleo
+|-immune|p1a: Solgaleo
+|
+|upkeep
+|turn|2
+|
+|t:|1776979829
+|move|p1a: Solgaleo|Knock Off|p2a: Hypno
+|-supereffective|p2a: Hypno
+|-damage|p2a: Hypno|163/315
+|-enditem|p2a: Hypno|Leftovers|[from] move: Knock Off|[of] p1a: Solgaleo
+|move|p2a: Hypno|Encore|p1a: Solgaleo
+|-start|p1a: Solgaleo|Encore
+|
+|upkeep
+|turn|3
+|
+|t:|1776979842
+|move|p1a: Solgaleo|Knock Off|p2a: Hypno
+|-supereffective|p2a: Hypno
+|-damage|p2a: Hypno|57/315
+|move|p2a: Hypno|Knock Off|p1a: Solgaleo
+|-supereffective|p1a: Solgaleo
+|-damage|p1a: Solgaleo|173/325
+|-damage|p2a: Hypno|5/315|[from] item: Rocky Helmet|[of] p1a: Solgaleo
+|-enditem|p1a: Solgaleo|Rocky Helmet|[from] move: Knock Off|[of] p2a: Hypno
+|
+|upkeep
+|turn|4
+|
+|t:|1776979853
+|move|p1a: Solgaleo|Knock Off|p2a: Hypno
+|-supereffective|p2a: Hypno
+|-damage|p2a: Hypno|0 fnt
+|faint|p2a: Hypno
+|
+|upkeep
+|
+|t:|1776979863
+|switch|p2a: Chien-Pao|Chien-Pao, L72|234/234
+|-ability|p2a: Chien-Pao|Sword of Ruin
+|turn|5
+|
+|t:|1776979874
+|switch|p1a: Arcanine|Arcanine-Hisui, L79, M|279/279
+|move|p2a: Chien-Pao|Throat Chop|p1a: Arcanine
+|-damage|p1a: Arcanine|161/279
+|-start|p1a: Arcanine|Throat Chop|[silent]
+|
+|upkeep
+|turn|6
+|
+|t:|1776979887
+|switch|p2a: Plusle|Plusle, L95, F|268/268
+|move|p1a: Arcanine|Close Combat|p2a: Plusle
+|-damage|p2a: Plusle|130/268
+|-unboost|p1a: Arcanine|def|1
+|-unboost|p1a: Arcanine|spd|1
+|
+|-end|p1a: Arcanine|Throat Chop|[silent]
+|upkeep
+|turn|7
+|
+|t:|1776979897
+|move|p1a: Arcanine|Close Combat|p2a: Plusle
+|-damage|p2a: Plusle|11/268
+|-unboost|p1a: Arcanine|def|1
+|-unboost|p1a: Arcanine|spd|1
+|move|p2a: Plusle|Thunderbolt|p1a: Arcanine
+|-damage|p1a: Arcanine|0 fnt
+|faint|p1a: Arcanine
+|-damage|p2a: Plusle|0 fnt|[from] item: Life Orb
+|faint|p2a: Plusle
+|
+|upkeep
+|
+|t:|1776979916
+|switch|p2a: Espathra|Espathra, L80, F|283/283
+|switch|p1a: Chimecho|Chimecho, L93, F|290/290
+|turn|8
+|
+|t:|1776979924
+|move|p2a: Espathra|Shadow Ball|p1a: Chimecho
+|-supereffective|p1a: Chimecho
+|-damage|p1a: Chimecho|148/290
+|move|p1a: Chimecho|Encore|p2a: Espathra
+|-start|p2a: Espathra|Encore
+|
+|-heal|p1a: Chimecho|166/290|[from] item: Leftovers
+|-ability|p2a: Espathra|Speed Boost|boost
+|-boost|p2a: Espathra|spe|1
+|upkeep
+|turn|9
+|
+|t:|1776979934
+|switch|p1a: Chien-Pao|Chien-Pao, L72|234/234
+|-ability|p1a: Chien-Pao|Sword of Ruin
+|move|p2a: Espathra|Shadow Ball|p1a: Chien-Pao
+|-resisted|p1a: Chien-Pao
+|-damage|p1a: Chien-Pao|175/234
+|
+|-ability|p2a: Espathra|Speed Boost|boost
+|-boost|p2a: Espathra|spe|1
+|upkeep
+|turn|10
+|
+|t:|1776979946
+|switch|p2a: Glaceon|Glaceon, L94, F|275/275
+|move|p1a: Chien-Pao|Throat Chop|p2a: Glaceon
+|-damage|p2a: Glaceon|161/275
+|-start|p2a: Glaceon|Throat Chop|[silent]
+|
+|upkeep
+|turn|11
+|
+|t:|1776979955
+|-terastallize|p1a: Chien-Pao|Dark
+|move|p1a: Chien-Pao|Throat Chop|p2a: Glaceon
+|-damage|p2a: Glaceon|5/275
+|move|p2a: Glaceon|Mud Shot|p1a: Chien-Pao
+|-damage|p1a: Chien-Pao|83/234
+|-unboost|p1a: Chien-Pao|spe|1
+|
+|-end|p2a: Glaceon|Throat Chop|[silent]
+|upkeep
+|turn|12
+|
+|t:|1776979966
+|move|p2a: Glaceon|Freeze-Dry|p1a: Chien-Pao
+|-damage|p1a: Chien-Pao|0 fnt
+|faint|p1a: Chien-Pao
+|
+|upkeep
+|
+|t:|1776979973
+|switch|p1a: Chimecho|Chimecho, L93, F|166/290
+|turn|13
+|
+|t:|1776979979
+|move|p2a: Glaceon|Freeze-Dry|p1a: Chimecho
+|-damage|p1a: Chimecho|55/290
+|-status|p1a: Chimecho|frz
+|cant|p1a: Chimecho|frz
+|
+|-heal|p1a: Chimecho|73/290 frz|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1776979989
+|move|p2a: Glaceon|Wish|p2a: Glaceon
+|cant|p1a: Chimecho|frz
+|
+|-heal|p1a: Chimecho|91/290 frz|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1776979995
+|move|p2a: Glaceon|Freeze-Dry|p1a: Chimecho
+|-damage|p1a: Chimecho|0 fnt
+|faint|p1a: Chimecho
+|
+|-heal|p2a: Glaceon|142/275|[from] move: Wish|[wisher] Glaceon
+|upkeep
+|
+|t:|1776980006
+|switch|p1a: Solgaleo|Solgaleo, L74|173/325
+|turn|16
+|
+|t:|1776980011
+|move|p1a: Solgaleo|Sunsteel Strike|p2a: Glaceon
+|-supereffective|p2a: Glaceon
+|-damage|p2a: Glaceon|0 fnt
+|faint|p2a: Glaceon
+|
+|upkeep
+|
+|t:|1776980017
+|switch|p2a: Chien-Pao|Chien-Pao, L72|234/234
+|-ability|p2a: Chien-Pao|Sword of Ruin
+|turn|17
+|
+|t:|1776980022
+|move|p2a: Chien-Pao|Throat Chop|p1a: Solgaleo
+|-supereffective|p1a: Solgaleo
+|-damage|p1a: Solgaleo|0 fnt
+|faint|p1a: Solgaleo
+|
+|upkeep
+|
+|t:|1776980029
+|switch|p1a: Dipplin|Dipplin, L88, F|284/284
+|turn|18
+|
+|t:|1776980033
+|move|p1a: Dipplin|Sucker Punch|p2a: Chien-Pao
+|-resisted|p2a: Chien-Pao
+|-crit|p2a: Chien-Pao
+|-damage|p2a: Chien-Pao|186/234
+|move|p2a: Chien-Pao|Icicle Crash|p1a: Dipplin
+|-supereffective|p1a: Dipplin
+|-damage|p1a: Dipplin|32/284
+|
+|upkeep
+|turn|19
+|
+|t:|1776980043
+|move|p2a: Chien-Pao|Throat Chop|p1a: Dipplin
+|-damage|p1a: Dipplin|0 fnt
+|faint|p1a: Dipplin
+|
+|upkeep
+|
+|t:|1776980047
+|switch|p1a: Miraidon|Miraidon, L65|238/238
+|-fieldstart|move: Electric Terrain|[from] ability: Hadron Engine|[of] p1a: Miraidon
+|turn|20
+|
+|t:|1776980052
+|move|p2a: Chien-Pao|Icicle Crash|p1a: Miraidon
+|-supereffective|p1a: Miraidon
+|-damage|p1a: Miraidon|2/238
+|cant|p1a: Miraidon|flinch
+|
+|upkeep
+|turn|21
+|
+|t:|1776980060
+|move|p2a: Chien-Pao|Throat Chop|p1a: Miraidon
+|-damage|p1a: Miraidon|0 fnt
+|faint|p1a: Miraidon
+|
+|win|Jdjdjjdjdf
+|raw|handlotionman's rating: 1136 &rarr; <strong>1110</strong><br />(-26 for losing)
+|raw|Jdjdjjdjdf's rating: 1123 &rarr; <strong>1149</strong><br />(+26 for winning)

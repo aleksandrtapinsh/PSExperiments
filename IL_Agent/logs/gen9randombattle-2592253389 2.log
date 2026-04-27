@@ -1,0 +1,381 @@
+|j|☆warlin1919
+|j|☆LoscarGD
+|t:|1776973590
+|gametype|singles
+|player|p1|warlin1919|2|
+|player|p2|LoscarGD|benga|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776973590
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Pachirisu|Pachirisu, L96, F|271/271
+|switch|p2a: Clodsire|Clodsire, L81, M|343/343
+|turn|1
+|
+|t:|1776973629
+|-terastallize|p1a: Pachirisu|Flying
+|move|p1a: Pachirisu|Super Fang|p2a: Clodsire
+|-damage|p2a: Clodsire|172/343
+|move|p2a: Clodsire|Toxic|p1a: Pachirisu
+|-status|p1a: Pachirisu|tox
+|
+|-heal|p2a: Clodsire|193/343|[from] item: Leftovers
+|-damage|p1a: Pachirisu|255/271 tox|[from] psn
+|upkeep
+|turn|2
+|
+|t:|1776973690
+|move|p1a: Pachirisu|Super Fang|p2a: Clodsire
+|-damage|p2a: Clodsire|97/343
+|move|p2a: Clodsire|Gunk Shot|p1a: Pachirisu|[miss]
+|-miss|p2a: Clodsire|p1a: Pachirisu
+|
+|-heal|p2a: Clodsire|118/343|[from] item: Leftovers
+|-damage|p1a: Pachirisu|223/271 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1776973722
+|switch|p2a: Illumise|Illumise, L91, F|266/266
+|move|p1a: Pachirisu|U-turn|p2a: Illumise
+|-damage|p2a: Illumise|223/266
+|
+|t:|1776973750
+|switch|p1a: Ribombee|Ribombee, L83, M|235/235|[from] U-turn
+|
+|upkeep
+|turn|4
+|
+|t:|1776973761
+|move|p2a: Illumise|Thunder Wave|p1a: Ribombee
+|-status|p1a: Ribombee|par
+|cant|p1a: Ribombee|par
+|
+|upkeep
+|turn|5
+|
+|t:|1776973778
+|switch|p2a: Stonjourner|Stonjourner, L91, F|330/330
+|move|p1a: Ribombee|Quiver Dance|p1a: Ribombee
+|-boost|p1a: Ribombee|spa|1
+|-boost|p1a: Ribombee|spd|1
+|-boost|p1a: Ribombee|spe|1
+|
+|upkeep
+|turn|6
+|
+|t:|1776973826
+|switch|p1a: Bellossom|Bellossom, L84, M|263/263
+|move|p2a: Stonjourner|Heat Crash|p1a: Bellossom
+|-supereffective|p1a: Bellossom
+|-damage|p1a: Bellossom|0 fnt
+|faint|p1a: Bellossom
+|-damage|p2a: Stonjourner|297/330|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776973875
+|switch|p1a: Shaymin|Shaymin, L82|298/298
+|turn|7
+|
+|t:|1776973888
+|switch|p2a: Illumise|Illumise, L91, F|223/266
+|move|p1a: Shaymin|Seed Flare|p2a: Illumise
+|-resisted|p2a: Illumise
+|-crit|p2a: Illumise
+|-damage|p2a: Illumise|128/266
+|-unboost|p2a: Illumise|spd|2
+|
+|upkeep
+|turn|8
+|
+|t:|1776973899
+|switch|p1a: Pachirisu|Pachirisu, L96, F, tera:Flying|223/271 tox
+|move|p2a: Illumise|Encore||[still]
+|-fail|p2a: Illumise
+|
+|-damage|p1a: Pachirisu|207/271 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1776973918
+|switch|p2a: Toedscruel|Toedscruel, L87, M|281/281
+|move|p1a: Pachirisu|Super Fang|p2a: Toedscruel
+|-damage|p2a: Toedscruel|141/281
+|
+|-heal|p2a: Toedscruel|158/281|[from] item: Leftovers
+|-damage|p1a: Pachirisu|175/271 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1776973978
+|move|p1a: Pachirisu|U-turn|p2a: Toedscruel
+|-supereffective|p2a: Toedscruel
+|-damage|p2a: Toedscruel|74/281
+|
+|t:|1776974020
+|switch|p1a: Ribombee|Ribombee, L83, M|235/235 par|[from] U-turn
+|move|p2a: Toedscruel|Leaf Storm|p1a: Ribombee
+|-resisted|p1a: Ribombee
+|-damage|p1a: Ribombee|165/235 par
+|-unboost|p2a: Toedscruel|spa|2
+|
+|-heal|p2a: Toedscruel|91/281|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776974033
+|switch|p2a: Illumise|Illumise, L91, F|128/266
+|move|p1a: Ribombee|Quiver Dance|p1a: Ribombee
+|-boost|p1a: Ribombee|spa|1
+|-boost|p1a: Ribombee|spd|1
+|-boost|p1a: Ribombee|spe|1
+|
+|upkeep
+|turn|12
+|
+|t:|1776974054
+|move|p2a: Illumise|Encore|p1a: Ribombee
+|-start|p1a: Ribombee|Encore
+|move|p1a: Ribombee|Quiver Dance|p1a: Ribombee
+|-boost|p1a: Ribombee|spa|1
+|-boost|p1a: Ribombee|spd|1
+|-boost|p1a: Ribombee|spe|1
+|
+|upkeep
+|turn|13
+|
+|t:|1776974061
+|move|p1a: Ribombee|Quiver Dance|p1a: Ribombee
+|-boost|p1a: Ribombee|spa|1
+|-boost|p1a: Ribombee|spd|1
+|-boost|p1a: Ribombee|spe|1
+|move|p2a: Illumise|Bug Buzz|p1a: Ribombee
+|-resisted|p1a: Ribombee
+|-damage|p1a: Ribombee|144/235 par
+|
+|upkeep
+|turn|14
+|
+|t:|1776974069
+|switch|p2a: Stonjourner|Stonjourner, L91, F|297/330
+|move|p1a: Ribombee|Quiver Dance|p1a: Ribombee
+|-boost|p1a: Ribombee|spa|1
+|-boost|p1a: Ribombee|spd|1
+|-boost|p1a: Ribombee|spe|1
+|
+|-end|p1a: Ribombee|Encore
+|upkeep
+|turn|15
+|
+|t:|1776974079
+|move|p1a: Ribombee|Moonblast|p2a: Stonjourner
+|-crit|p2a: Stonjourner
+|-damage|p2a: Stonjourner|0 fnt
+|faint|p2a: Stonjourner
+|
+|upkeep
+|
+|t:|1776974107
+|switch|p2a: Solgaleo|Solgaleo, L74|325/325
+|turn|16
+|
+|t:|1776974127
+|cant|p1a: Ribombee|par
+|move|p2a: Solgaleo|Sunsteel Strike|p1a: Ribombee
+|-supereffective|p1a: Ribombee
+|-damage|p1a: Ribombee|0 fnt
+|faint|p1a: Ribombee
+|
+|upkeep
+|
+|t:|1776974147
+|switch|p1a: Meowstic|Meowstic, L89, M|277/277
+|turn|17
+|
+|t:|1776974159
+|switch|p2a: Toedscruel|Toedscruel, L87, M|91/281
+|move|p1a: Meowstic|Thunder Wave|p2a: Toedscruel
+|-immune|p2a: Toedscruel
+|
+|-heal|p2a: Toedscruel|108/281|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1776974175
+|move|p1a: Meowstic|Psychic Noise|p2a: Toedscruel
+|-damage|p2a: Toedscruel|47/281
+|-start|p2a: Toedscruel|move: Heal Block
+|move|p2a: Toedscruel|Toxic|p1a: Meowstic|[miss]
+|-miss|p2a: Toedscruel|p1a: Meowstic
+|
+|upkeep
+|turn|19
+|
+|t:|1776974187
+|move|p1a: Meowstic|Psychic Noise|p2a: Toedscruel
+|-damage|p2a: Toedscruel|0 fnt
+|faint|p2a: Toedscruel
+|
+|upkeep
+|
+|t:|1776974193
+|switch|p2a: Samurott|Samurott-Hisui, L77, F|265/265
+|turn|20
+|
+|t:|1776974199
+|move|p1a: Meowstic|Thunder Wave|p2a: Samurott
+|-hint|Since gen 7, Dark is immune to Prankster moves.
+|-immune|p2a: Samurott
+|move|p2a: Samurott|Ceaseless Edge|p1a: Meowstic
+|-supereffective|p1a: Meowstic
+|-damage|p1a: Meowstic|85/277
+|-sidestart|p1: warlin1919|Spikes
+|
+|-heal|p1a: Meowstic|102/277|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1776974213
+|move|p2a: Samurott|Ceaseless Edge|p1a: Meowstic
+|-supereffective|p1a: Meowstic
+|-damage|p1a: Meowstic|0 fnt
+|-sidestart|p1: warlin1919|Spikes
+|faint|p1a: Meowstic
+|
+|upkeep
+|
+|t:|1776974227
+|switch|p1a: Pachirisu|Pachirisu, L96, F, tera:Flying|175/271 tox
+|turn|22
+|
+|t:|1776974247
+|switch|p2a: Clodsire|Clodsire, L81, M|118/343
+|move|p1a: Pachirisu|Discharge|p2a: Clodsire
+|-immune|p2a: Clodsire
+|
+|-heal|p2a: Clodsire|139/343|[from] item: Leftovers
+|-damage|p1a: Pachirisu|159/271 tox|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1776974259
+|move|p1a: Pachirisu|Super Fang|p2a: Clodsire
+|-damage|p2a: Clodsire|70/343
+|move|p2a: Clodsire|Recover|p2a: Clodsire
+|-heal|p2a: Clodsire|242/343
+|
+|-heal|p2a: Clodsire|263/343|[from] item: Leftovers
+|-damage|p1a: Pachirisu|127/271 tox|[from] psn
+|upkeep
+|turn|24
+|
+|t:|1776974273
+|move|p1a: Pachirisu|Encore|p2a: Clodsire
+|-start|p2a: Clodsire|Encore
+|move|p2a: Clodsire|Recover|p2a: Clodsire
+|-heal|p2a: Clodsire|343/343
+|
+|-damage|p1a: Pachirisu|79/271 tox|[from] psn
+|upkeep
+|turn|25
+|
+|t:|1776974286
+|move|p1a: Pachirisu|Super Fang|p2a: Clodsire
+|-damage|p2a: Clodsire|172/343
+|move|p2a: Clodsire|Recover|p2a: Clodsire
+|-heal|p2a: Clodsire|343/343
+|
+|-damage|p1a: Pachirisu|15/271 tox|[from] psn
+|upkeep
+|turn|26
+|
+|t:|1776974301
+|move|p1a: Pachirisu|U-turn|p2a: Clodsire
+|-resisted|p2a: Clodsire
+|-damage|p2a: Clodsire|320/343
+|
+|t:|1776974305
+|switch|p1a: Eternatus|Eternatus, L69|308/308|[from] U-turn
+|-damage|p1a: Eternatus|257/308|[from] Spikes
+|-ability|p1a: Eternatus|Pressure
+|move|p2a: Clodsire|Recover|p2a: Clodsire
+|-heal|p2a: Clodsire|343/343
+|
+|-end|p2a: Clodsire|Encore
+|upkeep
+|turn|27
+|
+|t:|1776974330
+|move|p1a: Eternatus|Toxic Spikes|p2a: Clodsire
+|-sidestart|p2: LoscarGD|move: Toxic Spikes
+|move|p2a: Clodsire|Earthquake|p1a: Eternatus
+|-supereffective|p1a: Eternatus
+|-damage|p1a: Eternatus|87/308
+|
+|upkeep
+|turn|28
+|
+|t:|1776974345
+|move|p1a: Eternatus|Dynamax Cannon|p2a: Clodsire
+|-crit|p2a: Clodsire
+|-damage|p2a: Clodsire|210/343
+|move|p2a: Clodsire|Earthquake|p1a: Eternatus
+|-supereffective|p1a: Eternatus
+|-damage|p1a: Eternatus|0 fnt
+|faint|p1a: Eternatus
+|
+|-heal|p2a: Clodsire|231/343|[from] item: Leftovers
+|upkeep
+|
+|t:|1776974356
+|switch|p1a: Pachirisu|Pachirisu, L96, F, tera:Flying|15/271 tox
+|turn|29
+|
+|t:|1776974363
+|move|p1a: Pachirisu|Super Fang|p2a: Clodsire
+|-damage|p2a: Clodsire|116/343
+|move|p2a: Clodsire|Recover|p2a: Clodsire
+|-heal|p2a: Clodsire|288/343
+|
+|-heal|p2a: Clodsire|309/343|[from] item: Leftovers
+|-damage|p1a: Pachirisu|0 fnt|[from] psn
+|faint|p1a: Pachirisu
+|upkeep
+|
+|t:|1776974372
+|switch|p1a: Shaymin|Shaymin, L82|298/298
+|-damage|p1a: Shaymin|249/298|[from] Spikes
+|turn|30
+|
+|t:|1776974383
+|-terastallize|p2a: Clodsire|Steel
+|move|p1a: Shaymin|Seed Flare|p2a: Clodsire
+|-resisted|p2a: Clodsire
+|-damage|p2a: Clodsire|252/343
+|move|p2a: Clodsire|Gunk Shot|p1a: Shaymin
+|-supereffective|p1a: Shaymin
+|-damage|p1a: Shaymin|75/298
+|
+|-heal|p1a: Shaymin|93/298|[from] item: Leftovers
+|-heal|p2a: Clodsire|273/343|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1776974396
+|move|p1a: Shaymin|Earth Power|p2a: Clodsire
+|-supereffective|p2a: Clodsire
+|-damage|p2a: Clodsire|161/343
+|move|p2a: Clodsire|Gunk Shot|p1a: Shaymin
+|-supereffective|p1a: Shaymin
+|-damage|p1a: Shaymin|0 fnt
+|faint|p1a: Shaymin
+|
+|win|LoscarGD

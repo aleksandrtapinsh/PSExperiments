@@ -1,0 +1,51 @@
+|j|☆JU4NP1B3Z
+|j|☆tueur
+|t:|1776982321
+|gametype|singles
+|player|p1|JU4NP1B3Z|n|1227
+|player|p2|tueur|preschooler|1277
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776982321
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Noctowl|Noctowl, L95, F|344/344
+|switch|p2a: Chansey|Chansey, L85, F|564/564
+|turn|1
+|
+|t:|1776982334
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, L75, F|274/274
+|switch|p2a: Palossand|Palossand, L89, F|296/296
+|
+|upkeep
+|turn|2
+|
+|t:|1776982345
+|switch|p2a: Wyrdeer|Wyrdeer, L87, F|321/321
+|-ability|p2a: Wyrdeer|Intimidate|boost
+|-unboost|p1a: Urshifu|atk|1
+|move|p1a: Urshifu|U-turn|p2a: Wyrdeer
+|-supereffective|p2a: Wyrdeer
+|-damage|p2a: Wyrdeer|215/321
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by tueur)
+|
+|t:|1776982349
+|switch|p1a: Darkrai|Darkrai, L77|234/234|[from] U-turn
+|
+|-heal|p2a: Wyrdeer|235/321|[from] item: Leftovers
+|upkeep
+|turn|3
+|-message|tueur forfeited.
+|
+|win|JU4NP1B3Z
+|raw|JU4NP1B3Z's rating: 1227 &rarr; <strong>1256</strong><br />(+29 for winning)
+|raw|tueur's rating: 1277 &rarr; <strong>1248</strong><br />(-29 for losing)
+|l|☆tueur
+|player|p2|

@@ -1,0 +1,331 @@
+|j|☆Fjofbkh
+|j|☆SmellyFatKid625
+|t:|1776982672
+|gametype|singles
+|player|p1|Fjofbkh|265|1075
+|player|p2|SmellyFatKid625|firebreather|1067
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776982672
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Walking Wake|Walking Wake, L79|286/286
+|switch|p2a: Walking Wake|Walking Wake, L79|286/286
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Fjofbkh)
+|
+|t:|1776982693
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|switch|p1a: Hypno|Hypno, L95, M|315/315
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Whiscash|Whiscash, L88, M|337/337
+|
+|upkeep
+|turn|2
+|
+|t:|1776982702
+|move|p1a: Hypno|Toxic|p2a: Whiscash
+|-status|p2a: Whiscash|tox
+|move|p2a: Whiscash|Spikes|p1a: Hypno
+|-sidestart|p1: Fjofbkh|Spikes
+|
+|-damage|p2a: Whiscash|316/337 tox|[from] psn
+|upkeep
+|turn|3
+|inactive|Fjofbkh has 120 seconds left.
+|l|☆Fjofbkh
+|inactive|Fjofbkh disconnected and has a minute to reconnect!
+|player|p1|
+|n|!SmellyFatKid625|smellyfatkid625
+|j|☆Fjofbkh
+|inactive|Fjofbkh reconnected and has 90 seconds left.
+|player|p1|Fjofbkh|265|
+|
+|t:|1776982776
+|switch|p1a: Glastrier|Glastrier, L86|312/312
+|move|p2a: Whiscash|Spikes|p1a: Glastrier
+|-sidestart|p1: Fjofbkh|Spikes
+|
+|-heal|p2a: Whiscash|337/337 tox|[from] item: Leftovers
+|-damage|p2a: Whiscash|295/337 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1776982788
+|move|p2a: Whiscash|Hydro Pump|p1a: Glastrier
+|-crit|p1a: Glastrier
+|-damage|p1a: Glastrier|185/312
+|move|p1a: Glastrier|Swords Dance|p1a: Glastrier
+|-boost|p1a: Glastrier|atk|2
+|
+|-heal|p2a: Whiscash|316/337 tox|[from] item: Leftovers
+|-damage|p2a: Whiscash|253/337 tox|[from] psn
+|upkeep
+|turn|5
+|inactive|Fjofbkh has 90 seconds left.
+|inactive|SmellyFatKid625 has 120 seconds left.
+|
+|t:|1776982803
+|move|p2a: Whiscash|Hydro Pump|p1a: Glastrier
+|-damage|p1a: Glastrier|91/312
+|move|p1a: Glastrier|Icicle Crash|p2a: Whiscash
+|-damage|p2a: Whiscash|0 fnt
+|faint|p2a: Whiscash
+|-ability|p1a: Glastrier|Chilling Neigh|boost
+|-boost|p1a: Glastrier|atk|1
+|
+|upkeep
+|inactive|SmellyFatKid625 has 120 seconds left.
+|
+|t:|1776982814
+|switch|p2a: Flareon|Flareon, L90, M|263/263
+|turn|6
+|inactive|SmellyFatKid625 has 120 seconds left.
+|
+|t:|1776982832
+|move|p2a: Flareon|Trailblaze|p1a: Glastrier
+|-damage|p1a: Glastrier|52/312
+|-boost|p2a: Flareon|spe|1
+|move|p1a: Glastrier|Close Combat|p2a: Flareon
+|-damage|p2a: Flareon|0 fnt
+|-unboost|p1a: Glastrier|def|1
+|-unboost|p1a: Glastrier|spd|1
+|faint|p2a: Flareon
+|-ability|p1a: Glastrier|Chilling Neigh|boost
+|-boost|p1a: Glastrier|atk|1
+|
+|upkeep
+|
+|t:|1776982843
+|switch|p2a: Landorus|Landorus-Therian, L76, M|260/260
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Glastrier|atk|1
+|turn|7
+|
+|t:|1776982851
+|move|p2a: Landorus|Stealth Rock|p1a: Glastrier
+|-sidestart|p1: Fjofbkh|move: Stealth Rock
+|move|p1a: Glastrier|Icicle Crash|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|-ability|p1a: Glastrier|Chilling Neigh|boost
+|-boost|p1a: Glastrier|atk|1
+|
+|upkeep
+|
+|t:|1776982862
+|switch|p2a: Victreebel|Victreebel, L90, M|290/290
+|turn|8
+|
+|t:|1776982869
+|move|p2a: Victreebel|Sludge Wave|p1a: Glastrier
+|-damage|p1a: Glastrier|0 fnt
+|faint|p1a: Glastrier
+|-damage|p2a: Victreebel|261/290|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776982885
+|switch|p1a: Hypno|Hypno, L95, M|315/315
+|-damage|p1a: Hypno|263/315|[from] Spikes
+|-damage|p1a: Hypno|224/315|[from] Stealth Rock
+|turn|9
+|inactive|SmellyFatKid625 has 120 seconds left.
+|
+|t:|1776982902
+|-terastallize|p2a: Victreebel|Steel
+|move|p1a: Hypno|Psychic Noise|p2a: Victreebel
+|-resisted|p2a: Victreebel
+|-damage|p2a: Victreebel|213/290
+|-start|p2a: Victreebel|move: Heal Block
+|move|p2a: Victreebel|Sleep Powder|p1a: Hypno|[miss]
+|-miss|p2a: Victreebel|p1a: Hypno
+|
+|-heal|p1a: Hypno|243/315|[from] item: Leftovers
+|upkeep
+|turn|10
+|inactive|Fjofbkh has 120 seconds left.
+|
+|t:|1776982914
+|move|p1a: Hypno|Focus Blast|p2a: Victreebel|[miss]
+|-miss|p1a: Hypno|p2a: Victreebel
+|move|p2a: Victreebel|Power Whip|p1a: Hypno
+|-damage|p1a: Hypno|17/315
+|-damage|p2a: Victreebel|184/290|[from] item: Life Orb
+|
+|-heal|p1a: Hypno|36/315|[from] item: Leftovers
+|-end|p2a: Victreebel|move: Heal Block
+|upkeep
+|turn|11
+|
+|t:|1776982924
+|switch|p2a: Armarouge|Armarouge, L80, F|267/267
+|move|p1a: Hypno|Focus Blast|p2a: Armarouge
+|-resisted|p2a: Armarouge
+|-damage|p2a: Armarouge|222/267
+|
+|-heal|p1a: Hypno|55/315|[from] item: Leftovers
+|upkeep
+|turn|12
+|inactive|SmellyFatKid625 has 120 seconds left.
+|
+|t:|1776982943
+|move|p1a: Hypno|Toxic|p2a: Armarouge
+|-status|p2a: Armarouge|tox
+|move|p2a: Armarouge|Meteor Beam||[still]
+|-prepare|p2a: Armarouge|Meteor Beam
+|-boost|p2a: Armarouge|spa|1
+|-enditem|p2a: Armarouge|Power Herb
+|-anim|p2a: Armarouge|Meteor Beam|p1a: Hypno|[miss]
+|-miss|p2a: Armarouge|p1a: Hypno
+|
+|-heal|p1a: Hypno|74/315|[from] item: Leftovers
+|-damage|p2a: Armarouge|206/267 tox|[from] psn
+|upkeep
+|turn|13
+|inactive|Fjofbkh has 120 seconds left.
+|
+|t:|1776982985
+|move|p1a: Hypno|Protect|p1a: Hypno
+|-singleturn|p1a: Hypno|Protect
+|move|p2a: Armarouge|Armor Cannon|p1a: Hypno
+|-activate|p1a: Hypno|move: Protect
+|
+|-heal|p1a: Hypno|93/315|[from] item: Leftovers
+|-damage|p2a: Armarouge|174/267 tox|[from] psn
+|upkeep
+|turn|14
+|inactive|Fjofbkh has 90 seconds left.
+|
+|t:|1776983011
+|move|p1a: Hypno|Protect||[still]
+|-fail|p1a: Hypno
+|move|p2a: Armarouge|Meteor Beam||[still]
+|-prepare|p2a: Armarouge|Meteor Beam
+|-boost|p2a: Armarouge|spa|1
+|
+|-heal|p1a: Hypno|112/315|[from] item: Leftovers
+|-damage|p2a: Armarouge|126/267 tox|[from] psn
+|upkeep
+|turn|15
+|inactive|Fjofbkh has 90 seconds left.
+|
+|t:|1776983019
+|move|p1a: Hypno|Protect|p1a: Hypno
+|-singleturn|p1a: Hypno|Protect
+|move|p2a: Armarouge|Meteor Beam|p1a: Hypno|[from] lockedmove
+|-activate|p1a: Hypno|move: Protect
+|
+|-heal|p1a: Hypno|131/315|[from] item: Leftovers
+|-damage|p2a: Armarouge|62/267 tox|[from] psn
+|upkeep
+|turn|16
+|inactive|Fjofbkh has 90 seconds left.
+|
+|t:|1776983040
+|move|p1a: Hypno|Protect||[still]
+|-fail|p1a: Hypno
+|move|p2a: Armarouge|Armor Cannon|p1a: Hypno
+|-damage|p1a: Hypno|0 fnt
+|-unboost|p2a: Armarouge|def|1
+|-unboost|p2a: Armarouge|spd|1
+|faint|p1a: Hypno
+|
+|-damage|p2a: Armarouge|0 fnt|[from] psn
+|faint|p2a: Armarouge
+|upkeep
+|
+|t:|1776983050
+|switch|p1a: Walking Wake|Walking Wake, L79|286/286
+|switch|p2a: Victreebel|Victreebel, L90, M, tera:Steel|184/290
+|-damage|p1a: Walking Wake|239/286|[from] Spikes
+|-damage|p1a: Walking Wake|204/286|[from] Stealth Rock
+|turn|17
+|
+|t:|1776983060
+|move|p1a: Walking Wake|Flamethrower|p2a: Victreebel
+|-supereffective|p2a: Victreebel
+|-damage|p2a: Victreebel|0 fnt
+|faint|p2a: Victreebel
+|-damage|p1a: Walking Wake|176/286|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776983061
+|switch|p2a: Walking Wake|Walking Wake, L79|286/286
+|turn|18
+|
+|t:|1776983068
+|move|p2a: Walking Wake|Draco Meteor|p1a: Walking Wake
+|-supereffective|p1a: Walking Wake
+|-damage|p1a: Walking Wake|0 fnt
+|-unboost|p2a: Walking Wake|spa|2
+|faint|p1a: Walking Wake
+|-end|p1a: Walking Wake|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1776983073
+|switch|p1a: Okidogi|Okidogi, L77, M|262/262
+|-damage|p1a: Okidogi|219/262|[from] Spikes
+|-damage|p1a: Okidogi|203/262|[from] Stealth Rock
+|turn|19
+|
+|t:|1776983078
+|move|p2a: Walking Wake|Draco Meteor|p1a: Okidogi
+|-damage|p1a: Okidogi|82/262
+|-unboost|p2a: Walking Wake|spa|2
+|move|p1a: Okidogi|Bulk Up|p1a: Okidogi
+|-boost|p1a: Okidogi|atk|1
+|-boost|p1a: Okidogi|def|1
+|
+|-heal|p1a: Okidogi|98/262|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1776983086
+|move|p2a: Walking Wake|Draco Meteor|p1a: Okidogi
+|-damage|p1a: Okidogi|17/262
+|-unboost|p2a: Walking Wake|spa|2
+|move|p1a: Okidogi|Drain Punch|p2a: Walking Wake
+|-damage|p2a: Walking Wake|159/286
+|-heal|p1a: Okidogi|81/262|[from] drain|[of] p2a: Walking Wake
+|
+|-heal|p1a: Okidogi|97/262|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1776983095
+|move|p2a: Walking Wake|Draco Meteor|p1a: Okidogi
+|-damage|p1a: Okidogi|36/262
+|move|p1a: Okidogi|Drain Punch|p2a: Walking Wake
+|-damage|p2a: Walking Wake|39/286
+|-heal|p1a: Okidogi|96/262|[from] drain|[of] p2a: Walking Wake
+|-status|p2a: Walking Wake|tox|[from] ability: Toxic Chain|[of] p1a: Okidogi
+|
+|-heal|p1a: Okidogi|112/262|[from] item: Leftovers
+|-damage|p2a: Walking Wake|22/286 tox|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1776983105
+|switch|p1a: Sandy Shocks|Sandy Shocks, L80|267/267
+|-damage|p1a: Sandy Shocks|223/267|[from] Spikes
+|-damage|p1a: Sandy Shocks|207/267|[from] Stealth Rock
+|move|p2a: Walking Wake|Draco Meteor|p1a: Sandy Shocks
+|-damage|p1a: Sandy Shocks|146/267
+|
+|-heal|p1a: Sandy Shocks|162/267|[from] item: Leftovers
+|-damage|p2a: Walking Wake|0 fnt|[from] psn
+|faint|p2a: Walking Wake
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|
+|win|Fjofbkh

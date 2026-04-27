@@ -1,0 +1,542 @@
+|j|☆swetcherz
+|j|☆SonicObeso
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1776976327
+|gametype|singles
+|player|p1|swetcherz|169|
+|player|p2|SonicObeso|iris-gen5bw2|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|Tournament battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776976327
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Munkidori|Munkidori, L79, M|269/269
+|switch|p2a: Lycanroc|Lycanroc, L86, M|269/269
+|turn|1
+|inactive|swetcherz also wants the timer to be on.
+|
+|t:|1776976343
+|move|p2a: Lycanroc|Crunch|p1a: Munkidori
+|-supereffective|p1a: Munkidori
+|-damage|p1a: Munkidori|25/269
+|-unboost|p1a: Munkidori|def|1
+|-damage|p2a: Lycanroc|243/269|[from] item: Life Orb
+|move|p1a: Munkidori|Nasty Plot|p1a: Munkidori
+|-boost|p1a: Munkidori|spa|2
+|
+|upkeep
+|turn|2
+|
+|t:|1776976351
+|move|p2a: Lycanroc|Crunch|p1a: Munkidori
+|-supereffective|p1a: Munkidori
+|-damage|p1a: Munkidori|0 fnt
+|faint|p1a: Munkidori
+|-damage|p2a: Lycanroc|217/269|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776976373
+|switch|p1a: Gliscor|Gliscor, L76, F|239/239
+|turn|3
+|
+|t:|1776976389
+|move|p2a: Lycanroc|Stone Edge|p1a: Gliscor|[miss]
+|-miss|p2a: Lycanroc|p1a: Gliscor
+|move|p1a: Gliscor|Toxic|p2a: Lycanroc
+|-status|p2a: Lycanroc|tox
+|
+|-damage|p2a: Lycanroc|201/269 tox|[from] psn
+|-status|p1a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|4
+|
+|t:|1776976395
+|move|p1a: Gliscor|Protect|p1a: Gliscor
+|-singleturn|p1a: Gliscor|Protect
+|move|p2a: Lycanroc|Stone Edge|p1a: Gliscor
+|-activate|p1a: Gliscor|move: Protect
+|
+|-damage|p2a: Lycanroc|169/269 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1776976401
+|move|p2a: Lycanroc|Stone Edge|p1a: Gliscor
+|-damage|p1a: Gliscor|90/239 tox
+|-damage|p2a: Lycanroc|143/269 tox|[from] item: Life Orb
+|move|p1a: Gliscor|Substitute|p1a: Gliscor
+|-start|p1a: Gliscor|Substitute
+|-damage|p1a: Gliscor|31/239 tox
+|
+|-damage|p2a: Lycanroc|95/269 tox|[from] psn
+|-heal|p1a: Gliscor|60/239 tox|[from] ability: Poison Heal
+|upkeep
+|turn|6
+|
+|t:|1776976411
+|move|p1a: Gliscor|Protect|p1a: Gliscor
+|-singleturn|p1a: Gliscor|Protect
+|move|p2a: Lycanroc|Crunch|p1a: Gliscor
+|-activate|p1a: Gliscor|move: Protect
+|
+|-damage|p2a: Lycanroc|31/269 tox|[from] psn
+|-heal|p1a: Gliscor|89/239 tox|[from] ability: Poison Heal
+|upkeep
+|turn|7
+|
+|t:|1776976421
+|move|p2a: Lycanroc|Crunch|p1a: Gliscor
+|-end|p1a: Gliscor|Substitute
+|-damage|p2a: Lycanroc|5/269 tox|[from] item: Life Orb
+|move|p1a: Gliscor|Substitute|p1a: Gliscor
+|-start|p1a: Gliscor|Substitute
+|-damage|p1a: Gliscor|30/239 tox
+|
+|-damage|p2a: Lycanroc|0 fnt|[from] psn
+|faint|p2a: Lycanroc
+|-heal|p1a: Gliscor|59/239 tox|[from] ability: Poison Heal
+|upkeep
+|c|☆SonicObeso|não utilize essa tcholice
+|c|☆SonicObeso|por favor
+|
+|t:|1776976439
+|switch|p2a: Haxorus|Haxorus, L77, M|244/244
+|-ability|p2a: Haxorus|Mold Breaker
+|turn|8
+|
+|t:|1776976447
+|move|p2a: Haxorus|Swords Dance|p2a: Haxorus
+|-boost|p2a: Haxorus|atk|2
+|move|p1a: Gliscor|Toxic|p2a: Haxorus
+|-status|p2a: Haxorus|tox
+|
+|-damage|p2a: Haxorus|229/244 tox|[from] psn
+|-heal|p1a: Gliscor|88/239 tox|[from] ability: Poison Heal
+|upkeep
+|turn|9
+|
+|t:|1776976454
+|move|p1a: Gliscor|Protect|p1a: Gliscor
+|-singleturn|p1a: Gliscor|Protect
+|move|p2a: Haxorus|Scale Shot|p1a: Gliscor
+|-activate|p1a: Gliscor|move: Protect
+|
+|-damage|p2a: Haxorus|199/244 tox|[from] psn
+|-heal|p1a: Gliscor|117/239 tox|[from] ability: Poison Heal
+|upkeep
+|turn|10
+|
+|t:|1776976466
+|move|p2a: Haxorus|Scale Shot|p1a: Gliscor
+|-activate|p1a: Gliscor|move: Substitute|[damage]
+|-end|p1a: Gliscor|Substitute
+|-damage|p1a: Gliscor|62/239 tox
+|-damage|p1a: Gliscor|7/239 tox
+|-damage|p1a: Gliscor|0 fnt
+|faint|p1a: Gliscor
+|-hitcount|p1: Gliscor|5
+|-unboost|p2a: Haxorus|def|1
+|-boost|p2a: Haxorus|spe|1
+|
+|-damage|p2a: Haxorus|154/244 tox|[from] psn
+|upkeep
+|inactive|swetcherz has 120 seconds left.
+|
+|t:|1776976495
+|switch|p1a: Drifblim|Drifblim, L86, M|398/398
+|turn|11
+|inactive|swetcherz has 120 seconds left.
+|
+|t:|1776976507
+|-terastallize|p1a: Drifblim|Fairy
+|move|p2a: Haxorus|Scale Shot|p1a: Drifblim
+|-immune|p1a: Drifblim
+|move|p1a: Drifblim|Shadow Ball|p2a: Haxorus
+|-damage|p2a: Haxorus|42/244 tox
+|
+|-damage|p2a: Haxorus|0 fnt|[from] psn
+|faint|p2a: Haxorus
+|upkeep
+|
+|t:|1776976524
+|switch|p2a: Arboliva|Arboliva, L91, M|290/290
+|turn|12
+|
+|t:|1776976533
+|move|p1a: Drifblim|Air Slash|p2a: Arboliva
+|-supereffective|p2a: Arboliva
+|-damage|p2a: Arboliva|174/290
+|-fieldstart|move: Grassy Terrain|[from] ability: Seed Sower|[of] p2a: Arboliva
+|move|p2a: Arboliva|Strength Sap|p1a: Drifblim
+|-unboost|p1a: Drifblim|atk|1
+|-heal|p2a: Arboliva|290/290
+|
+|upkeep
+|turn|13
+|
+|t:|1776976544
+|move|p1a: Drifblim|Air Slash|p2a: Arboliva
+|-supereffective|p2a: Arboliva
+|-damage|p2a: Arboliva|174/290
+|move|p2a: Arboliva|Energy Ball|p1a: Drifblim
+|-damage|p1a: Drifblim|167/398
+|
+|-heal|p1a: Drifblim|191/398|[from] Grassy Terrain
+|-heal|p2a: Arboliva|192/290|[from] Grassy Terrain
+|-heal|p2a: Arboliva|210/290|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1776976553
+|move|p1a: Drifblim|Strength Sap|p2a: Arboliva
+|-unboost|p2a: Arboliva|atk|1
+|-heal|p1a: Drifblim|321/398
+|move|p2a: Arboliva|Energy Ball|p1a: Drifblim
+|-crit|p1a: Drifblim
+|-damage|p1a: Drifblim|0 fnt
+|faint|p1a: Drifblim
+|
+|-heal|p2a: Arboliva|228/290|[from] Grassy Terrain
+|-heal|p2a: Arboliva|246/290|[from] item: Leftovers
+|upkeep
+|
+|t:|1776976561
+|switch|p1a: Cinderace|Cinderace, L77, M|249/249
+|turn|15
+|
+|t:|1776976570
+|move|p1a: Cinderace|U-turn|p2a: Arboliva
+|-start|p1a: Cinderace|typechange|Bug|[from] ability: Libero
+|-supereffective|p2a: Arboliva
+|-damage|p2a: Arboliva|66/290
+|
+|t:|1776976575
+|switch|p1a: Rabsca|Rabsca, L91, M|284/284|[from] U-turn
+|move|p2a: Arboliva|Earth Power|p1a: Rabsca
+|-resisted|p1a: Rabsca
+|-crit|p1a: Rabsca
+|-damage|p1a: Rabsca|229/284
+|
+|-heal|p1a: Rabsca|246/284|[from] Grassy Terrain
+|-heal|p2a: Arboliva|84/290|[from] Grassy Terrain
+|-heal|p2a: Arboliva|102/290|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776976587
+|switch|p2a: Beartic|Beartic, L91, M|321/321
+|move|p1a: Rabsca|Revival Blessing|p1a: Rabsca
+|
+|t:|1776976593
+|-heal|p1: Gliscor|119/239|[from] move: Revival Blessing
+|
+|-heal|p1a: Rabsca|263/284|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|17
+|c|☆SonicObeso|gostei da criatividade
+|
+|t:|1776976613
+|move|p2a: Beartic|Snowscape|p2a: Beartic
+|-weather|Snowscape
+|move|p1a: Rabsca|Psychic|p2a: Beartic
+|-damage|p2a: Beartic|189/321
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1776976621
+|move|p2a: Beartic|Swords Dance|p2a: Beartic
+|-boost|p2a: Beartic|atk|2
+|move|p1a: Rabsca|Bug Buzz|p2a: Beartic
+|-damage|p2a: Beartic|57/321
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1776976644
+|move|p2a: Beartic|Icicle Crash|p1a: Rabsca
+|-damage|p1a: Rabsca|0 fnt
+|faint|p1a: Rabsca
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1776976655
+|switch|p1a: Palkia|Palkia-Origin, L72|249/249
+|-ability|p1a: Palkia|Pressure
+|turn|20
+|c|☆SonicObeso|vish
+|
+|t:|1776976666
+|move|p2a: Beartic|Icicle Crash|p1a: Palkia
+|-damage|p1a: Palkia|0 fnt
+|faint|p1a: Palkia
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1776976676
+|switch|p1a: Gliscor|Gliscor, L76, F|119/239
+|turn|21
+|
+|t:|1776976679
+|move|p1a: Gliscor|Protect|p1a: Gliscor
+|-singleturn|p1a: Gliscor|Protect
+|move|p2a: Beartic|Icicle Crash|p1a: Gliscor
+|-activate|p1a: Gliscor|move: Protect
+|
+|-weather|none
+|-status|p1a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|22
+|
+|t:|1776976690
+|move|p1a: Gliscor|Toxic|p2a: Beartic
+|-status|p2a: Beartic|tox
+|move|p2a: Beartic|Icicle Crash|p1a: Gliscor|[miss]
+|-miss|p2a: Beartic|p1a: Gliscor
+|
+|-heal|p1a: Gliscor|148/239 tox|[from] ability: Poison Heal
+|-damage|p2a: Beartic|37/321 tox|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1776976699
+|move|p1a: Gliscor|Substitute|p1a: Gliscor
+|-start|p1a: Gliscor|Substitute
+|-damage|p1a: Gliscor|89/239 tox
+|move|p2a: Beartic|Icicle Crash|p1a: Gliscor
+|-supereffective|p1a: Gliscor
+|-end|p1a: Gliscor|Substitute
+|
+|-heal|p1a: Gliscor|118/239 tox|[from] ability: Poison Heal
+|-damage|p2a: Beartic|0 fnt|[from] psn
+|faint|p2a: Beartic
+|upkeep
+|
+|t:|1776976708
+|switch|p2a: Kyogre|Kyogre, L71|259/259
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Kyogre
+|turn|24
+|
+|t:|1776976725
+|move|p1a: Gliscor|Protect|p1a: Gliscor
+|-singleturn|p1a: Gliscor|Protect
+|move|p2a: Kyogre|Ice Beam|p1a: Gliscor
+|-activate|p1a: Gliscor|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Gliscor|147/239 tox|[from] ability: Poison Heal
+|upkeep
+|turn|25
+|
+|t:|1776976740
+|switch|p1a: Cinderace|Cinderace, L77, M|249/249
+|move|p2a: Kyogre|Ice Beam|p1a: Cinderace
+|-resisted|p1a: Cinderace
+|-damage|p1a: Cinderace|212/249
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|26
+|
+|t:|1776976749
+|move|p1a: Cinderace|High Jump Kick|p2a: Kyogre
+|-start|p1a: Cinderace|typechange|Fighting|[from] ability: Libero
+|-damage|p2a: Kyogre|13/259
+|move|p2a: Kyogre|Origin Pulse|p1a: Cinderace
+|-damage|p1a: Cinderace|0 fnt
+|faint|p1a: Cinderace
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Kyogre|29/259|[from] item: Leftovers
+|upkeep
+|
+|t:|1776976757
+|switch|p1a: Gliscor|Gliscor, L76, F|147/239 tox
+|turn|27
+|
+|t:|1776976763
+|move|p1a: Gliscor|Protect|p1a: Gliscor
+|-singleturn|p1a: Gliscor|Protect
+|move|p2a: Kyogre|Origin Pulse|p1a: Gliscor
+|-activate|p1a: Gliscor|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Kyogre|45/259|[from] item: Leftovers
+|-heal|p1a: Gliscor|176/239 tox|[from] ability: Poison Heal
+|upkeep
+|turn|28
+|
+|t:|1776976770
+|move|p1a: Gliscor|Earthquake|p2a: Kyogre
+|-damage|p2a: Kyogre|0 fnt
+|faint|p2a: Kyogre
+|
+|-weather|none
+|-heal|p1a: Gliscor|205/239 tox|[from] ability: Poison Heal
+|upkeep
+|
+|t:|1776976782
+|switch|p2a: Arboliva|Arboliva, L91, M|102/290
+|turn|29
+|
+|t:|1776976789
+|move|p1a: Gliscor|Toxic|p2a: Arboliva
+|-status|p2a: Arboliva|tox
+|move|p2a: Arboliva|Strength Sap|p1a: Gliscor
+|-unboost|p1a: Gliscor|atk|1
+|-heal|p2a: Arboliva|290/290 tox
+|
+|-heal|p1a: Gliscor|234/239 tox|[from] ability: Poison Heal
+|-damage|p2a: Arboliva|272/290 tox|[from] psn
+|upkeep
+|turn|30
+|
+|t:|1776976797
+|move|p1a: Gliscor|Substitute|p1a: Gliscor
+|-start|p1a: Gliscor|Substitute
+|-damage|p1a: Gliscor|175/239 tox
+|move|p2a: Arboliva|Strength Sap||[still]
+|-fail|p2a: Arboliva
+|
+|-heal|p2a: Arboliva|290/290 tox|[from] item: Leftovers
+|-heal|p1a: Gliscor|204/239 tox|[from] ability: Poison Heal
+|-damage|p2a: Arboliva|254/290 tox|[from] psn
+|upkeep
+|turn|31
+|
+|t:|1776976805
+|move|p1a: Gliscor|Protect|p1a: Gliscor
+|-singleturn|p1a: Gliscor|Protect
+|move|p2a: Arboliva|Energy Ball|p1a: Gliscor
+|-activate|p1a: Gliscor|move: Protect
+|
+|-heal|p2a: Arboliva|272/290 tox|[from] item: Leftovers
+|-heal|p1a: Gliscor|233/239 tox|[from] ability: Poison Heal
+|-damage|p2a: Arboliva|218/290 tox|[from] psn
+|upkeep
+|turn|32
+|
+|t:|1776976813
+|move|p1a: Gliscor|Earthquake|p2a: Arboliva
+|-resisted|p2a: Arboliva
+|-damage|p2a: Arboliva|190/290 tox
+|-fieldstart|move: Grassy Terrain|[from] ability: Seed Sower|[of] p2a: Arboliva
+|move|p2a: Arboliva|Energy Ball|p1a: Gliscor
+|-end|p1a: Gliscor|Substitute
+|
+|-heal|p2a: Arboliva|208/290 tox|[from] Grassy Terrain
+|-heal|p2a: Arboliva|226/290 tox|[from] item: Leftovers
+|-heal|p1a: Gliscor|239/239 tox|[from] ability: Poison Heal
+|-damage|p2a: Arboliva|154/290 tox|[from] psn
+|upkeep
+|turn|33
+|j| Angolano1234567
+|j| RandomDoodle
+|c|☆SonicObeso|todo jogador de gliscor é igual?
+|
+|t:|1776976828
+|move|p1a: Gliscor|Substitute|p1a: Gliscor
+|-start|p1a: Gliscor|Substitute
+|-damage|p1a: Gliscor|180/239 tox
+|move|p2a: Arboliva|Strength Sap||[still]
+|-fail|p2a: Arboliva
+|
+|-heal|p2a: Arboliva|172/290 tox|[from] Grassy Terrain
+|-heal|p2a: Arboliva|190/290 tox|[from] item: Leftovers
+|-heal|p1a: Gliscor|209/239 tox|[from] ability: Poison Heal
+|-damage|p2a: Arboliva|100/290 tox|[from] psn
+|upkeep
+|turn|34
+|c| Angolano1234567|bandido qr 67 resenha aurax
+|
+|t:|1776976835
+|move|p1a: Gliscor|Protect|p1a: Gliscor
+|-singleturn|p1a: Gliscor|Protect
+|move|p2a: Arboliva|Hyper Voice|p1a: Gliscor
+|-activate|p1a: Gliscor|move: Protect
+|
+|-heal|p2a: Arboliva|118/290 tox|[from] Grassy Terrain
+|-heal|p2a: Arboliva|136/290 tox|[from] item: Leftovers
+|-heal|p1a: Gliscor|238/239 tox|[from] ability: Poison Heal
+|-damage|p2a: Arboliva|28/290 tox|[from] psn
+|upkeep
+|turn|35
+|
+|t:|1776976851
+|move|p1a: Gliscor|Protect||[still]
+|-fail|p1a: Gliscor
+|move|p2a: Arboliva|Energy Ball|p1a: Gliscor
+|-end|p1a: Gliscor|Substitute
+|
+|-heal|p2a: Arboliva|46/290 tox|[from] Grassy Terrain
+|-heal|p2a: Arboliva|64/290 tox|[from] item: Leftovers
+|-heal|p1a: Gliscor|239/239 tox|[from] ability: Poison Heal
+|-damage|p2a: Arboliva|0 fnt|[from] psn
+|faint|p2a: Arboliva
+|upkeep
+|
+|t:|1776976861
+|switch|p2a: Bellossom|Bellossom, L84, M|263/263
+|turn|36
+|
+|t:|1776976872
+|-terastallize|p2a: Bellossom|Fairy
+|move|p1a: Gliscor|Toxic|p2a: Bellossom
+|-status|p2a: Bellossom|tox
+|move|p2a: Bellossom|Quiver Dance|p2a: Bellossom
+|-boost|p2a: Bellossom|spa|1
+|-boost|p2a: Bellossom|spd|1
+|-boost|p2a: Bellossom|spe|1
+|
+|-damage|p2a: Bellossom|247/263 tox|[from] psn
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|37
+|
+|t:|1776976883
+|move|p2a: Bellossom|Moonblast|p1a: Gliscor
+|-damage|p1a: Gliscor|59/239 tox
+|move|p1a: Gliscor|Substitute|p1a: Gliscor
+|-fail|p1a: Gliscor|move: Substitute|[weak]
+|
+|-heal|p2a: Bellossom|263/263 tox|[from] item: Leftovers
+|-damage|p2a: Bellossom|231/263 tox|[from] psn
+|-heal|p1a: Gliscor|88/239 tox|[from] ability: Poison Heal
+|upkeep
+|turn|38
+|
+|t:|1776976888
+|move|p1a: Gliscor|Protect|p1a: Gliscor
+|-singleturn|p1a: Gliscor|Protect
+|move|p2a: Bellossom|Moonblast|p1a: Gliscor
+|-activate|p1a: Gliscor|move: Protect
+|
+|-heal|p2a: Bellossom|247/263 tox|[from] item: Leftovers
+|-damage|p2a: Bellossom|199/263 tox|[from] psn
+|-heal|p1a: Gliscor|117/239 tox|[from] ability: Poison Heal
+|upkeep
+|turn|39
+|
+|t:|1776976893
+|move|p2a: Bellossom|Moonblast|p1a: Gliscor
+|-damage|p1a: Gliscor|0 fnt
+|faint|p1a: Gliscor
+|
+|win|SonicObeso
+|n|☆swetcherz|swetcherz
+|n|☆SonicObeso|sonicobeso
+|n| Angolano1234567|angolano1234567
+|n| RandomDoodle|randomdoodle

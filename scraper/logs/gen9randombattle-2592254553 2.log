@@ -1,0 +1,277 @@
+|j|☆cmonjimmy
+|j|☆Zeyrf
+|t:|1776973674
+|gametype|singles
+|player|p1|cmonjimmy|officer-gen2|1511
+|player|p2|Zeyrf|unknown|1524
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776973674
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Flapple|Flapple, L88, F|266/266
+|switch|p2a: Gothitelle|Gothitelle, L90, M|272/272
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Zeyrf)
+|inactive|cmonjimmy also wants the timer to be on.
+|
+|t:|1776973690
+|move|p2a: Gothitelle|Psychic|p1a: Flapple
+|-damage|p1a: Flapple|136/266
+|move|p1a: Flapple|U-turn|p2a: Gothitelle
+|-supereffective|p2a: Gothitelle
+|-damage|p2a: Gothitelle|50/272
+|
+|t:|1776973703
+|switch|p1a: Mabosstiff|Mabosstiff, L86, F|278/278|[from] U-turn
+|
+|upkeep
+|turn|2
+|
+|t:|1776973711
+|move|p1a: Mabosstiff|Play Rough|p2a: Gothitelle
+|-damage|p2a: Gothitelle|0 fnt
+|faint|p2a: Gothitelle
+|
+|upkeep
+|
+|t:|1776973734
+|switch|p2a: Iron Hands|Iron Hands, L79|373/373
+|turn|3
+|
+|t:|1776973746
+|switch|p1a: Talonflame|Talonflame, L83, M|265/265
+|move|p2a: Iron Hands|Drain Punch|p1a: Talonflame
+|-resisted|p1a: Talonflame
+|-damage|p1a: Talonflame|214/265
+|
+|upkeep
+|turn|4
+|
+|t:|1776973761
+|switch|p1a: Raichu|Raichu, L88, F|249/249
+|move|p2a: Iron Hands|Wild Charge|p1a: Raichu
+|-ability|p1a: Raichu|Lightning Rod|boost
+|-boost|p1a: Raichu|spa|1
+|
+|upkeep
+|turn|5
+|
+|t:|1776973766
+|move|p1a: Raichu|Alluring Voice|p2a: Iron Hands
+|-supereffective|p2a: Iron Hands
+|-damage|p2a: Iron Hands|33/373
+|move|p2a: Iron Hands|Drain Punch|p1a: Raichu
+|-damage|p1a: Raichu|128/249
+|-heal|p2a: Iron Hands|94/373|[from] drain|[of] p1a: Raichu
+|
+|-heal|p2a: Iron Hands|117/373|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776973772
+|move|p1a: Raichu|Alluring Voice|p2a: Iron Hands
+|-supereffective|p2a: Iron Hands
+|-damage|p2a: Iron Hands|0 fnt
+|faint|p2a: Iron Hands
+|-end|p2a: Iron Hands|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1776973779
+|switch|p2a: Dialga|Dialga-Origin, L73|266/266
+|-ability|p2a: Dialga|Pressure
+|turn|7
+|
+|t:|1776973787
+|move|p1a: Raichu|Alluring Voice|p2a: Dialga
+|-damage|p2a: Dialga|149/266
+|move|p2a: Dialga|Draco Meteor|p1a: Raichu
+|-damage|p1a: Raichu|0 fnt
+|-unboost|p2a: Dialga|spa|2
+|faint|p1a: Raichu
+|
+|upkeep
+|
+|t:|1776973793
+|switch|p1a: Talonflame|Talonflame, L83, M|214/265
+|turn|8
+|
+|t:|1776973798
+|move|p1a: Talonflame|Swords Dance|p1a: Talonflame
+|-boost|p1a: Talonflame|atk|2
+|move|p2a: Dialga|Dragon Tail|p1a: Talonflame
+|-damage|p1a: Talonflame|136/265
+|drag|p1a: Porygon-Z|Porygon-Z, L83|277/277
+|
+|upkeep
+|turn|9
+|
+|t:|1776973806
+|move|p1a: Porygon-Z|Nasty Plot|p1a: Porygon-Z
+|-boost|p1a: Porygon-Z|spa|2
+|move|p2a: Dialga|Heavy Slam|p1a: Porygon-Z
+|-damage|p1a: Porygon-Z|135/277
+|
+|upkeep
+|turn|10
+|
+|t:|1776973811
+|move|p1a: Porygon-Z|Shadow Ball|p2a: Dialga
+|-damage|p2a: Dialga|0 fnt
+|faint|p2a: Dialga
+|-damage|p1a: Porygon-Z|108/277|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776973818
+|switch|p2a: Iron Jugulis|Iron Jugulis, L77|271/271
+|turn|11
+|
+|t:|1776973825
+|switch|p1a: Mabosstiff|Mabosstiff, L86, F|278/278
+|move|p2a: Iron Jugulis|Meteor Beam||[still]
+|-prepare|p2a: Iron Jugulis|Meteor Beam
+|-boost|p2a: Iron Jugulis|spa|1
+|-enditem|p2a: Iron Jugulis|Power Herb
+|-anim|p2a: Iron Jugulis|Meteor Beam|p1a: Mabosstiff
+|-damage|p1a: Mabosstiff|139/278
+|
+|upkeep
+|turn|12
+|
+|t:|1776973840
+|move|p1a: Mabosstiff|Play Rough|p2a: Iron Jugulis
+|-supereffective|p2a: Iron Jugulis
+|-damage|p2a: Iron Jugulis|91/271
+|move|p2a: Iron Jugulis|Hurricane|p1a: Mabosstiff
+|-damage|p1a: Mabosstiff|0 fnt
+|faint|p1a: Mabosstiff
+|
+|upkeep
+|
+|t:|1776973845
+|switch|p1a: Talonflame|Talonflame, L83, M|136/265
+|turn|13
+|
+|t:|1776973853
+|move|p1a: Talonflame|Brave Bird|p2a: Iron Jugulis
+|-damage|p2a: Iron Jugulis|0 fnt
+|faint|p2a: Iron Jugulis
+|-end|p2a: Iron Jugulis|Quark Drive|[silent]
+|-damage|p1a: Talonflame|106/265|[from] Recoil
+|
+|upkeep
+|
+|t:|1776973857
+|switch|p2a: Ting-Lu|Ting-Lu, L78|370/370
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|turn|14
+|
+|t:|1776973865
+|move|p1a: Talonflame|Swords Dance|p1a: Talonflame
+|-boost|p1a: Talonflame|atk|2
+|move|p2a: Ting-Lu|Payback|p1a: Talonflame
+|-damage|p1a: Talonflame|0 fnt
+|faint|p1a: Talonflame
+|
+|upkeep
+|
+|t:|1776973873
+|switch|p1a: Flapple|Flapple, L88, F|136/266
+|turn|15
+|
+|t:|1776973892
+|-terastallize|p2a: Ting-Lu|Ghost
+|move|p1a: Flapple|Grav Apple|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|168/370
+|-unboost|p2a: Ting-Lu|def|1
+|move|p2a: Ting-Lu|Payback|p1a: Flapple
+|-damage|p1a: Flapple|24/266
+|
+|-heal|p2a: Ting-Lu|191/370|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776973901
+|move|p1a: Flapple|Grav Apple|p2a: Ting-Lu
+|-crit|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|0 fnt
+|faint|p2a: Ting-Lu
+|
+|upkeep
+|
+|t:|1776973903
+|switch|p2a: Ogerpon|Ogerpon, L80, F|259/259
+|turn|17
+|
+|t:|1776973905
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Flapple
+|-resisted|p1a: Flapple
+|-damage|p1a: Flapple|0 fnt
+|faint|p1a: Flapple
+|
+|upkeep
+|
+|t:|1776973911
+|switch|p1a: Hitmonchan|Hitmonchan, L87, M|229/229
+|turn|18
+|
+|t:|1776973919
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Hitmonchan
+|-damage|p1a: Hitmonchan|112/229
+|move|p1a: Hitmonchan|Drain Punch|p2a: Ogerpon
+|-damage|p2a: Ogerpon|141/259
+|-heal|p1a: Hitmonchan|171/229|[from] drain|[of] p2a: Ogerpon
+|
+|-heal|p2a: Ogerpon|157/259|[from] item: Leftovers
+|-heal|p1a: Hitmonchan|185/229|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1776973924
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Hitmonchan
+|-crit|p1a: Hitmonchan
+|-damage|p1a: Hitmonchan|2/229
+|move|p1a: Hitmonchan|Drain Punch|p2a: Ogerpon
+|-damage|p2a: Ogerpon|48/259
+|-heal|p1a: Hitmonchan|57/229|[from] drain|[of] p2a: Ogerpon
+|
+|-heal|p2a: Ogerpon|64/259|[from] item: Leftovers
+|-heal|p1a: Hitmonchan|71/229|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1776973929
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Hitmonchan
+|-damage|p1a: Hitmonchan|0 fnt
+|faint|p1a: Hitmonchan
+|
+|-heal|p2a: Ogerpon|80/259|[from] item: Leftovers
+|upkeep
+|
+|t:|1776973931
+|switch|p1a: Porygon-Z|Porygon-Z, L83|108/277
+|turn|21
+|
+|t:|1776973934
+|-terastallize|p1a: Porygon-Z|Ghost
+|move|p2a: Ogerpon|Superpower|p1a: Porygon-Z
+|-immune|p1a: Porygon-Z
+|move|p1a: Porygon-Z|Shadow Ball|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|-damage|p1a: Porygon-Z|81/277|[from] item: Life Orb
+|
+|win|cmonjimmy
+|raw|cmonjimmy's rating: 1511 &rarr; <strong>1532</strong><br />(+21 for winning)
+|raw|Zeyrf's rating: 1524 &rarr; <strong>1503</strong><br />(-21 for losing)
+|l|☆Zeyrf
+|player|p2|

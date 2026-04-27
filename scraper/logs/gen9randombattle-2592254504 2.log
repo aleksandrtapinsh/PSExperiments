@@ -1,0 +1,252 @@
+|j|☆droykun
+|j|☆Hdjjsjisiaio
+|t:|1776973671
+|gametype|singles
+|player|p1|droykun|blackbelt-gen4dp|1055
+|player|p2|Hdjjsjisiaio|1|1045
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776973671
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Empoleon|Empoleon, L84, M|278/278
+|switch|p2a: Dragapult|Dragapult, L77, M|262/262
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by droykun)
+|
+|t:|1776973685
+|switch|p2a: Abomasnow|Abomasnow, L84, F|287/287
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Abomasnow
+|move|p1a: Empoleon|Yawn|p2a: Abomasnow
+|-start|p2a: Abomasnow|move: Yawn|[of] p1a: Empoleon
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1776973700
+|move|p2a: Abomasnow|Aurora Veil|p2a: Abomasnow
+|-sidestart|p2: Hdjjsjisiaio|move: Aurora Veil
+|move|p1a: Empoleon|Flip Turn|p2a: Abomasnow
+|-resisted|p2a: Abomasnow
+|-damage|p2a: Abomasnow|275/287
+|
+|t:|1776973712
+|switch|p1a: Iron Thorns|Iron Thorns, L83|302/302|[from] Flip Turn
+|-item|p1a: Iron Thorns|Air Balloon
+|
+|-weather|Snowscape|[upkeep]
+|-end|p2a: Abomasnow|move: Yawn|[silent]
+|-status|p2a: Abomasnow|slp
+|upkeep
+|turn|3
+|
+|t:|1776973724
+|switch|p2a: Tauros|Tauros, L82, M|257/257
+|move|p1a: Iron Thorns|Stone Edge|p2a: Tauros
+|-damage|p2a: Tauros|196/257
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1776973740
+|move|p2a: Tauros|Body Slam|p1a: Iron Thorns
+|-resisted|p1a: Iron Thorns
+|-damage|p1a: Iron Thorns|237/302
+|-enditem|p1a: Iron Thorns|Air Balloon
+|move|p1a: Iron Thorns|Spikes|p2a: Tauros
+|-sidestart|p2: Hdjjsjisiaio|Spikes
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1776973753
+|move|p2a: Tauros|Earthquake|p1a: Iron Thorns
+|-supereffective|p1a: Iron Thorns
+|-damage|p1a: Iron Thorns|0 fnt
+|faint|p1a: Iron Thorns
+|-end|p1a: Iron Thorns|Quark Drive|[silent]
+|-damage|p2a: Tauros|171/257|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|
+|t:|1776973766
+|switch|p1a: Falinks|Falinks, L84|246/246
+|turn|6
+|
+|t:|1776973775
+|move|p2a: Tauros|Body Slam|p1a: Falinks
+|-damage|p1a: Falinks|121/246
+|move|p1a: Falinks|No Retreat|p1a: Falinks
+|-boost|p1a: Falinks|atk|1
+|-boost|p1a: Falinks|def|1
+|-boost|p1a: Falinks|spa|1
+|-boost|p1a: Falinks|spd|1
+|-boost|p1a: Falinks|spe|1
+|-start|p1a: Falinks|move: No Retreat
+|
+|upkeep
+|turn|7
+|
+|t:|1776973790
+|move|p1a: Falinks|Close Combat|p2a: Tauros
+|-supereffective|p2a: Tauros
+|-damage|p2a: Tauros|0 fnt
+|-unboost|p1a: Falinks|def|1
+|-unboost|p1a: Falinks|spd|1
+|faint|p2a: Tauros
+|-damage|p1a: Falinks|97/246|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776973799
+|switch|p2a: Skeledirge|Skeledirge, L79, F|294/294
+|turn|8
+|
+|t:|1776973809
+|move|p1a: Falinks|Knock Off|p2a: Skeledirge
+|-supereffective|p2a: Skeledirge
+|-damage|p2a: Skeledirge|211/294
+|-enditem|p2a: Skeledirge|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Falinks
+|-damage|p1a: Falinks|73/246|[from] item: Life Orb
+|move|p2a: Skeledirge|Torch Song|p1a: Falinks
+|-damage|p1a: Falinks|0 fnt
+|-boost|p2a: Skeledirge|spa|1
+|faint|p1a: Falinks
+|
+|upkeep
+|
+|t:|1776973827
+|switch|p1a: Delphox|Delphox, L84, M|263/263
+|turn|9
+|inactive|droykun has 120 seconds left.
+|
+|t:|1776973843
+|move|p1a: Delphox|Psyshock|p2a: Skeledirge
+|-damage|p2a: Skeledirge|169/294
+|move|p2a: Skeledirge|Hex|p1a: Delphox
+|-supereffective|p1a: Delphox
+|-damage|p1a: Delphox|69/263
+|
+|-sideend|p2: Hdjjsjisiaio|move: Aurora Veil
+|upkeep
+|turn|10
+|inactive|droykun has 120 seconds left.
+|
+|t:|1776973856
+|switch|p1a: Empoleon|Empoleon, L84, M|278/278
+|move|p2a: Skeledirge|Slack Off|p2a: Skeledirge
+|-heal|p2a: Skeledirge|294/294
+|
+|upkeep
+|turn|11
+|
+|t:|1776973867
+|-terastallize|p2a: Skeledirge|Water
+|move|p2a: Skeledirge|Torch Song|p1a: Empoleon
+|-damage|p1a: Empoleon|164/278
+|-boost|p2a: Skeledirge|spa|1
+|move|p1a: Empoleon|Flip Turn|p2a: Skeledirge
+|-resisted|p2a: Skeledirge
+|-damage|p2a: Skeledirge|269/294
+|inactive|droykun has 120 seconds left.
+|
+|t:|1776973888
+|switch|p1a: Volcarona|Volcarona, L77, M|257/257|[from] Flip Turn
+|
+|upkeep
+|turn|12
+|
+|t:|1776973902
+|move|p1a: Volcarona|Giga Drain|p2a: Skeledirge
+|-supereffective|p2a: Skeledirge
+|-damage|p2a: Skeledirge|141/294
+|move|p2a: Skeledirge|Torch Song|p1a: Volcarona
+|-damage|p1a: Volcarona|89/257
+|-boost|p2a: Skeledirge|spa|1
+|
+|upkeep
+|turn|13
+|
+|t:|1776973915
+|switch|p1a: Empoleon|Empoleon, L84, M|164/278
+|move|p2a: Skeledirge|Slack Off|p2a: Skeledirge
+|-heal|p2a: Skeledirge|288/294
+|
+|-heal|p1a: Empoleon|181/278|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1776973924
+|move|p2a: Skeledirge|Torch Song|p1a: Empoleon
+|-damage|p1a: Empoleon|12/278
+|-boost|p2a: Skeledirge|spa|1
+|move|p1a: Empoleon|Roost|p1a: Empoleon
+|-heal|p1a: Empoleon|151/278
+|-singleturn|p1a: Empoleon|move: Roost
+|
+|-heal|p1a: Empoleon|168/278|[from] item: Leftovers
+|upkeep
+|turn|15
+|inactive|droykun has 120 seconds left.
+|
+|t:|1776973938
+|switch|p1a: Reuniclus|Reuniclus, L88, F|337/337
+|move|p2a: Skeledirge|Torch Song|p1a: Reuniclus
+|-damage|p1a: Reuniclus|84/337
+|-boost|p2a: Skeledirge|spa|1
+|
+|upkeep
+|turn|16
+|inactive|droykun has 120 seconds left.
+|
+|t:|1776973957
+|-terastallize|p1a: Reuniclus|Fighting
+|move|p2a: Skeledirge|Torch Song|p1a: Reuniclus
+|-damage|p1a: Reuniclus|0 fnt
+|-boost|p2a: Skeledirge|spa|1
+|faint|p1a: Reuniclus
+|
+|upkeep
+|
+|t:|1776973973
+|switch|p1a: Delphox|Delphox, L84, M|69/263
+|turn|17
+|
+|t:|1776973981
+|move|p1a: Delphox|Focus Blast|p2a: Skeledirge
+|-damage|p2a: Skeledirge|177/294
+|move|p2a: Skeledirge|Torch Song|p1a: Delphox
+|-resisted|p1a: Delphox
+|-damage|p1a: Delphox|0 fnt
+|faint|p1a: Delphox
+|
+|upkeep
+|
+|t:|1776973989
+|switch|p1a: Empoleon|Empoleon, L84, M|168/278
+|turn|18
+|
+|t:|1776973994
+|move|p2a: Skeledirge|Torch Song|p1a: Empoleon
+|-damage|p1a: Empoleon|0 fnt
+|faint|p1a: Empoleon
+|
+|upkeep
+|-message|droykun forfeited.
+|
+|win|Hdjjsjisiaio
+|raw|droykun's rating: 1055 &rarr; <strong>1036</strong><br />(-19 for losing)
+|raw|Hdjjsjisiaio's rating: 1045 &rarr; <strong>1079</strong><br />(+34 for winning)
+|l|☆droykun
+|player|p1|

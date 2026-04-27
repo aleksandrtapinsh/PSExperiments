@@ -1,0 +1,76 @@
+|j|☆vfbdfbvcgfnvbngn
+|j|☆BiggestBigshot07
+|t:|1776978651
+|gametype|singles
+|player|p1|vfbdfbvcgfnvbngn|102|1122
+|player|p2|BiggestBigshot07|colress|1138
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776978651
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Landorus|Landorus-Therian, L76, M|260/260
+|switch|p2a: Roaring Moon|Roaring Moon, L72|270/270
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Roaring Moon|atk|1
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by BiggestBigshot07)
+|
+|t:|1776978667
+|-end|p2a: Roaring Moon|Protosynthesis|[silent]
+|switch|p2a: Rotom|Rotom-Frost, L87|229/229
+|move|p1a: Landorus|Stealth Rock|p2a: Rotom
+|-sidestart|p2: BiggestBigshot07|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1776978675
+|switch|p1a: Blissey|Blissey, L85, F|572/572
+|move|p2a: Rotom|Blizzard|p1a: Blissey
+|-damage|p1a: Blissey|479/572
+|-status|p1a: Blissey|frz
+|
+|-heal|p1a: Blissey|514/572 frz|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776978687
+|-curestatus|p1a: Blissey|frz|[from] ability: Natural Cure
+|switch|p1a: Gothitelle|Gothitelle, L90, M|272/272
+|move|p2a: Rotom|Volt Switch|p1a: Gothitelle
+|-damage|p1a: Gothitelle|208/272
+|
+|t:|1776978697
+|switch|p2a: Roaring Moon|Roaring Moon, L72|270/270|[from] Volt Switch
+|-damage|p2a: Roaring Moon|237/270|[from] Stealth Rock
+|
+|upkeep
+|turn|4
+|
+|t:|1776978708
+|move|p1a: Gothitelle|Trick|p2a: Roaring Moon
+|-activate|p1a: Gothitelle|move: Trick|[of] p2a: Roaring Moon
+|-item|p2a: Roaring Moon|Choice Scarf|[from] move: Trick
+|-item|p1a: Gothitelle|Lum Berry|[from] move: Trick
+|move|p2a: Roaring Moon|Dragon Dance|p2a: Roaring Moon
+|-boost|p2a: Roaring Moon|atk|1
+|-boost|p2a: Roaring Moon|spe|1
+|
+|upkeep
+|turn|5
+|inactive|BiggestBigshot07 has 120 seconds left.
+|-message|BiggestBigshot07 forfeited.
+|
+|win|vfbdfbvcgfnvbngn
+|raw|vfbdfbvcgfnvbngn's rating: 1122 &rarr; <strong>1148</strong><br />(+26 for winning)
+|raw|BiggestBigshot07's rating: 1138 &rarr; <strong>1112</strong><br />(-26 for losing)
+|l|☆BiggestBigshot07
+|player|p2|

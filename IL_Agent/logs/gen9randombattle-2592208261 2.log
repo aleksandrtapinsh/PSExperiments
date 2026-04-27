@@ -1,0 +1,302 @@
+|j|☆Jsnejan
+|j|☆paraguayo1705
+|t:|1776970465
+|gametype|singles
+|player|p1|Jsnejan|170|1078
+|player|p2|paraguayo1705|265|1063
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776970465
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Spidops|Spidops, L96, F|271/271
+|switch|p2a: Gardevoir|Gardevoir, L83, M|249/249
+|-ability|p2a: Gardevoir|Stakeout|Trace|[from] ability: Trace|[of] p1a: Spidops
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by paraguayo1705)
+|inactive|Jsnejan has 120 seconds left.
+|
+|t:|1776970498
+|switch|p1a: Basculegion|Basculegion-F, L83, F|335/335
+|move|p2a: Gardevoir|Mystical Fire|p1a: Basculegion
+|-resisted|p1a: Basculegion
+|-damage|p1a: Basculegion|283/335
+|-unboost|p1a: Basculegion|spa|1
+|
+|upkeep
+|turn|2
+|
+|t:|1776970513
+|switch|p2a: Tentacruel|Tentacruel, L84, M|272/272
+|move|p1a: Basculegion|Shadow Ball|p2a: Tentacruel
+|-damage|p2a: Tentacruel|208/272
+|
+|-heal|p2a: Tentacruel|225/272|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776970538
+|switch|p1a: Spidops|Spidops, L96, F|271/271
+|move|p2a: Tentacruel|Sludge Bomb|p1a: Spidops
+|-damage|p1a: Spidops|196/271
+|
+|-heal|p2a: Tentacruel|242/272|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776970552
+|move|p2a: Tentacruel|Sludge Bomb|p1a: Spidops
+|-damage|p1a: Spidops|115/271
+|move|p1a: Spidops|Sticky Web|p2a: Tentacruel
+|-sidestart|p2: paraguayo1705|move: Sticky Web
+|
+|-heal|p2a: Tentacruel|259/272|[from] item: Leftovers
+|upkeep
+|turn|5
+|inactive|paraguayo1705 has 120 seconds left.
+|
+|t:|1776970602
+|switch|p1a: Slaking|Slaking, L84, F|389/389
+|move|p2a: Tentacruel|Rapid Spin|p1a: Slaking
+|-damage|p1a: Slaking|363/389
+|-boost|p2a: Tentacruel|spe|1
+|-sideend|p2: paraguayo1705|Sticky Web|[from] move: Rapid Spin|[of] p2a: Tentacruel
+|
+|-heal|p2a: Tentacruel|272/272|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776970613
+|switch|p2a: Annihilape|Annihilape, L76, M|292/292
+|move|p1a: Slaking|Giga Impact|p2a: Annihilape
+|-immune|p2a: Annihilape
+|
+|upkeep
+|turn|7
+|
+|t:|1776970630
+|switch|p1a: Coalossal|Coalossal, L89, M|341/341
+|move|p2a: Annihilape|Bulk Up|p2a: Annihilape
+|-boost|p2a: Annihilape|atk|1
+|-boost|p2a: Annihilape|def|1
+|
+|upkeep
+|turn|8
+|inactive|paraguayo1705 has 120 seconds left.
+|
+|t:|1776970648
+|move|p2a: Annihilape|Drain Punch|p1a: Coalossal
+|-supereffective|p1a: Coalossal
+|-damage|p1a: Coalossal|185/341
+|move|p1a: Coalossal|Overheat|p2a: Annihilape
+|-damage|p2a: Annihilape|148/292
+|-unboost|p1a: Coalossal|spa|2
+|
+|-heal|p2a: Annihilape|166/292|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776970657
+|move|p2a: Annihilape|Bulk Up|p2a: Annihilape
+|-boost|p2a: Annihilape|atk|1
+|-boost|p2a: Annihilape|def|1
+|move|p1a: Coalossal|Will-O-Wisp|p2a: Annihilape
+|-status|p2a: Annihilape|brn
+|
+|-heal|p2a: Annihilape|184/292 brn|[from] item: Leftovers
+|-damage|p2a: Annihilape|166/292 brn|[from] brn
+|upkeep
+|turn|10
+|inactive|paraguayo1705 has 120 seconds left.
+|
+|t:|1776970671
+|switch|p1a: Basculegion|Basculegion-F, L83, F|283/335
+|move|p2a: Annihilape|Drain Punch|p1a: Basculegion
+|-immune|p1a: Basculegion
+|
+|-heal|p2a: Annihilape|184/292 brn|[from] item: Leftovers
+|-damage|p2a: Annihilape|166/292 brn|[from] brn
+|upkeep
+|turn|11
+|c|☆paraguayo1705|u piece of shit
+|c|☆paraguayo1705|fucking asshole
+|inactive|paraguayo1705 has 120 seconds left.
+|
+|t:|1776970687
+|move|p2a: Annihilape|Rage Fist|p1a: Basculegion
+|-supereffective|p1a: Basculegion
+|-damage|p1a: Basculegion|31/335
+|move|p1a: Basculegion|Shadow Ball|p2a: Annihilape
+|-supereffective|p2a: Annihilape
+|-damage|p2a: Annihilape|0 fnt
+|faint|p2a: Annihilape
+|
+|upkeep
+|inactive|paraguayo1705 has 120 seconds left.
+|
+|t:|1776970695
+|switch|p2a: Blastoise|Blastoise, L80, F|258/258
+|turn|12
+|
+|t:|1776970709
+|switch|p1a: Slaking|Slaking, L84, F|363/389
+|move|p2a: Blastoise|Shell Smash|p2a: Blastoise
+|-unboost|p2a: Blastoise|def|1
+|-unboost|p2a: Blastoise|spd|1
+|-boost|p2a: Blastoise|atk|2
+|-boost|p2a: Blastoise|spa|2
+|-boost|p2a: Blastoise|spe|2
+|-enditem|p2a: Blastoise|White Herb
+|-clearnegativeboost|p2a: Blastoise|[silent]
+|
+|upkeep
+|turn|13
+|inactive|paraguayo1705 has 120 seconds left.
+|
+|t:|1776970746
+|-terastallize|p1a: Slaking|Normal
+|move|p2a: Blastoise|Hydro Pump|p1a: Slaking
+|-damage|p1a: Slaking|104/389
+|move|p1a: Slaking|Giga Impact|p2a: Blastoise
+|-damage|p2a: Blastoise|0 fnt
+|-mustrecharge|p1a: Slaking
+|faint|p2a: Blastoise
+|
+|upkeep
+|
+|t:|1776970755
+|switch|p2a: Minun|Minun, L95, F|268/268
+|turn|14
+|
+|t:|1776970761
+|cant|p1a: Slaking|recharge
+|move|p2a: Minun|Nasty Plot|p2a: Minun
+|-boost|p2a: Minun|spa|2
+|
+|upkeep
+|turn|15
+|
+|t:|1776970764
+|move|p1a: Slaking|Giga Impact|p2a: Minun
+|-damage|p2a: Minun|0 fnt
+|-mustrecharge|p1a: Slaking
+|faint|p2a: Minun
+|
+|upkeep
+|
+|t:|1776970769
+|switch|p2a: Gardevoir|Gardevoir, L83, M|249/249
+|-ability|p2a: Gardevoir|Truant|Trace|[from] ability: Trace|[of] p1a: Slaking
+|turn|16
+|
+|t:|1776970776
+|cant|p1a: Slaking|recharge
+|move|p2a: Gardevoir|Moonblast|p1a: Slaking
+|-crit|p1a: Slaking
+|-damage|p1a: Slaking|0 fnt
+|faint|p1a: Slaking
+|
+|upkeep
+|
+|t:|1776970784
+|switch|p1a: Basculegion|Basculegion-F, L83, F|31/335
+|turn|17
+|
+|t:|1776970796
+|cant|p2a: Gardevoir|ability: Truant
+|move|p1a: Basculegion|Shadow Ball|p2a: Gardevoir
+|-supereffective|p2a: Gardevoir
+|-damage|p2a: Gardevoir|53/249
+|
+|upkeep
+|turn|18
+|
+|t:|1776970806
+|move|p2a: Gardevoir|Moonblast|p1a: Basculegion
+|-damage|p1a: Basculegion|0 fnt
+|faint|p1a: Basculegion
+|
+|upkeep
+|
+|t:|1776970810
+|switch|p1a: Bellossom|Bellossom, L84, F|263/263
+|turn|19
+|inactive|paraguayo1705 has 120 seconds left.
+|
+|t:|1776970844
+|cant|p2a: Gardevoir|ability: Truant
+|move|p1a: Bellossom|Quiver Dance|p1a: Bellossom
+|-boost|p1a: Bellossom|spa|1
+|-boost|p1a: Bellossom|spd|1
+|-boost|p1a: Bellossom|spe|1
+|
+|upkeep
+|turn|20
+|
+|t:|1776970857
+|move|p2a: Gardevoir|Moonblast|p1a: Bellossom
+|-damage|p1a: Bellossom|185/263
+|-unboost|p1a: Bellossom|spa|1
+|move|p1a: Bellossom|Sludge Bomb|p2a: Gardevoir
+|-supereffective|p2a: Gardevoir
+|-damage|p2a: Gardevoir|0 fnt
+|faint|p2a: Gardevoir
+|
+|-heal|p1a: Bellossom|201/263|[from] item: Leftovers
+|upkeep
+|
+|t:|1776970865
+|switch|p2a: Thundurus|Thundurus, L80, M|258/258
+|turn|21
+|
+|t:|1776970884
+|switch|p1a: Spidops|Spidops, L96, F|115/271
+|-terastallize|p2a: Thundurus|Flying
+|move|p2a: Thundurus|Nasty Plot|p2a: Thundurus
+|-boost|p2a: Thundurus|spa|2
+|
+|upkeep
+|turn|22
+|
+|t:|1776970897
+|move|p2a: Thundurus|Tera Blast|p1a: Spidops|[anim] Tera Blast Flying
+|-supereffective|p1a: Spidops
+|-damage|p1a: Spidops|0 fnt
+|faint|p1a: Spidops
+|
+|upkeep
+|c|☆paraguayo1705|gg
+|
+|t:|1776970906
+|switch|p1a: Coalossal|Coalossal, L89, M|185/341
+|turn|23
+|
+|t:|1776970923
+|move|p2a: Thundurus|Thunderbolt|p1a: Coalossal
+|-damage|p1a: Coalossal|0 fnt
+|faint|p1a: Coalossal
+|
+|upkeep
+|
+|t:|1776970927
+|switch|p1a: Stonjourner|Stonjourner, L91, M|330/330
+|turn|24
+|c|☆paraguayo1705|haahahah noob asshole
+|
+|t:|1776970938
+|move|p2a: Thundurus|Focus Blast|p1a: Stonjourner
+|-supereffective|p1a: Stonjourner
+|-damage|p1a: Stonjourner|0 fnt
+|faint|p1a: Stonjourner
+|
+|upkeep
+|-message|Jsnejan forfeited.
+|
+|win|paraguayo1705

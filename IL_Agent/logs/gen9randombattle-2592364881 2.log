@@ -1,0 +1,125 @@
+|j|‽guywhosverybadatts
+|j|☆Vcrcddcexdws
+|t:|1776982449
+|gametype|singles
+|player|p1|guywhosverybadatts|102|1000
+|player|p2|Vcrcddcexdws|170|1000
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776982449
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Arceus|Arceus-Ghost, L69|280/280
+|switch|p2a: Magmortar|Magmortar, L88, M|275/275
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Vcrcddcexdws)
+|
+|t:|1776982465
+|move|p1a: Arceus|Judgment|p2a: Magmortar
+|-damage|p2a: Magmortar|187/275
+|move|p2a: Magmortar|Fire Blast|p1a: Arceus
+|-damage|p1a: Arceus|118/280
+|
+|upkeep
+|turn|2
+|
+|t:|1776982481
+|move|p1a: Arceus|Focus Blast|p2a: Magmortar
+|-damage|p2a: Magmortar|129/275
+|move|p2a: Magmortar|Fire Blast|p1a: Arceus
+|-damage|p1a: Arceus|0 fnt
+|faint|p1a: Arceus
+|
+|upkeep
+|
+|t:|1776982493
+|switch|p1a: Garchomp|Garchomp, L74, M|282/282
+|turn|3
+|
+|t:|1776982501
+|switch|p2a: Manaphy|Manaphy, L78|284/284
+|move|p1a: Garchomp|Earthquake|p2a: Manaphy
+|-damage|p2a: Manaphy|187/284
+|
+|-heal|p2a: Manaphy|204/284|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776982513
+|move|p2a: Manaphy|Tail Glow|p2a: Manaphy
+|-boost|p2a: Manaphy|spa|3
+|move|p1a: Garchomp|Outrage|p2a: Manaphy
+|-damage|p2a: Manaphy|84/284
+|
+|-heal|p2a: Manaphy|101/284|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776982521
+|move|p2a: Manaphy|Ice Beam|p1a: Garchomp
+|-supereffective|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|-heal|p2a: Manaphy|118/284|[from] item: Leftovers
+|upkeep
+|
+|t:|1776982544
+|switch|p1a: Ludicolo|Ludicolo, L90, F|290/290
+|turn|6
+|
+|t:|1776982556
+|switch|p2a: Magnezone|Magnezone, L85|258/258
+|move|p1a: Ludicolo|Giga Drain|p2a: Magnezone
+|-resisted|p2a: Magnezone
+|-damage|p2a: Magnezone|219/258
+|-damage|p1a: Ludicolo|261/290|[from] item: Life Orb
+|
+|upkeep
+|turn|7
+|
+|t:|1776982568
+|move|p1a: Ludicolo|Hydro Pump|p2a: Magnezone|[miss]
+|-miss|p1a: Ludicolo|p2a: Magnezone
+|move|p2a: Magnezone|Discharge|p1a: Ludicolo
+|-damage|p1a: Ludicolo|168/290
+|
+|upkeep
+|turn|8
+|
+|t:|1776982574
+|move|p1a: Ludicolo|Hydro Pump|p2a: Magnezone|[miss]
+|-miss|p1a: Ludicolo|p2a: Magnezone
+|move|p2a: Magnezone|Discharge|p1a: Ludicolo
+|-damage|p1a: Ludicolo|74/290
+|
+|upkeep
+|turn|9
+|
+|t:|1776982585
+|move|p1a: Ludicolo|Hydro Pump|p2a: Magnezone
+|-damage|p2a: Magnezone|102/258
+|-damage|p1a: Ludicolo|45/290|[from] item: Life Orb
+|move|p2a: Magnezone|Volt Switch|p1a: Ludicolo
+|-damage|p1a: Ludicolo|0 fnt
+|faint|p1a: Ludicolo
+|
+|t:|1776982589
+|switch|p2a: Manaphy|Manaphy, L78|118/284|[from] Volt Switch
+|
+|-heal|p2a: Manaphy|135/284|[from] item: Leftovers
+|upkeep
+|-message|guywhosverybadatts forfeited.
+|
+|win|Vcrcddcexdws
+|raw|guywhosverybadatts's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|raw|Vcrcddcexdws's rating: 1000 &rarr; <strong>1040</strong><br />(+40 for winning)
+|l|‽guywhosverybadatts
+|player|p1|

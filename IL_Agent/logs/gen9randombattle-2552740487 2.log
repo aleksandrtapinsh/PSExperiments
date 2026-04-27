@@ -1,0 +1,242 @@
+|j|☆Hjhgjhh
+|j|☆vicvipr
+|t:|1772748642
+|gametype|singles
+|player|p1|Hjhgjhh|lucas|1055
+|player|p2|vicvipr|burglar|1018
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772748642
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Chansey|Chansey, L85, F|564/564
+|switch|p2a: Scyther|Scyther, L82, F|249/249
+|turn|1
+|j| crab in japanese
+|
+|t:|1772748650
+|move|p2a: Scyther|Dual Wingbeat|p1a: Chansey
+|-damage|p1a: Chansey|413/564
+|-damage|p1a: Chansey|271/564
+|-hitcount|p1a: Chansey|2
+|move|p1a: Chansey|Thunder Wave|p2a: Scyther
+|-status|p2a: Scyther|par
+|
+|upkeep
+|turn|2
+|
+|t:|1772748662
+|switch|p1a: Electivire|Electivire, L84, F|263/263
+|move|p2a: Scyther|Dual Wingbeat|p1a: Electivire
+|-resisted|p1a: Electivire
+|-damage|p1a: Electivire|225/263
+|-resisted|p1a: Electivire
+|-damage|p1a: Electivire|187/263
+|-hitcount|p1a: Electivire|2
+|
+|upkeep
+|turn|3
+|c|☆vicvipr|LMAO crab leave me alone
+|c|☆vicvipr|tryna play some mf pokemon
+|
+|t:|1772748684
+|move|p1a: Electivire|Supercell Slam|p2a: Scyther
+|-supereffective|p2a: Scyther
+|-damage|p2a: Scyther|0 fnt
+|faint|p2a: Scyther
+|-damage|p1a: Electivire|161/263|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772748690
+|switch|p2a: Lycanroc|Lycanroc, L86, F|269/269
+|turn|4
+|
+|t:|1772748698
+|switch|p1a: Electrode|Electrode-Hisui, L87|246/246
+|-terastallize|p2a: Lycanroc|Fighting
+|move|p2a: Lycanroc|Close Combat|p1a: Electrode
+|-damage|p1a: Electrode|8/246
+|-unboost|p2a: Lycanroc|def|1
+|-unboost|p2a: Lycanroc|spd|1
+|-damage|p2a: Lycanroc|243/269|[from] item: Life Orb
+|
+|-heal|p1a: Electrode|23/246|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1772748709
+|move|p1a: Electrode|Thunderbolt|p2a: Lycanroc
+|-damage|p2a: Lycanroc|74/269
+|move|p2a: Lycanroc|Stone Edge|p1a: Electrode|[miss]
+|-miss|p2a: Lycanroc|p1a: Electrode
+|
+|-heal|p1a: Electrode|38/246|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1772748718
+|move|p1a: Electrode|Thunderbolt|p2a: Lycanroc
+|-damage|p2a: Lycanroc|0 fnt
+|faint|p2a: Lycanroc
+|
+|-heal|p1a: Electrode|53/246|[from] item: Leftovers
+|upkeep
+|
+|t:|1772748727
+|switch|p2a: Chansey|Chansey, L85, F|564/564
+|turn|7
+|
+|t:|1772748739
+|move|p1a: Electrode|Leech Seed|p2a: Chansey
+|-start|p2a: Chansey|move: Leech Seed
+|move|p2a: Chansey|Thunder Wave|p1a: Electrode
+|-immune|p1a: Electrode
+|
+|-heal|p1a: Electrode|68/246|[from] item: Leftovers
+|-damage|p2a: Chansey|494/564|[from] Leech Seed|[of] p1a: Electrode
+|-heal|p1a: Electrode|138/246|[silent]
+|upkeep
+|turn|8
+|c| crab in japanese|brown?
+|
+|t:|1772748760
+|move|p1a: Electrode|Substitute|p1a: Electrode
+|-start|p1a: Electrode|Substitute
+|-damage|p1a: Electrode|77/246
+|move|p2a: Chansey|Seismic Toss|p1a: Electrode
+|-end|p1a: Electrode|Substitute
+|
+|-heal|p1a: Electrode|92/246|[from] item: Leftovers
+|-damage|p2a: Chansey|424/564|[from] Leech Seed|[of] p1a: Electrode
+|-heal|p1a: Electrode|162/246|[silent]
+|upkeep
+|turn|9
+|c| crab in japanese|esl?
+|c|☆vicvipr|bro whatb is esl
+|
+|t:|1772748778
+|move|p1a: Electrode|Substitute|p1a: Electrode
+|-start|p1a: Electrode|Substitute
+|-damage|p1a: Electrode|101/246
+|move|p2a: Chansey|Seismic Toss|p1a: Electrode
+|-end|p1a: Electrode|Substitute
+|
+|-heal|p1a: Electrode|116/246|[from] item: Leftovers
+|-damage|p2a: Chansey|354/564|[from] Leech Seed|[of] p1a: Electrode
+|-heal|p1a: Electrode|186/246|[silent]
+|upkeep
+|turn|10
+|c| crab in japanese|ok so brown esl
+|c|☆vicvipr|WOT IS ESL
+|c| crab in japanese|saar bloody redeem
+|
+|t:|1772748801
+|switch|p1a: Electivire|Electivire, L84, F|161/263
+|move|p2a: Chansey|Seismic Toss|p1a: Electivire
+|-damage|p1a: Electivire|76/263
+|
+|-damage|p2a: Chansey|284/564|[from] Leech Seed|[of] p1a: Electivire
+|-heal|p1a: Electivire|146/263|[silent]
+|upkeep
+|turn|11
+|
+|t:|1772748810
+|move|p1a: Electivire|Knock Off|p2a: Chansey
+|-damage|p2a: Chansey|53/564
+|-enditem|p2a: Chansey|Eviolite|[from] move: Knock Off|[of] p1a: Electivire
+|-damage|p1a: Electivire|120/263|[from] item: Life Orb
+|move|p2a: Chansey|Seismic Toss|p1a: Electivire
+|-damage|p1a: Electivire|35/263
+|
+|-damage|p2a: Chansey|0 fnt|[from] Leech Seed|[of] p1a: Electivire
+|-heal|p1a: Electivire|88/263|[silent]
+|faint|p2a: Chansey
+|upkeep
+|
+|t:|1772748822
+|switch|p2a: Gyarados|Gyarados, L79, M|280/280
+|turn|12
+|
+|t:|1772748829
+|move|p1a: Electivire|Volt Switch|p2a: Gyarados
+|-supereffective|p2a: Gyarados
+|-damage|p2a: Gyarados|0 fnt
+|faint|p2a: Gyarados
+|-damage|p1a: Electivire|62/263|[from] item: Life Orb
+|c| crab in japanese|maam why did u redeem?
+|
+|t:|1772748833
+|switch|p1a: Electrode|Electrode-Hisui, L87|186/246|[from] Volt Switch
+|
+|-heal|p1a: Electrode|201/246|[from] item: Leftovers
+|upkeep
+|c|☆vicvipr|you have earned nothing good day sir
+|
+|t:|1772748849
+|switch|p2a: Brambleghast|Brambleghast, L88, F|240/240
+|turn|13
+|
+|t:|1772748858
+|switch|p1a: Chansey|Chansey, L85, F|271/564
+|move|p2a: Brambleghast|Power Whip|p1a: Chansey
+|-damage|p1a: Chansey|0 fnt
+|faint|p1a: Chansey
+|
+|upkeep
+|
+|t:|1772748862
+|switch|p1a: Blaziken|Blaziken, L76, M|247/247
+|turn|14
+|c| crab in japanese|good morning saar
+|
+|t:|1772748867
+|move|p1a: Blaziken|Protect|p1a: Blaziken
+|-singleturn|p1a: Blaziken|Protect
+|move|p2a: Brambleghast|Power Whip|p1a: Blaziken
+|-activate|p1a: Blaziken|move: Protect
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|15
+|
+|t:|1772748875
+|move|p1a: Blaziken|Flare Blitz|p2a: Brambleghast
+|-supereffective|p2a: Brambleghast
+|-damage|p2a: Brambleghast|0 fnt
+|faint|p2a: Brambleghast
+|-damage|p1a: Blaziken|168/247|[from] Recoil
+|-damage|p1a: Blaziken|144/247|[from] item: Life Orb
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|c| crab in japanese|do not redeem saar
+|c| crab in japanese|lose again saar
+|
+|t:|1772748896
+|switch|p2a: Gengar|Gengar, L81, M|230/230
+|turn|16
+|
+|t:|1772748900
+|move|p1a: Blaziken|Flare Blitz|p2a: Gengar
+|-damage|p2a: Gengar|0 fnt
+|faint|p2a: Gengar
+|-damage|p1a: Blaziken|68/247|[from] Recoil
+|-damage|p1a: Blaziken|44/247|[from] item: Life Orb
+|
+|win|Hjhgjhh
+|raw|Hjhgjhh's rating: 1055 &rarr; <strong>1083</strong><br />(+28 for winning)
+|raw|vicvipr's rating: 1018 &rarr; <strong>1007</strong><br />(-11 for losing)
+|l|☆vicvipr
+|player|p2|
+|l|☆Hjhgjhh
+|player|p1|

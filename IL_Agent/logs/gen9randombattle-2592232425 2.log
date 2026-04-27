@@ -1,0 +1,285 @@
+|j|☆Browtt
+|j|☆boudhgra
+|t:|1776972132
+|gametype|singles
+|player|p1|Browtt|170|1362
+|player|p2|boudhgra|brycenman|1373
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776972132
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Dugtrio|Dugtrio, L84, F|196/196
+|switch|p2a: Iron Boulder|Iron Boulder, L77|265/265
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by boudhgra)
+|inactive|Browtt also wants the timer to be on.
+|
+|t:|1776972152
+|move|p1a: Dugtrio|Earthquake|p2a: Iron Boulder
+|-supereffective|p2a: Iron Boulder
+|-damage|p2a: Iron Boulder|0 fnt
+|faint|p2a: Iron Boulder
+|-end|p2a: Iron Boulder|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1776972164
+|switch|p2a: Tentacruel|Tentacruel, L84, M|272/272
+|turn|2
+|inactive|Browtt has 120 seconds left.
+|inactive|Browtt has 90 seconds left.
+|
+|t:|1776972238
+|-terastallize|p2a: Tentacruel|Flying
+|move|p1a: Dugtrio|Earthquake|p2a: Tentacruel
+|-immune|p2a: Tentacruel
+|move|p2a: Tentacruel|Surf|p1a: Dugtrio
+|-supereffective|p1a: Dugtrio
+|-damage|p1a: Dugtrio|0 fnt
+|faint|p1a: Dugtrio
+|
+|upkeep
+|
+|t:|1776972249
+|switch|p1a: Iron Hands|Iron Hands, L79|373/373
+|turn|3
+|inactive|Browtt has 60 seconds left.
+|inactive|Browtt has 30 seconds left.
+|
+|t:|1776972314
+|switch|p2a: Froslass|Froslass, L87, F|263/263
+|move|p1a: Iron Hands|Wild Charge|p2a: Froslass
+|-damage|p2a: Froslass|130/263
+|-damage|p1a: Iron Hands|340/373|[from] Recoil
+|
+|upkeep
+|turn|4
+|inactive|Browtt has 30 seconds left.
+|
+|t:|1776972326
+|move|p2a: Froslass|Spikes|p1a: Iron Hands
+|-sidestart|p1: Browtt|Spikes
+|move|p1a: Iron Hands|Volt Switch|p2a: Froslass
+|-damage|p2a: Froslass|84/263
+|inactive|Browtt has 30 seconds left.
+|
+|t:|1776972339
+|-end|p1a: Iron Hands|Quark Drive|[silent]
+|switch|p1a: Ho-Oh|Ho-Oh, L71|268/268|[from] Volt Switch
+|
+|upkeep
+|turn|5
+|
+|t:|1776972346
+|move|p2a: Froslass|Spikes|p1a: Ho-Oh
+|-sidestart|p1: Browtt|Spikes
+|move|p1a: Ho-Oh|Sacred Fire|p2a: Froslass
+|-supereffective|p2a: Froslass
+|-damage|p2a: Froslass|0 fnt
+|faint|p2a: Froslass
+|
+|upkeep
+|
+|t:|1776972356
+|switch|p2a: Tentacruel|Tentacruel, L84, M, tera:Flying|272/272
+|turn|6
+|inactive|Browtt has 30 seconds left.
+|
+|t:|1776972378
+|switch|p1a: Amoonguss|Amoonguss, L82, F|321/321
+|-damage|p1a: Amoonguss|268/321|[from] Spikes
+|move|p2a: Tentacruel|Surf|p1a: Amoonguss
+|-resisted|p1a: Amoonguss
+|-damage|p1a: Amoonguss|223/321
+|
+|upkeep
+|turn|7
+|
+|t:|1776972404
+|switch|p2a: Azelf|Azelf, L82|257/257
+|move|p1a: Amoonguss|Spore|p2a: Azelf
+|-status|p2a: Azelf|slp|[from] move: Spore
+|
+|upkeep
+|turn|8
+|inactive|Browtt has 30 seconds left.
+|inactive|Browtt has 20 seconds left.
+|
+|t:|1776972434
+|cant|p2a: Azelf|slp
+|move|p1a: Amoonguss|Sludge Bomb|p2a: Azelf
+|-damage|p2a: Azelf|154/257 slp
+|
+|upkeep
+|turn|9
+|inactive|Browtt has 30 seconds left this turn.
+|
+|t:|1776972441
+|-curestatus|p2a: Azelf|slp|[msg]
+|move|p2a: Azelf|Stealth Rock|p1a: Amoonguss
+|-sidestart|p1: Browtt|move: Stealth Rock
+|move|p1a: Amoonguss|Giga Drain|p2a: Azelf
+|-damage|p2a: Azelf|69/257
+|-heal|p1a: Amoonguss|266/321|[from] drain|[of] p2a: Azelf
+|
+|upkeep
+|turn|10
+|
+|t:|1776972451
+|move|p2a: Azelf|Psychic|p1a: Amoonguss
+|-supereffective|p1a: Amoonguss
+|-damage|p1a: Amoonguss|0 fnt
+|faint|p1a: Amoonguss
+|-damage|p2a: Azelf|44/257|[from] item: Life Orb
+|
+|upkeep
+|inactive|Browtt has 30 seconds left.
+|
+|t:|1776972461
+|switch|p1a: Ho-Oh|Ho-Oh, L71|268/268
+|turn|11
+|
+|t:|1776972467
+|switch|p2a: Tentacruel|Tentacruel, L84, M, tera:Flying|272/272
+|move|p1a: Ho-Oh|Sacred Fire|p2a: Tentacruel
+|-damage|p2a: Tentacruel|146/272
+|-status|p2a: Tentacruel|brn
+|
+|-heal|p2a: Tentacruel|163/272 brn|[from] item: Leftovers
+|-damage|p2a: Tentacruel|146/272 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1776972478
+|switch|p1a: Virizion|Virizion, L82|283/283
+|-damage|p1a: Virizion|236/283|[from] Spikes
+|-damage|p1a: Virizion|219/283|[from] Stealth Rock
+|move|p2a: Tentacruel|Surf|p1a: Virizion
+|-resisted|p1a: Virizion
+|-damage|p1a: Virizion|189/283
+|
+|-heal|p2a: Tentacruel|163/272 brn|[from] item: Leftovers
+|-damage|p2a: Tentacruel|146/272 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1776972489
+|move|p1a: Virizion|Stone Edge|p2a: Tentacruel
+|-supereffective|p2a: Tentacruel
+|-damage|p2a: Tentacruel|0 fnt
+|faint|p2a: Tentacruel
+|-damage|p1a: Virizion|161/283|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776972494
+|switch|p2a: Azelf|Azelf, L82|44/257
+|turn|14
+|inactive|Browtt has 60 seconds left.
+|
+|t:|1776972509
+|switch|p1a: Ho-Oh|Ho-Oh, L71|268/268
+|move|p2a: Azelf|Psychic|p1a: Ho-Oh
+|-damage|p1a: Ho-Oh|158/268
+|-damage|p2a: Azelf|19/257|[from] item: Life Orb
+|
+|upkeep
+|turn|15
+|
+|t:|1776972524
+|switch|p1a: Virizion|Virizion, L82|161/283
+|-damage|p1a: Virizion|114/283|[from] Spikes
+|-damage|p1a: Virizion|97/283|[from] Stealth Rock
+|move|p2a: Azelf|Psychic|p1a: Virizion
+|-supereffective|p1a: Virizion
+|-damage|p1a: Virizion|0 fnt
+|faint|p1a: Virizion
+|-damage|p2a: Azelf|0 fnt|[from] item: Life Orb
+|faint|p2a: Azelf
+|
+|upkeep
+|inactive|Browtt has 60 seconds left.
+|
+|t:|1776972543
+|switch|p2a: Volcarona|Volcarona, L77, F|257/257
+|switch|p1a: Ho-Oh|Ho-Oh, L71|247/268
+|turn|16
+|
+|t:|1776972562
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|move|p1a: Ho-Oh|Brave Bird|p2a: Volcarona
+|-supereffective|p2a: Volcarona
+|-damage|p2a: Volcarona|0 fnt
+|faint|p2a: Volcarona
+|-damage|p1a: Ho-Oh|162/268|[from] Recoil
+|
+|upkeep
+|
+|t:|1776972570
+|switch|p2a: Glastrier|Glastrier, L86|312/312
+|turn|17
+|inactive|Browtt has 60 seconds left.
+|inactive|Browtt has 30 seconds left.
+|inactive|Browtt has 20 seconds left.
+|inactive|Browtt has 15 seconds left.
+|inactive|Browtt has 10 seconds left.
+|inactive|Browtt has 5 seconds left.
+|
+|t:|1776972646
+|move|p1a: Ho-Oh|Brave Bird|p2a: Glastrier
+|-damage|p2a: Glastrier|227/312
+|-damage|p1a: Ho-Oh|134/268|[from] Recoil
+|move|p2a: Glastrier|Icicle Crash|p1a: Ho-Oh
+|-damage|p1a: Ho-Oh|0 fnt
+|faint|p1a: Ho-Oh
+|-ability|p2a: Glastrier|Chilling Neigh|boost
+|-boost|p2a: Glastrier|atk|1
+|
+|upkeep
+|inactive|Browtt has 10 seconds left this turn.
+|inactive|Browtt has 5 seconds left.
+|
+|t:|1776972653
+|switch|p1a: Iron Hands|Iron Hands, L79|340/373
+|-damage|p1a: Iron Hands|278/373|[from] Spikes
+|-damage|p1a: Iron Hands|255/373|[from] Stealth Rock
+|turn|18
+|inactive|Browtt has 15 seconds left this turn.
+|
+|t:|1776972661
+|-terastallize|p1a: Iron Hands|Fighting
+|move|p1a: Iron Hands|Drain Punch|p2a: Glastrier
+|-supereffective|p2a: Glastrier
+|-damage|p2a: Glastrier|35/312
+|-heal|p1a: Iron Hands|351/373|[from] drain|[of] p2a: Glastrier
+|move|p2a: Glastrier|High Horsepower|p1a: Iron Hands
+|-damage|p1a: Iron Hands|220/373
+|
+|upkeep
+|turn|19
+|inactive|Browtt has 25 seconds left this turn.
+|inactive|Browtt has 20 seconds left.
+|
+|t:|1776972677
+|move|p1a: Iron Hands|Drain Punch|p2a: Glastrier
+|-supereffective|p2a: Glastrier
+|-damage|p2a: Glastrier|0 fnt
+|-heal|p1a: Iron Hands|238/373|[from] drain|[of] p2a: Glastrier
+|faint|p2a: Glastrier
+|
+|win|Browtt
+|raw|Browtt's rating: 1362 &rarr; <strong>1383</strong><br />(+21 for winning)
+|raw|boudhgra's rating: 1373 &rarr; <strong>1352</strong><br />(-21 for losing)
+|l|☆boudhgra
+|player|p2|

@@ -1,0 +1,252 @@
+|j|☆serudad
+|j|☆JustSomeAustrian
+|t:|1776975905
+|gametype|singles
+|player|p1|serudad|swimmer|1568
+|player|p2|JustSomeAustrian|hilbert|1564
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776975906
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Skeledirge|Skeledirge, L79, M|294/294
+|switch|p2a: Latias|Latias, L79, F|256/256
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by serudad)
+|
+|t:|1776975918
+|move|p2a: Latias|Draco Meteor|p1a: Skeledirge
+|-damage|p1a: Skeledirge|107/294
+|-unboost|p2a: Latias|spa|2
+|move|p1a: Skeledirge|Shadow Ball|p2a: Latias
+|-supereffective|p2a: Latias
+|-damage|p2a: Latias|136/256
+|
+|upkeep
+|turn|2
+|
+|t:|1776975926
+|move|p2a: Latias|Draco Meteor|p1a: Skeledirge
+|-damage|p1a: Skeledirge|0 fnt
+|-unboost|p2a: Latias|spa|2
+|faint|p1a: Skeledirge
+|
+|upkeep
+|
+|t:|1776975940
+|switch|p1a: Cloyster|Cloyster, L80, F|211/211
+|turn|3
+|
+|t:|1776975957
+|switch|p2a: Pachirisu|Pachirisu, L96, F|271/271
+|move|p1a: Cloyster|Shell Smash|p1a: Cloyster
+|-unboost|p1a: Cloyster|def|1
+|-unboost|p1a: Cloyster|spd|1
+|-boost|p1a: Cloyster|atk|2
+|-boost|p1a: Cloyster|spa|2
+|-boost|p1a: Cloyster|spe|2
+|-enditem|p1a: Cloyster|White Herb
+|-clearnegativeboost|p1a: Cloyster|[silent]
+|
+|upkeep
+|turn|4
+|
+|t:|1776975970
+|move|p1a: Cloyster|Icicle Spear|p2a: Pachirisu
+|-damage|p2a: Pachirisu|223/271
+|-damage|p2a: Pachirisu|171/271
+|-damage|p2a: Pachirisu|123/271
+|-damage|p2a: Pachirisu|75/271
+|-damage|p2a: Pachirisu|21/271
+|-hitcount|p2a: Pachirisu|5
+|move|p2a: Pachirisu|Discharge|p1a: Cloyster
+|-supereffective|p1a: Cloyster
+|-damage|p1a: Cloyster|13/211
+|
+|upkeep
+|turn|5
+|
+|t:|1776975987
+|move|p1a: Cloyster|Icicle Spear|p2a: Pachirisu
+|-damage|p2a: Pachirisu|0 fnt
+|faint|p2a: Pachirisu
+|-hitcount|p2: Pachirisu|1
+|
+|upkeep
+|
+|t:|1776975994
+|switch|p2a: Hypno|Hypno, L95, M|315/315
+|turn|6
+|
+|t:|1776976020
+|move|p1a: Cloyster|Icicle Spear|p2a: Hypno
+|-damage|p2a: Hypno|258/315
+|-damage|p2a: Hypno|207/315
+|-damage|p2a: Hypno|155/315
+|-damage|p2a: Hypno|103/315
+|-damage|p2a: Hypno|52/315
+|-hitcount|p2a: Hypno|5
+|move|p2a: Hypno|Psychic Noise|p1a: Cloyster
+|-damage|p1a: Cloyster|0 fnt
+|faint|p1a: Cloyster
+|
+|-heal|p2a: Hypno|71/315|[from] item: Leftovers
+|upkeep
+|inactive|JustSomeAustrian also wants the timer to be on.
+|inactive|serudad has 120 seconds left.
+|
+|t:|1776976042
+|switch|p1a: Miraidon|Miraidon, L65|238/238
+|-fieldstart|move: Electric Terrain|[from] ability: Hadron Engine|[of] p1a: Miraidon
+|turn|7
+|
+|t:|1776976056
+|move|p1a: Miraidon|Volt Switch|p2a: Hypno
+|-damage|p2a: Hypno|0 fnt
+|faint|p2a: Hypno
+|
+|t:|1776976063
+|switch|p1a: Iron Bundle|Iron Bundle, L78|215/215|[from] Volt Switch
+|-activate|p1a: Iron Bundle|ability: Quark Drive
+|-start|p1a: Iron Bundle|quarkdrivespe
+|
+|upkeep
+|
+|t:|1776976076
+|switch|p2a: Glalie|Glalie, L96, F|309/309
+|turn|8
+|
+|t:|1776976084
+|move|p1a: Iron Bundle|Flip Turn|p2a: Glalie
+|-damage|p2a: Glalie|263/309
+|
+|t:|1776976087
+|-end|p1a: Iron Bundle|Quark Drive|[silent]
+|switch|p1a: Hariyama|Hariyama, L87, M|392/392|[from] Flip Turn
+|move|p2a: Glalie|Freeze-Dry|p1a: Hariyama
+|-damage|p1a: Hariyama|287/392
+|
+|-status|p1a: Hariyama|brn|[from] item: Flame Orb
+|upkeep
+|turn|9
+|inactive|JustSomeAustrian has 120 seconds left.
+|
+|t:|1776976133
+|switch|p2a: Kommo-o|Kommo-o, L78, F|245/245
+|move|p1a: Hariyama|Knock Off|p2a: Kommo-o
+|-resisted|p2a: Kommo-o
+|-damage|p2a: Kommo-o|194/245
+|-enditem|p2a: Kommo-o|Throat Spray|[from] move: Knock Off|[of] p1a: Hariyama
+|
+|-damage|p1a: Hariyama|263/392 brn|[from] brn
+|upkeep
+|turn|10
+|inactive|serudad has 120 seconds left.
+|
+|t:|1776976155
+|move|p2a: Kommo-o|Clangorous Soul|p2a: Kommo-o
+|-boost|p2a: Kommo-o|atk|1
+|-boost|p2a: Kommo-o|def|1
+|-boost|p2a: Kommo-o|spa|1
+|-boost|p2a: Kommo-o|spd|1
+|-boost|p2a: Kommo-o|spe|1
+|-damage|p2a: Kommo-o|114/245
+|move|p1a: Hariyama|Facade|p2a: Kommo-o
+|-damage|p2a: Kommo-o|17/245
+|
+|-damage|p1a: Hariyama|239/392 brn|[from] brn
+|upkeep
+|turn|11
+|inactive|serudad has 120 seconds left.
+|inactive|JustSomeAustrian has 90 seconds left.
+|
+|t:|1776976176
+|switch|p1a: Stonjourner|Stonjourner, L91, M|330/330
+|move|p2a: Kommo-o|Drain Punch|p1a: Stonjourner
+|-supereffective|p1a: Stonjourner
+|-damage|p1a: Stonjourner|178/330
+|-heal|p2a: Kommo-o|93/245|[from] drain|[of] p1a: Stonjourner
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|12
+|inactive|serudad has 120 seconds left.
+|inactive|JustSomeAustrian has 90 seconds left.
+|
+|t:|1776976186
+|move|p2a: Kommo-o|Drain Punch|p1a: Stonjourner
+|-supereffective|p1a: Stonjourner
+|-damage|p1a: Stonjourner|38/330
+|-heal|p2a: Kommo-o|163/245|[from] drain|[of] p1a: Stonjourner
+|move|p1a: Stonjourner|Earthquake|p2a: Kommo-o
+|-damage|p2a: Kommo-o|93/245
+|-damage|p1a: Stonjourner|5/330|[from] item: Life Orb
+|
+|upkeep
+|turn|13
+|inactive|serudad has 120 seconds left.
+|
+|t:|1776976196
+|move|p2a: Kommo-o|Boomburst|p1a: Stonjourner
+|-resisted|p1a: Stonjourner
+|-damage|p1a: Stonjourner|0 fnt
+|faint|p1a: Stonjourner
+|
+|upkeep
+|inactive|serudad has 120 seconds left.
+|
+|t:|1776976217
+|switch|p1a: Hariyama|Hariyama, L87, M|239/392 brn
+|turn|14
+|
+|t:|1776976229
+|-terastallize|p2a: Kommo-o|Normal
+|move|p1a: Hariyama|Fake Out|p2a: Kommo-o
+|-damage|p2a: Kommo-o|62/245
+|cant|p2a: Kommo-o|flinch
+|
+|-damage|p1a: Hariyama|215/392 brn|[from] brn
+|upkeep
+|turn|15
+|inactive|serudad has 120 seconds left.
+|
+|t:|1776976238
+|move|p2a: Kommo-o|Boomburst|p1a: Hariyama
+|-damage|p1a: Hariyama|0 fnt
+|faint|p1a: Hariyama
+|
+|upkeep
+|
+|t:|1776976243
+|switch|p1a: Iron Bundle|Iron Bundle, L78|215/215
+|turn|16
+|
+|t:|1776976257
+|move|p2a: Kommo-o|Boomburst|p1a: Iron Bundle
+|-damage|p1a: Iron Bundle|0 fnt
+|faint|p1a: Iron Bundle
+|-end|p1a: Iron Bundle|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1776976260
+|switch|p1a: Miraidon|Miraidon, L65|238/238
+|-fieldstart|move: Electric Terrain|[from] ability: Hadron Engine|[of] p1a: Miraidon
+|turn|17
+|
+|t:|1776976265
+|move|p2a: Kommo-o|Clanging Scales|p1a: Miraidon
+|-supereffective|p1a: Miraidon
+|-damage|p1a: Miraidon|0 fnt
+|faint|p1a: Miraidon
+|
+|win|JustSomeAustrian
+|raw|serudad's rating: 1568 &rarr; <strong>1548</strong><br />(-20 for losing)
+|raw|JustSomeAustrian's rating: 1564 &rarr; <strong>1584</strong><br />(+20 for winning)

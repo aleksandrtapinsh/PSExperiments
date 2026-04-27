@@ -1,0 +1,168 @@
+|j|‽BlastoiseBase
+|j|☆disconnectduewifi
+|t:|1776971100
+|gametype|singles
+|player|p1|BlastoiseBase|sailor|1550
+|player|p2|disconnectduewifi|lucas|1585
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776971100
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Braviary|Braviary-Hisui, L85, M|326/326
+|switch|p2a: Dugtrio|Dugtrio-Alola, L84, M|196/196
+|turn|1
+|
+|t:|1776971110
+|move|p1a: Braviary|Vacuum Wave|p2a: Dugtrio
+|-supereffective|p2a: Dugtrio
+|-damage|p2a: Dugtrio|74/196
+|move|p2a: Dugtrio|Stealth Rock|p1a: Braviary
+|-sidestart|p1: BlastoiseBase|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by BlastoiseBase)
+|
+|t:|1776971151
+|switch|p1a: Torkoal|Torkoal, L88, F|266/266
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|move|p2a: Dugtrio|Iron Head|p1a: Torkoal
+|-resisted|p1a: Torkoal
+|-damage|p1a: Torkoal|228/266
+|-damage|p2a: Dugtrio|55/196|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1776971164
+|switch|p1a: Braviary|Braviary-Hisui, L85, M|326/326
+|-damage|p1a: Braviary|245/326|[from] Stealth Rock
+|move|p2a: Dugtrio|Earthquake|p1a: Braviary
+|-immune|p1a: Braviary
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1776971175
+|move|p2a: Dugtrio|Sucker Punch|p1a: Braviary
+|-supereffective|p1a: Braviary
+|-damage|p1a: Braviary|81/326
+|-damage|p2a: Dugtrio|36/196|[from] item: Life Orb
+|move|p1a: Braviary|Vacuum Wave|p2a: Dugtrio
+|-supereffective|p2a: Dugtrio
+|-damage|p2a: Dugtrio|0 fnt
+|faint|p2a: Dugtrio
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|inactive|disconnectduewifi has 120 seconds left.
+|
+|t:|1776971201
+|switch|p2a: Sneasler|Sneasler, L74, F|240/240
+|turn|5
+|
+|t:|1776971219
+|switch|p1a: Torkoal|Torkoal, L88, F|228/266
+|move|p2a: Sneasler|U-turn|p1a: Torkoal
+|-resisted|p1a: Torkoal
+|-damage|p1a: Torkoal|202/266
+|inactive|disconnectduewifi has 120 seconds left.
+|
+|t:|1776971243
+|switch|p2a: Heatran|Heatran, L79, F|273/273|[from] U-turn
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1776971263
+|move|p2a: Heatran|Earth Power|p1a: Torkoal
+|-supereffective|p1a: Torkoal
+|-damage|p1a: Torkoal|42/266
+|-unboost|p1a: Torkoal|spd|1
+|move|p1a: Torkoal|Rapid Spin|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|257/273
+|-boost|p1a: Torkoal|spe|1
+|-sideend|p1: BlastoiseBase|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Torkoal
+|
+|-weather|none
+|upkeep
+|turn|7
+|
+|t:|1776971276
+|switch|p1a: Urshifu|Urshifu, L74, F|270/270
+|move|p2a: Heatran|Earth Power|p1a: Urshifu
+|-damage|p1a: Urshifu|163/270
+|
+|upkeep
+|turn|8
+|
+|t:|1776971294
+|switch|p2a: Sneasler|Sneasler, L74, F|240/240
+|move|p1a: Urshifu|U-turn|p2a: Sneasler
+|-resisted|p2a: Sneasler
+|-damage|p2a: Sneasler|212/240
+|
+|t:|1776971310
+|switch|p1a: Pincurchin|Pincurchin, F|258/258|[from] U-turn
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Pincurchin
+|
+|upkeep
+|turn|9
+|
+|t:|1776971319
+|move|p2a: Sneasler|U-turn|p1a: Pincurchin
+|-damage|p1a: Pincurchin|202/258
+|-status|p1a: Pincurchin|psn|[from] ability: Poison Touch|[of] p2a: Sneasler
+|
+|t:|1776971325
+|switch|p2a: Cacturne|Cacturne, L92, M|278/278|[from] U-turn
+|move|p1a: Pincurchin|Curse|p1a: Pincurchin
+|-unboost|p1a: Pincurchin|spe|1
+|-boost|p1a: Pincurchin|atk|1
+|-boost|p1a: Pincurchin|def|1
+|
+|-heal|p1a: Pincurchin|218/258 psn|[from] item: Leftovers
+|-damage|p1a: Pincurchin|186/258 psn|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1776971339
+|move|p2a: Cacturne|Knock Off|p1a: Pincurchin
+|-crit|p1a: Pincurchin
+|-damage|p1a: Pincurchin|0 fnt
+|-enditem|p1a: Pincurchin|Leftovers|[from] move: Knock Off|[of] p2a: Cacturne
+|faint|p1a: Pincurchin
+|-damage|p2a: Cacturne|251/278|[from] item: Life Orb
+|
+|upkeep
+|inactive|BlastoiseBase has 120 seconds left.
+|n|☆BlastoiseBase|blastoisebase
+|c|☆BlastoiseBase|Lol brain dead moves
+|c|☆BlastoiseBase|Then rewarded by every instance of luck
+|c|☆BlastoiseBase|Go KY
+|c|☆BlastoiseBase|S
+|l|☆BlastoiseBase
+|inactive|BlastoiseBase disconnected and has a minute to reconnect!
+|player|p1|
+|inactive|BlastoiseBase has 30 seconds to reconnect!
+|inactive|BlastoiseBase has 20 seconds to reconnect!
+|inactive|BlastoiseBase has 15 seconds to reconnect!
+|inactive|BlastoiseBase has 10 seconds to reconnect!
+|inactive|BlastoiseBase has 5 seconds to reconnect!
+|-message|BlastoiseBase lost due to inactivity.
+|
+|win|disconnectduewifi
+|raw|BlastoiseBase's rating: 1550 &rarr; <strong>1532</strong><br />(-18 for losing)
+|raw|disconnectduewifi's rating: 1585 &rarr; <strong>1603</strong><br />(+18 for winning)

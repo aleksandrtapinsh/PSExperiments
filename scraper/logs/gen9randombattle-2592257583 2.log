@@ -1,0 +1,409 @@
+|badge|p2|bronze|gen9randombattle|100-9
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/">thread on Smogon.</a></div>
+|j|☆buzbee2000
+|j|☆supergriefer101
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1776973886
+|gametype|singles
+|player|p1|buzbee2000|rood|
+|player|p2|supergriefer101|aromalady|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|Tournament battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776973886
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kingdra|Kingdra, L84, F|263/263
+|switch|p2a: Meowstic|Meowstic, L89, M|277/277
+|turn|1
+|j| pordismomen
+|j| vortexaxolotl
+|c|☆buzbee2000|glhf
+|j| JCSO
+|j| mastervelyk2
+|j| catomic56
+|j| Shadow Necromancer
+|j| bennybob8818
+|j| YourAverageWave
+|l| bennybob8818
+|j| Cyber99
+|
+|t:|1776973908
+|switch|p1a: Donphan|Donphan, L84, F|288/288
+|move|p2a: Meowstic|Alluring Voice|p1a: Donphan
+|-damage|p1a: Donphan|214/288
+|
+|-heal|p1a: Donphan|232/288|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776973916
+|move|p2a: Meowstic|Psychic Noise|p1a: Donphan
+|-crit|p1a: Donphan
+|-damage|p1a: Donphan|69/288
+|-start|p1a: Donphan|move: Heal Block
+|move|p1a: Donphan|Knock Off|p2a: Meowstic
+|-supereffective|p2a: Meowstic
+|-damage|p2a: Meowstic|111/277
+|-enditem|p2a: Meowstic|Leftovers|[from] move: Knock Off|[of] p1a: Donphan
+|
+|upkeep
+|turn|3
+|c|☆buzbee2000|ouch
+|j| VinDaPooh
+|c| YourAverageWave|2 highladder sweats
+|c| pordismomen|offense meowstic
+|
+|t:|1776973933
+|switch|p1a: Calyrex|Calyrex-Ice, L72|263/263
+|-ability|p1a: Calyrex|As One
+|-ability|p1a: Calyrex|Unnerve
+|move|p2a: Meowstic|Psychic Noise|p1a: Calyrex
+|-resisted|p1a: Calyrex
+|-crit|p1a: Calyrex
+|-damage|p1a: Calyrex|215/263
+|-start|p1a: Calyrex|move: Heal Block
+|
+|upkeep
+|turn|4
+|l| VinDaPooh
+|c| pordismomen|first time seeing
+|
+|t:|1776973941
+|move|p2a: Meowstic|Yawn|p1a: Calyrex
+|-start|p1a: Calyrex|move: Yawn|[of] p2a: Meowstic
+|move|p1a: Calyrex|Glacial Lance|p2a: Meowstic
+|-damage|p2a: Meowstic|0 fnt
+|faint|p2a: Meowstic
+|-ability|p1a: Calyrex|Chilling Neigh|boost
+|-boost|p1a: Calyrex|atk|1
+|
+|-end|p1a: Calyrex|move: Heal Block
+|upkeep
+|c| vortexaxolotl|both respectful too (we had someone a few games ago)
+|c|☆buzbee2000|lol
+|l| JCSO
+|j| GRANDSENSEI1
+|
+|t:|1776973968
+|switch|p2a: Volcarona|Volcarona, L77, M|257/257
+|turn|5
+|
+|t:|1776973973
+|switch|p1a: Cramorant|Cramorant, L86, M|261/261
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|
+|upkeep
+|turn|6
+|l| GRANDSENSEI1
+|
+|t:|1776973986
+|switch|p2a: Slowbro|Slowbro-Galar, L87, M|307/307
+|move|p1a: Cramorant|Surf|p2a: Slowbro
+|-formechange|p1a: Cramorant|Cramorant-Gulping|
+|-damage|p2a: Slowbro|213/307
+|
+|upkeep
+|turn|7
+|
+|t:|1776973990
+|move|p1a: Cramorant|Surf|p2a: Slowbro
+|-damage|p2a: Slowbro|111/307
+|move|p2a: Slowbro|Shell Side Arm|p1a: Cramorant|[anim] Shell Side Arm Physical
+|-damage|p1a: Cramorant|69/261
+|-hint|Physical Shell Side Arm
+|-damage|p2a: Slowbro|35/307|[from] ability: Gulp Missile|[of] p1a: Cramorant
+|-unboost|p2a: Slowbro|def|1
+|-formechange|p1a: Cramorant|Cramorant|
+|-damage|p2a: Slowbro|5/307|[from] item: Life Orb
+|
+|upkeep
+|turn|8
+|
+|t:|1776973998
+|move|p1a: Cramorant|Surf|p2a: Slowbro
+|-formechange|p1a: Cramorant|Cramorant-Gorging|
+|-damage|p2a: Slowbro|0 fnt
+|faint|p2a: Slowbro
+|
+|upkeep
+|j| mag010r
+|
+|t:|1776974002
+|switch|p2a: Pincurchin|Pincurchin, M|258/258
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Pincurchin
+|turn|9
+|c| vortexaxolotl|what's the chance of pull- oh ok then
+|
+|t:|1776974009
+|move|p1a: Cramorant|Surf|p2a: Pincurchin
+|-damage|p2a: Pincurchin|180/258
+|move|p2a: Pincurchin|Zing Zap|p1a: Cramorant
+|-supereffective|p1a: Cramorant
+|-damage|p1a: Cramorant|0 fnt
+|-damage|p2a: Pincurchin|116/258|[from] ability: Gulp Missile|[of] p1a: Cramorant
+|-formechange|p1a: Cramorant|Cramorant|
+|faint|p1a: Cramorant
+|
+|-heal|p2a: Pincurchin|132/258|[from] item: Leftovers
+|upkeep
+|
+|t:|1776974014
+|switch|p1a: Donphan|Donphan, L84, F|69/288
+|turn|10
+|
+|t:|1776974027
+|switch|p2a: Dudunsparce|Dudunsparce-Three-Segment, L83, M|343/343
+|move|p1a: Donphan|Stealth Rock|p2a: Dudunsparce
+|-sidestart|p2: supergriefer101|move: Stealth Rock
+|
+|-heal|p1a: Donphan|87/288|[from] item: Leftovers
+|upkeep
+|turn|11
+|c| vortexaxolotl|I was gonna say what's the chance of pulling chu from cram
+|j| threesickmafia
+|inactive|buzbee2000 has 120 seconds left.
+|
+|t:|1776974059
+|switch|p1a: Oinkologne|Oinkologne-F, L92, F|361/361
+|move|p2a: Dudunsparce|Headbutt|p1a: Oinkologne
+|-damage|p1a: Oinkologne|280/361
+|
+|-heal|p1a: Oinkologne|302/361|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776974065
+|move|p1a: Oinkologne|Body Slam|p2a: Dudunsparce
+|-damage|p2a: Dudunsparce|229/343
+|move|p2a: Dudunsparce|Glare|p1a: Oinkologne
+|-status|p1a: Oinkologne|par
+|
+|-heal|p2a: Dudunsparce|250/343|[from] item: Leftovers
+|-heal|p1a: Oinkologne|324/361 par|[from] item: Leftovers
+|upkeep
+|turn|13
+|j| xabier
+|
+|t:|1776974069
+|move|p2a: Dudunsparce|Headbutt|p1a: Oinkologne
+|-damage|p1a: Oinkologne|239/361 par
+|cant|p1a: Oinkologne|par
+|
+|-heal|p2a: Dudunsparce|271/343|[from] item: Leftovers
+|-heal|p1a: Oinkologne|261/361 par|[from] item: Leftovers
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|14
+|c| Shadow Necromancer|It always gets Pikachu below 50%
+|
+|t:|1776974074
+|move|p2a: Dudunsparce|Headbutt|p1a: Oinkologne
+|-damage|p1a: Oinkologne|177/361 par
+|cant|p1a: Oinkologne|flinch
+|
+|-heal|p2a: Dudunsparce|292/343|[from] item: Leftovers
+|-heal|p1a: Oinkologne|199/361 par|[from] item: Leftovers
+|upkeep
+|turn|15
+|c| Shadow Necromancer|Otherwise it always gets Arrokuda
+|j| zerxibax \ (•◡•) /
+|
+|t:|1776974093
+|switch|p1a: Sinistcha|Sinistcha, L83|254/254
+|move|p2a: Dudunsparce|Headbutt|p1a: Sinistcha
+|-immune|p1a: Sinistcha
+|
+|-heal|p2a: Dudunsparce|313/343|[from] item: Leftovers
+|upkeep
+|turn|16
+|c| vortexaxolotl|ah
+|
+|t:|1776974099
+|move|p1a: Sinistcha|Calm Mind|p1a: Sinistcha
+|-boost|p1a: Sinistcha|spa|1
+|-boost|p1a: Sinistcha|spd|1
+|move|p2a: Dudunsparce|Glare|p1a: Sinistcha
+|-status|p1a: Sinistcha|par
+|
+|-heal|p2a: Dudunsparce|334/343|[from] item: Leftovers
+|upkeep
+|turn|17
+|l| zerxibax \ (•◡•) /
+|
+|t:|1776974106
+|switch|p2a: Okidogi|Okidogi, L77, M|262/262
+|-damage|p2a: Okidogi|246/262|[from] Stealth Rock
+|move|p1a: Sinistcha|Calm Mind|p1a: Sinistcha
+|-boost|p1a: Sinistcha|spa|1
+|-boost|p1a: Sinistcha|spd|1
+|
+|upkeep
+|turn|18
+|
+|t:|1776974111
+|move|p2a: Okidogi|Knock Off|p1a: Sinistcha
+|-supereffective|p1a: Sinistcha
+|-damage|p1a: Sinistcha|138/254 par
+|-enditem|p1a: Sinistcha|Leftovers|[from] move: Knock Off|[of] p2a: Okidogi
+|move|p1a: Sinistcha|Strength Sap|p2a: Okidogi
+|-unboost|p2a: Okidogi|atk|1
+|-heal|p1a: Sinistcha|254/254 par
+|
+|upkeep
+|turn|19
+|
+|t:|1776974122
+|switch|p2a: Pincurchin|Pincurchin, M|132/258
+|-damage|p2a: Pincurchin|100/258|[from] Stealth Rock
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Pincurchin
+|move|p1a: Sinistcha|Shadow Ball|p2a: Pincurchin
+|-damage|p2a: Pincurchin|0 fnt
+|faint|p2a: Pincurchin
+|
+|upkeep
+|
+|t:|1776974124
+|switch|p2a: Volcarona|Volcarona, L77, M|257/257
+|turn|20
+|
+|t:|1776974131
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|move|p1a: Sinistcha|Shadow Ball|p2a: Volcarona
+|-damage|p2a: Volcarona|131/257
+|
+|upkeep
+|turn|21
+|
+|t:|1776974136
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|cant|p1a: Sinistcha|par
+|
+|upkeep
+|turn|22
+|
+|t:|1776974139
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|cant|p1a: Sinistcha|par
+|
+|upkeep
+|turn|23
+|c|☆buzbee2000|brutal
+|
+|t:|1776974144
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|cant|p1a: Sinistcha|par
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|24
+|c|☆buzbee2000|fuck my chud life.
+|
+|t:|1776974151
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|move|p1a: Sinistcha|Shadow Ball|p2a: Volcarona
+|-damage|p2a: Volcarona|79/257
+|
+|upkeep
+|turn|25
+|c| pordismomen|damn
+|c| vortexaxolotl|welp I got a history project to do, everyone have a good day and well played all who partisipated
+|
+|t:|1776974155
+|move|p2a: Volcarona|Morning Sun|p2a: Volcarona
+|-heal|p2a: Volcarona|207/257
+|cant|p1a: Sinistcha|par
+|
+|upkeep
+|turn|26
+|l| vortexaxolotl
+|c| mag010r|holy crap
+|l| mastervelyk2
+|c| pordismomen|rip
+|
+|t:|1776974167
+|switch|p1a: Oinkologne|Oinkologne-F, L92, F|199/361 par
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|
+|-heal|p1a: Oinkologne|221/361 par|[from] item: Leftovers
+|upkeep
+|turn|27
+|l| YourAverageWave
+|c| pordismomen|did u hear they're nerfing para next gen
+|
+|t:|1776974188
+|-terastallize|p2a: Volcarona|Grass
+|move|p2a: Volcarona|Giga Drain|p1a: Oinkologne
+|-damage|p1a: Oinkologne|0 fnt
+|-heal|p2a: Volcarona|257/257|[from] drain|[of] p1a: Oinkologne
+|faint|p1a: Oinkologne
+|
+|upkeep
+|c|☆buzbee2000|than kfuck
+|l| Shadow Necromancer
+|
+|t:|1776974197
+|switch|p1a: Kingdra|Kingdra, L84, F|263/263
+|turn|28
+|
+|t:|1776974201
+|-terastallize|p1a: Kingdra|Steel
+|move|p2a: Volcarona|Giga Drain|p1a: Kingdra
+|-resisted|p1a: Kingdra
+|-damage|p1a: Kingdra|106/263
+|move|p1a: Kingdra|Outrage|p2a: Volcarona
+|-damage|p2a: Volcarona|95/257
+|
+|upkeep
+|turn|29
+|
+|t:|1776974207
+|move|p2a: Volcarona|Giga Drain|p1a: Kingdra
+|-resisted|p1a: Kingdra
+|-damage|p1a: Kingdra|0 fnt
+|-heal|p2a: Volcarona|148/257|[from] drain|[of] p1a: Kingdra
+|faint|p1a: Kingdra
+|
+|upkeep
+|c| xabier|Its so over
+|c|☆buzbee2000|damn
+|c|☆buzbee2000|sniper crit would have saved me
+|c|☆buzbee2000|gg
+|-message|buzbee2000 forfeited.
+|
+|win|supergriefer101
+|n|☆buzbee2000|buzbee2000
+|n|☆supergriefer101|supergriefer101
+|n| pordismomen|pordismomen
+|n| catomic56|catomic56
+|n| Cyber99|cyber99
+|n| mag010r|mag010r
+|n| threesickmafia|threesickmafia
+|n| xabier|xabier

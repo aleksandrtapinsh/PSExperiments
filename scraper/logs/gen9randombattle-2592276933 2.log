@@ -1,0 +1,416 @@
+|j|☆shuggydobuggy
+|j|☆s4ntry
+|t:|1776975282
+|gametype|singles
+|player|p1|shuggydobuggy|265|
+|player|p2|s4ntry|unknownf|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776975282
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Pachirisu|Pachirisu, L96, M|271/271
+|switch|p2a: Rillaboom|Rillaboom, L79, F|288/288
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|1
+|c|☆s4ntry|prosanto do you have some bullshit like nuzzle
+|
+|t:|1776975546
+|move|p1a: Pachirisu|Super Fang|p2a: Rillaboom
+|-damage|p2a: Rillaboom|144/288
+|move|p2a: Rillaboom|Swords Dance|p2a: Rillaboom
+|-boost|p2a: Rillaboom|atk|2
+|
+|-heal|p2a: Rillaboom|162/288|[from] Grassy Terrain
+|upkeep
+|turn|2
+|
+|t:|1776975576
+|move|p2a: Rillaboom|Grassy Glide|p1a: Pachirisu
+|-damage|p1a: Pachirisu|49/271
+|-damage|p2a: Rillaboom|134/288|[from] item: Life Orb
+|move|p1a: Pachirisu|Encore|p2a: Rillaboom
+|-start|p2a: Rillaboom|Encore
+|
+|-heal|p1a: Pachirisu|65/271|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|152/288|[from] Grassy Terrain
+|upkeep
+|turn|3
+|
+|t:|1776975601
+|move|p2a: Rillaboom|Grassy Glide|p1a: Pachirisu
+|-damage|p1a: Pachirisu|0 fnt
+|faint|p1a: Pachirisu
+|-damage|p2a: Rillaboom|124/288|[from] item: Life Orb
+|
+|-heal|p2a: Rillaboom|142/288|[from] Grassy Terrain
+|upkeep
+|
+|t:|1776975620
+|switch|p1a: Clefable|Clefable, L83, F|293/293
+|turn|4
+|c|☆s4ntry|!weakness clefable
+|c| s4ntry|/raw <div class="infobox">Clefable (ignoring abilities):<br /><span class="message-effect-weak">Weaknesses</span>: Poison, Steel<br /><span class="message-effect-resist">Resistances</span>: Bug, Dark, Fighting<br /><span class="message-effect-immune">Immunities</span>: Dragon</div>
+|c|☆s4ntry|i know its unaware
+|
+|t:|1776975646
+|-terastallize|p2a: Rillaboom|Grass
+|move|p2a: Rillaboom|Grassy Glide|p1a: Clefable
+|-damage|p1a: Clefable|137/293
+|-damage|p2a: Rillaboom|114/288|[from] item: Life Orb
+|move|p1a: Clefable|Fire Blast|p2a: Rillaboom
+|-supereffective|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|
+|-heal|p1a: Clefable|155/293|[from] Grassy Terrain
+|-heal|p1a: Clefable|173/293|[from] item: Leftovers
+|upkeep
+|
+|t:|1776975656
+|switch|p2a: Tentacruel|Tentacruel, L84, F|272/272
+|turn|5
+|
+|t:|1776975677
+|switch|p1a: Ursaring|Ursaring, L84, M|288/288
+|move|p2a: Tentacruel|Sludge Bomb|p1a: Ursaring
+|-damage|p1a: Ursaring|227/288
+|
+|-heal|p1a: Ursaring|245/288|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|6
+|c|☆s4ntry|!dt liquid ooze
+|c|☆s4ntry|/raw <ul class="utilichart"><li class="result"><span class="col namecol"><a href="https://dex.pokemonshowdown.com/abilities/liquidooze">Liquid Ooze</a></span> <span class="col abilitydesccol">This Pokemon damages those draining HP from it for as much as they would heal.</span> </li><li style="clear:both"></li></ul>
+|c|☆s4ntry|/raw <font size="1"><font color="#686868">Gen:</font> 3</font>
+
+|
+|t:|1776975719
+|switch|p2a: Hippowdon|Hippowdon, L82, M|311/311
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Ursaring|Earthquake|p2a: Hippowdon
+|-damage|p2a: Hippowdon|232/311
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Ursaring|227/288|[from] Sandstorm
+|-heal|p2a: Hippowdon|251/311|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776975740
+|move|p1a: Ursaring|Body Slam|p2a: Hippowdon
+|-damage|p2a: Hippowdon|160/311
+|move|p2a: Hippowdon|Earthquake|p1a: Ursaring
+|-damage|p1a: Ursaring|142/288
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Ursaring|124/288|[from] Sandstorm
+|-heal|p2a: Hippowdon|179/311|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776975760
+|switch|p2a: Electrode|Electrode, L92|260/260
+|move|p1a: Ursaring|Body Slam|p2a: Electrode
+|-damage|p2a: Electrode|146/260
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Electrode|130/260|[from] Sandstorm
+|-damage|p1a: Ursaring|106/288|[from] Sandstorm
+|upkeep
+|turn|9
+|c|☆s4ntry|uh oh
+|
+|t:|1776975776
+|move|p2a: Electrode|Volt Switch|p1a: Ursaring
+|-damage|p1a: Ursaring|35/288
+|-damage|p2a: Electrode|104/260|[from] item: Life Orb
+|
+|t:|1776975780
+|switch|p2a: Hippowdon|Hippowdon, L82, M|179/311|[from] Volt Switch
+|move|p1a: Ursaring|Earthquake|p2a: Hippowdon
+|-damage|p2a: Hippowdon|112/311
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Ursaring|17/288|[from] Sandstorm
+|-heal|p2a: Hippowdon|131/311|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1776975847
+|switch|p2a: Electrode|Electrode, L92|104/260
+|move|p1a: Ursaring|Body Slam|p2a: Electrode
+|-damage|p2a: Electrode|0 fnt
+|faint|p2a: Electrode
+|
+|-weather|none
+|upkeep
+|
+|t:|1776975875
+|switch|p2a: Sandslash|Sandslash, L89, M|278/278
+|turn|11
+|
+|t:|1776975890
+|move|p2a: Sandslash|Rapid Spin|p1a: Ursaring
+|-damage|p1a: Ursaring|0 fnt
+|-boost|p2a: Sandslash|spe|1
+|faint|p1a: Ursaring
+|
+|upkeep
+|
+|t:|1776975909
+|switch|p1a: Lumineon|Lumineon, L93, M|279/279
+|turn|12
+|
+|t:|1776975934
+|switch|p2a: Tentacruel|Tentacruel, L84, F|272/272
+|move|p1a: Lumineon|Hydro Pump|p2a: Tentacruel|[miss]
+|-miss|p1a: Lumineon|p2a: Tentacruel
+|
+|upkeep
+|turn|13
+|
+|t:|1776975956
+|switch|p1a: Passimian|Passimian, L83, F|302/302
+|move|p2a: Tentacruel|Toxic|p1a: Passimian
+|-status|p1a: Passimian|tox
+|
+|-damage|p1a: Passimian|284/302 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1776975973
+|switch|p2a: Hippowdon|Hippowdon, L82, M|131/311
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Passimian|Earthquake|p2a: Hippowdon
+|-damage|p2a: Hippowdon|30/311
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Passimian|266/302 tox|[from] Sandstorm
+|-heal|p2a: Hippowdon|49/311|[from] item: Leftovers
+|-damage|p1a: Passimian|230/302 tox|[from] psn
+|upkeep
+|turn|15
+|c|☆s4ntry|uh oh
+|c|☆s4ntry|what do i do
+|c|☆s4ntry|!weakness passimian
+|c| s4ntry|/raw <div class="infobox">Passimian (ignoring abilities):<br /><span class="message-effect-weak">Weaknesses</span>: Fairy, Flying, Psychic<br /><span class="message-effect-resist">Resistances</span>: Bug, Dark, Rock<br /><span class="message-effect-immune">Immunities</span>: <span class="gray">None</span></div>
+|c|☆shuggydobuggy|swap to squid
+|c|☆shuggydobuggy|trust
+|
+|t:|1776976020
+|switch|p2a: Charizard|Charizard, L85, F|271/271
+|move|p1a: Passimian|Earthquake|p2a: Charizard
+|-immune|p2a: Charizard
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Charizard|255/271|[from] Sandstorm
+|-damage|p1a: Passimian|212/302 tox|[from] Sandstorm
+|-damage|p1a: Passimian|158/302 tox|[from] psn
+|upkeep
+|turn|16
+|c|☆s4ntry|an iq too high
+|c|☆shuggydobuggy|u gona win this one
+|c|☆s4ntry|you say that
+|c|☆s4ntry|you have miraidon in the pocket or something
+|
+|t:|1776976057
+|switch|p1a: Lumineon|Lumineon, L93, M|279/279
+|move|p2a: Charizard|Hurricane|p1a: Lumineon|[miss]
+|-miss|p2a: Charizard|p1a: Lumineon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Lumineon|262/279|[from] Sandstorm
+|-damage|p2a: Charizard|239/271|[from] Sandstorm
+|upkeep
+|turn|17
+|
+|t:|1776976068
+|switch|p2a: Hippowdon|Hippowdon, L82, M|49/311
+|move|p1a: Lumineon|Hydro Pump|p2a: Hippowdon
+|-supereffective|p2a: Hippowdon
+|-damage|p2a: Hippowdon|0 fnt
+|faint|p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Lumineon|245/279|[from] Sandstorm
+|upkeep
+|
+|t:|1776976073
+|switch|p2a: Tentacruel|Tentacruel, L84, F|272/272
+|turn|18
+|c|☆s4ntry|i thought you would switch
+|
+|t:|1776976109
+|switch|p1a: Clefable|Clefable, L83, F|173/293
+|move|p2a: Tentacruel|Sludge Bomb|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|3/293
+|
+|-weather|none
+|-heal|p1a: Clefable|21/293|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1776976123
+|move|p2a: Tentacruel|Sludge Bomb|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|
+|upkeep
+|
+|t:|1776976132
+|switch|p1a: Espeon|Espeon, L84, M|246/246
+|turn|20
+|c|☆s4ntry|!weakness espeon
+|c| s4ntry|/raw <div class="infobox">Espeon (ignoring abilities):<br /><span class="message-effect-weak">Weaknesses</span>: Bug, Dark, Ghost<br /><span class="message-effect-resist">Resistances</span>: Fighting, Psychic<br /><span class="message-effect-immune">Immunities</span>: <span class="gray">None</span></div>
+|c|☆s4ntry|!weakness sandslash
+|c| s4ntry|/raw <div class="infobox">Sandslash (ignoring abilities):<br /><span class="message-effect-weak">Weaknesses</span>: Grass, Ice, Water<br /><span class="message-effect-resist">Resistances</span>: Poison, Rock<br /><span class="message-effect-immune">Immunities</span>: Electric, Sandstorm damage</div>
+|c|☆s4ntry|!weakness charizard
+|c| s4ntry|/raw <div class="infobox">Charizard (ignoring abilities):<br /><span class="message-effect-weak">Weaknesses</span>: Electric, <b>Rock</b>, Water<br /><span class="message-effect-resist">Resistances</span>: <b>Bug</b>, Fairy, Fighting, Fire, <b>Grass</b>, Steel<br /><span class="message-effect-immune">Immunities</span>: Ground, Burn</div>
+|c|☆s4ntry|it would probably have ice beam
+|
+|t:|1776976171
+|switch|p2a: Charizard|Charizard, L85, F|239/271
+|move|p1a: Espeon|Psychic|p2a: Charizard
+|-damage|p2a: Charizard|44/271
+|
+|upkeep
+|turn|21
+|c|☆s4ntry|allah
+|c|☆s4ntry|bro what
+|c|☆shuggydobuggy|ty allah
+|c|☆s4ntry|!dt blaze
+|c|☆s4ntry|/raw <ul class="utilichart"><li class="result"><span class="col namecol"><a href="https://dex.pokemonshowdown.com/abilities/blaze">Blaze</a></span> <span class="col abilitydesccol">At 1/3 or less of its max HP, this Pokemon's offensive stat is 1.5x with Fire attacks.</span> </li><li style="clear:both"></li></ul>
+|c|☆s4ntry|/raw <font size="1"><font color="#686868">Gen:</font> 3</font>
+
+|c|☆s4ntry|where is balze
+|c|☆s4ntry|!dt espeon
+|c|☆s4ntry|/raw <div class="message"><ul class="utilichart"><li class="result"><span class="col numcol">NU</span> <span class="col iconcol"><psicon pokemon="espeon"/></span> <span class="col pokemonnamecol" style="white-space:nowrap"><a href="https://dex.pokemonshowdown.com/pokemon/espeon" target="_blank">Espeon</a></span> <span class="col typecol"><img src="https://play.pokemonshowdown.com/sprites/types/Psychic.png" alt="Psychic" height="14" width="32"></span> <span style="float:left;min-height:26px"><span class="col abilitycol">Synchronize</span><span class="col abilitycol"><em>Magic Bounce</em></span></span><span style="float:left;min-height:26px"><span class="col statcol"><em>HP</em><br />65</span> <span class="col statcol"><em>Atk</em><br />65</span> <span class="col statcol"><em>Def</em><br />60</span> <span class="col statcol"><em>SpA</em><br />130</span> <span class="col statcol"><em>SpD</em><br />95</span> <span class="col statcol"><em>Spe</em><br />110</span> <span class="col bstcol"><em>BST<br />525</em></span> </span></li><li style="clear:both"></li></ul></div>
+|c|☆s4ntry|/raw <font size="1"><font color="#686868">Dex#:</font> 196&nbsp;|&ThickSpace;<font color="#686868">Gen:</font> 2&nbsp;|&ThickSpace;<font color="#686868">Height:</font> 0.9 m&nbsp;|&ThickSpace;<font color="#686868">Weight:</font> 26.5 kg <em>(60 BP)</em>&nbsp;|&ThickSpace;<font color="#686868">Dex Colour:</font> Purple&nbsp;|&ThickSpace;<font color="#686868">Egg Group(s):</font> Field&nbsp;|&ThickSpace;<font color="#686868">Pre-Evolution:</font> Eevee&nbsp;|&ThickSpace;<font color="#686868">Does Not Evolve</font></font>
+
+|
+|t:|1776976215
+|move|p1a: Espeon|Psychic|p2a: Charizard
+|-damage|p2a: Charizard|0 fnt
+|faint|p2a: Charizard
+|
+|upkeep
+|c|☆s4ntry|how is it faster than a dragon
+|
+|t:|1776976226
+|switch|p2a: Sandslash|Sandslash, L89, M|278/278
+|turn|22
+|
+|t:|1776976254
+|move|p1a: Espeon|Psychic|p2a: Sandslash
+|-damage|p2a: Sandslash|121/278
+|move|p2a: Sandslash|Knock Off|p1a: Espeon
+|-supereffective|p1a: Espeon
+|-damage|p1a: Espeon|50/246
+|-enditem|p1a: Espeon|Choice Specs|[from] move: Knock Off|[of] p2a: Sandslash
+|
+|upkeep
+|turn|23
+|
+|t:|1776976265
+|move|p1a: Espeon|Psychic|p2a: Sandslash
+|-damage|p2a: Sandslash|18/278
+|move|p2a: Sandslash|Earthquake|p1a: Espeon
+|-damage|p1a: Espeon|0 fnt
+|faint|p1a: Espeon
+|
+|upkeep
+|c|☆s4ntry|what luck
+|c|☆s4ntry|allah smiles upon me!
+|
+|t:|1776976292
+|switch|p1a: Lumineon|Lumineon, L93, M|245/279
+|turn|24
+|
+|t:|1776976300
+|move|p1a: Lumineon|U-turn|p2a: Sandslash
+|-damage|p2a: Sandslash|0 fnt
+|faint|p2a: Sandslash
+|
+|t:|1776976307
+|switch|p1a: Passimian|Passimian, L83, F|158/302 tox|[from] U-turn
+|
+|-damage|p1a: Passimian|140/302 tox|[from] psn
+|upkeep
+|
+|t:|1776976312
+|switch|p2a: Tentacruel|Tentacruel, L84, F|272/272
+|turn|25
+|
+|t:|1776976339
+|move|p2a: Tentacruel|Sludge Bomb|p1a: Passimian
+|-damage|p1a: Passimian|38/302 tox
+|move|p1a: Passimian|Close Combat|p2a: Tentacruel
+|-resisted|p2a: Tentacruel
+|-damage|p2a: Tentacruel|132/272
+|-unboost|p1a: Passimian|def|1
+|-unboost|p1a: Passimian|spd|1
+|
+|-heal|p2a: Tentacruel|149/272|[from] item: Leftovers
+|-damage|p1a: Passimian|2/302 tox|[from] psn
+|upkeep
+|turn|26
+|c|☆s4ntry|ALLAH SMILES UPON ME
+|
+|t:|1776976365
+|move|p2a: Tentacruel|Sludge Bomb|p1a: Passimian
+|-damage|p1a: Passimian|0 fnt
+|faint|p1a: Passimian
+|
+|-heal|p2a: Tentacruel|166/272|[from] item: Leftovers
+|upkeep
+|
+|t:|1776976369
+|switch|p1a: Lumineon|Lumineon, L93, M|245/279
+|turn|27
+|
+|t:|1776976396
+|move|p1a: Lumineon|Hydro Pump|p2a: Tentacruel
+|-resisted|p2a: Tentacruel
+|-damage|p2a: Tentacruel|118/272
+|move|p2a: Tentacruel|Sludge Bomb|p1a: Lumineon
+|-damage|p1a: Lumineon|167/279
+|
+|-heal|p2a: Tentacruel|135/272|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1776976413
+|move|p1a: Lumineon|Hydro Pump|p2a: Tentacruel
+|-resisted|p2a: Tentacruel
+|-damage|p2a: Tentacruel|93/272
+|move|p2a: Tentacruel|Sludge Bomb|p1a: Lumineon
+|-damage|p1a: Lumineon|89/279
+|
+|-heal|p2a: Tentacruel|110/272|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1776976421
+|move|p1a: Lumineon|Hydro Pump|p2a: Tentacruel
+|-resisted|p2a: Tentacruel
+|-damage|p2a: Tentacruel|67/272
+|move|p2a: Tentacruel|Sludge Bomb|p1a: Lumineon
+|-crit|p1a: Lumineon
+|-damage|p1a: Lumineon|0 fnt
+|faint|p1a: Lumineon
+|
+|win|s4ntry
+|c|☆s4ntry|ALLAH BLESS ME WITH A CRIT AND I WILL BE GAY
+|c|☆s4ntry|YES S
+|c|☆s4ntry|YESSS
+|c|☆s4ntry|YESSS
+|c|☆s4ntry|smd loser

@@ -1,0 +1,261 @@
+|j|☆Opchampdon
+|j|☆ParanoidDandroid
+|t:|1776976040
+|gametype|singles
+|player|p1|Opchampdon|steven|1655
+|player|p2|ParanoidDandroid|266|1680
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776976040
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Mandibuzz|Mandibuzz, L85, F|326/326
+|switch|p2a: Roaring Moon|Roaring Moon, L72|270/270
+|turn|1
+|
+|t:|1776976082
+|move|p2a: Roaring Moon|U-turn|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|267/326
+|
+|t:|1776976085
+|-end|p2a: Roaring Moon|Protosynthesis|[silent]
+|switch|p2a: Rotom|Rotom, L88|231/231|[from] U-turn
+|move|p1a: Mandibuzz|Toxic|p2a: Rotom
+|-status|p2a: Rotom|tox
+|
+|-damage|p2a: Rotom|217/231 tox|[from] psn
+|upkeep
+|turn|2
+|
+|t:|1776976120
+|move|p2a: Rotom|Will-O-Wisp|p1a: Mandibuzz
+|-status|p1a: Mandibuzz|brn
+|move|p1a: Mandibuzz|Foul Play|p2a: Rotom
+|-supereffective|p2a: Rotom
+|-damage|p2a: Rotom|163/231 tox
+|
+|-damage|p2a: Rotom|135/231 tox|[from] psn
+|-damage|p1a: Mandibuzz|247/326 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1776976134
+|move|p2a: Rotom|Thunderbolt|p1a: Mandibuzz
+|-supereffective|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|0 fnt
+|faint|p1a: Mandibuzz
+|-damage|p2a: Rotom|112/231 tox|[from] item: Life Orb
+|
+|-damage|p2a: Rotom|70/231 tox|[from] psn
+|upkeep
+|
+|t:|1776976143
+|switch|p1a: Regieleki|Regieleki, L79|256/256
+|turn|4
+|
+|t:|1776976151
+|move|p1a: Regieleki|Thunderbolt|p2a: Rotom
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|1/231 tox
+|move|p2a: Rotom|Shadow Ball|p1a: Regieleki
+|-damage|p1a: Regieleki|71/256
+|-damage|p2a: Rotom|0 fnt|[from] item: Life Orb
+|faint|p2a: Rotom
+|
+|upkeep
+|
+|t:|1776976167
+|switch|p2a: Scream Tail|Scream Tail, L84|330/330
+|turn|5
+|
+|t:|1776976170
+|move|p1a: Regieleki|Volt Switch|p2a: Scream Tail
+|-damage|p2a: Scream Tail|240/330
+|
+|t:|1776976173
+|switch|p1a: Solgaleo|Solgaleo, L74|325/325|[from] Volt Switch
+|move|p2a: Scream Tail|Dazzling Gleam|p1a: Solgaleo
+|-resisted|p1a: Solgaleo
+|-damage|p1a: Solgaleo|292/325
+|
+|-heal|p2a: Scream Tail|260/330|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776976187
+|-end|p2a: Scream Tail|Protosynthesis|[silent]
+|switch|p2a: Moltres|Moltres-Galar, L79|271/271
+|move|p1a: Solgaleo|Flame Charge|p2a: Moltres
+|-damage|p2a: Moltres|233/271
+|-boost|p1a: Solgaleo|spe|1
+|
+|upkeep
+|turn|7
+|
+|t:|1776976204
+|move|p1a: Solgaleo|Knock Off|p2a: Moltres
+|-resisted|p2a: Moltres
+|-damage|p2a: Moltres|195/271
+|-enditem|p2a: Moltres|Weakness Policy|[from] move: Knock Off|[of] p1a: Solgaleo
+|move|p2a: Moltres|Agility|p2a: Moltres
+|-boost|p2a: Moltres|spe|2
+|
+|upkeep
+|turn|8
+|
+|t:|1776976215
+|move|p2a: Moltres|Fiery Wrath|p1a: Solgaleo
+|-supereffective|p1a: Solgaleo
+|-damage|p1a: Solgaleo|104/325
+|-enditem|p1a: Solgaleo|Weakness Policy
+|-boost|p1a: Solgaleo|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Solgaleo|spa|2|[from] item: Weakness Policy
+|cant|p1a: Solgaleo|flinch
+|
+|upkeep
+|turn|9
+|
+|t:|1776976228
+|move|p2a: Moltres|Fiery Wrath|p1a: Solgaleo
+|-supereffective|p1a: Solgaleo
+|-damage|p1a: Solgaleo|0 fnt
+|faint|p1a: Solgaleo
+|
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ParanoidDandroid)
+|
+|t:|1776976286
+|switch|p1a: Garchomp|Garchomp, L74, F|282/282
+|turn|10
+|
+|t:|1776976298
+|move|p2a: Moltres|Fiery Wrath|p1a: Garchomp
+|-damage|p1a: Garchomp|185/282
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|
+|upkeep
+|turn|11
+|
+|t:|1776976305
+|move|p2a: Moltres|Hurricane|p1a: Garchomp|[miss]
+|-miss|p2a: Moltres|p1a: Garchomp
+|move|p1a: Garchomp|Scale Shot|p2a: Moltres
+|-damage|p2a: Moltres|144/271
+|-damage|p2a: Moltres|93/271
+|-damage|p2a: Moltres|42/271
+|-damage|p2a: Moltres|0 fnt
+|faint|p2a: Moltres
+|-hitcount|p2: Moltres|4
+|-unboost|p1a: Garchomp|def|1
+|-boost|p1a: Garchomp|spe|1
+|
+|upkeep
+|
+|t:|1776976318
+|switch|p2a: Scream Tail|Scream Tail, L84|260/330
+|turn|12
+|inactive|Opchampdon has 120 seconds left.
+|inactive|Opchampdon has 90 seconds left.
+|
+|t:|1776976393
+|-terastallize|p1a: Garchomp|Steel
+|move|p1a: Garchomp|Iron Head|p2a: Scream Tail
+|-supereffective|p2a: Scream Tail
+|-damage|p2a: Scream Tail|0 fnt
+|faint|p2a: Scream Tail
+|-end|p2a: Scream Tail|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1776976400
+|switch|p2a: Hariyama|Hariyama, L87, M|392/392
+|turn|13
+|inactive|Opchampdon has 90 seconds left.
+|inactive|Opchampdon has 60 seconds left.
+|
+|t:|1776976436
+|move|p1a: Garchomp|Iron Head|p2a: Hariyama
+|-damage|p2a: Hariyama|179/392
+|move|p2a: Hariyama|Close Combat|p1a: Garchomp
+|-supereffective|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|-unboost|p2a: Hariyama|def|1
+|-unboost|p2a: Hariyama|spd|1
+|-damage|p2a: Hariyama|130/392|[from] ability: Rough Skin|[of] p1a: Garchomp
+|faint|p1a: Garchomp
+|
+|-status|p2a: Hariyama|brn|[from] item: Flame Orb
+|upkeep
+|inactive|Opchampdon has 60 seconds left.
+|
+|t:|1776976444
+|switch|p1a: Regieleki|Regieleki, L79|71/256
+|turn|14
+|
+|t:|1776976449
+|switch|p2a: Sceptile|Sceptile, L87, F|264/264
+|move|p1a: Regieleki|Volt Switch|p2a: Sceptile
+|-resisted|p2a: Sceptile
+|-damage|p2a: Sceptile|210/264
+|inactive|Opchampdon has 60 seconds left.
+|
+|t:|1776976470
+|switch|p1a: Veluza|Veluza, L85, M|292/292|[from] Volt Switch
+|
+|upkeep
+|turn|15
+|inactive|Opchampdon has 60 seconds left.
+|
+|t:|1776976480
+|move|p2a: Sceptile|Leaf Storm|p1a: Veluza
+|-supereffective|p1a: Veluza
+|-damage|p1a: Veluza|0 fnt
+|-unboost|p2a: Sceptile|spa|2
+|faint|p1a: Veluza
+|-damage|p2a: Sceptile|184/264|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776976483
+|switch|p1a: Drednaw|Drednaw, L81, M|278/278
+|turn|16
+|
+|t:|1776976489
+|move|p2a: Sceptile|Leaf Storm|p1a: Drednaw
+|-supereffective|p1a: Drednaw
+|-damage|p1a: Drednaw|0 fnt
+|-unboost|p2a: Sceptile|spa|2
+|faint|p1a: Drednaw
+|-damage|p2a: Sceptile|158/264|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776976492
+|switch|p1a: Regieleki|Regieleki, L79|71/256
+|turn|17
+|
+|t:|1776976497
+|move|p1a: Regieleki|Thunderbolt|p2a: Sceptile
+|-resisted|p2a: Sceptile
+|-damage|p2a: Sceptile|95/264
+|move|p2a: Sceptile|Earthquake|p1a: Regieleki
+|-supereffective|p1a: Regieleki
+|-damage|p1a: Regieleki|0 fnt
+|faint|p1a: Regieleki
+|-damage|p2a: Sceptile|69/264|[from] item: Life Orb
+|
+|win|ParanoidDandroid
+|raw|Opchampdon's rating: 1655 &rarr; <strong>1636</strong><br />(-19 for losing)
+|raw|ParanoidDandroid's rating: 1680 &rarr; <strong>1699</strong><br />(+19 for winning)
+|c|☆ParanoidDandroid|gg
+|c|☆Opchampdon|ggs
+|l|☆Opchampdon
+|player|p1|

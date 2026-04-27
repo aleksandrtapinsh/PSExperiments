@@ -1,0 +1,369 @@
+|j|☆life orb trump
+|j|☆Cryostasia
+|t:|1776972491
+|gametype|singles
+|player|p1|life orb trump|lucas|1156
+|player|p2|Cryostasia|veteran|1147
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776972491
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Hydrapple|Hydrapple, L83, M|312/312
+|switch|p2a: Houndoom|Houndoom, L87, F|272/272
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by life orb trump)
+|
+|t:|1776972507
+|switch|p1a: Luvdisc|Luvdisc, F|247/247
+|move|p2a: Houndoom|Nasty Plot|p2a: Houndoom
+|-boost|p2a: Houndoom|spa|2
+|
+|upkeep
+|turn|2
+|
+|t:|1776972519
+|move|p1a: Luvdisc|Substitute|p1a: Luvdisc
+|-start|p1a: Luvdisc|Substitute
+|-damage|p1a: Luvdisc|186/247
+|move|p2a: Houndoom|Dark Pulse|p1a: Luvdisc
+|-end|p1a: Luvdisc|Substitute
+|
+|upkeep
+|turn|3
+|
+|t:|1776972523
+|move|p1a: Luvdisc|Substitute|p1a: Luvdisc
+|-start|p1a: Luvdisc|Substitute
+|-damage|p1a: Luvdisc|125/247
+|move|p2a: Houndoom|Dark Pulse|p1a: Luvdisc
+|-end|p1a: Luvdisc|Substitute
+|
+|upkeep
+|turn|4
+|
+|t:|1776972525
+|move|p1a: Luvdisc|Substitute|p1a: Luvdisc
+|-start|p1a: Luvdisc|Substitute
+|-damage|p1a: Luvdisc|64/247
+|move|p2a: Houndoom|Dark Pulse|p1a: Luvdisc
+|-end|p1a: Luvdisc|Substitute
+|
+|upkeep
+|turn|5
+|
+|t:|1776972527
+|move|p1a: Luvdisc|Substitute|p1a: Luvdisc
+|-start|p1a: Luvdisc|Substitute
+|-damage|p1a: Luvdisc|3/247
+|move|p2a: Houndoom|Dark Pulse|p1a: Luvdisc
+|-end|p1a: Luvdisc|Substitute
+|
+|upkeep
+|turn|6
+|
+|t:|1776972529
+|move|p1a: Luvdisc|Endeavor|p2a: Houndoom
+|-damage|p2a: Houndoom|3/272
+|move|p2a: Houndoom|Dark Pulse|p1a: Luvdisc
+|-damage|p1a: Luvdisc|0 fnt
+|faint|p1a: Luvdisc
+|
+|upkeep
+|inactive|life orb trump has 120 seconds left.
+|
+|t:|1776972566
+|switch|p1a: Gogoat|Gogoat, L88, F|360/360
+|turn|7
+|
+|t:|1776972569
+|-terastallize|p1a: Gogoat|Water
+|move|p2a: Houndoom|Fire Blast|p1a: Gogoat|[miss]
+|-miss|p2a: Houndoom|p1a: Gogoat
+|move|p1a: Gogoat|Horn Leech|p2a: Houndoom
+|-resisted|p2a: Houndoom
+|-damage|p2a: Houndoom|0 fnt
+|faint|p2a: Houndoom
+|
+|upkeep
+|
+|t:|1776972577
+|switch|p2a: Lurantis|Lurantis, L87, M|264/264
+|turn|8
+|
+|t:|1776972583
+|switch|p1a: Hydrapple|Hydrapple, L83, M|312/312
+|-terastallize|p2a: Lurantis|Water
+|move|p2a: Lurantis|Leaf Storm|p1a: Hydrapple
+|-resisted|p1a: Hydrapple
+|-damage|p1a: Hydrapple|290/312
+|-boost|p2a: Lurantis|spa|2
+|
+|upkeep
+|turn|9
+|
+|t:|1776972593
+|switch|p2a: Chimecho|Chimecho, L93, M|290/290
+|move|p1a: Hydrapple|Giga Drain|p2a: Chimecho
+|-damage|p2a: Chimecho|208/290
+|-heal|p1a: Hydrapple|312/312|[from] drain|[of] p2a: Chimecho
+|
+|-heal|p2a: Chimecho|226/290|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1776972598
+|move|p2a: Chimecho|Thunder Wave|p1a: Hydrapple
+|-status|p1a: Hydrapple|par
+|move|p1a: Hydrapple|Dragon Tail|p2a: Chimecho
+|-damage|p2a: Chimecho|172/290
+|drag|p2a: Articuno|Articuno, L86|295/295
+|-ability|p2a: Articuno|Pressure
+|
+|upkeep
+|turn|11
+|
+|t:|1776972607
+|switch|p1a: Cresselia|Cresselia, L80, F|323/323
+|move|p2a: Articuno|Freeze-Dry|p1a: Cresselia
+|-crit|p1a: Cresselia
+|-damage|p1a: Cresselia|233/323
+|
+|-heal|p1a: Cresselia|253/323|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776972615
+|switch|p2a: Chimecho|Chimecho, L93, M|172/290
+|move|p1a: Cresselia|Thunderbolt|p2a: Chimecho
+|-damage|p2a: Chimecho|132/290
+|
+|-heal|p1a: Cresselia|273/323|[from] item: Leftovers
+|-heal|p2a: Chimecho|150/290|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776972627
+|switch|p1a: Hydrapple|Hydrapple, L83, M|312/312 par
+|move|p2a: Chimecho|Recover|p2a: Chimecho
+|-heal|p2a: Chimecho|290/290
+|
+|upkeep
+|turn|14
+|
+|t:|1776972631
+|move|p2a: Chimecho|Psychic Noise|p1a: Hydrapple
+|-damage|p1a: Hydrapple|236/312 par
+|-start|p1a: Hydrapple|move: Heal Block
+|move|p1a: Hydrapple|Dragon Tail|p2a: Chimecho|[miss]
+|-miss|p1a: Hydrapple|p2a: Chimecho
+|
+|upkeep
+|turn|15
+|
+|t:|1776972638
+|move|p2a: Chimecho|Psychic Noise|p1a: Hydrapple
+|-damage|p1a: Hydrapple|161/312 par
+|move|p1a: Hydrapple|Dragon Tail|p2a: Chimecho
+|-damage|p2a: Chimecho|241/290
+|drag|p2a: Articuno|Articuno, L86|295/295
+|-ability|p2a: Articuno|Pressure
+|
+|-end|p1a: Hydrapple|move: Heal Block
+|upkeep
+|turn|16
+|
+|t:|1776972646
+|switch|p1a: Cresselia|Cresselia, L80, F|273/323
+|move|p2a: Articuno|Freeze-Dry|p1a: Cresselia
+|-damage|p1a: Cresselia|212/323
+|
+|-heal|p1a: Cresselia|232/323|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1776972654
+|switch|p2a: Chimecho|Chimecho, L93, M|241/290
+|switch|p1a: Lunala|Lunala, L70|308/308
+|
+|-heal|p2a: Chimecho|259/290|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1776972663
+|move|p1a: Lunala|Moongeist Beam|p2a: Chimecho
+|-supereffective|p2a: Chimecho
+|-damage|p2a: Chimecho|89/290
+|move|p2a: Chimecho|Thunder Wave|p1a: Lunala
+|-status|p1a: Lunala|par
+|
+|-heal|p2a: Chimecho|107/290|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1776972671
+|move|p2a: Chimecho|Recover|p2a: Chimecho
+|-heal|p2a: Chimecho|252/290
+|move|p1a: Lunala|Moongeist Beam|p2a: Chimecho
+|-supereffective|p2a: Chimecho
+|-damage|p2a: Chimecho|88/290
+|
+|-heal|p2a: Chimecho|106/290|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1776972677
+|move|p2a: Chimecho|Recover|p2a: Chimecho
+|-heal|p2a: Chimecho|251/290
+|move|p1a: Lunala|Calm Mind|p1a: Lunala
+|-boost|p1a: Lunala|spa|1
+|-boost|p1a: Lunala|spd|1
+|
+|-heal|p2a: Chimecho|269/290|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1776972681
+|move|p2a: Chimecho|Encore|p1a: Lunala
+|-start|p1a: Lunala|Encore
+|move|p1a: Lunala|Calm Mind|p1a: Lunala
+|-boost|p1a: Lunala|spa|1
+|-boost|p1a: Lunala|spd|1
+|
+|-heal|p2a: Chimecho|287/290|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1776972686
+|switch|p2a: Lurantis|Lurantis, L87, M, tera:Water|264/264
+|switch|p1a: Hydrapple|Hydrapple, L83, M|265/312 par
+|
+|upkeep
+|turn|23
+|
+|t:|1776972701
+|switch|p2a: Glaceon|Glaceon, L94, F|275/275
+|move|p1a: Hydrapple|Fickle Beam|p2a: Glaceon
+|-damage|p2a: Glaceon|194/275
+|
+|upkeep
+|turn|24
+|
+|t:|1776972709
+|switch|p1a: Cresselia|Cresselia, L80, F|232/323
+|move|p2a: Glaceon|Calm Mind|p2a: Glaceon
+|-boost|p2a: Glaceon|spa|1
+|-boost|p2a: Glaceon|spd|1
+|
+|-heal|p1a: Cresselia|252/323|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1776972717
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|move|p2a: Glaceon|Wish|p2a: Glaceon
+|
+|-heal|p1a: Cresselia|272/323|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1776972724
+|switch|p2a: Chimecho|Chimecho, L93, M|287/290
+|move|p1a: Cresselia|Calm Mind|p1a: Cresselia
+|-boost|p1a: Cresselia|spa|1
+|-boost|p1a: Cresselia|spd|1
+|
+|-heal|p2a: Chimecho|290/290|[from] move: Wish|[wisher] Glaceon
+|-heal|p1a: Cresselia|292/323|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1776972727
+|move|p1a: Cresselia|Thunderbolt|p2a: Chimecho
+|-damage|p2a: Chimecho|208/290
+|move|p2a: Chimecho|Encore|p1a: Cresselia
+|-start|p1a: Cresselia|Encore
+|
+|-heal|p1a: Cresselia|312/323|[from] item: Leftovers
+|-heal|p2a: Chimecho|226/290|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1776972730
+|switch|p2a: Rhydon|Rhydon, L85, F|317/317
+|move|p1a: Cresselia|Thunderbolt|p2a: Rhydon
+|-ability|p2a: Rhydon|Lightning Rod|boost
+|-boost|p2a: Rhydon|spa|1
+|
+|-heal|p1a: Cresselia|323/323|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1776972738
+|switch|p1a: Gogoat|Gogoat, L88, F, tera:Water|360/360
+|move|p2a: Rhydon|Megahorn|p1a: Gogoat
+|-crit|p1a: Gogoat
+|-damage|p1a: Gogoat|141/360
+|
+|-heal|p1a: Gogoat|163/360|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1776972746
+|switch|p2a: Chimecho|Chimecho, L93, M|226/290
+|move|p1a: Gogoat|Rock Slide|p2a: Chimecho
+|-damage|p2a: Chimecho|172/290
+|
+|-heal|p2a: Chimecho|190/290|[from] item: Leftovers
+|-heal|p1a: Gogoat|185/360|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1776972756
+|switch|p1a: Lunala|Lunala, L70|308/308 par
+|move|p2a: Chimecho|Recover|p2a: Chimecho
+|-heal|p2a: Chimecho|290/290
+|
+|upkeep
+|turn|32
+|
+|t:|1776972764
+|switch|p2a: Glaceon|Glaceon, L94, F|194/275
+|move|p1a: Lunala|Moongeist Beam|p2a: Glaceon
+|-damage|p2a: Glaceon|112/275
+|
+|upkeep
+|turn|33
+|
+|t:|1776972768
+|switch|p1a: Gogoat|Gogoat, L88, F, tera:Water|185/360
+|move|p2a: Glaceon|Wish|p2a: Glaceon
+|
+|-heal|p1a: Gogoat|207/360|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1776972776
+|move|p2a: Glaceon|Freeze-Dry|p1a: Gogoat
+|-supereffective|p1a: Gogoat
+|-damage|p1a: Gogoat|0 fnt
+|faint|p1a: Gogoat
+|
+|-heal|p2a: Glaceon|249/275|[from] move: Wish|[wisher] Glaceon
+|upkeep
+|-message|life orb trump forfeited.
+|
+|win|Cryostasia
+|raw|life orb trump's rating: 1156 &rarr; <strong>1130</strong><br />(-26 for losing)
+|raw|Cryostasia's rating: 1147 &rarr; <strong>1173</strong><br />(+26 for winning)
+|l|☆life orb trump
+|player|p1|

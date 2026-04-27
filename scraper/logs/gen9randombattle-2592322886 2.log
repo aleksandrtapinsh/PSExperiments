@@ -1,0 +1,188 @@
+|j|☆buterakai
+|j|☆whitenption
+|t:|1776978810
+|gametype|singles
+|player|p1|buterakai|caitlin|1270
+|player|p2|whitenption|n|1246
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776978810
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Eelektross|Eelektross, L87, F|290/290
+|switch|p2a: Infernape|Infernape, L82, F|259/259
+|turn|1
+|
+|t:|1776978826
+|move|p2a: Infernape|Swords Dance|p2a: Infernape
+|-boost|p2a: Infernape|atk|2
+|move|p1a: Eelektross|Discharge|p2a: Infernape
+|-damage|p2a: Infernape|150/259
+|-status|p2a: Infernape|par
+|
+|upkeep
+|turn|2
+|
+|t:|1776978839
+|switch|p1a: Espathra|Espathra, L80, F|283/283
+|cant|p2a: Infernape|par
+|
+|upkeep
+|turn|3
+|c|☆whitenption|lol
+|
+|t:|1776978844
+|move|p1a: Espathra|Calm Mind|p1a: Espathra
+|-boost|p1a: Espathra|spa|1
+|-boost|p1a: Espathra|spd|1
+|move|p2a: Infernape|Knock Off|p1a: Espathra
+|-supereffective|p1a: Espathra
+|-damage|p1a: Espathra|0 fnt
+|-enditem|p1a: Espathra|Leftovers|[from] move: Knock Off|[of] p2a: Infernape
+|faint|p1a: Espathra
+|-damage|p2a: Infernape|125/259 par|[from] item: Life Orb
+|
+|upkeep
+|c|☆whitenption|hum...
+|
+|t:|1776978874
+|switch|p1a: Eelektross|Eelektross, L87, F|290/290
+|turn|4
+|
+|t:|1776978877
+|move|p1a: Eelektross|Discharge|p2a: Infernape
+|-damage|p2a: Infernape|4/259 par
+|move|p2a: Infernape|Close Combat|p1a: Eelektross
+|-damage|p1a: Eelektross|0 fnt
+|-unboost|p2a: Infernape|def|1
+|-unboost|p2a: Infernape|spd|1
+|faint|p1a: Eelektross
+|-damage|p2a: Infernape|0 fnt|[from] item: Life Orb
+|faint|p2a: Infernape
+|
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by whitenption)
+|c|☆buterakai|lick my ass
+|
+|t:|1776978914
+|switch|p2a: Rotom|Rotom-Fan, L86|226/226
+|switch|p1a: Sableye|Sableye, L88, M|231/231
+|turn|5
+|c|☆whitenption|lol
+|
+|t:|1776978922
+|move|p2a: Rotom|Nasty Plot|p2a: Rotom
+|-boost|p2a: Rotom|spa|2
+|move|p1a: Sableye|Knock Off|p2a: Rotom
+|-crit|p2a: Rotom
+|-damage|p2a: Rotom|99/226
+|-enditem|p2a: Rotom|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Sableye
+|
+|upkeep
+|turn|6
+|
+|t:|1776978929
+|move|p1a: Sableye|Encore|p2a: Rotom
+|-start|p2a: Rotom|Encore
+|move|p2a: Rotom|Nasty Plot|p2a: Rotom
+|-boost|p2a: Rotom|spa|2
+|
+|upkeep
+|turn|7
+|
+|t:|1776978941
+|move|p2a: Rotom|Nasty Plot|p2a: Rotom
+|-boost|p2a: Rotom|spa|2
+|move|p1a: Sableye|Knock Off|p2a: Rotom
+|-damage|p2a: Rotom|50/226
+|
+|upkeep
+|turn|8
+|
+|t:|1776978946
+|move|p2a: Rotom|Nasty Plot|p2a: Rotom
+|-boost|p2a: Rotom|spa|0
+|move|p1a: Sableye|Knock Off|p2a: Rotom
+|-damage|p2a: Rotom|0 fnt
+|faint|p2a: Rotom
+|
+|upkeep
+|
+|t:|1776978953
+|switch|p2a: Brambleghast|Brambleghast, L88, M|240/240
+|turn|9
+|
+|t:|1776978959
+|move|p1a: Sableye|Will-O-Wisp|p2a: Brambleghast
+|-status|p2a: Brambleghast|brn
+|move|p2a: Brambleghast|Poltergeist|p1a: Sableye
+|-activate|p1a: Sableye|move: Poltergeist|Leftovers
+|-damage|p1a: Sableye|155/231
+|
+|-heal|p1a: Sableye|169/231|[from] item: Leftovers
+|-damage|p2a: Brambleghast|225/240 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1776978971
+|move|p2a: Brambleghast|Power Whip|p1a: Sableye
+|-damage|p1a: Sableye|79/231
+|move|p1a: Sableye|Knock Off|p2a: Brambleghast
+|-supereffective|p2a: Brambleghast
+|-damage|p2a: Brambleghast|1/240 brn
+|-enditem|p2a: Brambleghast|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Sableye
+|
+|-heal|p1a: Sableye|93/231|[from] item: Leftovers
+|-damage|p2a: Brambleghast|0 fnt|[from] brn
+|faint|p2a: Brambleghast
+|upkeep
+|
+|t:|1776978980
+|switch|p2a: Perrserker|Perrserker, L89, M|269/269
+|turn|11
+|
+|t:|1776978985
+|move|p1a: Sableye|Will-O-Wisp|p2a: Perrserker
+|-status|p2a: Perrserker|brn
+|move|p2a: Perrserker|U-turn|p1a: Sableye
+|-damage|p1a: Sableye|35/231
+|-damage|p2a: Perrserker|243/269 brn|[from] item: Life Orb
+|
+|t:|1776978990
+|switch|p2a: Salamence|Salamence, L77, M|273/273|[from] U-turn
+|
+|-heal|p1a: Sableye|49/231|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776978997
+|move|p1a: Sableye|Will-O-Wisp|p2a: Salamence
+|-status|p2a: Salamence|brn
+|move|p2a: Salamence|Earthquake|p1a: Sableye
+|-damage|p1a: Sableye|7/231
+|
+|-heal|p1a: Sableye|21/231|[from] item: Leftovers
+|-damage|p2a: Salamence|256/273 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1776979005
+|move|p1a: Sableye|Recover|p1a: Sableye
+|-heal|p1a: Sableye|137/231
+|move|p2a: Salamence|Earthquake|p1a: Sableye
+|-damage|p1a: Sableye|97/231
+|
+|-heal|p1a: Sableye|111/231|[from] item: Leftovers
+|-damage|p2a: Salamence|239/273 brn|[from] brn
+|upkeep
+|turn|14
+|-message|whitenption forfeited.
+|
+|win|buterakai

@@ -1,0 +1,245 @@
+|j|☆ShadowS3raph
+|j|☆Jayden11668
+|t:|1776981870
+|gametype|singles
+|player|p1|ShadowS3raph|102|1324
+|player|p2|Jayden11668|101|1334
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776981870
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Mandibuzz|Mandibuzz, L85, F|326/326
+|switch|p2a: Zangoose|Zangoose, L85, M|263/263
+|turn|1
+|
+|t:|1776981883
+|move|p2a: Zangoose|Swords Dance|p2a: Zangoose
+|-boost|p2a: Zangoose|atk|2
+|move|p1a: Mandibuzz|Foul Play|p2a: Zangoose
+|-damage|p2a: Zangoose|0 fnt
+|faint|p2a: Zangoose
+|
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ShadowS3raph)
+|
+|t:|1776981891
+|switch|p2a: Glastrier|Glastrier, L86|312/312
+|turn|2
+|
+|t:|1776981918
+|move|p1a: Mandibuzz|Toxic|p2a: Glastrier
+|-status|p2a: Glastrier|tox
+|move|p2a: Glastrier|Icicle Crash|p1a: Mandibuzz
+|-supereffective|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|114/326
+|
+|-damage|p2a: Glastrier|293/312 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1776981925
+|switch|p1a: Jolteon|Jolteon, L84, F|246/246
+|move|p2a: Glastrier|Icicle Crash|p1a: Jolteon
+|-damage|p1a: Jolteon|78/246
+|
+|-damage|p2a: Glastrier|255/312 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1776981935
+|move|p1a: Jolteon|Thunderbolt|p2a: Glastrier
+|-damage|p2a: Glastrier|148/312 tox
+|-damage|p1a: Jolteon|54/246|[from] item: Life Orb
+|move|p2a: Glastrier|Close Combat|p1a: Jolteon
+|-damage|p1a: Jolteon|0 fnt
+|-unboost|p2a: Glastrier|def|1
+|-unboost|p2a: Glastrier|spd|1
+|faint|p1a: Jolteon
+|-ability|p2a: Glastrier|Chilling Neigh|boost
+|-boost|p2a: Glastrier|atk|1
+|
+|-damage|p2a: Glastrier|91/312 tox|[from] psn
+|upkeep
+|
+|t:|1776981942
+|switch|p1a: Pelipper|Pelipper, L86, F|243/243
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|5
+|
+|t:|1776981957
+|switch|p2a: Oranguru|Oranguru, L92, F|315/315
+|move|p1a: Pelipper|Weather Ball|p2a: Oranguru
+|-damage|p2a: Oranguru|128/315
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Oranguru|147/315|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776981981
+|move|p2a: Oranguru|Thunderbolt|p1a: Pelipper
+|-supereffective|p1a: Pelipper
+|-damage|p1a: Pelipper|0 fnt
+|faint|p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Oranguru|166/315|[from] item: Leftovers
+|upkeep
+|
+|t:|1776981994
+|switch|p1a: Palkia|Palkia, L75|259/259
+|-ability|p1a: Palkia|Pressure
+|turn|7
+|
+|t:|1776982001
+|switch|p2a: Glastrier|Glastrier, L86|91/312 tox
+|move|p1a: Palkia|Hydro Pump|p2a: Glastrier
+|-damage|p2a: Glastrier|0 fnt
+|faint|p2a: Glastrier
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1776982014
+|switch|p2a: Spectrier|Spectrier, L75|274/274
+|turn|8
+|
+|t:|1776982022
+|-terastallize|p2a: Spectrier|Fairy
+|move|p1a: Palkia|Hydro Pump|p2a: Spectrier
+|-damage|p2a: Spectrier|43/274
+|move|p2a: Spectrier|Nasty Plot|p2a: Spectrier
+|-boost|p2a: Spectrier|spa|2
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1776982027
+|move|p1a: Palkia|Hydro Pump|p2a: Spectrier
+|-damage|p2a: Spectrier|0 fnt
+|faint|p2a: Spectrier
+|
+|-weather|none
+|upkeep
+|
+|t:|1776982034
+|switch|p2a: Moltres|Moltres-Galar, L79|271/271
+|turn|10
+|
+|t:|1776982046
+|switch|p1a: Mandibuzz|Mandibuzz, L85, F|114/326
+|move|p2a: Moltres|Agility|p2a: Moltres
+|-boost|p2a: Moltres|spe|2
+|
+|upkeep
+|turn|11
+|
+|t:|1776982054
+|move|p2a: Moltres|Hurricane|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|11/326
+|move|p1a: Mandibuzz|Toxic|p2a: Moltres
+|-status|p2a: Moltres|tox
+|
+|-damage|p2a: Moltres|255/271 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1776982059
+|move|p2a: Moltres|Fiery Wrath|p1a: Mandibuzz
+|-resisted|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|0 fnt
+|faint|p1a: Mandibuzz
+|
+|-damage|p2a: Moltres|223/271 tox|[from] psn
+|upkeep
+|
+|t:|1776982063
+|switch|p1a: Ninetales|Ninetales-Alola, L78, F|242/242
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p1a: Ninetales
+|turn|13
+|
+|t:|1776982074
+|move|p2a: Moltres|Hurricane|p1a: Ninetales
+|-damage|p1a: Ninetales|134/242
+|move|p1a: Ninetales|Aurora Veil|p1a: Ninetales
+|-sidestart|p1: ShadowS3raph|move: Aurora Veil
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p2a: Moltres|175/271 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1776982079
+|move|p2a: Moltres|Hurricane|p1a: Ninetales|[miss]
+|-miss|p2a: Moltres|p1a: Ninetales
+|move|p1a: Ninetales|Blizzard|p2a: Moltres
+|-supereffective|p2a: Moltres
+|-damage|p2a: Moltres|37/271 tox
+|-enditem|p2a: Moltres|Weakness Policy
+|-boost|p2a: Moltres|atk|2|[from] item: Weakness Policy
+|-boost|p2a: Moltres|spa|2|[from] item: Weakness Policy
+|-ability|p2a: Moltres|Berserk|boost
+|-boost|p2a: Moltres|spa|1
+|
+|-weather|Snowscape|[upkeep]
+|-damage|p2a: Moltres|0 fnt|[from] psn
+|faint|p2a: Moltres
+|upkeep
+|
+|t:|1776982095
+|switch|p2a: Coalossal|Coalossal, L89, M|341/341
+|turn|15
+|
+|t:|1776982103
+|switch|p1a: Groudon|Groudon, L72|263/263
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Groudon
+|move|p2a: Coalossal|Rapid Spin|p1a: Groudon
+|-damage|p1a: Groudon|250/263
+|-boost|p2a: Coalossal|spe|1
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Groudon|263/263|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776982117
+|move|p1a: Groudon|Precipice Blades|p2a: Coalossal
+|-supereffective|p2a: Coalossal
+|-crit|p2a: Coalossal
+|-damage|p2a: Coalossal|0 fnt
+|faint|p2a: Coalossal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1776982119
+|switch|p2a: Oranguru|Oranguru, L92, F|166/315
+|turn|17
+|
+|t:|1776982134
+|move|p1a: Groudon|Precipice Blades|p2a: Oranguru
+|-damage|p2a: Oranguru|42/315
+|move|p2a: Oranguru|Psyshock|p1a: Groudon
+|-damage|p1a: Groudon|224/263
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Groudon|240/263|[from] item: Leftovers
+|-heal|p2a: Oranguru|61/315|[from] item: Leftovers
+|upkeep
+|turn|18
+|-message|Jayden11668 forfeited.
+|
+|win|ShadowS3raph
+|raw|ShadowS3raph's rating: 1324 &rarr; <strong>1345</strong><br />(+21 for winning)
+|raw|Jayden11668's rating: 1334 &rarr; <strong>1313</strong><br />(-21 for losing)
+|l|☆Jayden11668
+|player|p2|

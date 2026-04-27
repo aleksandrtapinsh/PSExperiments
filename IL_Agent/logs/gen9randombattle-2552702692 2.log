@@ -1,0 +1,272 @@
+|j|☆AmalgamFS
+|j|☆vaniushkaterpie
+|t:|1772744964
+|gametype|singles
+|player|p1|AmalgamFS|169|1261
+|player|p2|vaniushkaterpie|plasmagrunt|1262
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772744964
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Phione|Phione, L91|293/293
+|switch|p2a: Baxcalibur|Baxcalibur, L75, M|296/296
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by vaniushkaterpie)
+|
+|t:|1772744982
+|switch|p1a: Beartic|Beartic, L91, M|321/321
+|move|p2a: Baxcalibur|Dragon Dance|p2a: Baxcalibur
+|-boost|p2a: Baxcalibur|atk|1
+|-boost|p2a: Baxcalibur|spe|1
+|
+|upkeep
+|turn|2
+|
+|t:|1772744990
+|move|p2a: Baxcalibur|Earthquake|p1a: Beartic
+|-damage|p1a: Beartic|196/321
+|move|p1a: Beartic|Close Combat|p2a: Baxcalibur
+|-supereffective|p2a: Baxcalibur
+|-damage|p2a: Baxcalibur|8/296
+|-unboost|p1a: Beartic|def|1
+|-unboost|p1a: Beartic|spd|1
+|
+|upkeep
+|turn|3
+|
+|t:|1772744999
+|move|p2a: Baxcalibur|Earthquake|p1a: Beartic
+|-damage|p1a: Beartic|27/321
+|move|p1a: Beartic|Close Combat|p2a: Baxcalibur
+|-supereffective|p2a: Baxcalibur
+|-damage|p2a: Baxcalibur|0 fnt
+|-unboost|p1a: Beartic|def|1
+|-unboost|p1a: Beartic|spd|1
+|faint|p2a: Baxcalibur
+|
+|upkeep
+|inactive|vaniushkaterpie has 120 seconds left.
+|
+|t:|1772745034
+|switch|p2a: Cryogonal|Cryogonal, L89|287/287
+|turn|4
+|
+|t:|1772745040
+|move|p2a: Cryogonal|Rapid Spin|p1a: Beartic
+|-damage|p1a: Beartic|0 fnt
+|-boost|p2a: Cryogonal|spe|1
+|faint|p1a: Beartic
+|
+|upkeep
+|
+|t:|1772745051
+|switch|p1a: Malamar|Malamar, L82, F|275/275
+|turn|5
+|
+|t:|1772745059
+|switch|p2a: Sableye|Sableye, L88, F|231/231
+|move|p1a: Malamar|Knock Off|p2a: Sableye
+|-damage|p2a: Sableye|126/231
+|-enditem|p2a: Sableye|Leftovers|[from] move: Knock Off|[of] p1a: Malamar
+|
+|upkeep
+|turn|6
+|
+|t:|1772745083
+|switch|p2a: Trevenant|Trevenant, L89, F|296/296
+|move|p1a: Malamar|Knock Off|p2a: Trevenant
+|-supereffective|p2a: Trevenant
+|-damage|p2a: Trevenant|114/296
+|-enditem|p2a: Trevenant|Choice Band|[from] move: Knock Off|[of] p1a: Malamar
+|
+|upkeep
+|turn|7
+|
+|t:|1772745097
+|-terastallize|p2a: Trevenant|Fighting
+|move|p1a: Malamar|Knock Off|p2a: Trevenant
+|-resisted|p2a: Trevenant
+|-damage|p2a: Trevenant|81/296
+|move|p2a: Trevenant|Drain Punch|p1a: Malamar
+|-damage|p1a: Malamar|169/275
+|-heal|p2a: Trevenant|134/296|[from] drain|[of] p1a: Malamar
+|
+|upkeep
+|turn|8
+|
+|t:|1772745107
+|switch|p2a: Sableye|Sableye, L88, F|126/231
+|move|p1a: Malamar|Psycho Cut|p2a: Sableye
+|-immune|p2a: Sableye
+|
+|upkeep
+|turn|9
+|
+|t:|1772745113
+|switch|p1a: Indeedee|Indeedee-F, L90, F|272/272
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Indeedee
+|switch|p2a: Trevenant|Trevenant, L89, F, tera:Fighting|134/296
+|
+|upkeep
+|turn|10
+|
+|t:|1772745124
+|switch|p2a: Cryogonal|Cryogonal, L89|287/287
+|move|p1a: Indeedee|Dazzling Gleam|p2a: Cryogonal
+|-damage|p2a: Cryogonal|229/287
+|-damage|p1a: Indeedee|245/272|[from] item: Life Orb
+|
+|upkeep
+|turn|11
+|
+|t:|1772745134
+|move|p2a: Cryogonal|Ice Beam|p1a: Indeedee
+|-damage|p1a: Indeedee|161/272
+|move|p1a: Indeedee|Psychic|p2a: Cryogonal
+|-damage|p2a: Cryogonal|99/287
+|-damage|p1a: Indeedee|134/272|[from] item: Life Orb
+|
+|upkeep
+|turn|12
+|
+|t:|1772745140
+|move|p2a: Cryogonal|Ice Beam|p1a: Indeedee
+|-damage|p1a: Indeedee|50/272
+|move|p1a: Indeedee|Psychic|p2a: Cryogonal
+|-damage|p2a: Cryogonal|0 fnt
+|faint|p2a: Cryogonal
+|-damage|p1a: Indeedee|23/272|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772745145
+|switch|p2a: Sableye|Sableye, L88, F|126/231
+|turn|13
+|
+|t:|1772745153
+|move|p1a: Indeedee|Dazzling Gleam|p2a: Sableye
+|-supereffective|p2a: Sableye
+|-damage|p2a: Sableye|0 fnt
+|faint|p2a: Sableye
+|-damage|p1a: Indeedee|0 fnt|[from] item: Life Orb
+|faint|p1a: Indeedee
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1772745159
+|switch|p1a: Malamar|Malamar, L82, F|169/275
+|switch|p2a: Trevenant|Trevenant, L89, F, tera:Fighting|134/296
+|turn|14
+|
+|t:|1772745167
+|switch|p2a: Suicune|Suicune, L82|298/298
+|-ability|p2a: Suicune|Pressure
+|move|p1a: Malamar|Psycho Cut|p2a: Suicune
+|-damage|p2a: Suicune|244/298
+|
+|-heal|p2a: Suicune|262/298|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1772745173
+|move|p2a: Suicune|Scald|p1a: Malamar
+|-damage|p1a: Malamar|85/275
+|move|p1a: Malamar|Knock Off|p2a: Suicune
+|-damage|p2a: Suicune|190/298
+|-enditem|p2a: Suicune|Leftovers|[from] move: Knock Off|[of] p1a: Malamar
+|
+|upkeep
+|turn|16
+|
+|t:|1772745180
+|move|p2a: Suicune|Scald|p1a: Malamar
+|-damage|p1a: Malamar|0 fnt
+|faint|p1a: Malamar
+|
+|upkeep
+|
+|t:|1772745184
+|switch|p1a: Phione|Phione, L91|293/293
+|turn|17
+|
+|t:|1772745189
+|switch|p2a: Trevenant|Trevenant, L89, F, tera:Fighting|134/296
+|move|p1a: Phione|Take Heart|p1a: Phione
+|-boost|p1a: Phione|spa|1
+|-boost|p1a: Phione|spd|1
+|
+|upkeep
+|turn|18
+|
+|t:|1772745194
+|move|p1a: Phione|Scald|p2a: Trevenant
+|-crit|p2a: Trevenant
+|-damage|p2a: Trevenant|0 fnt
+|faint|p2a: Trevenant
+|
+|upkeep
+|
+|t:|1772745200
+|switch|p2a: Mewtwo|Mewtwo, L72|272/272
+|-ability|p2a: Mewtwo|Unnerve
+|turn|19
+|
+|t:|1772745207
+|move|p2a: Mewtwo|Psystrike|p1a: Phione
+|-damage|p1a: Phione|153/293
+|-damage|p2a: Mewtwo|245/272|[from] item: Life Orb
+|move|p1a: Phione|Scald|p2a: Mewtwo
+|-damage|p2a: Mewtwo|103/272
+|
+|-heal|p1a: Phione|171/293|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1772745219
+|move|p2a: Mewtwo|Psystrike|p1a: Phione
+|-damage|p1a: Phione|23/293
+|-damage|p2a: Mewtwo|76/272|[from] item: Life Orb
+|move|p1a: Phione|Scald|p2a: Mewtwo
+|-damage|p2a: Mewtwo|0 fnt
+|faint|p2a: Mewtwo
+|
+|-heal|p1a: Phione|41/293|[from] item: Leftovers
+|upkeep
+|
+|t:|1772745225
+|switch|p2a: Suicune|Suicune, L82|190/298
+|-ability|p2a: Suicune|Pressure
+|turn|21
+|
+|t:|1772745236
+|move|p1a: Phione|Grass Knot|p2a: Suicune
+|-supereffective|p2a: Suicune
+|-damage|p2a: Suicune|4/298
+|move|p2a: Suicune|Scald|p1a: Phione
+|-resisted|p1a: Phione
+|-damage|p1a: Phione|15/293
+|
+|-heal|p1a: Phione|33/293|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1772745243
+|move|p1a: Phione|Grass Knot|p2a: Suicune
+|-supereffective|p2a: Suicune
+|-damage|p2a: Suicune|0 fnt
+|faint|p2a: Suicune
+|
+|win|AmalgamFS
+|raw|AmalgamFS's rating: 1261 &rarr; <strong>1286</strong><br />(+25 for winning)
+|raw|vaniushkaterpie's rating: 1262 &rarr; <strong>1237</strong><br />(-25 for losing)
+|l|☆vaniushkaterpie
+|player|p2|

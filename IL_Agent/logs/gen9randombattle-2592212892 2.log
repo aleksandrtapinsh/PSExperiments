@@ -1,0 +1,281 @@
+|j|☆anubis01001
+|j|☆Hehdhdhdgghedhdhdd
+|t:|1776970777
+|gametype|singles
+|player|p1|anubis01001|265|1028
+|player|p2|Hehdhdhdgghedhdhdd|102|1000
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776970777
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Bellibolt|Bellibolt, L84, F|320/320
+|switch|p2a: Flutter Mane|Flutter Mane, L74|203/203
+|turn|1
+|
+|t:|1776970790
+|-end|p2a: Flutter Mane|Protosynthesis|[silent]
+|switch|p2a: Tyranitar|Tyranitar, L78, F|284/284
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Bellibolt|Thunderbolt|p2a: Tyranitar
+|-damage|p2a: Tyranitar|220/284
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Bellibolt|300/320|[from] Sandstorm
+|-heal|p2a: Tyranitar|237/284|[from] item: Leftovers
+|-heal|p1a: Bellibolt|320/320|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776970801
+|move|p2a: Tyranitar|Knock Off|p1a: Bellibolt
+|-damage|p1a: Bellibolt|211/320
+|-start|p1a: Bellibolt|Charge|Knock Off|[from] ability: Electromorphosis
+|-enditem|p1a: Bellibolt|Leftovers|[from] move: Knock Off|[of] p2a: Tyranitar
+|move|p1a: Bellibolt|Muddy Water|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|141/284
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Bellibolt|191/320|[from] Sandstorm
+|-heal|p2a: Tyranitar|158/284|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776970820
+|move|p2a: Tyranitar|Earthquake|p1a: Bellibolt
+|-supereffective|p1a: Bellibolt
+|-damage|p1a: Bellibolt|25/320
+|-start|p1a: Bellibolt|Charge|Earthquake|[from] ability: Electromorphosis
+|move|p1a: Bellibolt|Slack Off|p1a: Bellibolt
+|-heal|p1a: Bellibolt|185/320
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Bellibolt|165/320|[from] Sandstorm
+|-heal|p2a: Tyranitar|175/284|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776970835
+|move|p2a: Tyranitar|Earthquake|p1a: Bellibolt
+|-supereffective|p1a: Bellibolt
+|-damage|p1a: Bellibolt|0 fnt
+|faint|p1a: Bellibolt
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Tyranitar|192/284|[from] item: Leftovers
+|upkeep
+|
+|t:|1776970854
+|switch|p1a: Banette|Banette, L93, F|270/270
+|turn|5
+|
+|t:|1776970858
+|move|p1a: Banette|Thunder Wave|p2a: Tyranitar
+|-status|p2a: Tyranitar|par
+|move|p2a: Tyranitar|Thunder Wave|p1a: Banette
+|-status|p1a: Banette|par
+|
+|-weather|none
+|-heal|p2a: Tyranitar|209/284 par|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776970870
+|cant|p1a: Banette|par
+|move|p2a: Tyranitar|Knock Off|p1a: Banette
+|-supereffective|p1a: Banette
+|-damage|p1a: Banette|16/270 par
+|-enditem|p1a: Banette|Life Orb|[from] move: Knock Off|[of] p2a: Tyranitar
+|
+|-heal|p2a: Tyranitar|226/284 par|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776970883
+|-terastallize|p1a: Banette|Poison
+|move|p1a: Banette|Gunk Shot|p2a: Tyranitar
+|-resisted|p2a: Tyranitar
+|-damage|p2a: Tyranitar|146/284 par
+|move|p2a: Tyranitar|Knock Off|p1a: Banette
+|-damage|p1a: Banette|0 fnt
+|faint|p1a: Banette
+|
+|-heal|p2a: Tyranitar|163/284 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1776970897
+|switch|p1a: Arceus|Arceus-Fighting, L70|284/284
+|turn|8
+|
+|t:|1776970902
+|move|p1a: Arceus|Body Press|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|0 fnt
+|faint|p2a: Tyranitar
+|
+|upkeep
+|
+|t:|1776970904
+|switch|p2a: Flutter Mane|Flutter Mane, L74|203/203
+|turn|9
+|
+|t:|1776970920
+|move|p2a: Flutter Mane|Moonblast|p1a: Arceus
+|-supereffective|p1a: Arceus
+|-damage|p1a: Arceus|16/284
+|-unboost|p1a: Arceus|spa|1
+|-damage|p2a: Flutter Mane|183/203|[from] item: Life Orb
+|move|p1a: Arceus|Cosmic Power|p1a: Arceus
+|-boost|p1a: Arceus|def|1
+|-boost|p1a: Arceus|spd|1
+|
+|upkeep
+|turn|10
+|
+|t:|1776970935
+|move|p2a: Flutter Mane|Shadow Ball|p1a: Arceus
+|-damage|p1a: Arceus|0 fnt
+|faint|p1a: Arceus
+|-damage|p2a: Flutter Mane|163/203|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776970945
+|switch|p1a: Sawsbuck|Sawsbuck-Winter, L88, F|284/284
+|turn|11
+|
+|t:|1776970961
+|move|p2a: Flutter Mane|Mystical Fire|p1a: Sawsbuck
+|-supereffective|p1a: Sawsbuck
+|-damage|p1a: Sawsbuck|118/284
+|-unboost|p1a: Sawsbuck|spa|1
+|-damage|p2a: Flutter Mane|143/203|[from] item: Life Orb
+|move|p1a: Sawsbuck|High Horsepower|p2a: Flutter Mane
+|-damage|p2a: Flutter Mane|0 fnt
+|faint|p2a: Flutter Mane
+|-end|p2a: Flutter Mane|Protosynthesis|[silent]
+|-damage|p1a: Sawsbuck|90/284|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776970977
+|switch|p2a: Farigiraf|Farigiraf, L90, F|362/362
+|turn|12
+|
+|t:|1776970982
+|move|p1a: Sawsbuck|High Horsepower|p2a: Farigiraf
+|-damage|p2a: Farigiraf|258/362
+|-damage|p1a: Sawsbuck|62/284|[from] item: Life Orb
+|move|p2a: Farigiraf|Body Slam|p1a: Sawsbuck
+|-damage|p1a: Sawsbuck|0 fnt
+|faint|p1a: Sawsbuck
+|
+|-heal|p2a: Farigiraf|280/362|[from] item: Leftovers
+|upkeep
+|
+|t:|1776971001
+|switch|p1a: Lapras|Lapras, L87, F|368/368
+|turn|13
+|
+|t:|1776971008
+|move|p2a: Farigiraf|Body Slam|p1a: Lapras
+|-damage|p1a: Lapras|266/368
+|-status|p1a: Lapras|par
+|move|p1a: Lapras|Freeze-Dry|p2a: Farigiraf
+|-damage|p2a: Farigiraf|201/362
+|
+|-heal|p2a: Farigiraf|223/362|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1776971025
+|move|p2a: Farigiraf|Body Slam|p1a: Lapras
+|-damage|p1a: Lapras|169/368 par
+|move|p1a: Lapras|Sparkling Aria|p2a: Farigiraf
+|-damage|p2a: Farigiraf|121/362
+|
+|-heal|p2a: Farigiraf|143/362|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1776971036
+|move|p2a: Farigiraf|Psychic Noise|p1a: Lapras
+|-damage|p1a: Lapras|72/368 par
+|-start|p1a: Lapras|move: Heal Block
+|move|p1a: Lapras|Sparkling Aria|p2a: Farigiraf
+|-damage|p2a: Farigiraf|41/362
+|
+|-heal|p2a: Farigiraf|63/362|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776971054
+|move|p2a: Farigiraf|Body Slam|p1a: Lapras
+|-damage|p1a: Lapras|0 fnt
+|faint|p1a: Lapras
+|
+|-heal|p2a: Farigiraf|85/362|[from] item: Leftovers
+|upkeep
+|
+|t:|1776971072
+|switch|p1a: Cramorant|Cramorant, L86, M|261/261
+|turn|17
+|
+|t:|1776971083
+|move|p1a: Cramorant|Brave Bird|p2a: Farigiraf
+|-damage|p2a: Farigiraf|0 fnt
+|faint|p2a: Farigiraf
+|-damage|p1a: Cramorant|233/261|[from] Recoil
+|
+|upkeep
+|
+|t:|1776971088
+|switch|p2a: Honchkrow|Honchkrow, L86, M|312/312
+|turn|18
+|
+|t:|1776971092
+|move|p1a: Cramorant|Surf|p2a: Honchkrow
+|-formechange|p1a: Cramorant|Cramorant-Gulping|
+|-damage|p2a: Honchkrow|182/312
+|move|p2a: Honchkrow|Thunder Wave|p1a: Cramorant
+|-status|p1a: Cramorant|par
+|
+|upkeep
+|turn|19
+|
+|t:|1776971099
+|move|p2a: Honchkrow|Brave Bird|p1a: Cramorant
+|-damage|p1a: Cramorant|11/261 par
+|-damage|p2a: Honchkrow|104/312|[from] ability: Gulp Missile|[of] p1a: Cramorant
+|-unboost|p2a: Honchkrow|def|1
+|-formechange|p1a: Cramorant|Cramorant|
+|-damage|p2a: Honchkrow|31/312|[from] Recoil
+|move|p1a: Cramorant|Brave Bird|p2a: Honchkrow
+|-damage|p2a: Honchkrow|0 fnt
+|faint|p2a: Honchkrow
+|-damage|p1a: Cramorant|1/261 par|[from] Recoil
+|
+|upkeep
+|
+|t:|1776971105
+|switch|p2a: Heatran|Heatran, L79, F|273/273
+|-item|p2a: Heatran|Air Balloon
+|turn|20
+|
+|t:|1776971116
+|move|p2a: Heatran|Heavy Slam|p1a: Cramorant
+|-resisted|p1a: Cramorant
+|-damage|p1a: Cramorant|0 fnt
+|faint|p1a: Cramorant
+|
+|win|Hehdhdhdgghedhdhdd
+|raw|anubis01001's rating: 1028 &rarr; <strong>1013</strong><br />(-15 for losing)
+|raw|Hehdhdhdgghedhdhdd's rating: 1000 &rarr; <strong>1043</strong><br />(+43 for winning)

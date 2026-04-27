@@ -1,0 +1,281 @@
+|j|☆proto_tcg
+|j|☆qpwer
+|t:|1776970121
+|gametype|singles
+|player|p1|proto_tcg|1|1172
+|player|p2|qpwer|170|1158
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776970121
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Uxie|Uxie, L83|260/260
+|switch|p2a: Azelf|Azelf, L82|257/257
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by qpwer)
+|
+|t:|1776970131
+|move|p2a: Azelf|Nasty Plot|p2a: Azelf
+|-boost|p2a: Azelf|spa|2
+|move|p1a: Uxie|Knock Off|p2a: Azelf
+|-supereffective|p2a: Azelf
+|-damage|p2a: Azelf|121/257
+|-enditem|p2a: Azelf|Life Orb|[from] move: Knock Off|[of] p1a: Uxie
+|
+|upkeep
+|turn|2
+|
+|t:|1776970141
+|move|p2a: Azelf|Fire Blast|p1a: Uxie
+|-damage|p1a: Uxie|137/260
+|move|p1a: Uxie|Encore|p2a: Azelf
+|-start|p2a: Azelf|Encore
+|
+|-heal|p1a: Uxie|153/260|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776970154
+|move|p2a: Azelf|Fire Blast|p1a: Uxie
+|-damage|p1a: Uxie|24/260
+|move|p1a: Uxie|Knock Off|p2a: Azelf
+|-supereffective|p2a: Azelf
+|-damage|p2a: Azelf|35/257
+|
+|-heal|p1a: Uxie|40/260|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776970166
+|switch|p1a: Drifblim|Drifblim, L86, F|396/396
+|move|p2a: Azelf|Fire Blast|p1a: Drifblim
+|-damage|p1a: Drifblim|143/396
+|-enditem|p1a: Drifblim|Sitrus Berry|[eat]
+|-heal|p1a: Drifblim|242/396|[from] item: Sitrus Berry
+|
+|upkeep
+|turn|5
+|
+|t:|1776970175
+|move|p1a: Drifblim|Shadow Ball|p2a: Azelf
+|-supereffective|p2a: Azelf
+|-damage|p2a: Azelf|0 fnt
+|faint|p2a: Azelf
+|
+|upkeep
+|
+|t:|1776970186
+|switch|p2a: Gengar|Gengar, L81, F|230/230
+|turn|6
+|
+|t:|1776970194
+|move|p1a: Drifblim|Shadow Ball|p2a: Gengar
+|-supereffective|p2a: Gengar
+|-damage|p2a: Gengar|18/230
+|-start|p1a: Drifblim|Disable|Shadow Ball|[from] ability: Cursed Body|[of] p2a: Gengar
+|move|p2a: Gengar|Shadow Ball|p1a: Drifblim
+|-supereffective|p1a: Drifblim
+|-damage|p1a: Drifblim|0 fnt
+|faint|p1a: Drifblim
+|
+|upkeep
+|
+|t:|1776970214
+|switch|p1a: Jumpluff|Jumpluff, L87, F|271/271
+|turn|7
+|
+|t:|1776970228
+|switch|p2a: Delibird|Delibird, F|252/252
+|move|p1a: Jumpluff|Acrobatics|p2a: Delibird
+|-damage|p2a: Delibird|140/252
+|
+|upkeep
+|turn|8
+|
+|t:|1776970237
+|move|p1a: Jumpluff|Sleep Powder|p2a: Delibird
+|-immune|p2a: Delibird|[from] ability: Vital Spirit
+|move|p2a: Delibird|Rapid Spin|p1a: Jumpluff
+|-crit|p1a: Jumpluff
+|-damage|p1a: Jumpluff|214/271
+|-boost|p2a: Delibird|spe|1
+|
+|upkeep
+|turn|9
+|
+|t:|1776970246
+|move|p2a: Delibird|Freeze-Dry|p1a: Jumpluff
+|-supereffective|p1a: Jumpluff
+|-damage|p1a: Jumpluff|0 fnt
+|faint|p1a: Jumpluff
+|
+|upkeep
+|
+|t:|1776970252
+|switch|p1a: Lapras|Lapras, L87, F|368/368
+|turn|10
+|
+|t:|1776970258
+|move|p2a: Delibird|Spikes|p1a: Lapras
+|-sidestart|p1: proto_tcg|Spikes
+|move|p1a: Lapras|Freeze-Dry|p2a: Delibird
+|-damage|p2a: Delibird|44/252
+|
+|upkeep
+|turn|11
+|
+|t:|1776970263
+|move|p2a: Delibird|Spikes|p1a: Lapras
+|-sidestart|p1: proto_tcg|Spikes
+|move|p1a: Lapras|Freeze-Dry|p2a: Delibird
+|-damage|p2a: Delibird|0 fnt
+|faint|p2a: Delibird
+|
+|upkeep
+|
+|t:|1776970291
+|switch|p2a: Gengar|Gengar, L81, F|18/230
+|turn|12
+|
+|t:|1776970300
+|move|p2a: Gengar|Focus Blast|p1a: Lapras
+|-supereffective|p1a: Lapras
+|-damage|p1a: Lapras|82/368
+|-unboost|p1a: Lapras|spd|1
+|move|p1a: Lapras|Sparkling Aria|p2a: Gengar
+|-damage|p2a: Gengar|0 fnt
+|faint|p2a: Gengar
+|
+|upkeep
+|
+|t:|1776970311
+|switch|p2a: Samurott|Samurott, L88, F|310/310
+|turn|13
+|
+|t:|1776970320
+|move|p2a: Samurott|Sacred Sword|p1a: Lapras
+|-supereffective|p1a: Lapras
+|-damage|p1a: Lapras|0 fnt
+|faint|p1a: Lapras
+|-damage|p2a: Samurott|279/310|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776970329
+|switch|p1a: Porygon2|Porygon2, L81|270/270
+|-damage|p1a: Porygon2|225/270|[from] Spikes
+|-ability|p1a: Porygon2|Download|boost
+|-boost|p1a: Porygon2|spa|1
+|turn|14
+|
+|t:|1776970335
+|move|p2a: Samurott|Swords Dance|p2a: Samurott
+|-boost|p2a: Samurott|atk|2
+|move|p1a: Porygon2|Thunder Wave|p2a: Samurott
+|-status|p2a: Samurott|par
+|
+|upkeep
+|turn|15
+|
+|t:|1776970346
+|move|p1a: Porygon2|Shadow Ball|p2a: Samurott
+|-damage|p2a: Samurott|186/310 par
+|-unboost|p2a: Samurott|spd|1
+|move|p2a: Samurott|Sacred Sword|p1a: Porygon2
+|-supereffective|p1a: Porygon2
+|-damage|p1a: Porygon2|0 fnt
+|faint|p1a: Porygon2
+|-damage|p2a: Samurott|155/310 par|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776970355
+|switch|p1a: Uxie|Uxie, L83|40/260
+|turn|16
+|
+|t:|1776970366
+|move|p1a: Uxie|Knock Off|p2a: Samurott
+|-damage|p2a: Samurott|97/310 par
+|-enditem|p2a: Samurott|Life Orb|[from] move: Knock Off|[of] p1a: Uxie
+|cant|p2a: Samurott|par
+|
+|-heal|p1a: Uxie|56/260|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1776970380
+|-terastallize|p2a: Samurott|Dark
+|move|p1a: Uxie|Psychic Noise|p2a: Samurott
+|-immune|p2a: Samurott
+|move|p2a: Samurott|Knock Off|p1a: Uxie
+|-supereffective|p1a: Uxie
+|-damage|p1a: Uxie|0 fnt
+|-enditem|p1a: Uxie|Leftovers|[from] move: Knock Off|[of] p2a: Samurott
+|faint|p1a: Uxie
+|
+|upkeep
+|
+|t:|1776970387
+|switch|p1a: Indeedee|Indeedee-F, L90, F|272/272
+|-damage|p1a: Indeedee|227/272|[from] Spikes
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Indeedee
+|turn|18
+|
+|t:|1776970396
+|move|p1a: Indeedee|Dazzling Gleam|p2a: Samurott
+|-supereffective|p2a: Samurott
+|-damage|p2a: Samurott|0 fnt
+|faint|p2a: Samurott
+|-damage|p1a: Indeedee|200/272|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776970405
+|switch|p2a: Arceus|Arceus-Fighting, L70|284/284
+|turn|19
+|
+|t:|1776970417
+|-terastallize|p1a: Indeedee|Psychic
+|move|p2a: Arceus|Cosmic Power|p2a: Arceus
+|-boost|p2a: Arceus|def|1
+|-boost|p2a: Arceus|spd|1
+|move|p1a: Indeedee|Psychic|p2a: Arceus
+|-supereffective|p2a: Arceus
+|-damage|p2a: Arceus|0 fnt
+|faint|p2a: Arceus
+|-damage|p1a: Indeedee|173/272|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776970427
+|switch|p2a: Eternatus|Eternatus, L69|308/308
+|-ability|p2a: Eternatus|Pressure
+|turn|20
+|
+|t:|1776970448
+|move|p2a: Eternatus|Meteor Beam||[still]
+|-prepare|p2a: Eternatus|Meteor Beam
+|-boost|p2a: Eternatus|spa|1
+|-enditem|p2a: Eternatus|Power Herb
+|-anim|p2a: Eternatus|Meteor Beam|p1a: Indeedee
+|-crit|p1a: Indeedee
+|-damage|p1a: Indeedee|14/272
+|move|p1a: Indeedee|Psychic|p2a: Eternatus
+|-supereffective|p2a: Eternatus
+|-damage|p2a: Eternatus|0 fnt
+|faint|p2a: Eternatus
+|-damage|p1a: Indeedee|0 fnt|[from] item: Life Orb
+|faint|p1a: Indeedee
+|
+|win|proto_tcg
+|raw|proto_tcg's rating: 1172 &rarr; <strong>1196</strong><br />(+24 for winning)
+|raw|qpwer's rating: 1158 &rarr; <strong>1134</strong><br />(-24 for losing)
+|l|☆qpwer
+|player|p2|

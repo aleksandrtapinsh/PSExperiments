@@ -1,0 +1,251 @@
+|j|☆santanaispunk
+|j|☆ma nature
+|t:|1776971641
+|gametype|singles
+|player|p1|santanaispunk|giovanni|1420
+|player|p2|ma nature|pokemonbreederf-gen4|1414
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776971641
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Moth|Iron Moth, L78|253/253
+|switch|p2a: Sandslash|Sandslash, L89, M|278/278
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ma nature)
+|
+|t:|1776971650
+|move|p1a: Iron Moth|Fire Blast|p2a: Sandslash|[miss]
+|-miss|p1a: Iron Moth|p2a: Sandslash
+|move|p2a: Sandslash|Rapid Spin|p1a: Iron Moth
+|-damage|p1a: Iron Moth|195/253
+|-boost|p2a: Sandslash|spe|1
+|
+|upkeep
+|turn|2
+|
+|t:|1776971657
+|move|p2a: Sandslash|Earthquake|p1a: Iron Moth
+|-supereffective|p1a: Iron Moth
+|-damage|p1a: Iron Moth|0 fnt
+|faint|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1776971669
+|switch|p1a: Leavanny|Leavanny, L86, F|269/269
+|turn|3
+|
+|t:|1776971682
+|switch|p2a: Zebstrika|Zebstrika, L87, M|272/272
+|move|p1a: Leavanny|Sticky Web|p2a: Zebstrika
+|-sidestart|p2: ma nature|move: Sticky Web
+|
+|upkeep
+|turn|4
+|
+|t:|1776971689
+|move|p2a: Zebstrika|Overheat|p1a: Leavanny
+|-supereffective|p1a: Leavanny
+|-damage|p1a: Leavanny|0 fnt
+|-unboost|p2a: Zebstrika|spa|2
+|faint|p1a: Leavanny
+|-damage|p2a: Zebstrika|245/272|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776971704
+|switch|p1a: Qwilfish|Qwilfish-Hisui, L83, M|244/244
+|-ability|p1a: Qwilfish|Intimidate|boost
+|-unboost|p2a: Zebstrika|atk|1
+|turn|5
+|
+|t:|1776971716
+|switch|p2a: Poliwrath|Poliwrath, L88, F|302/302
+|-activate|p2a: Poliwrath|move: Sticky Web
+|-unboost|p2a: Poliwrath|spe|1
+|move|p1a: Qwilfish|Gunk Shot|p2a: Poliwrath
+|-damage|p2a: Poliwrath|193/302
+|
+|-heal|p2a: Poliwrath|211/302|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776971732
+|move|p1a: Qwilfish|Gunk Shot|p2a: Poliwrath|[miss]
+|-miss|p1a: Qwilfish|p2a: Poliwrath
+|move|p2a: Poliwrath|Bulk Up|p2a: Poliwrath
+|-boost|p2a: Poliwrath|atk|1
+|-boost|p2a: Poliwrath|def|1
+|
+|-heal|p2a: Poliwrath|229/302|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776971755
+|move|p1a: Qwilfish|Taunt|p2a: Poliwrath
+|-start|p2a: Poliwrath|move: Taunt
+|cant|p2a: Poliwrath|move: Taunt|Bulk Up
+|
+|-heal|p2a: Poliwrath|247/302|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776971761
+|move|p1a: Qwilfish|Gunk Shot|p2a: Poliwrath
+|-damage|p2a: Poliwrath|180/302
+|move|p2a: Poliwrath|Liquidation|p1a: Qwilfish
+|-damage|p1a: Qwilfish|150/244
+|
+|-heal|p2a: Poliwrath|198/302|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776971771
+|switch|p1a: Cacturne|Cacturne, L92, M|278/278
+|move|p2a: Poliwrath|Liquidation|p1a: Cacturne
+|-immune|p1a: Cacturne|[from] ability: Water Absorb
+|
+|-heal|p2a: Poliwrath|216/302|[from] item: Leftovers
+|-end|p2a: Poliwrath|move: Taunt
+|upkeep
+|turn|10
+|
+|t:|1776971781
+|switch|p2a: Zebstrika|Zebstrika, L87, M|245/272
+|-activate|p2a: Zebstrika|move: Sticky Web
+|-unboost|p2a: Zebstrika|spe|1
+|move|p1a: Cacturne|Knock Off|p2a: Zebstrika
+|-damage|p2a: Zebstrika|23/272
+|-enditem|p2a: Zebstrika|Life Orb|[from] move: Knock Off|[of] p1a: Cacturne
+|-damage|p1a: Cacturne|251/278|[from] item: Life Orb
+|
+|upkeep
+|turn|11
+|
+|t:|1776971796
+|move|p2a: Zebstrika|Overheat|p1a: Cacturne
+|-supereffective|p1a: Cacturne
+|-damage|p1a: Cacturne|47/278
+|-unboost|p2a: Zebstrika|spa|2
+|move|p1a: Cacturne|Knock Off|p2a: Zebstrika
+|-damage|p2a: Zebstrika|0 fnt
+|faint|p2a: Zebstrika
+|-damage|p1a: Cacturne|20/278|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776971807
+|switch|p2a: Sandslash|Sandslash, L89, M|278/278
+|-activate|p2a: Sandslash|move: Sticky Web
+|-unboost|p2a: Sandslash|spe|1
+|turn|12
+|
+|t:|1776971815
+|move|p1a: Cacturne|Leaf Storm|p2a: Sandslash
+|-supereffective|p2a: Sandslash
+|-damage|p2a: Sandslash|0 fnt
+|-unboost|p1a: Cacturne|spa|2
+|faint|p2a: Sandslash
+|-damage|p1a: Cacturne|0 fnt|[from] item: Life Orb
+|faint|p1a: Cacturne
+|
+|upkeep
+|
+|t:|1776971825
+|switch|p2a: Rayquaza|Rayquaza, L72|270/270
+|switch|p1a: Qwilfish|Qwilfish-Hisui, L83, M|150/244
+|-ability|p1a: Qwilfish|Intimidate|boost
+|-unboost|p2a: Rayquaza|atk|1
+|-ability|p2a: Rayquaza|Air Lock
+|turn|13
+|
+|t:|1776971834
+|move|p1a: Qwilfish|Gunk Shot|p2a: Rayquaza
+|-damage|p2a: Rayquaza|126/270
+|-status|p2a: Rayquaza|psn
+|move|p2a: Rayquaza|Earthquake|p1a: Qwilfish
+|-supereffective|p1a: Qwilfish
+|-damage|p1a: Qwilfish|76/244
+|
+|-damage|p2a: Rayquaza|93/270 psn|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1776971842
+|move|p1a: Qwilfish|Gunk Shot|p2a: Rayquaza
+|-damage|p2a: Rayquaza|0 fnt
+|faint|p2a: Rayquaza
+|
+|upkeep
+|
+|t:|1776971846
+|switch|p2a: Komala|Komala, L88, M|258/258
+|-activate|p2a: Komala|move: Sticky Web
+|-unboost|p2a: Komala|spe|1
+|-ability|p2a: Komala|Comatose
+|turn|15
+|
+|t:|1776971854
+|move|p1a: Qwilfish|Gunk Shot|p2a: Komala
+|-damage|p2a: Komala|119/258
+|move|p2a: Komala|Body Slam|p1a: Qwilfish
+|-damage|p1a: Qwilfish|0 fnt
+|faint|p1a: Qwilfish
+|
+|upkeep
+|
+|t:|1776971862
+|switch|p1a: Squawkabilly|Squawkabilly-Yellow, L89, M|291/291
+|turn|16
+|
+|t:|1776971867
+|-terastallize|p2a: Komala|Ghost
+|move|p1a: Squawkabilly|Brave Bird|p2a: Komala
+|-damage|p2a: Komala|0 fnt
+|faint|p2a: Komala
+|-damage|p1a: Squawkabilly|252/291|[from] Recoil
+|
+|upkeep
+|
+|t:|1776971872
+|switch|p2a: Zarude|Zarude-Dada, L77|288/288
+|-activate|p2a: Zarude|move: Sticky Web
+|-unboost|p2a: Zarude|spe|1
+|turn|17
+|
+|t:|1776971876
+|move|p1a: Squawkabilly|Brave Bird|p2a: Zarude
+|-supereffective|p2a: Zarude
+|-damage|p2a: Zarude|0 fnt
+|faint|p2a: Zarude
+|-damage|p1a: Squawkabilly|157/291|[from] Recoil
+|
+|upkeep
+|
+|t:|1776971878
+|switch|p2a: Poliwrath|Poliwrath, L88, F|216/302
+|-activate|p2a: Poliwrath|move: Sticky Web
+|-unboost|p2a: Poliwrath|spe|1
+|turn|18
+|
+|t:|1776971886
+|move|p1a: Squawkabilly|Brave Bird|p2a: Poliwrath
+|-supereffective|p2a: Poliwrath
+|-damage|p2a: Poliwrath|0 fnt
+|faint|p2a: Poliwrath
+|-damage|p1a: Squawkabilly|86/291|[from] Recoil
+|
+|win|santanaispunk
+|raw|santanaispunk's rating: 1420 &rarr; <strong>1440</strong><br />(+20 for winning)
+|raw|ma nature's rating: 1414 &rarr; <strong>1394</strong><br />(-20 for losing)
+|l|☆ma nature
+|player|p2|

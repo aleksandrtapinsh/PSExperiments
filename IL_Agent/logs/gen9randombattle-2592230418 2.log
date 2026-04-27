@@ -1,0 +1,244 @@
+|j|☆danerjin
+|j|☆CosmicChai
+|t:|1776971990
+|gametype|singles
+|player|p1|danerjin|265|1212
+|player|p2|CosmicChai|cynthia-gen4|1206
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776971990
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Bastiodon|Bastiodon, L89, F|252/252
+|switch|p2a: Roaring Moon|Roaring Moon, L72|270/270
+|turn|1
+|
+|t:|1776972014
+|move|p2a: Roaring Moon|Iron Head|p1a: Bastiodon
+|-damage|p1a: Bastiodon|203/252
+|move|p1a: Bastiodon|Body Press|p2a: Roaring Moon
+|-supereffective|p2a: Roaring Moon
+|-damage|p2a: Roaring Moon|12/270
+|
+|upkeep
+|turn|2
+|
+|t:|1776972028
+|move|p2a: Roaring Moon|Iron Head|p1a: Bastiodon
+|-damage|p1a: Bastiodon|153/252
+|cant|p1a: Bastiodon|flinch
+|
+|upkeep
+|turn|3
+|
+|t:|1776972034
+|move|p2a: Roaring Moon|Iron Head|p1a: Bastiodon
+|-damage|p1a: Bastiodon|106/252
+|cant|p1a: Bastiodon|flinch
+|
+|upkeep
+|turn|4
+|
+|t:|1776972048
+|move|p2a: Roaring Moon|Iron Head|p1a: Bastiodon
+|-damage|p1a: Bastiodon|56/252
+|cant|p1a: Bastiodon|flinch
+|
+|upkeep
+|turn|5
+|c|☆CosmicChai|ok damn
+|
+|t:|1776972064
+|move|p2a: Roaring Moon|Iron Head|p1a: Bastiodon
+|-damage|p1a: Bastiodon|13/252
+|move|p1a: Bastiodon|Body Press|p2a: Roaring Moon
+|-supereffective|p2a: Roaring Moon
+|-damage|p2a: Roaring Moon|0 fnt
+|faint|p2a: Roaring Moon
+|-end|p2a: Roaring Moon|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1776972078
+|switch|p2a: Okidogi|Okidogi, L77, M|262/262
+|turn|6
+|l|☆danerjin
+|player|p1|
+|j|☆danerjin
+|player|p1|danerjin|265|
+|
+|t:|1776972160
+|move|p2a: Okidogi|Drain Punch|p1a: Bastiodon
+|-supereffective|p1a: Bastiodon
+|-damage|p1a: Bastiodon|0 fnt
+|faint|p1a: Bastiodon
+|
+|upkeep
+|
+|t:|1776972167
+|switch|p1a: Shaymin|Shaymin, L82|298/298
+|turn|7
+|
+|t:|1776972180
+|move|p1a: Shaymin|Air Slash|p2a: Okidogi
+|-supereffective|p2a: Okidogi
+|-damage|p2a: Okidogi|186/262
+|cant|p2a: Okidogi|flinch
+|
+|upkeep
+|turn|8
+|
+|t:|1776972193
+|move|p1a: Shaymin|Air Slash|p2a: Okidogi
+|-supereffective|p2a: Okidogi
+|-damage|p2a: Okidogi|112/262
+|cant|p2a: Okidogi|flinch
+|
+|upkeep
+|turn|9
+|
+|t:|1776972208
+|move|p1a: Shaymin|Air Slash|p2a: Okidogi
+|-supereffective|p2a: Okidogi
+|-damage|p2a: Okidogi|40/262
+|move|p2a: Okidogi|Gunk Shot|p1a: Shaymin
+|-supereffective|p1a: Shaymin
+|-damage|p1a: Shaymin|64/298
+|-status|p1a: Shaymin|psn
+|
+|-heal|p1a: Shaymin|82/298 psn|[from] item: Leftovers
+|-damage|p1a: Shaymin|45/298 psn|[from] psn
+|upkeep
+|turn|10
+|c|☆danerjin|son I'm crine
+|
+|t:|1776972224
+|move|p1a: Shaymin|Earth Power|p2a: Okidogi
+|-supereffective|p2a: Okidogi
+|-damage|p2a: Okidogi|0 fnt
+|faint|p2a: Okidogi
+|
+|-heal|p1a: Shaymin|63/298 psn|[from] item: Leftovers
+|-damage|p1a: Shaymin|26/298 psn|[from] psn
+|upkeep
+|c|☆CosmicChai|i flinched physically too
+|
+|t:|1776972259
+|switch|p2a: Vivillon|Vivillon-Sun, L83, M|268/268
+|turn|11
+|
+|t:|1776972274
+|move|p1a: Shaymin|Air Slash|p2a: Vivillon
+|-supereffective|p2a: Vivillon
+|-damage|p2a: Vivillon|114/268
+|cant|p2a: Vivillon|flinch
+|
+|-heal|p1a: Shaymin|44/298 psn|[from] item: Leftovers
+|-damage|p1a: Shaymin|7/298 psn|[from] psn
+|upkeep
+|turn|12
+|c|☆danerjin|lo
+|
+|t:|1776972299
+|switch|p2a: Krookodile|Krookodile, L79, F|280/280
+|-ability|p2a: Krookodile|Intimidate|boost
+|-unboost|p1a: Shaymin|atk|1
+|move|p1a: Shaymin|Air Slash|p2a: Krookodile
+|-damage|p2a: Krookodile|219/280
+|
+|-heal|p1a: Shaymin|25/298 psn|[from] item: Leftovers
+|-heal|p2a: Krookodile|236/280|[from] item: Leftovers
+|-damage|p1a: Shaymin|0 fnt|[from] psn
+|faint|p1a: Shaymin
+|upkeep
+|
+|t:|1776972309
+|switch|p1a: Ogerpon|Ogerpon-Cornerstone, L76, F|247/247
+|turn|13
+|
+|t:|1776972322
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|2
+|move|p2a: Krookodile|Bulk Up|p2a: Krookodile
+|-boost|p2a: Krookodile|atk|1
+|-boost|p2a: Krookodile|def|1
+|
+|-heal|p2a: Krookodile|253/280|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1776972331
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|2
+|move|p2a: Krookodile|Gunk Shot|p1a: Ogerpon
+|-damage|p1a: Ogerpon|100/247
+|-status|p1a: Ogerpon|psn
+|
+|-heal|p2a: Krookodile|270/280|[from] item: Leftovers
+|-damage|p1a: Ogerpon|70/247 psn|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1776972351
+|move|p1a: Ogerpon|Horn Leech|p2a: Krookodile
+|-supereffective|p2a: Krookodile
+|-damage|p2a: Krookodile|0 fnt
+|-heal|p1a: Ogerpon|205/247 psn|[from] drain|[of] p2a: Krookodile
+|faint|p2a: Krookodile
+|
+|-damage|p1a: Ogerpon|175/247 psn|[from] psn
+|upkeep
+|
+|t:|1776972368
+|switch|p2a: Calyrex|Calyrex-Ice, L72|263/263
+|-ability|p2a: Calyrex|As One
+|-ability|p2a: Calyrex|Unnerve
+|turn|16
+|
+|t:|1776972403
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Calyrex|[anim] Ivy Cudgel Rock
+|-supereffective|p2a: Calyrex
+|-damage|p2a: Calyrex|0 fnt
+|faint|p2a: Calyrex
+|
+|-damage|p1a: Ogerpon|145/247 psn|[from] psn
+|upkeep
+|
+|t:|1776972415
+|switch|p2a: Vivillon|Vivillon-Sun, L83, M|114/268
+|turn|17
+|
+|t:|1776972425
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Vivillon|[anim] Ivy Cudgel Rock
+|-supereffective|p2a: Vivillon
+|-damage|p2a: Vivillon|0 fnt
+|faint|p2a: Vivillon
+|
+|-damage|p1a: Ogerpon|115/247 psn|[from] psn
+|upkeep
+|
+|t:|1776972431
+|switch|p2a: Cramorant|Cramorant, L86, F|261/261
+|turn|18
+|
+|t:|1776972437
+|move|p1a: Ogerpon|Horn Leech|p2a: Cramorant
+|-crit|p2a: Cramorant
+|-damage|p2a: Cramorant|0 fnt
+|-heal|p1a: Ogerpon|246/247 psn|[from] drain|[of] p2a: Cramorant
+|faint|p2a: Cramorant
+|
+|win|danerjin
+|raw|danerjin's rating: 1212 &rarr; <strong>1237</strong><br />(+25 for winning)
+|raw|CosmicChai's rating: 1206 &rarr; <strong>1181</strong><br />(-25 for losing)
+|c|☆danerjin|gg
+|c|☆CosmicChai|gg
+|l|☆CosmicChai
+|player|p2|

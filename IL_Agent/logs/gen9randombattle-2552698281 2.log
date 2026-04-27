@@ -1,0 +1,275 @@
+|j|☆marcoslxz
+|j|☆gandito
+|t:|1772744553
+|gametype|singles
+|player|p1|marcoslxz|102|
+|player|p2|gandito|266|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772744553
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Koraidon|Koraidon, L64|235/235
+|switch|p2a: Iron Treads|Iron Treads, L77|265/265
+|-weather|SunnyDay|[from] ability: Orichalcum Pulse|[of] p1a: Koraidon
+|-activate|p1a: Koraidon|Orichalcum Pulse|[source]
+|turn|1
+|
+|t:|1772744576
+|move|p1a: Koraidon|Swords Dance|p1a: Koraidon
+|-boost|p1a: Koraidon|atk|2
+|move|p2a: Iron Treads|Iron Head|p1a: Koraidon
+|-damage|p1a: Koraidon|150/235
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1772744608
+|move|p1a: Koraidon|Collision Course|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-crit|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1772744617
+|switch|p2a: Morpeko|Morpeko, L88, F|245/245
+|turn|3
+|
+|t:|1772744634
+|move|p2a: Morpeko|Aura Wheel|p1a: Koraidon
+|-resisted|p1a: Koraidon
+|-damage|p1a: Koraidon|86/235
+|-boost|p2a: Morpeko|spe|1
+|move|p1a: Koraidon|Collision Course|p2a: Morpeko
+|-supereffective|p2a: Morpeko
+|-damage|p2a: Morpeko|0 fnt
+|faint|p2a: Morpeko
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1772744643
+|switch|p2a: Scream Tail|Scream Tail, L84|330/330
+|-activate|p2a: Scream Tail|ability: Protosynthesis
+|-start|p2a: Scream Tail|protosynthesisspd
+|turn|4
+|
+|t:|1772744657
+|move|p2a: Scream Tail|Play Rough|p1a: Koraidon
+|-supereffective|p1a: Koraidon
+|-damage|p1a: Koraidon|0 fnt
+|faint|p1a: Koraidon
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1772744672
+|switch|p1a: Trevenant|Trevenant, L89, M|296/296
+|turn|5
+|
+|t:|1772744688
+|move|p2a: Scream Tail|Protect|p2a: Scream Tail
+|-singleturn|p2a: Scream Tail|Protect
+|move|p1a: Trevenant|Poltergeist|p2a: Scream Tail
+|-activate|p2a: Scream Tail|move: Protect
+|
+|-weather|none
+|-end|p2a: Scream Tail|Protosynthesis
+|upkeep
+|turn|6
+|
+|t:|1772744697
+|move|p2a: Scream Tail|Protect||[still]
+|-fail|p2a: Scream Tail
+|move|p1a: Trevenant|Poltergeist|p2a: Scream Tail
+|-activate|p2a: Scream Tail|move: Poltergeist|Leftovers
+|-supereffective|p2a: Scream Tail
+|-crit|p2a: Scream Tail
+|-damage|p2a: Scream Tail|0 fnt
+|faint|p2a: Scream Tail
+|-end|p2a: Scream Tail|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1772744705
+|switch|p2a: Zacian|Zacian, L69|241/241
+|-ability|p2a: Zacian|Intrepid Sword|boost
+|-boost|p2a: Zacian|atk|1
+|turn|7
+|
+|t:|1772744745
+|move|p2a: Zacian|Close Combat|p1a: Trevenant
+|-immune|p1a: Trevenant
+|move|p1a: Trevenant|Toxic|p2a: Zacian|[miss]
+|-miss|p1a: Trevenant|p2a: Zacian
+|
+|upkeep
+|turn|8
+|
+|t:|1772744753
+|switch|p2a: Regieleki|Regieleki, L79|256/256
+|move|p1a: Trevenant|Toxic|p2a: Regieleki|[miss]
+|-miss|p1a: Trevenant|p2a: Regieleki
+|
+|upkeep
+|turn|9
+|
+|t:|1772744781
+|move|p2a: Regieleki|Tera Blast|p1a: Trevenant
+|-immune|p1a: Trevenant
+|move|p1a: Trevenant|Toxic|p2a: Regieleki
+|-status|p2a: Regieleki|tox
+|
+|-damage|p2a: Regieleki|240/256 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1772744795
+|switch|p2a: Misdreavus|Misdreavus, L90, F|254/254
+|move|p1a: Trevenant|Protect||[still]
+|-fail|p1a: Trevenant
+|
+|upkeep
+|turn|11
+|
+|t:|1772744815
+|move|p2a: Misdreavus|Calm Mind|p2a: Misdreavus
+|-boost|p2a: Misdreavus|spa|1
+|-boost|p2a: Misdreavus|spd|1
+|move|p1a: Trevenant|Poltergeist|p2a: Misdreavus
+|-activate|p2a: Misdreavus|move: Poltergeist|Eviolite
+|-supereffective|p2a: Misdreavus
+|-damage|p2a: Misdreavus|20/254
+|
+|upkeep
+|turn|12
+|
+|t:|1772744826
+|move|p1a: Trevenant|Protect|p1a: Trevenant
+|-singleturn|p1a: Trevenant|Protect
+|move|p2a: Misdreavus|Shadow Ball|p1a: Trevenant
+|-activate|p1a: Trevenant|move: Protect
+|
+|upkeep
+|turn|13
+|
+|t:|1772744839
+|move|p2a: Misdreavus|Shadow Ball|p1a: Trevenant
+|-supereffective|p1a: Trevenant
+|-damage|p1a: Trevenant|12/296
+|-unboost|p1a: Trevenant|spd|1
+|-enditem|p1a: Trevenant|Sitrus Berry|[eat]
+|-heal|p1a: Trevenant|86/296|[from] item: Sitrus Berry
+|move|p1a: Trevenant|Poltergeist|p2a: Misdreavus
+|-activate|p2a: Misdreavus|move: Poltergeist|Eviolite
+|-supereffective|p2a: Misdreavus
+|-damage|p2a: Misdreavus|0 fnt
+|faint|p2a: Misdreavus
+|
+|-item|p1a: Trevenant|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|-enditem|p1a: Trevenant|Sitrus Berry|[eat]
+|-heal|p1a: Trevenant|160/296|[from] item: Sitrus Berry
+|
+|t:|1772744853
+|switch|p2a: Zacian|Zacian, L69|241/241
+|turn|14
+|
+|t:|1772744865
+|move|p2a: Zacian|Close Combat|p1a: Trevenant
+|-immune|p1a: Trevenant
+|move|p1a: Trevenant|Toxic|p2a: Zacian
+|-status|p2a: Zacian|tox
+|
+|-damage|p2a: Zacian|226/241 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1772744889
+|switch|p2a: Regieleki|Regieleki, L79|240/256 tox
+|move|p1a: Trevenant|Poltergeist|p2a: Regieleki
+|-activate|p2a: Regieleki|move: Poltergeist|Magnet
+|-damage|p2a: Regieleki|30/256 tox
+|
+|-damage|p2a: Regieleki|14/256 tox|[from] psn
+|-item|p1a: Trevenant|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|turn|16
+|
+|t:|1772744900
+|switch|p2a: Zacian|Zacian, L69|226/241 tox
+|move|p1a: Trevenant|Protect||[still]
+|-fail|p1a: Trevenant
+|
+|-damage|p2a: Zacian|211/241 tox|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1772744918
+|move|p2a: Zacian|Wild Charge|p1a: Trevenant
+|-resisted|p1a: Trevenant
+|-damage|p1a: Trevenant|120/296
+|-enditem|p1a: Trevenant|Sitrus Berry|[eat]
+|-heal|p1a: Trevenant|194/296|[from] item: Sitrus Berry
+|-damage|p2a: Zacian|201/241 tox|[from] Recoil
+|move|p1a: Trevenant|Drain Punch|p2a: Zacian
+|-resisted|p2a: Zacian
+|-damage|p2a: Zacian|168/241 tox
+|-heal|p1a: Trevenant|211/296|[from] drain|[of] p2a: Zacian
+|
+|-damage|p2a: Zacian|138/241 tox|[from] psn
+|-item|p1a: Trevenant|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|turn|18
+|
+|t:|1772744932
+|move|p1a: Trevenant|Protect|p1a: Trevenant
+|-singleturn|p1a: Trevenant|Protect
+|move|p2a: Zacian|Wild Charge|p1a: Trevenant
+|-activate|p1a: Trevenant|move: Protect
+|
+|-damage|p2a: Zacian|93/241 tox|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1772744940
+|move|p2a: Zacian|Wild Charge|p1a: Trevenant
+|-resisted|p1a: Trevenant
+|-damage|p1a: Trevenant|172/296
+|-damage|p2a: Zacian|83/241 tox|[from] Recoil
+|move|p1a: Trevenant|Drain Punch|p2a: Zacian
+|-resisted|p2a: Zacian
+|-damage|p2a: Zacian|50/241 tox
+|-heal|p1a: Trevenant|189/296|[from] drain|[of] p2a: Zacian
+|
+|-damage|p2a: Zacian|0 fnt|[from] psn
+|faint|p2a: Zacian
+|upkeep
+|
+|t:|1772744946
+|switch|p2a: Regieleki|Regieleki, L79|14/256 tox
+|turn|20
+|
+|t:|1772744954
+|move|p1a: Trevenant|Protect|p1a: Trevenant
+|-singleturn|p1a: Trevenant|Protect
+|move|p2a: Regieleki|Tera Blast|p1a: Trevenant
+|-activate|p1a: Trevenant|move: Protect
+|
+|-damage|p2a: Regieleki|0 fnt|[from] psn
+|faint|p2a: Regieleki
+|
+|win|marcoslxz
+|l|☆gandito
+|player|p2|

@@ -1,0 +1,294 @@
+|j|☆iforgetwhyimhere
+|j|☆FidyFurTermites
+|t:|1776979312
+|gametype|singles
+|player|p1|iforgetwhyimhere|allister-unmasked|1487
+|player|p2|FidyFurTermites|wallace|1480
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776979312
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Weavile|Weavile, L79, M|240/240
+|switch|p2a: Raichu|Raichu-Alola, L87, M|246/246
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by iforgetwhyimhere)
+|
+|t:|1776979323
+|switch|p2a: Ting-Lu|Ting-Lu, L78|370/370
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Weavile|Knock Off|p2a: Ting-Lu
+|-resisted|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|322/370
+|-enditem|p2a: Ting-Lu|Leftovers|[from] move: Knock Off|[of] p1a: Weavile
+|
+|upkeep
+|turn|2
+|
+|t:|1776979329
+|move|p1a: Weavile|Triple Axel|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|284/370
+|-hitcount|p2a: Ting-Lu|1
+|move|p2a: Ting-Lu|Stealth Rock|p1a: Weavile
+|-sidestart|p1: iforgetwhyimhere|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1776979340
+|switch|p2a: Talonflame|Talonflame, L83, F|265/265
+|move|p1a: Weavile|Triple Axel|p2a: Talonflame|[miss]
+|-miss|p1a: Weavile|p2a: Talonflame
+|
+|upkeep
+|turn|4
+|
+|t:|1776979354
+|switch|p1a: Pecharunt|Pecharunt, L77|262/262
+|-damage|p1a: Pecharunt|230/262|[from] Stealth Rock
+|move|p2a: Talonflame|Overheat|p1a: Pecharunt
+|-damage|p1a: Pecharunt|110/262
+|-unboost|p2a: Talonflame|spa|2
+|
+|-heal|p1a: Pecharunt|126/262|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776979365
+|switch|p2a: Ting-Lu|Ting-Lu, L78|284/370
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Pecharunt|Recover|p1a: Pecharunt
+|-heal|p1a: Pecharunt|257/262
+|
+|-heal|p1a: Pecharunt|262/262|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776979382
+|switch|p1a: Sneasler|Sneasler, L74, F|240/240
+|-damage|p1a: Sneasler|225/240|[from] Stealth Rock
+|move|p2a: Ting-Lu|Ruination|p1a: Sneasler
+|-damage|p1a: Sneasler|113/240
+|
+|upkeep
+|turn|7
+|
+|t:|1776979395
+|switch|p2a: Talonflame|Talonflame, L83, F|265/265
+|move|p1a: Sneasler|Close Combat|p2a: Talonflame
+|-resisted|p2a: Talonflame
+|-damage|p2a: Talonflame|155/265
+|-unboost|p1a: Sneasler|def|1
+|-unboost|p1a: Sneasler|spd|1
+|
+|upkeep
+|turn|8
+|
+|t:|1776979406
+|switch|p1a: Golurk|Golurk, L87|297/297
+|-damage|p1a: Golurk|279/297|[from] Stealth Rock
+|move|p2a: Talonflame|Overheat|p1a: Golurk
+|-damage|p1a: Golurk|168/297
+|-unboost|p2a: Talonflame|spa|2
+|
+|upkeep
+|turn|9
+|
+|t:|1776979418
+|switch|p2a: Ting-Lu|Ting-Lu, L78|284/370
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Golurk|Stealth Rock|p2a: Ting-Lu
+|-sidestart|p2: FidyFurTermites|move: Stealth Rock
+|
+|upkeep
+|turn|10
+|
+|t:|1776979433
+|move|p1a: Golurk|Earthquake|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|136/370
+|-damage|p1a: Golurk|139/297|[from] item: Life Orb
+|move|p2a: Ting-Lu|Earthquake|p1a: Golurk
+|-damage|p1a: Golurk|27/297
+|
+|upkeep
+|turn|11
+|
+|t:|1776979441
+|switch|p2a: Talonflame|Talonflame, L83, F|155/265
+|move|p1a: Golurk|Stone Edge|p2a: Talonflame
+|-supereffective|p2a: Talonflame
+|-damage|p2a: Talonflame|0 fnt
+|faint|p2a: Talonflame
+|-damage|p1a: Golurk|0 fnt|[from] item: Life Orb
+|faint|p1a: Golurk
+|
+|upkeep
+|
+|t:|1776979456
+|switch|p2a: Raichu|Raichu-Alola, L87, M|246/246
+|switch|p1a: Weavile|Weavile, L79, M|240/240
+|-damage|p2a: Raichu|216/246|[from] Stealth Rock
+|turn|12
+|
+|t:|1776979463
+|-terastallize|p2a: Raichu|Fairy
+|move|p1a: Weavile|Knock Off|p2a: Raichu
+|-resisted|p2a: Raichu
+|-damage|p2a: Raichu|137/246
+|-enditem|p2a: Raichu|Choice Specs|[from] move: Knock Off|[of] p1a: Weavile
+|move|p2a: Raichu|Alluring Voice|p1a: Weavile
+|-supereffective|p1a: Weavile
+|-damage|p1a: Weavile|30/240
+|
+|upkeep
+|turn|13
+|
+|t:|1776979473
+|move|p1a: Weavile|Triple Axel|p2a: Raichu|[miss]
+|-miss|p1a: Weavile|p2a: Raichu
+|move|p2a: Raichu|Thunderbolt|p1a: Weavile
+|-damage|p1a: Weavile|0 fnt
+|faint|p1a: Weavile
+|
+|upkeep
+|c|☆iforgetwhyimhere|Blind fuck
+|
+|t:|1776979497
+|switch|p1a: Tauros|Tauros, L82, M|257/257
+|-damage|p1a: Tauros|225/257|[from] Stealth Rock
+|turn|14
+|
+|t:|1776979510
+|switch|p2a: Amoonguss|Amoonguss, L82, M|321/321
+|-damage|p2a: Amoonguss|281/321|[from] Stealth Rock
+|move|p1a: Tauros|Body Slam|p2a: Amoonguss
+|-damage|p2a: Amoonguss|89/321
+|-damage|p1a: Tauros|183/257|[from] item: Rocky Helmet|[of] p2a: Amoonguss
+|
+|upkeep
+|turn|15
+|
+|t:|1776979520
+|move|p1a: Tauros|Body Slam|p2a: Amoonguss
+|-damage|p2a: Amoonguss|0 fnt
+|-damage|p1a: Tauros|141/257|[from] item: Rocky Helmet|[of] p2a: Amoonguss
+|faint|p2a: Amoonguss
+|
+|upkeep
+|
+|t:|1776979526
+|switch|p2a: Barraskewda|Barraskewda, L81, F|231/231
+|-damage|p2a: Barraskewda|203/231|[from] Stealth Rock
+|turn|16
+|
+|t:|1776979534
+|switch|p1a: Sneasler|Sneasler, L74, F|113/240
+|-damage|p1a: Sneasler|98/240|[from] Stealth Rock
+|move|p2a: Barraskewda|Close Combat|p1a: Sneasler
+|-resisted|p1a: Sneasler
+|-damage|p1a: Sneasler|0 fnt
+|-unboost|p2a: Barraskewda|def|1
+|-unboost|p2a: Barraskewda|spd|1
+|faint|p1a: Sneasler
+|
+|upkeep
+|
+|t:|1776979543
+|switch|p1a: Hawlucha|Hawlucha, L80, M|256/256
+|-damage|p1a: Hawlucha|224/256|[from] Stealth Rock
+|turn|17
+|
+|t:|1776979553
+|switch|p2a: Ting-Lu|Ting-Lu, L78|136/370
+|-damage|p2a: Ting-Lu|113/370|[from] Stealth Rock
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Hawlucha|Close Combat|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|0 fnt
+|-unboost|p1a: Hawlucha|def|1
+|-unboost|p1a: Hawlucha|spd|1
+|faint|p2a: Ting-Lu
+|-enditem|p1a: Hawlucha|White Herb
+|-clearnegativeboost|p1a: Hawlucha|[silent]
+|
+|upkeep
+|
+|t:|1776979565
+|switch|p2a: Raichu|Raichu-Alola, L87, M, tera:Fairy|137/246
+|-damage|p2a: Raichu|107/246|[from] Stealth Rock
+|turn|18
+|
+|t:|1776979571
+|move|p1a: Hawlucha|Brave Bird|p2a: Raichu
+|-damage|p2a: Raichu|0 fnt
+|faint|p2a: Raichu
+|-damage|p1a: Hawlucha|189/256|[from] Recoil
+|
+|upkeep
+|
+|t:|1776979586
+|switch|p2a: Barraskewda|Barraskewda, L81, F|203/231
+|-damage|p2a: Barraskewda|175/231|[from] Stealth Rock
+|turn|19
+|
+|t:|1776979592
+|move|p1a: Hawlucha|Close Combat|p2a: Barraskewda
+|-damage|p2a: Barraskewda|13/231
+|-unboost|p1a: Hawlucha|def|1
+|-unboost|p1a: Hawlucha|spd|1
+|move|p2a: Barraskewda|Waterfall|p1a: Hawlucha
+|-damage|p1a: Hawlucha|0 fnt
+|faint|p1a: Hawlucha
+|
+|upkeep
+|
+|t:|1776979606
+|switch|p1a: Pecharunt|Pecharunt, L77|262/262
+|-damage|p1a: Pecharunt|230/262|[from] Stealth Rock
+|turn|20
+|
+|t:|1776979612
+|move|p2a: Barraskewda|Waterfall|p1a: Pecharunt
+|-damage|p1a: Pecharunt|133/262
+|move|p1a: Pecharunt|Malignant Chain|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|faint|p2a: Barraskewda
+|
+|-heal|p1a: Pecharunt|149/262|[from] item: Leftovers
+|upkeep
+|
+|t:|1776979618
+|switch|p2a: Deoxys|Deoxys-Speed, L82|216/216
+|-damage|p2a: Deoxys|189/216|[from] Stealth Rock
+|-ability|p2a: Deoxys|Pressure
+|turn|21
+|
+|t:|1776979625
+|-terastallize|p1a: Pecharunt|Dark
+|move|p2a: Deoxys|Psycho Boost|p1a: Pecharunt
+|-immune|p1a: Pecharunt
+|move|p1a: Pecharunt|Shadow Ball|p2a: Deoxys
+|-supereffective|p2a: Deoxys
+|-damage|p2a: Deoxys|63/216
+|
+|-heal|p1a: Pecharunt|165/262|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1776979632
+|move|p2a: Deoxys|Focus Blast|p1a: Pecharunt|[miss]
+|-miss|p2a: Deoxys|p1a: Pecharunt
+|move|p1a: Pecharunt|Shadow Ball|p2a: Deoxys
+|-supereffective|p2a: Deoxys
+|-damage|p2a: Deoxys|0 fnt
+|faint|p2a: Deoxys
+|
+|win|iforgetwhyimhere

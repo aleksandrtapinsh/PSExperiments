@@ -1,0 +1,271 @@
+|j|☆dratatax
+|j|☆aci2nn
+|t:|1776977865
+|gametype|singles
+|player|p1|dratatax|twins-gen4dp|1878
+|player|p2|aci2nn|266|1849
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776977865
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Hitmontop|Hitmontop, L88, M|231/231
+|switch|p2a: Chimecho|Chimecho, L93, F|290/290
+|-ability|p1a: Hitmontop|Intimidate|boost
+|-unboost|p2a: Chimecho|atk|1
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by aci2nn)
+|
+|t:|1776977881
+|switch|p1a: Persian|Persian-Alola, L86, M|252/252
+|move|p2a: Chimecho|Psychic Noise|p1a: Persian
+|-immune|p1a: Persian
+|
+|upkeep
+|turn|2
+|
+|t:|1776977887
+|switch|p2a: Copperajah|Copperajah, L86, M|350/350
+|move|p1a: Persian|Nasty Plot|p1a: Persian
+|-boost|p1a: Persian|spa|2
+|
+|upkeep
+|turn|3
+|
+|t:|1776977914
+|-terastallize|p2a: Copperajah|Fairy
+|move|p1a: Persian|Dark Pulse|p2a: Copperajah
+|-resisted|p2a: Copperajah
+|-damage|p2a: Copperajah|229/350
+|-damage|p1a: Persian|227/252|[from] item: Life Orb
+|move|p2a: Copperajah|Play Rough|p1a: Persian
+|-supereffective|p1a: Persian
+|-damage|p1a: Persian|0 fnt
+|faint|p1a: Persian
+|
+|upkeep
+|inactive|dratatax has 120 seconds left.
+|
+|t:|1776977937
+|switch|p1a: Magcargo|Magcargo, L95, F|268/268
+|turn|4
+|
+|t:|1776977942
+|move|p1a: Magcargo|Shell Smash|p1a: Magcargo
+|-unboost|p1a: Magcargo|def|1
+|-unboost|p1a: Magcargo|spd|1
+|-boost|p1a: Magcargo|atk|2
+|-boost|p1a: Magcargo|spa|2
+|-boost|p1a: Magcargo|spe|2
+|move|p2a: Copperajah|Earthquake|p1a: Magcargo
+|-supereffective|p1a: Magcargo
+|-damage|p1a: Magcargo|0 fnt
+|faint|p1a: Magcargo
+|-damage|p2a: Copperajah|194/350|[from] item: Life Orb
+|
+|upkeep
+|inactive|dratatax has 120 seconds left.
+|
+|t:|1776977955
+|switch|p1a: Flamigo|Flamigo, L82, F|269/269
+|turn|5
+|
+|t:|1776977960
+|move|p1a: Flamigo|Brave Bird|p2a: Copperajah
+|-damage|p2a: Copperajah|0 fnt
+|faint|p2a: Copperajah
+|-damage|p1a: Flamigo|205/269|[from] Recoil
+|-damage|p1a: Flamigo|179/269|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776977974
+|switch|p2a: Chimecho|Chimecho, L93, F|290/290
+|turn|6
+|
+|t:|1776977981
+|switch|p1a: Jumpluff|Jumpluff, L87, M|271/271
+|move|p2a: Chimecho|Psychic Noise|p1a: Jumpluff
+|-crit|p1a: Jumpluff
+|-damage|p1a: Jumpluff|136/271
+|-start|p1a: Jumpluff|move: Heal Block
+|
+|upkeep
+|turn|7
+|
+|t:|1776977985
+|move|p1a: Jumpluff|Sleep Powder|p2a: Chimecho|[miss]
+|-miss|p1a: Jumpluff|p2a: Chimecho
+|move|p2a: Chimecho|Psychic Noise|p1a: Jumpluff
+|-crit|p1a: Jumpluff
+|-damage|p1a: Jumpluff|3/271
+|
+|-end|p1a: Jumpluff|move: Heal Block
+|upkeep
+|turn|8
+|
+|t:|1776977989
+|switch|p2a: Hypno|Hypno, L95, F|315/315
+|move|p1a: Jumpluff|Sleep Powder|p2a: Hypno
+|-immune|p2a: Hypno|[from] ability: Insomnia
+|
+|upkeep
+|turn|9
+|
+|t:|1776977997
+|move|p1a: Jumpluff|Strength Sap|p2a: Hypno
+|-unboost|p2a: Hypno|atk|1
+|-heal|p1a: Jumpluff|196/271
+|move|p2a: Hypno|Psychic Noise|p1a: Jumpluff
+|-damage|p1a: Jumpluff|120/271
+|-start|p1a: Jumpluff|move: Heal Block
+|
+|upkeep
+|turn|10
+|
+|t:|1776978003
+|move|p1a: Jumpluff|U-turn|p2a: Hypno
+|-supereffective|p2a: Hypno
+|-damage|p2a: Hypno|239/315
+|
+|t:|1776978007
+|switch|p1a: Manaphy|Manaphy, L78|284/284|[from] U-turn
+|move|p2a: Hypno|Psychic Noise|p1a: Manaphy
+|-damage|p1a: Manaphy|200/284
+|-start|p1a: Manaphy|move: Heal Block
+|
+|-heal|p2a: Hypno|258/315|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776978013
+|move|p1a: Manaphy|Ice Beam|p2a: Hypno
+|-damage|p2a: Hypno|218/315
+|move|p2a: Hypno|Thunder Wave|p1a: Manaphy
+|-status|p1a: Manaphy|par
+|
+|-heal|p2a: Hypno|237/315|[from] item: Leftovers
+|-end|p1a: Manaphy|move: Heal Block
+|upkeep
+|turn|12
+|
+|t:|1776978017
+|switch|p2a: Volcanion|Volcanion, L79|255/255
+|move|p1a: Manaphy|Ice Beam|p2a: Volcanion
+|-resisted|p2a: Volcanion
+|-crit|p2a: Volcanion
+|-damage|p2a: Volcanion|234/255
+|
+|-heal|p1a: Manaphy|217/284 par|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776978027
+|move|p2a: Volcanion|Flamethrower|p1a: Manaphy
+|-resisted|p1a: Manaphy
+|-damage|p1a: Manaphy|137/284 par
+|move|p1a: Manaphy|Energy Ball|p2a: Volcanion
+|-damage|p2a: Volcanion|174/255
+|
+|-heal|p1a: Manaphy|154/284 par|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1776978034
+|switch|p1a: Jumpluff|Jumpluff, L87, M|120/271
+|move|p2a: Volcanion|Flamethrower|p1a: Jumpluff
+|-supereffective|p1a: Jumpluff
+|-damage|p1a: Jumpluff|0 fnt
+|faint|p1a: Jumpluff
+|
+|upkeep
+|
+|t:|1776978044
+|switch|p1a: Hitmontop|Hitmontop, L88, M|231/231
+|-ability|p1a: Hitmontop|Intimidate|boost
+|-unboost|p2a: Volcanion|atk|1
+|turn|15
+|
+|t:|1776978049
+|move|p1a: Hitmontop|Stone Edge|p2a: Volcanion|[miss]
+|-miss|p1a: Hitmontop|p2a: Volcanion
+|move|p2a: Volcanion|Flamethrower|p1a: Hitmontop
+|-damage|p1a: Hitmontop|147/231
+|
+|upkeep
+|turn|16
+|
+|t:|1776978052
+|move|p1a: Hitmontop|Stone Edge|p2a: Volcanion|[miss]
+|-miss|p1a: Hitmontop|p2a: Volcanion
+|move|p2a: Volcanion|Flamethrower|p1a: Hitmontop
+|-damage|p1a: Hitmontop|56/231
+|-status|p1a: Hitmontop|brn
+|
+|-damage|p1a: Hitmontop|42/231 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1776978055
+|move|p1a: Hitmontop|Stone Edge|p2a: Volcanion|[miss]
+|-miss|p1a: Hitmontop|p2a: Volcanion
+|move|p2a: Volcanion|Flamethrower|p1a: Hitmontop
+|-damage|p1a: Hitmontop|0 fnt
+|faint|p1a: Hitmontop
+|
+|upkeep
+|
+|t:|1776978059
+|switch|p1a: Flamigo|Flamigo, L82, F|179/269
+|turn|18
+|c|☆aci2nn|insane
+|c|☆dratatax|yeah
+|
+|t:|1776978076
+|move|p1a: Flamigo|Close Combat|p2a: Volcanion
+|-damage|p2a: Volcanion|22/255
+|-unboost|p1a: Flamigo|def|1
+|-unboost|p1a: Flamigo|spd|1
+|-damage|p1a: Flamigo|153/269|[from] item: Life Orb
+|move|p2a: Volcanion|Flamethrower|p1a: Flamigo
+|-damage|p1a: Flamigo|0 fnt
+|faint|p1a: Flamigo
+|
+|upkeep
+|
+|t:|1776978082
+|switch|p1a: Manaphy|Manaphy, L78|154/284 par
+|turn|19
+|
+|t:|1776978085
+|move|p2a: Volcanion|Flamethrower|p1a: Manaphy
+|-resisted|p1a: Manaphy
+|-damage|p1a: Manaphy|73/284 par
+|move|p1a: Manaphy|Energy Ball|p2a: Volcanion
+|-damage|p2a: Volcanion|0 fnt
+|faint|p2a: Volcanion
+|
+|-heal|p1a: Manaphy|90/284 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1776978087
+|switch|p2a: Chien-Pao|Chien-Pao, L72|234/234
+|-ability|p2a: Chien-Pao|Sword of Ruin
+|turn|20
+|
+|t:|1776978093
+|-terastallize|p1a: Manaphy|Water
+|move|p2a: Chien-Pao|Throat Chop|p1a: Manaphy
+|-damage|p1a: Manaphy|0 fnt
+|faint|p1a: Manaphy
+|
+|win|aci2nn
+|raw|dratatax's rating: 1878 &rarr; <strong>1856</strong><br />(-22 for losing)
+|raw|aci2nn's rating: 1849 &rarr; <strong>1871</strong><br />(+22 for winning)

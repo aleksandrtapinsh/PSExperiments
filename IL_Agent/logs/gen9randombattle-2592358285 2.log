@@ -1,0 +1,338 @@
+|j|☆JewPenguin
+|j|☆fightion
+|t:|1776981841
+|gametype|singles
+|player|p1|JewPenguin|266|1064
+|player|p2|fightion|morty|1085
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776981841
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kingdra|Kingdra, L84, F|219/219
+|switch|p2a: Hoopa|Hoopa, L85|275/275
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by JewPenguin)
+|
+|t:|1776981848
+|move|p1a: Kingdra|Poltergeist|p2a: Hoopa
+|-activate|p2a: Hoopa|move: Poltergeist|Life Orb
+|-supereffective|p2a: Hoopa
+|-damage|p2a: Hoopa|0 fnt
+|faint|p2a: Hoopa
+|-damage|p1a: Kingdra|198/219|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776981866
+|switch|p2a: Vileplume|Vileplume, L85, F|266/266
+|turn|2
+|
+|t:|1776981892
+|move|p1a: Kingdra|Poltergeist|p2a: Vileplume
+|-activate|p2a: Vileplume|move: Poltergeist|Leftovers
+|-damage|p2a: Vileplume|120/266
+|-damage|p1a: Kingdra|177/219|[from] item: Life Orb
+|move|p2a: Vileplume|Leech Seed|p1a: Kingdra
+|-start|p1a: Kingdra|move: Leech Seed
+|
+|-heal|p2a: Vileplume|136/266|[from] item: Leftovers
+|-damage|p1a: Kingdra|150/219|[from] Leech Seed|[of] p2a: Vileplume
+|-heal|p2a: Vileplume|163/266|[silent]
+|upkeep
+|turn|3
+|inactive|JewPenguin has 120 seconds left.
+|
+|t:|1776981917
+|switch|p1a: Magcargo|Magcargo, L95, M|268/268
+|move|p2a: Vileplume|Giga Drain|p1a: Magcargo
+|-damage|p1a: Magcargo|187/268
+|-heal|p2a: Vileplume|204/266|[from] drain|[of] p1a: Magcargo
+|
+|-heal|p2a: Vileplume|220/266|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776981926
+|switch|p2a: Lumineon|Lumineon, L93, F|279/279
+|move|p1a: Magcargo|Fire Blast|p2a: Lumineon
+|-resisted|p2a: Lumineon
+|-damage|p2a: Lumineon|213/279
+|
+|upkeep
+|turn|5
+|inactive|JewPenguin has 120 seconds left.
+|
+|t:|1776981961
+|switch|p1a: Kingdra|Kingdra, L84, F|263/263
+|move|p2a: Lumineon|Hydro Pump|p1a: Kingdra
+|-resisted|p1a: Kingdra
+|-damage|p1a: Kingdra|231/263
+|-damage|p2a: Lumineon|186/279|[from] item: Life Orb
+|
+|upkeep
+|turn|6
+|inactive|JewPenguin has 90 seconds left.
+|
+|t:|1776981985
+|switch|p2a: Cryogonal|Cryogonal, L89|287/287
+|move|p1a: Kingdra|Draco Meteor|p2a: Cryogonal
+|-damage|p2a: Cryogonal|173/287
+|-unboost|p1a: Kingdra|spa|2
+|-damage|p1a: Kingdra|205/263|[from] item: Life Orb
+|
+|upkeep
+|turn|7
+|inactive|JewPenguin has 90 seconds left.
+|
+|t:|1776981996
+|switch|p2a: Vileplume|Vileplume, L85, F|220/266
+|switch|p1a: Magcargo|Magcargo, L95, M|187/268
+|
+|-heal|p2a: Vileplume|236/266|[from] item: Leftovers
+|upkeep
+|turn|8
+|inactive|JewPenguin has 90 seconds left.
+|
+|t:|1776982004
+|switch|p2a: Lumineon|Lumineon, L93, F|186/279
+|move|p1a: Magcargo|Earth Power|p2a: Lumineon
+|-damage|p2a: Lumineon|118/279
+|
+|upkeep
+|turn|9
+|
+|t:|1776982014
+|switch|p1a: Kingdra|Kingdra, L84, F|205/263
+|move|p2a: Lumineon|Alluring Voice|p1a: Kingdra
+|-supereffective|p1a: Kingdra
+|-damage|p1a: Kingdra|65/263
+|-damage|p2a: Lumineon|91/279|[from] item: Life Orb
+|
+|upkeep
+|turn|10
+|
+|t:|1776982025
+|switch|p2a: Vileplume|Vileplume, L85, F|236/266
+|move|p1a: Kingdra|Draco Meteor|p2a: Vileplume
+|-damage|p2a: Vileplume|59/266
+|-unboost|p1a: Kingdra|spa|2
+|-damage|p1a: Kingdra|39/263|[from] item: Life Orb
+|
+|-heal|p2a: Vileplume|75/266|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776982036
+|move|p1a: Kingdra|Draco Meteor|p2a: Vileplume
+|-damage|p2a: Vileplume|0 fnt
+|-unboost|p1a: Kingdra|spa|2
+|faint|p2a: Vileplume
+|-damage|p1a: Kingdra|13/263|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776982048
+|switch|p2a: Chimecho|Chimecho, L93, F|290/290
+|turn|12
+|
+|t:|1776982060
+|move|p1a: Kingdra|Wave Crash|p2a: Chimecho
+|-damage|p2a: Chimecho|141/290
+|-damage|p1a: Kingdra|0 fnt|[from] Recoil
+|faint|p1a: Kingdra
+|move|p2a: Chimecho|Cosmic Power|p2a: Chimecho
+|-boost|p2a: Chimecho|def|1
+|-boost|p2a: Chimecho|spd|1
+|
+|-heal|p2a: Chimecho|159/290|[from] item: Leftovers
+|upkeep
+|inactive|JewPenguin has 90 seconds left.
+|
+|t:|1776982097
+|switch|p1a: Magcargo|Magcargo, L95, M|150/219
+|turn|13
+|
+|t:|1776982101
+|move|p1a: Magcargo|Poltergeist|p2a: Chimecho
+|-activate|p2a: Chimecho|move: Poltergeist|Leftovers
+|-supereffective|p2a: Chimecho
+|-damage|p2a: Chimecho|0 fnt
+|faint|p2a: Chimecho
+|-damage|p1a: Magcargo|129/219|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776982108
+|switch|p2a: Lumineon|Lumineon, L93, F|91/279
+|turn|14
+|
+|t:|1776982116
+|move|p2a: Lumineon|Alluring Voice|p1a: Magcargo
+|-damage|p1a: Magcargo|33/219
+|replace|p1a: Zoroark|Zoroark-Hisui, L80, M
+|-end|p1a: Zoroark|Illusion
+|-hint|Illusion Level Mod is active, so this Pokémon's true level was hidden.
+|-damage|p2a: Lumineon|64/279|[from] item: Life Orb
+|move|p1a: Zoroark|Poltergeist|p2a: Lumineon
+|-activate|p2a: Lumineon|move: Poltergeist|Life Orb
+|-damage|p2a: Lumineon|0 fnt
+|faint|p2a: Lumineon
+|-damage|p1a: Zoroark|12/219|[from] item: Life Orb
+|
+|upkeep
+|c|☆fightion|Finally he showed up)
+|
+|t:|1776982139
+|switch|p2a: Cryogonal|Cryogonal, L89|173/287
+|turn|15
+|
+|t:|1776982144
+|move|p2a: Cryogonal|Ice Beam|p1a: Zoroark
+|-crit|p1a: Zoroark
+|-damage|p1a: Zoroark|0 fnt
+|faint|p1a: Zoroark
+|
+|upkeep
+|
+|t:|1776982150
+|switch|p1a: Magcargo|Magcargo, L95, M|187/268
+|turn|16
+|
+|t:|1776982156
+|-terastallize|p2a: Cryogonal|Electric
+|move|p2a: Cryogonal|Recover|p2a: Cryogonal
+|-heal|p2a: Cryogonal|287/287
+|move|p1a: Magcargo|Fire Blast|p2a: Cryogonal
+|-damage|p2a: Cryogonal|188/287
+|
+|upkeep
+|turn|17
+|
+|t:|1776982165
+|move|p2a: Cryogonal|Tera Blast|p1a: Magcargo|[anim] Tera Blast Electric
+|-damage|p1a: Magcargo|91/268
+|move|p1a: Magcargo|Earth Power|p2a: Cryogonal
+|-immune|p2a: Cryogonal|[from] ability: Levitate
+|
+|upkeep
+|turn|18
+|
+|t:|1776982172
+|move|p2a: Cryogonal|Tera Blast|p1a: Magcargo|[anim] Tera Blast Electric
+|-damage|p1a: Magcargo|3/268
+|move|p1a: Magcargo|Power Gem|p2a: Cryogonal
+|-damage|p2a: Cryogonal|122/287
+|
+|upkeep
+|turn|19
+|
+|t:|1776982179
+|move|p2a: Cryogonal|Recover|p2a: Cryogonal
+|-heal|p2a: Cryogonal|266/287
+|move|p1a: Magcargo|Fire Blast|p2a: Cryogonal
+|-damage|p2a: Cryogonal|170/287
+|
+|upkeep
+|turn|20
+|
+|t:|1776982184
+|move|p2a: Cryogonal|Tera Blast|p1a: Magcargo|[anim] Tera Blast Electric
+|-damage|p1a: Magcargo|0 fnt
+|faint|p1a: Magcargo
+|
+|upkeep
+|
+|t:|1776982196
+|switch|p1a: Furret|Furret, L94, M|312/312
+|-item|p2a: Cryogonal|Heavy-Duty Boots|[from] ability: Frisk|[of] p1a: Furret
+|turn|21
+|
+|t:|1776982202
+|switch|p2a: Sinistcha|Sinistcha-Masterpiece, L83|254/254
+|move|p1a: Furret|Double-Edge|p2a: Sinistcha
+|-immune|p2a: Sinistcha
+|
+|upkeep
+|turn|22
+|
+|t:|1776982211
+|switch|p1a: Iron Crown|Iron Crown, L78|268/268
+|move|p2a: Sinistcha|Calm Mind|p2a: Sinistcha
+|-boost|p2a: Sinistcha|spa|1
+|-boost|p2a: Sinistcha|spd|1
+|
+|upkeep
+|turn|23
+|
+|t:|1776982223
+|move|p1a: Iron Crown|Volt Switch|p2a: Sinistcha
+|-resisted|p2a: Sinistcha
+|-damage|p2a: Sinistcha|228/254
+|
+|t:|1776982236
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|switch|p1a: Pecharunt|Pecharunt, L77|262/262|[from] Volt Switch
+|move|p2a: Sinistcha|Strength Sap|p1a: Pecharunt
+|-unboost|p1a: Pecharunt|atk|1
+|-heal|p2a: Sinistcha|254/254
+|
+|upkeep
+|turn|24
+|
+|t:|1776982247
+|move|p1a: Pecharunt|Shadow Ball|p2a: Sinistcha
+|-supereffective|p2a: Sinistcha
+|-damage|p2a: Sinistcha|158/254
+|move|p2a: Sinistcha|Shadow Ball|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|0 fnt
+|faint|p1a: Pecharunt
+|
+|-heal|p2a: Sinistcha|173/254|[from] item: Leftovers
+|upkeep
+|
+|t:|1776982256
+|switch|p1a: Iron Crown|Iron Crown, L78|268/268
+|turn|25
+|
+|t:|1776982259
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Sinistcha
+|-damage|p2a: Sinistcha|109/254
+|-damage|p2a: Sinistcha|49/254
+|-hitcount|p2a: Sinistcha|2
+|move|p2a: Sinistcha|Strength Sap|p1a: Iron Crown
+|-unboost|p1a: Iron Crown|atk|1
+|-heal|p2a: Sinistcha|166/254
+|
+|-heal|p2a: Sinistcha|181/254|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1776982274
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Sinistcha
+|-damage|p2a: Sinistcha|124/254
+|-damage|p2a: Sinistcha|58/254
+|-hitcount|p2a: Sinistcha|2
+|move|p2a: Sinistcha|Shadow Ball|p1a: Iron Crown
+|-supereffective|p1a: Iron Crown
+|-damage|p1a: Iron Crown|0 fnt
+|faint|p1a: Iron Crown
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|
+|-heal|p2a: Sinistcha|73/254|[from] item: Leftovers
+|upkeep
+|-message|JewPenguin forfeited.
+|
+|win|fightion
+|raw|JewPenguin's rating: 1064 &rarr; <strong>1046</strong><br />(-18 for losing)
+|raw|fightion's rating: 1085 &rarr; <strong>1111</strong><br />(+26 for winning)
+|l|☆JewPenguin
+|player|p1|

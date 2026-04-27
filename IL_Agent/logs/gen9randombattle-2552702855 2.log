@@ -1,0 +1,156 @@
+|j|☆mghkfjcvhbjl
+|j|☆wind_blossom
+|t:|1772744977
+|gametype|singles
+|player|p1|mghkfjcvhbjl|101|1000
+|player|p2|wind_blossom|265|1045
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772744977
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Bellossom|Bellossom, L84, F|263/263
+|switch|p2a: Regidrago|Regidrago, L77|435/435
+|turn|1
+|
+|t:|1772744992
+|move|p2a: Regidrago|Outrage|p1a: Bellossom
+|-damage|p1a: Bellossom|103/263
+|move|p1a: Bellossom|Quiver Dance|p1a: Bellossom
+|-boost|p1a: Bellossom|spa|1
+|-boost|p1a: Bellossom|spd|1
+|-boost|p1a: Bellossom|spe|1
+|
+|-heal|p1a: Bellossom|119/263|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1772745000
+|move|p2a: Regidrago|Outrage|p1a: Bellossom|[from] lockedmove
+|-damage|p1a: Bellossom|0 fnt
+|faint|p1a: Bellossom
+|-start|p2a: Regidrago|confusion|[fatigue]
+|
+|upkeep
+|
+|t:|1772745006
+|switch|p1a: Delibird|Delibird, M|252/252
+|turn|3
+|
+|t:|1772745012
+|-activate|p2a: Regidrago|confusion
+|-damage|p2a: Regidrago|395/435|[from] confusion
+|move|p1a: Delibird|Spikes|p2a: Regidrago
+|-sidestart|p2: wind_blossom|Spikes
+|
+|upkeep
+|turn|4
+|
+|t:|1772745021
+|switch|p2a: Falinks|Falinks, L84|246/246
+|-damage|p2a: Falinks|216/246|[from] Spikes
+|move|p1a: Delibird|Ice Spinner|p2a: Falinks
+|-damage|p2a: Falinks|116/246
+|
+|upkeep
+|turn|5
+|
+|t:|1772745030
+|move|p1a: Delibird|Brave Bird|p2a: Falinks
+|-supereffective|p2a: Falinks
+|-damage|p2a: Falinks|0 fnt
+|faint|p2a: Falinks
+|-damage|p1a: Delibird|214/252|[from] Recoil
+|
+|upkeep
+|
+|t:|1772745046
+|switch|p2a: Delphox|Delphox, L84, M|263/263
+|turn|6
+|
+|t:|1772745052
+|move|p2a: Delphox|Fire Blast|p1a: Delibird
+|-supereffective|p1a: Delibird
+|-damage|p1a: Delibird|0 fnt
+|faint|p1a: Delibird
+|
+|upkeep
+|
+|t:|1772745057
+|switch|p1a: Honchkrow|Honchkrow, L86, F|312/312
+|turn|7
+|
+|t:|1772745062
+|move|p1a: Honchkrow|Sucker Punch||[still]
+|-fail|p1a: Honchkrow
+|move|p2a: Delphox|Nasty Plot|p2a: Delphox
+|-boost|p2a: Delphox|spa|2
+|
+|upkeep
+|turn|8
+|
+|t:|1772745072
+|move|p2a: Delphox|Fire Blast|p1a: Honchkrow
+|-damage|p1a: Honchkrow|0 fnt
+|faint|p1a: Honchkrow
+|
+|upkeep
+|
+|t:|1772745076
+|switch|p1a: Mightyena|Mightyena, L96, F|290/290
+|-ability|p1a: Mightyena|Intimidate|boost
+|-unboost|p2a: Delphox|atk|1
+|turn|9
+|
+|t:|1772745080
+|move|p2a: Delphox|Fire Blast|p1a: Mightyena
+|-damage|p1a: Mightyena|98/290
+|move|p1a: Mightyena|Crunch|p2a: Delphox
+|-supereffective|p2a: Delphox
+|-damage|p2a: Delphox|45/263
+|
+|upkeep
+|turn|10
+|
+|t:|1772745087
+|move|p2a: Delphox|Fire Blast|p1a: Mightyena
+|-damage|p1a: Mightyena|0 fnt
+|faint|p1a: Mightyena
+|
+|upkeep
+|
+|t:|1772745091
+|switch|p1a: Perrserker|Perrserker, L89, M|269/269
+|turn|11
+|c|☆wind_blossom|yoooooo
+|
+|t:|1772745100
+|move|p2a: Delphox|Fire Blast|p1a: Perrserker
+|-supereffective|p1a: Perrserker
+|-damage|p1a: Perrserker|0 fnt
+|faint|p1a: Perrserker
+|
+|upkeep
+|
+|t:|1772745102
+|switch|p1a: Duraludon|Duraludon, L82, M|249/249
+|turn|12
+|c|☆wind_blossom|gg
+|
+|t:|1772745111
+|move|p2a: Delphox|Fire Blast|p1a: Duraludon
+|-damage|p1a: Duraludon|0 fnt
+|faint|p1a: Duraludon
+|
+|win|wind_blossom
+|raw|mghkfjcvhbjl's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|raw|wind_blossom's rating: 1045 &rarr; <strong>1074</strong><br />(+29 for winning)
+|l|☆mghkfjcvhbjl
+|player|p1|

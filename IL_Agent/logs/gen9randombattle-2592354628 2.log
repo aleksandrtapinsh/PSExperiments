@@ -1,0 +1,552 @@
+|j|☆HexasAltarik
+|j|☆m0untaineer
+|t:|1776981509
+|gametype|singles
+|player|p1|HexasAltarik|parasollady|1849
+|player|p2|m0untaineer|266|1808
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776981509
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Manaphy|Manaphy, L78|284/284
+|switch|p2a: Espeon|Espeon, L84, M|246/246
+|turn|1
+|
+|t:|1776981541
+|switch|p2a: Iron Bundle|Iron Bundle, L78|215/215
+|switch|p1a: Slowking|Slowking-Galar, L85, F|300/300
+|
+|upkeep
+|turn|2
+|
+|t:|1776981554
+|-end|p2a: Iron Bundle|Quark Drive|[silent]
+|switch|p2a: Lokix|Lokix, L82, F|251/251
+|move|p1a: Slowking|Sludge Bomb|p2a: Lokix
+|-damage|p2a: Lokix|101/251
+|
+|upkeep
+|turn|3
+|
+|t:|1776981566
+|switch|p1a: Solgaleo|Solgaleo, L74|325/325
+|move|p2a: Lokix|Knock Off|p1a: Solgaleo
+|-supereffective|p1a: Solgaleo
+|-damage|p1a: Solgaleo|125/325
+|-enditem|p1a: Solgaleo|Weakness Policy
+|-boost|p1a: Solgaleo|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Solgaleo|spa|2|[from] item: Weakness Policy
+|
+|upkeep
+|turn|4
+|
+|t:|1776981603
+|-terastallize|p1a: Solgaleo|Fighting
+|move|p2a: Lokix|Knock Off|p1a: Solgaleo
+|-resisted|p1a: Solgaleo
+|-damage|p1a: Solgaleo|63/325
+|move|p1a: Solgaleo|Flame Charge|p2a: Lokix
+|-supereffective|p2a: Lokix
+|-damage|p2a: Lokix|0 fnt
+|-boost|p1a: Solgaleo|spe|1
+|faint|p2a: Lokix
+|
+|upkeep
+|
+|t:|1776981613
+|switch|p2a: Bruxish|Bruxish, L85, F|254/254
+|turn|5
+|
+|t:|1776981622
+|move|p2a: Bruxish|Aqua Jet|p1a: Solgaleo
+|-damage|p1a: Solgaleo|0 fnt
+|faint|p1a: Solgaleo
+|-damage|p2a: Bruxish|229/254|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776981630
+|switch|p1a: Vaporeon|Vaporeon, L86, M|364/364
+|turn|6
+|
+|t:|1776981646
+|switch|p2a: Iron Bundle|Iron Bundle, L78|215/215
+|move|p1a: Vaporeon|Scald|p2a: Iron Bundle
+|-resisted|p2a: Iron Bundle
+|-damage|p2a: Iron Bundle|145/215
+|
+|upkeep
+|turn|7
+|
+|t:|1776981659
+|-end|p2a: Iron Bundle|Quark Drive|[silent]
+|switch|p2a: Pecharunt|Pecharunt, L77|262/262
+|move|p1a: Vaporeon|Protect||[still]
+|-fail|p1a: Vaporeon
+|
+|upkeep
+|turn|8
+|
+|t:|1776981669
+|move|p2a: Pecharunt|Shadow Ball|p1a: Vaporeon
+|-damage|p1a: Vaporeon|298/364
+|move|p1a: Vaporeon|Scald|p2a: Pecharunt
+|-damage|p2a: Pecharunt|162/262
+|-status|p2a: Pecharunt|brn
+|
+|-heal|p2a: Pecharunt|178/262 brn|[from] item: Leftovers
+|-heal|p1a: Vaporeon|320/364|[from] item: Leftovers
+|-damage|p2a: Pecharunt|162/262 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1776981676
+|move|p2a: Pecharunt|Recover|p2a: Pecharunt
+|-heal|p2a: Pecharunt|262/262 brn
+|move|p1a: Vaporeon|Wish|p1a: Vaporeon
+|
+|-heal|p1a: Vaporeon|342/364|[from] item: Leftovers
+|-damage|p2a: Pecharunt|246/262 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1776981687
+|switch|p1a: Slowking|Slowking-Galar, L85, F|300/300
+|move|p2a: Pecharunt|Malignant Chain|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|266/300
+|
+|-heal|p1a: Slowking|300/300|[from] move: Wish|[wisher] Vaporeon
+|-heal|p2a: Pecharunt|262/262 brn|[from] item: Leftovers
+|-damage|p2a: Pecharunt|246/262 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1776981701
+|-terastallize|p2a: Pecharunt|Dark
+|move|p2a: Pecharunt|Shadow Ball|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|186/300
+|move|p1a: Slowking|Psyshock|p2a: Pecharunt
+|-immune|p2a: Pecharunt
+|
+|-heal|p2a: Pecharunt|262/262 brn|[from] item: Leftovers
+|-damage|p2a: Pecharunt|246/262 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1776981708
+|move|p2a: Pecharunt|Malignant Chain|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|151/300
+|move|p1a: Slowking|Sludge Bomb|p2a: Pecharunt
+|-damage|p2a: Pecharunt|128/262 brn
+|
+|-heal|p2a: Pecharunt|144/262 brn|[from] item: Leftovers
+|-damage|p2a: Pecharunt|128/262 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1776981717
+|move|p2a: Pecharunt|Recover|p2a: Pecharunt
+|-heal|p2a: Pecharunt|259/262 brn
+|move|p1a: Slowking|Slack Off|p1a: Slowking
+|-heal|p1a: Slowking|300/300
+|
+|-heal|p2a: Pecharunt|262/262 brn|[from] item: Leftovers
+|-damage|p2a: Pecharunt|246/262 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1776981720
+|move|p2a: Pecharunt|Shadow Ball|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|196/300
+|move|p1a: Slowking|Sludge Bomb|p2a: Pecharunt
+|-damage|p2a: Pecharunt|129/262 brn
+|
+|-heal|p2a: Pecharunt|145/262 brn|[from] item: Leftovers
+|-damage|p2a: Pecharunt|129/262 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1776981726
+|move|p2a: Pecharunt|Recover|p2a: Pecharunt
+|-heal|p2a: Pecharunt|260/262 brn
+|move|p1a: Slowking|Sludge Bomb|p2a: Pecharunt
+|-damage|p2a: Pecharunt|149/262 brn
+|
+|-heal|p2a: Pecharunt|165/262 brn|[from] item: Leftovers
+|-damage|p2a: Pecharunt|149/262 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1776981729
+|move|p2a: Pecharunt|Shadow Ball|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|76/300
+|move|p1a: Slowking|Sludge Bomb|p2a: Pecharunt
+|-damage|p2a: Pecharunt|28/262 brn
+|
+|-heal|p2a: Pecharunt|44/262 brn|[from] item: Leftovers
+|-damage|p2a: Pecharunt|28/262 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1776981735
+|switch|p1a: Vaporeon|Vaporeon, L86, M|342/364
+|move|p2a: Pecharunt|Shadow Ball|p1a: Vaporeon
+|-damage|p1a: Vaporeon|285/364
+|
+|-heal|p2a: Pecharunt|44/262 brn|[from] item: Leftovers
+|-heal|p1a: Vaporeon|307/364|[from] item: Leftovers
+|-damage|p2a: Pecharunt|28/262 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1776981742
+|move|p2a: Pecharunt|Recover|p2a: Pecharunt
+|-heal|p2a: Pecharunt|159/262 brn
+|move|p1a: Vaporeon|Scald|p2a: Pecharunt
+|-damage|p2a: Pecharunt|48/262 brn
+|
+|-heal|p2a: Pecharunt|64/262 brn|[from] item: Leftovers
+|-heal|p1a: Vaporeon|329/364|[from] item: Leftovers
+|-damage|p2a: Pecharunt|48/262 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1776981749
+|switch|p1a: Slowking|Slowking-Galar, L85, F|176/300
+|move|p2a: Pecharunt|Malignant Chain|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|142/300
+|
+|-heal|p2a: Pecharunt|64/262 brn|[from] item: Leftovers
+|-damage|p2a: Pecharunt|48/262 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1776981760
+|switch|p1a: Vaporeon|Vaporeon, L86, M|329/364
+|move|p2a: Pecharunt|Shadow Ball|p1a: Vaporeon
+|-damage|p1a: Vaporeon|266/364
+|
+|-heal|p2a: Pecharunt|64/262 brn|[from] item: Leftovers
+|-heal|p1a: Vaporeon|288/364|[from] item: Leftovers
+|-damage|p2a: Pecharunt|48/262 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1776981766
+|switch|p1a: Slowking|Slowking-Galar, L85, F|242/300
+|move|p2a: Pecharunt|Recover|p2a: Pecharunt
+|-heal|p2a: Pecharunt|179/262 brn
+|
+|-heal|p2a: Pecharunt|195/262 brn|[from] item: Leftovers
+|-damage|p2a: Pecharunt|179/262 brn|[from] brn
+|upkeep
+|turn|22
+|
+|t:|1776981769
+|move|p2a: Pecharunt|Shadow Ball|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|126/300
+|move|p1a: Slowking|Sludge Bomb|p2a: Pecharunt
+|-damage|p2a: Pecharunt|67/262 brn
+|
+|-heal|p2a: Pecharunt|83/262 brn|[from] item: Leftovers
+|-damage|p2a: Pecharunt|67/262 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1776981779
+|switch|p1a: Flygon|Flygon, L82, M|265/265
+|move|p2a: Pecharunt|Shadow Ball|p1a: Flygon
+|-damage|p1a: Flygon|193/265
+|
+|-heal|p2a: Pecharunt|83/262 brn|[from] item: Leftovers
+|-damage|p2a: Pecharunt|67/262 brn|[from] brn
+|upkeep
+|turn|24
+|
+|t:|1776981789
+|switch|p2a: Enamorus|Enamorus-Therian, L83, F|259/259
+|move|p1a: Flygon|Earthquake|p2a: Enamorus
+|-immune|p2a: Enamorus
+|
+|upkeep
+|turn|25
+|
+|t:|1776981801
+|move|p1a: Flygon|Stone Edge|p2a: Enamorus
+|-supereffective|p2a: Enamorus
+|-damage|p2a: Enamorus|135/259
+|move|p2a: Enamorus|Earth Power|p1a: Flygon
+|-immune|p1a: Flygon|[from] ability: Levitate
+|
+|upkeep
+|turn|26
+|
+|t:|1776981808
+|switch|p1a: Vaporeon|Vaporeon, L86, M|288/364
+|move|p2a: Enamorus|Moonblast|p1a: Vaporeon
+|-damage|p1a: Vaporeon|159/364
+|
+|-heal|p1a: Vaporeon|181/364|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1776981825
+|move|p1a: Vaporeon|Wish|p1a: Vaporeon
+|move|p2a: Enamorus|Moonblast|p1a: Vaporeon
+|-damage|p1a: Vaporeon|61/364
+|-unboost|p1a: Vaporeon|spa|1
+|
+|-heal|p1a: Vaporeon|83/364|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1776981831
+|move|p1a: Vaporeon|Protect|p1a: Vaporeon
+|-singleturn|p1a: Vaporeon|Protect
+|move|p2a: Enamorus|Earth Power|p1a: Vaporeon
+|-activate|p1a: Vaporeon|move: Protect
+|
+|-heal|p1a: Vaporeon|265/364|[from] move: Wish|[wisher] Vaporeon
+|-heal|p1a: Vaporeon|287/364|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1776981835
+|move|p1a: Vaporeon|Scald|p2a: Enamorus
+|-damage|p2a: Enamorus|90/259
+|-status|p2a: Enamorus|brn
+|move|p2a: Enamorus|Moonblast|p1a: Vaporeon
+|-damage|p1a: Vaporeon|161/364
+|
+|-heal|p1a: Vaporeon|183/364|[from] item: Leftovers
+|-damage|p2a: Enamorus|74/259 brn|[from] brn
+|upkeep
+|turn|30
+|
+|t:|1776981843
+|switch|p2a: Iron Bundle|Iron Bundle, L78|145/215
+|move|p1a: Vaporeon|Wish|p1a: Vaporeon
+|
+|-heal|p1a: Vaporeon|205/364|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1776981850
+|move|p1a: Vaporeon|Protect|p1a: Vaporeon
+|-singleturn|p1a: Vaporeon|Protect
+|move|p2a: Iron Bundle|Freeze-Dry|p1a: Vaporeon
+|-activate|p1a: Vaporeon|move: Protect
+|
+|-heal|p1a: Vaporeon|364/364|[from] move: Wish|[wisher] Vaporeon
+|upkeep
+|turn|32
+|
+|t:|1776981858
+|move|p2a: Iron Bundle|Encore|p1a: Vaporeon
+|-start|p1a: Vaporeon|Encore
+|move|p1a: Vaporeon|Protect||[still]
+|-fail|p1a: Vaporeon
+|
+|upkeep
+|turn|33
+|
+|t:|1776981863
+|switch|p1a: Slowking|Slowking-Galar, L85, F|226/300
+|move|p2a: Iron Bundle|Freeze-Dry|p1a: Slowking
+|-damage|p1a: Slowking|159/300
+|-status|p1a: Slowking|frz
+|
+|upkeep
+|turn|34
+|
+|t:|1776981870
+|switch|p1a: Vaporeon|Vaporeon, L86, M|364/364
+|move|p2a: Iron Bundle|Freeze-Dry|p1a: Vaporeon
+|-supereffective|p1a: Vaporeon
+|-damage|p1a: Vaporeon|214/364
+|
+|-heal|p1a: Vaporeon|236/364|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1776981878
+|move|p2a: Iron Bundle|Freeze-Dry|p1a: Vaporeon
+|-supereffective|p1a: Vaporeon
+|-crit|p1a: Vaporeon
+|-damage|p1a: Vaporeon|26/364
+|move|p1a: Vaporeon|Scald|p2a: Iron Bundle
+|-resisted|p2a: Iron Bundle
+|-damage|p2a: Iron Bundle|73/215
+|
+|-heal|p1a: Vaporeon|48/364|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1776981886
+|move|p1a: Vaporeon|Protect|p1a: Vaporeon
+|-singleturn|p1a: Vaporeon|Protect
+|move|p2a: Iron Bundle|Freeze-Dry|p1a: Vaporeon
+|-activate|p1a: Vaporeon|move: Protect
+|
+|-heal|p1a: Vaporeon|70/364|[from] item: Leftovers
+|upkeep
+|turn|37
+|
+|t:|1776981892
+|switch|p1a: Slowking|Slowking-Galar, L85, F|259/300 frz
+|move|p2a: Iron Bundle|Freeze-Dry|p1a: Slowking
+|-damage|p1a: Slowking|190/300 frz
+|
+|upkeep
+|turn|38
+|
+|t:|1776981900
+|move|p2a: Iron Bundle|Ice Beam|p1a: Slowking
+|-damage|p1a: Slowking|102/300 frz
+|cant|p1a: Slowking|frz
+|
+|upkeep
+|turn|39
+|
+|t:|1776981906
+|move|p2a: Iron Bundle|Ice Beam|p1a: Slowking
+|-damage|p1a: Slowking|12/300 frz
+|-prepare|p1a: Slowking|Chilly Reception|[premajor]
+|cant|p1a: Slowking|frz
+|
+|upkeep
+|turn|40
+|
+|t:|1776981913
+|switch|p1a: Volcarona|Volcarona, L77, F|257/257
+|move|p2a: Iron Bundle|Freeze-Dry|p1a: Volcarona
+|-resisted|p1a: Volcarona
+|-damage|p1a: Volcarona|218/257
+|
+|upkeep
+|turn|41
+|
+|t:|1776981928
+|move|p2a: Iron Bundle|Hydro Pump|p1a: Volcarona
+|-supereffective|p1a: Volcarona
+|-damage|p1a: Volcarona|0 fnt
+|faint|p1a: Volcarona
+|
+|upkeep
+|
+|t:|1776981940
+|switch|p1a: Manaphy|Manaphy, L78|284/284
+|turn|42
+|
+|t:|1776981949
+|move|p2a: Iron Bundle|Freeze-Dry|p1a: Manaphy
+|-supereffective|p1a: Manaphy
+|-damage|p1a: Manaphy|140/284
+|move|p1a: Manaphy|Energy Ball|p2a: Iron Bundle
+|-supereffective|p2a: Iron Bundle
+|-damage|p2a: Iron Bundle|0 fnt
+|faint|p2a: Iron Bundle
+|-end|p2a: Iron Bundle|Quark Drive|[silent]
+|
+|-heal|p1a: Manaphy|157/284|[from] item: Leftovers
+|upkeep
+|
+|t:|1776981957
+|switch|p2a: Espeon|Espeon, L84, M|246/246
+|turn|43
+|
+|t:|1776981964
+|move|p2a: Espeon|Psyshock|p1a: Manaphy
+|-damage|p1a: Manaphy|28/284
+|-damage|p2a: Espeon|222/246|[from] item: Life Orb
+|move|p1a: Manaphy|Surf|p2a: Espeon
+|-damage|p2a: Espeon|146/246
+|
+|-heal|p1a: Manaphy|45/284|[from] item: Leftovers
+|upkeep
+|turn|44
+|
+|t:|1776981975
+|move|p2a: Espeon|Psyshock|p1a: Manaphy
+|-damage|p1a: Manaphy|0 fnt
+|faint|p1a: Manaphy
+|-damage|p2a: Espeon|122/246|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776981981
+|switch|p1a: Flygon|Flygon, L82, M|193/265
+|turn|45
+|
+|t:|1776981994
+|switch|p1a: Slowking|Slowking-Galar, L85, F|112/300 frz
+|move|p2a: Espeon|Alluring Voice|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|72/300 frz
+|-damage|p2a: Espeon|98/246|[from] item: Life Orb
+|
+|upkeep
+|turn|46
+|
+|t:|1776982001
+|switch|p1a: Vaporeon|Vaporeon, L86, M|70/364
+|move|p2a: Espeon|Morning Sun|p2a: Espeon
+|-heal|p2a: Espeon|221/246
+|
+|-heal|p1a: Vaporeon|92/364|[from] item: Leftovers
+|upkeep
+|turn|47
+|
+|t:|1776982009
+|move|p1a: Vaporeon|Protect|p1a: Vaporeon
+|-singleturn|p1a: Vaporeon|Protect
+|move|p2a: Espeon|Psyshock|p1a: Vaporeon
+|-activate|p1a: Vaporeon|move: Protect
+|
+|-heal|p1a: Vaporeon|114/364|[from] item: Leftovers
+|upkeep
+|turn|48
+|
+|t:|1776982021
+|move|p2a: Espeon|Psyshock|p1a: Vaporeon
+|-damage|p1a: Vaporeon|0 fnt
+|faint|p1a: Vaporeon
+|-damage|p2a: Espeon|197/246|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776982026
+|switch|p1a: Slowking|Slowking-Galar, L85, F|172/300 frz
+|turn|49
+|
+|t:|1776982029
+|move|p2a: Espeon|Shadow Ball|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|19/300 frz
+|-damage|p2a: Espeon|173/246|[from] item: Life Orb
+|cant|p1a: Slowking|frz
+|
+|upkeep
+|turn|50
+|-message|HexasAltarik forfeited.
+|
+|win|m0untaineer
+|raw|HexasAltarik's rating: 1849 &rarr; <strong>1827</strong><br />(-22 for losing)
+|raw|m0untaineer's rating: 1808 &rarr; <strong>1830</strong><br />(+22 for winning)
+|l|☆HexasAltarik
+|player|p1|

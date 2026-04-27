@@ -1,0 +1,307 @@
+|j|☆Arsel1909
+|j|☆AmalgamFS
+|t:|1772744740
+|gametype|singles
+|player|p1|Arsel1909|170|1255
+|player|p2|AmalgamFS|169|1235
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772744740
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Corviknight|Corviknight, L80, M|288/288
+|switch|p2a: Greedent|Greedent, L86, M|347/347
+|-ability|p1a: Corviknight|Pressure
+|turn|1
+|
+|t:|1772744764
+|move|p1a: Corviknight|Body Press|p2a: Greedent
+|-supereffective|p2a: Greedent
+|-damage|p2a: Greedent|239/347
+|move|p2a: Greedent|Swords Dance|p2a: Greedent
+|-boost|p2a: Greedent|atk|2
+|
+|upkeep
+|turn|2
+|
+|t:|1772744769
+|move|p1a: Corviknight|Body Press|p2a: Greedent
+|-supereffective|p2a: Greedent
+|-damage|p2a: Greedent|145/347
+|-enditem|p2a: Greedent|Sitrus Berry|[eat]
+|-heal|p2a: Greedent|231/347|[from] item: Sitrus Berry
+|-heal|p2a: Greedent|346/347|[from] ability: Cheek Pouch
+|move|p2a: Greedent|Body Slam|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|198/288
+|
+|-heal|p1a: Corviknight|216/288|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1772744776
+|move|p1a: Corviknight|Brave Bird|p2a: Greedent
+|-damage|p2a: Greedent|243/347
+|-damage|p1a: Corviknight|182/288|[from] Recoil
+|move|p2a: Greedent|Knock Off|p1a: Corviknight
+|-damage|p1a: Corviknight|43/288
+|-enditem|p1a: Corviknight|Leftovers|[from] move: Knock Off|[of] p2a: Greedent
+|
+|upkeep
+|turn|4
+|
+|t:|1772744780
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|187/288
+|-singleturn|p1a: Corviknight|move: Roost
+|move|p2a: Greedent|Body Slam|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|99/288
+|
+|upkeep
+|turn|5
+|
+|t:|1772744783
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|243/288
+|-singleturn|p1a: Corviknight|move: Roost
+|move|p2a: Greedent|Body Slam|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|155/288
+|-status|p1a: Corviknight|par
+|
+|upkeep
+|turn|6
+|
+|t:|1772744790
+|move|p2a: Greedent|Swords Dance|p2a: Greedent
+|-boost|p2a: Greedent|atk|2
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|288/288 par
+|-singleturn|p1a: Corviknight|move: Roost
+|
+|upkeep
+|turn|7
+|
+|t:|1772744805
+|move|p2a: Greedent|Body Slam|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|159/288 par
+|cant|p1a: Corviknight|par
+|
+|upkeep
+|turn|8
+|
+|t:|1772744812
+|move|p2a: Greedent|Swords Dance|p2a: Greedent
+|-boost|p2a: Greedent|atk|2
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|288/288 par
+|-singleturn|p1a: Corviknight|move: Roost
+|
+|upkeep
+|turn|9
+|
+|t:|1772744822
+|move|p2a: Greedent|Body Slam|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|108/288 par
+|move|p1a: Corviknight|Body Press|p2a: Greedent
+|-supereffective|p2a: Greedent
+|-damage|p2a: Greedent|149/347
+|
+|upkeep
+|turn|10
+|
+|t:|1772744830
+|move|p2a: Greedent|Body Slam|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|0 fnt
+|faint|p1a: Corviknight
+|
+|upkeep
+|
+|t:|1772744836
+|switch|p1a: Chandelure|Chandelure, L83, F|235/235
+|turn|11
+|
+|t:|1772744840
+|move|p1a: Chandelure|Fire Blast|p2a: Greedent
+|-damage|p2a: Greedent|0 fnt
+|faint|p2a: Greedent
+|
+|upkeep
+|
+|t:|1772744846
+|switch|p2a: Quagsire|Quagsire, L84, M|297/297
+|turn|12
+|
+|t:|1772744850
+|switch|p2a: Gogoat|Gogoat, L88, F|360/360
+|move|p1a: Chandelure|Energy Ball|p2a: Gogoat
+|-ability|p2a: Gogoat|Sap Sipper|boost
+|-boost|p2a: Gogoat|atk|1
+|
+|upkeep
+|turn|13
+|
+|t:|1772744859
+|-terastallize|p1a: Chandelure|Grass
+|-terastallize|p2a: Gogoat|Ground
+|move|p1a: Chandelure|Calm Mind|p1a: Chandelure
+|-boost|p1a: Chandelure|spa|1
+|-boost|p1a: Chandelure|spd|1
+|move|p2a: Gogoat|Earthquake|p1a: Chandelure
+|-resisted|p1a: Chandelure
+|-damage|p1a: Chandelure|144/235
+|
+|upkeep
+|turn|14
+|
+|t:|1772744868
+|move|p1a: Chandelure|Shadow Ball|p2a: Gogoat
+|-damage|p2a: Gogoat|189/360
+|move|p2a: Gogoat|Bulk Up|p2a: Gogoat
+|-boost|p2a: Gogoat|atk|1
+|-boost|p2a: Gogoat|def|1
+|
+|-heal|p2a: Gogoat|211/360|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1772744873
+|move|p1a: Chandelure|Shadow Ball|p2a: Gogoat
+|-damage|p2a: Gogoat|51/360
+|move|p2a: Gogoat|Horn Leech|p1a: Chandelure
+|-resisted|p1a: Chandelure
+|-damage|p1a: Chandelure|60/235
+|-heal|p2a: Gogoat|93/360|[from] drain|[of] p1a: Chandelure
+|
+|-heal|p2a: Gogoat|115/360|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1772744878
+|move|p1a: Chandelure|Shadow Ball|p2a: Gogoat
+|-damage|p2a: Gogoat|0 fnt
+|faint|p2a: Gogoat
+|
+|upkeep
+|
+|t:|1772744882
+|switch|p2a: Jolteon|Jolteon, L84, F|246/246
+|turn|17
+|
+|t:|1772744888
+|move|p2a: Jolteon|Tera Blast|p1a: Chandelure
+|-damage|p1a: Chandelure|17/235
+|move|p1a: Chandelure|Energy Ball|p2a: Jolteon
+|-damage|p2a: Jolteon|78/246
+|
+|-heal|p2a: Jolteon|93/246|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1772744894
+|move|p2a: Jolteon|Tera Blast|p1a: Chandelure
+|-damage|p1a: Chandelure|0 fnt
+|faint|p1a: Chandelure
+|
+|-heal|p2a: Jolteon|108/246|[from] item: Leftovers
+|upkeep
+|
+|t:|1772744898
+|switch|p1a: Palossand|Palossand, L89, F|296/296
+|turn|19
+|
+|t:|1772744903
+|switch|p2a: Lilligant|Lilligant, L86, F|261/261
+|move|p1a: Palossand|Stealth Rock|p2a: Lilligant
+|-sidestart|p2: AmalgamFS|move: Stealth Rock
+|
+|upkeep
+|turn|20
+|
+|t:|1772744910
+|switch|p1a: Rillaboom|Rillaboom, L79, F|288/288
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Lilligant|Quiver Dance|p2a: Lilligant
+|-boost|p2a: Lilligant|spa|1
+|-boost|p2a: Lilligant|spd|1
+|-boost|p2a: Lilligant|spe|1
+|
+|upkeep
+|turn|21
+|
+|t:|1772744914
+|move|p2a: Lilligant|Alluring Voice|p1a: Rillaboom
+|-damage|p1a: Rillaboom|119/288
+|-damage|p2a: Lilligant|235/261|[from] item: Life Orb
+|move|p1a: Rillaboom|Knock Off|p2a: Lilligant
+|-damage|p2a: Lilligant|109/261
+|-enditem|p2a: Lilligant|Life Orb|[from] move: Knock Off|[of] p1a: Rillaboom
+|
+|-heal|p2a: Lilligant|125/261|[from] Grassy Terrain
+|-heal|p1a: Rillaboom|137/288|[from] Grassy Terrain
+|upkeep
+|turn|22
+|
+|t:|1772744929
+|move|p2a: Lilligant|Alluring Voice|p1a: Rillaboom
+|-crit|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p1a: Rillaboom
+|
+|-heal|p2a: Lilligant|141/261|[from] Grassy Terrain
+|upkeep
+|
+|t:|1772744936
+|switch|p1a: Minun|Minun, L95, M|268/268
+|turn|23
+|
+|t:|1772744941
+|move|p2a: Lilligant|Alluring Voice|p1a: Minun
+|-damage|p1a: Minun|186/268
+|move|p1a: Minun|Nasty Plot|p1a: Minun
+|-boost|p1a: Minun|spa|2
+|
+|-heal|p2a: Lilligant|157/261|[from] Grassy Terrain
+|-heal|p1a: Minun|202/268|[from] Grassy Terrain
+|upkeep
+|turn|24
+|
+|t:|1772744945
+|move|p2a: Lilligant|Petal Dance|p1a: Minun
+|-damage|p1a: Minun|0 fnt
+|faint|p1a: Minun
+|
+|-heal|p2a: Lilligant|173/261|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1772744949
+|switch|p1a: Golduck|Golduck, L90, M|290/290
+|-ability|p1a: Golduck|Cloud Nine
+|turn|25
+|
+|t:|1772744951
+|move|p2a: Lilligant|Petal Dance|p1a: Golduck|[from] lockedmove
+|-supereffective|p1a: Golduck
+|-damage|p1a: Golduck|0 fnt
+|faint|p1a: Golduck
+|
+|upkeep
+|-message|Arsel1909 forfeited.
+|
+|win|AmalgamFS
+|raw|Arsel1909's rating: 1255 &rarr; <strong>1229</strong><br />(-26 for losing)
+|raw|AmalgamFS's rating: 1235 &rarr; <strong>1261</strong><br />(+26 for winning)
+|l|☆Arsel1909
+|player|p1|

@@ -1,0 +1,318 @@
+|j|☆JewPenguin
+|j|☆Bfkftddfd
+|t:|1776982287
+|gametype|singles
+|player|p1|JewPenguin|266|1046
+|player|p2|Bfkftddfd|hiker-gen4|1040
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776982287
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Emboar|Emboar, L84, M|322/322
+|switch|p2a: Jirachi|Jirachi, L80|291/291
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by JewPenguin)
+|
+|t:|1776982293
+|switch|p2a: Clawitzer|Clawitzer, L87, M|265/265
+|move|p1a: Emboar|Flare Blitz|p2a: Clawitzer
+|-resisted|p2a: Clawitzer
+|-damage|p2a: Clawitzer|182/265
+|-damage|p1a: Emboar|295/322|[from] Recoil
+|
+|-heal|p1a: Emboar|315/322|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776982303
+|move|p1a: Emboar|Trailblaze|p2a: Clawitzer
+|-supereffective|p2a: Clawitzer
+|-damage|p2a: Clawitzer|102/265
+|-boost|p1a: Emboar|spe|1
+|move|p2a: Clawitzer|U-turn|p1a: Emboar
+|-resisted|p1a: Emboar
+|-damage|p1a: Emboar|302/322
+|
+|t:|1776982308
+|switch|p2a: Zangoose|Zangoose, L85, F|263/263|[from] U-turn
+|
+|-heal|p1a: Emboar|322/322|[from] item: Leftovers
+|-status|p2a: Zangoose|tox|[from] item: Toxic Orb
+|upkeep
+|turn|3
+|
+|t:|1776982318
+|switch|p2a: Drifblim|Drifblim, L86, F|398/398
+|move|p1a: Emboar|Drain Punch|p2a: Drifblim
+|-immune|p2a: Drifblim
+|
+|upkeep
+|turn|4
+|
+|t:|1776982327
+|move|p1a: Emboar|Flare Blitz|p2a: Drifblim
+|-damage|p2a: Drifblim|116/398
+|-damage|p1a: Emboar|229/322|[from] Recoil
+|move|p2a: Drifblim|Strength Sap|p1a: Emboar
+|-unboost|p1a: Emboar|atk|1
+|-heal|p2a: Drifblim|371/398
+|
+|-heal|p1a: Emboar|249/322|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776982338
+|move|p1a: Emboar|Flare Blitz|p2a: Drifblim
+|-crit|p2a: Drifblim
+|-damage|p2a: Drifblim|0 fnt
+|-damage|p1a: Emboar|169/322|[from] ability: Aftermath|[of] p2a: Drifblim
+|faint|p2a: Drifblim
+|-damage|p1a: Emboar|47/322|[from] Recoil
+|
+|-heal|p1a: Emboar|67/322|[from] item: Leftovers
+|upkeep
+|
+|t:|1776982342
+|switch|p2a: Zangoose|Zangoose, L85, F|263/263 tox
+|turn|6
+|
+|t:|1776982350
+|move|p2a: Zangoose|Quick Attack|p1a: Emboar
+|-damage|p1a: Emboar|0 fnt
+|faint|p1a: Emboar
+|
+|-damage|p2a: Zangoose|247/263 tox|[from] psn
+|upkeep
+|
+|t:|1776982368
+|switch|p1a: Oranguru|Oranguru, L92, F|315/315
+|turn|7
+|
+|t:|1776982372
+|move|p2a: Zangoose|Knock Off|p1a: Oranguru
+|-supereffective|p1a: Oranguru
+|-damage|p1a: Oranguru|63/315
+|-enditem|p1a: Oranguru|Choice Specs|[from] move: Knock Off|[of] p2a: Zangoose
+|move|p1a: Oranguru|Focus Blast|p2a: Zangoose|[miss]
+|-miss|p1a: Oranguru|p2a: Zangoose
+|
+|-damage|p2a: Zangoose|215/263 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1776982381
+|move|p2a: Zangoose|Facade|p1a: Oranguru
+|-damage|p1a: Oranguru|0 fnt
+|faint|p1a: Oranguru
+|
+|-damage|p2a: Zangoose|167/263 tox|[from] psn
+|upkeep
+|
+|t:|1776982392
+|switch|p1a: Venusaur|Venusaur, L84, F|272/272
+|turn|9
+|
+|t:|1776982406
+|switch|p2a: Jirachi|Jirachi, L80|291/291
+|move|p1a: Venusaur|Energy Ball|p2a: Jirachi
+|-resisted|p2a: Jirachi
+|-damage|p2a: Jirachi|249/291
+|-unboost|p2a: Jirachi|spd|1
+|
+|-heal|p2a: Jirachi|267/291|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1776982415
+|move|p2a: Jirachi|Psychic|p1a: Venusaur
+|-supereffective|p1a: Venusaur
+|-damage|p1a: Venusaur|98/272
+|move|p1a: Venusaur|Earth Power|p2a: Jirachi
+|-supereffective|p2a: Jirachi
+|-damage|p2a: Jirachi|83/291
+|
+|-heal|p2a: Jirachi|101/291|[from] item: Leftovers
+|-heal|p1a: Venusaur|115/272|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776982429
+|-terastallize|p1a: Venusaur|Steel
+|move|p2a: Jirachi|Psychic|p1a: Venusaur
+|-resisted|p1a: Venusaur
+|-damage|p1a: Venusaur|77/272
+|move|p1a: Venusaur|Earth Power|p2a: Jirachi
+|-supereffective|p2a: Jirachi
+|-damage|p2a: Jirachi|0 fnt
+|faint|p2a: Jirachi
+|
+|-heal|p1a: Venusaur|94/272|[from] item: Leftovers
+|upkeep
+|
+|t:|1776982439
+|switch|p2a: Zangoose|Zangoose, L85, F|167/263 tox
+|turn|12
+|
+|t:|1776982459
+|switch|p1a: Raikou|Raikou, L81|278/278
+|-ability|p1a: Raikou|Pressure
+|move|p2a: Zangoose|Knock Off|p1a: Raikou
+|-damage|p1a: Raikou|148/278
+|-enditem|p1a: Raikou|Leftovers|[from] move: Knock Off|[of] p2a: Zangoose
+|
+|-damage|p2a: Zangoose|151/263 tox|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1776982470
+|move|p1a: Raikou|Thunderbolt|p2a: Zangoose
+|-damage|p2a: Zangoose|24/263 tox
+|move|p2a: Zangoose|Facade|p1a: Raikou
+|-damage|p1a: Raikou|0 fnt
+|faint|p1a: Raikou
+|
+|-damage|p2a: Zangoose|0 fnt|[from] psn
+|faint|p2a: Zangoose
+|upkeep
+|
+|t:|1776982478
+|switch|p1a: Venusaur|Venusaur, L84, F, tera:Steel|94/272
+|switch|p2a: Virizion|Virizion, L82|283/283
+|turn|14
+|
+|t:|1776982486
+|move|p2a: Virizion|Close Combat|p1a: Venusaur
+|-supereffective|p1a: Venusaur
+|-damage|p1a: Venusaur|0 fnt
+|-unboost|p2a: Virizion|def|1
+|-unboost|p2a: Virizion|spd|1
+|faint|p1a: Venusaur
+|-damage|p2a: Virizion|255/283|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776982496
+|switch|p1a: Klefki|Klefki, L84, M|233/233
+|turn|15
+|
+|t:|1776982504
+|switch|p2a: Clawitzer|Clawitzer, L87, M|102/265
+|move|p1a: Klefki|Dazzling Gleam|p2a: Clawitzer
+|-damage|p2a: Clawitzer|36/265
+|
+|upkeep
+|turn|16
+|
+|t:|1776982512
+|move|p1a: Klefki|Dazzling Gleam|p2a: Clawitzer
+|-damage|p2a: Clawitzer|0 fnt
+|faint|p2a: Clawitzer
+|
+|upkeep
+|
+|t:|1776982516
+|switch|p2a: Regice|Regice, L88|284/284
+|turn|17
+|
+|t:|1776982531
+|-terastallize|p2a: Regice|Electric
+|move|p1a: Klefki|Thunder Wave|p2a: Regice
+|-immune|p2a: Regice
+|move|p2a: Regice|Thunder Wave|p1a: Klefki
+|-status|p1a: Klefki|par
+|
+|upkeep
+|turn|18
+|
+|t:|1776982545
+|switch|p1a: Gogoat|Gogoat, L88, M|360/360
+|move|p2a: Regice|Thunderbolt|p1a: Gogoat
+|-resisted|p1a: Gogoat
+|-damage|p1a: Gogoat|309/360
+|
+|-heal|p1a: Gogoat|331/360|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1776982552
+|move|p1a: Gogoat|Earthquake|p2a: Regice
+|-supereffective|p2a: Regice
+|-damage|p2a: Regice|140/284
+|move|p2a: Regice|Ice Beam|p1a: Gogoat
+|-supereffective|p1a: Gogoat
+|-damage|p1a: Gogoat|127/360
+|-status|p1a: Gogoat|frz
+|
+|-heal|p1a: Gogoat|149/360 frz|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1776982562
+|-curestatus|p1a: Gogoat|frz|[msg]
+|move|p1a: Gogoat|Earthquake|p2a: Regice
+|-supereffective|p2a: Regice
+|-damage|p2a: Regice|0 fnt
+|faint|p2a: Regice
+|
+|-heal|p1a: Gogoat|171/360|[from] item: Leftovers
+|upkeep
+|
+|t:|1776982565
+|switch|p2a: Virizion|Virizion, L82|255/283
+|turn|21
+|
+|t:|1776982574
+|move|p2a: Virizion|Swords Dance|p2a: Virizion
+|-boost|p2a: Virizion|atk|2
+|move|p1a: Gogoat|Earthquake|p2a: Virizion
+|-resisted|p2a: Virizion
+|-damage|p2a: Virizion|211/283
+|
+|-heal|p1a: Gogoat|193/360|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1776982582
+|move|p2a: Virizion|Swords Dance|p2a: Virizion
+|-boost|p2a: Virizion|atk|2
+|move|p1a: Gogoat|Milk Drink|p1a: Gogoat
+|-heal|p1a: Gogoat|360/360
+|
+|upkeep
+|turn|23
+|
+|t:|1776982589
+|move|p2a: Virizion|Close Combat|p1a: Gogoat
+|-damage|p1a: Gogoat|0 fnt
+|-unboost|p2a: Virizion|def|1
+|-unboost|p2a: Virizion|spd|1
+|faint|p1a: Gogoat
+|-damage|p2a: Virizion|183/283|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776982595
+|switch|p1a: Klefki|Klefki, L84, M|233/233 par
+|turn|24
+|
+|t:|1776982600
+|move|p2a: Virizion|Close Combat|p1a: Klefki
+|-damage|p1a: Klefki|0 fnt
+|-unboost|p2a: Virizion|def|1
+|-unboost|p2a: Virizion|spd|1
+|faint|p1a: Klefki
+|-damage|p2a: Virizion|155/283|[from] item: Life Orb
+|
+|win|Bfkftddfd
+|raw|JewPenguin's rating: 1046 &rarr; <strong>1029</strong><br />(-17 for losing)
+|raw|Bfkftddfd's rating: 1040 &rarr; <strong>1075</strong><br />(+35 for winning)
+|l|☆JewPenguin
+|player|p1|

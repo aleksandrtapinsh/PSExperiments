@@ -1,0 +1,302 @@
+|j|☆ParanoidDandroid
+|j|☆servantis
+|t:|1776983708
+|gametype|singles
+|player|p1|ParanoidDandroid|102|1696
+|player|p2|servantis|169|1707
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776983708
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Urshifu|Urshifu, L74, M|270/270
+|switch|p2a: Scrafty|Scrafty, L83, M|244/244
+|-ability|p2a: Scrafty|Intimidate|boost
+|-unboost|p1a: Urshifu|atk|1
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by servantis)
+|
+|t:|1776983725
+|move|p1a: Urshifu|U-turn|p2a: Scrafty
+|-damage|p2a: Scrafty|216/244
+|
+|t:|1776983730
+|switch|p1a: Jumpluff|Jumpluff, L87, F|271/271|[from] U-turn
+|move|p2a: Scrafty|Drain Punch|p1a: Jumpluff
+|-resisted|p1a: Jumpluff
+|-damage|p1a: Jumpluff|226/271
+|-heal|p2a: Scrafty|239/244|[from] drain|[of] p1a: Jumpluff
+|
+|-heal|p2a: Scrafty|244/244|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776983747
+|switch|p2a: Delibird|Delibird, F|252/252
+|move|p1a: Jumpluff|Sleep Powder|p2a: Delibird
+|-status|p2a: Delibird|slp|[from] move: Sleep Powder
+|
+|upkeep
+|turn|3
+|
+|t:|1776983761
+|move|p1a: Jumpluff|U-turn|p2a: Delibird
+|-resisted|p2a: Delibird
+|-damage|p2a: Delibird|228/252 slp
+|
+|t:|1776983764
+|switch|p1a: Blaziken|Blaziken, L76, M|247/247|[from] U-turn
+|cant|p2a: Delibird|slp
+|
+|upkeep
+|turn|4
+|
+|t:|1776983776
+|switch|p2a: Bruxish|Bruxish, L85, F|254/254
+|move|p1a: Blaziken|Swords Dance|p1a: Blaziken
+|-boost|p1a: Blaziken|atk|2
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|5
+|
+|t:|1776983786
+|move|p1a: Blaziken|Protect|p1a: Blaziken
+|-singleturn|p1a: Blaziken|Protect
+|move|p2a: Bruxish|Psychic Fangs|p1a: Blaziken
+|-activate|p1a: Blaziken|move: Protect
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|6
+|
+|t:|1776983794
+|switch|p1a: Urshifu|Urshifu, L74, M|270/270
+|move|p2a: Bruxish|Wave Crash|p1a: Urshifu
+|-damage|p1a: Urshifu|78/270
+|-damage|p2a: Bruxish|191/254|[from] Recoil
+|-damage|p2a: Bruxish|166/254|[from] item: Life Orb
+|
+|upkeep
+|turn|7
+|
+|t:|1776983808
+|move|p1a: Urshifu|Wicked Blow|p2a: Bruxish
+|-supereffective|p2a: Bruxish
+|-crit|p2a: Bruxish
+|-damage|p2a: Bruxish|0 fnt
+|faint|p2a: Bruxish
+|
+|upkeep
+|
+|t:|1776983827
+|switch|p2a: Scrafty|Scrafty, L83, M|244/244
+|-ability|p2a: Scrafty|Intimidate|boost
+|-unboost|p1a: Urshifu|atk|1
+|turn|8
+|
+|t:|1776983832
+|switch|p1a: Jumpluff|Jumpluff, L87, F|226/271
+|move|p2a: Scrafty|Dragon Dance|p2a: Scrafty
+|-boost|p2a: Scrafty|atk|1
+|-boost|p2a: Scrafty|spe|1
+|
+|upkeep
+|turn|9
+|
+|t:|1776983838
+|-terastallize|p2a: Scrafty|Poison
+|move|p1a: Jumpluff|Strength Sap|p2a: Scrafty
+|-unboost|p2a: Scrafty|atk|1
+|-heal|p1a: Jumpluff|271/271
+|move|p2a: Scrafty|Poison Jab|p1a: Jumpluff
+|-supereffective|p1a: Jumpluff
+|-damage|p1a: Jumpluff|101/271
+|-status|p1a: Jumpluff|psn
+|
+|-damage|p1a: Jumpluff|68/271 psn|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1776983850
+|move|p1a: Jumpluff|Strength Sap|p2a: Scrafty
+|-unboost|p2a: Scrafty|atk|1
+|-heal|p1a: Jumpluff|265/271 psn
+|move|p2a: Scrafty|Dragon Dance|p2a: Scrafty
+|-boost|p2a: Scrafty|atk|1
+|-boost|p2a: Scrafty|spe|1
+|
+|-damage|p1a: Jumpluff|232/271 psn|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1776983862
+|switch|p1a: Quagsire|Quagsire, L84, F|297/297
+|move|p2a: Scrafty|Dragon Dance|p2a: Scrafty
+|-boost|p2a: Scrafty|atk|1
+|-boost|p2a: Scrafty|spe|1
+|
+|upkeep
+|turn|12
+|
+|t:|1776983870
+|switch|p2a: Shiftry|Shiftry, L89, F|305/305
+|move|p1a: Quagsire|Spikes|p2a: Shiftry
+|-sidestart|p2: servantis|Spikes
+|
+|upkeep
+|turn|13
+|
+|t:|1776983878
+|switch|p1a: Jumpluff|Jumpluff, L87, F|232/271 psn
+|move|p2a: Shiftry|Knock Off|p1a: Jumpluff
+|-damage|p1a: Jumpluff|107/271 psn
+|-damage|p2a: Shiftry|275/305|[from] item: Life Orb
+|
+|-damage|p1a: Jumpluff|74/271 psn|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1776983886
+|move|p2a: Shiftry|Sucker Punch||[still]
+|-fail|p2a: Shiftry
+|move|p1a: Jumpluff|Strength Sap|p2a: Shiftry
+|-unboost|p2a: Shiftry|atk|1
+|-heal|p1a: Jumpluff|271/271 psn
+|
+|-damage|p1a: Jumpluff|238/271 psn|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1776983895
+|switch|p2a: Zangoose|Zangoose, L85, M|263/263
+|-damage|p2a: Zangoose|231/263|[from] Spikes
+|move|p1a: Jumpluff|U-turn|p2a: Zangoose
+|-damage|p2a: Zangoose|183/263
+|
+|t:|1776983903
+|switch|p1a: Urshifu|Urshifu, L74, M|78/270|[from] U-turn
+|
+|-status|p2a: Zangoose|tox|[from] item: Toxic Orb
+|upkeep
+|turn|16
+|
+|t:|1776983911
+|switch|p2a: Delibird|Delibird, F|228/252 slp
+|move|p1a: Urshifu|Wicked Blow|p2a: Delibird
+|-crit|p2a: Delibird
+|-damage|p2a: Delibird|77/252 slp
+|
+|upkeep
+|turn|17
+|
+|t:|1776983917
+|move|p1a: Urshifu|Wicked Blow|p2a: Delibird
+|-crit|p2a: Delibird
+|-damage|p2a: Delibird|0 fnt
+|faint|p2a: Delibird
+|
+|upkeep
+|
+|t:|1776983927
+|switch|p2a: Mienshao|Mienshao, L83, M|244/244
+|-damage|p2a: Mienshao|214/244|[from] Spikes
+|turn|18
+|
+|t:|1776983932
+|switch|p1a: Jumpluff|Jumpluff, L87, F|238/271 psn
+|move|p2a: Mienshao|U-turn|p1a: Jumpluff
+|-damage|p1a: Jumpluff|176/271 psn
+|
+|t:|1776983942
+|switch|p2a: Zangoose|Zangoose, L85, M|183/263 tox|[from] U-turn
+|-damage|p2a: Zangoose|151/263 tox|[from] Spikes
+|
+|-damage|p1a: Jumpluff|143/271 psn|[from] psn
+|-damage|p2a: Zangoose|135/263 tox|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1776983948
+|move|p1a: Jumpluff|Strength Sap|p2a: Zangoose
+|-unboost|p2a: Zangoose|atk|1
+|-heal|p1a: Jumpluff|271/271 psn
+|move|p2a: Zangoose|Facade|p1a: Jumpluff
+|-damage|p1a: Jumpluff|60/271 psn
+|
+|-damage|p1a: Jumpluff|27/271 psn|[from] psn
+|-damage|p2a: Zangoose|103/263 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1776983957
+|move|p1a: Jumpluff|Strength Sap|p2a: Zangoose
+|-unboost|p2a: Zangoose|atk|1
+|-heal|p1a: Jumpluff|189/271 psn
+|move|p2a: Zangoose|Facade|p1a: Jumpluff
+|-damage|p1a: Jumpluff|48/271 psn
+|
+|-damage|p1a: Jumpluff|15/271 psn|[from] psn
+|-damage|p2a: Zangoose|55/263 tox|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1776983967
+|move|p1a: Jumpluff|Acrobatics|p2a: Zangoose
+|-damage|p2a: Zangoose|0 fnt
+|faint|p2a: Zangoose
+|
+|-damage|p1a: Jumpluff|0 fnt|[from] psn
+|faint|p1a: Jumpluff
+|upkeep
+|
+|t:|1776983978
+|switch|p1a: Tornadus|Tornadus, L82, M|263/263
+|switch|p2a: Scrafty|Scrafty, L83, M, tera:Poison|244/244
+|-damage|p2a: Scrafty|214/244|[from] Spikes
+|-ability|p2a: Scrafty|Intimidate|boost
+|-unboost|p1a: Tornadus|atk|1
+|-ability|p1a: Tornadus|Defiant|boost
+|-boost|p1a: Tornadus|atk|2
+|turn|22
+|
+|t:|1776983988
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Scrafty
+|-damage|p2a: Scrafty|64/244
+|-unboost|p2a: Scrafty|spe|1
+|move|p2a: Scrafty|Poison Jab|p1a: Tornadus
+|-damage|p1a: Tornadus|166/263
+|
+|-heal|p2a: Scrafty|79/244|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1776983997
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Scrafty
+|-crit|p2a: Scrafty
+|-damage|p2a: Scrafty|0 fnt
+|faint|p2a: Scrafty
+|
+|upkeep
+|l|☆servantis
+|inactive|servantis disconnected and has a minute to reconnect!
+|player|p2|
+|inactive|servantis has 30 seconds to reconnect!
+|inactive|servantis has 20 seconds to reconnect!
+|inactive|servantis has 15 seconds to reconnect!
+|inactive|servantis has 10 seconds to reconnect!
+|inactive|servantis has 5 seconds to reconnect!
+|-message|servantis lost due to inactivity.
+|
+|win|ParanoidDandroid
+|raw|ParanoidDandroid's rating: 1696 &rarr; <strong>1717</strong><br />(+21 for winning)
+|raw|servantis's rating: 1707 &rarr; <strong>1686</strong><br />(-21 for losing)

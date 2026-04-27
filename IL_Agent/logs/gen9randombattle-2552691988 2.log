@@ -1,0 +1,333 @@
+|j|☆Kapaic
+|j|☆Kogeta
+|t:|1772743975
+|gametype|singles
+|player|p1|Kapaic|roxie|
+|player|p2|Kogeta|266|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772743975
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Malamar|Malamar, L82, F|275/275
+|switch|p2a: Poliwrath|Poliwrath, L88, F|302/302
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Kapaic)
+|c|☆Kapaic|wsh encore
+|c|☆Kogeta|cognibidon t1
+|c|☆Kogeta|oh que oui attention
+|c|☆Kapaic|ça a pas cognobidon
+|c|☆Kogeta|att
+|c|☆Kapaic|je connais le set
+|inactive|Kapaic has 270 seconds left.
+|c|☆Kapaic|life orb glissade rain dance
+|c|☆Kogeta|hmmm
+|
+|t:|1772744015
+|switch|p2a: Meganium|Meganium, L90, F|290/290
+|move|p1a: Malamar|Knock Off|p2a: Meganium
+|-damage|p2a: Meganium|211/290
+|-enditem|p2a: Meganium|Leftovers|[from] move: Knock Off|[of] p1a: Malamar
+|
+|upkeep
+|turn|2
+|c|☆Kogeta|le meilleur starter arrive
+|
+|t:|1772744023
+|move|p2a: Meganium|Swords Dance|p2a: Meganium
+|-boost|p2a: Meganium|atk|2
+|move|p1a: Malamar|Superpower|p2a: Meganium
+|-damage|p2a: Meganium|150/290
+|-boost|p1a: Malamar|atk|1
+|-boost|p1a: Malamar|def|1
+|
+|upkeep
+|turn|3
+|
+|t:|1772744029
+|move|p2a: Meganium|Knock Off|p1a: Malamar
+|-damage|p1a: Malamar|173/275
+|-enditem|p1a: Malamar|Leftovers|[from] move: Knock Off|[of] p2a: Meganium
+|move|p1a: Malamar|Superpower|p2a: Meganium
+|-damage|p2a: Meganium|50/290
+|-boost|p1a: Malamar|atk|1
+|-boost|p1a: Malamar|def|1
+|
+|upkeep
+|turn|4
+|
+|t:|1772744034
+|move|p2a: Meganium|Petal Blizzard|p1a: Malamar
+|-damage|p1a: Malamar|14/275
+|move|p1a: Malamar|Superpower|p2a: Meganium
+|-damage|p2a: Meganium|0 fnt
+|-boost|p1a: Malamar|atk|1
+|-boost|p1a: Malamar|def|1
+|faint|p2a: Meganium
+|
+|upkeep
+|
+|t:|1772744048
+|switch|p2a: Poliwrath|Poliwrath, L88, F|302/302
+|turn|5
+|c|☆Kapaic|merci d'avoir existé
+|
+|t:|1772744052
+|move|p2a: Poliwrath|Liquidation|p1a: Malamar
+|-damage|p1a: Malamar|0 fnt
+|faint|p1a: Malamar
+|
+|upkeep
+|
+|t:|1772744057
+|switch|p1a: Sinistcha|Sinistcha, L83|254/254
+|turn|6
+|c|☆Kogeta|oui à toi aussi twin ❤️
+|c|☆Kogeta|nn
+|c|☆Kogeta|pas ce poké stp
+|c|☆Kogeta|pls
+|c|☆Kogeta|libèrez moi
+|
+|t:|1772744077
+|move|p2a: Poliwrath|Knock Off|p1a: Sinistcha
+|-supereffective|p1a: Sinistcha
+|-damage|p1a: Sinistcha|128/254
+|-enditem|p1a: Sinistcha|Leftovers|[from] move: Knock Off|[of] p2a: Poliwrath
+|move|p1a: Sinistcha|Matcha Gotcha|p2a: Poliwrath
+|-supereffective|p2a: Poliwrath
+|-damage|p2a: Poliwrath|128/302
+|-heal|p1a: Sinistcha|215/254|[from] drain|[of] p2a: Poliwrath
+|
+|-heal|p2a: Poliwrath|146/302|[from] item: Leftovers
+|upkeep
+|turn|7
+|c|☆Kogeta|ah...
+|c|☆Kapaic|j'ai le poke le plus broken du randombat
+|
+|t:|1772744099
+|switch|p2a: Reshiram|Reshiram, L76|277/277
+|-ability|p2a: Reshiram|Turboblaze
+|move|p1a: Sinistcha|Matcha Gotcha|p2a: Reshiram
+|-resisted|p2a: Reshiram
+|-damage|p2a: Reshiram|256/277
+|-heal|p1a: Sinistcha|226/254|[from] drain|[of] p2a: Reshiram
+|
+|upkeep
+|turn|8
+|c|☆Kapaic|et c'est pas lui attention
+|c|☆Kogeta|je confirme mdrr
+|
+|t:|1772744110
+|switch|p1a: Great Tusk|Great Tusk, L77|304/304
+|-enditem|p1a: Great Tusk|Booster Energy
+|-activate|p1a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p1a: Great Tusk|protosynthesisatk
+|move|p2a: Reshiram|Dragon Dance|p2a: Reshiram
+|-boost|p2a: Reshiram|atk|1
+|-boost|p2a: Reshiram|spe|1
+|
+|upkeep
+|turn|9
+|c|☆Kogeta|wsh
+|c|☆Kogeta|fort ivoire
+|c|☆Kapaic|c'est toujours pas lui
+|inactive|Kogeta has 270 seconds left.
+|
+|t:|1772744127
+|switch|p2a: Poliwrath|Poliwrath, L88, F|146/302
+|move|p1a: Great Tusk|Earthquake|p2a: Poliwrath
+|-damage|p2a: Poliwrath|11/302
+|
+|-heal|p2a: Poliwrath|29/302|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1772744133
+|move|p1a: Great Tusk|Rapid Spin|p2a: Poliwrath
+|-damage|p2a: Poliwrath|0 fnt
+|-boost|p1a: Great Tusk|spe|1
+|faint|p2a: Poliwrath
+|
+|upkeep
+|
+|t:|1772744139
+|switch|p2a: Gothitelle|Gothitelle, L90, M|272/272
+|turn|11
+|c|☆Kapaic|az
+|c|☆Kogeta|mdrrr
+|c|☆Kogeta|séisme
+|
+|t:|1772744152
+|-terastallize|p1a: Great Tusk|Steel
+|move|p1a: Great Tusk|Bulk Up|p1a: Great Tusk
+|-boost|p1a: Great Tusk|atk|1
+|-boost|p1a: Great Tusk|def|1
+|move|p2a: Gothitelle|Psychic Noise|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|235/304
+|-start|p1a: Great Tusk|move: Heal Block
+|
+|upkeep
+|turn|12
+|c|☆Kogeta|azy
+|c|☆Kapaic|hehehe
+|
+|t:|1772744161
+|move|p1a: Great Tusk|Bulk Up|p1a: Great Tusk
+|-boost|p1a: Great Tusk|atk|1
+|-boost|p1a: Great Tusk|def|1
+|move|p2a: Gothitelle|Dark Pulse|p1a: Great Tusk
+|-damage|p1a: Great Tusk|133/304
+|
+|-end|p1a: Great Tusk|move: Heal Block
+|upkeep
+|turn|13
+|
+|t:|1772744165
+|move|p1a: Great Tusk|Earthquake|p2a: Gothitelle
+|-damage|p2a: Gothitelle|0 fnt
+|faint|p2a: Gothitelle
+|
+|upkeep
+|c|☆Kogeta|gg t'as win
+|
+|t:|1772744173
+|switch|p2a: Toucannon|Toucannon, L88, M|284/284
+|turn|14
+|
+|t:|1772744177
+|-singleturn|p2a: Toucannon|move: Beak Blast
+|move|p1a: Great Tusk|Close Combat|p2a: Toucannon
+|-damage|p2a: Toucannon|0 fnt
+|-status|p1a: Great Tusk|brn
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Toucannon
+|
+|-damage|p1a: Great Tusk|114/304 brn|[from] brn
+|upkeep
+|
+|t:|1772744185
+|switch|p2a: Breloom|Breloom, L83, M|235/235
+|turn|15
+|
+|t:|1772744195
+|move|p2a: Breloom|Mach Punch|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|5/304 brn
+|-damage|p2a: Breloom|212/235|[from] item: Life Orb
+|move|p1a: Great Tusk|Close Combat|p2a: Breloom
+|-damage|p2a: Breloom|19/235
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|
+|-damage|p1a: Great Tusk|0 fnt|[from] brn
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|upkeep
+|
+|t:|1772744203
+|switch|p1a: Kyurem|Kyurem, L77|319/319
+|-ability|p1a: Kyurem|Pressure
+|turn|16
+|c|☆Kogeta|breloom goat
+|c|☆Kapaic|c'est toujours pas lui
+|
+|t:|1772744212
+|move|p2a: Breloom|Mach Punch|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-crit|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|-damage|p2a: Breloom|0 fnt|[from] item: Life Orb
+|faint|p2a: Breloom
+|
+|upkeep
+|c|☆Kogeta|wsh
+|c|☆Kapaic|huhh
+|c|☆Kogeta|ùdrrr
+|c|☆Kogeta|mdrr
+|
+|t:|1772744223
+|switch|p1a: Ho-Oh|Ho-Oh, L71|268/268
+|switch|p2a: Reshiram|Reshiram, L76|256/277
+|-ability|p2a: Reshiram|Turboblaze
+|turn|17
+|c|☆Kogeta|NOOOOOOON
+|c|☆Kapaic|attention
+|c|☆Kapaic|voilahooh
+|
+|t:|1772744233
+|move|p2a: Reshiram|Dragon Dance|p2a: Reshiram
+|-boost|p2a: Reshiram|atk|1
+|-boost|p2a: Reshiram|spe|1
+|move|p1a: Ho-Oh|Earthquake|p2a: Reshiram
+|-supereffective|p2a: Reshiram
+|-damage|p2a: Reshiram|116/277
+|
+|upkeep
+|turn|18
+|
+|t:|1772744238
+|move|p2a: Reshiram|Stone Edge|p1a: Ho-Oh
+|-supereffective|p1a: Ho-Oh
+|-crit|p1a: Ho-Oh
+|-damage|p1a: Ho-Oh|0 fnt
+|faint|p1a: Ho-Oh
+|
+|upkeep
+|
+|t:|1772744241
+|switch|p1a: Skarmory|Skarmory, L80, M|235/235
+|turn|19
+|c|☆Kapaic|tu gagnes sur le crit mdrr
+|c|☆Kogeta|si t'as sturdy t'as win
+|c|☆Kogeta|sinon
+|c|☆Kogeta|j'ai win peut être
+|
+|t:|1772744261
+|-terastallize|p2a: Reshiram|Fire
+|move|p2a: Reshiram|Flare Blitz|p1a: Skarmory
+|-supereffective|p1a: Skarmory
+|-damage|p1a: Skarmory|0 fnt
+|faint|p1a: Skarmory
+|-damage|p2a: Reshiram|38/277|[from] Recoil
+|
+|upkeep
+|c|☆Kapaic|mdrr j'avais même pas vu
+|c|☆Kogeta|OMG
+|c|☆Kapaic|bah
+|c|☆Kogeta|Breloom qui me donn la game
+|c|☆Kapaic|j'avais sturdy
+|c|☆Kogeta|ah oui
+|c|☆Kogeta|c'est vrai
+|c|☆Kogeta|le talent de reshiram
+|inactive|Kapaic has 270 seconds left.
+|c|☆Kogeta|c'est brise moule
+|c|☆Kapaic|ah oui
+|
+|t:|1772744294
+|switch|p1a: Sinistcha|Sinistcha, L83|226/254
+|turn|20
+|c|☆Kogeta|mais avec un nom différent
+|
+|t:|1772744297
+|move|p2a: Reshiram|Flare Blitz|p1a: Sinistcha
+|-supereffective|p1a: Sinistcha
+|-damage|p1a: Sinistcha|0 fnt
+|faint|p1a: Sinistcha
+|-damage|p2a: Reshiram|0 fnt|[from] Recoil
+|faint|p2a: Reshiram
+|
+|win|Kogeta
+|c|☆Kapaic|gg
+|c|☆Kogeta|gg wp merci de m'offri cette win pour mon anniv
+|c|☆Kapaic|mdrr remercie breloom plutot
+|c|☆Kogeta|mdrr
+|c|☆Kogeta|pour une fois que le haxx est de mon côté

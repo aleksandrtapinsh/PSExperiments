@@ -60,7 +60,7 @@ class ILPlayer(Player):
 
         self.move_model   = self._load_model(move_model_path)
         self.switch_model = self._load_model(switch_model_path)
-
+        
         self._battle_count  = 0
         self._recent_wins: List[int] = []
 
@@ -72,11 +72,20 @@ class ILPlayer(Player):
             self._writer = None
 
         if self.move_model and self.switch_model:
-            using = "move + switch Keras models"
+            if (move_model_path.endswith(".keras")):
+                using = "move + switch model using keras (NN)"
+            else:
+                using = "move + switch model using sklearn (RF)"
         elif self.move_model:
-            using = "move Keras model (switch model missing — force-switches will be random)"
+            if (move_model_path.endswith(".keras")):
+                using = "move model using keras (NN) (Switches are random)"
+            else:
+                using = "move model using sklearn (RF) (Switches are random)"
         elif self.switch_model:
-            using = "switch Keras model (move model missing — moves will be random)"
+            if (move_model_path.endswith(".keras")):
+                using = "switch model using keras (NN) (Moves are random)"
+            else:
+                using = "switch model using sklearn (RF) (Moves are random)"
         else:
             using = "random play (no models loaded)"
         logger.info(f"ILPlayer initialised — {using}.")
@@ -87,6 +96,13 @@ class ILPlayer(Player):
 
     @staticmethod
     def _load_model(path: str) -> Optional[Any]:
+        if (path.endswith(".keras")):
+            return ILPlayer._load_keras_model(path)
+        elif (path.endswith(".pk1")):
+            return ILPlayer._load_sklearn_model(path)
+    
+    @staticmethod
+    def _load_keras_model(path: str) -> Optional[Any]:
         """Load a Keras model.  Returns None on any error."""
         try:
             import tensorflow as tf
@@ -96,11 +112,32 @@ class ILPlayer(Player):
 
         p = Path(path)
         if not p.exists():
-            logger.warning(f"Model not found at {p} — falling back to random play.")
+            logger.warning(f"Model not found at {p} — falling back to random play")
             return None
         try:
             model = tf.keras.models.load_model(str(p))
             logger.info(f"Loaded IL model: {p}")
+            return model
+        except Exception as e:
+            logger.warning(f"Could not load model {p}: {e}")
+            return None
+    
+    @staticmethod
+    def _load_sklearn_model(path:str) -> Optional[Any]:
+        try:
+            import pickle
+        except ImportError:
+            print("Error importing pickle")
+            return None
+        
+        p = Path(path)
+        if not p.exists():
+            logger.warning(f"Model not found at {p} — falling back to random play")
+            return None
+        try:
+            with open(p, 'rb') as f:
+                model = pickle.load(f)
+            logger.info(f"Model loaded with pickle: {p}")
             return model
         except Exception as e:
             logger.warning(f"Could not load model {p}: {e}")

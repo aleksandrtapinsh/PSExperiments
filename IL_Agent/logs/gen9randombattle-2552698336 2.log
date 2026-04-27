@@ -1,0 +1,113 @@
+|j|☆Sharonmobley
+|j|☆Somerandomkid6
+|t:|1772744557
+|gametype|singles
+|player|p1|Sharonmobley|marlon|1312
+|player|p2|Somerandomkid6|101|1317
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772744557
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Boulder|Iron Boulder, L77|265/265
+|switch|p2a: Amoonguss|Amoonguss, L82, F|321/321
+|turn|1
+|
+|t:|1772744578
+|move|p1a: Iron Boulder|Zen Headbutt|p2a: Amoonguss
+|-supereffective|p2a: Amoonguss
+|-damage|p2a: Amoonguss|69/321
+|-damage|p1a: Iron Boulder|221/265|[from] item: Rocky Helmet|[of] p2a: Amoonguss
+|-damage|p1a: Iron Boulder|195/265|[from] item: Life Orb
+|move|p2a: Amoonguss|Spore|p1a: Iron Boulder
+|-status|p1a: Iron Boulder|slp|[from] move: Spore
+|
+|upkeep
+|turn|2
+|
+|t:|1772744587
+|-end|p1a: Iron Boulder|Quark Drive|[silent]
+|switch|p1a: Necrozma|Necrozma, L80|286/286
+|move|p2a: Amoonguss|Giga Drain|p1a: Necrozma
+|-damage|p1a: Necrozma|211/286
+|-heal|p2a: Amoonguss|107/321|[from] drain|[of] p1a: Necrozma
+|
+|upkeep
+|turn|3
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Sharonmobley)
+|
+|t:|1772744608
+|switch|p2a: Vigoroth|Vigoroth, L85, M|275/275
+|move|p1a: Necrozma|Dragon Dance|p1a: Necrozma
+|-boost|p1a: Necrozma|atk|1
+|-boost|p1a: Necrozma|spe|1
+|
+|upkeep
+|turn|4
+|
+|t:|1772744618
+|move|p1a: Necrozma|Knock Off|p2a: Vigoroth
+|-damage|p2a: Vigoroth|205/275
+|-enditem|p2a: Vigoroth|Eviolite|[from] move: Knock Off|[of] p1a: Necrozma
+|move|p2a: Vigoroth|Body Slam|p1a: Necrozma
+|-damage|p1a: Necrozma|141/286
+|
+|upkeep
+|turn|5
+|
+|t:|1772744624
+|move|p1a: Necrozma|Photon Geyser|p2a: Vigoroth
+|-damage|p2a: Vigoroth|36/275
+|move|p2a: Vigoroth|Body Slam|p1a: Necrozma
+|-damage|p1a: Necrozma|63/286
+|
+|upkeep
+|turn|6
+|
+|t:|1772744632
+|move|p1a: Necrozma|Photon Geyser|p2a: Vigoroth
+|-damage|p2a: Vigoroth|0 fnt
+|faint|p2a: Vigoroth
+|
+|upkeep
+|
+|t:|1772744646
+|switch|p2a: Thundurus|Thundurus-Therian, L80, M|258/258
+|turn|7
+|
+|t:|1772744653
+|move|p1a: Necrozma|Knock Off|p2a: Thundurus
+|-damage|p2a: Thundurus|141/258
+|-enditem|p2a: Thundurus|Choice Specs|[from] move: Knock Off|[of] p1a: Necrozma
+|move|p2a: Thundurus|Thunderbolt|p1a: Necrozma
+|-damage|p1a: Necrozma|0 fnt
+|faint|p1a: Necrozma
+|
+|upkeep
+|
+|t:|1772744674
+|switch|p1a: Lanturn|Lanturn, L89, F|367/367
+|turn|8
+|
+|t:|1772744684
+|switch|p2a: Flapple|Flapple, L88, M|266/266
+|move|p1a: Lanturn|Ice Beam|p2a: Flapple
+|-supereffective|p2a: Flapple
+|-damage|p2a: Flapple|0 fnt
+|faint|p2a: Flapple
+|
+|upkeep
+|-message|Somerandomkid6 forfeited.
+|
+|win|Sharonmobley
+|raw|Sharonmobley's rating: 1312 &rarr; <strong>1332</strong><br />(+20 for winning)
+|raw|Somerandomkid6's rating: 1317 &rarr; <strong>1297</strong><br />(-20 for losing)
+|l|☆Somerandomkid6
+|player|p2|

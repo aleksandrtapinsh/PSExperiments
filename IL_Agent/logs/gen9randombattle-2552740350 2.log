@@ -1,0 +1,89 @@
+|j|☆Ransei
+|j|☆galaxio420
+|t:|1772748628
+|gametype|singles
+|player|p1|Ransei|#ransei|1161
+|player|p2|galaxio420|266|1139
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772748628
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Hariyama|Hariyama, L87, M|392/392
+|switch|p2a: Iron Leaves|Iron Leaves, L80|275/275
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Ransei)
+|
+|t:|1772748653
+|switch|p1a: Cacturne|Cacturne, L92, F|278/278
+|move|p2a: Iron Leaves|Swords Dance|p2a: Iron Leaves
+|-boost|p2a: Iron Leaves|atk|2
+|
+|upkeep
+|turn|2
+|
+|t:|1772748661
+|move|p1a: Cacturne|Sucker Punch|p2a: Iron Leaves
+|-supereffective|p2a: Iron Leaves
+|-damage|p2a: Iron Leaves|0 fnt
+|faint|p2a: Iron Leaves
+|-end|p2a: Iron Leaves|Quark Drive|[silent]
+|-damage|p1a: Cacturne|251/278|[from] item: Life Orb
+|
+|upkeep
+|c|☆galaxio420|bruh
+|
+|t:|1772748669
+|switch|p2a: Frosmoth|Frosmoth, L82, F|249/249
+|turn|3
+|
+|t:|1772748681
+|switch|p1a: Archaludon|Archaludon, L78, F|268/268
+|move|p2a: Frosmoth|Quiver Dance|p2a: Frosmoth
+|-boost|p2a: Frosmoth|spa|1
+|-boost|p2a: Frosmoth|spd|1
+|-boost|p2a: Frosmoth|spe|1
+|
+|upkeep
+|turn|4
+|c|☆galaxio420|bro you are pro
+|c|☆galaxio420|cant win lmao
+|
+|t:|1772748706
+|-terastallize|p2a: Frosmoth|Water
+|move|p2a: Frosmoth|Quiver Dance|p2a: Frosmoth
+|-boost|p2a: Frosmoth|spa|1
+|-boost|p2a: Frosmoth|spd|1
+|-boost|p2a: Frosmoth|spe|1
+|move|p1a: Archaludon|Body Press|p2a: Frosmoth
+|-damage|p2a: Frosmoth|168/249
+|
+|upkeep
+|turn|5
+|
+|t:|1772748717
+|move|p2a: Frosmoth|Quiver Dance|p2a: Frosmoth
+|-boost|p2a: Frosmoth|spa|1
+|-boost|p2a: Frosmoth|spd|1
+|-boost|p2a: Frosmoth|spe|1
+|move|p1a: Archaludon|Dragon Tail|p2a: Frosmoth
+|-damage|p2a: Frosmoth|90/249
+|drag|p2a: Pincurchin|Pincurchin, M|258/258
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Pincurchin
+|
+|upkeep
+|turn|6
+|-message|galaxio420 forfeited.
+|
+|win|Ransei
+|raw|Ransei's rating: 1161 &rarr; <strong>1184</strong><br />(+23 for winning)
+|raw|galaxio420's rating: 1139 &rarr; <strong>1116</strong><br />(-23 for losing)
+|l|☆galaxio420
+|player|p2|

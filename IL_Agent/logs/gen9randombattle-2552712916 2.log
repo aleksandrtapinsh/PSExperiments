@@ -1,0 +1,317 @@
+|j|☆Yue Zhen
+|j|☆Idkbawouhe
+|t:|1772745935
+|gametype|singles
+|player|p1|Yue Zhen|265|
+|player|p2|Idkbawouhe|hilbert-wonderlauncher|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772745935
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Hitmonchan|Hitmonchan, L87, M|229/229
+|switch|p2a: Passimian|Passimian, L83, F|302/302
+|turn|1
+|
+|t:|1772745961
+|switch|p1a: Spiritomb|Spiritomb, L89, M|234/234
+|switch|p2a: Tropius|Tropius, L91, M|328/328
+|
+|upkeep
+|turn|2
+|
+|t:|1772745976
+|move|p2a: Tropius|Substitute|p2a: Tropius
+|-start|p2a: Tropius|Substitute
+|-damage|p2a: Tropius|246/328
+|move|p1a: Spiritomb|Poltergeist|p2a: Tropius|[miss]
+|-miss|p1a: Spiritomb|p2a: Tropius
+|
+|upkeep
+|turn|3
+|
+|t:|1772745987
+|switch|p1a: Heracross|Heracross, L80, M|259/259
+|move|p2a: Tropius|Leech Seed|p1a: Heracross
+|-start|p1a: Heracross|move: Leech Seed
+|
+|-damage|p1a: Heracross|227/259|[from] Leech Seed|[of] p2a: Tropius
+|-heal|p2a: Tropius|278/328|[silent]
+|-status|p1a: Heracross|brn|[from] item: Flame Orb
+|upkeep
+|turn|4
+|
+|t:|1772746001
+|move|p1a: Heracross|Knock Off|p2a: Tropius
+|-end|p2a: Tropius|Substitute
+|move|p2a: Tropius|Air Slash|p1a: Heracross
+|-supereffective|p1a: Heracross
+|-damage|p1a: Heracross|0 fnt
+|faint|p1a: Heracross
+|
+|upkeep
+|
+|t:|1772746014
+|switch|p1a: Slowbro|Slowbro, L85, F|300/300
+|turn|5
+|
+|t:|1772746035
+|switch|p2a: Virizion|Virizion, L82|283/283
+|move|p1a: Slowbro|Psyshock|p2a: Virizion
+|-supereffective|p2a: Virizion
+|-damage|p2a: Virizion|65/283
+|
+|upkeep
+|turn|6
+|
+|t:|1772746055
+|switch|p1a: Hitmonchan|Hitmonchan, L87, M|229/229
+|move|p2a: Virizion|Leaf Blade|p1a: Hitmonchan
+|-damage|p1a: Hitmonchan|104/229
+|-damage|p2a: Virizion|37/283|[from] item: Life Orb
+|
+|upkeep
+|turn|7
+|
+|t:|1772746076
+|switch|p2a: Tropius|Tropius, L91, M|278/328
+|move|p1a: Hitmonchan|Drain Punch|p2a: Tropius
+|-resisted|p2a: Tropius
+|-damage|p2a: Tropius|205/328
+|-heal|p1a: Hitmonchan|141/229|[from] drain|[of] p2a: Tropius
+|-damage|p1a: Hitmonchan|119/229|[from] item: Life Orb
+|
+|upkeep
+|turn|8
+|
+|t:|1772746091
+|switch|p1a: Spiritomb|Spiritomb, L89, M|234/234
+|move|p2a: Tropius|Substitute|p2a: Tropius
+|-start|p2a: Tropius|Substitute
+|-damage|p2a: Tropius|123/328
+|-enditem|p2a: Tropius|Sitrus Berry|[eat]
+|-heal|p2a: Tropius|205/328|[from] item: Sitrus Berry
+|
+|-item|p2a: Tropius|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|turn|9
+|
+|t:|1772746109
+|move|p2a: Tropius|Leech Seed|p1a: Spiritomb
+|-start|p1a: Spiritomb|move: Leech Seed
+|move|p1a: Spiritomb|Pain Split|p2a: Tropius
+|-sethp|p2a: Tropius|219/328|[from] move: Pain Split|[silent]
+|-sethp|p1a: Spiritomb|219/234|[from] move: Pain Split
+|
+|-heal|p1a: Spiritomb|233/234|[from] item: Leftovers
+|-damage|p1a: Spiritomb|204/234|[from] Leech Seed|[of] p2a: Tropius
+|-heal|p2a: Tropius|248/328|[silent]
+|upkeep
+|turn|10
+|
+|t:|1772746120
+|move|p2a: Tropius|Leech Seed||[still]
+|-fail|p2a: Tropius
+|move|p1a: Spiritomb|Foul Play|p2a: Tropius
+|-crit|p2a: Tropius
+|-damage|p2a: Tropius|157/328
+|-enditem|p2a: Tropius|Sitrus Berry|[eat]
+|-heal|p2a: Tropius|239/328|[from] item: Sitrus Berry
+|
+|-heal|p1a: Spiritomb|218/234|[from] item: Leftovers
+|-damage|p1a: Spiritomb|189/234|[from] Leech Seed|[of] p2a: Tropius
+|-heal|p2a: Tropius|268/328|[silent]
+|-item|p2a: Tropius|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|turn|11
+|
+|t:|1772746135
+|move|p2a: Tropius|Air Slash|p1a: Spiritomb
+|-damage|p1a: Spiritomb|131/234
+|cant|p1a: Spiritomb|flinch
+|
+|-heal|p1a: Spiritomb|145/234|[from] item: Leftovers
+|-damage|p1a: Spiritomb|116/234|[from] Leech Seed|[of] p2a: Tropius
+|-heal|p2a: Tropius|297/328|[silent]
+|upkeep
+|turn|12
+|
+|t:|1772746147
+|switch|p1a: Slowbro|Slowbro, L85, F|300/300
+|move|p2a: Tropius|Air Slash|p1a: Slowbro
+|-damage|p1a: Slowbro|224/300
+|
+|upkeep
+|turn|13
+|
+|t:|1772746156
+|move|p2a: Tropius|Air Slash|p1a: Slowbro
+|-damage|p1a: Slowbro|145/300
+|cant|p1a: Slowbro|flinch
+|
+|upkeep
+|turn|14
+|
+|t:|1772746163
+|move|p2a: Tropius|Leech Seed|p1a: Slowbro
+|-start|p1a: Slowbro|move: Leech Seed
+|move|p1a: Slowbro|Psyshock|p2a: Tropius
+|-end|p2a: Tropius|Substitute
+|
+|-damage|p1a: Slowbro|108/300|[from] Leech Seed|[of] p2a: Tropius
+|-heal|p2a: Tropius|328/328|[silent]
+|upkeep
+|turn|15
+|
+|t:|1772746174
+|switch|p1a: Iron Leaves|Iron Leaves, L80|275/275
+|move|p2a: Tropius|Air Slash|p1a: Iron Leaves
+|-supereffective|p1a: Iron Leaves
+|-damage|p1a: Iron Leaves|137/275
+|
+|upkeep
+|turn|16
+|
+|t:|1772746185
+|move|p1a: Iron Leaves|Psyblade|p2a: Tropius
+|-damage|p2a: Tropius|190/328
+|move|p2a: Tropius|Air Slash|p1a: Iron Leaves
+|-supereffective|p1a: Iron Leaves
+|-damage|p1a: Iron Leaves|3/275
+|
+|upkeep
+|turn|17
+|
+|t:|1772746198
+|move|p1a: Iron Leaves|Psyblade|p2a: Tropius
+|-damage|p2a: Tropius|48/328
+|-enditem|p2a: Tropius|Sitrus Berry|[eat]
+|-heal|p2a: Tropius|130/328|[from] item: Sitrus Berry
+|move|p2a: Tropius|Substitute|p2a: Tropius
+|-start|p2a: Tropius|Substitute
+|-damage|p2a: Tropius|48/328
+|
+|-item|p2a: Tropius|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|-enditem|p2a: Tropius|Sitrus Berry|[eat]
+|-heal|p2a: Tropius|130/328|[from] item: Sitrus Berry
+|turn|18
+|
+|t:|1772746211
+|-end|p1a: Iron Leaves|Quark Drive|[silent]
+|switch|p1a: Drednaw|Drednaw, L81, F|278/278
+|move|p2a: Tropius|Leech Seed|p1a: Drednaw
+|-start|p1a: Drednaw|move: Leech Seed
+|
+|-damage|p1a: Drednaw|244/278|[from] Leech Seed|[of] p2a: Tropius
+|-heal|p2a: Tropius|164/328|[silent]
+|-item|p2a: Tropius|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|-enditem|p2a: Tropius|Sitrus Berry|[eat]
+|-heal|p2a: Tropius|246/328|[from] item: Sitrus Berry
+|turn|19
+|
+|t:|1772746246
+|switch|p2a: Passimian|Passimian, L83, F|302/302
+|move|p1a: Drednaw|Earthquake|p2a: Passimian
+|-damage|p2a: Passimian|222/302
+|
+|-damage|p1a: Drednaw|210/278|[from] Leech Seed|[of] p2a: Passimian
+|-heal|p2a: Passimian|256/302|[silent]
+|upkeep
+|turn|20
+|
+|t:|1772746293
+|move|p2a: Passimian|Close Combat|p1a: Drednaw
+|-supereffective|p1a: Drednaw
+|-damage|p1a: Drednaw|0 fnt
+|-unboost|p2a: Passimian|def|1
+|-unboost|p2a: Passimian|spd|1
+|faint|p1a: Drednaw
+|
+|upkeep
+|
+|t:|1772746306
+|switch|p1a: Slowbro|Slowbro, L85, F|208/300
+|turn|21
+|
+|t:|1772746314
+|switch|p2a: Plusle|Plusle, L95, F|268/268
+|move|p1a: Slowbro|Calm Mind|p1a: Slowbro
+|-boost|p1a: Slowbro|spa|1
+|-boost|p1a: Slowbro|spd|1
+|
+|upkeep
+|turn|22
+|
+|t:|1772746324
+|move|p2a: Plusle|Nasty Plot|p2a: Plusle
+|-boost|p2a: Plusle|spa|2
+|move|p1a: Slowbro|Psyshock|p2a: Plusle
+|-damage|p2a: Plusle|69/268
+|
+|upkeep
+|turn|23
+|
+|t:|1772746336
+|move|p2a: Plusle|Thunderbolt|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|0 fnt
+|faint|p1a: Slowbro
+|-damage|p2a: Plusle|43/268|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772746343
+|switch|p1a: Hitmonchan|Hitmonchan, L87, M|119/229
+|turn|24
+|
+|t:|1772746348
+|move|p2a: Plusle|Alluring Voice|p1a: Hitmonchan
+|-supereffective|p1a: Hitmonchan
+|-damage|p1a: Hitmonchan|0 fnt
+|faint|p1a: Hitmonchan
+|-damage|p2a: Plusle|17/268|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772746355
+|switch|p1a: Spiritomb|Spiritomb, L89, M|116/234
+|turn|25
+|
+|t:|1772746359
+|move|p2a: Plusle|Alluring Voice|p1a: Spiritomb
+|-supereffective|p1a: Spiritomb
+|-damage|p1a: Spiritomb|0 fnt
+|faint|p1a: Spiritomb
+|-damage|p2a: Plusle|0 fnt|[from] item: Life Orb
+|faint|p2a: Plusle
+|
+|upkeep
+|
+|t:|1772746373
+|switch|p2a: Tropius|Tropius, L91, M|246/328
+|switch|p1a: Iron Leaves|Iron Leaves, L80|3/275
+|turn|26
+|
+|t:|1772746378
+|move|p1a: Iron Leaves|Close Combat|p2a: Tropius
+|-resisted|p2a: Tropius
+|-damage|p2a: Tropius|171/328
+|-unboost|p1a: Iron Leaves|def|1
+|-unboost|p1a: Iron Leaves|spd|1
+|move|p2a: Tropius|Air Slash|p1a: Iron Leaves
+|-supereffective|p1a: Iron Leaves
+|-damage|p1a: Iron Leaves|0 fnt
+|faint|p1a: Iron Leaves
+|-end|p1a: Iron Leaves|Quark Drive|[silent]
+|
+|win|Idkbawouhe
+|l|☆Yue Zhen
+|player|p1|

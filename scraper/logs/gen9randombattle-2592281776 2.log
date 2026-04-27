@@ -1,0 +1,273 @@
+|j|☆fdbbvcbfgnvbcnfg
+|j|☆MeowMeowTheCow
+|t:|1776975633
+|gametype|singles
+|player|p1|fdbbvcbfgnvbcnfg|169|1099
+|player|p2|MeowMeowTheCow|cynthia-gen4|1088
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776975633
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Mudsdale|Mudsdale, L83, M|302/302
+|switch|p2a: Rampardos|Rampardos, L90, F|321/321
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by MeowMeowTheCow)
+|
+|t:|1776975657
+|-terastallize|p2a: Rampardos|Psychic
+|move|p2a: Rampardos|Zen Headbutt|p1a: Mudsdale
+|-damage|p1a: Mudsdale|75/302
+|-ability|p1a: Mudsdale|Stamina|boost
+|-boost|p1a: Mudsdale|def|1
+|move|p1a: Mudsdale|Earthquake|p2a: Rampardos
+|-damage|p2a: Rampardos|159/321
+|
+|-heal|p1a: Mudsdale|93/302|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776975679
+|move|p2a: Rampardos|Zen Headbutt|p1a: Mudsdale
+|-damage|p1a: Mudsdale|0 fnt
+|faint|p1a: Mudsdale
+|
+|upkeep
+|
+|t:|1776975683
+|switch|p1a: Ribombee|Ribombee, L83, F|235/235
+|turn|3
+|
+|t:|1776975686
+|move|p1a: Ribombee|Bug Buzz|p2a: Rampardos
+|-supereffective|p2a: Rampardos
+|-damage|p2a: Rampardos|0 fnt
+|faint|p2a: Rampardos
+|
+|upkeep
+|
+|t:|1776975711
+|switch|p2a: Reshiram|Reshiram, L76|277/277
+|-ability|p2a: Reshiram|Turboblaze
+|turn|4
+|
+|t:|1776975721
+|move|p1a: Ribombee|Stun Spore|p2a: Reshiram
+|-status|p2a: Reshiram|par
+|cant|p2a: Reshiram|par
+|
+|upkeep
+|turn|5
+|
+|t:|1776975730
+|move|p1a: Ribombee|Sticky Web|p2a: Reshiram
+|-sidestart|p2: MeowMeowTheCow|move: Sticky Web
+|move|p2a: Reshiram|Flare Blitz|p1a: Ribombee
+|-supereffective|p1a: Ribombee
+|-damage|p1a: Ribombee|0 fnt
+|faint|p1a: Ribombee
+|-damage|p2a: Reshiram|199/277 par|[from] Recoil
+|
+|upkeep
+|
+|t:|1776975743
+|switch|p1a: Sandslash|Sandslash, L89, F|278/278
+|turn|6
+|
+|t:|1776975751
+|move|p1a: Sandslash|Earthquake|p2a: Reshiram
+|-supereffective|p2a: Reshiram
+|-damage|p2a: Reshiram|0 fnt
+|faint|p2a: Reshiram
+|
+|upkeep
+|
+|t:|1776975760
+|switch|p2a: Lilligant|Lilligant-Hisui, L79, F|240/240
+|-activate|p2a: Lilligant|move: Sticky Web
+|-unboost|p2a: Lilligant|spe|1
+|turn|7
+|
+|t:|1776975777
+|move|p1a: Sandslash|Knock Off|p2a: Lilligant
+|-resisted|p2a: Lilligant
+|-damage|p2a: Lilligant|196/240
+|-enditem|p2a: Lilligant|Wide Lens|[from] move: Knock Off|[of] p1a: Sandslash
+|move|p2a: Lilligant|Leaf Blade|p1a: Sandslash
+|-supereffective|p1a: Sandslash
+|-damage|p1a: Sandslash|62/278
+|
+|upkeep
+|turn|8
+|
+|t:|1776975785
+|move|p1a: Sandslash|Earthquake|p2a: Lilligant
+|-resisted|p2a: Lilligant
+|-crit|p2a: Lilligant
+|-damage|p2a: Lilligant|94/240
+|move|p2a: Lilligant|Leaf Blade|p1a: Sandslash
+|-supereffective|p1a: Sandslash
+|-damage|p1a: Sandslash|0 fnt
+|faint|p1a: Sandslash
+|
+|upkeep
+|
+|t:|1776975792
+|switch|p1a: Ceruledge|Ceruledge, L78, F|245/245
+|turn|9
+|
+|t:|1776975804
+|move|p1a: Ceruledge|Bitter Blade|p2a: Lilligant
+|-supereffective|p2a: Lilligant
+|-damage|p2a: Lilligant|0 fnt
+|faint|p2a: Lilligant
+|
+|upkeep
+|
+|t:|1776975821
+|switch|p2a: Mightyena|Mightyena, L96, F|290/290
+|-activate|p2a: Mightyena|move: Sticky Web
+|-unboost|p2a: Mightyena|spe|1
+|-ability|p2a: Mightyena|Intimidate|boost
+|-unboost|p1a: Ceruledge|atk|1
+|turn|10
+|
+|t:|1776975831
+|move|p2a: Mightyena|Sucker Punch|p1a: Ceruledge
+|-supereffective|p1a: Ceruledge
+|-damage|p1a: Ceruledge|23/245
+|-ability|p1a: Ceruledge|Weak Armor|boost
+|-unboost|p1a: Ceruledge|def|1
+|-boost|p1a: Ceruledge|spe|2
+|move|p1a: Ceruledge|Close Combat|p2a: Mightyena
+|-supereffective|p2a: Mightyena
+|-crit|p2a: Mightyena
+|-damage|p2a: Mightyena|16/290
+|-unboost|p1a: Ceruledge|def|1
+|-unboost|p1a: Ceruledge|spd|1
+|
+|-heal|p2a: Mightyena|34/290|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776975843
+|move|p2a: Mightyena|Sucker Punch|p1a: Ceruledge
+|-supereffective|p1a: Ceruledge
+|-damage|p1a: Ceruledge|0 fnt
+|faint|p1a: Ceruledge
+|
+|-heal|p2a: Mightyena|52/290|[from] item: Leftovers
+|upkeep
+|
+|t:|1776975846
+|switch|p1a: Clawitzer|Clawitzer, L87, F|265/265
+|turn|12
+|
+|t:|1776975857
+|move|p2a: Mightyena|Sucker Punch|p1a: Clawitzer
+|-damage|p1a: Clawitzer|180/265
+|move|p1a: Clawitzer|Water Pulse|p2a: Mightyena
+|-damage|p2a: Mightyena|0 fnt
+|faint|p2a: Mightyena
+|
+|upkeep
+|
+|t:|1776975863
+|switch|p2a: Sceptile|Sceptile, L87, F|264/264
+|-activate|p2a: Sceptile|move: Sticky Web
+|-unboost|p2a: Sceptile|spe|1
+|turn|13
+|
+|t:|1776975870
+|move|p2a: Sceptile|Giga Drain|p1a: Clawitzer
+|-supereffective|p1a: Clawitzer
+|-damage|p1a: Clawitzer|0 fnt
+|faint|p1a: Clawitzer
+|-damage|p2a: Sceptile|238/264|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776975872
+|switch|p1a: Sinistcha|Sinistcha-Masterpiece, L83|254/254
+|turn|14
+|
+|t:|1776975899
+|move|p2a: Sceptile|Rock Slide|p1a: Sinistcha
+|-damage|p1a: Sinistcha|199/254
+|-damage|p2a: Sceptile|212/264|[from] item: Life Orb
+|cant|p1a: Sinistcha|flinch
+|
+|-heal|p1a: Sinistcha|214/254|[from] item: Leftovers
+|upkeep
+|turn|15
+|inactive|MeowMeowTheCow has 120 seconds left.
+|
+|t:|1776975916
+|move|p2a: Sceptile|Rock Slide|p1a: Sinistcha
+|-damage|p1a: Sinistcha|159/254
+|-damage|p2a: Sceptile|186/264|[from] item: Life Orb
+|move|p1a: Sinistcha|Calm Mind|p1a: Sinistcha
+|-boost|p1a: Sinistcha|spa|1
+|-boost|p1a: Sinistcha|spd|1
+|
+|-heal|p1a: Sinistcha|174/254|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776975925
+|move|p2a: Sceptile|Rock Slide|p1a: Sinistcha
+|-damage|p1a: Sinistcha|118/254
+|-damage|p2a: Sceptile|160/264|[from] item: Life Orb
+|move|p1a: Sinistcha|Strength Sap|p2a: Sceptile
+|-unboost|p2a: Sceptile|atk|1
+|-heal|p1a: Sinistcha|254/254
+|
+|upkeep
+|turn|17
+|
+|t:|1776975939
+|move|p2a: Sceptile|Giga Drain|p1a: Sinistcha
+|-resisted|p1a: Sinistcha
+|-damage|p1a: Sinistcha|210/254
+|-heal|p2a: Sceptile|182/264|[from] drain|[of] p1a: Sinistcha
+|-damage|p2a: Sceptile|156/264|[from] item: Life Orb
+|move|p1a: Sinistcha|Shadow Ball|p2a: Sceptile
+|-crit|p2a: Sceptile
+|-damage|p2a: Sceptile|0 fnt
+|faint|p2a: Sceptile
+|
+|-heal|p1a: Sinistcha|225/254|[from] item: Leftovers
+|upkeep
+|inactive|MeowMeowTheCow has 120 seconds left.
+|
+|t:|1776975949
+|switch|p2a: Lucario|Lucario, L84, M|255/255
+|-activate|p2a: Lucario|move: Sticky Web
+|-unboost|p2a: Lucario|spe|1
+|turn|18
+|
+|t:|1776975956
+|move|p1a: Sinistcha|Shadow Ball|p2a: Lucario
+|-damage|p2a: Lucario|74/255
+|move|p2a: Lucario|Swords Dance|p2a: Lucario
+|-boost|p2a: Lucario|atk|2
+|
+|-heal|p1a: Sinistcha|240/254|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1776975963
+|move|p1a: Sinistcha|Shadow Ball|p2a: Lucario
+|-damage|p2a: Lucario|0 fnt
+|faint|p2a: Lucario
+|
+|win|fdbbvcbfgnvbcnfg
+|raw|fdbbvcbfgnvbcnfg's rating: 1123 &rarr; <strong>1145</strong><br />(+22 for winning)
+|raw|MeowMeowTheCow's rating: 1088 &rarr; <strong>1067</strong><br />(-21 for losing)

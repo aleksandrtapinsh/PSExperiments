@@ -1,0 +1,116 @@
+|j|☆serchnado
+|j|☆aci2nn
+|t:|1776971947
+|gametype|singles
+|player|p1|serchnado|102|1793
+|player|p2|aci2nn|266|1811
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776971947
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Toxicroak|Toxicroak, L84, M|277/277
+|switch|p2a: Wo-Chien|Wo-Chien, L83|277/277
+|-ability|p2a: Wo-Chien|Tablets of Ruin
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by aci2nn)
+|
+|t:|1776971970
+|switch|p2a: Arbok|Arbok, L87, M|246/246
+|-ability|p2a: Arbok|Intimidate|boost
+|-unboost|p1a: Toxicroak|atk|1
+|move|p1a: Toxicroak|Gunk Shot|p2a: Arbok
+|-resisted|p2a: Arbok
+|-damage|p2a: Arbok|196/246
+|
+|-heal|p2a: Arbok|211/246|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776971978
+|switch|p1a: Rampardos|Rampardos, L90, F|321/321
+|move|p2a: Arbok|Trailblaze|p1a: Rampardos
+|-supereffective|p1a: Rampardos
+|-damage|p1a: Rampardos|225/321
+|-boost|p2a: Arbok|spe|1
+|
+|-heal|p2a: Arbok|226/246|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776971990
+|move|p2a: Arbok|Coil|p2a: Arbok
+|-boost|p2a: Arbok|atk|1
+|-boost|p2a: Arbok|def|1
+|-boost|p2a: Arbok|accuracy|1
+|move|p1a: Rampardos|Earthquake|p2a: Arbok
+|-supereffective|p2a: Arbok
+|-damage|p2a: Arbok|26/246
+|
+|-heal|p2a: Arbok|41/246|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776972002
+|move|p2a: Arbok|Earthquake|p1a: Rampardos
+|-supereffective|p1a: Rampardos
+|-damage|p1a: Rampardos|0 fnt
+|faint|p1a: Rampardos
+|
+|-heal|p2a: Arbok|56/246|[from] item: Leftovers
+|upkeep
+|
+|t:|1776972011
+|switch|p1a: Vaporeon|Vaporeon, L86, M|364/364
+|turn|5
+|
+|t:|1776972015
+|move|p2a: Arbok|Gunk Shot|p1a: Vaporeon
+|-damage|p1a: Vaporeon|96/364
+|-status|p1a: Vaporeon|psn
+|move|p1a: Vaporeon|Scald|p2a: Arbok
+|-damage|p2a: Arbok|0 fnt
+|faint|p2a: Arbok
+|
+|-heal|p1a: Vaporeon|118/364 psn|[from] item: Leftovers
+|-damage|p1a: Vaporeon|73/364 psn|[from] psn
+|upkeep
+|
+|t:|1776972028
+|switch|p2a: Veluza|Veluza, L85, M|292/292
+|turn|6
+|
+|t:|1776972038
+|switch|p1a: Raikou|Raikou, L81|278/278
+|-ability|p1a: Raikou|Pressure
+|move|p2a: Veluza|Fillet Away|p2a: Veluza
+|-boost|p2a: Veluza|atk|2
+|-boost|p2a: Veluza|spa|2
+|-boost|p2a: Veluza|spe|2
+|-damage|p2a: Veluza|146/292
+|-enditem|p2a: Veluza|Sitrus Berry|[eat]
+|-heal|p2a: Veluza|219/292|[from] item: Sitrus Berry
+|
+|upkeep
+|turn|7
+|
+|t:|1776972044
+|move|p2a: Veluza|Psycho Cut|p1a: Raikou
+|-damage|p1a: Raikou|0 fnt
+|faint|p1a: Raikou
+|
+|upkeep
+|-message|serchnado forfeited.
+|
+|win|aci2nn
+|raw|serchnado's rating: 1793 &rarr; <strong>1774</strong><br />(-19 for losing)
+|raw|aci2nn's rating: 1811 &rarr; <strong>1830</strong><br />(+19 for winning)
+|l|☆serchnado
+|player|p1|

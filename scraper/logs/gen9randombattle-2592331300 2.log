@@ -1,0 +1,35 @@
+|j|☆Blink_2wice
+|j|☆Heyitshayes
+|t:|1776979499
+|gametype|singles
+|player|p1|Blink_2wice|emmet|
+|player|p2|Heyitshayes|n|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776979499
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Emboar|Emboar, L84, M|322/322
+|switch|p2a: Houndoom|Houndoom, L87, M|272/272
+|turn|1
+|
+|t:|1776979504
+|move|p2a: Houndoom|Nasty Plot|p2a: Houndoom
+|-boost|p2a: Houndoom|spa|2
+|move|p1a: Emboar|Scald|p2a: Houndoom
+|-supereffective|p2a: Houndoom
+|-damage|p2a: Houndoom|152/272
+|
+|upkeep
+|turn|2
+|-message|Heyitshayes forfeited.
+|
+|win|Blink_2wice
+|l|☆Heyitshayes
+|player|p2|

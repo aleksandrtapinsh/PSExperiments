@@ -1,0 +1,271 @@
+|j|☆Ryan3044
+|j|☆Kuilool
+|t:|1772745296
+|gametype|singles
+|player|p1|Ryan3044|2|1043
+|player|p2|Kuilool|steven|1000
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772745296
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Treads|Iron Treads, L77|265/265
+|switch|p2a: Dachsbun|Dachsbun, L92, M|254/254
+|turn|1
+|
+|t:|1772745315
+|move|p2a: Dachsbun|Protect|p2a: Dachsbun
+|-singleturn|p2a: Dachsbun|Protect
+|move|p1a: Iron Treads|Iron Head|p2a: Dachsbun
+|-activate|p2a: Dachsbun|move: Protect
+|
+|upkeep
+|turn|2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Ryan3044)
+|
+|t:|1772745324
+|move|p2a: Dachsbun|Yawn|p1a: Iron Treads
+|-start|p1a: Iron Treads|move: Yawn|[of] p2a: Dachsbun
+|move|p1a: Iron Treads|Iron Head|p2a: Dachsbun
+|-supereffective|p2a: Dachsbun
+|-damage|p2a: Dachsbun|134/254
+|
+|-heal|p2a: Dachsbun|149/254|[from] item: Leftovers
+|upkeep
+|turn|3
+|l|☆Ryan3044
+|inactive|Ryan3044 disconnected and has a minute to reconnect!
+|player|p1|
+|j|☆Ryan3044
+|inactive|Ryan3044 reconnected and has 130 seconds left.
+|player|p1|Ryan3044|2|
+|inactive|Ryan3044 has 120 seconds left.
+|
+|t:|1772745365
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Zangoose|Zangoose, L85, M|263/263
+|move|p2a: Dachsbun|Wish|p2a: Dachsbun
+|
+|-heal|p2a: Dachsbun|164/254|[from] item: Leftovers
+|-status|p1a: Zangoose|tox|[from] item: Toxic Orb
+|upkeep
+|turn|4
+|
+|t:|1772745375
+|move|p2a: Dachsbun|Yawn||[still]
+|-fail|p2a: Dachsbun
+|move|p1a: Zangoose|Facade|p2a: Dachsbun
+|-damage|p2a: Dachsbun|0 fnt
+|faint|p2a: Dachsbun
+|
+|-damage|p1a: Zangoose|247/263 tox|[from] psn
+|upkeep
+|
+|t:|1772745387
+|switch|p2a: Vigoroth|Vigoroth, L85, M|275/275
+|turn|5
+|
+|t:|1772745397
+|move|p2a: Vigoroth|Earthquake|p1a: Zangoose
+|-damage|p1a: Zangoose|157/263 tox
+|move|p1a: Zangoose|Facade|p2a: Vigoroth
+|-damage|p2a: Vigoroth|83/275
+|
+|-damage|p1a: Zangoose|125/263 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1772745417
+|move|p1a: Zangoose|Quick Attack|p2a: Vigoroth
+|-damage|p2a: Vigoroth|23/275
+|move|p2a: Vigoroth|Body Slam|p1a: Zangoose
+|-damage|p1a: Zangoose|11/263 tox
+|
+|-damage|p1a: Zangoose|0 fnt|[from] psn
+|faint|p1a: Zangoose
+|upkeep
+|inactive|Ryan3044 has 120 seconds left.
+|
+|t:|1772745434
+|switch|p1a: Iron Treads|Iron Treads, L77|265/265
+|turn|7
+|inactive|Ryan3044 has 120 seconds left.
+|
+|t:|1772745443
+|move|p1a: Iron Treads|Iron Head|p2a: Vigoroth
+|-damage|p2a: Vigoroth|0 fnt
+|faint|p2a: Vigoroth
+|
+|upkeep
+|
+|t:|1772745449
+|switch|p2a: Victreebel|Victreebel, L90, M|290/290
+|turn|8
+|
+|t:|1772745458
+|move|p1a: Iron Treads|Volt Switch|p2a: Victreebel
+|-resisted|p2a: Victreebel
+|-damage|p2a: Victreebel|273/290
+|
+|t:|1772745467
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Bombirdier|Bombirdier, L85, M|258/258|[from] Volt Switch
+|move|p2a: Victreebel|Swords Dance|p2a: Victreebel
+|-boost|p2a: Victreebel|atk|2
+|
+|upkeep
+|turn|9
+|
+|t:|1772745479
+|move|p1a: Bombirdier|Brave Bird|p2a: Victreebel
+|-supereffective|p2a: Victreebel
+|-damage|p2a: Victreebel|0 fnt
+|faint|p2a: Victreebel
+|-damage|p1a: Bombirdier|168/258|[from] Recoil
+|
+|upkeep
+|
+|t:|1772745488
+|switch|p2a: Glaceon|Glaceon, L94, F|275/275
+|turn|10
+|inactive|Ryan3044 has 120 seconds left.
+|
+|t:|1772745513
+|switch|p1a: Indeedee|Indeedee, L84, M|238/238
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Indeedee
+|move|p2a: Glaceon|Protect||[still]
+|-fail|p2a: Glaceon
+|
+|upkeep
+|turn|11
+|
+|t:|1772745526
+|move|p1a: Indeedee|Expanding Force|p2a: Glaceon
+|-damage|p2a: Glaceon|136/275
+|move|p2a: Glaceon|Freeze-Dry|p1a: Indeedee
+|-damage|p1a: Indeedee|123/238
+|
+|upkeep
+|turn|12
+|
+|t:|1772745538
+|move|p2a: Glaceon|Protect|p2a: Glaceon
+|-singleturn|p2a: Glaceon|Protect
+|move|p1a: Indeedee|Expanding Force|p2a: Glaceon
+|-activate|p2a: Glaceon|move: Protect
+|
+|upkeep
+|turn|13
+|
+|t:|1772745552
+|switch|p2a: Tsareena|Tsareena, L87, F|267/267
+|move|p1a: Indeedee|Expanding Force|p2a: Tsareena
+|-damage|p2a: Tsareena|117/267
+|
+|upkeep
+|turn|14
+|
+|t:|1772745563
+|-terastallize|p2a: Tsareena|Fighting
+|move|p1a: Indeedee|Expanding Force|p2a: Tsareena
+|-supereffective|p2a: Tsareena
+|-damage|p2a: Tsareena|0 fnt
+|faint|p2a: Tsareena
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1772745575
+|switch|p2a: Glaceon|Glaceon, L94, F|136/275
+|turn|15
+|
+|t:|1772745582
+|move|p2a: Glaceon|Protect|p2a: Glaceon
+|-singleturn|p2a: Glaceon|Protect
+|move|p1a: Indeedee|Expanding Force|p2a: Glaceon
+|-activate|p2a: Glaceon|move: Protect
+|
+|upkeep
+|turn|16
+|
+|t:|1772745597
+|switch|p1a: Iron Treads|Iron Treads, L77|265/265
+|move|p2a: Glaceon|Freeze-Dry|p1a: Iron Treads
+|-damage|p1a: Iron Treads|156/265
+|
+|upkeep
+|turn|17
+|
+|t:|1772745609
+|move|p1a: Iron Treads|Iron Head|p2a: Glaceon
+|-supereffective|p2a: Glaceon
+|-damage|p2a: Glaceon|20/275
+|cant|p2a: Glaceon|flinch
+|
+|upkeep
+|turn|18
+|
+|t:|1772745622
+|move|p2a: Glaceon|Protect|p2a: Glaceon
+|-singleturn|p2a: Glaceon|Protect
+|move|p1a: Iron Treads|Volt Switch|p2a: Glaceon
+|-activate|p2a: Glaceon|move: Protect
+|
+|upkeep
+|turn|19
+|
+|t:|1772745629
+|switch|p2a: Koraidon|Koraidon, L64|235/235
+|-weather|SunnyDay|[from] ability: Orichalcum Pulse|[of] p2a: Koraidon
+|-activate|p2a: Koraidon|Orichalcum Pulse|[source]
+|move|p1a: Iron Treads|Volt Switch|p2a: Koraidon
+|-resisted|p2a: Koraidon
+|-damage|p2a: Koraidon|215/235
+|
+|t:|1772745643
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Chien-Pao|Chien-Pao, L72|234/234|[from] Volt Switch
+|-ability|p1a: Chien-Pao|Sword of Ruin
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|20
+|
+|t:|1772745654
+|move|p1a: Chien-Pao|Icicle Crash|p2a: Koraidon
+|-supereffective|p2a: Koraidon
+|-damage|p2a: Koraidon|0 fnt
+|faint|p2a: Koraidon
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1772745661
+|switch|p2a: Glaceon|Glaceon, L94, F|20/275
+|turn|21
+|
+|t:|1772745668
+|move|p2a: Glaceon|Protect|p2a: Glaceon
+|-singleturn|p2a: Glaceon|Protect
+|move|p1a: Chien-Pao|Sucker Punch||[still]
+|-fail|p1a: Chien-Pao
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|22
+|
+|t:|1772745682
+|move|p1a: Chien-Pao|Throat Chop|p2a: Glaceon
+|-damage|p2a: Glaceon|0 fnt
+|faint|p2a: Glaceon
+|
+|win|Ryan3044
+|raw|Ryan3044's rating: 1043 &rarr; <strong>1072</strong><br />(+29 for winning)
+|raw|Kuilool's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)

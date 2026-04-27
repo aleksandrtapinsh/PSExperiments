@@ -1,0 +1,423 @@
+|j|☆julupg
+|j|☆zaguar03
+|t:|1772748719
+|gametype|singles
+|player|p1|julupg|hoopster|
+|player|p2|zaguar03|cynthia-gen4|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772748719
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Medicham|Medicham, L86, M|243/243
+|switch|p2a: Gallade|Gallade, L80, M|240/240
+|turn|1
+|
+|t:|1772748830
+|move|p1a: Medicham|Poison Jab|p2a: Gallade
+|-damage|p2a: Gallade|78/240
+|move|p2a: Gallade|Night Slash|p1a: Medicham
+|-damage|p1a: Medicham|127/243
+|-damage|p2a: Gallade|54/240|[from] item: Life Orb
+|
+|upkeep
+|turn|2
+|
+|t:|1772748840
+|move|p1a: Medicham|Poison Jab|p2a: Gallade
+|-damage|p2a: Gallade|0 fnt
+|faint|p2a: Gallade
+|
+|upkeep
+|
+|t:|1772748851
+|switch|p2a: Lanturn|Lanturn, L89, M|367/367
+|turn|3
+|
+|t:|1772748884
+|switch|p1a: Bellossom|Bellossom, L84, F|263/263
+|move|p2a: Lanturn|Scald|p1a: Bellossom
+|-resisted|p1a: Bellossom
+|-damage|p1a: Bellossom|227/263
+|
+|-heal|p1a: Bellossom|243/263|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1772748896
+|move|p2a: Lanturn|Ice Beam|p1a: Bellossom
+|-supereffective|p1a: Bellossom
+|-damage|p1a: Bellossom|143/263
+|move|p1a: Bellossom|Giga Drain|p2a: Lanturn
+|-supereffective|p2a: Lanturn
+|-damage|p2a: Lanturn|193/367
+|-heal|p1a: Bellossom|230/263|[from] drain|[of] p2a: Lanturn
+|
+|-heal|p2a: Lanturn|215/367|[from] item: Leftovers
+|-heal|p1a: Bellossom|246/263|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1772748908
+|move|p2a: Lanturn|Ice Beam|p1a: Bellossom
+|-supereffective|p1a: Bellossom
+|-damage|p1a: Bellossom|136/263
+|-status|p1a: Bellossom|frz
+|-curestatus|p1a: Bellossom|frz|[msg]
+|move|p1a: Bellossom|Giga Drain|p2a: Lanturn
+|-supereffective|p2a: Lanturn
+|-damage|p2a: Lanturn|59/367
+|-heal|p1a: Bellossom|214/263|[from] drain|[of] p2a: Lanturn
+|
+|-heal|p2a: Lanturn|81/367|[from] item: Leftovers
+|-heal|p1a: Bellossom|230/263|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1772748924
+|move|p2a: Lanturn|Ice Beam|p1a: Bellossom
+|-supereffective|p1a: Bellossom
+|-damage|p1a: Bellossom|128/263
+|-status|p1a: Bellossom|frz
+|-curestatus|p1a: Bellossom|frz|[msg]
+|move|p1a: Bellossom|Giga Drain|p2a: Lanturn
+|-supereffective|p2a: Lanturn
+|-damage|p2a: Lanturn|0 fnt
+|-heal|p1a: Bellossom|169/263|[from] drain|[of] p2a: Lanturn
+|faint|p2a: Lanturn
+|
+|-heal|p1a: Bellossom|185/263|[from] item: Leftovers
+|upkeep
+|
+|t:|1772748936
+|switch|p2a: Volcarona|Volcarona, L77, M|257/257
+|turn|7
+|
+|t:|1772748973
+|switch|p1a: Camerupt|Camerupt, L91, F|275/275
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|
+|upkeep
+|turn|8
+|
+|t:|1772748985
+|move|p2a: Volcarona|Giga Drain|p1a: Camerupt
+|-damage|p1a: Camerupt|188/275
+|move|p1a: Camerupt|Stealth Rock|p2a: Volcarona
+|-sidestart|p2: zaguar03|move: Stealth Rock
+|
+|-heal|p1a: Camerupt|205/275|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1772749002
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|move|p1a: Camerupt|Roar|p2a: Volcarona
+|drag|p2a: Manaphy|Manaphy, L78|284/284
+|-damage|p2a: Manaphy|249/284|[from] Stealth Rock
+|
+|-heal|p2a: Manaphy|266/284|[from] item: Leftovers
+|-heal|p1a: Camerupt|222/275|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1772749016
+|-terastallize|p1a: Camerupt|Grass
+|move|p2a: Manaphy|Surf|p1a: Camerupt
+|-resisted|p1a: Camerupt
+|-damage|p1a: Camerupt|177/275
+|move|p1a: Camerupt|Earthquake|p2a: Manaphy
+|-damage|p2a: Manaphy|151/284
+|
+|-heal|p2a: Manaphy|168/284|[from] item: Leftovers
+|-heal|p1a: Camerupt|194/275|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1772749029
+|move|p2a: Manaphy|Ice Beam|p1a: Camerupt
+|-supereffective|p1a: Camerupt
+|-damage|p1a: Camerupt|104/275
+|move|p1a: Camerupt|Earthquake|p2a: Manaphy
+|-damage|p2a: Manaphy|44/284
+|
+|-heal|p2a: Manaphy|61/284|[from] item: Leftovers
+|-heal|p1a: Camerupt|121/275|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1772749037
+|move|p2a: Manaphy|Ice Beam|p1a: Camerupt
+|-supereffective|p1a: Camerupt
+|-damage|p1a: Camerupt|30/275
+|move|p1a: Camerupt|Earthquake|p2a: Manaphy
+|-damage|p2a: Manaphy|0 fnt
+|faint|p2a: Manaphy
+|
+|-heal|p1a: Camerupt|47/275|[from] item: Leftovers
+|upkeep
+|
+|t:|1772749051
+|switch|p2a: Smeargle|Smeargle, L95, M|258/258
+|-damage|p2a: Smeargle|226/258|[from] Stealth Rock
+|turn|13
+|
+|t:|1772749076
+|switch|p1a: Blaziken|Blaziken, L76, M|247/247
+|move|p2a: Smeargle|Population Bomb|p1a: Blaziken
+|-damage|p1a: Blaziken|228/247
+|-damage|p1a: Blaziken|207/247
+|-damage|p1a: Blaziken|185/247
+|-damage|p1a: Blaziken|163/247
+|-damage|p1a: Blaziken|142/247
+|-damage|p1a: Blaziken|120/247
+|-damage|p1a: Blaziken|101/247
+|-damage|p1a: Blaziken|80/247
+|-damage|p1a: Blaziken|59/247
+|-damage|p1a: Blaziken|37/247
+|-hitcount|p1a: Blaziken|10
+|
+|upkeep
+|turn|14
+|
+|t:|1772749098
+|switch|p2a: Volcarona|Volcarona, L77, M|257/257
+|move|p1a: Blaziken|Close Combat|p2a: Volcarona
+|-resisted|p2a: Volcarona
+|-damage|p2a: Volcarona|158/257
+|-unboost|p1a: Blaziken|def|1
+|-unboost|p1a: Blaziken|spd|1
+|-damage|p1a: Blaziken|13/247|[from] item: Life Orb
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|15
+|
+|t:|1772749129
+|switch|p1a: Vikavolt|Vikavolt, L83, M|263/263
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|
+|upkeep
+|turn|16
+|
+|t:|1772749139
+|move|p2a: Volcarona|Fire Blast|p1a: Vikavolt|[miss]
+|-miss|p2a: Volcarona|p1a: Vikavolt
+|move|p1a: Vikavolt|Energy Ball|p2a: Volcarona
+|-resisted|p2a: Volcarona
+|-damage|p2a: Volcarona|146/257
+|
+|upkeep
+|turn|17
+|
+|t:|1772749167
+|switch|p1a: Slowking|Slowking-Galar, L85, M|300/300
+|move|p2a: Volcarona|Fire Blast|p1a: Slowking
+|-damage|p1a: Slowking|137/300
+|
+|-heal|p1a: Slowking|155/300|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1772749182
+|move|p2a: Volcarona|Bug Buzz|p1a: Slowking
+|-damage|p1a: Slowking|28/300
+|move|p1a: Slowking|Slack Off|p1a: Slowking
+|-heal|p1a: Slowking|178/300
+|
+|-heal|p1a: Slowking|196/300|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1772749191
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|move|p1a: Slowking|Thunder Wave|p2a: Volcarona
+|-status|p2a: Volcarona|par
+|
+|-heal|p1a: Slowking|214/300|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1772749202
+|cant|p2a: Volcarona|par
+|move|p1a: Slowking|Sludge Bomb|p2a: Volcarona
+|-damage|p2a: Volcarona|92/257 par
+|
+|-heal|p1a: Slowking|232/300|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1772749210
+|cant|p2a: Volcarona|par
+|move|p1a: Slowking|Sludge Bomb|p2a: Volcarona
+|-damage|p2a: Volcarona|38/257 par
+|
+|-heal|p1a: Slowking|250/300|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1772749219
+|move|p2a: Volcarona|Bug Buzz|p1a: Slowking
+|-damage|p1a: Slowking|84/300
+|move|p1a: Slowking|Sludge Bomb|p2a: Volcarona
+|-damage|p2a: Volcarona|0 fnt
+|faint|p2a: Volcarona
+|
+|-heal|p1a: Slowking|102/300|[from] item: Leftovers
+|upkeep
+|
+|t:|1772749225
+|switch|p2a: Smeargle|Smeargle, L95, M|226/258
+|-damage|p2a: Smeargle|194/258|[from] Stealth Rock
+|turn|23
+|
+|t:|1772749230
+|move|p2a: Smeargle|Spore|p1a: Slowking
+|-status|p1a: Slowking|slp|[from] move: Spore
+|cant|p1a: Slowking|slp
+|
+|-heal|p1a: Slowking|120/300 slp|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1772749242
+|move|p2a: Smeargle|Shell Smash|p2a: Smeargle
+|-unboost|p2a: Smeargle|def|1
+|-unboost|p2a: Smeargle|spd|1
+|-boost|p2a: Smeargle|atk|2
+|-boost|p2a: Smeargle|spa|2
+|-boost|p2a: Smeargle|spe|2
+|cant|p1a: Slowking|slp
+|
+|-heal|p1a: Slowking|138/300 slp|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1772749251
+|move|p2a: Smeargle|Shell Smash|p2a: Smeargle
+|-unboost|p2a: Smeargle|def|1
+|-unboost|p2a: Smeargle|spd|1
+|-boost|p2a: Smeargle|atk|2
+|-boost|p2a: Smeargle|spa|2
+|-boost|p2a: Smeargle|spe|2
+|cant|p1a: Slowking|slp
+|
+|-heal|p1a: Slowking|156/300 slp|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1772749266
+|move|p2a: Smeargle|Population Bomb|p1a: Slowking
+|-damage|p1a: Slowking|105/300 slp
+|-damage|p1a: Slowking|56/300 slp
+|-damage|p1a: Slowking|7/300 slp
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|-hitcount|p1: Slowking|4
+|
+|upkeep
+|
+|t:|1772749278
+|switch|p1a: Medicham|Medicham, L86, M|127/243
+|turn|27
+|
+|t:|1772749283
+|-terastallize|p2a: Smeargle|Ghost
+|move|p2a: Smeargle|Population Bomb|p1a: Medicham
+|-damage|p1a: Medicham|70/243
+|-damage|p1a: Medicham|18/243
+|-damage|p1a: Medicham|0 fnt
+|faint|p1a: Medicham
+|-hitcount|p1: Medicham|3
+|
+|upkeep
+|
+|t:|1772749345
+|switch|p1a: Vikavolt|Vikavolt, L83, M|263/263
+|turn|28
+|
+|t:|1772749351
+|move|p2a: Smeargle|Population Bomb|p1a: Vikavolt
+|-damage|p1a: Vikavolt|212/263
+|-damage|p1a: Vikavolt|164/263
+|-damage|p1a: Vikavolt|119/263
+|-damage|p1a: Vikavolt|71/263
+|-damage|p1a: Vikavolt|23/263
+|-crit|p1a: Vikavolt
+|-damage|p1a: Vikavolt|0 fnt
+|faint|p1a: Vikavolt
+|-hitcount|p1: Vikavolt|6
+|
+|upkeep
+|
+|t:|1772749363
+|switch|p1a: Bellossom|Bellossom, L84, F|185/263
+|turn|29
+|
+|t:|1772749370
+|move|p2a: Smeargle|Population Bomb|p1a: Bellossom
+|-damage|p1a: Bellossom|136/263
+|-damage|p1a: Bellossom|88/263
+|-damage|p1a: Bellossom|43/263
+|-damage|p1a: Bellossom|1/263
+|-damage|p1a: Bellossom|0 fnt
+|faint|p1a: Bellossom
+|-hitcount|p1: Bellossom|5
+|
+|upkeep
+|
+|t:|1772749379
+|switch|p1a: Camerupt|Camerupt, L91, F, tera:Grass|47/275
+|turn|30
+|
+|t:|1772749385
+|move|p2a: Smeargle|Population Bomb|p1a: Camerupt
+|-damage|p1a: Camerupt|0 fnt
+|faint|p1a: Camerupt
+|-hitcount|p1: Camerupt|1
+|
+|upkeep
+|
+|t:|1772749390
+|switch|p1a: Blaziken|Blaziken, L76, M|13/247
+|turn|31
+|
+|t:|1772749399
+|move|p1a: Blaziken|Protect|p1a: Blaziken
+|-singleturn|p1a: Blaziken|Protect
+|move|p2a: Smeargle|Population Bomb|p1a: Blaziken
+|-activate|p1a: Blaziken|move: Protect
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|32
+|
+|t:|1772749408
+|move|p2a: Smeargle|Population Bomb|p1a: Blaziken
+|-damage|p1a: Blaziken|0 fnt
+|faint|p1a: Blaziken
+|-hitcount|p1: Blaziken|1
+|
+|win|zaguar03
+|l|☆zaguar03
+|player|p2|

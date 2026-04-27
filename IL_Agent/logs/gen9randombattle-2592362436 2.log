@@ -1,0 +1,61 @@
+|j|☆le roi des 3 lacs
+|j|☆Gogogogi
+|t:|1776982223
+|gametype|singles
+|player|p1|le roi des 3 lacs|1|1099
+|player|p2|Gogogogi|2|1052
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776982223
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Regice|Regice, L88|284/284
+|switch|p2a: Golduck|Golduck, L90, F|290/290
+|-ability|p2a: Golduck|Cloud Nine
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Gogogogi)
+|inactive|le roi des 3 lacs also wants the timer to be on.
+|
+|t:|1776982236
+|switch|p2a: Flareon|Flareon, L90, F|263/263
+|move|p1a: Regice|Thunderbolt|p2a: Flareon
+|-damage|p2a: Flareon|202/263
+|
+|-status|p2a: Flareon|tox|[from] item: Toxic Orb
+|upkeep
+|turn|2
+|inactive|le roi des 3 lacs has 120 seconds left.
+|
+|t:|1776982269
+|switch|p1a: Baxcalibur|Baxcalibur, L75, M|295/295
+|move|p2a: Flareon|Flare Blitz|p1a: Baxcalibur
+|-damage|p1a: Baxcalibur|15/295
+|-ability|p1a: Baxcalibur|Thermal Exchange|boost
+|-boost|p1a: Baxcalibur|atk|1
+|-damage|p2a: Flareon|110/263 tox|[from] Recoil
+|
+|-damage|p2a: Flareon|94/263 tox|[from] psn
+|upkeep
+|turn|3
+|inactive|le roi des 3 lacs has 120 seconds left.
+|
+|t:|1776982283
+|move|p2a: Flareon|Quick Attack|p1a: Baxcalibur
+|-damage|p1a: Baxcalibur|0 fnt
+|faint|p1a: Baxcalibur
+|
+|-damage|p2a: Flareon|62/263 tox|[from] psn
+|upkeep
+|inactive|le roi des 3 lacs has 120 seconds left.
+|-message|le roi des 3 lacs forfeited.
+|
+|win|Gogogogi
+|raw|le roi des 3 lacs's rating: 1099 &rarr; <strong>1071</strong><br />(-28 for losing)
+|raw|Gogogogi's rating: 1052 &rarr; <strong>1089</strong><br />(+37 for winning)

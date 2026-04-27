@@ -1,0 +1,169 @@
+|j|☆enderghst
+|j|☆kirboamigo
+|t:|1776975603
+|gametype|singles
+|player|p1|enderghst|101|1252
+|player|p2|kirboamigo|266|1238
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776975603
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Sandaconda|Sandaconda, L84, M|258/258
+|switch|p2a: Copperajah|Copperajah, L86, M|350/350
+|turn|1
+|
+|t:|1776975626
+|switch|p2a: Luvdisc|Luvdisc, F|247/247
+|move|p1a: Sandaconda|Coil|p1a: Sandaconda
+|-boost|p1a: Sandaconda|atk|1
+|-boost|p1a: Sandaconda|def|1
+|-boost|p1a: Sandaconda|accuracy|1
+|
+|upkeep
+|turn|2
+|
+|t:|1776975650
+|move|p2a: Luvdisc|Surf|p1a: Sandaconda
+|-supereffective|p1a: Sandaconda
+|-damage|p1a: Sandaconda|78/258
+|move|p1a: Sandaconda|Stone Edge|p2a: Luvdisc
+|-damage|p2a: Luvdisc|123/247
+|
+|-heal|p1a: Sandaconda|94/258|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776975683
+|move|p2a: Luvdisc|Surf|p1a: Sandaconda
+|-supereffective|p1a: Sandaconda
+|-damage|p1a: Sandaconda|0 fnt
+|faint|p1a: Sandaconda
+|
+|upkeep
+|
+|t:|1776975690
+|switch|p1a: Ampharos|Ampharos, L88, M|302/302
+|turn|4
+|
+|t:|1776975710
+|-terastallize|p2a: Luvdisc|Ground
+|move|p2a: Luvdisc|Flip Turn|p1a: Ampharos
+|-damage|p1a: Ampharos|263/302
+|
+|t:|1776975719
+|switch|p2a: Copperajah|Copperajah, L86, M|350/350|[from] Flip Turn
+|move|p1a: Ampharos|Agility|p1a: Ampharos
+|-boost|p1a: Ampharos|spe|2
+|
+|upkeep
+|turn|5
+|
+|t:|1776975730
+|move|p1a: Ampharos|Focus Blast|p2a: Copperajah
+|-supereffective|p2a: Copperajah
+|-damage|p2a: Copperajah|7/350
+|-damage|p1a: Ampharos|233/302|[from] item: Life Orb
+|move|p2a: Copperajah|Earthquake|p1a: Ampharos
+|-supereffective|p1a: Ampharos
+|-damage|p1a: Ampharos|0 fnt
+|faint|p1a: Ampharos
+|
+|upkeep
+|
+|t:|1776975742
+|switch|p1a: Mewtwo|Mewtwo, L72|272/272
+|-ability|p1a: Mewtwo|Unnerve
+|turn|6
+|
+|t:|1776975757
+|move|p1a: Mewtwo|Aura Sphere|p2a: Copperajah
+|-supereffective|p2a: Copperajah
+|-damage|p2a: Copperajah|0 fnt
+|faint|p2a: Copperajah
+|-damage|p1a: Mewtwo|245/272|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776975793
+|switch|p2a: Porygon2|Porygon2, L81|270/270
+|-ability|p2a: Porygon2|Download|boost
+|-boost|p2a: Porygon2|spa|1
+|turn|7
+|
+|t:|1776975805
+|move|p1a: Mewtwo|Aura Sphere|p2a: Porygon2
+|-supereffective|p2a: Porygon2
+|-damage|p2a: Porygon2|163/270
+|-damage|p1a: Mewtwo|218/272|[from] item: Life Orb
+|move|p2a: Porygon2|Shadow Ball|p1a: Mewtwo
+|-supereffective|p1a: Mewtwo
+|-damage|p1a: Mewtwo|36/272
+|
+|upkeep
+|turn|8
+|
+|t:|1776975820
+|-terastallize|p1a: Mewtwo|Fighting
+|move|p1a: Mewtwo|Aura Sphere|p2a: Porygon2
+|-supereffective|p2a: Porygon2
+|-damage|p2a: Porygon2|0 fnt
+|faint|p2a: Porygon2
+|-damage|p1a: Mewtwo|9/272|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776975836
+|switch|p2a: Minun|Minun, L95, F|268/268
+|turn|9
+|
+|t:|1776975850
+|move|p2a: Minun|Nasty Plot|p2a: Minun
+|-boost|p2a: Minun|spa|2
+|move|p1a: Mewtwo|Aura Sphere|p2a: Minun
+|-damage|p2a: Minun|161/268
+|-damage|p1a: Mewtwo|0 fnt|[from] item: Life Orb
+|faint|p1a: Mewtwo
+|
+|upkeep
+|
+|t:|1776975861
+|switch|p1a: Rayquaza|Rayquaza, L72|270/270
+|-ability|p1a: Rayquaza|Air Lock
+|turn|10
+|
+|t:|1776975874
+|move|p2a: Minun|Alluring Voice|p1a: Rayquaza
+|-supereffective|p1a: Rayquaza
+|-damage|p1a: Rayquaza|0 fnt
+|faint|p1a: Rayquaza
+|-damage|p2a: Minun|135/268|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776975883
+|switch|p1a: Lapras|Lapras, L87, M|368/368
+|turn|11
+|
+|t:|1776975895
+|move|p2a: Minun|Grass Knot|p1a: Lapras
+|-supereffective|p1a: Lapras
+|-damage|p1a: Lapras|0 fnt
+|faint|p1a: Lapras
+|-damage|p2a: Minun|109/268|[from] item: Life Orb
+|
+|upkeep
+|-message|enderghst forfeited.
+|
+|win|kirboamigo
+|raw|enderghst's rating: 1252 &rarr; <strong>1226</strong><br />(-26 for losing)
+|raw|kirboamigo's rating: 1238 &rarr; <strong>1264</strong><br />(+26 for winning)
+|l|☆enderghst
+|player|p1|

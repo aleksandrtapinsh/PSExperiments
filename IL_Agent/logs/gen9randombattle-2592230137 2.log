@@ -1,0 +1,86 @@
+|j|☆tfjstjgbnsdt
+|j|☆thork23
+|t:|1776971971
+|gametype|singles
+|player|p1|tfjstjgbnsdt|1|1040
+|player|p2|thork23|102|1078
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776971971
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Camerupt|Camerupt, L91, F|275/275
+|switch|p2a: Lapras|Lapras, L87, M|368/368
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by thork23)
+|
+|t:|1776971990
+|switch|p1a: Tropius|Tropius, L91, M|328/328
+|move|p2a: Lapras|Sparkling Aria|p1a: Tropius
+|-resisted|p1a: Tropius
+|-damage|p1a: Tropius|282/328
+|
+|upkeep
+|turn|2
+|
+|t:|1776972000
+|move|p2a: Lapras|Freeze-Dry|p1a: Tropius
+|-supereffective|p1a: Tropius
+|-damage|p1a: Tropius|30/328
+|-enditem|p1a: Tropius|Sitrus Berry|[eat]
+|-heal|p1a: Tropius|112/328|[from] item: Sitrus Berry
+|move|p1a: Tropius|Substitute|p1a: Tropius
+|-start|p1a: Tropius|Substitute
+|-damage|p1a: Tropius|30/328
+|
+|upkeep
+|turn|3
+|
+|t:|1776972011
+|move|p1a: Tropius|Protect|p1a: Tropius
+|-singleturn|p1a: Tropius|Protect
+|move|p2a: Lapras|Freeze-Dry|p1a: Tropius
+|-activate|p1a: Tropius|move: Protect
+|
+|-item|p1a: Tropius|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|-enditem|p1a: Tropius|Sitrus Berry|[eat]
+|-heal|p1a: Tropius|112/328|[from] item: Sitrus Berry
+|turn|4
+|
+|t:|1776972020
+|move|p2a: Lapras|Freeze-Dry|p1a: Tropius
+|-supereffective|p1a: Tropius
+|-end|p1a: Tropius|Substitute
+|move|p1a: Tropius|Leech Seed|p2a: Lapras
+|-start|p2a: Lapras|move: Leech Seed
+|
+|-damage|p2a: Lapras|322/368|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|158/328|[silent]
+|upkeep
+|turn|5
+|c|☆thork23|doente
+|inactive|thork23 has 120 seconds left.
+|c|☆thork23|chupa um pau
+|c|☆thork23|suck a dick
+|c|☆thork23|fucker
+|inactive|thork23 has 90 seconds left.
+|inactive|thork23 has 60 seconds left.
+|inactive|thork23 has 30 seconds left.
+|inactive|thork23 has 20 seconds left.
+|inactive|thork23 has 15 seconds left.
+|l|☆thork23
+|inactive|thork23 disconnected and has a minute to reconnect!
+|player|p2|
+|inactive|thork23 has 10 seconds left.
+|inactive|thork23 has 5 seconds left.
+|-message|thork23 lost due to inactivity.
+|
+|win|tfjstjgbnsdt

@@ -1,0 +1,410 @@
+|j|☆Captain Brusin'
+|j|☆t0mas2612
+|t:|1772747039
+|gametype|singles
+|player|p1|Captain Brusin'|shadowtriad|1369
+|player|p2|t0mas2612|hoopster|1342
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772747039
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Zekrom|Zekrom, L71|259/259
+|switch|p2a: Eelektross|Eelektross, L87, F|290/290
+|-ability|p1a: Zekrom|Teravolt
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Captain Brusin')
+|
+|t:|1772747053
+|move|p1a: Zekrom|Substitute|p1a: Zekrom
+|-start|p1a: Zekrom|Substitute
+|-damage|p1a: Zekrom|195/259
+|move|p2a: Eelektross|Dragon Tail|p1a: Zekrom
+|-supereffective|p1a: Zekrom
+|-end|p1a: Zekrom|Substitute
+|
+|-heal|p1a: Zekrom|211/259|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1772747072
+|switch|p1a: Ribombee|Ribombee, L83, F|235/235
+|move|p2a: Eelektross|Dragon Tail|p1a: Ribombee
+|-immune|p1a: Ribombee
+|
+|upkeep
+|turn|3
+|
+|t:|1772747096
+|switch|p1a: Snorlax|Snorlax, L82, M|397/397
+|move|p2a: Eelektross|Flamethrower|p1a: Snorlax
+|-damage|p1a: Snorlax|367/397
+|
+|-heal|p1a: Snorlax|391/397|[from] item: Leftovers
+|upkeep
+|turn|4
+|inactive|t0mas2612 has 120 seconds left.
+|
+|t:|1772747141
+|switch|p2a: Darkrai|Darkrai, L77|234/234
+|move|p1a: Snorlax|Body Slam|p2a: Darkrai
+|-damage|p2a: Darkrai|128/234
+|
+|-heal|p1a: Snorlax|397/397|[from] item: Leftovers
+|upkeep
+|turn|5
+|inactive|Captain Brusin' has 120 seconds left.
+|
+|t:|1772747158
+|move|p2a: Darkrai|Focus Blast|p1a: Snorlax
+|-supereffective|p1a: Snorlax
+|-damage|p1a: Snorlax|207/397
+|-damage|p2a: Darkrai|105/234|[from] item: Life Orb
+|move|p1a: Snorlax|Body Slam|p2a: Darkrai
+|-damage|p2a: Darkrai|11/234
+|-status|p2a: Darkrai|par
+|
+|-heal|p1a: Snorlax|231/397|[from] item: Leftovers
+|upkeep
+|turn|6
+|inactive|t0mas2612 has 120 seconds left.
+|inactive|Captain Brusin' has 120 seconds left.
+|
+|t:|1772747178
+|switch|p1a: Ribombee|Ribombee, L83, F|235/235
+|move|p2a: Darkrai|Focus Blast|p1a: Ribombee
+|-resisted|p1a: Ribombee
+|-damage|p1a: Ribombee|197/235
+|-damage|p2a: Darkrai|0 fnt|[from] item: Life Orb
+|faint|p2a: Darkrai
+|
+|upkeep
+|inactive|t0mas2612 has 90 seconds left.
+|
+|t:|1772747211
+|switch|p2a: Eelektross|Eelektross, L87, F|290/290
+|turn|7
+|
+|t:|1772747220
+|switch|p1a: Snorlax|Snorlax, L82, M|231/397
+|move|p2a: Eelektross|Discharge|p1a: Snorlax
+|-damage|p1a: Snorlax|150/397
+|
+|-heal|p1a: Snorlax|174/397|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1772747230
+|move|p2a: Eelektross|Discharge|p1a: Snorlax
+|-damage|p1a: Snorlax|96/397
+|move|p1a: Snorlax|Rest|p1a: Snorlax
+|-status|p1a: Snorlax|slp|[from] move: Rest
+|-heal|p1a: Snorlax|397/397 slp|[silent]
+|
+|upkeep
+|turn|9
+|
+|t:|1772747242
+|cant|p1a: Snorlax|slp
+|move|p1a: Snorlax|Sleep Talk|p1a: Snorlax
+|move|p1a: Snorlax|Rest||[from] move: Sleep Talk|[still]
+|-fail|p1a: Snorlax
+|move|p2a: Eelektross|Dragon Tail|p1a: Snorlax
+|-crit|p1a: Snorlax
+|-damage|p1a: Snorlax|296/397 slp
+|drag|p1a: Ribombee|Ribombee, L83, F|197/235
+|
+|upkeep
+|turn|10
+|
+|t:|1772747260
+|switch|p1a: Snorlax|Snorlax, L82, M|296/397 slp
+|switch|p2a: Greedent|Greedent, L86, F|347/347
+|
+|-heal|p1a: Snorlax|320/397 slp|[from] item: Leftovers
+|upkeep
+|turn|11
+|l|☆Captain Brusin'
+|inactive|Captain Brusin' disconnected and has a minute to reconnect!
+|player|p1|
+|j|☆Captain Brusin'
+|inactive|Captain Brusin' reconnected and has 130 seconds left.
+|player|p1|Captain Brusin'|shadowtriad|
+|inactive|Captain Brusin' has 120 seconds left.
+|c|☆t0mas2612|Zzz
+|inactive|Captain Brusin' has 90 seconds left.
+|c|☆t0mas2612|Zzzzzz
+|
+|t:|1772747315
+|cant|p1a: Snorlax|slp
+|move|p1a: Snorlax|Sleep Talk|p1a: Snorlax
+|move|p1a: Snorlax|Body Slam|p2a: Greedent|[from] move: Sleep Talk
+|-damage|p2a: Greedent|256/347
+|-status|p2a: Greedent|par
+|move|p2a: Greedent|Swords Dance|p2a: Greedent
+|-boost|p2a: Greedent|atk|2
+|
+|-heal|p1a: Snorlax|344/397 slp|[from] item: Leftovers
+|upkeep
+|turn|12
+|inactive|Captain Brusin' has 90 seconds left.
+|inactive|Captain Brusin' has 60 seconds left.
+|
+|t:|1772747350
+|switch|p1a: Iron Boulder|Iron Boulder, L77|265/265
+|-enditem|p1a: Iron Boulder|Booster Energy
+|-activate|p1a: Iron Boulder|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Boulder|quarkdrivespe
+|move|p2a: Greedent|Knock Off|p1a: Iron Boulder
+|-supereffective|p1a: Iron Boulder
+|-damage|p1a: Iron Boulder|47/265
+|
+|upkeep
+|turn|13
+|
+|t:|1772747369
+|move|p1a: Iron Boulder|Close Combat|p2a: Greedent
+|-supereffective|p2a: Greedent
+|-damage|p2a: Greedent|102/347 par
+|-unboost|p1a: Iron Boulder|def|1
+|-unboost|p1a: Iron Boulder|spd|1
+|-enditem|p2a: Greedent|Sitrus Berry|[eat]
+|-heal|p2a: Greedent|188/347 par|[from] item: Sitrus Berry
+|-heal|p2a: Greedent|303/347 par|[from] ability: Cheek Pouch
+|move|p2a: Greedent|Knock Off|p1a: Iron Boulder
+|-supereffective|p1a: Iron Boulder
+|-damage|p1a: Iron Boulder|0 fnt
+|faint|p1a: Iron Boulder
+|-end|p1a: Iron Boulder|Quark Drive|[silent]
+|
+|upkeep
+|inactive|Captain Brusin' has 60 seconds left.
+|
+|t:|1772747383
+|switch|p1a: Jirachi|Jirachi, L80|291/291
+|turn|14
+|
+|t:|1772747387
+|move|p1a: Jirachi|Iron Head|p2a: Greedent
+|-damage|p2a: Greedent|231/347 par
+|cant|p2a: Greedent|flinch
+|
+|upkeep
+|turn|15
+|
+|t:|1772747395
+|move|p1a: Jirachi|Iron Head|p2a: Greedent
+|-damage|p2a: Greedent|159/347 par
+|cant|p2a: Greedent|flinch
+|
+|upkeep
+|turn|16
+|inactive|t0mas2612 has 120 seconds left.
+|
+|t:|1772747401
+|move|p1a: Jirachi|Iron Head|p2a: Greedent
+|-damage|p2a: Greedent|90/347 par
+|cant|p2a: Greedent|flinch
+|
+|upkeep
+|turn|17
+|
+|t:|1772747409
+|move|p1a: Jirachi|Iron Head|p2a: Greedent
+|-damage|p2a: Greedent|18/347 par
+|cant|p2a: Greedent|flinch
+|
+|upkeep
+|turn|18
+|c|☆t0mas2612|Lcbpdtm
+|inactive|t0mas2612 has 120 seconds left.
+|c|☆t0mas2612|Tanto orto vas a tener hdp
+|
+|t:|1772747437
+|move|p1a: Jirachi|Stealth Rock|p2a: Greedent
+|-sidestart|p2: t0mas2612|move: Stealth Rock
+|move|p2a: Greedent|Knock Off|p1a: Jirachi
+|-supereffective|p1a: Jirachi
+|-damage|p1a: Jirachi|17/291
+|-enditem|p1a: Jirachi|Leftovers|[from] move: Knock Off|[of] p2a: Greedent
+|
+|upkeep
+|turn|19
+|
+|t:|1772747446
+|move|p1a: Jirachi|Drain Punch|p2a: Greedent
+|-supereffective|p2a: Greedent
+|-damage|p2a: Greedent|0 fnt
+|-heal|p1a: Jirachi|26/291|[from] drain|[of] p2a: Greedent
+|faint|p2a: Greedent
+|
+|upkeep
+|c|☆t0mas2612|Encima sos malisimo
+|
+|t:|1772747458
+|switch|p2a: Greninja|Greninja, L80, M|246/246
+|-damage|p2a: Greninja|216/246|[from] Stealth Rock
+|turn|20
+|inactive|Captain Brusin' has 120 seconds left.
+|
+|t:|1772747469
+|move|p2a: Greninja|U-turn|p1a: Jirachi
+|-start|p2a: Greninja|typechange|Bug|[from] ability: Protean
+|-damage|p1a: Jirachi|0 fnt
+|faint|p1a: Jirachi
+|-damage|p2a: Greninja|192/246|[from] item: Life Orb
+|
+|t:|1772747475
+|switch|p2a: Brambleghast|Brambleghast, L88, M|240/240|[from] U-turn
+|
+|upkeep
+|inactive|Captain Brusin' has 120 seconds left.
+|
+|t:|1772747495
+|switch|p1a: Zekrom|Zekrom, L71|211/259
+|-ability|p1a: Zekrom|Teravolt
+|turn|21
+|inactive|Captain Brusin' has 120 seconds left.
+|inactive|t0mas2612 has 120 seconds left.
+|
+|t:|1772747505
+|move|p2a: Brambleghast|Rapid Spin|p1a: Zekrom
+|-damage|p1a: Zekrom|165/259
+|-boost|p2a: Brambleghast|spe|1
+|-sideend|p2: t0mas2612|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Brambleghast
+|move|p1a: Zekrom|Dragon Dance|p1a: Zekrom
+|-boost|p1a: Zekrom|atk|1
+|-boost|p1a: Zekrom|spe|1
+|
+|-heal|p1a: Zekrom|181/259|[from] item: Leftovers
+|upkeep
+|turn|22
+|inactive|t0mas2612 has 120 seconds left.
+|inactive|Captain Brusin' has 120 seconds left.
+|
+|t:|1772747528
+|switch|p2a: Greninja|Greninja, L80, M|192/246
+|move|p1a: Zekrom|Outrage|p2a: Greninja
+|-damage|p2a: Greninja|0 fnt
+|faint|p2a: Greninja
+|
+|-heal|p1a: Zekrom|197/259|[from] item: Leftovers
+|upkeep
+|inactive|t0mas2612 has 90 seconds left.
+|
+|t:|1772747573
+|switch|p2a: Grumpig|Grumpig, L92, M|297/297
+|turn|23
+|
+|t:|1772747582
+|move|p1a: Zekrom|Outrage|p2a: Grumpig|[from] lockedmove
+|-damage|p2a: Grumpig|71/297
+|-start|p1a: Zekrom|confusion|[fatigue]
+|move|p2a: Grumpig|Earth Power|p1a: Zekrom
+|-supereffective|p1a: Zekrom
+|-damage|p1a: Zekrom|49/259
+|
+|-heal|p1a: Zekrom|65/259|[from] item: Leftovers
+|-heal|p2a: Grumpig|89/297|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1772747593
+|-activate|p1a: Zekrom|confusion
+|move|p1a: Zekrom|Bolt Strike|p2a: Grumpig
+|-damage|p2a: Grumpig|0 fnt
+|faint|p2a: Grumpig
+|
+|-heal|p1a: Zekrom|81/259|[from] item: Leftovers
+|upkeep
+|
+|t:|1772747610
+|switch|p2a: Brambleghast|Brambleghast, L88, M|240/240
+|turn|25
+|
+|t:|1772747619
+|-terastallize|p2a: Brambleghast|Steel
+|-activate|p1a: Zekrom|confusion
+|move|p1a: Zekrom|Substitute|p1a: Zekrom
+|-start|p1a: Zekrom|Substitute
+|-damage|p1a: Zekrom|17/259
+|move|p2a: Brambleghast|Poltergeist|p1a: Zekrom|[miss]
+|-miss|p2a: Brambleghast|p1a: Zekrom
+|
+|-heal|p1a: Zekrom|33/259|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1772747631
+|-activate|p1a: Zekrom|confusion
+|move|p1a: Zekrom|Bolt Strike|p2a: Brambleghast
+|-damage|p2a: Brambleghast|18/240
+|move|p2a: Brambleghast|Poltergeist|p1a: Zekrom
+|-activate|p1a: Zekrom|move: Poltergeist|Leftovers
+|-end|p1a: Zekrom|Substitute
+|
+|-heal|p1a: Zekrom|49/259|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1772747640
+|-activate|p1a: Zekrom|confusion
+|move|p1a: Zekrom|Outrage|p2a: Brambleghast
+|-resisted|p2a: Brambleghast
+|-damage|p2a: Brambleghast|0 fnt
+|faint|p2a: Brambleghast
+|
+|-heal|p1a: Zekrom|65/259|[from] item: Leftovers
+|upkeep
+|
+|t:|1772747643
+|switch|p2a: Eelektross|Eelektross, L87, F|290/290
+|turn|28
+|
+|t:|1772747647
+|-end|p1a: Zekrom|confusion
+|move|p1a: Zekrom|Outrage|p2a: Eelektross|[from] lockedmove
+|-damage|p2a: Eelektross|101/290
+|-start|p1a: Zekrom|confusion|[fatigue]
+|move|p2a: Eelektross|Dragon Tail|p1a: Zekrom
+|-supereffective|p1a: Zekrom
+|-damage|p1a: Zekrom|0 fnt
+|faint|p1a: Zekrom
+|
+|upkeep
+|c|☆t0mas2612|Tenes un orto hdp
+|
+|t:|1772747662
+|switch|p1a: Snorlax|Snorlax, L82, M|344/397 slp
+|turn|29
+|c|☆t0mas2612|Pura suerte
+|
+|t:|1772747670
+|-curestatus|p1a: Snorlax|slp|[msg]
+|move|p1a: Snorlax|Body Slam|p2a: Eelektross
+|-damage|p2a: Eelektross|4/290
+|move|p2a: Eelektross|Dragon Tail|p1a: Snorlax
+|-damage|p1a: Snorlax|283/397
+|drag|p1a: Noivern|Noivern, L82, F|274/274
+|
+|upkeep
+|turn|30
+|
+|t:|1772747684
+|-terastallize|p1a: Noivern|Fire
+|move|p1a: Noivern|Flamethrower|p2a: Eelektross
+|-damage|p2a: Eelektross|0 fnt
+|faint|p2a: Eelektross
+|
+|win|Captain Brusin'
+|raw|Captain Brusin&apos;'s rating: 1369 &rarr; <strong>1387</strong><br />(+18 for winning)
+|raw|t0mas2612's rating: 1342 &rarr; <strong>1324</strong><br />(-18 for losing)
+|l|☆t0mas2612
+|player|p2|

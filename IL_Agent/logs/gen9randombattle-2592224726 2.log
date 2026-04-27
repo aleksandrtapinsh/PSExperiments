@@ -1,0 +1,457 @@
+|j|☆Pr_phets
+|j|☆ChrisLongnos3
+|html|<table width="100%"><tr><td align="left">Pr_phets</td><td align="right">ChrisLongnos3</tr><tr><td align="left"><i class="fa fa-circle"></i> <i class="fa fa-circle-o"></i> </td><td align="right"><i class="fa fa-circle-o"></i> <i class="fa fa-circle-o"></i> </tr></table>
+|uhtml|bestof|<h2><strong>Game 2</strong> of <a href="/game-bestof3-gen9randombattle-2592217200">a best-of-3</a></h2>
+|t:|1776971596
+|gametype|singles
+|player|p1|Pr_phets|cynthia|
+|player|p2|ChrisLongnos3|marshal|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|raw|<div class="infobox"><details class="readmore" open><summary><strong>1 custom rule:</strong></summary> Best of = 3</details></div>
+|
+|t:|1776971596
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Giratina|Giratina, L75|349/349
+|switch|p2a: Porygon2|Porygon2, L81|270/270
+|-ability|p1a: Giratina|Pressure
+|-ability|p2a: Porygon2|Download|boost
+|-boost|p2a: Porygon2|spa|1
+|turn|1
+|j| Ayano_aiashi
+|
+|t:|1776971639
+|switch|p1a: Kyurem|Kyurem, L77|319/319
+|-ability|p1a: Kyurem|Pressure
+|switch|p2a: Sylveon|Sylveon, L85, F|300/300
+|
+|upkeep
+|turn|2
+|
+|t:|1776971652
+|move|p1a: Kyurem|Dragon Dance|p1a: Kyurem
+|-boost|p1a: Kyurem|atk|1
+|-boost|p1a: Kyurem|spe|1
+|move|p2a: Sylveon|Hyper Voice|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|37/319
+|
+|upkeep
+|turn|3
+|c|☆Pr_phets|undeafen
+|
+|t:|1776971666
+|move|p1a: Kyurem|Icicle Spear|p2a: Sylveon
+|-damage|p2a: Sylveon|246/300
+|-damage|p2a: Sylveon|197/300
+|-damage|p2a: Sylveon|149/300
+|-damage|p2a: Sylveon|95/300
+|-damage|p2a: Sylveon|43/300
+|-hitcount|p2a: Sylveon|5
+|move|p2a: Sylveon|Hyper Voice|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|-heal|p2a: Sylveon|61/300|[from] item: Leftovers
+|upkeep
+|
+|t:|1776971681
+|switch|p1a: Lunala|Lunala, L70|308/308
+|turn|4
+|
+|t:|1776971715
+|move|p1a: Lunala|Calm Mind|p1a: Lunala
+|-boost|p1a: Lunala|spa|1
+|-boost|p1a: Lunala|spd|1
+|move|p2a: Sylveon|Wish|p2a: Sylveon
+|
+|-heal|p2a: Sylveon|79/300|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776971721
+|move|p2a: Sylveon|Protect|p2a: Sylveon
+|-singleturn|p2a: Sylveon|Protect
+|move|p1a: Lunala|Calm Mind|p1a: Lunala
+|-boost|p1a: Lunala|spa|1
+|-boost|p1a: Lunala|spd|1
+|
+|-heal|p2a: Sylveon|229/300|[from] move: Wish|[wisher] Sylveon
+|-heal|p2a: Sylveon|247/300|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776971731
+|move|p1a: Lunala|Calm Mind|p1a: Lunala
+|-boost|p1a: Lunala|spa|1
+|-boost|p1a: Lunala|spd|1
+|move|p2a: Sylveon|Calm Mind|p2a: Sylveon
+|-boost|p2a: Sylveon|spa|1
+|-boost|p2a: Sylveon|spd|1
+|
+|-heal|p2a: Sylveon|265/300|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776971741
+|move|p1a: Lunala|Moongeist Beam|p2a: Sylveon
+|-damage|p2a: Sylveon|138/300
+|move|p2a: Sylveon|Wish|p2a: Sylveon
+|
+|-heal|p2a: Sylveon|156/300|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776971753
+|move|p1a: Lunala|Moongeist Beam|p2a: Sylveon
+|-damage|p2a: Sylveon|29/300
+|move|p2a: Sylveon|Calm Mind|p2a: Sylveon
+|-boost|p2a: Sylveon|spa|1
+|-boost|p2a: Sylveon|spd|1
+|
+|-heal|p2a: Sylveon|179/300|[from] move: Wish|[wisher] Sylveon
+|-heal|p2a: Sylveon|197/300|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776971766
+|move|p1a: Lunala|Moongeist Beam|p2a: Sylveon
+|-crit|p2a: Sylveon
+|-damage|p2a: Sylveon|0 fnt
+|faint|p2a: Sylveon
+|
+|upkeep
+|
+|t:|1776971782
+|switch|p2a: Porygon2|Porygon2, L81|270/270
+|-ability|p2a: Porygon2|Download|boost
+|-boost|p2a: Porygon2|atk|1
+|turn|10
+|
+|t:|1776971794
+|-terastallize|p2a: Porygon2|Electric
+|move|p1a: Lunala|Focus Blast|p2a: Porygon2
+|-crit|p2a: Porygon2
+|-damage|p2a: Porygon2|78/270
+|-unboost|p2a: Porygon2|spd|1
+|move|p2a: Porygon2|Discharge|p1a: Lunala
+|-damage|p1a: Lunala|291/308
+|
+|-heal|p1a: Lunala|308/308|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776971814
+|switch|p2a: Clefable|Clefable, L83, F|293/293
+|move|p1a: Lunala|Calm Mind|p1a: Lunala
+|-boost|p1a: Lunala|spa|1
+|-boost|p1a: Lunala|spd|1
+|
+|upkeep
+|turn|12
+|
+|t:|1776971838
+|move|p1a: Lunala|Moongeist Beam|p2a: Clefable
+|-damage|p2a: Clefable|5/293
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|
+|-heal|p2a: Clefable|23/293|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776971852
+|move|p1a: Lunala|Moongeist Beam|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|upkeep
+|
+|t:|1776971884
+|switch|p2a: Pyroar|Pyroar, L88, M|295/295
+|-ability|p2a: Pyroar|Unnerve
+|turn|14
+|
+|t:|1776971891
+|move|p2a: Pyroar|Dark Pulse|p1a: Lunala
+|-supereffective|p1a: Lunala
+|-damage|p1a: Lunala|258/308
+|move|p1a: Lunala|Focus Blast|p2a: Pyroar|[miss]
+|-miss|p1a: Lunala|p2a: Pyroar
+|
+|-heal|p1a: Lunala|277/308|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1776971898
+|move|p2a: Pyroar|Dark Pulse|p1a: Lunala
+|-supereffective|p1a: Lunala
+|-damage|p1a: Lunala|169/308
+|cant|p1a: Lunala|flinch
+|
+|-heal|p1a: Lunala|188/308|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776971905
+|move|p2a: Pyroar|Dark Pulse|p1a: Lunala
+|-supereffective|p1a: Lunala
+|-damage|p1a: Lunala|92/308
+|move|p1a: Lunala|Focus Blast|p2a: Pyroar
+|-supereffective|p2a: Pyroar
+|-damage|p2a: Pyroar|0 fnt
+|faint|p2a: Pyroar
+|
+|-heal|p1a: Lunala|111/308|[from] item: Leftovers
+|upkeep
+|
+|t:|1776971918
+|switch|p2a: Flamigo|Flamigo, L82, F|269/269
+|turn|17
+|
+|t:|1776971934
+|-terastallize|p1a: Lunala|Fighting
+|move|p2a: Flamigo|Throat Chop|p1a: Lunala
+|-resisted|p1a: Lunala
+|-damage|p1a: Lunala|75/308
+|-start|p1a: Lunala|Throat Chop|[silent]
+|move|p1a: Lunala|Moongeist Beam|p2a: Flamigo
+|-damage|p2a: Flamigo|0 fnt
+|faint|p2a: Flamigo
+|
+|-heal|p1a: Lunala|94/308|[from] item: Leftovers
+|upkeep
+|
+|t:|1776971946
+|switch|p2a: Porygon2|Porygon2, L81, tera:Electric|78/270
+|-ability|p2a: Porygon2|Download|boost
+|-boost|p2a: Porygon2|atk|1
+|turn|18
+|
+|t:|1776971956
+|move|p1a: Lunala|Moongeist Beam|p2a: Porygon2
+|-damage|p2a: Porygon2|0 fnt
+|faint|p2a: Porygon2
+|
+|-heal|p1a: Lunala|113/308|[from] item: Leftovers
+|-end|p1a: Lunala|Throat Chop|[silent]
+|upkeep
+|
+|t:|1776971963
+|switch|p2a: Illumise|Illumise, L91, F|266/266
+|turn|19
+|
+|t:|1776971968
+|move|p2a: Illumise|Thunder Wave|p1a: Lunala
+|-status|p1a: Lunala|par
+|move|p1a: Lunala|Calm Mind|p1a: Lunala
+|-boost|p1a: Lunala|spa|1
+|-boost|p1a: Lunala|spd|1
+|
+|-heal|p1a: Lunala|132/308 par|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1776971976
+|move|p2a: Illumise|Encore|p1a: Lunala
+|-start|p1a: Lunala|Encore
+|move|p1a: Lunala|Calm Mind|p1a: Lunala
+|-boost|p1a: Lunala|spa|1
+|-boost|p1a: Lunala|spd|1
+|
+|-heal|p1a: Lunala|151/308 par|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1776971992
+|move|p2a: Illumise|Bug Buzz|p1a: Lunala
+|-resisted|p1a: Lunala
+|-damage|p1a: Lunala|139/308 par
+|move|p1a: Lunala|Calm Mind|p1a: Lunala
+|-boost|p1a: Lunala|spa|0
+|-boost|p1a: Lunala|spd|0
+|
+|-heal|p1a: Lunala|158/308 par|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1776972016
+|move|p2a: Illumise|Bug Buzz|p1a: Lunala
+|-resisted|p1a: Lunala
+|-damage|p1a: Lunala|146/308 par
+|cant|p1a: Lunala|par
+|
+|-heal|p1a: Lunala|165/308 par|[from] item: Leftovers
+|-end|p1a: Lunala|Encore
+|upkeep
+|turn|23
+|
+|t:|1776972027
+|move|p2a: Illumise|Encore|p1a: Lunala
+|-start|p1a: Lunala|Encore
+|move|p1a: Lunala|Calm Mind|p1a: Lunala
+|-boost|p1a: Lunala|spa|0
+|-boost|p1a: Lunala|spd|0
+|
+|-heal|p1a: Lunala|184/308 par|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1776972034
+|move|p2a: Illumise|Bug Buzz|p1a: Lunala
+|-resisted|p1a: Lunala
+|-damage|p1a: Lunala|172/308 par
+|cant|p1a: Lunala|par
+|
+|-heal|p1a: Lunala|191/308 par|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1776972043
+|move|p2a: Illumise|Bug Buzz|p1a: Lunala
+|-resisted|p1a: Lunala
+|-damage|p1a: Lunala|179/308 par
+|move|p1a: Lunala|Calm Mind|p1a: Lunala
+|-boost|p1a: Lunala|spa|0
+|-boost|p1a: Lunala|spd|0
+|
+|-heal|p1a: Lunala|198/308 par|[from] item: Leftovers
+|-end|p1a: Lunala|Encore
+|upkeep
+|turn|26
+|
+|t:|1776972053
+|move|p2a: Illumise|Bug Buzz|p1a: Lunala
+|-resisted|p1a: Lunala
+|-damage|p1a: Lunala|186/308 par
+|move|p1a: Lunala|Moonlight|p1a: Lunala
+|-heal|p1a: Lunala|308/308 par
+|
+|upkeep
+|turn|27
+|
+|t:|1776972060
+|move|p2a: Illumise|Encore|p1a: Lunala
+|-start|p1a: Lunala|Encore
+|move|p1a: Lunala|Moonlight|p1a: Lunala
+|-fail|p1a: Lunala|heal
+|
+|upkeep
+|turn|28
+|
+|t:|1776972067
+|move|p2a: Illumise|Bug Buzz|p1a: Lunala
+|-resisted|p1a: Lunala
+|-damage|p1a: Lunala|303/308 par
+|-unboost|p1a: Lunala|spd|1
+|move|p1a: Lunala|Moonlight|p1a: Lunala
+|-heal|p1a: Lunala|308/308 par
+|
+|upkeep
+|turn|29
+|
+|t:|1776972075
+|move|p2a: Illumise|Bug Buzz|p1a: Lunala
+|-resisted|p1a: Lunala
+|-damage|p1a: Lunala|302/308 par
+|cant|p1a: Lunala|par
+|
+|-heal|p1a: Lunala|308/308 par|[from] item: Leftovers
+|-end|p1a: Lunala|Encore
+|upkeep
+|turn|30
+|
+|t:|1776972082
+|move|p2a: Illumise|Encore|p1a: Lunala
+|-start|p1a: Lunala|Encore
+|cant|p1a: Lunala|par
+|
+|upkeep
+|turn|31
+|
+|t:|1776972087
+|move|p2a: Illumise|Bug Buzz|p1a: Lunala
+|-resisted|p1a: Lunala
+|-damage|p1a: Lunala|302/308 par
+|move|p1a: Lunala|Moonlight|p1a: Lunala
+|-heal|p1a: Lunala|308/308 par
+|
+|upkeep
+|turn|32
+|
+|t:|1776972094
+|move|p2a: Illumise|Bug Buzz|p1a: Lunala
+|-resisted|p1a: Lunala
+|-damage|p1a: Lunala|301/308 par
+|move|p1a: Lunala|Moonlight|p1a: Lunala
+|-heal|p1a: Lunala|308/308 par
+|
+|-end|p1a: Lunala|Encore
+|upkeep
+|turn|33
+|
+|t:|1776972103
+|move|p2a: Illumise|Encore|p1a: Lunala
+|-start|p1a: Lunala|Encore
+|move|p1a: Lunala|Moonlight|p1a: Lunala
+|-fail|p1a: Lunala|heal
+|
+|upkeep
+|turn|34
+|
+|t:|1776972110
+|move|p2a: Illumise|Bug Buzz|p1a: Lunala
+|-resisted|p1a: Lunala
+|-damage|p1a: Lunala|302/308 par
+|cant|p1a: Lunala|par
+|
+|-heal|p1a: Lunala|308/308 par|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1776972116
+|move|p2a: Illumise|Bug Buzz|p1a: Lunala
+|-resisted|p1a: Lunala
+|-damage|p1a: Lunala|301/308 par
+|move|p1a: Lunala|Moonlight|p1a: Lunala
+|-heal|p1a: Lunala|308/308 par
+|
+|-end|p1a: Lunala|Encore
+|upkeep
+|turn|36
+|
+|t:|1776972124
+|move|p2a: Illumise|Encore|p1a: Lunala
+|-start|p1a: Lunala|Encore
+|cant|p1a: Lunala|par
+|
+|upkeep
+|turn|37
+|
+|t:|1776972128
+|move|p2a: Illumise|Bug Buzz|p1a: Lunala
+|-resisted|p1a: Lunala
+|-damage|p1a: Lunala|302/308 par
+|move|p1a: Lunala|Moonlight|p1a: Lunala
+|-heal|p1a: Lunala|308/308 par
+|
+|-end|p1a: Lunala|Encore
+|upkeep
+|turn|38
+|
+|t:|1776972136
+|move|p2a: Illumise|Encore||[still]
+|-fail|p2a: Illumise
+|move|p1a: Lunala|Moongeist Beam|p2a: Illumise
+|-damage|p2a: Illumise|0 fnt
+|faint|p2a: Illumise
+|
+|win|Pr_phets

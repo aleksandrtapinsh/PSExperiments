@@ -1,0 +1,308 @@
+|j|☆HaxDoBeReal
+|j|☆Garbungus
+|t:|1776984088
+|gametype|singles
+|player|p1|HaxDoBeReal|fisherman-gen4|1733
+|player|p2|Garbungus|170|1781
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776984088
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Avalugg|Avalugg-Hisui, L90, F|317/317
+|switch|p2a: Sableye|Sableye, L88, M|231/231
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Garbungus)
+|
+|t:|1776984116
+|switch|p2a: Politoed|Politoed, L88, F|302/302
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Politoed
+|move|p1a: Avalugg|Stone Edge|p2a: Politoed
+|-damage|p2a: Politoed|151/302
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1776984125
+|switch|p1a: Poliwrath|Poliwrath, L88, M|302/302
+|move|p2a: Politoed|Weather Ball|p1a: Poliwrath
+|-immune|p1a: Poliwrath|[from] ability: Water Absorb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1776984138
+|switch|p2a: Dachsbun|Dachsbun, L92, M|254/254
+|move|p1a: Poliwrath|Liquidation|p2a: Dachsbun
+|-damage|p2a: Dachsbun|148/254
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Dachsbun|163/254|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776984150
+|move|p2a: Dachsbun|Wish|p2a: Dachsbun
+|move|p1a: Poliwrath|Knock Off|p2a: Dachsbun
+|-resisted|p2a: Dachsbun
+|-damage|p2a: Dachsbun|136/254
+|-enditem|p2a: Dachsbun|Leftovers|[from] move: Knock Off|[of] p1a: Poliwrath
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1776984173
+|switch|p1a: Chimecho|Chimecho, L93, M|290/290
+|move|p2a: Dachsbun|Body Press|p1a: Chimecho
+|-resisted|p1a: Chimecho
+|-damage|p1a: Chimecho|254/290
+|
+|-weather|none
+|-heal|p2a: Dachsbun|254/254|[from] move: Wish|[wisher] Dachsbun
+|-heal|p1a: Chimecho|272/290|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776984186
+|switch|p2a: Sableye|Sableye, L88, M|231/231
+|move|p1a: Chimecho|Calm Mind|p1a: Chimecho
+|-boost|p1a: Chimecho|spa|1
+|-boost|p1a: Chimecho|spd|1
+|
+|-heal|p1a: Chimecho|290/290|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776984197
+|switch|p1a: Mabosstiff|Mabosstiff, L86, M|278/278
+|move|p2a: Sableye|Thunder Wave|p1a: Mabosstiff
+|-hint|Since gen 7, Dark is immune to Prankster moves.
+|-immune|p1a: Mabosstiff
+|
+|upkeep
+|turn|8
+|
+|t:|1776984211
+|switch|p2a: Rhydon|Rhydon, L85, M|317/317
+|move|p1a: Mabosstiff|Play Rough|p2a: Rhydon
+|-damage|p2a: Rhydon|228/317
+|
+|upkeep
+|turn|9
+|
+|t:|1776984224
+|switch|p1a: Chimecho|Chimecho, L93, M|290/290
+|move|p2a: Rhydon|Stealth Rock|p1a: Chimecho
+|-sidestart|p1: HaxDoBeReal|move: Stealth Rock
+|
+|upkeep
+|turn|10
+|
+|t:|1776984231
+|move|p1a: Chimecho|Calm Mind|p1a: Chimecho
+|-boost|p1a: Chimecho|spa|1
+|-boost|p1a: Chimecho|spd|1
+|move|p2a: Rhydon|Megahorn|p1a: Chimecho
+|-supereffective|p1a: Chimecho
+|-damage|p1a: Chimecho|76/290
+|
+|-heal|p1a: Chimecho|94/290|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776984247
+|move|p1a: Chimecho|Psyshock|p2a: Rhydon
+|-damage|p2a: Rhydon|152/317
+|move|p2a: Rhydon|Stone Edge|p1a: Chimecho
+|-damage|p1a: Chimecho|0 fnt
+|faint|p1a: Chimecho
+|
+|upkeep
+|
+|t:|1776984255
+|switch|p1a: Poliwrath|Poliwrath, L88, M|302/302
+|-damage|p1a: Poliwrath|284/302|[from] Stealth Rock
+|turn|12
+|
+|t:|1776984265
+|switch|p2a: Dachsbun|Dachsbun, L92, M|254/254
+|move|p1a: Poliwrath|Liquidation|p2a: Dachsbun
+|-damage|p2a: Dachsbun|179/254
+|
+|-heal|p1a: Poliwrath|302/302|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776984273
+|move|p2a: Dachsbun|Play Rough|p1a: Poliwrath|[miss]
+|-miss|p2a: Dachsbun|p1a: Poliwrath
+|move|p1a: Poliwrath|Bulk Up|p1a: Poliwrath
+|-boost|p1a: Poliwrath|atk|1
+|-boost|p1a: Poliwrath|def|1
+|
+|upkeep
+|turn|14
+|
+|t:|1776984285
+|move|p2a: Dachsbun|Play Rough|p1a: Poliwrath
+|-supereffective|p1a: Poliwrath
+|-damage|p1a: Poliwrath|174/302
+|move|p1a: Poliwrath|Bulk Up|p1a: Poliwrath
+|-boost|p1a: Poliwrath|atk|1
+|-boost|p1a: Poliwrath|def|1
+|
+|-heal|p1a: Poliwrath|192/302|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1776984297
+|-terastallize|p1a: Poliwrath|Water
+|move|p2a: Dachsbun|Play Rough|p1a: Poliwrath
+|-damage|p1a: Poliwrath|147/302
+|-unboost|p1a: Poliwrath|atk|1
+|move|p1a: Poliwrath|Liquidation|p2a: Dachsbun
+|-damage|p2a: Dachsbun|21/254
+|
+|-heal|p1a: Poliwrath|165/302|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776984312
+|move|p2a: Dachsbun|Play Rough|p1a: Poliwrath
+|-damage|p1a: Poliwrath|123/302
+|move|p1a: Poliwrath|Liquidation|p2a: Dachsbun
+|-damage|p2a: Dachsbun|0 fnt
+|faint|p2a: Dachsbun
+|
+|-heal|p1a: Poliwrath|141/302|[from] item: Leftovers
+|upkeep
+|
+|t:|1776984318
+|switch|p2a: Minun|Minun, L95, M|268/268
+|turn|17
+|
+|t:|1776984327
+|switch|p1a: Dragalge|Dragalge, L88, F|258/258
+|-damage|p1a: Dragalge|226/258|[from] Stealth Rock
+|move|p2a: Minun|Thunderbolt|p1a: Dragalge
+|-resisted|p1a: Dragalge
+|-damage|p1a: Dragalge|182/258
+|-damage|p2a: Minun|242/268|[from] item: Life Orb
+|
+|upkeep
+|turn|18
+|inactive|Garbungus has 120 seconds left.
+|
+|t:|1776984366
+|switch|p2a: Sableye|Sableye, L88, M|231/231
+|move|p1a: Dragalge|Draco Meteor|p2a: Sableye
+|-damage|p2a: Sableye|0 fnt
+|-unboost|p1a: Dragalge|spa|2
+|faint|p2a: Sableye
+|
+|upkeep
+|
+|t:|1776984372
+|switch|p2a: Rhydon|Rhydon, L85, M|152/317
+|turn|19
+|inactive|HaxDoBeReal has 120 seconds left.
+|
+|t:|1776984404
+|switch|p1a: Poliwrath|Poliwrath, L88, M, tera:Water|141/302
+|-damage|p1a: Poliwrath|104/302|[from] Stealth Rock
+|move|p2a: Rhydon|Earthquake|p1a: Poliwrath
+|-damage|p1a: Poliwrath|0 fnt
+|faint|p1a: Poliwrath
+|
+|upkeep
+|
+|t:|1776984428
+|switch|p1a: Mamoswine|Mamoswine, L81, M|311/311
+|-damage|p1a: Mamoswine|273/311|[from] Stealth Rock
+|turn|20
+|
+|t:|1776984437
+|move|p1a: Mamoswine|Earthquake|p2a: Rhydon
+|-supereffective|p2a: Rhydon
+|-damage|p2a: Rhydon|0 fnt
+|faint|p2a: Rhydon
+|-damage|p1a: Mamoswine|242/311|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776984439
+|switch|p2a: Politoed|Politoed, L88, F|151/302
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Politoed
+|turn|21
+|
+|t:|1776984447
+|move|p1a: Mamoswine|Earthquake|p2a: Politoed
+|-damage|p2a: Politoed|0 fnt
+|faint|p2a: Politoed
+|-damage|p1a: Mamoswine|211/311|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1776984452
+|switch|p2a: Mewtwo|Mewtwo, L72|272/272
+|-ability|p2a: Mewtwo|Unnerve
+|turn|22
+|inactive|HaxDoBeReal has 120 seconds left.
+|
+|t:|1776984464
+|move|p2a: Mewtwo|Psystrike|p1a: Mamoswine
+|-damage|p1a: Mamoswine|55/311
+|-damage|p2a: Mewtwo|245/272|[from] item: Life Orb
+|move|p1a: Mamoswine|Earthquake|p2a: Mewtwo
+|-damage|p2a: Mewtwo|54/272
+|-damage|p1a: Mamoswine|24/311|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|23
+|inactive|HaxDoBeReal has 120 seconds left.
+|
+|t:|1776984475
+|move|p1a: Mamoswine|Ice Shard|p2a: Mewtwo
+|-damage|p2a: Mewtwo|0 fnt
+|faint|p2a: Mewtwo
+|-damage|p1a: Mamoswine|0 fnt|[from] item: Life Orb
+|faint|p1a: Mamoswine
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1776984488
+|switch|p2a: Minun|Minun, L95, M|242/268
+|switch|p1a: Dragalge|Dragalge, L88, F|182/258
+|-damage|p1a: Dragalge|150/258|[from] Stealth Rock
+|turn|24
+|
+|t:|1776984511
+|move|p2a: Minun|Nasty Plot|p2a: Minun
+|-boost|p2a: Minun|spa|2
+|move|p1a: Dragalge|Sludge Wave|p2a: Minun
+|-damage|p2a: Minun|22/268
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|25
+|c|☆HaxDoBeReal|gg
+|-message|Garbungus forfeited.
+|
+|win|HaxDoBeReal
+|raw|HaxDoBeReal's rating: 1733 &rarr; <strong>1756</strong><br />(+23 for winning)
+|raw|Garbungus's rating: 1781 &rarr; <strong>1758</strong><br />(-23 for losing)
+|l|☆Garbungus
+|player|p2|

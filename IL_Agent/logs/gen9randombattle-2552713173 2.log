@@ -1,0 +1,220 @@
+|j|☆csasere
+|j|☆itz_isaacyt
+|t:|1772745960
+|gametype|singles
+|player|p1|csasere|101|1370
+|player|p2|itz_isaacyt|101|1394
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772745960
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ludicolo|Ludicolo, L90, F|290/290
+|switch|p2a: Blaziken|Blaziken, L76, M|247/247
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by csasere)
+|
+|t:|1772745981
+|move|p1a: Ludicolo|Hydro Pump|p2a: Blaziken
+|-supereffective|p2a: Blaziken
+|-damage|p2a: Blaziken|0 fnt
+|faint|p2a: Blaziken
+|
+|upkeep
+|
+|t:|1772745989
+|switch|p2a: Malamar|Malamar, L82, M|275/275
+|turn|2
+|
+|t:|1772745994
+|move|p1a: Ludicolo|Hydro Pump|p2a: Malamar
+|-damage|p2a: Malamar|62/275
+|move|p2a: Malamar|Superpower|p1a: Ludicolo
+|-damage|p1a: Ludicolo|203/290
+|-boost|p2a: Malamar|atk|1
+|-boost|p2a: Malamar|def|1
+|
+|upkeep
+|turn|3
+|
+|t:|1772745998
+|move|p1a: Ludicolo|Hydro Pump|p2a: Malamar
+|-damage|p2a: Malamar|0 fnt
+|faint|p2a: Malamar
+|
+|upkeep
+|
+|t:|1772746004
+|switch|p2a: Zekrom|Zekrom, L71|259/259
+|-ability|p2a: Zekrom|Teravolt
+|turn|4
+|
+|t:|1772746010
+|switch|p1a: Gastrodon|Gastrodon, L86, F|331/331
+|move|p2a: Zekrom|Substitute|p2a: Zekrom
+|-start|p2a: Zekrom|Substitute
+|-damage|p2a: Zekrom|195/259
+|
+|-heal|p2a: Zekrom|211/259|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1772746016
+|move|p2a: Zekrom|Dragon Dance|p2a: Zekrom
+|-boost|p2a: Zekrom|atk|1
+|-boost|p2a: Zekrom|spe|1
+|move|p1a: Gastrodon|Stealth Rock|p2a: Zekrom
+|-sidestart|p2: itz_isaacyt|move: Stealth Rock
+|
+|-heal|p2a: Zekrom|227/259|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1772746019
+|move|p2a: Zekrom|Dragon Dance|p2a: Zekrom
+|-boost|p2a: Zekrom|atk|1
+|-boost|p2a: Zekrom|spe|1
+|move|p1a: Gastrodon|Earthquake|p2a: Zekrom
+|-supereffective|p2a: Zekrom
+|-end|p2a: Zekrom|Substitute
+|
+|-heal|p2a: Zekrom|243/259|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1772746023
+|-terastallize|p2a: Zekrom|Grass
+|move|p2a: Zekrom|Outrage|p1a: Gastrodon
+|-damage|p1a: Gastrodon|3/331
+|move|p1a: Gastrodon|Earthquake|p2a: Zekrom
+|-resisted|p2a: Zekrom
+|-damage|p2a: Zekrom|194/259
+|
+|-heal|p2a: Zekrom|210/259|[from] item: Leftovers
+|-heal|p1a: Gastrodon|23/331|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1772746031
+|move|p2a: Zekrom|Outrage|p1a: Gastrodon|[from] lockedmove
+|-damage|p1a: Gastrodon|0 fnt
+|faint|p1a: Gastrodon
+|
+|-heal|p2a: Zekrom|226/259|[from] item: Leftovers
+|upkeep
+|
+|t:|1772746040
+|switch|p1a: Ribombee|Ribombee, L83, M|235/235
+|turn|9
+|
+|t:|1772746060
+|-terastallize|p1a: Ribombee|Ground
+|move|p2a: Zekrom|Outrage|p1a: Ribombee|[from] lockedmove
+|-damage|p1a: Ribombee|0 fnt
+|faint|p1a: Ribombee
+|-start|p2a: Zekrom|confusion|[fatigue]
+|
+|-heal|p2a: Zekrom|242/259|[from] item: Leftovers
+|upkeep
+|l|☆csasere
+|inactive|csasere disconnected and has a minute to reconnect!
+|player|p1|
+|c|☆itz_isaacyt|bruh
+|j|☆csasere
+|inactive|csasere reconnected and has 130 seconds left.
+|player|p1|csasere|101|
+|inactive|csasere has 120 seconds left.
+|
+|t:|1772746083
+|switch|p1a: Ludicolo|Ludicolo, L90, F|203/290
+|turn|10
+|
+|t:|1772746088
+|-activate|p2a: Zekrom|confusion
+|move|p2a: Zekrom|Substitute|p2a: Zekrom
+|-start|p2a: Zekrom|Substitute
+|-damage|p2a: Zekrom|178/259
+|move|p1a: Ludicolo|Ice Beam|p2a: Zekrom
+|-supereffective|p2a: Zekrom
+|-end|p2a: Zekrom|Substitute
+|
+|-heal|p2a: Zekrom|194/259|[from] item: Leftovers
+|upkeep
+|turn|11
+|inactive|csasere has 120 seconds left.
+|
+|t:|1772746103
+|-activate|p2a: Zekrom|confusion
+|move|p2a: Zekrom|Bolt Strike|p1a: Ludicolo
+|-damage|p1a: Ludicolo|0 fnt
+|faint|p1a: Ludicolo
+|
+|-heal|p2a: Zekrom|210/259|[from] item: Leftovers
+|upkeep
+|inactive|csasere has 120 seconds left.
+|
+|t:|1772746110
+|switch|p1a: Hitmonchan|Hitmonchan, L87, M|229/229
+|turn|12
+|
+|t:|1772746114
+|-activate|p2a: Zekrom|confusion
+|move|p2a: Zekrom|Bolt Strike|p1a: Hitmonchan
+|-damage|p1a: Hitmonchan|0 fnt
+|faint|p1a: Hitmonchan
+|
+|-heal|p2a: Zekrom|226/259|[from] item: Leftovers
+|upkeep
+|
+|t:|1772746123
+|switch|p1a: Regigigas|Regigigas, L84|322/322
+|-start|p1a: Regigigas|ability: Slow Start
+|turn|13
+|
+|t:|1772746130
+|-activate|p2a: Zekrom|confusion
+|move|p2a: Zekrom|Bolt Strike|p1a: Regigigas
+|-damage|p1a: Regigigas|64/322
+|move|p1a: Regigigas|Body Slam|p2a: Zekrom
+|-damage|p2a: Zekrom|157/259
+|-status|p2a: Zekrom|par
+|
+|-heal|p2a: Zekrom|173/259 par|[from] item: Leftovers
+|-heal|p1a: Regigigas|84/322|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1772746155
+|-end|p2a: Zekrom|confusion
+|move|p2a: Zekrom|Outrage|p1a: Regigigas
+|-crit|p1a: Regigigas
+|-damage|p1a: Regigigas|0 fnt
+|faint|p1a: Regigigas
+|-end|p1a: Regigigas|Slow Start|[silent]
+|
+|-heal|p2a: Zekrom|189/259 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1772746163
+|switch|p1a: Pikachu|Pikachu-Alola, L93, M|216/216
+|turn|15
+|c|☆csasere|ggs
+|
+|t:|1772746169
+|move|p1a: Pikachu|Play Rough|p2a: Zekrom
+|-damage|p2a: Zekrom|97/259 par
+|move|p2a: Zekrom|Outrage|p1a: Pikachu|[from] lockedmove
+|-damage|p1a: Pikachu|0 fnt
+|faint|p1a: Pikachu
+|-start|p2a: Zekrom|confusion|[fatigue]
+|
+|win|itz_isaacyt
+|raw|csasere's rating: 1370 &rarr; <strong>1351</strong><br />(-19 for losing)
+|raw|itz_isaacyt's rating: 1394 &rarr; <strong>1413</strong><br />(+19 for winning)

@@ -1,0 +1,123 @@
+|j|☆darliusfx
+|j|☆ImagineAquasplash
+|t:|1776976747
+|gametype|singles
+|player|p1|darliusfx|2|1104
+|player|p2|ImagineAquasplash|102|1142
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776976747
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Sawsbuck|Sawsbuck-Summer, L88, M|284/284
+|switch|p2a: Lucario|Lucario, L84, M|255/255
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ImagineAquasplash)
+|
+|t:|1776976776
+|-terastallize|p2a: Lucario|Fighting
+|move|p1a: Sawsbuck|Swords Dance|p1a: Sawsbuck
+|-boost|p1a: Sawsbuck|atk|2
+|move|p2a: Lucario|Nasty Plot|p2a: Lucario
+|-boost|p2a: Lucario|spa|2
+|
+|upkeep
+|turn|2
+|
+|t:|1776976792
+|move|p1a: Sawsbuck|Double-Edge|p2a: Lucario
+|-damage|p2a: Lucario|0 fnt
+|faint|p2a: Lucario
+|-damage|p1a: Sawsbuck|200/284|[from] Recoil
+|-damage|p1a: Sawsbuck|172/284|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776976802
+|switch|p2a: Gholdengo|Gholdengo, L77|261/261
+|turn|3
+|
+|t:|1776976807
+|move|p1a: Sawsbuck|High Horsepower|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|-damage|p1a: Sawsbuck|144/284|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776976812
+|switch|p2a: Sandaconda|Sandaconda, L84, F|258/258
+|turn|4
+|
+|t:|1776976816
+|move|p1a: Sawsbuck|Horn Leech|p2a: Sandaconda
+|-supereffective|p2a: Sandaconda
+|-damage|p2a: Sandaconda|0 fnt
+|-heal|p1a: Sawsbuck|273/284|[from] drain|[of] p2a: Sandaconda
+|faint|p2a: Sandaconda
+|-damage|p1a: Sawsbuck|245/284|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776976820
+|switch|p2a: Grafaiai|Grafaiai, L86, M|249/249
+|turn|5
+|
+|t:|1776976828
+|-terastallize|p1a: Sawsbuck|Normal
+|move|p2a: Grafaiai|Gunk Shot|p1a: Sawsbuck|[miss]
+|-miss|p2a: Grafaiai|p1a: Sawsbuck
+|move|p1a: Sawsbuck|Double-Edge|p2a: Grafaiai
+|-damage|p2a: Grafaiai|0 fnt
+|faint|p2a: Grafaiai
+|-damage|p1a: Sawsbuck|163/284|[from] Recoil
+|-damage|p1a: Sawsbuck|135/284|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776976832
+|switch|p2a: Wigglytuff|Wigglytuff, L96, F|424/424
+|turn|6
+|
+|t:|1776976844
+|move|p1a: Sawsbuck|Horn Leech|p2a: Wigglytuff
+|-damage|p2a: Wigglytuff|119/424
+|-heal|p1a: Sawsbuck|284/284|[from] drain|[of] p2a: Wigglytuff
+|-damage|p1a: Sawsbuck|256/284|[from] item: Life Orb
+|move|p2a: Wigglytuff|Knock Off|p1a: Sawsbuck
+|-damage|p1a: Sawsbuck|179/284
+|-enditem|p1a: Sawsbuck|Life Orb|[from] move: Knock Off|[of] p2a: Wigglytuff
+|
+|-heal|p2a: Wigglytuff|145/424|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776976856
+|move|p1a: Sawsbuck|Horn Leech|p2a: Wigglytuff
+|-damage|p2a: Wigglytuff|0 fnt
+|-heal|p1a: Sawsbuck|252/284|[from] drain|[of] p2a: Wigglytuff
+|faint|p2a: Wigglytuff
+|
+|upkeep
+|
+|t:|1776976858
+|switch|p2a: Mew|Mew, L82|298/298
+|turn|8
+|
+|t:|1776976864
+|move|p1a: Sawsbuck|Double-Edge|p2a: Mew
+|-damage|p2a: Mew|0 fnt
+|faint|p2a: Mew
+|-damage|p1a: Sawsbuck|154/284|[from] Recoil
+|
+|win|darliusfx
+|raw|darliusfx's rating: 1104 &rarr; <strong>1132</strong><br />(+28 for winning)
+|raw|ImagineAquasplash's rating: 1142 &rarr; <strong>1114</strong><br />(-28 for losing)

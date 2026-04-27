@@ -1,0 +1,255 @@
+|j|☆deep_lerd
+|j|☆imortaljuan
+|t:|1772747494
+|gametype|singles
+|player|p1|deep_lerd|psychic-gen4|
+|player|p2|imortaljuan|steven|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772747494
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Minior|Minior-Indigo, L79|224/224
+|switch|p2a: Crawdaunt|Crawdaunt, L84, M|243/243
+|-formechange|p1a: Minior|Minior-Meteor||[from] ability: Shields Down
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by deep_lerd)
+|inactive|deep_lerd has 270 seconds left.
+|
+|t:|1772747531
+|move|p2a: Crawdaunt|Aqua Jet|p1a: Minior
+|-supereffective|p1a: Minior
+|-damage|p1a: Minior|12/224
+|move|p1a: Minior|Shell Smash|p1a: Minior
+|-unboost|p1a: Minior|def|1
+|-unboost|p1a: Minior|spd|1
+|-boost|p1a: Minior|atk|2
+|-boost|p1a: Minior|spa|2
+|-boost|p1a: Minior|spe|2
+|-enditem|p1a: Minior|White Herb
+|-clearnegativeboost|p1a: Minior|[silent]
+|
+|-formechange|p1a: Minior|Minior-Indigo||[from] ability: Shields Down
+|upkeep
+|turn|2
+|
+|t:|1772747559
+|move|p2a: Crawdaunt|Aqua Jet|p1a: Minior
+|-supereffective|p1a: Minior
+|-damage|p1a: Minior|0 fnt
+|faint|p1a: Minior
+|
+|upkeep
+|inactive|deep_lerd has 270 seconds left.
+|
+|t:|1772747570
+|switch|p1a: Roaring Moon|Roaring Moon, L72|270/270
+|-enditem|p1a: Roaring Moon|Booster Energy
+|-activate|p1a: Roaring Moon|ability: Protosynthesis|[fromitem]
+|-start|p1a: Roaring Moon|protosynthesisatk
+|turn|3
+|
+|t:|1772747578
+|switch|p2a: Mimikyu|Mimikyu, L79, M|216/216
+|move|p1a: Roaring Moon|Dragon Dance|p1a: Roaring Moon
+|-boost|p1a: Roaring Moon|atk|1
+|-boost|p1a: Roaring Moon|spe|1
+|
+|upkeep
+|turn|4
+|
+|t:|1772747583
+|move|p1a: Roaring Moon|Iron Head|p2a: Mimikyu
+|-activate|p2a: Mimikyu|ability: Disguise
+|-damage|p2a: Mimikyu|216/216
+|detailschange|p2a: Mimikyu|Mimikyu-Busted, L79, M
+|-damage|p2a: Mimikyu|189/216|[from] pokemon: Mimikyu-Busted
+|move|p2a: Mimikyu|Play Rough|p1a: Roaring Moon
+|-supereffective|p1a: Roaring Moon
+|-damage|p1a: Roaring Moon|0 fnt
+|faint|p1a: Roaring Moon
+|-end|p1a: Roaring Moon|Protosynthesis|[silent]
+|-damage|p2a: Mimikyu|168/216|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1772747597
+|switch|p1a: Forretress|Forretress, L84, F|263/263
+|turn|5
+|
+|t:|1772747608
+|switch|p2a: Moltres|Moltres-Galar, L79|271/271
+|move|p1a: Forretress|Spikes|p2a: Moltres
+|-sidestart|p2: imortaljuan|Spikes
+|
+|upkeep
+|turn|6
+|
+|t:|1772747617
+|switch|p1a: Typhlosion|Typhlosion-Hisui, L83, M|257/257
+|move|p2a: Moltres|Nasty Plot|p2a: Moltres
+|-boost|p2a: Moltres|spa|2
+|
+|upkeep
+|turn|7
+|
+|t:|1772747624
+|move|p1a: Typhlosion|Calm Mind|p1a: Typhlosion
+|-boost|p1a: Typhlosion|spa|1
+|-boost|p1a: Typhlosion|spd|1
+|move|p2a: Moltres|Agility|p2a: Moltres
+|-boost|p2a: Moltres|spe|2
+|
+|upkeep
+|turn|8
+|
+|t:|1772747635
+|move|p2a: Moltres|Fiery Wrath|p1a: Typhlosion
+|-supereffective|p1a: Typhlosion
+|-damage|p1a: Typhlosion|29/257
+|cant|p1a: Typhlosion|flinch
+|
+|-heal|p1a: Typhlosion|45/257|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1772747642
+|move|p2a: Moltres|Fiery Wrath|p1a: Typhlosion
+|-supereffective|p1a: Typhlosion
+|-damage|p1a: Typhlosion|0 fnt
+|faint|p1a: Typhlosion
+|
+|upkeep
+|
+|t:|1772747647
+|switch|p1a: Zacian|Zacian, L69|241/241
+|-ability|p1a: Zacian|Intrepid Sword|boost
+|-boost|p1a: Zacian|atk|1
+|turn|10
+|
+|t:|1772747657
+|-terastallize|p2a: Moltres|Steel
+|move|p2a: Moltres|Hurricane|p1a: Zacian|[miss]
+|-miss|p2a: Moltres|p1a: Zacian
+|move|p1a: Zacian|Play Rough|p2a: Moltres
+|-resisted|p2a: Moltres
+|-damage|p2a: Moltres|186/271
+|
+|upkeep
+|turn|11
+|
+|t:|1772747665
+|switch|p1a: Zarude|Zarude-Dada, L77|288/288
+|move|p2a: Moltres|Hurricane|p1a: Zarude
+|-supereffective|p1a: Zarude
+|-damage|p1a: Zarude|0 fnt
+|faint|p1a: Zarude
+|
+|upkeep
+|
+|t:|1772747670
+|switch|p1a: Zacian|Zacian, L69|241/241
+|turn|12
+|
+|t:|1772747675
+|move|p2a: Moltres|Hurricane|p1a: Zacian|[miss]
+|-miss|p2a: Moltres|p1a: Zacian
+|move|p1a: Zacian|Close Combat|p2a: Moltres
+|-supereffective|p2a: Moltres
+|-damage|p2a: Moltres|0 fnt
+|-unboost|p1a: Zacian|def|1
+|-unboost|p1a: Zacian|spd|1
+|faint|p2a: Moltres
+|
+|upkeep
+|
+|t:|1772747680
+|switch|p2a: Crawdaunt|Crawdaunt, L84, M|243/243
+|-damage|p2a: Crawdaunt|213/243|[from] Spikes
+|turn|13
+|
+|t:|1772747690
+|move|p2a: Crawdaunt|Aqua Jet|p1a: Zacian
+|-damage|p1a: Zacian|81/241
+|move|p1a: Zacian|Close Combat|p2a: Crawdaunt
+|-supereffective|p2a: Crawdaunt
+|-damage|p2a: Crawdaunt|0 fnt
+|-unboost|p1a: Zacian|def|1
+|-unboost|p1a: Zacian|spd|1
+|faint|p2a: Crawdaunt
+|
+|upkeep
+|
+|t:|1772747697
+|switch|p2a: Jolteon|Jolteon, L84, F|246/246
+|-damage|p2a: Jolteon|216/246|[from] Spikes
+|turn|14
+|
+|t:|1772747704
+|move|p2a: Jolteon|Thunderbolt|p1a: Zacian
+|-crit|p1a: Zacian
+|-damage|p1a: Zacian|0 fnt
+|faint|p1a: Zacian
+|
+|-heal|p2a: Jolteon|231/246|[from] item: Leftovers
+|upkeep
+|
+|t:|1772747708
+|switch|p1a: Forretress|Forretress, L84, F|263/263
+|turn|15
+|
+|t:|1772747726
+|move|p2a: Jolteon|Substitute|p2a: Jolteon
+|-start|p2a: Jolteon|Substitute
+|-damage|p2a: Jolteon|170/246
+|move|p1a: Forretress|Body Press|p2a: Jolteon
+|-end|p2a: Jolteon|Substitute
+|
+|-heal|p2a: Jolteon|185/246|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1772747732
+|move|p2a: Jolteon|Thunderbolt|p1a: Forretress
+|-damage|p1a: Forretress|119/263
+|move|p1a: Forretress|Body Press|p2a: Jolteon
+|-damage|p2a: Jolteon|81/246
+|
+|-heal|p2a: Jolteon|96/246|[from] item: Leftovers
+|-heal|p1a: Forretress|135/263|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1772747744
+|move|p2a: Jolteon|Thunderbolt|p1a: Forretress
+|-damage|p1a: Forretress|2/263
+|move|p1a: Forretress|Body Press|p2a: Jolteon
+|-crit|p2a: Jolteon
+|-damage|p2a: Jolteon|0 fnt
+|faint|p2a: Jolteon
+|
+|-heal|p1a: Forretress|18/263|[from] item: Leftovers
+|upkeep
+|
+|t:|1772747752
+|switch|p2a: Suicune|Suicune, L82|298/298
+|-damage|p2a: Suicune|261/298|[from] Spikes
+|-ability|p2a: Suicune|Pressure
+|turn|18
+|
+|t:|1772747758
+|-terastallize|p1a: Forretress|Water
+|move|p2a: Suicune|Scald|p1a: Forretress
+|-resisted|p1a: Forretress
+|-damage|p1a: Forretress|0 fnt
+|faint|p1a: Forretress
+|
+|win|imortaljuan
+|l|☆deep_lerd
+|player|p1|

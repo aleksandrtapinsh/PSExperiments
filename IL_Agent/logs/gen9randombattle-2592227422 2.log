@@ -1,0 +1,199 @@
+|j|☆granoooola
+|j|☆adadmin
+|t:|1776971783
+|gametype|singles
+|player|p1|granoooola|266|1775
+|player|p2|adadmin|miku-ghost|1756
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776971783
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Masquerain|Masquerain, L87, M|264/264
+|switch|p2a: Cloyster|Cloyster, L80, F|211/211
+|-ability|p1a: Masquerain|Intimidate|boost
+|-unboost|p2a: Cloyster|atk|1
+|-enditem|p2a: Cloyster|White Herb
+|-clearnegativeboost|p2a: Cloyster|[silent]
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by adadmin)
+|c|☆adadmin|Rough start
+|
+|t:|1776971798
+|switch|p1a: Arbok|Arbok, L87, M|246/246
+|-ability|p1a: Arbok|Intimidate|boost
+|-unboost|p2a: Cloyster|atk|1
+|move|p2a: Cloyster|Shell Smash|p2a: Cloyster
+|-unboost|p2a: Cloyster|def|1
+|-unboost|p2a: Cloyster|spd|1
+|-boost|p2a: Cloyster|atk|2
+|-boost|p2a: Cloyster|spa|2
+|-boost|p2a: Cloyster|spe|2
+|
+|upkeep
+|turn|2
+|
+|t:|1776971802
+|move|p2a: Cloyster|Drill Run|p1a: Arbok
+|-supereffective|p1a: Arbok
+|-crit|p1a: Arbok
+|-damage|p1a: Arbok|0 fnt
+|faint|p1a: Arbok
+|
+|upkeep
+|
+|t:|1776971806
+|switch|p1a: Masquerain|Masquerain, L87, M|264/264
+|-ability|p1a: Masquerain|Intimidate|boost
+|-unboost|p2a: Cloyster|atk|1
+|turn|3
+|
+|t:|1776971809
+|move|p2a: Cloyster|Rock Blast|p1a: Masquerain
+|-supereffective|p1a: Masquerain
+|-damage|p1a: Masquerain|176/264
+|-supereffective|p1a: Masquerain
+|-damage|p1a: Masquerain|92/264
+|-supereffective|p1a: Masquerain
+|-damage|p1a: Masquerain|8/264
+|-supereffective|p1a: Masquerain
+|-damage|p1a: Masquerain|0 fnt
+|faint|p1a: Masquerain
+|-hitcount|p1: Masquerain|4
+|
+|upkeep
+|
+|t:|1776971812
+|switch|p1a: Deoxys|Deoxys-Defense, L84|221/221
+|-ability|p1a: Deoxys|Pressure
+|turn|4
+|
+|t:|1776971818
+|move|p2a: Cloyster|Icicle Spear|p1a: Deoxys
+|-damage|p1a: Deoxys|206/221
+|-damage|p1a: Deoxys|190/221
+|-damage|p1a: Deoxys|175/221
+|-damage|p1a: Deoxys|160/221
+|-damage|p1a: Deoxys|144/221
+|-hitcount|p1a: Deoxys|5
+|move|p1a: Deoxys|Psychic Noise|p2a: Cloyster
+|-damage|p2a: Cloyster|67/211
+|-start|p2a: Cloyster|move: Heal Block
+|
+|upkeep
+|turn|5
+|
+|t:|1776971827
+|move|p2a: Cloyster|Icicle Spear|p1a: Deoxys
+|-damage|p1a: Deoxys|128/221
+|-damage|p1a: Deoxys|110/221
+|-damage|p1a: Deoxys|94/221
+|-damage|p1a: Deoxys|79/221
+|-damage|p1a: Deoxys|63/221
+|-hitcount|p1a: Deoxys|5
+|move|p1a: Deoxys|Recover|p1a: Deoxys
+|-heal|p1a: Deoxys|174/221
+|
+|-end|p2a: Cloyster|move: Heal Block
+|upkeep
+|turn|6
+|
+|t:|1776971835
+|move|p2a: Cloyster|Icicle Spear|p1a: Deoxys
+|-damage|p1a: Deoxys|159/221
+|-damage|p1a: Deoxys|144/221
+|-damage|p1a: Deoxys|128/221
+|-damage|p1a: Deoxys|112/221
+|-damage|p1a: Deoxys|96/221
+|-hitcount|p1a: Deoxys|5
+|move|p1a: Deoxys|Psychic Noise|p2a: Cloyster
+|-damage|p2a: Cloyster|0 fnt
+|faint|p2a: Cloyster
+|
+|upkeep
+|
+|t:|1776971839
+|switch|p2a: Yanmega|Yanmega, L82, F|275/275
+|turn|7
+|
+|t:|1776971845
+|switch|p1a: Pincurchin|Pincurchin, F|258/258
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Pincurchin
+|move|p2a: Yanmega|Bug Buzz|p1a: Pincurchin
+|-damage|p1a: Pincurchin|128/258
+|
+|-heal|p1a: Pincurchin|144/258|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776971851
+|-terastallize|p2a: Yanmega|Bug
+|move|p2a: Yanmega|Bug Buzz|p1a: Pincurchin
+|-damage|p1a: Pincurchin|0 fnt
+|faint|p1a: Pincurchin
+|
+|upkeep
+|
+|t:|1776971854
+|switch|p1a: Swampert|Swampert, L83, F|302/302
+|turn|9
+|
+|t:|1776971857
+|move|p2a: Yanmega|Bug Buzz|p1a: Swampert
+|-damage|p1a: Swampert|110/302
+|move|p1a: Swampert|Yawn|p2a: Yanmega
+|-activate|p2a: Yanmega|move: Electric Terrain
+|
+|-heal|p1a: Swampert|128/302|[from] item: Leftovers
+|upkeep
+|turn|10
+|c|☆adadmin|Gg
+|
+|t:|1776971861
+|move|p2a: Yanmega|Bug Buzz|p1a: Swampert
+|-damage|p1a: Swampert|0 fnt
+|faint|p1a: Swampert
+|
+|upkeep
+|
+|t:|1776971865
+|switch|p1a: Deoxys|Deoxys-Defense, L84|96/221
+|-ability|p1a: Deoxys|Pressure
+|turn|11
+|
+|t:|1776971869
+|-terastallize|p1a: Deoxys|Steel
+|move|p2a: Yanmega|Bug Buzz|p1a: Deoxys
+|-resisted|p1a: Deoxys
+|-damage|p1a: Deoxys|0 fnt
+|faint|p1a: Deoxys
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|
+|t:|1776971871
+|switch|p1a: Leafeon|Leafeon, L88, M|258/258
+|turn|12
+|
+|t:|1776971873
+|move|p1a: Leafeon|Double-Edge|p2a: Yanmega
+|-damage|p2a: Yanmega|137/275
+|-damage|p1a: Leafeon|212/258|[from] Recoil
+|-damage|p1a: Leafeon|187/258|[from] item: Life Orb
+|move|p2a: Yanmega|Bug Buzz|p1a: Leafeon
+|-supereffective|p1a: Leafeon
+|-damage|p1a: Leafeon|0 fnt
+|faint|p1a: Leafeon
+|
+|win|adadmin
+|raw|granoooola's rating: 1775 &rarr; <strong>1754</strong><br />(-21 for losing)
+|raw|adadmin's rating: 1756 &rarr; <strong>1777</strong><br />(+21 for winning)
+|l|☆granoooola
+|player|p1|

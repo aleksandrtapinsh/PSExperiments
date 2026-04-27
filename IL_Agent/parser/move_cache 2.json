@@ -1,0 +1,2842 @@
+{
+  "play-rough": {
+    "name": "play-rough",
+    "base_power": 90,
+    "accuracy": 0.9,
+    "pp": 10,
+    "type": "fairy",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "hydro-pump": {
+    "name": "hydro-pump",
+    "base_power": 110,
+    "accuracy": 0.8,
+    "pp": 5,
+    "type": "water",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "calm-mind": {
+    "name": "calm-mind",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 20,
+    "type": "psychic",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "wood-hammer": {
+    "name": "wood-hammer",
+    "base_power": 120,
+    "accuracy": 1.0,
+    "pp": 15,
+    "type": "grass",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "u-turn": {
+    "name": "u-turn",
+    "base_power": 70,
+    "accuracy": 1.0,
+    "pp": 20,
+    "type": "bug",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "draco-meteor": {
+    "name": "draco-meteor",
+    "base_power": 130,
+    "accuracy": 0.9,
+    "pp": 5,
+    "type": "dragon",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "wish": {
+    "name": "wish",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "normal",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "dragon-darts": {
+    "name": "dragon-darts",
+    "base_power": 50,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "dragon",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "stun-spore": {
+    "name": "stun-spore",
+    "base_power": 0,
+    "accuracy": 0.75,
+    "pp": 30,
+    "type": "grass",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "ice-beam": {
+    "name": "ice-beam",
+    "base_power": 90,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "ice",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "roost": {
+    "name": "roost",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 5,
+    "type": "flying",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "hurricane": {
+    "name": "hurricane",
+    "base_power": 110,
+    "accuracy": 0.7,
+    "pp": 10,
+    "type": "flying",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "knock-off": {
+    "name": "knock-off",
+    "base_power": 65,
+    "accuracy": 1.0,
+    "pp": 20,
+    "type": "dark",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "flamethrower": {
+    "name": "flamethrower",
+    "base_power": 90,
+    "accuracy": 1.0,
+    "pp": 15,
+    "type": "fire",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "first-impression": {
+    "name": "first-impression",
+    "base_power": 90,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "bug",
+    "category": "physical",
+    "priority": 2,
+    "makes_contact": false
+  },
+  "bulk-up": {
+    "name": "bulk-up",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 20,
+    "type": "fighting",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "close-combat": {
+    "name": "close-combat",
+    "base_power": 120,
+    "accuracy": 1.0,
+    "pp": 5,
+    "type": "fighting",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "body-slam": {
+    "name": "body-slam",
+    "base_power": 85,
+    "accuracy": 1.0,
+    "pp": 15,
+    "type": "normal",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "sucker-punch": {
+    "name": "sucker-punch",
+    "base_power": 70,
+    "accuracy": 1.0,
+    "pp": 5,
+    "type": "dark",
+    "category": "physical",
+    "priority": 1,
+    "makes_contact": false
+  },
+  "parting-shot": {
+    "name": "parting-shot",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 20,
+    "type": "dark",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "swords-dance": {
+    "name": "swords-dance",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 20,
+    "type": "normal",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "wild-charge": {
+    "name": "wild-charge",
+    "base_power": 90,
+    "accuracy": 1.0,
+    "pp": 15,
+    "type": "electric",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "psyshock": {
+    "name": "psyshock",
+    "base_power": 80,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "psychic",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "iron-defense": {
+    "name": "iron-defense",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 15,
+    "type": "steel",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "recover": {
+    "name": "recover",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 5,
+    "type": "normal",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "freeze-dry": {
+    "name": "freeze-dry",
+    "base_power": 70,
+    "accuracy": 1.0,
+    "pp": 20,
+    "type": "ice",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "brave-bird": {
+    "name": "brave-bird",
+    "base_power": 120,
+    "accuracy": 1.0,
+    "pp": 15,
+    "type": "flying",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "thunderbolt": {
+    "name": "thunderbolt",
+    "base_power": 90,
+    "accuracy": 1.0,
+    "pp": 15,
+    "type": "electric",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "icicle-crash": {
+    "name": "icicle-crash",
+    "base_power": 85,
+    "accuracy": 0.9,
+    "pp": 10,
+    "type": "ice",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "earthquake": {
+    "name": "earthquake",
+    "base_power": 100,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "ground",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "giga-drain": {
+    "name": "giga-drain",
+    "base_power": 75,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "grass",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "drain-punch": {
+    "name": "drain-punch",
+    "base_power": 75,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "fighting",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "shadow-ball": {
+    "name": "shadow-ball",
+    "base_power": 80,
+    "accuracy": 1.0,
+    "pp": 15,
+    "type": "ghost",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "gunk-shot": {
+    "name": "gunk-shot",
+    "base_power": 120,
+    "accuracy": 0.8,
+    "pp": 5,
+    "type": "poison",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "strength-sap": {
+    "name": "strength-sap",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "grass",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "power-whip": {
+    "name": "power-whip",
+    "base_power": 120,
+    "accuracy": 0.85,
+    "pp": 10,
+    "type": "grass",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "sludge-wave": {
+    "name": "sludge-wave",
+    "base_power": 95,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "poison",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "rapid-spin": {
+    "name": "rapid-spin",
+    "base_power": 50,
+    "accuracy": 1.0,
+    "pp": 40,
+    "type": "normal",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "fire-blast": {
+    "name": "fire-blast",
+    "base_power": 110,
+    "accuracy": 0.85,
+    "pp": 5,
+    "type": "fire",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "stealth-rock": {
+    "name": "stealth-rock",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 20,
+    "type": "rock",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "throat-chop": {
+    "name": "throat-chop",
+    "base_power": 80,
+    "accuracy": 1.0,
+    "pp": 15,
+    "type": "dark",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "dragon-dance": {
+    "name": "dragon-dance",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 20,
+    "type": "dragon",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "iron-head": {
+    "name": "iron-head",
+    "base_power": 80,
+    "accuracy": 1.0,
+    "pp": 15,
+    "type": "steel",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "synthesis": {
+    "name": "synthesis",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 5,
+    "type": "grass",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "dual-wingbeat": {
+    "name": "dual-wingbeat",
+    "base_power": 40,
+    "accuracy": 0.9,
+    "pp": 10,
+    "type": "flying",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "moonblast": {
+    "name": "moonblast",
+    "base_power": 95,
+    "accuracy": 1.0,
+    "pp": 15,
+    "type": "fairy",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "solar-beam": {
+    "name": "solar-beam",
+    "base_power": 120,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "grass",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "extreme-speed": {
+    "name": "extreme-speed",
+    "base_power": 80,
+    "accuracy": 1.0,
+    "pp": 5,
+    "type": "normal",
+    "category": "physical",
+    "priority": 2,
+    "makes_contact": false
+  },
+  "liquidation": {
+    "name": "liquidation",
+    "base_power": 85,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "water",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "flame-charge": {
+    "name": "flame-charge",
+    "base_power": 50,
+    "accuracy": 1.0,
+    "pp": 20,
+    "type": "fire",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "rock-slide": {
+    "name": "rock-slide",
+    "base_power": 75,
+    "accuracy": 0.9,
+    "pp": 10,
+    "type": "rock",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "hyper-voice": {
+    "name": "hyper-voice",
+    "base_power": 90,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "normal",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "dragon-ascent": {
+    "name": "dragon-ascent",
+    "base_power": 120,
+    "accuracy": 1.0,
+    "pp": 5,
+    "type": "flying",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "belly-drum": {
+    "name": "belly-drum",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "normal",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "aeroblast": {
+    "name": "aeroblast",
+    "base_power": 100,
+    "accuracy": 0.95,
+    "pp": 5,
+    "type": "flying",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "heavy-slam": {
+    "name": "heavy-slam",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "steel",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "thunder-wave": {
+    "name": "thunder-wave",
+    "base_power": 0,
+    "accuracy": 0.9,
+    "pp": 20,
+    "type": "electric",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "dragon-tail": {
+    "name": "dragon-tail",
+    "base_power": 60,
+    "accuracy": 0.9,
+    "pp": 10,
+    "type": "dragon",
+    "category": "physical",
+    "priority": -6,
+    "makes_contact": false
+  },
+  "bullet-seed": {
+    "name": "bullet-seed",
+    "base_power": 25,
+    "accuracy": 1.0,
+    "pp": 30,
+    "type": "grass",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "double-edge": {
+    "name": "double-edge",
+    "base_power": 120,
+    "accuracy": 1.0,
+    "pp": 15,
+    "type": "normal",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "psychic": {
+    "name": "psychic",
+    "base_power": 90,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "psychic",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "substitute": {
+    "name": "substitute",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "normal",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "protect": {
+    "name": "protect",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "normal",
+    "category": "status",
+    "priority": 4,
+    "makes_contact": false
+  },
+  "encore": {
+    "name": "encore",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 5,
+    "type": "normal",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "flare-blitz": {
+    "name": "flare-blitz",
+    "base_power": 120,
+    "accuracy": 1.0,
+    "pp": 15,
+    "type": "fire",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "quiver-dance": {
+    "name": "quiver-dance",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 20,
+    "type": "bug",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "haze": {
+    "name": "haze",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 30,
+    "type": "ice",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "defog": {
+    "name": "defog",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 15,
+    "type": "flying",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "leaf-storm": {
+    "name": "leaf-storm",
+    "base_power": 130,
+    "accuracy": 0.9,
+    "pp": 5,
+    "type": "grass",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "superpower": {
+    "name": "superpower",
+    "base_power": 120,
+    "accuracy": 1.0,
+    "pp": 5,
+    "type": "fighting",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "ice-shard": {
+    "name": "ice-shard",
+    "base_power": 40,
+    "accuracy": 1.0,
+    "pp": 30,
+    "type": "ice",
+    "category": "physical",
+    "priority": 1,
+    "makes_contact": false
+  },
+  "cosmic-power": {
+    "name": "cosmic-power",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 20,
+    "type": "psychic",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "stored-power": {
+    "name": "stored-power",
+    "base_power": 20,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "psychic",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "body-press": {
+    "name": "body-press",
+    "base_power": 80,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "fighting",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "night-shade": {
+    "name": "night-shade",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 15,
+    "type": "ghost",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "toxic-spikes": {
+    "name": "toxic-spikes",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 20,
+    "type": "poison",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "stone-edge": {
+    "name": "stone-edge",
+    "base_power": 100,
+    "accuracy": 0.8,
+    "pp": 5,
+    "type": "rock",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "foul-play": {
+    "name": "foul-play",
+    "base_power": 95,
+    "accuracy": 1.0,
+    "pp": 15,
+    "type": "dark",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "shell-smash": {
+    "name": "shell-smash",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 15,
+    "type": "normal",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "spikes": {
+    "name": "spikes",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 20,
+    "type": "ground",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "outrage": {
+    "name": "outrage",
+    "base_power": 120,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "dragon",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "leech-life": {
+    "name": "leech-life",
+    "base_power": 80,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "bug",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "diamond-storm": {
+    "name": "diamond-storm",
+    "base_power": 100,
+    "accuracy": 0.95,
+    "pp": 5,
+    "type": "rock",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "dragon-claw": {
+    "name": "dragon-claw",
+    "base_power": 80,
+    "accuracy": 1.0,
+    "pp": 15,
+    "type": "dragon",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "draining-kiss": {
+    "name": "draining-kiss",
+    "base_power": 50,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "fairy",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "earth-power": {
+    "name": "earth-power",
+    "base_power": 90,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "ground",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "sleep-powder": {
+    "name": "sleep-powder",
+    "base_power": 0,
+    "accuracy": 0.75,
+    "pp": 15,
+    "type": "grass",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "bug-buzz": {
+    "name": "bug-buzz",
+    "base_power": 90,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "bug",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "psystrike": {
+    "name": "psystrike",
+    "base_power": 100,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "psychic",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "psycho-cut": {
+    "name": "psycho-cut",
+    "base_power": 70,
+    "accuracy": 1.0,
+    "pp": 20,
+    "type": "psychic",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "trick": {
+    "name": "trick",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "psychic",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "night-slash": {
+    "name": "night-slash",
+    "base_power": 70,
+    "accuracy": 1.0,
+    "pp": 15,
+    "type": "dark",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "poltergeist": {
+    "name": "poltergeist",
+    "base_power": 110,
+    "accuracy": 0.9,
+    "pp": 5,
+    "type": "ghost",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "scald": {
+    "name": "scald",
+    "base_power": 80,
+    "accuracy": 1.0,
+    "pp": 15,
+    "type": "water",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "surf": {
+    "name": "surf",
+    "base_power": 90,
+    "accuracy": 1.0,
+    "pp": 15,
+    "type": "water",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "sacred-sword": {
+    "name": "sacred-sword",
+    "base_power": 90,
+    "accuracy": 1.0,
+    "pp": 15,
+    "type": "fighting",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "head-smash": {
+    "name": "head-smash",
+    "base_power": 150,
+    "accuracy": 0.8,
+    "pp": 5,
+    "type": "rock",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "rock-polish": {
+    "name": "rock-polish",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 20,
+    "type": "rock",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "fake-out": {
+    "name": "fake-out",
+    "base_power": 40,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "normal",
+    "category": "physical",
+    "priority": 3,
+    "makes_contact": false
+  },
+  "sticky-web": {
+    "name": "sticky-web",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 20,
+    "type": "bug",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "moongeist-beam": {
+    "name": "moongeist-beam",
+    "base_power": 100,
+    "accuracy": 1.0,
+    "pp": 5,
+    "type": "ghost",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "moonlight": {
+    "name": "moonlight",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 5,
+    "type": "fairy",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "sacred-fire": {
+    "name": "sacred-fire",
+    "base_power": 100,
+    "accuracy": 0.95,
+    "pp": 5,
+    "type": "fire",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "flip-turn": {
+    "name": "flip-turn",
+    "base_power": 60,
+    "accuracy": 1.0,
+    "pp": 20,
+    "type": "water",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "thunder": {
+    "name": "thunder",
+    "base_power": 110,
+    "accuracy": 0.7,
+    "pp": 10,
+    "type": "electric",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "megahorn": {
+    "name": "megahorn",
+    "base_power": 120,
+    "accuracy": 0.85,
+    "pp": 10,
+    "type": "bug",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "volt-switch": {
+    "name": "volt-switch",
+    "base_power": 70,
+    "accuracy": 1.0,
+    "pp": 20,
+    "type": "electric",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "roar": {
+    "name": "roar",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 20,
+    "type": "normal",
+    "category": "status",
+    "priority": -6,
+    "makes_contact": false
+  },
+  "rest": {
+    "name": "rest",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 5,
+    "type": "psychic",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "sleep-talk": {
+    "name": "sleep-talk",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "normal",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "toxic": {
+    "name": "toxic",
+    "base_power": 0,
+    "accuracy": 0.9,
+    "pp": 10,
+    "type": "poison",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "curse": {
+    "name": "curse",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "ghost",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "judgment": {
+    "name": "judgment",
+    "base_power": 100,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "normal",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "aura-sphere": {
+    "name": "aura-sphere",
+    "base_power": 80,
+    "accuracy": 1.0,
+    "pp": 20,
+    "type": "fighting",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "vacuum-wave": {
+    "name": "vacuum-wave",
+    "base_power": 40,
+    "accuracy": 1.0,
+    "pp": 30,
+    "type": "fighting",
+    "category": "special",
+    "priority": 1,
+    "makes_contact": false
+  },
+  "shadow-sneak": {
+    "name": "shadow-sneak",
+    "base_power": 40,
+    "accuracy": 1.0,
+    "pp": 30,
+    "type": "ghost",
+    "category": "physical",
+    "priority": 1,
+    "makes_contact": false
+  },
+  "dark-pulse": {
+    "name": "dark-pulse",
+    "base_power": 80,
+    "accuracy": 1.0,
+    "pp": 15,
+    "type": "dark",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "mach-punch": {
+    "name": "mach-punch",
+    "base_power": 40,
+    "accuracy": 1.0,
+    "pp": 30,
+    "type": "fighting",
+    "category": "physical",
+    "priority": 1,
+    "makes_contact": false
+  },
+  "photon-geyser": {
+    "name": "photon-geyser",
+    "base_power": 100,
+    "accuracy": 1.0,
+    "pp": 5,
+    "type": "psychic",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "revelation-dance": {
+    "name": "revelation-dance",
+    "base_power": 90,
+    "accuracy": 1.0,
+    "pp": 15,
+    "type": "normal",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "boomburst": {
+    "name": "boomburst",
+    "base_power": 140,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "normal",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "focus-punch": {
+    "name": "focus-punch",
+    "base_power": 150,
+    "accuracy": 1.0,
+    "pp": 20,
+    "type": "fighting",
+    "category": "physical",
+    "priority": -3,
+    "makes_contact": false
+  },
+  "dazzling-gleam": {
+    "name": "dazzling-gleam",
+    "base_power": 80,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "fairy",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "heat-crash": {
+    "name": "heat-crash",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "fire",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "tail-glow": {
+    "name": "tail-glow",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 20,
+    "type": "bug",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "energy-ball": {
+    "name": "energy-ball",
+    "base_power": 90,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "grass",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "grass-knot": {
+    "name": "grass-knot",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 20,
+    "type": "grass",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "freezing-glare": {
+    "name": "freezing-glare",
+    "base_power": 90,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "psychic",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "nasty-plot": {
+    "name": "nasty-plot",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 20,
+    "type": "dark",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "focus-blast": {
+    "name": "focus-blast",
+    "base_power": 120,
+    "accuracy": 0.7,
+    "pp": 5,
+    "type": "fighting",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "seismic-toss": {
+    "name": "seismic-toss",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 20,
+    "type": "fighting",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "crunch": {
+    "name": "crunch",
+    "base_power": 80,
+    "accuracy": 1.0,
+    "pp": 15,
+    "type": "dark",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "ice-punch": {
+    "name": "ice-punch",
+    "base_power": 75,
+    "accuracy": 1.0,
+    "pp": 15,
+    "type": "ice",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "triple-axel": {
+    "name": "triple-axel",
+    "base_power": 20,
+    "accuracy": 0.9,
+    "pp": 10,
+    "type": "ice",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "sludge-bomb": {
+    "name": "sludge-bomb",
+    "base_power": 90,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "poison",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "spore": {
+    "name": "spore",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 15,
+    "type": "grass",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "leech-seed": {
+    "name": "leech-seed",
+    "base_power": 0,
+    "accuracy": 0.9,
+    "pp": 10,
+    "type": "grass",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "secret-sword": {
+    "name": "secret-sword",
+    "base_power": 85,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "fighting",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "yawn": {
+    "name": "yawn",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "normal",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "spirit-break": {
+    "name": "spirit-break",
+    "base_power": 75,
+    "accuracy": 1.0,
+    "pp": 15,
+    "type": "fairy",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "taunt": {
+    "name": "taunt",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 20,
+    "type": "dark",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "will-o-wisp": {
+    "name": "will-o-wisp",
+    "base_power": 0,
+    "accuracy": 0.85,
+    "pp": 15,
+    "type": "fire",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "whirlwind": {
+    "name": "whirlwind",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 20,
+    "type": "normal",
+    "category": "status",
+    "priority": -6,
+    "makes_contact": false
+  },
+  "aurora-veil": {
+    "name": "aurora-veil",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 20,
+    "type": "ice",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "blizzard": {
+    "name": "blizzard",
+    "base_power": 110,
+    "accuracy": 0.7,
+    "pp": 5,
+    "type": "ice",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "leaf-blade": {
+    "name": "leaf-blade",
+    "base_power": 90,
+    "accuracy": 1.0,
+    "pp": 15,
+    "type": "grass",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "slack-off": {
+    "name": "slack-off",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 5,
+    "type": "normal",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "pain-split": {
+    "name": "pain-split",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 20,
+    "type": "normal",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "heal-bell": {
+    "name": "heal-bell",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 5,
+    "type": "normal",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "wicked-blow": {
+    "name": "wicked-blow",
+    "base_power": 75,
+    "accuracy": 1.0,
+    "pp": 5,
+    "type": "dark",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "glare": {
+    "name": "glare",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 30,
+    "type": "normal",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "headbutt": {
+    "name": "headbutt",
+    "base_power": 70,
+    "accuracy": 1.0,
+    "pp": 15,
+    "type": "normal",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "no-retreat": {
+    "name": "no-retreat",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 5,
+    "type": "fighting",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "high-horsepower": {
+    "name": "high-horsepower",
+    "base_power": 95,
+    "accuracy": 0.95,
+    "pp": 10,
+    "type": "ground",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "bullet-punch": {
+    "name": "bullet-punch",
+    "base_power": 40,
+    "accuracy": 1.0,
+    "pp": 30,
+    "type": "steel",
+    "category": "physical",
+    "priority": 1,
+    "makes_contact": false
+  },
+  "water-spout": {
+    "name": "water-spout",
+    "base_power": 150,
+    "accuracy": 1.0,
+    "pp": 5,
+    "type": "water",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "icicle-spear": {
+    "name": "icicle-spear",
+    "base_power": 25,
+    "accuracy": 1.0,
+    "pp": 30,
+    "type": "ice",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "grassy-glide": {
+    "name": "grassy-glide",
+    "base_power": 55,
+    "accuracy": 1.0,
+    "pp": 20,
+    "type": "grass",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "facade": {
+    "name": "facade",
+    "base_power": 70,
+    "accuracy": 1.0,
+    "pp": 20,
+    "type": "normal",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "quick-attack": {
+    "name": "quick-attack",
+    "base_power": 40,
+    "accuracy": 1.0,
+    "pp": 30,
+    "type": "normal",
+    "category": "physical",
+    "priority": 1,
+    "makes_contact": false
+  },
+  "overdrive": {
+    "name": "overdrive",
+    "base_power": 80,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "electric",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "scorching-sands": {
+    "name": "scorching-sands",
+    "base_power": 70,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "ground",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "power-trip": {
+    "name": "power-trip",
+    "base_power": 20,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "dark",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "dragon-energy": {
+    "name": "dragon-energy",
+    "base_power": 150,
+    "accuracy": 1.0,
+    "pp": 5,
+    "type": "dragon",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "power-gem": {
+    "name": "power-gem",
+    "base_power": 80,
+    "accuracy": 1.0,
+    "pp": 20,
+    "type": "rock",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "nuzzle": {
+    "name": "nuzzle",
+    "base_power": 20,
+    "accuracy": 1.0,
+    "pp": 20,
+    "type": "electric",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "aqua-jet": {
+    "name": "aqua-jet",
+    "base_power": 40,
+    "accuracy": 1.0,
+    "pp": 20,
+    "type": "water",
+    "category": "physical",
+    "priority": 1,
+    "makes_contact": false
+  },
+  "fleur-cannon": {
+    "name": "fleur-cannon",
+    "base_power": 130,
+    "accuracy": 0.9,
+    "pp": 5,
+    "type": "fairy",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "high-jump-kick": {
+    "name": "high-jump-kick",
+    "base_power": 130,
+    "accuracy": 0.9,
+    "pp": 10,
+    "type": "fighting",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "morning-sun": {
+    "name": "morning-sun",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 5,
+    "type": "normal",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "flash-cannon": {
+    "name": "flash-cannon",
+    "base_power": 80,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "steel",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "poison-jab": {
+    "name": "poison-jab",
+    "base_power": 80,
+    "accuracy": 1.0,
+    "pp": 20,
+    "type": "poison",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "acrobatics": {
+    "name": "acrobatics",
+    "base_power": 55,
+    "accuracy": 1.0,
+    "pp": 15,
+    "type": "flying",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "sparkling-aria": {
+    "name": "sparkling-aria",
+    "base_power": 90,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "water",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "meteor-beam": {
+    "name": "meteor-beam",
+    "base_power": 120,
+    "accuracy": 0.9,
+    "pp": 10,
+    "type": "rock",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "air-slash": {
+    "name": "air-slash",
+    "base_power": 75,
+    "accuracy": 0.95,
+    "pp": 15,
+    "type": "flying",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "endeavor": {
+    "name": "endeavor",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 5,
+    "type": "normal",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "beak-blast": {
+    "name": "beak-blast",
+    "base_power": 100,
+    "accuracy": 1.0,
+    "pp": 15,
+    "type": "flying",
+    "category": "physical",
+    "priority": -3,
+    "makes_contact": false
+  },
+  "overheat": {
+    "name": "overheat",
+    "base_power": 130,
+    "accuracy": 0.9,
+    "pp": 5,
+    "type": "fire",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "dynamax-cannon": {
+    "name": "dynamax-cannon",
+    "base_power": 100,
+    "accuracy": 1.0,
+    "pp": 5,
+    "type": "dragon",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "sunsteel-strike": {
+    "name": "sunsteel-strike",
+    "base_power": 100,
+    "accuracy": 1.0,
+    "pp": 5,
+    "type": "steel",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "lava-plume": {
+    "name": "lava-plume",
+    "base_power": 80,
+    "accuracy": 1.0,
+    "pp": 15,
+    "type": "fire",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "eruption": {
+    "name": "eruption",
+    "base_power": 150,
+    "accuracy": 1.0,
+    "pp": 5,
+    "type": "fire",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "switcheroo": {
+    "name": "switcheroo",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "dark",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "pollen-puff": {
+    "name": "pollen-puff",
+    "base_power": 90,
+    "accuracy": 1.0,
+    "pp": 15,
+    "type": "bug",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "zen-headbutt": {
+    "name": "zen-headbutt",
+    "base_power": 80,
+    "accuracy": 0.9,
+    "pp": 15,
+    "type": "psychic",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "drill-run": {
+    "name": "drill-run",
+    "base_power": 80,
+    "accuracy": 0.95,
+    "pp": 10,
+    "type": "ground",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "discharge": {
+    "name": "discharge",
+    "base_power": 80,
+    "accuracy": 1.0,
+    "pp": 15,
+    "type": "electric",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "coil": {
+    "name": "coil",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 20,
+    "type": "poison",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "aura-wheel": {
+    "name": "aura-wheel",
+    "base_power": 110,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "electric",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "mystical-fire": {
+    "name": "mystical-fire",
+    "base_power": 75,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "fire",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "giga-impact": {
+    "name": "giga-impact",
+    "base_power": 150,
+    "accuracy": 0.9,
+    "pp": 5,
+    "type": "normal",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "pyro-ball": {
+    "name": "pyro-ball",
+    "base_power": 120,
+    "accuracy": 0.9,
+    "pp": 5,
+    "type": "fire",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "thunder-punch": {
+    "name": "thunder-punch",
+    "base_power": 75,
+    "accuracy": 1.0,
+    "pp": 15,
+    "type": "electric",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "poison-fang": {
+    "name": "poison-fang",
+    "base_power": 50,
+    "accuracy": 1.0,
+    "pp": 15,
+    "type": "poison",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "magnet-rise": {
+    "name": "magnet-rise",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "electric",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "psycho-boost": {
+    "name": "psycho-boost",
+    "base_power": 140,
+    "accuracy": 0.9,
+    "pp": 5,
+    "type": "psychic",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "fire-punch": {
+    "name": "fire-punch",
+    "base_power": 75,
+    "accuracy": 1.0,
+    "pp": 15,
+    "type": "fire",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "precipice-blades": {
+    "name": "precipice-blades",
+    "base_power": 120,
+    "accuracy": 0.85,
+    "pp": 10,
+    "type": "ground",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "scale-shot": {
+    "name": "scale-shot",
+    "base_power": 25,
+    "accuracy": 0.9,
+    "pp": 20,
+    "type": "dragon",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "low-kick": {
+    "name": "low-kick",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 20,
+    "type": "fighting",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "muddy-water": {
+    "name": "muddy-water",
+    "base_power": 90,
+    "accuracy": 0.85,
+    "pp": 10,
+    "type": "water",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "crabhammer": {
+    "name": "crabhammer",
+    "base_power": 100,
+    "accuracy": 0.9,
+    "pp": 10,
+    "type": "water",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "super-fang": {
+    "name": "super-fang",
+    "base_power": 0,
+    "accuracy": 0.9,
+    "pp": 10,
+    "type": "normal",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "bite": {
+    "name": "bite",
+    "base_power": 60,
+    "accuracy": 1.0,
+    "pp": 25,
+    "type": "dark",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "heat-wave": {
+    "name": "heat-wave",
+    "base_power": 95,
+    "accuracy": 0.9,
+    "pp": 10,
+    "type": "fire",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "horn-leech": {
+    "name": "horn-leech",
+    "base_power": 75,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "grass",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "soft-boiled": {
+    "name": "soft-boiled",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 5,
+    "type": "normal",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "dragon-pulse": {
+    "name": "dragon-pulse",
+    "base_power": 85,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "dragon",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "apple-acid": {
+    "name": "apple-acid",
+    "base_power": 80,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "grass",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "psychic-fangs": {
+    "name": "psychic-fangs",
+    "base_power": 85,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "psychic",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "payback": {
+    "name": "payback",
+    "base_power": 50,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "dark",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "water-pulse": {
+    "name": "water-pulse",
+    "base_power": 60,
+    "accuracy": 1.0,
+    "pp": 20,
+    "type": "water",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "agility": {
+    "name": "agility",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 30,
+    "type": "psychic",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "bug-bite": {
+    "name": "bug-bite",
+    "base_power": 60,
+    "accuracy": 1.0,
+    "pp": 20,
+    "type": "bug",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "struggle": {
+    "name": "struggle",
+    "base_power": 50,
+    "accuracy": 1.0,
+    "pp": 1,
+    "type": "normal",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "sunny-day": {
+    "name": "sunny-day",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 5,
+    "type": "fire",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "weather-ball": {
+    "name": "weather-ball",
+    "base_power": 50,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "normal",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "explosion": {
+    "name": "explosion",
+    "base_power": 250,
+    "accuracy": 1.0,
+    "pp": 5,
+    "type": "normal",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "relic-song": {
+    "name": "relic-song",
+    "base_power": 75,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "normal",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "hypnosis": {
+    "name": "hypnosis",
+    "base_power": 0,
+    "accuracy": 0.6,
+    "pp": 20,
+    "type": "psychic",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "stomping-tantrum": {
+    "name": "stomping-tantrum",
+    "base_power": 75,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "ground",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "x-scissor": {
+    "name": "x-scissor",
+    "base_power": 80,
+    "accuracy": 1.0,
+    "pp": 15,
+    "type": "bug",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "work-up": {
+    "name": "work-up",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 30,
+    "type": "normal",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "seed-flare": {
+    "name": "seed-flare",
+    "base_power": 120,
+    "accuracy": 0.85,
+    "pp": 5,
+    "type": "grass",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "hyperspace-fury": {
+    "name": "hyperspace-fury",
+    "base_power": 100,
+    "accuracy": 1.0,
+    "pp": 5,
+    "type": "dark",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "dynamic-punch": {
+    "name": "dynamic-punch",
+    "base_power": 100,
+    "accuracy": 0.5,
+    "pp": 5,
+    "type": "fighting",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "rock-blast": {
+    "name": "rock-blast",
+    "base_power": 25,
+    "accuracy": 0.9,
+    "pp": 10,
+    "type": "rock",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "bolt-strike": {
+    "name": "bolt-strike",
+    "base_power": 130,
+    "accuracy": 0.85,
+    "pp": 5,
+    "type": "electric",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "ice-hammer": {
+    "name": "ice-hammer",
+    "base_power": 100,
+    "accuracy": 0.9,
+    "pp": 10,
+    "type": "ice",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "rock-tomb": {
+    "name": "rock-tomb",
+    "base_power": 60,
+    "accuracy": 0.95,
+    "pp": 15,
+    "type": "rock",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "volt-tackle": {
+    "name": "volt-tackle",
+    "base_power": 120,
+    "accuracy": 1.0,
+    "pp": 15,
+    "type": "electric",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "mud-shot": {
+    "name": "mud-shot",
+    "base_power": 55,
+    "accuracy": 0.95,
+    "pp": 15,
+    "type": "ground",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "circle-throw": {
+    "name": "circle-throw",
+    "base_power": 60,
+    "accuracy": 0.9,
+    "pp": 10,
+    "type": "fighting",
+    "category": "physical",
+    "priority": -6,
+    "makes_contact": false
+  },
+  "blue-flare": {
+    "name": "blue-flare",
+    "base_power": 130,
+    "accuracy": 0.85,
+    "pp": 5,
+    "type": "fire",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "clangorous-soul": {
+    "name": "clangorous-soul",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 5,
+    "type": "dragon",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "clanging-scales": {
+    "name": "clanging-scales",
+    "base_power": 110,
+    "accuracy": 1.0,
+    "pp": 5,
+    "type": "dragon",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "light-screen": {
+    "name": "light-screen",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 30,
+    "type": "psychic",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "reflect": {
+    "name": "reflect",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 20,
+    "type": "psychic",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "trick-room": {
+    "name": "trick-room",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 5,
+    "type": "psychic",
+    "category": "status",
+    "priority": -7,
+    "makes_contact": false
+  },
+  "lunge": {
+    "name": "lunge",
+    "base_power": 80,
+    "accuracy": 1.0,
+    "pp": 15,
+    "type": "bug",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "avalanche": {
+    "name": "avalanche",
+    "base_power": 60,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "ice",
+    "category": "physical",
+    "priority": -4,
+    "makes_contact": false
+  },
+  "origin-pulse": {
+    "name": "origin-pulse",
+    "base_power": 110,
+    "accuracy": 0.85,
+    "pp": 10,
+    "type": "water",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "grav-apple": {
+    "name": "grav-apple",
+    "base_power": 80,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "grass",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "destiny-bond": {
+    "name": "destiny-bond",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 5,
+    "type": "ghost",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "lash-out": {
+    "name": "lash-out",
+    "base_power": 75,
+    "accuracy": 1.0,
+    "pp": 5,
+    "type": "dark",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "expanding-force": {
+    "name": "expanding-force",
+    "base_power": 80,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "psychic",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "fiery-dance": {
+    "name": "fiery-dance",
+    "base_power": 80,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "fire",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "rain-dance": {
+    "name": "rain-dance",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 5,
+    "type": "water",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "strange-steam": {
+    "name": "strange-steam",
+    "base_power": 90,
+    "accuracy": 0.95,
+    "pp": 10,
+    "type": "fairy",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "shore-up": {
+    "name": "shore-up",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 5,
+    "type": "ground",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "tri-attack": {
+    "name": "tri-attack",
+    "base_power": 80,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "normal",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "steam-eruption": {
+    "name": "steam-eruption",
+    "base_power": 110,
+    "accuracy": 0.95,
+    "pp": 5,
+    "type": "water",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "fusion-bolt": {
+    "name": "fusion-bolt",
+    "base_power": 100,
+    "accuracy": 1.0,
+    "pp": 5,
+    "type": "electric",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "waterfall": {
+    "name": "waterfall",
+    "base_power": 80,
+    "accuracy": 1.0,
+    "pp": 15,
+    "type": "water",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "shadow-claw": {
+    "name": "shadow-claw",
+    "base_power": 70,
+    "accuracy": 1.0,
+    "pp": 15,
+    "type": "ghost",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "hex": {
+    "name": "hex",
+    "base_power": 65,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "ghost",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "spacial-rend": {
+    "name": "spacial-rend",
+    "base_power": 100,
+    "accuracy": 0.95,
+    "pp": 5,
+    "type": "dragon",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "behemoth-blade": {
+    "name": "behemoth-blade",
+    "base_power": 100,
+    "accuracy": 1.0,
+    "pp": 5,
+    "type": "steel",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "fiery-wrath": {
+    "name": "fiery-wrath",
+    "base_power": 90,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "dark",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "glacial-lance": {
+    "name": "glacial-lance",
+    "base_power": 120,
+    "accuracy": 1.0,
+    "pp": 5,
+    "type": "ice",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "shell-side-arm": {
+    "name": "shell-side-arm",
+    "base_power": 90,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "poison",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "zing-zap": {
+    "name": "zing-zap",
+    "base_power": 80,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "electric",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "shift-gear": {
+    "name": "shift-gear",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "steel",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "whirlpool": {
+    "name": "whirlpool",
+    "base_power": 35,
+    "accuracy": 0.85,
+    "pp": 15,
+    "type": "water",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "future-sight": {
+    "name": "future-sight",
+    "base_power": 120,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "psychic",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "mirror-coat": {
+    "name": "mirror-coat",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 20,
+    "type": "psychic",
+    "category": "special",
+    "priority": -5,
+    "makes_contact": false
+  },
+  "magma-storm": {
+    "name": "magma-storm",
+    "base_power": 100,
+    "accuracy": 0.75,
+    "pp": 5,
+    "type": "fire",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "ice-fang": {
+    "name": "ice-fang",
+    "base_power": 65,
+    "accuracy": 0.95,
+    "pp": 15,
+    "type": "ice",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "teleport": {
+    "name": "teleport",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 20,
+    "type": "psychic",
+    "category": "status",
+    "priority": -6,
+    "makes_contact": false
+  },
+  "seed-bomb": {
+    "name": "seed-bomb",
+    "base_power": 80,
+    "accuracy": 1.0,
+    "pp": 15,
+    "type": "grass",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "accelerock": {
+    "name": "accelerock",
+    "base_power": 40,
+    "accuracy": 1.0,
+    "pp": 20,
+    "type": "rock",
+    "category": "physical",
+    "priority": 1,
+    "makes_contact": false
+  },
+  "beat-up": {
+    "name": "beat-up",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "dark",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "fusion-flare": {
+    "name": "fusion-flare",
+    "base_power": 100,
+    "accuracy": 1.0,
+    "pp": 5,
+    "type": "fire",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "petal-dance": {
+    "name": "petal-dance",
+    "base_power": 120,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "grass",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "spirit-shackle": {
+    "name": "spirit-shackle",
+    "base_power": 80,
+    "accuracy": 1.0,
+    "pp": 10,
+    "type": "ghost",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "brick-break": {
+    "name": "brick-break",
+    "base_power": 75,
+    "accuracy": 1.0,
+    "pp": 15,
+    "type": "fighting",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "iron-tail": {
+    "name": "iron-tail",
+    "base_power": 100,
+    "accuracy": 0.75,
+    "pp": 15,
+    "type": "steel",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "tail-slap": {
+    "name": "tail-slap",
+    "base_power": 25,
+    "accuracy": 0.85,
+    "pp": 10,
+    "type": "normal",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "meteor-mash": {
+    "name": "meteor-mash",
+    "base_power": 90,
+    "accuracy": 0.9,
+    "pp": 10,
+    "type": "steel",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "luster-purge": {
+    "name": "luster-purge",
+    "base_power": 95,
+    "accuracy": 1.0,
+    "pp": 5,
+    "type": "psychic",
+    "category": "special",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "tailwind": {
+    "name": "tailwind",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 15,
+    "type": "flying",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "milk-drink": {
+    "name": "milk-drink",
+    "base_power": 0,
+    "accuracy": 1.0,
+    "pp": 5,
+    "type": "normal",
+    "category": "status",
+    "priority": 0,
+    "makes_contact": false
+  },
+  "razor-shell": {
+    "name": "razor-shell",
+    "base_power": 75,
+    "accuracy": 0.95,
+    "pp": 10,
+    "type": "water",
+    "category": "physical",
+    "priority": 0,
+    "makes_contact": false
+  }
+}

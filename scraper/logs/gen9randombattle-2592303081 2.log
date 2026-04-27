@@ -1,0 +1,350 @@
+|j|☆R.Slicker
+|j|☆idontcare189
+|t:|1776977233
+|gametype|singles
+|player|p1|R.Slicker|hiker-gen4|1411
+|player|p2|idontcare189|266|1419
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776977233
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Toucannon|Toucannon, L88, F|284/284
+|switch|p2a: Fezandipiti|Fezandipiti, L82, M|278/278
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by idontcare189)
+|
+|t:|1776977242
+|move|p2a: Fezandipiti|Gunk Shot|p1a: Toucannon|[miss]
+|-miss|p2a: Fezandipiti|p1a: Toucannon
+|move|p1a: Toucannon|Knock Off|p2a: Fezandipiti
+|-resisted|p2a: Fezandipiti
+|-damage|p2a: Fezandipiti|230/278
+|-enditem|p2a: Fezandipiti|Assault Vest|[from] move: Knock Off|[of] p1a: Toucannon
+|
+|upkeep
+|turn|2
+|
+|t:|1776977253
+|move|p2a: Fezandipiti|Gunk Shot|p1a: Toucannon
+|-damage|p1a: Toucannon|170/284
+|-status|p1a: Toucannon|tox|[from] ability: Toxic Chain|[of] p2a: Fezandipiti
+|move|p1a: Toucannon|Boomburst|p2a: Fezandipiti
+|-damage|p2a: Fezandipiti|127/278
+|
+|-damage|p1a: Toucannon|153/284 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1776977264
+|-singleturn|p1a: Toucannon|move: Beak Blast
+|move|p2a: Fezandipiti|U-turn|p1a: Toucannon
+|-resisted|p1a: Toucannon
+|-damage|p1a: Toucannon|131/284 tox
+|-status|p2a: Fezandipiti|brn
+|
+|t:|1776977269
+|switch|p2a: Lanturn|Lanturn, L89, F|367/367|[from] U-turn
+|move|p1a: Toucannon|Beak Blast|p2a: Lanturn
+|-resisted|p2a: Lanturn
+|-damage|p2a: Lanturn|277/367
+|
+|-damage|p1a: Toucannon|97/284 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1776977278
+|move|p2a: Lanturn|Thunder Wave||[still]
+|-fail|p2a: Lanturn
+|move|p1a: Toucannon|Knock Off|p2a: Lanturn
+|-damage|p2a: Lanturn|168/367
+|-enditem|p2a: Lanturn|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Toucannon
+|
+|-damage|p1a: Toucannon|46/284 tox|[from] psn
+|upkeep
+|turn|5
+|inactive|R.Slicker has 120 seconds left.
+|
+|t:|1776977325
+|move|p2a: Lanturn|Scald|p1a: Toucannon
+|-damage|p1a: Toucannon|0 fnt
+|faint|p1a: Toucannon
+|
+|upkeep
+|inactive|R.Slicker has 90 seconds left.
+|
+|t:|1776977356
+|switch|p1a: Ariados|Ariados, L95, M|287/287
+|turn|6
+|
+|t:|1776977374
+|move|p2a: Lanturn|Thunder Wave|p1a: Ariados
+|-status|p1a: Ariados|par
+|move|p1a: Ariados|Sticky Web|p2a: Lanturn
+|-sidestart|p2: idontcare189|move: Sticky Web
+|
+|upkeep
+|turn|7
+|
+|t:|1776977382
+|move|p2a: Lanturn|Volt Switch|p1a: Ariados
+|-damage|p1a: Ariados|212/287 par
+|
+|t:|1776977393
+|switch|p2a: Lunala|Lunala, L70|308/308|[from] Volt Switch
+|-activate|p2a: Lunala|move: Sticky Web
+|-unboost|p2a: Lunala|spe|1
+|move|p1a: Ariados|Poison Jab|p2a: Lunala
+|-resisted|p2a: Lunala
+|-damage|p2a: Lunala|277/308
+|
+|-heal|p2a: Lunala|296/308|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776977401
+|move|p2a: Lunala|Calm Mind|p2a: Lunala
+|-boost|p2a: Lunala|spa|1
+|-boost|p2a: Lunala|spd|1
+|move|p1a: Ariados|Knock Off|p2a: Lunala
+|-supereffective|p2a: Lunala
+|-damage|p2a: Lunala|0 fnt
+|-enditem|p2a: Lunala|Leftovers|[from] move: Knock Off|[of] p1a: Ariados
+|faint|p2a: Lunala
+|
+|upkeep
+|
+|t:|1776977408
+|switch|p2a: Cramorant|Cramorant, L86, M|261/261
+|turn|9
+|
+|t:|1776977414
+|move|p2a: Cramorant|Brave Bird|p1a: Ariados
+|-supereffective|p1a: Ariados
+|-damage|p1a: Ariados|0 fnt
+|faint|p1a: Ariados
+|-damage|p2a: Cramorant|191/261|[from] Recoil
+|
+|upkeep
+|
+|t:|1776977424
+|switch|p1a: Giratina|Giratina-Origin, L72|335/335
+|turn|10
+|
+|t:|1776977430
+|move|p2a: Cramorant|Defog|p1a: Giratina
+|-unboost|p1a: Giratina|evasion|1
+|-sideend|p2: idontcare189|Sticky Web|[from] move: Defog|[of] p2a: Cramorant
+|move|p1a: Giratina|Poltergeist|p2a: Cramorant
+|-activate|p2a: Cramorant|move: Poltergeist|Heavy-Duty Boots
+|-damage|p2a: Cramorant|25/261
+|
+|upkeep
+|turn|11
+|inactive|R.Slicker has 120 seconds left.
+|
+|t:|1776977440
+|move|p2a: Cramorant|Brave Bird|p1a: Giratina
+|-damage|p1a: Giratina|217/335
+|-damage|p2a: Cramorant|0 fnt|[from] Recoil
+|faint|p2a: Cramorant
+|move|p1a: Giratina|Poltergeist|p2: Cramorant|[notarget]
+|-fail|p1a: Giratina
+|
+|upkeep
+|
+|t:|1776977450
+|switch|p2a: Fezandipiti|Fezandipiti, L82, M|127/278 brn
+|turn|12
+|
+|t:|1776977457
+|-terastallize|p1a: Giratina|Fairy
+|move|p2a: Fezandipiti|Beat Up|p1a: Giratina
+|-resisted|p1a: Giratina
+|-crit|p1a: Giratina
+|-damage|p1a: Giratina|213/335
+|-resisted|p1a: Giratina
+|-damage|p1a: Giratina|211/335
+|-status|p1a: Giratina|tox|[from] ability: Toxic Chain|[of] p2a: Fezandipiti
+|-resisted|p1a: Giratina
+|-damage|p1a: Giratina|208/335 tox
+|-resisted|p1a: Giratina
+|-damage|p1a: Giratina|207/335 tox
+|-hitcount|p1a: Giratina|4
+|move|p1a: Giratina|Poltergeist||[still]
+|-fail|p1a: Giratina
+|
+|-damage|p1a: Giratina|187/335 tox|[from] psn
+|-damage|p2a: Fezandipiti|110/278 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1776977472
+|switch|p1a: Passimian|Passimian, L83, F|302/302
+|move|p2a: Fezandipiti|Gunk Shot|p1a: Passimian
+|-damage|p1a: Passimian|248/302
+|-status|p1a: Passimian|tox|[from] ability: Toxic Chain|[of] p2a: Fezandipiti
+|
+|-heal|p1a: Passimian|266/302 tox|[from] item: Leftovers
+|-damage|p1a: Passimian|248/302 tox|[from] psn
+|-damage|p2a: Fezandipiti|93/278 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1776977481
+|move|p2a: Fezandipiti|Moonblast|p1a: Passimian
+|-supereffective|p1a: Passimian
+|-damage|p1a: Passimian|62/302 tox
+|-unboost|p1a: Passimian|spa|1
+|-ability|p1a: Passimian|Defiant|boost
+|-boost|p1a: Passimian|atk|2
+|move|p1a: Passimian|Gunk Shot|p2a: Fezandipiti
+|-damage|p2a: Fezandipiti|0 fnt
+|faint|p2a: Fezandipiti
+|
+|-heal|p1a: Passimian|80/302 tox|[from] item: Leftovers
+|-damage|p1a: Passimian|44/302 tox|[from] psn
+|upkeep
+|
+|t:|1776977490
+|switch|p2a: Kyurem|Kyurem-White, L73|303/303
+|-ability|p2a: Kyurem|Turboblaze
+|turn|15
+|
+|t:|1776977494
+|move|p2a: Kyurem|Fusion Flare|p1a: Passimian
+|-damage|p1a: Passimian|0 fnt
+|faint|p1a: Passimian
+|
+|upkeep
+|
+|t:|1776977501
+|switch|p1a: Cacturne|Cacturne, L92, F|278/278
+|turn|16
+|
+|t:|1776977505
+|switch|p2a: Hitmontop|Hitmontop, L88, M|231/231
+|move|p1a: Cacturne|Knock Off|p2a: Hitmontop
+|-resisted|p2a: Hitmontop
+|-damage|p2a: Hitmontop|145/231
+|-enditem|p2a: Hitmontop|Leftovers|[from] move: Knock Off|[of] p1a: Cacturne
+|-damage|p1a: Cacturne|251/278|[from] item: Life Orb
+|
+|upkeep
+|turn|17
+|
+|t:|1776977511
+|move|p2a: Hitmontop|Triple Axel|p1a: Cacturne
+|-supereffective|p1a: Cacturne
+|-damage|p1a: Cacturne|191/278
+|-supereffective|p1a: Cacturne
+|-damage|p1a: Cacturne|75/278
+|-supereffective|p1a: Cacturne
+|-damage|p1a: Cacturne|0 fnt
+|faint|p1a: Cacturne
+|-hitcount|p1: Cacturne|3
+|
+|upkeep
+|
+|t:|1776977515
+|switch|p1a: Mew|Mew, L82|298/298
+|turn|18
+|
+|t:|1776977520
+|switch|p2a: Lanturn|Lanturn, L89, F|168/367
+|move|p1a: Mew|Psychic Noise|p2a: Lanturn
+|-damage|p2a: Lanturn|93/367
+|-start|p2a: Lanturn|move: Heal Block
+|
+|upkeep
+|turn|19
+|
+|t:|1776977531
+|move|p1a: Mew|Psychic Noise|p2a: Lanturn
+|-damage|p2a: Lanturn|9/367
+|move|p2a: Lanturn|Thunder Wave|p1a: Mew|[miss]
+|-miss|p2a: Lanturn|p1a: Mew
+|
+|-end|p2a: Lanturn|move: Heal Block
+|upkeep
+|turn|20
+|
+|t:|1776977543
+|move|p1a: Mew|Psychic Noise|p2a: Lanturn
+|-damage|p2a: Lanturn|0 fnt
+|faint|p2a: Lanturn
+|
+|upkeep
+|
+|t:|1776977545
+|switch|p2a: Kyurem|Kyurem-White, L73|303/303
+|-ability|p2a: Kyurem|Turboblaze
+|turn|21
+|inactive|R.Slicker has 120 seconds left.
+|
+|t:|1776977603
+|-terastallize|p2a: Kyurem|Fire
+|move|p1a: Mew|Knock Off|p2a: Kyurem
+|-damage|p2a: Kyurem|224/303
+|-enditem|p2a: Kyurem|Choice Specs|[from] move: Knock Off|[of] p1a: Mew
+|move|p2a: Kyurem|Fusion Flare|p1a: Mew
+|-damage|p1a: Mew|174/298
+|
+|-heal|p1a: Mew|192/298|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1776977627
+|move|p1a: Mew|Encore|p2a: Kyurem
+|-start|p2a: Kyurem|Encore
+|move|p2a: Kyurem|Fusion Flare|p1a: Mew
+|-damage|p1a: Mew|65/298
+|
+|-heal|p1a: Mew|83/298|[from] item: Leftovers
+|upkeep
+|turn|23
+|inactive|R.Slicker has 90 seconds left.
+|
+|t:|1776977647
+|move|p1a: Mew|U-turn|p2a: Kyurem
+|-resisted|p2a: Kyurem
+|-damage|p2a: Kyurem|195/303
+|
+|t:|1776977650
+|switch|p1a: Giratina|Giratina-Origin, L72, tera:Fairy|187/335 tox|[from] U-turn
+|move|p2a: Kyurem|Fusion Flare|p1a: Giratina
+|-damage|p1a: Giratina|54/335 tox
+|
+|-damage|p1a: Giratina|34/335 tox|[from] psn
+|upkeep
+|turn|24
+|
+|t:|1776977655
+|switch|p2a: Hitmontop|Hitmontop, L88, M|145/231
+|move|p1a: Giratina|Draco Meteor|p2a: Hitmontop
+|-damage|p2a: Hitmontop|25/231
+|-unboost|p1a: Giratina|spa|2
+|
+|-damage|p1a: Giratina|0 fnt|[from] psn
+|faint|p1a: Giratina
+|upkeep
+|l|☆R.Slicker
+|inactive|R.Slicker disconnected and has a minute to reconnect!
+|player|p1|
+|inactive|R.Slicker has 30 seconds to reconnect!
+|inactive|R.Slicker has 20 seconds to reconnect!
+|inactive|R.Slicker has 15 seconds to reconnect!
+|inactive|R.Slicker has 10 seconds to reconnect!
+|inactive|R.Slicker has 5 seconds to reconnect!
+|-message|R.Slicker lost due to inactivity.
+|
+|win|idontcare189
+|raw|R.Slicker's rating: 1411 &rarr; <strong>1391</strong><br />(-20 for losing)
+|raw|idontcare189's rating: 1419 &rarr; <strong>1439</strong><br />(+20 for winning)

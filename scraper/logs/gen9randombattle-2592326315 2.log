@@ -1,0 +1,385 @@
+|j|☆HiddenBotato
+|j|☆vfbdfbvcgfnvbngn
+|t:|1776979086
+|gametype|singles
+|player|p1|HiddenBotato|101|1181
+|player|p2|vfbdfbvcgfnvbngn|102|1174
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776979086
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kyurem|Kyurem-White, L73|303/303
+|switch|p2a: Ceruledge|Ceruledge, L78, M|245/245
+|-ability|p1a: Kyurem|Turboblaze
+|turn|1
+|
+|t:|1776979126
+|switch|p1a: Lunala|Lunala, L70|308/308
+|move|p2a: Ceruledge|Close Combat|p1a: Lunala
+|-immune|p1a: Lunala
+|
+|upkeep
+|turn|2
+|
+|t:|1776979141
+|move|p2a: Ceruledge|Poltergeist|p1a: Lunala
+|-activate|p1a: Lunala|move: Poltergeist|Leftovers
+|-supereffective|p1a: Lunala
+|-damage|p1a: Lunala|0 fnt
+|faint|p1a: Lunala
+|
+|upkeep
+|
+|t:|1776979172
+|switch|p1a: Girafarig|Girafarig, L89, M|269/269
+|turn|3
+|
+|t:|1776979187
+|move|p1a: Girafarig|Nasty Plot|p1a: Girafarig
+|-boost|p1a: Girafarig|spa|2
+|move|p2a: Ceruledge|Swords Dance|p2a: Ceruledge
+|-boost|p2a: Ceruledge|atk|2
+|
+|upkeep
+|turn|4
+|
+|t:|1776979206
+|move|p1a: Girafarig|Thunderbolt|p2a: Ceruledge
+|-damage|p2a: Ceruledge|109/245
+|-status|p2a: Ceruledge|par
+|move|p2a: Ceruledge|Bitter Blade|p1a: Girafarig
+|-crit|p1a: Girafarig
+|-damage|p1a: Girafarig|32/269
+|-heal|p2a: Ceruledge|228/245 par|[from] drain|[of] p1a: Girafarig
+|
+|upkeep
+|turn|5
+|
+|t:|1776979215
+|move|p1a: Girafarig|Thunderbolt|p2a: Ceruledge
+|-damage|p2a: Ceruledge|102/245 par
+|move|p2a: Ceruledge|Bitter Blade|p1a: Girafarig
+|-damage|p1a: Girafarig|0 fnt
+|-heal|p2a: Ceruledge|118/245 par|[from] drain|[of] p1a: Girafarig
+|faint|p1a: Girafarig
+|
+|upkeep
+|
+|t:|1776979233
+|switch|p1a: Gogoat|Gogoat, L88, M|360/360
+|turn|6
+|
+|t:|1776979242
+|-terastallize|p1a: Gogoat|Water
+|move|p1a: Gogoat|Bulk Up|p1a: Gogoat
+|-boost|p1a: Gogoat|atk|1
+|-boost|p1a: Gogoat|def|1
+|move|p2a: Ceruledge|Bitter Blade|p1a: Gogoat
+|-resisted|p1a: Gogoat
+|-damage|p1a: Gogoat|275/360
+|-heal|p2a: Ceruledge|161/245 par|[from] drain|[of] p1a: Gogoat
+|
+|-heal|p1a: Gogoat|297/360|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776979252
+|switch|p2a: Whimsicott|Whimsicott, L84, M|238/238
+|move|p1a: Gogoat|Bulk Up|p1a: Gogoat
+|-boost|p1a: Gogoat|atk|1
+|-boost|p1a: Gogoat|def|1
+|
+|-heal|p1a: Gogoat|319/360|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776979267
+|move|p2a: Whimsicott|Encore|p1a: Gogoat
+|-start|p1a: Gogoat|Encore
+|move|p1a: Gogoat|Bulk Up|p1a: Gogoat
+|-boost|p1a: Gogoat|atk|1
+|-boost|p1a: Gogoat|def|1
+|
+|-heal|p1a: Gogoat|341/360|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776979275
+|move|p2a: Whimsicott|Substitute|p2a: Whimsicott
+|-start|p2a: Whimsicott|Substitute
+|-damage|p2a: Whimsicott|179/238
+|move|p1a: Gogoat|Bulk Up|p1a: Gogoat
+|-boost|p1a: Gogoat|atk|1
+|-boost|p1a: Gogoat|def|1
+|
+|-heal|p2a: Whimsicott|193/238|[from] item: Leftovers
+|-heal|p1a: Gogoat|360/360|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1776979288
+|move|p2a: Whimsicott|Moonblast|p1a: Gogoat
+|-damage|p1a: Gogoat|266/360
+|move|p1a: Gogoat|Bulk Up|p1a: Gogoat
+|-boost|p1a: Gogoat|atk|1
+|-boost|p1a: Gogoat|def|1
+|
+|-heal|p2a: Whimsicott|207/238|[from] item: Leftovers
+|-heal|p1a: Gogoat|288/360|[from] item: Leftovers
+|-end|p1a: Gogoat|Encore
+|upkeep
+|turn|11
+|
+|t:|1776979299
+|move|p2a: Whimsicott|Encore|p1a: Gogoat
+|-start|p1a: Gogoat|Encore
+|move|p1a: Gogoat|Bulk Up|p1a: Gogoat
+|-boost|p1a: Gogoat|atk|1
+|-boost|p1a: Gogoat|def|1
+|
+|-heal|p2a: Whimsicott|221/238|[from] item: Leftovers
+|-heal|p1a: Gogoat|310/360|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776979307
+|move|p2a: Whimsicott|Moonblast|p1a: Gogoat
+|-damage|p1a: Gogoat|217/360
+|-unboost|p1a: Gogoat|spa|1
+|move|p1a: Gogoat|Bulk Up|p1a: Gogoat
+|-boost|p1a: Gogoat|atk|0
+|-boost|p1a: Gogoat|def|0
+|
+|-heal|p2a: Whimsicott|235/238|[from] item: Leftovers
+|-heal|p1a: Gogoat|239/360|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776979319
+|move|p2a: Whimsicott|Moonblast|p1a: Gogoat
+|-damage|p1a: Gogoat|152/360
+|move|p1a: Gogoat|Bulk Up|p1a: Gogoat
+|-boost|p1a: Gogoat|atk|0
+|-boost|p1a: Gogoat|def|0
+|
+|-heal|p2a: Whimsicott|238/238|[from] item: Leftovers
+|-heal|p1a: Gogoat|174/360|[from] item: Leftovers
+|-end|p1a: Gogoat|Encore
+|upkeep
+|turn|14
+|
+|t:|1776979330
+|move|p2a: Whimsicott|Encore|p1a: Gogoat
+|-start|p1a: Gogoat|Encore
+|move|p1a: Gogoat|Bulk Up|p1a: Gogoat
+|-boost|p1a: Gogoat|atk|0
+|-boost|p1a: Gogoat|def|0
+|
+|-heal|p1a: Gogoat|196/360|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1776979340
+|move|p2a: Whimsicott|Moonblast|p1a: Gogoat
+|-damage|p1a: Gogoat|102/360
+|move|p1a: Gogoat|Bulk Up|p1a: Gogoat
+|-boost|p1a: Gogoat|atk|0
+|-boost|p1a: Gogoat|def|0
+|
+|-heal|p1a: Gogoat|124/360|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776979349
+|move|p2a: Whimsicott|Moonblast|p1a: Gogoat
+|-damage|p1a: Gogoat|40/360
+|-unboost|p1a: Gogoat|spa|1
+|move|p1a: Gogoat|Bulk Up|p1a: Gogoat
+|-boost|p1a: Gogoat|atk|0
+|-boost|p1a: Gogoat|def|0
+|
+|-heal|p1a: Gogoat|62/360|[from] item: Leftovers
+|-end|p1a: Gogoat|Encore
+|upkeep
+|turn|17
+|
+|t:|1776979363
+|move|p2a: Whimsicott|Moonblast|p1a: Gogoat
+|-damage|p1a: Gogoat|0 fnt
+|faint|p1a: Gogoat
+|
+|upkeep
+|
+|t:|1776979392
+|switch|p1a: Kyurem|Kyurem-White, L73|303/303
+|-ability|p1a: Kyurem|Turboblaze
+|turn|18
+|
+|t:|1776979411
+|move|p1a: Kyurem|Freeze-Dry|p2a: Whimsicott
+|-supereffective|p2a: Whimsicott
+|-end|p2a: Whimsicott|Substitute
+|move|p2a: Whimsicott|Moonblast|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|129/303
+|
+|upkeep
+|turn|19
+|
+|t:|1776979419
+|switch|p2a: Ceruledge|Ceruledge, L78, M|161/245 par
+|move|p1a: Kyurem|Freeze-Dry|p2a: Ceruledge
+|-resisted|p2a: Ceruledge
+|-damage|p2a: Ceruledge|119/245 par
+|
+|upkeep
+|turn|20
+|
+|t:|1776979425
+|move|p1a: Kyurem|Freeze-Dry|p2a: Ceruledge
+|-resisted|p2a: Ceruledge
+|-damage|p2a: Ceruledge|77/245 par
+|cant|p2a: Ceruledge|par
+|
+|upkeep
+|turn|21
+|
+|t:|1776979431
+|move|p1a: Kyurem|Freeze-Dry|p2a: Ceruledge
+|-resisted|p2a: Ceruledge
+|-damage|p2a: Ceruledge|31/245 par
+|move|p2a: Ceruledge|Poltergeist|p1a: Kyurem
+|-activate|p1a: Kyurem|move: Poltergeist|Choice Scarf
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|upkeep
+|
+|t:|1776979445
+|switch|p1a: Cinderace|Cinderace, L77, F|249/249
+|turn|22
+|
+|t:|1776979458
+|move|p1a: Cinderace|Pyro Ball|p2a: Ceruledge
+|-resisted|p2a: Ceruledge
+|-damage|p2a: Ceruledge|0 fnt
+|faint|p2a: Ceruledge
+|
+|upkeep
+|
+|t:|1776979463
+|switch|p2a: Salazzle|Salazzle, L83, F|249/249
+|turn|23
+|
+|t:|1776979471
+|move|p2a: Salazzle|Toxic|p1a: Cinderace
+|-status|p1a: Cinderace|tox
+|move|p1a: Cinderace|Pyro Ball|p2a: Salazzle
+|-resisted|p2a: Salazzle
+|-damage|p2a: Salazzle|126/249
+|
+|-heal|p2a: Salazzle|141/249|[from] item: Leftovers
+|-damage|p1a: Cinderace|234/249 tox|[from] psn
+|upkeep
+|turn|24
+|
+|t:|1776979489
+|move|p2a: Salazzle|Protect|p2a: Salazzle
+|-singleturn|p2a: Salazzle|Protect
+|move|p1a: Cinderace|Pyro Ball|p2a: Salazzle
+|-activate|p2a: Salazzle|move: Protect
+|
+|-heal|p2a: Salazzle|156/249|[from] item: Leftovers
+|-damage|p1a: Cinderace|204/249 tox|[from] psn
+|upkeep
+|turn|25
+|
+|t:|1776979496
+|move|p2a: Salazzle|Substitute|p2a: Salazzle
+|-start|p2a: Salazzle|Substitute
+|-damage|p2a: Salazzle|94/249
+|move|p1a: Cinderace|Pyro Ball|p2a: Salazzle
+|-resisted|p2a: Salazzle
+|-crit|p2a: Salazzle
+|-end|p2a: Salazzle|Substitute
+|
+|-heal|p2a: Salazzle|109/249|[from] item: Leftovers
+|-damage|p1a: Cinderace|159/249 tox|[from] psn
+|upkeep
+|turn|26
+|
+|t:|1776979507
+|move|p2a: Salazzle|Protect|p2a: Salazzle
+|-singleturn|p2a: Salazzle|Protect
+|move|p1a: Cinderace|Pyro Ball|p2a: Salazzle
+|-activate|p2a: Salazzle|move: Protect
+|
+|-heal|p2a: Salazzle|124/249|[from] item: Leftovers
+|-damage|p1a: Cinderace|99/249 tox|[from] psn
+|upkeep
+|turn|27
+|
+|t:|1776979515
+|move|p2a: Salazzle|Substitute|p2a: Salazzle
+|-start|p2a: Salazzle|Substitute
+|-damage|p2a: Salazzle|62/249
+|move|p1a: Cinderace|Pyro Ball|p2a: Salazzle
+|-resisted|p2a: Salazzle
+|-end|p2a: Salazzle|Substitute
+|
+|-heal|p2a: Salazzle|77/249|[from] item: Leftovers
+|-damage|p1a: Cinderace|24/249 tox|[from] psn
+|upkeep
+|turn|28
+|
+|t:|1776979524
+|move|p2a: Salazzle|Flamethrower|p1a: Cinderace
+|-resisted|p1a: Cinderace
+|-damage|p1a: Cinderace|0 fnt
+|faint|p1a: Cinderace
+|
+|-heal|p2a: Salazzle|92/249|[from] item: Leftovers
+|upkeep
+|
+|t:|1776979533
+|switch|p1a: Comfey|Comfey, L85, F|225/225
+|turn|29
+|
+|t:|1776979548
+|move|p1a: Comfey|Draining Kiss|p2a: Salazzle
+|-resisted|p2a: Salazzle
+|-damage|p2a: Salazzle|77/249
+|move|p2a: Salazzle|Toxic|p1a: Comfey
+|-status|p1a: Comfey|tox
+|
+|-heal|p2a: Salazzle|92/249|[from] item: Leftovers
+|-damage|p1a: Comfey|211/225 tox|[from] psn
+|upkeep
+|turn|30
+|
+|t:|1776979561
+|move|p2a: Salazzle|Flamethrower|p1a: Comfey
+|-damage|p1a: Comfey|129/225 tox
+|move|p1a: Comfey|Taunt|p2a: Salazzle
+|-start|p2a: Salazzle|move: Taunt
+|
+|-heal|p2a: Salazzle|107/249|[from] item: Leftovers
+|-heal|p1a: Comfey|143/225 tox|[from] item: Leftovers
+|-damage|p1a: Comfey|115/225 tox|[from] psn
+|upkeep
+|turn|31
+|-message|HiddenBotato forfeited.
+|
+|win|vfbdfbvcgfnvbngn
+|raw|HiddenBotato's rating: 1181 &rarr; <strong>1155</strong><br />(-26 for losing)
+|raw|vfbdfbvcgfnvbngn's rating: 1174 &rarr; <strong>1200</strong><br />(+26 for winning)
+|l|☆HiddenBotato
+|player|p1|

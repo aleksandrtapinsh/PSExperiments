@@ -1,0 +1,396 @@
+|j|‽Sunnytzu04isaloser
+|j|☆slider04
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1776972498
+|gametype|singles
+|player|p1|Sunnytzu04isaloser|266|
+|player|p2|slider04|170|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|Tournament battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776972498
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Goodra|Goodra, L85, F|292/292
+|switch|p2a: Scream Tail|Scream Tail, L84|330/330
+|turn|1
+|j| vortexaxolotl
+|
+|t:|1776972520
+|switch|p1a: Whiscash|Whiscash, L88, F|337/337
+|move|p2a: Scream Tail|Thunder Wave|p1a: Whiscash
+|-immune|p1a: Whiscash
+|
+|upkeep
+|turn|2
+|
+|t:|1776972527
+|-end|p2a: Scream Tail|Protosynthesis|[silent]
+|switch|p2a: Orthworm|Orthworm, L88, M|266/266
+|move|p1a: Whiscash|Stealth Rock|p2a: Orthworm
+|-sidestart|p2: slider04|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|c| vortexaxolotl|nice read
+|
+|t:|1776972532
+|move|p2a: Orthworm|Stealth Rock|p1a: Whiscash
+|-sidestart|p1: Sunnytzu04isaloser|move: Stealth Rock
+|move|p1a: Whiscash|Hydro Pump|p2a: Orthworm
+|-damage|p2a: Orthworm|112/266
+|
+|-heal|p2a: Orthworm|128/266|[from] item: Leftovers
+|upkeep
+|turn|4
+|c|☆slider04|holly damage
+|
+|t:|1776972550
+|switch|p2a: Regigigas|Regigigas, L84|322/322
+|-damage|p2a: Regigigas|282/322|[from] Stealth Rock
+|-start|p2a: Regigigas|ability: Slow Start
+|move|p1a: Whiscash|Spikes|p2a: Regigigas
+|-sidestart|p2: slider04|Spikes
+|
+|-heal|p2a: Regigigas|302/322|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776972568
+|switch|p1a: Eelektross|Eelektross, L87, F|290/290
+|-damage|p1a: Eelektross|254/290|[from] Stealth Rock
+|move|p2a: Regigigas|Knock Off|p1a: Eelektross
+|-damage|p1a: Eelektross|203/290
+|-enditem|p1a: Eelektross|Assault Vest|[from] move: Knock Off|[of] p2a: Regigigas
+|
+|-heal|p2a: Regigigas|322/322|[from] item: Leftovers
+|upkeep
+|turn|6
+|c| vortexaxolotl|swamp team so far
+|
+|t:|1776972582
+|move|p2a: Regigigas|Protect|p2a: Regigigas
+|-singleturn|p2a: Regigigas|Protect
+|move|p1a: Eelektross|Discharge|p2a: Regigigas
+|-activate|p2a: Regigigas|move: Protect
+|
+|upkeep
+|turn|7
+|
+|t:|1776972590
+|move|p1a: Eelektross|Close Combat|p2a: Regigigas
+|-supereffective|p2a: Regigigas
+|-damage|p2a: Regigigas|154/322
+|-unboost|p1a: Eelektross|def|1
+|-unboost|p1a: Eelektross|spd|1
+|move|p2a: Regigigas|Substitute|p2a: Regigigas
+|-start|p2a: Regigigas|Substitute
+|-damage|p2a: Regigigas|74/322
+|
+|-heal|p2a: Regigigas|94/322|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776972599
+|move|p2a: Regigigas|Protect|p2a: Regigigas
+|-singleturn|p2a: Regigigas|Protect
+|move|p1a: Eelektross|Close Combat|p2a: Regigigas
+|-activate|p2a: Regigigas|move: Protect
+|
+|-heal|p2a: Regigigas|114/322|[from] item: Leftovers
+|upkeep
+|turn|9
+|c| vortexaxolotl|I wish slow start had a turn count down
+|
+|t:|1776972613
+|move|p1a: Eelektross|Close Combat|p2a: Regigigas
+|-supereffective|p2a: Regigigas
+|-crit|p2a: Regigigas
+|-end|p2a: Regigigas|Substitute
+|-unboost|p1a: Eelektross|def|1
+|-unboost|p1a: Eelektross|spd|1
+|move|p2a: Regigigas|Body Slam|p1a: Eelektross
+|-damage|p1a: Eelektross|70/290
+|
+|-heal|p2a: Regigigas|134/322|[from] item: Leftovers
+|-end|p2a: Regigigas|Slow Start
+|upkeep
+|turn|10
+|c|☆slider04|true man
+|
+|t:|1776972626
+|move|p2a: Regigigas|Body Slam|p1a: Eelektross
+|-damage|p1a: Eelektross|0 fnt
+|faint|p1a: Eelektross
+|
+|-heal|p2a: Regigigas|154/322|[from] item: Leftovers
+|upkeep
+|j| pordismomen
+|inactive|Sunnytzu04isaloser has 120 seconds left.
+|
+|t:|1776972657
+|switch|p1a: Flapple|Flapple, L88, M|266/266
+|-damage|p1a: Flapple|233/266|[from] Stealth Rock
+|turn|11
+|c| vortexaxolotl|something like [Slow Start: 5]
+|
+|t:|1776972671
+|move|p2a: Regigigas|Body Slam|p1a: Flapple
+|-damage|p1a: Flapple|91/266
+|move|p1a: Flapple|Grav Apple|p2a: Regigigas
+|-damage|p2a: Regigigas|0 fnt
+|faint|p2a: Regigigas
+|-end|p2a: Regigigas|Slow Start|[silent]
+|
+|upkeep
+|
+|t:|1776972682
+|switch|p2a: Swalot|Swalot, L90, F|326/326
+|-damage|p2a: Swalot|286/326|[from] Stealth Rock
+|-damage|p2a: Swalot|246/326|[from] Spikes
+|turn|12
+|c| pordismomen|slow start should double regis attack after those 5 turns it makes thematic sense
+|
+|t:|1776972690
+|switch|p1a: Whiscash|Whiscash, L88, F|337/337
+|-damage|p1a: Whiscash|316/337|[from] Stealth Rock
+|move|p2a: Swalot|Gunk Shot|p1a: Whiscash|[miss]
+|-miss|p2a: Swalot|p1a: Whiscash
+|
+|-heal|p1a: Whiscash|337/337|[from] item: Leftovers
+|-heal|p2a: Swalot|266/326|[from] item: Leftovers
+|upkeep
+|turn|13
+|c| pordismomen|he'd be pissed
+|
+|t:|1776972698
+|move|p1a: Whiscash|Hydro Pump|p2a: Swalot|[miss]
+|-miss|p1a: Whiscash|p2a: Swalot
+|move|p2a: Swalot|Swords Dance|p2a: Swalot
+|-boost|p2a: Swalot|atk|2
+|
+|-heal|p2a: Swalot|286/326|[from] item: Leftovers
+|upkeep
+|turn|14
+|j| buzbee2000
+|l| buzbee2000
+|
+|t:|1776972703
+|move|p1a: Whiscash|Earthquake|p2a: Swalot
+|-supereffective|p2a: Swalot
+|-crit|p2a: Swalot
+|-damage|p2a: Swalot|10/326
+|move|p2a: Swalot|Knock Off|p1a: Whiscash
+|-damage|p1a: Whiscash|185/337
+|-enditem|p1a: Whiscash|Leftovers|[from] move: Knock Off|[of] p2a: Swalot
+|
+|-heal|p2a: Swalot|30/326|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1776972710
+|switch|p2a: Orthworm|Orthworm, L88, M|128/266
+|-damage|p2a: Orthworm|112/266|[from] Stealth Rock
+|-damage|p2a: Orthworm|79/266|[from] Spikes
+|move|p1a: Whiscash|Earthquake|p2a: Orthworm
+|-heal|p2a: Orthworm|145/266|[from] ability: Earth Eater|[of] p1a: Whiscash
+|
+|-heal|p2a: Orthworm|161/266|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1776972715
+|move|p2a: Orthworm|Shed Tail|p2a: Orthworm
+|-start|p2a: Orthworm|Substitute|[from] move: Shed Tail
+|-damage|p2a: Orthworm|28/266
+|
+|t:|1776972729
+|switch|p2a: Chandelure|Chandelure, L83, M|235/235|[from] Shed Tail
+|move|p1a: Whiscash|Hydro Pump|p2a: Chandelure
+|-supereffective|p2a: Chandelure
+|-end|p2a: Chandelure|Substitute
+|
+|upkeep
+|turn|17
+|
+|t:|1776972734
+|switch|p1a: Flapple|Flapple, L88, M|91/266
+|-damage|p1a: Flapple|58/266|[from] Stealth Rock
+|move|p2a: Chandelure|Energy Ball|p1a: Flapple
+|-resisted|p1a: Flapple
+|-damage|p1a: Flapple|33/266
+|
+|upkeep
+|turn|18
+|
+|t:|1776972740
+|move|p2a: Chandelure|Shadow Ball|p1a: Flapple
+|-damage|p1a: Flapple|0 fnt
+|faint|p1a: Flapple
+|
+|upkeep
+|
+|t:|1776972745
+|switch|p1a: Goodra|Goodra, L85, F|292/292
+|-damage|p1a: Goodra|256/292|[from] Stealth Rock
+|turn|19
+|
+|t:|1776972755
+|switch|p2a: Swalot|Swalot, L90, F|30/326
+|-damage|p2a: Swalot|0 fnt|[from] Stealth Rock
+|faint|p2a: Swalot
+|move|p1a: Goodra|Sludge Bomb|p2: Swalot|[notarget]
+|-fail|p1a: Goodra
+|
+|upkeep
+|c| vortexaxolotl|what do you do here
+|c|☆slider04|i dont know tbh
+|inactive|slider04 has 120 seconds left.
+|c| vortexaxolotl|orth dies on entry
+|
+|t:|1776972801
+|switch|p2a: Chandelure|Chandelure, L83, M|235/235
+|turn|20
+|
+|t:|1776972805
+|move|p1a: Goodra|Scald|p2a: Chandelure
+|-supereffective|p2a: Chandelure
+|-damage|p2a: Chandelure|111/235
+|move|p2a: Chandelure|Calm Mind|p2a: Chandelure
+|-boost|p2a: Chandelure|spa|1
+|-boost|p2a: Chandelure|spd|1
+|
+|upkeep
+|turn|21
+|
+|t:|1776972811
+|move|p1a: Goodra|Scald|p2a: Chandelure
+|-supereffective|p2a: Chandelure
+|-damage|p2a: Chandelure|19/235
+|move|p2a: Chandelure|Shadow Ball|p1a: Goodra
+|-damage|p1a: Goodra|174/292
+|
+|upkeep
+|turn|22
+|
+|t:|1776972814
+|move|p1a: Goodra|Scald|p2a: Chandelure
+|-supereffective|p2a: Chandelure
+|-damage|p2a: Chandelure|0 fnt
+|faint|p2a: Chandelure
+|
+|upkeep
+|
+|t:|1776972816
+|switch|p2a: Scream Tail|Scream Tail, L84|330/330
+|-damage|p2a: Scream Tail|289/330|[from] Stealth Rock
+|-damage|p2a: Scream Tail|248/330|[from] Spikes
+|turn|23
+|
+|t:|1776972820
+|switch|p1a: Whiscash|Whiscash, L88, F|185/337
+|-damage|p1a: Whiscash|164/337|[from] Stealth Rock
+|move|p2a: Scream Tail|Play Rough|p1a: Whiscash
+|-crit|p1a: Whiscash
+|-damage|p1a: Whiscash|37/337
+|
+|-heal|p2a: Scream Tail|268/330|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1776972824
+|move|p2a: Scream Tail|Play Rough|p1a: Whiscash
+|-damage|p1a: Whiscash|0 fnt
+|faint|p1a: Whiscash
+|
+|-heal|p2a: Scream Tail|288/330|[from] item: Leftovers
+|upkeep
+|
+|t:|1776972841
+|switch|p1a: Cloyster|Cloyster, L80, M|211/211
+|-damage|p1a: Cloyster|159/211|[from] Stealth Rock
+|turn|25
+|c|☆slider04|ahh fuck
+|c| pordismomen|interesting choice
+|c| pordismomen|do u not have encore?
+|c|☆slider04|ground tera incoming
+|
+|t:|1776972865
+|-terastallize|p1a: Cloyster|Ground
+|move|p2a: Scream Tail|Thunder Wave|p1a: Cloyster
+|-immune|p1a: Cloyster
+|move|p1a: Cloyster|Shell Smash|p1a: Cloyster
+|-unboost|p1a: Cloyster|def|1
+|-unboost|p1a: Cloyster|spd|1
+|-boost|p1a: Cloyster|atk|2
+|-boost|p1a: Cloyster|spa|2
+|-boost|p1a: Cloyster|spe|2
+|-enditem|p1a: Cloyster|White Herb
+|-clearnegativeboost|p1a: Cloyster|[silent]
+|
+|-heal|p2a: Scream Tail|308/330|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1776972870
+|move|p1a: Cloyster|Icicle Spear|p2a: Scream Tail
+|-damage|p2a: Scream Tail|265/330
+|-damage|p2a: Scream Tail|217/330
+|-damage|p2a: Scream Tail|174/330
+|-damage|p2a: Scream Tail|128/330
+|-damage|p2a: Scream Tail|86/330
+|-hitcount|p2a: Scream Tail|5
+|move|p2a: Scream Tail|Play Rough|p1a: Cloyster
+|-damage|p1a: Cloyster|116/211
+|
+|-heal|p2a: Scream Tail|106/330|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1776972873
+|move|p1a: Cloyster|Icicle Spear|p2a: Scream Tail
+|-damage|p2a: Scream Tail|63/330
+|-damage|p2a: Scream Tail|18/330
+|-crit|p2a: Scream Tail
+|-damage|p2a: Scream Tail|0 fnt
+|faint|p2a: Scream Tail
+|-end|p2a: Scream Tail|Protosynthesis|[silent]
+|-hitcount|p2: Scream Tail|3
+|
+|upkeep
+|
+|t:|1776972876
+|switch|p2a: Necrozma|Necrozma, L80|286/286
+|-damage|p2a: Necrozma|251/286|[from] Stealth Rock
+|-damage|p2a: Necrozma|216/286|[from] Spikes
+|turn|28
+|
+|t:|1776972879
+|move|p1a: Cloyster|Icicle Spear|p2a: Necrozma
+|-damage|p2a: Necrozma|167/286
+|-damage|p2a: Necrozma|118/286
+|-damage|p2a: Necrozma|72/286
+|-damage|p2a: Necrozma|24/286
+|-damage|p2a: Necrozma|0 fnt
+|faint|p2a: Necrozma
+|-hitcount|p2: Necrozma|5
+|
+|upkeep
+|
+|t:|1776972881
+|switch|p2a: Orthworm|Orthworm, L88, M|28/266
+|-damage|p2a: Orthworm|12/266|[from] Stealth Rock
+|-damage|p2a: Orthworm|0 fnt|[from] Spikes
+|faint|p2a: Orthworm
+|
+|win|Sunnytzu04isaloser
+|n|‽Sunnytzu04isaloser|sunnytzu04isaloser
+|n|☆slider04|slider04
+|n| vortexaxolotl|vortexaxolotl
+|n| pordismomen|pordismomen

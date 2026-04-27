@@ -1,0 +1,754 @@
+|j|☆Cazzodio
+|j|☆CKota1337
+|t:|1776973113
+|gametype|singles
+|player|p1|Cazzodio|265|1402
+|player|p2|CKota1337|saturn|1432
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776973113
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Eiscue|Eiscue, L88, M|274/274
+|switch|p2a: Terapagos|Terapagos, L77, F|265/265
+|-activate|p2a: Terapagos|ability: Tera Shift
+|detailschange|p2a: Terapagos|Terapagos-Terastal, L77, F
+|-heal|p2a: Terapagos|273/273|[silent]
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by CKota1337)
+|inactive|Cazzodio also wants the timer to be on.
+|
+|t:|1776973132
+|switch|p1a: Tornadus|Tornadus-Therian, L79, M|254/254
+|move|p2a: Terapagos|Calm Mind|p2a: Terapagos
+|-boost|p2a: Terapagos|spa|1
+|-boost|p2a: Terapagos|spd|1
+|
+|upkeep
+|turn|2
+|
+|t:|1776973139
+|move|p1a: Tornadus|Knock Off|p2a: Terapagos
+|-activate|p2a: Terapagos|ability: Tera Shell
+|-resisted|p2a: Terapagos
+|-damage|p2a: Terapagos|246/273
+|-enditem|p2a: Terapagos|Chesto Berry|[from] move: Knock Off|[of] p1a: Tornadus
+|move|p2a: Terapagos|Tera Starstorm|p1a: Tornadus
+|-damage|p1a: Tornadus|134/254
+|
+|upkeep
+|turn|3
+|
+|t:|1776973147
+|move|p1a: Tornadus|U-turn|p2a: Terapagos
+|-damage|p2a: Terapagos|206/273
+|
+|t:|1776973153
+|switch|p1a: Raikou|Raikou, L81|278/278|[from] U-turn
+|-ability|p1a: Raikou|Pressure
+|move|p2a: Terapagos|Calm Mind|p2a: Terapagos
+|-boost|p2a: Terapagos|spa|1
+|-boost|p2a: Terapagos|spd|1
+|
+|upkeep
+|turn|4
+|
+|t:|1776973160
+|switch|p1a: Cacturne|Cacturne, L92, M|278/278
+|move|p2a: Terapagos|Earth Power|p1a: Cacturne
+|-resisted|p1a: Cacturne
+|-damage|p1a: Cacturne|216/278
+|
+|upkeep
+|turn|5
+|
+|t:|1776973168
+|move|p2a: Terapagos|Tera Starstorm|p1a: Cacturne
+|-crit|p1a: Cacturne
+|-damage|p1a: Cacturne|0 fnt
+|faint|p1a: Cacturne
+|
+|upkeep
+|
+|t:|1776973173
+|switch|p1a: Weavile|Weavile, L79, M|239/239
+|turn|6
+|
+|t:|1776973179
+|move|p1a: Weavile|Low Kick|p2a: Terapagos
+|-supereffective|p2a: Terapagos
+|-damage|p2a: Terapagos|126/273
+|move|p2a: Terapagos|Tera Starstorm|p1a: Weavile
+|-damage|p1a: Weavile|0 fnt
+|faint|p1a: Weavile
+|
+|upkeep
+|c|☆Cazzodio|Gg
+|
+|t:|1776973185
+|switch|p1a: Eiscue|Eiscue, L88, M|274/274
+|turn|7
+|
+|t:|1776973194
+|move|p2a: Terapagos|Tera Starstorm|p1a: Eiscue
+|-damage|p1a: Eiscue|55/274
+|-enditem|p1a: Eiscue|Sitrus Berry|[eat]
+|-heal|p1a: Eiscue|123/274|[from] item: Sitrus Berry
+|move|p1a: Eiscue|Ice Spinner|p2a: Terapagos
+|-damage|p2a: Terapagos|51/273
+|
+|upkeep
+|turn|8
+|
+|t:|1776973205
+|switch|p1a: Tornadus|Tornadus-Therian, L79, M|218/254
+|move|p2a: Terapagos|Tera Starstorm|p1a: Tornadus
+|-damage|p1a: Tornadus|64/254
+|
+|upkeep
+|turn|9
+|
+|t:|1776973217
+|switch|p2a: Duraludon|Duraludon, L82, M|249/249
+|move|p1a: Tornadus|U-turn|p2a: Duraludon
+|-resisted|p2a: Duraludon
+|-damage|p2a: Duraludon|236/249
+|
+|t:|1776973224
+|switch|p1a: Raikou|Raikou, L81|278/278|[from] U-turn
+|-ability|p1a: Raikou|Pressure
+|
+|upkeep
+|turn|10
+|
+|t:|1776973230
+|move|p1a: Raikou|Substitute|p1a: Raikou
+|-start|p1a: Raikou|Substitute
+|-damage|p1a: Raikou|209/278
+|move|p2a: Duraludon|Body Press|p1a: Raikou
+|-end|p1a: Raikou|Substitute
+|
+|-heal|p1a: Raikou|226/278|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776973235
+|move|p1a: Raikou|Scald|p2a: Duraludon
+|-resisted|p2a: Duraludon
+|-damage|p2a: Duraludon|204/249
+|move|p2a: Duraludon|Body Press|p1a: Raikou
+|-damage|p1a: Raikou|152/278
+|
+|-heal|p1a: Raikou|169/278|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776973237
+|move|p1a: Raikou|Scald|p2a: Duraludon
+|-resisted|p2a: Duraludon
+|-damage|p2a: Duraludon|175/249
+|-status|p2a: Duraludon|brn
+|move|p2a: Duraludon|Body Press|p1a: Raikou
+|-damage|p1a: Raikou|136/278
+|
+|-heal|p1a: Raikou|153/278|[from] item: Leftovers
+|-damage|p2a: Duraludon|160/249 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1776973249
+|switch|p2a: Ursaring|Ursaring, L84, F|288/288
+|move|p1a: Raikou|Substitute|p1a: Raikou
+|-start|p1a: Raikou|Substitute
+|-damage|p1a: Raikou|84/278
+|
+|-heal|p1a: Raikou|101/278|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1776973253
+|move|p1a: Raikou|Scald|p2a: Ursaring
+|-damage|p2a: Ursaring|243/288
+|-status|p2a: Ursaring|brn
+|move|p2a: Ursaring|Earthquake|p1a: Raikou
+|-supereffective|p1a: Raikou
+|-end|p1a: Raikou|Substitute
+|
+|-heal|p1a: Raikou|118/278|[from] item: Leftovers
+|-damage|p2a: Ursaring|225/288 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1776973260
+|switch|p1a: Tornadus|Tornadus-Therian, L79, M|148/254
+|move|p2a: Ursaring|Earthquake|p1a: Tornadus
+|-immune|p1a: Tornadus
+|
+|-damage|p2a: Ursaring|207/288 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1776973264
+|move|p1a: Tornadus|Knock Off|p2a: Ursaring
+|-damage|p2a: Ursaring|155/288 brn
+|-enditem|p2a: Ursaring|Eviolite|[from] move: Knock Off|[of] p1a: Tornadus
+|move|p2a: Ursaring|Body Slam|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|
+|-damage|p2a: Ursaring|137/288 brn|[from] brn
+|upkeep
+|
+|t:|1776973271
+|switch|p1a: Eiscue|Eiscue, L88, M|123/274
+|turn|17
+|
+|t:|1776973277
+|move|p2a: Ursaring|Body Slam|p1a: Eiscue
+|-activate|p1a: Eiscue|ability: Ice Face
+|-damage|p1a: Eiscue|123/274
+|-status|p1a: Eiscue|par
+|detailschange|p1a: Eiscue|Eiscue-Noice, L88, M
+|cant|p1a: Eiscue|par
+|
+|-damage|p2a: Ursaring|119/288 brn|[from] brn
+|upkeep
+|turn|18
+|c|☆Cazzodio|Lol
+|c|☆Cazzodio|game hates me
+|
+|t:|1776973302
+|move|p2a: Ursaring|Body Slam|p1a: Eiscue
+|-damage|p1a: Eiscue|0 fnt
+|faint|p1a: Eiscue
+|
+|-damage|p2a: Ursaring|101/288 brn|[from] brn
+|upkeep
+|
+|t:|1776973305
+|switch|p1a: Raikou|Raikou, L81|118/278
+|-ability|p1a: Raikou|Pressure
+|turn|19
+|
+|t:|1776973313
+|move|p1a: Raikou|Substitute|p1a: Raikou
+|-start|p1a: Raikou|Substitute
+|-damage|p1a: Raikou|49/278
+|move|p2a: Ursaring|Earthquake|p1a: Raikou
+|-supereffective|p1a: Raikou
+|-end|p1a: Raikou|Substitute
+|
+|-heal|p1a: Raikou|66/278|[from] item: Leftovers
+|-damage|p2a: Ursaring|83/288 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1776973316
+|move|p1a: Raikou|Thunderbolt|p2a: Ursaring
+|-damage|p2a: Ursaring|0 fnt
+|faint|p2a: Ursaring
+|
+|-heal|p1a: Raikou|83/278|[from] item: Leftovers
+|upkeep
+|
+|t:|1776973321
+|switch|p2a: Torterra|Torterra, L78, M|276/276
+|turn|21
+|
+|t:|1776973325
+|move|p1a: Raikou|Scald|p2a: Torterra
+|-damage|p2a: Torterra|214/276
+|move|p2a: Torterra|Shell Smash|p2a: Torterra
+|-unboost|p2a: Torterra|def|1
+|-unboost|p2a: Torterra|spd|1
+|-boost|p2a: Torterra|atk|2
+|-boost|p2a: Torterra|spa|2
+|-boost|p2a: Torterra|spe|2
+|
+|-heal|p1a: Raikou|100/278|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1776973334
+|move|p2a: Torterra|Headlong Rush|p1a: Raikou
+|-supereffective|p1a: Raikou
+|-damage|p1a: Raikou|0 fnt
+|-unboost|p2a: Torterra|def|1
+|-unboost|p2a: Torterra|spd|1
+|faint|p1a: Raikou
+|
+|upkeep
+|
+|t:|1776973336
+|switch|p1a: Chimecho|Chimecho, L93, M|290/290
+|turn|23
+|
+|t:|1776973346
+|-terastallize|p1a: Chimecho|Steel
+|move|p2a: Torterra|Bullet Seed|p1a: Chimecho
+|-resisted|p1a: Chimecho
+|-damage|p1a: Chimecho|265/290
+|-resisted|p1a: Chimecho
+|-damage|p1a: Chimecho|240/290
+|-resisted|p1a: Chimecho
+|-damage|p1a: Chimecho|216/290
+|-resisted|p1a: Chimecho
+|-damage|p1a: Chimecho|191/290
+|-hitcount|p1a: Chimecho|4
+|move|p1a: Chimecho|Cosmic Power|p1a: Chimecho
+|-boost|p1a: Chimecho|def|1
+|-boost|p1a: Chimecho|spd|1
+|
+|-heal|p1a: Chimecho|209/290|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1776973361
+|move|p2a: Torterra|Bullet Seed|p1a: Chimecho
+|-resisted|p1a: Chimecho
+|-damage|p1a: Chimecho|191/290
+|-resisted|p1a: Chimecho
+|-damage|p1a: Chimecho|174/290
+|-resisted|p1a: Chimecho
+|-damage|p1a: Chimecho|156/290
+|-resisted|p1a: Chimecho
+|-damage|p1a: Chimecho|141/290
+|-hitcount|p1a: Chimecho|4
+|move|p1a: Chimecho|Cosmic Power|p1a: Chimecho
+|-boost|p1a: Chimecho|def|1
+|-boost|p1a: Chimecho|spd|1
+|
+|-heal|p1a: Chimecho|159/290|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1776973364
+|move|p2a: Torterra|Bullet Seed|p1a: Chimecho
+|-resisted|p1a: Chimecho
+|-damage|p1a: Chimecho|147/290
+|-resisted|p1a: Chimecho
+|-damage|p1a: Chimecho|135/290
+|-resisted|p1a: Chimecho
+|-damage|p1a: Chimecho|123/290
+|-resisted|p1a: Chimecho
+|-damage|p1a: Chimecho|110/290
+|-resisted|p1a: Chimecho
+|-damage|p1a: Chimecho|97/290
+|-hitcount|p1a: Chimecho|5
+|move|p1a: Chimecho|Recover|p1a: Chimecho
+|-heal|p1a: Chimecho|242/290
+|
+|-heal|p1a: Chimecho|260/290|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1776973375
+|switch|p2a: Duraludon|Duraludon, L82, M|160/249 brn
+|move|p1a: Chimecho|Cosmic Power|p1a: Chimecho
+|-boost|p1a: Chimecho|def|1
+|-boost|p1a: Chimecho|spd|1
+|
+|-heal|p1a: Chimecho|278/290|[from] item: Leftovers
+|-damage|p2a: Duraludon|145/249 brn|[from] brn
+|upkeep
+|turn|27
+|
+|t:|1776973385
+|move|p2a: Duraludon|Thunder Wave|p1a: Chimecho
+|-status|p1a: Chimecho|par
+|move|p1a: Chimecho|Dazzling Gleam|p2a: Duraludon
+|-crit|p2a: Duraludon
+|-damage|p2a: Duraludon|42/249 brn
+|
+|-heal|p1a: Chimecho|290/290 par|[from] item: Leftovers
+|-damage|p2a: Duraludon|27/249 brn|[from] brn
+|upkeep
+|turn|28
+|
+|t:|1776973392
+|move|p2a: Duraludon|Body Press|p1a: Chimecho
+|-supereffective|p1a: Chimecho
+|-damage|p1a: Chimecho|265/290 par
+|move|p1a: Chimecho|Cosmic Power|p1a: Chimecho
+|-boost|p1a: Chimecho|def|1
+|-boost|p1a: Chimecho|spd|1
+|
+|-heal|p1a: Chimecho|283/290 par|[from] item: Leftovers
+|-damage|p2a: Duraludon|12/249 brn|[from] brn
+|upkeep
+|turn|29
+|
+|t:|1776973405
+|move|p2a: Duraludon|Body Press|p1a: Chimecho
+|-supereffective|p1a: Chimecho
+|-damage|p1a: Chimecho|261/290 par
+|move|p1a: Chimecho|Cosmic Power|p1a: Chimecho
+|-boost|p1a: Chimecho|def|1
+|-boost|p1a: Chimecho|spd|1
+|
+|-heal|p1a: Chimecho|279/290 par|[from] item: Leftovers
+|-damage|p2a: Duraludon|0 fnt|[from] brn
+|faint|p2a: Duraludon
+|upkeep
+|
+|t:|1776973409
+|switch|p2a: Gengar|Gengar, L81, F|230/230
+|turn|30
+|
+|t:|1776973413
+|move|p2a: Gengar|Encore|p1a: Chimecho
+|-start|p1a: Chimecho|Encore
+|move|p1a: Chimecho|Cosmic Power|p1a: Chimecho
+|-boost|p1a: Chimecho|def|1
+|-boost|p1a: Chimecho|spd|1
+|
+|-heal|p1a: Chimecho|290/290 par|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1776973418
+|move|p2a: Gengar|Shadow Ball|p1a: Chimecho
+|-damage|p1a: Chimecho|259/290 par
+|-damage|p2a: Gengar|207/230|[from] item: Life Orb
+|move|p1a: Chimecho|Cosmic Power|p1a: Chimecho
+|-boost|p1a: Chimecho|def|0
+|-boost|p1a: Chimecho|spd|0
+|
+|-heal|p1a: Chimecho|277/290 par|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1776973420
+|move|p2a: Gengar|Shadow Ball|p1a: Chimecho
+|-damage|p1a: Chimecho|246/290 par
+|-unboost|p1a: Chimecho|spd|1
+|-damage|p2a: Gengar|184/230|[from] item: Life Orb
+|move|p1a: Chimecho|Cosmic Power|p1a: Chimecho
+|-boost|p1a: Chimecho|def|0
+|-boost|p1a: Chimecho|spd|1
+|
+|-heal|p1a: Chimecho|264/290 par|[from] item: Leftovers
+|-end|p1a: Chimecho|Encore
+|upkeep
+|turn|33
+|
+|t:|1776973422
+|move|p2a: Gengar|Encore|p1a: Chimecho
+|-start|p1a: Chimecho|Encore
+|move|p1a: Chimecho|Cosmic Power|p1a: Chimecho
+|-boost|p1a: Chimecho|def|0
+|-boost|p1a: Chimecho|spd|0
+|
+|-heal|p1a: Chimecho|282/290 par|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1776973424
+|move|p2a: Gengar|Shadow Ball|p1a: Chimecho
+|-damage|p1a: Chimecho|253/290 par
+|-unboost|p1a: Chimecho|spd|1
+|-damage|p2a: Gengar|161/230|[from] item: Life Orb
+|cant|p1a: Chimecho|par
+|
+|-heal|p1a: Chimecho|271/290 par|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1776973425
+|move|p2a: Gengar|Shadow Ball|p1a: Chimecho
+|-damage|p1a: Chimecho|235/290 par
+|-damage|p2a: Gengar|138/230|[from] item: Life Orb
+|move|p1a: Chimecho|Cosmic Power|p1a: Chimecho
+|-boost|p1a: Chimecho|def|0
+|-boost|p1a: Chimecho|spd|1
+|
+|-heal|p1a: Chimecho|253/290 par|[from] item: Leftovers
+|-end|p1a: Chimecho|Encore
+|upkeep
+|turn|36
+|
+|t:|1776973427
+|move|p2a: Gengar|Encore|p1a: Chimecho
+|-start|p1a: Chimecho|Encore
+|move|p1a: Chimecho|Cosmic Power|p1a: Chimecho
+|-boost|p1a: Chimecho|def|0
+|-boost|p1a: Chimecho|spd|0
+|
+|-heal|p1a: Chimecho|271/290 par|[from] item: Leftovers
+|upkeep
+|turn|37
+|
+|t:|1776973429
+|move|p2a: Gengar|Shadow Ball|p1a: Chimecho
+|-damage|p1a: Chimecho|244/290 par
+|-damage|p2a: Gengar|115/230|[from] item: Life Orb
+|move|p1a: Chimecho|Cosmic Power|p1a: Chimecho
+|-boost|p1a: Chimecho|def|0
+|-boost|p1a: Chimecho|spd|0
+|
+|-heal|p1a: Chimecho|262/290 par|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|t:|1776973433
+|move|p2a: Gengar|Shadow Ball|p1a: Chimecho
+|-damage|p1a: Chimecho|233/290 par
+|-damage|p2a: Gengar|92/230|[from] item: Life Orb
+|cant|p1a: Chimecho|par
+|
+|-heal|p1a: Chimecho|251/290 par|[from] item: Leftovers
+|-end|p1a: Chimecho|Encore
+|upkeep
+|turn|39
+|
+|t:|1776973436
+|move|p2a: Gengar|Encore|p1a: Chimecho
+|-start|p1a: Chimecho|Encore
+|move|p1a: Chimecho|Cosmic Power|p1a: Chimecho
+|-boost|p1a: Chimecho|def|0
+|-boost|p1a: Chimecho|spd|0
+|
+|-heal|p1a: Chimecho|269/290 par|[from] item: Leftovers
+|upkeep
+|turn|40
+|
+|t:|1776973439
+|move|p2a: Gengar|Shadow Ball|p1a: Chimecho
+|-damage|p1a: Chimecho|237/290 par
+|-damage|p2a: Gengar|69/230|[from] item: Life Orb
+|move|p1a: Chimecho|Cosmic Power|p1a: Chimecho
+|-boost|p1a: Chimecho|def|0
+|-boost|p1a: Chimecho|spd|0
+|
+|-heal|p1a: Chimecho|255/290 par|[from] item: Leftovers
+|upkeep
+|turn|41
+|
+|t:|1776973440
+|move|p2a: Gengar|Shadow Ball|p1a: Chimecho
+|-damage|p1a: Chimecho|228/290 par
+|-damage|p2a: Gengar|46/230|[from] item: Life Orb
+|move|p1a: Chimecho|Cosmic Power|p1a: Chimecho
+|-boost|p1a: Chimecho|def|0
+|-boost|p1a: Chimecho|spd|0
+|
+|-heal|p1a: Chimecho|246/290 par|[from] item: Leftovers
+|-end|p1a: Chimecho|Encore
+|upkeep
+|turn|42
+|
+|t:|1776973443
+|move|p2a: Gengar|Encore|p1a: Chimecho
+|-start|p1a: Chimecho|Encore
+|move|p1a: Chimecho|Cosmic Power|p1a: Chimecho
+|-boost|p1a: Chimecho|def|0
+|-boost|p1a: Chimecho|spd|0
+|
+|-heal|p1a: Chimecho|264/290 par|[from] item: Leftovers
+|upkeep
+|turn|43
+|
+|t:|1776973445
+|move|p2a: Gengar|Shadow Ball|p1a: Chimecho
+|-damage|p1a: Chimecho|233/290 par
+|-damage|p2a: Gengar|23/230|[from] item: Life Orb
+|move|p1a: Chimecho|Cosmic Power|p1a: Chimecho
+|-boost|p1a: Chimecho|def|0
+|-boost|p1a: Chimecho|spd|0
+|
+|-heal|p1a: Chimecho|251/290 par|[from] item: Leftovers
+|upkeep
+|turn|44
+|
+|t:|1776973449
+|move|p2a: Gengar|Toxic Spikes|p1a: Chimecho
+|-sidestart|p1: Cazzodio|move: Toxic Spikes
+|move|p1a: Chimecho|Cosmic Power|p1a: Chimecho
+|-boost|p1a: Chimecho|def|0
+|-boost|p1a: Chimecho|spd|0
+|
+|-heal|p1a: Chimecho|269/290 par|[from] item: Leftovers
+|-end|p1a: Chimecho|Encore
+|upkeep
+|turn|45
+|
+|t:|1776973453
+|move|p2a: Gengar|Encore|p1a: Chimecho
+|-start|p1a: Chimecho|Encore
+|move|p1a: Chimecho|Cosmic Power|p1a: Chimecho
+|-boost|p1a: Chimecho|def|0
+|-boost|p1a: Chimecho|spd|0
+|
+|-heal|p1a: Chimecho|287/290 par|[from] item: Leftovers
+|upkeep
+|turn|46
+|
+|t:|1776973455
+|move|p2a: Gengar|Toxic Spikes|p1a: Chimecho
+|-sidestart|p1: Cazzodio|move: Toxic Spikes
+|move|p1a: Chimecho|Cosmic Power|p1a: Chimecho
+|-boost|p1a: Chimecho|def|0
+|-boost|p1a: Chimecho|spd|0
+|
+|-heal|p1a: Chimecho|290/290 par|[from] item: Leftovers
+|upkeep
+|turn|47
+|
+|t:|1776973459
+|move|p2a: Gengar|Toxic Spikes||[still]
+|-fail|p2a: Gengar
+|move|p1a: Chimecho|Cosmic Power|p1a: Chimecho
+|-boost|p1a: Chimecho|def|0
+|-boost|p1a: Chimecho|spd|0
+|
+|-end|p1a: Chimecho|Encore
+|upkeep
+|turn|48
+|
+|t:|1776973461
+|move|p2a: Gengar|Encore|p1a: Chimecho
+|-start|p1a: Chimecho|Encore
+|move|p1a: Chimecho|Cosmic Power|p1a: Chimecho
+|-boost|p1a: Chimecho|def|0
+|-boost|p1a: Chimecho|spd|0
+|
+|upkeep
+|turn|49
+|
+|t:|1776973467
+|move|p2a: Gengar|Toxic Spikes||[still]
+|-fail|p2a: Gengar
+|move|p1a: Chimecho|Cosmic Power|p1a: Chimecho
+|-boost|p1a: Chimecho|def|0
+|-boost|p1a: Chimecho|spd|0
+|
+|upkeep
+|turn|50
+|
+|t:|1776973469
+|move|p2a: Gengar|Toxic Spikes||[still]
+|-fail|p2a: Gengar
+|move|p1a: Chimecho|Cosmic Power|p1a: Chimecho
+|-boost|p1a: Chimecho|def|0
+|-boost|p1a: Chimecho|spd|0
+|
+|-end|p1a: Chimecho|Encore
+|upkeep
+|turn|51
+|
+|t:|1776973472
+|move|p2a: Gengar|Shadow Ball|p1a: Chimecho
+|-damage|p1a: Chimecho|259/290 par
+|-unboost|p1a: Chimecho|spd|1
+|-damage|p2a: Gengar|0 fnt|[from] item: Life Orb
+|faint|p2a: Gengar
+|move|p1a: Chimecho|Cosmic Power|p1a: Chimecho
+|-boost|p1a: Chimecho|def|0
+|-boost|p1a: Chimecho|spd|1
+|
+|-heal|p1a: Chimecho|277/290 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1776973478
+|switch|p2a: Terapagos|Terapagos-Terastal, L77, F|51/273
+|turn|52
+|
+|t:|1776973486
+|-terastallize|p2a: Terapagos|Stellar
+|detailschange|p2a: Terapagos|Terapagos-Stellar, L77, F, tera:Stellar
+|-heal|p2a: Terapagos|151/373|[silent]
+|move|p2a: Terapagos|Tera Starstorm|p1a: Chimecho
+|-supereffective|p1a: Chimecho
+|-damage|p1a: Chimecho|227/290 par
+|move|p1a: Chimecho|Stored Power|p2a: Terapagos
+|-damage|p2a: Terapagos|0 fnt
+|faint|p2a: Terapagos
+|detailschange|p2: Terapagos|Terapagos, L77, F|[silent]
+|
+|-heal|p1a: Chimecho|245/290 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1776973492
+|switch|p2a: Kilowattrel|Kilowattrel, L83, M|252/252
+|turn|53
+|
+|t:|1776973496
+|move|p2a: Kilowattrel|Thunderbolt|p1a: Chimecho
+|-damage|p1a: Chimecho|224/290 par
+|cant|p1a: Chimecho|par
+|
+|-heal|p1a: Chimecho|242/290 par|[from] item: Leftovers
+|upkeep
+|turn|54
+|
+|t:|1776973501
+|move|p2a: Kilowattrel|Thunderbolt|p1a: Chimecho
+|-damage|p1a: Chimecho|218/290 par
+|cant|p1a: Chimecho|par
+|
+|-heal|p1a: Chimecho|236/290 par|[from] item: Leftovers
+|upkeep
+|turn|55
+|
+|t:|1776973507
+|move|p2a: Kilowattrel|Thunderbolt|p1a: Chimecho
+|-damage|p1a: Chimecho|215/290 par
+|cant|p1a: Chimecho|par
+|
+|-heal|p1a: Chimecho|233/290 par|[from] item: Leftovers
+|upkeep
+|turn|56
+|
+|t:|1776973509
+|move|p2a: Kilowattrel|Thunderbolt|p1a: Chimecho
+|-damage|p1a: Chimecho|212/290 par
+|move|p1a: Chimecho|Stored Power|p2a: Kilowattrel
+|-damage|p2a: Kilowattrel|0 fnt
+|faint|p2a: Kilowattrel
+|
+|-heal|p1a: Chimecho|230/290 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1776973511
+|switch|p2a: Torterra|Torterra, L78, M|214/276
+|turn|57
+|c|☆Cazzodio|Chimeco is broken
+|
+|t:|1776973524
+|move|p2a: Torterra|Headlong Rush|p1a: Chimecho
+|-immune|p1a: Chimecho|[from] ability: Levitate
+|cant|p1a: Chimecho|par
+|
+|-heal|p1a: Chimecho|248/290 par|[from] item: Leftovers
+|upkeep
+|turn|58
+|
+|t:|1776973531
+|move|p2a: Torterra|Rock Blast|p1a: Chimecho
+|-resisted|p1a: Chimecho
+|-damage|p1a: Chimecho|246/290 par
+|-resisted|p1a: Chimecho
+|-damage|p1a: Chimecho|244/290 par
+|-resisted|p1a: Chimecho
+|-damage|p1a: Chimecho|242/290 par
+|-resisted|p1a: Chimecho
+|-damage|p1a: Chimecho|240/290 par
+|-resisted|p1a: Chimecho
+|-damage|p1a: Chimecho|238/290 par
+|-hitcount|p1a: Chimecho|5
+|move|p1a: Chimecho|Stored Power|p2a: Torterra
+|-damage|p2a: Torterra|0 fnt
+|faint|p2a: Torterra
+|
+|win|Cazzodio
+|raw|Cazzodio's rating: 1402 &rarr; <strong>1424</strong><br />(+22 for winning)
+|raw|CKota1337's rating: 1432 &rarr; <strong>1410</strong><br />(-22 for losing)
+|l|☆CKota1337
+|player|p2|

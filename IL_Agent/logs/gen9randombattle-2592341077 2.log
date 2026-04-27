@@ -1,0 +1,344 @@
+|j|☆Ryriss
+|j|☆bbnate
+|t:|1776980326
+|gametype|singles
+|player|p1|Ryriss|169|1737
+|player|p2|bbnate|hilbert|1744
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776980326
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Shiftry|Shiftry, L89, F|305/305
+|switch|p2a: Blissey|Blissey, L85, F|572/572
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by bbnate)
+|
+|t:|1776980345
+|switch|p2a: Bellibolt|Bellibolt, L84, F|320/320
+|move|p1a: Shiftry|Knock Off|p2a: Bellibolt
+|-damage|p2a: Bellibolt|159/320
+|-start|p2a: Bellibolt|Charge|Knock Off|[from] ability: Electromorphosis
+|-enditem|p2a: Bellibolt|Leftovers|[from] move: Knock Off|[of] p1a: Shiftry
+|-damage|p1a: Shiftry|275/305|[from] item: Life Orb
+|
+|upkeep
+|turn|2
+|
+|t:|1776980351
+|move|p1a: Shiftry|Leaf Storm|p2a: Bellibolt
+|-damage|p2a: Bellibolt|0 fnt
+|-unboost|p1a: Shiftry|spa|2
+|faint|p2a: Bellibolt
+|-damage|p1a: Shiftry|245/305|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776980357
+|switch|p2a: Pachirisu|Pachirisu, L96, M|271/271
+|turn|3
+|
+|t:|1776980365
+|switch|p1a: Vikavolt|Vikavolt, L83, M|263/263
+|move|p2a: Pachirisu|U-turn|p1a: Vikavolt
+|-damage|p1a: Vikavolt|223/263
+|
+|t:|1776980371
+|switch|p2a: Banette|Banette, L93, F|270/270|[from] U-turn
+|
+|upkeep
+|turn|4
+|l|☆Ryriss
+|inactive|Ryriss disconnected and has a minute to reconnect!
+|player|p1|
+|j|☆Ryriss
+|inactive|Ryriss reconnected and has 110 seconds left.
+|player|p1|Ryriss|169|
+|
+|t:|1776980422
+|switch|p1a: Dondozo|Dondozo, L78, M|362/362
+|move|p2a: Banette|Poltergeist|p1a: Dondozo
+|-activate|p1a: Dondozo|move: Poltergeist|Leftovers
+|-damage|p1a: Dondozo|187/362
+|-damage|p2a: Banette|243/270|[from] item: Life Orb
+|
+|-heal|p1a: Dondozo|209/362|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776980438
+|-terastallize|p2a: Banette|Ghost
+|move|p2a: Banette|Poltergeist|p1a: Dondozo
+|-activate|p1a: Dondozo|move: Poltergeist|Leftovers
+|-damage|p1a: Dondozo|0 fnt
+|faint|p1a: Dondozo
+|-damage|p2a: Banette|216/270|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776980450
+|switch|p1a: Hydreigon|Hydreigon, L79, M|275/275
+|turn|6
+|
+|t:|1776980455
+|switch|p1a: Gothitelle|Gothitelle, L90, M|272/272
+|switch|p2a: Blissey|Blissey, L85, F|572/572
+|
+|upkeep
+|turn|7
+|
+|t:|1776980460
+|move|p1a: Gothitelle|Trick|p2a: Blissey
+|-activate|p1a: Gothitelle|move: Trick|[of] p2a: Blissey
+|-item|p2a: Blissey|Choice Scarf|[from] move: Trick
+|-item|p1a: Gothitelle|Leftovers|[from] move: Trick
+|move|p2a: Blissey|Thunder Wave|p1a: Gothitelle
+|-status|p1a: Gothitelle|par
+|
+|upkeep
+|turn|8
+|inactive|Ryriss has 90 seconds left.
+|
+|t:|1776980517
+|move|p2a: Blissey|Thunder Wave|p1a: Gothitelle
+|-fail|p1a: Gothitelle|par
+|move|p1a: Gothitelle|Focus Blast|p2a: Blissey
+|-supereffective|p2a: Blissey
+|-damage|p2a: Blissey|442/572
+|
+|upkeep
+|turn|9
+|
+|t:|1776980525
+|move|p2a: Blissey|Thunder Wave|p1a: Gothitelle
+|-fail|p1a: Gothitelle|par
+|move|p1a: Gothitelle|Focus Blast|p2a: Blissey
+|-supereffective|p2a: Blissey
+|-damage|p2a: Blissey|312/572
+|-unboost|p2a: Blissey|spd|1
+|
+|upkeep
+|turn|10
+|
+|t:|1776980536
+|move|p2a: Blissey|Thunder Wave|p1a: Gothitelle
+|-fail|p1a: Gothitelle|par
+|move|p1a: Gothitelle|Psychic|p2a: Blissey
+|-damage|p2a: Blissey|203/572
+|
+|upkeep
+|turn|11
+|
+|t:|1776980543
+|move|p2a: Blissey|Thunder Wave|p1a: Gothitelle
+|-fail|p1a: Gothitelle|par
+|move|p1a: Gothitelle|Psychic|p2a: Blissey
+|-damage|p2a: Blissey|95/572
+|
+|upkeep
+|turn|12
+|
+|t:|1776980550
+|move|p2a: Blissey|Thunder Wave|p1a: Gothitelle
+|-fail|p1a: Gothitelle|par
+|cant|p1a: Gothitelle|par
+|
+|upkeep
+|turn|13
+|
+|t:|1776980554
+|move|p2a: Blissey|Thunder Wave|p1a: Gothitelle
+|-fail|p1a: Gothitelle|par
+|cant|p1a: Gothitelle|par
+|
+|upkeep
+|turn|14
+|
+|t:|1776980558
+|move|p2a: Blissey|Thunder Wave|p1a: Gothitelle
+|-fail|p1a: Gothitelle|par
+|cant|p1a: Gothitelle|par
+|
+|upkeep
+|turn|15
+|
+|t:|1776980563
+|move|p2a: Blissey|Thunder Wave|p1a: Gothitelle
+|-fail|p1a: Gothitelle|par
+|move|p1a: Gothitelle|Psychic|p2a: Blissey
+|-damage|p2a: Blissey|0 fnt
+|faint|p2a: Blissey
+|
+|upkeep
+|
+|t:|1776980570
+|switch|p2a: Banette|Banette, L93, F, tera:Ghost|216/270
+|turn|16
+|
+|t:|1776980579
+|move|p2a: Banette|Poltergeist|p1a: Gothitelle
+|-activate|p1a: Gothitelle|move: Poltergeist|Leftovers
+|-supereffective|p1a: Gothitelle
+|-damage|p1a: Gothitelle|0 fnt
+|faint|p1a: Gothitelle
+|-damage|p2a: Banette|189/270|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776980583
+|switch|p1a: Hydreigon|Hydreigon, L79, M|275/275
+|turn|17
+|
+|t:|1776980589
+|switch|p2a: Luvdisc|Luvdisc, F|247/247
+|move|p1a: Hydreigon|Dark Pulse|p2a: Luvdisc
+|-damage|p2a: Luvdisc|114/247
+|
+|upkeep
+|turn|18
+|
+|t:|1776980596
+|switch|p1a: Vikavolt|Vikavolt, L83, M|223/263
+|move|p2a: Luvdisc|Substitute|p2a: Luvdisc
+|-start|p2a: Luvdisc|Substitute
+|-damage|p2a: Luvdisc|53/247
+|
+|upkeep
+|turn|19
+|
+|t:|1776980600
+|move|p2a: Luvdisc|Endeavor|p1a: Vikavolt
+|-damage|p1a: Vikavolt|53/263
+|move|p1a: Vikavolt|Bug Buzz|p2a: Luvdisc
+|-crit|p2a: Luvdisc
+|-damage|p2a: Luvdisc|0 fnt
+|faint|p2a: Luvdisc
+|
+|upkeep
+|
+|t:|1776980612
+|switch|p2a: Lumineon|Lumineon, L93, M|279/279
+|turn|20
+|
+|t:|1776980623
+|move|p2a: Lumineon|Ice Beam|p1a: Vikavolt
+|-damage|p1a: Vikavolt|0 fnt
+|faint|p1a: Vikavolt
+|-damage|p2a: Lumineon|252/279|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776980631
+|switch|p1a: Hariyama|Hariyama, L87, F|392/392
+|turn|21
+|
+|t:|1776980638
+|move|p2a: Lumineon|Alluring Voice|p1a: Hariyama
+|-supereffective|p1a: Hariyama
+|-damage|p1a: Hariyama|205/392
+|-damage|p2a: Lumineon|225/279|[from] item: Life Orb
+|move|p1a: Hariyama|Close Combat|p2a: Lumineon
+|-damage|p2a: Lumineon|54/279
+|-unboost|p1a: Hariyama|def|1
+|-unboost|p1a: Hariyama|spd|1
+|
+|-status|p1a: Hariyama|brn|[from] item: Flame Orb
+|upkeep
+|turn|22
+|
+|t:|1776980647
+|-terastallize|p1a: Hariyama|Normal
+|move|p2a: Lumineon|Alluring Voice|p1a: Hariyama
+|-crit|p1a: Hariyama
+|-damage|p1a: Hariyama|5/392 brn
+|-damage|p2a: Lumineon|27/279|[from] item: Life Orb
+|move|p1a: Hariyama|Facade|p2a: Lumineon
+|-damage|p2a: Lumineon|0 fnt
+|faint|p2a: Lumineon
+|
+|-damage|p1a: Hariyama|0 fnt|[from] brn
+|faint|p1a: Hariyama
+|upkeep
+|
+|t:|1776980654
+|switch|p2a: Pachirisu|Pachirisu, L96, M|271/271
+|switch|p1a: Shiftry|Shiftry, L89, F|245/305
+|turn|23
+|
+|t:|1776980660
+|move|p1a: Shiftry|Sucker Punch|p2a: Pachirisu
+|-damage|p2a: Pachirisu|150/271
+|-damage|p1a: Shiftry|215/305|[from] item: Life Orb
+|move|p2a: Pachirisu|U-turn|p1a: Shiftry
+|-supereffective|p1a: Shiftry
+|-damage|p1a: Shiftry|27/305
+|
+|t:|1776980662
+|switch|p2a: Banette|Banette, L93, F, tera:Ghost|189/270|[from] U-turn
+|
+|upkeep
+|turn|24
+|
+|t:|1776980669
+|move|p1a: Shiftry|Sucker Punch|p2a: Banette
+|-supereffective|p2a: Banette
+|-damage|p2a: Banette|0 fnt
+|faint|p2a: Banette
+|-damage|p1a: Shiftry|0 fnt|[from] item: Life Orb
+|faint|p1a: Shiftry
+|
+|upkeep
+|
+|t:|1776980672
+|switch|p1a: Hydreigon|Hydreigon, L79, M|275/275
+|switch|p2a: Pachirisu|Pachirisu, L96, M|150/271
+|turn|25
+|
+|t:|1776980676
+|move|p2a: Pachirisu|Nuzzle|p1a: Hydreigon
+|-resisted|p1a: Hydreigon
+|-damage|p1a: Hydreigon|266/275
+|-status|p1a: Hydreigon|par
+|cant|p1a: Hydreigon|par
+|
+|upkeep
+|turn|26
+|
+|t:|1776980682
+|move|p2a: Pachirisu|Super Fang|p1a: Hydreigon
+|-damage|p1a: Hydreigon|133/275 par
+|move|p1a: Hydreigon|Draco Meteor|p2a: Pachirisu|[miss]
+|-miss|p1a: Hydreigon|p2a: Pachirisu
+|
+|upkeep
+|turn|27
+|
+|t:|1776980686
+|move|p2a: Pachirisu|U-turn|p1a: Hydreigon
+|-supereffective|p1a: Hydreigon
+|-damage|p1a: Hydreigon|53/275 par
+|cant|p1a: Hydreigon|par
+|
+|upkeep
+|turn|28
+|c|☆bbnate|youch
+|c|☆bbnate|sorry fam
+|
+|t:|1776980692
+|move|p2a: Pachirisu|U-turn|p1a: Hydreigon
+|-supereffective|p1a: Hydreigon
+|-damage|p1a: Hydreigon|0 fnt
+|faint|p1a: Hydreigon
+|
+|win|bbnate
+|raw|Ryriss's rating: 1737 &rarr; <strong>1717</strong><br />(-20 for losing)
+|raw|bbnate's rating: 1744 &rarr; <strong>1764</strong><br />(+20 for winning)
+|l|☆Ryriss
+|player|p1|

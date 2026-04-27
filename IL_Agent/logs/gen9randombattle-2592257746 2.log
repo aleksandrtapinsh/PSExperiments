@@ -1,0 +1,229 @@
+|j|☆Plomo32
+|j|☆feetlicker5600
+|t:|1776973898
+|gametype|singles
+|player|p1|Plomo32|266|1437
+|player|p2|feetlicker5600|101|1407
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776973898
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Ting-Lu|Ting-Lu, L78|370/370
+|switch|p2a: Infernape|Infernape, L82, M|259/259
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|turn|1
+|
+|t:|1776973917
+|move|p2a: Infernape|Close Combat|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|110/370
+|-unboost|p2a: Infernape|def|1
+|-unboost|p2a: Infernape|spd|1
+|-damage|p2a: Infernape|234/259|[from] item: Life Orb
+|move|p1a: Ting-Lu|Stealth Rock|p2a: Infernape
+|-sidestart|p2: feetlicker5600|move: Stealth Rock
+|
+|-heal|p1a: Ting-Lu|133/370|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776973929
+|-terastallize|p1a: Ting-Lu|Ghost
+|move|p2a: Infernape|Close Combat|p1a: Ting-Lu
+|-immune|p1a: Ting-Lu
+|move|p1a: Ting-Lu|Earthquake|p2a: Infernape
+|-supereffective|p2a: Infernape
+|-damage|p2a: Infernape|0 fnt
+|faint|p2a: Infernape
+|
+|-heal|p1a: Ting-Lu|156/370|[from] item: Leftovers
+|upkeep
+|
+|t:|1776973956
+|switch|p2a: Slaking|Slaking, L84, M|389/389
+|-damage|p2a: Slaking|341/389|[from] Stealth Rock
+|turn|3
+|
+|t:|1776973965
+|move|p2a: Slaking|Knock Off|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|0 fnt
+|-enditem|p1a: Ting-Lu|Leftovers|[from] move: Knock Off|[of] p2a: Slaking
+|faint|p1a: Ting-Lu
+|
+|upkeep
+|
+|t:|1776973986
+|switch|p1a: Venusaur|Venusaur, L84, F|272/272
+|turn|4
+|
+|t:|1776973995
+|cant|p2a: Slaking|ability: Truant
+|move|p1a: Venusaur|Sleep Powder|p2a: Slaking
+|-status|p2a: Slaking|slp|[from] move: Sleep Powder
+|
+|upkeep
+|turn|5
+|
+|t:|1776974009
+|cant|p2a: Slaking|slp
+|move|p1a: Venusaur|Substitute|p1a: Venusaur
+|-start|p1a: Venusaur|Substitute
+|-damage|p1a: Venusaur|204/272
+|
+|-heal|p1a: Venusaur|221/272|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776974026
+|switch|p2a: Dragonite|Dragonite, L74, M|257/257
+|move|p1a: Venusaur|Leech Seed|p2a: Dragonite
+|-start|p2a: Dragonite|move: Leech Seed
+|
+|-heal|p1a: Venusaur|238/272|[from] item: Leftovers
+|-damage|p2a: Dragonite|225/257|[from] Leech Seed|[of] p1a: Venusaur
+|-heal|p1a: Venusaur|270/272|[silent]
+|upkeep
+|turn|7
+|
+|t:|1776974047
+|move|p1a: Venusaur|Sludge Bomb|p2a: Dragonite
+|-damage|p2a: Dragonite|126/257
+|move|p2a: Dragonite|Outrage|p1a: Venusaur
+|-end|p1a: Venusaur|Substitute
+|
+|-heal|p1a: Venusaur|272/272|[from] item: Leftovers
+|-damage|p2a: Dragonite|94/257|[from] Leech Seed|[of] p1a: Venusaur
+|upkeep
+|turn|8
+|
+|t:|1776974068
+|move|p1a: Venusaur|Sludge Bomb|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|faint|p2a: Dragonite
+|
+|upkeep
+|
+|t:|1776974082
+|switch|p2a: Slaking|Slaking, L84, M|341/389 slp
+|-damage|p2a: Slaking|293/389 slp|[from] Stealth Rock
+|turn|9
+|
+|t:|1776974087
+|cant|p2a: Slaking|slp
+|move|p1a: Venusaur|Substitute|p1a: Venusaur
+|-start|p1a: Venusaur|Substitute
+|-damage|p1a: Venusaur|204/272
+|
+|-heal|p1a: Venusaur|221/272|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1776974100
+|switch|p2a: Walking Wake|Walking Wake, L79|286/286
+|-damage|p2a: Walking Wake|251/286|[from] Stealth Rock
+|move|p1a: Venusaur|Leech Seed|p2a: Walking Wake
+|-start|p2a: Walking Wake|move: Leech Seed
+|
+|-heal|p1a: Venusaur|238/272|[from] item: Leftovers
+|-damage|p2a: Walking Wake|216/286|[from] Leech Seed|[of] p1a: Venusaur
+|-heal|p1a: Venusaur|272/272|[silent]
+|upkeep
+|turn|11
+|
+|t:|1776974111
+|move|p2a: Walking Wake|Flamethrower|p1a: Venusaur
+|-supereffective|p1a: Venusaur
+|-end|p1a: Venusaur|Substitute
+|move|p1a: Venusaur|Sludge Bomb|p2a: Walking Wake
+|-damage|p2a: Walking Wake|110/286
+|
+|-damage|p2a: Walking Wake|75/286|[from] Leech Seed|[of] p1a: Venusaur
+|upkeep
+|turn|12
+|
+|t:|1776974122
+|-terastallize|p2a: Walking Wake|Fire
+|move|p2a: Walking Wake|Flamethrower|p1a: Venusaur
+|-supereffective|p1a: Venusaur
+|-damage|p1a: Venusaur|8/272
+|move|p1a: Venusaur|Sludge Bomb|p2a: Walking Wake
+|-damage|p2a: Walking Wake|0 fnt
+|faint|p2a: Walking Wake
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|
+|-heal|p1a: Venusaur|25/272|[from] item: Leftovers
+|upkeep
+|
+|t:|1776974139
+|switch|p2a: Samurott|Samurott, L88, M|310/310
+|-damage|p2a: Samurott|272/310|[from] Stealth Rock
+|turn|13
+|
+|t:|1776974147
+|move|p1a: Venusaur|Sleep Powder|p2a: Samurott|[miss]
+|-miss|p1a: Venusaur|p2a: Samurott
+|move|p2a: Samurott|Knock Off|p1a: Venusaur
+|-damage|p1a: Venusaur|0 fnt
+|-enditem|p1a: Venusaur|Leftovers|[from] move: Knock Off|[of] p2a: Samurott
+|faint|p1a: Venusaur
+|-damage|p2a: Samurott|241/310|[from] item: Life Orb
+|
+|upkeep
+|n|!feetlicker5600|feetlicker5600
+|
+|t:|1776974170
+|switch|p1a: Flamigo|Flamigo, L82, M|269/269
+|turn|14
+|
+|t:|1776974185
+|move|p1a: Flamigo|Brave Bird|p2a: Samurott
+|-damage|p2a: Samurott|30/310
+|-damage|p1a: Flamigo|199/269|[from] Recoil
+|move|p2a: Samurott|Knock Off|p1a: Flamigo
+|-resisted|p1a: Flamigo
+|-damage|p1a: Flamigo|146/269
+|-enditem|p1a: Flamigo|Choice Band|[from] move: Knock Off|[of] p2a: Samurott
+|-damage|p2a: Samurott|0 fnt|[from] item: Life Orb
+|faint|p2a: Samurott
+|
+|upkeep
+|
+|t:|1776974196
+|switch|p2a: Slaking|Slaking, L84, M|293/389 slp
+|-damage|p2a: Slaking|245/389 slp|[from] Stealth Rock
+|turn|15
+|
+|t:|1776974202
+|cant|p2a: Slaking|slp
+|move|p1a: Flamigo|Close Combat|p2a: Slaking
+|-supereffective|p2a: Slaking
+|-damage|p2a: Slaking|0 fnt
+|-unboost|p1a: Flamigo|def|1
+|-unboost|p1a: Flamigo|spd|1
+|faint|p2a: Slaking
+|
+|upkeep
+|
+|t:|1776974205
+|switch|p2a: Probopass|Probopass, L91, M|257/257
+|-damage|p2a: Probopass|241/257|[from] Stealth Rock
+|turn|16
+|
+|t:|1776974209
+|move|p1a: Flamigo|Close Combat|p2a: Probopass
+|-supereffective|p2a: Probopass
+|-damage|p2a: Probopass|0 fnt
+|-unboost|p1a: Flamigo|def|1
+|-unboost|p1a: Flamigo|spd|1
+|faint|p2a: Probopass
+|
+|win|Plomo32

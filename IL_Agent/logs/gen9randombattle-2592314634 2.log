@@ -1,0 +1,472 @@
+|j|☆FeenOfX
+|j|☆qxze
+|t:|1776978139
+|gametype|singles
+|player|p1|FeenOfX|lenora|
+|player|p2|qxze|102|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776978139
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Carbink|Carbink, L90|236/236
+|switch|p2a: Dunsparce|Dunsparce, L86, M|312/312
+|turn|1
+|c|☆FeenOfX|the single rock
+|
+|t:|1776978165
+|switch|p2a: Lapras|Lapras, L87, M, shiny|367/367
+|move|p1a: Carbink|Iron Defense|p1a: Carbink
+|-boost|p1a: Carbink|def|2
+|
+|upkeep
+|turn|2
+|
+|t:|1776978200
+|move|p2a: Lapras|Waterfall|p1a: Carbink
+|-supereffective|p1a: Carbink
+|-damage|p1a: Carbink|186/236
+|move|p1a: Carbink|Body Press|p2a: Lapras
+|-supereffective|p2a: Lapras
+|-damage|p2a: Lapras|0 fnt
+|faint|p2a: Lapras
+|
+|-heal|p1a: Carbink|200/236|[from] item: Leftovers
+|upkeep
+|
+|t:|1776978225
+|switch|p2a: Dipplin|Dipplin, L88, F|284/284
+|turn|3
+|
+|t:|1776978236
+|move|p1a: Carbink|Moonblast|p2a: Dipplin
+|-supereffective|p2a: Dipplin
+|-damage|p2a: Dipplin|182/284
+|move|p2a: Dipplin|Giga Drain|p1a: Carbink
+|-supereffective|p1a: Carbink
+|-damage|p1a: Carbink|92/236
+|-heal|p2a: Dipplin|236/284|[from] drain|[of] p1a: Carbink
+|
+|-heal|p1a: Carbink|106/236|[from] item: Leftovers
+|upkeep
+|turn|4
+|c|☆FeenOfX|interesting predicament
+|
+|t:|1776978255
+|move|p1a: Carbink|Moonblast|p2a: Dipplin
+|-supereffective|p2a: Dipplin
+|-damage|p2a: Dipplin|134/284
+|-unboost|p2a: Dipplin|spa|1
+|move|p2a: Dipplin|Giga Drain|p1a: Carbink
+|-supereffective|p1a: Carbink
+|-damage|p1a: Carbink|40/236
+|-heal|p2a: Dipplin|167/284|[from] drain|[of] p1a: Carbink
+|
+|-heal|p1a: Carbink|54/236|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776978271
+|move|p1a: Carbink|Moonblast|p2a: Dipplin
+|-supereffective|p2a: Dipplin
+|-damage|p2a: Dipplin|65/284
+|move|p2a: Dipplin|Giga Drain|p1a: Carbink
+|-supereffective|p1a: Carbink
+|-damage|p1a: Carbink|0 fnt
+|-heal|p2a: Dipplin|92/284|[from] drain|[of] p1a: Carbink
+|faint|p1a: Carbink
+|
+|upkeep
+|c|☆qxze|i sucked the life out of you
+|
+|t:|1776978290
+|switch|p1a: Inteleon|Inteleon, L81, F|246/246
+|turn|6
+|c|☆FeenOfX|freakay
+|
+|t:|1776978318
+|switch|p2a: Yanmega|Yanmega, L82, F|275/275
+|move|p1a: Inteleon|U-turn|p2a: Yanmega
+|-resisted|p2a: Yanmega
+|-damage|p2a: Yanmega|253/275
+|
+|t:|1776978334
+|switch|p1a: Infernape|Infernape, L82, M|259/259|[from] U-turn
+|
+|upkeep
+|turn|7
+|
+|t:|1776978357
+|switch|p2a: Zacian|Zacian, L69|241/241
+|-ability|p2a: Zacian|Intrepid Sword|boost
+|-boost|p2a: Zacian|atk|1
+|move|p1a: Infernape|Overheat|p2a: Zacian
+|-damage|p2a: Zacian|50/241
+|-unboost|p1a: Infernape|spa|2
+|-damage|p1a: Infernape|234/259|[from] item: Life Orb
+|
+|upkeep
+|turn|8
+|
+|t:|1776978372
+|move|p1a: Infernape|Mach Punch|p2a: Zacian
+|-resisted|p2a: Zacian
+|-damage|p2a: Zacian|15/241
+|-damage|p1a: Infernape|209/259|[from] item: Life Orb
+|move|p2a: Zacian|Psychic Fangs|p1a: Infernape
+|-supereffective|p1a: Infernape
+|-damage|p1a: Infernape|0 fnt
+|faint|p1a: Infernape
+|
+|upkeep
+|c|☆FeenOfX|oy vey
+|
+|t:|1776978385
+|switch|p1a: Inteleon|Inteleon, L81, F|246/246
+|turn|9
+|c|☆qxze|THATS MY GIRL ZACY
+|
+|t:|1776978396
+|switch|p2a: Hoopa|Hoopa, L85|275/275
+|move|p1a: Inteleon|Ice Beam|p2a: Hoopa
+|-damage|p2a: Hoopa|199/275
+|
+|upkeep
+|turn|10
+|
+|t:|1776978419
+|switch|p1a: Arceus|Arceus-Dark, L71|288/288
+|-terastallize|p2a: Hoopa|Fighting
+|move|p2a: Hoopa|Focus Blast|p1a: Arceus|[miss]
+|-miss|p2a: Hoopa|p1a: Arceus
+|
+|upkeep
+|turn|11
+|c|☆FeenOfX|SHIT
+|c|☆FeenOfX|oh
+|c|☆FeenOfX|nvm its focus miss
+|c|☆qxze|NAHHHHHH NO WAY
+|c|☆FeenOfX|lmfao
+|
+|t:|1776978455
+|move|p1a: Arceus|Dazzling Gleam|p2a: Hoopa
+|-supereffective|p2a: Hoopa
+|-damage|p2a: Hoopa|133/275
+|move|p2a: Hoopa|Focus Blast|p1a: Arceus|[miss]
+|-miss|p2a: Hoopa|p1a: Arceus
+|
+|upkeep
+|turn|12
+|c|☆FeenOfX|GAHAHAHA
+|c|☆qxze|DUDE
+|c|☆FeenOfX|i feel like i can calm mind here and it will miss
+|c|☆FeenOfX|trust
+|
+|t:|1776978477
+|move|p1a: Arceus|Calm Mind|p1a: Arceus
+|-boost|p1a: Arceus|spa|1
+|-boost|p1a: Arceus|spd|1
+|move|p2a: Hoopa|Focus Blast|p1a: Arceus
+|-supereffective|p1a: Arceus
+|-damage|p1a: Arceus|0 fnt
+|faint|p1a: Arceus
+|-damage|p2a: Hoopa|106/275|[from] item: Life Orb
+|
+|upkeep
+|c|☆FeenOfX|damn
+|c|☆FeenOfX|got too greedy
+|
+|t:|1776978501
+|switch|p1a: Inteleon|Inteleon, L81, F|246/246
+|turn|13
+|
+|t:|1776978514
+|switch|p2a: Dunsparce|Dunsparce, L86, M|312/312
+|move|p1a: Inteleon|Hydro Pump|p2a: Dunsparce|[miss]
+|-miss|p1a: Inteleon|p2a: Dunsparce
+|
+|upkeep
+|turn|14
+|c|☆FeenOfX|karma
+|c|☆qxze|it missed
+|c|☆qxze|nruhhhhhh
+|
+|t:|1776978542
+|move|p1a: Inteleon|Hydro Pump|p2a: Dunsparce
+|-damage|p2a: Dunsparce|162/312
+|move|p2a: Dunsparce|Coil|p2a: Dunsparce
+|-boost|p2a: Dunsparce|atk|1
+|-boost|p2a: Dunsparce|def|1
+|-boost|p2a: Dunsparce|accuracy|1
+|
+|upkeep
+|turn|15
+|
+|t:|1776978558
+|move|p1a: Inteleon|Hydro Pump|p2a: Dunsparce
+|-damage|p2a: Dunsparce|9/312
+|move|p2a: Dunsparce|Body Slam|p1a: Inteleon
+|-damage|p1a: Inteleon|114/246
+|
+|upkeep
+|turn|16
+|c|☆FeenOfX|we only click hydro pump (its choice specs)
+|c|☆qxze|ok now you miss
+|
+|t:|1776978589
+|move|p1a: Inteleon|Hydro Pump|p2a: Dunsparce
+|-damage|p2a: Dunsparce|0 fnt
+|faint|p2a: Dunsparce
+|
+|upkeep
+|c|☆qxze|FAHHHHHHH
+|c|☆FeenOfX|nuh uhhh
+|
+|t:|1776978594
+|switch|p2a: Yanmega|Yanmega, L82, F|253/275
+|turn|17
+|
+|t:|1776978601
+|switch|p1a: Bellibolt|Bellibolt, L84, M|320/320
+|move|p2a: Yanmega|Bug Buzz|p1a: Bellibolt
+|-damage|p1a: Bellibolt|214/320
+|-start|p1a: Bellibolt|Charge|Bug Buzz|[from] ability: Electromorphosis
+|
+|-heal|p1a: Bellibolt|234/320|[from] item: Leftovers
+|-ability|p2a: Yanmega|Speed Boost|boost
+|-boost|p2a: Yanmega|spe|1
+|upkeep
+|turn|18
+|c|☆qxze|bzzzz bzzzzz bzzzzzz bzzz bzz
+|c|☆qxze|sorry i thought this was an uber
+|c|☆FeenOfX|by jove
+|
+|t:|1776978632
+|switch|p2a: Dipplin|Dipplin, L88, F|92/284
+|move|p1a: Bellibolt|Thunderbolt|p2a: Dipplin
+|-resisted|p2a: Dipplin
+|-damage|p2a: Dipplin|61/284
+|-end|p1a: Bellibolt|Charge|[silent]
+|
+|-heal|p1a: Bellibolt|254/320|[from] item: Leftovers
+|upkeep
+|turn|19
+|c|☆FeenOfX|trye
+|c|☆FeenOfX|true
+|
+|t:|1776978649
+|move|p1a: Bellibolt|Slack Off|p1a: Bellibolt
+|-heal|p1a: Bellibolt|320/320
+|move|p2a: Dipplin|Recover|p2a: Dipplin
+|-heal|p2a: Dipplin|203/284
+|
+|upkeep
+|turn|20
+|
+|t:|1776978659
+|move|p1a: Bellibolt|Toxic|p2a: Dipplin
+|-status|p2a: Dipplin|tox
+|move|p2a: Dipplin|Dragon Pulse|p1a: Bellibolt
+|-damage|p1a: Bellibolt|227/320
+|-start|p1a: Bellibolt|Charge|Dragon Pulse|[from] ability: Electromorphosis
+|
+|-heal|p1a: Bellibolt|247/320|[from] item: Leftovers
+|-damage|p2a: Dipplin|186/284 tox|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1776978676
+|move|p1a: Bellibolt|Thunderbolt|p2a: Dipplin
+|-resisted|p2a: Dipplin
+|-damage|p2a: Dipplin|152/284 tox
+|-end|p1a: Bellibolt|Charge|[silent]
+|move|p2a: Dipplin|Dragon Pulse|p1a: Bellibolt
+|-damage|p1a: Bellibolt|151/320
+|-start|p1a: Bellibolt|Charge|Dragon Pulse|[from] ability: Electromorphosis
+|
+|-heal|p1a: Bellibolt|171/320|[from] item: Leftovers
+|-damage|p2a: Dipplin|118/284 tox|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1776978687
+|move|p1a: Bellibolt|Slack Off|p1a: Bellibolt
+|-heal|p1a: Bellibolt|320/320
+|move|p2a: Dipplin|Giga Drain|p1a: Bellibolt
+|-damage|p1a: Bellibolt|233/320
+|-heal|p2a: Dipplin|162/284 tox|[from] drain|[of] p1a: Bellibolt
+|-start|p1a: Bellibolt|Charge|Giga Drain|[from] ability: Electromorphosis
+|
+|-heal|p1a: Bellibolt|253/320|[from] item: Leftovers
+|-damage|p2a: Dipplin|111/284 tox|[from] psn
+|upkeep
+|turn|23
+|c|☆FeenOfX|stall competition
+|
+|t:|1776978699
+|move|p1a: Bellibolt|Muddy Water|p2a: Dipplin
+|-resisted|p2a: Dipplin
+|-damage|p2a: Dipplin|100/284 tox
+|-unboost|p2a: Dipplin|accuracy|1
+|move|p2a: Dipplin|Giga Drain|p1a: Bellibolt
+|-damage|p1a: Bellibolt|163/320
+|-heal|p2a: Dipplin|145/284 tox|[from] drain|[of] p1a: Bellibolt
+|-start|p1a: Bellibolt|Charge|Giga Drain|[from] ability: Electromorphosis
+|
+|-heal|p1a: Bellibolt|183/320|[from] item: Leftovers
+|-damage|p2a: Dipplin|77/284 tox|[from] psn
+|upkeep
+|turn|24
+|
+|t:|1776978713
+|move|p1a: Bellibolt|Slack Off|p1a: Bellibolt
+|-heal|p1a: Bellibolt|320/320
+|move|p2a: Dipplin|Giga Drain|p1a: Bellibolt|[miss]
+|-miss|p2a: Dipplin|p1a: Bellibolt
+|
+|-damage|p2a: Dipplin|0 fnt|[from] psn
+|faint|p2a: Dipplin
+|upkeep
+|c|☆qxze|FAHHHH
+|c|☆FeenOfX|there it is
+|
+|t:|1776978723
+|switch|p2a: Yanmega|Yanmega, L82, F|253/275
+|turn|25
+|c|☆FeenOfX|i loooove toxic
+|
+|t:|1776978733
+|move|p2a: Yanmega|Bug Buzz|p1a: Bellibolt
+|-damage|p1a: Bellibolt|218/320
+|-start|p1a: Bellibolt|Charge|Bug Buzz|[from] ability: Electromorphosis
+|move|p1a: Bellibolt|Thunderbolt|p2a: Yanmega
+|-supereffective|p2a: Yanmega
+|-damage|p2a: Yanmega|0 fnt
+|faint|p2a: Yanmega
+|-end|p1a: Bellibolt|Charge|[silent]
+|
+|-heal|p1a: Bellibolt|238/320|[from] item: Leftovers
+|upkeep
+|
+|t:|1776978743
+|switch|p2a: Hoopa|Hoopa, L85, tera:Fighting|106/275
+|turn|26
+|c|☆qxze|please please please
+|c|☆qxze|let this hit
+|c|☆FeenOfX|im afraid of focus miss
+|
+|t:|1776978769
+|move|p2a: Hoopa|Focus Blast|p1a: Bellibolt
+|-damage|p1a: Bellibolt|0 fnt
+|faint|p1a: Bellibolt
+|-damage|p2a: Hoopa|79/275|[from] item: Life Orb
+|
+|upkeep
+|c|☆FeenOfX|focus hit!
+|c|☆qxze|yeahhhhhh
+|
+|t:|1776978783
+|switch|p1a: Inteleon|Inteleon, L81, F|114/246
+|turn|27
+|c|☆qxze|woooooooo
+|c|☆qxze|ok im mega outsped here
+|c|☆qxze|i think its wraps
+|c|☆FeenOfX|lets start pumping
+|c|☆qxze|hydro miss
+|
+|t:|1776978818
+|move|p1a: Inteleon|Hydro Pump|p2a: Hoopa|[miss]
+|-miss|p1a: Inteleon|p2a: Hoopa
+|move|p2a: Hoopa|Shadow Ball|p1a: Inteleon
+|-damage|p1a: Inteleon|0 fnt
+|faint|p1a: Inteleon
+|-damage|p2a: Hoopa|52/275|[from] item: Life Orb
+|
+|upkeep
+|c|☆FeenOfX|SHIT
+|c|☆qxze|NO WAYYYYY
+|
+|t:|1776978827
+|switch|p1a: Snorlax|Snorlax, L82, M|397/397
+|turn|28
+|c|☆FeenOfX|hrm hrm
+|c|☆qxze|this 1hkos right
+|c|☆FeenOfX|nah
+|
+|t:|1776978860
+|-terastallize|p1a: Snorlax|Ground
+|move|p2a: Hoopa|Focus Blast|p1a: Snorlax
+|-damage|p1a: Snorlax|175/397
+|-damage|p2a: Hoopa|25/275|[from] item: Life Orb
+|move|p1a: Snorlax|Curse|p1a: Snorlax
+|-unboost|p1a: Snorlax|spe|1
+|-boost|p1a: Snorlax|atk|1
+|-boost|p1a: Snorlax|def|1
+|
+|upkeep
+|turn|29
+|c|☆qxze|FAHHHHH
+|c|☆FeenOfX|oh im a fool tho
+|c|☆qxze|you have tera
+|c|☆FeenOfX|does too much for me to live another
+|c|☆FeenOfX|unless... it misses
+|c|☆qxze|focus miss
+|
+|t:|1776978890
+|move|p2a: Hoopa|Focus Blast|p1a: Snorlax|[miss]
+|-miss|p2a: Hoopa|p1a: Snorlax
+|move|p1a: Snorlax|Earthquake|p2a: Hoopa
+|-damage|p2a: Hoopa|0 fnt
+|faint|p2a: Hoopa
+|
+|upkeep
+|c|☆FeenOfX|YEEEEEAHAHHAHA
+|
+|t:|1776978897
+|switch|p2a: Zacian|Zacian, L69|15/241
+|turn|30
+|c|☆FeenOfX|snorlax you tank these
+|c|☆qxze|i think it does
+|c|☆FeenOfX|just to be safe tho
+|c|☆qxze|closing my eyes for the death anim so my pretty girl doesnt die
+|c|☆FeenOfX|ill hit that chesto
+|
+|t:|1776978945
+|move|p2a: Zacian|Play Rough|p1a: Snorlax
+|-damage|p1a: Snorlax|73/397
+|-unboost|p1a: Snorlax|atk|1
+|move|p1a: Snorlax|Rest|p1a: Snorlax
+|-status|p1a: Snorlax|slp|[from] move: Rest
+|-heal|p1a: Snorlax|397/397 slp|[silent]
+|-enditem|p1a: Snorlax|Chesto Berry|[eat]
+|-curestatus|p1a: Snorlax|slp|[msg]
+|
+|upkeep
+|turn|31
+|c|☆FeenOfX|nah you got one more turn
+|c|☆FeenOfX|i have to rest
+|c|☆qxze|this does NOT ohko
+|c|☆FeenOfX|now you die
+|c|☆qxze|maybe like 4 hits
+|
+|t:|1776978970
+|move|p2a: Zacian|Play Rough|p1a: Snorlax
+|-damage|p1a: Snorlax|298/397
+|move|p1a: Snorlax|Body Slam|p2a: Zacian
+|-damage|p2a: Zacian|0 fnt
+|faint|p2a: Zacian
+|
+|win|FeenOfX
+|c|☆FeenOfX|ding ding
+|c|☆FeenOfX|thats game folks
+|c|☆qxze|dude i threw
+|c|☆FeenOfX|gg
+|c|☆qxze|gg
+|c|☆FeenOfX|there were like 50 misses in tht game
+|c|☆FeenOfX|you did not throw that bad

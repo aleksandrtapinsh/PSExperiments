@@ -1,0 +1,289 @@
+|j|☆fdbbvcbfgnvbcnfg
+|j|☆awdfweaqf
+|t:|1776976967
+|gametype|singles
+|player|p1|fdbbvcbfgnvbcnfg|169|1241
+|player|p2|awdfweaqf|265|1221
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776976967
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Meowscarada|Meowscarada, L78, F|247/247
+|switch|p2a: Virizion|Virizion, L82|283/283
+|turn|1
+|
+|t:|1776976974
+|move|p1a: Meowscarada|U-turn|p2a: Virizion
+|-start|p1a: Meowscarada|typechange|Bug|[from] ability: Protean
+|-damage|p2a: Virizion|150/283
+|
+|t:|1776976981
+|switch|p1a: Hypno|Hypno, L95, M|315/315|[from] U-turn
+|move|p2a: Virizion|Swords Dance|p2a: Virizion
+|-boost|p2a: Virizion|atk|2
+|
+|upkeep
+|turn|2
+|
+|t:|1776976992
+|move|p2a: Virizion|Stone Edge|p1a: Hypno
+|-damage|p1a: Hypno|150/315
+|-damage|p2a: Virizion|122/283|[from] item: Life Orb
+|move|p1a: Hypno|Thunder Wave|p2a: Virizion
+|-status|p2a: Virizion|par
+|
+|-heal|p1a: Hypno|169/315|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776977002
+|move|p1a: Hypno|Psychic Noise|p2a: Virizion
+|-supereffective|p2a: Virizion
+|-damage|p2a: Virizion|0 fnt
+|faint|p2a: Virizion
+|
+|-heal|p1a: Hypno|188/315|[from] item: Leftovers
+|upkeep
+|
+|t:|1776977023
+|switch|p2a: Toedscruel|Toedscruel, L87, M|281/281
+|turn|4
+|
+|t:|1776977028
+|move|p1a: Hypno|Knock Off|p2a: Toedscruel
+|-damage|p2a: Toedscruel|196/281
+|-enditem|p2a: Toedscruel|Leftovers|[from] move: Knock Off|[of] p1a: Hypno
+|move|p2a: Toedscruel|Toxic|p1a: Hypno
+|-status|p1a: Hypno|tox
+|
+|-heal|p1a: Hypno|207/315 tox|[from] item: Leftovers
+|-damage|p1a: Hypno|188/315 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1776977039
+|move|p2a: Toedscruel|Giga Drain|p1a: Hypno
+|-damage|p1a: Hypno|137/315 tox
+|-heal|p2a: Toedscruel|222/281|[from] drain|[of] p1a: Hypno
+|move|p1a: Hypno|Psychic Noise|p2a: Toedscruel
+|-damage|p2a: Toedscruel|162/281
+|-start|p2a: Toedscruel|move: Heal Block
+|
+|-heal|p1a: Hypno|156/315 tox|[from] item: Leftovers
+|-damage|p1a: Hypno|118/315 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1776977054
+|move|p2a: Toedscruel|Earth Power|p1a: Hypno
+|-damage|p1a: Hypno|51/315 tox
+|-unboost|p1a: Hypno|spd|1
+|move|p1a: Hypno|Knock Off|p2a: Toedscruel
+|-damage|p2a: Toedscruel|104/281
+|
+|-heal|p1a: Hypno|70/315 tox|[from] item: Leftovers
+|-damage|p1a: Hypno|13/315 tox|[from] psn
+|-end|p2a: Toedscruel|move: Heal Block
+|upkeep
+|turn|7
+|
+|t:|1776977064
+|move|p2a: Toedscruel|Rapid Spin|p1a: Hypno
+|-crit|p1a: Hypno
+|-damage|p1a: Hypno|0 fnt
+|-boost|p2a: Toedscruel|spe|1
+|faint|p1a: Hypno
+|
+|upkeep
+|
+|t:|1776977066
+|switch|p1a: Meowscarada|Meowscarada, L78, F|247/247
+|turn|8
+|
+|t:|1776977075
+|move|p1a: Meowscarada|U-turn|p2a: Toedscruel
+|-start|p1a: Meowscarada|typechange|Bug|[from] ability: Protean
+|-supereffective|p2a: Toedscruel
+|-damage|p2a: Toedscruel|0 fnt
+|faint|p2a: Toedscruel
+|
+|t:|1776977079
+|switch|p1a: Wigglytuff|Wigglytuff, L96, M|424/424|[from] U-turn
+|
+|upkeep
+|
+|t:|1776977087
+|switch|p2a: Chansey|Chansey, L85, F|564/564
+|turn|9
+|
+|t:|1776977097
+|move|p1a: Wigglytuff|Thunder Wave|p2a: Chansey
+|-status|p2a: Chansey|par
+|move|p2a: Chansey|Thunder Wave|p1a: Wigglytuff
+|-status|p1a: Wigglytuff|par
+|
+|upkeep
+|turn|10
+|
+|t:|1776977105
+|switch|p1a: Meowscarada|Meowscarada, L78, F|247/247
+|move|p2a: Chansey|Seismic Toss|p1a: Meowscarada
+|-damage|p1a: Meowscarada|162/247
+|
+|upkeep
+|turn|11
+|
+|t:|1776977113
+|move|p1a: Meowscarada|Knock Off|p2a: Chansey
+|-start|p1a: Meowscarada|typechange|Dark|[from] ability: Protean
+|-damage|p2a: Chansey|237/564 par
+|-enditem|p2a: Chansey|Eviolite|[from] move: Knock Off|[of] p1a: Meowscarada
+|move|p2a: Chansey|Seismic Toss|p1a: Meowscarada
+|-damage|p1a: Meowscarada|77/247
+|
+|upkeep
+|turn|12
+|
+|t:|1776977122
+|move|p1a: Meowscarada|Knock Off|p2a: Chansey
+|-damage|p2a: Chansey|0 fnt
+|faint|p2a: Chansey
+|
+|upkeep
+|
+|t:|1776977137
+|switch|p2a: Iron Valiant|Iron Valiant, L78|244/244
+|turn|13
+|
+|t:|1776977143
+|switch|p1a: Wigglytuff|Wigglytuff, L96, M|424/424 par
+|move|p2a: Iron Valiant|Moonblast|p1a: Wigglytuff
+|-crit|p1a: Wigglytuff
+|-damage|p1a: Wigglytuff|173/424 par
+|-damage|p2a: Iron Valiant|220/244|[from] item: Life Orb
+|
+|-heal|p1a: Wigglytuff|199/424 par|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1776977156
+|move|p2a: Iron Valiant|Close Combat|p1a: Wigglytuff
+|-damage|p1a: Wigglytuff|0 fnt
+|-unboost|p2a: Iron Valiant|def|1
+|-unboost|p2a: Iron Valiant|spd|1
+|faint|p1a: Wigglytuff
+|-damage|p2a: Iron Valiant|196/244|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776977163
+|switch|p1a: Meowscarada|Meowscarada, L78, F|77/247
+|turn|15
+|
+|t:|1776977178
+|move|p1a: Meowscarada|Flower Trick|p2a: Iron Valiant
+|-start|p1a: Meowscarada|typechange|Grass|[from] ability: Protean
+|-crit|p2a: Iron Valiant
+|-damage|p2a: Iron Valiant|0 fnt
+|faint|p2a: Iron Valiant
+|-end|p2a: Iron Valiant|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1776977187
+|switch|p2a: Roaring Moon|Roaring Moon, L72|270/270
+|turn|16
+|
+|t:|1776977198
+|switch|p1a: Dipplin|Dipplin, L88, M|284/284
+|move|p2a: Roaring Moon|Knock Off|p1a: Dipplin
+|-damage|p1a: Dipplin|226/284
+|-activate|p1a: Dipplin|ability: Sticky Hold
+|
+|upkeep
+|turn|17
+|
+|t:|1776977206
+|move|p2a: Roaring Moon|Outrage|p1a: Dipplin
+|-supereffective|p1a: Dipplin
+|-damage|p1a: Dipplin|82/284
+|move|p1a: Dipplin|Dragon Tail|p2a: Roaring Moon
+|-supereffective|p2a: Roaring Moon
+|-crit|p2a: Roaring Moon
+|-damage|p2a: Roaring Moon|16/270
+|-end|p2a: Roaring Moon|Protosynthesis|[silent]
+|drag|p2a: Phione|Phione, L91|293/293
+|
+|upkeep
+|turn|18
+|
+|t:|1776977215
+|move|p2a: Phione|Ice Beam|p1a: Dipplin
+|-supereffective|p1a: Dipplin
+|-damage|p1a: Dipplin|0 fnt
+|faint|p1a: Dipplin
+|
+|upkeep
+|
+|t:|1776977217
+|switch|p1a: Meowscarada|Meowscarada, L78, F|77/247
+|turn|19
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by awdfweaqf)
+|
+|t:|1776977225
+|-terastallize|p2a: Phione|Grass
+|move|p1a: Meowscarada|Flower Trick|p2a: Phione
+|-start|p1a: Meowscarada|typechange|Grass|[from] ability: Protean
+|-resisted|p2a: Phione
+|-crit|p2a: Phione
+|-damage|p2a: Phione|219/293
+|move|p2a: Phione|Ice Beam|p1a: Meowscarada
+|-supereffective|p1a: Meowscarada
+|-damage|p1a: Meowscarada|0 fnt
+|faint|p1a: Meowscarada
+|
+|-heal|p2a: Phione|237/293|[from] item: Leftovers
+|upkeep
+|
+|t:|1776977227
+|switch|p1a: Volcanion|Volcanion, L79|255/255
+|turn|20
+|
+|t:|1776977247
+|move|p2a: Phione|Scald|p1a: Volcanion
+|-immune|p1a: Volcanion|[from] ability: Water Absorb
+|move|p1a: Volcanion|Flamethrower|p2a: Phione
+|-supereffective|p2a: Phione
+|-damage|p2a: Phione|0 fnt
+|faint|p2a: Phione
+|
+|upkeep
+|
+|t:|1776977255
+|switch|p2a: Roaring Moon|Roaring Moon, L72|16/270
+|turn|21
+|
+|t:|1776977260
+|move|p2a: Roaring Moon|Earthquake|p1a: Volcanion
+|-supereffective|p1a: Volcanion
+|-crit|p1a: Volcanion
+|-damage|p1a: Volcanion|87/255
+|move|p1a: Volcanion|Flamethrower|p2a: Roaring Moon
+|-resisted|p2a: Roaring Moon
+|-damage|p2a: Roaring Moon|0 fnt
+|faint|p2a: Roaring Moon
+|-end|p2a: Roaring Moon|Protosynthesis|[silent]
+|
+|win|fdbbvcbfgnvbcnfg
+|raw|fdbbvcbfgnvbcnfg's rating: 1263 &rarr; <strong>1285</strong><br />(+22 for winning)
+|raw|awdfweaqf's rating: 1221 &rarr; <strong>1199</strong><br />(-22 for losing)
+|l|☆awdfweaqf
+|player|p2|

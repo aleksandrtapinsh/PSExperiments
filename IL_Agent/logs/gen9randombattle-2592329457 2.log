@@ -1,0 +1,130 @@
+|j|☆Ad3m30w
+|j|☆Cryptodrone
+|t:|1776979344
+|gametype|singles
+|player|p1|Ad3m30w|iono|1508
+|player|p2|Cryptodrone|169|1526
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776979344
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Oinkologne|Oinkologne-F, L92, F|361/361
+|switch|p2a: Latios|Latios, L78, M|253/253
+|turn|1
+|
+|t:|1776979360
+|move|p2a: Latios|Aura Sphere|p1a: Oinkologne
+|-supereffective|p1a: Oinkologne
+|-damage|p1a: Oinkologne|241/361
+|move|p1a: Oinkologne|Body Slam|p2a: Latios
+|-damage|p2a: Latios|147/253
+|-status|p2a: Latios|par
+|
+|-heal|p1a: Oinkologne|263/361|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776979380
+|switch|p1a: Yanmega|Yanmega, L82, F|275/275
+|move|p2a: Latios|Recover|p2a: Latios
+|-heal|p2a: Latios|253/253 par
+|
+|upkeep
+|turn|3
+|
+|t:|1776979394
+|switch|p2a: Pachirisu|Pachirisu, L96, F|271/271
+|move|p1a: Yanmega|Protect||[still]
+|-fail|p1a: Yanmega
+|
+|-ability|p1a: Yanmega|Speed Boost|boost
+|-boost|p1a: Yanmega|spe|1
+|upkeep
+|turn|4
+|
+|t:|1776979406
+|move|p1a: Yanmega|Bug Buzz|p2a: Pachirisu
+|-damage|p2a: Pachirisu|207/271
+|move|p2a: Pachirisu|Super Fang|p1a: Yanmega
+|-damage|p1a: Yanmega|138/275
+|
+|-ability|p1a: Yanmega|Speed Boost|boost
+|-boost|p1a: Yanmega|spe|1
+|upkeep
+|turn|5
+|
+|t:|1776979415
+|-terastallize|p1a: Yanmega|Ground
+|move|p1a: Yanmega|Tera Blast|p2a: Pachirisu|[anim] Tera Blast Ground
+|-supereffective|p2a: Pachirisu
+|-damage|p2a: Pachirisu|103/271
+|move|p2a: Pachirisu|Thunderbolt|p1a: Yanmega
+|-immune|p1a: Yanmega
+|
+|-ability|p1a: Yanmega|Speed Boost|boost
+|-boost|p1a: Yanmega|spe|1
+|upkeep
+|turn|6
+|
+|t:|1776979438
+|move|p1a: Yanmega|Tera Blast|p2a: Pachirisu|[anim] Tera Blast Ground
+|-supereffective|p2a: Pachirisu
+|-damage|p2a: Pachirisu|0 fnt
+|faint|p2a: Pachirisu
+|
+|-ability|p1a: Yanmega|Speed Boost|boost
+|-boost|p1a: Yanmega|spe|1
+|upkeep
+|
+|t:|1776979443
+|switch|p2a: Suicune|Suicune, L82|298/298
+|-ability|p2a: Suicune|Pressure
+|turn|7
+|c|☆Ad3m30w|Ngl wasn't expecting that to kill
+|
+|t:|1776979461
+|switch|p1a: Lumineon|Lumineon, L93, F|279/279
+|move|p2a: Suicune|Scald|p1a: Lumineon
+|-ability|p1a: Lumineon|Storm Drain|boost
+|-boost|p1a: Lumineon|spa|1
+|
+|upkeep
+|turn|8
+|
+|t:|1776979472
+|move|p1a: Lumineon|Encore|p2a: Suicune
+|-start|p2a: Suicune|Encore
+|move|p2a: Suicune|Scald|p1a: Lumineon
+|-ability|p1a: Lumineon|Storm Drain|boost
+|-boost|p1a: Lumineon|spa|1
+|
+|upkeep
+|turn|9
+|
+|t:|1776979484
+|switch|p2a: Jumpluff|Jumpluff, L87, M|271/271
+|move|p1a: Lumineon|Ice Beam|p2a: Jumpluff
+|-supereffective|p2a: Jumpluff
+|-damage|p2a: Jumpluff|0 fnt
+|faint|p2a: Jumpluff
+|
+|upkeep
+|-message|Cryptodrone forfeited.
+|
+|win|Ad3m30w
+|raw|Ad3m30w's rating: 1508 &rarr; <strong>1529</strong><br />(+21 for winning)
+|raw|Cryptodrone's rating: 1526 &rarr; <strong>1505</strong><br />(-21 for losing)
+|l|☆Cryptodrone
+|player|p2|
+|l|☆Ad3m30w
+|player|p1|
+|j|☆Ad3m30w
+|player|p1|Ad3m30w|iono|

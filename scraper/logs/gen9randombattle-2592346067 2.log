@@ -1,0 +1,356 @@
+|j|☆asgore's car
+|j|☆LilWeenus
+|t:|1776980757
+|gametype|singles
+|player|p1|asgore's car|guitarist|1129
+|player|p2|LilWeenus|hiker-gen4|1094
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776980757
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Dragapult|Dragapult, L77, M|262/262
+|switch|p2a: Rampardos|Rampardos, L90, M|321/321
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by LilWeenus)
+|c|☆LilWeenus|Meow
+|
+|t:|1776980795
+|move|p1a: Dragapult|Shadow Ball|p2a: Rampardos
+|-damage|p2a: Rampardos|161/321
+|move|p2a: Rampardos|Rock Slide|p1a: Dragapult|[miss]
+|-miss|p2a: Rampardos|p1a: Dragapult
+|
+|upkeep
+|turn|2
+|
+|t:|1776980805
+|move|p1a: Dragapult|Shadow Ball|p2a: Rampardos
+|-damage|p2a: Rampardos|19/321
+|move|p2a: Rampardos|Rock Slide|p1a: Dragapult|[miss]
+|-miss|p2a: Rampardos|p1a: Dragapult
+|
+|upkeep
+|turn|3
+|c|☆LilWeenus|Really ninja
+|
+|t:|1776980828
+|switch|p2a: Ariados|Ariados, L95, M|287/287
+|move|p1a: Dragapult|Shadow Ball|p2a: Ariados
+|-damage|p2a: Ariados|167/287
+|
+|upkeep
+|turn|4
+|
+|t:|1776980836
+|move|p1a: Dragapult|Shadow Ball|p2a: Ariados
+|-damage|p2a: Ariados|53/287
+|-unboost|p2a: Ariados|spd|1
+|move|p2a: Ariados|Knock Off|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|72/262
+|-enditem|p1a: Dragapult|Choice Specs|[from] move: Knock Off|[of] p2a: Ariados
+|
+|upkeep
+|turn|5
+|
+|t:|1776980851
+|move|p1a: Dragapult|U-turn|p2a: Ariados
+|-resisted|p2a: Ariados
+|-damage|p2a: Ariados|27/287
+|
+|t:|1776980856
+|switch|p1a: Sandslash|Sandslash-Alola, L88, F|275/275|[from] U-turn
+|move|p2a: Ariados|Knock Off|p1a: Sandslash
+|-damage|p1a: Sandslash|217/275
+|-enditem|p1a: Sandslash|Leftovers|[from] move: Knock Off|[of] p2a: Ariados
+|
+|upkeep
+|turn|6
+|
+|t:|1776980873
+|switch|p2a: Giratina|Giratina, L75|349/349
+|-ability|p2a: Giratina|Pressure
+|move|p1a: Sandslash|Swords Dance|p1a: Sandslash
+|-boost|p1a: Sandslash|atk|2
+|
+|upkeep
+|turn|7
+|
+|t:|1776980889
+|-terastallize|p2a: Giratina|Fairy
+|-terastallize|p1a: Sandslash|Ground
+|move|p2a: Giratina|Calm Mind|p2a: Giratina
+|-boost|p2a: Giratina|spa|1
+|-boost|p2a: Giratina|spd|1
+|move|p1a: Sandslash|Triple Axel|p2a: Giratina
+|-damage|p2a: Giratina|303/349
+|-damage|p2a: Giratina|219/349
+|-damage|p2a: Giratina|93/349
+|-hitcount|p2a: Giratina|3
+|
+|-heal|p2a: Giratina|114/349|[from] item: Leftovers
+|upkeep
+|turn|8
+|inactive|LilWeenus has 120 seconds left.
+|
+|t:|1776980909
+|move|p2a: Giratina|Dragon Pulse|p1a: Sandslash
+|-damage|p1a: Sandslash|78/275
+|move|p1a: Sandslash|Earthquake|p2a: Giratina
+|-damage|p2a: Giratina|0 fnt
+|faint|p2a: Giratina
+|
+|upkeep
+|inactive|LilWeenus has 120 seconds left.
+|
+|t:|1776980919
+|switch|p2a: Rampardos|Rampardos, L90, M|19/321
+|turn|9
+|inactive|LilWeenus has 120 seconds left.
+|
+|t:|1776980930
+|move|p2a: Rampardos|Earthquake|p1a: Sandslash
+|-damage|p1a: Sandslash|0 fnt
+|faint|p1a: Sandslash
+|
+|upkeep
+|
+|t:|1776980941
+|switch|p1a: Toucannon|Toucannon, L88, M|284/284
+|turn|10
+|
+|t:|1776980947
+|switch|p2a: Sudowoodo|Sudowoodo, L94, M|284/284
+|-singleturn|p1a: Toucannon|move: Beak Blast
+|move|p1a: Toucannon|Beak Blast|p2a: Sudowoodo
+|-resisted|p2a: Sudowoodo
+|-damage|p2a: Sudowoodo|232/284
+|
+|-heal|p2a: Sudowoodo|249/284|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776980959
+|move|p1a: Toucannon|Bullet Seed|p2a: Sudowoodo
+|-supereffective|p2a: Sudowoodo
+|-damage|p2a: Sudowoodo|213/284
+|-supereffective|p2a: Sudowoodo
+|-damage|p2a: Sudowoodo|179/284
+|-supereffective|p2a: Sudowoodo
+|-damage|p2a: Sudowoodo|147/284
+|-supereffective|p2a: Sudowoodo
+|-damage|p2a: Sudowoodo|111/284
+|-supereffective|p2a: Sudowoodo
+|-damage|p2a: Sudowoodo|75/284
+|-hitcount|p2a: Sudowoodo|5
+|move|p2a: Sudowoodo|Stealth Rock|p1a: Toucannon
+|-sidestart|p1: asgore's car|move: Stealth Rock
+|
+|-heal|p2a: Sudowoodo|92/284|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776980974
+|move|p1a: Toucannon|Bullet Seed|p2a: Sudowoodo
+|-supereffective|p2a: Sudowoodo
+|-damage|p2a: Sudowoodo|60/284
+|-supereffective|p2a: Sudowoodo
+|-damage|p2a: Sudowoodo|26/284
+|-supereffective|p2a: Sudowoodo
+|-damage|p2a: Sudowoodo|0 fnt
+|faint|p2a: Sudowoodo
+|-hitcount|p2: Sudowoodo|3
+|
+|upkeep
+|
+|t:|1776980982
+|switch|p2a: Rampardos|Rampardos, L90, M|19/321
+|turn|13
+|l|☆asgore's car
+|inactive|asgore's car disconnected and has a minute to reconnect!
+|player|p1|
+|j|☆asgore's car
+|inactive|asgore's car reconnected and has 140 seconds left.
+|player|p1|asgore's car|guitarist|
+|
+|t:|1776981001
+|move|p2a: Rampardos|Rock Slide|p1a: Toucannon
+|-supereffective|p1a: Toucannon
+|-damage|p1a: Toucannon|0 fnt
+|faint|p1a: Toucannon
+|
+|upkeep
+|inactive|asgore's car has 120 seconds left.
+|
+|t:|1776981048
+|switch|p1a: Arboliva|Arboliva, L91, F|290/290
+|-damage|p1a: Arboliva|254/290|[from] Stealth Rock
+|turn|14
+|inactive|asgore's car has 90 seconds left.
+|
+|t:|1776981075
+|move|p2a: Rampardos|Rock Slide|p1a: Arboliva
+|-damage|p1a: Arboliva|86/290
+|-fieldstart|move: Grassy Terrain|[from] ability: Seed Sower|[of] p1a: Arboliva
+|move|p1a: Arboliva|Energy Ball|p2a: Rampardos
+|-supereffective|p2a: Rampardos
+|-damage|p2a: Rampardos|0 fnt
+|faint|p2a: Rampardos
+|
+|-heal|p1a: Arboliva|104/290|[from] Grassy Terrain
+|-heal|p1a: Arboliva|122/290|[from] item: Leftovers
+|upkeep
+|
+|t:|1776981088
+|switch|p2a: Ariados|Ariados, L95, M|27/287
+|turn|15
+|inactive|asgore's car has 90 seconds left.
+|
+|t:|1776981099
+|switch|p1a: Iron Thorns|Iron Thorns, L83|302/302
+|-damage|p1a: Iron Thorns|265/302|[from] Stealth Rock
+|-item|p1a: Iron Thorns|Air Balloon
+|move|p2a: Ariados|Poison Jab|p1a: Iron Thorns
+|-resisted|p1a: Iron Thorns
+|-damage|p1a: Iron Thorns|217/302
+|-enditem|p1a: Iron Thorns|Air Balloon
+|
+|-heal|p1a: Iron Thorns|235/302|[from] Grassy Terrain
+|-heal|p2a: Ariados|44/287|[from] Grassy Terrain
+|upkeep
+|turn|16
+|inactive|asgore's car has 90 seconds left.
+|
+|t:|1776981116
+|move|p1a: Iron Thorns|Stealth Rock|p2a: Ariados
+|-sidestart|p2: LilWeenus|move: Stealth Rock
+|move|p2a: Ariados|Poison Jab|p1a: Iron Thorns
+|-resisted|p1a: Iron Thorns
+|-damage|p1a: Iron Thorns|189/302
+|-status|p1a: Iron Thorns|psn
+|
+|-heal|p1a: Iron Thorns|207/302 psn|[from] Grassy Terrain
+|-heal|p2a: Ariados|61/287|[from] Grassy Terrain
+|-damage|p1a: Iron Thorns|170/302 psn|[from] psn
+|upkeep
+|turn|17
+|inactive|asgore's car has 90 seconds left.
+|
+|t:|1776981128
+|move|p1a: Iron Thorns|Stone Edge|p2a: Ariados
+|-supereffective|p2a: Ariados
+|-damage|p2a: Ariados|0 fnt
+|faint|p2a: Ariados
+|
+|-heal|p1a: Iron Thorns|188/302 psn|[from] Grassy Terrain
+|-damage|p1a: Iron Thorns|151/302 psn|[from] psn
+|upkeep
+|
+|t:|1776981136
+|switch|p2a: Grumpig|Grumpig, L92, M|297/297
+|-damage|p2a: Grumpig|260/297|[from] Stealth Rock
+|turn|18
+|inactive|asgore's car has 90 seconds left.
+|
+|t:|1776981148
+|move|p2a: Grumpig|Nasty Plot|p2a: Grumpig
+|-boost|p2a: Grumpig|spa|2
+|move|p1a: Iron Thorns|Stone Edge|p2a: Grumpig
+|-damage|p2a: Grumpig|106/297
+|
+|-heal|p2a: Grumpig|124/297|[from] Grassy Terrain
+|-heal|p2a: Grumpig|142/297|[from] item: Leftovers
+|-heal|p1a: Iron Thorns|169/302 psn|[from] Grassy Terrain
+|-damage|p1a: Iron Thorns|132/302 psn|[from] psn
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|19
+|inactive|asgore's car has 90 seconds left.
+|
+|t:|1776981165
+|move|p2a: Grumpig|Shadow Ball|p1a: Iron Thorns
+|-damage|p1a: Iron Thorns|7/302 psn
+|move|p1a: Iron Thorns|Wild Charge|p2a: Grumpig
+|-damage|p2a: Grumpig|9/297
+|-damage|p1a: Iron Thorns|0 fnt|[from] Recoil
+|faint|p1a: Iron Thorns
+|-end|p1a: Iron Thorns|Quark Drive|[silent]
+|
+|-heal|p2a: Grumpig|27/297|[from] item: Leftovers
+|upkeep
+|
+|t:|1776981175
+|switch|p1a: Dragapult|Dragapult, L77, M|72/262
+|-damage|p1a: Dragapult|40/262|[from] Stealth Rock
+|turn|20
+|inactive|asgore's car has 90 seconds left.
+|
+|t:|1776981184
+|move|p1a: Dragapult|U-turn|p2a: Grumpig
+|-supereffective|p2a: Grumpig
+|-damage|p2a: Grumpig|0 fnt
+|faint|p2a: Grumpig
+|
+|t:|1776981188
+|switch|p1a: Plusle|Plusle, L95, F|268/268|[from] U-turn
+|-damage|p1a: Plusle|235/268|[from] Stealth Rock
+|
+|upkeep
+|
+|t:|1776981189
+|switch|p2a: Indeedee|Indeedee, L84, M|238/238
+|-damage|p2a: Indeedee|209/238|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Indeedee
+|turn|21
+|
+|t:|1776981209
+|move|p2a: Indeedee|Expanding Force|p1a: Plusle
+|-damage|p1a: Plusle|66/268
+|move|p1a: Plusle|Nasty Plot|p1a: Plusle
+|-boost|p1a: Plusle|spa|2
+|
+|upkeep
+|turn|22
+|
+|t:|1776981218
+|move|p2a: Indeedee|Expanding Force|p1a: Plusle
+|-damage|p1a: Plusle|0 fnt
+|faint|p1a: Plusle
+|
+|upkeep
+|
+|t:|1776981223
+|switch|p1a: Dragapult|Dragapult, L77, M|40/262
+|-damage|p1a: Dragapult|8/262|[from] Stealth Rock
+|turn|23
+|c|☆LilWeenus|Possible throw
+|
+|t:|1776981240
+|move|p2a: Indeedee|Expanding Force|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|upkeep
+|
+|t:|1776981242
+|switch|p1a: Arboliva|Arboliva, L91, F|122/290
+|-damage|p1a: Arboliva|86/290|[from] Stealth Rock
+|turn|24
+|
+|t:|1776981255
+|move|p2a: Indeedee|Expanding Force|p1a: Arboliva
+|-damage|p1a: Arboliva|0 fnt
+|-fieldstart|move: Grassy Terrain|[from] ability: Seed Sower|[of] p1a: Arboliva
+|faint|p1a: Arboliva
+|
+|win|LilWeenus
+|raw|asgore&apos;s car's rating: 1129 &rarr; <strong>1101</strong><br />(-28 for losing)
+|raw|LilWeenus's rating: 1094 &rarr; <strong>1123</strong><br />(+29 for winning)

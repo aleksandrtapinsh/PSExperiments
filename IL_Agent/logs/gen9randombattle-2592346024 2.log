@@ -1,0 +1,206 @@
+|j|☆IvanM14
+|j|☆larSNart
+|t:|1776980754
+|gametype|singles
+|player|p1|IvanM14|1|1000
+|player|p2|larSNart|hugh|1040
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776980754
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Hitmonchan|Hitmonchan, L87, M|229/229
+|switch|p2a: Gallade|Gallade, L80, M|240/240
+|turn|1
+|
+|t:|1776980790
+|switch|p1a: Dewgong|Dewgong, L94, M|322/322
+|move|p2a: Gallade|Psycho Cut|p1a: Dewgong
+|-damage|p1a: Dewgong|130/322
+|
+|upkeep
+|turn|2
+|
+|t:|1776980802
+|move|p1a: Dewgong|Ice Beam|p2a: Gallade
+|-damage|p2a: Gallade|159/240
+|move|p2a: Gallade|Psycho Cut|p1a: Dewgong
+|-damage|p1a: Dewgong|0 fnt
+|faint|p1a: Dewgong
+|
+|upkeep
+|
+|t:|1776980811
+|switch|p1a: Cacturne|Cacturne, L92, F|278/278
+|turn|3
+|
+|t:|1776980832
+|switch|p2a: Toxtricity|Toxtricity, L82, M|257/257
+|move|p1a: Cacturne|Sucker Punch||[still]
+|-fail|p1a: Cacturne
+|
+|upkeep
+|turn|4
+|
+|t:|1776980860
+|switch|p1a: Minior|Minior-Orange, L79|224/224
+|-formechange|p1a: Minior|Minior-Meteor||[from] ability: Shields Down
+|move|p2a: Toxtricity|Gunk Shot|p1a: Minior
+|-resisted|p1a: Minior
+|-damage|p1a: Minior|165/224
+|
+|upkeep
+|turn|5
+|
+|t:|1776980873
+|move|p2a: Toxtricity|Overdrive|p1a: Minior
+|-supereffective|p1a: Minior
+|-damage|p1a: Minior|0 fnt
+|faint|p1a: Minior
+|-enditem|p2a: Toxtricity|Throat Spray
+|-boost|p2a: Toxtricity|spa|1|[from] item: Throat Spray
+|
+|upkeep
+|
+|t:|1776980901
+|switch|p1a: Cobalion|Cobalion, L80|277/277
+|turn|6
+|
+|t:|1776980922
+|move|p1a: Cobalion|Iron Head|p2a: Toxtricity
+|-resisted|p2a: Toxtricity
+|-damage|p2a: Toxtricity|213/257
+|cant|p2a: Toxtricity|flinch
+|
+|upkeep
+|turn|7
+|
+|t:|1776980956
+|move|p1a: Cobalion|Iron Head|p2a: Toxtricity
+|-resisted|p2a: Toxtricity
+|-damage|p2a: Toxtricity|165/257
+|move|p2a: Toxtricity|Overdrive|p1a: Cobalion
+|-damage|p1a: Cobalion|49/277
+|
+|-heal|p1a: Cobalion|66/277|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776980969
+|move|p1a: Cobalion|Iron Head|p2a: Toxtricity
+|-resisted|p2a: Toxtricity
+|-damage|p2a: Toxtricity|123/257
+|move|p2a: Toxtricity|Overdrive|p1a: Cobalion
+|-damage|p1a: Cobalion|0 fnt
+|faint|p1a: Cobalion
+|
+|upkeep
+|
+|t:|1776980989
+|switch|p1a: Hitmonchan|Hitmonchan, L87, M|229/229
+|turn|9
+|
+|t:|1776981011
+|move|p1a: Hitmonchan|Knock Off|p2a: Toxtricity
+|-damage|p2a: Toxtricity|63/257
+|move|p2a: Toxtricity|Boomburst|p1a: Hitmonchan
+|-damage|p1a: Hitmonchan|49/229
+|
+|-heal|p1a: Hitmonchan|63/229|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1776981022
+|move|p1a: Hitmonchan|Knock Off|p2a: Toxtricity
+|-damage|p2a: Toxtricity|0 fnt
+|faint|p2a: Toxtricity
+|
+|-heal|p1a: Hitmonchan|77/229|[from] item: Leftovers
+|upkeep
+|
+|t:|1776981039
+|switch|p2a: Plusle|Plusle, L95, M|268/268
+|turn|11
+|
+|t:|1776981057
+|switch|p1a: Cacturne|Cacturne, L92, F|278/278
+|move|p2a: Plusle|Grass Knot|p1a: Cacturne
+|-resisted|p1a: Cacturne
+|-damage|p1a: Cacturne|230/278
+|-damage|p2a: Plusle|242/268|[from] item: Life Orb
+|
+|upkeep
+|turn|12
+|
+|t:|1776981085
+|move|p2a: Plusle|Alluring Voice|p1a: Cacturne
+|-supereffective|p1a: Cacturne
+|-damage|p1a: Cacturne|12/278
+|-damage|p2a: Plusle|216/268|[from] item: Life Orb
+|move|p1a: Cacturne|Focus Blast|p2a: Plusle
+|-damage|p2a: Plusle|78/268
+|-damage|p1a: Cacturne|0 fnt|[from] item: Life Orb
+|faint|p1a: Cacturne
+|
+|upkeep
+|
+|t:|1776981100
+|switch|p1a: Hitmonchan|Hitmonchan, L87, M|77/229
+|turn|13
+|
+|t:|1776981112
+|move|p2a: Plusle|Alluring Voice|p1a: Hitmonchan
+|-supereffective|p1a: Hitmonchan
+|-damage|p1a: Hitmonchan|0 fnt
+|faint|p1a: Hitmonchan
+|-damage|p2a: Plusle|52/268|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776981119
+|switch|p1a: Sinistcha|Sinistcha, L83|254/254
+|turn|14
+|
+|t:|1776981130
+|move|p2a: Plusle|Alluring Voice|p1a: Sinistcha
+|-damage|p1a: Sinistcha|167/254
+|-damage|p2a: Plusle|26/268|[from] item: Life Orb
+|move|p1a: Sinistcha|Calm Mind|p1a: Sinistcha
+|-boost|p1a: Sinistcha|spa|1
+|-boost|p1a: Sinistcha|spd|1
+|
+|-heal|p1a: Sinistcha|182/254|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1776981145
+|move|p2a: Plusle|Alluring Voice|p1a: Sinistcha
+|-damage|p1a: Sinistcha|125/254
+|-damage|p2a: Plusle|0 fnt|[from] item: Life Orb
+|faint|p2a: Plusle
+|move|p1a: Sinistcha|Shadow Ball|p2: Plusle|[notarget]
+|-fail|p1a: Sinistcha
+|
+|-heal|p1a: Sinistcha|140/254|[from] item: Leftovers
+|upkeep
+|
+|t:|1776981162
+|switch|p2a: Gallade|Gallade, L80, M|159/240
+|turn|16
+|
+|t:|1776981169
+|move|p2a: Gallade|Night Slash|p1a: Sinistcha
+|-supereffective|p1a: Sinistcha
+|-damage|p1a: Sinistcha|0 fnt
+|faint|p1a: Sinistcha
+|
+|win|larSNart
+|raw|IvanM14's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|raw|larSNart's rating: 1040 &rarr; <strong>1070</strong><br />(+30 for winning)

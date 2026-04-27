@@ -1,0 +1,184 @@
+|j|☆Me Name EH GEORGIO
+|j|☆Rubab
+|t:|1772744995
+|gametype|singles
+|player|p1|Me Name EH GEORGIO|101|1256
+|player|p2|Rubab|101|1252
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772744995
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Glaceon|Glaceon, L94, M|275/275
+|switch|p2a: Electivire|Electivire, L84, M|263/263
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Me Name EH GEORGIO)
+|
+|t:|1772745013
+|switch|p2a: Frosmoth|Frosmoth, L82, F|249/249
+|-terastallize|p1a: Glaceon|Ground
+|move|p1a: Glaceon|Mud Shot|p2a: Frosmoth
+|-resisted|p2a: Frosmoth
+|-crit|p2a: Frosmoth
+|-damage|p2a: Frosmoth|215/249
+|-unboost|p2a: Frosmoth|spe|1
+|
+|upkeep
+|turn|2
+|
+|t:|1772745028
+|switch|p1a: Volcarona|Volcarona, L77, M|257/257
+|move|p2a: Frosmoth|Quiver Dance|p2a: Frosmoth
+|-boost|p2a: Frosmoth|spa|1
+|-boost|p2a: Frosmoth|spd|1
+|-boost|p2a: Frosmoth|spe|1
+|
+|upkeep
+|turn|3
+|
+|t:|1772745037
+|-terastallize|p2a: Frosmoth|Water
+|move|p1a: Volcarona|Fire Blast|p2a: Frosmoth
+|-resisted|p2a: Frosmoth
+|-damage|p2a: Frosmoth|193/249
+|move|p2a: Frosmoth|Quiver Dance|p2a: Frosmoth
+|-boost|p2a: Frosmoth|spa|1
+|-boost|p2a: Frosmoth|spd|1
+|-boost|p2a: Frosmoth|spe|1
+|
+|upkeep
+|turn|4
+|
+|t:|1772745048
+|switch|p1a: Sawsbuck|Sawsbuck-Summer, L88, F|284/284
+|move|p2a: Frosmoth|Quiver Dance|p2a: Frosmoth
+|-boost|p2a: Frosmoth|spa|1
+|-boost|p2a: Frosmoth|spd|1
+|-boost|p2a: Frosmoth|spe|1
+|
+|upkeep
+|turn|5
+|
+|t:|1772745072
+|move|p2a: Frosmoth|Ice Beam|p1a: Sawsbuck
+|-supereffective|p1a: Sawsbuck
+|-damage|p1a: Sawsbuck|0 fnt
+|faint|p1a: Sawsbuck
+|
+|upkeep
+|
+|t:|1772745082
+|switch|p1a: Suicune|Suicune, L82|298/298
+|-ability|p1a: Suicune|Pressure
+|turn|6
+|
+|t:|1772745089
+|move|p2a: Frosmoth|Quiver Dance|p2a: Frosmoth
+|-boost|p2a: Frosmoth|spa|1
+|-boost|p2a: Frosmoth|spd|1
+|-boost|p2a: Frosmoth|spe|1
+|move|p1a: Suicune|Substitute|p1a: Suicune
+|-start|p1a: Suicune|Substitute
+|-damage|p1a: Suicune|224/298
+|
+|-heal|p1a: Suicune|242/298|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1772745098
+|move|p2a: Frosmoth|Quiver Dance|p2a: Frosmoth
+|-boost|p2a: Frosmoth|spa|1
+|-boost|p2a: Frosmoth|spd|1
+|-boost|p2a: Frosmoth|spe|1
+|move|p1a: Suicune|Calm Mind|p1a: Suicune
+|-boost|p1a: Suicune|spa|1
+|-boost|p1a: Suicune|spd|1
+|
+|-heal|p1a: Suicune|260/298|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1772745106
+|move|p2a: Frosmoth|Quiver Dance|p2a: Frosmoth
+|-boost|p2a: Frosmoth|spa|1
+|-boost|p2a: Frosmoth|spd|1
+|-boost|p2a: Frosmoth|spe|1
+|move|p1a: Suicune|Calm Mind|p1a: Suicune
+|-boost|p1a: Suicune|spa|1
+|-boost|p1a: Suicune|spd|1
+|
+|-heal|p1a: Suicune|278/298|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1772745116
+|move|p1a: Suicune|Protect|p1a: Suicune
+|-singleturn|p1a: Suicune|Protect
+|move|p2a: Frosmoth|Giga Drain|p1a: Suicune
+|-activate|p1a: Suicune|move: Protect
+|
+|-heal|p1a: Suicune|296/298|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1772745127
+|move|p2a: Frosmoth|Giga Drain|p1a: Suicune
+|-supereffective|p1a: Suicune
+|-end|p1a: Suicune|Substitute
+|-heal|p2a: Frosmoth|230/249|[from] drain|[of] p1a: Suicune
+|move|p1a: Suicune|Calm Mind|p1a: Suicune
+|-boost|p1a: Suicune|spa|1
+|-boost|p1a: Suicune|spd|1
+|
+|-heal|p1a: Suicune|298/298|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1772745135
+|move|p2a: Frosmoth|Giga Drain|p1a: Suicune
+|-supereffective|p1a: Suicune
+|-damage|p1a: Suicune|132/298
+|-heal|p2a: Frosmoth|249/249|[from] drain|[of] p1a: Suicune
+|move|p1a: Suicune|Substitute|p1a: Suicune
+|-start|p1a: Suicune|Substitute
+|-damage|p1a: Suicune|58/298
+|
+|-heal|p1a: Suicune|76/298|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1772745144
+|move|p1a: Suicune|Protect|p1a: Suicune
+|-singleturn|p1a: Suicune|Protect
+|move|p2a: Frosmoth|Giga Drain|p1a: Suicune
+|-activate|p1a: Suicune|move: Protect
+|
+|-heal|p1a: Suicune|94/298|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1772745154
+|move|p2a: Frosmoth|Giga Drain|p1a: Suicune
+|-supereffective|p1a: Suicune
+|-end|p1a: Suicune|Substitute
+|move|p1a: Suicune|Scald|p2a: Frosmoth
+|-resisted|p2a: Frosmoth
+|-damage|p2a: Frosmoth|238/249
+|
+|-heal|p1a: Suicune|112/298|[from] item: Leftovers
+|upkeep
+|turn|14
+|-message|Me Name EH GEORGIO forfeited.
+|
+|win|Rubab
+|raw|Me Name EH GEORGIO's rating: 1256 &rarr; <strong>1231</strong><br />(-25 for losing)
+|raw|Rubab's rating: 1252 &rarr; <strong>1277</strong><br />(+25 for winning)
+|l|☆Me Name EH GEORGIO
+|player|p1|

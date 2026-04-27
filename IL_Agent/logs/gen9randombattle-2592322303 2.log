@@ -1,0 +1,327 @@
+|j|‽Finkamain
+|j|☆vfbdfbvcgfnvbngn
+|t:|1776978765
+|gametype|singles
+|player|p1|Finkamain|backersf|1168
+|player|p2|vfbdfbvcgfnvbngn|102|1148
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776978765
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Mew|Mew, L82|298/298
+|switch|p2a: Flutter Mane|Flutter Mane, L74|203/203
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Finkamain)
+|
+|t:|1776978784
+|switch|p1a: Amoonguss|Amoonguss, L82, F|321/321
+|move|p2a: Flutter Mane|Shadow Ball|p1a: Amoonguss
+|-crit|p1a: Amoonguss
+|-damage|p1a: Amoonguss|140/321
+|-damage|p2a: Flutter Mane|183/203|[from] item: Life Orb
+|
+|-heal|p1a: Amoonguss|160/321|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776978794
+|-end|p2a: Flutter Mane|Protosynthesis|[silent]
+|switch|p2a: Vileplume|Vileplume, L85, F|266/266
+|move|p1a: Amoonguss|Spore|p2a: Vileplume
+|-immune|p2a: Vileplume
+|
+|-heal|p1a: Amoonguss|180/321|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776978805
+|switch|p1a: Mew|Mew, L82|298/298
+|move|p2a: Vileplume|Sludge Bomb|p1a: Mew
+|-damage|p1a: Mew|201/298
+|-status|p1a: Mew|psn
+|-activate|p1a: Mew|ability: Synchronize
+|-immune|p2a: Vileplume
+|
+|-damage|p1a: Mew|164/298 psn|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1776978820
+|move|p1a: Mew|Knock Off|p2a: Vileplume
+|-damage|p2a: Vileplume|183/266
+|-enditem|p2a: Vileplume|Leftovers|[from] move: Knock Off|[of] p1a: Mew
+|-damage|p1a: Mew|135/298 psn|[from] item: Life Orb
+|move|p2a: Vileplume|Strength Sap|p1a: Mew
+|-unboost|p1a: Mew|atk|1
+|-heal|p2a: Vileplume|266/266
+|
+|-damage|p1a: Mew|98/298 psn|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1776978831
+|switch|p1a: Bruxish|Bruxish, L85, M|254/254
+|move|p2a: Vileplume|Sludge Bomb|p1a: Bruxish
+|-damage|p1a: Bruxish|136/254
+|
+|upkeep
+|turn|6
+|
+|t:|1776978840
+|switch|p2a: Corviknight|Corviknight, L80, M|288/288
+|-terastallize|p1a: Bruxish|Psychic
+|move|p1a: Bruxish|Psychic Fangs|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|200/288
+|
+|-heal|p2a: Corviknight|218/288|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776978850
+|switch|p1a: Raging Bolt|Raging Bolt, L78|323/323
+|move|p2a: Corviknight|U-turn|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|280/323
+|
+|t:|1776978863
+|switch|p2a: Hippowdon|Hippowdon, L82, F|311/311|[from] U-turn
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Raging Bolt|260/323|[from] Sandstorm
+|-heal|p1a: Raging Bolt|280/323|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776978879
+|move|p1a: Raging Bolt|Draco Meteor|p2a: Hippowdon
+|-damage|p2a: Hippowdon|112/311
+|-unboost|p1a: Raging Bolt|spa|2
+|move|p2a: Hippowdon|Earthquake|p1a: Raging Bolt
+|-supereffective|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|34/323
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Raging Bolt|14/323|[from] Sandstorm
+|-heal|p1a: Raging Bolt|34/323|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776978892
+|move|p1a: Raging Bolt|Draco Meteor|p2a: Hippowdon
+|-damage|p2a: Hippowdon|10/311
+|-unboost|p1a: Raging Bolt|spa|2
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|166/311
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Raging Bolt|14/323|[from] Sandstorm
+|-heal|p1a: Raging Bolt|34/323|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1776978902
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Amoonguss|Amoonguss, L82, F|287/321
+|move|p2a: Hippowdon|Stealth Rock|p1a: Amoonguss
+|-sidestart|p1: Finkamain|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Amoonguss|267/321|[from] Sandstorm
+|-heal|p1a: Amoonguss|287/321|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776978913
+|switch|p2a: Vileplume|Vileplume, L85, F|266/266
+|move|p1a: Amoonguss|Sludge Bomb|p2a: Vileplume
+|-damage|p2a: Vileplume|190/266
+|
+|-weather|none
+|-heal|p1a: Amoonguss|307/321|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776978923
+|move|p2a: Vileplume|Sludge Bomb|p1a: Amoonguss
+|-damage|p1a: Amoonguss|181/321
+|move|p1a: Amoonguss|Sludge Bomb|p2a: Vileplume
+|-damage|p2a: Vileplume|106/266
+|
+|-heal|p1a: Amoonguss|201/321|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776978931
+|move|p2a: Vileplume|Sludge Bomb|p1a: Amoonguss
+|-damage|p1a: Amoonguss|71/321
+|move|p1a: Amoonguss|Sludge Bomb|p2a: Vileplume
+|-damage|p2a: Vileplume|22/266
+|
+|-heal|p1a: Amoonguss|91/321|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1776978942
+|switch|p1a: Iron Moth|Iron Moth, L78|253/253
+|move|p2a: Vileplume|Sludge Bomb|p1a: Iron Moth
+|-resisted|p1a: Iron Moth
+|-damage|p1a: Iron Moth|204/253
+|
+|upkeep
+|turn|15
+|
+|t:|1776978957
+|move|p1a: Iron Moth|Fiery Dance|p2a: Vileplume
+|-supereffective|p2a: Vileplume
+|-damage|p2a: Vileplume|0 fnt
+|-boost|p1a: Iron Moth|spa|1
+|faint|p2a: Vileplume
+|
+|upkeep
+|
+|t:|1776978960
+|switch|p2a: Sandaconda|Sandaconda, L84, F|258/258
+|turn|16
+|
+|t:|1776978967
+|move|p1a: Iron Moth|Energy Ball|p2a: Sandaconda
+|-supereffective|p2a: Sandaconda
+|-damage|p2a: Sandaconda|10/258
+|move|p2a: Sandaconda|Earthquake|p1a: Iron Moth
+|-supereffective|p1a: Iron Moth
+|-damage|p1a: Iron Moth|0 fnt
+|faint|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|
+|-heal|p2a: Sandaconda|26/258|[from] item: Leftovers
+|upkeep
+|
+|t:|1776978975
+|switch|p1a: Mew|Mew, L82|98/298 psn
+|-damage|p1a: Mew|61/298 psn|[from] Stealth Rock
+|turn|17
+|
+|t:|1776978982
+|switch|p2a: Corviknight|Corviknight, L80, M|218/288
+|move|p1a: Mew|Knock Off|p2a: Corviknight
+|-damage|p2a: Corviknight|137/288
+|-enditem|p2a: Corviknight|Leftovers|[from] move: Knock Off|[of] p1a: Mew
+|-damage|p1a: Mew|32/298 psn|[from] item: Life Orb
+|
+|-damage|p1a: Mew|0 fnt|[from] psn
+|faint|p1a: Mew
+|upkeep
+|
+|t:|1776978991
+|switch|p1a: Raging Bolt|Raging Bolt, L78|34/323
+|-damage|p1a: Raging Bolt|0 fnt|[from] Stealth Rock
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|
+|t:|1776978999
+|switch|p1a: Bruxish|Bruxish, L85, M, tera:Psychic|136/254
+|-damage|p1a: Bruxish|105/254|[from] Stealth Rock
+|turn|18
+|
+|t:|1776979007
+|move|p1a: Bruxish|Flip Turn|p2a: Corviknight
+|-damage|p2a: Corviknight|74/288
+|
+|t:|1776979010
+|switch|p1a: Amoonguss|Amoonguss, L82, F|198/321|[from] Flip Turn
+|-damage|p1a: Amoonguss|158/321|[from] Stealth Rock
+|move|p2a: Corviknight|U-turn|p1a: Amoonguss
+|-damage|p1a: Amoonguss|109/321
+|
+|t:|1776979016
+|switch|p2a: Alcremie|Alcremie, L90, F|263/263|[from] U-turn
+|
+|-heal|p1a: Amoonguss|129/321|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1776979025
+|move|p2a: Alcremie|Psyshock|p1a: Amoonguss
+|-supereffective|p1a: Amoonguss
+|-damage|p1a: Amoonguss|0 fnt
+|faint|p1a: Amoonguss
+|
+|upkeep
+|
+|t:|1776979028
+|switch|p1a: Phione|Phione, L91|293/293
+|-damage|p1a: Phione|257/293|[from] Stealth Rock
+|turn|20
+|
+|t:|1776979037
+|move|p1a: Phione|Take Heart|p1a: Phione
+|-boost|p1a: Phione|spa|1
+|-boost|p1a: Phione|spd|1
+|move|p2a: Alcremie|Calm Mind|p2a: Alcremie
+|-boost|p2a: Alcremie|spa|1
+|-boost|p2a: Alcremie|spd|1
+|
+|-heal|p1a: Phione|275/293|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1776979047
+|move|p1a: Phione|Take Heart|p1a: Phione
+|-boost|p1a: Phione|spa|1
+|-boost|p1a: Phione|spd|1
+|move|p2a: Alcremie|Calm Mind|p2a: Alcremie
+|-boost|p2a: Alcremie|spa|1
+|-boost|p2a: Alcremie|spd|1
+|
+|-heal|p1a: Phione|293/293|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1776979054
+|move|p1a: Phione|Take Heart|p1a: Phione
+|-boost|p1a: Phione|spa|1
+|-boost|p1a: Phione|spd|1
+|move|p2a: Alcremie|Calm Mind|p2a: Alcremie
+|-boost|p2a: Alcremie|spa|1
+|-boost|p2a: Alcremie|spd|1
+|
+|upkeep
+|turn|23
+|
+|t:|1776979060
+|move|p1a: Phione|Take Heart|p1a: Phione
+|-boost|p1a: Phione|spa|1
+|-boost|p1a: Phione|spd|1
+|move|p2a: Alcremie|Calm Mind|p2a: Alcremie
+|-boost|p2a: Alcremie|spa|1
+|-boost|p2a: Alcremie|spd|1
+|
+|upkeep
+|turn|24
+|
+|t:|1776979071
+|move|p1a: Phione|Scald|p2a: Alcremie
+|-damage|p2a: Alcremie|196/263
+|move|p2a: Alcremie|Calm Mind|p2a: Alcremie
+|-boost|p2a: Alcremie|spa|1
+|-boost|p2a: Alcremie|spd|1
+|
+|-heal|p2a: Alcremie|212/263|[from] item: Leftovers
+|upkeep
+|turn|25
+|-message|Finkamain forfeited.
+|
+|win|vfbdfbvcgfnvbngn
+|raw|Finkamain's rating: 1168 &rarr; <strong>1142</strong><br />(-26 for losing)
+|raw|vfbdfbvcgfnvbngn's rating: 1148 &rarr; <strong>1174</strong><br />(+26 for winning)
+|l|‽Finkamain
+|player|p1|

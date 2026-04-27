@@ -1,0 +1,241 @@
+|j|☆ShadowHype
+|j|☆Hello_444
+|t:|1776977998
+|gametype|singles
+|player|p1|ShadowHype|red|1042
+|player|p2|Hello_444|2|1092
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776977998
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Iron Hands|Iron Hands, L79|373/373
+|switch|p2a: Arbok|Arbok, L87, F|246/246
+|-ability|p2a: Arbok|Intimidate|boost
+|-unboost|p1a: Iron Hands|atk|1
+|turn|1
+|
+|t:|1776978008
+|move|p2a: Arbok|Gunk Shot|p1a: Iron Hands
+|-damage|p1a: Iron Hands|244/373
+|move|p1a: Iron Hands|Swords Dance|p1a: Iron Hands
+|-boost|p1a: Iron Hands|atk|2
+|
+|-heal|p1a: Iron Hands|267/373|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776978033
+|move|p2a: Arbok|Gunk Shot|p1a: Iron Hands
+|-crit|p1a: Iron Hands
+|-damage|p1a: Iron Hands|84/373
+|-status|p1a: Iron Hands|psn
+|move|p1a: Iron Hands|Swords Dance|p1a: Iron Hands
+|-boost|p1a: Iron Hands|atk|2
+|
+|-heal|p1a: Iron Hands|107/373 psn|[from] item: Leftovers
+|-damage|p1a: Iron Hands|61/373 psn|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1776978044
+|move|p2a: Arbok|Gunk Shot|p1a: Iron Hands|[miss]
+|-miss|p2a: Arbok|p1a: Iron Hands
+|move|p1a: Iron Hands|Ice Punch|p2a: Arbok
+|-damage|p2a: Arbok|68/246
+|
+|-heal|p1a: Iron Hands|84/373 psn|[from] item: Leftovers
+|-damage|p1a: Iron Hands|38/373 psn|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1776978053
+|move|p2a: Arbok|Gunk Shot|p1a: Iron Hands
+|-damage|p1a: Iron Hands|0 fnt
+|faint|p1a: Iron Hands
+|-end|p1a: Iron Hands|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1776978057
+|switch|p1a: Toxapex|Toxapex, L82, F|216/216
+|turn|5
+|
+|t:|1776978081
+|move|p2a: Arbok|Toxic Spikes|p1a: Toxapex
+|-sidestart|p1: ShadowHype|move: Toxic Spikes
+|move|p1a: Toxapex|Liquidation|p2a: Arbok
+|-damage|p2a: Arbok|0 fnt
+|faint|p2a: Arbok
+|
+|upkeep
+|
+|t:|1776978091
+|switch|p2a: Raichu|Raichu, L88, F|249/249
+|turn|6
+|
+|t:|1776978098
+|move|p2a: Raichu|Thunderbolt|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|44/216
+|-damage|p2a: Raichu|225/249|[from] item: Life Orb
+|move|p1a: Toxapex|Toxic Spikes|p2a: Raichu
+|-sidestart|p2: Hello_444|move: Toxic Spikes
+|
+|upkeep
+|turn|7
+|
+|t:|1776978105
+|move|p2a: Raichu|Thunderbolt|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|0 fnt
+|faint|p1a: Toxapex
+|-damage|p2a: Raichu|201/249|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776978114
+|switch|p1a: Zamazenta|Zamazenta, L71|248/248
+|-status|p1a: Zamazenta|psn
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|turn|8
+|
+|t:|1776978125
+|move|p2a: Raichu|Thunderbolt|p1a: Zamazenta
+|-crit|p1a: Zamazenta
+|-damage|p1a: Zamazenta|65/248 psn
+|-damage|p2a: Raichu|177/249|[from] item: Life Orb
+|move|p1a: Zamazenta|Iron Defense|p1a: Zamazenta
+|-boost|p1a: Zamazenta|def|2
+|
+|-heal|p1a: Zamazenta|80/248 psn|[from] item: Leftovers
+|-damage|p1a: Zamazenta|49/248 psn|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1776978135
+|move|p2a: Raichu|Thunderbolt|p1a: Zamazenta
+|-damage|p1a: Zamazenta|0 fnt
+|faint|p1a: Zamazenta
+|-damage|p2a: Raichu|153/249|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776978138
+|switch|p1a: Clefable|Clefable, L83, M|293/293
+|-status|p1a: Clefable|psn
+|turn|10
+|
+|t:|1776978148
+|move|p2a: Raichu|Thunderbolt|p1a: Clefable
+|-damage|p1a: Clefable|163/293 psn
+|-damage|p2a: Raichu|129/249|[from] item: Life Orb
+|move|p1a: Clefable|Moonblast|p2a: Raichu
+|-damage|p2a: Raichu|23/249
+|-unboost|p2a: Raichu|spa|1
+|
+|-heal|p1a: Clefable|181/293 psn|[from] item: Leftovers
+|-damage|p1a: Clefable|145/293 psn|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1776978163
+|move|p2a: Raichu|Thunderbolt|p1a: Clefable
+|-damage|p1a: Clefable|7/293 psn
+|-damage|p2a: Raichu|0 fnt|[from] item: Life Orb
+|faint|p2a: Raichu
+|move|p1a: Clefable|Moonblast|p2: Raichu|[notarget]
+|-fail|p1a: Clefable
+|
+|-heal|p1a: Clefable|25/293 psn|[from] item: Leftovers
+|-damage|p1a: Clefable|0 fnt|[from] psn
+|faint|p1a: Clefable
+|upkeep
+|
+|t:|1776978182
+|switch|p2a: Zarude|Zarude-Dada, L77|288/288
+|switch|p1a: Floatzel|Floatzel, L86, M|286/286
+|-status|p2a: Zarude|psn
+|-status|p1a: Floatzel|psn
+|turn|12
+|
+|t:|1776978208
+|move|p2a: Zarude|Power Whip|p1a: Floatzel
+|-supereffective|p1a: Floatzel
+|-damage|p1a: Floatzel|0 fnt
+|faint|p1a: Floatzel
+|
+|-damage|p2a: Zarude|252/288 psn|[from] psn
+|upkeep
+|
+|t:|1776978221
+|switch|p1a: Arceus|Arceus-Steel, L70|284/284
+|turn|13
+|
+|t:|1776978234
+|move|p2a: Zarude|Power Whip|p1a: Arceus
+|-resisted|p1a: Arceus
+|-damage|p1a: Arceus|223/284
+|move|p1a: Arceus|Calm Mind|p1a: Arceus
+|-boost|p1a: Arceus|spa|1
+|-boost|p1a: Arceus|spd|1
+|
+|-damage|p2a: Zarude|216/288 psn|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1776978245
+|switch|p2a: Ninetales|Ninetales, L85, F|263/263
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|move|p1a: Arceus|Judgment|p2a: Ninetales
+|-resisted|p2a: Ninetales
+|-damage|p2a: Ninetales|197/263
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1776978255
+|-terastallize|p1a: Arceus|Ghost
+|move|p2a: Ninetales|Fire Blast|p1a: Arceus
+|-damage|p1a: Arceus|127/284
+|move|p1a: Arceus|Calm Mind|p1a: Arceus
+|-boost|p1a: Arceus|spa|1
+|-boost|p1a: Arceus|spd|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1776978271
+|-terastallize|p2a: Ninetales|Fire
+|move|p2a: Ninetales|Fire Blast|p1a: Arceus
+|-damage|p1a: Arceus|31/284
+|move|p1a: Arceus|Earth Power|p2a: Ninetales
+|-supereffective|p2a: Ninetales
+|-damage|p2a: Ninetales|3/263
+|-unboost|p2a: Ninetales|spd|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|17
+|
+|t:|1776978282
+|move|p2a: Ninetales|Fire Blast|p1a: Arceus
+|-crit|p1a: Arceus
+|-damage|p1a: Arceus|0 fnt
+|faint|p1a: Arceus
+|
+|win|Hello_444
+|raw|ShadowHype's rating: 1042 &rarr; <strong>1028</strong><br />(-14 for losing)
+|raw|Hello_444's rating: 1092 &rarr; <strong>1114</strong><br />(+22 for winning)
+|l|☆ShadowHype
+|player|p1|

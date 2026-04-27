@@ -1,0 +1,374 @@
+|j|☆Hershel Walker
+|j|☆disconnectduewifi
+|t:|1776974207
+|gametype|singles
+|player|p1|Hershel Walker|cynthia-gen4|1769
+|player|p2|disconnectduewifi|lucas|1742
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776974207
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Magcargo|Magcargo, L95, F|268/268
+|switch|p2a: Azumarill|Azumarill, L82, F|298/298
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Hershel Walker)
+|
+|t:|1776974214
+|switch|p1a: Kricketune|Kricketune, L99, M|312/312
+|move|p2a: Azumarill|Liquidation|p1a: Kricketune
+|-damage|p1a: Kricketune|104/312
+|
+|upkeep
+|turn|2
+|
+|t:|1776974237
+|switch|p2a: Flareon|Flareon, L90, F|263/263
+|move|p1a: Kricketune|Sticky Web|p2a: Flareon
+|-sidestart|p2: disconnectduewifi|move: Sticky Web
+|
+|-status|p2a: Flareon|tox|[from] item: Toxic Orb
+|upkeep
+|turn|3
+|
+|t:|1776974247
+|move|p2a: Flareon|Quick Attack|p1a: Kricketune
+|-damage|p1a: Kricketune|28/312
+|move|p1a: Kricketune|Pounce|p2a: Flareon
+|-resisted|p2a: Flareon
+|-damage|p2a: Flareon|199/263 tox
+|-unboost|p2a: Flareon|spe|1
+|
+|-damage|p2a: Flareon|183/263 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1776974258
+|move|p1a: Kricketune|Pounce|p2a: Flareon
+|-resisted|p2a: Flareon
+|-damage|p2a: Flareon|123/263 tox
+|-unboost|p2a: Flareon|spe|1
+|move|p2a: Flareon|Trailblaze|p1a: Kricketune
+|-resisted|p1a: Kricketune
+|-damage|p1a: Kricketune|0 fnt
+|-boost|p2a: Flareon|spe|1
+|faint|p1a: Kricketune
+|
+|-damage|p2a: Flareon|91/263 tox|[from] psn
+|upkeep
+|
+|t:|1776974263
+|switch|p1a: Magcargo|Magcargo, L95, F|268/268
+|turn|5
+|
+|t:|1776974281
+|move|p2a: Flareon|Facade|p1a: Magcargo
+|-resisted|p1a: Magcargo
+|-damage|p1a: Magcargo|194/268
+|-ability|p1a: Magcargo|Weak Armor|boost
+|-unboost|p1a: Magcargo|def|1
+|-boost|p1a: Magcargo|spe|2
+|move|p1a: Magcargo|Shell Smash|p1a: Magcargo
+|-unboost|p1a: Magcargo|def|1
+|-unboost|p1a: Magcargo|spd|1
+|-boost|p1a: Magcargo|atk|2
+|-boost|p1a: Magcargo|spa|2
+|-boost|p1a: Magcargo|spe|2
+|
+|-damage|p2a: Flareon|43/263 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1776974294
+|move|p2a: Flareon|Quick Attack|p1a: Magcargo
+|-resisted|p1a: Magcargo
+|-damage|p1a: Magcargo|151/268
+|-ability|p1a: Magcargo|Weak Armor|boost
+|-unboost|p1a: Magcargo|def|1
+|-boost|p1a: Magcargo|spe|2
+|move|p1a: Magcargo|Power Gem|p2a: Flareon
+|-supereffective|p2a: Flareon
+|-damage|p2a: Flareon|0 fnt
+|faint|p2a: Flareon
+|
+|upkeep
+|
+|t:|1776974305
+|switch|p2a: Azumarill|Azumarill, L82, F|298/298
+|-activate|p2a: Azumarill|move: Sticky Web
+|-unboost|p2a: Azumarill|spe|1
+|turn|7
+|
+|t:|1776974310
+|-terastallize|p1a: Magcargo|Dragon
+|move|p2a: Azumarill|Aqua Jet|p1a: Magcargo
+|-resisted|p1a: Magcargo
+|-damage|p1a: Magcargo|89/268
+|-ability|p1a: Magcargo|Weak Armor|boost
+|-unboost|p1a: Magcargo|def|1
+|move|p1a: Magcargo|Power Gem|p2a: Azumarill
+|-damage|p2a: Azumarill|79/298
+|
+|upkeep
+|turn|8
+|
+|t:|1776974320
+|move|p2a: Azumarill|Aqua Jet|p1a: Magcargo
+|-resisted|p1a: Magcargo
+|-damage|p1a: Magcargo|13/268
+|-ability|p1a: Magcargo|Weak Armor|boost
+|-unboost|p1a: Magcargo|def|1
+|move|p1a: Magcargo|Power Gem|p2a: Azumarill
+|-damage|p2a: Azumarill|0 fnt
+|faint|p2a: Azumarill
+|
+|upkeep
+|
+|t:|1776974332
+|switch|p2a: Mimikyu|Mimikyu, L79, F|216/216
+|-activate|p2a: Mimikyu|move: Sticky Web
+|-unboost|p2a: Mimikyu|spe|1
+|turn|9
+|
+|t:|1776974338
+|move|p2a: Mimikyu|Shadow Sneak|p1a: Magcargo
+|-crit|p1a: Magcargo
+|-damage|p1a: Magcargo|0 fnt
+|faint|p1a: Magcargo
+|-damage|p2a: Mimikyu|195/216|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776974343
+|switch|p1a: Scizor|Scizor, L79, F|240/240
+|turn|10
+|
+|t:|1776974349
+|move|p1a: Scizor|Knock Off|p2a: Mimikyu
+|-activate|p2a: Mimikyu|ability: Disguise
+|-damage|p2a: Mimikyu|195/216
+|-enditem|p2a: Mimikyu|Life Orb|[from] move: Knock Off|[of] p1a: Scizor
+|detailschange|p2a: Mimikyu|Mimikyu-Busted, L79, F
+|-damage|p2a: Mimikyu|168/216|[from] pokemon: Mimikyu-Busted
+|-damage|p1a: Scizor|216/240|[from] item: Life Orb
+|move|p2a: Mimikyu|Shadow Claw|p1a: Scizor
+|-damage|p1a: Scizor|158/240
+|
+|upkeep
+|turn|11
+|
+|t:|1776974372
+|switch|p2a: Mudsdale|Mudsdale, L83, M|302/302
+|-activate|p2a: Mudsdale|move: Sticky Web
+|-unboost|p2a: Mudsdale|spe|1
+|move|p1a: Scizor|Bullet Punch|p2a: Mudsdale
+|-damage|p2a: Mudsdale|223/302
+|-ability|p2a: Mudsdale|Stamina|boost
+|-boost|p2a: Mudsdale|def|1
+|-damage|p1a: Scizor|134/240|[from] item: Life Orb
+|
+|-heal|p2a: Mudsdale|241/302|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776974385
+|switch|p1a: Espathra|Espathra, L80, F|283/283
+|move|p2a: Mudsdale|Earthquake|p1a: Espathra
+|-damage|p1a: Espathra|114/283
+|
+|-heal|p2a: Mudsdale|259/302|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776974399
+|move|p1a: Espathra|Lumina Crash|p2a: Mudsdale
+|-damage|p2a: Mudsdale|135/302
+|-unboost|p2a: Mudsdale|spd|2
+|-ability|p2a: Mudsdale|Stamina|boost
+|-boost|p2a: Mudsdale|def|1
+|move|p2a: Mudsdale|Roar|p1a: Espathra
+|drag|p1a: Scizor|Scizor, L79, F|134/240
+|
+|-heal|p2a: Mudsdale|153/302|[from] item: Leftovers
+|upkeep
+|turn|14
+|inactive|disconnectduewifi has 120 seconds left.
+|
+|t:|1776974421
+|switch|p1a: Espathra|Espathra, L80, F|114/283
+|move|p2a: Mudsdale|Earthquake|p1a: Espathra
+|-damage|p1a: Espathra|0 fnt
+|faint|p1a: Espathra
+|
+|-heal|p2a: Mudsdale|171/302|[from] item: Leftovers
+|upkeep
+|
+|t:|1776974427
+|switch|p1a: Terapagos|Terapagos, L77, M|265/265
+|-activate|p1a: Terapagos|ability: Tera Shift
+|detailschange|p1a: Terapagos|Terapagos-Terastal, L77, M
+|-heal|p1a: Terapagos|273/273|[silent]
+|turn|15
+|
+|t:|1776974440
+|switch|p2a: Mimikyu|Mimikyu-Busted, L79, F|168/216
+|-activate|p2a: Mimikyu|move: Sticky Web
+|-unboost|p2a: Mimikyu|spe|1
+|move|p1a: Terapagos|Tera Starstorm|p2a: Mimikyu
+|-immune|p2a: Mimikyu
+|
+|upkeep
+|turn|16
+|
+|t:|1776974449
+|switch|p1a: Scizor|Scizor, L79, F|134/240
+|move|p2a: Mimikyu|Shadow Claw|p1a: Scizor
+|-damage|p1a: Scizor|74/240
+|
+|upkeep
+|turn|17
+|inactive|disconnectduewifi has 120 seconds left.
+|
+|t:|1776974470
+|move|p1a: Scizor|Bullet Punch|p2a: Mimikyu
+|-supereffective|p2a: Mimikyu
+|-damage|p2a: Mimikyu|0 fnt
+|faint|p2a: Mimikyu
+|-damage|p1a: Scizor|50/240|[from] item: Life Orb
+|
+|upkeep
+|inactive|disconnectduewifi has 120 seconds left.
+|
+|t:|1776974487
+|switch|p2a: Mudsdale|Mudsdale, L83, M|171/302
+|-activate|p2a: Mudsdale|move: Sticky Web
+|-unboost|p2a: Mudsdale|spe|1
+|turn|18
+|
+|t:|1776974492
+|switch|p1a: Terapagos|Terapagos-Terastal, L77, M|273/273
+|move|p2a: Mudsdale|Earthquake|p1a: Terapagos
+|-activate|p1a: Terapagos|ability: Tera Shell
+|-resisted|p1a: Terapagos
+|-damage|p1a: Terapagos|213/273
+|
+|-heal|p2a: Mudsdale|189/302|[from] item: Leftovers
+|upkeep
+|turn|19
+|inactive|disconnectduewifi has 120 seconds left.
+|
+|t:|1776974510
+|move|p1a: Terapagos|Calm Mind|p1a: Terapagos
+|-boost|p1a: Terapagos|spa|1
+|-boost|p1a: Terapagos|spd|1
+|move|p2a: Mudsdale|Earthquake|p1a: Terapagos
+|-damage|p1a: Terapagos|104/273
+|
+|-heal|p2a: Mudsdale|207/302|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1776974523
+|move|p1a: Terapagos|Tera Starstorm|p2a: Mudsdale
+|-damage|p2a: Mudsdale|26/302
+|-ability|p2a: Mudsdale|Stamina|boost
+|-boost|p2a: Mudsdale|def|1
+|move|p2a: Mudsdale|Roar|p1a: Terapagos
+|drag|p1a: Dialga|Dialga, L73|266/266
+|-ability|p1a: Dialga|Pressure
+|
+|-heal|p2a: Mudsdale|44/302|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1776974535
+|move|p1a: Dialga|Fire Blast|p2a: Mudsdale
+|-damage|p2a: Mudsdale|0 fnt
+|faint|p2a: Mudsdale
+|
+|upkeep
+|
+|t:|1776974545
+|switch|p2a: Flamigo|Flamigo, L82, F|269/269
+|turn|22
+|
+|t:|1776974568
+|move|p2a: Flamigo|U-turn|p1a: Dialga
+|-resisted|p1a: Dialga
+|-damage|p1a: Dialga|232/266
+|
+|t:|1776974571
+|switch|p2a: Inteleon|Inteleon, L81, F|246/246|[from] U-turn
+|-activate|p2a: Inteleon|move: Sticky Web
+|-unboost|p2a: Inteleon|spe|1
+|move|p1a: Dialga|Draco Meteor|p2a: Inteleon
+|-damage|p2a: Inteleon|68/246
+|-unboost|p1a: Dialga|spa|2
+|
+|upkeep
+|turn|23
+|
+|t:|1776974584
+|move|p1a: Dialga|Draco Meteor|p2a: Inteleon
+|-damage|p2a: Inteleon|0 fnt
+|-unboost|p1a: Dialga|spa|2
+|faint|p2a: Inteleon
+|
+|upkeep
+|
+|t:|1776974590
+|switch|p2a: Flamigo|Flamigo, L82, F|269/269
+|turn|24
+|
+|t:|1776974598
+|-terastallize|p2a: Flamigo|Fighting
+|move|p2a: Flamigo|Close Combat|p1a: Dialga
+|-supereffective|p1a: Dialga
+|-damage|p1a: Dialga|0 fnt
+|-unboost|p2a: Flamigo|def|1
+|-unboost|p2a: Flamigo|spd|1
+|faint|p1a: Dialga
+|
+|upkeep
+|
+|t:|1776974603
+|switch|p1a: Terapagos|Terapagos-Terastal, L77, M|104/273
+|turn|25
+|c|☆disconnectduewifi|Gg
+|inactive|disconnectduewifi has 120 seconds left.
+|
+|t:|1776974610
+|move|p2a: Flamigo|Close Combat|p1a: Terapagos
+|-supereffective|p1a: Terapagos
+|-damage|p1a: Terapagos|0 fnt
+|-unboost|p2a: Flamigo|def|1
+|-unboost|p2a: Flamigo|spd|1
+|faint|p1a: Terapagos
+|
+|upkeep
+|
+|t:|1776974612
+|switch|p1a: Scizor|Scizor, L79, F|50/240
+|turn|26
+|
+|t:|1776974621
+|move|p1a: Scizor|Bullet Punch|p2a: Flamigo
+|-damage|p2a: Flamigo|45/269
+|-damage|p1a: Scizor|26/240|[from] item: Life Orb
+|move|p2a: Flamigo|Close Combat|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|-unboost|p2a: Flamigo|def|1
+|-unboost|p2a: Flamigo|spd|1
+|faint|p1a: Scizor
+|
+|win|disconnectduewifi
+|raw|Hershel Walker's rating: 1749 &rarr; <strong>1729</strong><br />(-20 for losing)
+|raw|disconnectduewifi's rating: 1742 &rarr; <strong>1762</strong><br />(+20 for winning)
+|c|☆disconnectduewifi|Close

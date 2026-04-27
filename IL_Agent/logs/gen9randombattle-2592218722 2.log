@@ -1,0 +1,466 @@
+|j|☆superswindler
+|j|☆Sluje
+|t:|1776971176
+|gametype|singles
+|player|p1|superswindler|roxie|1442
+|player|p2|Sluje|1|1432
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776971177
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Thundurus|Thundurus, L80, M|258/258
+|switch|p2a: Rotom|Rotom-Heat, L83|219/219
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by superswindler)
+|
+|t:|1776971200
+|switch|p1a: Hydreigon|Hydreigon, L79, M|275/275
+|move|p2a: Rotom|Will-O-Wisp|p1a: Hydreigon
+|-status|p1a: Hydreigon|brn
+|
+|-damage|p1a: Hydreigon|258/275 brn|[from] brn
+|upkeep
+|turn|2
+|inactive|Sluje has 120 seconds left.
+|
+|t:|1776971232
+|switch|p2a: Primarina|Primarina, L83, M|268/268
+|move|p1a: Hydreigon|Dark Pulse|p2a: Primarina
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|211/268
+|
+|-heal|p2a: Primarina|227/268|[from] item: Leftovers
+|-damage|p1a: Hydreigon|241/275 brn|[from] brn
+|upkeep
+|turn|3
+|inactive|Sluje has 120 seconds left.
+|inactive|superswindler has 120 seconds left.
+|
+|t:|1776971261
+|switch|p1a: Thundurus|Thundurus, L80, M|258/258
+|move|p2a: Primarina|Calm Mind|p2a: Primarina
+|-boost|p2a: Primarina|spa|1
+|-boost|p2a: Primarina|spd|1
+|
+|-heal|p2a: Primarina|243/268|[from] item: Leftovers
+|upkeep
+|turn|4
+|inactive|Sluje has 120 seconds left.
+|inactive|Sluje has 90 seconds left.
+|
+|t:|1776971317
+|-terastallize|p2a: Primarina|Steel
+|move|p1a: Thundurus|Knock Off|p2a: Primarina
+|-damage|p2a: Primarina|166/268
+|-enditem|p2a: Primarina|Leftovers|[from] move: Knock Off|[of] p1a: Thundurus
+|move|p2a: Primarina|Psychic|p1a: Thundurus
+|-damage|p1a: Thundurus|119/258
+|
+|upkeep
+|turn|5
+|inactive|superswindler has 90 seconds left.
+|
+|t:|1776971347
+|move|p1a: Thundurus|Thunder Wave|p2a: Primarina
+|-status|p2a: Primarina|par
+|move|p2a: Primarina|Psychic|p1a: Thundurus
+|-damage|p1a: Thundurus|0 fnt
+|faint|p1a: Thundurus
+|
+|upkeep
+|
+|t:|1776971351
+|switch|p1a: Deoxys|Deoxys-Defense, L84|221/221
+|-ability|p1a: Deoxys|Pressure
+|turn|6
+|inactive|Sluje has 60 seconds left.
+|
+|t:|1776971389
+|move|p1a: Deoxys|Cosmic Power|p1a: Deoxys
+|-boost|p1a: Deoxys|def|1
+|-boost|p1a: Deoxys|spd|1
+|move|p2a: Primarina|Psychic|p1a: Deoxys
+|-resisted|p1a: Deoxys
+|-damage|p1a: Deoxys|195/221
+|
+|-heal|p1a: Deoxys|208/221|[from] item: Leftovers
+|upkeep
+|turn|7
+|inactive|Sluje has 60 seconds left.
+|
+|t:|1776971399
+|move|p1a: Deoxys|Cosmic Power|p1a: Deoxys
+|-boost|p1a: Deoxys|def|1
+|-boost|p1a: Deoxys|spd|1
+|move|p2a: Primarina|Sparkling Aria|p1a: Deoxys
+|-damage|p1a: Deoxys|153/221
+|
+|-heal|p1a: Deoxys|166/221|[from] item: Leftovers
+|upkeep
+|turn|8
+|inactive|Sluje has 60 seconds left.
+|
+|t:|1776971424
+|switch|p2a: Ting-Lu|Ting-Lu, L78|370/370
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Deoxys|Cosmic Power|p1a: Deoxys
+|-boost|p1a: Deoxys|def|1
+|-boost|p1a: Deoxys|spd|1
+|
+|-heal|p1a: Deoxys|179/221|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776971446
+|move|p1a: Deoxys|Night Shade|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|286/370
+|move|p2a: Ting-Lu|Payback|p1a: Deoxys
+|-supereffective|p1a: Deoxys
+|-damage|p1a: Deoxys|129/221
+|
+|-heal|p1a: Deoxys|142/221|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1776971461
+|move|p1a: Deoxys|Night Shade|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|202/370
+|move|p2a: Ting-Lu|Ruination|p1a: Deoxys
+|-damage|p1a: Deoxys|71/221
+|
+|-heal|p1a: Deoxys|84/221|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776971482
+|move|p1a: Deoxys|Night Shade|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|118/370
+|move|p2a: Ting-Lu|Payback|p1a: Deoxys
+|-supereffective|p1a: Deoxys
+|-damage|p1a: Deoxys|34/221
+|
+|-heal|p1a: Deoxys|47/221|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776971490
+|move|p1a: Deoxys|Recover|p1a: Deoxys
+|-heal|p1a: Deoxys|158/221
+|move|p2a: Ting-Lu|Payback|p1a: Deoxys
+|-supereffective|p1a: Deoxys
+|-damage|p1a: Deoxys|98/221
+|
+|-heal|p1a: Deoxys|111/221|[from] item: Leftovers
+|upkeep
+|turn|13
+|inactive|Sluje has 60 seconds left.
+|
+|t:|1776971499
+|move|p1a: Deoxys|Night Shade|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|34/370
+|move|p2a: Ting-Lu|Payback|p1a: Deoxys
+|-supereffective|p1a: Deoxys
+|-damage|p1a: Deoxys|57/221
+|
+|-heal|p1a: Deoxys|70/221|[from] item: Leftovers
+|upkeep
+|turn|14
+|inactive|superswindler has 120 seconds left.
+|
+|t:|1776971515
+|move|p1a: Deoxys|Recover|p1a: Deoxys
+|-heal|p1a: Deoxys|181/221
+|move|p2a: Ting-Lu|Payback|p1a: Deoxys
+|-supereffective|p1a: Deoxys
+|-damage|p1a: Deoxys|121/221
+|
+|-heal|p1a: Deoxys|134/221|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1776971522
+|move|p1a: Deoxys|Night Shade|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|0 fnt
+|faint|p2a: Ting-Lu
+|
+|-heal|p1a: Deoxys|147/221|[from] item: Leftovers
+|upkeep
+|inactive|Sluje has 60 seconds left.
+|inactive|Sluje has 30 seconds left.
+|
+|t:|1776971573
+|switch|p2a: Rotom|Rotom-Heat, L83|219/219
+|turn|16
+|inactive|Sluje has 30 seconds left.
+|
+|t:|1776971583
+|move|p1a: Deoxys|Recover|p1a: Deoxys
+|-heal|p1a: Deoxys|221/221
+|move|p2a: Rotom|Will-O-Wisp|p1a: Deoxys
+|-status|p1a: Deoxys|brn
+|
+|-damage|p1a: Deoxys|208/221 brn|[from] brn
+|upkeep
+|turn|17
+|inactive|Sluje has 30 seconds left.
+|inactive|superswindler has 120 seconds left.
+|
+|t:|1776971610
+|move|p1a: Deoxys|Cosmic Power|p1a: Deoxys
+|-boost|p1a: Deoxys|def|1
+|-boost|p1a: Deoxys|spd|1
+|move|p2a: Rotom|Overheat|p1a: Deoxys
+|-damage|p1a: Deoxys|175/221 brn
+|-unboost|p2a: Rotom|spa|2
+|
+|-heal|p1a: Deoxys|188/221 brn|[from] item: Leftovers
+|-damage|p1a: Deoxys|175/221 brn|[from] brn
+|upkeep
+|turn|18
+|inactive|Sluje has 30 seconds left.
+|inactive|Sluje has 20 seconds left.
+|
+|t:|1776971629
+|switch|p2a: Tornadus|Tornadus-Therian, L79, M|254/254
+|move|p1a: Deoxys|Stored Power|p2a: Tornadus
+|-damage|p2a: Tornadus|151/254
+|
+|-heal|p1a: Deoxys|188/221 brn|[from] item: Leftovers
+|-damage|p1a: Deoxys|175/221 brn|[from] brn
+|upkeep
+|turn|19
+|inactive|Sluje has 30 seconds left this turn.
+|inactive|Sluje has 20 seconds left.
+|inactive|Sluje has 15 seconds left.
+|
+|t:|1776971645
+|move|p2a: Tornadus|Knock Off|p1a: Deoxys
+|-supereffective|p1a: Deoxys
+|-damage|p1a: Deoxys|149/221 brn
+|-enditem|p1a: Deoxys|Leftovers|[from] move: Knock Off|[of] p2a: Tornadus
+|move|p1a: Deoxys|Stored Power|p2a: Tornadus
+|-damage|p2a: Tornadus|39/254
+|
+|-damage|p1a: Deoxys|136/221 brn|[from] brn
+|upkeep
+|turn|20
+|inactive|Sluje has 25 seconds left this turn.
+|inactive|Sluje has 20 seconds left.
+|
+|t:|1776971654
+|move|p2a: Tornadus|U-turn|p1a: Deoxys
+|-supereffective|p1a: Deoxys
+|-damage|p1a: Deoxys|116/221 brn
+|inactive|Sluje has 25 seconds left this turn.
+|inactive|Sluje has 20 seconds left.
+|
+|t:|1776971660
+|switch|p2a: Primarina|Primarina, L83, M, tera:Steel|166/268 par|[from] U-turn
+|move|p1a: Deoxys|Stored Power|p2a: Primarina
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|100/268 par
+|
+|-damage|p1a: Deoxys|103/221 brn|[from] brn
+|upkeep
+|turn|21
+|inactive|Sluje has 30 seconds left this turn.
+|inactive|Sluje has 20 seconds left.
+|inactive|Sluje has 15 seconds left.
+|
+|t:|1776971677
+|move|p1a: Deoxys|Recover|p1a: Deoxys
+|-heal|p1a: Deoxys|214/221 brn
+|move|p2a: Primarina|Draining Kiss|p1a: Deoxys
+|-damage|p1a: Deoxys|199/221 brn
+|-heal|p2a: Primarina|111/268 par|[from] drain|[of] p1a: Deoxys
+|
+|-damage|p1a: Deoxys|186/221 brn|[from] brn
+|upkeep
+|turn|22
+|inactive|Sluje has 25 seconds left this turn.
+|inactive|Sluje has 20 seconds left.
+|inactive|superswindler has 120 seconds left.
+|
+|t:|1776971714
+|move|p1a: Deoxys|Stored Power|p2a: Primarina
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|53/268 par
+|move|p2a: Primarina|Calm Mind|p2a: Primarina
+|-boost|p2a: Primarina|spa|1
+|-boost|p2a: Primarina|spd|1
+|
+|-damage|p1a: Deoxys|173/221 brn|[from] brn
+|upkeep
+|turn|23
+|inactive|Sluje has 30 seconds left this turn.
+|inactive|Sluje has 20 seconds left.
+|
+|t:|1776971726
+|move|p1a: Deoxys|Stored Power|p2a: Primarina
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|11/268 par
+|move|p2a: Primarina|Draining Kiss|p1a: Deoxys
+|-damage|p1a: Deoxys|151/221 brn
+|-heal|p2a: Primarina|28/268 par|[from] drain|[of] p1a: Deoxys
+|
+|-damage|p1a: Deoxys|138/221 brn|[from] brn
+|upkeep
+|turn|24
+|inactive|Sluje has 30 seconds left this turn.
+|inactive|Sluje has 20 seconds left.
+|
+|t:|1776971737
+|move|p1a: Deoxys|Stored Power|p2a: Primarina
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|0 fnt
+|faint|p2a: Primarina
+|
+|-damage|p1a: Deoxys|125/221 brn|[from] brn
+|upkeep
+|inactive|Sluje has 25 seconds left this turn.
+|inactive|Sluje has 20 seconds left.
+|inactive|Sluje has 15 seconds left.
+|inactive|Sluje has 10 seconds left.
+|inactive|Sluje has 5 seconds left.
+|
+|t:|1776971759
+|switch|p2a: Tornadus|Tornadus-Therian, L79, M|123/254
+|turn|25
+|inactive|Sluje has 15 seconds left this turn.
+|
+|t:|1776971768
+|move|p2a: Tornadus|U-turn|p1a: Deoxys
+|-supereffective|p1a: Deoxys
+|-damage|p1a: Deoxys|103/221 brn
+|inactive|Sluje has 20 seconds left this turn.
+|inactive|Sluje has 15 seconds left.
+|
+|t:|1776971774
+|switch|p2a: Metagross|Metagross, L79|256/256|[from] U-turn
+|move|p1a: Deoxys|Recover|p1a: Deoxys
+|-heal|p1a: Deoxys|214/221 brn
+|
+|-damage|p1a: Deoxys|201/221 brn|[from] brn
+|upkeep
+|turn|26
+|inactive|Sluje has 25 seconds left this turn.
+|inactive|Sluje has 20 seconds left.
+|inactive|Sluje has 15 seconds left.
+|inactive|Sluje has 10 seconds left.
+|inactive|superswindler has 120 seconds left.
+|inactive|superswindler has 90 seconds left.
+|
+|t:|1776971861
+|move|p1a: Deoxys|Night Shade|p2a: Metagross
+|-damage|p2a: Metagross|172/256
+|move|p2a: Metagross|Heavy Slam|p1a: Deoxys
+|-damage|p1a: Deoxys|171/221 brn
+|
+|-damage|p1a: Deoxys|158/221 brn|[from] brn
+|upkeep
+|turn|27
+|inactive|Sluje has 20 seconds left this turn.
+|inactive|Sluje has 15 seconds left.
+|inactive|Sluje has 10 seconds left.
+|inactive|Sluje has 5 seconds left.
+|c|☆superswindler|gg
+|
+|t:|1776971880
+|move|p1a: Deoxys|Night Shade|p2a: Metagross
+|-damage|p2a: Metagross|88/256
+|move|p2a: Metagross|Heavy Slam|p1a: Deoxys
+|-damage|p1a: Deoxys|128/221 brn
+|
+|-damage|p1a: Deoxys|115/221 brn|[from] brn
+|upkeep
+|turn|28
+|inactive|Sluje has 15 seconds left this turn.
+|inactive|Sluje has 10 seconds left.
+|
+|t:|1776971888
+|move|p1a: Deoxys|Night Shade|p2a: Metagross
+|-damage|p2a: Metagross|4/256
+|move|p2a: Metagross|Heavy Slam|p1a: Deoxys
+|-damage|p1a: Deoxys|85/221 brn
+|
+|-damage|p1a: Deoxys|72/221 brn|[from] brn
+|upkeep
+|turn|29
+|inactive|Sluje has 20 seconds left this turn.
+|inactive|superswindler has 90 seconds left.
+|inactive|Sluje has 15 seconds left.
+|inactive|Sluje has 10 seconds left.
+|
+|t:|1776971915
+|move|p1a: Deoxys|Night Shade|p2a: Metagross
+|-damage|p2a: Metagross|0 fnt
+|faint|p2a: Metagross
+|
+|-damage|p1a: Deoxys|59/221 brn|[from] brn
+|upkeep
+|inactive|Sluje has 15 seconds left this turn.
+|inactive|Sluje has 10 seconds left.
+|inactive|Sluje has 5 seconds left.
+|
+|t:|1776971928
+|switch|p2a: Talonflame|Talonflame, L83, F|265/265
+|turn|30
+|inactive|Sluje has 15 seconds left this turn.
+|inactive|Sluje has 10 seconds left.
+|
+|t:|1776971936
+|move|p2a: Talonflame|Brave Bird|p1a: Deoxys
+|-damage|p1a: Deoxys|37/221 brn
+|-damage|p2a: Talonflame|258/265|[from] Recoil
+|move|p1a: Deoxys|Night Shade|p2a: Talonflame
+|-damage|p2a: Talonflame|174/265
+|
+|-damage|p1a: Deoxys|24/221 brn|[from] brn
+|upkeep
+|turn|31
+|inactive|Sluje has 20 seconds left this turn.
+|inactive|Sluje has 15 seconds left.
+|inactive|Sluje has 10 seconds left.
+|
+|t:|1776971951
+|move|p2a: Talonflame|Flare Blitz|p1a: Deoxys
+|-damage|p1a: Deoxys|0 fnt
+|faint|p1a: Deoxys
+|-damage|p2a: Talonflame|166/265|[from] Recoil
+|
+|upkeep
+|inactive|superswindler has 90 seconds left.
+|
+|t:|1776971961
+|switch|p1a: Avalugg|Avalugg-Hisui, L90, M|317/317
+|turn|32
+|inactive|Sluje has 25 seconds left this turn.
+|inactive|Sluje has 20 seconds left.
+|inactive|Sluje has 15 seconds left.
+|inactive|Sluje has 10 seconds left.
+|inactive|Sluje has 5 seconds left.
+|
+|t:|1776971983
+|switch|p2a: Rotom|Rotom-Heat, L83|219/219
+|move|p1a: Avalugg|Stone Edge|p2a: Rotom
+|-supereffective|p2a: Rotom
+|-damage|p2a: Rotom|0 fnt
+|faint|p2a: Rotom
+|
+|upkeep
+|inactive|Sluje has 10 seconds left this turn.
+|inactive|Sluje has 5 seconds left.
+|-message|Sluje lost due to inactivity.
+|
+|win|superswindler
+|raw|superswindler's rating: 1442 &rarr; <strong>1461</strong><br />(+19 for winning)
+|raw|Sluje's rating: 1432 &rarr; <strong>1413</strong><br />(-19 for losing)
+|c|☆superswindler|gg

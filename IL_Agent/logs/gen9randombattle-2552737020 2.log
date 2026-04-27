@@ -1,0 +1,357 @@
+|j|☆Pelais
+|j|☆ugettnfukdup
+|t:|1772748292
+|gametype|singles
+|player|p1|Pelais|2|1000
+|player|p2|ugettnfukdup|170|1000
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772748292
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Salamence|Salamence, L77, M|273/273
+|switch|p2a: Victreebel|Victreebel, L90, M|290/290
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ugettnfukdup)
+|
+|t:|1772748309
+|move|p1a: Salamence|Dual Wingbeat|p2a: Victreebel
+|-supereffective|p2a: Victreebel
+|-damage|p2a: Victreebel|176/290
+|-supereffective|p2a: Victreebel
+|-damage|p2a: Victreebel|68/290
+|-hitcount|p2a: Victreebel|2
+|move|p2a: Victreebel|Poison Jab|p1a: Salamence
+|-damage|p1a: Salamence|108/273
+|-damage|p2a: Victreebel|39/290|[from] item: Life Orb
+|
+|upkeep
+|turn|2
+|
+|t:|1772748325
+|move|p2a: Victreebel|Sucker Punch||[still]
+|-fail|p2a: Victreebel
+|move|p1a: Salamence|Roost|p1a: Salamence
+|-heal|p1a: Salamence|245/273
+|-singleturn|p1a: Salamence|move: Roost
+|
+|upkeep
+|turn|3
+|
+|t:|1772748332
+|switch|p2a: Diancie|Diancie, L82|216/216
+|move|p1a: Salamence|Dual Wingbeat|p2a: Diancie
+|-resisted|p2a: Diancie
+|-damage|p2a: Diancie|200/216
+|-resisted|p2a: Diancie
+|-damage|p2a: Diancie|183/216
+|-hitcount|p2a: Diancie|2
+|
+|-heal|p2a: Diancie|196/216|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1772748349
+|switch|p1a: Politoed|Politoed, L88, M|302/302
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Politoed
+|move|p2a: Diancie|Diamond Storm|p1a: Politoed
+|-damage|p1a: Politoed|194/302
+|-boost|p2a: Diancie|def|2
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Diancie|209/216|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1772748366
+|switch|p2a: Illumise|Illumise, L91, F|266/266
+|move|p1a: Politoed|Hydro Pump|p2a: Illumise
+|-damage|p2a: Illumise|80/266
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1772748380
+|move|p2a: Illumise|Thunder Wave|p1a: Politoed
+|-status|p1a: Politoed|par
+|move|p1a: Politoed|Hydro Pump|p2a: Illumise
+|-damage|p2a: Illumise|0 fnt
+|faint|p2a: Illumise
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1772748388
+|switch|p2a: Victreebel|Victreebel, L90, M|39/290
+|turn|7
+|
+|t:|1772748393
+|move|p2a: Victreebel|Power Whip|p1a: Politoed
+|-supereffective|p1a: Politoed
+|-damage|p1a: Politoed|0 fnt
+|faint|p1a: Politoed
+|-damage|p2a: Victreebel|10/290|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1772748408
+|switch|p1a: Salamence|Salamence, L77, M|245/273
+|turn|8
+|
+|t:|1772748414
+|move|p2a: Victreebel|Sucker Punch||[still]
+|-fail|p2a: Victreebel
+|move|p1a: Salamence|Dragon Dance|p1a: Salamence
+|-boost|p1a: Salamence|atk|1
+|-boost|p1a: Salamence|spe|1
+|
+|-weather|none
+|upkeep
+|turn|9
+|
+|t:|1772748422
+|move|p1a: Salamence|Dragon Dance|p1a: Salamence
+|-boost|p1a: Salamence|atk|1
+|-boost|p1a: Salamence|spe|1
+|move|p2a: Victreebel|Swords Dance|p2a: Victreebel
+|-boost|p2a: Victreebel|atk|2
+|
+|upkeep
+|turn|10
+|
+|t:|1772748430
+|move|p2a: Victreebel|Sucker Punch|p1a: Salamence
+|-damage|p1a: Salamence|45/273
+|-damage|p2a: Victreebel|0 fnt|[from] item: Life Orb
+|faint|p2a: Victreebel
+|move|p1a: Salamence|Dual Wingbeat|p2: Victreebel|[notarget]
+|-fail|p1a: Salamence
+|
+|upkeep
+|
+|t:|1772748437
+|switch|p2a: Diancie|Diancie, L82|209/216
+|turn|11
+|
+|t:|1772748444
+|-terastallize|p1a: Salamence|Steel
+|move|p1a: Salamence|Roost|p1a: Salamence
+|-heal|p1a: Salamence|182/273
+|move|p2a: Diancie|Draining Kiss|p1a: Salamence
+|-resisted|p1a: Salamence
+|-damage|p1a: Salamence|152/273
+|-heal|p2a: Diancie|216/216|[from] drain|[of] p1a: Salamence
+|
+|upkeep
+|turn|12
+|
+|t:|1772748456
+|move|p1a: Salamence|Dual Wingbeat|p2a: Diancie
+|-resisted|p2a: Diancie
+|-crit|p2a: Diancie
+|-damage|p2a: Diancie|168/216
+|-resisted|p2a: Diancie
+|-damage|p2a: Diancie|135/216
+|-hitcount|p2a: Diancie|2
+|move|p2a: Diancie|Earth Power|p1a: Salamence
+|-supereffective|p1a: Salamence
+|-damage|p1a: Salamence|18/273
+|
+|-heal|p2a: Diancie|148/216|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1772748468
+|move|p1a: Salamence|Roost|p1a: Salamence
+|-heal|p1a: Salamence|155/273
+|move|p2a: Diancie|Earth Power|p1a: Salamence
+|-supereffective|p1a: Salamence
+|-damage|p1a: Salamence|19/273
+|-unboost|p1a: Salamence|spd|1
+|
+|-heal|p2a: Diancie|161/216|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1772748491
+|switch|p1a: Gastrodon|Gastrodon, L86, M|331/331
+|move|p2a: Diancie|Draining Kiss|p1a: Gastrodon
+|-damage|p1a: Gastrodon|274/331
+|-heal|p2a: Diancie|204/216|[from] drain|[of] p1a: Gastrodon
+|
+|-heal|p2a: Diancie|216/216|[from] item: Leftovers
+|-heal|p1a: Gastrodon|294/331|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1772748508
+|switch|p2a: Roaring Moon|Roaring Moon, L72|270/270
+|move|p1a: Gastrodon|Surf|p2a: Roaring Moon
+|-resisted|p2a: Roaring Moon
+|-damage|p2a: Roaring Moon|218/270
+|
+|-heal|p1a: Gastrodon|314/331|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1772748519
+|-terastallize|p2a: Roaring Moon|Poison
+|move|p2a: Roaring Moon|Dragon Dance|p2a: Roaring Moon
+|-boost|p2a: Roaring Moon|atk|1
+|-boost|p2a: Roaring Moon|spe|1
+|move|p1a: Gastrodon|Spikes|p2a: Roaring Moon
+|-sidestart|p2: ugettnfukdup|Spikes
+|
+|-heal|p1a: Gastrodon|331/331|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1772748537
+|switch|p1a: Dachsbun|Dachsbun, L92, M|254/254
+|move|p2a: Roaring Moon|Dragon Dance|p2a: Roaring Moon
+|-boost|p2a: Roaring Moon|atk|1
+|-boost|p2a: Roaring Moon|spe|1
+|
+|upkeep
+|turn|18
+|
+|t:|1772748545
+|move|p2a: Roaring Moon|Iron Head|p1a: Dachsbun
+|-supereffective|p1a: Dachsbun
+|-damage|p1a: Dachsbun|90/254
+|move|p1a: Dachsbun|Yawn|p2a: Roaring Moon
+|-start|p2a: Roaring Moon|move: Yawn|[of] p1a: Dachsbun
+|
+|-heal|p1a: Dachsbun|105/254|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1772748559
+|move|p2a: Roaring Moon|Iron Head|p1a: Dachsbun
+|-supereffective|p1a: Dachsbun
+|-damage|p1a: Dachsbun|0 fnt
+|faint|p1a: Dachsbun
+|
+|-end|p2a: Roaring Moon|move: Yawn|[silent]
+|-status|p2a: Roaring Moon|slp
+|-enditem|p2a: Roaring Moon|Lum Berry|[eat]
+|-curestatus|p2a: Roaring Moon|slp|[msg]
+|upkeep
+|
+|t:|1772748574
+|switch|p1a: Chimecho|Chimecho, L93, F|290/290
+|turn|20
+|
+|t:|1772748583
+|move|p2a: Roaring Moon|Knock Off|p1a: Chimecho
+|-supereffective|p1a: Chimecho
+|-damage|p1a: Chimecho|0 fnt
+|-enditem|p1a: Chimecho|Leftovers|[from] move: Knock Off|[of] p2a: Roaring Moon
+|faint|p1a: Chimecho
+|
+|upkeep
+|
+|t:|1772748590
+|switch|p1a: Ariados|Ariados, L95, M|287/287
+|turn|21
+|
+|t:|1772748595
+|move|p2a: Roaring Moon|Iron Head|p1a: Ariados
+|-damage|p1a: Ariados|167/287
+|move|p1a: Ariados|Toxic Spikes|p2a: Roaring Moon
+|-sidestart|p2: ugettnfukdup|move: Toxic Spikes
+|
+|upkeep
+|turn|22
+|
+|t:|1772748603
+|move|p2a: Roaring Moon|Iron Head|p1a: Ariados
+|-damage|p1a: Ariados|43/287
+|move|p1a: Ariados|Sticky Web|p2a: Roaring Moon
+|-sidestart|p2: ugettnfukdup|move: Sticky Web
+|
+|upkeep
+|turn|23
+|
+|t:|1772748615
+|move|p2a: Roaring Moon|Iron Head|p1a: Ariados
+|-damage|p1a: Ariados|0 fnt
+|faint|p1a: Ariados
+|
+|upkeep
+|
+|t:|1772748627
+|switch|p1a: Gastrodon|Gastrodon, L86, M|331/331
+|turn|24
+|
+|t:|1772748637
+|move|p2a: Roaring Moon|Knock Off|p1a: Gastrodon
+|-damage|p1a: Gastrodon|106/331
+|-enditem|p1a: Gastrodon|Leftovers|[from] move: Knock Off|[of] p2a: Roaring Moon
+|move|p1a: Gastrodon|Earthquake|p2a: Roaring Moon
+|-supereffective|p2a: Roaring Moon
+|-damage|p2a: Roaring Moon|0 fnt
+|faint|p2a: Roaring Moon
+|-end|p2a: Roaring Moon|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1772748652
+|switch|p2a: Cramorant|Cramorant, L86, F|261/261
+|turn|25
+|
+|t:|1772748674
+|move|p2a: Cramorant|Defog|p1a: Gastrodon
+|-unboost|p1a: Gastrodon|evasion|1
+|-sideend|p2: ugettnfukdup|Spikes|[from] move: Defog|[of] p2a: Cramorant
+|-sideend|p2: ugettnfukdup|Toxic Spikes|[from] move: Defog|[of] p2a: Cramorant
+|-sideend|p2: ugettnfukdup|Sticky Web|[from] move: Defog|[of] p2a: Cramorant
+|move|p1a: Gastrodon|Recover|p1a: Gastrodon
+|-heal|p1a: Gastrodon|272/331
+|
+|upkeep
+|turn|26
+|
+|t:|1772748682
+|switch|p1a: Salamence|Salamence, L77, M, tera:Steel|19/273
+|move|p2a: Cramorant|Brave Bird|p1a: Salamence
+|-resisted|p1a: Salamence
+|-damage|p1a: Salamence|0 fnt
+|faint|p1a: Salamence
+|-damage|p2a: Cramorant|255/261|[from] Recoil
+|
+|upkeep
+|
+|t:|1772748691
+|switch|p1a: Gastrodon|Gastrodon, L86, M|272/331
+|turn|27
+|
+|t:|1772748705
+|move|p2a: Cramorant|Brave Bird|p1a: Gastrodon
+|-damage|p1a: Gastrodon|124/331
+|-damage|p2a: Cramorant|206/261|[from] Recoil
+|move|p1a: Gastrodon|Surf|p2a: Cramorant
+|-resisted|p2a: Cramorant
+|-damage|p2a: Cramorant|159/261
+|
+|upkeep
+|turn|28
+|
+|t:|1772748713
+|move|p2a: Cramorant|Brave Bird|p1a: Gastrodon
+|-damage|p1a: Gastrodon|0 fnt
+|faint|p1a: Gastrodon
+|-damage|p2a: Cramorant|118/261|[from] Recoil
+|
+|win|ugettnfukdup
+|raw|Pelais's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|raw|ugettnfukdup's rating: 1000 &rarr; <strong>1040</strong><br />(+40 for winning)

@@ -217,15 +217,27 @@ def load_and_vectorize(path):
     print(f"Switch turns: {len(switch_actions)} | state shape: {switch_states.shape}")
     return move_data, switch_data
 
-move_data, switch_data = load_and_vectorize(
-    Path(__file__).parent.parent / "parser" / "cleaned_dataset.jsonl"
-)
-
 import tensorflow as tf
+import pickle
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import accuracy_score, classification_report
+from sklearn.model_selection import train_test_split
 
 MODEL_DIR = Path(__file__).parent.parent / "models"
 
-def build_model(state_dim, num_actions):
+def build_rf_model(X_train, y_train):
+    random_forest = RandomForestClassifier(n_estimators=200, 
+                                           max_depth=15, 
+                                           class_weight='balanced',
+                                           min_samples_split=5, 
+                                           min_samples_leaf=5,
+                                           n_jobs=-1, 
+                                           random_state=42)
+
+    random_forest.fit(X_train, y_train)
+    return random_forest
+
+def build_nn_model(state_dim, num_actions):
     """Shared architecture for both move and switch models."""
     inputs = tf.keras.Input(shape=(state_dim,))
     mask   = tf.keras.Input(shape=(num_actions,))
@@ -243,14 +255,19 @@ def build_model(state_dim, num_actions):
     return tf.keras.Model(inputs=[inputs, mask], outputs=output)
 
 
+move_data, switch_data = load_and_vectorize(
+    Path(__file__).parent.parent / "parser" / "cleaned_dataset.jsonl"
+)
 move_states, move_actions, move_masks     = move_data
 switch_states, switch_actions, switch_masks = switch_data
 
 state_dim = move_states.shape[1]
 MODEL_DIR.mkdir(parents=True, exist_ok=True)
 
-# --- Move model ---
-move_model = build_model(state_dim, num_actions=4)
+# --- Move models ---
+
+# Neural Network
+move_model = build_nn_model(state_dim, num_actions=4)
 move_model.compile(
     optimizer='rmsprop',
     loss='sparse_categorical_crossentropy',
@@ -269,6 +286,8 @@ history = move_model.fit(
     validation_split=0.1,
     callbacks=[early_stop]
 )
+
+# Plot move NN model
 plt.figure(figsize=(10,4))
 #Plot loss
 plt.subplot(1, 2, 1)
@@ -287,13 +306,34 @@ plt.ylabel('Accuracy')
 plt.legend()
 plt.title('Move Model Accuracy')
 plt.show()
+
 evaluate_model(move_model, move_states, move_masks, move_actions, "Move Model")
 move_model.save(str(MODEL_DIR / "move_model.keras"))
 print(f"Move model saved → {MODEL_DIR / 'move_model.keras'}")
 
+# Random Forest
+X_train_move, X_test_move, y_train_move, y_test_move = train_test_split(
+    move_states, move_actions, test_size=0.2, random_state=42
+)
+
+rf_move = build_rf_model(X_train_move, y_train_move)
+
+# Evaluate rf_move
+y_pred_move = rf_move.predict(X_test_move)
+accuracy = accuracy_score(y_test_move, y_pred_move)
+
+print(f"Model accuracy: {accuracy:.4f}")
+print("\nClassification Report:")
+print(classification_report(y_test_move, y_pred_move))
+
+# Save random forest move model
+with open(MODEL_DIR / 'rf_move_model.pk1', 'wb') as f:
+    pickle.dump(rf_move, f)
+    print("Saved rf_move_model.pk1")
+
 # --- Switch model ---
 if len(switch_actions) > 0:
-    switch_model = build_model(state_dim, num_actions=5)
+    switch_model = build_nn_model(state_dim, num_actions=5)
     switch_model.compile(
         optimizer='rmsprop',
         loss='sparse_categorical_crossentropy',
@@ -307,6 +347,7 @@ if len(switch_actions) > 0:
         validation_split=0.1,
         callbacks=[early_stop]
     )
+    # Plot switch NN model
     plt.figure(figsize=(10,4))
     #Plot loss
     plt.subplot(1, 2, 1)
@@ -330,3 +371,24 @@ if len(switch_actions) > 0:
     print(f"Switch model saved → {MODEL_DIR / 'switch_model.keras'}")
 else:
     print("No switch turns found in dataset — switch model not trained.")
+
+# Random Forest
+X_train_switch, X_test_switch, y_train_switch, y_test_switch = train_test_split(
+    switch_states, switch_actions, test_size=0.2, random_state=42
+)
+
+rf_switch = build_rf_model(X_train_switch, y_train_switch)
+
+# Evaluate rf_switch
+y_pred_switch = rf_move.predict(X_test_switch)
+accuracy = accuracy_score(y_test_switch, y_pred_switch)
+
+
+print(f"Model accuracy: {accuracy:.4f}")
+print("\nClassification Report:")
+print(classification_report(y_test_switch, y_pred_switch))
+
+# Save random forest switch model
+with open(MODEL_DIR / 'rf_switch_model.pk1', 'wb') as f:
+    pickle.dump(rf_switch, f)
+    print("Saved rf_switch_model.pk1")

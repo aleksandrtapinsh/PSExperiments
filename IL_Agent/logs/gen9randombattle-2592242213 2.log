@@ -1,0 +1,272 @@
+|j|☆gmandingo
+|j|☆Lankee9
+|t:|1776972811
+|gametype|singles
+|player|p1|gmandingo|101|
+|player|p2|Lankee9|170|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776972811
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Muk|Muk-Alola, L82, F|306/306
+|switch|p2a: Indeedee|Indeedee, L84, M|238/238
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Indeedee
+|turn|1
+|c|☆gmandingo|enrique
+|c|☆gmandingo|what the actual heck is this match up
+|
+|t:|1776972832
+|switch|p2a: Conkeldurr|Conkeldurr, L80, M|299/299
+|move|p1a: Muk|Knock Off|p2a: Conkeldurr
+|-resisted|p2a: Conkeldurr
+|-damage|p2a: Conkeldurr|252/299
+|-enditem|p2a: Conkeldurr|Flame Orb|[from] move: Knock Off|[of] p1a: Muk
+|
+|upkeep
+|turn|2
+|c|☆gmandingo|YES
+|c|☆gmandingo|YES
+|c|☆gmandingo|YES
+|c|☆gmandingo|GOONER
+|
+|t:|1776972850
+|move|p1a: Muk|Gunk Shot|p2a: Conkeldurr
+|-damage|p2a: Conkeldurr|128/299
+|move|p2a: Conkeldurr|Close Combat|p1a: Muk
+|-damage|p1a: Muk|120/306
+|-unboost|p2a: Conkeldurr|def|1
+|-unboost|p2a: Conkeldurr|spd|1
+|
+|upkeep
+|turn|3
+|c|☆gmandingo|HAHAHA
+|c|☆gmandingo|NO ORB FOR YOU
+|
+|t:|1776972862
+|move|p1a: Muk|Gunk Shot|p2a: Conkeldurr
+|-damage|p2a: Conkeldurr|0 fnt
+|faint|p2a: Conkeldurr
+|
+|upkeep
+|
+|t:|1776972868
+|switch|p2a: Sneasler|Sneasler, L74, M|240/240
+|turn|4
+|
+|t:|1776972876
+|move|p2a: Sneasler|Close Combat|p1a: Muk
+|-damage|p1a: Muk|0 fnt
+|-unboost|p2a: Sneasler|def|1
+|-unboost|p2a: Sneasler|spd|1
+|faint|p1a: Muk
+|
+|upkeep
+|c|☆Lankee9|by by
+|
+|t:|1776972898
+|switch|p1a: Scyther|Scyther, L82, F|249/249
+|turn|5
+|
+|t:|1776972913
+|switch|p2a: Coalossal|Coalossal, L89, M|341/341
+|move|p1a: Scyther|Dual Wingbeat|p2a: Coalossal
+|-resisted|p2a: Coalossal
+|-damage|p2a: Coalossal|317/341
+|-resisted|p2a: Coalossal
+|-damage|p2a: Coalossal|290/341
+|-status|p1a: Scyther|brn|[from] ability: Flame Body|[of] p2a: Coalossal
+|-hitcount|p2a: Coalossal|2
+|
+|-damage|p1a: Scyther|234/249 brn|[from] brn
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|6
+|c|☆gmandingo|goonbabye
+|
+|t:|1776972929
+|switch|p1a: Carbink|Carbink, L90|236/236
+|move|p2a: Coalossal|Stone Edge|p1a: Carbink
+|-crit|p1a: Carbink
+|-damage|p1a: Carbink|139/236
+|
+|-heal|p1a: Carbink|153/236|[from] item: Leftovers
+|upkeep
+|turn|7
+|c|☆gmandingo|goonbabye
+|c|☆gmandingo|goonbabye
+|
+|t:|1776972943
+|switch|p2a: Walking Wake|Walking Wake, L79|286/286
+|move|p1a: Carbink|Iron Defense|p1a: Carbink
+|-boost|p1a: Carbink|def|2
+|
+|-heal|p1a: Carbink|167/236|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776972953
+|move|p2a: Walking Wake|Hydro Pump|p1a: Carbink
+|-supereffective|p1a: Carbink
+|-damage|p1a: Carbink|0 fnt
+|faint|p1a: Carbink
+|
+|upkeep
+|c|☆gmandingo|goonbabye
+|c|☆gmandingo|goonbabye
+|
+|t:|1776972961
+|switch|p1a: Jolteon|Jolteon, L84, F|246/246
+|turn|9
+|c|☆Lankee9|goodbye
+|
+|t:|1776972966
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|switch|p2a: Coalossal|Coalossal, L89, M|290/341
+|move|p1a: Jolteon|Thunderbolt|p2a: Coalossal
+|-damage|p2a: Coalossal|152/341
+|-status|p2a: Coalossal|par
+|
+|upkeep
+|turn|10
+|
+|t:|1776972976
+|move|p1a: Jolteon|Thunderbolt|p2a: Coalossal
+|-damage|p2a: Coalossal|13/341 par
+|move|p2a: Coalossal|Flamethrower|p1a: Jolteon
+|-damage|p1a: Jolteon|159/246
+|
+|upkeep
+|turn|11
+|
+|t:|1776972983
+|move|p1a: Jolteon|Thunderbolt|p2a: Coalossal
+|-damage|p2a: Coalossal|0 fnt
+|faint|p2a: Coalossal
+|
+|upkeep
+|c|☆gmandingo|goonbabye
+|
+|t:|1776972990
+|switch|p2a: Indeedee|Indeedee, L84, M|238/238
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Indeedee
+|turn|12
+|c|☆gmandingo|goonbabye
+|
+|t:|1776972998
+|move|p2a: Indeedee|Expanding Force|p1a: Jolteon
+|-damage|p1a: Jolteon|5/246
+|move|p1a: Jolteon|Thunderbolt|p2a: Indeedee
+|-damage|p2a: Indeedee|88/238
+|
+|upkeep
+|turn|13
+|
+|t:|1776973007
+|move|p2a: Indeedee|Expanding Force|p1a: Jolteon
+|-damage|p1a: Jolteon|0 fnt
+|faint|p1a: Jolteon
+|
+|upkeep
+|
+|t:|1776973013
+|switch|p1a: Zacian|Zacian, L69|241/241
+|-ability|p1a: Zacian|Intrepid Sword|boost
+|-boost|p1a: Zacian|atk|1
+|turn|14
+|c|☆Lankee9|156 base power move btw
+|
+|t:|1776973020
+|move|p2a: Indeedee|Expanding Force|p1a: Zacian
+|-damage|p1a: Zacian|79/241
+|move|p1a: Zacian|Crunch|p2a: Indeedee
+|-supereffective|p2a: Indeedee
+|-damage|p2a: Indeedee|0 fnt
+|faint|p2a: Indeedee
+|
+|upkeep
+|c|☆gmandingo|goon babye
+|c|☆gmandingo|goonbabye
+|c|☆gmandingo|goonbabye
+|
+|t:|1776973031
+|switch|p2a: Sneasler|Sneasler, L74, M|240/240
+|turn|15
+|c|☆gmandingo|goonbabye
+|
+|t:|1776973036
+|switch|p1a: Scyther|Scyther, L82, F|234/249 brn
+|move|p2a: Sneasler|Dire Claw|p1a: Scyther
+|-crit|p1a: Scyther
+|-damage|p1a: Scyther|27/249 brn
+|
+|-damage|p1a: Scyther|12/249 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1776973045
+|move|p2a: Sneasler|Dire Claw|p1a: Scyther
+|-damage|p1a: Scyther|0 fnt
+|faint|p1a: Scyther
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1776973049
+|switch|p1a: Arceus|Arceus, L68|276/276
+|turn|17
+|c|☆gmandingo|goonbabye
+|
+|t:|1776973056
+|switch|p2a: Zangoose|Zangoose, L85, M|263/263
+|move|p1a: Arceus|Swords Dance|p1a: Arceus
+|-boost|p1a: Arceus|atk|2
+|
+|-status|p2a: Zangoose|tox|[from] item: Toxic Orb
+|upkeep
+|turn|18
+|c|☆Lankee9|the actual fu
+|
+|t:|1776973068
+|move|p1a: Arceus|Extreme Speed|p2a: Zangoose
+|-damage|p2a: Zangoose|86/263 tox
+|move|p2a: Zangoose|Close Combat|p1a: Arceus
+|-supereffective|p1a: Arceus
+|-damage|p1a: Arceus|0 fnt
+|-unboost|p2a: Zangoose|def|1
+|-unboost|p2a: Zangoose|spd|1
+|faint|p1a: Arceus
+|
+|-damage|p2a: Zangoose|70/263 tox|[from] psn
+|upkeep
+|
+|t:|1776973074
+|switch|p1a: Zacian|Zacian, L69|79/241
+|turn|19
+|c|☆Lankee9|lets goooooooooo
+|
+|t:|1776973086
+|move|p2a: Zangoose|Quick Attack|p1a: Zacian
+|-damage|p1a: Zacian|4/241
+|move|p1a: Zacian|Play Rough|p2a: Zangoose|[miss]
+|-miss|p1a: Zacian|p2a: Zangoose
+|
+|-damage|p2a: Zangoose|38/263 tox|[from] psn
+|upkeep
+|turn|20
+|c|☆gmandingo|goonbabye
+|c|☆Lankee9|you suck
+|
+|t:|1776973097
+|move|p2a: Zangoose|Quick Attack|p1a: Zacian
+|-damage|p1a: Zacian|0 fnt
+|faint|p1a: Zacian
+|
+|win|Lankee9
+|c|☆Lankee9|hahhahha

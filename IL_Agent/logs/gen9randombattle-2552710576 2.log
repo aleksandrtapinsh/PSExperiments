@@ -1,0 +1,167 @@
+|j|☆toxicwyvern
+|j|☆CxId
+|t:|1772745710
+|gametype|singles
+|player|p1|toxicwyvern|102|1766
+|player|p2|CxId|bugcatcher-gen4dp|1737
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772745710
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Delibird|Delibird, M|252/252
+|switch|p2a: Mewtwo|Mewtwo, L72|272/272
+|-ability|p2a: Mewtwo|Unnerve
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by CxId)
+|
+|t:|1772745735
+|move|p2a: Mewtwo|Nasty Plot|p2a: Mewtwo
+|-boost|p2a: Mewtwo|spa|2
+|move|p1a: Delibird|Brave Bird|p2a: Mewtwo
+|-damage|p2a: Mewtwo|85/272
+|-damage|p1a: Delibird|190/252|[from] Recoil
+|
+|upkeep
+|turn|2
+|
+|t:|1772745744
+|move|p1a: Delibird|Ice Shard|p2a: Mewtwo
+|-damage|p2a: Mewtwo|12/272
+|move|p2a: Mewtwo|Psystrike|p1a: Delibird
+|-damage|p1a: Delibird|0 fnt
+|faint|p1a: Delibird
+|-damage|p2a: Mewtwo|0 fnt|[from] item: Life Orb
+|faint|p2a: Mewtwo
+|
+|upkeep
+|
+|t:|1772745758
+|switch|p2a: Scovillain|Scovillain, L91, F|266/266
+|switch|p1a: Blissey|Blissey, L85, F|572/572
+|turn|3
+|
+|t:|1772745779
+|move|p2a: Scovillain|Substitute|p2a: Scovillain
+|-start|p2a: Scovillain|Substitute
+|-damage|p2a: Scovillain|200/266
+|move|p1a: Blissey|Thunder Wave||[still]
+|-fail|p1a: Blissey
+|
+|-heal|p2a: Scovillain|216/266|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1772745786
+|move|p2a: Scovillain|Leech Seed|p1a: Blissey
+|-start|p1a: Blissey|move: Leech Seed
+|move|p1a: Blissey|Stealth Rock|p2a: Scovillain
+|-sidestart|p2: CxId|move: Stealth Rock
+|
+|-heal|p2a: Scovillain|232/266|[from] item: Leftovers
+|-damage|p1a: Blissey|501/572|[from] Leech Seed|[of] p2a: Scovillain
+|-heal|p2a: Scovillain|266/266|[silent]
+|upkeep
+|turn|5
+|
+|t:|1772745795
+|switch|p1a: Toxapex|Toxapex, L82, M|216/216
+|move|p2a: Scovillain|Flamethrower|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|173/216
+|-status|p1a: Toxapex|brn
+|
+|-heal|p1a: Toxapex|186/216 brn|[from] item: Leftovers
+|-damage|p1a: Toxapex|173/216 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1772745807
+|move|p2a: Scovillain|Leech Seed|p1a: Toxapex
+|-start|p1a: Toxapex|move: Leech Seed
+|move|p1a: Toxapex|Toxic Spikes|p2a: Scovillain
+|-sidestart|p2: CxId|move: Toxic Spikes
+|
+|-heal|p1a: Toxapex|186/216 brn|[from] item: Leftovers
+|-damage|p1a: Toxapex|159/216 brn|[from] Leech Seed|[of] p2a: Scovillain
+|-damage|p1a: Toxapex|146/216 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1772745817
+|move|p2a: Scovillain|Flamethrower|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|101/216 brn
+|move|p1a: Toxapex|Toxic Spikes|p2a: Scovillain
+|-sidestart|p2: CxId|move: Toxic Spikes
+|
+|-heal|p1a: Toxapex|114/216 brn|[from] item: Leftovers
+|-damage|p1a: Toxapex|87/216 brn|[from] Leech Seed|[of] p2a: Scovillain
+|-damage|p1a: Toxapex|74/216 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1772745827
+|switch|p1a: Blissey|Blissey, L85, F|501/572
+|move|p2a: Scovillain|Leech Seed|p1a: Blissey
+|-start|p1a: Blissey|move: Leech Seed
+|
+|-heal|p1a: Blissey|536/572|[from] item: Leftovers
+|-damage|p1a: Blissey|465/572|[from] Leech Seed|[of] p2a: Scovillain
+|upkeep
+|turn|9
+|
+|t:|1772745841
+|move|p2a: Scovillain|Flamethrower|p1a: Blissey
+|-damage|p1a: Blissey|381/572
+|move|p1a: Blissey|Seismic Toss|p2a: Scovillain
+|-end|p2a: Scovillain|Substitute
+|
+|-heal|p1a: Blissey|416/572|[from] item: Leftovers
+|-damage|p1a: Blissey|345/572|[from] Leech Seed|[of] p2a: Scovillain
+|upkeep
+|turn|10
+|
+|t:|1772745851
+|switch|p1a: Toxapex|Toxapex, L82, M|146/216 brn
+|move|p2a: Scovillain|Substitute|p2a: Scovillain
+|-start|p2a: Scovillain|Substitute
+|-damage|p2a: Scovillain|200/266
+|
+|-heal|p2a: Scovillain|216/266|[from] item: Leftovers
+|-heal|p1a: Toxapex|159/216 brn|[from] item: Leftovers
+|-damage|p1a: Toxapex|146/216 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1772745861
+|switch|p1a: Farigiraf|Farigiraf, L91, F|366/366
+|move|p2a: Scovillain|Leech Seed|p1a: Farigiraf
+|-ability|p1a: Farigiraf|Sap Sipper|boost
+|-boost|p1a: Farigiraf|atk|1
+|
+|-heal|p2a: Scovillain|232/266|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1772745875
+|switch|p2a: Oricorio|Oricorio-Pom-Pom, L82, F|257/257
+|move|p1a: Farigiraf|Body Slam|p2a: Oricorio
+|-damage|p2a: Oricorio|71/257
+|
+|upkeep
+|turn|13
+|-message|CxId forfeited.
+|
+|win|toxicwyvern
+|raw|toxicwyvern's rating: 1766 &rarr; <strong>1784</strong><br />(+18 for winning)
+|raw|CxId's rating: 1737 &rarr; <strong>1719</strong><br />(-18 for losing)
+|l|☆CxId
+|player|p2|

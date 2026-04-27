@@ -1,0 +1,395 @@
+|j|☆rodrigovillogas24
+|j|☆autistaxdfg
+|t:|1776984179
+|gametype|singles
+|player|p1|rodrigovillogas24|169|1000
+|player|p2|autistaxdfg|lance|1000
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776984179
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Empoleon|Empoleon, L84, M|278/278
+|switch|p2a: Masquerain|Masquerain, L87, M|264/264
+|-ability|p2a: Masquerain|Intimidate|boost
+|-unboost|p1a: Empoleon|atk|1
+|-ability|p1a: Empoleon|Competitive|boost
+|-boost|p1a: Empoleon|spa|2
+|turn|1
+|
+|t:|1776984202
+|switch|p1a: Klawf|Klawf, L90, F|272/272
+|move|p2a: Masquerain|Stun Spore|p1a: Klawf|[miss]
+|-miss|p2a: Masquerain|p1a: Klawf
+|
+|upkeep
+|turn|2
+|
+|t:|1776984223
+|-terastallize|p2a: Masquerain|Water
+|move|p2a: Masquerain|Hydro Pump|p1a: Klawf
+|-supereffective|p1a: Klawf
+|-damage|p1a: Klawf|0 fnt
+|faint|p1a: Klawf
+|
+|upkeep
+|
+|t:|1776984234
+|switch|p1a: Dipplin|Dipplin, L88, M|284/284
+|turn|3
+|
+|t:|1776984242
+|switch|p2a: Gouging Fire|Gouging Fire, L74|277/277
+|move|p1a: Dipplin|Giga Drain|p2a: Gouging Fire
+|-resisted|p2a: Gouging Fire
+|-damage|p2a: Gouging Fire|252/277
+|
+|upkeep
+|turn|4
+|
+|t:|1776984254
+|switch|p1a: Drednaw|Drednaw, L81, F|278/278
+|move|p2a: Gouging Fire|Dragon Dance|p2a: Gouging Fire
+|-boost|p2a: Gouging Fire|atk|1
+|-boost|p2a: Gouging Fire|spe|1
+|
+|upkeep
+|turn|5
+|
+|t:|1776984266
+|move|p2a: Gouging Fire|Outrage|p1a: Drednaw
+|-damage|p1a: Drednaw|119/278
+|move|p1a: Drednaw|Liquidation|p2a: Gouging Fire
+|-damage|p2a: Gouging Fire|173/277
+|
+|upkeep
+|turn|6
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by autistaxdfg)
+|
+|t:|1776984274
+|move|p2a: Gouging Fire|Outrage|p1a: Drednaw|[from] lockedmove
+|-damage|p1a: Drednaw|0 fnt
+|faint|p1a: Drednaw
+|
+|upkeep
+|
+|t:|1776984283
+|switch|p1a: Empoleon|Empoleon, L84, M|278/278
+|turn|7
+|
+|t:|1776984297
+|move|p2a: Gouging Fire|Outrage|p1a: Empoleon|[from] lockedmove
+|-resisted|p1a: Empoleon
+|-damage|p1a: Empoleon|195/278
+|-start|p2a: Gouging Fire|confusion|[fatigue]
+|move|p1a: Empoleon|Surf|p2a: Gouging Fire
+|-damage|p2a: Gouging Fire|68/277
+|
+|-heal|p1a: Empoleon|212/278|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776984310
+|-activate|p2a: Gouging Fire|confusion
+|-damage|p2a: Gouging Fire|36/277|[from] confusion
+|move|p1a: Empoleon|Surf|p2a: Gouging Fire
+|-damage|p2a: Gouging Fire|0 fnt
+|faint|p2a: Gouging Fire
+|-end|p2a: Gouging Fire|Protosynthesis|[silent]
+|
+|-heal|p1a: Empoleon|229/278|[from] item: Leftovers
+|upkeep
+|
+|t:|1776984316
+|switch|p2a: Palafin|Palafin, L77, M|281/281
+|turn|9
+|
+|t:|1776984328
+|switch|p1a: Dipplin|Dipplin, L88, M|284/284
+|move|p2a: Palafin|Drain Punch|p1a: Dipplin
+|-damage|p1a: Dipplin|264/284
+|
+|upkeep
+|turn|10
+|
+|t:|1776984342
+|detailschange|p2a: Palafin|Palafin-Hero, L77, M
+|switch|p2a: Okidogi|Okidogi, L77, M|262/262
+|move|p1a: Dipplin|Giga Drain|p2a: Okidogi
+|-resisted|p2a: Okidogi
+|-damage|p2a: Okidogi|213/262
+|-heal|p1a: Dipplin|284/284|[from] drain|[of] p2a: Okidogi
+|
+|-heal|p2a: Okidogi|229/262|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776984354
+|move|p2a: Okidogi|Gunk Shot|p1a: Dipplin|[miss]
+|-miss|p2a: Okidogi|p1a: Dipplin
+|move|p1a: Dipplin|Dragon Pulse|p2a: Okidogi
+|-damage|p2a: Okidogi|115/262
+|
+|-heal|p2a: Okidogi|131/262|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776984363
+|move|p2a: Okidogi|Gunk Shot|p1a: Dipplin
+|-supereffective|p1a: Dipplin
+|-damage|p1a: Dipplin|134/284
+|move|p1a: Dipplin|Dragon Pulse|p2a: Okidogi
+|-damage|p2a: Okidogi|13/262
+|
+|-heal|p2a: Okidogi|29/262|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1776984372
+|move|p2a: Okidogi|Gunk Shot|p1a: Dipplin
+|-supereffective|p1a: Dipplin
+|-damage|p1a: Dipplin|0 fnt
+|faint|p1a: Dipplin
+|
+|-heal|p2a: Okidogi|45/262|[from] item: Leftovers
+|upkeep
+|
+|t:|1776984385
+|switch|p1a: Regidrago|Regidrago, L77|435/435
+|turn|14
+|
+|t:|1776984400
+|switch|p2a: Minior|Minior-Yellow, L79|224/224
+|-formechange|p2a: Minior|Minior-Meteor||[from] ability: Shields Down
+|move|p1a: Regidrago|Earthquake|p2a: Minior
+|-immune|p2a: Minior
+|
+|upkeep
+|turn|15
+|
+|t:|1776984414
+|-terastallize|p1a: Regidrago|Dragon
+|move|p1a: Regidrago|Draco Meteor|p2a: Minior
+|-damage|p2a: Minior|16/224
+|-unboost|p1a: Regidrago|spa|2
+|move|p2a: Minior|Earthquake|p1a: Regidrago
+|-damage|p1a: Regidrago|364/435
+|
+|-formechange|p2a: Minior|Minior-Yellow||[from] ability: Shields Down
+|upkeep
+|turn|16
+|
+|t:|1776984425
+|move|p2a: Minior|Shell Smash|p2a: Minior
+|-unboost|p2a: Minior|def|1
+|-unboost|p2a: Minior|spd|1
+|-boost|p2a: Minior|atk|2
+|-boost|p2a: Minior|spa|2
+|-boost|p2a: Minior|spe|2
+|-enditem|p2a: Minior|White Herb
+|-clearnegativeboost|p2a: Minior|[silent]
+|move|p1a: Regidrago|Outrage|p2a: Minior
+|-damage|p2a: Minior|0 fnt
+|faint|p2a: Minior
+|
+|upkeep
+|
+|t:|1776984439
+|switch|p2a: Masquerain|Masquerain, L87, M, tera:Water|264/264
+|-ability|p2a: Masquerain|Intimidate|boost
+|-unboost|p1a: Regidrago|atk|1
+|turn|17
+|
+|t:|1776984448
+|move|p2a: Masquerain|Hurricane|p1a: Regidrago
+|-damage|p1a: Regidrago|171/435
+|move|p1a: Regidrago|Outrage|p2a: Masquerain|[from] lockedmove
+|-damage|p2a: Masquerain|78/264
+|-start|p1a: Regidrago|confusion|[fatigue]
+|-enditem|p1a: Regidrago|Lum Berry|[eat]
+|-end|p1a: Regidrago|confusion
+|
+|upkeep
+|turn|18
+|
+|t:|1776984463
+|move|p2a: Masquerain|Hurricane|p1a: Regidrago
+|-damage|p1a: Regidrago|0 fnt
+|faint|p1a: Regidrago
+|
+|upkeep
+|
+|t:|1776984472
+|switch|p1a: Alcremie|Alcremie-Rainbow-Swirl, L90, F|263/263
+|turn|19
+|
+|t:|1776984487
+|move|p2a: Masquerain|Sticky Web|p1a: Alcremie
+|-sidestart|p1: rodrigovillogas24|move: Sticky Web
+|move|p1a: Alcremie|Alluring Voice|p2a: Masquerain
+|-damage|p2a: Masquerain|0 fnt
+|faint|p2a: Masquerain
+|
+|upkeep
+|
+|t:|1776984491
+|switch|p2a: Okidogi|Okidogi, L77, M|45/262
+|turn|20
+|
+|t:|1776984497
+|move|p2a: Okidogi|Gunk Shot|p1a: Alcremie
+|-supereffective|p1a: Alcremie
+|-damage|p1a: Alcremie|0 fnt
+|faint|p1a: Alcremie
+|
+|-heal|p2a: Okidogi|61/262|[from] item: Leftovers
+|upkeep
+|
+|t:|1776984504
+|switch|p1a: Empoleon|Empoleon, L84, M|229/278
+|-activate|p1a: Empoleon|move: Sticky Web
+|-unboost|p1a: Empoleon|spe|1
+|-ability|p1a: Empoleon|Competitive|boost
+|-boost|p1a: Empoleon|spa|2
+|turn|21
+|
+|t:|1776984521
+|move|p2a: Okidogi|Drain Punch|p1a: Empoleon
+|-supereffective|p1a: Empoleon
+|-damage|p1a: Empoleon|67/278
+|-heal|p2a: Okidogi|142/262|[from] drain|[of] p1a: Empoleon
+|move|p1a: Empoleon|Surf|p2a: Okidogi
+|-damage|p2a: Okidogi|0 fnt
+|faint|p2a: Okidogi
+|
+|-heal|p1a: Empoleon|84/278|[from] item: Leftovers
+|upkeep
+|
+|t:|1776984534
+|switch|p2a: Dachsbun|Dachsbun, L92, M|254/254
+|turn|22
+|
+|t:|1776984541
+|move|p2a: Dachsbun|Yawn|p1a: Empoleon
+|-start|p1a: Empoleon|move: Yawn|[of] p2a: Dachsbun
+|move|p1a: Empoleon|Flip Turn|p2a: Dachsbun
+|-damage|p2a: Dachsbun|208/254
+|
+|-heal|p2a: Dachsbun|223/254|[from] item: Leftovers
+|-heal|p1a: Empoleon|101/278|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1776984550
+|move|p2a: Dachsbun|Yawn||[still]
+|-fail|p2a: Dachsbun
+|move|p1a: Empoleon|Roost|p1a: Empoleon
+|-heal|p1a: Empoleon|240/278
+|-singleturn|p1a: Empoleon|move: Roost
+|
+|-heal|p2a: Dachsbun|238/254|[from] item: Leftovers
+|-heal|p1a: Empoleon|257/278|[from] item: Leftovers
+|-end|p1a: Empoleon|move: Yawn|[silent]
+|-status|p1a: Empoleon|slp
+|upkeep
+|turn|24
+|
+|t:|1776984564
+|move|p2a: Dachsbun|Protect|p2a: Dachsbun
+|-singleturn|p2a: Dachsbun|Protect
+|cant|p1a: Empoleon|slp
+|
+|-heal|p2a: Dachsbun|253/254|[from] item: Leftovers
+|-heal|p1a: Empoleon|274/278 slp|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1776984572
+|switch|p2a: Palafin|Palafin-Hero, L77, M|281/281
+|-activate|p2a: Palafin|ability: Zero to Hero
+|cant|p1a: Empoleon|slp
+|
+|-heal|p1a: Empoleon|278/278 slp|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1776984584
+|move|p2a: Palafin|Bulk Up|p2a: Palafin
+|-boost|p2a: Palafin|atk|1
+|-boost|p2a: Palafin|def|1
+|cant|p1a: Empoleon|slp
+|
+|upkeep
+|turn|27
+|
+|t:|1776984589
+|move|p2a: Palafin|Drain Punch|p1a: Empoleon
+|-supereffective|p1a: Empoleon
+|-damage|p1a: Empoleon|76/278 slp
+|-curestatus|p1a: Empoleon|slp|[msg]
+|move|p1a: Empoleon|Yawn|p2a: Palafin
+|-start|p2a: Palafin|move: Yawn|[of] p1a: Empoleon
+|
+|-heal|p1a: Empoleon|93/278|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1776984598
+|move|p2a: Palafin|Bulk Up|p2a: Palafin
+|-boost|p2a: Palafin|atk|1
+|-boost|p2a: Palafin|def|1
+|move|p1a: Empoleon|Roost|p1a: Empoleon
+|-heal|p1a: Empoleon|232/278
+|-singleturn|p1a: Empoleon|move: Roost
+|
+|-heal|p1a: Empoleon|249/278|[from] item: Leftovers
+|-end|p2a: Palafin|move: Yawn|[silent]
+|-status|p2a: Palafin|slp
+|upkeep
+|turn|29
+|
+|t:|1776984607
+|cant|p2a: Palafin|slp
+|move|p1a: Empoleon|Surf|p2a: Palafin
+|-resisted|p2a: Palafin
+|-damage|p2a: Palafin|164/281 slp
+|
+|-heal|p2a: Palafin|181/281 slp|[from] item: Leftovers
+|-heal|p1a: Empoleon|266/278|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1776984614
+|-curestatus|p2a: Palafin|slp|[msg]
+|move|p2a: Palafin|Drain Punch|p1a: Empoleon
+|-supereffective|p1a: Empoleon
+|-damage|p1a: Empoleon|4/278
+|-heal|p2a: Palafin|281/281|[from] drain|[of] p1a: Empoleon
+|move|p1a: Empoleon|Surf|p2a: Palafin
+|-resisted|p2a: Palafin
+|-damage|p2a: Palafin|168/281
+|
+|-heal|p2a: Palafin|185/281|[from] item: Leftovers
+|-heal|p1a: Empoleon|21/278|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1776984624
+|move|p2a: Palafin|Drain Punch|p1a: Empoleon
+|-supereffective|p1a: Empoleon
+|-damage|p1a: Empoleon|0 fnt
+|-heal|p2a: Palafin|196/281|[from] drain|[of] p1a: Empoleon
+|faint|p1a: Empoleon
+|
+|win|autistaxdfg
+|raw|rodrigovillogas24's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|raw|autistaxdfg's rating: 1000 &rarr; <strong>1040</strong><br />(+40 for winning)
+|l|☆rodrigovillogas24
+|player|p1|

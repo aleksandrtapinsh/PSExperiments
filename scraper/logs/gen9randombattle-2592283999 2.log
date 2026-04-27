@@ -1,0 +1,229 @@
+|j|☆brpablo
+|j|☆anzio24
+|t:|1776975798
+|gametype|singles
+|player|p1|brpablo|silver|1368
+|player|p2|anzio24|266|1377
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776975798
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Entei|Entei, L78|307/307
+|switch|p2a: Charizard|Charizard, L85, M|271/271
+|turn|1
+|
+|t:|1776975813
+|switch|p1a: Sandaconda|Sandaconda, L84, F|258/258
+|move|p2a: Charizard|Swords Dance|p2a: Charizard
+|-boost|p2a: Charizard|atk|2
+|
+|upkeep
+|turn|2
+|
+|t:|1776975833
+|-terastallize|p2a: Charizard|Dragon
+|move|p2a: Charizard|Swords Dance|p2a: Charizard
+|-boost|p2a: Charizard|atk|2
+|move|p1a: Sandaconda|Stone Edge|p2a: Charizard
+|-damage|p2a: Charizard|181/271
+|
+|upkeep
+|turn|3
+|
+|t:|1776975854
+|move|p2a: Charizard|Outrage|p1a: Sandaconda
+|-damage|p1a: Sandaconda|0 fnt
+|faint|p1a: Sandaconda
+|
+|upkeep
+|
+|t:|1776975863
+|switch|p1a: Milotic|Milotic, L83, F|293/293
+|turn|4
+|
+|t:|1776975889
+|switch|p1a: Corviknight|Corviknight, L80, F|288/288
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Charizard|Outrage|p1a: Corviknight|[from] lockedmove
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|117/288
+|-start|p2a: Charizard|confusion|[fatigue]
+|
+|-heal|p1a: Corviknight|135/288|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1776975909
+|-activate|p2a: Charizard|confusion
+|move|p2a: Charizard|Flare Blitz|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-damage|p1a: Corviknight|0 fnt
+|faint|p1a: Corviknight
+|-damage|p2a: Charizard|136/271|[from] Recoil
+|
+|upkeep
+|
+|t:|1776975915
+|switch|p1a: Milotic|Milotic, L83, F|293/293
+|turn|6
+|
+|t:|1776975935
+|-activate|p2a: Charizard|confusion
+|-damage|p2a: Charizard|48/271|[from] confusion
+|move|p1a: Milotic|Ice Beam|p2a: Charizard
+|-supereffective|p2a: Charizard
+|-damage|p2a: Charizard|0 fnt
+|faint|p2a: Charizard
+|
+|upkeep
+|
+|t:|1776975944
+|switch|p2a: Kyurem|Kyurem, L77|319/319
+|-ability|p2a: Kyurem|Pressure
+|turn|7
+|
+|t:|1776975952
+|switch|p1a: Entei|Entei, L78|307/307
+|move|p2a: Kyurem|Freeze-Dry|p1a: Entei
+|-resisted|p1a: Entei
+|-damage|p1a: Entei|257/307
+|-status|p1a: Entei|frz
+|
+|upkeep
+|turn|8
+|
+|t:|1776975965
+|-curestatus|p1a: Entei|frz|[from] move: Sacred Fire
+|move|p1a: Entei|Sacred Fire|p2a: Kyurem
+|-damage|p2a: Kyurem|150/319
+|-status|p2a: Kyurem|brn
+|move|p2a: Kyurem|Earth Power|p1a: Entei
+|-supereffective|p1a: Entei
+|-damage|p1a: Entei|101/307
+|
+|-damage|p2a: Kyurem|131/319 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1776975980
+|switch|p2a: Dragapult|Dragapult, L77, F|262/262
+|move|p1a: Entei|Sacred Fire|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|161/262
+|-status|p2a: Dragapult|brn
+|
+|-damage|p2a: Dragapult|145/262 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1776975996
+|switch|p1a: Hypno|Hypno, L95, F|315/315
+|move|p2a: Dragapult|Dragon Darts|p1a: Hypno
+|-damage|p1a: Hypno|276/315
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Hypno
+|-damage|p1a: Hypno|241/315
+|-damage|p2a: Dragapult|119/262 brn|[from] item: Life Orb
+|
+|-heal|p1a: Hypno|260/315|[from] item: Leftovers
+|-damage|p2a: Dragapult|103/262 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1776976017
+|switch|p2a: Indeedee|Indeedee, L84, M|238/238
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Indeedee
+|move|p1a: Hypno|Knock Off|p2a: Indeedee
+|-supereffective|p2a: Indeedee
+|-damage|p2a: Indeedee|54/238
+|-enditem|p2a: Indeedee|Life Orb|[from] move: Knock Off|[of] p1a: Hypno
+|
+|-heal|p1a: Hypno|279/315|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1776976028
+|move|p2a: Indeedee|Shadow Ball|p1a: Hypno
+|-supereffective|p1a: Hypno
+|-damage|p1a: Hypno|193/315
+|-unboost|p1a: Hypno|spd|1
+|move|p1a: Hypno|Knock Off|p2a: Indeedee
+|-supereffective|p2a: Indeedee
+|-damage|p2a: Indeedee|0 fnt
+|faint|p2a: Indeedee
+|
+|-heal|p1a: Hypno|212/315|[from] item: Leftovers
+|upkeep
+|
+|t:|1776976042
+|switch|p2a: Torkoal|Torkoal, L88, M|266/266
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|turn|13
+|
+|t:|1776976048
+|switch|p1a: Milotic|Milotic, L83, F|293/293
+|move|p2a: Torkoal|Lava Plume|p1a: Milotic
+|-resisted|p1a: Milotic
+|-damage|p1a: Milotic|243/293
+|-status|p1a: Milotic|brn
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Milotic|261/293 brn|[from] item: Leftovers
+|-damage|p1a: Milotic|243/293 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1776976054
+|move|p1a: Milotic|Scald|p2a: Torkoal
+|-supereffective|p2a: Torkoal
+|-damage|p2a: Torkoal|164/266
+|move|p2a: Torkoal|Solar Beam||[still]
+|-prepare|p2a: Torkoal|Solar Beam
+|-anim|p2a: Torkoal|Solar Beam|p1a: Milotic
+|-supereffective|p1a: Milotic
+|-damage|p1a: Milotic|101/293 brn
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Milotic|119/293 brn|[from] item: Leftovers
+|-damage|p1a: Milotic|101/293 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1776976063
+|-terastallize|p1a: Milotic|Dragon
+|move|p1a: Milotic|Recover|p1a: Milotic
+|-heal|p1a: Milotic|248/293 brn
+|move|p2a: Torkoal|Solar Beam||[still]
+|-prepare|p2a: Torkoal|Solar Beam
+|-anim|p2a: Torkoal|Solar Beam|p1a: Milotic
+|-resisted|p1a: Milotic
+|-crit|p1a: Milotic
+|-damage|p1a: Milotic|202/293 brn
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Milotic|220/293 brn|[from] item: Leftovers
+|-damage|p1a: Milotic|202/293 brn|[from] brn
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|16
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by brpablo)
+|inactive|anzio24 has 120 seconds left.
+|inactive|anzio24 has 90 seconds left.
+|inactive|anzio24 has 60 seconds left.
+|inactive|anzio24 has 30 seconds left.
+|inactive|anzio24 has 20 seconds left.
+|inactive|anzio24 has 15 seconds left.
+|inactive|anzio24 has 10 seconds left.
+|inactive|anzio24 has 5 seconds left.
+|-message|anzio24 lost due to inactivity.
+|
+|win|brpablo
+|raw|brpablo's rating: 1368 &rarr; <strong>1387</strong><br />(+19 for winning)
+|raw|anzio24's rating: 1356 &rarr; <strong>1337</strong><br />(-19 for losing)

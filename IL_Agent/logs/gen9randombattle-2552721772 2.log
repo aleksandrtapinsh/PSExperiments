@@ -1,0 +1,429 @@
+|j|☆Hevijak
+|j|☆lionboy7167111111
+|t:|1772746789
+|gametype|singles
+|player|p1|Hevijak|emma-lza|
+|player|p2|lionboy7167111111|youngn|
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772746789
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Gastrodon|Gastrodon-East, L86, M|331/331
+|switch|p2a: Vileplume|Vileplume, L85, F|266/266
+|turn|1
+|
+|t:|1772746803
+|switch|p1a: Arcanine|Arcanine-Hisui, L79, M|279/279
+|move|p2a: Vileplume|Leech Seed|p1a: Arcanine
+|-start|p1a: Arcanine|move: Leech Seed
+|
+|-damage|p1a: Arcanine|245/279|[from] Leech Seed|[of] p2a: Vileplume
+|upkeep
+|turn|2
+|
+|t:|1772746821
+|switch|p2a: Gastrodon|Gastrodon-East, L86, M|331/331
+|move|p1a: Arcanine|Flare Blitz|p2a: Gastrodon
+|-resisted|p2a: Gastrodon
+|-damage|p2a: Gastrodon|214/331
+|
+|-heal|p2a: Gastrodon|234/331|[from] item: Leftovers
+|-damage|p1a: Arcanine|211/279|[from] Leech Seed|[of] p2a: Gastrodon
+|-heal|p2a: Gastrodon|268/331|[silent]
+|upkeep
+|turn|3
+|
+|t:|1772746832
+|switch|p1a: Gastrodon|Gastrodon-East, L86, M|331/331
+|move|p2a: Gastrodon|Earthquake|p1a: Gastrodon
+|-damage|p1a: Gastrodon|210/331
+|
+|-heal|p2a: Gastrodon|288/331|[from] item: Leftovers
+|-heal|p1a: Gastrodon|230/331|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1772746846
+|switch|p2a: Vileplume|Vileplume, L85, F|266/266
+|move|p1a: Gastrodon|Stealth Rock|p2a: Vileplume
+|-sidestart|p2: lionboy7167111111|move: Stealth Rock
+|
+|-heal|p1a: Gastrodon|250/331|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1772746856
+|switch|p1a: Arcanine|Arcanine-Hisui, L79, M|211/279
+|move|p2a: Vileplume|Leech Seed|p1a: Arcanine|[miss]
+|-miss|p2a: Vileplume|p1a: Arcanine
+|
+|upkeep
+|turn|6
+|
+|t:|1772746871
+|switch|p2a: Gastrodon|Gastrodon-East, L86, M|288/331
+|-damage|p2a: Gastrodon|268/331|[from] Stealth Rock
+|move|p1a: Arcanine|Head Smash|p2a: Gastrodon
+|-resisted|p2a: Gastrodon
+|-damage|p2a: Gastrodon|133/331
+|
+|-heal|p2a: Gastrodon|153/331|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1772746881
+|switch|p1a: Gastrodon|Gastrodon-East, L86, M|250/331
+|move|p2a: Gastrodon|Recover|p2a: Gastrodon
+|-heal|p2a: Gastrodon|319/331
+|
+|-heal|p1a: Gastrodon|270/331|[from] item: Leftovers
+|-heal|p2a: Gastrodon|331/331|[from] item: Leftovers
+|upkeep
+|turn|8
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Hevijak)
+|
+|t:|1772746911
+|move|p1a: Gastrodon|Earthquake|p2a: Gastrodon
+|-damage|p2a: Gastrodon|220/331
+|move|p2a: Gastrodon|Earthquake|p1a: Gastrodon
+|-damage|p1a: Gastrodon|149/331
+|
+|-heal|p1a: Gastrodon|169/331|[from] item: Leftovers
+|-heal|p2a: Gastrodon|240/331|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1772746916
+|move|p1a: Gastrodon|Recover|p1a: Gastrodon
+|-heal|p1a: Gastrodon|331/331
+|move|p2a: Gastrodon|Earthquake|p1a: Gastrodon
+|-damage|p1a: Gastrodon|208/331
+|
+|-heal|p1a: Gastrodon|228/331|[from] item: Leftovers
+|-heal|p2a: Gastrodon|260/331|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1772746924
+|move|p2a: Gastrodon|Earthquake|p1a: Gastrodon
+|-damage|p1a: Gastrodon|113/331
+|move|p1a: Gastrodon|Earthquake|p2a: Gastrodon
+|-damage|p2a: Gastrodon|134/331
+|
+|-heal|p2a: Gastrodon|154/331|[from] item: Leftovers
+|-heal|p1a: Gastrodon|133/331|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1772746930
+|move|p1a: Gastrodon|Recover|p1a: Gastrodon
+|-heal|p1a: Gastrodon|299/331
+|move|p2a: Gastrodon|Earthquake|p1a: Gastrodon
+|-damage|p1a: Gastrodon|181/331
+|
+|-heal|p1a: Gastrodon|201/331|[from] item: Leftovers
+|-heal|p2a: Gastrodon|174/331|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1772746942
+|move|p1a: Gastrodon|Recover|p1a: Gastrodon
+|-heal|p1a: Gastrodon|331/331
+|move|p2a: Gastrodon|Recover|p2a: Gastrodon
+|-heal|p2a: Gastrodon|331/331
+|
+|upkeep
+|turn|13
+|
+|t:|1772746951
+|move|p1a: Gastrodon|Earthquake|p2a: Gastrodon
+|-damage|p2a: Gastrodon|214/331
+|move|p2a: Gastrodon|Earthquake|p1a: Gastrodon
+|-damage|p1a: Gastrodon|213/331
+|
+|-heal|p1a: Gastrodon|233/331|[from] item: Leftovers
+|-heal|p2a: Gastrodon|234/331|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1772746957
+|move|p1a: Gastrodon|Earthquake|p2a: Gastrodon
+|-damage|p2a: Gastrodon|116/331
+|move|p2a: Gastrodon|Earthquake|p1a: Gastrodon
+|-damage|p1a: Gastrodon|121/331
+|
+|-heal|p1a: Gastrodon|141/331|[from] item: Leftovers
+|-heal|p2a: Gastrodon|136/331|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1772746964
+|move|p2a: Gastrodon|Earthquake|p1a: Gastrodon
+|-damage|p1a: Gastrodon|29/331
+|move|p1a: Gastrodon|Recover|p1a: Gastrodon
+|-heal|p1a: Gastrodon|195/331
+|
+|-heal|p2a: Gastrodon|156/331|[from] item: Leftovers
+|-heal|p1a: Gastrodon|215/331|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1772746970
+|move|p1a: Gastrodon|Earthquake|p2a: Gastrodon
+|-damage|p2a: Gastrodon|39/331
+|move|p2a: Gastrodon|Recover|p2a: Gastrodon
+|-heal|p2a: Gastrodon|205/331
+|
+|-heal|p1a: Gastrodon|235/331|[from] item: Leftovers
+|-heal|p2a: Gastrodon|225/331|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1772746978
+|switch|p2a: Vileplume|Vileplume, L85, F|266/266
+|-damage|p2a: Vileplume|233/266|[from] Stealth Rock
+|move|p1a: Gastrodon|Earthquake|p2a: Vileplume
+|-damage|p2a: Vileplume|137/266
+|
+|-heal|p2a: Vileplume|153/266|[from] item: Leftovers
+|-heal|p1a: Gastrodon|255/331|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1772746990
+|switch|p1a: Perrserker|Perrserker, L89, F|269/269
+|move|p2a: Vileplume|Strength Sap|p1a: Perrserker
+|-unboost|p1a: Perrserker|atk|1
+|-heal|p2a: Vileplume|266/266
+|
+|upkeep
+|turn|19
+|
+|t:|1772746996
+|move|p1a: Perrserker|U-turn|p2a: Vileplume
+|-damage|p2a: Vileplume|206/266
+|-status|p1a: Perrserker|slp|[from] ability: Effect Spore|[of] p2a: Vileplume
+|
+|t:|1772747005
+|switch|p1a: Ribombee|Ribombee, L83, F|235/235|[from] U-turn
+|move|p2a: Vileplume|Leech Seed|p1a: Ribombee
+|-start|p1a: Ribombee|move: Leech Seed
+|
+|-heal|p2a: Vileplume|222/266|[from] item: Leftovers
+|-damage|p1a: Ribombee|206/235|[from] Leech Seed|[of] p2a: Vileplume
+|-heal|p2a: Vileplume|251/266|[silent]
+|upkeep
+|turn|20
+|
+|t:|1772747012
+|switch|p1a: Arcanine|Arcanine-Hisui, L79, M|211/279
+|move|p2a: Vileplume|Sludge Bomb|p1a: Arcanine
+|-resisted|p1a: Arcanine
+|-damage|p1a: Arcanine|145/279
+|-status|p1a: Arcanine|psn
+|
+|-heal|p2a: Vileplume|266/266|[from] item: Leftovers
+|-damage|p1a: Arcanine|111/279 psn|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1772747018
+|move|p1a: Arcanine|Flare Blitz|p2a: Vileplume
+|-supereffective|p2a: Vileplume
+|-damage|p2a: Vileplume|0 fnt
+|faint|p2a: Vileplume
+|
+|-damage|p1a: Arcanine|77/279 psn|[from] psn
+|upkeep
+|
+|t:|1772747023
+|switch|p2a: Dugtrio|Dugtrio-Alola, L84, M|196/196
+|-damage|p2a: Dugtrio|190/196|[from] Stealth Rock
+|turn|22
+|
+|t:|1772747041
+|switch|p1a: Gastrodon|Gastrodon-East, L86, M|255/331
+|move|p2a: Dugtrio|Swords Dance|p2a: Dugtrio
+|-boost|p2a: Dugtrio|atk|2
+|
+|-heal|p1a: Gastrodon|275/331|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1772747047
+|move|p2a: Dugtrio|Iron Head|p1a: Gastrodon
+|-resisted|p1a: Gastrodon
+|-damage|p1a: Gastrodon|150/331
+|-damage|p2a: Dugtrio|171/196|[from] item: Life Orb
+|move|p1a: Gastrodon|Earthquake|p2a: Dugtrio
+|-supereffective|p2a: Dugtrio
+|-damage|p2a: Dugtrio|0 fnt
+|faint|p2a: Dugtrio
+|
+|-heal|p1a: Gastrodon|170/331|[from] item: Leftovers
+|upkeep
+|
+|t:|1772747061
+|switch|p2a: Revavroom|Revavroom, L79, M|256/256
+|-damage|p2a: Revavroom|240/256|[from] Stealth Rock
+|turn|24
+|
+|t:|1772747071
+|move|p2a: Revavroom|Gunk Shot|p1a: Gastrodon
+|-resisted|p1a: Gastrodon
+|-damage|p1a: Gastrodon|74/331
+|-damage|p2a: Revavroom|215/256|[from] item: Life Orb
+|move|p1a: Gastrodon|Recover|p1a: Gastrodon
+|-heal|p1a: Gastrodon|240/331
+|
+|-heal|p1a: Gastrodon|260/331|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1772747086
+|move|p2a: Revavroom|Shift Gear|p2a: Revavroom
+|-boost|p2a: Revavroom|spe|2
+|-boost|p2a: Revavroom|atk|1
+|move|p1a: Gastrodon|Earthquake|p2a: Revavroom
+|-supereffective|p2a: Revavroom
+|-damage|p2a: Revavroom|0 fnt
+|faint|p2a: Revavroom
+|
+|-heal|p1a: Gastrodon|280/331|[from] item: Leftovers
+|upkeep
+|
+|t:|1772747088
+|switch|p2a: Alcremie|Alcremie-Caramel-Swirl, L90, F|263/263
+|-damage|p2a: Alcremie|231/263|[from] Stealth Rock
+|turn|26
+|
+|t:|1772747093
+|move|p2a: Alcremie|Calm Mind|p2a: Alcremie
+|-boost|p2a: Alcremie|spa|1
+|-boost|p2a: Alcremie|spd|1
+|move|p1a: Gastrodon|Sludge Bomb|p2a: Alcremie
+|-supereffective|p2a: Alcremie
+|-damage|p2a: Alcremie|171/263
+|
+|-heal|p2a: Alcremie|187/263|[from] item: Leftovers
+|-heal|p1a: Gastrodon|300/331|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1772747101
+|switch|p1a: Perrserker|Perrserker, L89, F|269/269 slp
+|move|p2a: Alcremie|Calm Mind|p2a: Alcremie
+|-boost|p2a: Alcremie|spa|1
+|-boost|p2a: Alcremie|spd|1
+|
+|-heal|p2a: Alcremie|203/263|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1772747107
+|move|p2a: Alcremie|Psyshock|p1a: Perrserker
+|-resisted|p1a: Perrserker
+|-damage|p1a: Perrserker|210/269 slp
+|cant|p1a: Perrserker|slp
+|
+|-heal|p2a: Alcremie|219/263|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1772747113
+|move|p2a: Alcremie|Calm Mind|p2a: Alcremie
+|-boost|p2a: Alcremie|spa|1
+|-boost|p2a: Alcremie|spd|1
+|cant|p1a: Perrserker|slp
+|
+|-heal|p2a: Alcremie|235/263|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1772747116
+|move|p2a: Alcremie|Psyshock|p1a: Perrserker
+|-resisted|p1a: Perrserker
+|-damage|p1a: Perrserker|138/269 slp
+|-curestatus|p1a: Perrserker|slp|[msg]
+|move|p1a: Perrserker|Iron Head|p2a: Alcremie
+|-supereffective|p2a: Alcremie
+|-damage|p2a: Alcremie|0 fnt
+|faint|p2a: Alcremie
+|
+|upkeep
+|
+|t:|1772747122
+|switch|p2a: Iron Hands|Iron Hands, L79|373/373
+|-damage|p2a: Iron Hands|350/373|[from] Stealth Rock
+|turn|31
+|
+|t:|1772747129
+|switch|p1a: Ribombee|Ribombee, L83, F|206/235
+|move|p2a: Iron Hands|Fake Out|p1a: Ribombee
+|-damage|p1a: Ribombee|163/235
+|
+|upkeep
+|turn|32
+|
+|t:|1772747133
+|move|p1a: Ribombee|Moonblast|p2a: Iron Hands
+|-supereffective|p2a: Iron Hands
+|-damage|p2a: Iron Hands|174/373
+|-unboost|p2a: Iron Hands|spa|1
+|move|p2a: Iron Hands|Wild Charge|p1a: Ribombee
+|-damage|p1a: Ribombee|9/235
+|-damage|p2a: Iron Hands|135/373|[from] Recoil
+|
+|upkeep
+|turn|33
+|
+|t:|1772747142
+|move|p1a: Ribombee|Moonblast|p2a: Iron Hands
+|-supereffective|p2a: Iron Hands
+|-damage|p2a: Iron Hands|0 fnt
+|faint|p2a: Iron Hands
+|-end|p2a: Iron Hands|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1772747145
+|switch|p2a: Gastrodon|Gastrodon-East, L86, M|225/331
+|-damage|p2a: Gastrodon|205/331|[from] Stealth Rock
+|turn|34
+|
+|t:|1772747153
+|switch|p1a: Lilligant|Lilligant-Hisui, L79, F|240/240
+|move|p2a: Gastrodon|Surf|p1a: Lilligant
+|-resisted|p1a: Lilligant
+|-damage|p1a: Lilligant|185/240
+|
+|-heal|p2a: Gastrodon|225/331|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1772747158
+|move|p1a: Lilligant|Leaf Blade|p2a: Gastrodon|[miss]
+|-miss|p1a: Lilligant|p2a: Gastrodon
+|move|p2a: Gastrodon|Clear Smog|p1a: Lilligant
+|-supereffective|p1a: Lilligant
+|-damage|p1a: Lilligant|97/240
+|-clearboost|p1a: Lilligant
+|
+|-heal|p2a: Gastrodon|245/331|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1772747161
+|move|p1a: Lilligant|Leaf Blade|p2a: Gastrodon
+|-supereffective|p2a: Gastrodon
+|-damage|p2a: Gastrodon|0 fnt
+|faint|p2a: Gastrodon
+|
+|win|Hevijak

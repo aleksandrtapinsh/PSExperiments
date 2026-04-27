@@ -1,0 +1,211 @@
+|j|☆mora009
+|j|☆mr.saigais
+|t:|1772743874
+|gametype|singles
+|player|p1|mora009|169|1148
+|player|p2|mr.saigais|giovanni|1117
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772743874
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Blaziken|Blaziken, L76, M|247/247
+|switch|p2a: Sableye|Sableye, L88, F|231/231
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by mora009)
+|
+|t:|1772743891
+|move|p1a: Blaziken|Swords Dance|p1a: Blaziken
+|-boost|p1a: Blaziken|atk|2
+|move|p2a: Sableye|Knock Off|p1a: Blaziken
+|-resisted|p1a: Blaziken
+|-damage|p1a: Blaziken|189/247
+|-enditem|p1a: Blaziken|Life Orb|[from] move: Knock Off|[of] p2a: Sableye
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|2
+|
+|t:|1772743910
+|move|p2a: Sableye|Encore|p1a: Blaziken
+|-start|p1a: Blaziken|Encore
+|move|p1a: Blaziken|Swords Dance|p1a: Blaziken
+|-boost|p1a: Blaziken|atk|2
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|3
+|
+|t:|1772743926
+|switch|p1a: Shiftry|Shiftry, L89, M|305/305
+|switch|p2a: Mimikyu|Mimikyu, L79, F|216/216
+|
+|upkeep
+|turn|4
+|
+|t:|1772743935
+|move|p2a: Mimikyu|Swords Dance|p2a: Mimikyu
+|-boost|p2a: Mimikyu|atk|2
+|move|p1a: Shiftry|Knock Off|p2a: Mimikyu
+|-activate|p2a: Mimikyu|ability: Disguise
+|-damage|p2a: Mimikyu|216/216
+|-enditem|p2a: Mimikyu|Life Orb|[from] move: Knock Off|[of] p1a: Shiftry
+|detailschange|p2a: Mimikyu|Mimikyu-Busted, L79, F
+|-damage|p2a: Mimikyu|189/216|[from] pokemon: Mimikyu-Busted
+|
+|upkeep
+|turn|5
+|
+|t:|1772743945
+|move|p2a: Mimikyu|Play Rough|p1a: Shiftry
+|-supereffective|p1a: Shiftry
+|-damage|p1a: Shiftry|0 fnt
+|faint|p1a: Shiftry
+|
+|upkeep
+|
+|t:|1772743949
+|switch|p1a: Iron Crown|Iron Crown, L78|268/268
+|turn|6
+|
+|t:|1772743967
+|switch|p2a: Sableye|Sableye, L88, F|231/231
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Sableye
+|-damage|p2a: Sableye|167/231
+|-damage|p2a: Sableye|101/231
+|-hitcount|p2a: Sableye|2
+|
+|-heal|p2a: Sableye|115/231|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1772743979
+|move|p2a: Sableye|Will-O-Wisp|p1a: Iron Crown
+|-status|p1a: Iron Crown|brn
+|move|p1a: Iron Crown|Calm Mind|p1a: Iron Crown
+|-boost|p1a: Iron Crown|spa|1
+|-boost|p1a: Iron Crown|spd|1
+|
+|-heal|p2a: Sableye|129/231|[from] item: Leftovers
+|-damage|p1a: Iron Crown|252/268 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1772743989
+|move|p2a: Sableye|Encore|p1a: Iron Crown
+|-start|p1a: Iron Crown|Encore
+|move|p1a: Iron Crown|Calm Mind|p1a: Iron Crown
+|-boost|p1a: Iron Crown|spa|1
+|-boost|p1a: Iron Crown|spd|1
+|
+|-heal|p1a: Iron Crown|268/268 brn|[from] item: Leftovers
+|-heal|p2a: Sableye|143/231|[from] item: Leftovers
+|-damage|p1a: Iron Crown|252/268 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1772743999
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|switch|p1a: Blaziken|Blaziken, L76, M|189/247
+|move|p2a: Sableye|Knock Off|p1a: Blaziken
+|-resisted|p1a: Blaziken
+|-damage|p1a: Blaziken|147/247
+|
+|-heal|p2a: Sableye|157/231|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1772744011
+|move|p2a: Sableye|Recover|p2a: Sableye
+|-heal|p2a: Sableye|231/231
+|move|p1a: Blaziken|Knock Off|p2a: Sableye
+|-damage|p2a: Sableye|156/231
+|-enditem|p2a: Sableye|Leftovers|[from] move: Knock Off|[of] p1a: Blaziken
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|11
+|
+|t:|1772744025
+|move|p2a: Sableye|Recover|p2a: Sableye
+|-heal|p2a: Sableye|231/231
+|move|p1a: Blaziken|Flare Blitz|p2a: Sableye
+|-damage|p2a: Sableye|102/231
+|-damage|p1a: Blaziken|104/247|[from] Recoil
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|12
+|
+|t:|1772744034
+|move|p2a: Sableye|Recover|p2a: Sableye
+|-heal|p2a: Sableye|218/231
+|move|p1a: Blaziken|Flare Blitz|p2a: Sableye
+|-damage|p2a: Sableye|83/231
+|-damage|p1a: Blaziken|59/247|[from] Recoil
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|13
+|
+|t:|1772744044
+|move|p2a: Sableye|Recover|p2a: Sableye
+|-heal|p2a: Sableye|199/231
+|move|p1a: Blaziken|Flare Blitz|p2a: Sableye
+|-damage|p2a: Sableye|67/231
+|-damage|p1a: Blaziken|15/247|[from] Recoil
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|14
+|
+|t:|1772744054
+|move|p2a: Sableye|Recover|p2a: Sableye
+|-heal|p2a: Sableye|183/231
+|move|p1a: Blaziken|Swords Dance|p1a: Blaziken
+|-boost|p1a: Blaziken|atk|2
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|15
+|
+|t:|1772744059
+|move|p2a: Sableye|Encore|p1a: Blaziken
+|-start|p1a: Blaziken|Encore
+|move|p1a: Blaziken|Swords Dance|p1a: Blaziken
+|-boost|p1a: Blaziken|atk|2
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|16
+|
+|t:|1772744067
+|switch|p1a: Ursaluna|Ursaluna, L79, F|335/335
+|move|p2a: Sableye|Knock Off|p1a: Ursaluna
+|-damage|p1a: Ursaluna|244/335
+|-enditem|p1a: Ursaluna|Flame Orb|[from] move: Knock Off|[of] p2a: Sableye
+|
+|upkeep
+|turn|17
+|-message|mora009 forfeited.
+|
+|win|mr.saigais
+|raw|mora009's rating: 1148 &rarr; <strong>1121</strong><br />(-27 for losing)
+|raw|mr.saigais's rating: 1117 &rarr; <strong>1144</strong><br />(+27 for winning)
+|l|☆mora009
+|player|p1|

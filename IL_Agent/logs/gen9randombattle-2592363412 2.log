@@ -1,0 +1,151 @@
+|j|☆adomorn
+|j|☆raraantifa
+|t:|1776982310
+|gametype|singles
+|player|p1|adomorn|102|1720
+|player|p2|raraantifa|170|1724
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776982310
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Flygon|Flygon, L82, F|265/265
+|switch|p2a: Inteleon|Inteleon, L81, M|246/246
+|turn|1
+|
+|t:|1776982329
+|switch|p1a: Florges|Florges-Yellow, L85, F|271/271
+|move|p2a: Inteleon|Ice Beam|p1a: Florges
+|-damage|p1a: Florges|207/271
+|
+|-heal|p1a: Florges|223/271|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776982346
+|switch|p2a: Vigoroth|Vigoroth, L85, F|275/275
+|move|p1a: Florges|Moonblast|p2a: Vigoroth
+|-damage|p2a: Vigoroth|161/275
+|
+|-heal|p1a: Florges|239/271|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776982354
+|move|p2a: Vigoroth|Body Slam|p1a: Florges
+|-damage|p1a: Florges|148/271
+|move|p1a: Florges|Calm Mind|p1a: Florges
+|-boost|p1a: Florges|spa|1
+|-boost|p1a: Florges|spd|1
+|
+|-heal|p1a: Florges|164/271|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776982390
+|move|p2a: Vigoroth|Body Slam|p1a: Florges
+|-damage|p1a: Florges|64/271
+|-status|p1a: Florges|par
+|move|p1a: Florges|Moonblast|p2a: Vigoroth
+|-damage|p2a: Vigoroth|0 fnt
+|faint|p2a: Vigoroth
+|
+|-heal|p1a: Florges|80/271 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1776982408
+|switch|p2a: Conkeldurr|Conkeldurr, L80, F|299/299
+|turn|5
+|
+|t:|1776982411
+|move|p2a: Conkeldurr|Facade|p1a: Florges
+|-damage|p1a: Florges|4/271 par
+|move|p1a: Florges|Moonblast|p2a: Conkeldurr
+|-supereffective|p2a: Conkeldurr
+|-damage|p2a: Conkeldurr|0 fnt
+|faint|p2a: Conkeldurr
+|
+|-heal|p1a: Florges|20/271 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1776982414
+|switch|p2a: Drifblim|Drifblim, L86, M|396/396
+|turn|6
+|
+|t:|1776982418
+|move|p1a: Florges|Protect|p1a: Florges
+|-singleturn|p1a: Florges|Protect
+|move|p2a: Drifblim|Calm Mind|p2a: Drifblim
+|-boost|p2a: Drifblim|spa|1
+|-boost|p2a: Drifblim|spd|1
+|
+|-heal|p1a: Florges|36/271 par|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1776982427
+|move|p2a: Drifblim|Shadow Ball|p1a: Florges
+|-damage|p1a: Florges|0 fnt
+|faint|p1a: Florges
+|
+|upkeep
+|
+|t:|1776982434
+|switch|p1a: Quagsire|Quagsire, L84, F|297/297
+|turn|8
+|
+|t:|1776982445
+|switch|p2a: Inteleon|Inteleon, L81, M|246/246
+|move|p1a: Quagsire|Toxic|p2a: Inteleon
+|-status|p2a: Inteleon|tox
+|
+|-damage|p2a: Inteleon|231/246 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1776982453
+|switch|p1a: Wigglytuff|Wigglytuff, L96, M|424/424
+|move|p2a: Inteleon|Hydro Pump|p1a: Wigglytuff
+|-damage|p1a: Wigglytuff|154/424
+|
+|-heal|p1a: Wigglytuff|180/424|[from] item: Leftovers
+|-damage|p2a: Inteleon|201/246 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1776982497
+|move|p1a: Wigglytuff|Protect|p1a: Wigglytuff
+|-singleturn|p1a: Wigglytuff|Protect
+|move|p2a: Inteleon|Hydro Pump|p1a: Wigglytuff
+|-activate|p1a: Wigglytuff|move: Protect
+|
+|-heal|p1a: Wigglytuff|206/424|[from] item: Leftovers
+|-damage|p2a: Inteleon|156/246 tox|[from] psn
+|upkeep
+|turn|11
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by adomorn)
+|
+|t:|1776982503
+|move|p2a: Inteleon|Hydro Pump|p1a: Wigglytuff|[miss]
+|-miss|p2a: Inteleon|p1a: Wigglytuff
+|move|p1a: Wigglytuff|Knock Off|p2a: Inteleon
+|-crit|p2a: Inteleon
+|-damage|p2a: Inteleon|11/246 tox
+|-enditem|p2a: Inteleon|Choice Specs|[from] move: Knock Off|[of] p1a: Wigglytuff
+|
+|-heal|p1a: Wigglytuff|232/424|[from] item: Leftovers
+|-damage|p2a: Inteleon|0 fnt|[from] psn
+|faint|p2a: Inteleon
+|upkeep
+|-message|raraantifa forfeited.
+|
+|win|adomorn
+|raw|adomorn's rating: 1720 &rarr; <strong>1740</strong><br />(+20 for winning)
+|raw|raraantifa's rating: 1724 &rarr; <strong>1704</strong><br />(-20 for losing)

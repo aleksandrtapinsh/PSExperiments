@@ -1,0 +1,285 @@
+|j|☆ben12345
+|j|☆animejat
+|t:|1776983059
+|gametype|singles
+|player|p1|ben12345|102|1483
+|player|p2|animejat|lucian|1516
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776983059
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Dondozo|Dondozo, L78, F|362/362
+|switch|p2a: Flareon|Flareon, L90, F|263/263
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by animejat)
+|
+|t:|1776983085
+|switch|p2a: Weezing|Weezing-Galar, L86, F|252/252
+|move|p1a: Dondozo|Wave Crash|p2a: Weezing
+|-damage|p2a: Weezing|162/252
+|-damage|p1a: Dondozo|332/362|[from] Recoil
+|
+|-heal|p2a: Weezing|177/252|[from] item: Leftovers
+|-heal|p1a: Dondozo|354/362|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1776983100
+|switch|p1a: Electrode|Electrode, L92|260/260
+|move|p2a: Weezing|Strange Steam|p1a: Electrode
+|-damage|p1a: Electrode|172/260
+|
+|-heal|p2a: Weezing|192/252|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1776983110
+|move|p1a: Electrode|Thunderbolt|p2a: Weezing
+|-damage|p2a: Weezing|43/252
+|-damage|p1a: Electrode|146/260|[from] item: Life Orb
+|move|p2a: Weezing|Gunk Shot|p1a: Electrode
+|-damage|p1a: Electrode|2/260
+|
+|-heal|p2a: Weezing|58/252|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776983119
+|switch|p2a: Blissey|Blissey, L85, F|572/572
+|move|p1a: Electrode|Thunderbolt|p2a: Blissey
+|-damage|p2a: Blissey|478/572
+|-damage|p1a: Electrode|0 fnt|[from] item: Life Orb
+|faint|p1a: Electrode
+|
+|-heal|p2a: Blissey|513/572|[from] item: Leftovers
+|upkeep
+|
+|t:|1776983125
+|switch|p1a: Lokix|Lokix, L82, F|251/251
+|turn|5
+|
+|t:|1776983148
+|switch|p2a: Oricorio|Oricorio-Sensu, L85, F|266/266
+|move|p1a: Lokix|Knock Off|p2a: Oricorio
+|-supereffective|p2a: Oricorio
+|-damage|p2a: Oricorio|8/266
+|-enditem|p2a: Oricorio|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Lokix
+|
+|upkeep
+|turn|6
+|
+|t:|1776983156
+|move|p1a: Lokix|Sucker Punch|p2a: Oricorio
+|-supereffective|p2a: Oricorio
+|-damage|p2a: Oricorio|0 fnt
+|faint|p2a: Oricorio
+|
+|upkeep
+|
+|t:|1776983172
+|switch|p2a: Porygon-Z|Porygon-Z, L83|277/277
+|-ability|p2a: Porygon-Z|Download|boost
+|-boost|p2a: Porygon-Z|spa|1
+|turn|7
+|inactive|animejat has 120 seconds left.
+|
+|t:|1776983196
+|move|p1a: Lokix|U-turn|p2a: Porygon-Z
+|-damage|p2a: Porygon-Z|169/277
+|inactive|ben12345 has 120 seconds left.
+|
+|t:|1776983227
+|switch|p1a: Amoonguss|Amoonguss, L82, M|321/321|[from] U-turn
+|move|p2a: Porygon-Z|Tri Attack|p1a: Amoonguss
+|-damage|p1a: Amoonguss|74/321
+|-damage|p2a: Porygon-Z|142/277|[from] item: Life Orb
+|
+|upkeep
+|turn|8
+|inactive|animejat has 120 seconds left.
+|
+|t:|1776983240
+|move|p2a: Porygon-Z|Ice Beam|p1a: Amoonguss
+|-supereffective|p1a: Amoonguss
+|-damage|p1a: Amoonguss|0 fnt
+|faint|p1a: Amoonguss
+|-damage|p2a: Porygon-Z|115/277|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776983245
+|switch|p1a: Pikachu|Pikachu-Unova, L93, F|216/216
+|turn|9
+|inactive|animejat has 120 seconds left.
+|
+|t:|1776983272
+|switch|p2a: Flareon|Flareon, L90, F|263/263
+|move|p1a: Pikachu|Volt Tackle|p2a: Flareon
+|-damage|p2a: Flareon|2/263
+|-damage|p1a: Pikachu|130/216|[from] Recoil
+|
+|-status|p2a: Flareon|tox|[from] item: Toxic Orb
+|upkeep
+|turn|10
+|
+|t:|1776983294
+|move|p1a: Pikachu|Volt Switch|p2a: Flareon
+|-crit|p2a: Flareon
+|-damage|p2a: Flareon|0 fnt
+|faint|p2a: Flareon
+|inactive|ben12345 has 120 seconds left.
+|
+|t:|1776983309
+|switch|p1a: Lokix|Lokix, L82, F|251/251|[from] Volt Switch
+|
+|upkeep
+|
+|t:|1776983321
+|switch|p2a: Weezing|Weezing-Galar, L86, F|58/252
+|turn|11
+|
+|t:|1776983333
+|move|p1a: Lokix|Knock Off|p2a: Weezing
+|-resisted|p2a: Weezing
+|-damage|p2a: Weezing|0 fnt
+|-enditem|p2a: Weezing|Leftovers|[from] move: Knock Off|[of] p1a: Lokix
+|faint|p2a: Weezing
+|
+|upkeep
+|
+|t:|1776983341
+|switch|p2a: Zacian|Zacian-Crowned, L64|225/225
+|-ability|p2a: Zacian|Intrepid Sword|boost
+|-boost|p2a: Zacian|atk|1
+|turn|12
+|inactive|animejat has 120 seconds left.
+|inactive|ben12345 has 120 seconds left.
+|
+|t:|1776983364
+|switch|p1a: Pikachu|Pikachu-Unova, L93, F|130/216
+|move|p2a: Zacian|Swords Dance|p2a: Zacian
+|-boost|p2a: Zacian|atk|2
+|
+|upkeep
+|turn|13
+|inactive|animejat has 120 seconds left.
+|
+|t:|1776983389
+|move|p2a: Zacian|Behemoth Blade|p1a: Pikachu
+|-resisted|p1a: Pikachu
+|-damage|p1a: Pikachu|0 fnt
+|faint|p1a: Pikachu
+|
+|upkeep
+|inactive|ben12345 has 120 seconds left.
+|
+|t:|1776983406
+|switch|p1a: Dondozo|Dondozo, L78, F|354/362
+|turn|14
+|inactive|animejat has 120 seconds left.
+|inactive|animejat has 90 seconds left.
+|
+|t:|1776983459
+|move|p2a: Zacian|Play Rough|p1a: Dondozo
+|-damage|p1a: Dondozo|282/362
+|move|p1a: Dondozo|Wave Crash|p2a: Zacian
+|-damage|p2a: Zacian|104/225
+|-damage|p1a: Dondozo|242/362|[from] Recoil
+|
+|-heal|p1a: Dondozo|264/362|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1776983467
+|move|p2a: Zacian|Play Rough|p1a: Dondozo
+|-damage|p1a: Dondozo|191/362
+|move|p1a: Dondozo|Wave Crash|p2a: Zacian
+|-damage|p2a: Zacian|0 fnt
+|faint|p2a: Zacian
+|-damage|p1a: Dondozo|157/362|[from] Recoil
+|
+|-heal|p1a: Dondozo|179/362|[from] item: Leftovers
+|upkeep
+|
+|t:|1776983472
+|switch|p2a: Porygon-Z|Porygon-Z, L83|115/277
+|-ability|p2a: Porygon-Z|Download|boost
+|-boost|p2a: Porygon-Z|spa|1
+|turn|16
+|inactive|animejat has 90 seconds left.
+|
+|t:|1776983486
+|switch|p1a: Palkia|Palkia-Origin, L72|249/249
+|-ability|p1a: Palkia|Pressure
+|-terastallize|p2a: Porygon-Z|Electric
+|move|p2a: Porygon-Z|Thunderbolt|p1a: Palkia
+|-crit|p1a: Palkia
+|-damage|p1a: Palkia|0 fnt
+|faint|p1a: Palkia
+|-damage|p2a: Porygon-Z|88/277|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776983493
+|switch|p1a: Lokix|Lokix, L82, F|251/251
+|turn|17
+|
+|t:|1776983502
+|switch|p2a: Blissey|Blissey, L85, F|513/572
+|move|p1a: Lokix|First Impression|p2a: Blissey
+|-damage|p2a: Blissey|201/572
+|
+|-heal|p2a: Blissey|236/572|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1776983510
+|move|p1a: Lokix|Knock Off|p2a: Blissey
+|-damage|p2a: Blissey|0 fnt
+|-enditem|p2a: Blissey|Leftovers|[from] move: Knock Off|[of] p1a: Lokix
+|faint|p2a: Blissey
+|
+|upkeep
+|
+|t:|1776983516
+|switch|p2a: Porygon-Z|Porygon-Z, L83, tera:Electric|88/277
+|-ability|p2a: Porygon-Z|Download|boost
+|-boost|p2a: Porygon-Z|spa|1
+|turn|19
+|
+|t:|1776983527
+|switch|p1a: Dondozo|Dondozo, L78, F|179/362
+|move|p2a: Porygon-Z|Thunderbolt|p1a: Dondozo
+|-supereffective|p1a: Dondozo
+|-damage|p1a: Dondozo|0 fnt
+|faint|p1a: Dondozo
+|-damage|p2a: Porygon-Z|61/277|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1776983529
+|switch|p1a: Lokix|Lokix, L82, F|251/251
+|turn|20
+|inactive|animejat has 120 seconds left.
+|
+|t:|1776983540
+|move|p1a: Lokix|First Impression|p2a: Porygon-Z
+|-crit|p2a: Porygon-Z
+|-damage|p2a: Porygon-Z|0 fnt
+|faint|p2a: Porygon-Z
+|
+|win|ben12345
+|raw|ben12345's rating: 1483 &rarr; <strong>1505</strong><br />(+22 for winning)
+|raw|animejat's rating: 1516 &rarr; <strong>1494</strong><br />(-22 for losing)
+|l|☆animejat
+|player|p2|
+|j|☆animejat
+|player|p2|animejat|lucian|

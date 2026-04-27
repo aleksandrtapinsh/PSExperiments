@@ -1,0 +1,317 @@
+|j|☆Yabobo27
+|j|☆Keiraiscool
+|t:|1772748014
+|gametype|singles
+|player|p1|Yabobo27|clown|1000
+|player|p2|Keiraiscool|2|1012
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1772748014
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kricketune|Kricketune, L99, F|311/311
+|switch|p2a: Lugia|Lugia, L73|275/275
+|turn|1
+|
+|t:|1772748037
+|move|p2a: Lugia|Earth Power|p1a: Kricketune
+|-resisted|p1a: Kricketune
+|-damage|p1a: Kricketune|281/311
+|move|p1a: Kricketune|Taunt|p2a: Lugia
+|-start|p2a: Lugia|move: Taunt
+|
+|upkeep
+|turn|2
+|
+|t:|1772748057
+|move|p2a: Lugia|Aeroblast|p1a: Kricketune
+|-supereffective|p1a: Kricketune
+|-damage|p1a: Kricketune|75/311
+|move|p1a: Kricketune|Sticky Web|p2a: Lugia
+|-sidestart|p2: Keiraiscool|move: Sticky Web
+|
+|upkeep
+|turn|3
+|
+|t:|1772748076
+|switch|p1a: Deoxys|Deoxys-Defense, L84|221/221
+|-ability|p1a: Deoxys|Pressure
+|move|p2a: Lugia|Aeroblast|p1a: Deoxys
+|-damage|p1a: Deoxys|176/221
+|
+|-heal|p1a: Deoxys|189/221|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1772748089
+|move|p2a: Lugia|Earth Power|p1a: Deoxys
+|-damage|p1a: Deoxys|158/221
+|move|p1a: Deoxys|Spikes|p2a: Lugia
+|-sidestart|p2: Keiraiscool|Spikes
+|
+|-heal|p1a: Deoxys|171/221|[from] item: Leftovers
+|-end|p2a: Lugia|move: Taunt
+|upkeep
+|turn|5
+|
+|t:|1772748098
+|move|p2a: Lugia|Aeroblast|p1a: Deoxys
+|-damage|p1a: Deoxys|125/221
+|move|p1a: Deoxys|Spikes|p2a: Lugia
+|-sidestart|p2: Keiraiscool|Spikes
+|
+|-heal|p1a: Deoxys|138/221|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1772748115
+|move|p2a: Lugia|Calm Mind|p2a: Lugia
+|-boost|p2a: Lugia|spa|1
+|-boost|p2a: Lugia|spd|1
+|move|p1a: Deoxys|Spikes|p2a: Lugia
+|-sidestart|p2: Keiraiscool|Spikes
+|
+|-heal|p1a: Deoxys|151/221|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1772748132
+|move|p2a: Lugia|Aeroblast|p1a: Deoxys
+|-damage|p1a: Deoxys|84/221
+|move|p1a: Deoxys|Psychic Noise|p2a: Lugia
+|-resisted|p2a: Lugia
+|-damage|p2a: Lugia|268/275
+|-start|p2a: Lugia|move: Heal Block
+|
+|-heal|p1a: Deoxys|97/221|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1772748144
+|move|p2a: Lugia|Aeroblast|p1a: Deoxys
+|-damage|p1a: Deoxys|27/221
+|move|p1a: Deoxys|Recover|p1a: Deoxys
+|-heal|p1a: Deoxys|138/221
+|
+|-heal|p1a: Deoxys|151/221|[from] item: Leftovers
+|-end|p2a: Lugia|move: Heal Block
+|upkeep
+|turn|9
+|
+|t:|1772748159
+|move|p2a: Lugia|Earth Power|p1a: Deoxys
+|-damage|p1a: Deoxys|112/221
+|move|p1a: Deoxys|Knock Off|p2a: Lugia
+|-supereffective|p2a: Lugia
+|-damage|p2a: Lugia|168/275
+|-enditem|p2a: Lugia|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Deoxys
+|
+|-heal|p1a: Deoxys|125/221|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1772748168
+|move|p2a: Lugia|Earth Power|p1a: Deoxys
+|-damage|p1a: Deoxys|85/221
+|move|p1a: Deoxys|Recover|p1a: Deoxys
+|-heal|p1a: Deoxys|196/221
+|
+|-heal|p1a: Deoxys|209/221|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1772748177
+|move|p2a: Lugia|Recover|p2a: Lugia
+|-heal|p2a: Lugia|275/275
+|move|p1a: Deoxys|Knock Off|p2a: Lugia
+|-supereffective|p2a: Lugia
+|-damage|p2a: Lugia|244/275
+|
+|-heal|p1a: Deoxys|221/221|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1772748188
+|move|p2a: Lugia|Earth Power|p1a: Deoxys
+|-damage|p1a: Deoxys|182/221
+|move|p1a: Deoxys|Psychic Noise|p2a: Lugia
+|-resisted|p2a: Lugia
+|-damage|p2a: Lugia|228/275
+|-start|p2a: Lugia|move: Heal Block
+|
+|-heal|p1a: Deoxys|195/221|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1772748221
+|switch|p2a: Staraptor|Staraptor, L79, M|263/263
+|switch|p1a: Eternatus|Eternatus, L69|308/308
+|-ability|p1a: Eternatus|Pressure
+|
+|upkeep
+|turn|14
+|
+|t:|1772748248
+|move|p1a: Eternatus|Dynamax Cannon|p2a: Staraptor
+|-damage|p2a: Staraptor|131/263
+|move|p2a: Staraptor|Close Combat|p1a: Eternatus
+|-resisted|p1a: Eternatus
+|-damage|p1a: Eternatus|226/308
+|-unboost|p2a: Staraptor|def|1
+|-unboost|p2a: Staraptor|spd|1
+|
+|upkeep
+|turn|15
+|
+|t:|1772748264
+|-terastallize|p2a: Staraptor|Fighting
+|move|p1a: Eternatus|Meteor Beam||[still]
+|-prepare|p1a: Eternatus|Meteor Beam
+|-boost|p1a: Eternatus|spa|1
+|-enditem|p1a: Eternatus|Power Herb
+|-anim|p1a: Eternatus|Meteor Beam|p2a: Staraptor
+|-resisted|p2a: Staraptor
+|-damage|p2a: Staraptor|0 fnt
+|faint|p2a: Staraptor
+|
+|upkeep
+|
+|t:|1772748276
+|switch|p2a: Lugia|Lugia, L73|228/275
+|turn|16
+|
+|t:|1772748293
+|move|p1a: Eternatus|Dynamax Cannon|p2a: Lugia
+|-damage|p2a: Lugia|126/275
+|move|p2a: Lugia|Earth Power|p1a: Eternatus
+|-supereffective|p1a: Eternatus
+|-damage|p1a: Eternatus|116/308
+|
+|upkeep
+|turn|17
+|
+|t:|1772748308
+|-terastallize|p1a: Eternatus|Fire
+|move|p1a: Eternatus|Dynamax Cannon|p2a: Lugia
+|-damage|p2a: Lugia|12/275
+|move|p2a: Lugia|Recover|p2a: Lugia
+|-heal|p2a: Lugia|150/275
+|
+|upkeep
+|turn|18
+|
+|t:|1772748318
+|move|p1a: Eternatus|Dynamax Cannon|p2a: Lugia
+|-crit|p2a: Lugia
+|-damage|p2a: Lugia|0 fnt
+|faint|p2a: Lugia
+|
+|upkeep
+|
+|t:|1772748325
+|switch|p2a: Jirachi|Jirachi, L80|291/291
+|-activate|p2a: Jirachi|move: Sticky Web
+|-unboost|p2a: Jirachi|spe|1
+|-damage|p2a: Jirachi|219/291|[from] Spikes
+|turn|19
+|
+|t:|1772748339
+|move|p1a: Eternatus|Fire Blast|p2a: Jirachi
+|-supereffective|p2a: Jirachi
+|-damage|p2a: Jirachi|0 fnt
+|faint|p2a: Jirachi
+|
+|upkeep
+|
+|t:|1772748349
+|switch|p2a: Swalot|Swalot, L90, M|326/326
+|-activate|p2a: Swalot|move: Sticky Web
+|-unboost|p2a: Swalot|spe|1
+|-damage|p2a: Swalot|245/326|[from] Spikes
+|turn|20
+|
+|t:|1772748363
+|move|p1a: Eternatus|Dynamax Cannon|p2a: Swalot
+|-damage|p2a: Swalot|95/326
+|move|p2a: Swalot|Earthquake|p1a: Eternatus
+|-supereffective|p1a: Eternatus
+|-damage|p1a: Eternatus|0 fnt
+|faint|p1a: Eternatus
+|
+|-heal|p2a: Swalot|115/326|[from] item: Leftovers
+|upkeep
+|
+|t:|1772748379
+|switch|p1a: Venomoth|Venomoth, L84, F|255/255
+|turn|21
+|
+|t:|1772748384
+|move|p1a: Venomoth|Sleep Powder|p2a: Swalot
+|-status|p2a: Swalot|slp|[from] move: Sleep Powder
+|cant|p2a: Swalot|slp
+|
+|-heal|p2a: Swalot|135/326 slp|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1772748400
+|move|p1a: Venomoth|Quiver Dance|p1a: Venomoth
+|-boost|p1a: Venomoth|spa|1
+|-boost|p1a: Venomoth|spd|1
+|-boost|p1a: Venomoth|spe|1
+|cant|p2a: Swalot|slp
+|
+|-heal|p2a: Swalot|155/326 slp|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1772748416
+|move|p1a: Venomoth|Bug Buzz|p2a: Swalot
+|-resisted|p2a: Swalot
+|-damage|p2a: Swalot|23/326 slp
+|-curestatus|p2a: Swalot|slp|[msg]
+|move|p2a: Swalot|Gunk Shot|p1a: Venomoth
+|-resisted|p1a: Venomoth
+|-damage|p1a: Venomoth|171/255
+|
+|-heal|p2a: Swalot|43/326|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1772748428
+|move|p1a: Venomoth|Bug Buzz|p2a: Swalot
+|-resisted|p2a: Swalot
+|-damage|p2a: Swalot|0 fnt
+|faint|p2a: Swalot
+|
+|upkeep
+|
+|t:|1772748434
+|switch|p2a: Quagsire|Quagsire, L84, F|297/297
+|-activate|p2a: Quagsire|move: Sticky Web
+|-unboost|p2a: Quagsire|spe|1
+|-damage|p2a: Quagsire|223/297|[from] Spikes
+|turn|25
+|
+|t:|1772748445
+|move|p1a: Venomoth|Sleep Powder|p2a: Quagsire
+|-status|p2a: Quagsire|slp|[from] move: Sleep Powder
+|cant|p2a: Quagsire|slp
+|
+|-heal|p2a: Quagsire|241/297 slp|[from] item: Leftovers
+|upkeep
+|turn|26
+|-message|Keiraiscool forfeited.
+|
+|win|Yabobo27
+|raw|Yabobo27's rating: 1000 &rarr; <strong>1041</strong><br />(+41 for winning)
+|raw|Keiraiscool's rating: 1012 &rarr; <strong>1000</strong><br />(-12 for losing)
+|l|☆Keiraiscool
+|player|p2|

@@ -1,0 +1,240 @@
+|j|☆Xman13777
+|j|☆SteelixPrismGX
+|t:|1776979463
+|gametype|singles
+|player|p1|Xman13777|n|1930
+|player|p2|SteelixPrismGX|siebold|1882
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776979463
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Tyranitar|Tyranitar, L78, F|284/284
+|switch|p2a: Oinkologne|Oinkologne-F, L92, F|361/361
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Xman13777)
+|
+|t:|1776979472
+|move|p2a: Oinkologne|Curse|p2a: Oinkologne
+|-unboost|p2a: Oinkologne|spe|1
+|-boost|p2a: Oinkologne|atk|1
+|-boost|p2a: Oinkologne|def|1
+|move|p1a: Tyranitar|Knock Off|p2a: Oinkologne
+|-damage|p2a: Oinkologne|282/361
+|-enditem|p2a: Oinkologne|Leftovers|[from] move: Knock Off|[of] p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Oinkologne|260/361|[from] Sandstorm
+|upkeep
+|turn|2
+|
+|t:|1776979479
+|switch|p1a: Spidops|Spidops, L96, M|271/271
+|move|p2a: Oinkologne|High Horsepower|p1a: Spidops
+|-resisted|p1a: Spidops
+|-damage|p1a: Spidops|220/271
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Spidops|204/271|[from] Sandstorm
+|-damage|p2a: Oinkologne|238/361|[from] Sandstorm
+|upkeep
+|turn|3
+|
+|t:|1776979490
+|move|p1a: Spidops|Sticky Web|p2a: Oinkologne
+|-sidestart|p2: SteelixPrismGX|move: Sticky Web
+|move|p2a: Oinkologne|Double-Edge|p1a: Spidops
+|-damage|p1a: Spidops|29/271
+|-damage|p2a: Oinkologne|180/361|[from] Recoil
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Spidops|13/271|[from] Sandstorm
+|-damage|p2a: Oinkologne|158/361|[from] Sandstorm
+|upkeep
+|turn|4
+|
+|t:|1776979495
+|move|p1a: Spidops|Spikes|p2a: Oinkologne
+|-sidestart|p2: SteelixPrismGX|Spikes
+|move|p2a: Oinkologne|Lash Out|p1a: Spidops
+|-damage|p1a: Spidops|0 fnt
+|faint|p1a: Spidops
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Oinkologne|136/361|[from] Sandstorm
+|upkeep
+|
+|t:|1776979511
+|switch|p1a: Zangoose|Zangoose, L85, M|263/263
+|turn|5
+|
+|t:|1776979522
+|move|p1a: Zangoose|Swords Dance|p1a: Zangoose
+|-boost|p1a: Zangoose|atk|2
+|move|p2a: Oinkologne|Double-Edge|p1a: Zangoose
+|-damage|p1a: Zangoose|1/263
+|-damage|p2a: Oinkologne|50/361|[from] Recoil
+|
+|-weather|none
+|-status|p1a: Zangoose|tox|[from] item: Toxic Orb
+|upkeep
+|turn|6
+|
+|t:|1776979524
+|move|p1a: Zangoose|Quick Attack|p2a: Oinkologne
+|-damage|p2a: Oinkologne|0 fnt
+|faint|p2a: Oinkologne
+|
+|-damage|p1a: Zangoose|0 fnt|[from] psn
+|faint|p1a: Zangoose
+|upkeep
+|
+|t:|1776979532
+|switch|p1a: Tyranitar|Tyranitar, L78, F|284/284
+|switch|p2a: Deoxys|Deoxys, L74|196/196
+|-activate|p2a: Deoxys|move: Sticky Web
+|-unboost|p2a: Deoxys|spe|1
+|-damage|p2a: Deoxys|172/196|[from] Spikes
+|-ability|p2a: Deoxys|Pressure
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|7
+|
+|t:|1776979540
+|switch|p1a: Armarouge|Armarouge, L80, F|267/267
+|move|p2a: Deoxys|Superpower|p1a: Armarouge
+|-resisted|p1a: Armarouge
+|-damage|p1a: Armarouge|205/267
+|-unboost|p2a: Deoxys|atk|1
+|-unboost|p2a: Deoxys|def|1
+|-ability|p1a: Armarouge|Weak Armor|boost
+|-unboost|p1a: Armarouge|def|1
+|-boost|p1a: Armarouge|spe|2
+|-damage|p2a: Deoxys|153/196|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Armarouge|189/267|[from] Sandstorm
+|-damage|p2a: Deoxys|141/196|[from] Sandstorm
+|upkeep
+|turn|8
+|
+|t:|1776979548
+|switch|p2a: Vigoroth|Vigoroth, L85, M|275/275
+|-activate|p2a: Vigoroth|move: Sticky Web
+|-unboost|p2a: Vigoroth|spe|1
+|-damage|p2a: Vigoroth|241/275|[from] Spikes
+|move|p1a: Armarouge|Armor Cannon|p2a: Vigoroth
+|-damage|p2a: Vigoroth|49/275
+|-unboost|p1a: Armarouge|def|1
+|-unboost|p1a: Armarouge|spd|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Armarouge|173/267|[from] Sandstorm
+|-damage|p2a: Vigoroth|32/275|[from] Sandstorm
+|upkeep
+|turn|9
+|
+|t:|1776979555
+|move|p1a: Armarouge|Armor Cannon|p2a: Vigoroth
+|-damage|p2a: Vigoroth|0 fnt
+|-unboost|p1a: Armarouge|def|1
+|-unboost|p1a: Armarouge|spd|1
+|faint|p2a: Vigoroth
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Armarouge|157/267|[from] Sandstorm
+|upkeep
+|
+|t:|1776979567
+|switch|p2a: Rhyperior|Rhyperior, L82, F|323/323
+|-activate|p2a: Rhyperior|move: Sticky Web
+|-unboost|p2a: Rhyperior|spe|1
+|-damage|p2a: Rhyperior|283/323|[from] Spikes
+|turn|10
+|
+|t:|1776979571
+|switch|p1a: Glalie|Glalie, L96, M|309/309
+|move|p2a: Rhyperior|Rock Polish|p2a: Rhyperior
+|-boost|p2a: Rhyperior|spe|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Glalie|290/309|[from] Sandstorm
+|upkeep
+|turn|11
+|
+|t:|1776979577
+|move|p1a: Glalie|Taunt|p2a: Rhyperior
+|-start|p2a: Rhyperior|move: Taunt
+|cant|p2a: Rhyperior|move: Taunt|Rock Polish
+|
+|-weather|none
+|upkeep
+|turn|12
+|
+|t:|1776979591
+|move|p1a: Glalie|Freeze-Dry|p2a: Rhyperior
+|-supereffective|p2a: Rhyperior
+|-damage|p2a: Rhyperior|112/323
+|-enditem|p2a: Rhyperior|Weakness Policy
+|-boost|p2a: Rhyperior|atk|2|[from] item: Weakness Policy
+|-boost|p2a: Rhyperior|spa|2|[from] item: Weakness Policy
+|move|p2a: Rhyperior|Stone Edge|p1a: Glalie
+|-supereffective|p1a: Glalie
+|-damage|p1a: Glalie|0 fnt
+|faint|p1a: Glalie
+|
+|upkeep
+|
+|t:|1776979596
+|switch|p1a: Armarouge|Armarouge, L80, F|157/267
+|turn|13
+|
+|t:|1776979603
+|move|p2a: Rhyperior|Stone Edge|p1a: Armarouge
+|-supereffective|p1a: Armarouge
+|-damage|p1a: Armarouge|0 fnt
+|faint|p1a: Armarouge
+|
+|-end|p2a: Rhyperior|move: Taunt
+|upkeep
+|
+|t:|1776979607
+|switch|p1a: Revavroom|Revavroom, L79, M|256/256
+|turn|14
+|
+|t:|1776979613
+|-terastallize|p1a: Revavroom|Ground
+|move|p1a: Revavroom|Shift Gear|p1a: Revavroom
+|-boost|p1a: Revavroom|spe|2
+|-boost|p1a: Revavroom|atk|1
+|move|p2a: Rhyperior|Earthquake|p1a: Revavroom
+|-damage|p1a: Revavroom|0 fnt
+|faint|p1a: Revavroom
+|
+|upkeep
+|
+|t:|1776979617
+|switch|p1a: Tyranitar|Tyranitar, L78, F|284/284
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|15
+|c|☆SteelixPrismGX|gg
+|
+|t:|1776979620
+|-terastallize|p2a: Rhyperior|Ground
+|move|p2a: Rhyperior|Earthquake|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|
+|win|SteelixPrismGX
+|raw|Xman13777's rating: 1930 &rarr; <strong>1907</strong><br />(-23 for losing)
+|raw|SteelixPrismGX's rating: 1882 &rarr; <strong>1905</strong><br />(+23 for winning)
+|l|☆Xman13777
+|player|p1|

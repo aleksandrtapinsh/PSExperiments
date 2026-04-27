@@ -1,0 +1,183 @@
+|j|☆kirboamigo
+|j|☆fayte1010
+|t:|1776969441
+|gametype|singles
+|player|p1|kirboamigo|266|1201
+|player|p2|fayte1010|170|1252
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776969441
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Empoleon|Empoleon, L84, F|278/278
+|switch|p2a: Squawkabilly|Squawkabilly-Yellow, L89, F|291/291
+|turn|1
+|
+|t:|1776969464
+|move|p2a: Squawkabilly|Parting Shot|p1a: Empoleon
+|-unboost|p1a: Empoleon|atk|1
+|-ability|p1a: Empoleon|Competitive|boost
+|-boost|p1a: Empoleon|spa|2
+|-unboost|p1a: Empoleon|spa|1
+|-ability|p1a: Empoleon|Competitive|boost
+|-boost|p1a: Empoleon|spa|2
+|
+|t:|1776969478
+|switch|p2a: Ogerpon|Ogerpon-Cornerstone, L76, F|247/247|[from] Parting Shot
+|move|p1a: Empoleon|Ice Beam|p2a: Ogerpon
+|-supereffective|p2a: Ogerpon
+|-ability|p2a: Ogerpon|Sturdy
+|-damage|p2a: Ogerpon|1/247
+|
+|upkeep
+|turn|2
+|
+|t:|1776969489
+|move|p2a: Ogerpon|Superpower|p1a: Empoleon
+|-supereffective|p1a: Empoleon
+|-damage|p1a: Empoleon|82/278
+|-unboost|p2a: Ogerpon|atk|1
+|-unboost|p2a: Ogerpon|def|1
+|move|p1a: Empoleon|Surf|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|-heal|p1a: Empoleon|99/278|[from] item: Leftovers
+|upkeep
+|
+|t:|1776969493
+|switch|p2a: Gallade|Gallade, L80, M|240/240
+|turn|3
+|
+|t:|1776969507
+|-terastallize|p1a: Empoleon|Flying
+|move|p2a: Gallade|Sacred Sword|p1a: Empoleon
+|-resisted|p1a: Empoleon
+|-damage|p1a: Empoleon|2/278
+|-damage|p2a: Gallade|216/240|[from] item: Life Orb
+|move|p1a: Empoleon|Surf|p2a: Gallade
+|-damage|p2a: Gallade|11/240
+|
+|-heal|p1a: Empoleon|19/278|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1776969521
+|move|p2a: Gallade|Night Slash|p1a: Empoleon
+|-damage|p1a: Empoleon|0 fnt
+|faint|p1a: Empoleon
+|-damage|p2a: Gallade|0 fnt|[from] item: Life Orb
+|faint|p2a: Gallade
+|
+|upkeep
+|
+|t:|1776969537
+|switch|p2a: Squawkabilly|Squawkabilly-Yellow, L89, F|291/291
+|switch|p1a: Sudowoodo|Sudowoodo, L94, M|284/284
+|turn|5
+|
+|t:|1776969556
+|move|p2a: Squawkabilly|Parting Shot|p1a: Sudowoodo
+|-unboost|p1a: Sudowoodo|atk|1
+|-unboost|p1a: Sudowoodo|spa|1
+|
+|t:|1776969562
+|switch|p2a: Volcanion|Volcanion, L79|256/256|[from] Parting Shot
+|move|p1a: Sudowoodo|Head Smash|p2a: Volcanion
+|-supereffective|p2a: Volcanion
+|-damage|p2a: Volcanion|0 fnt
+|faint|p2a: Volcanion
+|
+|upkeep
+|
+|t:|1776969568
+|switch|p2a: Squawkabilly|Squawkabilly-Yellow, L89, F|291/291
+|turn|6
+|
+|t:|1776969571
+|move|p2a: Squawkabilly|Parting Shot|p1a: Sudowoodo
+|-unboost|p1a: Sudowoodo|atk|1
+|-unboost|p1a: Sudowoodo|spa|1
+|
+|t:|1776969575
+|switch|p2a: Rotom|Rotom-Fan, L86|226/226|[from] Parting Shot
+|move|p1a: Sudowoodo|Head Smash|p2a: Rotom
+|-supereffective|p2a: Rotom
+|-damage|p2a: Rotom|0 fnt
+|faint|p2a: Rotom
+|
+|upkeep
+|
+|t:|1776969582
+|switch|p2a: Squawkabilly|Squawkabilly-Yellow, L89, F|291/291
+|turn|7
+|
+|t:|1776969585
+|move|p2a: Squawkabilly|Parting Shot|p1a: Sudowoodo
+|-unboost|p1a: Sudowoodo|atk|1
+|-unboost|p1a: Sudowoodo|spa|1
+|
+|t:|1776969588
+|switch|p2a: Electivire|Electivire, L84, M|263/263|[from] Parting Shot
+|move|p1a: Sudowoodo|Head Smash|p2a: Electivire
+|-damage|p2a: Electivire|113/263
+|
+|upkeep
+|turn|8
+|
+|t:|1776969604
+|switch|p1a: Skarmory|Skarmory, L80, M|235/235
+|move|p2a: Electivire|Earthquake|p1a: Skarmory
+|-immune|p1a: Skarmory
+|
+|upkeep
+|turn|9
+|
+|t:|1776969613
+|-terastallize|p2a: Electivire|Electric
+|move|p2a: Electivire|Supercell Slam|p1a: Skarmory|[miss]
+|-miss|p2a: Electivire|p1a: Skarmory
+|-damage|p2a: Electivire|0 fnt|[from] supercellslam
+|faint|p2a: Electivire
+|move|p1a: Skarmory|Body Press|p2: Electivire|[notarget]
+|-fail|p1a: Skarmory
+|
+|upkeep
+|
+|t:|1776969618
+|switch|p2a: Squawkabilly|Squawkabilly-Yellow, L89, F|291/291
+|turn|10
+|
+|t:|1776969643
+|move|p2a: Squawkabilly|Brave Bird|p1a: Skarmory|[miss]
+|-miss|p2a: Squawkabilly|p1a: Skarmory
+|move|p1a: Skarmory|Brave Bird|p2a: Squawkabilly
+|-damage|p2a: Squawkabilly|140/291
+|-damage|p1a: Skarmory|185/235|[from] Recoil
+|
+|-heal|p1a: Skarmory|199/235|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1776969653
+|move|p2a: Squawkabilly|Brave Bird|p1a: Skarmory
+|-resisted|p1a: Skarmory
+|-damage|p1a: Skarmory|123/235
+|-damage|p2a: Squawkabilly|115/291|[from] Recoil
+|move|p1a: Skarmory|Brave Bird|p2a: Squawkabilly
+|-damage|p2a: Squawkabilly|0 fnt
+|faint|p2a: Squawkabilly
+|-damage|p1a: Skarmory|85/235|[from] Recoil
+|
+|win|kirboamigo
+|raw|kirboamigo's rating: 1201 &rarr; <strong>1230</strong><br />(+29 for winning)
+|raw|fayte1010's rating: 1252 &rarr; <strong>1223</strong><br />(-29 for losing)
+|l|☆fayte1010
+|player|p2|

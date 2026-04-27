@@ -1,0 +1,101 @@
+|j|‽LazyFern
+|j|☆ANOS_MAO
+|t:|1776970977
+|gametype|singles
+|player|p1|LazyFern|102|1381
+|player|p2|ANOS_MAO|101|1431
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776970977
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Rhyperior|Rhyperior, L82, F|323/323
+|switch|p2a: Greedent|Greedent, L86, F|347/347
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ANOS_MAO)
+|
+|t:|1776970985
+|move|p2a: Greedent|Swords Dance|p2a: Greedent
+|-boost|p2a: Greedent|atk|2
+|move|p1a: Rhyperior|Dragon Tail|p2a: Greedent
+|-damage|p2a: Greedent|295/347
+|drag|p2a: Blaziken|Blaziken, L76, F|247/247
+|
+|upkeep
+|turn|2
+|
+|t:|1776970998
+|move|p2a: Blaziken|Close Combat|p1a: Rhyperior
+|-supereffective|p1a: Rhyperior
+|-damage|p1a: Rhyperior|153/323
+|-unboost|p2a: Blaziken|def|1
+|-unboost|p2a: Blaziken|spd|1
+|-damage|p2a: Blaziken|223/247|[from] item: Life Orb
+|move|p1a: Rhyperior|Ice Punch|p2a: Blaziken
+|-resisted|p2a: Blaziken
+|-damage|p2a: Blaziken|153/247
+|-status|p2a: Blaziken|frz
+|
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|3
+|
+|t:|1776971008
+|-curestatus|p2a: Blaziken|frz|[msg]
+|move|p2a: Blaziken|Close Combat|p1a: Rhyperior
+|-supereffective|p1a: Rhyperior
+|-crit|p1a: Rhyperior
+|-damage|p1a: Rhyperior|0 fnt
+|-unboost|p2a: Blaziken|def|1
+|-unboost|p2a: Blaziken|spd|1
+|faint|p1a: Rhyperior
+|-damage|p2a: Blaziken|129/247|[from] item: Life Orb
+|
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|
+|t:|1776971023
+|switch|p1a: Gholdengo|Gholdengo, L77|261/261
+|turn|4
+|
+|t:|1776971032
+|-terastallize|p1a: Gholdengo|Ghost
+|move|p2a: Blaziken|Knock Off|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|87/261
+|-enditem|p1a: Gholdengo|Leftovers|[from] move: Knock Off|[of] p2a: Blaziken
+|-damage|p2a: Blaziken|105/247|[from] item: Life Orb
+|move|p1a: Gholdengo|Nasty Plot|p1a: Gholdengo
+|-boost|p1a: Gholdengo|spa|2
+|
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|5
+|
+|t:|1776971048
+|move|p2a: Blaziken|Knock Off|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|-damage|p2a: Blaziken|81/247|[from] item: Life Orb
+|
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|-message|LazyFern forfeited.
+|
+|win|ANOS_MAO
+|raw|LazyFern's rating: 1381 &rarr; <strong>1364</strong><br />(-17 for losing)
+|raw|ANOS_MAO's rating: 1431 &rarr; <strong>1448</strong><br />(+17 for winning)
+|l|‽LazyFern
+|player|p1|

@@ -1,0 +1,315 @@
+|j|☆Azubeast
+|j|☆krimi3
+|t:|1776984471
+|gametype|singles
+|player|p1|Azubeast|2|1121
+|player|p2|krimi3|pokemonrangerf-gen4|1173
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776984471
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Plusle|Plusle, L95, F|268/268
+|switch|p2a: Clawitzer|Clawitzer, L87, F|265/265
+|turn|1
+|
+|t:|1776984498
+|switch|p2a: Kommo-o|Kommo-o, L78, F|245/245
+|move|p1a: Plusle|Grass Knot|p2a: Kommo-o
+|-resisted|p2a: Kommo-o
+|-damage|p2a: Kommo-o|206/245
+|-damage|p1a: Plusle|242/268|[from] item: Life Orb
+|
+|upkeep
+|turn|2
+|
+|t:|1776984519
+|switch|p1a: Gyarados|Gyarados, L79, M|280/280
+|move|p2a: Kommo-o|Clangorous Soul|p2a: Kommo-o
+|-boost|p2a: Kommo-o|atk|1
+|-boost|p2a: Kommo-o|def|1
+|-boost|p2a: Kommo-o|spa|1
+|-boost|p2a: Kommo-o|spd|1
+|-boost|p2a: Kommo-o|spe|1
+|-damage|p2a: Kommo-o|126/245
+|-enditem|p2a: Kommo-o|Throat Spray
+|-boost|p2a: Kommo-o|spa|1|[from] item: Throat Spray
+|
+|upkeep
+|turn|3
+|
+|t:|1776984551
+|move|p2a: Kommo-o|Boomburst|p1a: Gyarados
+|-damage|p1a: Gyarados|120/280
+|move|p1a: Gyarados|Earthquake|p2a: Kommo-o
+|-damage|p2a: Kommo-o|86/245
+|
+|upkeep
+|turn|4
+|
+|t:|1776984568
+|switch|p1a: Mismagius|Mismagius, L86, F|243/243
+|move|p2a: Kommo-o|Boomburst|p1a: Mismagius
+|-immune|p1a: Mismagius
+|
+|upkeep
+|turn|5
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Azubeast)
+|
+|t:|1776984598
+|-terastallize|p2a: Kommo-o|Normal
+|move|p2a: Kommo-o|Clanging Scales|p1a: Mismagius
+|-damage|p1a: Mismagius|71/243
+|-unboost|p2a: Kommo-o|def|1
+|move|p1a: Mismagius|Shadow Ball|p2a: Kommo-o
+|-immune|p2a: Kommo-o
+|
+|-heal|p1a: Mismagius|86/243|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1776984612
+|move|p2a: Kommo-o|Clanging Scales|p1a: Mismagius
+|-damage|p1a: Mismagius|0 fnt
+|faint|p1a: Mismagius
+|-unboost|p2a: Kommo-o|def|1
+|
+|upkeep
+|
+|t:|1776984628
+|switch|p1a: Regigigas|Regigigas, L84|322/322
+|-start|p1a: Regigigas|ability: Slow Start
+|turn|7
+|
+|t:|1776984640
+|move|p2a: Kommo-o|Drain Punch|p1a: Regigigas
+|-supereffective|p1a: Regigigas
+|-damage|p1a: Regigigas|134/322
+|-heal|p2a: Kommo-o|180/245|[from] drain|[of] p1a: Regigigas
+|move|p1a: Regigigas|Body Slam|p2a: Kommo-o
+|-damage|p2a: Kommo-o|95/245
+|
+|-heal|p1a: Regigigas|154/322|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1776984654
+|-terastallize|p1a: Regigigas|Ghost
+|move|p2a: Kommo-o|Drain Punch|p1a: Regigigas
+|-immune|p1a: Regigigas
+|move|p1a: Regigigas|Knock Off|p2a: Kommo-o
+|-damage|p2a: Kommo-o|55/245
+|
+|-heal|p1a: Regigigas|174/322|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1776984671
+|move|p2a: Kommo-o|Clanging Scales|p1a: Regigigas
+|-damage|p1a: Regigigas|2/322
+|-unboost|p2a: Kommo-o|def|1
+|move|p1a: Regigigas|Body Slam|p2a: Kommo-o
+|-crit|p2a: Kommo-o
+|-damage|p2a: Kommo-o|0 fnt
+|faint|p2a: Kommo-o
+|
+|-heal|p1a: Regigigas|22/322|[from] item: Leftovers
+|upkeep
+|c|☆krimi3|lives on 1%...
+|
+|t:|1776984697
+|switch|p2a: Delphox|Delphox, L84, F|263/263
+|turn|10
+|inactive|krimi3 has 120 seconds left.
+|
+|t:|1776984720
+|move|p2a: Delphox|Grass Knot|p1a: Regigigas
+|-damage|p1a: Regigigas|0 fnt
+|faint|p1a: Regigigas
+|-end|p1a: Regigigas|Slow Start|[silent]
+|
+|upkeep
+|
+|t:|1776984737
+|switch|p1a: Vaporeon|Vaporeon, L86, F|364/364
+|turn|11
+|inactive|krimi3 has 120 seconds left.
+|
+|t:|1776984770
+|switch|p2a: Chansey|Chansey, L85, F|564/564
+|move|p1a: Vaporeon|Flip Turn|p2a: Chansey
+|-damage|p2a: Chansey|455/564
+|
+|t:|1776984781
+|switch|p1a: Gyarados|Gyarados, L79, M|120/280|[from] Flip Turn
+|
+|upkeep
+|turn|12
+|
+|t:|1776984793
+|move|p1a: Gyarados|Waterfall|p2a: Chansey
+|-damage|p2a: Chansey|238/564
+|move|p2a: Chansey|Thunder Wave|p1a: Gyarados
+|-status|p1a: Gyarados|par
+|
+|upkeep
+|turn|13
+|
+|t:|1776984803
+|move|p2a: Chansey|Soft-Boiled|p2a: Chansey
+|-heal|p2a: Chansey|520/564
+|move|p1a: Gyarados|Dragon Dance|p1a: Gyarados
+|-boost|p1a: Gyarados|atk|1
+|-boost|p1a: Gyarados|spe|1
+|
+|upkeep
+|turn|14
+|inactive|krimi3 has 120 seconds left.
+|
+|t:|1776984814
+|move|p2a: Chansey|Seismic Toss|p1a: Gyarados
+|-damage|p1a: Gyarados|35/280 par
+|move|p1a: Gyarados|Dragon Dance|p1a: Gyarados
+|-boost|p1a: Gyarados|atk|1
+|-boost|p1a: Gyarados|spe|1
+|
+|upkeep
+|turn|15
+|inactive|krimi3 has 120 seconds left.
+|
+|t:|1776984822
+|move|p1a: Gyarados|Waterfall|p2a: Chansey
+|-damage|p2a: Chansey|76/564
+|cant|p2a: Chansey|flinch
+|
+|upkeep
+|turn|16
+|inactive|krimi3 has 120 seconds left.
+|
+|t:|1776984840
+|move|p1a: Gyarados|Temper Flare|p2a: Chansey
+|-crit|p2a: Chansey
+|-damage|p2a: Chansey|0 fnt
+|faint|p2a: Chansey
+|-ability|p1a: Gyarados|Moxie|boost
+|-boost|p1a: Gyarados|atk|1
+|
+|upkeep
+|
+|t:|1776984864
+|switch|p2a: Salamence|Salamence, L77, F|273/273
+|-ability|p2a: Salamence|Intimidate|boost
+|-unboost|p1a: Gyarados|atk|1
+|turn|17
+|
+|t:|1776984878
+|move|p2a: Salamence|Dual Wingbeat|p1a: Gyarados
+|-damage|p1a: Gyarados|0 fnt
+|faint|p1a: Gyarados
+|-hitcount|p1: Gyarados|1
+|
+|upkeep
+|
+|t:|1776984888
+|switch|p1a: Plusle|Plusle, L95, F|242/268
+|turn|18
+|
+|t:|1776984901
+|move|p1a: Plusle|Thunderbolt|p2a: Salamence
+|-damage|p2a: Salamence|94/273
+|-damage|p1a: Plusle|216/268|[from] item: Life Orb
+|move|p2a: Salamence|Earthquake|p1a: Plusle
+|-supereffective|p1a: Plusle
+|-damage|p1a: Plusle|0 fnt
+|faint|p1a: Plusle
+|
+|upkeep
+|
+|t:|1776984914
+|switch|p1a: Necrozma|Necrozma-Dusk-Mane, L69|248/248
+|turn|19
+|inactive|krimi3 has 120 seconds left.
+|
+|t:|1776984933
+|move|p2a: Salamence|Earthquake|p1a: Necrozma
+|-supereffective|p1a: Necrozma
+|-damage|p1a: Necrozma|151/248
+|-enditem|p1a: Necrozma|Weakness Policy
+|-boost|p1a: Necrozma|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Necrozma|spa|2|[from] item: Weakness Policy
+|move|p1a: Necrozma|Dragon Dance|p1a: Necrozma
+|-boost|p1a: Necrozma|atk|1
+|-boost|p1a: Necrozma|spe|1
+|
+|upkeep
+|turn|20
+|
+|t:|1776984944
+|move|p1a: Necrozma|Sunsteel Strike|p2a: Salamence
+|-damage|p2a: Salamence|0 fnt
+|faint|p2a: Salamence
+|
+|upkeep
+|
+|t:|1776984961
+|switch|p2a: Delphox|Delphox, L84, F|263/263
+|turn|21
+|
+|t:|1776984967
+|move|p2a: Delphox|Fire Blast|p1a: Necrozma|[miss]
+|-miss|p2a: Delphox|p1a: Necrozma
+|move|p1a: Necrozma|Earthquake|p2a: Delphox
+|-supereffective|p2a: Delphox
+|-damage|p2a: Delphox|0 fnt
+|faint|p2a: Delphox
+|
+|upkeep
+|c|☆krimi3|bro
+|c|☆krimi3|what is my luck this game are we so deadass
+|
+|t:|1776984986
+|switch|p2a: Enamorus|Enamorus, L79, F|247/247
+|turn|22
+|
+|t:|1776984996
+|move|p1a: Necrozma|Sunsteel Strike|p2a: Enamorus
+|-supereffective|p2a: Enamorus
+|-damage|p2a: Enamorus|0 fnt
+|faint|p2a: Enamorus
+|
+|upkeep
+|
+|t:|1776985002
+|switch|p2a: Clawitzer|Clawitzer, L87, F|265/265
+|turn|23
+|c|☆krimi3|gg
+|inactive|Azubeast has 120 seconds left.
+|
+|t:|1776985037
+|move|p1a: Necrozma|Earthquake|p2a: Clawitzer
+|-damage|p2a: Clawitzer|95/265
+|move|p2a: Clawitzer|Aura Sphere|p1a: Necrozma
+|-damage|p1a: Necrozma|36/248
+|
+|upkeep
+|turn|24
+|inactive|krimi3 has 120 seconds left.
+|inactive|Azubeast has 120 seconds left.
+|
+|t:|1776985067
+|move|p1a: Necrozma|Earthquake|p2a: Clawitzer
+|-damage|p2a: Clawitzer|0 fnt
+|faint|p2a: Clawitzer
+|
+|win|Azubeast
+|raw|Azubeast's rating: 1121 &rarr; <strong>1150</strong><br />(+29 for winning)
+|raw|krimi3's rating: 1173 &rarr; <strong>1144</strong><br />(-29 for losing)
+|l|☆Azubeast
+|player|p1|

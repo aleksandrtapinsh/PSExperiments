@@ -1,0 +1,93 @@
+|j|☆VTnatanael
+|j|☆havingissuecall988
+|t:|1776971129
+|gametype|singles
+|player|p1|VTnatanael|2|1013
+|player|p2|havingissuecall988|gambler|1000
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1776971129
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Spiritomb|Spiritomb, L89, M|234/234
+|switch|p2a: Lilligant|Lilligant-Hisui, L79, F|240/240
+|turn|1
+|
+|t:|1776971170
+|move|p2a: Lilligant|Victory Dance|p2a: Lilligant
+|-boost|p2a: Lilligant|atk|1
+|-boost|p2a: Lilligant|def|1
+|-boost|p2a: Lilligant|spe|1
+|move|p1a: Spiritomb|Poltergeist|p2a: Lilligant
+|-activate|p2a: Lilligant|move: Poltergeist|Wide Lens
+|-damage|p2a: Lilligant|131/240
+|
+|upkeep
+|turn|2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by VTnatanael)
+|inactiveoff|Battle timer is now OFF.
+|
+|t:|1776971183
+|move|p2a: Lilligant|Sleep Powder|p1a: Spiritomb|[miss]
+|-miss|p2a: Lilligant|p1a: Spiritomb
+|move|p1a: Spiritomb|Poltergeist|p2a: Lilligant
+|-activate|p2a: Lilligant|move: Poltergeist|Wide Lens
+|-damage|p2a: Lilligant|31/240
+|
+|upkeep
+|turn|3
+|
+|t:|1776971191
+|move|p2a: Lilligant|Sleep Powder|p1a: Spiritomb
+|-status|p1a: Spiritomb|slp|[from] move: Sleep Powder
+|cant|p1a: Spiritomb|slp
+|
+|upkeep
+|turn|4
+|
+|t:|1776971211
+|switch|p1a: Delibird|Delibird, F|252/252
+|move|p2a: Lilligant|Victory Dance|p2a: Lilligant
+|-boost|p2a: Lilligant|atk|1
+|-boost|p2a: Lilligant|def|1
+|-boost|p2a: Lilligant|spe|1
+|
+|upkeep
+|turn|5
+|
+|t:|1776971219
+|move|p2a: Lilligant|Close Combat|p1a: Delibird
+|-damage|p1a: Delibird|0 fnt
+|-unboost|p2a: Lilligant|def|1
+|-unboost|p2a: Lilligant|spd|1
+|faint|p1a: Delibird
+|
+|upkeep
+|
+|t:|1776971228
+|switch|p1a: Iron Treads|Iron Treads, L77|265/265
+|turn|6
+|
+|t:|1776971233
+|move|p2a: Lilligant|Close Combat|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|0 fnt
+|-unboost|p2a: Lilligant|def|1
+|-unboost|p2a: Lilligant|spd|1
+|faint|p1a: Iron Treads
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|-message|VTnatanael forfeited by changing their name.
+|l| vtnatanael
+|
+|win|havingissuecall988
+|raw|VTnatanael's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|raw|havingissuecall988's rating: 1000 &rarr; <strong>1040</strong><br />(+40 for winning)
