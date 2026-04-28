@@ -305,6 +305,7 @@ plt.xlabel('Epoch')
 plt.ylabel('Accuracy')
 plt.legend()
 plt.title('Move Model Accuracy')
+plt.savefig(BASE / "graphs/moveModel.png")
 plt.show()
 
 evaluate_model(move_model, move_states, move_masks, move_actions, "Move Model")
@@ -327,6 +328,7 @@ print("\nConfusion Matrix:")
 cm = confusion_matrix(y_test_move, y_pred_move, labels=rf_move.classes_)
 disp = ConfusionMatrixDisplay(confusion_matrix=cm)
 disp.plot()
+plt.savefig(BASE / "graphs/rfMoveModel.png")
 plt.show()
 
 # Save random forest move model
@@ -368,6 +370,7 @@ if len(switch_actions) > 0:
     plt.ylabel('Accuracy')
     plt.legend()
     plt.title('Switch Model Accuracy')
+    plt.savefig(BASE / "graphs/switchModel.png")
     plt.show()
     evaluate_model(switch_model, switch_states, switch_masks, switch_actions, "Switch Model")
     switch_model.save(str(MODEL_DIR / "switch_model.keras"))
@@ -392,6 +395,7 @@ print("\nConfusion Matrix:")
 cm = confusion_matrix(y_test_switch, y_pred_switch, labels=rf_switch.classes_)
 disp = ConfusionMatrixDisplay(confusion_matrix=cm)
 disp.plot()
+plt.savefig(BASE / "graphs/rfSwitchModel.png")
 plt.show()
 
 # Save random forest switch model
